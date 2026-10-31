@@ -25,7 +25,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Kabinett_Wirth_I"
 ---
 
-20 października 1921 roku [Rada Ambasadorów](https://pl.wikipedia.org/wiki/Rada_Ambasadorów) w Paryżu zatwierdziła podział Górnego Śląska między Polskę i Niemcy, przygotowany przez Radę [Ligi Narodów](https://pl.wikipedia.org/wiki/Liga_Narodów), i przekazała decyzję przedstawicielom obu rządów. Polska otrzymała mniejszą część obszaru plebiscytowego, ale tę, na której zależało jej najbardziej: większość okręgu przemysłowego wokół Katowic, z większością kopalń i hut. Pół roku po [przegranym plebiscycie](/plebiscyt-na-gornym-slasku) i kilka miesięcy po [trzecim powstaniu](/wybuch-trzeciego-powstania-slaskiego) spór o Górny Śląsk zakończył się rozstrzygnięciem znacznie korzystniejszym dla Polski, niż jeszcze wiosną się spodziewano.
+20 października 1921 roku [Rada Ambasadorów](https://pl.wikipedia.org/wiki/Rada_Ambasadorów) w Paryżu zatwierdziła podział Górnego Śląska między Polskę i Niemcy, przygotowany przez Radę [Ligi Narodów](/slownik/liga-narodow), i przekazała decyzję przedstawicielom obu rządów. Polska otrzymała mniejszą część obszaru plebiscytowego, ale tę, na której zależało jej najbardziej: większość okręgu przemysłowego wokół Katowic, z większością kopalń i hut. Pół roku po [przegranym plebiscycie](/plebiscyt-na-gornym-slasku) i kilka miesięcy po [trzecim powstaniu](/wybuch-trzeciego-powstania-slaskiego) spór o Górny Śląsk zakończył się rozstrzygnięciem znacznie korzystniejszym dla Polski, niż jeszcze wiosną się spodziewano.
 
 ## Spór mocarstw
 

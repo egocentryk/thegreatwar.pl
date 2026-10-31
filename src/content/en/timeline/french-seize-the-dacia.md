@@ -2,10 +2,10 @@
 title: French seize the Dacia
 summary: On 27 February 1915 the French auxiliary cruiser Europe stopped the American steamer Dacia with cotton at the mouth of the Channel and took her to Brest.
 source: francuzi-zajmuja-dacie
-sourceHash: 87f81e9cae439cfa545b14350f028384d73e0dda
+sourceHash: 4483ee9ae1d433b76ea0ac8ec2a8c4de59034b1f
 ---
 
-On 27 February 1915 the French [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) *Europe* stopped, at the western entrance to the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), the steamer *Dacia*, sailing under the American flag with a cargo of cotton. The ship was taken to [Brest](https://pl.wikipedia.org/wiki/Brest), where she awaited the decision of a French prize court. Some sources give the date as 28 February, but American diplomatic documents and the British chronology of the war point to 27 February.
+On 27 February 1915 the French [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Europe* stopped, at the western entrance to the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), the steamer *Dacia*, sailing under the American flag with a cargo of cotton. The ship was taken to [Brest](https://pl.wikipedia.org/wiki/Brest), where she awaited the decision of a French prize court. Some sources give the date as 28 February, but American diplomatic documents and the British chronology of the war point to 27 February.
 
 ## End of the voyage
 

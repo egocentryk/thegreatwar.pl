@@ -9,14 +9,14 @@ sides:
     commanders: [Paraschiv Vasilescu]
 result: Central Powers victory. The Romanian 1st Division and the 17th Division sent to its aid were routed, and the German 9th Army emerged from the mountains onto the Oltenian plain.
 source: druga-bitwa-nad-jiu
-sourceHash: c932aabbb6f0d1f600cefba07bceb83dbb5e31ad
+sourceHash: 6c7e20f21c02fd82793b4d0c17d7a3a7386fccce
 ---
 
 The Second Battle of the Jiu decided the fate of western Wallachia. Throughout October 1916 the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) tried in vain to cross the passes of the [Southern Carpathians](https://pl.wikipedia.org/wiki/Karpaty_Południowe). In November it therefore concentrated its forces on the westernmost sector of the front, in the valley of the river [Jiu](https://pl.wikipedia.org/wiki/Jiu). From 11 November General Viktor Kühne's German LIV Corps fought its way out of the mountains, on 15 November it entered [Târgu Jiu](https://pl.wikipedia.org/wiki/Târgu_Jiu), and on 17 November, in the foothills south of the town, it routed the last Romanian divisions barring its way. From there German cavalry and infantry moved out onto the plain of [Oltenia](https://pl.wikipedia.org/wiki/Oltenia), and the whole Romanian defence of the Carpathians began to crumble.
 
 ## Name and dates
 
-Romanian historians, among them Constantin Kirițescu, call this fighting the Second Battle of the Jiu, to distinguish it from the first, in October, which the Romanians won. In the Austrian official history ("Österreich-Ungarns letzter Krieg") it is called the Battle of Târgu Jiu. The sketch map attached to that volume covers the days from 11 to 17 November 1916, and the text divides them into the fight to break out of the mountains (11–14 November) and the Battle of Târgu Jiu proper (15–17 November). We adopt this framework. The first date is the day Kühne's corps launched its general attack, the second the day of the decision in the foothills. The English Wikipedia starts the battle as early as 7 November, with local fighting for the peaks west of the valley. Romania then kept time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), so in Romanian documents the battle lasted from 29 October to 4 November.
+Romanian historians, among them Constantin Kirițescu, call this fighting the Second Battle of the Jiu, to distinguish it from the first, in October, which the Romanians won. In the Austrian official history ("Österreich-Ungarns letzter Krieg") it is called the Battle of Târgu Jiu. The sketch map attached to that volume covers the days from 11 to 17 November 1916, and the text divides them into the fight to break out of the mountains (11–14 November) and the Battle of Târgu Jiu proper (15–17 November). We adopt this framework. The first date is the day Kühne's corps launched its general attack, the second the day of the decision in the foothills. The English Wikipedia starts the battle as early as 7 November, with local fighting for the peaks west of the valley. Romania then kept time by the [Julian calendar](/slownik/kalendarz-julianski), so in Romanian documents the battle lasted from 29 October to 4 November.
 
 ## Background
 

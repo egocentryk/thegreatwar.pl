@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-3 września 1917 roku (21 sierpnia według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), obowiązującego wtedy w Rumunii) dowódca niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), generał piechoty Johannes von Eben, rozkazał obu swoim korpusom wstrzymać natarcia i umocnić zdobyte linie na stałe. Tego samego dnia identyczny rozkaz wydał dowódca rumuńskiej 1 Armii, generał Eremia Grigorescu. Po prawie miesiącu walk między Seretem a górami Vrancei front zamarł. Ostatnie dni bitwy toczyły się już nie pod samym [Mărășești](https://pl.wikipedia.org/wiki/Mărășești), lecz kilkanaście kilometrów dalej na zachód, na wzgórzach wokół wsi Muncelu, Varnița i Irești, i to tam padły ostatnie strzały tej kampanii.
+3 września 1917 roku (21 sierpnia według [kalendarza juliańskiego](/slownik/kalendarz-julianski), obowiązującego wtedy w Rumunii) dowódca niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), generał piechoty Johannes von Eben, rozkazał obu swoim korpusom wstrzymać natarcia i umocnić zdobyte linie na stałe. Tego samego dnia identyczny rozkaz wydał dowódca rumuńskiej 1 Armii, generał Eremia Grigorescu. Po prawie miesiącu walk między Seretem a górami Vrancei front zamarł. Ostatnie dni bitwy toczyły się już nie pod samym [Mărășești](https://pl.wikipedia.org/wiki/Mărășești), lecz kilkanaście kilometrów dalej na zachód, na wzgórzach wokół wsi Muncelu, Varnița i Irești, i to tam padły ostatnie strzały tej kampanii.
 
 ## Ostatnie natarcie
 

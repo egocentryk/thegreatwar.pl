@@ -54,6 +54,6 @@ Po południu dowódca 2 Brygady chciał jeszcze zdobyć resztę Zielonej Linii, 
 
 ## Bilans dnia
 
-Wzgórze 70 było w rękach kanadyjskich. Kosztowało to według kanadyjskiej historii oficjalnej 1056 zabitych, 2432 rannych i 39 wziętych do niewoli. Strat niemieckich nie znamy, ale były ciężkie, a do 21.00 Kanadyjczycy policzyli około 350 jeńców. Haig zapisał w dzienniku, że natarcie poszło „bardzo dobrze”, a Horne nazwał je „bezwarunkowym sukcesem”. Wśród odznaczonych tego dnia był noszowy 7 Batalionu, szeregowiec Michael O'Rourke, który przez trzy dni pod ogniem wynosił rannych i dostał za to [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+Wzgórze 70 było w rękach kanadyjskich. Kosztowało to według kanadyjskiej historii oficjalnej 1056 zabitych, 2432 rannych i 39 wziętych do niewoli. Strat niemieckich nie znamy, ale były ciężkie, a do 21.00 Kanadyjczycy policzyli około 350 jeńców. Haig zapisał w dzienniku, że natarcie poszło „bardzo dobrze”, a Horne nazwał je „bezwarunkowym sukcesem”. Wśród odznaczonych tego dnia był noszowy 7 Batalionu, szeregowiec Michael O'Rourke, który przez trzy dni pod ogniem wynosił rannych i dostał za to [Krzyż Wiktorii](/slownik/krzyz-wiktorii).
 
 Walka o wzgórze dopiero się zaczynała. Następnego dnia Kanadyjczycy zdobyli resztę Zielonej Linii z kamieniołomem, a do 18 sierpnia odparli według Curriego 21 niemieckich kontrataków, prowadzonych także z miotaczami ognia i pod osłoną nowego gazu, iperytu. Wzgórza 70 Niemcy już nie odzyskali.

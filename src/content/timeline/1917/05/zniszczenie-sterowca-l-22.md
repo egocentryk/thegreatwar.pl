@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-O świcie 14 maja 1917 roku nad [Morzem Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), w pobliżu holenderskiej wyspy [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), spadł w płomieniach niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) marynarki L 22. Zginęła cała załoga, 21 ludzi z dowódcą, kapitanlejtnantem Ulrichem Lehmannem. Brytyjska chronologia wojny zapisuje, że sterowiec zniszczyły brytyjskie okręty. Tak było rok wcześniej z [L 7](/zniszczenie-sterowca-l-7), ale L 22 zestrzelił samolot: dwusilnikowa [łódź latająca](https://pl.wikipedia.org/wiki/Łódź_latająca) Curtiss H.12 „Large America” z bazy lotnictwa marynarki w [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). Zgodnie podają to brytyjska historia oficjalna wojny powietrznej H. A. Jonesa i późniejsze opracowania.
+O świcie 14 maja 1917 roku nad [Morzem Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), w pobliżu holenderskiej wyspy [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), spadł w płomieniach niemiecki [sterowiec](/slownik/sterowiec) marynarki L 22. Zginęła cała załoga, 21 ludzi z dowódcą, kapitanlejtnantem Ulrichem Lehmannem. Brytyjska chronologia wojny zapisuje, że sterowiec zniszczyły brytyjskie okręty. Tak było rok wcześniej z [L 7](/zniszczenie-sterowca-l-7), ale L 22 zestrzelił samolot: dwusilnikowa [łódź latająca](https://pl.wikipedia.org/wiki/Łódź_latająca) Curtiss H.12 „Large America” z bazy lotnictwa marynarki w [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). Zgodnie podają to brytyjska historia oficjalna wojny powietrznej H. A. Jonesa i późniejsze opracowania.
 
 ## Polowanie na podsłuch
 

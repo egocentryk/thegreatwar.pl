@@ -59,7 +59,7 @@ W nocy Beves rozkazał brygadzie nigeryjskiej natrzeć o świcie, ale rozkaz odw
 
 Downes podaje, że Brytyjczycy stracili pod Mahiwą 2700 zabitych i rannych z 4900 żołnierzy piechoty, którzy wzięli udział w walce: kolumna nr III liczyła 1500 ludzi, kolumna nr IV 1700, a brygada nigeryjska 1750. Liczbę tę przyjmuje większość późniejszych opracowań. Sama brygada nigeryjska straciła według Downesa 528 ludzi, w tym 38 Europejczyków. Szacunki z tamtych dni były różne: Clifford pisał o około 2000 zabitych i rannych po stronie brytyjskiej i 800 po niemieckiej, a Lettow-Vorbeck przytaczał opinię wysokiego brytyjskiego oficera, który mówił o 1500, co uważał za liczbę stanowczo zaniżoną.
 
-Według Lettow-Vorbecka Niemcy stracili 14 Europejczyków i 81 [askarysów](https://pl.wikipedia.org/wiki/Askarysi) zabitych, 55 Europejczyków i 367 askarysów rannych oraz dwóch zaginionych, razem 519 ludzi. Zdobyli działo, dziewięć karabinów maszynowych i około 200 tysięcy naboi.
+Według Lettow-Vorbecka Niemcy stracili 14 Europejczyków i 81 [askarysów](/slownik/askarysi) zabitych, 55 Europejczyków i 367 askarysów rannych oraz dwóch zaginionych, razem 519 ludzi. Zdobyli działo, dziewięć karabinów maszynowych i około 200 tysięcy naboi.
 
 ## Znaczenie
 

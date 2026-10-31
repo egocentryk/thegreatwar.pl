@@ -2,10 +2,10 @@
 title: Allied Blockade Committee
 summary: In March 1918 Britain, France, Italy and the United States set up the Allied Blockade Committee in London to coordinate policy towards the neutrals.
 source: sojuszniczy-komitet-blokady
-sourceHash: a36a3f0dae15ac53eb53e092d78bfe64419d67cd
+sourceHash: 7232792c63c57a76b7ae42676611d23fe4e15a45
 ---
 
-On 20 March 1918 Louis P. Sheldon, the representative of the American War Trade Board in London, informed Washington that representatives of Great Britain, France, Italy and the United States had met at the Foreign Office to facilitate the exchange of views on matters of [blockade](https://pl.wikipedia.org/wiki/Blokada_morska). They had decided to meet regularly once a week and to constitute themselves as the Allied Blockade Committee under the chairmanship of Leverton Harris, parliamentary secretary of the British Ministry of Blockade. The British chronology of the war records the setting up of the committee under 20 March, the date of this report. According to the committee's minutes, cited by the editors of the American collection of diplomatic documents *Foreign Relations of the United States*, the first meeting had, however, already taken place on 15 March.
+On 20 March 1918 Louis P. Sheldon, the representative of the American War Trade Board in London, informed Washington that representatives of Great Britain, France, Italy and the United States had met at the Foreign Office to facilitate the exchange of views on matters of [blockade](/slownik/blokada). They had decided to meet regularly once a week and to constitute themselves as the Allied Blockade Committee under the chairmanship of Leverton Harris, parliamentary secretary of the British Ministry of Blockade. The British chronology of the war records the setting up of the committee under 20 March, the date of this report. According to the committee's minutes, cited by the editors of the American collection of diplomatic documents *Foreign Relations of the United States*, the first meeting had, however, already taken place on 15 March.
 
 ## One blockade instead of two
 

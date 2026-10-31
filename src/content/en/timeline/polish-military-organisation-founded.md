@@ -2,10 +2,10 @@
 title: Polish Military Organisation founded
 summary: On 22 October 1914 Piłsudski's envoy Tadeusz Żuliński took command of the riflemen's underground in Warsaw and named it the Polish Military Organisation.
 source: powstanie-polskiej-organizacji-wojskowej
-sourceHash: 789ab7a19c04b58f29931798c95ba8069277d969
+sourceHash: 3d8ec98c148aac3447bf003f23b5867dcf09e287
 ---
 
-On 22 October 1914 in Warsaw, Second Lieutenant [Tadeusz Żuliński](https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński), the envoy of [Józef Piłsudski](/postacie/jozef-pilsudski), took command of the riflemen's underground that had been active since August and gave it the name [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) (POW). This date is taken as the beginning of the POW, an organisation that for the next four years was Piłsudski's base in the Russian partition and in November 1918 became one of the main forces taking power from the occupiers.
+On 22 October 1914 in Warsaw, Second Lieutenant [Tadeusz Żuliński](https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński), the envoy of [Józef Piłsudski](/postacie/jozef-pilsudski), took command of the riflemen's underground that had been active since August and gave it the name [Polish Military Organisation](/slownik/pow) (POW). This date is taken as the beginning of the POW, an organisation that for the next four years was Piłsudski's base in the Russian partition and in November 1918 became one of the main forces taking power from the occupiers.
 
 ## Riflemen cut off from Kraków
 

@@ -29,7 +29,7 @@ Nota zaczynała się od twierdzenia, że rząd niemiecki ma pewne wiadomości o 
 
 Następnie Niemcy składały cztery deklaracje. Jeśli Belgia zachowa wobec nich „życzliwą neutralność”, po zawarciu pokoju zagwarantują jej posiadłości i niepodległość w pełnym zakresie. Po zawarciu pokoju opuszczą jej terytorium. Za wszystko, czego będą potrzebowały ich wojska, zapłacą gotówką i wynagrodzą wszelkie szkody. Jeśli jednak Belgia stawi opór, zwłaszcza broniąc fortec nad Mozą albo niszcząc koleje, drogi, tunele i inne budowle, zostanie uznana za wroga, a o dalszych stosunkach obu państw „rozstrzygnie oręż”.
 
-Żądanie było pretekstem. Francja zapewniła Belgię 1 sierpnia, że uszanuje jej neutralność, a marsz przez Belgię od lat był podstawą niemieckiego [planu wojennego](https://pl.wikipedia.org/wiki/Plan_Schlieffena). Prusy były jednym z gwarantów belgijskiej neutralności na mocy [traktatu londyńskiego z 1839 roku](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)).
+Żądanie było pretekstem. Francja zapewniła Belgię 1 sierpnia, że uszanuje jej neutralność, a marsz przez Belgię od lat był podstawą niemieckiego [planu wojennego](/slownik/plan-schlieffena). Prusy były jednym z gwarantów belgijskiej neutralności na mocy [traktatu londyńskiego z 1839 roku](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)).
 
 ## Pierwsza reakcja
 

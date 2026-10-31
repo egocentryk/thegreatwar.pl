@@ -2,10 +2,10 @@
 title: Germans take Craiova
 summary: On 21 November 1916 German cavalry and infantry entered Craiova, the capital of Oltenia, unopposed. The Romanians gave up the city with large stocks of flour.
 source: niemcy-zdobywaja-krajowe
-sourceHash: 6454f96a5c313978aae0c7da0e18b3d7e6f3a7d6
+sourceHash: c7ae5f79f81a8dd5de552c7d541dd9923b81a239
 ---
 
-On 21 November 1916 troops of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn)'s German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) occupied [Craiova](https://pl.wikipedia.org/wiki/Krajowa), the capital of [Oltenia](https://pl.wikipedia.org/wiki/Oltenia), the western part of [Wallachia](https://pl.wikipedia.org/wiki/Wołoszczyzna) between the Carpathians, the Danube and the river [Olt](https://pl.wikipedia.org/wiki/Aluta). According to the Austrian official history, the German 6th Cavalry Division of General Eberhard von Schmettow's corps rode into the city from the west, and the 41st Infantry Division of General Viktor Kühne's LIV Corps entered it from the north. The Romanians did not defend the city. In Romania, which reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 8 November.
+On 21 November 1916 troops of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn)'s German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) occupied [Craiova](https://pl.wikipedia.org/wiki/Krajowa), the capital of [Oltenia](https://pl.wikipedia.org/wiki/Oltenia), the western part of [Wallachia](https://pl.wikipedia.org/wiki/Wołoszczyzna) between the Carpathians, the Danube and the river [Olt](https://pl.wikipedia.org/wiki/Aluta). According to the Austrian official history, the German 6th Cavalry Division of General Eberhard von Schmettow's corps rode into the city from the west, and the 41st Infantry Division of General Viktor Kühne's LIV Corps entered it from the north. The Romanians did not defend the city. In Romania, which reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), it was 8 November.
 
 ## Pursuit through Oltenia
 

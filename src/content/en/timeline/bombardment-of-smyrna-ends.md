@@ -2,7 +2,7 @@
 title: Bombardment of Smyrna ends
 summary: On 9 March 1915 an envoy of the governor of Smyrna came to the British admiral. The shelling stopped and a truce was agreed until the morning of 11 March.
 source: koniec-bombardowania-smyrny
-sourceHash: 47dbe0389246608c5c39a855031d30ae6fe7a725
+sourceHash: 04c6794bd11cbf3f6d6f2ad9511c39e9ac298011
 ---
 
 On 9 March 1915 the British bombardment of the fortifications of [Smyrna](https://pl.wikipedia.org/wiki/Izmir), [begun four days earlier](/poczatek-bombardowania-smyrny), came to an end. In the afternoon a boat under a white flag came out to the ships of Vice-Admiral Richard Peirse carrying an envoy of the Turkish governor, the vali. The admiral presented his terms, and the two sides agreed a [truce](https://pl.wikipedia.org/wiki/Rozejm) until 10 a.m. on 11 March. The guns in the gulf fell silent.
@@ -13,7 +13,7 @@ From 6 March the bombardment went much worse than the British had expected. When
 
 On 7 March *Triumph* destroyed a field battery near Chiflik, but many guns remained undetected. The broken ground and poor light made them hard to spot, and the [seaplanes](https://pl.wikipedia.org/wiki/Wodnosamolot) could not help because of bad weather and engine failures. On 8 March, when *Triumph* hit one of the guns on Paleo Tabia, all three heavy batteries suddenly returned fire, as if they had never been shelled at all. The Turks, however, fired inaccurately and fell silent after half an hour. In the evening Peirse reported to the Admiralty that after four days the only certain result was the destruction of one heavy gun and four field guns. The experience was the same as at the Dardanelles: the defenders sat out the bombardment in shelters, and the ships could not come closer until the minefields had been cleared.
 
-On the night of 8–9 March the minesweepers made a determined attempt. The battleships repeatedly put out the Turkish searchlights, and the boats managed to clear a passage to within about 3 kilometres of the Yeni Kale fort. It cost, however, the loss of the trawler *Okino*, which struck a [mine](https://pl.wikipedia.org/wiki/Mina_morska) and sank within a few minutes. Only a few men survived, including the skipper, and ten members of the crew were killed. According to Turkish accounts, the next day the sea washed wreckage of the trawler and sailors' caps ashore.
+On the night of 8–9 March the minesweepers made a determined attempt. The battleships repeatedly put out the Turkish searchlights, and the boats managed to clear a passage to within about 3 kilometres of the Yeni Kale fort. It cost, however, the loss of the trawler *Okino*, which struck a [mine](/slownik/mina-morska) and sank within a few minutes. Only a few men survived, including the skipper, and ten members of the crew were killed. According to Turkish accounts, the next day the sea washed wreckage of the trawler and sailors' caps ashore.
 
 ## Talks under a white flag
 

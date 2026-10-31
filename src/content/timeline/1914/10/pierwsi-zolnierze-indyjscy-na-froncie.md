@@ -27,6 +27,6 @@ Rano 23 października 129 Pułk Beludżów zluzował jedną z brygad kawalerii, 
 
 ## Pod ogniem
 
-26 października 57 Pułk i Connaught Rangers wzięli udział w natarciu kawalerii w stronę Oosttaverne i zdobyli pierwszą linię niemieckich okopów. Kilka dni później, 30 i 31 października, nadeszło wielkie uderzenie niemieckie na grzbiet Messines i Hollebeke. 57 Pułk stracił w dwóch ostatnich dniach października około 300 z 750 ludzi, a 129 Pułk Beludżów około 240. 31 października pod Hollebeke sipaj Khudadad Khan z 129 Pułku jako pierwszy żołnierz armii indyjskiej zasłużył na [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+26 października 57 Pułk i Connaught Rangers wzięli udział w natarciu kawalerii w stronę Oosttaverne i zdobyli pierwszą linię niemieckich okopów. Kilka dni później, 30 i 31 października, nadeszło wielkie uderzenie niemieckie na grzbiet Messines i Hollebeke. 57 Pułk stracił w dwóch ostatnich dniach października około 300 z 750 ludzi, a 129 Pułk Beludżów około 240. 31 października pod Hollebeke sipaj Khudadad Khan z 129 Pułku jako pierwszy żołnierz armii indyjskiej zasłużył na [Krzyż Wiktorii](/slownik/krzyz-wiktorii).
 
 Pod koniec października do Flandrii dotarła druga dywizja korpusu, Meerut, a obie dywizje pod dowództwem generała Jamesa Willcocksa przejęły odcinek frontu pod La Bassée i Neuve-Chapelle. W pierwszej zimie wojny żołnierze z Indii w dużej mierze wypełnili lukę po wykrwawionych batalionach starej armii brytyjskiej.

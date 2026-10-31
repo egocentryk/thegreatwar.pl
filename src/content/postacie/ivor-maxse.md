@@ -60,7 +60,7 @@ Do Niemców był nieprzejednany. W czasie rozmów o rozejmie pisał, że chcą p
 
 ## Po wojnie
 
-W 1919 roku dowodził IX Korpusem w Armii Renu, a w latach 1919–1923 Dowództwem Północnym w Anglii. W 1923 roku awansował na generała, a w 1926 roku przeszedł w stan spoczynku. Wzbudził kontrowersje, mówiąc na jednym z przyjęć, że woli ligę czołgów od [Ligi Narodów](https://pl.wikipedia.org/wiki/Liga_Narodów). Na emeryturze w Sussex założył przedsiębiorstwo sadownicze. Zmarł 28 stycznia 1958 roku w domu opieki koło Midhurst.
+W 1919 roku dowodził IX Korpusem w Armii Renu, a w latach 1919–1923 Dowództwem Północnym w Anglii. W 1923 roku awansował na generała, a w 1926 roku przeszedł w stan spoczynku. Wzbudził kontrowersje, mówiąc na jednym z przyjęć, że woli ligę czołgów od [Ligi Narodów](/slownik/liga-narodow). Na emeryturze w Sussex założył przedsiębiorstwo sadownicze. Zmarł 28 stycznia 1958 roku w domu opieki koło Midhurst.
 
 ## Ocena
 

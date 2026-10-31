@@ -9,7 +9,7 @@ sides:
     commanders: [Franz Conrad von Hötzendorf, Alexander von Linsingen, Archduke Joseph Ferdinand, Eduard von Böhm-Ermolli, Felix von Bothmer, Karl von Pflanzer-Baltin]
 result: Russian victory. The Austro-Hungarian front was broken in Volhynia and Bukovina, and the Russians recovered Lutsk, Czernowitz and Bukovina. They did not reach their operational objectives, Kovel and Lviv.
 source: ofensywa-brusilowa
-sourceHash: 7cbfd6488e8bca091e0f79fc2a4738aaee8b76a1
+sourceHash: bfa724aad8dd5d44167609b05311d4a7a8742cad
 brief:
   - "On 4 June 1916 the four armies of General Aleksei Brusilov's South-Western Front struck simultaneously from Volhynia to Bukovina. It was the greatest victory of the Russian army in the First World War."
   - "The offensive was meant only as a subsidiary blow supporting the attack of Evert's Western Front. The Austrian offensive at Asiago brought the date forward, as the Italians begged the Russians for quick help."
@@ -24,7 +24,7 @@ The Brusilov offensive was the greatest victory of the Russian army in the First
 
 Russians at the time spoke of the "Lutsk breakthrough" (Lutsky proryv), after the town near which the army won its greatest success. The name "Brusilov breakthrough" (Brusilovsky proryv) became established later in Soviet historiography. German and Austrian literature speaks of the Brusilov offensive (Brussilow-Offensive), and describes the first days of fighting as the battles of [Olyka](https://pl.wikipedia.org/wiki/Ołyka) and Lutsk, of Okna and of [Jazłowiec](https://pl.wikipedia.org/wiki/Jazłowiec).
 
-Russia then used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), 13 days behind. According to Russian documents the offensive therefore began on 22 May, not 4 June. On this page all dates are given according to the Gregorian calendar.
+Russia then used the [Julian calendar](/slownik/kalendarz-julianski), 13 days behind. According to Russian documents the offensive therefore began on 22 May, not 4 June. On this page all dates are given according to the Gregorian calendar.
 
 The beginning is not in doubt; the end is harder. The British chronology of the war, on which our timeline is based, ends the "Brusilov offensive" at approximately 17 August 1916, when the attacks on Kovel collapsed. Russian and Soviet historiography usually takes 20 September (7 September by the Julian calendar), after a failed attack on Kovel from the south. The Austrian official history also describes Brusilov's autumn attacks, the last of which died away in mid-October. On this page we take the dates 4 June – 20 September 1916, and treat the later fighting as its epilogue.
 

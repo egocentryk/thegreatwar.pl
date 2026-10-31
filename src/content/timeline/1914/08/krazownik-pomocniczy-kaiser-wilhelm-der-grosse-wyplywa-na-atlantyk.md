@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-4 sierpnia 1914 roku z [Bremerhaven](https://pl.wikipedia.org/wiki/Bremerhaven) wypłynął na wojenny rejs [Kaiser Wilhelm der Grosse](https://pl.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Große). Jeszcze niedawno był to luksusowy liniowiec pasażerski towarzystwa [Norddeutscher Lloyd](https://pl.wikipedia.org/wiki/Norddeutscher_Lloyd), zbudowany w 1897 roku i przez pewien czas najszybszy statek na Atlantyku. Na początku wojny marynarka niemiecka przejęła go i uzbroiła w działa, przekształcając w [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy).
+4 sierpnia 1914 roku z [Bremerhaven](https://pl.wikipedia.org/wiki/Bremerhaven) wypłynął na wojenny rejs [Kaiser Wilhelm der Grosse](https://pl.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Große). Jeszcze niedawno był to luksusowy liniowiec pasażerski towarzystwa [Norddeutscher Lloyd](https://pl.wikipedia.org/wiki/Norddeutscher_Lloyd), zbudowany w 1897 roku i przez pewien czas najszybszy statek na Atlantyku. Na początku wojny marynarka niemiecka przejęła go i uzbroiła w działa, przekształcając w [krążownik pomocniczy](/slownik/krazownik-pomocniczy).
 
 Zadaniem takich okrętów była wojna handlowa, czyli atakowanie nieprzyjacielskich statków handlowych na szlakach oceanicznych. Duże, szybkie liniowce nadawały się do tego dobrze: miały duży zasięg, mogły zabierać zapasy węgla i dogonić większość statków handlowych. Niemcy liczyły, że rajdy na Atlantyku zakłócą brytyjski handel i zmuszą Royal Navy do rozproszenia sił.
 

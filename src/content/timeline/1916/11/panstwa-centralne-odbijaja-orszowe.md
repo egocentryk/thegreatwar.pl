@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-13 listopada 1916 roku, po trzech dniach zaciętych walk, także ulicznych, rumuńscy obrońcy opuścili [Orszowę](https://pl.wikipedia.org/wiki/Orszowa). To węgierskie miasto portowe nad Dunajem leżało na zachodnim brzegu rzeki Cerny, przy jej ujściu, tuż powyżej przełomu [Żelaznej Bramy](https://pl.wikipedia.org/wiki/Żelazna_Brama). Rumuni cofnęli się na wschodni brzeg Cerny, a Orszowa, którą [zajęli na początku września](/rumuni-zajmuja-orszowe), po ponad dwóch miesiącach wróciła w ręce Austro-Węgier. Tak opisują te wydarzenia austriacka historia oficjalna i rumuński historyk Constantin Kirițescu. Brytyjska chronologia wojny podaje datę 22 listopada, kiedy Rumuni opuścili również pozycje za Cerną. W Rumunii, liczącej czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), 13 listopada był 31 października.
+13 listopada 1916 roku, po trzech dniach zaciętych walk, także ulicznych, rumuńscy obrońcy opuścili [Orszowę](https://pl.wikipedia.org/wiki/Orszowa). To węgierskie miasto portowe nad Dunajem leżało na zachodnim brzegu rzeki Cerny, przy jej ujściu, tuż powyżej przełomu [Żelaznej Bramy](https://pl.wikipedia.org/wiki/Żelazna_Brama). Rumuni cofnęli się na wschodni brzeg Cerny, a Orszowa, którą [zajęli na początku września](/rumuni-zajmuja-orszowe), po ponad dwóch miesiącach wróciła w ręce Austro-Węgier. Tak opisują te wydarzenia austriacka historia oficjalna i rumuński historyk Constantin Kirițescu. Brytyjska chronologia wojny podaje datę 22 listopada, kiedy Rumuni opuścili również pozycje za Cerną. W Rumunii, liczącej czas według [kalendarza juliańskiego](/slownik/kalendarz-julianski), 13 listopada był 31 października.
 
 ## Dwie nieudane próby
 

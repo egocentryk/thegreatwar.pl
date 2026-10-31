@@ -2,10 +2,10 @@
 title: Möwe sails on her second cruise
 summary: On 23 November 1916 the raider Möwe set out on her second cruise, to break through the British blockade into the Atlantic again. It was her most successful.
 source: mowe-wyplywa-w-drugi-rejs
-sourceHash: a6c1bbb7b9760d12a2015845a154802ca7f6300b
+sourceHash: f5a567132b3c749438b97afd78f6b3355d135a60
 ---
 
-On 23 November 1916 the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) [*Möwe*](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)) set out on her second cruise into the Atlantic. She was again commanded by Korvettenkapitän [Nikolaus zu Dohna-Schlodien](https://pl.wikipedia.org/wiki/Nikolaus_zu_Dohna-Schlodien), the hero of the [first expedition at the turn of 1915 and 1916](/mowe-wraca-z-pierwszego-rejsu). The date of 23 November is given by most lists. The British official history of the war at sea and German studies, however, write that *Möwe* slipped out into the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) as early as 22 November, while the British chronology of the war places her departure from [Kiel](https://pl.wikipedia.org/wiki/Kilonia) only under 26 November. For many days the British did not know that the ship was already at sea.
+On 23 November 1916 the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) [*Möwe*](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)) set out on her second cruise into the Atlantic. She was again commanded by Korvettenkapitän [Nikolaus zu Dohna-Schlodien](https://pl.wikipedia.org/wiki/Nikolaus_zu_Dohna-Schlodien), the hero of the [first expedition at the turn of 1915 and 1916](/mowe-wraca-z-pierwszego-rejsu). The date of 23 November is given by most lists. The British official history of the war at sea and German studies, however, write that *Möwe* slipped out into the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) as early as 22 November, while the British chronology of the war places her departure from [Kiel](https://pl.wikipedia.org/wiki/Kilonia) only under 26 November. For many days the British did not know that the ship was already at sea.
 
 ## Three raiders against shipping
 

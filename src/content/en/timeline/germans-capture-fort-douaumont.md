@@ -2,7 +2,7 @@
 title: Germans capture Fort Douaumont
 summary: On 25 February 1916 a few dozen Brandenburgers walked without a shot into Fort Douaumont, the largest fort of Verdun, held by a handful of Frenchmen.
 source: niemcy-zdobywaja-fort-douaumont
-sourceHash: 4500e318b19cefa5fde6e8643ab5a0f7b5b0c451
+sourceHash: 85071652ab4168f16a5bee388af67b80d6571b50
 ---
 
 On 25 February 1916, the fifth day of the [battle of Verdun](/poczatek-bitwy-pod-verdun), soldiers of the Brandenburg 24th Infantry Regiment entered Fort Douaumont, the largest and highest-lying fort in the ring of fortifications around [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). The stronghold, which the Germans regarded as one of the strongest in the world, fell without a single shot, because it was defended by only about sixty French soldiers, sheltering from the bombardment in its underground galleries. In Germany the news was received as a great victory, in France as a shock. That same day, however, the French command decided to defend the right bank of the [Meuse](/miejsca/moza), and that night General [Philippe Pétain](/postacie/philippe-petain) took over the defence of Verdun.
@@ -21,7 +21,7 @@ The first into the fort was a pioneer sergeant, Kunze, with his section. The Ger
 
 ## A hero from a report
 
-Before Brandis reached the fort, he sent a report that Douaumont was "firmly in our hands". On its way through successive headquarters it turned into the message that the fort was "firmly in the hands of Lieutenant von Brandis". On 26 February the German war communiqué announced the capture of the "armoured fort of Douaumont" by the Brandenburg 24th Infantry Regiment. Germany celebrated, and according to many accounts church bells were rung in some places and children were let off school. Brandis and Haupt received the highest Prussian military decoration, the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), and Brandis became the "hero of Douaumont" written about in the press. Radtke and Kunze received nothing. Only after the war, when veterans of Radtke's company protested loudly, did the German Reich Archives acknowledge that Radtke had been the first officer in the fort. Historians, among them Alistair Horne and German Werth, later showed that the capture of the fort was a stroke of luck rather than a heroic assault.
+Before Brandis reached the fort, he sent a report that Douaumont was "firmly in our hands". On its way through successive headquarters it turned into the message that the fort was "firmly in the hands of Lieutenant von Brandis". On 26 February the German war communiqué announced the capture of the "armoured fort of Douaumont" by the Brandenburg 24th Infantry Regiment. Germany celebrated, and according to many accounts church bells were rung in some places and children were let off school. Brandis and Haupt received the highest Prussian military decoration, the [Pour le Mérite](/slownik/pour-le-merite), and Brandis became the "hero of Douaumont" written about in the press. Radtke and Kunze received nothing. Only after the war, when veterans of Radtke's company protested loudly, did the German Reich Archives acknowledge that Radtke had been the first officer in the fort. Historians, among them Alistair Horne and German Werth, later showed that the capture of the fort was a stroke of luck rather than a heroic assault.
 
 ## Castelnau and Pétain
 

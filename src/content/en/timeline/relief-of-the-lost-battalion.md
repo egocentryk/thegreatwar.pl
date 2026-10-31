@@ -2,7 +2,7 @@
 title: Relief of the Lost Battalion
 summary: On the evening of 7 October 1918 the 307th Infantry broke through to Major Whittlesey's men, trapped in the Argonne. Of about 550 soldiers, 194 walked out.
 source: odsiecz-dla-zaginionego-batalionu
-sourceHash: 7c9c9e19c3208d46acfb7bcf77d18b1962b5b978
+sourceHash: 7fc55163df21dd3e97259ec0dba0408193e23bba
 ---
 
 On the evening of 7 October 1918 soldiers of the American 307th Infantry reached the slope in the Charlevaux ravine in the [Argonne](https://pl.wikipedia.org/wiki/Argonny) where Major Charles Whittlesey's [surrounded force](/zaginiony-batalion-okrazony-w-argonnach) of the 77th Division had been holding out for five days. Hungry, exhausted and thinned out, the men the press had called the "Lost Battalion" had rejected a German call to surrender that same day. On the morning of 8 October those who could walk came down out of the ravine to the rear. According to the most often quoted figure, there were 194 of them.
@@ -19,7 +19,7 @@ On the morning of 7 October nine soldiers slipped away without orders to fetch t
 
 ## The relief
 
-That same day the situation was reversed. The 28th and 82nd Divisions attacked from the east, out of the Aire valley towards Châtel-Chéhéry, into the rear of the German positions in the Argonne, while the 77th Division renewed its frontal attacks. The Germans began to give way. In the evening they attacked the trapped men one last time, now also with [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia), but were driven off. Soon afterwards soldiers of the 307th Infantry came onto the slope with food and ammunition. On the morning of 8 October the divisional commander, General Robert Alexander, came to see the relieved men.
+That same day the situation was reversed. The 28th and 82nd Divisions attacked from the east, out of the Aire valley towards Châtel-Chéhéry, into the rear of the German positions in the Argonne, while the 77th Division renewed its frontal attacks. The Germans began to give way. In the evening they attacked the trapped men one last time, now also with [flamethrowers](/slownik/miotacz-ognia), but were driven off. Soon afterwards soldiers of the 307th Infantry came onto the slope with food and ammunition. On the morning of 8 October the divisional commander, General Robert Alexander, came to see the relieved men.
 
 ## The toll
 

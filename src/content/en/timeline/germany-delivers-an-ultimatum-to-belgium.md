@@ -2,7 +2,7 @@
 title: Germany delivers an ultimatum to Belgium
 summary: On the evening of 2 August 1914 Germany demanded that Belgium allow its troops to pass through, giving it 12 hours to reply.
 source: niemcy-stawiaja-belgii-ultimatum
-sourceHash: 67ae37cd75e8bf24c0ce5e5cf42fefc980def4bf
+sourceHash: 7f0c3788f65d9f38f2dfbc44620385777f9c11cf
 ---
 
 At 7 p.m. Belgian time on 2 August 1914 the German Minister in [Brussels](https://pl.wikipedia.org/wiki/Bruksela), Claus von Below-Saleske, handed the Belgian Foreign Minister, Julien Davignon, a "very confidential" note. [Germany](/kraje/niemcy) demanded that [Belgium](/kraje/belgia) let its troops pass through Belgian territory. It gave twelve hours for a reply.
@@ -19,7 +19,7 @@ The note began by asserting that the German government had reliable information 
 
 Germany then made four declarations. If Belgium maintained "an attitude of friendly neutrality" towards it, at the conclusion of peace Germany would guarantee its possessions and independence in full. On the conclusion of peace it would evacuate Belgian territory. It would pay cash for everything its troops needed and make good any damage. If, however, Belgium resisted, in particular by defending the fortresses on the Meuse or destroying railways, roads, tunnels or other works, it would be treated as an enemy, and the future relations of the two states would be "left to the decision of arms".
 
-The demand rested on a pretext. France had assured Belgium on 1 August that it would respect its neutrality, and a march through Belgium had for years been the basis of the German [war plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena). Prussia was one of the guarantors of Belgian neutrality under the [Treaty of London of 1839](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)).
+The demand rested on a pretext. France had assured Belgium on 1 August that it would respect its neutrality, and a march through Belgium had for years been the basis of the German [war plan](/slownik/plan-schlieffena). Prussia was one of the guarantors of Belgian neutrality under the [Treaty of London of 1839](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)).
 
 ## The first reaction
 

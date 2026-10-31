@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Suwałki (Kingdom of Poland)
 deathPlace: London
 source: aleksandra-szczerbinska
-sourceHash: 6c43da2d787d7ee2515ed19668090f6f68adcf75
+sourceHash: 7cea2ab24ecb22ca93a79c55ce4d93419d25c84a
 ---
 
 Aleksandra Szczerbińska, "Ola" in the underground, belonged to a generation of women who did the same work in the independence movement as men: they carried weapons and illegal literature, gathered intelligence and sat in prisons. In the years of the 1905 revolution she was a PPS fighter, before the war she was active in the Riflemen's movement, and in 1914 she took charge of the women's intelligence and courier unit of the First Brigade of the Legions. Her couriers carried reports, orders and weapons across the front line. For her work in the Polish Military Organisation the Germans imprisoned her in 1915–1916. From 1906 she was bound up with [Józef Piłsudski](/postacie/jozef-pilsudski), with whom she had a daughter in 1918 and whom she married in 1921. As Aleksandra Piłsudska she later became known for her social work.
@@ -21,7 +21,7 @@ In the [PPS Combat Organisation](https://pl.wikipedia.org/wiki/Organizacja_Bojow
 
 On 1 August 1914 she reported to the Riflemen's command in Lviv and helped to train volunteers. On Piłsudski's orders she went to Kraków on 4 August, and from there to Kielce, which the Riflemen had taken on 12 August. From August she served in the intelligence section of the 1st Regiment of the Legions, and from December in the First Brigade. After the Legions withdrew from Kielce on 30 October 1914 she took over, from Kazimierz Sawicki, command of the women's intelligence and courier unit. According to Marta Sikorska-Kowalska, 46 women served in it, many of them with experience from the Riflemen's Association.
 
-The couriers crossed the front into the Kingdom of Poland, gathered information on Russian troop movements, carried out propaganda and transported weapons and reports of the Warsaw [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), the underground subordinate to Piłsudski. Szczerbińska coordinated the work of couriers and agents, assigned tasks, organised intelligence missions and kept the unit's funds. In the spring of 1915, on 25 March according to the Józef Piłsudski Museum in Sulejówek, in April according to other accounts, the Austrian military authorities disbanded the unit. Szczerbińska wanted to join the sappers, but Piłsudski refused, and her couriers went on carrying the Commandant's orders.
+The couriers crossed the front into the Kingdom of Poland, gathered information on Russian troop movements, carried out propaganda and transported weapons and reports of the Warsaw [Polish Military Organisation](/slownik/pow), the underground subordinate to Piłsudski. Szczerbińska coordinated the work of couriers and agents, assigned tasks, organised intelligence missions and kept the unit's funds. In the spring of 1915, on 25 March according to the Józef Piłsudski Museum in Sulejówek, in April according to other accounts, the Austrian military authorities disbanded the unit. Szczerbińska wanted to join the sappers, but Piłsudski refused, and her couriers went on carrying the Commandant's orders.
 
 ## In a German prison
 

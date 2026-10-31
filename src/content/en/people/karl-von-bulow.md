@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Berlin
 deathPlace: Berlin
 source: karl-von-bulow
-sourceHash: 128e2fb0720e4238402fdfe2eb3dfa2bae788f59
+sourceHash: 9a42bc596d2794916995f260d0dc1c3f34407f29
 ---
 
 In 1914 Karl von Bülow commanded the German 2nd Army, which together with the 1st Army of [Alexander von Kluck](/postacie/alexander-von-kluck) formed the striking right wing of the German forces in the west. His troops took Liège and Namur, defeated the French Fifth Army on the Sambre and at Guise, and in early September crossed the Marne. Yet it was Bülow who on 9 September, after a conversation with an envoy of the Supreme Army Command, was the first to order the retreat that ended the Battle of the Marne and wrecked the German plan for a quick victory. For years he was regarded as one of the main culprits of that defeat. Six months later a serious illness ended his career.
@@ -39,7 +39,7 @@ On 8 September the Guard and the Saxons launched a dawn bayonet attack on Foch's
 
 The 2nd Army withdrew to the area of Reims, where in the [First Battle of the Aisne](/bitwy/pierwsza-bitwa-nad-aisne) it repulsed French attacks. The gap between it and Kluck was plugged at the last moment by VII Reserve Corps, which had arrived by forced march after the capitulation of Maubeuge. In autumn 1914 Bülow's army was moved further north-west, to the sector on the Somme, where the front froze into trenches. On 27 January 1915, the birthday of Kaiser [Wilhelm II](/postacie/wilhelm-ii), Bülow was made a field marshal.
 
-In spring 1915 he suffered a heart attack. On 4 April he received the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), and command of the 2nd Army passed to General [Fritz von Below](/postacie/fritz-von-below). Bülow never returned to service. In June 1916 he was formally retired.
+In spring 1915 he suffered a heart attack. On 4 April he received the [Pour le Mérite](/slownik/pour-le-merite), and command of the 2nd Army passed to General [Fritz von Below](/postacie/fritz-von-below). Bülow never returned to service. In June 1916 he was formally retired.
 
 ## After the war
 

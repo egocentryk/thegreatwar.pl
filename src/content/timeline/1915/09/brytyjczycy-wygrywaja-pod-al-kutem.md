@@ -28,7 +28,7 @@ Walczono w strasznych warunkach. Silny wiatr wznosił tumany kurzu, fatamorgana 
 
 ## Komandor Cookson
 
-Około szóstej wieczorem Townshend zaproponował marynarce, by po zmroku spróbowała przebić się przez zaporę na rzece. Trzy uzbrojone kutry podpłynęły bez świateł, ale Turcy je wykryli i otworzyli ogień z obu brzegów. Dowódca flotylli, komandor podporucznik Edgar Cookson, kazał przybić Cometem do łodzi, która tworzyła środek zapory, i sam z siekierą próbował przeciąć łączące ją liny. Trafiony wieloma kulami, zmarł po dziesięciu minutach. Pośmiertnie otrzymał [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Flotylla z czternastoma rannymi na Comecie zawróciła.
+Około szóstej wieczorem Townshend zaproponował marynarce, by po zmroku spróbowała przebić się przez zaporę na rzece. Trzy uzbrojone kutry podpłynęły bez świateł, ale Turcy je wykryli i otworzyli ogień z obu brzegów. Dowódca flotylli, komandor podporucznik Edgar Cookson, kazał przybić Cometem do łodzi, która tworzyła środek zapory, i sam z siekierą próbował przeciąć łączące ją liny. Trafiony wieloma kulami, zmarł po dziesięciu minutach. Pośmiertnie otrzymał [Krzyż Wiktorii](/slownik/krzyz-wiktorii). Flotylla z czternastoma rannymi na Comecie zawróciła.
 
 ## Zwycięstwo niepełne
 

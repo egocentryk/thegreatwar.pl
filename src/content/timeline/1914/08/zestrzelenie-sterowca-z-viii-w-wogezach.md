@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-23 sierpnia 1914 roku niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) wojskowy Z VIII (fabryczne oznaczenie LZ 23) został zestrzelony nad pogórzem [Wogezów](https://pl.wikipedia.org/wiki/Wogezy). Uszkodzony ogniem z ziemi, spadł w lesie w pobliżu francuskiej miejscowości [Badonviller](https://pl.wikipedia.org/wiki/Badonviller).
+23 sierpnia 1914 roku niemiecki [sterowiec](/slownik/sterowiec) wojskowy Z VIII (fabryczne oznaczenie LZ 23) został zestrzelony nad pogórzem [Wogezów](https://pl.wikipedia.org/wiki/Wogezy). Uszkodzony ogniem z ziemi, spadł w lesie w pobliżu francuskiej miejscowości [Badonviller](https://pl.wikipedia.org/wiki/Badonviller).
 
 ## Misja nad Lotaryngią
 

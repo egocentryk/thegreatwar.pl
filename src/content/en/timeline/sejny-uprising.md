@@ -2,10 +2,10 @@
 title: Sejny uprising
 summary: On the night of 22–23 August 1919 the POW struck the Lithuanians near Sejny and took the town, which the Foch line assigned to Poland.
 source: powstanie-sejnenskie
-sourceHash: 046427b00d5433ecf9719aa1e62dce8f92d7eec1
+sourceHash: 48f0731f5521247ca0920601d3a12d5949748b7e
 ---
 
-At about three in the morning on 23 August 1919 units of the Suwałki district of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) began an uprising against Lithuanian rule in the Sejny area. One company took [Krasnopol](https://pl.wikipedia.org/wiki/Krasnopol_(Polska)) by surprise, and the main force captured [Sejny](https://pl.wikipedia.org/wiki/Sejny), which the Lithuanians held although, under the demarcation line fixed in Paris a month earlier, it was to go to Poland. Within a dozen or so hours the insurgents had taken a large part of the Sejny area, and some units even crossed that line. It was one of the best-known episodes of the growing [Polish–Lithuanian conflict](https://pl.wikipedia.org/wiki/Konflikt_polsko-litewski).
+At about three in the morning on 23 August 1919 units of the Suwałki district of the [Polish Military Organisation](/slownik/pow) began an uprising against Lithuanian rule in the Sejny area. One company took [Krasnopol](https://pl.wikipedia.org/wiki/Krasnopol_(Polska)) by surprise, and the main force captured [Sejny](https://pl.wikipedia.org/wiki/Sejny), which the Lithuanians held although, under the demarcation line fixed in Paris a month earlier, it was to go to Poland. Within a dozen or so hours the insurgents had taken a large part of the Sejny area, and some units even crossed that line. It was one of the best-known episodes of the growing [Polish–Lithuanian conflict](https://pl.wikipedia.org/wiki/Konflikt_polsko-litewski).
 
 ## Disputed land
 

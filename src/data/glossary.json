@@ -4480,5 +4480,79 @@
    "https://en.wikipedia.org/wiki/Stokes_mortar",
    "https://www.nam.ac.uk/explore/weapons-western-front"
   ]
+ },
+ {
+  "slug": "kalendarz-julianski",
+  "slugEn": "julian-calendar",
+  "term": "Kalendarz juliański",
+  "termEn": "Julian calendar",
+  "category": "rewolucja",
+  "pattern": "[Kk]alendarz\\w* (?:julia|gregoria)ńsk\\w*",
+  "patternEn": "\\b(?:Julian|Gregorian) calendar",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Kalendarz pochodzący z czasów Juliusza Cezara, w czasie wojny używany jeszcze w Rosji i państwach prawosławnych. Opóźniał się o 13 dni wobec gregoriańskiego, stąd podwójne daty w źródłach.",
+  "shortEn": "The calendar dating from Julius Caesar, still used during the war in Russia and the Orthodox states. It ran 13 days behind the Gregorian calendar, hence the double dates in the sources.",
+  "long": [
+   "Kalendarz juliański ma rok przestępny co cztery lata, przez co z biegiem wieków rozmija się z porami roku. Papież Grzegorz XIII w 1582 roku usunął z kalendarza 10 dni i zmienił zasadę lat przestępnych. Kraje katolickie przyjęły reformę od razu, protestanckie później, a państwa prawosławne dopiero w XX wieku. Ponieważ rok 1900 był przestępny tylko w starym kalendarzu, w latach 1914–1918 różnica wynosiła 13 dni.",
+   "W czasie wojny starego kalendarza używały Rosja, Serbia, Czarnogóra, Rumunia i Grecja, a do wiosny 1916 roku także Bułgaria. Dlatego rewolucję z marca 1917 roku nazywa się lutową, a przewrót z 7 listopada październikowym. Rosja Sowiecka przeszła na kalendarz gregoriański w lutym 1918 roku: po 31 stycznia nastąpił od razu 14 lutego. Rumunia zrobiła to w 1919 roku, Grecja w 1923 roku. Na naszej stronie daty podajemy według kalendarza gregoriańskiego."
+  ],
+  "longEn": [
+   "The Julian calendar has a leap year every four years, so over the centuries it drifts away from the seasons. In 1582 Pope Gregory XIII dropped 10 days from the calendar and changed the leap-year rule. Catholic countries adopted the reform at once, Protestant ones later, and the Orthodox states only in the 20th century. Since 1900 was a leap year only in the old calendar, in 1914–1918 the difference was 13 days.",
+   "During the war the old calendar was used by Russia, Serbia, Montenegro, Romania and Greece, and until the spring of 1916 also by Bulgaria. That is why the revolution of March 1917 is called the February Revolution, and the coup of 7 November the October Revolution. Soviet Russia switched to the Gregorian calendar in February 1918: 31 January was followed directly by 14 February. Romania followed in 1919 and Greece in 1923. On this site dates are given according to the Gregorian calendar."
+  ],
+  "see": [
+   "rosja-przyjmuje-kalendarz-gregorianski",
+   "rewolucja-lutowa",
+   "rewolucja-pazdziernikowa",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://www.tondering.dk/claus/cal/gregorian.php",
+   "https://www.webexhibits.org/calendars/year-countries.html",
+   "https://en.wikipedia.org/wiki/Rumi_calendar"
+  ]
+ },
+ {
+  "slug": "izba-gmin",
+  "slugEn": "house-of-commons",
+  "term": "Izba Gmin",
+  "termEn": "House of Commons",
+  "category": "polityka",
+  "pattern": "\\bIzb\\w* Gmin\\b",
+  "patternEn": "House of Commons",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niższa, wybieralna izba brytyjskiego parlamentu w Westminsterze. W czasie wojny uchwalała pieniądze na wojnę, pobór i ustawy wojenne, a rządy Asquitha i Lloyda George’a opierały się na jej większości.",
+  "shortEn": "The lower, elected house of the British Parliament at Westminster. In the war it voted money for the war, conscription and wartime laws, and the Asquith and Lloyd George governments rested on its majority.",
+  "long": [
+   "Izba Gmin obradowała w Westminsterze obok Izby Lordów, której ustawa parlamentarna z 1911 roku odebrała prawo trwałego blokowania ustaw uchwalonych przez posłów. Izbę wybraną w grudniu 1910 roku wojna zastała w połowie kadencji, którą później kolejnymi ustawami przedłużano. 3 sierpnia 1914 roku Edward Grey przekonywał w niej posłów, że Wielka Brytania musi bronić Belgii, a w styczniu i maju 1916 roku izba uchwaliła pobór, najpierw kawalerów, potem żonatych.",
+   "Wojna zmieniła też rządy: w maju 1915 roku liberał Asquith utworzył koalicję z konserwatystami i Partią Pracy, a w grudniu 1916 roku zastąpił go Lloyd George. W kwietniu 1916 roku izba po raz pierwszy od dziesięcioleci obradowała na tajnym posiedzeniu. Ustawa o reprezentacji ludu z lutego 1918 roku dała głos niemal wszystkim mężczyznom i części kobiet. W wyborach „kuponowych” 14 grudnia 1918 roku koalicja Lloyda George’a zdobyła ogromną większość w liczącej 707 miejsc izbie."
+  ],
+  "longEn": [
+   "The House of Commons sat at Westminster alongside the House of Lords, which the Parliament Act of 1911 had stripped of the power to block bills passed by MPs for good. The war found the House elected in December 1910 halfway through its term, which was later extended by successive acts. On 3 August 1914 Edward Grey argued there that Britain had to defend Belgium, and in January and May 1916 the House passed conscription, first of single men and then of married men.",
+   "The war also changed governments: in May 1915 the Liberal Asquith formed a coalition with the Conservatives and Labour, and in December 1916 Lloyd George replaced him. In April 1916 the House held its first secret session in decades. The Representation of the People Act of February 1918 gave the vote to almost all men and some women. In the \"coupon election\" of 14 December 1918 Lloyd George's coalition won a huge majority in a House of 707 seats."
+  ],
+  "see": [
+   "izba-gmin-uchwala-pobor",
+   "wielka-brytania-zapowiada-obrone-neutralnosci-belgii",
+   "dymisja-asquitha",
+   "brytyjki-otrzymuja-prawo-glosu",
+   "wybory-w-wielkiej-brytanii",
+   "postacie/david-lloyd-george"
+  ],
+  "sources": [
+   "https://api.parliament.uk/historic-hansard/lords/1916/apr/25/the-secret-session",
+   "https://archive.spectator.co.uk/article/29th-april-1916/2/parliament-reassembled-on-tuesday-the-house-of-com",
+   "https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom",
+   "https://en.wikipedia.org/wiki/1918_United_Kingdom_general_election"
+  ],
+  "exclude": [
+   "kanadyjska-izba-gmin-uchwala-pobor",
+   "rzad-unijny-w-kanadzie",
+   "wybory-w-kanadzie",
+   "postacie/robert-borden",
+   "postacie/arthur-currie"
+  ]
  }
 ]

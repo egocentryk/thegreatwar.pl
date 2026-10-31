@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: British victory. The 62nd Division took Havrincourt and the front line of the Hindenburg position, and the 37th Division Trescault. The New Zealanders only partly took the Trescault ridge. German counter-attacks were repulsed.
 source: bitwa-pod-havrincourt
-sourceHash: 839b75e6342931d9ef1cfcbe6c2968b2390d5429
+sourceHash: cda782c58b99b635a4d157ec76631937ef744982
 brief:
   - "On 12 September 1918 General Julian Byng's British Third Army attacked with three British divisions and the New Zealand Division the ridges near Havrincourt, outposts in front of the Hindenburg Line."
   - "After the Germans fell back to their positions of before the March offensive, Byng argued that they had to be attacked continuously and proposed seizing the front line of the Hindenburg position as soon as possible."
@@ -42,7 +42,7 @@ Whigham decided not to attack Havrincourt frontally. South of Havrincourt Wood I
 
 ## Course of the battle
 
-At 5.25 a.m. on 12 September the barrage began. The morning was fine and cool. In the 62nd Division two battalions of the Duke of Wellington's Regiment from the 186th Brigade went first north, then turned east along the southern edge of the village and by 7.30 a.m. had taken the front line of the Hindenburg position. At 7.15 a.m., when the heavy artillery lifted its fire from Havrincourt, the 2/4th Battalion of the Hampshire Regiment entered the village. It took the château without difficulty, but fought hard for the rest of the village and only at 11.30 a.m. stood on its eastern edge. In the 187th Brigade the 5th Battalion of the King's Own Yorkshire Light Infantry and the 2/4th Battalion of the York and Lancaster Regiment were briefly held up by flanking fire from a strongpoint south of the village. Sergeant Laurence Calvert of the 5th KOYLI rushed two machine guns single-handed, killed their crews and captured both. For this he received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). By 7.30 a.m. the objective had been reached here too.
+At 5.25 a.m. on 12 September the barrage began. The morning was fine and cool. In the 62nd Division two battalions of the Duke of Wellington's Regiment from the 186th Brigade went first north, then turned east along the southern edge of the village and by 7.30 a.m. had taken the front line of the Hindenburg position. At 7.15 a.m., when the heavy artillery lifted its fire from Havrincourt, the 2/4th Battalion of the Hampshire Regiment entered the village. It took the château without difficulty, but fought hard for the rest of the village and only at 11.30 a.m. stood on its eastern edge. In the 187th Brigade the 5th Battalion of the King's Own Yorkshire Light Infantry and the 2/4th Battalion of the York and Lancaster Regiment were briefly held up by flanking fire from a strongpoint south of the village. Sergeant Laurence Calvert of the 5th KOYLI rushed two machine guns single-handed, killed their crews and captured both. For this he received the [Victoria Cross](/slownik/krzyz-wiktorii). By 7.30 a.m. the objective had been reached here too.
 
 To their right the 111th Brigade of the 37th Division at first met almost no resistance, but Trescault, lying below the ridge to the west, and a strongpoint east of the village held out stubbornly. At about 8 a.m. the brigade reached its objective on the right wing and in the centre.
 
@@ -52,7 +52,7 @@ At 6.30 p.m. the Germans made a determined attempt to retake Havrincourt. After 
 
 ## Fighting for the Trescault ridge
 
-On the night of 12–13 September, in a downpour, the New Zealanders of the 3rd Brigade were relieved by the 1st Brigade. On the afternoon of 13 September its battalions tried to recover the lost part of the trenches on the ridge, but made little progress. In the evening the Jäger Division attacked several times, and at 1.45 a.m. on 14 September, using [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia), it retook the whole of African Trench on the crest of the ridge. The New Zealand history admits that the Jäger were "worthy opponents" and that the balance of those days did not come out decisively in the New Zealanders' favour. On the evening of 14 September the division was relieved by the 5th Division, which took that trench only on 28 September.
+On the night of 12–13 September, in a downpour, the New Zealanders of the 3rd Brigade were relieved by the 1st Brigade. On the afternoon of 13 September its battalions tried to recover the lost part of the trenches on the ridge, but made little progress. In the evening the Jäger Division attacked several times, and at 1.45 a.m. on 14 September, using [flamethrowers](/slownik/miotacz-ognia), it retook the whole of African Trench on the crest of the ridge. The New Zealand history admits that the Jäger were "worthy opponents" and that the balance of those days did not come out decisively in the New Zealanders' favour. On the evening of 14 September the division was relieved by the 5th Division, which took that trench only on 28 September.
 
 ## Losses
 

@@ -21,7 +21,7 @@ Tego samego dnia osmański poseł w Bukareszcie poprosił swojego amerykańskieg
 
 ## Spór o datę
 
-Brytyjska chronologia wojny notuje turecką deklarację pod 30 sierpnia i tę datę podaje część opracowań rumuńskich. Inne źródła wskazują 29 sierpnia, dzień posiedzenia Rady Ministrów, albo 1 września, jak historia osmańskiej marynarki wojennej Langensiepena i Güleryüza. Według depeszy Philipa decyzja zapadła 29 sierpnia, a sułtan zatwierdził ją niezwłocznie. W samej Rumunii obowiązywał wciąż [kalendarz juliański](https://pl.wikipedia.org/wiki/Kalendarz_juliański), w którym 30 sierpnia był 17 sierpnia. Depesza Philipa z 30 sierpnia jest najwcześniejszym pewnym świadectwem, że Turcja uważa się za będącą w stanie wojny.
+Brytyjska chronologia wojny notuje turecką deklarację pod 30 sierpnia i tę datę podaje część opracowań rumuńskich. Inne źródła wskazują 29 sierpnia, dzień posiedzenia Rady Ministrów, albo 1 września, jak historia osmańskiej marynarki wojennej Langensiepena i Güleryüza. Według depeszy Philipa decyzja zapadła 29 sierpnia, a sułtan zatwierdził ją niezwłocznie. W samej Rumunii obowiązywał wciąż [kalendarz juliański](/slownik/kalendarz-julianski), w którym 30 sierpnia był 17 sierpnia. Depesza Philipa z 30 sierpnia jest najwcześniejszym pewnym świadectwem, że Turcja uważa się za będącą w stanie wojny.
 
 ## Dawni zwierzchnicy
 

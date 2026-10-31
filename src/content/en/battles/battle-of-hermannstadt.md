@@ -9,7 +9,7 @@ sides:
     commanders: [Ioan Culcer, Ioan Popovici]
 result: Central Powers victory. The Romanian I Corps was driven out of the Hermannstadt basin and withdrew over the mountains, but escaped encirclement.
 source: bitwa-pod-sybinem
-sourceHash: 502c2607509897c4238cdec976e9f22c0088f87e
+sourceHash: 01d6efd00b687d2a750498c604590a890fd12656
 ---
 
 The Battle of Hermannstadt was the first major victory of the Central Powers in the campaign against Romania and the first battle in which the new German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) took on the Romanian Army. From 26 to 29 September 1916 three German and Austro-Hungarian divisions attacked from the north the Romanian I Corps, which had been standing idle before [Hermannstadt](https://pl.wikipedia.org/wiki/Sybin) since early September, while the mountain Alpenkorps crossed the ridges to its rear and cut the road in the Red Tower Pass (Turnu Roșu). The Romanians managed to break out of the tightening ring, but in disorder, leaving behind prisoners, guns and baggage trains. Falkenhayn did not destroy I Corps, as he had intended, but he cleared the Hermannstadt basin and could turn against the Romanian 2nd Army near Brașov.
@@ -18,7 +18,7 @@ The Battle of Hermannstadt was the first major victory of the Central Powers in 
 
 The Austrian official history calls this engagement the Battle of Hermannstadt (Schlacht bei Hermannstadt), Romanian historiography the Battle of Sibiu (Bătălia de la Sibiu), and English-language literature uses the names Battle of Hermannstadt and Battle of Nagyszeben, after the German and Hungarian names of the town. The battle was part of the wider [Battle of Transylvania](/bitwy/bitwa-o-siedmiogrod), the campaign in which the Central Powers drove the Romanians out of Transylvania.
 
-We adopt the dates 26–29 September 1916, following the Austrian official history and Romanian historiography. The attack began on the morning of 26 September, although one of the Hungarian divisions had already taken a forward hill in front of the Romanian positions on the evening of 25 September. The last Romanian units left the battlefield on the morning of 29 September, and at noon that day the Romanian rearguard came down from the mountains. Romania was then using the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), so in Romanian documents the battle lasted from 13 to 16 September.
+We adopt the dates 26–29 September 1916, following the Austrian official history and Romanian historiography. The attack began on the morning of 26 September, although one of the Hungarian divisions had already taken a forward hill in front of the Romanian positions on the evening of 25 September. The last Romanian units left the battlefield on the morning of 29 September, and at noon that day the Romanian rearguard came down from the mountains. Romania was then using the [Julian calendar](/slownik/kalendarz-julianski), so in Romanian documents the battle lasted from 13 to 16 September.
 
 The Romanians never took Hermannstadt itself. In the first days of September they halted a few kilometres from the town but did not occupy it, and some accounts mention at most Romanian patrols that appeared in the town. The statement in some chronologies that on 29 September the Austrians "recaptured" Hermannstadt is therefore inaccurate. The battle was fought south of the town, which remained in Austro-Hungarian hands throughout.
 

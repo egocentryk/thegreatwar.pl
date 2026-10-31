@@ -9,7 +9,7 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Tom von Prince]
 result: German victory. Indian Expeditionary Force "B" withdrew to its ships, leaving weapons, ammunition and equipment on the shore.
 source: bitwa-pod-tanga
-sourceHash: f9b305667308147c22fd223e3e49c26ab77b48dc
+sourceHash: 74c67c473e511219758e89366d6611f30ca12951
 brief:
   - "On 2–5 November 1914 about 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force \"B\" tried to take the port of Tanga in German East Africa."
   - "Aitken underestimated the enemy, and his force was poorly trained and exhausted by the voyage. He also warned the Germans that the truce was ending, which let Lettow-Vorbeck bring up reinforcements by rail."
@@ -18,7 +18,7 @@ brief:
   - "The defeat ended British plans for a quick conquest of the colony. For four years Lettow-Vorbeck tied down far larger Allied forces in East Africa."
 ---
 
-The Battle of Tanga was the first major battle in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and one of the most humiliating British defeats of the whole war. About 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force "B" tried to take the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga). They were beaten by roughly 1,000 soldiers of the German colonial forces, most of them African [askaris](https://pl.wikipedia.org/wiki/Askarysi), under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Because of a swarm of wild bees that scattered some of the attackers on the decisive day, the battle is sometimes called the "Battle of the Bees".
+The Battle of Tanga was the first major battle in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and one of the most humiliating British defeats of the whole war. About 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force "B" tried to take the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga). They were beaten by roughly 1,000 soldiers of the German colonial forces, most of them African [askaris](/slownik/askarysi), under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Because of a swarm of wild bees that scattered some of the attackers on the decisive day, the battle is sometimes called the "Battle of the Bees".
 
 We take 2 November 1914 as the start of the battle. On the morning of that day a British cruiser arrived off Tanga, and in the evening the landing began. The actual fighting took place from 3 to 5 November, which is why many accounts give 3–5 November as the dates of the battle.
 

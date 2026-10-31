@@ -25,7 +25,7 @@ Według Allena i Muratowa Halil zaatakował Dilman 29 kwietnia. Po ostrej walce 
 
 ## Różne daty
 
-Daty bitwy podawane są w literaturze różnie. Brytyjska chronologia wojny notuje ją pod 1 maja, a Allen i Muratow opisują walki z 29 kwietnia – 1 maja. Rosyjskie źródła, liczące czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), opóźnionego wówczas o 13 dni, datują główną bitwę na 18 kwietnia, co odpowiada 1 maja według kalendarza gregoriańskiego. W części opracowań spotyka się też datę 15 kwietnia, trudną do pogodzenia z tym, że według relacji świadków Halil dotarł do Urmii dopiero w połowie kwietnia.
+Daty bitwy podawane są w literaturze różnie. Brytyjska chronologia wojny notuje ją pod 1 maja, a Allen i Muratow opisują walki z 29 kwietnia – 1 maja. Rosyjskie źródła, liczące czas według [kalendarza juliańskiego](/slownik/kalendarz-julianski), opóźnionego wówczas o 13 dni, datują główną bitwę na 18 kwietnia, co odpowiada 1 maja według kalendarza gregoriańskiego. W części opracowań spotyka się też datę 15 kwietnia, trudną do pogodzenia z tym, że według relacji świadków Halil dotarł do Urmii dopiero w połowie kwietnia.
 
 ## Skutki
 

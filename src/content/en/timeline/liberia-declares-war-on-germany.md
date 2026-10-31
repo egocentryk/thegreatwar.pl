@@ -2,7 +2,7 @@
 title: Liberia declares war on Germany
 summary: On 4 August 1917 the Liberian Congress unanimously declared war on Germany. The same day the Germans in Monrovia were taken aboard the French cruiser Desaix.
 source: liberia-wypowiada-wojne-niemcom
-sourceHash: 148466a3147e9c018152daf828a68d64490c6221
+sourceHash: 5dfbffb0de23660d972bb0abfe2d3ccbe220aded
 brief:
   - "On 4 August 1917 the Congress of Liberia unanimously declared war on the German Empire. That same day the German men in Monrovia were taken aboard the French armoured cruiser Desaix."
   - "Liberia had broken off relations with Germany on 8 May, but the declaration of war got stuck in disputes between the allies. Washington waited for London to promise to lift its restrictions on Liberian trade."
@@ -39,4 +39,4 @@ The country's economy, in which before the war the Germans had had by far the la
 
 The German threats did not go without effect. Berlin declared Liberian waters a war zone, and the Allies concluded that they were unable to defend the ports there effectively. On 10 April 1918 the German submarine cruiser *U-154* surfaced off Monrovia. Her commander demanded that the French radio station and the cable station be shut down, and when the government's reply did not satisfy him, he shelled the town in the afternoon. The shells destroyed the radio station and several buildings, several inhabitants were killed, and the armed schooner *President Howard*, the only vessel of the Liberian navy, was sunk. The shelling stopped only when a British steamer appeared.
 
-After the war Liberia took its seat at the victors' table. It signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) and as a signatory became one of the founding members of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów). The treaty devoted a separate section to it. In Article 138 Germany renounced the rights arising from the agreements of 1911–1912, above all the right to appoint a German customs receiver, and any part in plans for the rehabilitation of Liberian finances. In Article 139 it recognised that all its treaties with Liberia had lapsed as of 4 August 1917.
+After the war Liberia took its seat at the victors' table. It signed the [Treaty of Versailles](/slownik/traktat-wersalski) and as a signatory became one of the founding members of the [League of Nations](/slownik/liga-narodow). The treaty devoted a separate section to it. In Article 138 Germany renounced the rights arising from the agreements of 1911–1912, above all the right to appoint a German customs receiver, and any part in plans for the rehabilitation of Liberian finances. In Article 139 it recognised that all its treaties with Liberia had lapsed as of 4 August 1917.

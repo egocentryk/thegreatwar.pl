@@ -2,14 +2,14 @@
 title: Lord Roberts dies
 summary: On 14 November 1914 Field Marshal Lord Roberts, hero of the wars in Afghanistan and South Africa, died of pneumonia at Saint-Omer.
 source: umiera-lord-roberts
-sourceHash: e9ca28a9e6115baa61707d4a9d5921b8210483c2
+sourceHash: 24c721b7fe912b927895bdbfa8dde29a17a55824
 ---
 
 On 14 November 1914 Field Marshal [Frederick Roberts](https://pl.wikipedia.org/wiki/Frederick_Roberts), 1st Earl Roberts, died at [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)), where the headquarters of the British Expeditionary Force was located. He was 82. He had come to France a few days earlier to visit the Indian soldiers who since October had been [fighting in Flanders](/pierwsi-zolnierze-indyjscy-na-froncie). During the visit he caught a chill, which quickly turned into pneumonia. The most famous British soldier of his generation died, as [Rudyard Kipling](https://pl.wikipedia.org/wiki/Rudyard_Kipling) wrote, "in the very smoke of battle".
 
 ## Forty years in India
 
-Roberts was born on 30 September 1832 in Cawnpore, today's [Kanpur](https://pl.wikipedia.org/wiki/Kanpur), into the family of an officer of the East India Company's army, of Irish origin. In 1851 he joined the Bengal Artillery. During the [Indian Mutiny](https://pl.wikipedia.org/wiki/Powstanie_sipajów) he fought at Delhi and Lucknow, among other places, and for bravery in the action at Khudaganj on 2 January 1858 he received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii), the highest British gallantry award.
+Roberts was born on 30 September 1832 in Cawnpore, today's [Kanpur](https://pl.wikipedia.org/wiki/Kanpur), into the family of an officer of the East India Company's army, of Irish origin. In 1851 he joined the Bengal Artillery. During the [Indian Mutiny](https://pl.wikipedia.org/wiki/Powstanie_sipajów) he fought at Delhi and Lucknow, among other places, and for bravery in the action at Khudaganj on 2 January 1858 he received the [Victoria Cross](/slownik/krzyz-wiktorii), the highest British gallantry award.
 
 Fame came with the [Second Anglo-Afghan War](https://pl.wikipedia.org/wiki/II_wojna_brytyjsko-afgańska). In August 1880 he led about 10,000 soldiers from Kabul to the relief of besieged Kandahar. He covered nearly 500 kilometres through mountains and wilderness in about three weeks, and on 1 September he routed the forces of Ayub Khan at the [Battle of Kandahar](https://pl.wikipedia.org/wiki/Bitwa_pod_Kandaharem). The march made him a national hero. In 1885–1893 he was Commander-in-Chief in India. He served there for more than forty years in all, and the soldiers, British and Indian alike, affectionately called him "Bobs".
 

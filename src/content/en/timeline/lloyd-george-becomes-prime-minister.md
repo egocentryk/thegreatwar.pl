@@ -2,7 +2,7 @@
 title: Lloyd George becomes prime minister
 summary: On 7 December 1916 David Lloyd George became Prime Minister. He relied on the Conservatives and Labour, while most Liberals backed Asquith.
 source: lloyd-george-premierem
-sourceHash: 840229fa73b40b38935298b242963c48fb906ed7
+sourceHash: 9bdfec76e79d21396dee4815cac15e2089ecb4cd
 brief:
   - "On 7 December 1916 David Lloyd George accepted the office of Prime Minister of the United Kingdom from King George V, two days after Herbert Henry Asquith had resigned."
   - "He formed his cabinet in a little over a day, relying on the Conservatives, Labour and part of the Liberals, because almost all the leading Liberals sided with Asquith."
@@ -22,7 +22,7 @@ Lloyd George needed three pillars: the Conservatives, Labour and at least part o
 
 On 7 December Lloyd George met the Labour MPs and the party's national executive. Only a week earlier Henderson had called Asquith indispensable, but the new prime minister had a great deal to offer Labour. He promised to create ministries of labour and of pensions headed by Labour men, state control of the coal mines and a place for Henderson in the small body directing the war. Labour agreed by a narrow majority. According to Lloyd George's memoirs it was decided by a single vote; historians rather suppose it was several.
 
-The Liberals were the hardest. Asquith kept the party leadership and almost all its leading politicians. [Christopher Addison](https://pl.wikipedia.org/wiki/Christopher_Addison), however, canvassed MPs on Lloyd George's behalf. By his count 49 Liberal members were ready to support Lloyd George unconditionally, and another 126 promised support if he became prime minister, together clearly more than half of the roughly 260 Liberals in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin). In the evening Lloyd George drove to the palace. According to some historians, during this audience he agreed, perhaps under the King's influence, that [Edward Carson](/postacie/edward-carson) should take the Admiralty rather than join the government's inner body, as had been announced earlier.
+The Liberals were the hardest. Asquith kept the party leadership and almost all its leading politicians. [Christopher Addison](https://pl.wikipedia.org/wiki/Christopher_Addison), however, canvassed MPs on Lloyd George's behalf. By his count 49 Liberal members were ready to support Lloyd George unconditionally, and another 126 promised support if he became prime minister, together clearly more than half of the roughly 260 Liberals in the [House of Commons](/slownik/izba-gmin). In the evening Lloyd George drove to the palace. According to some historians, during this audience he agreed, perhaps under the King's influence, that [Edward Carson](/postacie/edward-carson) should take the Admiralty rather than join the government's inner body, as had been announced earlier.
 
 ## A small War Cabinet
 

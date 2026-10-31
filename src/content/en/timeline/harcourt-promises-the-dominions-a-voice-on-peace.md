@@ -2,10 +2,10 @@
 title: Harcourt promises the dominions a voice on peace
 summary: On 14 April 1915 Colonial Secretary Lewis Harcourt told the House of Commons that the British government would consult the dominions when peace talks came.
 source: harcourt-obiecuje-dominiom-glos-w-sprawie-pokoju
-sourceHash: ab43135ea974cda8e83481380627786ee2a61ad3
+sourceHash: 48043214fd54530da7329b59501491b1f51ee33e
 ---
 
-On 14 April 1915 the British Colonial Secretary, [Lewis Harcourt](https://pl.wikipedia.org/wiki/Lewis_Harcourt), gave an assurance in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) that the governments of the [dominions](https://pl.wikipedia.org/wiki/Dominium_brytyjskie) would have a voice in settling the terms of peace. It was not a new declaration but the first public announcement of a promise that Harcourt had already conveyed confidentially in January to the prime ministers of Canada, Australia, New Zealand, the Union of South Africa and Newfoundland.
+On 14 April 1915 the British Colonial Secretary, [Lewis Harcourt](https://pl.wikipedia.org/wiki/Lewis_Harcourt), gave an assurance in the [House of Commons](/slownik/izba-gmin) that the governments of the [dominions](https://pl.wikipedia.org/wiki/Dominium_brytyjskie) would have a voice in settling the terms of peace. It was not a new declaration but the first public announcement of a promise that Harcourt had already conveyed confidentially in January to the prime ministers of Canada, Australia, New Zealand, the Union of South Africa and Newfoundland.
 
 ## A cancelled conference
 

@@ -61,7 +61,7 @@ Natarcie na północ od grzbietu Vimy, na odcinku La Coulotte i wzgórza 65 pod 
 
 ## Straty
 
-Brytyjska historia oficjalna pisze, że straty były mniejsze, niż można by się spodziewać. 3 Armia zgłosiła za tydzień 18–25 kwietnia ponad 8 tysięcy zabitych, rannych i zaginionych, do czego trzeba doliczyć straty 63 Dywizji z 1 Armii i odjąć straty z dni poprzedzających bitwę. Kanadyjska historia oficjalna podaje dla całej drugiej bitwy nad Scarpe około 10 tysięcy ludzi. 3 Armia wzięła do niewoli 2264 Niemców, a 63 Dywizja 479. Niemieckie straty były również bardzo ciężkie. Sam 141 Pułk Piechoty z 35 Dywizji, rozbity pod wieżą Wancourt, stracił 1089 ludzi, ponad dwie trzecie stanu bojowego, a bawarski 18 Pułk Piechoty, który bronił Guémappe, 808. Dwóch brytyjskich oficerów, kapitan David Hirsch z 50 Dywizji i kapitan Arthur Henderson z 33 Dywizji, otrzymało pośmiertnie [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+Brytyjska historia oficjalna pisze, że straty były mniejsze, niż można by się spodziewać. 3 Armia zgłosiła za tydzień 18–25 kwietnia ponad 8 tysięcy zabitych, rannych i zaginionych, do czego trzeba doliczyć straty 63 Dywizji z 1 Armii i odjąć straty z dni poprzedzających bitwę. Kanadyjska historia oficjalna podaje dla całej drugiej bitwy nad Scarpe około 10 tysięcy ludzi. 3 Armia wzięła do niewoli 2264 Niemców, a 63 Dywizja 479. Niemieckie straty były również bardzo ciężkie. Sam 141 Pułk Piechoty z 35 Dywizji, rozbity pod wieżą Wancourt, stracił 1089 ludzi, ponad dwie trzecie stanu bojowego, a bawarski 18 Pułk Piechoty, który bronił Guémappe, 808. Dwóch brytyjskich oficerów, kapitan David Hirsch z 50 Dywizji i kapitan Arthur Henderson z 33 Dywizji, otrzymało pośmiertnie [Krzyż Wiktorii](/slownik/krzyz-wiktorii).
 
 ## Znaczenie
 

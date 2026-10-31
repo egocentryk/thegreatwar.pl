@@ -2,10 +2,10 @@
 title: Last airship raid on Paris
 summary: On the night of 29–30 January 1916 the airship LZ 79 bombed Belleville and Ménilmontant, killing more than 20 people. It was the last airship raid on Paris.
 source: ostatni-nalot-sterowca-na-paryz
-sourceHash: fa7f45bc9b2977bd2a05da162d3c856c135fb9c3
+sourceHash: 54d46c652f91638247993b43b19a2f53bb2c6e46
 ---
 
-On the evening of 29 January 1916 the German army [airship](https://pl.wikipedia.org/wiki/Sterowiec) LZ 79 appeared over [Paris](https://pl.wikipedia.org/wiki/Paryż). At about 10 p.m. it dropped a dozen or so bombs on the working-class districts of Belleville and Ménilmontant in the east of the city. More than twenty people were killed. It was the second and last airship raid to reach the French capital. The first, [in March 1915](/pierwszy-nalot-sterowcow-na-paryz), had done far less damage.
+On the evening of 29 January 1916 the German army [airship](/slownik/sterowiec) LZ 79 appeared over [Paris](https://pl.wikipedia.org/wiki/Paryż). At about 10 p.m. it dropped a dozen or so bombs on the working-class districts of Belleville and Ménilmontant in the east of the city. More than twenty people were killed. It was the second and last airship raid to reach the French capital. The first, [in March 1915](/pierwszy-nalot-sterowcow-na-paryz), had done far less damage.
 
 Two army airships, LZ 77 and LZ 79, were sent on the raid from bases in occupied Belgium. According to French studies, LZ 77 had to turn back before reaching Paris, reportedly because of a breakdown. LZ 79, commanded by Captain Victor Gaissert (Geissert in some sources), flew on alone. Thick cloud over the city helped it to hide from the searchlights. According to the Musée de l'Armée in Paris it dropped eighteen bombs on the 20th arrondissement, seventeen according to other sources. One of the first fell on the boulevard de Ménilmontant and pierced the roof of the tunnel of [Métro Line 2](https://pl.wikipedia.org/wiki/Linia_2_metra_w_Paryżu), spreading panic among the passengers. Others destroyed apartment buildings in the rue de Ménilmontant, the rue Haxo and neighbouring streets. On the way back the airship got rid of about 30 bombs over communes near Paris, among them La Courneuve, Stains, Pierrefitte and Montmorency, but there the damage was slight.
 

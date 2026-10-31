@@ -2,10 +2,10 @@
 title: Airship L 39 destroyed
 summary: At dawn on 17 March 1917, after a failed raid on England, French anti-aircraft guns shot down the airship L 39 over Compiègne. The whole crew was killed.
 source: zniszczenie-sterowca-l-39
-sourceHash: 55a47f900ad3656a54edfc6c261fb8dd13152cfa
+sourceHash: 2f1d61312d63a3a85c6f0bc32444f846be6f7805
 ---
 
-On the morning of 17 March 1917 French [anti-aircraft artillery](https://pl.wikipedia.org/wiki/Artyleria_przeciwlotnicza) shot down over [Compiègne](https://pl.wikipedia.org/wiki/Compiègne) the German naval [airship](https://pl.wikipedia.org/wiki/Sterowiec) L 39, which was returning from a raid on England. The burning wreck fell in the town itself, in the gardens by the avenue Gambetta, and the whole crew was killed together with their commander, Kapitänleutnant Robert Koch. She was a new, large ship, commissioned in December 1916. She should not be confused with the [army's LZ 39](/utrata-sterowca-lz-39), lost on the Eastern Front in December 1915. Nine days earlier the creator of these ships, Count Ferdinand von Zeppelin, [had died](/smierc-ferdinanda-von-zeppelina).
+On the morning of 17 March 1917 French [anti-aircraft artillery](https://pl.wikipedia.org/wiki/Artyleria_przeciwlotnicza) shot down over [Compiègne](https://pl.wikipedia.org/wiki/Compiègne) the German naval [airship](/slownik/sterowiec) L 39, which was returning from a raid on England. The burning wreck fell in the town itself, in the gardens by the avenue Gambetta, and the whole crew was killed together with their commander, Kapitänleutnant Robert Koch. She was a new, large ship, commissioned in December 1916. She should not be confused with the [army's LZ 39](/utrata-sterowca-lz-39), lost on the Eastern Front in December 1915. Nine days earlier the creator of these ships, Count Ferdinand von Zeppelin, [had died](/smierc-ferdinanda-von-zeppelina).
 
 ## A raid scattered by the wind
 

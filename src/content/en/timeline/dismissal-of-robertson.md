@@ -2,7 +2,7 @@
 title: Dismissal of Robertson
 summary: After a dispute over the general reserve the government removed Gen. William Robertson from the staff. On 19 February 1918 Henry Wilson became CIGS.
 source: dymisja-robertsona
-sourceHash: acd0f3a1603f28323c62a7a359c5bddaf303b8b7
+sourceHash: a3eed0c7f66eb28c3aee5926cfdaf4f43c2571ef
 ---
 
 The British chronology of the war records under 18 February 1918 that General Sir William Robertson stepped down as Chief of the Imperial General Staff, and under 19 February that he was succeeded by General Sir Henry Wilson. Robertson had headed the staff in London [since December 1915](/dymisja-archibalda-murraya). He had begun his service in 1877 as a cavalry trooper, an almost unheard-of route to the very top in the British Army. Needless to say, he was not leaving of his own accord. The first announcement of his "resignation" was issued by the official press bureau on the evening of 16 February, and on 18 February, when the newspapers were writing of nothing but him and Wilson, the Secretary of State for War, Lord [Derby](/postacie/lord-derby), instructed Wilson to take over the post the next morning. Robertson agreed to take Eastern Command in England, which had been vacant since Wilson left for the conference [at Rapallo](/konferencja-w-rapallo).
@@ -25,7 +25,7 @@ On the morning of 16 February Lloyd George once more personally asked Robertson 
 
 ## Lloyd George before the House of Commons
 
-On 19 February, the day Wilson took up his post, Lloyd George defended his decisions in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin). He asked that the matter be treated as a dispute about policy, not about persons. He claimed that everyone at Versailles had agreed on the plan and on the need for an inter-Allied body with executive power, and that the dispute concerned only the composition of that body. "If this policy is right, no individuals, however valuable, however important, however distinguished, ought to stand in the way of its execution", he said. Finally he declared that if the House rejected his policy, he would resign. The Leader of the Opposition, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), acknowledged that Robertson had set a great example when, in the spirit of a loyal soldier, he accepted a post unworthy of his abilities, but reproached the government for having refused a week earlier to answer questions about Versailles. There was no vote against the government.
+On 19 February, the day Wilson took up his post, Lloyd George defended his decisions in the [House of Commons](/slownik/izba-gmin). He asked that the matter be treated as a dispute about policy, not about persons. He claimed that everyone at Versailles had agreed on the plan and on the need for an inter-Allied body with executive power, and that the dispute concerned only the composition of that body. "If this policy is right, no individuals, however valuable, however important, however distinguished, ought to stand in the way of its execution", he said. Finally he declared that if the House rejected his policy, he would resign. The Leader of the Opposition, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), acknowledged that Robertson had set a great example when, in the spirit of a loyal soldier, he accepted a post unworthy of his abilities, but reproached the government for having refused a week earlier to answer questions about Versailles. There was no vote against the government.
 
 ## Significance
 

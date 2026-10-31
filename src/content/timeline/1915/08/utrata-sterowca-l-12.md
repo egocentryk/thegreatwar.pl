@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wczesnym rankiem 10 sierpnia 1915 roku niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) marynarki L 12, uszkodzony w nocy nad [Dover](https://pl.wikipedia.org/wiki/Dover) pociskiem brytyjskiej artylerii przeciwlotniczej, opadł na morze u wybrzeży okupowanej Belgii. Niemieckie torpedowce wholowały go do [Ostendy](https://pl.wikipedia.org/wiki/Ostenda). Przez cały dzień atakowali go tam lotnicy [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) z Dunkierki, a podczas rozbierania wraku sterowiec spłonął. Brytyjska chronologia wojny notuje pod tą datą, że L 12 został „poważnie uszkodzony przez brytyjskie samoloty u wybrzeży Ostendy”. W rzeczywistości o jego losie przesądził już nocny ostrzał z Dover, a bombardowanie z powietrza dokończyło dzieła.
+Wczesnym rankiem 10 sierpnia 1915 roku niemiecki [sterowiec](/slownik/sterowiec) marynarki L 12, uszkodzony w nocy nad [Dover](https://pl.wikipedia.org/wiki/Dover) pociskiem brytyjskiej artylerii przeciwlotniczej, opadł na morze u wybrzeży okupowanej Belgii. Niemieckie torpedowce wholowały go do [Ostendy](https://pl.wikipedia.org/wiki/Ostenda). Przez cały dzień atakowali go tam lotnicy [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) z Dunkierki, a podczas rozbierania wraku sterowiec spłonął. Brytyjska chronologia wojny notuje pod tą datą, że L 12 został „poważnie uszkodzony przez brytyjskie samoloty u wybrzeży Ostendy”. W rzeczywistości o jego losie przesądził już nocny ostrzał z Dover, a bombardowanie z powietrza dokończyło dzieła.
 
 ## Nalot na Londyn, który nie doleciał
 

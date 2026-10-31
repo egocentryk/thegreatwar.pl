@@ -2,10 +2,10 @@
 title: The Bulgarians take Tutrakan
 summary: On 6 September 1916 the Romanian fortress of Turtucaia (Tutrakan) capitulated. Its commandant fled across the Danube, and about 28,000 soldiers were captured.
 source: bulgarzy-zdobywaja-tutrakan
-sourceHash: 344b43f9938e7bfc3b6bc53c0006e3f02af8b87c
+sourceHash: 97daa341370ae445efe2957b3ee8ec049c463421
 ---
 
-On the afternoon of 6 September 1916 the Romanian fortress of Turtucaia on the [Danube](https://pl.wikipedia.org/wiki/Dunaj), today the Bulgarian town of [Tutrakan](https://pl.wikipedia.org/wiki/Tutrakan), capitulated. It was taken by troops of the Bulgarian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Carstwo_Bułgarii)) of General [Stefan Toshev](/postacie/stefan-toszew) and a small German detachment, part of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group. Five days had passed since the [declaration of war on Romania](/bulgaria-wypowiada-wojne-rumunii). In Romania, which still used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 24 August.
+On the afternoon of 6 September 1916 the Romanian fortress of Turtucaia on the [Danube](https://pl.wikipedia.org/wiki/Dunaj), today the Bulgarian town of [Tutrakan](https://pl.wikipedia.org/wiki/Tutrakan), capitulated. It was taken by troops of the Bulgarian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Carstwo_Bułgarii)) of General [Stefan Toshev](/postacie/stefan-toszew) and a small German detachment, part of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group. Five days had passed since the [declaration of war on Romania](/bulgaria-wypowiada-wojne-rumunii). In Romania, which still used the [Julian calendar](/slownik/kalendarz-julianski), it was 24 August.
 
 ## The last day
 

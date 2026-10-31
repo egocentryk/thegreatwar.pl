@@ -2,10 +2,10 @@
 title: Deutschland returns to Germany
 summary: On 23 August 1916 the merchant submarine Deutschland returned from America to the Weser estuary with rubber, nickel and tin. Germans hailed it as a hero.
 source: powrot-deutschlandu-do-niemiec
-sourceHash: 1a9f0a0687bedb2939c478b18c89a7e35b454549
+sourceHash: ec946d040c7327d8e85132cebcebaf98af84bc29
 ---
 
-On the afternoon of 23 August 1916 the German merchant submarine [*Deutschland*](https://pl.wikipedia.org/wiki/Deutschland_(1916)) dropped anchor by the Hohenweg lighthouse in the estuary of the [Weser](https://pl.wikipedia.org/wiki/Wezera). From [Heligoland](https://pl.wikipedia.org/wiki/Helgoland) it had been escorted by ships and aircraft of the Kaiserliche Marine. Captain Paul König and his twenty-odd men were returning from [Baltimore](https://pl.wikipedia.org/wiki/Baltimore), where in July they had become the first to [carry a cargo across the Atlantic by submarine](/okret-podwodny-deutschland-w-ameryce), evading the British [blockade](https://pl.wikipedia.org/wiki/Blokada_morska). The news spread by telegraph throughout Germany and caused rejoicing such as had not been seen for a long time.
+On the afternoon of 23 August 1916 the German merchant submarine [*Deutschland*](https://pl.wikipedia.org/wiki/Deutschland_(1916)) dropped anchor by the Hohenweg lighthouse in the estuary of the [Weser](https://pl.wikipedia.org/wiki/Wezera). From [Heligoland](https://pl.wikipedia.org/wiki/Helgoland) it had been escorted by ships and aircraft of the Kaiserliche Marine. Captain Paul König and his twenty-odd men were returning from [Baltimore](https://pl.wikipedia.org/wiki/Baltimore), where in July they had become the first to [carry a cargo across the Atlantic by submarine](/okret-podwodny-deutschland-w-ameryce), evading the British [blockade](/slownik/blokada). The news spread by telegraph throughout Germany and caused rejoicing such as had not been seen for a long time.
 
 ## Escape from Chesapeake Bay
 

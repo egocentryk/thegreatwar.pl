@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Eberhard von Claer]
 result: Inconclusive. The Germans broke through the Indian Corps' line, but counter-attacks retook Givenchy and most of the trenches. In front of Festubert some ground remained in German hands.
 source: obrona-givenchy
-sourceHash: dcf116a37e695d50bad75c68012b8118eced5998
+sourceHash: 195a28e06ffd5226410542c1a4b534a49e8598ce
 brief:
   - "The Defence of Givenchy, fought on 20–21 December 1914 in French Flanders, was the heaviest battle of the Indian Corps in the first winter of the war and the last major battle on the British front in 1914."
   - "General James Willcocks's exhausted corps had spent two months in flooded trenches, without winter clothing or grenades. The German blow was preceded by unsuccessful local attacks on 16–19 December."
@@ -38,7 +38,7 @@ In mid-December General [Joseph Joffre](/postacie/joseph-joffre) began a series 
 
 On 16 December two companies of the 129th Baluchis of the Ferozepore Brigade captured at Givenchy two German saps approaching the British trenches, but were driven by grenades out of most of the ground they had taken. The Baluchis alone lost over 120 men.
 
-On 19 December the Lahore Division attacked on a sector of about 300 metres north-east of Givenchy. Companies of the 1st Battalion, Highland Light Infantry and the 1st Battalion, 4th Gurkha Rifles of the Sirhind Brigade set off before dawn, after a very short artillery bombardment. They took two lines of trenches and over 70 prisoners. On their right the 59th Scinde Rifles, which had only just arrived in the sector, lost direction in the rain and darkness and seized only two saps. The captured trenches turned out to be enfiladed, and it proved impossible to connect them with the British line. In the evening the men withdrew to their starting positions. Lieutenant William Bruce of the 59th, who despite a wound urged his men on throughout the day, was killed and posthumously awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+On 19 December the Lahore Division attacked on a sector of about 300 metres north-east of Givenchy. Companies of the 1st Battalion, Highland Light Infantry and the 1st Battalion, 4th Gurkha Rifles of the Sirhind Brigade set off before dawn, after a very short artillery bombardment. They took two lines of trenches and over 70 prisoners. On their right the 59th Scinde Rifles, which had only just arrived in the sector, lost direction in the rain and darkness and seized only two saps. The captured trenches turned out to be enfiladed, and it proved impossible to connect them with the British line. In the evening the men withdrew to their starting positions. Lieutenant William Bruce of the 59th, who despite a wound urged his men on throughout the day, was killed and posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 On the same day the Meerut Division took a stretch of German trenches in the area of the Orchard, north-east of Festubert. The attack was led by the British 2nd Battalion, Leicestershire Regiment with half of the 2nd Battalion, 3rd Gurkha Rifles. The Leicesters captured two German machine guns, but under a hail of grenades and trench-mortar bombs gave up most of their gains. In the evening the Germans smothered the Orchard itself with fire. The 2nd Battalion, 2nd Gurkha Rifles had to fall back several dozen metres to the west, to a hastily prepared line. Airmen reported German troops massing in front of the corps.
 

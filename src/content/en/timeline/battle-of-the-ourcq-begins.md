@@ -2,7 +2,7 @@
 title: Battle of the Ourcq begins
 summary: On 5 September 1914 Maunoury's French Sixth Army struck the flank of Kluck's army near Meaux. The clash at Monthyon opened the great Battle of the Marne.
 source: poczatek-bitwy-nad-ourcq
-sourceHash: 1ccc3965e97eb5726f3c3e33e4fd6cd9f16c1153
+sourceHash: d56dfb016bff16723c90b5f89f197f89937a91cd
 brief:
   - "On 5 September 1914 at Monthyon and Penchard, a few kilometres from Meaux, General Michel Maunoury's French Sixth Army collided with the corps covering the right wing of Kluck's army. It was the first act of the Battle of the Marne."
   - "Kluck had turned south-east and passed east of Paris, exposing his right wing. It was covered only by General Hans von Gronau's IV Reserve Corps, while the rest of the army was already south of the Marne."
@@ -15,7 +15,7 @@ On 5 September 1914, north-east of Paris, the French Sixth Army of General [Mich
 
 ## Kluck's turn
 
-Under the German war plan, known as the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena), Kluck's army, the furthest out on the right wing, was to pass west of Paris and encircle the French armies. At the end of August, however, Kluck changed his direction of march. Wanting to catch the retreating French Fifth Army and support the neighbouring 2nd Army of General [Karl von Bülow](/postacie/karl-von-bulow), he turned south-east, and his columns began to pass east of the French capital. On 3 September his leading units crossed the Marne.
+Under the German war plan, known as the [Schlieffen Plan](/slownik/plan-schlieffena), Kluck's army, the furthest out on the right wing, was to pass west of Paris and encircle the French armies. At the end of August, however, Kluck changed his direction of march. Wanting to catch the retreating French Fifth Army and support the neighbouring 2nd Army of General [Karl von Bülow](/postacie/karl-von-bulow), he turned south-east, and his columns began to pass east of the French capital. On 3 September his leading units crossed the Marne.
 
 This manoeuvre exposed the right wing of the German army. French airmen and cavalrymen quickly noticed it. The military governor of Paris, General [Joseph Gallieni](/gallieni-gubernatorem-paryza), to whom the Sixth Army, being formed since the end of August, was subordinate, judged that an opportunity had arisen to strike the Germans in the flank. On the evening of 4 September the commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), issued orders for a general counter-offensive by all the armies of the left wing, set for 6 September. By then the Sixth Army was to move east and prepare to cross the Ourcq.
 

@@ -2,7 +2,7 @@
 title: Liberation of Kraków
 summary: On 31 October 1918 Polish soldiers of the Austro-Hungarian army disarmed the Kraków garrison without a shot. The Austrian command handed power to the Poles.
 source: wyzwolenie-krakowa
-sourceHash: de29ed9c812058844c715063870ca91199021be2
+sourceHash: e11ab70b14ff61a35936567e121c2c24ae4b9f0a
 brief:
   - "On 31 October 1918 Polish soldiers of the Austro-Hungarian army and conspirators disarmed the barracks in Podgórze without a single shot and by midday had taken control of the centre of Kraków."
   - "On 28 October Polish deputies chaired by Wincenty Witos set up the Polish Liquidation Commission in Kraków, but the declaration remained on paper and Colonel Bolesław Roja held back the order to rise."
@@ -29,7 +29,7 @@ On hearing of Czechoslovakia's independence, a junior officer of the [93rd Infan
 
 Early on the morning of 31 October Stawarz entered the barracks on Kalwaryjska Street in [Podgórze](https://pl.wikipedia.org/wiki/Podgórze_(Kraków)). He was helped by Czech and Silesian soldiers who had joined the coup. He told the astonished Austrians that they were disarmed, that their commanders were no longer their commanders, and that he was taking power "by order of the Polish Government". The promise of a safe journey home was enough for them to lay down their arms. At the same time Second Lieutenant Franciszek Pustelnik of the 56th Infantry Regiment disarmed the garrison of the barracks on Wielicka Street. The two groups, swelled by soldiers from the captured barracks, met in Podgórze's market square and set off into the city.
 
-At about ten the troops crossed the bridge over the Vistula and, greeted by crowds of Kraków's inhabitants, reached the [Main Market Square](https://pl.wikipedia.org/wiki/Rynek_Główny_w_Krakowie). Polish soldiers relieved the Austrian guard at the [Town Hall Tower](https://pl.wikipedia.org/wiki/Wieża_ratuszowa_w_Krakowie), the imperial standard was taken down and the Polish flag hoisted. This scene became the symbol of the city's liberation. Alongside the Polish soldiers, members of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), scouts and railwaymen took part in the coup.
+At about ten the troops crossed the bridge over the Vistula and, greeted by crowds of Kraków's inhabitants, reached the [Main Market Square](https://pl.wikipedia.org/wiki/Rynek_Główny_w_Krakowie). Polish soldiers relieved the Austrian guard at the [Town Hall Tower](https://pl.wikipedia.org/wiki/Wieża_ratuszowa_w_Krakowie), the imperial standard was taken down and the Polish flag hoisted. This scene became the symbol of the city's liberation. Alongside the Polish soldiers, members of the [Polish Military Organisation](/slownik/pow), scouts and railwaymen took part in the coup.
 
 Meanwhile, representatives of the Polish authorities were negotiating with the Austrian military commandant of Kraków, General Siegmund von Benigni. Faced with accomplished facts and the helplessness of his own troops, the general gave way. At about 11.30 a.m. Roja came out of the conference room and, as one of those present recalled, solemnly announced that the Austrian military command had surrendered. Formally, Roja took over the Austrian Military Command in Kraków on the orders of the Liquidation Commission the next day, 1 November. Some studies therefore give 31 October as the date of the transfer of power, others 1 November. By the afternoon of 31 October the Polish Liquidation Commission was already exercising power in the city.
 

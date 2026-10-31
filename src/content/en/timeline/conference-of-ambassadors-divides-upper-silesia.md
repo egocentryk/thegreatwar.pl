@@ -2,7 +2,7 @@
 title: Conference of Ambassadors divides Upper Silesia
 summary: On 20 October 1921 the Conference of Ambassadors adopted the League of Nations plan to divide Upper Silesia. Poland got 29% of the area and most mines.
 source: rada-ambasadorow-dzieli-gorny-slask
-sourceHash: ea1cde5d4c7bf8053da90fa4fe28647ca7d23bc8
+sourceHash: 0b824c75375d336a92f9a988bf9ece93c47280b5
 brief:
   - "On 20 October 1921 the Conference of Ambassadors in Paris approved the division of Upper Silesia between Poland and Germany prepared by the Council of the League of Nations. The dispute ended in a settlement far more favourable to Poland than had been expected in the spring."
   - "After the plebiscite France wanted to give Poland the whole industrial district, while Britain and Italy offered only the districts of Pszczyna and Rybnik and scraps of the Katowice district. The third uprising showed the determination of the Polish Upper Silesians, and the matter was referred to the League of Nations."
@@ -10,7 +10,7 @@ brief:
   - "In Germany the decision was seen as an injustice, and at the end of October Joseph Wirth's cabinet resigned. Economic matters and the protection of minorities were settled by the Geneva Convention of 15 May 1922, concluded for 15 years."
 ---
 
-On 20 October 1921 the [Conference of Ambassadors](https://pl.wikipedia.org/wiki/Rada_Ambasadorów) in Paris approved the division of Upper Silesia between Poland and Germany prepared by the Council of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów), and handed the decision to the representatives of both governments. Poland received the smaller part of the plebiscite area, but the part it wanted most: most of the industrial district around Katowice, with most of the mines and steelworks. Half a year after [the lost plebiscite](/plebiscyt-na-gornym-slasku) and a few months after [the third uprising](/wybuch-trzeciego-powstania-slaskiego), the dispute over Upper Silesia ended in a settlement far more favourable to Poland than had been expected in the spring.
+On 20 October 1921 the [Conference of Ambassadors](https://pl.wikipedia.org/wiki/Rada_Ambasadorów) in Paris approved the division of Upper Silesia between Poland and Germany prepared by the Council of the [League of Nations](/slownik/liga-narodow), and handed the decision to the representatives of both governments. Poland received the smaller part of the plebiscite area, but the part it wanted most: most of the industrial district around Katowice, with most of the mines and steelworks. Half a year after [the lost plebiscite](/plebiscyt-na-gornym-slasku) and a few months after [the third uprising](/wybuch-trzeciego-powstania-slaskiego), the dispute over Upper Silesia ended in a settlement far more favourable to Poland than had been expected in the spring.
 
 ## The Great Powers at odds
 

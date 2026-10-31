@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Berlin
 deathPlace: Doorn (Netherlands)
 source: wilhelm-ii
-sourceHash: 465c6cd6dc4daebb464dd1889a5da9749de48e4d
+sourceHash: bc988b24b1734eb5ff70c3a2df35dc6b262b7ce1
 ---
 
 For thirty years Wilhelm II was the face of the German Empire. Loud, impulsive and hungry for attention, he wanted to be seen as a ruler who personally directed policy and the army, and his speeches, interviews and whims repeatedly shook Europe. To Germany's enemies he became the embodiment of Prussian militarism, the "Kaiser" whom British voters wanted to hang in 1918. In July 1914 his assurance that Germany would back Austria-Hungary set off the chain of decisions that led to war. During the war itself, however, his role was surprisingly modest. Formally he was the Supreme Warlord, but in practice he increasingly handed power to his generals, until in 1916 he found himself in the shadow of Hindenburg and Ludendorff. When the war was lost, the army abandoned him and he fled to the Netherlands, where he spent the last twenty-two years of his life.
@@ -45,7 +45,7 @@ Wilhelm II would not hear of it. On 29 October he left Potsdam for headquarters 
 
 ## After the war
 
-The Dutch government recognised him as a private person and granted him refuge in Count Bentinck's castle at [Amerongen](https://pl.wikipedia.org/wiki/Amerongen). There, on 28 November 1918, Wilhelm II [signed a formal act of abdication](/abdykacja-wilhelma-ii), renouncing for ever the crowns of Prussia and the Reich. The [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) provided for him to be brought before an international tribunal for "a supreme offence against international morality and the sanctity of treaties", but the Netherlands refused to hand him over and the victorious powers did not press very hard.
+The Dutch government recognised him as a private person and granted him refuge in Count Bentinck's castle at [Amerongen](https://pl.wikipedia.org/wiki/Amerongen). There, on 28 November 1918, Wilhelm II [signed a formal act of abdication](/abdykacja-wilhelma-ii), renouncing for ever the crowns of Prussia and the Reich. The [Treaty of Versailles](/slownik/traktat-wersalski) provided for him to be brought before an international tribunal for "a supreme offence against international morality and the sanctity of treaties", but the Netherlands refused to hand him over and the victorious powers did not press very hard.
 
 In 1920 he moved to Huis Doorn, an estate he had bought in [Doorn](https://pl.wikipedia.org/wiki/Doorn), where he spent the rest of his life. In 1921 Empress Augusta Victoria died, and a year later he married the widowed Princess Hermine Reuss. He wrote memoirs in which he rejected responsibility for the war, chopped wood and hoped to the end for the restoration of the monarchy. For a time he pinned these hopes on the Nazi movement, but [Adolf Hitler](https://pl.wikipedia.org/wiki/Adolf_Hitler) had no intention of restoring the Hohenzollerns. He died at Doorn on 4 June 1941, a year after German troops occupied the Netherlands. In accordance with his wishes he was buried at Doorn and not in Germany, where after his death there was still no monarchy.
 

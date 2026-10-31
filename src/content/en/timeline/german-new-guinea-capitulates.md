@@ -2,7 +2,7 @@
 title: German New Guinea capitulates
 summary: On 17 September 1914 acting governor Eduard Haber accepted the terms of capitulation of German New Guinea. The colony came under Australian occupation.
 source: kapitulacja-niemieckiej-nowej-gwinei
-sourceHash: 8fa76730f029e99718bd7e15aa86731b6df48b41
+sourceHash: f6e13a4576d9efd963672e0606c64bacc02c406b
 ---
 
 On 17 September 1914 the acting governor of [German New Guinea](https://pl.wikipedia.org/wiki/Nowa_Gwinea_Niemiecka), Eduard Haber, signed the terms of the colony's capitulation. On the other side stood Colonel William Holmes, commander of the Australian Naval and Military Expeditionary Force (AN&MEF), who acted in the name of King George V. Less than a week after the Australians landed, Germany's largest colony in the Pacific ceased to resist.
@@ -23,4 +23,4 @@ By wartime standards the terms of the capitulation were lenient. The armed Germa
 
 Holmes understood that his troops were carrying out a military occupation, not annexing the colony to the British Empire. He therefore left in place the German administration and the planters, without whom the colony's economy would have collapsed. In Australia not everyone understood this, and the terms of the capitulation were criticised as too lenient towards the Germans.
 
-In the following weeks the Australians occupied the remaining posts: [Madang](https://pl.wikipedia.org/wiki/Madang_(miasto)) in Kaiser-Wilhelmsland on 24 September, New Ireland on 17 October, Nauru on 6 November, the Admiralty Islands on 19 November and the northern Solomon Islands on 9 December. After the war Germany renounced the colony, and the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów) entrusted Australia with a mandate over its former territories in New Guinea and the surrounding islands. Australia administered them until Papua New Guinea gained independence in 1975.
+In the following weeks the Australians occupied the remaining posts: [Madang](https://pl.wikipedia.org/wiki/Madang_(miasto)) in Kaiser-Wilhelmsland on 24 September, New Ireland on 17 October, Nauru on 6 November, the Admiralty Islands on 19 November and the northern Solomon Islands on 9 December. After the war Germany renounced the colony, and the [League of Nations](/slownik/liga-narodow) entrusted Australia with a mandate over its former territories in New Guinea and the surrounding islands. Australia administered them until Papua New Guinea gained independence in 1975.

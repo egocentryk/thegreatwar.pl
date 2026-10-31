@@ -16,7 +16,7 @@ brief:
   - "Po nalocie rząd ograniczył prasę do oficjalnych komunikatów. Nalot otworzył kampanię bombardowań Londynu, która trwała z przerwami do 1918 roku."
 ---
 
-Późnym wieczorem 31 maja 1915 roku nad [Londynem](https://pl.wikipedia.org/wiki/Londyn) pojawił się niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) armii [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), dowodzony przez kapitana Ericha Linnarza. W ciągu kilkunastu minut zrzucił na północne i wschodnie dzielnice miasta ponad sto bomb burzących i zapalających. Zginęło siedem osób, w tym troje dzieci, a 35 zostało rannych. Był to pierwszy nalot na stolicę Wielkiej Brytanii, która dotąd wydawała się poza zasięgiem wojny.
+Późnym wieczorem 31 maja 1915 roku nad [Londynem](https://pl.wikipedia.org/wiki/Londyn) pojawił się niemiecki [sterowiec](/slownik/sterowiec) armii [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), dowodzony przez kapitana Ericha Linnarza. W ciągu kilkunastu minut zrzucił na północne i wschodnie dzielnice miasta ponad sto bomb burzących i zapalających. Zginęło siedem osób, w tym troje dzieci, a 35 zostało rannych. Był to pierwszy nalot na stolicę Wielkiej Brytanii, która dotąd wydawała się poza zasięgiem wojny.
 
 ## Londyn celem
 

@@ -21,7 +21,7 @@ Na początku września u ujścia Wouri pojawił się brytyjski krążownik pance
 
 ## Zamknięty port
 
-Niemcy mieli czas, by przygotować obronę. Postawili w estuarium [miny morskie](https://pl.wikipedia.org/wiki/Mina_morska), a w torze wodnym prowadzącym do Duali zatopili według różnych źródeł 10 lub 12 statków handlowych i jednostek pomocniczych, by uniemożliwić okrętom przejście. Brytyjczycy musieli więc sondować płycizny, oznaczać nowy tor i usuwać miny. Pracami tymi, prowadzonymi przez Royal Navy i marynarkę kolonii [Nigerii](https://pl.wikipedia.org/wiki/Nigeria), kierował Fuller.
+Niemcy mieli czas, by przygotować obronę. Postawili w estuarium [miny morskie](/slownik/mina-morska), a w torze wodnym prowadzącym do Duali zatopili według różnych źródeł 10 lub 12 statków handlowych i jednostek pomocniczych, by uniemożliwić okrętom przejście. Brytyjczycy musieli więc sondować płycizny, oznaczać nowy tor i usuwać miny. Pracami tymi, prowadzonymi przez Royal Navy i marynarkę kolonii [Nigerii](https://pl.wikipedia.org/wiki/Nigeria), kierował Fuller.
 
 Mała kanonierka Dwarf, zdolna pływać po płytkich wodach, stała się głównym celem Niemców. 11 września, próbując wejść do rzeki, została uszkodzona ogniem artylerii z brzegu. W kolejnych dniach Niemcy kilkakrotnie próbowali ją zniszczyć, między innymi łodziami z ładunkami wybuchowymi. 16 września staranował ją niemiecki statek celny Nachtigal. Dwarf przetrwał zderzenie, a Nachtigal zatonął.
 

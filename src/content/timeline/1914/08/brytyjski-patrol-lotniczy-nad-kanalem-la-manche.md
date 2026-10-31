@@ -15,7 +15,7 @@ draft: false
 
 ## Lotnictwo marynarki wojennej
 
-Patrole prowadziła [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), lotnictwo brytyjskiej marynarki wojennej, wydzielone jako osobna formacja zaledwie kilka tygodni przed wybuchem wojny. W sierpniu 1914 roku dysponowało ono niespełna setką samolotów, w tym [wodnosamolotami](https://pl.wikipedia.org/wiki/Wodnosamolot), oraz kilkoma [sterowcami](https://pl.wikipedia.org/wiki/Sterowiec). Sterowce patrolowały kanał już w pierwszych nocach wojny.
+Patrole prowadziła [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), lotnictwo brytyjskiej marynarki wojennej, wydzielone jako osobna formacja zaledwie kilka tygodni przed wybuchem wojny. W sierpniu 1914 roku dysponowało ono niespełna setką samolotów, w tym [wodnosamolotami](https://pl.wikipedia.org/wiki/Wodnosamolot), oraz kilkoma [sterowcami](/slownik/sterowiec). Sterowce patrolowały kanał już w pierwszych nocach wojny.
 
 ## Oczy floty
 

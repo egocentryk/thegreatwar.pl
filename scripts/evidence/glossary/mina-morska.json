@@ -1,0 +1,198 @@
+{
+ "slug": "mina-morska",
+ "paragraphs": [
+  {
+   "start": "Mina morska to ładunek wybuchowy ustawiany w wodzi",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Ładunek wybuchowy ustawiany w wodzie, wybuchający przy zetknięciu z kadłubem okrętu lub statku. W I wojnie światowej obie strony zagradzały minami porty, cieśniny i szlaki żeglugowe; zatonęły na nich setki jednostek."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Naval_mine",
+     "quote": "The total number of mines laid in the North Sea, the British East Coast, Straits of Dover, and Heligoland Bight is estimated at 190,000 and the total number during the whole of WWI was 235,000 sea mines."
+    }
+   ]
+  },
+  {
+   "start": "Najczęściej używano miny kotwicznej. Metalowy pływ",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Najczęściej używano min kotwicznych: pływaka z ładunkiem, utrzymywanego na linie tuż pod powierzchnią i odpalanego zapalnikiem uderzeniowym."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Naval_mine",
+     "quote": "Generally, this type of mine is set to float just below the surface of the water or as deep as five meters. A steel cable connecting the mine to an anchor on the seabed prevents it from drifting away. The explosive and detonating mechanism is contained in a buoyant metal or plastic shell."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Naval_mine",
+     "quote": "When a ship's hull crushes the metal horn, it cracks the vial inside it, allowing the acid to run down a tube and into a lead–acid battery which until then contained no acid electrolyte."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-stawiaja-miny-na-otwartym-morzu-koenigin-luise-zatopiona.md",
+     "quote": "Stawianie min na otwartym morzu, z dala od wybrzeży i portów nieprzyjaciela, budziło kontrowersje. Konwencje haskie z 1907 roku ograniczały użycie min morskich, by chronić żeglugę neutralną, a Brytyjczycy oskarżali Niemcy o łamanie tych zasad. W kolejnych latach obie strony postawiły jednak dziesiątki tysięcy min."
+    }
+   ]
+  },
+  {
+   "start": "W nocy z 4 na 5 sierpnia 1914 roku przebudowany ni",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/hms-amphion-zatopiony-na-minie.md",
+     "quote": "6 sierpnia 1914 roku około godziny 6:30 rano brytyjski krążownik zwiadowczy HMS Amphion wszedł na miny postawione w nocy z 4 na 5 sierpnia przez niemiecki okręt Königin Luise. Zatonął w ciągu kilkunastu minut. Był pierwszym okrętem Royal Navy utraconym w I wojnie światowej"
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-stawiaja-miny-na-otwartym-morzu-koenigin-luise-zatopiona.md",
+     "quote": "Przed wojną pływał jako statek pasażerski towarzystwa HAPAG, wożąc turystów między Hamburgiem a wyspą Helgoland. Na początku wojny Kaiserliche Marine przejęła go i szybko przebudowała na pomocniczy stawiacz min."
+    },
+    {
+     "file": "src/content/timeline/1914/10/zatoniecie-hms-audacious.md",
+     "quote": "Nikt nie wiedział, że kilka dni wcześniej niemiecki krążownik pomocniczy Berlin, przebudowany z liniowca pasażerskiego, postawił na tych wodach około 200 min."
+    },
+    {
+     "url": "http://www.naval-history.net/WW1Book-MN2b.htm",
+     "quote": "The proceedings of the mine-laying craft became so persistent and thorough, when once they had begun in June 1915, that it is impossible to deal with them in detail. With the regularity almost of a freighter, the UC-boats would load up with mines at Bruges, pass out through the Zeebrugge locks, cross the North Sea, and lay the mines"
+    },
+    {
+     "url": "http://www.naval-history.net/WW1Book-MN2b.htm",
+     "quote": "The latter had begun by carrying only a dozen mines, but the U-boat mine-layers which made their appearance early in 1916 had space for as many as thirty-four. Eventually they were able to lay mines in districts so far apart as the White Sea in the north and the west coast of Africa in the south."
+    }
+   ]
+  },
+  {
+   "start": "Brytyjczycy postawili pierwsze pola minowe u wybrz",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/04/zapora-minowa-u-wybrzezy-belgii.md",
+     "quote": "Pierwsze brytyjskie pola minowe u wybrzeży Belgii postawiono jeszcze jesienią 1914 roku"
+    },
+    {
+     "file": "src/content/timeline/1914/11/morze-polnocne-strefa-wojenna.md",
+     "quote": "2 listopada 1914 roku brytyjska Admiralicja ogłosiła, że całe Morze Północne należy odtąd uważać za obszar wojskowy."
+    },
+    {
+     "file": "src/content/timeline/1914/11/morze-polnocne-strefa-wojenna.md",
+     "quote": "Ogłoszenie Morza Północnego obszarem wojskowym miało duże znaczenie dla brytyjskiej blokady morskiej Niemiec."
+    },
+    {
+     "file": "src/content/timeline/1916/04/zapora-minowa-u-wybrzezy-belgii.md",
+     "quote": "Bacon objął dowództwo w Dover w kwietniu 1915 roku, gdy zapora w Cieśninie Kaletańskiej zamknęła tę drogę dużym U-Bootom z Niemiec."
+    },
+    {
+     "file": "src/content/timeline/1916/04/zapora-minowa-u-wybrzezy-belgii.md",
+     "quote": "24 kwietnia 1916 roku, w Poniedziałek Wielkanocny, brytyjskie okręty postawiły na morzu przed wybrzeżem okupowanej Belgii zaporę z min i sieci minowych długą na blisko 30 kilometrów."
+    }
+   ]
+  },
+  {
+   "start": "Największą zaporą tej wojny była Zapora Północna (",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/North_Sea_Mine_Barrage",
+     "quote": "The North Sea Mine Barrage, also known as the Northern Barrage, was a large minefield laid easterly from the Orkney Islands to Norway by the United States Navy (assisted by the Royal Navy) during the First World War."
+    },
+    {
+     "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-033/h-033-5.html",
+     "quote": "Commencing in June 1918 until the war ended, the U.S. force would lay 56,571 of the total 70,177 mines in the barrage, which still had some gaps when the war ended."
+    },
+    {
+     "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-033/h-033-5.html",
+     "quote": "The innovation was that the Mark 6 also deployed copper wire antennae attached to a float that would extend above the mine within the lethal radius of the mine explosive. If a submarine hull touched the antennae, it would detonate the mine and sink the submarine."
+    },
+    {
+     "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-033/h-033-5.html",
+     "quote": "The effectiveness of the mine barrage was hotly debated, particularly given the immense cost. The barrage is believed to have had a significant adverse morale effect on the German submarine force, although even that is debated. Four U-boats are believed to have been destroyed by the barrage"
+    }
+   ]
+  },
+  {
+   "start": "Do usuwania min używano trałowców, które ciągnęły m",
+   "quotes": [
+    {
+     "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-033/h-033-5.html",
+     "quote": "The general principal for sweeping the mines was to tow a serrated wire between two ships on parallel course, with the wire held down at depth by “kites.” The wire would cut the mine cable, causing the mine to float to the surface to be destroyed by gunfire."
+    },
+    {
+     "file": "src/content/timeline/1918/11/zatopienie-hms-ascot.md",
+     "quote": "bo trałowców brakowało od pierwszych dni wojny, a do oczyszczania przybrzeżnych wód z min używano zmobilizowanych statków wycieczkowych i rybackich."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Do trałowania używano setek kutrów rybackich."
+    },
+    {
+     "url": "http://www.naval-history.net/WW1Book-MN2b.htm",
+     "quote": "By the end of the year 1916 the number had been increased to 4,574, figures which indicate sufficiently the thoroughness of the mine-sweepers' operations; but nearly 400 vessels had been sunk or damaged in carrying out the work."
+    }
+   ]
+  },
+  {
+   "start": "Na minach załamał się w 1915 roku atak floty w Dard",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/morska-operacja-w-dardanelach.md",
+     "quote": "Od 19 lutego do 18 marca 1915 roku flota brytyjska i francuska próbowała sforsować Dardanele bez udziału wojsk lądowych."
+    },
+    {
+     "file": "src/content/battles/1915/morska-operacja-w-dardanelach.md",
+     "quote": "Słabe trałowce nie potrafiły ich oczyścić pod ogniem ruchomych baterii."
+    },
+    {
+     "file": "src/content/battles/1915/morska-operacja-w-dardanelach.md",
+     "quote": "18 marca w zatoce Eren Köy pancerniki Bouvet, Irresistible i Ocean zatonęły na minach postawionych potajemnie przez turecki stawiacz min Nusret."
+    },
+    {
+     "file": "src/content/battles/1915/morska-operacja-w-dardanelach.md",
+     "quote": "W nocy z 7 na 8 marca turecki stawiacz min Nusret postawił tam potajemnie linię 20 min (według niektórych źródeł 26)"
+    },
+    {
+     "file": "src/content/battles/1915/morska-operacja-w-dardanelach.md",
+     "quote": "Pewne jest, że stare pancerniki okazały się bezradne wobec połączenia min, ruchomych baterii i ognia z umocnień."
+    }
+   ]
+  },
+  {
+   "start": "Na Bałtyku na rosyjskich minach zatonął w listopadz",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/11/zatoniecie-krazownika-friedrich-carl.md",
+     "quote": "W nocy 17 listopada 1914 roku niemiecki krążownik pancerny Friedrich Carl wszedł na dwie rosyjskie miny około 33 mil morskich na zachód od Kłajpedy"
+    },
+    {
+     "file": "src/content/timeline/1916/06/smierc-kitchenera.md",
+     "quote": "5 czerwca 1916 roku wieczorem, w czasie sztormu u zachodnich wybrzeży Orkadów, brytyjski krążownik pancerny Hampshire wszedł na minę i w ciągu kilkunastu minut zatonął. Na pokładzie płynął do Rosji minister wojny, marszałek polny lord Kitchener, ze swoim sztabem. Zginął wraz z niemal całą załogą okrętu."
+    },
+    {
+     "file": "src/content/timeline/1916/06/smierc-kitchenera.md",
+     "quote": "Okręt wszedł na pole minowe, które w nocy z 28 na 29 maja postawił niemiecki podwodny stawiacz min U-75"
+    }
+   ]
+  },
+  {
+   "start": "Miny zatopiły statki szpitalne Anglia i Britannic,",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/11/zatoniecie-statku-szpitalnego-anglia.md",
+     "quote": "Minę postawił niemiecki podwodny stawiacz min UC-5."
+    },
+    {
+     "file": "src/content/timeline/1916/11/zatoniecie-statku-szpitalnego-britannic.md",
+     "quote": "Zginęło 30 ludzi, a Britannic stał się największym statkiem straconym w całej wojnie."
+    },
+    {
+     "file": "src/content/timeline/1918/07/zatopienie-san-diego.md",
+     "quote": "19 lipca 1918 u Fire Island pod Nowym Jorkiem wszedł na minę postawioną przez U-156 krążownik pancerny San Diego."
+    },
+    {
+     "file": "src/content/timeline/1918/11/zatopienie-hms-ascot.md",
+     "quote": "Ostatnią ofiarą wojny na morzu był norweski statek Ener, który 11 listopada wszedł na minę w pobliżu wyspy Fair Isle między Orkadami a Szetlandami."
+    },
+    {
+     "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-033/h-033-5.html",
+     "quote": "Mines continued to be a danger in the North Sea for many years, and several merchant ships lost in the 1920s were probably sunk by leftover mines."
+    }
+   ]
+  }
+ ]
+}

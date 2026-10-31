@@ -2,7 +2,7 @@
 title: Battle of Guise ends
 summary: On 30 August 1914 the French Fifth Army broke off the fight with Bülow's army and withdrew behind the Serre. The Battle of Guise was over.
 source: koniec-bitwy-pod-guise
-sourceHash: a8232b2dd2e7d0b0a8b3e99b600220dea1363cea
+sourceHash: 173dae0fd3e37bde8af5553b83c95f4beab459c9
 ---
 
 On 30 August 1914 the Battle of Guise, called by the Germans the Battle of Saint-Quentin, came to an end. The French Fifth Army of General Charles Lanrezac, which the day before had thrown the Germans back in the valley of the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), broke off the fight and resumed its retreat to the south.
@@ -21,4 +21,4 @@ Both sides claimed success. General [Karl von Bülow](/postacie/karl-von-bulow) 
 
 The most important consequences of the battle appeared away from the battlefield. Bülow asked the commander of the neighbouring First Army, General [Alexander von Kluck](/postacie/alexander-von-kluck), for help in finishing off the Fifth Army. On the evening of 30 August Kluck decided to turn south-east, towards [Noyon](https://pl.wikipedia.org/wiki/Noyon) and [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), instead of passing round Paris to the west. The next day the German Supreme Army Command approved this manoeuvre.
 
-In doing so the Germans abandoned the assumptions of the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena). Kluck's army was to pass east of Paris, exposing its right flank to a blow from the French Sixth Army, which was being assembled around the capital. A few days later Joffre seized this opportunity in the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). The start of the fighting is described in the article [Battle of Guise begins](/poczatek-bitwy-pod-guise).
+In doing so the Germans abandoned the assumptions of the [Schlieffen Plan](/slownik/plan-schlieffena). Kluck's army was to pass east of Paris, exposing its right flank to a blow from the French Sixth Army, which was being assembled around the capital. A few days later Joffre seized this opportunity in the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). The start of the fighting is described in the article [Battle of Guise begins](/poczatek-bitwy-pod-guise).

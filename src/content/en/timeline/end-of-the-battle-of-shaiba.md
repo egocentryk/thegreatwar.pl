@@ -2,14 +2,14 @@
 title: End of the battle of Shaiba
 summary: On 14 April 1915 British and Indian troops took the Turkish trenches by Barjisiyah wood. The Turks fled Basra and their commander Süleyman Askerî shot himself.
 source: koniec-bitwy-pod-szuajba
-sourceHash: 195cc006b3fda555c3e228d615c37e97c70df40c
+sourceHash: 88eb7132207144faf4b28e3bfc0c6e42da628942
 ---
 
 On 14 April 1915 the battle of Shaiba, west of [Basra](https://pl.wikipedia.org/wiki/Basra), was decided. The British and Indian troops of General Charles Melliss came out of the camp where they had [been beating off attacks for two days](/poczatek-bitwy-pod-szuajba) and after a whole day of heavy fighting took the Turkish trenches in front of Barjisiyah wood. The Ottoman troops broke into disorderly flight, and their commander, Lieutenant-Colonel Süleyman Askerî, shot himself. It was the last Turkish attack to threaten Basra.
 
 ## The sortie of 13 April
 
-Melliss, an Indian Army officer with long service in India and Africa, awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for the fighting in Ashanti in 1900, took over command at dawn on 13 April. He went over to the counter-attack at once. In the morning the cavalry brigade attacked a hillock north-west of the camp, known as North Mound, where Arabs had gathered. The attack was repulsed, and Major George Wheeler of the 7th Hariana Lancers, who had galloped far ahead of his squadron straight at the enemy's standards, was killed on the mound. Before noon, however, three battalions of General Walter Delamain's 16th Brigade, supported by the fire of all the camp's artillery, took North Mound. The Arabs fled, leaving 90 dead on the mound.
+Melliss, an Indian Army officer with long service in India and Africa, awarded the [Victoria Cross](/slownik/krzyz-wiktorii) for the fighting in Ashanti in 1900, took over command at dawn on 13 April. He went over to the counter-attack at once. In the morning the cavalry brigade attacked a hillock north-west of the camp, known as North Mound, where Arabs had gathered. The attack was repulsed, and Major George Wheeler of the 7th Hariana Lancers, who had galloped far ahead of his squadron straight at the enemy's standards, was killed on the mound. Before noon, however, three battalions of General Walter Delamain's 16th Brigade, supported by the fire of all the camp's artillery, took North Mound. The Arabs fled, leaving 90 dead on the mound.
 
 Delamain pushed on to the south-west. The 104th Wellesley's Rifles took several lines of Turkish trenches with the bayonet and captured 150 prisoners, and the 24th Punjabis seized two mountain guns abandoned by the Turks. At about 3 p.m. Melliss decided that the tired men, who had fired off most of their ammunition, could attack no more and called them back to the camp. The day brought the British more than 400 prisoners at a cost of 132 men. According to information from Turkish sources quoted in the British official history, Ali Bey, who was in actual command of the troops, had wanted to withdraw to Barjisiyah wood after the failed night assault and wait there for the British attack. Askerî, however, insisted on renewing the attack on 13 April.
 

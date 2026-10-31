@@ -35,7 +35,7 @@ Rano 7 października dziewięciu żołnierzy wymknęło się bez rozkazu po zrzu
 
 ## Odsiecz
 
-Tego samego dnia sytuacja się odwróciła. 28 i 82 Dywizja uderzyły ze wschodu, z doliny rzeki Aire na Châtel-Chéhéry, w tył niemieckich pozycji w Argonnach, a 77 Dywizja ponawiała natarcia od czoła. Niemcy zaczęli ustępować. Wieczorem po raz ostatni zaatakowali okrążonych, tym razem także z [miotaczami ognia](https://pl.wikipedia.org/wiki/Miotacz_ognia), ale zostali odparci. Wkrótce potem na stok weszli żołnierze 307 Pułku z żywnością i amunicją. Rano 8 października przybył do okrążonych dowódca dywizji, generał Robert Alexander.
+Tego samego dnia sytuacja się odwróciła. 28 i 82 Dywizja uderzyły ze wschodu, z doliny rzeki Aire na Châtel-Chéhéry, w tył niemieckich pozycji w Argonnach, a 77 Dywizja ponawiała natarcia od czoła. Niemcy zaczęli ustępować. Wieczorem po raz ostatni zaatakowali okrążonych, tym razem także z [miotaczami ognia](/slownik/miotacz-ognia), ale zostali odparci. Wkrótce potem na stok weszli żołnierze 307 Pułku z żywnością i amunicją. Rano 8 października przybył do okrążonych dowódca dywizji, generał Robert Alexander.
 
 ## Bilans
 

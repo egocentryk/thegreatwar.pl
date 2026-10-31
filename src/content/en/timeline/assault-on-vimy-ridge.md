@@ -2,7 +2,7 @@
 title: Assault on Vimy Ridge
 summary: On 9 April 1917, in a snowstorm, four Canadian divisions attacked Vimy Ridge. By evening they held almost all of it except the highest point, Hill 145.
 source: szturm-na-grzbiet-vimy
-sourceHash: 5a03845416eadf2d4ce9ce9ea55e41cd4221aa1c
+sourceHash: 71a8e924389fea75460638f5bc7de1a994aeb73e
 brief:
   - "On Easter Monday, 9 April 1917, the Canadian Corps attacked Vimy Ridge. For the first time all four Canadian divisions went into battle together."
   - "The ridge had been fought over for two and a half years, and in 1915 the French twice tried to take it. Lieutenant-General Julian Byng planned the attack to the minute, and every battalion rehearsed its task."
@@ -27,7 +27,7 @@ The infantry followed close behind the barrage. The ground was terrible: water-f
 
 ## The right wing: Thélus and the eastern slope
 
-On the right wing Major-General [Arthur Currie's](/postacie/arthur-currie) 1st Division and the 2nd Division reached the first objective, the Black Line, at about 6.15 a.m. The most dangerous opponents proved to be snipers and machine-gun crews, who fought to the end. Private William Milne of the 16th Battalion crawled up to one such nest and bombed it, and Sergeant Ellis Sifton of the 18th Battalion jumped into a trench with a hidden machine gun and bayoneted its crew. Both received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii), both posthumously, as they were killed later that day. The eight tanks that were to support the 2nd Division got stuck in the mud at the very start.
+On the right wing Major-General [Arthur Currie's](/postacie/arthur-currie) 1st Division and the 2nd Division reached the first objective, the Black Line, at about 6.15 a.m. The most dangerous opponents proved to be snipers and machine-gun crews, who fought to the end. Private William Milne of the 16th Battalion crawled up to one such nest and bombed it, and Sergeant Ellis Sifton of the 18th Battalion jumped into a trench with a hidden machine gun and bayoneted its crew. Both received the [Victoria Cross](/slownik/krzyz-wiktorii), both posthumously, as they were killed later that day. The eight tanks that were to support the 2nd Division got stuck in the mud at the very start.
 
 At 6.45 a.m. the attack moved on. The wind changed direction and blew smoke from Thélus onto the Bavarian defenders, who saw the Canadians only when they were right in front of them. In the ruins of the hamlet of Les Tilleuls the 21st Battalion found two German battalion headquarters in a large cave and took over 100 prisoners. At about 8 a.m. both divisions stood on the second objective, the Red Line. Later the reserve brigades, supported by the British 13th Brigade, passed through the ruined village of [Thélus](https://pl.wikipedia.org/wiki/Thélus) and Hill 135 and after 11 a.m. reached the third line. The Canadian official history describes how at that moment the clouds briefly parted and the sun lit up a ridge full of Canadian soldiers: "The Germans saw that the ridge was lost, the Canadians knew that it was won." After a pause of an hour and a half the infantry went down the eastern slope, cut through the wire of the German second position with wire cutters, and in the woods above [Farbus](https://pl.wikipedia.org/wiki/Farbus) captured German batteries whose crews had fled. Among those taken prisoner was the commander of the 3rd Bavarian Reserve Regiment with his staff. From the crest and the eastern slope the Canadians looked out over the wide Douai plain.
 

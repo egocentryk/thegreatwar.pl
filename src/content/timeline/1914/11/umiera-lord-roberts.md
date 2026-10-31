@@ -14,7 +14,7 @@ draft: false
 
 ## Czterdzieści lat w Indiach
 
-Roberts urodził się 30 września 1832 roku w Cawnpore, dzisiejszym [Kanpurze](https://pl.wikipedia.org/wiki/Kanpur), w rodzinie oficera armii Kompanii Wschodnioindyjskiej, pochodzącej z Irlandii. W 1851 roku wstąpił do bengalskiej artylerii. W czasie [powstania sipajów](https://pl.wikipedia.org/wiki/Powstanie_sipajów) walczył między innymi pod Delhi i Lucknow, a za odwagę w starciu pod Khudaganj 2 stycznia 1858 roku otrzymał [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii), najwyższe brytyjskie odznaczenie wojenne.
+Roberts urodził się 30 września 1832 roku w Cawnpore, dzisiejszym [Kanpurze](https://pl.wikipedia.org/wiki/Kanpur), w rodzinie oficera armii Kompanii Wschodnioindyjskiej, pochodzącej z Irlandii. W 1851 roku wstąpił do bengalskiej artylerii. W czasie [powstania sipajów](https://pl.wikipedia.org/wiki/Powstanie_sipajów) walczył między innymi pod Delhi i Lucknow, a za odwagę w starciu pod Khudaganj 2 stycznia 1858 roku otrzymał [Krzyż Wiktorii](/slownik/krzyz-wiktorii), najwyższe brytyjskie odznaczenie wojenne.
 
 Sławę przyniosła mu [II wojna brytyjsko-afgańska](https://pl.wikipedia.org/wiki/II_wojna_brytyjsko-afgańska). W sierpniu 1880 roku poprowadził około 10 tysięcy żołnierzy z Kabulu na odsiecz oblężonemu Kandaharowi. Pokonał blisko 500 kilometrów przez góry i pustkowia w około trzy tygodnie, a 1 września rozbił wojska Ajjuba Chana w [bitwie pod Kandaharem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kandaharem). Marsz uczynił go bohaterem narodowym. W latach 1885–1893 był naczelnym wodzem armii w Indiach. Służył tam w sumie ponad czterdzieści lat, a żołnierze, zarówno brytyjscy, jak i indyjscy, nazywali go pieszczotliwie „Bobs”.
 

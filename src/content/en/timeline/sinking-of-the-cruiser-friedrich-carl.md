@@ -2,7 +2,7 @@
 title: Sinking of the cruiser Friedrich Carl
 summary: On the night of 17 November 1914 the German armoured cruiser Friedrich Carl struck Russian mines off Memel and sank. Seven or eight sailors were killed.
 source: zatoniecie-krazownika-friedrich-carl
-sourceHash: cb22de4f07c8277eb86e304882e305e3f4dd4e47
+sourceHash: b7ccfaa1cb945828792f23b4836afe129464cc9a
 ---
 
 On the night of 17 November 1914 the German [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [*Friedrich Carl*](https://pl.wikipedia.org/wiki/SMS_Friedrich_Carl_(1902)) struck two Russian mines about 33 nautical miles west of [Memel](https://pl.wikipedia.org/wiki/Kłajpeda) (Klaipėda), and after several hours sank in the cold waters of the [Baltic Sea](https://pl.wikipedia.org/wiki/Morze_Bałtyckie). Most of the crew were saved.
@@ -19,4 +19,4 @@ The mines came from fields laid at the turn of October and November by Russian d
 
 For several hours the crew fought to keep the ship afloat. This gave time for the light cruiser *Augsburg* to arrive, and at about 6 a.m. she began taking men off. A quarter of an hour or so later the order was given to abandon ship. At about 7.15 a.m. *Friedrich Carl* capsized and sank. Seven or eight sailors were killed, according to some sources in the stern torpedo room, near the site of the explosion.
 
-The loss of the cruiser did not stop the operation. The same day other German ships [shelled Libau](/niemcy-ostrzeliwuja-lipawe) and scuttled blockships in the harbour entrances. Behring transferred to *Augsburg*, and her sister ship *Prinz Adalbert* was sent to the Baltic to replace the sunken cruiser. On 4 November another German armoured cruiser, [*Yorck*](/zatoniecie-krazownika-yorck), had sunk on German mines off the Jade estuary. Two such losses in less than two weeks showed what a dangerous weapon [naval mines](https://pl.wikipedia.org/wiki/Mina_morska) had become in the shallow waters of the North Sea and the Baltic.
+The loss of the cruiser did not stop the operation. The same day other German ships [shelled Libau](/niemcy-ostrzeliwuja-lipawe) and scuttled blockships in the harbour entrances. Behring transferred to *Augsburg*, and her sister ship *Prinz Adalbert* was sent to the Baltic to replace the sunken cruiser. On 4 November another German armoured cruiser, [*Yorck*](/zatoniecie-krazownika-yorck), had sunk on German mines off the Jade estuary. Two such losses in less than two weeks showed what a dangerous weapon [naval mines](/slownik/mina-morska) had become in the shallow waters of the North Sea and the Baltic.

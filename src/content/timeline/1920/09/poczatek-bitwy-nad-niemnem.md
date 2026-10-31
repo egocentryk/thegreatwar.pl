@@ -35,6 +35,6 @@ Tuchaczewski uznał uderzenie pod Grodnem za początek głównej polskiej ofensy
 
 ## Liga Narodów i Ryga
 
-Tego samego dnia Rada [Ligi Narodów](https://pl.wikipedia.org/wiki/Liga_Narodów) przyjęła rezolucję, która potwierdzała tak zwaną linię Focha na Suwalszczyźnie jako tymczasową linię demarkacyjną między Polską a Litwą. Polski plan zakładał jej przekroczenie. Litwini, którzy zajęli Wilno po odwrocie Armii Czerwonej, a we wrześniu walczyli z Polakami pod Sejnami i Augustowem, ogłaszali neutralność w wojnie polsko-radzieckiej. W Polsce uważano ich jednak za faktycznych sprzymierzeńców Moskwy.
+Tego samego dnia Rada [Ligi Narodów](/slownik/liga-narodow) przyjęła rezolucję, która potwierdzała tak zwaną linię Focha na Suwalszczyźnie jako tymczasową linię demarkacyjną między Polską a Litwą. Polski plan zakładał jej przekroczenie. Litwini, którzy zajęli Wilno po odwrocie Armii Czerwonej, a we wrześniu walczyli z Polakami pod Sejnami i Augustowem, ogłaszali neutralność w wojnie polsko-radzieckiej. W Polsce uważano ich jednak za faktycznych sprzymierzeńców Moskwy.
 
 20 września w Moskwie [Włodzimierz Lenin](/postacie/wlodzimierz-lenin) mówił współpracownikom o konieczności szybkiego zawieszenia broni z Polską, bo najpierw trzeba było pokonać na południu białą armię generała Piotra Wrangla. Następnego dnia w Rydze miały się zacząć polsko-radzieckie rokowania pokojowe. Ich przebieg zależał teraz w dużej mierze od tego, co się stanie nad Niemnem.

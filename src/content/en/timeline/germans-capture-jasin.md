@@ -2,7 +2,7 @@
 title: Germans capture Jasin
 summary: On the morning of 19 January 1915 the Jasin garrison, out of ammunition and water, surrendered to Lettow-Vorbeck. 276 Indian and African soldiers were captured.
 source: niemcy-zdobywaja-jasin
-sourceHash: 15c0d28867b992fdae31b91a6a0862a24ee5d773
+sourceHash: 3c11a62edc239fabb019b71ab518ef65451bb385
 ---
 
 On the morning of 19 January 1915 the British garrison of Jasin, a border plantation in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), surrendered. Since dawn [the previous day](/niemiecki-atak-na-jasin) about 300 Indian soldiers had been holding out in a redoubt surrounded by nine companies under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Attempts to relieve them from the British camp on the Umba river had failed.
@@ -11,7 +11,7 @@ On the morning of 19 January 1915 the British garrison of Jasin, a border planta
 
 Early in the morning the firing grew heavier again. The defenders attempted a sortie but were driven back. Their position was hopeless. Their commander, Raghbir Singh, had been killed the day before, and command had passed to two British officers, Captains Hanson and Turner. In the redoubt, which was also being shelled at close range, the water had run out and the ammunition was nearly exhausted. At about 7 a.m. the defenders raised the white flag. Brigadier-General Michael Tighe had been preparing a new relief attack for that morning. One company of the King's African Rifles set out at dawn to reconnoitre and reached the hill above Jasin, but it was already too late.
 
-According to British figures, 276 men were taken prisoner. They included grenadiers of the 101st Regiment and Kashmir Rifles, about 130 from each unit, as well as askaris of a King's African Rifles machine-gun crew, a few signallers and both British officers. Lettow-Vorbeck congratulated the officers on their stubborn defence, returned their swords and released them on parole. The other prisoners were sent to German camps. The German commander recalled how proudly his [askaris](https://pl.wikipedia.org/wiki/Askarysi) looked upon the defeated enemy.
+According to British figures, 276 men were taken prisoner. They included grenadiers of the 101st Regiment and Kashmir Rifles, about 130 from each unit, as well as askaris of a King's African Rifles machine-gun crew, a few signallers and both British officers. Lettow-Vorbeck congratulated the officers on their stubborn defence, returned their swords and released them on parole. The other prisoners were sent to German camps. The German commander recalled how proudly his [askaris](/slownik/askarysi) looked upon the defeated enemy.
 
 ## A costly victory
 

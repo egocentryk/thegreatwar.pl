@@ -2,10 +2,10 @@
 title: Carmania sinks Cap Trafalgar
 summary: On 14 September 1914 off Trindade in the South Atlantic the British armed merchant cruiser Carmania sank the German Cap Trafalgar. Both were liners.
 source: carmania-zatapia-cap-trafalgar
-sourceHash: 721a0df0982f833e40d3d863c7856e845d9946aa
+sourceHash: 275ea25565d5e37de1a88e891398b61c2d20e004
 ---
 
-On 14 September 1914, off the island of [Trindade](https://pl.wikipedia.org/wiki/Trindade_i_Martim_Vaz), more than 1,000 kilometres from the coast of Brazil, an extraordinary engagement took place. The British [armed merchant cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) [HMS *Carmania*](https://pl.wikipedia.org/wiki/RMS_Carmania_(1905)), after a fight of nearly two hours, sank the German armed merchant cruiser [*Cap Trafalgar*](https://pl.wikipedia.org/wiki/SMS_Cap_Trafalgar). It was the first battle in history between two armed passenger liners.
+On 14 September 1914, off the island of [Trindade](https://pl.wikipedia.org/wiki/Trindade_i_Martim_Vaz), more than 1,000 kilometres from the coast of Brazil, an extraordinary engagement took place. The British [armed merchant cruiser](/slownik/krazownik-pomocniczy) [HMS *Carmania*](https://pl.wikipedia.org/wiki/RMS_Carmania_(1905)), after a fight of nearly two hours, sank the German armed merchant cruiser [*Cap Trafalgar*](https://pl.wikipedia.org/wiki/SMS_Cap_Trafalgar). It was the first battle in history between two armed passenger liners.
 
 ## Two liners
 

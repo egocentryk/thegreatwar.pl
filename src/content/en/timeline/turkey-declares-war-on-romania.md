@@ -2,7 +2,7 @@
 title: Turkey declares war on Romania
 summary: On 30 August 1916 Turkey announced that, together with Germany and Bulgaria, it was declaring war on Romania. Enver Pasha was readying a corps for Dobruja.
 source: turcja-wypowiada-wojne-rumunii
-sourceHash: 268829b69df61349acc5487e85bf01ddd682d394
+sourceHash: 7f98b0610fa31638a9d646adaae1d208de000999
 brief:
   - "On 30 August 1916 the American chargé d'affaires in Constantinople reported that Turkey, together with Germany and Bulgaria, was declaring war on Romania. Other sources give 29 August or 1 September."
   - "Wallachia and Moldavia had been vassal principalities of the Ottoman Empire for several hundred years. In the first year of the war Romania closed the route across its territory to German military transports for Turkey."
@@ -16,7 +16,7 @@ That same day the Ottoman minister in Bucharest asked his American colleague, Ch
 
 ## The dispute over the date
 
-The British chronology of the war records the Turkish declaration under 30 August, and some Romanian works give that date. Other sources give 29 August, the day of the Council of Ministers' meeting, or 1 September, as does Langensiepen and Güleryüz's history of the Ottoman navy. According to Philip's dispatch the decision was taken on 29 August and the Sultan confirmed it without delay. Romania itself still used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), in which 30 August was 17 August. Philip's dispatch of 30 August is the earliest certain evidence that Turkey considered itself at war.
+The British chronology of the war records the Turkish declaration under 30 August, and some Romanian works give that date. Other sources give 29 August, the day of the Council of Ministers' meeting, or 1 September, as does Langensiepen and Güleryüz's history of the Ottoman navy. According to Philip's dispatch the decision was taken on 29 August and the Sultan confirmed it without delay. Romania itself still used the [Julian calendar](/slownik/kalendarz-julianski), in which 30 August was 17 August. Philip's dispatch of 30 August is the earliest certain evidence that Turkey considered itself at war.
 
 ## Former overlords
 

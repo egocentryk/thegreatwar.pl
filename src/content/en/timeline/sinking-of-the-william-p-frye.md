@@ -2,10 +2,10 @@
 title: Sinking of the sailing ship William P. Frye
 summary: On 28 January 1915 the German auxiliary cruiser Prinz Eitel Friedrich sank the American barque William P. Frye, the first US ship lost in this war.
 source: zatopienie-zaglowca-william-p-frye
-sourceHash: 507e2b9ca16988dad7fa1e59abfb60fd85155d43
+sourceHash: 1798f4d37b91774ea870460d9c2ffa8c3e928393
 ---
 
-On 28 January 1915, in the South Atlantic off the coast of [Brazil](https://pl.wikipedia.org/wiki/Brazylia), the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) *Prinz Eitel Friedrich* sank the American sailing ship *William P. Frye*. It was the first United States merchant ship sunk during the war, even though the United States remained a neutral country. The case became the subject of a long legal dispute between Washington and Berlin.
+On 28 January 1915, in the South Atlantic off the coast of [Brazil](https://pl.wikipedia.org/wiki/Brazylia), the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Prinz Eitel Friedrich* sank the American sailing ship *William P. Frye*. It was the first United States merchant ship sunk during the war, even though the United States remained a neutral country. The case became the subject of a long legal dispute between Washington and Berlin.
 
 ## Wheat from Seattle
 

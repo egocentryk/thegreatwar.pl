@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-17 października 1917 roku u wybrzeży [Malty](https://pl.wikipedia.org/wiki/Malta_(wyspa)) na [minę](https://pl.wikipedia.org/wiki/Mina_morska) wszedł brytyjski [statek szpitalny](https://pl.wikipedia.org/wiki/Statek_szpitalny) Goorkha. Według zestawień brytyjskich statków szpitalnych na pokładzie było 362 ludzi, w tym siedemnaście pielęgniarek wojskowych. Niektóre opracowania podają liczbę 372. Ewakuacja przebiegła sprawnie: w ciągu około 35 minut wszyscy opuścili statek i nikt nie zginął.
+17 października 1917 roku u wybrzeży [Malty](https://pl.wikipedia.org/wiki/Malta_(wyspa)) na [minę](/slownik/mina-morska) wszedł brytyjski [statek szpitalny](/slownik/statek-szpitalny) Goorkha. Według zestawień brytyjskich statków szpitalnych na pokładzie było 362 ludzi, w tym siedemnaście pielęgniarek wojskowych. Niektóre opracowania podają liczbę 372. Ewakuacja przebiegła sprawnie: w ciągu około 35 minut wszyscy opuścili statek i nikt nie zginął.
 
 Goorkha był starym liniowcem towarzystwa Union-Castle, które utrzymywało regularną żeglugę między Wielką Brytanią a Afryką Południową. Zbudowano go w 1897 roku w stoczni Harland & Wolff w [Belfaście](https://pl.wikipedia.org/wiki/Belfast). Miał około 6,3 tysiąca ton rejestrowych brutto. Podczas wojny burskiej przewoził wojsko do Afryki, a w sierpniu 1914 roku płynął w konwoju, który zabrał z Kapsztadu do Wielkiej Brytanii brytyjski garnizon z rodzinami. 20 października 1914 roku przejęto go jako statek szpitalny na 408 łóżek. Od tej pory woził chorych i rannych, w dużej części po Morzu Śródziemnym, gdzie Malta ze swoimi szpitalami przyjmowała żołnierzy najpierw z Gallipoli, a potem z frontu salonickiego.
 

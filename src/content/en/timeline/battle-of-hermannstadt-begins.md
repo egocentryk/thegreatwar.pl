@@ -2,10 +2,10 @@
 title: Battle of Hermannstadt begins
 summary: On 26 September 1916 the German Ninth Army attacked the Romanians at Hermannstadt, and the Alpenkorps came down onto the Red Tower Pass road behind them.
 source: poczatek-bitwy-pod-sybinem
-sourceHash: 78f263ad058686203eb67186fac86afa1e4ca076
+sourceHash: 53cef2611203078e107f1163eed3f9e0210cde2c
 ---
 
-On 26 September 1916, a fine autumn day, the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) attacked the Romanian I Corps, which since the beginning of September had been standing south of [Hermannstadt](https://pl.wikipedia.org/wiki/Sybin) It was the first day of the first major battle of the Central Powers' counter-offensive in [Transylvania](/bitwy/bitwa-o-siedmiogrod). Falkenhayn wanted not merely to push the Romanians back but to close their line of retreat and destroy the whole corps. In Romania, which still reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 13 September.
+On 26 September 1916, a fine autumn day, the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) attacked the Romanian I Corps, which since the beginning of September had been standing south of [Hermannstadt](https://pl.wikipedia.org/wiki/Sybin) It was the first day of the first major battle of the Central Powers' counter-offensive in [Transylvania](/bitwy/bitwa-o-siedmiogrod). Falkenhayn wanted not merely to push the Romanians back but to close their line of retreat and destroy the whole corps. In Romania, which still reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), it was 13 September.
 
 ## A trap in the mountains
 

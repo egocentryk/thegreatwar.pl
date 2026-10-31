@@ -9,7 +9,7 @@ sides:
     commanders: [Alexander von Kluck]
 result: German tactical victory. The British inflicted heavy losses but were forced to withdraw.
 source: bitwa-pod-mons
-sourceHash: 44e095d96894d756152cdc013bdfb1ffe6ff667d
+sourceHash: 307ca8cf623d7e9b26a337a62c8034d241f21e56
 ---
 
 The [Battle of Mons](https://pl.wikipedia.org/wiki/Bitwa_pod_Mons_(1914)), fought on 23 August 1914, was the first battle of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) in the First World War. It was the first time the British had fought in Western Europe since the [Battle of Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) in 1815, which had in fact been fought not far away. For one day two British divisions held the line of the Mons–Condé Canal against the far more numerous German First Army. They inflicted heavy losses on it, but in the evening, when it became clear that their French neighbours were falling back, they had to begin a retreat.
@@ -36,7 +36,7 @@ The disparity of forces was great. According to the British official history, th
 
 23 August was a Sunday. In the morning mist and rain gave way to fine weather, church bells rang, and villagers in their Sunday best walked to church. At about 6 a.m. German cavalry exchanged shots with the 4th Middlesex near Obourg. Kluck, still unsure where the British were, halted his whole army for two hours, from 8.30 to 10.30 a.m., on news of troops detraining at Tournai. Before nine German guns were already shelling the salient, and the infantry of IX Corps had enveloped it from Obourg to Nimy.
 
-At first the Germans advanced in dense masses. Under fire from the front and the flank they suffered heavy losses and switched to attacking in small groups. Shortly after noon they crossed the canal west of Obourg and began to work round the defending battalions. At the bridges in Nimy the crews of two Royal Fusiliers machine guns were shot down to the last man. For this fight Lieutenant Maurice Dease and Private Sidney Godley received some of the first [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) of the war. Dease, wounded several times, died of his wounds, and Godley, who covered his comrades' withdrawal, was taken prisoner.
+At first the Germans advanced in dense masses. Under fire from the front and the flank they suffered heavy losses and switched to attacking in small groups. Shortly after noon they crossed the canal west of Obourg and began to work round the defending battalions. At the bridges in Nimy the crews of two Royal Fusiliers machine guns were shot down to the last man. For this fight Lieutenant Maurice Dease and Private Sidney Godley received some of the first [Victoria Crosses](/slownik/krzyz-wiktorii) of the war. Dease, wounded several times, died of his wounds, and Godley, who covered his comrades' withdrawal, was taken prisoner.
 
 At 2 p.m. the Royal Fusiliers withdrew from Nimy south through Mons, having lost just over a hundred men. At about 3.15 p.m. the Germans worked round both flanks of the 2nd Battalion of the Royal Irish Regiment, which fell back with the Middlesex to the hill of Bois la Haut, south-east of the town. There the 8th Brigade beat off attacks until late in the evening. A German General Staff monograph later admitted: "Well entrenched and completely hidden, the enemy opened a murderous fire… the rushes became shorter, and finally the whole advance stopped."
 

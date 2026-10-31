@@ -2,7 +2,7 @@
 title: Sinking of the battleship Majestic
 summary: On the morning of 27 May 1915 U-21 torpedoed the British battleship Majestic off Cape Helles. It was the second battleship Hersing had sunk in three days.
 source: zatopienie-pancernika-majestic
-sourceHash: db110dff27597ceebdcfb2e3b0390ed54d4e3048
+sourceHash: eb5ddd48f014204bb5325a293fcdf461adb97486
 ---
 
 At about 6.45 a.m. on 27 May 1915 the German submarine [*U-21*](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) torpedoed the British battleship *Majestic*, lying at anchor off W Beach at Cape Helles, at the southern tip of the Gallipoli peninsula. The ship capsized within minutes. Most of the crew were saved, but according to various sources between about 40 and 49 men were killed. The commander of *U-21*, Kapitänleutnant Otto Hersing, had [sunk the battleship *Triumph* off Gaba Tepe](/zatopienie-pancernika-triumph) only two days earlier.
@@ -23,4 +23,4 @@ The wreck did not disappear beneath the water. The water there was only about 16
 
 The sinking of two battleships in three days shook the soldiers ashore. The Turkish soldiers, previously demoralised by the bombardment from the sea, watched the battleships sail away. Thousands of British, Australian and New Zealand soldiers knew that in the daily fighting in the trenches they would now be supported only by cruisers and destroyers. From then on the remaining heavy ships could appear off Gallipoli only briefly and under strong escort. Their place close inshore was gradually taken by monitors, flat-bottomed ships with heavy guns that were less vulnerable to torpedoes.
 
-Hersing, who in 1914 had [sunk the cruiser *Pathfinder*](/zatoniecie-hms-pathfinder), sailed on to Constantinople after this attack. He soon received from the Emperor Wilhelm II the order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), the highest Prussian military decoration, and the whole crew of *U-21* received Iron Crosses.
+Hersing, who in 1914 had [sunk the cruiser *Pathfinder*](/zatoniecie-hms-pathfinder), sailed on to Constantinople after this attack. He soon received from the Emperor Wilhelm II the order [Pour le Mérite](/slownik/pour-le-merite), the highest Prussian military decoration, and the whole crew of *U-21* received Iron Crosses.

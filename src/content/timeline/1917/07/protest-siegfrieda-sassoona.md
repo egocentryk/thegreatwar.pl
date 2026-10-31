@@ -18,7 +18,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Siegfried_Sassoon"
 ---
 
-30 lipca 1917 roku Hastings Lees-Smith, poseł z Northampton, odczytał w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) list podporucznika [Siegfrieda Sassoona](https://pl.wikipedia.org/wiki/Siegfried_Sassoon) z pułku Royal Welch Fusiliers. Sassoon, poeta i oficer odznaczony za odwagę, oświadczał w nim, że nie wróci do służby, bo wojna, w którą wszedł jako w wojnę obronną i wyzwoleńczą, stała się wojną napastniczą i zaborczą, a ci, którzy mają władzę, by ją zakończyć, celowo ją przedłużają.
+30 lipca 1917 roku Hastings Lees-Smith, poseł z Northampton, odczytał w [Izbie Gmin](/slownik/izba-gmin) list podporucznika [Siegfrieda Sassoona](https://pl.wikipedia.org/wiki/Siegfried_Sassoon) z pułku Royal Welch Fusiliers. Sassoon, poeta i oficer odznaczony za odwagę, oświadczał w nim, że nie wróci do służby, bo wojna, w którą wszedł jako w wojnę obronną i wyzwoleńczą, stała się wojną napastniczą i zaborczą, a ci, którzy mają władzę, by ją zakończyć, celowo ją przedłużają.
 
 ## Oficer z frontu
 

@@ -21,7 +21,7 @@ Na wyspie został niewielki garnizon. Dowodził nim porucznik marynarki (lieuten
 
 ## Po co Francuzom Ruad
 
-W sierpniu 1915 roku alianci oficjalnie ogłosili [blokadę](https://pl.wikipedia.org/wiki/Blokada_morska) wybrzeży [Imperium Osmańskiego](/kraje/imperium-osmanskie), choć w praktyce okręty francuskie i brytyjskie przechwytywały statki u tych brzegów już od wielu miesięcy. Dartige du Fournet zwracał uwagę, że kilka wysp przy wybrzeżu, przede wszystkim Ruad, a dalej na zachód Kastelorizo ([Mejisti](https://pl.wikipedia.org/wiki/Mejisti)), byłoby doskonałymi punktami do obserwacji lądu i zaopatrywania małych okrętów. Zajęcie Ruadu dawało eskadrze punkt oparcia tuż przy brzegu, z którego można było pilnować ruchu żeglugi i wypatrywać przemytu.
+W sierpniu 1915 roku alianci oficjalnie ogłosili [blokadę](/slownik/blokada) wybrzeży [Imperium Osmańskiego](/kraje/imperium-osmanskie), choć w praktyce okręty francuskie i brytyjskie przechwytywały statki u tych brzegów już od wielu miesięcy. Dartige du Fournet zwracał uwagę, że kilka wysp przy wybrzeżu, przede wszystkim Ruad, a dalej na zachód Kastelorizo ([Mejisti](https://pl.wikipedia.org/wiki/Mejisti)), byłoby doskonałymi punktami do obserwacji lądu i zaopatrywania małych okrętów. Zajęcie Ruadu dawało eskadrze punkt oparcia tuż przy brzegu, z którego można było pilnować ruchu żeglugi i wypatrywać przemytu.
 
 Wyspa miała też znaczenie dla wywiadu. Francuska służba informacyjna marynarki na Lewancie miała główną siedzibę w Port Saidzie, a Ruad stał się jej wysuniętą placówką. Stąd utrzymywano kontakt z informatorami na syryjskim i libańskim lądzie, przerzucano agentów i zbierano wiadomości o ruchach wojsk osmańskich.
 

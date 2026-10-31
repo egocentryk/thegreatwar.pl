@@ -2,7 +2,7 @@
 title: Legions capture Kamieniucha
 summary: On 27 October 1915 the 6th Regiment of the Legions and German grenadiers took Kamieniucha in Volhynia in a night attack, capturing over 400 prisoners.
 source: legiony-zdobywaja-kamieniuche
-sourceHash: bcf3c96e5075b24ce2c7fc502c83b36a301fff8b
+sourceHash: ecbd1524dfb86e68dabcbc44f2ac5258517ad6bb
 ---
 
 On the night of 27 October 1915 the 3rd Battalion of the [6th Infantry Regiment](https://pl.wikipedia.org/wiki/6_Pułk_Piechoty_(LP)) of the [Polish Legions](/tematy/polskie-formacje-wojskowe) crept up to the Russian trenches in front of the village of [Kamieniucha](https://pl.wikipedia.org/wiki/Kamienucha) in Volhynia and, together with German grenadiers, charged with the bayonet. The enemy lines were broken, and after fierce hand-to-hand fighting the village was in the hands of the legionaries, who took more than 400 prisoners. For the young regiment, formed that summer, it was one of the bloodiest battles of its whole combat record.
@@ -21,6 +21,6 @@ The date of the assault itself is given differently. Accounts of the 6th Regimen
 
 ## The death of Żuliński
 
-In the fighting at Kamieniucha Lieutenant [Tadeusz Żuliński](https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński), a company commander in the 7th Regiment, was badly wounded in the stomach by shrapnel balls. He had been the first commandant-in-chief of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), and in August 1915 he had brought a battalion of volunteers from Warsaw to the First Brigade. Taken to the First Brigade's medical unit at Sewerynówka, he died there on 5 November of peritonitis. [Józef Piłsudski](/postacie/jozef-pilsudski) honoured his memory in a special order.
+In the fighting at Kamieniucha Lieutenant [Tadeusz Żuliński](https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński), a company commander in the 7th Regiment, was badly wounded in the stomach by shrapnel balls. He had been the first commandant-in-chief of the [Polish Military Organisation](/slownik/pow), and in August 1915 he had brought a battalion of volunteers from Warsaw to the First Brigade. Taken to the First Brigade's medical unit at Sewerynówka, he died there on 5 November of peritonitis. [Józef Piłsudski](/postacie/jozef-pilsudski) honoured his memory in a special order.
 
 The autumn battles in Volhynia drew the attention of the allies to the legionaries. German and Austro-Hungarian commands more and more often wrote of "Polish troops" in their orders and praised the legionaries' courage. In the 6th Regiment the memory of those days lived on in its Commemorative Cross, instituted in 1916: its arms bore the names Kukle, Kopne, Kamieniucha, Kostiuchnówka and Góra Polaków.

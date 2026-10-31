@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-O północy z 23 na 24 kwietnia 1915 roku zaczęła obowiązywać formalna [blokada morska](https://pl.wikipedia.org/wiki/Blokada_morska) wybrzeża [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Ogłoszono ją na polecenie rządów w Londynie i Paryżu. Objęła prawie całe wybrzeże kolonii, z wyjątkiem ujścia rzeki Kamerun, gdzie leżała zajęta przez aliantów [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)), wcześniej ogłoszona portem otwartym, oraz skrawka wybrzeża na południe od hiszpańskiego Muni.
+O północy z 23 na 24 kwietnia 1915 roku zaczęła obowiązywać formalna [blokada morska](/slownik/blokada) wybrzeża [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Ogłoszono ją na polecenie rządów w Londynie i Paryżu. Objęła prawie całe wybrzeże kolonii, z wyjątkiem ujścia rzeki Kamerun, gdzie leżała zajęta przez aliantów [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)), wcześniej ogłoszona portem otwartym, oraz skrawka wybrzeża na południe od hiszpańskiego Muni.
 
 ## Przemyt przez Muni
 

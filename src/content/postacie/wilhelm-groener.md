@@ -58,7 +58,7 @@ Wieczorem 10 listopada Groener zadzwonił do [Friedricha Eberta](/postacie/fried
 
 ## Po wojnie
 
-W czerwcu 1919 roku, gdy rząd pytał, czy armia zdoła się bronić w razie odrzucenia [traktatu wersalskiego](https://pl.wikipedia.org/wiki/Traktat_wersalski), Groener uznał opór za beznadziejny. Hindenburg przyłączył się do jego zdania, ale przekazanie tej wiadomości politykom zostawił jemu, co w oczach prawicy uczyniło Groenera winnym. We wrześniu 1919 roku odszedł z wojska. W latach 1920–1923 był ministrem komunikacji i odbudowywał koleje, a w latach 1928–1932 ministrem Reichswehry, od 1931 roku także spraw wewnętrznych. W kwietniu 1932 roku zakazał działalności hitlerowskich bojówek SA i SS. Jego dawny protegowany, generał [Kurt von Schleicher](https://pl.wikipedia.org/wiki/Kurt_von_Schleicher), doprowadził wtedy do jego dymisji. Zmarł 3 maja 1939 roku w Poczdamie. Dowództwo Wehrmachtu zakazało oficerom udziału w jego pogrzebie.
+W czerwcu 1919 roku, gdy rząd pytał, czy armia zdoła się bronić w razie odrzucenia [traktatu wersalskiego](/slownik/traktat-wersalski), Groener uznał opór za beznadziejny. Hindenburg przyłączył się do jego zdania, ale przekazanie tej wiadomości politykom zostawił jemu, co w oczach prawicy uczyniło Groenera winnym. We wrześniu 1919 roku odszedł z wojska. W latach 1920–1923 był ministrem komunikacji i odbudowywał koleje, a w latach 1928–1932 ministrem Reichswehry, od 1931 roku także spraw wewnętrznych. W kwietniu 1932 roku zakazał działalności hitlerowskich bojówek SA i SS. Jego dawny protegowany, generał [Kurt von Schleicher](https://pl.wikipedia.org/wiki/Kurt_von_Schleicher), doprowadził wtedy do jego dymisji. Zmarł 3 maja 1939 roku w Poczdamie. Dowództwo Wehrmachtu zakazało oficerom udziału w jego pogrzebie.
 
 ## Ocena
 

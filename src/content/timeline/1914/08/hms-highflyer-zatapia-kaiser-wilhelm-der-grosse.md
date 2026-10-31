@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 sierpnia 1914 roku brytyjski krążownik HMS Highflyer zaskoczył u wybrzeży [Río de Oro](https://pl.wikipedia.org/wiki/Rio_de_Oro), hiszpańskiej kolonii na afrykańskim wybrzeżu Atlantyku, niemiecki [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) [Kaiser Wilhelm der Grosse](https://pl.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Große). Po ponadgodzinnej wymianie ognia dawny luksusowy liniowiec poszedł na dno. Był to jeden z pierwszych niemieckich rajderów utraconych w tej wojnie.
+26 sierpnia 1914 roku brytyjski krążownik HMS Highflyer zaskoczył u wybrzeży [Río de Oro](https://pl.wikipedia.org/wiki/Rio_de_Oro), hiszpańskiej kolonii na afrykańskim wybrzeżu Atlantyku, niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) [Kaiser Wilhelm der Grosse](https://pl.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Große). Po ponadgodzinnej wymianie ognia dawny luksusowy liniowiec poszedł na dno. Był to jeden z pierwszych niemieckich rajderów utraconych w tej wojnie.
 
 ## Rajd trwający trzy tygodnie
 

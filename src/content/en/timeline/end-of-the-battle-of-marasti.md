@@ -2,10 +2,10 @@
 title: End of the Battle of Mărăști
 summary: On 1 August 1917 Averescu called off the failed assaults on Măgura Cașinului. The Battle of Mărăști was over, and the Romanians prepared for defence.
 source: koniec-bitwy-pod-marasti
-sourceHash: 50481546c4be4b843915e9d5aef37c817c853460
+sourceHash: fd055e78c75e0bb519cc1270c8adc64ea03f9abd
 ---
 
-On 1 August 1917 (19 July by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then used in Romania), General [Alexandru Averescu](/postacie/alexandru-averescu)'s Romanian 2nd Army attacked for the last time the Măgura Cașinului massif, a rocky peak (1,167 metres) above the valley of the Cașin river, on the northern edge of the Vrancea region. The attack failed, and in the evening Averescu gave up further attempts. So ended the [Battle of Mărăști](/poczatek-bitwy-pod-marasti), the first victory of the Romanian army rebuilt after the defeat of 1916. A British chronology of the war records under this date the end of the "first phase of the Battle of Mărășești". In reality it was Mărăști: the battle at Mărășești, 30 kilometres away, was to begin only five days later, when the Germans went over to the attack.
+On 1 August 1917 (19 July by the [Julian calendar](/slownik/kalendarz-julianski), then used in Romania), General [Alexandru Averescu](/postacie/alexandru-averescu)'s Romanian 2nd Army attacked for the last time the Măgura Cașinului massif, a rocky peak (1,167 metres) above the valley of the Cașin river, on the northern edge of the Vrancea region. The attack failed, and in the evening Averescu gave up further attempts. So ended the [Battle of Mărăști](/poczatek-bitwy-pod-marasti), the first victory of the Romanian army rebuilt after the defeat of 1916. A British chronology of the war records under this date the end of the "first phase of the Battle of Mărășești". In reality it was Mărăști: the battle at Mărășești, 30 kilometres away, was to begin only five days later, when the Germans went over to the attack.
 
 ## The last assault
 

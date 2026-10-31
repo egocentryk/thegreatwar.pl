@@ -2,14 +2,14 @@
 title: British air patrol over the English Channel
 summary: On 9 August 1914 the British began air patrols over the English Channel to protect the troop transports sailing to France.
 source: brytyjski-patrol-lotniczy-nad-kanalem-la-manche
-sourceHash: 918cac0d0623be1e48aac875244dc483ce9d59e3
+sourceHash: 25a2143e9c31895f805ba0cfc383911c7e7c70e6
 ---
 
 Contemporary chronicles of the war record under 9 August 1914 the start of British air patrols over the [English Channel](https://pl.wikipedia.org/wiki/La_Manche). Their task was to protect the ships carrying the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) to France. It was one of the first instances of aircraft being used to cover a naval operation on such a large scale.
 
 ## Naval aviation
 
-The patrols were flown by the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the air arm of the Royal Navy, which had been set up as a separate formation only a few weeks before the outbreak of war. In August 1914 it had fewer than a hundred aircraft, including [seaplanes](https://pl.wikipedia.org/wiki/Wodnosamolot), and a few [airships](https://pl.wikipedia.org/wiki/Sterowiec). The airships patrolled the Channel from the very first nights of the war.
+The patrols were flown by the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the air arm of the Royal Navy, which had been set up as a separate formation only a few weeks before the outbreak of war. In August 1914 it had fewer than a hundred aircraft, including [seaplanes](https://pl.wikipedia.org/wiki/Wodnosamolot), and a few [airships](/slownik/sterowiec). The airships patrolled the Channel from the very first nights of the war.
 
 ## Eyes of the fleet
 

@@ -2,7 +2,7 @@
 title: End of the Battle of the Marne
 summary: On 10 September 1914 the British and French pursued the retreating Germans. British historiography regards this day as the end of the Battle of the Marne.
 source: koniec-bitwy-nad-marna
-sourceHash: 6c18ff06ebca6842180bd0f9743e72d63bf957ba
+sourceHash: 29e30d48121c55474b58ca711c1f540dfcae32ae
 ---
 
 On 10 September 1914 the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) and the neighbouring French armies advanced north behind the retreating Germans. The fighting was now only with the rearguards covering the retreat of the German 1st and 2nd Armies. The British chronology of the war regards this day as the end of the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), the largest and most important battle of 1914.
@@ -25,6 +25,6 @@ The French called the victory the "Miracle of the Marne". Only a few days earlie
 
 ## The collapse of the Schlieffen Plan
 
-The significance of the battle went far beyond the ground gained. The Germans had entered the war with the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena), which assumed the defeat of France within a few weeks and only then a turn against Russia. On the Marne this plan collapsed. France had not been defeated, and Germany had to wage a long war on two fronts, the thing its staff officers had feared most. Moltke is credited with the words addressed to the Kaiser: "Majestät, wir haben den Krieg verloren" ("Your Majesty, we have lost the war"), although it is not certain that he really said them.
+The significance of the battle went far beyond the ground gained. The Germans had entered the war with the [Schlieffen Plan](/slownik/plan-schlieffena), which assumed the defeat of France within a few weeks and only then a turn against Russia. On the Marne this plan collapsed. France had not been defeated, and Germany had to wage a long war on two fronts, the thing its staff officers had feared most. Moltke is credited with the words addressed to the Kaiser: "Majestät, wir haben den Krieg verloren" ("Your Majesty, we have lost the war"), although it is not certain that he really said them.
 
 Moltke, broken by the failure, lost effective command a few days later. Once the Germans had dug in on the Aisne, both sides began trying to outflank each other to the north. By the end of 1914 an unbroken line of trenches stretched from the North Sea coast to the Swiss border, and the war in the west had become [trench warfare](https://pl.wikipedia.org/wiki/Wojna_pozycyjna).

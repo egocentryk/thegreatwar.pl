@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-23 listopada 1916 roku niemiecki [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) [Möwe](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)) wyruszył w drugi rejs na Atlantyk. Dowodził nim znowu komandor podporucznik [Nikolaus zu Dohna-Schlodien](https://pl.wikipedia.org/wiki/Nikolaus_zu_Dohna-Schlodien), bohater [pierwszej wyprawy z przełomu 1915 i 1916 roku](/mowe-wraca-z-pierwszego-rejsu). Datę 23 listopada podaje większość zestawień. Brytyjska historia oficjalna wojny na morzu i niemieckie opracowania piszą jednak, że Möwe wymknął się na [Morze Północne](https://pl.wikipedia.org/wiki/Morze_Północne) już 22 listopada, a brytyjska chronologia wojny umieszcza wyjście z [Kilonii](https://pl.wikipedia.org/wiki/Kilonia) dopiero pod 26 listopada. Brytyjczycy przez wiele dni nie wiedzieli, że okręt jest już w morzu.
+23 listopada 1916 roku niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) [Möwe](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)) wyruszył w drugi rejs na Atlantyk. Dowodził nim znowu komandor podporucznik [Nikolaus zu Dohna-Schlodien](https://pl.wikipedia.org/wiki/Nikolaus_zu_Dohna-Schlodien), bohater [pierwszej wyprawy z przełomu 1915 i 1916 roku](/mowe-wraca-z-pierwszego-rejsu). Datę 23 listopada podaje większość zestawień. Brytyjska historia oficjalna wojny na morzu i niemieckie opracowania piszą jednak, że Möwe wymknął się na [Morze Północne](https://pl.wikipedia.org/wiki/Morze_Północne) już 22 listopada, a brytyjska chronologia wojny umieszcza wyjście z [Kilonii](https://pl.wikipedia.org/wiki/Kilonia) dopiero pod 26 listopada. Brytyjczycy przez wiele dni nie wiedzieli, że okręt jest już w morzu.
 
 ## Trzy rajdery przeciw żegludze
 

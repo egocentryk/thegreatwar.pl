@@ -36,6 +36,6 @@ Tymczasem niemieccy żołnierze wkroczyli już do [Troisvierges](https://pl.wiki
 
 ## Wojna na dwa fronty
 
-Choć Niemcy wypowiedziały wojnę Rosji, ich [plan wojenny](https://pl.wikipedia.org/wiki/Plan_Schlieffena) zakładał, że główne uderzenie spadnie najpierw na Francję, zanim Rosja zdąży w pełni zmobilizować swoje siły. Na wschodzie miała się tymczasem bronić stosunkowo niewielka armia w Prusach Wschodnich. Dlatego zaledwie dwa dni później, 3 sierpnia, Niemcy wypowiedziały wojnę [Francji](/kraje/francja), a 4 sierpnia wkroczyły do Belgii, co przesądziło o przystąpieniu do wojny Wielkiej Brytanii.
+Choć Niemcy wypowiedziały wojnę Rosji, ich [plan wojenny](/slownik/plan-schlieffena) zakładał, że główne uderzenie spadnie najpierw na Francję, zanim Rosja zdąży w pełni zmobilizować swoje siły. Na wschodzie miała się tymczasem bronić stosunkowo niewielka armia w Prusach Wschodnich. Dlatego zaledwie dwa dni później, 3 sierpnia, Niemcy wypowiedziały wojnę [Francji](/kraje/francja), a 4 sierpnia wkroczyły do Belgii, co przesądziło o przystąpieniu do wojny Wielkiej Brytanii.
 
 1 sierpnia 1914 roku był więc dniem, w którym konflikt lokalny definitywnie stał się wojną europejską. Od tej chwili machina mobilizacyjna wielkich mocarstw nie dawała się już zatrzymać.

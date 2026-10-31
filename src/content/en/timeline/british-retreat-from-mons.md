@@ -2,7 +2,7 @@
 title: The British retreat from Mons
 summary: On 24 August 1914 the British Expeditionary Force began its retreat from Mons. Rearguards fought heavy actions at Elouges and Audregnies.
 source: brytyjczycy-wycofuja-sie-spod-mons
-sourceHash: 8cf4f85e702b76f22ee75ebcb53ee1555d50dd31
+sourceHash: 08ae951c1a53afa6b4c258b0eeae6d6f566e7c88
 ---
 
 On 24 August 1914 the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) began its retreat from the Belgian town of [Mons](https://pl.wikipedia.org/wiki/Mons), where it had fought its first battle the day before. It was the beginning of the Great Retreat, which was to last almost two weeks and end only on the Marne.
@@ -19,7 +19,7 @@ In the morning the Germans attacked the withdrawing units of II Corps around Fra
 
 The most dangerous situation arose on the western wing. The German IV Corps tried to outflank the British and cut off their line of retreat. At Elouges and [Audregnies](https://pl.wikipedia.org/wiki/Audregnies) the flank was covered by two infantry battalions, the 1st Battalion of the Norfolk Regiment and the 1st Battalion of the Cheshire Regiment, supported by 119th Battery, Royal Field Artillery, and by units of General [Edmund Allenby](/postacie/edmund-allenby)'s Cavalry Division. Squadrons of the 9th Lancers and the 4th Dragoon Guards attempted to charge the German infantry and artillery, but were stopped by wire fences and heavy fire.
 
-The covering force did its job: the 5th Division managed to withdraw. The price, however, was high. The Cheshires did not receive the order to retreat in time; the battalion was surrounded and almost entirely destroyed, and many of its men were taken prisoner. The commander of 119th Battery, Major Ernest Alexander, with volunteers including the wounded Captain Francis Grenfell of the 9th Lancers, manhandled the guns out of the enemy's fire. Both were awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+The covering force did its job: the 5th Division managed to withdraw. The price, however, was high. The Cheshires did not receive the order to retreat in time; the battalion was surrounded and almost entirely destroyed, and many of its men were taken prisoner. The commander of 119th Battery, Major Ernest Alexander, with volunteers including the wounded Captain Francis Grenfell of the 9th Lancers, manhandled the guns out of the enemy's fire. Both were awarded the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 According to British estimates, losses on 24 August amounted to about 2,000 killed, wounded and missing, more than in the Battle of Mons itself. In the evening the Expeditionary Force halted around Bavay. In British tradition the fighting of 24 August is often counted as part of the [Battle of Mons](/bitwy/bitwa-pod-mons), then dated 23–24 August.
 

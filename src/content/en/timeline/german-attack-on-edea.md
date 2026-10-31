@@ -2,7 +2,7 @@
 title: German attack on Edéa
 summary: On 5 January 1915 the Germans attacked Edéa and Kopongo in Kamerun to push the Allies back from Yaoundé. Colonel Mayer's French garrison repulsed both attacks.
 source: niemiecki-atak-na-edee
-sourceHash: 2562b37b20b1a52f3e616fd7f53817fa7a834525
+sourceHash: 7defdca3a7637d05eb95897fb5cb67f913c1c91f
 ---
 
 On 5 January 1915 German colonial troops attacked [Edéa](https://pl.wikipedia.org/wiki/Edéa), a town on the [Sanaga](https://pl.wikipedia.org/wiki/Sanaga) river in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). It was defended by Colonel Mayer's French garrison, made up mainly of Senegalese tirailleurs. The attack broke down under the defenders' fire, and the Germans withdrew with heavy losses.
@@ -11,7 +11,7 @@ On 5 January 1915 German colonial troops attacked [Edéa](https://pl.wikipedia.o
 
 The French had taken Edéa [on 26 October 1914](/francuzi-zajmuja-edee). The town became the Allies' furthest outpost on the railway line that ran from [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)) into the interior of the colony. The commander of the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), Lieutenant-Colonel Carl Zimmermann, wanted to push the enemy back from the railway and from [Yaoundé](https://pl.wikipedia.org/wiki/Jaunde), where he had concentrated his main forces. He decided to deal the French a serious blow.
 
-On 3 January the Germans cut the telegraph line between Duala and Edéa. Two days later they struck almost simultaneously at two points: at the post at Kopongo on the railway line and at Edéa itself. Various sources estimate the strength of the attacking forces at between about 700 and 1,000 men, the vast majority of them African [askaris](https://pl.wikipedia.org/wiki/Askarysi) led by German officers.
+On 3 January the Germans cut the telegraph line between Duala and Edéa. Two days later they struck almost simultaneously at two points: at the post at Kopongo on the railway line and at Edéa itself. Various sources estimate the strength of the attacking forces at between about 700 and 1,000 men, the vast majority of them African [askaris](/slownik/askarysi) led by German officers.
 
 ## Two attacks
 

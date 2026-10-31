@@ -2,7 +2,7 @@
 title: Britain modifies the Declaration of London
 summary: On 20 August 1914 Britain announced it would apply the Declaration of London on naval warfare, but with changes that tightened control of trade.
 source: wielka-brytania-modyfikuje-deklaracje-londynska
-sourceHash: 06858ae26f84ddf76a7d2c6733fa289c0ed495a1
+sourceHash: a9821d427f61f10bc9f7c0af8acc985a924d4aae
 ---
 
 On 20 August 1914 the British government issued its first Order in Council concerning the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska). Britain announced that in wartime it would observe this agreement, but with its own additions and modifications. In practice these changes considerably extended its ability to control maritime trade.
@@ -19,4 +19,4 @@ This was the so-called doctrine of continuous voyage, known from the time of the
 
 ## Significance
 
-The order of 20 August was an important step in building the [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of Germany. It provoked protests from the neutral states, especially the United States, which defended the right to free trade. In the following months Britain gradually introduced further changes, and in 1916 it abandoned the Declaration of London altogether. The blockade, ever tighter, became one of the Allies' most important weapons in this war.
+The order of 20 August was an important step in building the [naval blockade](/slownik/blokada) of Germany. It provoked protests from the neutral states, especially the United States, which defended the right to free trade. In the following months Britain gradually introduced further changes, and in 1916 it abandoned the Declaration of London altogether. The blockade, ever tighter, became one of the Allies' most important weapons in this war.

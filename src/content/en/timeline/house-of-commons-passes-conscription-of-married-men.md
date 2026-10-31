@@ -2,10 +2,10 @@
 title: House of Commons passes conscription of married men
 summary: On 16 May 1916 the Commons passed the second Military Service Bill by 250 votes to 35. Conscription was to cover married and single men aged 18 to 41.
 source: izba-gmin-uchwala-pobor-zonatych
-sourceHash: dfdc1ee6a5bd3772020d52ddca07dda6f5aeee02
+sourceHash: f7a0c8eb8df862e59742a6d97582cffd9233a1a5
 ---
 
-On 16 May 1916 the British [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) passed the new Military Service Bill on third reading. 250 members voted for it and 35 against. According to the *Annual Register*, the minority consisted of 26 Liberals and 9 [Labour](https://pl.wikipedia.org/wiki/Partia_Pracy_(Wielka_Brytania)) members. Among them were the former Home Secretary John Simon, [Ramsay MacDonald](https://pl.wikipedia.org/wiki/Ramsay_MacDonald) and [Philip Snowden](https://pl.wikipedia.org/wiki/Philip_Snowden). The Act, passed only four months after the [first](/wielka-brytania-wprowadza-pobor), extended [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)) to all men in Great Britain aged 18 to 41, married and unmarried. It thus ended a year-and-a-half-long dispute over whether the British army should continue to rely on volunteers.
+On 16 May 1916 the British [House of Commons](/slownik/izba-gmin) passed the new Military Service Bill on third reading. 250 members voted for it and 35 against. According to the *Annual Register*, the minority consisted of 26 Liberals and 9 [Labour](https://pl.wikipedia.org/wiki/Partia_Pracy_(Wielka_Brytania)) members. Among them were the former Home Secretary John Simon, [Ramsay MacDonald](https://pl.wikipedia.org/wiki/Ramsay_MacDonald) and [Philip Snowden](https://pl.wikipedia.org/wiki/Philip_Snowden). The Act, passed only four months after the [first](/wielka-brytania-wprowadza-pobor), extended [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)) to all men in Great Britain aged 18 to 41, married and unmarried. It thus ended a year-and-a-half-long dispute over whether the British army should continue to rely on volunteers.
 
 ## The anger of married volunteers
 

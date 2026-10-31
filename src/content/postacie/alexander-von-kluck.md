@@ -32,7 +32,7 @@ W 1913 roku objął VIII Inspekcję Armii w Berlinie, a w styczniu 1914 roku zos
 
 ## Marsz przez Belgię
 
-1 Armia, licząca ponad 300 tysięcy żołnierzy, ruszyła na skrajnym prawym skrzydle wojsk niemieckich. Jej zadaniem było przejście najdłuższej drogi w całym [planie Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena): przez Belgię, wzdłuż wybrzeża i dalej na zachód od Paryża. Po upadku fortów [Liège](/bitwy/bitwa-pod-liege) wojska Klucka zepchnęły Belgów [znad Gete](/bitwy/bitwa-nad-gete), a [20 sierpnia przemaszerowały przez Brukselę](/niemcy-zajmuja-bruksele) w pokazie siły, który świadkowie opisywali jako niekończącą się defiladę.
+1 Armia, licząca ponad 300 tysięcy żołnierzy, ruszyła na skrajnym prawym skrzydle wojsk niemieckich. Jej zadaniem było przejście najdłuższej drogi w całym [planie Schlieffena](/slownik/plan-schlieffena): przez Belgię, wzdłuż wybrzeża i dalej na zachód od Paryża. Po upadku fortów [Liège](/bitwy/bitwa-pod-liege) wojska Klucka zepchnęły Belgów [znad Gete](/bitwy/bitwa-nad-gete), a [20 sierpnia przemaszerowały przez Brukselę](/niemcy-zajmuja-bruksele) w pokazie siły, który świadkowie opisywali jako niekończącą się defiladę.
 
 W drugiej połowie sierpnia Kluck podlegał przez około dziesięć dni dowódcy sąsiedniej 2 Armii, generałowi [Karlowi von Bülowowi](/postacie/karl-von-bulow). Bülow, zatroskany o własne prawe skrzydło, trzymał 1 Armię blisko siebie, a Kluck chciał iść szerszym łukiem na zachód. Według wielu historyków to ograniczenie sprawiło, że 23 sierpnia 1 Armia uderzyła na [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) czołowo [pod Mons](/bitwy/bitwa-pod-mons), zamiast go oskrzydlić. Brytyjska piechota zadała Niemcom ciężkie straty, a potem się wycofała. Trzy dni później Kluck, przekonany, że Brytyjczycy uciekają ku portom nad kanałem La Manche, natknął się [pod Le Cateau](/bitwy/bitwa-pod-le-cateau) na całodzienny opór II Korpusu Smith-Dorriena. Znów zwyciężył, ale nie zniszczył przeciwnika. Brytyjczycy przezwali go wtedy „old one o'clock”, zniekształcając jego nazwisko w zegarowe „o'clock”.
 
@@ -56,7 +56,7 @@ Ostatnim większym sukcesem Klucka była [bitwa pod Soissons](/bitwy/bitwa-pod-s
 
 ## Rana i dymisja
 
-27 marca 1915 roku, podczas objazdu wysuniętych pozycji pod [Vailly-sur-Aisne](https://pl.wikipedia.org/wiki/Vailly-sur-Aisne), Kluck został ciężko ranny odłamkami pocisku artyleryjskiego w nogę. Order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), przyznany mu dzień później, otrzymał już w szpitalu. Dowództwo 1 Armii przejął generał Max von Fabeck. Kluck wyleczył się stosunkowo szybko, ale nowego przydziału nie dostał, zapewne z powodu wieku. W październiku 1916 roku 70-letni generał na własną prośbę przeszedł w stan spoczynku.
+27 marca 1915 roku, podczas objazdu wysuniętych pozycji pod [Vailly-sur-Aisne](https://pl.wikipedia.org/wiki/Vailly-sur-Aisne), Kluck został ciężko ranny odłamkami pocisku artyleryjskiego w nogę. Order [Pour le Mérite](/slownik/pour-le-merite), przyznany mu dzień później, otrzymał już w szpitalu. Dowództwo 1 Armii przejął generał Max von Fabeck. Kluck wyleczył się stosunkowo szybko, ale nowego przydziału nie dostał, zapewne z powodu wieku. W październiku 1916 roku 70-letni generał na własną prośbę przeszedł w stan spoczynku.
 
 ## Po wojnie
 

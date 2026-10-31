@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 września 1914 roku u brzegów wyspy [Trindade](https://pl.wikipedia.org/wiki/Trindade_i_Martim_Vaz), ponad tysiąc kilometrów od wybrzeża Brazylii, doszło do niezwykłego starcia. Brytyjski [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) [HMS Carmania](https://pl.wikipedia.org/wiki/RMS_Carmania_(1905)) po blisko dwugodzinnej walce zatopił niemiecki krążownik pomocniczy [Cap Trafalgar](https://pl.wikipedia.org/wiki/SMS_Cap_Trafalgar). Była to pierwsza w historii bitwa między dwoma uzbrojonymi liniowcami pasażerskimi.
+14 września 1914 roku u brzegów wyspy [Trindade](https://pl.wikipedia.org/wiki/Trindade_i_Martim_Vaz), ponad tysiąc kilometrów od wybrzeża Brazylii, doszło do niezwykłego starcia. Brytyjski [krążownik pomocniczy](/slownik/krazownik-pomocniczy) [HMS Carmania](https://pl.wikipedia.org/wiki/RMS_Carmania_(1905)) po blisko dwugodzinnej walce zatopił niemiecki krążownik pomocniczy [Cap Trafalgar](https://pl.wikipedia.org/wiki/SMS_Cap_Trafalgar). Była to pierwsza w historii bitwa między dwoma uzbrojonymi liniowcami pasażerskimi.
 
 ## Dwa liniowce
 

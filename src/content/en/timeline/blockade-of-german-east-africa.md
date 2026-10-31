@@ -2,10 +2,10 @@
 title: Blockade of German East Africa
 summary: On 1 March 1915 Britain declared a blockade of the whole coast of German East Africa, to cut the colony off from supplies and hem in the Königsberg.
 source: blokada-niemieckiej-afryki-wschodniej
-sourceHash: 2e70c431f0c5ba0affef141397130b422e74b789
+sourceHash: 448b074a9a498143cbc036feec052151c31fde3c
 ---
 
-On 1 March 1915 the British [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of the coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) came into force. The British government had announced it a few days earlier, and according to the communiqué it applied from midnight on 28 February–1 March. It covered the whole coast of the colony together with the offshore islands. Neutral ships in the blockaded waters were given four days to leave them.
+On 1 March 1915 the British [naval blockade](/slownik/blokada) of the coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) came into force. The British government had announced it a few days earlier, and according to the communiqué it applied from midnight on 28 February–1 March. It covered the whole coast of the colony together with the offshore islands. Neutral ships in the blockaded waters were given four days to leave them.
 
 ## Why a formal blockade
 

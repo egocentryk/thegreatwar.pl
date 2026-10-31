@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 października 1916 roku przed południem oddziały bułgarskie weszły do [Cernavody](https://pl.wikipedia.org/wiki/Cernavodă), miasta nad [Dunajem](https://pl.wikipedia.org/wiki/Dunaj), w którym linia kolejowa z Bukaresztu do Konstancy przekraczała rzekę. Rumuni ewakuowali przyczółek w nocy, a Bułgarzy dowiedzieli się o tym dopiero rano od niemieckiego oficera łącznikowego. Tak opisuje to rumuński historyk Constantin Kirițescu, według którego do miasta weszli około dziesiątej, a w uliczkach musieli jeszcze stoczyć krwawą walkę z rumuńskimi tylnymi strażami. Austriacka historia oficjalna podaje, że przeciwnik oddał przyczółek grupie generała Toszewa już 24 października. W Rumunii, która używała jeszcze [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 12 października.
+25 października 1916 roku przed południem oddziały bułgarskie weszły do [Cernavody](https://pl.wikipedia.org/wiki/Cernavodă), miasta nad [Dunajem](https://pl.wikipedia.org/wiki/Dunaj), w którym linia kolejowa z Bukaresztu do Konstancy przekraczała rzekę. Rumuni ewakuowali przyczółek w nocy, a Bułgarzy dowiedzieli się o tym dopiero rano od niemieckiego oficera łącznikowego. Tak opisuje to rumuński historyk Constantin Kirițescu, według którego do miasta weszli około dziesiątej, a w uliczkach musieli jeszcze stoczyć krwawą walkę z rumuńskimi tylnymi strażami. Austriacka historia oficjalna podaje, że przeciwnik oddał przyczółek grupie generała Toszewa już 24 października. W Rumunii, która używała jeszcze [kalendarza juliańskiego](/slownik/kalendarz-julianski), był to 12 października.
 
 ## Obrona przyczółka
 

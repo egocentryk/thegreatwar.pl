@@ -17,7 +17,7 @@ draft: false
 
 Francuzi zajęli Edeę [26 października 1914 roku](/francuzi-zajmuja-edee). Miasto stało się najdalej wysuniętą placówką aliantów na linii kolejowej, która biegła z [Duali](https://pl.wikipedia.org/wiki/Duala_(miasto)) w głąb kolonii. Dowódca niemieckiej [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), podpułkownik Carl Zimmermann, chciał odepchnąć przeciwnika od kolei i od [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), gdzie skupił swoje główne siły. Postanowił zadać Francuzom poważny cios.
 
-3 stycznia Niemcy przecięli linię telegraficzną między Dualą a Edeą. Dwa dni później uderzyli niemal jednocześnie w dwa miejsca: na posterunek w Kopongo przy linii kolejowej i na samą Edeę. Liczebność sił atakujących różne źródła szacują od około 700 do 1000 ludzi, w ogromnej większości afrykańskich [askarysów](https://pl.wikipedia.org/wiki/Askarysi) dowodzonych przez niemieckich oficerów.
+3 stycznia Niemcy przecięli linię telegraficzną między Dualą a Edeą. Dwa dni później uderzyli niemal jednocześnie w dwa miejsca: na posterunek w Kopongo przy linii kolejowej i na samą Edeę. Liczebność sił atakujących różne źródła szacują od około 700 do 1000 ludzi, w ogromnej większości afrykańskich [askarysów](/slownik/askarysi) dowodzonych przez niemieckich oficerów.
 
 ## Dwa natarcia
 

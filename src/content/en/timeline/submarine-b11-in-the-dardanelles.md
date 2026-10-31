@@ -2,7 +2,7 @@
 title: Submarine B11 in the Dardanelles
 summary: On 6 November 1914, says a British chronology, the submarine B11 went some 2 miles into the Dardanelles. A month later she sank a Turkish battleship there.
 source: okret-podwodny-b11-w-dardanelach
-sourceHash: 13a8f827d23de2b3d0a91d8f2768796650433dde
+sourceHash: a2032a1f1e66f6f47ed385605ed74d588031d753
 ---
 
 A British chronology of the war records under 6 November 1914 that the submarine [B11](https://pl.wikipedia.org/wiki/HMS_B11) went about two miles into the [Dardanelles](/miejsca/dardanele). It was one of the first, if not the first, incursions by an Allied vessel into the interior of the strait, closed by the Turks with mines and shore batteries.
@@ -13,4 +13,4 @@ B11 was a small, obsolete B-class boat, built in 1906 for coastal defence. After
 
 B11 won real fame a few weeks later. On 13 December 1914 Holbrook took the boat deep into the strait, under five lines of mines. In Sarısığlar Bay, south of [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale), he found the old Turkish battleship Mesudiye, anchored as a floating battery covering the minefields. From a range of about 800 yards he hit her with a single torpedo. Mesudiye capsized and sank within about 10 minutes. Because she was lying in shallow water most of the crew were saved, but 37 men were killed.
 
-The return through the minefields was just as dangerous, and in all B11 spent about nine hours under water. For this action Holbrook received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii), the first submariner in history to do so. B11's foray showed that submarines could get through the barriers in the Dardanelles. In 1915 British and Australian submarines passed through the strait as far as the Sea of Marmara.
+The return through the minefields was just as dangerous, and in all B11 spent about nine hours under water. For this action Holbrook received the [Victoria Cross](/slownik/krzyz-wiktorii), the first submariner in history to do so. B11's foray showed that submarines could get through the barriers in the Dardanelles. In 1915 British and Australian submarines passed through the strait as far as the Sea of Marmara.

@@ -2,10 +2,10 @@
 title: Siegfried Sassoon's protest
 summary: On 30 July 1917 the Commons heard the protest of the poet Siegfried Sassoon, a decorated officer who refused to serve on in a war he saw as wilfully prolonged.
 source: protest-siegfrieda-sassoona
-sourceHash: b400139cb6c6d409259b0ecc3f05c3f6c6d44da4
+sourceHash: a880bbeff1457340968c21e0bf599af7dc656901
 ---
 
-On 30 July 1917 Hastings Lees-Smith, the MP for Northampton, read out in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) a letter from Second Lieutenant [Siegfried Sassoon](https://pl.wikipedia.org/wiki/Siegfried_Sassoon) of the Royal Welch Fusiliers. Sassoon, a poet and an officer decorated for gallantry, declared in it that he would not return to duty, because the war, which he had entered as "a war of defence and liberation", had become "a war of aggression and conquest", and was being "deliberately prolonged by those who have the power to end it".
+On 30 July 1917 Hastings Lees-Smith, the MP for Northampton, read out in the [House of Commons](/slownik/izba-gmin) a letter from Second Lieutenant [Siegfried Sassoon](https://pl.wikipedia.org/wiki/Siegfried_Sassoon) of the Royal Welch Fusiliers. Sassoon, a poet and an officer decorated for gallantry, declared in it that he would not return to duty, because the war, which he had entered as "a war of defence and liberation", had become "a war of aggression and conquest", and was being "deliberately prolonged by those who have the power to end it".
 
 ## An officer from the front
 

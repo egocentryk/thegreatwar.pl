@@ -2,7 +2,7 @@
 title: Battle of Valenciennes begins
 summary: On 1 November 1918 the Canadians took Mont Houy near Valenciennes in under an hour, supported by fire such as no other brigade had ever had.
 source: poczatek-bitwy-pod-valenciennes
-sourceHash: 4d31784d46d07c9834b3ed828d5731a6242326c5
+sourceHash: 78246b39576a9f27bb94412b83d55386b18d3155
 brief:
   - "At 5.15 a.m. on 1 November 1918 the Canadian 10th Brigade attacked the wooded hill of Mont Houy south of Valenciennes, while the British divisions of XXII and XVII Corps advanced alongside it."
   - "The Germans had anchored their wing on the Scheldt Canal, and shelling the town was forbidden because of French civilians. Valenciennes had to fall before the great attack, to cover its left flank."
@@ -33,7 +33,7 @@ Beyond Aulnoy the 46th (South Saskatchewan) Battalion leapfrogged the 44th and, 
 
 In the fighting for the second objective the 21-year-old Sergeant Hugh Cairns of the 46th Battalion distinguished himself. Born in England and brought up in [Saskatoon](https://pl.wikipedia.org/wiki/Saskatoon) in Canada, he had already been awarded the [Distinguished Conduct Medal](https://pl.wikipedia.org/wiki/Medal_Wybitnego_Zachowania) for the fighting at Vimy in 1917. According to the citation, when his platoon came under machine-gun fire, Cairns seized a [Lewis gun](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Lewis) and attacked the post single-handed, killing its crew of five. He then rushed forward again, killed twelve Germans, captured eighteen and took two machine guns. When the advance was held up by machine-gun and field-gun fire, he, though wounded, led a small party round the flank, forced about fifty Germans to surrender and captured all the guns.
 
-After the captured line had been consolidated, Cairns went with a patrol into Marly and forced about sixty more Germans to surrender. While he was disarming them he was badly wounded, and then about twenty soldiers rushed at him. He collapsed from exhaustion and loss of blood. He died the following day, 2 November. He was awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) posthumously, the last awarded to a Canadian in this war.
+After the captured line had been consolidated, Cairns went with a patrol into Marly and forced about sixty more Germans to surrender. While he was disarming them he was badly wounded, and then about twenty soldiers rushed at him. He collapsed from exhaustion and loss of blood. He died the following day, 2 November. He was awarded the [Victoria Cross](/slownik/krzyz-wiktorii) posthumously, the last awarded to a Canadian in this war.
 
 ## The British and the German tanks
 

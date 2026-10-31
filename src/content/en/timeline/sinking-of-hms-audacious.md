@@ -2,7 +2,7 @@
 title: Sinking of HMS Audacious
 summary: On 27 October 1914 the modern British battleship Audacious struck a mine off the north coast of Ireland and sank. The Admiralty kept it secret.
 source: zatoniecie-hms-audacious
-sourceHash: 13832423fc746e6cab7727abcc52aca4400a1580
+sourceHash: 1efd1a35444ba0591b4db014893694ac13acbf9c
 ---
 
 On the morning of 27 October 1914 the British battleship [Audacious](https://pl.wikipedia.org/wiki/HMS_Audacious_(1912)) struck a mine off the north coast of Ireland, near [Tory Island](https://pl.wikipedia.org/wiki/Tory_(wyspa)). Despite a struggle lasting many hours to keep the ship afloat, in the evening she capsized and sank. She was the first [dreadnought](https://pl.wikipedia.org/wiki/Drednot) lost by the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) in this war.
@@ -11,9 +11,9 @@ On the morning of 27 October 1914 the British battleship [Audacious](https://pl.
 
 Audacious belonged to the King George V class and had entered service only a year earlier, in October 1913. She served in the 2nd Battle Squadron of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet). After the [fleet moved away from Scapa Flow](/grand-fleet-opuszcza-scapa-flow), the squadron was based in [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) in the north of Ireland. On 27 October the ships put to sea for gunnery practice.
 
-No one knew that a few days earlier the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Berlin, converted from a passenger liner, had laid about 200 mines in these waters. The Germans, for their part, did not know that the British fleet had moved to Ireland. The mines were meant to threaten merchant shipping leaving British ports for the Atlantic by the northern route.
+No one knew that a few days earlier the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) Berlin, converted from a passenger liner, had laid about 200 mines in these waters. The Germans, for their part, did not know that the British fleet had moved to Ireland. The mines were meant to threaten merchant shipping leaving British ports for the Atlantic by the northern route.
 
-At about 8.45 a.m. a [mine](https://pl.wikipedia.org/wiki/Mina_morska) exploded under the after part of Audacious, near the port engine room. Water came in slowly but steadily, and the ship began to list to port. After about an hour the engines stopped. The captain, Cecil Dampier, believed that Audacious had been torpedoed and hoisted a signal warning of a submarine. In accordance with their instructions, the other battleships quickly left the danger area. Admiral [John Jellicoe](/postacie/john-jellicoe), commander of the Grand Fleet, sent destroyers and tugs to help, but for fear of U-boats did not risk any more battleships.
+At about 8.45 a.m. a [mine](/slownik/mina-morska) exploded under the after part of Audacious, near the port engine room. Water came in slowly but steadily, and the ship began to list to port. After about an hour the engines stopped. The captain, Cecil Dampier, believed that Audacious had been torpedoed and hoisted a signal warning of a submarine. In accordance with their instructions, the other battleships quickly left the danger area. Admiral [John Jellicoe](/postacie/john-jellicoe), commander of the Grand Fleet, sent destroyers and tugs to help, but for fear of U-boats did not risk any more battleships.
 
 ## Olympic to the rescue
 

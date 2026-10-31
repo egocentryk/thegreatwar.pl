@@ -2,10 +2,10 @@
 title: Britain pledges to defend Belgian neutrality
 summary: On 3 August 1914 Sir Edward Grey set out Britain's obligations to Belgium and France in the Commons. London promised support for the Belgians.
 source: wielka-brytania-zapowiada-obrone-neutralnosci-belgii
-sourceHash: 91503fa7cbe8b5f3fa028b852c7d9d11c6986836
+sourceHash: 5013ed6cbf13de209d141187f38aa038ab848041
 ---
 
-On 3 August 1914 at 3 p.m. the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), delivered in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) one of the most important speeches in the history of British diplomacy. The Cabinet had approved its content a few hours earlier. Grey had to convince Parliament and a divided government that [Great Britain](/kraje/wielka-brytania) could not remain indifferent to a war on the Continent.
+On 3 August 1914 at 3 p.m. the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), delivered in the [House of Commons](/slownik/izba-gmin) one of the most important speeches in the history of British diplomacy. The Cabinet had approved its content a few hours earlier. Grey had to convince Parliament and a divided government that [Great Britain](/kraje/wielka-brytania) could not remain indifferent to a war on the Continent.
 
 The Foreign Secretary assured the House that the country was not bound by any treaty that would automatically oblige it to go to war alongside France. He spoke, however, of obligations of honour and of interest. He recalled that the French fleet, under earlier arrangements, had been concentrated in the Mediterranean, leaving the northern coasts of France unprotected. Great Britain therefore could not stand idly by while the German fleet attacked them.
 

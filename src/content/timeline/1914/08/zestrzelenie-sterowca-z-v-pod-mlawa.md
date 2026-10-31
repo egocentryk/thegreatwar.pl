@@ -15,7 +15,7 @@ Dawna brytyjska chronologia wojny odnotowuje pod datą 29 sierpnia 1914 roku zes
 
 ## Sterowiec nad Królestwem Polskim
 
-Z V (numer fabryczny LZ 20) był jednym z [sterowców](https://pl.wikipedia.org/wiki/Sterowiec) armii niemieckiej zbudowanych w zakładach hrabiego [Ferdinanda von Zeppelina](https://pl.wikipedia.org/wiki/Ferdinand_von_Zeppelin). Wypełniony był wodorem, zamkniętym w szeregu komór gazowych wewnątrz sztywnego szkieletu. Po wybuchu wojny skierowano go na front wschodni, gdzie prowadził rozpoznanie nad rosyjską częścią ziem polskich i bombardował rosyjskie pozycje. Dowodził nim kapitan Grüner z armii wirtemberskiej.
+Z V (numer fabryczny LZ 20) był jednym z [sterowców](/slownik/sterowiec) armii niemieckiej zbudowanych w zakładach hrabiego [Ferdinanda von Zeppelina](https://pl.wikipedia.org/wiki/Ferdinand_von_Zeppelin). Wypełniony był wodorem, zamkniętym w szeregu komór gazowych wewnątrz sztywnego szkieletu. Po wybuchu wojny skierowano go na front wschodni, gdzie prowadził rozpoznanie nad rosyjską częścią ziem polskich i bombardował rosyjskie pozycje. Dowodził nim kapitan Grüner z armii wirtemberskiej.
 
 Pod koniec sierpnia w południowych Prusach Wschodnich trwała [bitwa pod Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem). Mława, leżąca w [guberni płockiej](https://pl.wikipedia.org/wiki/Gubernia_płocka) [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), tuż przy granicy z Prusami, była jednym z głównych punktów zaopatrzenia rosyjskiej 2 Armii generała Samsonowa. Przez miasto biegła linia kolejowa z Warszawy do granicy pruskiej w [Działdowie](https://pl.wikipedia.org/wiki/Działdowo), którą Rosjanie dowozili żołnierzy i zaopatrzenie na front.
 

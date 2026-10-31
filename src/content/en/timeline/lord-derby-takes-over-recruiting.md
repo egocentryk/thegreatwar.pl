@@ -2,10 +2,10 @@
 title: Lord Derby takes over recruiting
 summary: In autumn 1915 Lord Derby, at Kitchener's request, took charge of recruiting for the British Army. He was to save the voluntary system from conscription.
 source: lord-derby-przejmuje-werbunek
-sourceHash: d55bbac8ac43390be6e99698155888e80e1b9058
+sourceHash: 6ef4f31721a4f4a153f93c405e06bd41313f96c6
 ---
 
-On 11 October 1915 [Edward Stanley, 17th Earl of Derby](/postacie/lord-derby), appointed Director-General of Recruiting, took charge of recruiting for the British Army. This date is given by most studies; the British official chronology places the event under 30 September. What is certain is that by mid-October Derby was already directing recruiting. As the Under-Secretary of State for War, [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant), explained in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) on 19 October, Lord Derby had taken up the post at the request of the Secretary of State for War, Lord [Kitchener](/postacie/horatio-kitchener), and was answerable to him for all matters connected with obtaining recruits for the army.
+On 11 October 1915 [Edward Stanley, 17th Earl of Derby](/postacie/lord-derby), appointed Director-General of Recruiting, took charge of recruiting for the British Army. This date is given by most studies; the British official chronology places the event under 30 September. What is certain is that by mid-October Derby was already directing recruiting. As the Under-Secretary of State for War, [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant), explained in the [House of Commons](/slownik/izba-gmin) on 19 October, Lord Derby had taken up the post at the request of the Secretary of State for War, Lord [Kitchener](/postacie/horatio-kitchener), and was answerable to him for all matters connected with obtaining recruits for the army.
 
 ## Volunteers running out
 

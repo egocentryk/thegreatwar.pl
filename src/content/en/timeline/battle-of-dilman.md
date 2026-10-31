@@ -2,7 +2,7 @@
 title: Battle of Dilman
 summary: On 1 May 1915 at Dilman in Persian Azerbaijan, Russians and Armenian volunteers under Nazarbekian repulsed Halil Bey's corps. The Turks withdrew at night.
 source: bitwa-pod-dilmanem
-sourceHash: da27a4ed5d2e10c8f148d2ef006d3a8d42bd0f32
+sourceHash: a64757e05c6cc0eae55552f8b03da30cac32f35f
 ---
 
 On 1 May 1915 at Dilman, the main town of the Salmas plain north of [Lake Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)), the decisive battle of the Ottoman spring expedition into north-western [Persia](https://pl.wikipedia.org/wiki/Iran) was fought. Halil Bey's troops attacked the positions of General Tovmas Nazarbekian's Russian detachment all day, but were repulsed with heavy losses, and during the night of 1–2 May they withdrew. Dilman is today the town of [Salmas](https://pl.wikipedia.org/wiki/Salmas).
@@ -19,7 +19,7 @@ At dawn on 1 May Halil attacked on a broad front, trying to outflank the Russian
 
 ## Differing dates
 
-The dates of the battle given in the literature vary. A British chronology of the war records it under 1 May, while Allen and Muratoff describe the fighting of 29 April – 1 May. Russian sources, which counted time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then 13 days behind, date the main battle to 18 April, which corresponds to 1 May in the Gregorian calendar. Some studies also give the date 15 April, which is hard to reconcile with the fact that, according to eyewitness accounts, Halil reached Urmia only in mid-April.
+The dates of the battle given in the literature vary. A British chronology of the war records it under 1 May, while Allen and Muratoff describe the fighting of 29 April – 1 May. Russian sources, which counted time by the [Julian calendar](/slownik/kalendarz-julianski), then 13 days behind, date the main battle to 18 April, which corresponds to 1 May in the Gregorian calendar. Some studies also give the date 15 April, which is hard to reconcile with the fact that, according to eyewitness accounts, Halil reached Urmia only in mid-April.
 
 ## Consequences
 

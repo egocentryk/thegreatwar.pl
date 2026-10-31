@@ -2,7 +2,7 @@
 title: Armistice of Compiègne
 summary: At dawn on 11 November 1918 Germany signed an armistice with the Entente in Foch's railway carriage in the Forest of Compiègne. At 11 a.m. the guns fell silent.
 source: rozejm-w-compiegne
-sourceHash: abc32ec4f625221986cce67dc0cce0f1b102b950
+sourceHash: 6e8d3fb6a3cef6e1e045d82b1178560311b11ac5
 brief:
   - "On 11 November 1918, a few minutes after five in the morning, in Marshal Foch's carriage in the Forest of Compiègne, Matthias Erzberger and three other German delegates signed an armistice with the Entente and the United States."
   - "The delegation arrived on 8 November and was read the terms, and Foch refused to extend the 72-hour deadline. Meanwhile revolution broke out in Berlin, and the government's consent to sign came on the evening of 10 November."
@@ -47,6 +47,6 @@ In Germany, absorbed by revolution, the armistice was received with relief but w
 
 ## An armistice, not a peace
 
-The Armistice of Compiègne did not formally end the war. It was a 36-day cessation of hostilities, which the Allies extended in December 1918 and in January and February 1919, each time at [Trier](https://pl.wikipedia.org/wiki/Trewir), the last time indefinitely. In December the Allied troops occupied the bridgeheads on the Rhine and the [occupation of the Rhineland](https://pl.wikipedia.org/wiki/Okupacja_Nadrenii) began. The state of war between Germany and the Allies was ended only by the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski), signed on 28 June 1919, which came into force in January 1920.
+The Armistice of Compiègne did not formally end the war. It was a 36-day cessation of hostilities, which the Allies extended in December 1918 and in January and February 1919, each time at [Trier](https://pl.wikipedia.org/wiki/Trewir), the last time indefinitely. In December the Allied troops occupied the bridgeheads on the Rhine and the [occupation of the Rhineland](https://pl.wikipedia.org/wiki/Okupacja_Nadrenii) began. The state of war between Germany and the Allies was ended only by the [Treaty of Versailles](/slownik/traktat-wersalski), signed on 28 June 1919, which came into force in January 1920.
 
 11 November became a day of remembrance for the fallen in Britain, France, Belgium and the countries of the British Empire. The date has special significance for Poles as well. The day before, [Józef Piłsudski had returned to Warsaw from Magdeburg](/pilsudski-wraca-do-warszawy), and on 11 November, the day of the armistice in the west, the Regency Council handed him command of the army, while in the city the Germans were being disarmed. In 1940, after the fall of France, Adolf Hitler had the [carriage](https://pl.wikipedia.org/wiki/Wagon_z_Compiègne) taken out of its museum and placed on the same spot in the Forest of Compiègne, and there the French had to sign an [armistice with Germany](https://pl.wikipedia.org/wiki/Rozejm_w_Compiègne_(1940)).

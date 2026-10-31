@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 22 stycznia 1916 roku, że rząd [Rumunii](/kraje/rumunia) podjął rokowania z rządem rosyjskim w sprawie pomocy wojskowej. Nie udało nam się znaleźć w dostępnych opracowaniach, rumuńskich, austriackich i zachodnich, konkretnego kroku dyplomatycznego z tego dnia. Warto pamiętać, że Rosja i Rumunia liczyły wtedy czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), w którym 22 stycznia odpowiadał 9 stycznia. Źródła pozwalają jednak dobrze odtworzyć, dlaczego na przełomie 1915 i 1916 roku sprawa wspólnych działań obu państw wróciła na stół i jak wyglądała zimą 1916 roku.
+Brytyjska chronologia wojny odnotowuje pod 22 stycznia 1916 roku, że rząd [Rumunii](/kraje/rumunia) podjął rokowania z rządem rosyjskim w sprawie pomocy wojskowej. Nie udało nam się znaleźć w dostępnych opracowaniach, rumuńskich, austriackich i zachodnich, konkretnego kroku dyplomatycznego z tego dnia. Warto pamiętać, że Rosja i Rumunia liczyły wtedy czas według [kalendarza juliańskiego](/slownik/kalendarz-julianski), w którym 22 stycznia odpowiadał 9 stycznia. Źródła pozwalają jednak dobrze odtworzyć, dlaczego na przełomie 1915 i 1916 roku sprawa wspólnych działań obu państw wróciła na stół i jak wyglądała zimą 1916 roku.
 
 ## Rumunia w potrzasku
 

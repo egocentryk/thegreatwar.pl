@@ -17,7 +17,7 @@ brief:
   - "Nalot otworzył kampanię, która trwała z przerwami do 1918 roku. W ponad pięćdziesięciu nalotach sterowców zginęło w Wielkiej Brytanii ponad 500 osób, w większości cywilów."
 ---
 
-Wieczorem 19 stycznia 1915 roku nad hrabstwem [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)) we wschodniej Anglii pojawiły się dwa niemieckie [sterowce](https://pl.wikipedia.org/wiki/Sterowiec) marynarki wojennej, L 3 i L 4. Zrzuciły bomby na [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth), [King’s Lynn](https://pl.wikipedia.org/wiki/King’s_Lynn) i kilka nadmorskich miejscowości. Zginęły cztery osoby, a kilkanaście zostało rannych. Był to pierwszy nalot sterowców na Wielką Brytanię i pierwszy, w którym na brytyjskiej ziemi zginęli ludzie. Trzeci sterowiec, L 6, z powodu awarii zawrócił, zanim dotarł nad Anglię.
+Wieczorem 19 stycznia 1915 roku nad hrabstwem [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)) we wschodniej Anglii pojawiły się dwa niemieckie [sterowce](/slownik/sterowiec) marynarki wojennej, L 3 i L 4. Zrzuciły bomby na [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth), [King’s Lynn](https://pl.wikipedia.org/wiki/King’s_Lynn) i kilka nadmorskich miejscowości. Zginęły cztery osoby, a kilkanaście zostało rannych. Był to pierwszy nalot sterowców na Wielką Brytanię i pierwszy, w którym na brytyjskiej ziemi zginęli ludzie. Trzeci sterowiec, L 6, z powodu awarii zawrócił, zanim dotarł nad Anglię.
 
 ## Zgoda cesarza
 

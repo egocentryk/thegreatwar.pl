@@ -11,7 +11,7 @@ sides:
     commanders: [Alexander von Kluck, Friedrich Sixt von Armin, Georg von der Marwitz]
 result: German tactical victory. The British lost the battlefield and 38 guns, but broke contact with the enemy and continued their retreat.
 source: bitwa-pod-le-cateau
-sourceHash: 1bdd4aca435c93bc1c4ab7dac3e0ef48a8ca2820
+sourceHash: 3099fdb068078637b0dfeec29009e864d36309b1
 ---
 
 The [Battle of Le Cateau](https://pl.wikipedia.org/wiki/Bitwa_pod_Le_Cateau) was fought on 26 August 1914 in the Nord department of northern France. The British II Corps of General Horace Smith-Dorrien, reinforced by the 4th Division and cavalry, held out for most of the day against the German First Army of General [Alexander von Kluck](/postacie/alexander-von-kluck). It was the second battle of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), after the [Battle of Mons](/bitwy/bitwa-pod-mons), and one of the most important engagements of the great Allied retreat of August 1914.
@@ -34,7 +34,7 @@ The fighting began early in the morning on the right wing. The British artillery
 
 The heaviest fighting took place west of Le Cateau, where the positions of the 5th Division lay on an exposed slope. The Germans worked round the town from the east and fired on the British from the flank. Battalions of the Suffolks and the King's Own Yorkshire Light Infantry (KOYLI) were ordered to hold their positions at all costs and were almost entirely destroyed. Around midday the right wing began to give way.
 
-In the early afternoon Smith-Dorrien ordered a retreat. The order did not reach every unit in time, and some fought on until they were surrounded. Gun crews, among them the 37th Howitzer Battery, saved their guns under fire. Five [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) were awarded for gallantry that day: to Captain Douglas Reynolds, Drivers Job Drain and Frederick Luke, Major Charles Yate and Lance-Corporal Frederick Holmes.
+In the early afternoon Smith-Dorrien ordered a retreat. The order did not reach every unit in time, and some fought on until they were surrounded. Gun crews, among them the 37th Howitzer Battery, saved their guns under fire. Five [Victoria Crosses](/slownik/krzyz-wiktorii) were awarded for gallantry that day: to Captain Douglas Reynolds, Drivers Job Drain and Frederick Luke, Major Charles Yate and Lance-Corporal Frederick Holmes.
 
 The British left wing was covered by the French cavalry corps of General André Sordet, and further west, around Cambrai, French territorial divisions were fighting. That same day the Germans [took Cambrai](/niemcy-zajmuja-cambrai). The French screen, however, prevented the enemy from outflanking the British from the west. In the evening and during the night II Corps withdrew towards [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), and the Germans, believing they had defeated the whole Expeditionary Force, did not set off in immediate pursuit.
 

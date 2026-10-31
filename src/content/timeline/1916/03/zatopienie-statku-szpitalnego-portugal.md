@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-30 marca 1916 roku (17 marca według kalendarza juliańskiego, obowiązującego wówczas w Rosji) niemiecki okręt podwodny [U-33](https://pl.wikipedia.org/wiki/SM_U-33) storpedował na [Morzu Czarnym](https://pl.wikipedia.org/wiki/Morze_Czarne), u anatolijskiego wybrzeża w pobliżu [Rize](https://pl.wikipedia.org/wiki/Rize), rosyjski [statek szpitalny](https://pl.wikipedia.org/wiki/Statek_szpitalny) Portugal. Statek przełamał się na dwie części i zatonął w ciągu jednej, dwóch minut. Na pokładzie nie było rannych, ale byli lekarze, siostry miłosierdzia i sanitariusze Czerwonego Krzyża oraz francusko-rosyjska załoga. Liczba ofiar różni się w źródłach: rosyjska komisja śledcza naliczyła 85 zabitych, a nowojorska prasa z kwietnia 1916 roku i francuskie źródła podają 115 zabitych spośród 273 osób na pokładzie.
+30 marca 1916 roku (17 marca według kalendarza juliańskiego, obowiązującego wówczas w Rosji) niemiecki okręt podwodny [U-33](https://pl.wikipedia.org/wiki/SM_U-33) storpedował na [Morzu Czarnym](https://pl.wikipedia.org/wiki/Morze_Czarne), u anatolijskiego wybrzeża w pobliżu [Rize](https://pl.wikipedia.org/wiki/Rize), rosyjski [statek szpitalny](/slownik/statek-szpitalny) Portugal. Statek przełamał się na dwie części i zatonął w ciągu jednej, dwóch minut. Na pokładzie nie było rannych, ale byli lekarze, siostry miłosierdzia i sanitariusze Czerwonego Krzyża oraz francusko-rosyjska załoga. Liczba ofiar różni się w źródłach: rosyjska komisja śledcza naliczyła 85 zabitych, a nowojorska prasa z kwietnia 1916 roku i francuskie źródła podają 115 zabitych spośród 273 osób na pokładzie.
 
 ## Francuski liniowiec w rosyjskiej służbie
 

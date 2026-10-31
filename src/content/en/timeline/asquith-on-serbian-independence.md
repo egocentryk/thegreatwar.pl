@@ -2,10 +2,10 @@
 title: Asquith on Serbian independence
 summary: On 2 November 1915 Asquith gave the Commons a review of the war. He declared that Serbian independence was one of the essential objects of the Allies.
 source: asquith-o-niepodleglosci-serbii
-sourceHash: 29f61cac1e21e7fa35c9df5339ce2f078cb52b59
+sourceHash: 92e4bdeb6e0977bf8dee566e3f7862c5e84f14d4
 ---
 
-On 2 November 1915 the Prime Minister, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), delivered in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) his long-announced speech on the state of the war. It had been awaited for weeks. The autumn had brought the British nothing but bad news: the great offensive at Loos had produced no breakthrough, ever gloomier reports were arriving from Gallipoli, Bulgaria had entered the war on the side of the Central Powers, and Serbia, [attacked at the beginning of October](/panstwa-centralne-atakuja-serbie), was falling back under the pressure of three armies. Attacks on the government were multiplying in the press, and [Edward Carson](/postacie/edward-carson), who had demanded immediate help for the Serbs, had left the Cabinet. The government later published the speech as a pamphlet entitled "How do we stand to-day?".
+On 2 November 1915 the Prime Minister, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), delivered in the [House of Commons](/slownik/izba-gmin) his long-announced speech on the state of the war. It had been awaited for weeks. The autumn had brought the British nothing but bad news: the great offensive at Loos had produced no breakthrough, ever gloomier reports were arriving from Gallipoli, Bulgaria had entered the war on the side of the Central Powers, and Serbia, [attacked at the beginning of October](/panstwa-centralne-atakuja-serbie), was falling back under the pressure of three armies. Attacks on the government were multiplying in the press, and [Edward Carson](/postacie/edward-carson), who had demanded immediate help for the Serbs, had left the Cabinet. The government later published the speech as a pamphlet entitled "How do we stand to-day?".
 
 ## Neither prisoner in the dock nor penitent
 

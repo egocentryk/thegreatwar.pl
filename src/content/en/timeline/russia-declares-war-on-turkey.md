@@ -2,7 +2,7 @@
 title: Russia declares war on Turkey
 summary: On 2 November 1914 Nicholas II issued a manifesto of war with Turkey. The Tsar said it would open Russia's way to its Black Sea aims, that is, the Straits.
 source: rosja-wypowiada-wojne-turcji
-sourceHash: 950f0932f4c12ec91ecccb486361859edca280c1
+sourceHash: ca71d791952e1492ad0458cced993ee905514d3a
 brief:
   - "On 2 November 1914 Emperor Nicholas II signed at Tsarskoye Selo a manifesto declaring war on the Ottoman Empire. By the Julian calendar then used in Russia the date was 20 October."
   - "The war was the answer to the attack by the Turco-German fleet on Russian ports on the Black Sea. Until then the foreign minister, Sergey Sazonov, had worked with the allies to keep Turkey neutral."
@@ -11,7 +11,7 @@ brief:
   - "On 5 November Britain and France declared war on Turkey, and soon London assured Petrograd that the question of Constantinople and the Straits would be settled in accordance with Russian wishes."
 ---
 
-On 2 November 1914, or 20 October according to the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then in force in Russia, Emperor [Nicholas II](/postacie/mikolaj-ii) signed at [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło) a manifesto declaring war on the [Ottoman Empire](/kraje/imperium-osmanskie). It was the answer to the [attack by the Turco-German fleet on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea. Some Western chronologies give the date as 1 November, but the manifesto is dated 20 October Old Style, that is, 2 November. Russia, which had been fighting Germany and Austria-Hungary for three months, now had one more enemy.
+On 2 November 1914, or 20 October according to the [Julian calendar](/slownik/kalendarz-julianski) then in force in Russia, Emperor [Nicholas II](/postacie/mikolaj-ii) signed at [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło) a manifesto declaring war on the [Ottoman Empire](/kraje/imperium-osmanskie). It was the answer to the [attack by the Turco-German fleet on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea. Some Western chronologies give the date as 1 November, but the manifesto is dated 20 October Old Style, that is, 2 November. Russia, which had been fighting Germany and Austria-Hungary for three months, now had one more enemy.
 
 ## The Tsar's manifesto
 

@@ -2,10 +2,10 @@
 title: Start of the assault on Erzurum
 summary: On the night of 11–12 February 1916 the Russians broke into Fort Dalangöz at Erzurum. Next day they beat off eight counter-attacks and took Fort Karagöbek.
 source: poczatek-szturmu-erzurum
-sourceHash: 1baaa954ae4de11ce5046d308c99dbce5385a513
+sourceHash: b04c788de047f9d9054bf2fcba8f2c3f849d41a8
 ---
 
-A British chronology of the war records under 12 February 1916 the beginning of the Russian attack on [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), the largest Ottoman fortress in eastern Anatolia. According to the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, the Russian artillery opened fire on the forts as early as 2 p.m. on 11 February, and the infantry went into the assault during the night of 11–12 February. 12 February was thus the first full day of fighting for the fortress. In Russia, where the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) was in use, it was 30 January.
+A British chronology of the war records under 12 February 1916 the beginning of the Russian attack on [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), the largest Ottoman fortress in eastern Anatolia. According to the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, the Russian artillery opened fire on the forts as early as 2 p.m. on 11 February, and the infantry went into the assault during the night of 11–12 February. 12 February was thus the first full day of fighting for the fortress. In Russia, where the [Julian calendar](/slownik/kalendarz-julianski) was in use, it was 30 January.
 
 ## The fortress and its defenders
 

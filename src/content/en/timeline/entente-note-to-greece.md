@@ -2,7 +2,7 @@
 title: Entente note to Greece
 summary: On 23 November 1915 four Entente envoys demanded assurance that Greece would not disarm their troops. They promised to return seized land and pay damages.
 source: nota-ententy-do-grecji
-sourceHash: 9609b84db240aeb69d819ae0d1b66e7311d3f143
+sourceHash: ae130687fd113bb3c064232c2026768a765df0b0
 ---
 
 On 23 November 1915, or 10 November by the Julian calendar, the ministers of France, Britain, Russia and Italy in Athens handed a joint note to the Greek prime minister and foreign minister, [Stefanos Skouloudis](/postacie/stefanos-skuludis). Three of these states, France, Britain and Russia, had since 1830 been the formal "protecting powers" of the Greek kingdom. Together with Italy they demanded an official assurance that Greece would neither disarm nor intern the Allied troops if they withdrew from Serbia onto Greek territory. The note was the culmination of a three-week crisis in which the Entente for the first time openly used measures of coercion against neutral Greece.
@@ -21,4 +21,4 @@ The note opened with the assurance that the protecting and allied powers were "a
 
 ## Athens under pressure
 
-The note was polite, but the circumstances were not. The detention of ships struck at a country that lived largely on imported food and coal, and a full [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) threatened it with famine. The Greek minister in Rome, Lambros Koromilas, complained to Sonnino on 21 November that the Allies' suspicions were "unjust and insulting", and Skouloudis, irritated by the Entente's mistrust, even hinted at withdrawing Greek troops from Macedonia or at a demobilisation for whose consequences the powers would be responsible. Neither Kitchener nor the French minister, Jean Guillemin, wanted that at all, however, because the mobilised Greek army covered the flank of the troops at Salonika against the Bulgarians. The Skouloudis government did not delay its reply. It gave it the very next day.
+The note was polite, but the circumstances were not. The detention of ships struck at a country that lived largely on imported food and coal, and a full [naval blockade](/slownik/blokada) threatened it with famine. The Greek minister in Rome, Lambros Koromilas, complained to Sonnino on 21 November that the Allies' suspicions were "unjust and insulting", and Skouloudis, irritated by the Entente's mistrust, even hinted at withdrawing Greek troops from Macedonia or at a demobilisation for whose consequences the powers would be responsible. Neither Kitchener nor the French minister, Jean Guillemin, wanted that at all, however, because the mobilised Greek army covered the flank of the troops at Salonika against the Bulgarians. The Skouloudis government did not delay its reply. It gave it the very next day.

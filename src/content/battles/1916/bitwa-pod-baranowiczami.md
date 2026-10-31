@@ -21,7 +21,7 @@ Bitwa pod Baranowiczami miała być głównym uderzeniem armii rosyjskiej latem 
 
 ## Nazwa i daty
 
-W literaturze niemieckiej i austriackiej mówi się o bitwie pod Baranowiczami (Schlacht bei Baranowitschi), w rosyjskiej o operacji baranowickiej. Rosja posługiwała się wtedy [kalendarzem juliańskim](https://pl.wikipedia.org/wiki/Kalendarz_juliański), opóźnionym o 13 dni. W rosyjskich dokumentach szturm zaczął się więc 20 czerwca, a nie 3 lipca. Na tej stronie wszystkie daty podajemy według kalendarza gregoriańskiego.
+W literaturze niemieckiej i austriackiej mówi się o bitwie pod Baranowiczami (Schlacht bei Baranowitschi), w rosyjskiej o operacji baranowickiej. Rosja posługiwała się wtedy [kalendarzem juliańskim](/slownik/kalendarz-julianski), opóźnionym o 13 dni. W rosyjskich dokumentach szturm zaczął się więc 20 czerwca, a nie 3 lipca. Na tej stronie wszystkie daty podajemy według kalendarza gregoriańskiego.
 
 Brytyjska chronologia wojny, na której opiera się nasza oś czasu, i austriacka historia oficjalna datują bitwę na 2–9 lipca 1916 roku: od początku rosyjskiego ostrzału do dnia, w którym Front Zachodni wstrzymał natarcie. Rosyjskie opracowania liczą zwykle operację od pierwszego szturmu piechoty 3 lipca do 25 lipca, a niekiedy do 29 lipca, bo wliczają niemiecki kontratak z 14 lipca i ostatnią, równie nieudaną próbę natarcia z 25–29 lipca. Rosyjski historyk Aleksiej Olejnikow wyróżnia wręcz trzy natarcia pod Baranowiczami: atak korpusu grenadierów pod Stołowiczami w połowie czerwca, główną bitwę z początku lipca i ponowienie ataków pod koniec lipca. Na tej stronie przyjmujemy daty 2–9 lipca, a późniejsze walki opisujemy jako epilog.
 

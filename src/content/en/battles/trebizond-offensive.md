@@ -9,7 +9,7 @@ sides:
     commanders: [Mahmud Kâmil Pasha, Vehip Pasha]
 result: Russian victory. The Turks withdrew from the whole Lazistan coast, and on 18 April 1916 the Russians entered the abandoned city of Trebizond without a fight.
 source: ofensywa-trapezuncka
-sourceHash: 99deeef82ba52b07a168328c994275505f733a5e
+sourceHash: 66fb100da64f3284288297cae6c58c9cb356cbc1
 brief:
   - "The Trebizond offensive lasted from 5 February to 18 April 1916. General Vladimir Lyakhov's Coastal Detachment advanced along the steep Lazistan coast from the Russian border to Trebizond."
   - "Trebizond was the most important port of northern Anatolia, through which the Ottoman Third Army received men and supplies. Lyakhov was to pin down the Turks on the coast during Yudenich's Erzurum offensive."
@@ -22,7 +22,7 @@ The Trebizond offensive was one of the few successful combined army and navy ope
 
 ## Name and dates
 
-Russian literature speaks of the Trebizond operation (Трапезундская операция), Western literature of the Trebizond campaign or the battle for Trebizond. We take as its start the attack of Lyakhov's detachment on the Turkish position on the Arhavi river. According to General Yevgeny Maslovsky, then head of the operations section of the Caucasus Army staff, Russian ships and infantry attacked it on 23 January by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), that is 5 February 1916 by our calendar. The British history of the Caucasian wars by W.E.D. Allen and Paul Muratoff, the other main source for this page, also describes a bombardment on 5 February. We take as its end the Russian entry into Trebizond: 5 April by the Julian calendar, that is 18 April 1916.
+Russian literature speaks of the Trebizond operation (Трапезундская операция), Western literature of the Trebizond campaign or the battle for Trebizond. We take as its start the attack of Lyakhov's detachment on the Turkish position on the Arhavi river. According to General Yevgeny Maslovsky, then head of the operations section of the Caucasus Army staff, Russian ships and infantry attacked it on 23 January by the [Julian calendar](/slownik/kalendarz-julianski), that is 5 February 1916 by our calendar. The British history of the Caucasian wars by W.E.D. Allen and Paul Muratoff, the other main source for this page, also describes a bombardment on 5 February. We take as its end the Russian entry into Trebizond: 5 April by the Julian calendar, that is 18 April 1916.
 
 All dates on this page are given by the Gregorian calendar. Because Russia was then 13 days behind, the same events are sometimes dated differently in different publications. The British chronology of the war on which our timeline is based records the landing at Atina under 4 March, the start of the advance on Trebizond under 6 April and the capture of the city under 17 April. The Turks abandoned Trebizond on the night of 15–16 April, and the Russians entered it on 18 April.
 

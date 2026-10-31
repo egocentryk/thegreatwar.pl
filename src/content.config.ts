@@ -294,6 +294,24 @@ const places = defineCollection({
   }),
 })
 
+// Longer texts for the most linked glossary terms (expansion-plan.md C):
+// src/content/glossary/<glossary slug>.md, shown on /slownik/<slug> in place
+// of the two short paragraphs of data/glossary.json, which stays the
+// source of the term itself (name, patterns, hover definition).
+const glossary = defineCollection({
+  loader: glob({ base: "./src/content/glossary", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({
+    term: z.string(),
+    // pl.wikipedia titles (with underscores) whose links this page replaces
+    // (scripts/wiki-to-internal.py).
+    wikiTitles: z.array(z.string()).default([]),
+    updated: z.coerce.date(),
+    authors: z.array(z.string()).min(1),
+    sources: z.array(z.url()).default([]),
+    draft: z.boolean().default(false),
+  }),
+})
+
 const countriesEn = defineCollection({
   loader: glob({ base: "./src/content/en/countries", pattern: "**/*.md", generateId: idFromFilename }),
   schema: z.object({ ...enBase, name: z.string(), source: reference("countries") }),
@@ -304,6 +322,11 @@ const placesEn = defineCollection({
   schema: z.object({ ...enBase, name: z.string(), source: reference("places") }),
 })
 
+const glossaryEn = defineCollection({
+  loader: glob({ base: "./src/content/en/glossary", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({ term: z.string(), sourceHash: z.string().optional(), draft: z.boolean().default(false), source: reference("glossary") }),
+})
+
 export const collections = {
   timeline,
   battles,
@@ -311,10 +334,12 @@ export const collections = {
   topics,
   countries,
   places,
+  glossary,
   timelineEn,
   battlesEn,
   peopleEn,
   topicsEn,
   countriesEn,
   placesEn,
+  glossaryEn,
 }

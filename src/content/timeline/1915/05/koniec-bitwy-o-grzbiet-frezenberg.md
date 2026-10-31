@@ -22,7 +22,7 @@ Około 8 rano Niemcy wdarli się w linię 7 Brygady Kawalerii, która trzymała 
 
 ## Mouse Trap Farm
 
-Na lewo od kawalerii broniła się 4 Dywizja. Gospodarstwo Mouse Trap Farm, otoczone fosą, w które według brytyjskich obliczeń trafiało ponad sto pocisków na minutę, zostało na chwilę stracone, gdy zginęły dwa plutony jego załogi, ale wieczorem Brytyjczycy znów je zajęli. Niemieckie natarcia na sąsiednie odcinki załamały się w ogniu karabinów, niektóre przy samych zasiekach. Podoficer (lance-sergeant) Douglas Belcher z terytorialnego batalionu London Rifle Brigade utrzymywał przez cały dzień z garstką ludzi zniszczony okop i za każdym razem, gdy Niemcy szykowali się do ataku, otwierał na nich szybki ogień. Za osłonięcie skrzydła dywizji otrzymał [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+Na lewo od kawalerii broniła się 4 Dywizja. Gospodarstwo Mouse Trap Farm, otoczone fosą, w które według brytyjskich obliczeń trafiało ponad sto pocisków na minutę, zostało na chwilę stracone, gdy zginęły dwa plutony jego załogi, ale wieczorem Brytyjczycy znów je zajęli. Niemieckie natarcia na sąsiednie odcinki załamały się w ogniu karabinów, niektóre przy samych zasiekach. Podoficer (lance-sergeant) Douglas Belcher z terytorialnego batalionu London Rifle Brigade utrzymywał przez cały dzień z garstką ludzi zniszczony okop i za każdym razem, gdy Niemcy szykowali się do ataku, otwierał na nich szybki ogień. Za osłonięcie skrzydła dywizji otrzymał [Krzyż Wiktorii](/slownik/krzyz-wiktorii).
 
 ## Bilans bitwy
 

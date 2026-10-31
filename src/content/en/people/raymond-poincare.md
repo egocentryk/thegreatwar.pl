@@ -6,7 +6,7 @@ country: France
 birthPlace: Bar-le-Duc (France)
 deathPlace: Paris
 source: raymond-poincare
-sourceHash: a177014ba525b65d7ef89df533745af74f0be053
+sourceHash: 627e9d4408e273b4acbf1fd704035d8587d5f28c
 ---
 
 Raymond Poincaré was President of France throughout the war. A lawyer and politician of the moderate centre, he came from Lorraine and remembered from childhood the German occupation after the defeat of 1870. As prime minister and president he strengthened the alliance with Russia, and in July 1914 he visited St Petersburg, a few days before the outbreak of war. It was he who in August called on the French to form a "sacred union" of all parties. The constitution of the Third Republic gave the president little power, and in the first years of the war military decisions were taken over by the commander-in-chief, Joseph Joffre. Poincaré was nevertheless a persistent observer, adviser and intermediary between governments, generals and allies. In November 1917 he made the most important choice of his presidency: he entrusted the government to Georges Clemenceau, whom he could not stand but who promised victory.
@@ -37,7 +37,7 @@ In the autumn of 1917 France was going through a crisis: mutinies in the army, s
 
 Poincaré nevertheless remained present at the most important moments. On 26 March 1918, during the [German offensive in Picardy](/bitwy/operacja-michael), he opened the [Doullens conference](/konferencja-w-doullens), at which [Ferdinand Foch](/postacie/ferdinand-foch) was given the task of coordinating the actions of the Allies. He considered the armistice of 11 November premature, because he wanted the armies to advance deeper into Germany. In December 1918 he travelled with Clemenceau through the recovered Alsace and Lorraine, in Metz he presented the marshal's baton to [Pétain](/petain-marszalkiem-francji), and in Strasbourg crowds greeted him. On 14 December he welcomed [President Wilson](/wilson-przybywa-do-europy) in Paris.
 
-During the peace conference he argued for the permanent separation from Germany of the lands on the left bank of the Rhine, or at least for a long occupation of the Rhineland. Foch urged him to use his constitutional powers and take matters into his own hands. Poincaré even considered resigning, but in the end accepted the compromise negotiated by Clemenceau and written into the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski).
+During the peace conference he argued for the permanent separation from Germany of the lands on the left bank of the Rhine, or at least for a long occupation of the Rhineland. Foch urged him to use his constitutional powers and take matters into his own hands. Poincaré even considered resigning, but in the end accepted the compromise negotiated by Clemenceau and written into the [Treaty of Versailles](/slownik/traktat-wersalski).
 
 ## After the war
 

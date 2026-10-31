@@ -2,10 +2,10 @@
 title: Sinking of the Koningin Regentes
 summary: On 6 June 1918 the Dutch hospital ship Koningin Regentes, carrying prisoners for exchange, was torpedoed in the North Sea. Seven seamen were killed.
 source: zatoniecie-koningin-regentes
-sourceHash: 538bed3d03df705d43d8295199f82e123bde363e
+sourceHash: 08e65775b2b7cefe04065280ffa882e753bae0e1
 ---
 
-On 6 June 1918 the Dutch [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) *Koningin Regentes* ("Queen Regent") sank in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne). She was returning from [Boston](https://pl.wikipedia.org/wiki/Boston_(Wielka_Brytania)) in Lincolnshire, England, to [Rotterdam](https://pl.wikipedia.org/wiki/Rotterdam) together with two other Dutch hospital ships, *Sindoro* and *Zeeland*. About 21 miles east of the Leman lightship a violent explosion occurred abaft the bridge. The ship sank quickly, and the vessels accompanying her picked up the survivors. Seven members of the crew were killed and eight were injured. The British chronicle of the war of 1920 gives four victims, but the owners and the Dutch inquiry speak of seven killed.
+On 6 June 1918 the Dutch [hospital ship](/slownik/statek-szpitalny) *Koningin Regentes* ("Queen Regent") sank in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne). She was returning from [Boston](https://pl.wikipedia.org/wiki/Boston_(Wielka_Brytania)) in Lincolnshire, England, to [Rotterdam](https://pl.wikipedia.org/wiki/Rotterdam) together with two other Dutch hospital ships, *Sindoro* and *Zeeland*. About 21 miles east of the Leman lightship a violent explosion occurred abaft the bridge. The ship sank quickly, and the vessels accompanying her picked up the survivors. Seven members of the crew were killed and eight were injured. The British chronicle of the war of 1920 gives four victims, but the owners and the Dutch inquiry speak of seven killed.
 
 *Koningin Regentes* was a paddle steamer of about 1,970 GRT, built in 1895 at the Fairfield yard in Scotland for the Stoomvaart Maatschappij Zeeland of [Vlissingen](https://pl.wikipedia.org/wiki/Vlissingen). For years she carried passengers and mail between the Netherlands and England. In November 1916 German submarines stopped her on her way to London and escorted her to Zeebrugge, but after a few weeks the Germans released the ship. The company suffered badly in the war: in 1916–1917 it lost three other ships. *Koningin Regentes*'s master, Captain W. Reedeker, was losing a ship under his feet for the third time.
 

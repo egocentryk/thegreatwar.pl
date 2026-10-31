@@ -2,7 +2,7 @@
 title: Fighting at Villers-Bretonneux
 summary: On 24 April 1918 the Germans took Villers-Bretonneux with tanks, and at Cachy tanks fought tanks for the first time. That night the Australians retook the town.
 source: walki-pod-villers-bretonneux
-sourceHash: 0196008997eb41a89a09ec6187a862aec6693b27
+sourceHash: edf3b4c4ffee5f465e2ca723127ebf4146509629
 brief:
   - "At dawn on 24 April 1918, in thick mist, four divisions of the German Second Army with thirteen A7V tanks struck the British III Corps and within a few hours took Villers-Bretonneux."
   - "The British 8th and 58th Divisions, badly mauled in March, had nothing to defend themselves against tanks. The Germans reached the road from Cachy to Fouilloy, about 13 kilometres from Amiens, and got no further."
@@ -35,7 +35,7 @@ Around noon General [Ferdinand Foch](/postacie/ferdinand-foch), for ten days [co
 
 ## The night of 25 April
 
-There was a full moon, but clouds kept covering it. At 10 p.m. the artillery began to shell the town and its surroundings, and the 13th Brigade set off ten minutes later. On the wire in front of Cachy the soldiers became entangled with one another, and German machine guns fired into their left flank from Aquenne Wood. Lieutenant Clifford Sadlier's platoon of the 51st Battalion went into the wood and took them with grenades and the bayonet; Sadlier, twice wounded, received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). The Australians went through the German positions, bayoneting and taking prisoners, but at the railway embankment and at the monument on the hill south-east of the town the resistance was too strong, and at about 1 a.m. the brigade halted.
+There was a full moon, but clouds kept covering it. At 10 p.m. the artillery began to shell the town and its surroundings, and the 13th Brigade set off ten minutes later. On the wire in front of Cachy the soldiers became entangled with one another, and German machine guns fired into their left flank from Aquenne Wood. Lieutenant Clifford Sadlier's platoon of the 51st Battalion went into the wood and took them with grenades and the bayonet; Sadlier, twice wounded, received the [Victoria Cross](/slownik/krzyz-wiktorii). The Australians went through the German positions, bayoneting and taking prisoners, but at the railway embankment and at the monument on the hill south-east of the town the resistance was too strong, and at about 1 a.m. the brigade halted.
 
 The 15th Brigade had two kilometres to its assembly point, but the battalion commanders returned late from the briefing, and in the dark the units skirted hollows full of gas and one company lost its way. It set off almost two hours late, at about midnight. That is why German accounts describe its attack as a separate, second assault. When the German outposts began firing, the officer leading the 59th Battalion shouted "Charge!" and the whole line rushed forward with a yell, guided by the light of the burning houses on the edge of Villers-Bretonneux and the German flares calling for barrage fire. The machine guns in the town fired too high. By about 1.30 a.m. the Australians were on the road to Hamel, east of the town, having lost only about 150 men.
 

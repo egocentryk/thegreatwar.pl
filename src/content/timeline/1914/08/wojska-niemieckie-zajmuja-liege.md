@@ -42,4 +42,4 @@ Mieszkańcy przyjęli wkroczenie Niemców w ciszy. Profesor uniwersytetu w Lièg
 
 Położenie Niemców wciąż było jednak niepewne. Forty ostrzeliwały drogi i linie kolejowe, którymi miały przejść niemieckie armie, a według Ludendorffa sytuację można było uznać za uratowaną dopiero po upadku fortów wschodnich. Do ich zniszczenia potrzebna była ciężka artyleria oblężnicza, która otworzyła ogień 12 sierpnia.
 
-Za Liège Ludendorff i Emmich otrzymali od cesarza order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). Brytyjska historia oficjalna oceniała później, że opór twierdzy kosztował Niemców cztery do pięciu dni, Belgowie zaś mówili o co najmniej czterech. Dla Ludendorffa był to początek wielkiej kariery: dwa tygodnie później wezwano go na front wschodni.
+Za Liège Ludendorff i Emmich otrzymali od cesarza order [Pour le Mérite](/slownik/pour-le-merite). Brytyjska historia oficjalna oceniała później, że opór twierdzy kosztował Niemców cztery do pięciu dni, Belgowie zaś mówili o co najmniej czterech. Dla Ludendorffa był to początek wielkiej kariery: dwa tygodnie później wezwano go na front wschodni.

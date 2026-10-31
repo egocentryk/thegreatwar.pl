@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 grudnia 1914 roku do portu Apra na [Guamie](https://pl.wikipedia.org/wiki/Guam), amerykańskiej wyspie w archipelagu Marianów, wszedł niemiecki [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Cormoran. W zasobniach miał już tylko kilkadziesiąt ton węgla. Amerykanie odmówili mu paliwa potrzebnego do dalszej podróży, więc okręt pozostał na Guamie i został internowany wraz z załogą.
+14 grudnia 1914 roku do portu Apra na [Guamie](https://pl.wikipedia.org/wiki/Guam), amerykańskiej wyspie w archipelagu Marianów, wszedł niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) Cormoran. W zasobniach miał już tylko kilkadziesiąt ton węgla. Amerykanie odmówili mu paliwa potrzebnego do dalszej podróży, więc okręt pozostał na Guamie i został internowany wraz z załogą.
 
 ## Zdobycz Emdena
 

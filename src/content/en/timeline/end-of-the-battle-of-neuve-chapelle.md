@@ -2,7 +2,7 @@
 title: End of the battle of Neuve Chapelle
 summary: On 13 March 1915 Haig halted the attack at Neuve Chapelle. The British held the village but did not reach Aubers Ridge. Shells had also run short.
 source: koniec-bitwy-pod-neuve-chapelle
-sourceHash: 194b51e4b2a66a9b6975ba6bd5fdcfc9aa45b38b
+sourceHash: 36477823ccf4c68a398a3ca4a648ed5cc6888c78
 ---
 
 On 13 March 1915 the battle of [Neuve Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle) came to an end. During the night of 12–13 March Field Marshal [John French](/postacie/john-french) ordered the commander of the First Army, General [Douglas Haig](/postacie/douglas-haig), to halt the attack and consolidate the ground won. Three days earlier British and Indian divisions had [taken the village](/poczatek-bitwy-pod-neuve-chapelle) in a single, carefully prepared assault. They got no further, however. German reinforcements closed the breach, and Aubers Ridge, the objective of the whole operation, remained in German hands.
@@ -11,7 +11,7 @@ On 13 March 1915 the battle of [Neuve Chapelle](https://pl.wikipedia.org/wiki/Ne
 
 On 11 March both sides were preparing to attack. A thick mist hung over the flat plain, the airmen could not observe targets, and most of the telephone lines between the observers and the batteries were cut. The British guns could not find the new German line, hidden in houses, ditches and on the edge of the Bois du Biez, and the attacks of the 7th and 8th Divisions and of the Indian Corps broke down under machine-gun fire. The Germans meanwhile brought up reinforcements, above all the 6th Bavarian Reserve Division, but their own counter-attack had to be postponed because some units did not arrive in time.
 
-At dawn on 12 March, in the mist, about 20 German battalions attacked along the whole front of the breach. The British and Indians, however, had had time to dig in, and the German infantry advanced across open ground. The counter-attack broke down with heavy losses. Haig concluded that the Germans were exhausted and ordered the attack on the Bois du Biez and Aubers Ridge to be renewed. Further attacks by the 7th and 8th Divisions, and in the afternoon by brigades of the Indian Lahore Division, brought only small gains, however. The fighting was mainly with grenades, for individual trenches and houses. On that one day British soldiers won several [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+At dawn on 12 March, in the mist, about 20 German battalions attacked along the whole front of the breach. The British and Indians, however, had had time to dig in, and the German infantry advanced across open ground. The counter-attack broke down with heavy losses. Haig concluded that the Germans were exhausted and ordered the attack on the Bois du Biez and Aubers Ridge to be renewed. Further attacks by the 7th and 8th Divisions, and in the afternoon by brigades of the Indian Lahore Division, brought only small gains, however. The fighting was mainly with grenades, for individual trenches and houses. On that one day British soldiers won several [Victoria Crosses](/slownik/krzyz-wiktorii).
 
 ## The decision to break off
 

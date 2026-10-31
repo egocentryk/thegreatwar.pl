@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-20 marca 1918 roku Louis P. Sheldon, przedstawiciel amerykańskiej Rady Handlu Wojennego (War Trade Board) w Londynie, zawiadomił Waszyngton, że przedstawiciele Wielkiej Brytanii, Francji, Włoch i Stanów Zjednoczonych spotkali się w Foreign Office, by ułatwić wymianę poglądów w sprawach [blokady](https://pl.wikipedia.org/wiki/Blokada_morska). Postanowili zbierać się regularnie raz w tygodniu i ukonstytuować się jako Sojuszniczy Komitet Blokady (Allied Blockade Committee) pod przewodnictwem Leverton Harrisa, parlamentarnego sekretarza brytyjskiego Ministerstwa Blokady. Brytyjska chronologia wojny zapisuje utworzenie komitetu pod 20 marca, datą tego raportu. Według protokołów komitetu, na które powołują się wydawcy amerykańskiego zbioru dokumentów dyplomatycznych *Foreign Relations of the United States*, pierwsze posiedzenie odbyło się jednak już 15 marca.
+20 marca 1918 roku Louis P. Sheldon, przedstawiciel amerykańskiej Rady Handlu Wojennego (War Trade Board) w Londynie, zawiadomił Waszyngton, że przedstawiciele Wielkiej Brytanii, Francji, Włoch i Stanów Zjednoczonych spotkali się w Foreign Office, by ułatwić wymianę poglądów w sprawach [blokady](/slownik/blokada). Postanowili zbierać się regularnie raz w tygodniu i ukonstytuować się jako Sojuszniczy Komitet Blokady (Allied Blockade Committee) pod przewodnictwem Leverton Harrisa, parlamentarnego sekretarza brytyjskiego Ministerstwa Blokady. Brytyjska chronologia wojny zapisuje utworzenie komitetu pod 20 marca, datą tego raportu. Według protokołów komitetu, na które powołują się wydawcy amerykańskiego zbioru dokumentów dyplomatycznych *Foreign Relations of the United States*, pierwsze posiedzenie odbyło się jednak już 15 marca.
 
 ## Jedna blokada zamiast dwóch
 

@@ -2,10 +2,10 @@
 title: Airship raid on the Midlands
 summary: On the night of 31 January–1 February 1916 nine naval airships sent against Liverpool bombed the Midlands instead. 70 people were killed and 113 injured.
 source: nalot-sterowcow-na-midlands
-sourceHash: 9c6d2ee2fe2693424548f8ef138a8e5acfc14568
+sourceHash: e8aedf0cb5616e11129496abfc7fa04a6df5c7a4
 ---
 
-On the evening of 31 January 1916 nine German naval [airships](https://pl.wikipedia.org/wiki/Sterowiec) appeared over England. Their target was [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) on the west coast, but in the fog and cloud none of them got there. The bombs fell on the industrial towns of the [Midlands](https://pl.wikipedia.org/wiki/Midlands_(Anglia)), which had until then been considered out of range of air raids and were not blacked out. According to the British official history of the war in the air, 70 people were killed and 113 injured. It was the first airship raid on England since the [raid on London in October 1915](/nalot-sterowcow-na-dzielnice-teatrow).
+On the evening of 31 January 1916 nine German naval [airships](/slownik/sterowiec) appeared over England. Their target was [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) on the west coast, but in the fog and cloud none of them got there. The bombs fell on the industrial towns of the [Midlands](https://pl.wikipedia.org/wiki/Midlands_(Anglia)), which had until then been considered out of range of air raids and were not blacked out. According to the British official history of the war in the air, 70 people were killed and 113 injured. It was the first airship raid on England since the [raid on London in October 1915](/nalot-sterowcow-na-dzielnice-teatrow).
 
 ## Lost airships
 

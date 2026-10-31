@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Trzemeszno (Province of Posen, Prussia)
 deathPlace: Sulejówek
 source: jedrzej-moraczewski
-sourceHash: 18423e86e3ee0c17f6141873f66799dd64d3dacf
+sourceHash: 2b579de13bc4f852611455506ac3fa4912282c19
 ---
 
 Jędrzej Moraczewski was a railway engineer, a Galician socialist and a deputy to the Austrian parliament who during the war followed Piłsudski into the Legions. He went down in history as the first prime minister of the government of reborn Poland. On the night of 17–18 November 1918 [Józef Piłsudski](/postacie/jozef-pilsudski) entrusted him with a cabinet which in less than two months introduced the eight-hour working day, social insurance and an electoral law that gave women the vote. It was, at the same time, a weak government. The right considered it revolutionary, the far left bourgeois, and the Entente powers would not recognise it. In January 1919 it survived a failed coup, and a dozen or so days later it made way for the cabinet of [Ignacy Jan Paderewski](/postacie/ignacy-jan-paderewski).
@@ -23,7 +23,7 @@ In August 1914 Moraczewski was among those Galician socialists who, together wit
 
 Unlike many of Piłsudski's followers who came from socialism, he did not abandon his social programme. He argued that independence would be won not only by an army but also by the support of the broad masses, and he travelled to meetings with workers and peasants to win them over to the Legions. In May 1917 the Germans arrested him in Warsaw for taking part in a secret meeting of legionaries. He was released because as a deputy he had to attend the session of the Vienna parliament that had just been convened.
 
-After the [oath crisis](/kryzys-przysiegowy) and [Piłsudski's arrest](/aresztowanie-pilsudskiego) in July 1917 Moraczewski was among the men who took over the leadership of his camp. Together with [Bogusław Miedziński](https://pl.wikipedia.org/wiki/Bogusław_Miedziński) and [Tadeusz Kasprzycki](https://pl.wikipedia.org/wiki/Tadeusz_Kasprzycki) he co-founded the [Convent of Organisation A](https://pl.wikipedia.org/wiki/Konwent_Organizacji_A), the secret leadership of the Piłsudskiites, and served as political head of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa). On his initiative the [Polish Circle](/rezolucja-kola-polskiego) in Vienna passed a motion on 6 August 1917 calling for the release of the legionaries interned at [Szczypiorno](https://pl.wikipedia.org/wiki/Obóz_internowania_w_Szczypiornie).
+After the [oath crisis](/kryzys-przysiegowy) and [Piłsudski's arrest](/aresztowanie-pilsudskiego) in July 1917 Moraczewski was among the men who took over the leadership of his camp. Together with [Bogusław Miedziński](https://pl.wikipedia.org/wiki/Bogusław_Miedziński) and [Tadeusz Kasprzycki](https://pl.wikipedia.org/wiki/Tadeusz_Kasprzycki) he co-founded the [Convent of Organisation A](https://pl.wikipedia.org/wiki/Konwent_Organizacji_A), the secret leadership of the Piłsudskiites, and served as political head of the [Polish Military Organisation](/slownik/pow). On his initiative the [Polish Circle](/rezolucja-kola-polskiego) in Vienna passed a motion on 6 August 1917 calling for the release of the legionaries interned at [Szczypiorno](https://pl.wikipedia.org/wiki/Obóz_internowania_w_Szczypiornie).
 
 ## The Lublin government and the premiership
 

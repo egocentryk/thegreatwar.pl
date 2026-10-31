@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 20 na 21 marca 1915 roku nad [Paryżem](https://pl.wikipedia.org/wiki/Paryż) po raz pierwszy pojawiły się niemieckie [sterowce](https://pl.wikipedia.org/wiki/Sterowiec). Zrzuciły bomby na północno-zachodnie dzielnice miasta i na podparyskie gminy. Według większości opracowań straty były niewielkie, ale stolica Francji dowiedziała się, że zagrożenie z powietrza nie skończyło się wraz z odsunięciem frontu.
+W nocy z 20 na 21 marca 1915 roku nad [Paryżem](https://pl.wikipedia.org/wiki/Paryż) po raz pierwszy pojawiły się niemieckie [sterowce](/slownik/sterowiec). Zrzuciły bomby na północno-zachodnie dzielnice miasta i na podparyskie gminy. Według większości opracowań straty były niewielkie, ale stolica Francji dowiedziała się, że zagrożenie z powietrza nie skończyło się wraz z odsunięciem frontu.
 
 ## Wyprawa armii
 

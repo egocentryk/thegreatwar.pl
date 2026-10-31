@@ -6,7 +6,7 @@ country: China
 birthPlace: Anhui Province (China)
 deathPlace: Shanghai
 source: duan-qirui
-sourceHash: 71641f32b3adfc170d70415592e09c1c4b68088d
+sourceHash: 6ae6363f3495d701cd021d0005db4225b3eef1a9
 ---
 
 Duan Qirui was the strongest man in Beijing in the years when China was entering the Great War. A general of the Beiyang Army and a protégé of [Yuan Shikai](https://pl.wikipedia.org/wiki/Yuan_Shikai), after Yuan's death in 1916 he ruled as premier on behalf of weak presidents, and it was he who forced through the breaking of relations with Germany in March 1917 and the declaration of war on it in August. For him the war was a chance to recover the German rights in Shandong, free China from some of its unequal obligations and obtain money with which he could build his own army and unite the country by force. The money came mainly from Japan, and the secret agreements he concluded in return turned after the war against China and against him personally. The dispute over the war that he unleashed contributed to the split of the state into north and south.
@@ -45,7 +45,7 @@ In March 1918, after the successes of the northern troops in Hunan, the generals
 
 ## After the war
 
-Duan's calculations failed where they mattered most. At the peace conference in Paris the powers, bound by promises made to Japan in 1917, awarded it the German rights in Shandong. The Japanese invoked the agreements that Duan's government had concluded with them. In May 1919 protests broke out that gave rise to the [May Fourth Movement](https://pl.wikipedia.org/wiki/Ruch_4_Maja), and their edge was turned also against ministers associated with the Japanese loans. China did not sign the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski).
+Duan's calculations failed where they mattered most. At the peace conference in Paris the powers, bound by promises made to Japan in 1917, awarded it the German rights in Shandong. The Japanese invoked the agreements that Duan's government had concluded with them. In May 1919 protests broke out that gave rise to the [May Fourth Movement](https://pl.wikipedia.org/wiki/Ruch_4_Maja), and their edge was turned also against ministers associated with the Japanese loans. China did not sign the [Treaty of Versailles](/slownik/traktat-wersalski).
 
 In July 1920 the Zhili clique, backed by [Zhang Zuolin](https://pl.wikipedia.org/wiki/Zhang_Zuolin), routed Duan's troops in a few days, and he gave up all his offices and settled in Tianjin. In November 1924, after the coup of [Feng Yuxiang](https://pl.wikipedia.org/wiki/Feng_Yuxiang), he returned as provisional chief executive, but without an army of his own he was a hostage of the generals. On 18 March 1926 his guard opened fire on demonstrators in Beijing and several dozen people were killed (the [18 March Massacre](https://pl.wikipedia.org/wiki/Masakra_18_marca)). A month later he was removed from power. He spent his last years in Tianjin and Shanghai, devoting himself to Buddhism and the game of go. According to Chinese works he rejected offers of collaboration from the Japanese, who after 1931 were looking for compliant politicians in northern China. He died on 2 November 1936 in Shanghai.
 

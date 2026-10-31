@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-10 kwietnia 1918 roku późnym wieczorem brytyjska [Izba Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) przyjęła w drugim czytaniu, stosunkiem głosów 323 do 100, nowy projekt ustawy o służbie wojskowej. Brytyjska chronologia wojny zapisuje pod tym dniem uchwalenie „trzeciej ustawy o służbie wojskowej”, a pod 18 kwietnia jej wejście w życie. Według sprawozdań parlamentarnych 10 kwietnia był jednak dopiero jednym z etapów: trzecie czytanie odbyło się 16 kwietnia, a sankcję królewską Military Service (No. 2) Act, 1918 otrzymał 18 kwietnia. Ustawa była odpowiedzią na klęskę [nad Sommą](/bitwy/operacja-michael), gdzie od 21 marca armia brytyjska poniosła ogromne straty, i na nowe niemieckie uderzenie, które dzień wcześniej [spadło na front nad Lys](/poczatek-bitwy-nad-lys).
+10 kwietnia 1918 roku późnym wieczorem brytyjska [Izba Gmin](/slownik/izba-gmin) przyjęła w drugim czytaniu, stosunkiem głosów 323 do 100, nowy projekt ustawy o służbie wojskowej. Brytyjska chronologia wojny zapisuje pod tym dniem uchwalenie „trzeciej ustawy o służbie wojskowej”, a pod 18 kwietnia jej wejście w życie. Według sprawozdań parlamentarnych 10 kwietnia był jednak dopiero jednym z etapów: trzecie czytanie odbyło się 16 kwietnia, a sankcję królewską Military Service (No. 2) Act, 1918 otrzymał 18 kwietnia. Ustawa była odpowiedzią na klęskę [nad Sommą](/bitwy/operacja-michael), gdzie od 21 marca armia brytyjska poniosła ogromne straty, i na nowe niemieckie uderzenie, które dzień wcześniej [spadło na front nad Lys](/poczatek-bitwy-nad-lys).
 
 ## Projekt rządu
 

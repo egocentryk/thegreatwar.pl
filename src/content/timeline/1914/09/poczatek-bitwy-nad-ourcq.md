@@ -22,7 +22,7 @@ brief:
 
 ## Skręt Klucka
 
-Według niemieckiego planu wojny, znanego jako [plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena), armia Klucka, najdalej wysunięta na prawym skrzydle, miała przejść na zachód od Paryża i okrążyć armie francuskie. Pod koniec sierpnia Kluck zmienił jednak kierunek marszu. Chcąc dopaść cofającą się francuską 5 Armię i wesprzeć sąsiednią 2 Armię generała [Karla von Bülowa](/postacie/karl-von-bulow), skręcił na południowy wschód, a jego kolumny zaczęły przechodzić na wschód od stolicy Francji. 3 września jego czołowe oddziały przekroczyły Marnę.
+Według niemieckiego planu wojny, znanego jako [plan Schlieffena](/slownik/plan-schlieffena), armia Klucka, najdalej wysunięta na prawym skrzydle, miała przejść na zachód od Paryża i okrążyć armie francuskie. Pod koniec sierpnia Kluck zmienił jednak kierunek marszu. Chcąc dopaść cofającą się francuską 5 Armię i wesprzeć sąsiednią 2 Armię generała [Karla von Bülowa](/postacie/karl-von-bulow), skręcił na południowy wschód, a jego kolumny zaczęły przechodzić na wschód od stolicy Francji. 3 września jego czołowe oddziały przekroczyły Marnę.
 
 Manewr ten odsłonił prawe skrzydło niemieckiej armii. Francuscy lotnicy i kawalerzyści szybko to zauważyli. Gubernator wojskowy Paryża, generał [Joseph Gallieni](/gallieni-gubernatorem-paryza), któremu podlegała formowana od końca sierpnia 6 Armia, uznał, że nadarza się okazja, by uderzyć Niemców w bok. Naczelny wódz, generał [Joseph Joffre](/postacie/joseph-joffre), wieczorem 4 września wydał rozkazy do ogólnej kontrofensywy wszystkich armii lewego skrzydła, wyznaczoną na 6 września. 6 Armia miała do tego czasu podejść na wschód i przygotować się do przekroczenia Ourcq.
 

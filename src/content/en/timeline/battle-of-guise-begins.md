@@ -2,7 +2,7 @@
 title: Battle of Guise begins
 summary: On 29 August 1914 Lanrezac's French Fifth Army broke off its retreat and counter-attacked Bülow's German Second Army on the river Oise.
 source: poczatek-bitwy-pod-guise
-sourceHash: 3aadd26970e15a1cb1a74a105bd519c3a81c7d06
+sourceHash: 4f56e6b5b1dd674c456797681bd925c6de06f3f7
 brief:
   - "On 29 August 1914 General Charles Lanrezac's French Fifth Army broke off its retreat and struck Bülow's German Second Army in the Oise valley. It was the only major Allied counter-attack during the Great Retreat."
   - "Joffre needed time to assemble the new Sixth Army and forced the attack on Lanrezac, who opposed it. Field Marshal John French refused British participation, so the French fought alone."
@@ -34,6 +34,6 @@ On the evening of 29 August the French could speak of success at Guise, though n
 
 ## Significance
 
-The Battle of Guise was no great victory, but it had serious consequences. Bülow's army halted for a day and a half. Bülow asked Kluck for support, and on the evening of 30 August Kluck turned the First Army south-east to cut off the Fifth Army's retreat. Instead of going round Paris to the west, as the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) had envisaged, the Germans passed east of the capital and exposed their right flank. This turn gave the French an opportunity, which they seized at the beginning of September in the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną).
+The Battle of Guise was no great victory, but it had serious consequences. Bülow's army halted for a day and a half. Bülow asked Kluck for support, and on the evening of 30 August Kluck turned the First Army south-east to cut off the Fifth Army's retreat. Instead of going round Paris to the west, as the [Schlieffen Plan](/slownik/plan-schlieffena) had envisaged, the Germans passed east of the capital and exposed their right flank. This turn gave the French an opportunity, which they seized at the beginning of September in the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną).
 
 Franchet d'Espérey came out of the battle with a reputation as the most energetic general of the Fifth Army. A few days later he replaced Lanrezac as its commander.

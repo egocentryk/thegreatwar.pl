@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Weilheim (Bavaria)
 deathPlace: Hamburg-Othmarschen
 source: franz-von-hipper
-sourceHash: d5cb1ffe7366ca661b287b6520b0d6153e86633c
+sourceHash: 31b0f319245e02ee5a455d3760d494ecf18d09e2
 ---
 
 Franz Hipper, from 1916 Ritter von Hipper, commanded the German battlecruisers throughout the war, the fastest and most frequently engaged heavy ships of the Imperial Navy. His squadron shelled English towns, for which the British press called him a "baby-killer"; in January 1915 it escaped from a trap at Dogger Bank at the cost of the cruiser *Blücher*, and at Jutland it sank three British battlecruisers. He was regarded as one of the best naval commanders of the war, respected by his enemies as well. In August 1918 he took command of the High Seas Fleet, but his last plan, a great sortie by the fleet a few days before the armistice, ended in a mutiny of the sailors.
@@ -37,7 +37,7 @@ Scheer wanted to lure part of the Grand Fleet out of its bases and defeat it wit
 
 In the evening *Lützow* and *Derfflinger* sank the battlecruiser [*Invincible*](https://pl.wikipedia.org/wiki/HMS_Invincible_(1907)) with Rear Admiral Horace Hood, but *Lützow* took hits in the bow that sealed her fate. Hipper transferred under fire to a torpedo boat and for an hour and a half searched for a ship from which he could exercise command, since the other battlecruisers were badly damaged. Meanwhile his squadron, led by the captain of *Derfflinger*, covered the fleet's retreat with a daring charge at the British line. Only late in the evening did the admiral board *Moltke*. *Lützow* sank during the night, and the other battlecruisers returned to port heavily damaged.
 
-After the battle the Kaiser awarded Hipper the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), and the King of Bavaria, Ludwig III, conferred on him the Knight's Cross of the [Military Order of Max Joseph](https://pl.wikipedia.org/wiki/Order_Maksymiliana_Józefa), which carried personal nobility and the title Ritter von Hipper. In the following months the fleet rarely put to sea. In November 1916 Hipper led a force that tried to rescue two U-boats stranded off the Danish coast. One was pulled free, the other had to be blown up, and on the way a British submarine torpedoed two of the force's battleships.
+After the battle the Kaiser awarded Hipper the [Pour le Mérite](/slownik/pour-le-merite), and the King of Bavaria, Ludwig III, conferred on him the Knight's Cross of the [Military Order of Max Joseph](https://pl.wikipedia.org/wiki/Order_Maksymiliana_Józefa), which carried personal nobility and the title Ritter von Hipper. In the following months the fleet rarely put to sea. In November 1916 Hipper led a force that tried to rescue two U-boats stranded off the Danish coast. One was pulled free, the other had to be blown up, and on the way a British submarine torpedoed two of the force's battleships.
 
 ## Fleet commander
 

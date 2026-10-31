@@ -2,7 +2,7 @@
 title: Germany declares war on France
 summary: On 3 August 1914 Germany declared war on France, citing invented French air raids. The war on two fronts had begun.
 source: niemcy-wypowiadaja-wojne-francji
-sourceHash: 7f2f7d16bb43afe5165eef4fe6f838147c7103e2
+sourceHash: 3c0f6337c9bab02fa734d6130eff414f6cb7f728
 brief:
   - "At 6.45 p.m. on 3 August 1914 the German ambassador, Baron Wilhelm von Schoen, handed René Viviani a declaration of war on France. Germany was now waging war on two fronts."
   - "The note accused France of \"flagrantly hostile acts\", including an alleged bombing of the railway near Karlsruhe and Nuremberg. The accusations were false: there had been no French raids."
@@ -22,7 +22,7 @@ Viviani heard the note in silence and then firmly protested against the injustic
 
 ## A war planned for years
 
-The declaration of war formally closed a matter long since settled by German war plans. The [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) assumed that in a war with Russia Germany would first quickly defeat France, striking at it through Belgian territory, and only then transfer its main forces to the east. That is why, after declaring war on Russia on 1 August, Berlin could not wait for France to decide for itself to enter the conflict.
+The declaration of war formally closed a matter long since settled by German war plans. The [Schlieffen Plan](/slownik/plan-schlieffena) assumed that in a war with Russia Germany would first quickly defeat France, striking at it through Belgian territory, and only then transfer its main forces to the east. That is why, after declaring war on Russia on 1 August, Berlin could not wait for France to decide for itself to enter the conflict.
 
 France, too, was prepared for war. Since the defeat in the [Franco-Prussian War](https://pl.wikipedia.org/wiki/Wojna_francusko-pruska) and the loss of [Alsace-Lorraine](https://pl.wikipedia.org/wiki/Alzacja-Lotaryngia) in 1871, recovering these provinces had remained one of the aims of French policy. The commander-in-chief, [Joseph Joffre](/postacie/joseph-joffre), planned an offensive precisely in Lorraine and Alsace.
 

@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Gersdorf (Mecklenburg)
 deathPlace: Berlin
 source: helmuth-von-moltke
-sourceHash: 8f24163a4bfbb225213dafe7feef67501ca5b020
+sourceHash: 1098e9bfc45c59c2fefa0774b5b3962adce37563
 ---
 
 Helmuth von Moltke, known as the Younger, spent eight years preparing the German Army for a great war and then commanded it for six weeks. He inherited from his predecessor a plan that was to crush France within a few weeks, before Russia could mobilise, and in August 1914 he put it into effect. In the July Crisis he was among those who pressed hardest for war, but once it had broken out he could not bear the burden of command. The defeat on the Marne in September 1914 wrecked German hopes of a quick victory and broke the man himself. Historians still argue over how much of the defeat was his fault and how much was due to the flaws of the plan itself.
@@ -17,7 +17,7 @@ He was born on 25 May 1848 on the Gersdorf estate in [Mecklenburg](https://pl.wi
 
 In 1904 he became Quartermaster General, in effect deputy Chief of the Great General Staff, and on 1 January 1906 he succeeded [Alfred von Schlieffen](https://pl.wikipedia.org/wiki/Alfred_von_Schlieffen) in that post. The appointment raised doubts even then. Critics believed he owed it to his name and to his friendship with the Kaiser, who wanted to have "his own Moltke". Moltke himself made no secret of being unsure of his abilities as a commander. He was a cultured man who played the cello, painted and read widely, and he was also interested in theosophy, which his wife Eliza practised.
 
-As Chief of Staff he reworked the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) he had inherited. He abandoned the march through the Netherlands, because he wanted to keep it as a neutral "window" on the world through which Germany could trade in wartime. In exchange the armies of the right wing had to pass through a narrow corridor in Belgium and take the fortress of Liège in the first days of the war. Moltke also strengthened the armies in Alsace and Lorraine at the expense of the right wing. In 1913 work on a separate plan for a war against Russia alone was dropped. From then on any war with Russia meant an immediate German attack on France through Belgium.
+As Chief of Staff he reworked the [Schlieffen Plan](/slownik/plan-schlieffena) he had inherited. He abandoned the march through the Netherlands, because he wanted to keep it as a neutral "window" on the world through which Germany could trade in wartime. In exchange the armies of the right wing had to pass through a narrow corridor in Belgium and take the fortress of Liège in the first days of the war. Moltke also strengthened the armies in Alsace and Lorraine at the expense of the right wing. In 1913 work on a separate plan for a war against Russia alone was dropped. From then on any war with Russia meant an immediate German attack on France through Belgium.
 
 Moltke was convinced that time was working against Germany. At a conference with the Kaiser on 8 December 1912 he said that war was inevitable, "the sooner the better". According to the account of the Foreign Secretary, Gottlieb von Jagow, in May 1914 he argued that in two or three years Russia's rearmament would be complete, and Germany would then no longer be able to match its enemies. There was therefore nothing left but a preventive war while it could still be won.
 

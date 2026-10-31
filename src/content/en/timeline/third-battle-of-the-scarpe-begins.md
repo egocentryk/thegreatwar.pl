@@ -2,7 +2,7 @@
 title: Third Battle of the Scarpe begins
 summary: At 3.45 a.m. on 3 May 1917, still in darkness, three British armies struck again at Arras. They failed almost everywhere. Only the Canadians succeeded.
 source: poczatek-trzeciej-bitwy-nad-scarpe
-sourceHash: 72cac0036ef783810faa88b9dc347b3377ef9af3
+sourceHash: e5b55ef132a3417d0da0ba1eb3d7cc2f8ae4f1d5
 brief:
   - "On 3 May 1917, still in darkness, the British Third and First Armies attacked on a broad front at Arras for the last time in this battle, while the Fifth Army attacked at Bullecourt."
   - "The Nivelle Offensive had failed, but Douglas Haig could not break off the battle himself while the French announced further attacks. He set a more modest objective: a defensive line from Lens to Riencourt."
@@ -31,7 +31,7 @@ At first light it turned out that many units had taken the German front line and
 
 The German artillery fired all day, chiefly at the infantry. Veterans said they had never been through such heavy shelling, which according to the official history went on almost without a break for about fifteen hours. On the 56th Division's sector one brigade was shattered by fire from a German trench that had survived the bombardment, its garrison firing while standing shoulder to shoulder. At Rœux the German 25th Infantry Regiment, earlier withdrawn as exhausted, counter-attacked along the river, took 358 prisoners and freed a company of sappers that was still holding out in the village. In the afternoon about a hundred men from four battalions of the 4th Division, without officers, were still clinging to the first objective. After dark those who had not been taken prisoner crept back to their own lines. At Oppy the 31st Division broke in the dark into a wood choked with felled trees, but its men were driven out or captured. The Germans even took the windmill at [Gavrelle](https://pl.wikipedia.org/wiki/Gavrelle), which was, however, retaken by a company of a Durham Light Infantry battalion.
 
-Evening attempts to renew the attack, made mainly to rescue cut-off parties, for the most part failed. On the whole front of the Third Army the only gain proved to be a strip of the German front line, about 500 yards deep on a front of 1,000 yards, taken by the 36th Brigade of the 12th Division south of the Scarpe. After dark its men cleared the captured dugouts. In one of them the Germans were holding Corporal George Jarratt of the 8th Battalion, Royal Fusiliers, and several wounded men. When a grenade was thrown into the dugout, Jarratt stamped on it with both feet. The wounded were saved, while he himself lost his legs and died. He was awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) posthumously.
+Evening attempts to renew the attack, made mainly to rescue cut-off parties, for the most part failed. On the whole front of the Third Army the only gain proved to be a strip of the German front line, about 500 yards deep on a front of 1,000 yards, taken by the 36th Brigade of the 12th Division south of the Scarpe. After dark its men cleared the captured dugouts. In one of them the Germans were holding Corporal George Jarratt of the 8th Battalion, Royal Fusiliers, and several wounded men. When a grenade was thrown into the dugout, Jarratt stamped on it with both feet. The wounded were saved, while he himself lost his legs and died. He was awarded the [Victoria Cross](/slownik/krzyz-wiktorii) posthumously.
 
 ## The Canadians at Fresnoy
 

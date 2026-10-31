@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Według ówczesnych kronik wojennych w nocy 4 sierpnia 1914 roku nad [Brukselą](https://pl.wikipedia.org/wiki/Bruksela) przeleciały dwa niemieckie [sterowce](https://pl.wikipedia.org/wiki/Sterowiec). Brytyjskie zestawienia wydarzeń wojny odnotowywały to jako pierwszy wrogi akt w powietrzu. Szczegółów tego przelotu nie udało się jednak potwierdzić w dostępnych dziś źródłach, a relacje z pierwszych, chaotycznych dni wojny często powtarzały niesprawdzone pogłoski.
+Według ówczesnych kronik wojennych w nocy 4 sierpnia 1914 roku nad [Brukselą](https://pl.wikipedia.org/wiki/Bruksela) przeleciały dwa niemieckie [sterowce](/slownik/sterowiec). Brytyjskie zestawienia wydarzeń wojny odnotowywały to jako pierwszy wrogi akt w powietrzu. Szczegółów tego przelotu nie udało się jednak potwierdzić w dostępnych dziś źródłach, a relacje z pierwszych, chaotycznych dni wojny często powtarzały niesprawdzone pogłoski.
 
 Pewne jest natomiast, że Niemcy od początku wojny zamierzali wykorzystać sterowce do działań wojennych. W 1914 roku dysponowały kilkoma wojskowymi statkami powietrznymi typu Zeppelin, zdolnymi do lotów nocnych i zabierania ładunku bomb. Uważano je za groźną broń: mogły latać wyżej i dalej niż ówczesne samoloty, a wiele armii nie miało jeszcze skutecznej obrony przeciwlotniczej.
 

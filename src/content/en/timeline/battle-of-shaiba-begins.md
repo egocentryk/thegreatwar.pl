@@ -2,7 +2,7 @@
 title: Battle of Shaiba begins
 summary: On 12 April 1915 Turkish troops and the Arab allies of Süleyman Askerî attacked the British camp at Shaiba near Basra. The attacks were repulsed.
 source: poczatek-bitwy-pod-szuajba
-sourceHash: 7b25732f1bceb04c29416af9eadb5e7082cfc4ef
+sourceHash: 14baaac8d6e0d22ac453b467532cf11f577f86b1
 ---
 
 At dawn on 12 April 1915 Turkish troops attacked the fortified British camp at Shaiba, a dozen or so kilometres south-west of [Basra](https://pl.wikipedia.org/wiki/Basra). It was the largest Turkish attempt to recover lower [Mesopotamia](/bitwy/kampania-mezopotamska), lost in the autumn of 1914. All day and all night the defenders beat off successive attacks, while the British in Basra struggled to get reinforcements to them across the flooded desert. Only three days earlier General John Nixon had [taken over command in the Persian Gulf](/nixon-obejmuje-dowodztwo-w-mezopotamii).
@@ -19,7 +19,7 @@ The camp at Shaiba had a perimeter of more than five kilometres. Trenches with w
 
 At about 5 a.m. the Turks opened rifle fire on the fort from the west and south-west, and at sunrise their twelve guns opened up. The British artillery quickly located the batteries and silenced most of the Turkish field guns, which had been placed without cover on an open slope, within a quarter of an hour. The infantry attack was directed mainly at a salient corner of the trenches south of the fort. By 8 a.m. it had been repulsed. At about 9 a.m. crowds of Arabs with six banners appeared on a mound north-west of the camp, called North Mound by the British, but their attempts to attack were broken up by rifle and machine-gun fire.
 
-In the afternoon the Turks renewed their attack from the south. At about 1.30 p.m. thirty Arab sailing boats tried to enter the flooded area between Shaiba and Basra, but turned back. Arab marksmen were harassing the British artillery observers on the left of the camp, so Major George Wheeler of the 7th Hariana Lancers led out his squadron, scattered them with a lance charge and returned to the camp with the loss of one man wounded. For this sortie and for the fighting the following day he was later awarded a posthumous [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+In the afternoon the Turks renewed their attack from the south. At about 1.30 p.m. thirty Arab sailing boats tried to enter the flooded area between Shaiba and Basra, but turned back. Arab marksmen were harassing the British artillery observers on the left of the camp, so Major George Wheeler of the 7th Hariana Lancers led out his squadron, scattered them with a lance charge and returned to the camp with the loss of one man wounded. For this sortie and for the fighting the following day he was later awarded a posthumous [Victoria Cross](/slownik/krzyz-wiktorii).
 
 At dusk the Turks again attacked strongly from the south. Within a quarter of an hour the Turks put out a British searchlight with rifle fire and put one of the machine guns out of action for two hours. Throughout the night, covered by heavy firing, they tried to cut the wire. The last attack came at about 3.30 a.m. The main burden of the defence fell on the 48th Pioneers and the 17th Company of Sappers and Miners, supported by the machine guns of the 2nd Battalion of the Norfolk Regiment. Despite many hours of fighting, the British and Indians lost, according to the official history, only five killed and 66 wounded.
 

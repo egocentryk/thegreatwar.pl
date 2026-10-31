@@ -2,7 +2,7 @@
 title: Battle of Mons
 summary: On 23 August 1914 the British Expeditionary Force fought its first battle at Mons. It inflicted heavy losses on the Germans but had to begin a retreat.
 source: bitwa-pod-mons
-sourceHash: 55fca0a2dcf0b4506c11b71b90cdd6784dd767f7
+sourceHash: 0307a0632185512f89e47aec3bb5d867be9f34ee
 brief:
   - "On 23 August 1914 near the Belgian town of Mons, Field Marshal Sir John French's British Expeditionary Force fought its first battle of the war, the first in Western Europe since Waterloo in 1815."
   - "The British held the line of the Mons–Condé canal, unaware that General Alexander von Kluck's much more numerous German First Army was heading for them. The main weight fell on Smith-Dorrien's II Corps."
@@ -24,7 +24,7 @@ The British were to push on north towards Soignies. On the evening of 22 August,
 
 At first the Germans attacked in dense masses, which fell under the fire. The British soldiers were professionals, trained in fast and accurate rifle fire. The official history writes that the Germans believed they were facing nothing but machine guns everywhere. The Brandenburg Grenadier regiment that attacked at Saint-Ghislain lost 25 officers and more than 500 men. One of its company commanders, the novelist Walter Bloem, recalled: "Our first battle is a heavy, unheard-of heavy defeat, and against the English, the English we laughed at."
 
-It was worst in the loop of the canal. In the afternoon the Germans crossed the canal west of Obourg and began to work round the battalions defending it. The 4th Battalion, Royal Fusiliers, held the bridges at Nimy, where the crews of two machine guns were killed or wounded to the last man. For this fight Lieutenant Maurice Dease and Private Sidney Godley received some of the war's first [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Dease died of his wounds. At about two in the afternoon the battalion withdrew from Nimy, and at three the Scots Fusiliers left Jemappes. At Mariette and Jemappes two more crosses went to sappers, Captain Theodore Wright and Lance-Corporal Charles Jarvis, who laid charges under the bridges under fire.
+It was worst in the loop of the canal. In the afternoon the Germans crossed the canal west of Obourg and began to work round the battalions defending it. The 4th Battalion, Royal Fusiliers, held the bridges at Nimy, where the crews of two machine guns were killed or wounded to the last man. For this fight Lieutenant Maurice Dease and Private Sidney Godley received some of the war's first [Victoria Crosses](/slownik/krzyz-wiktorii). Dease died of his wounds. At about two in the afternoon the battalion withdrew from Nimy, and at three the Scots Fusiliers left Jemappes. At Mariette and Jemappes two more crosses went to sappers, Captain Theodore Wright and Lance-Corporal Charles Jarvis, who laid charges under the bridges under fire.
 
 ## Withdrawal
 

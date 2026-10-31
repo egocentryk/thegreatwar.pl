@@ -2,10 +2,10 @@
 title: Romanians take Brașov
 summary: On 29 August 1916 the vanguard of the Romanian Second Army entered Brașov, the second-largest city of Transylvania, abandoned by its defenders and officials.
 source: rumuni-zajmuja-braszow
-sourceHash: 5026998d7e694fdf8c1cf9ae75266996d0a99e0a
+sourceHash: ad27841578829263679e92b6121193b8bb0e9c5d
 ---
 
-On 29 August 1916, the third day of the war between Romania and Austria-Hungary, Romanian troops took [Brașov](https://pl.wikipedia.org/wiki/Braszów), in German Kronstadt, in Hungarian Brassó. It was the largest city the Romanians captured during their [offensive in Transylvania](/rumunska-ofensywa-w-siedmiogrodzie). The advance units of the 4th Division of General [Alexandru Averescu](/postacie/alexandru-averescu)'s Second Army came down into the city from the passes above the Prahova valley almost without a fight, because the Austro-Hungarian troops and authorities had left it the night before. According to the American historian Michael Barrett, at about 5 p.m. Romanian units marched through the streets to the main square of the city. In Romania, where the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) was still in use, it was 16 August, and local Romanian tradition recorded the event under that date.
+On 29 August 1916, the third day of the war between Romania and Austria-Hungary, Romanian troops took [Brașov](https://pl.wikipedia.org/wiki/Braszów), in German Kronstadt, in Hungarian Brassó. It was the largest city the Romanians captured during their [offensive in Transylvania](/rumunska-ofensywa-w-siedmiogrodzie). The advance units of the 4th Division of General [Alexandru Averescu](/postacie/alexandru-averescu)'s Second Army came down into the city from the passes above the Prahova valley almost without a fight, because the Austro-Hungarian troops and authorities had left it the night before. According to the American historian Michael Barrett, at about 5 p.m. Romanian units marched through the streets to the main square of the city. In Romania, where the [Julian calendar](/slownik/kalendarz-julianski) was still in use, it was 16 August, and local Romanian tradition recorded the event under that date.
 
 ## A city of three nations
 

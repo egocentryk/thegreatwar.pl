@@ -2,10 +2,10 @@
 title: Internment of Cormoran at Guam
 summary: On 14 December 1914 the German auxiliary cruiser Cormoran, formerly the Russian Ryazan, reached American Guam out of coal. The ship and her crew were interned.
 source: internowanie-cormorana-na-guamie
-sourceHash: 7e79ff144ce61bef8440fee8177e9c1a3e03a43f
+sourceHash: 3ae816bed42cce1a499e5b4a5b35e419129f8d66
 ---
 
-On 14 December 1914 the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Cormoran entered Apra Harbor on [Guam](https://pl.wikipedia.org/wiki/Guam), an American island in the Mariana archipelago. She had only a few dozen tons of coal left in her bunkers. The Americans refused her the fuel she needed to continue her voyage, so the ship remained at Guam and was interned together with her crew.
+On 14 December 1914 the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) Cormoran entered Apra Harbor on [Guam](https://pl.wikipedia.org/wiki/Guam), an American island in the Mariana archipelago. She had only a few dozen tons of coal left in her bunkers. The Americans refused her the fuel she needed to continue her voyage, so the ship remained at Guam and was interned together with her crew.
 
 ## A prize of the Emden
 

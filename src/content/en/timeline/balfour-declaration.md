@@ -2,7 +2,7 @@
 title: Balfour Declaration
 summary: On 2 November 1917 Arthur Balfour assured Lord Rothschild that Britain supported the establishment in Palestine of a national home for the Jewish people.
 source: deklaracja-balfoura
-sourceHash: 4e4b7ff71f6d10e255f8818b1b0090c5c5e574d2
+sourceHash: 0d3099be6569ec6830f3dfa47790a8987130560a
 brief:
   - "On 2 November 1917 the British Foreign Secretary Arthur Balfour assured Lord Rothschild in a letter that the government viewed with favour the establishment in Palestine of a national home for the Jewish people."
   - "It was the first public support for Zionism from a great power. Chaim Weizmann and Nahum Sokolow had campaigned for it, and Lloyd George's government was thinking of partitioning the Ottoman lands."
@@ -51,4 +51,4 @@ The text of the declaration appeared in the press a week later, on 9 November 19
 
 The declaration had opponents among Jews as well, especially assimilated ones, who like Montagu feared for their position as citizens of the countries in which they lived. In the Arab world the declaration was seen as a betrayal of the commitments made to Sharif [Hussein](/postacie/husajn-ibn-ali). The Central Powers responded cautiously, because Germany could not outbid the British without offending its Turkish ally. In December the Grand Vizier Talat Pasha, in an interview with the German *Vossische Zeitung*, called the declaration a bluff and promised the Jews in Palestine the fulfilment of their "justified wishes" under Ottoman rule.
 
-A little over a month after the declaration, on 9 December, British troops occupied Jerusalem. After the war the [San Remo conference](https://pl.wikipedia.org/wiki/Konferencja_w_San_Remo) of 1920 gave Britain the mandate for Palestine with the obligation to put the declaration into effect, and in 1922 its text was incorporated into the [mandate](https://pl.wikipedia.org/wiki/Palestyna_(mandat)) instrument approved by the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów). The Balfour Declaration became one of the founding documents of the future Israel, and at the same time one of the sources of the [Israeli–Palestinian conflict](https://pl.wikipedia.org/wiki/Konflikt_izraelsko-palestyński).
+A little over a month after the declaration, on 9 December, British troops occupied Jerusalem. After the war the [San Remo conference](https://pl.wikipedia.org/wiki/Konferencja_w_San_Remo) of 1920 gave Britain the mandate for Palestine with the obligation to put the declaration into effect, and in 1922 its text was incorporated into the [mandate](https://pl.wikipedia.org/wiki/Palestyna_(mandat)) instrument approved by the [League of Nations](/slownik/liga-narodow). The Balfour Declaration became one of the founding documents of the future Israel, and at the same time one of the sources of the [Israeli–Palestinian conflict](https://pl.wikipedia.org/wiki/Konflikt_izraelsko-palestyński).

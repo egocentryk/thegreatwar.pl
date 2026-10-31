@@ -24,7 +24,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Edward_Śmigły-Rydz"
 ---
 
-Edward Rydz, w czasie wielkiej wojny znany głównie pod pseudonimem „Śmigły”, był jednym z najzdolniejszych oficerów liniowych, jakich wydały Legiony. Malarz z wykształcenia, przez trzy lata dowodził 1 pułkiem piechoty I Brygady, najbardziej doświadczonym oddziałem [Józefa Piłsudskiego](/postacie/jozef-pilsudski). Jego największa rola przypadła jednak na czas, gdy Komendant siedział w niemieckim więzieniu. Od lata 1917 roku Rydz kierował [Polską Organizacją Wojskową](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), konspiracją, która w listopadzie 1918 roku rozbrajała zaborców i wyniosła do władzy lewicę niepodległościową. W lubelskim rządzie [Ignacego Daszyńskiego](/postacie/ignacy-daszynski) był ministrem wojny. Później został marszałkiem Polski i naczelnym wodzem w 1939 roku, ale ta część jego życiorysu leży poza wielką wojną.
+Edward Rydz, w czasie wielkiej wojny znany głównie pod pseudonimem „Śmigły”, był jednym z najzdolniejszych oficerów liniowych, jakich wydały Legiony. Malarz z wykształcenia, przez trzy lata dowodził 1 pułkiem piechoty I Brygady, najbardziej doświadczonym oddziałem [Józefa Piłsudskiego](/postacie/jozef-pilsudski). Jego największa rola przypadła jednak na czas, gdy Komendant siedział w niemieckim więzieniu. Od lata 1917 roku Rydz kierował [Polską Organizacją Wojskową](/slownik/pow), konspiracją, która w listopadzie 1918 roku rozbrajała zaborców i wyniosła do władzy lewicę niepodległościową. W lubelskim rządzie [Ignacego Daszyńskiego](/postacie/ignacy-daszynski) był ministrem wojny. Później został marszałkiem Polski i naczelnym wodzem w 1939 roku, ale ta część jego życiorysu leży poza wielką wojną.
 
 ## Przed wojną
 

@@ -2,7 +2,7 @@
 title: Germans take Fort Vaux
 summary: On 2 June 1916 the Germans broke into Fort Vaux at Verdun. Major Raynal's garrison held out underground until 7 June, when the water ran out.
 source: niemcy-zdobywaja-fort-vaux
-sourceHash: 99fd18ac282c108a6ec4b0b4494384fab0ab1e92
+sourceHash: 92cf6cfff4f5137bd36281a09f0a3e2a683728e1
 ---
 
 Before dawn on 2 June 1916 German infantry reached [Fort Vaux](https://pl.wikipedia.org/wiki/Fort_de_Vaux), one of the ring of forts around [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), and seized its shattered superstructure and part of its ditches. The fort, however, did not fall. Its garrison under Major Sylvain-Eugène Raynal shut itself in the underground corridors and for five days beat off attacks with grenades and flamethrowers. The British chronology of the war on which our timeline is based records the capture of the fort under 2 June, but notes in a footnote that this is the German date and that the French held out in the fort until 7 June. On the morning of that day Raynal, whose men had had no water for several days, capitulated.
@@ -15,7 +15,7 @@ At the beginning of June the German [5th Army](https://pl.wikipedia.org/wiki/5_A
 
 ## Fighting in the corridors
 
-During the night of 1/2 June soldiers of the German 50th Infantry Division, among them detachments under Lieutenant Kurt Rackow of the 158th Infantry Regiment, passed through the wrecked wire and broke into the fort's ditches. With [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia) and grenades they drove the French out of the caponiers at the corners of the moat and climbed onto the roof of the fort, but the French had blocked the corridors leading inside with barricades of sandbags. A fight without precedent in this war began. In dark, narrow passages less than two metres high, the two sides fought with grenades, machine guns and bayonets, and the air was filled with smoke and gas. The Germans took barricade after barricade, but could not reach the fort's main chambers.
+During the night of 1/2 June soldiers of the German 50th Infantry Division, among them detachments under Lieutenant Kurt Rackow of the 158th Infantry Regiment, passed through the wrecked wire and broke into the fort's ditches. With [flamethrowers](/slownik/miotacz-ognia) and grenades they drove the French out of the caponiers at the corners of the moat and climbed onto the roof of the fort, but the French had blocked the corridors leading inside with barricades of sandbags. A fight without precedent in this war began. In dark, narrow passages less than two metres high, the two sides fought with grenades, machine guns and bayonets, and the air was filled with smoke and gas. The Germans took barricade after barricade, but could not reach the fort's main chambers.
 
 The last links with the outside world were carrier pigeons and light signals. Raynal had four pigeons. On 4 June at 11.30 a.m. he released the last of them, with the message: "We are still holding out, but we are being attacked with gas and smoke, which is very dangerous. We must be relieved urgently. […] This is my last pigeon". The gassed bird reached the loft in the Verdun citadel and, according to French accounts, died soon after arriving. It was named Vaillant ("Valiant"), and the French army mentioned it in orders and preserved it as a memento. During the night of 4/5 June Raynal ordered the soldiers he did not need for the defence to leave the fort. Some of them got through to the French lines.
 

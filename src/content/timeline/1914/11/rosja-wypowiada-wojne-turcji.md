@@ -16,7 +16,7 @@ brief:
   - "5 listopada wojnę Turcji wypowiedziały Wielka Brytania i Francja, a wkrótce Londyn zapewnił Piotrogród, że sprawa Konstantynopola i cieśnin zostanie rozwiązana zgodnie z rosyjskimi życzeniami."
 ---
 
-2 listopada 1914 roku, a według obowiązującego w Rosji [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański) 20 października, cesarz [Mikołaj II](/postacie/mikolaj-ii) podpisał w [Carskim Siole](https://pl.wikipedia.org/wiki/Carskie_Sioło) manifest o wypowiedzeniu wojny [Imperium Osmańskiemu](/kraje/imperium-osmanskie). Była to odpowiedź na [atak floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym. Część zachodnich zestawień podaje datę 1 listopada, ale manifest nosi datę 20 października starego stylu, czyli 2 listopada. Rosja, która od trzech miesięcy walczyła z Niemcami i Austro-Węgrami, miała odtąd jeszcze jednego przeciwnika.
+2 listopada 1914 roku, a według obowiązującego w Rosji [kalendarza juliańskiego](/slownik/kalendarz-julianski) 20 października, cesarz [Mikołaj II](/postacie/mikolaj-ii) podpisał w [Carskim Siole](https://pl.wikipedia.org/wiki/Carskie_Sioło) manifest o wypowiedzeniu wojny [Imperium Osmańskiemu](/kraje/imperium-osmanskie). Była to odpowiedź na [atak floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym. Część zachodnich zestawień podaje datę 1 listopada, ale manifest nosi datę 20 października starego stylu, czyli 2 listopada. Rosja, która od trzech miesięcy walczyła z Niemcami i Austro-Węgrami, miała odtąd jeszcze jednego przeciwnika.
 
 ## Manifest cara
 

@@ -16,7 +16,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński"
 ---
 
-22 października 1914 roku w Warszawie podporucznik [Tadeusz Żuliński](https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński), wysłannik [Józefa Piłsudskiego](/postacie/jozef-pilsudski), objął dowództwo działającej od sierpnia konspiracji strzeleckiej i nadał jej nazwę [Polska Organizacja Wojskowa](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa). Tę datę przyjmuje się za początek POW, organizacji, która przez następne cztery lata była zapleczem Piłsudskiego w zaborze rosyjskim, a w listopadzie 1918 roku stała się jedną z głównych sił przejmujących władzę z rąk okupantów.
+22 października 1914 roku w Warszawie podporucznik [Tadeusz Żuliński](https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński), wysłannik [Józefa Piłsudskiego](/postacie/jozef-pilsudski), objął dowództwo działającej od sierpnia konspiracji strzeleckiej i nadał jej nazwę [Polska Organizacja Wojskowa](/slownik/pow). Tę datę przyjmuje się za początek POW, organizacji, która przez następne cztery lata była zapleczem Piłsudskiego w zaborze rosyjskim, a w listopadzie 1918 roku stała się jedną z głównych sił przejmujących władzę z rąk okupantów.
 
 ## Strzelcy odcięci od Krakowa
 

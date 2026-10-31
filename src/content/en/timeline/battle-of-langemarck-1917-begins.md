@@ -2,7 +2,7 @@
 title: Battle of Langemarck (1917) begins
 summary: On 16 August 1917 the British took the ruins of Langemarck near Ypres, but the Irish divisions bled at Frezenberg and the Gheluvelt plateau held out again.
 source: poczatek-bitwy-pod-langemarck-1917
-sourceHash: 2ca2526ec648a829d52a1736b4da47da0438f012
+sourceHash: f778819058fae1e2ee2a1f6f8c1710cce3ed736e
 brief:
   - "On 16 August 1917, after two weeks of rain and several postponements, the British Fifth Army and the French I Corps launched the second great attack of the Third Battle of Ypres."
   - "In the north the 20th (Light) Division took the ruins of Langemarck, and the French the Drie Grachten bridgehead. The Newfoundlanders of the 29th Division reached their final objective."
@@ -23,7 +23,7 @@ The night before the attack was dry. Engineers laid wooden footbridges across th
 
 ## Langemarck
 
-Things went best in the north, in the sector of Lord Cavan's XIV Corps. The men of the 20th (Light) Division advanced in single file, skirting flooded shell holes, behind a barrage moving forward 90 metres every four minutes. The left brigade first had to take the Au Bon Gite blockhouse, on which every attack had broken since 31 July, and then the shelters by the ruined station. The right brigade went round the village from the east to cut it off from the road from [Poelkapelle](https://pl.wikipedia.org/wiki/Poelkapelle). At about eight o'clock the ruins of Langemarck, a village the British and Germans had already fought over [in October 1914](/bitwy/bitwa-pod-langemarck), were in British hands. Before nine the division had taken a stretch of the German third position beyond it. Two of its men, Sergeant Edward Cooper and Private Wilfred Edwards, single-handedly captured concrete blockhouses, taking their garrisons prisoner, and were awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for it.
+Things went best in the north, in the sector of Lord Cavan's XIV Corps. The men of the 20th (Light) Division advanced in single file, skirting flooded shell holes, behind a barrage moving forward 90 metres every four minutes. The left brigade first had to take the Au Bon Gite blockhouse, on which every attack had broken since 31 July, and then the shelters by the ruined station. The right brigade went round the village from the east to cut it off from the road from [Poelkapelle](https://pl.wikipedia.org/wiki/Poelkapelle). At about eight o'clock the ruins of Langemarck, a village the British and Germans had already fought over [in October 1914](/bitwy/bitwa-pod-langemarck), were in British hands. Before nine the division had taken a stretch of the German third position beyond it. Two of its men, Sergeant Edward Cooper and Private Wilfred Edwards, single-handedly captured concrete blockhouses, taking their garrisons prisoner, and were awarded the [Victoria Cross](/slownik/krzyz-wiktorii) for it.
 
 To their left the 29th Division took the hamlet of Wijdendrift. Among its units was the regiment from [Newfoundland](https://pl.wikipedia.org/wiki/Dominium_Nowej_Fundlandii), which a year earlier, in the first minutes of the Battle of the Somme, had lost most of its men at Beaumont-Hamel. This time the Newfoundlanders reached their final objective and also took Japan House farm. Counter-attacks made by the Germans here at about four in the afternoon were beaten off by artillery and rifle fire.
 

@@ -2,7 +2,7 @@
 title: The French recapture Fort Douaumont
 summary: On 24 October 1916 three French divisions attacked in fog at Verdun. The colonial regiment from Morocco retook Fort Douaumont, lost eight months earlier.
 source: francuzi-odbijaja-fort-douaumont
-sourceHash: 4e428b7839d0ba0e0fdade9784560680a8aa53b4
+sourceHash: 467285c2a93c0cbe1105a1d1d23b46334a99e25b
 brief:
   - "At 11.40 a.m. on 24 October 1916 three French divisions under General Charles Mangin advanced in thick fog behind a creeping barrage against the German positions at Verdun."
   - "The Germans had taken Fort Douaumont without a fight on 25 February, and a French attempt to retake it in May had failed. This time two 400 mm railway howitzers pierced its roof and the garrison left the fort."
@@ -25,7 +25,7 @@ Mangin attacked on a front about 7 km wide. The 38th Division of General Guyot d
 
 Fort Douaumont fell to the lot of the Moroccan Colonial Infantry Regiment (Régiment d'infanterie coloniale du Maroc, RICM) of Lieutenant-Colonel Régnier. Despite its name it was not a regiment of Moroccans but of French colonial infantry, formed in Morocco in 1914 from soldiers mostly from France. For 24 October it was reinforced with the 43rd Senegalese Tirailleurs Battalion and two companies of Somalis. The regiment attacked with three battalions. The first, under Major Modat, who was wounded, took the first German line. The second, under Major Croll, passed through it after 1.40 p.m. and surrounded the fort, and its soldiers went down into the ditches and climbed onto the top of the fort, where they met soldiers of the neighbouring 321st Infantry Regiment. The third battalion, under Major Nicolaÿ, which was to clear the inside of the fort, lost its way in the fog, reportedly because the metal of the equipment upset the compass readings. It reached the spot only later, guided by a German prisoner.
 
-At around 3 p.m. soldiers of the RICM entered the fort together with sappers and a detachment of Paris firemen with [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia). Resistance was slight. According to French accounts the first to go inside was the sapper Paul Dumont, who with a few soldiers took four officers and twenty-four men prisoner, and his comrade Jean Ygon captured twenty Germans and two machine guns. Both later received the [Legion of Honour](https://pl.wikipedia.org/wiki/Legia_Honorowa), rarely awarded to private soldiers. Captain Prollius was also taken prisoner. The fort, which in February had fallen without a single shot, returned to the French almost as easily, because the artillery had done its work before the infantry came up.
+At around 3 p.m. soldiers of the RICM entered the fort together with sappers and a detachment of Paris firemen with [flamethrowers](/slownik/miotacz-ognia). Resistance was slight. According to French accounts the first to go inside was the sapper Paul Dumont, who with a few soldiers took four officers and twenty-four men prisoner, and his comrade Jean Ygon captured twenty Germans and two machine guns. Both later received the [Legion of Honour](https://pl.wikipedia.org/wiki/Legia_Honorowa), rarely awarded to private soldiers. Captain Prollius was also taken prisoner. The fort, which in February had fallen without a single shot, returned to the French almost as easily, because the artillery had done its work before the infantry came up.
 
 ## Douaumont, Thiaumont and Vaux
 

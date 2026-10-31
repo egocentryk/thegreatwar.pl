@@ -2,7 +2,7 @@
 title: German airship off the English coast
 summary: On 15 December 1914 a German airship was sighted off the Humber estuary. It was the first confirmed presence of an enemy aircraft off the English coast.
 source: niemiecki-sterowiec-u-wybrzezy-anglii
-sourceHash: 05b1839ba0c40674a750f9173bd30b320a289b0d
+sourceHash: a46ec3d2e92410f37fce68e9c757ca781bec48d3
 brief:
   - "On the afternoon of 15 December 1914 a German airship was sighted near the Humber estuary. Of many reports of enemy aircraft over England, it was the only one that could be confirmed."
   - "The British had feared Zeppelins for years. From September 1914 Churchill's Admiralty ran air defence, and from 1 October London was under a blackout."
@@ -11,7 +11,7 @@ brief:
   - "The airship dropped no bombs, but it was a sign of what was to come. In January 1915 German naval airships bombed England for the first time."
 ---
 
-On the afternoon of 15 December 1914 a German [airship](https://pl.wikipedia.org/wiki/Sterowiec) was sighted near the estuary of the [Humber](https://pl.wikipedia.org/wiki/Humber), on the east coast of England. British chronologies of the war recorded the day as the first appearance of an enemy aircraft near the British Isles. Since the start of the war the authorities had received numerous reports of mysterious airships over England, but this was the only one that could be confirmed. It is not known exactly, however, which airship it was or what its task was.
+On the afternoon of 15 December 1914 a German [airship](/slownik/sterowiec) was sighted near the estuary of the [Humber](https://pl.wikipedia.org/wiki/Humber), on the east coast of England. British chronologies of the war recorded the day as the first appearance of an enemy aircraft near the British Isles. Since the start of the war the authorities had received numerous reports of mysterious airships over England, but this was the only one that could be confirmed. It is not known exactly, however, which airship it was or what its task was.
 
 ## Fear of the Zeppelins
 

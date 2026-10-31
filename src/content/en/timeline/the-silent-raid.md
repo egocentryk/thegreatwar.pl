@@ -2,10 +2,10 @@
 title: The Silent Raid
 summary: On the night of 19 October 1917 eleven airships set out for England. A bomb fell on Piccadilly Circus, and a gale carried four of them over France.
 source: cichy-nalot
-sourceHash: 57cc441e83d0b2cf96ed546e9b0c36684a0d35f0
+sourceHash: fd0cd5a6f9fea3fd151379ce8ec6a545ad670b89
 ---
 
-On 19 October 1917 eleven German naval [airships](https://pl.wikipedia.org/wiki/Sterowiec) took off from their bases in northern Germany to raid the industrial towns of the Midlands and the north of England. They were L 41, L 44, L 45, L 46, L 47, L 49, L 50, L 52, L 53, L 54 and L 55. Two more could not be taken out of their sheds at Nordholz because of a crosswind. It was one of the largest airship raids of the war and also the last airship raid in which bombs fell on London. The English called it the "Silent Raid".
+On 19 October 1917 eleven German naval [airships](/slownik/sterowiec) took off from their bases in northern Germany to raid the industrial towns of the Midlands and the north of England. They were L 41, L 44, L 45, L 46, L 47, L 49, L 50, L 52, L 53, L 54 and L 55. Two more could not be taken out of their sheds at Nordholz because of a crosswind. It was one of the largest airship raids of the war and also the last airship raid in which bombs fell on London. The English called it the "Silent Raid".
 
 Most of them were so-called height-climbers, lightened so that they could fly at more than 5,000 metres, out of reach of the guns and of most aircraft. Over the North Sea the weather seemed calm. According to H. A. Jones's British official history of the war in the air, however, over England the airships climbed so high that they ran into a gale blowing from the north. On the ground they could hardly be heard. Many people concluded that the Germans had switched off their engines and drifted with the wind in order to pass unnoticed. Jones points out that at such an altitude switched-off engines would have frozen at once. The noise of the engines was simply drowned by the wind. In addition, London's anti-aircraft guns did not fire a single shot, because nobody saw the airships. Hence the name of the raid.
 

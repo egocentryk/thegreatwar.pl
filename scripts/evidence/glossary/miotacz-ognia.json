@@ -1,0 +1,197 @@
+{
+ "slug": "miotacz-ognia",
+ "paragraphs": [
+  {
+   "start": "Miotacz ognia to broń, która wyrzuca strumień płon",
+   "quotes": [
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "Broń wyrzucała strumień płonącej cieczy na odległość kilkunastu do kilkudziesięciu metrów."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "The English word flamethrower is a loan-translation of the German word Flammenwerfer, since the modern flamethrower was invented in Germany."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "Modern flamethrowers were first used during the trench warfare conditions of World War I"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Kleinflammenwerfer",
+     "quote": "The Kleif was primarily used for close-quarters combat and trench warfare. It was particularly effective in clearing enemy trenches and fortified positions"
+    }
+   ]
+  },
+  {
+   "start": "Urządzenie, które sprężonym gazem wypychało przez",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "Pomysł miotacza ognia rozwijało w Niemczech dwóch ludzi. Pirotechnik Richard Fiedler na początku XX wieku proponował armii urządzenie, które za pomocą sprężonego gazu wyrzucało przez lancę strumień płonącego oleju. Bernhard Reddemann był oficerem rezerwy pionierów i zawodowym strażakiem, komendantem straży pożarnej w Poznaniu, a później w Lipsku."
+    },
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "Armia niemiecka przyjęła na uzbrojenie dwa typy miotaczy: duży, obsługiwany przez kilku żołnierzy, i mniejszy, noszony na plecach."
+    },
+    {
+     "url": "https://www.westernfrontassociation.com/world-war-i-articles/2008/may/liquid-fire-on-the-western-front/",
+     "quote": "The flame could be projected for a distance of around 20 metres and for a duration of about two minutes."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Kleinflammenwerfer",
+     "quote": "The last and most improved iterations of the Kleinflammenwerfer had a range of around 30–35 meters."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "the fuel would also only last for about a minute of continuous firing"
+    }
+   ]
+  },
+  {
+   "start": "Według części źródeł Niemcy próbowali użyć płonące",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "Według części źródeł Niemcy próbowali użyć płonącej cieczy już jesienią 1914 roku w rejonie Argonnów, ale te pierwsze próby nie przyniosły większego efektu i sprzęt wycofano z frontu."
+    },
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "26 lutego 1915 roku w lesie Malancourt, na zachodnim brzegu Mozy, na północny zachód od Verdun, Niemcy zaatakowali francuskie okopy nową bronią. Doświadczalny oddział majora Landwehry Bernharda Reddemanna zalał pozycje przeciwnika strumieniami płonącej cieczy z miotaczy ognia."
+    },
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "Zwykle uznaje się ten atak za pierwsze bojowe użycie miotaczy ognia w tej wojnie."
+    },
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "Niemiecka piechota bez trudu zajęła francuskie okopy. Był to jednak tylko lokalny eksperyment, bez sił, które mogłyby wykorzystać powodzenie."
+    },
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "Już w marcu 1915 roku Reddemann otrzymał do dyspozycji większą jednostkę, 3 Batalion Pionierów Gwardii, którego kompanie wyposażono w miotacze ognia."
+    }
+   ]
+  },
+  {
+   "start": "30 lipca 1915 roku miotacze zaskoczyły Brytyjczyków",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "On 30 July 1915 it was first used in a concerted action, against British trenches at Hooge, where the lines were 4.5 m (4.9 yd) apart—even there, the casualties were caused mainly by soldiers being flushed into the open and then shot rather than from the fire itself."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-o-grzbiet-bellewaarde.md",
+     "quote": "Bellewaarde to niski grzbiet z jeziorem i dawnym zamkiem około 4 kilometrów na wschód od Ypres, na północ od wsi Hooge i drogi do Menin."
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/army/order-of-battle-of-divisions/14th-light-division/",
+     "quote": "The Action of Hooge, in which the division had the misfortune to be the first to be attacked by flamethrower (30 July)"
+    },
+    {
+     "url": "https://www.westernfrontassociation.com/world-war-i-articles/2008/may/liquid-fire-on-the-western-front/",
+     "quote": "Although only six Flammenwerfers were used on a limited frontage, the effect on the inexperienced troops of Kitchener's British New Army was dramatic, even though there were only few casualties from burns. The Germans captured whole trenches, and a general sense of demoralisation among the British troops was reported by their commanders."
+    },
+    {
+     "url": "https://www.westernfrontassociation.com/world-war-i-articles/2008/may/liquid-fire-on-the-western-front/",
+     "quote": "But, after the Hooge incident, both the French and British began a serious development programme."
+    }
+   ]
+  },
+  {
+   "start": "Najszerzej używali tej broni Niemcy. Kompanie mio",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "The Germans deployed flamethrowers during the war in more than 650 attacks."
+    },
+    {
+     "file": "src/content/timeline/1916/02/poczatek-bitwy-pod-verdun.md",
+     "quote": "Do 5 Armii skierowano też kompanie miotaczy ognia, broni, której Niemcy po raz pierwszy użyli pod Verdun rok wcześniej."
+    },
+    {
+     "file": "src/content/timeline/1916/06/niemcy-zdobywaja-fort-vaux.md",
+     "quote": "Miotaczami ognia i granatami wykurzyli Francuzów z kaponier w narożnikach fosy i weszli na strop fortu"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Specjalnie wyszkoleni piechurzy do przełamywania pozycji wroga małymi grupami z granatami, lekką bronią i miotaczami ognia."
+    },
+    {
+     "file": "src/content/timeline/1917/11/niemieckie-kontrnatarcie-pod-cambrai.md",
+     "quote": "ruszyła piechota: małe kolumny z lekkimi karabinami maszynowymi, miejscami z miotaczami ognia, które wchodziły między brytyjskie posterunki i okrążały je od tyłu."
+    }
+   ]
+  },
+  {
+   "start": "Francuzi szybko zbudowali własne miotacze, ale ich",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/02/pierwszy-atak-miotaczami-ognia.md",
+     "quote": "Pierwszy francuski atak z ich użyciem, przeprowadzony w czerwcu 1915 roku pod Vauquois przez saperów wywodzących się z paryskiej straży pożarnej, zakończył się jednak niepowodzeniem."
+    },
+    {
+     "url": "https://www.westernfrontassociation.com/world-war-i-articles/2008/may/liquid-fire-on-the-western-front/",
+     "quote": "The French used their flame-throwers extensively with a portable model - the Schilt - being particularly effective against pillboxes and dugouts."
+    },
+    {
+     "file": "src/content/timeline/1916/10/francuzi-odbijaja-fort-douaumont.md",
+     "quote": "do fortu weszli żołnierze RICM razem z saperami i oddziałem paryskich strażaków z miotaczami ognia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "The British experimented with flamethrowers in the Battle of the Somme, during which they used experimental weapons called \"Livens Large Gallery Flame Projectors\", named for their inventor, William Howard Livens, a Royal Engineers officer. This weapon was enormous and completely non-portable. The weapon had an effective range of 80 metres (90 yd), which proved effective at clearing trenches, but with no other benefit the project was abandoned."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "several Hay portable flamethrowers were deployed by the Royal Navy during the Zeebrugge Raid on 23 April 1918"
+    }
+   ]
+  },
+  {
+   "start": "Austro-Węgry przejęły niemieckie wzory, a w 1915 r",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "Austria-Hungary adopted German designs; but also developed its own flamethrowers in 1915."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "Austro-Hungarian flamethrowers were unreliable"
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-o-ortigare.md",
+     "quote": "Austriacy wdarli się do okopów z granatami i miotaczami ognia"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "The Ottoman Empire received 30 flamethrowers from Germany during the war. German flamethrowers were also used by Bulgarian forces."
+    }
+   ]
+  },
+  {
+   "start": "Miotacz był bronią bardzo krótkiego zasięgu, a oko",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "it was cumbersome and difficult to operate and could only be safely fired from a trench, which limited its use to areas where the opposing trenches were less than the maximum range of the weapon, namely 18 m (20 yd) apart—which was not a common situation"
+    },
+    {
+     "url": "https://www.westernfrontassociation.com/world-war-i-articles/2008/may/liquid-fire-on-the-western-front/",
+     "quote": "The operators were singularly vulnerable to small arms and shell and mortar fire: the carrier of the flame-thrower reservoir tank(s) being a particularly obvious target."
+    },
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "Miała mały zasięg i działała krótko, a jej obsługa była łatwym celem, ale siała przerażenie i wypłaszała obrońców z okopów i schronów pod ogień piechoty."
+    },
+    {
+     "url": "https://www.westernfrontassociation.com/world-war-i-articles/2008/may/liquid-fire-on-the-western-front/",
+     "quote": "Overall, the Flammenwerfer/Flame-thrower was never a great success in the Great War."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Flamethrower",
+     "quote": "flamethrowers saw use in modern times during World War I, and more widely in World War II as a tactical weapon against fortifications."
+    }
+   ]
+  }
+ ]
+}

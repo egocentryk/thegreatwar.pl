@@ -2,10 +2,10 @@
 title: Piłsudski returns to Warsaw
 summary: On the morning of 10 November 1918 Józef Piłsudski, freed from Magdeburg, arrived in Warsaw. A dozen people met him; by evening he was talking to the regents.
 source: pilsudski-wraca-do-warszawy
-sourceHash: 19464f2446f44654d4fc39a5c1b20d8989f800d8
+sourceHash: ac985615d3f891512f4820b78dd8fdbed1ece1d1
 ---
 
-Early on the morning of Sunday 10 November 1918 a train from Berlin pulled into the [Vienna Station](https://pl.wikipedia.org/wiki/Dworzec_Wiedeński_w_Warszawie) in Warsaw. From it stepped [Józef Piłsudski](/postacie/jozef-pilsudski) and his chief of staff from the days of the Legions, [Kazimierz Sosnkowski](/postacie/kazimierz-sosnkowski), for more than a year prisoners of the Germans. According to the *Kurier Warszawski* the train arrived at 7.30, according to some studies at seven. Only a dozen or so people were waiting on the platform: the regent [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski) with his adjutant, the commandant of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), Colonel [Adam Koc](https://pl.wikipedia.org/wiki/Adam_Koc), a few POW officers and the journalist Wacław Czarski, who described the welcome in the press. By evening all Warsaw knew of the Commandant's arrival.
+Early on the morning of Sunday 10 November 1918 a train from Berlin pulled into the [Vienna Station](https://pl.wikipedia.org/wiki/Dworzec_Wiedeński_w_Warszawie) in Warsaw. From it stepped [Józef Piłsudski](/postacie/jozef-pilsudski) and his chief of staff from the days of the Legions, [Kazimierz Sosnkowski](/postacie/kazimierz-sosnkowski), for more than a year prisoners of the Germans. According to the *Kurier Warszawski* the train arrived at 7.30, according to some studies at seven. Only a dozen or so people were waiting on the platform: the regent [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski) with his adjutant, the commandant of the [Polish Military Organisation](/slownik/pow), Colonel [Adam Koc](https://pl.wikipedia.org/wiki/Adam_Koc), a few POW officers and the journalist Wacław Czarski, who described the welcome in the press. By evening all Warsaw knew of the Commandant's arrival.
 
 ## Free
 

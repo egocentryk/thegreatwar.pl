@@ -2,10 +2,10 @@
 title: Ministry of Information
 summary: On 21 February 1918 Bonar Law announced in the Commons the line-up of Lord Beaverbrook's new Ministry of Information. Lord Northcliffe took enemy propaganda.
 source: ministerstwo-informacji
-sourceHash: 0ae315dd3526f88d2a89a2104ca92123089b7fa8
+sourceHash: f00b97b728428c7a399e0d4e4f076627d9854ba4
 ---
 
-On 21 February 1918 in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) Captain Carr-Gomm asked the Prime Minister what the duties and powers of the Ministry of Information were and how it was related to the "Ministers of Propaganda". The reply was given on behalf of the government by the Leader of the House and Chancellor of the Exchequer, [Andrew Bonar Law](/postacie/andrew-bonar-law). The Ministry of Information and the Ministry of Propaganda were, he explained, one and the same, and there was only one minister: the Chancellor of the Duchy of Lancaster. A moment later, answering a further question, he set out the new organisation of the department and the names of the men who were to run it. This is why some chronicles of the war give this day as the date of the founding of the Ministry of Information, although the minister had taken office as early as 10 February and the department took over its full powers only in March.
+On 21 February 1918 in the [House of Commons](/slownik/izba-gmin) Captain Carr-Gomm asked the Prime Minister what the duties and powers of the Ministry of Information were and how it was related to the "Ministers of Propaganda". The reply was given on behalf of the government by the Leader of the House and Chancellor of the Exchequer, [Andrew Bonar Law](/postacie/andrew-bonar-law). The Ministry of Information and the Ministry of Propaganda were, he explained, one and the same, and there was only one minister: the Chancellor of the Duchy of Lancaster. A moment later, answering a further question, he set out the new organisation of the department and the names of the men who were to run it. This is why some chronicles of the war give this day as the date of the founding of the Ministry of Information, although the minister had taken office as early as 10 February and the department took over its full powers only in March.
 
 ## From Wellington House to a ministry
 

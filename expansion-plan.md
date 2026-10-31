@@ -482,6 +482,13 @@ The top 50 by kind:
    §50). Next candidates: Al-Kut, Wardar, Tygrys, Konstantynopol,
    Niemiecka Afryka Wschodnia, Kamerun, Morze Północne, Arras, Somma;
    check each against an existing campaign page first.
+6. **Glossary texts, batch 1:** 2026-10-31, fifteen longer texts
+   (Krzyż Wiktorii, Pour le Mérite, askarysi, kalendarz juliański and Izba
+   Gmin as new terms, POW, traktat wersalski, Liga Narodów, plan
+   Schlieffena, sterowiec, miotacz ognia, mina morska, blokada, statek
+   szpitalny, krążownik pomocniczy), 607 links (24,904 → 24,297; §51).
+   Next: Izba Lordów, monitor, krążownik pancerny, przeddrednot, konwencje
+   haskie, deklaracja londyńska, iperyt, karabin Lewis, hiszpanka.
 
 ### The plan
 

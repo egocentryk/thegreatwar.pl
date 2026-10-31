@@ -2,10 +2,10 @@
 title: Internment of Prinz Eitel Friedrich
 summary: On 8 April 1915 the German auxiliary cruiser Prinz Eitel Friedrich, at Newport News since March, agreed to be interned in the United States.
 source: internowanie-prinz-eitel-friedrich
-sourceHash: ba9b49b6b3990450ec88634fc58f1ffb988319d3
+sourceHash: e234d10b940fbfff1845982205fd4c3ea3862382
 ---
 
-On 8 April 1915 the commander of the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) *Prinz Eitel Friedrich*, Lieutenant Commander Max Thierichens, informed the American authorities that his ship would not put to sea and would be interned. For nearly a month she had lain in the port of [Newport News](https://pl.wikipedia.org/wiki/Newport_News) in Virginia, and at midnight the previous day the deadline set for her had expired. Sources give different dates for the internment itself, from 7 to 9 April. So ended a raid that had begun in August 1914 in Tsingtao.
+On 8 April 1915 the commander of the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Prinz Eitel Friedrich*, Lieutenant Commander Max Thierichens, informed the American authorities that his ship would not put to sea and would be interned. For nearly a month she had lain in the port of [Newport News](https://pl.wikipedia.org/wiki/Newport_News) in Virginia, and at midnight the previous day the deadline set for her had expired. Sources give different dates for the internment itself, from 7 to 9 April. So ended a raid that had begun in August 1914 in Tsingtao.
 
 ## Seven months at sea
 

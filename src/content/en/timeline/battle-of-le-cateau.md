@@ -2,7 +2,7 @@
 title: Battle of Le Cateau
 summary: On 26 August 1914 Smith-Dorrien's II Corps stood and fought at Le Cateau against the wishes of GHQ. It paid a high price but halted the German pursuit.
 source: bitwa-pod-le-cateau
-sourceHash: 6e6aca9ba48da82f50969bbd073423677ca6ffca
+sourceHash: 93fb00a27008c95b7cbcfbdb2fa41aaa859aae2c
 brief:
   - "On 26 August 1914 at Le Cateau the British II Corps of General Horace Smith-Dorrien fought a day-long battle against the German 1st Army, three days after the Battle of Mons."
   - "With his exhausted corps about to be caught by the Germans, Smith-Dorrien decided to stand and deal them a heavy blow. He did so against the wishes of Field Marshal John French, who wanted the retreat to continue."
@@ -35,7 +35,7 @@ The heaviest fighting took place on the right wing, west of Le Cateau. The Briti
 
 ## The retreat
 
-In the early afternoon Smith-Dorrien gave the order to retreat. In many places the order did not reach the fighting units, and those that did receive it withdrew under fire. The gunners tried to save their guns by bringing horse teams right up to the gun positions. For such an action in rescuing the howitzers of 37th Battery, the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) was awarded to Captain Douglas Reynolds and Drivers Job Drain and Frederick Luke. From the KOYLI the decoration went to Major Charles Yate, who led the remnants of his men in a last counter-attack and died in captivity, and to Lance Corporal Frederick Holmes, who carried a wounded comrade out of the line of fire.
+In the early afternoon Smith-Dorrien gave the order to retreat. In many places the order did not reach the fighting units, and those that did receive it withdrew under fire. The gunners tried to save their guns by bringing horse teams right up to the gun positions. For such an action in rescuing the howitzers of 37th Battery, the [Victoria Cross](/slownik/krzyz-wiktorii) was awarded to Captain Douglas Reynolds and Drivers Job Drain and Frederick Luke. From the KOYLI the decoration went to Major Charles Yate, who led the remnants of his men in a last counter-attack and died in captivity, and to Lance Corporal Frederick Holmes, who carried a wounded comrade out of the line of fire.
 
 On the British left the French cavalry of General André Sordet and French territorial divisions fighting around Cambrai provided cover. Thanks to them the Germans were unable to outflank the British positions from the west. In the evening and during the night II Corps withdrew towards [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). The Germans, convinced that they had smashed the whole Expeditionary Force, did not at once take up a vigorous pursuit.
 

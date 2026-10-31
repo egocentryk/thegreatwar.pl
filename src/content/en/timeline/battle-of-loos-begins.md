@@ -2,7 +2,7 @@
 title: Battle of Loos begins
 summary: On 25 September 1915 the British attacked at Loos behind chlorine gas, taking the village, Hill 70 and the Hohenzollern Redoubt, but reserves were too far back.
 source: poczatek-bitwy-pod-loos
-sourceHash: e33aab16a5a552d1e68b1df8924b52bc607a6135
+sourceHash: 023c96cf04cba746cfcd1a3b2dc7f21f010f13c0
 brief:
   - "On 25 September 1915 six divisions of General Douglas Haig's First Army attacked the German trenches at Loos, north of Lens. It was the British part of the great autumn offensive of the Allies."
   - "The British had too few guns and shells, so for the first time they used gas on a large scale. The wind, however, was very weak, and in several places the chlorine blew back onto their own trenches."
@@ -23,7 +23,7 @@ At 5.50 the artillery opened a hurricane bombardment, and a yellowish-white clou
 
 ## Loos and Hill 70
 
-At 6.30 the infantry left the trenches. On the right flank the Territorial 47th (London) Division had only to take the German front line and screen the rest of the attack on the side facing Lens. It did so quickly, in a cloud of smoke, and according to the British official history men of the London Irish Rifles battalion kicked a football ahead of them. To their left the 15th (Scottish) Division of the New Armies attacked. As they left their trenches, the Scottish battalions were raked by machine guns that had survived the bombardment. Some of the men halted, dazed by gas that had settled in their own trenches. The piper of the 7th Battalion of the King's Own Scottish Borderers, Daniel Laidlaw, then marched up and down the parapet playing to rouse the men to the attack. Wounded, he went on playing, and was awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for it.
+At 6.30 the infantry left the trenches. On the right flank the Territorial 47th (London) Division had only to take the German front line and screen the rest of the attack on the side facing Lens. It did so quickly, in a cloud of smoke, and according to the British official history men of the London Irish Rifles battalion kicked a football ahead of them. To their left the 15th (Scottish) Division of the New Armies attacked. As they left their trenches, the Scottish battalions were raked by machine guns that had survived the bombardment. Some of the men halted, dazed by gas that had settled in their own trenches. The piper of the 7th Battalion of the King's Own Scottish Borderers, Daniel Laidlaw, then marched up and down the parapet playing to rouse the men to the attack. Wounded, he went on playing, and was awarded the [Victoria Cross](/slownik/krzyz-wiktorii) for it.
 
 The Scots crossed the German trenches and burst into Loos. They fought for every house and cellar, but soon after 8 the whole village, with the two steel towers of the pithead dominating the surrounding country, was in British hands. The intermingled battalions pressed on uphill to Hill 70 and crossed its summit. Here a mistake was made. Instead of heading east, towards the German second position, some 1,500 men swung south-east, towards the suburbs of Lens and a strongpoint on the eastern slope of the hill. There they were stopped by fire from the houses of the miners' settlement. In the afternoon the Germans, reinforced by reserves, retook the redoubt on the summit, and the Scots dug in on the western slope.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Około pierwszej w nocy 11 marca 1918 roku nad [Neapolem](https://pl.wikipedia.org/wiki/Neapol) pojawił się niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) marynarki L 59. Przez mniej więcej 40 minut zrzucał bomby na miasto. Było to pierwsze bombardowanie Neapolu z powietrza. Zginęło 16 osób, a kilkadziesiąt zostało rannych. Port, baza floty i zakłady przemysłowe, które miały być celem nalotu, prawie nie ucierpiały. Brytyjska oficjalna chronologia wojny z 1922 roku umieszcza nalot pod datą 25 marca i podaje, że sterowiec przyleciał z wybrzeża Dalmacji. Niemieckie i włoskie źródła zgodnie pokazują jednak, że do nalotu doszło w nocy z 10 na 11 marca, a L 59 wystartował z Bułgarii.
+Około pierwszej w nocy 11 marca 1918 roku nad [Neapolem](https://pl.wikipedia.org/wiki/Neapol) pojawił się niemiecki [sterowiec](/slownik/sterowiec) marynarki L 59. Przez mniej więcej 40 minut zrzucał bomby na miasto. Było to pierwsze bombardowanie Neapolu z powietrza. Zginęło 16 osób, a kilkadziesiąt zostało rannych. Port, baza floty i zakłady przemysłowe, które miały być celem nalotu, prawie nie ucierpiały. Brytyjska oficjalna chronologia wojny z 1922 roku umieszcza nalot pod datą 25 marca i podaje, że sterowiec przyleciał z wybrzeża Dalmacji. Niemieckie i włoskie źródła zgodnie pokazują jednak, że do nalotu doszło w nocy z 10 na 11 marca, a L 59 wystartował z Bułgarii.
 
 ## Z Bałkanów nad Zatokę Neapolitańską
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 17 marca 1917 roku francuska [artyleria przeciwlotnicza](https://pl.wikipedia.org/wiki/Artyleria_przeciwlotnicza) zestrzeliła nad [Compiègne](https://pl.wikipedia.org/wiki/Compiègne) niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) marynarki L 39, wracający z nalotu na Anglię. Płonący wrak spadł w samym mieście, w ogrodach przy avenue Gambetta, i zginęła cała załoga z dowódcą, kapitanlejtnantem Robertem Kochem. Był to nowy, duży statek, oddany do służby w grudniu 1916 roku. Nie należy go mylić z [armijnym LZ 39](/utrata-sterowca-lz-39), utraconym na froncie wschodnim w grudniu 1915 roku. Dziewięć dni wcześniej [zmarł](/smierc-ferdinanda-von-zeppelina) twórca tych statków, hrabia Ferdinand von Zeppelin.
+Rankiem 17 marca 1917 roku francuska [artyleria przeciwlotnicza](https://pl.wikipedia.org/wiki/Artyleria_przeciwlotnicza) zestrzeliła nad [Compiègne](https://pl.wikipedia.org/wiki/Compiègne) niemiecki [sterowiec](/slownik/sterowiec) marynarki L 39, wracający z nalotu na Anglię. Płonący wrak spadł w samym mieście, w ogrodach przy avenue Gambetta, i zginęła cała załoga z dowódcą, kapitanlejtnantem Robertem Kochem. Był to nowy, duży statek, oddany do służby w grudniu 1916 roku. Nie należy go mylić z [armijnym LZ 39](/utrata-sterowca-lz-39), utraconym na froncie wschodnim w grudniu 1915 roku. Dziewięć dni wcześniej [zmarł](/smierc-ferdinanda-von-zeppelina) twórca tych statków, hrabia Ferdinand von Zeppelin.
 
 ## Nalot rozwiany przez wiatr
 

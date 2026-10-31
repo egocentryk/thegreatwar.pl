@@ -9,7 +9,7 @@ sides:
     commanders: [Hans Gaede]
 result: Inconclusive. The French took part of the ridge but not all the summits, and German counter-attacks in the autumn won back some of their gains. The front froze here until the end of the war.
 source: bitwa-o-le-linge
-sourceHash: e4fff28e116a4dcddc0dc8ff33dcbb4159b5a8b1
+sourceHash: 1accd890c393c36e47358aeba197f5ac324d3419
 brief:
   - "From 20 July to 16 October 1915 French chasseurs alpins stormed the wooded Linge ridge in the Vosges, west of Colmar. It was the bloodiest clash in the Vosges in the summer of 1915."
   - "General Joseph Joffre preferred an \"outflanking by the heights\" and, against the commanders on the spot, halted the advance in the Fecht valley. The Germans had turned the ridge into a fortress of trenches, concrete shelters and wire."
@@ -56,7 +56,7 @@ Before the planned relief of the 129th Division, the command demanded one last e
 
 ### German counter-attacks
 
-The Germans did not accept the loss of their positions. On 31 August, after a bombardment lasting many hours in which they also used tear-gas and asphyxiating shells, their infantry attacked the French lines from the Lingekopf to the Barrenkopf. It took about 200 metres of trenches near the pass, and further progress was stopped by French counter-attacks in which the chasseur battalions bled themselves white. On 9 September the Germans used [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia) for the first time on this sector and briefly occupied the Schratzmännele summit. On 12 October, after a heavy bombardment and again with flamethrowers, they broke into the French front line between the pass and the Schratzmännele summit and held it despite counter-attacks. The last great German attack, on 16 October, failed. Winter came, and both sides began to fortify their positions for a long defence.
+The Germans did not accept the loss of their positions. On 31 August, after a bombardment lasting many hours in which they also used tear-gas and asphyxiating shells, their infantry attacked the French lines from the Lingekopf to the Barrenkopf. It took about 200 metres of trenches near the pass, and further progress was stopped by French counter-attacks in which the chasseur battalions bled themselves white. On 9 September the Germans used [flamethrowers](/slownik/miotacz-ognia) for the first time on this sector and briefly occupied the Schratzmännele summit. On 12 October, after a heavy bombardment and again with flamethrowers, they broke into the French front line between the pass and the Schratzmännele summit and held it despite counter-attacks. The last great German attack, on 16 October, failed. Winter came, and both sides began to fortify their positions for a long defence.
 
 ## Losses
 

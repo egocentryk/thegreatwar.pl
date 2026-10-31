@@ -2,14 +2,14 @@
 title: North Sea declared a war zone
 summary: On 2 November 1914 the Admiralty declared the whole North Sea a military area. From 5 November neutral ships were to sail through the English Channel.
 source: morze-polnocne-strefa-wojenna
-sourceHash: 19ee7197242e678f4c9715f7f27fe2d2aa69e821
+sourceHash: 166d262d20a1e0ea74e6e424182c34c8f8d5584c
 ---
 
 On 2 November 1914 the British [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) announced that the whole of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) was henceforth to be regarded as a military area. The governments of neutral states were notified a day later, and in some sources, including the memoirs of Admiral John Jellicoe, the announcement is dated 3 November. The new rules were to apply from 5 November.
 
 ## A response to German mines
 
-The Admiralty justified its decision by the German mine warfare. The announcement recalled that in the past week the Germans had scattered [mines](https://pl.wikipedia.org/wiki/Mina_morska) on the open sea, on the main trade route from America to Liverpool, which ran north of Ireland. Merchant ships had already been sunk in this minefield, among them the British freighter Manchester Commerce, on which more than a dozen men died, while the liner Olympic, it said, had escaped disaster only by good luck. The announcement did not mention, however, that the battleship Audacious [had sunk on 27 October](/zatoniecie-hms-audacious) on the same mines. Her loss was still being kept secret.
+The Admiralty justified its decision by the German mine warfare. The announcement recalled that in the past week the Germans had scattered [mines](/slownik/mina-morska) on the open sea, on the main trade route from America to Liverpool, which ran north of Ireland. Merchant ships had already been sunk in this minefield, among them the British freighter Manchester Commerce, on which more than a dozen men died, while the liner Olympic, it said, had escaped disaster only by good luck. The announcement did not mention, however, that the battleship Audacious [had sunk on 27 October](/zatoniecie-hms-audacious) on the same mines. Her loss was still being kept secret.
 
 The British claimed that the mines had been laid by merchant ships sailing under a neutral flag. In reality it was done by the German auxiliary cruiser Berlin. The Admiralty also accused the Germans of using trawlers, hospital ships and neutral vessels for minelaying and reconnaissance. In this situation, it was announced, it had to resort to exceptional measures.
 
@@ -23,4 +23,4 @@ Ships bound for Norway, the Baltic, Denmark and the Netherlands were advised to 
 
 The decision provoked opposition from the Scandinavian countries. The Norwegian government asked London to reconsider it, because the large ships of the lines linking Norway with America could not safely use the shallow waters of the new route. It was warned that Norway, Sweden and Denmark might protest jointly.
 
-The declaration of the North Sea as a military area was of great importance for the British [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of Germany. By directing neutral shipping along narrow, prescribed routes through the Strait of Dover, the Royal Navy could more easily stop and search ships bound for the Netherlands and Scandinavia for contraband, in accordance with the [rules announced a few days earlier](/nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska). The Germans later invoked this step when in February 1915 they declared the waters around the British Isles a war zone, in which submarines were to attack enemy ships.
+The declaration of the North Sea as a military area was of great importance for the British [naval blockade](/slownik/blokada) of Germany. By directing neutral shipping along narrow, prescribed routes through the Strait of Dover, the Royal Navy could more easily stop and search ships bound for the Netherlands and Scandinavia for contraband, in accordance with the [rules announced a few days earlier](/nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska). The Germans later invoked this step when in February 1915 they declared the waters around the British Isles a war zone, in which submarines were to attack enemy ships.

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 31 stycznia 1916 roku nad Anglią pojawiło się dziewięć niemieckich [sterowców](https://pl.wikipedia.org/wiki/Sterowiec) marynarki. Ich celem był [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) na zachodnim wybrzeżu, ale we mgle i chmurach żaden z nich tam nie dotarł. Bomby spadły na miasta przemysłowe [Midlands](https://pl.wikipedia.org/wiki/Midlands_(Anglia)), które dotąd uważano za leżące poza zasięgiem nalotów i które nie były zaciemnione. Według brytyjskiej historii oficjalnej wojny powietrznej zginęło 70 osób, a 113 zostało rannych. Była to pierwsza wyprawa sterowców nad Anglię od [nalotu na Londyn w październiku 1915 roku](/nalot-sterowcow-na-dzielnice-teatrow).
+Wieczorem 31 stycznia 1916 roku nad Anglią pojawiło się dziewięć niemieckich [sterowców](/slownik/sterowiec) marynarki. Ich celem był [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) na zachodnim wybrzeżu, ale we mgle i chmurach żaden z nich tam nie dotarł. Bomby spadły na miasta przemysłowe [Midlands](https://pl.wikipedia.org/wiki/Midlands_(Anglia)), które dotąd uważano za leżące poza zasięgiem nalotów i które nie były zaciemnione. Według brytyjskiej historii oficjalnej wojny powietrznej zginęło 70 osób, a 113 zostało rannych. Była to pierwsza wyprawa sterowców nad Anglię od [nalotu na Londyn w październiku 1915 roku](/nalot-sterowcow-na-dzielnice-teatrow).
 
 ## Zabłąkane sterowce
 

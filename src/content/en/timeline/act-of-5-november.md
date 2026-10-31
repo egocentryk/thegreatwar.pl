@@ -2,7 +2,7 @@
 title: Act of 5 November
 summary: On 5 November 1916 a manifesto of the German and Austrian emperors was proclaimed in Warsaw and Lublin, promising a Kingdom of Poland without a king or borders.
 source: akt-5-listopada
-sourceHash: ef90169240bde1376a8be2cc3f626bf3386d1d06
+sourceHash: 6d43e9a10f1e075de8a8f36f836427856d8265bb
 brief:
   - "On 5 November 1916 in Warsaw and Lublin the Governors-General Beseler and Kuk proclaimed a manifesto of the two emperors creating a Kingdom of Poland from lands taken from Russia."
   - "The new state was called self-governing (samodzielne), not sovereign. It had no king, no government, no constitution and no fixed borders, and power remained with the two governors-general."
@@ -43,7 +43,7 @@ The real purpose of the act came out very quickly. On 9 November Beseler and Kuk
 
 Reactions were divided. Supporters of cooperation with the Central Powers, including those gathered around [Władysław Studnicki](/postacie/wladyslaw-studnicki), hailed the manifesto as a breakthrough. Patriotic processions were held in Warsaw. Many Poles, however, received the act coolly or with mistrust. The [National Democracy](https://pl.wikipedia.org/wiki/Narodowa_Demokracja) camp, whose leader [Roman Dmowski](/postacie/roman-dmowski) was working in the West, rejected any cooperation with Germany and counted on an Entente victory. National activists in Prussian Silesia regarded the proclamation as a sham. The historian Tomasz Schramm notes that within a week the initial optimism had given way to disappointment.
 
-[Józef Piłsudski](/postacie/jozef-pilsudski) was no longer in the army by then. In July, after the fighting in Volhynia, he had demanded his discharge in protest at the treatment of the Legions, and at the end of September the Austrians accepted his resignation. In September the Legions were renamed the [Polish Auxiliary Corps](/tematy/polskie-formacje-wojskowe). Piłsudski did not reject the act, but on 6 November, in a letter to Rector Brudziński, he warned that creating an army without a Polish government made no sense. The [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) linked with him and the pro-independence groups took the same position: first a Polish authority, then a Polish army.
+[Józef Piłsudski](/postacie/jozef-pilsudski) was no longer in the army by then. In July, after the fighting in Volhynia, he had demanded his discharge in protest at the treatment of the Legions, and at the end of September the Austrians accepted his resignation. In September the Legions were renamed the [Polish Auxiliary Corps](/tematy/polskie-formacje-wojskowe). Piłsudski did not reject the act, but on 6 November, in a letter to Rector Brudziński, he warned that creating an army without a Polish government made no sense. The [Polish Military Organisation](/slownik/pow) linked with him and the pro-independence groups took the same position: first a Polish authority, then a Polish army.
 
 ## Russia and the Entente
 

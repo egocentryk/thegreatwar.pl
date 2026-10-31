@@ -9,7 +9,7 @@ sides:
     commanders: [Nureddin Bey, Colmar von der Goltz, Halil Bey]
 result: Ottoman victory. Three relief attempts failed, and on 29 April 1916 the starving garrison surrendered. About 13,000 soldiers and followers were taken prisoner.
 source: oblezenie-al-kutu
-sourceHash: 2d108b538b3c43c9d97f83f62d92c5a075a483de
+sourceHash: 47c4fa49c50010a0ad07908f45dd4191c5b6eecc
 brief:
   - "From 7 December 1915 to 29 April 1916 Ottoman troops besieged General Charles Townshend's 6th (Poona) Division in Kut on the Tigris. It was the greatest defeat of the British expedition to Mesopotamia."
   - "After the Battle of Ctesiphon Townshend decided to await relief in Kut, and General John Nixon backed the decision. Both men were convinced that the relief would break through without much difficulty."
@@ -52,7 +52,7 @@ At the beginning of March Aylmer, strengthened by reinforcements, tried to outfl
 
 In April the fresh 13th Division, veterans of Gallipoli, entered the fighting. On 5 April it took the positions at Hanna and Fallahiyah, losing almost 1,900 men. But the next Turkish position, at Sannaiyat, between the river and the Suwaikiya marsh, proved impregnable. The attacks of 6 and 9 April broke down. Gorringe shifted his effort to the right bank. On 17 April his troops took Bait Isa, but that night they beat off a strong counter-attack, losing about 1,600 men. On 22 April the last attack on Sannaiyat, across ground flooded with mud, cost the 7th Division almost 1,300 men. Gorringe concluded that further attempts, in the time that hunger in Kut still allowed, had no chance.
 
-From 15 April British aircraft dropped food to the besieged. This is regarded as one of the first attempts in history to supply troops from the air, but too little was dropped, and some of the packages fell into the river or into the Turkish trenches. On the evening of 24 April the steamer *Julnar*, armoured and loaded with 270 tons of food, tried to force her way upriver to the town. She was manned by volunteers, Lieutenant Humphrey Firman and Lieutenant-Commander Charles Cowley, an expert on the river from the Lynch shipping company. At Magasis the ship caught on a cable stretched across the river, ran aground and had to surrender. Firman was killed, and Cowley died in captivity in unclear circumstances, rumoured to have been shot by the Turks. Both were posthumously awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+From 15 April British aircraft dropped food to the besieged. This is regarded as one of the first attempts in history to supply troops from the air, but too little was dropped, and some of the packages fell into the river or into the Turkish trenches. On the evening of 24 April the steamer *Julnar*, armoured and loaded with 270 tons of food, tried to force her way upriver to the town. She was manned by volunteers, Lieutenant Humphrey Firman and Lieutenant-Commander Charles Cowley, an expert on the river from the Lynch shipping company. At Magasis the ship caught on a cable stretched across the river, ran aground and had to surrender. Firman was killed, and Cowley died in captivity in unclear circumstances, rumoured to have been shot by the Turks. Both were posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 ## Surrender
 

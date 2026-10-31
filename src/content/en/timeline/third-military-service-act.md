@@ -2,10 +2,10 @@
 title: Third Military Service Act
 summary: On 10 April 1918 the Commons passed on second reading a bill raising the conscription age to 51 and allowing conscription to be extended to Ireland.
 source: trzecia-ustawa-o-sluzbie-wojskowej
-sourceHash: 6da94a57f02f978845918cfda7933be1140c478d
+sourceHash: c4dd7985aea491145281e239df5676bf19705e4d
 ---
 
-Late in the evening of 10 April 1918 the British [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) passed on second reading, by 323 votes to 100, a new Military Service Bill. The British chronology of the war records under this day the passing of the "third Military Service Act", and under 18 April its coming into force. According to the parliamentary reports, however, 10 April was only one of the stages: the third reading took place on 16 April, and the Military Service (No. 2) Act, 1918 received the royal assent on 18 April. The act was a response to the defeat [on the Somme](/bitwy/operacja-michael), where the British army had suffered enormous losses since 21 March, and to the new German blow that had [fallen on the Lys front](/poczatek-bitwy-nad-lys) the day before.
+Late in the evening of 10 April 1918 the British [House of Commons](/slownik/izba-gmin) passed on second reading, by 323 votes to 100, a new Military Service Bill. The British chronology of the war records under this day the passing of the "third Military Service Act", and under 18 April its coming into force. According to the parliamentary reports, however, 10 April was only one of the stages: the third reading took place on 16 April, and the Military Service (No. 2) Act, 1918 received the royal assent on 18 April. The act was a response to the defeat [on the Somme](/bitwy/operacja-michael), where the British army had suffered enormous losses since 21 March, and to the new German blow that had [fallen on the Lys front](/poczatek-bitwy-nad-lys) the day before.
 
 ## The government bill
 

@@ -53,7 +53,7 @@ Lake i Gorringe uznali, że Turcy osłabili załogę Sannajjat, by wzmocnić pra
 
 ## Julnar (24 kwietnia)
 
-Została ostatnia, desperacka próba dostarczenia żywności rzeką. Parowiec Julnar, opancerzony i ogołocony z drewnianych części, wiózł 270 ton zapasów. Dowodził nim porucznik Humphrey Firman, a zastępcą był komandor podporucznik Charles Cowley, znawca rzeki z kompanii żeglugowej Lynch. Wieczorem 24 kwietnia (według Moberly'ego o 19, według Newbolta o 20) statek wypłynął z Fallahii, a brytyjska artyleria i karabiny maszynowe próbowały zagłuszyć jego silniki. Przeszedł pod ogniem obok Sannajjat i Es-Sinn, ale pod Makasis pocisk trafił w mostek i zabił Firmana. Kilka minut później Julnar zaczepił o linę rozciągniętą w poprzek rzeki, osiadł na mieliźnie i musiał się poddać. Cowley zginął w niewoli w niejasnych okolicznościach. Obaj otrzymali pośmiertnie [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+Została ostatnia, desperacka próba dostarczenia żywności rzeką. Parowiec Julnar, opancerzony i ogołocony z drewnianych części, wiózł 270 ton zapasów. Dowodził nim porucznik Humphrey Firman, a zastępcą był komandor podporucznik Charles Cowley, znawca rzeki z kompanii żeglugowej Lynch. Wieczorem 24 kwietnia (według Moberly'ego o 19, według Newbolta o 20) statek wypłynął z Fallahii, a brytyjska artyleria i karabiny maszynowe próbowały zagłuszyć jego silniki. Przeszedł pod ogniem obok Sannajjat i Es-Sinn, ale pod Makasis pocisk trafił w mostek i zabił Firmana. Kilka minut później Julnar zaczepił o linę rozciągniętą w poprzek rzeki, osiadł na mieliźnie i musiał się poddać. Cowley zginął w niewoli w niejasnych okolicznościach. Obaj otrzymali pośmiertnie [Krzyż Wiktorii](/slownik/krzyz-wiktorii).
 
 ## Straty
 

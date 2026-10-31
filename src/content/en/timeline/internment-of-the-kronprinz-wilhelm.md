@@ -2,10 +2,10 @@
 title: Internment of the Kronprinz Wilhelm
 summary: On 26 April 1915 the German auxiliary cruiser Kronprinz Wilhelm, the last Kaiserliche Marine raider then at large on the oceans, was interned at Newport News.
 source: internowanie-kronprinz-wilhelm
-sourceHash: 8697c94cee9ae8f3bf1de6d321c61e6867362ded
+sourceHash: ae1f0e33af2930ace70942f89b271a9c6fb6a2bb
 ---
 
-On 26 April 1915 at [Newport News](https://pl.wikipedia.org/wiki/Newport_News) in Virginia the American authorities interned the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) *Kronprinz Wilhelm*. The ship, which since August 1914 had been hunting Entente merchant ships in the Atlantic, had entered the neutral port two weeks earlier, out of coal and with a sick crew. The British chronology calls her the last German raider on the oceans. Indeed, after her internment no German warship waged commerce war far from Europe any longer. The next raiders, such as the *Möwe*, put to sea only at the end of 1915, and from German ports.
+On 26 April 1915 at [Newport News](https://pl.wikipedia.org/wiki/Newport_News) in Virginia the American authorities interned the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Kronprinz Wilhelm*. The ship, which since August 1914 had been hunting Entente merchant ships in the Atlantic, had entered the neutral port two weeks earlier, out of coal and with a sick crew. The British chronology calls her the last German raider on the oceans. Indeed, after her internment no German warship waged commerce war far from Europe any longer. The next raiders, such as the *Möwe*, put to sea only at the end of 1915, and from German ports.
 
 ## A liner with the guns of the Karlsruhe
 

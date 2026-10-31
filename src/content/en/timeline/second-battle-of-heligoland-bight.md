@@ -2,7 +2,7 @@
 title: Second Battle of Heligoland Bight
 summary: On 17 November 1917 British cruisers surprised German minesweepers in the Heligoland Bight. The chase was ended by minefields and two German battleships.
 source: druga-bitwa-w-zatoce-helgolandzkiej
-sourceHash: ab630c8667a808220a448b4ff67140a1bd45a03d
+sourceHash: db558331aa50b67455abc17973eb5ba3eac01c27
 ---
 
 On the morning of 17 November 1917 British cruisers attacked German [minesweepers](https://pl.wikipedia.org/wiki/Trałowiec) and the ships covering them on the outer edge of the minefields in the [Heligoland Bight](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), some 65 nautical miles west of the island of [Sylt](https://pl.wikipedia.org/wiki/Sylt). For more than two hours they chased four German light cruisers through the minefields, until two battleships came to the Germans' aid. It was the second battle in the bight, more than three years after [the first, in August 1914](/bitwy/bitwa-w-zatoce-helgolandzkiej). This time neither side achieved a clear success.
@@ -27,6 +27,6 @@ The chase continued in poor conditions. Napier's big ships fell behind and stopp
 
 Shortly before ten a salvo of heavy shells fell around the British light cruisers. *Kaiser* and *Kaiserin*, which Reuter had called to his aid, had arrived. One 305 mm shell hit the cruiser *Caledon* on the waterline, but did no serious damage. The British turned away to the north-west. Their withdrawal was covered by *Repulse*, which was the last to fire. One of her shells hit the cruiser *Königsberg* and started a serious fire on board. At 10.40 a.m. thick fog came down and the battle was over.
 
-According to the Admiralty communiqué, one officer and 21 men were killed and four officers and 39 men wounded. Twenty-two Germans were taken prisoner. Admiral [Reinhard Scheer](/postacie/reinhard-scheer) wrote after the war that the Germans lost 21 killed, 10 seriously and 30 slightly wounded. On *Caledon* a mortally wounded young sailor, John Carless, though his abdomen had been torn open, went on helping to serve a gun. He was awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) posthumously.
+According to the Admiralty communiqué, one officer and 21 men were killed and four officers and 39 men wounded. Twenty-two Germans were taken prisoner. Admiral [Reinhard Scheer](/postacie/reinhard-scheer) wrote after the war that the Germans lost 21 killed, 10 seriously and 30 slightly wounded. On *Caledon* a mortally wounded young sailor, John Carless, though his abdomen had been torn open, went on helping to serve a gun. He was awarded the [Victoria Cross](/slownik/krzyz-wiktorii) posthumously.
 
 Beatty was disappointed. Large forces had failed to sink the minesweepers they had been sent against, and had let themselves be drawn into a long, fruitless chase. The Admiralty opened an inquiry, which showed that information about the minefields had reached the admirals haphazardly and in different forms. From then on the Admiralty was to supply it directly to the fleet. The intelligence historian Patrick Beesly later argued that Napier had been unfairly blamed, because the Admiralty, protecting the secret of Room 40, had not passed on to him everything it knew about the German channels through the mines.

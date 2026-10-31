@@ -9,7 +9,7 @@ sides:
     commanders: [Grigore Crăiniceanu]
 result: Central Powers victory. The Romanian 2nd Army abandoned Brașov and the Burzenland and withdrew to the frontier passes, but was not destroyed.
 source: bitwa-pod-braszowem
-sourceHash: a12a767f3fe2b782ad214372442d2aae95e7fcc8
+sourceHash: 811597f111a80cecf00cd9290fc76d19c8e5a96a
 ---
 
 The Battle of Brașov was the last major battle of the campaign in Transylvania. From 7 to 9 October 1916 the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), made up of German and Austro-Hungarian divisions, fought for [Brașov](https://pl.wikipedia.org/wiki/Braszów) and the plain of the [Burzenland](https://pl.wikipedia.org/wiki/Burzenland) against the Romanian 2nd Army of General Grigore Crăiniceanu. The German 187th Division and the Hungarian 51st Honvéd Division broke into the town and took it after two days of street fighting, while a Romanian counter-attack on their flank from the direction of Sânpetru failed. During the night of 8–9 October the Romanians withdrew towards the Carpathian passes. Brașov, which they had occupied without a fight [on 29 August](/rumuni-zajmuja-braszow), returned to Austro-Hungarian hands after some 40 days.
@@ -18,7 +18,7 @@ The Battle of Brașov was the last major battle of the campaign in Transylvania.
 
 The Austrian official history calls this engagement the Battle of Kronstadt (Schlacht bei Kronstadt), after the German name of the town. The German battle calendar lists it as the fighting at Kronstadt (Kämpfe bei Kronstadt); in English-language literature the names Battle of Brașov and Battle of Brassó are found, and in Romanian the Battle of Brașov (Bătălia de la Brașov). The battle was part of the wider [Battle of Transylvania](/bitwy/bitwa-o-siedmiogrod).
 
-We adopt the dates 7–9 October 1916 following the Austrian official history, the German battle calendar and the American historian Michael Barrett. By the morning of 9 October the fighting had ended, but on that day the victors occupied the whole town and set off after the retreating Romanians. The Romanian Wikipedia ends the battle on 8 October, the day of the decision. The British chronology of the war gives the same dates as the Austrian official history. Romania then used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), so in Romanian documents the battle lasted from 24 to 26 September.
+We adopt the dates 7–9 October 1916 following the Austrian official history, the German battle calendar and the American historian Michael Barrett. By the morning of 9 October the fighting had ended, but on that day the victors occupied the whole town and set off after the retreating Romanians. The Romanian Wikipedia ends the battle on 8 October, the day of the decision. The British chronology of the war gives the same dates as the Austrian official history. Romania then used the [Julian calendar](/slownik/kalendarz-julianski), so in Romanian documents the battle lasted from 24 to 26 September.
 
 ## Background
 

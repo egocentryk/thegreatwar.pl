@@ -2,7 +2,7 @@
 title: Bulgaria declares war on Romania
 summary: On 1 September 1916 Bulgaria declared war on Romania to regain the Dobruja lost in 1913. Tsar Ferdinand called for a fight against the "treacherous neighbour".
 source: bulgaria-wypowiada-wojne-rumunii
-sourceHash: 2a8fe980264664d963efd6492b9629d17c51f160
+sourceHash: eb5263712ea6a0dca656dddce35a5540692dc60d
 brief:
   - "On 1 September 1916 Bulgaria declared war on Romania, and the Bulgarian Third Army went over to the attack on the Dobruja border. All four Central Powers were now at war with Romania."
   - "Above all the Bulgarians wanted the southern Dobruja, which Romania had taken from them in 1913. Tsar Ferdinand I's manifesto called for the war to \"crush the treacherous neighbour\"."
@@ -11,7 +11,7 @@ brief:
   - "Romania now had to fight on two fronts. As early as 6 September the Bulgarians and Germans took the fortress of Tutrakan, and by January 1917 the Central Powers had occupied the whole of the Dobruja."
 ---
 
-On 1 September 1916, a Friday, before noon, [Bulgaria](/kraje/bulgaria) announced that it was at war with [Romania](/kraje/rumunia). The Romanian historian Constantin Kirițescu wrote that in the morning an official of the Bulgarian foreign ministry came to the Romanian legation in [Sofia](https://pl.wikipedia.org/wiki/Sofia), already cut off from the world, and handed the minister a note declaring war. On the same day the manifesto of Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) appeared, and the Bulgarian Third Army went over to the attack on the border of the [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża). In Bulgaria, which had adopted the [Gregorian calendar](https://pl.wikipedia.org/wiki/Kalendarz_gregoriański) in the spring of 1916, it was 1 September. In Romania, where time was still reckoned in the old style, the calendars showed 19 August.
+On 1 September 1916, a Friday, before noon, [Bulgaria](/kraje/bulgaria) announced that it was at war with [Romania](/kraje/rumunia). The Romanian historian Constantin Kirițescu wrote that in the morning an official of the Bulgarian foreign ministry came to the Romanian legation in [Sofia](https://pl.wikipedia.org/wiki/Sofia), already cut off from the world, and handed the minister a note declaring war. On the same day the manifesto of Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) appeared, and the Bulgarian Third Army went over to the attack on the border of the [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża). In Bulgaria, which had adopted the [Gregorian calendar](/slownik/kalendarz-julianski) in the spring of 1916, it was 1 September. In Romania, where time was still reckoned in the old style, the calendars showed 19 August.
 
 Only this declaration was still needed to complete the circle. For five days Romania had been [at war with Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom), and [Germany](/niemcy-wypowiadaja-wojne-rumunii) and [Turkey](/turcja-wypowiada-wojne-rumunii) had already declared war on it. Two days earlier the two sides had [broken off diplomatic relations](/rumunia-zrywa-stosunki-z-bulgaria). Now all four Central Powers were at war with Romania.
 

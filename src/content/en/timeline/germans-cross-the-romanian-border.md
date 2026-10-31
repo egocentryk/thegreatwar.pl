@@ -2,10 +2,10 @@
 title: Germans cross the Romanian border
 summary: In mid-October 1916 Falkenhayn's 9th Army drove the Romanians out of Transylvania and crossed the border, but met fierce resistance in the Carpathian passes.
 source: niemcy-przekraczaja-granice-rumunii
-sourceHash: 2abc81137833d445a3ae63f7dc092cb227405cd3
+sourceHash: 5e74d978f46a2b0b78f1cc07853334b9d8836e41
 ---
 
-The British chronology of the war states that on 14 October 1916 German troops crossed the border between [Romania](/kraje/rumunia) and Transylvania. That day the Austro-Hungarian 71st Division, fighting as part of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn)'s German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), crossed the border at the Oituz Pass, and the Austrian official history states that by 14 October the Central Powers had driven the Romanians out of almost the whole of [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród). Only narrow strips of land near [Orsova](https://pl.wikipedia.org/wiki/Orszowa) on the Danube and at two passes in the Eastern Carpathians remained in Romanian hands. The first units of the 9th Army had entered Romanian territory a few days earlier. In Romania, which reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), the date was 1 October.
+The British chronology of the war states that on 14 October 1916 German troops crossed the border between [Romania](/kraje/rumunia) and Transylvania. That day the Austro-Hungarian 71st Division, fighting as part of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn)'s German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), crossed the border at the Oituz Pass, and the Austrian official history states that by 14 October the Central Powers had driven the Romanians out of almost the whole of [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród). Only narrow strips of land near [Orsova](https://pl.wikipedia.org/wiki/Orszowa) on the Danube and at two passes in the Eastern Carpathians remained in Romanian hands. The first units of the 9th Army had entered Romanian territory a few days earlier. In Romania, which reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), the date was 1 October.
 
 ## Pursuit through the passes
 

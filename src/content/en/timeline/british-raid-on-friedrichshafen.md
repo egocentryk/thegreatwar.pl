@@ -2,14 +2,14 @@
 title: British raid on Friedrichshafen
 summary: On 21 November 1914 three Royal Naval Air Service aircraft from Belfort bombed the Zeppelin works at Friedrichshafen. One of the pilots was taken prisoner.
 source: nalot-na-friedrichshafen
-sourceHash: 5712c6bb061facba25b4cba5c614c46d28f5e335
+sourceHash: a7997ff4247acf6d856c35410e97ec4b60dde212
 ---
 
 On 21 November 1914 three aircraft of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the air arm of the British navy, attacked the airship works at [Friedrichshafen](https://pl.wikipedia.org/wiki/Friedrichshafen) on [Lake Constance](https://pl.wikipedia.org/wiki/Jezioro_Bodeńskie). They took off from [Belfort](https://pl.wikipedia.org/wiki/Belfort) in France and had to cover some 200 kilometres each way in a straight line, much of it over German territory. It was one of the first raids in history planned from the outset as a strike on an industrial plant deep inside enemy territory.
 
 ## Preparations
 
-The British Admiralty, then responsible for the air defence of the country, wanted to destroy German [airships](https://pl.wikipedia.org/wiki/Sterowiec) before they could take off. After the [raids from Antwerp on Düsseldorf and Cologne](/drugi-brytyjski-nalot-na-niemcy) the target became the main source of the Zeppelins, the works at Friedrichshafen. The only possible starting point was France, and the nearest suitable base was the airship station at Belfort, not far from the Swiss border. The French agreed to make it available on condition of complete secrecy. Reconnaissance and organisation were entrusted to Noel Pemberton Billing, an aircraft designer who had been taken into the naval air service for this mission.
+The British Admiralty, then responsible for the air defence of the country, wanted to destroy German [airships](/slownik/sterowiec) before they could take off. After the [raids from Antwerp on Düsseldorf and Cologne](/drugi-brytyjski-nalot-na-niemcy) the target became the main source of the Zeppelins, the works at Friedrichshafen. The only possible starting point was France, and the nearest suitable base was the airship station at Belfort, not far from the Swiss border. The French agreed to make it available on condition of complete secrecy. Reconnaissance and organisation were entrusted to Noel Pemberton Billing, an aircraft designer who had been taken into the naval air service for this mission.
 
 Four new [Avro 504](https://pl.wikipedia.org/wiki/Avro_504) aircraft were assigned to the raid. Instead of an observer they carried an extra fuel tank and four bombs of about 9 kilograms each. The dismantled machines were shipped in crates to Le Havre and from there by rail to Belfort, where they arrived on 13 November. For several days the men did not leave the airship shed in which they were being assembled. After an accident during a trial taxi, test flights were abandoned, so the raid itself was these aircraft's first flight. None of the pilots had ever dropped bombs before.
 

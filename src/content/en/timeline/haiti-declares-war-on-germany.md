@@ -2,7 +2,7 @@
 title: Haiti declares war on Germany
 summary: On 12 July 1918 Haiti's Council of State, standing in for the dissolved parliament, declared a state of war with Germany. US-occupied Haiti followed Washington.
 source: haiti-wypowiada-wojne-niemcom
-sourceHash: b8d657c262a80846c41c061c94e3de04a85a9ed0
+sourceHash: 7360d7b8976e7c248c4c68bf6c272badc3cb8e89
 brief:
   - "On 12 July 1918 the Council of State of the Republic of Haiti, at the government's request, resolved that a state of war existed with the German Empire. President Philippe Sudré Dartiguenave approved it, and it made no mention of Austria-Hungary."
   - "Haiti had been occupied by the United States since 28 July 1915. The resolution was passed by a Council of State appointed by the president, because the elected parliament had been dissolved after refusing to declare war."
@@ -39,4 +39,4 @@ Haiti had no army it could send to Europe. Its only armed force was the gendarme
 
 For most Haitians the war in Europe was distant, and the occupation very close. The Americans revived the obligation of unpaid labour on road building (the corvée) recorded in the old rural code, and gendarmes rounded up peasants for forced labour, which provoked growing anger in the countryside. In the autumn of 1918 the former officer [Charlemagne Péralte](https://pl.wikipedia.org/wiki/Charlemagne_Péralte) took the lead of the Caco peasant uprising against the occupiers. The fighting lasted until 1920 and by some estimates cost the lives of about two thousand insurgents; Péralte himself was killed by marines in the autumn of 1919.
 
-Taking part in the war did, however, secure Haiti a place among the victors. Its minister in Paris, Tertullien Guilbaud, signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) in June 1919, and in 1920 Haiti became a member of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów), from which it withdrew only in 1942. The American occupation lasted until 1934. In Latin America, Cuba, Panama, Brazil, [Guatemala](/gwatemala-wypowiada-wojne-niemcom), [Nicaragua](/nikaragua-wypowiada-wojne-niemcom) and [Costa Rica](/kostaryka-wypowiada-wojne-niemcom) had already declared war on Germany. Haiti was the seventh, and less than a week later Honduras joined them too.
+Taking part in the war did, however, secure Haiti a place among the victors. Its minister in Paris, Tertullien Guilbaud, signed the [Treaty of Versailles](/slownik/traktat-wersalski) in June 1919, and in 1920 Haiti became a member of the [League of Nations](/slownik/liga-narodow), from which it withdrew only in 1942. The American occupation lasted until 1934. In Latin America, Cuba, Panama, Brazil, [Guatemala](/gwatemala-wypowiada-wojne-niemcom), [Nicaragua](/nikaragua-wypowiada-wojne-niemcom) and [Costa Rica](/kostaryka-wypowiada-wojne-niemcom) had already declared war on Germany. Haiti was the seventh, and less than a week later Honduras joined them too.

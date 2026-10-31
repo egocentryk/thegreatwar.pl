@@ -2,7 +2,7 @@
 title: Poland regains independence
 summary: On 11 November 1918 the Regency Council handed Piłsudski command of the army, while Warsaw disarmed the Germans. The day became Independence Day.
 source: odzyskanie-niepodleglosci-przez-polske
-sourceHash: d9ba62f966f34400a5ee2e06ce516ba50c6ab376
+sourceHash: 306d3b08228cc008fbcee95e40da62de6c5c2dc2
 brief:
   - "On the evening of 11 November 1918 in Warsaw the Regency Council handed Józef Piłsudski military authority and supreme command of the Polish armed forces. That same morning Germany signed the armistice near Compiègne."
   - "From the evening of 10 November, the day Piłsudski returned from Magdeburg, Polish soldiers and inhabitants disarmed the German garrison. About 30,000 Germans left Warsaw over the following days."
@@ -11,7 +11,7 @@ brief:
   - "The recovery of independence took weeks, but 11 November was adopted as the symbolic date. The act of 23 April 1937 established National Independence Day, which was restored in 1989."
 ---
 
-On the evening of 11 November 1918 in Warsaw the [Regency Council](/powolanie-rady-regencyjnej) handed [Józef Piłsudski](/postacie/jozef-pilsudski) military authority and supreme command of the Polish armed forces. All day Polish soldiers, members of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) and ordinary inhabitants had been disarming the German garrison in the city, which only a few days earlier had held the whole Kingdom in its grip. That same morning, in the forest near Compiègne, Germany [signed the armistice](/rozejm-w-compiegne) with the Entente. After four years of war and more than a hundred and twenty years of bondage, Poland for the first time since the partitions had its own army under a single command in a capital free of foreign soldiers. This day was later adopted as the symbolic date of the recovery of independence.
+On the evening of 11 November 1918 in Warsaw the [Regency Council](/powolanie-rady-regencyjnej) handed [Józef Piłsudski](/postacie/jozef-pilsudski) military authority and supreme command of the Polish armed forces. All day Polish soldiers, members of the [Polish Military Organisation](/slownik/pow) and ordinary inhabitants had been disarming the German garrison in the city, which only a few days earlier had held the whole Kingdom in its grip. That same morning, in the forest near Compiègne, Germany [signed the armistice](/rozejm-w-compiegne) with the Entente. After four years of war and more than a hundred and twenty years of bondage, Poland for the first time since the partitions had its own army under a single command in a capital free of foreign soldiers. This day was later adopted as the symbolic date of the recovery of independence.
 
 ## Disarming the Germans
 

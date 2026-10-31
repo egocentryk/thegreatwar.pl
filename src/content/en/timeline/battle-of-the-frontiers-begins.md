@@ -2,7 +2,7 @@
 title: Battle of the Frontiers begins
 summary: In early August 1914 the Battle of the Frontiers began, a series of clashes between French and German armies that lasted until the Battle of the Marne.
 source: poczatek-bitwy-granicznej-we-francji
-sourceHash: 281cdc95a7cdfea4a6e4437d7a72609131b9624a
+sourceHash: 5db569afdb0311081e2d7541e5978bea658555ca
 brief:
   - "Contemporary chronicles record 6 August 1914 as the start of the Battle of the Frontiers, a series of French battles against the Germans from Alsace to the Belgian border that lasted until the Battle of the Marne."
   - "Germany, following the Schlieffen Plan, sent its main forces through Belgium to bypass the fortified border. Joffre's France struck east into Alsace and Lorraine and then through the Ardennes."
@@ -14,7 +14,7 @@ Contemporary chronicles of the war record 6 August 1914 as the start of the so-c
 
 ## Two war plans
 
-Two opposing concepts collided on the Western Front. Germany, in line with the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena), sent its main forces through Belgium to bypass the heavily fortified Franco-German border and envelop the French army from the north. France, under its Commander-in-Chief [Joseph Joffre](/postacie/joseph-joffre), was carrying out an offensive plan: its armies were to strike east into Alsace and Lorraine, lost in 1871, and then through the Ardennes.
+Two opposing concepts collided on the Western Front. Germany, in line with the [Schlieffen Plan](/slownik/plan-schlieffena), sent its main forces through Belgium to bypass the heavily fortified Franco-German border and envelop the French army from the north. France, under its Commander-in-Chief [Joseph Joffre](/postacie/joseph-joffre), was carrying out an offensive plan: its armies were to strike east into Alsace and Lorraine, lost in 1871, and then through the Ardennes.
 
 ## Course of events
 

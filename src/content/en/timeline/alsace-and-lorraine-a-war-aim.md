@@ -2,10 +2,10 @@
 title: Alsace and Lorraine a war aim
 summary: On 15 November 1917 Lord Robert Cecil assured the Commons that the return of Alsace and Lorraine to France had been a British war aim from the outset.
 source: alzacja-i-lotaryngia-celem-wojny
-sourceHash: 82b332359bf3de59c6582bbee897f1d54830314f
+sourceHash: 6b5f55aef5fcfc3828a2faa0d5cf2d7a67c237a3
 ---
 
-On 15 November 1917 the question of [Alsace and Lorraine](https://pl.wikipedia.org/wiki/Alzacja-Lotaryngia) came up again in the British [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin). The Labour member for Bradford, Fred Jowett, asked whether any conversations about these provinces had been held with France before the war and, if not, when the British government had agreed to support the French in treating their return as an "essential point" of the war aims. Lord [Robert Cecil](/postacie/robert-cecil), Minister of Blockade and at the same time Parliamentary Under-Secretary of State for Foreign Affairs, answered for the Foreign Office. To the first part of the question he replied in the negative. As to the second, he stated that it had been "a well-understood war aim from the moment we entered the war". The British chronology of the war records this statement as a further assurance by the government that the return of Alsace and Lorraine was a war aim, and refers to [a similar entry from February](/izba-gmin-o-celach-wojny).
+On 15 November 1917 the question of [Alsace and Lorraine](https://pl.wikipedia.org/wiki/Alzacja-Lotaryngia) came up again in the British [House of Commons](/slownik/izba-gmin). The Labour member for Bradford, Fred Jowett, asked whether any conversations about these provinces had been held with France before the war and, if not, when the British government had agreed to support the French in treating their return as an "essential point" of the war aims. Lord [Robert Cecil](/postacie/robert-cecil), Minister of Blockade and at the same time Parliamentary Under-Secretary of State for Foreign Affairs, answered for the Foreign Office. To the first part of the question he replied in the negative. As to the second, he stated that it had been "a well-understood war aim from the moment we entered the war". The British chronology of the war records this statement as a further assurance by the government that the return of Alsace and Lorraine was a war aim, and refers to [a similar entry from February](/izba-gmin-o-celach-wojny).
 
 ## The Tsar's secret promises
 

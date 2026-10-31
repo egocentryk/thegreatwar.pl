@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 marca 1915 roku weszła w życie brytyjska [blokada morska](https://pl.wikipedia.org/wiki/Blokada_morska) wybrzeża [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Rząd brytyjski ogłosił ją kilka dni wcześniej, a zgodnie z komunikatem obowiązywała od północy z 28 lutego na 1 marca. Objęła całe wybrzeże kolonii razem z przybrzeżnymi wyspami. Statkom neutralnym, które znajdowały się w blokowanych wodach, dano cztery dni na ich opuszczenie.
+1 marca 1915 roku weszła w życie brytyjska [blokada morska](/slownik/blokada) wybrzeża [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Rząd brytyjski ogłosił ją kilka dni wcześniej, a zgodnie z komunikatem obowiązywała od północy z 28 lutego na 1 marca. Objęła całe wybrzeże kolonii razem z przybrzeżnymi wyspami. Statkom neutralnym, które znajdowały się w blokowanych wodach, dano cztery dni na ich opuszczenie.
 
 ## Dlaczego formalna blokada
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 23 sierpnia 1916 roku niemiecki handlowy okręt podwodny [Deutschland](https://pl.wikipedia.org/wiki/Deutschland_(1916)) rzucił kotwicę przy latarni Hohenweg w ujściu [Wezery](https://pl.wikipedia.org/wiki/Wezera). Od [Helgolandu](https://pl.wikipedia.org/wiki/Helgoland) eskortowały go okręty i samoloty Kaiserliche Marine. Kapitan Paul König i jego dwudziestu kilku ludzi wracali z [Baltimore](https://pl.wikipedia.org/wiki/Baltimore), dokąd w lipcu jako pierwsi [przewieźli przez Atlantyk ładunek okrętem podwodnym](/okret-podwodny-deutschland-w-ameryce), omijając brytyjską [blokadę](https://pl.wikipedia.org/wiki/Blokada_morska). Wiadomość rozeszła się telegraficznie po całych Niemczech i wywołała radość, jakiej dawno nie widziano.
+Po południu 23 sierpnia 1916 roku niemiecki handlowy okręt podwodny [Deutschland](https://pl.wikipedia.org/wiki/Deutschland_(1916)) rzucił kotwicę przy latarni Hohenweg w ujściu [Wezery](https://pl.wikipedia.org/wiki/Wezera). Od [Helgolandu](https://pl.wikipedia.org/wiki/Helgoland) eskortowały go okręty i samoloty Kaiserliche Marine. Kapitan Paul König i jego dwudziestu kilku ludzi wracali z [Baltimore](https://pl.wikipedia.org/wiki/Baltimore), dokąd w lipcu jako pierwsi [przewieźli przez Atlantyk ładunek okrętem podwodnym](/okret-podwodny-deutschland-w-ameryce), omijając brytyjską [blokadę](/slownik/blokada). Wiadomość rozeszła się telegraficznie po całych Niemczech i wywołała radość, jakiej dawno nie widziano.
 
 ## Ucieczka z zatoki Chesapeake
 

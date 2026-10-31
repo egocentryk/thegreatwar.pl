@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 lutego 1915 roku francuski [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Europe zatrzymał u zachodniego wejścia do [kanału La Manche](https://pl.wikipedia.org/wiki/La_Manche) parowiec Dacia, płynący pod amerykańską banderą z ładunkiem bawełny. Statek odprowadzono do [Brestu](https://pl.wikipedia.org/wiki/Brest), gdzie czekał na decyzję francuskiego sądu pryzowego. Część źródeł podaje datę 28 lutego, ale amerykańskie dokumenty dyplomatyczne i brytyjska chronologia wojny wskazują na 27 lutego.
+27 lutego 1915 roku francuski [krążownik pomocniczy](/slownik/krazownik-pomocniczy) Europe zatrzymał u zachodniego wejścia do [kanału La Manche](https://pl.wikipedia.org/wiki/La_Manche) parowiec Dacia, płynący pod amerykańską banderą z ładunkiem bawełny. Statek odprowadzono do [Brestu](https://pl.wikipedia.org/wiki/Brest), gdzie czekał na decyzję francuskiego sądu pryzowego. Część źródeł podaje datę 28 lutego, ale amerykańskie dokumenty dyplomatyczne i brytyjska chronologia wojny wskazują na 27 lutego.
 
 ## Koniec rejsu
 

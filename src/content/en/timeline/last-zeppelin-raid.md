@@ -2,7 +2,7 @@
 title: Last Zeppelin raid
 summary: On 5 August 1918 five naval airships set out for England. A British DH.4 shot down L 70 over the sea, killing Peter Strasser, the head of the airship service.
 source: ostatni-nalot-zeppelinow
-sourceHash: 7665b831cce98fd732498e85b9ec2bf538ea7d99
+sourceHash: 523be1fb39da2d1bfdd56fc45734c0d3f4f97f63
 ---
 
 On the afternoon of 5 August 1918 five German naval airships took off from bases in northern Germany: L 53, L 56, L 63, L 65 and L 70. They were to bomb the English Midlands. On board the newest of them, L 70, flew [Peter Strasser](/postacie/peter-strasser) himself, the commander of the Naval Airship Division. It was the first airship raid on England since the [raid of 12 April](/ostatni-nalot-sterowcow-z-ofiarami) and, as it turned out, the last of the war. That night the bombs fell only into the sea, and L 70 was shot down in flames off the coast of [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)). The whole crew and Strasser were killed.
@@ -27,7 +27,7 @@ The remaining airships did no damage. According to Jones, their commanders, misl
 
 ## Strasser's death and the end of the campaign
 
-Peter Strasser was born in 1876 in [Hanover](https://pl.wikipedia.org/wiki/Hanower). From 1913 he commanded the naval airships, and from November 1916, as *Führer der Luftschiffe*, he directed their whole war against England, which had begun with the [first raid in January 1915](/pierwszy-nalot-sterowcow-na-anglie). In August 1917 he received the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). To the end he believed that the great airships could bomb Britain effectively, even though aircraft and anti-aircraft guns were destroying them ever more easily. Jones, who wrote of him with respect, judged his death at the head of his squadron "a fitting end". He called Strasser a good organiser and a born leader who had created the naval airship service and inspired it with his own spirit.
+Peter Strasser was born in 1876 in [Hanover](https://pl.wikipedia.org/wiki/Hanower). From 1913 he commanded the naval airships, and from November 1916, as *Führer der Luftschiffe*, he directed their whole war against England, which had begun with the [first raid in January 1915](/pierwszy-nalot-sterowcow-na-anglie). In August 1917 he received the [Pour le Mérite](/slownik/pour-le-merite). To the end he believed that the great airships could bomb Britain effectively, even though aircraft and anti-aircraft guns were destroying them ever more easily. Jones, who wrote of him with respect, judged his death at the head of his squadron "a fitting end". He called Strasser a good organiser and a born leader who had created the naval airship service and inspired it with his own spirit.
 
 Without Strasser the German navy made no further attempt at airship raids on England. Bombing by aeroplanes had ceased even earlier: the last bombs fell in May, and the [last German aircraft](/ostatni-nalot-samolotow-na-wielka-brytanie) appeared over England on 20 July. In August, according to Jones, the German Supreme Command ordered an end to the bombing of London and Paris altogether.
 

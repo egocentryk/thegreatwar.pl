@@ -6,7 +6,7 @@ country: Canada
 birthPlace: Grand-Pré (Nova Scotia)
 deathPlace: Ottawa
 source: robert-borden
-sourceHash: f33c12de2752599fc42783db2b532679eb9bbf3c
+sourceHash: bd271c3d9ed446ccc31cd1ccae526dd6f1e3b8d1
 ---
 
 Sir Robert Laird Borden was Prime Minister of Canada throughout the Great War. A country that in 1914 had little more than 3,000 regular soldiers sent over 400,000 men overseas, and the Canadian Corps became one of the best formations on the Western Front. Borden led Canada through this effort, but paid a high price for it: the introduction of conscription in 1917 divided the country along the language line for decades. At the same time this cautious, cool lawyer from Nova Scotia, who began the war as a loyal subject of the Empire, ended it as one of the chief architects of the dominions' independence. It was largely thanks to him that Canada had a separate delegation at the peace conference, signed the Treaty of Versailles in its own name and joined the League of Nations.
@@ -39,7 +39,7 @@ In 1918 Borden's government introduced votes for women in federal elections, and
 
 ## The peace conference
 
-After the armistice Borden, convinced that Canada had earned its place among the nations on the battlefields, demanded separate representation for it. Britain and the United States, fearing additional British votes, at first objected. In the end the dominions and India received their own seats at the conference while also sitting in the British Empire delegation. Borden chaired this delegation several times in Lloyd George's absence. He secured the right of the dominions to sign the Treaty of Versailles in their own name and to become members of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów), eligible for election to its Council. He himself left Paris in May 1919, and the treaty was signed on Canada's behalf by his ministers.
+After the armistice Borden, convinced that Canada had earned its place among the nations on the battlefields, demanded separate representation for it. Britain and the United States, fearing additional British votes, at first objected. In the end the dominions and India received their own seats at the conference while also sitting in the British Empire delegation. Borden chaired this delegation several times in Lloyd George's absence. He secured the right of the dominions to sign the Treaty of Versailles in their own name and to become members of the [League of Nations](/slownik/liga-narodow), eligible for election to its Council. He himself left Paris in May 1919, and the treaty was signed on Canada's behalf by his ministers.
 
 ## After the war
 

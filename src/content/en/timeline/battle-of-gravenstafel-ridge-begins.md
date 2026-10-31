@@ -2,7 +2,7 @@
 title: Battle of Gravenstafel Ridge begins
 summary: On the night of 22–23 April 1915 Canadians counter-attacked at Ypres to close the gas-attack gap. Of 1,500 men who charged the wood, under 500 were left.
 source: poczatek-bitwy-o-grzbiet-gravenstafel
-sourceHash: 9b4a74a84cceb8ec06f29d9dce2461f714bd6364
+sourceHash: 2c02b83f955d94384d8326bffbc24548c484469b
 brief:
   - "The Battle of Gravenstafel Ridge was fought on 22–23 April 1915 at Ypres. After the German chlorine attack the French divisions north of the town broke and scattered."
   - "The whole weight of the defence fell on General Edwin Alderson's 1st Canadian Division, whose left flank was suddenly exposed. Canadians and British battalions patched the gap without reconnaissance and almost without artillery."
@@ -17,7 +17,7 @@ On the evening of 22 April 1915, when after the [German chlorine attack](/poczat
 
 General Edwin Alderson's Canadian division, which had [crossed to France](/kanadyjska-dywizja-przeprawia-sie-do-francji) in February, took over a sector at Ypres from the French 11th Division on 14–17 April. Its front, about 4 kilometres long, ran in front of the low Gravenstafel Ridge, north-east of the town. On the right stood the British 27th and 28th Divisions, on the left the French 45th (Algerian) Division. In the line were General [Arthur Currie](/postacie/arthur-currie)'s 2nd Brigade and General Richard Turner's 3rd Brigade, while General Malcolm Mercer's 1st Brigade stood in reserve, ready to be sent [to Hill 60](/bitwy/walki-o-wzgorze-60). The Canadians were dismayed by the state of the trenches they took over: shallow, without traverses, with parapets that did not stop bullets.
 
-The chlorine cloud passed by their sector. The left flank of the 3rd Brigade, the 13th Battalion, was however suddenly exposed. Two of its platoons, sent along the road from Poelkapelle to Sint-Juliaan (St. Julien) to help a handful of Algerian tirailleurs, fought to the last man. North of Sint-Juliaan a German column was stopped by the guns of the Canadian 10th Battery, firing at a range of a few hundred metres. Their withdrawal was covered with a machine gun by Lance Corporal Frederick Fisher of the 13th Battalion. According to the Canadian official history he was killed the next day, and for this deed he was posthumously awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Turner sent the reserve 14th Battalion into the fight, and it manned a line in the rear, by a farm later called Mouse Trap Farm, which housed brigade headquarters.
+The chlorine cloud passed by their sector. The left flank of the 3rd Brigade, the 13th Battalion, was however suddenly exposed. Two of its platoons, sent along the road from Poelkapelle to Sint-Juliaan (St. Julien) to help a handful of Algerian tirailleurs, fought to the last man. North of Sint-Juliaan a German column was stopped by the guns of the Canadian 10th Battery, firing at a range of a few hundred metres. Their withdrawal was covered with a machine gun by Lance Corporal Frederick Fisher of the 13th Battalion. According to the Canadian official history he was killed the next day, and for this deed he was posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii). Turner sent the reserve 14th Battalion into the fight, and it manned a line in the rear, by a farm later called Mouse Trap Farm, which housed brigade headquarters.
 
 ## The charge on Kitcheners' Wood
 

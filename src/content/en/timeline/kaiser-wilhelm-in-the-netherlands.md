@@ -2,7 +2,7 @@
 title: Kaiser Wilhelm in the Netherlands
 summary: On 10 November 1918 Wilhelm II left Spa and crossed the Dutch border at Eijsden. The government of the neutral Netherlands granted him asylum.
 source: cesarz-wilhelm-w-holandii
-sourceHash: b22ec7b308a1a4814cce17ab918f2cf03cdf8f69
+sourceHash: d70638366fc0d969aa82909a576bf6bdc54e82ef
 ---
 
 At five in the morning of 10 November 1918 the court train of Kaiser [Wilhelm II](/postacie/wilhelm-ii) set off towards the Dutch border from [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)) in Belgium, where the headquarters of the German army was located. The day before, [revolution had broken out in Berlin](/rewolucja-w-berlinie), the chancellor had announced the abdication without his consent, and Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) had declared that he could no longer vouch for the monarch's safety among the troops. Fearing that the conspicuous train might be attacked, after a few kilometres the Kaiser changed into one of the cars of his entourage, from which the imperial pennants had been removed.
@@ -13,4 +13,4 @@ Meanwhile in [The Hague](https://pl.wikipedia.org/wiki/Haga) the government of P
 
 The matter was not simple. Formally the Kaiser had still not abdicated, and so he was the supreme commander of the armed forces of a state at war. Throughout the war the neutral Netherlands had [interned](https://pl.wikipedia.org/wiki/Internowanie) soldiers of all sides who crossed its border. As early as 10 November the British minister demanded that Wilhelm II be interned, and the French government reacted in the same way. The Dutch, however, regarded the newcomer as a private person to whom they were extending hospitality on condition that he did not engage in politics. In Germany many, including supporters of the monarchy, regarded the flight as desertion. Two days later the Kaiser's son, Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu), also crossed the Dutch border and settled on the island of Wieringen.
 
-Wilhelm II lived at Amerongen for a year and a half, and in 1920 moved to nearby [Doorn](https://pl.wikipedia.org/wiki/Doorn), where he died in 1941. Despite the demands of the victorious powers, which in the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) announced that he would be put on trial, the Netherlands never handed him over.
+Wilhelm II lived at Amerongen for a year and a half, and in 1920 moved to nearby [Doorn](https://pl.wikipedia.org/wiki/Doorn), where he died in 1941. Despite the demands of the victorious powers, which in the [Treaty of Versailles](/slownik/traktat-wersalski) announced that he would be put on trial, the Netherlands never handed him over.

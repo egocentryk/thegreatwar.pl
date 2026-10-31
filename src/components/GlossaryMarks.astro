@@ -37,6 +37,15 @@ const more = lang === "en" ? "Glossary →" : "Słownik →"
   function mark(scope: HTMLElement, terms: Term[]) {
     const sorted = [...terms].sort((a, b) => b.term.length - a.term.length)
     for (const term of sorted) {
+      // A link the text already gives to the term's page becomes its mark.
+      const linked = [...scope.querySelectorAll<HTMLAnchorElement>("a:not(.gloss)")].find(
+        (a) => a.getAttribute("href") === term.href,
+      )
+      if (linked) {
+        linked.classList.add("gloss")
+        linked.dataset.gloss = term.slug
+        continue
+      }
       const re = new RegExp(term.pattern, "u")
       const walker = document.createTreeWalker(scope, NodeFilter.SHOW_TEXT, {
         acceptNode: (node) =>

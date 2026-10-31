@@ -2,10 +2,10 @@
 title: Recognition of the Provisional Government
 summary: On 22 March 1917 the United States became the first to officially recognise Russia's Provisional Government. Britain, France and Italy followed two days later.
 source: uznanie-rzadu-tymczasowego
-sourceHash: 668bd51f21bb37608c2372c513d19e307d3b1b91
+sourceHash: 929b7ef79f9cc3dc126920688b72d922828073b8
 ---
 
-On 22 March 1917 (9 March by the Julian calendar) the United States ambassador in Petrograd, David R. Francis, officially recognised the Russian [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) on behalf of his government. It was the first formal act of recognition of the new authorities, which had [taken power](/powstanie-rzadu-tymczasowego) a week earlier after the [abdication of Nicholas II](/abdykacja-mikolaja-ii). The same day the British [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) sent greetings to the Duma and congratulations to the Russian people, and on 24 March the ambassadors of Britain, France and Italy called on the government of Prince [Georgy Lvov](/postacie/gieorgij-lwow) and formally established relations with it.
+On 22 March 1917 (9 March by the Julian calendar) the United States ambassador in Petrograd, David R. Francis, officially recognised the Russian [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) on behalf of his government. It was the first formal act of recognition of the new authorities, which had [taken power](/powstanie-rzadu-tymczasowego) a week earlier after the [abdication of Nicholas II](/abdykacja-mikolaja-ii). The same day the British [House of Commons](/slownik/izba-gmin) sent greetings to the Duma and congratulations to the Russian people, and on 24 March the ambassadors of Britain, France and Italy called on the government of Prince [Georgy Lvov](/postacie/gieorgij-lwow) and formally established relations with it.
 
 ## American haste
 

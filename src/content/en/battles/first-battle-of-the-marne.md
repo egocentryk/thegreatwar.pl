@@ -11,7 +11,7 @@ sides:
     commanders: [Helmuth von Moltke, Alexander von Kluck, Karl von Bülow]
 result: Strategic victory for France and the United Kingdom. The Germans withdrew to the Aisne and the plan for a quick defeat of France collapsed.
 source: pierwsza-bitwa-nad-marna
-sourceHash: 675cb6c6c083409b6a451eb4a4578c67e06cbc48
+sourceHash: 07f73bc9031532c276eff8692988ab9fd1f4e836
 brief:
   - "The First Battle of the Marne, fought on 6–12 September 1914 on a front from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. Nearly two million soldiers fought in it."
   - "After two weeks of Allied retreat General Kluck turned to pass east of Paris and exposed his flank. General Joffre ordered a general counter-offensive, and Maunoury's Sixth Army struck on the Ourcq."
@@ -30,7 +30,7 @@ Sources date the start of the battle differently. French tradition and the Briti
 
 ## Background: the Schlieffen Plan and the Great Retreat
 
-The Germans entered the war with a plan known as the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena). It assumed that the main German forces, passing through Belgium, would outflank the French fortifications from the north and then, sweeping round in a great arc, encircle the French armies east of Paris. After defeating France the Germans were to transfer their troops east, against Russia.
+The Germans entered the war with a plan known as the [Schlieffen Plan](/slownik/plan-schlieffena). It assumed that the main German forces, passing through Belgium, would outflank the French fortifications from the north and then, sweeping round in a great arc, encircle the French armies east of Paris. After defeating France the Germans were to transfer their troops east, against Russia.
 
 For the first few weeks the plan seemed to work. The Belgian army withdrew to Antwerp, and the French and British lost the [Battle of the Frontiers](/bitwy/bitwa-graniczna) in Lorraine, in the Ardennes, at Charleroi and at Mons. From 24 August the Allies fell back southwards. The Great Retreat did not, however, turn into a rout. The troops put up resistance at Le Cateau and at Guise, and the commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), kept his calm. He dismissed incompetent generals and moved divisions from Lorraine to the threatened left wing.
 

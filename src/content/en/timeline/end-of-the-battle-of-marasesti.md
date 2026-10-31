@@ -2,10 +2,10 @@
 title: End of the Battle of Mărășești
 summary: On 3 September 1917 Eben and Grigorescu ordered attacks halted and positions dug in. That evening Ecaterina Teodoroiu, the heroine of the Jiu, fell at Muncelu.
 source: koniec-bitwy-pod-marasesti
-sourceHash: 6058932e17c8abb63428f55ce9d7b9f46756e332
+sourceHash: 0af554a232389956a0ba472890360f3ce4150480
 ---
 
-On 3 September 1917 (21 August by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then in force in Romania), the commander of the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), General of Infantry Johannes von Eben, ordered both his corps to halt their attacks and fortify the lines they had won on a permanent basis. On the same day the commander of the Romanian 1st Army, General Eremia Grigorescu, issued an identical order. After almost a month of fighting between the Siret and the Vrancea mountains the front fell still. The last days of the battle were fought not at [Mărășești](https://pl.wikipedia.org/wiki/Mărășești) itself but a dozen or so kilometres further west, on the hills around the villages of Muncelu, Varnița and Irești, and it was there that the last shots of this campaign were fired.
+On 3 September 1917 (21 August by the [Julian calendar](/slownik/kalendarz-julianski) then in force in Romania), the commander of the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), General of Infantry Johannes von Eben, ordered both his corps to halt their attacks and fortify the lines they had won on a permanent basis. On the same day the commander of the Romanian 1st Army, General Eremia Grigorescu, issued an identical order. After almost a month of fighting between the Siret and the Vrancea mountains the front fell still. The last days of the battle were fought not at [Mărășești](https://pl.wikipedia.org/wiki/Mărășești) itself but a dozen or so kilometres further west, on the hills around the villages of Muncelu, Varnița and Irești, and it was there that the last shots of this campaign were fired.
 
 ## The last attack
 

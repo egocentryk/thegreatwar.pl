@@ -6,6 +6,7 @@
 // starts pointing at the English page as soon as that page is translated.
 
 import { getCollection, type CollectionEntry } from "astro:content"
+import glossaryData from "@/data/glossary.json"
 import wikiEn from "@/data/wiki-en.json"
 import { compareTimelineEntries } from "@/utils/groupTimelineEntries"
 import { pluralPl } from "@/utils/pluralPl"
@@ -51,6 +52,7 @@ export const enPath = {
   topics: (slug: string) => `/en/topics/${slug}`,
   countries: (slug: string) => `/en/countries/${slug}`,
   places: (slug: string) => `/en/places/${slug}`,
+  glossary: (slug: string) => `/en/glossary/${slug}`,
 }
 
 export const plPath = {
@@ -60,6 +62,7 @@ export const plPath = {
   topics: (id: string) => `/tematy/${id}`,
   countries: (id: string) => `/kraje/${id}`,
   places: (id: string) => `/miejsca/${id}`,
+  glossary: (id: string) => `/slownik/${id}`,
 }
 
 type Kind = keyof typeof enPath
@@ -83,6 +86,8 @@ export function enSlugMaps() {
       topics: new Map(g.map((e) => [e.data.source.id, e.id])),
       countries: new Map(c.map((e) => [e.data.source.id, e.id])),
       places: new Map(m.map((e) => [e.data.source.id, e.id])),
+      // Every glossary term has an English page.
+      glossary: new Map(glossaryData.map((e) => [e.slug, e.slugEn])),
     }
   })()
   return mapsPromise
@@ -117,7 +122,7 @@ const PL_MARK = ' <span class="lang-mark" title="W języku polskim / in Polish">
 
 // Rewrites the links of a rendered English article:
 //   /slug, /bitwy/slug, /postacie/slug, /tematy/slug, /kraje/slug,
-//   /miejsca/slug -> English
+//   /miejsca/slug, /slownik/slug -> English
 //     page if translated,
 //     otherwise kept and marked (PL);
 //   pl.wikipedia -> en.wikipedia if there is a counterpart,
@@ -135,7 +140,7 @@ export async function rewriteEnHtml(html: string) {
         if (url) return `<a href="${url}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`
       }
-      const internal = href.match(/^\/(?:(bitwy|postacie|tematy|kraje|miejsca)\/)?([a-z0-9-]+)(#[^"]*)?$/)
+      const internal = href.match(/^\/(?:(bitwy|postacie|tematy|kraje|miejsca|slownik)\/)?([a-z0-9-]+)(#[^"]*)?$/)
       if (internal) {
         const kind: Kind =
           internal[1] === "bitwy"
@@ -148,7 +153,9 @@ export async function rewriteEnHtml(html: string) {
                   ? "countries"
                   : internal[1] === "miejsca"
                     ? "places"
-                    : "timeline"
+                    : internal[1] === "slownik"
+                      ? "glossary"
+                      : "timeline"
         const slug = maps[kind].get(internal[2])
         if (slug) return `<a href="${enPath[kind](slug)}${internal[3] ?? ""}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`

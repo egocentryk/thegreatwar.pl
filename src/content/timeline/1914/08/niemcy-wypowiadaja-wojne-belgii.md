@@ -20,7 +20,7 @@ brief:
 
 ## Wojna z państwem neutralnym
 
-Belgia nie zagrażała Niemcom i nie była stroną żadnego sojuszu. Jej jedyną „winą” było położenie na drodze, którą niemiecki [plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena) przewidywał dla głównego uderzenia na Francję. Przemarsz przez Belgię pozwalał ominąć silnie ufortyfikowaną granicę francusko-niemiecką i wyjść na tyły armii francuskiej.
+Belgia nie zagrażała Niemcom i nie była stroną żadnego sojuszu. Jej jedyną „winą” było położenie na drodze, którą niemiecki [plan Schlieffena](/slownik/plan-schlieffena) przewidywał dla głównego uderzenia na Francję. Przemarsz przez Belgię pozwalał ominąć silnie ufortyfikowaną granicę francusko-niemiecką i wyjść na tyły armii francuskiej.
 
 Niemcy były jednym z gwarantów belgijskiej neutralności, zapisanej w [traktacie londyńskim z 1839 roku](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)). Atak na Belgię oznaczał więc złamanie zobowiązania, które same przyjęły. W dniu inwazji kanclerz [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) przyznał to otwarcie w Reichstagu. Mówił, że Niemcy znajdują się w stanie koniecznej obrony, a „konieczność nie zna prawa”. Przyznał, że wkroczenie do Belgii jest sprzeczne z prawem międzynarodowym, i zapowiedział, że Niemcy naprawią wyrządzoną krzywdę, gdy tylko osiągną swój cel wojskowy.
 

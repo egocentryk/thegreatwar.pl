@@ -2,10 +2,10 @@
 title: Lloyd George's first speech as prime minister
 summary: On 19 December 1916 Lloyd George rejected the German peace offer in the Commons and announced universal national service and an imperial conference.
 source: pierwsze-przemowienie-lloyda-george-a-jako-premiera
-sourceHash: 1f03ed0c0026edff7cc036c4d05aeaf948a6e29f
+sourceHash: 084ea1d1f36b819917e1e7e37b5cf3b23ca8cfe2
 ---
 
-At ten past four in the afternoon on 19 December 1916 [David Lloyd George](/postacie/david-lloyd-george) rose in a crowded [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) to set out his government's programme for the first time as prime minister. The speech had been planned for 12 December, but the Prime Minister had fallen ill with a throat complaint and, as he noted at the outset, was still not fully recovered. Formally he was moving the second reading of the Consolidated Fund (Appropriation) Bill. He spoke for nearly two hours. The British chronology of the war records under this date two decisions he announced: the introduction of universal national service and the summoning of an imperial conference with the dominions. At home and abroad, however, the most attention was drawn by the first part of the speech, the answer to the [German peace offer](/niemiecka-oferta-pokojowa).
+At ten past four in the afternoon on 19 December 1916 [David Lloyd George](/postacie/david-lloyd-george) rose in a crowded [House of Commons](/slownik/izba-gmin) to set out his government's programme for the first time as prime minister. The speech had been planned for 12 December, but the Prime Minister had fallen ill with a throat complaint and, as he noted at the outset, was still not fully recovered. Formally he was moving the second reading of the Consolidated Fund (Appropriation) Bill. He spoke for nearly two hours. The British chronology of the war records under this date two decisions he announced: the introduction of universal national service and the summoning of an imperial conference with the dominions. At home and abroad, however, the most attention was drawn by the first part of the speech, the answer to the [German peace offer](/niemiecka-oferta-pokojowa).
 
 ## "Head into a noose"
 

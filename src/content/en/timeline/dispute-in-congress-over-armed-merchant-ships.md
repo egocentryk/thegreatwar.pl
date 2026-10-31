@@ -2,14 +2,14 @@
 title: Dispute in Congress over armed merchant ships
 summary: In late February 1916 Berlin maintained that armed Entente merchantmen were auxiliary cruisers. In the US Congress a revolt against Wilson's line grew.
 source: spor-w-kongresie-o-uzbrojone-statki-handlowe
-sourceHash: bf577f3b6d89d98fea4c672e2a2b404cdd1d7f57
+sourceHash: cafa111919b3264b48afdfca484ff4cb90af8f01
 ---
 
 A British chronology of the war records under 21 February 1916 that the German government informed the United States that merchant ships armed "for defence" would henceforth be regarded as cruisers. The published documents of American diplomacy contain no separate German note of that day. Berlin had already announced its position on [10 February](/niemiecka-nota-o-uzbrojonych-statkach-handlowych), and in the following two weeks merely explained and confirmed it. The chronology entry is best understood as a summary of those weeks, in which the German decision became a fact and a political crisis came to a head in Washington.
 
 ## An order for the commanders
 
-From the outset the Germans used the formula that armed enemy ships would be treated as [auxiliary cruisers](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy), that is, as warships that need not be warned before an attack. According to the German official history of the naval war, the imperial order on the matter was issued on 11 February. It instructed commanders to destroy "by all means" enemy merchant ships armed with guns and was to take effect from 29 February. At the same time a dispute was going on within the German leadership over whether to go further and resume unrestricted submarine warfare. Grand Admiral [Alfred von Tirpitz](/postacie/alfred-von-tirpitz) and the chief of the General Staff, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), pressed for this, while the Chancellor, [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg), feared war with the United States.
+From the outset the Germans used the formula that armed enemy ships would be treated as [auxiliary cruisers](/slownik/krazownik-pomocniczy), that is, as warships that need not be warned before an attack. According to the German official history of the naval war, the imperial order on the matter was issued on 11 February. It instructed commanders to destroy "by all means" enemy merchant ships armed with guns and was to take effect from 29 February. At the same time a dispute was going on within the German leadership over whether to go further and resume unrestricted submarine warfare. Grand Admiral [Alfred von Tirpitz](/postacie/alfred-von-tirpitz) and the chief of the General Staff, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), pressed for this, while the Chancellor, [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg), feared war with the United States.
 
 ## The *Lusitania* in suspense again
 

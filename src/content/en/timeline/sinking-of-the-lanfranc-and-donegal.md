@@ -2,10 +2,10 @@
 title: Sinking of the Lanfranc and Donegal
 summary: On 17 April 1917 German submarines sank two ships carrying wounded from Le Havre in the Channel. The Lanfranc also carried 167 wounded German prisoners.
 source: zatopienie-lanfranca-i-donegala
-sourceHash: e0311cccb6871e32a7bc40a0c2b96a5535daf8b0
+sourceHash: 7158471bf658110f6d57a40fb0cc7f987dae69eb
 ---
 
-On the evening of 17 April 1917 two ships carrying wounded from the Western Front, the *Lanfranc* and the *Donegal*, sailed from [Le Havre](https://pl.wikipedia.org/wiki/Hawr) for [Southampton](https://pl.wikipedia.org/wiki/Southampton). Both had escorts, and both were torpedoed without warning by German submarines. In all some 75–80 people died, most of them wounded soldiers. Among the victims were also Germans: on board the *Lanfranc* were 167 wounded German [prisoners](https://pl.wikipedia.org/wiki/Jeniec_wojenny). The British chronology of the war calls both ships ambulance transports, not [hospital ships](https://pl.wikipedia.org/wiki/Statek_szpitalny). In April 1917 this distinction mattered a great deal.
+On the evening of 17 April 1917 two ships carrying wounded from the Western Front, the *Lanfranc* and the *Donegal*, sailed from [Le Havre](https://pl.wikipedia.org/wiki/Hawr) for [Southampton](https://pl.wikipedia.org/wiki/Southampton). Both had escorts, and both were torpedoed without warning by German submarines. In all some 75–80 people died, most of them wounded soldiers. Among the victims were also Germans: on board the *Lanfranc* were 167 wounded German [prisoners](https://pl.wikipedia.org/wiki/Jeniec_wojenny). The British chronology of the war calls both ships ambulance transports, not [hospital ships](/slownik/statek-szpitalny). In April 1917 this distinction mattered a great deal.
 
 ## Ships without red crosses
 

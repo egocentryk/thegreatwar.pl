@@ -2,10 +2,10 @@
 title: Bulgarians and Germans take Constanța
 summary: On 22 October 1916, after three days of Mackensen's offensive in Dobruja, Bulgarian and German troops entered Constanța, Romania's main port.
 source: bulgarzy-i-niemcy-zdobywaja-konstance
-sourceHash: b98beec6cf06d70edd6907012ba29ca224634cb3
+sourceHash: f077d7df6f1f6b59d8de95e3ce8ae77e1e1b192d
 ---
 
-On 22 October 1916, at about noon, columns of German and Bulgarian infantry and Bulgarian cavalry entered [Constanța](https://pl.wikipedia.org/wiki/Konstanca), Romania's main port on the Black Sea. The city was empty. The Romanian and Russian troops had withdrawn from it the previous night, and smoke hung over the port. Less than eight weeks had passed since Romania entered the war. In Romania, which still used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 9 October.
+On 22 October 1916, at about noon, columns of German and Bulgarian infantry and Bulgarian cavalry entered [Constanța](https://pl.wikipedia.org/wiki/Konstanca), Romania's main port on the Black Sea. The city was empty. The Romanian and Russian troops had withdrawn from it the previous night, and smoke hung over the port. Less than eight weeks had passed since Romania entered the war. In Romania, which still used the [Julian calendar](/slownik/kalendarz-julianski), it was 9 October.
 
 ## Mackensen's second offensive
 

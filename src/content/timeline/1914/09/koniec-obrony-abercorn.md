@@ -15,6 +15,6 @@ draft: false
 
 Tego dnia do Abercorn dotarła wyczekiwana odsiecz: ponad stu żołnierzy Policji Rodezji Północnej pod dowództwem majora Henry'ego Stennetta, którzy przybyli forsownym marszem z głębi kolonii. Załoga wzrosła do około 230 ludzi z trzema karabinami maszynowymi. Gdy Niemcy ponownie zaatakowali, zostali odparci. Według części źródeł ich oddziałem dowodził lekarz wojskowy, Oberarzt Westhofen.
 
-Napastnicy, w większości nieregularni wojownicy i uzbrojeni tragarze, wspierani przez niewielu [askarysów](https://pl.wikipedia.org/wiki/Askarysi), nie mieli szans wobec wzmocnionej załogi. Wycofali się ku granicy, a oddział porucznika McCarthy'ego ścigał ich jeszcze następnego dnia. Tego samego dnia, kilkaset kilometrów dalej na wschód, Brytyjczycy odparli znacznie większy niemiecki atak na [Karongę](/walki-pod-karonga) nad jeziorem Niasa.
+Napastnicy, w większości nieregularni wojownicy i uzbrojeni tragarze, wspierani przez niewielu [askarysów](/slownik/askarysi), nie mieli szans wobec wzmocnionej załogi. Wycofali się ku granicy, a oddział porucznika McCarthy'ego ścigał ich jeszcze następnego dnia. Tego samego dnia, kilkaset kilometrów dalej na wschód, Brytyjczycy odparli znacznie większy niemiecki atak na [Karongę](/walki-pod-karonga) nad jeziorem Niasa.
 
 Oba starcia pokazały, że Niemcy, choć zdolni do śmiałych wypadów, nie mieli sił, by zająć sąsiednie kolonie brytyjskie. Wojna na granicy Rodezji Północnej przeszła w fazę drobnych potyczek i najazdów, która miała trwać aż do 1916 roku.

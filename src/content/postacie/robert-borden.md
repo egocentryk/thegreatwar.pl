@@ -52,7 +52,7 @@ W 1918 roku rząd Bordena wprowadził prawo wyborcze dla kobiet w wyborach feder
 
 ## Konferencja pokojowa
 
-Po rozejmie Borden, przekonany, że Kanada wywalczyła sobie miejsce wśród narodów na polach bitew, zażądał dla niej osobnej reprezentacji. Wielka Brytania i Stany Zjednoczone, obawiające się dodatkowych brytyjskich głosów, początkowo się sprzeciwiały. Ostatecznie dominia i Indie dostały własne miejsca na konferencji, a jednocześnie zasiadały w delegacji imperium brytyjskiego. Borden kilkakrotnie przewodniczył tej delegacji pod nieobecność Lloyda George'a. Wywalczył, by dominia podpisały traktat wersalski we własnym imieniu i zostały członkami [Ligi Narodów](https://pl.wikipedia.org/wiki/Liga_Narodów), z prawem wyboru do jej rady. Sam wyjechał z Paryża w maju 1919 roku, a traktat w imieniu Kanady podpisali jego ministrowie.
+Po rozejmie Borden, przekonany, że Kanada wywalczyła sobie miejsce wśród narodów na polach bitew, zażądał dla niej osobnej reprezentacji. Wielka Brytania i Stany Zjednoczone, obawiające się dodatkowych brytyjskich głosów, początkowo się sprzeciwiały. Ostatecznie dominia i Indie dostały własne miejsca na konferencji, a jednocześnie zasiadały w delegacji imperium brytyjskiego. Borden kilkakrotnie przewodniczył tej delegacji pod nieobecność Lloyda George'a. Wywalczył, by dominia podpisały traktat wersalski we własnym imieniu i zostały członkami [Ligi Narodów](/slownik/liga-narodow), z prawem wyboru do jej rady. Sam wyjechał z Paryża w maju 1919 roku, a traktat w imieniu Kanady podpisali jego ministrowie.
 
 ## Po wojnie
 

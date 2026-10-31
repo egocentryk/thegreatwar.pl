@@ -9,7 +9,7 @@ sides:
     commanders: [Cevat Pasha, Guido von Usedom]
 result: Ottoman victory. The Allies destroyed the forts at the entrance to the strait but did not break through the minefields. On 18 March they lost three battleships, and three others were badly damaged.
 source: morska-operacja-w-dardanelach
-sourceHash: b27e577aa65f701865d43555577f6efe6c888dec
+sourceHash: d29c2044ba43295254953369c3506509f83d7950
 brief:
   - "From 19 February to 18 March 1915 the British and French fleets tried to force the Dardanelles without the help of land forces. The ships were to destroy the Turkish forts, clear the strait of mines and appear off Constantinople."
   - "The chief advocate of the operation was Winston Churchill, and the plan was drawn up by Vice-Admiral Sackville Carden. Sixteen capital ships gathered under his orders, most of them old pre-dreadnought battleships."
@@ -38,7 +38,7 @@ The bombardment began on 19 February at 9.51 a.m. All day the ships fired at the
 
 Then a gale blew up for almost a week. The ships returned on 25 February. The Helles battery hit the battleship *Agamemnon* seven times, killing three sailors, but together with *Queen Elizabeth* she put both guns of that battery out of action. Then the battleships came close to the entrance and shelled the forts at short range. In the afternoon all four forts fell silent and the Turks withdrew from them. The minesweepers began to sweep the entrance to the strait.
 
-On 26 February and the following days parties of sailors and Royal Marines went ashore and blew up the abandoned guns. Near Kum Kale Lieutenant-Commander Eric Robinson reached the Orkanie battery alone with an explosive charge and destroyed its last gun, for which he received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Resistance, however, was growing. On 4 March two companies of Royal Marines that had landed near Kum Kale and Sedd el Bahr ran into heavy fire and had to withdraw to the ships, losing several dozen killed and wounded.
+On 26 February and the following days parties of sailors and Royal Marines went ashore and blew up the abandoned guns. Near Kum Kale Lieutenant-Commander Eric Robinson reached the Orkanie battery alone with an explosive charge and destroyed its last gun, for which he received the [Victoria Cross](/slownik/krzyz-wiktorii). Resistance, however, was growing. On 4 March two companies of Royal Marines that had landed near Kum Kale and Sedd el Bahr ran into heavy fire and had to withdraw to the ships, losing several dozen killed and wounded.
 
 ## Stopped by the mines
 

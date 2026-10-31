@@ -9,7 +9,7 @@ sides:
     commanders: [Otto Liman von Sanders, Erich Weber]
 result: British victory on the western flank. They took five lines of Turkish trenches on Gully Spur and beat off all counter-attacks, but were defeated on Fir Tree Spur.
 source: bitwa-o-wawoz-gully
-sourceHash: 500291edbd3f6aa0848406412b71ae4587417a1d
+sourceHash: b3463c27c8e6a02c818c0d1f2ac81b3f0cd024a9
 ---
 
 The Battle of Gully Ravine was one of the few successful Allied attacks at Helles, at the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. On 28 June 1915 the British 29th Division and the 29th Indian Brigade, supported by the concentrated fire of almost all the artillery, took five lines of Turkish trenches on the coastal ridge of Gully Spur and pushed the western flank of the front a few hundred metres towards Krithia. On the other side of the ravine, on Fir Tree Spur, a Scottish Territorial brigade, deprived of howitzer support, was decimated within minutes. For the following week the Turks, having brought up reinforcements from the whole peninsula, counter-attacked again and again to recover the lost trenches. They suffered heavier losses than in any earlier battle of the campaign and recovered nothing.
@@ -48,7 +48,7 @@ Meanwhile the Turks went over to the counter-attack on Gully Spur. At about 2 p.
 
 ### Turkish counter-attacks
 
-The western part of trench J13 changed hands several times until on the morning of 30 June the Gurkhas finally took it. On the night of 30 June/1 July the Turks attacked them with grenades. The Gurkhas, who had no grenades, fell back, but recovered part of the trench in a counter-attack with [kukri](https://pl.wikipedia.org/wiki/Kukri) knives in their hands. The following night the Turks struck at trench J12. The lost section was recaptured by one and a half companies of a battalion of the Royal Inniskilling Fusiliers. Their commander, Captain Gerald O'Sullivan, and Sergeant James Somers received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for it.
+The western part of trench J13 changed hands several times until on the morning of 30 June the Gurkhas finally took it. On the night of 30 June/1 July the Turks attacked them with grenades. The Gurkhas, who had no grenades, fell back, but recovered part of the trench in a counter-attack with [kukri](https://pl.wikipedia.org/wiki/Kukri) knives in their hands. The following night the Turks struck at trench J12. The lost section was recaptured by one and a half companies of a battalion of the Royal Inniskilling Fusiliers. Their commander, Captain Gerald O'Sullivan, and Sergeant James Somers received the [Victoria Cross](/slownik/krzyz-wiktorii) for it.
 
 Turkish headquarters feared that the British would outflank the right wing of the front at Krithia. General [Otto Liman von Sanders](/postacie/otto-liman-von-sanders) ordered the lost trenches to be recovered and brought reinforcements south from the whole peninsula and from the Asian shore of the straits. According to Turkish works, the commander of the Southern Group, the German General Erich Weber, opposed attacking without artillery support on a narrow sector on which the British could direct the fire of guns from land and from ships. Liman von Sanders nevertheless ordered the attacks to continue.
 

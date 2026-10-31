@@ -2,14 +2,14 @@
 title: Great Britain issues an ultimatum to Germany
 summary: On 4 August 1914 London demanded that Germany respect Belgian neutrality by midnight. The chancellor called the treaty a "scrap of paper".
 source: wielka-brytania-stawia-niemcom-ultimatum
-sourceHash: 7fbfce8e11bbac6b50ebe0da9f9b2c6ceb2fa12b
+sourceHash: c2968f07a73aba1d1337ce8e41a10100f8cf606a
 ---
 
 On 4 August 1914 the government of [Great Britain](/kraje/wielka-brytania) twice demanded from [Germany](/kraje/niemcy) an assurance that it would respect the neutrality of [Belgium](/kraje/belgia). The second telegram from the Foreign Secretary, [Edward Grey](/postacie/edward-grey), to the ambassador in Berlin, Sir Edward Goschen, was an ultimatum: a satisfactory reply was to arrive by midnight, failing which the ambassador was to ask for his passports.
 
 ## Two telegrams
 
-Grey sent the first telegram early in the morning, in line with what he had announced in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) [the day before](/wielka-brytania-zapowiada-obrone-neutralnosci-belgii). It quoted the King of the Belgians' appeal to King [George V](/postacie/jerzy-v) and summarised the German note demanding passage. The British government, he wrote, was bound to protest against this violation of the [treaty of 1839](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)), to which Germany was a party in common with Great Britain, and asked for an assurance that the demand on Belgium would not be proceeded with and that its neutrality would be respected. Goschen was to ask for an immediate reply.
+Grey sent the first telegram early in the morning, in line with what he had announced in the [House of Commons](/slownik/izba-gmin) [the day before](/wielka-brytania-zapowiada-obrone-neutralnosci-belgii). It quoted the King of the Belgians' appeal to King [George V](/postacie/jerzy-v) and summarised the German note demanding passage. The British government, he wrote, was bound to protest against this violation of the [treaty of 1839](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)), to which Germany was a party in common with Great Britain, and asked for an assurance that the demand on Belgium would not be proceeded with and that its neutrality would be respected. Goschen was to ask for an immediate reply.
 
 In the course of the morning further news reached London. The British Minister in Brussels reported that Germany had announced it would carry out its intentions, if necessary by force of arms. The Belgian Legation passed on a report from the General Staff that the frontier had been violated at [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich). The embassy of Prince [Karl Lichnowsky](https://pl.wikipedia.org/wiki/Karol_Lichnowsky) communicated a telegram from Berlin assuring that Germany would under no pretence whatever annex Belgian territory, but that it had to enter Belgium because this was for it "a question of life or death". Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith) read these texts to the House of Commons in the afternoon and declared that the government could not regard such a reply as satisfactory.
 

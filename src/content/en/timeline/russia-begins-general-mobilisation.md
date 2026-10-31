@@ -2,10 +2,10 @@
 title: Russia begins general mobilisation
 summary: 31 July 1914 was the first day of general mobilisation in Russia. The news of it provoked an immediate reaction from Berlin.
 source: rosja-rozpoczyna-powszechna-mobilizacje
-sourceHash: c0ae51bd1bc40e598b20aed507157e6a7f4996e3
+sourceHash: 031642c236df6d920fcd2ecbb4dc6db9dc3b5c95
 ---
 
-31 July 1914 – 18 July under the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then in use in Russia – was the first day of the general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army and navy of the [Russian Empire](/kraje/rosja). Tsar [Nicholas II](/postacie/mikolaj-ii) had agreed to it [the previous day](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) at Peterhof, and the telegrams had gone out that evening to all the military districts. In the morning notices of the mobilisation were posted in the streets of St Petersburg. The Austro-Hungarian Ambassador, Count Friedrich Szapáry, reported to Vienna that the city was receiving the mobilisation orders "in moody silence".
+31 July 1914 – 18 July under the [Julian calendar](/slownik/kalendarz-julianski) then in use in Russia – was the first day of the general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army and navy of the [Russian Empire](/kraje/rosja). Tsar [Nicholas II](/postacie/mikolaj-ii) had agreed to it [the previous day](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) at Peterhof, and the telegrams had gone out that evening to all the military districts. In the morning notices of the mobilisation were posted in the streets of St Petersburg. The Austro-Hungarian Ambassador, Count Friedrich Szapáry, reported to Vienna that the city was receiving the mobilisation orders "in moody silence".
 
 ## Why the whole army
 

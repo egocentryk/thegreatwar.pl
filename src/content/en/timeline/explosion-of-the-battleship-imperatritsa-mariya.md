@@ -2,10 +2,10 @@
 title: Explosion of the battleship Imperatritsa Mariya
 summary: On 20 October 1916 the dreadnought Imperatritsa Mariya, flagship of the Black Sea Fleet, blew up and sank at Sevastopol. More than 200 sailors were killed.
 source: wybuch-pancernika-impieratrica-marija
-sourceHash: eda7a9709a723b61cabe6015fbad058277ed7e13
+sourceHash: 944df2bc3dc53631d57f54efb10e01d477a6121d
 ---
 
-On the morning of 20 October 1916 (7 October by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then in use in Russia), in the roadstead of [Sevastopol](https://pl.wikipedia.org/wiki/Sewastopol), the newest Russian [dreadnought](https://pl.wikipedia.org/wiki/Drednot), *Imperatritsa Mariya*, flagship of the [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska), blew up. A fire broke out in the magazine of the forward main-armament turret, followed by a series of explosions. In less than an hour the ship capsized and sank about half a mile from the shore. More than 200 sailors were killed. The cause of the disaster was never explained.
+On the morning of 20 October 1916 (7 October by the [Julian calendar](/slownik/kalendarz-julianski), then in use in Russia), in the roadstead of [Sevastopol](https://pl.wikipedia.org/wiki/Sewastopol), the newest Russian [dreadnought](https://pl.wikipedia.org/wiki/Drednot), *Imperatritsa Mariya*, flagship of the [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska), blew up. A fire broke out in the magazine of the forward main-armament turret, followed by a series of explosions. In less than an hour the ship capsized and sank about half a mile from the shore. More than 200 sailors were killed. The cause of the disaster was never explained.
 
 ## Pride of the fleet
 

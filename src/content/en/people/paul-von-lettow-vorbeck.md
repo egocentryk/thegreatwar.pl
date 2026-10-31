@@ -6,10 +6,10 @@ country: Germany
 birthPlace: Saarlouis (Germany)
 deathPlace: Hamburg
 source: paul-von-lettow-vorbeck
-sourceHash: 146040b1071366c2b8dba9bef52368dd1c27f74c
+sourceHash: 1f3a11fa531eba74eddd1099d71b297cb932c4ab
 ---
 
-Paul von Lettow-Vorbeck commanded the German colonial troops, the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). From August 1914 to November 1918, with an army made up mostly of African [askaris](https://pl.wikipedia.org/wiki/Askarysi) and cut off from Germany by the British blockade, he fought British, South African, Indian, Belgian and Portuguese forces many times more numerous. He was never encircled or destroyed, and he laid down his arms only two weeks after the armistice of Compiègne. In Germany he became the legend of the general "undefeated in the field". Today the enormous price paid for his campaign by the people of East Africa is also remembered.
+Paul von Lettow-Vorbeck commanded the German colonial troops, the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). From August 1914 to November 1918, with an army made up mostly of African [askaris](/slownik/askarysi) and cut off from Germany by the British blockade, he fought British, South African, Indian, Belgian and Portuguese forces many times more numerous. He was never encircled or destroyed, and he laid down his arms only two weeks after the armistice of Compiègne. In Germany he became the legend of the general "undefeated in the field". Today the enormous price paid for his campaign by the people of East Africa is also remembered.
 
 ## Before the war
 
@@ -31,7 +31,7 @@ For the next year he avoided major engagements and sent small detachments to rai
 
 In February 1916 command in East Africa was taken over by the South African general [Jan Smuts](/postacie/jan-smuts), with forces such as this theatre of war had not yet seen. In March his [Kilimanjaro offensive](/bitwy/ofensywa-kilimandzarska) drove the Germans from the Kilimanjaro area but failed to encircle them. Lettow-Vorbeck fell back, giving battle only on favourable ground, as at Latema and Kahe, and slipped out of one trap after another. In May he attacked van Deventer's division at Kondoa Irangi, but his night assaults [were repulsed](/niemiecki-atak-na-kondoa-irangi). In August Smuts took Morogoro on the Central Railway, hoping for a decisive battle, but Lettow-Vorbeck considered waiting for it "madness" and [withdrew through the Uluguru Mountains](/brytyjczycy-zajmuja-morogoro) to the south. In September the British took Dar es Salaam and the whole coast, and the Belgians Tabora.
 
-By the end of 1916 the Germans were left with only the southern part of the colony. Disease, especially malaria, was, however, also decimating Smuts's forces, in which South African and British soldiers were increasingly replaced by African battalions. In November 1916 Lettow-Vorbeck received the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), and in the same year he was promoted to colonel. At the beginning of 1917 Smuts left for London, convinced that the campaign was essentially over. Lettow-Vorbeck was by then [beyond the Rufiji](/hoskins-zastepuje-smutsa).
+By the end of 1916 the Germans were left with only the southern part of the colony. Disease, especially malaria, was, however, also decimating Smuts's forces, in which South African and British soldiers were increasingly replaced by African battalions. In November 1916 Lettow-Vorbeck received the [Pour le Mérite](/slownik/pour-le-merite), and in the same year he was promoted to colonel. At the beginning of 1917 Smuts left for London, convinced that the campaign was essentially over. Lettow-Vorbeck was by then [beyond the Rufiji](/hoskins-zastepuje-smutsa).
 
 ## 1917: Mahiwa and the Rovuma
 

@@ -2,7 +2,7 @@
 title: British attack Aubers Ridge
 summary: On 9 May 1915 the British First Army attacked Aubers Ridge to support the French in Artois. Machine-gun fire stopped the attack in no man's land.
 source: brytyjczycy-atakuja-grzbiet-aubers
-sourceHash: 38af3f27467c0e26243c7c1f22252c3b7fdcbb39
+sourceHash: 70175619778171c64cf786da602ed588e99c8368
 brief:
   - "On 9 May 1915 General Douglas Haig's British First Army attacked the German positions in front of the Aubers ridge in French Flanders, to support the French offensive in Artois."
   - "The bombardment lasted only 40 minutes, as the British lacked heavy guns and high-explosive shells. The Germans had built thick breastworks and placed machine guns closely, and the bombardment barely touched them."
@@ -23,7 +23,7 @@ The Germans, meanwhile, had made use of the two months since the March battle. I
 
 At 5.30 a.m. the first waves of infantry left their trenches to get closer to the German line and at once came under fire. At 5.40 the artillery lifted its fire deeper, and the soldiers went in to the assault. On the 1st Division's front only a handful of men from the Northamptonshire Regiment and the Royal Munster Fusiliers got through the wire into the German trench. None of them came back. The rest lay down in no man's land, in front of the uncut wire. Indians, Gurkhas and Scottish Highlanders of the Dehra Dun Brigade got at most halfway across no man's land. A second attack, after an additional bombardment, ended the same way. At about 7.20 a.m. the commander of the 1st Division reported that the attack had stalled.
 
-Haig already knew that the French in Artois were advancing, and he did not want to break off operations that were meant to tie down German reserves. He ordered the attack to be renewed. At about 4 p.m. the battalions of the Black Watch and the Cameron Highlanders and the Indian Bareilly Brigade went in. The leading companies of the Black Watch broke into the German trenches but were surrounded and almost entirely wiped out. The Bareilly Brigade lost more than a thousand men within a few minutes. Two soldiers of the Black Watch, Corporal John Ripley and Lance-Corporal David Finlay, received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for that day.
+Haig already knew that the French in Artois were advancing, and he did not want to break off operations that were meant to tie down German reserves. He ordered the attack to be renewed. At about 4 p.m. the battalions of the Black Watch and the Cameron Highlanders and the Indian Bareilly Brigade went in. The leading companies of the Black Watch broke into the German trenches but were surrounded and almost entirely wiped out. The Bareilly Brigade lost more than a thousand men within a few minutes. Two soldiers of the Black Watch, Corporal John Ripley and Lance-Corporal David Finlay, received the [Victoria Cross](/slownik/krzyz-wiktorii) for that day.
 
 ## At Fromelles
 

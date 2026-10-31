@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-23 listopada 1916 roku rano wojska grupy armii feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) zaczęły przeprawę przez [Dunaj](https://pl.wikipedia.org/wiki/Dunaj) z bułgarskiego [Swisztowa](https://pl.wikipedia.org/wiki/Swisztow) na rumuński brzeg pod [Zimnicea](https://pl.wikipedia.org/wiki/Zimnicea). Niemieccy, bułgarscy i austro-węgierscy żołnierze wylądowali niemal bez przeszkód i do wieczora uchwycili przyczółek. Z południa ruszyło drugie, obok nacierającej z gór 9 Armii, ramię kleszczy wymierzonych w [Bukareszt](https://pl.wikipedia.org/wiki/Bukareszt), oddalony od miejsca przeprawy o około 100 kilometrów. W Rumunii, liczącej czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 10 listopada.
+23 listopada 1916 roku rano wojska grupy armii feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) zaczęły przeprawę przez [Dunaj](https://pl.wikipedia.org/wiki/Dunaj) z bułgarskiego [Swisztowa](https://pl.wikipedia.org/wiki/Swisztow) na rumuński brzeg pod [Zimnicea](https://pl.wikipedia.org/wiki/Zimnicea). Niemieccy, bułgarscy i austro-węgierscy żołnierze wylądowali niemal bez przeszkód i do wieczora uchwycili przyczółek. Z południa ruszyło drugie, obok nacierającej z gór 9 Armii, ramię kleszczy wymierzonych w [Bukareszt](https://pl.wikipedia.org/wiki/Bukareszt), oddalony od miejsca przeprawy o około 100 kilometrów. W Rumunii, liczącej czas według [kalendarza juliańskiego](/slownik/kalendarz-julianski), był to 10 listopada.
 
 ## Przygotowania
 

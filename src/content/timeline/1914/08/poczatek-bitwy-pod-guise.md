@@ -41,6 +41,6 @@ Wieczorem 29 sierpnia Francuzi mogli mówić o sukcesie pod Guise, choć nie pod
 
 ## Znaczenie
 
-Bitwa pod Guise nie była wielkim zwycięstwem, ale miała poważne skutki. Armia Bülowa zatrzymała się na półtorej doby. Bülow zwrócił się do Klucka o wsparcie, a ten wieczorem 30 sierpnia skierował 1 Armię na południowy wschód, by odciąć odwrót 5 Armii. Zamiast obejść Paryż od zachodu, jak zakładał [plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena), Niemcy przeszli na wschód od stolicy i odsłonili swój prawy bok. Ten zwrot stworzył Francuzom szansę, którą wykorzystali na początku września w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną).
+Bitwa pod Guise nie była wielkim zwycięstwem, ale miała poważne skutki. Armia Bülowa zatrzymała się na półtorej doby. Bülow zwrócił się do Klucka o wsparcie, a ten wieczorem 30 sierpnia skierował 1 Armię na południowy wschód, by odciąć odwrót 5 Armii. Zamiast obejść Paryż od zachodu, jak zakładał [plan Schlieffena](/slownik/plan-schlieffena), Niemcy przeszli na wschód od stolicy i odsłonili swój prawy bok. Ten zwrot stworzył Francuzom szansę, którą wykorzystali na początku września w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną).
 
 Franchet d'Espérey wyszedł z bitwy z opinią najbardziej energicznego generała 5 Armii. Kilka dni później zastąpił Lanrezaca na stanowisku jej dowódcy.

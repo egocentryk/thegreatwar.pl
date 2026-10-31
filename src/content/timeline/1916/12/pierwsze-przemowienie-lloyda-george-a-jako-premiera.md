@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-19 grudnia 1916 roku dziesięć minut po szesnastej [David Lloyd George](/postacie/david-lloyd-george) wstał w zatłoczonej [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin), by po raz pierwszy jako premier przedstawić program swojego rządu. Wystąpienie zaplanowano na 12 grudnia, ale premier zachorował na gardło i przemawiał, jak sam zaznaczył na wstępie, jeszcze nie w pełni zdrów. Formalnie wnosił o drugie czytanie ustawy o wydatkach państwa (Consolidated Fund (Appropriation) Bill). Mówił blisko dwie godziny. Brytyjska chronologia wojny notuje pod tą datą dwie decyzje, które ogłosił: wprowadzenie powszechnej służby narodowej i zwołanie konferencji imperialnej z udziałem dominiów. Najwięcej uwagi w kraju i za granicą przyciągnęła jednak pierwsza część mowy, odpowiedź na [niemiecką ofertę pokojową](/niemiecka-oferta-pokojowa).
+19 grudnia 1916 roku dziesięć minut po szesnastej [David Lloyd George](/postacie/david-lloyd-george) wstał w zatłoczonej [Izbie Gmin](/slownik/izba-gmin), by po raz pierwszy jako premier przedstawić program swojego rządu. Wystąpienie zaplanowano na 12 grudnia, ale premier zachorował na gardło i przemawiał, jak sam zaznaczył na wstępie, jeszcze nie w pełni zdrów. Formalnie wnosił o drugie czytanie ustawy o wydatkach państwa (Consolidated Fund (Appropriation) Bill). Mówił blisko dwie godziny. Brytyjska chronologia wojny notuje pod tą datą dwie decyzje, które ogłosił: wprowadzenie powszechnej służby narodowej i zwołanie konferencji imperialnej z udziałem dominiów. Najwięcej uwagi w kraju i za granicą przyciągnęła jednak pierwsza część mowy, odpowiedź na [niemiecką ofertę pokojową](/niemiecka-oferta-pokojowa).
 
 ## „Głowa w pętli”
 

@@ -2,10 +2,10 @@
 title: Sinking of the hospital ship Anglia
 summary: On 17 November 1915 the hospital ship Anglia, carrying wounded from France, struck a mine laid by UC-5 off Folkestone. Between about 130 and over 160 died.
 source: zatoniecie-statku-szpitalnego-anglia
-sourceHash: 53c0feba69faef2c7335a6c461dafc2fde648351
+sourceHash: 8a58bc0ae554476e1bcb82a06f4d75a2537d4b4e
 ---
 
-On 17 November 1915, shortly after noon, the British [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) [Anglia](https://pl.wikipedia.org/wiki/HMHS_Anglia), carrying wounded soldiers from France to [Dover](https://pl.wikipedia.org/wiki/Dover), struck a mine in the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), about a mile east of Folkestone Gate, not far from [Folkestone](https://pl.wikipedia.org/wiki/Folkestone). The ship sank in about a quarter of an hour. Between about 130 and more than 160 people died, most of them wounded and sick soldiers. The mine had been laid by the German submarine minelayer [UC-5](https://pl.wikipedia.org/wiki/SM_UC-5).
+On 17 November 1915, shortly after noon, the British [hospital ship](/slownik/statek-szpitalny) [Anglia](https://pl.wikipedia.org/wiki/HMHS_Anglia), carrying wounded soldiers from France to [Dover](https://pl.wikipedia.org/wiki/Dover), struck a mine in the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), about a mile east of Folkestone Gate, not far from [Folkestone](https://pl.wikipedia.org/wiki/Folkestone). The ship sank in about a quarter of an hour. Between about 130 and more than 160 people died, most of them wounded and sick soldiers. The mine had been laid by the German submarine minelayer [UC-5](https://pl.wikipedia.org/wiki/SM_UC-5).
 
 Anglia was a fast passenger steamer, built in 1899–1900 at the Denny yard in Dumbarton, Scotland, for the London and North Western Railway. Before the war she sailed between [Holyhead](https://pl.wikipedia.org/wiki/Holyhead) in Wales and Ireland. In 1914 the Admiralty requisitioned her as an armed boarding steamer, and in 1915 she was converted into a hospital ship. Only two weeks earlier, on 1 November, she had carried across the Channel King [George V](/postacie/jerzy-v), who had fallen from his horse and been seriously injured while inspecting troops in France.
 

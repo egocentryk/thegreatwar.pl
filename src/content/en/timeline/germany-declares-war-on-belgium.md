@@ -2,7 +2,7 @@
 title: Germany declares war on Belgium
 summary: On 4 August 1914 Germany announced to Belgium that it would use force and entered its territory. The chancellor admitted he was breaking international law.
 source: niemcy-wypowiadaja-wojne-belgii
-sourceHash: 5123afe8d48846f4e5f606da9132c03d79d9d213
+sourceHash: c2d0c0a2938239c6684fbd2c98ad44d417503035
 brief:
   - "At 6 a.m. on 4 August 1914 the German minister in Brussels handed over a note announcing the use of force. It was not called a declaration of war, but two hours later German troops crossed the frontier."
   - "Neutral Belgium lay on the route of the main blow against France laid down in the Schlieffen Plan. Germany was itself a guarantor of its neutrality under the Treaty of London of 1839."
@@ -14,7 +14,7 @@ At 6 a.m. on 4 August 1914 the German minister in Brussels handed the Belgian fo
 
 ## War on a neutral state
 
-Belgium posed no threat to Germany and was not party to any alliance. Its only "fault" was that it lay on the route that the German [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) laid down for the main blow against France. Marching through Belgium made it possible to bypass the heavily fortified Franco-German frontier and come out in the rear of the French Army.
+Belgium posed no threat to Germany and was not party to any alliance. Its only "fault" was that it lay on the route that the German [Schlieffen Plan](/slownik/plan-schlieffena) laid down for the main blow against France. Marching through Belgium made it possible to bypass the heavily fortified Franco-German frontier and come out in the rear of the French Army.
 
 Germany was one of the guarantors of Belgian neutrality, laid down in the [Treaty of London of 1839](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)). The attack on Belgium therefore meant breaking an obligation Germany itself had accepted. On the day of the invasion Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) admitted this openly in the Reichstag. He said that Germany was in a state of necessary defence and that "necessity knows no law". He admitted that the entry into Belgium was contrary to international law and promised that Germany would make good the wrong done as soon as it had achieved its military aim.
 

@@ -2,10 +2,10 @@
 title: German airships over Brussels
 summary: Contemporary chronicles state that on the night of 4 August 1914 two German airships flew over Brussels. For the first time the war took to the air.
 source: niemieckie-sterowce-nad-bruksela
-sourceHash: 3c9fe1200dde8d9d75234077329803d105e25f1b
+sourceHash: 63cd2bcb20b29c16e1be4f8e50391bcad87a6a5c
 ---
 
-According to contemporary war chronicles, on the night of 4 August 1914 two German [airships](https://pl.wikipedia.org/wiki/Sterowiec) flew over [Brussels](https://pl.wikipedia.org/wiki/Bruksela). British lists of the events of the war recorded this as the first hostile act in the air. The details of this flight, however, cannot be confirmed in the sources available today, and reports from the first chaotic days of the war often repeated unverified rumours.
+According to contemporary war chronicles, on the night of 4 August 1914 two German [airships](/slownik/sterowiec) flew over [Brussels](https://pl.wikipedia.org/wiki/Bruksela). British lists of the events of the war recorded this as the first hostile act in the air. The details of this flight, however, cannot be confirmed in the sources available today, and reports from the first chaotic days of the war often repeated unverified rumours.
 
 What is certain is that Germany intended from the start of the war to use airships for military operations. In 1914 it had several military Zeppelin-type airships capable of flying at night and carrying a load of bombs. They were regarded as a formidable weapon: they could fly higher and further than the aeroplanes of the day, and many armies did not yet have effective anti-aircraft defences.
 

@@ -2,10 +2,10 @@
 title: Second Ostend raid
 summary: On the night of 9/10 May 1918 the British scuttled the old cruiser Vindictive in the entrance to Ostend harbour. The wreck blocked only part of the channel.
 source: drugi-rajd-na-ostende
-sourceHash: e85e7871b71db741e65c035a41faa330c356fbb3
+sourceHash: 8adb3804710fed13d7c921bf8fda38d9f5ddf870
 ---
 
-On the night of 9/10 May 1918 ships of the British Dover Patrol tried for a second time to close the exit from [Ostend](https://pl.wikipedia.org/wiki/Ostenda) to the Germans. It was one of the two ports through which submarines and torpedo boats from [Bruges](https://pl.wikipedia.org/wiki/Brugia) put to sea. This time the blockship was the old cruiser [*Vindictive*](https://pl.wikipedia.org/wiki/HMS_Vindictive_(1897)), which two and a half weeks earlier had come alongside the mole at Zeebrugge. In thick fog and under fire from German batteries the ship entered between the piers and was scuttled by her own crew, but she settled at an angle to the axis of the channel and closed only part of the passage. The British lost several dozen killed, wounded and missing, and three [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) were awarded for the night.
+On the night of 9/10 May 1918 ships of the British Dover Patrol tried for a second time to close the exit from [Ostend](https://pl.wikipedia.org/wiki/Ostenda) to the Germans. It was one of the two ports through which submarines and torpedo boats from [Bruges](https://pl.wikipedia.org/wiki/Brugia) put to sea. This time the blockship was the old cruiser [*Vindictive*](https://pl.wikipedia.org/wiki/HMS_Vindictive_(1897)), which two and a half weeks earlier had come alongside the mole at Zeebrugge. In thick fog and under fire from German batteries the ship entered between the piers and was scuttled by her own crew, but she settled at an angle to the axis of the channel and closed only part of the passage. The British lost several dozen killed, wounded and missing, and three [Victoria Crosses](/slownik/krzyz-wiktorii) were awarded for the night.
 
 ## A second attempt
 

@@ -43,7 +43,7 @@ Ostrzał zaczął się 19 lutego o 9.51. Przez cały dzień okręty strzelały d
 
 Potem na prawie tydzień zerwał się sztorm. Okręty wróciły 25 lutego. Bateria Helles trafiła siedem razy pancernik Agamemnon, zabijając trzech marynarzy, ale wspólnie z Queen Elizabeth unieszkodliwił oba działa tej baterii. Potem pancerniki podeszły blisko wejścia i ostrzelały forty z niewielkiej odległości. Po południu wszystkie cztery forty zamilkły, a Turcy wycofali się z nich. Trałowce zaczęły przeczesywać wejście do cieśniny.
 
-26 lutego i w kolejnych dniach na brzeg wychodziły oddziały marynarzy i piechoty morskiej, które wysadzały w powietrze opuszczone działa. Pod Kum Kale komandor podporucznik Eric Robinson samotnie dotarł z ładunkiem wybuchowym do baterii Orkanie i zniszczył jej ostatnie działo, za co otrzymał [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Opór jednak rósł. 4 marca dwie kompanie piechoty morskiej, które wylądowały pod Kum Kale i Sedd el Bahr, natrafiły na silny ogień i musiały wycofać się na okręty, tracąc kilkudziesięciu zabitych i rannych.
+26 lutego i w kolejnych dniach na brzeg wychodziły oddziały marynarzy i piechoty morskiej, które wysadzały w powietrze opuszczone działa. Pod Kum Kale komandor podporucznik Eric Robinson samotnie dotarł z ładunkiem wybuchowym do baterii Orkanie i zniszczył jej ostatnie działo, za co otrzymał [Krzyż Wiktorii](/slownik/krzyz-wiktorii). Opór jednak rósł. 4 marca dwie kompanie piechoty morskiej, które wylądowały pod Kum Kale i Sedd el Bahr, natrafiły na silny ogień i musiały wycofać się na okręty, tracąc kilkudziesięciu zabitych i rannych.
 
 ## Utknięcie przed minami
 

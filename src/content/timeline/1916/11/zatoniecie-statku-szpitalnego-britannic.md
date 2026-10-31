@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 21 listopada 1916 roku brytyjski [statek szpitalny](https://pl.wikipedia.org/wiki/Statek_szpitalny) [Britannic](https://pl.wikipedia.org/wiki/HMHS_Britannic) płynął pełną szybkością przez cieśninę między przylądkiem [Sunion](https://pl.wikipedia.org/wiki/Sunion) a wyspą [Kea](https://pl.wikipedia.org/wiki/Kiea) na [Morzu Egejskim](https://pl.wikipedia.org/wiki/Morze_Egejskie). O 8.12 pod jego dziobem eksplodowała mina. Niespełna godzinę później największy statek, jaki kiedykolwiek zbudowano w Irlandii, leżał na dnie. Na pokładzie było 1066 osób, ale rannych żołnierzy statek jeszcze nie wiózł, bo płynął dopiero po nich. Zginęło 30 ludzi, a Britannic stał się największym statkiem straconym w całej wojnie.
+Rankiem 21 listopada 1916 roku brytyjski [statek szpitalny](/slownik/statek-szpitalny) [Britannic](https://pl.wikipedia.org/wiki/HMHS_Britannic) płynął pełną szybkością przez cieśninę między przylądkiem [Sunion](https://pl.wikipedia.org/wiki/Sunion) a wyspą [Kea](https://pl.wikipedia.org/wiki/Kiea) na [Morzu Egejskim](https://pl.wikipedia.org/wiki/Morze_Egejskie). O 8.12 pod jego dziobem eksplodowała mina. Niespełna godzinę później największy statek, jaki kiedykolwiek zbudowano w Irlandii, leżał na dnie. Na pokładzie było 1066 osób, ale rannych żołnierzy statek jeszcze nie wiózł, bo płynął dopiero po nich. Zginęło 30 ludzi, a Britannic stał się największym statkiem straconym w całej wojnie.
 
 ## Siostra Titanica
 

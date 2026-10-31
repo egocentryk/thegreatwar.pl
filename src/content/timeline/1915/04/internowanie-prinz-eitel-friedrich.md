@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 kwietnia 1915 roku dowódca niemieckiego [krążownika pomocniczego](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Prinz Eitel Friedrich, komandor podporucznik Max Thierichens, zawiadomił władze amerykańskie, że jego okręt nie wyjdzie w morze i zostanie internowany. Od blisko miesiąca stał w porcie [Newport News](https://pl.wikipedia.org/wiki/Newport_News) w Wirginii, a poprzedniego dnia o północy upłynął wyznaczony mu termin. Źródła podają różne daty samego internowania, od 7 do 9 kwietnia. Tak zakończył się rajd, który zaczął się w sierpniu 1914 roku w Tsingtao.
+8 kwietnia 1915 roku dowódca niemieckiego [krążownika pomocniczego](/slownik/krazownik-pomocniczy) Prinz Eitel Friedrich, komandor podporucznik Max Thierichens, zawiadomił władze amerykańskie, że jego okręt nie wyjdzie w morze i zostanie internowany. Od blisko miesiąca stał w porcie [Newport News](https://pl.wikipedia.org/wiki/Newport_News) w Wirginii, a poprzedniego dnia o północy upłynął wyznaczony mu termin. Źródła podają różne daty samego internowania, od 7 do 9 kwietnia. Tak zakończył się rajd, który zaczął się w sierpniu 1914 roku w Tsingtao.
 
 ## Siedem miesięcy na morzu
 

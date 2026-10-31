@@ -2,10 +2,10 @@
 title: Sinking of the hospital ship Portugal
 summary: On 30 March 1916 the German U-33 torpedoed the Russian hospital ship Portugal in the Black Sea off Rize. Between 85 and 115 people died, including nurses.
 source: zatopienie-statku-szpitalnego-portugal
-sourceHash: c6b87b7fed30c9f9b7add7252dec6bbde3bc5816
+sourceHash: 6ac46fe09da50970e864ec779f54d3c0368c2204
 ---
 
-On 30 March 1916 (17 March by the Julian calendar, then in use in Russia) the German submarine [U-33](https://pl.wikipedia.org/wiki/SM_U-33) torpedoed the Russian [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) *Portugal* in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne), off the Anatolian coast near [Rize](https://pl.wikipedia.org/wiki/Rize). The ship broke in two and sank within one or two minutes. There were no wounded on board, but there were Red Cross doctors, nursing sisters and orderlies, as well as a Franco-Russian crew. The number of victims varies in the sources: the Russian commission of inquiry counted 85 dead, while the New York press of April 1916 and French sources give 115 dead out of 273 people on board.
+On 30 March 1916 (17 March by the Julian calendar, then in use in Russia) the German submarine [U-33](https://pl.wikipedia.org/wiki/SM_U-33) torpedoed the Russian [hospital ship](/slownik/statek-szpitalny) *Portugal* in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne), off the Anatolian coast near [Rize](https://pl.wikipedia.org/wiki/Rize). The ship broke in two and sank within one or two minutes. There were no wounded on board, but there were Red Cross doctors, nursing sisters and orderlies, as well as a Franco-Russian crew. The number of victims varies in the sources: the Russian commission of inquiry counted 85 dead, while the New York press of April 1916 and French sources give 115 dead out of 273 people on board.
 
 ## A French liner in Russian service
 

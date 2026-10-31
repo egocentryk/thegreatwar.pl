@@ -29,7 +29,7 @@ Ofensywa Brusiłowa była największym zwycięstwem armii rosyjskiej w I wojnie 
 
 Współcześni Rosjanie mówili o „przełamaniu łuckim” (Łuckij proryw), od miasta, pod którym armia odniosła największy sukces. Nazwa „przełamanie Brusiłowa” (Brusiłowskij proryw) upowszechniła się później w historiografii radzieckiej. W literaturze niemieckiej i austriackiej mówi się o ofensywie Brusiłowa (Brussilow-Offensive), a pierwsze dni walk opisuje się jako bitwy pod [Ołyką](https://pl.wikipedia.org/wiki/Ołyka) i Łuckiem, pod Okną i pod [Jazłowcem](https://pl.wikipedia.org/wiki/Jazłowiec).
 
-Rosja posługiwała się wtedy [kalendarzem juliańskim](https://pl.wikipedia.org/wiki/Kalendarz_juliański), opóźnionym o 13 dni. Według rosyjskich dokumentów ofensywa zaczęła się więc 22 maja, a nie 4 czerwca. Na tej stronie wszystkie daty podajemy według kalendarza gregoriańskiego.
+Rosja posługiwała się wtedy [kalendarzem juliańskim](/slownik/kalendarz-julianski), opóźnionym o 13 dni. Według rosyjskich dokumentów ofensywa zaczęła się więc 22 maja, a nie 4 czerwca. Na tej stronie wszystkie daty podajemy według kalendarza gregoriańskiego.
 
 Początek nie budzi wątpliwości, gorzej z końcem. Brytyjska chronologia wojny, na której opiera się nasza oś czasu, kończy „ofensywę Brusiłowa” w przybliżeniu 17 sierpnia 1916 roku, gdy załamały się natarcia na Kowel. Historiografia rosyjska i radziecka przyjmuje zwykle datę 20 września (7 września według kalendarza juliańskiego), po nieudanym natarciu na Kowel od południa. Austriacka historia oficjalna opisuje jeszcze jesienne natarcia Brusiłowa, z których ostatnie wygasło w połowie października. Na tej stronie przyjmujemy daty 4 czerwca – 20 września 1916 roku, a późniejsze walki traktujemy jako jej epilog.
 

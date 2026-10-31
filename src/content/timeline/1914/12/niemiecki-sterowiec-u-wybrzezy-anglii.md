@@ -17,7 +17,7 @@ brief:
   - "Sterowiec nie zrzucił żadnej bomby, ale był zapowiedzią nalotów. W styczniu 1915 roku sterowce marynarki po raz pierwszy zbombardowały Anglię."
 ---
 
-Po południu 15 grudnia 1914 roku w pobliżu ujścia [Humbera](https://pl.wikipedia.org/wiki/Humber), na wschodnim wybrzeżu Anglii, zauważono niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec). Brytyjskie zestawienia wydarzeń wojny odnotowały ten dzień jako pierwsze pojawienie się nieprzyjacielskiego statku powietrznego w pobliżu Wysp Brytyjskich. Od początku wojny do władz napływały liczne meldunki o tajemniczych sterowcach nad Anglią, ale tylko ten jeden udało się potwierdzić. Nie wiadomo jednak dokładnie, który sterowiec to był ani jakie miał zadanie.
+Po południu 15 grudnia 1914 roku w pobliżu ujścia [Humbera](https://pl.wikipedia.org/wiki/Humber), na wschodnim wybrzeżu Anglii, zauważono niemiecki [sterowiec](/slownik/sterowiec). Brytyjskie zestawienia wydarzeń wojny odnotowały ten dzień jako pierwsze pojawienie się nieprzyjacielskiego statku powietrznego w pobliżu Wysp Brytyjskich. Od początku wojny do władz napływały liczne meldunki o tajemniczych sterowcach nad Anglią, ale tylko ten jeden udało się potwierdzić. Nie wiadomo jednak dokładnie, który sterowiec to był ani jakie miał zadanie.
 
 ## Strach przed zeppelinami
 

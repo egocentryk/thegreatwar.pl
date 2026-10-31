@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-21 lutego 1918 roku w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) kapitan Carr-Gomm zapytał premiera, jakie obowiązki i uprawnienia ma Ministerstwo Informacji i co łączy je z „ministrami propagandy”. W imieniu rządu odpowiedział lider Izby, kanclerz skarbu [Andrew Bonar Law](/postacie/andrew-bonar-law). Ministerstwo Informacji i ministerstwo propagandy to, jak wyjaśnił, jedno i to samo, a minister jest jeden: kanclerz Księstwa Lancaster. Chwilę później, odpowiadając na kolejne pytanie, przedstawił nową organizację urzędu i nazwiska ludzi, którzy mieli nim kierować. Dlatego część kronik wojny podaje ten dzień jako datę powstania Ministerstwa Informacji, choć minister objął urząd już 10 lutego, a pełnię kompetencji resort przejął dopiero w marcu.
+21 lutego 1918 roku w [Izbie Gmin](/slownik/izba-gmin) kapitan Carr-Gomm zapytał premiera, jakie obowiązki i uprawnienia ma Ministerstwo Informacji i co łączy je z „ministrami propagandy”. W imieniu rządu odpowiedział lider Izby, kanclerz skarbu [Andrew Bonar Law](/postacie/andrew-bonar-law). Ministerstwo Informacji i ministerstwo propagandy to, jak wyjaśnił, jedno i to samo, a minister jest jeden: kanclerz Księstwa Lancaster. Chwilę później, odpowiadając na kolejne pytanie, przedstawił nową organizację urzędu i nazwiska ludzi, którzy mieli nim kierować. Dlatego część kronik wojny podaje ten dzień jako datę powstania Ministerstwa Informacji, choć minister objął urząd już 10 lutego, a pełnię kompetencji resort przejął dopiero w marcu.
 
 ## Od Wellington House do ministerstwa
 

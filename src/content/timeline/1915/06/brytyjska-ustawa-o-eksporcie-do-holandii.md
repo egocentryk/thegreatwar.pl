@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-24 czerwca 1915 roku sankcję królewską otrzymała brytyjska ustawa o ograniczeniu wywozu, Customs (Exportation Restriction) Act 1915. Pozwalała ona rządowi zakazać wysyłania towarów do danego kraju inaczej niż na adres jednego, wskazanego odbiorcy. Rząd od początku zapowiadał, że chodzi o neutralną [Holandię](https://pl.wikipedia.org/wiki/Holandia), a odbiorcą będzie [Holenderski Zamorski Trust](/powstaje-holenderski-trust-zamorski) (NOT). Brytyjska chronologia wojny notuje uchwalenie ustawy już pod 3 czerwca, ale według zapisów parlamentarnych projekt wniesiono do [Izby Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) dopiero 21 czerwca, a cały proces ustawodawczy zamknął się w ciągu czterech dni.
+24 czerwca 1915 roku sankcję królewską otrzymała brytyjska ustawa o ograniczeniu wywozu, Customs (Exportation Restriction) Act 1915. Pozwalała ona rządowi zakazać wysyłania towarów do danego kraju inaczej niż na adres jednego, wskazanego odbiorcy. Rząd od początku zapowiadał, że chodzi o neutralną [Holandię](https://pl.wikipedia.org/wiki/Holandia), a odbiorcą będzie [Holenderski Zamorski Trust](/powstaje-holenderski-trust-zamorski) (NOT). Brytyjska chronologia wojny notuje uchwalenie ustawy już pod 3 czerwca, ale według zapisów parlamentarnych projekt wniesiono do [Izby Gmin](/slownik/izba-gmin) dopiero 21 czerwca, a cały proces ustawodawczy zamknął się w ciągu czterech dni.
 
 ## Dziura w systemie licencji
 

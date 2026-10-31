@@ -15,7 +15,7 @@ Na początku sierpnia 1914 roku z Tsingtao, dzisiejszego [Qingdao](https://pl.wi
 
 ## Liniowiec z działami
 
-Prinz Eitel Friedrich był statkiem pasażerskim towarzystwa [Norddeutscher Lloyd](https://pl.wikipedia.org/wiki/Norddeutscher_Lloyd), obsługującym linie na Dalekim Wschodzie. Wybuch wojny zastał go w Tsingtao. Niemiecka marynarka szybko przebudowała go na [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy), montując działa zdjęte z przestarzałych kanonierek stacjonujących w porcie. Załogę uzupełnili marynarze tych okrętów.
+Prinz Eitel Friedrich był statkiem pasażerskim towarzystwa [Norddeutscher Lloyd](https://pl.wikipedia.org/wiki/Norddeutscher_Lloyd), obsługującym linie na Dalekim Wschodzie. Wybuch wojny zastał go w Tsingtao. Niemiecka marynarka szybko przebudowała go na [krążownik pomocniczy](/slownik/krazownik-pomocniczy), montując działa zdjęte z przestarzałych kanonierek stacjonujących w porcie. Załogę uzupełnili marynarze tych okrętów.
 
 ## Rejs przez dwa oceany
 

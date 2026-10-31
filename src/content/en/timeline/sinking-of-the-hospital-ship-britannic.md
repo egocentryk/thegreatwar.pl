@@ -2,10 +2,10 @@
 title: Sinking of the hospital ship Britannic
 summary: On 21 November 1916 the hospital ship Britannic, sister ship of the Titanic, struck a mine off Kea and sank in 55 minutes. Thirty people died.
 source: zatoniecie-statku-szpitalnego-britannic
-sourceHash: c3b14c214278df3ed3bc854f0913f673bca948f9
+sourceHash: 62779b6a1fce381095366fd9af61de91156d649a
 ---
 
-On the morning of 21 November 1916 the British [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) [*Britannic*](https://pl.wikipedia.org/wiki/HMHS_Britannic) was steaming at full speed through the strait between Cape [Sounion](https://pl.wikipedia.org/wiki/Sunion) and the island of [Kea](https://pl.wikipedia.org/wiki/Kiea) in the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie). At 8.12 a.m. a mine exploded under her bow. Less than an hour later the largest ship ever built in Ireland lay on the bottom. There were 1,066 people on board, but the ship was not yet carrying any wounded soldiers, as she was only on her way to collect them. Thirty people died, and the *Britannic* became the largest ship lost in the whole war.
+On the morning of 21 November 1916 the British [hospital ship](/slownik/statek-szpitalny) [*Britannic*](https://pl.wikipedia.org/wiki/HMHS_Britannic) was steaming at full speed through the strait between Cape [Sounion](https://pl.wikipedia.org/wiki/Sunion) and the island of [Kea](https://pl.wikipedia.org/wiki/Kiea) in the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie). At 8.12 a.m. a mine exploded under her bow. Less than an hour later the largest ship ever built in Ireland lay on the bottom. There were 1,066 people on board, but the ship was not yet carrying any wounded soldiers, as she was only on her way to collect them. Thirty people died, and the *Britannic* became the largest ship lost in the whole war.
 
 ## The Titanic's sister
 

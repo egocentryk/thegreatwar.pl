@@ -2,7 +2,7 @@
 title: Tsar orders general mobilisation of the Russian army
 summary: On the afternoon of 30 July 1914 Nicholas II, persuaded by Sazonov, agreed to general mobilisation. Its first day was 31 July.
 source: car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej
-sourceHash: 6370876ad5ed84dfab16690ae63e641b7d65f734
+sourceHash: 1af7047e30e7e035a66ae8fe40f2e3efe804503a
 ---
 
 On the afternoon of 30 July 1914 Tsar [Nicholas II](/postacie/mikolaj-ii) agreed to a general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the [Russian army](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego). Only a day earlier he had halted the same decision at the last moment, confining himself to a partial mobilisation against Austria-Hungary. This time he did not change his mind.
@@ -19,6 +19,6 @@ Sazonov immediately telephoned the decision to the Chief of the General Staff, [
 
 ## A step that could not be undone
 
-The general mobilisation of [Russia](/kraje/rosja) was a decision of fundamental importance. The German [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) assumed that in a two-front war Germany must first defeat France quickly, before Russia could mobilise its enormous forces. From the point of view of the German General Staff, every day of Russian mobilisation shortened the time available to carry out this plan.
+The general mobilisation of [Russia](/kraje/rosja) was a decision of fundamental importance. The German [Schlieffen Plan](/slownik/plan-schlieffena) assumed that in a two-front war Germany must first defeat France quickly, before Russia could mobilise its enormous forces. From the point of view of the German General Staff, every day of Russian mobilisation shortened the time available to carry out this plan.
 
 Berlin's reaction was swift. On 31 July Germany proclaimed a state of imminent danger of war and sent Russia an ultimatum demanding that mobilisation be halted. When St Petersburg did not accept it, Germany declared war on Russia on 1 August. The decision taken at Peterhof on 30 July settled that the conflict would cease to be a war in the Balkans and become a war of the great powers.

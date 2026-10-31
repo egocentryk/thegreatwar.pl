@@ -19,7 +19,7 @@ Abercorn leżało na płaskowyżu, kilkadziesiąt kilometrów od południowego k
 
 ## Najazd
 
-Siły niemieckie liczyły ponad 300 ludzi: kilku oficerów, kilkudziesięciu [askarysów](https://pl.wikipedia.org/wiki/Askarysi), a przede wszystkim nieregularnych wojowników ruga-ruga i uzbrojonych tragarzy. Najeźdźcy spalili budynki administracji i sklepy kompanii handlowej w przygranicznych osadach i wielokrotnie przecinali linię telegraficzną łączącą Abercorn z położonym dalej na wschód Fife.
+Siły niemieckie liczyły ponad 300 ludzi: kilku oficerów, kilkudziesięciu [askarysów](/slownik/askarysi), a przede wszystkim nieregularnych wojowników ruga-ruga i uzbrojonych tragarzy. Najeźdźcy spalili budynki administracji i sklepy kompanii handlowej w przygranicznych osadach i wielokrotnie przecinali linię telegraficzną łączącą Abercorn z położonym dalej na wschód Fife.
 
 Obrońcy Abercorn byli wielokrotnie słabsi, ale utrzymali swoje pozycje. Tymczasem z głębi kolonii ciągnęła odsiecz: ponad stu żołnierzy Policji Rodezji Północnej pod dowództwem majora Henry'ego Stennetta. Dotarła do Abercorn 9 września, w dniu kolejnego niemieckiego ataku. Wzmocniona załoga, licząca teraz około 230 ludzi z trzema karabinami maszynowymi, odparła napastników, a następnego dnia Niemcy wycofali się za granicę, ścigani przez oddział McCarthy'ego.
 

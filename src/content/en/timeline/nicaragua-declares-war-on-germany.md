@@ -2,7 +2,7 @@
 title: Nicaragua declares war on Germany
 summary: On 8 May 1918 Nicaragua announced that Congress had declared war on Germany and Austria-Hungary. President Chamorro openly sided with the United States.
 source: nikaragua-wypowiada-wojne-niemcom
-sourceHash: ff99067345f7d3b365cc5b9626b0e0b1fe37ee21
+sourceHash: 3dcc9c3212c86d390952c6c51b24f1d88370742c
 brief:
   - "On 8 May 1918 the Foreign Minister of Nicaragua informed the United States legation that Congress had passed a decree declaring a state of war with Germany and Austria-Hungary and introducing martial law."
   - "According to Current History, Congress adopted the declaration of war on 7 May, at the request of President Emiliano Chamorro, with only four votes against. Most lists give the date of 8 May."
@@ -35,4 +35,4 @@ Washington received Managua's decision with evident satisfaction. On 25 May Secr
 
 Nicaragua had neither an army capable of fighting in Europe nor a navy. It sent no soldiers to the front, and its part in the war was above all of political significance. The decree gave the government broad powers, and the country's ports and waters, which Chamorro had already offered to the Americans for the duration of the war in 1917, lay on the approaches to the [Panama Canal](https://pl.wikipedia.org/wiki/Kanał_Panamski). In Latin America war on Germany had earlier been declared by [Cuba and Panama](/kuba-i-panama-wypowiadaja-wojne-niemcom), [Brazil](/brazylia-wypowiada-wojne-niemcom) and Guatemala. After Nicaragua, Costa Rica, [Haiti](https://pl.wikipedia.org/wiki/Haiti) and [Honduras](https://pl.wikipedia.org/wiki/Honduras) did so later the same year. [El Salvador](https://pl.wikipedia.org/wiki/Salwador) remained neutral.
 
-Taking part in the war secured Nicaragua a place among the victors. Its representative signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) in June 1919, and with it the Covenant of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów), to which Nicaragua belonged until the second half of the 1930s. Chamorro governed until 1 January 1921, and his successor was his uncle, [Diego Manuel Chamorro Bolaños](https://pl.wikipedia.org/wiki/Diego_Manuel_Chamorro_Bolaños). The American Marines remained in Managua until 1925.
+Taking part in the war secured Nicaragua a place among the victors. Its representative signed the [Treaty of Versailles](/slownik/traktat-wersalski) in June 1919, and with it the Covenant of the [League of Nations](/slownik/liga-narodow), to which Nicaragua belonged until the second half of the 1930s. Chamorro governed until 1 January 1921, and his successor was his uncle, [Diego Manuel Chamorro Bolaños](https://pl.wikipedia.org/wiki/Diego_Manuel_Chamorro_Bolaños). The American Marines remained in Managua until 1925.

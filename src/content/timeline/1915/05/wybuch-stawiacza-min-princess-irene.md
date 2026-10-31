@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Kwadrans po jedenastej przed południem 27 maja 1915 roku w ujściu rzeki [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), kilka kilometrów na zachód od [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), wyleciał w powietrze brytyjski pomocniczy [stawiacz min](https://pl.wikipedia.org/wiki/Stawiacz_min) Princess Irene. Okręt, na którego pokładzie przygotowywano do akcji kilkaset [min](https://pl.wikipedia.org/wiki/Mina_morska), dosłownie rozpadł się na kawałki. Zginęło około 350 ludzi: niemal cała załoga i kilkudziesięciu cywilnych robotników stoczni marynarki wojennej. Było to zaledwie pół roku po tym, jak na tej samej rzece [eksplodował pancernik Bulwark](/eksplozja-pancernika-bulwark).
+Kwadrans po jedenastej przed południem 27 maja 1915 roku w ujściu rzeki [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), kilka kilometrów na zachód od [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), wyleciał w powietrze brytyjski pomocniczy [stawiacz min](https://pl.wikipedia.org/wiki/Stawiacz_min) Princess Irene. Okręt, na którego pokładzie przygotowywano do akcji kilkaset [min](/slownik/mina-morska), dosłownie rozpadł się na kawałki. Zginęło około 350 ludzi: niemal cała załoga i kilkudziesięciu cywilnych robotników stoczni marynarki wojennej. Było to zaledwie pół roku po tym, jak na tej samej rzece [eksplodował pancernik Bulwark](/eksplozja-pancernika-bulwark).
 
 ## Statek pasażerski na wojnie
 

@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Ludwigsburg (Württemberg)
 deathPlace: Potsdam-Bornstedt
 source: wilhelm-groener
-sourceHash: b8c3289d063af25360829dc1dcc7e35c39844435
+sourceHash: 26e2fc41401a313e380e8bbb3663571bff7d92e0
 ---
 
 Wilhelm Groener was one of the most able organisers of the Imperial Army and one of the few of its generals who understood that wars are fought not only by armies but by whole societies. In 1914 his railwaymen carried millions of soldiers to the frontiers. In 1916–1917 he directed the entire German war economy, and in 1918 the German occupation of Ukraine. In the last weeks of the war he replaced General Erich Ludendorff, and it was he who on 9 November 1918 told Wilhelm II that the army no longer stood behind him. A day later he made an agreement with Friedrich Ebert under which the army recognised the revolutionary government and the government relied on the army. The monarchists never forgave him for it, and the left still sees the pact as the original sin of the Weimar Republic.
@@ -45,7 +45,7 @@ On the evening of 10 November Groener telephoned [Friedrich Ebert](/postacie/fri
 
 ## After the war
 
-In June 1919, when the government asked whether the army could defend itself if the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) were rejected, Groener judged resistance hopeless. Hindenburg agreed with him but left it to Groener to pass the message on to the politicians, which in the eyes of the right made Groener the guilty one. In September 1919 he left the army. In 1920–1923 he was Minister of Transport and rebuilt the railways, and in 1928–1932 Minister of the Reichswehr, from 1931 also of the Interior. In April 1932 he banned the Nazi SA and SS. His former protégé, General [Kurt von Schleicher](https://pl.wikipedia.org/wiki/Kurt_von_Schleicher), then brought about his dismissal. He died in Potsdam on 3 May 1939. The Wehrmacht command forbade officers to attend his funeral.
+In June 1919, when the government asked whether the army could defend itself if the [Treaty of Versailles](/slownik/traktat-wersalski) were rejected, Groener judged resistance hopeless. Hindenburg agreed with him but left it to Groener to pass the message on to the politicians, which in the eyes of the right made Groener the guilty one. In September 1919 he left the army. In 1920–1923 he was Minister of Transport and rebuilt the railways, and in 1928–1932 Minister of the Reichswehr, from 1931 also of the Interior. In April 1932 he banned the Nazi SA and SS. His former protégé, General [Kurt von Schleicher](https://pl.wikipedia.org/wiki/Kurt_von_Schleicher), then brought about his dismissal. He died in Potsdam on 3 May 1939. The Wehrmacht command forbade officers to attend his funeral.
 
 ## Assessment
 

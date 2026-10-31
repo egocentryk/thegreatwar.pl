@@ -2,7 +2,7 @@
 title: Germans destroy Leuven
 summary: On the night of 25–26 August 1914 the Germans set fire to the Belgian city of Leuven and its famous university library. About 250 civilians were killed.
 source: niemcy-niszcza-lowanium
-sourceHash: 1857cdd474b63e4038192b717e33bd6d8a9897d3
+sourceHash: e2790b16cc15c98f7d6007c7cc570d212517b1ad
 ---
 
 On the night of 25–26 August 1914 German soldiers began burning and looting [Leuven](https://pl.wikipedia.org/wiki/Leuven) (French: Louvain), a Belgian university city lying some fifteen kilometres east of Brussels. Over the following days they killed inhabitants, plundered houses and drove out the population. The library of the [Catholic University of Leuven](https://pl.wikipedia.org/wiki/Katolicki_Uniwersytet_w_Lowanium), one of the most valuable collections of books in Europe, was burned. The British chronology of the war places the destruction of the city under 26 August, although the fires and killings had begun the previous evening and went on for several more days.
@@ -43,6 +43,6 @@ For Polish readers the destruction of Leuven may recall the fate of [Kalisz](htt
 
 ## Rebuilding the library
 
-The university resumed its work in 1919. The [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) obliged Germany to hand over to Leuven manuscripts, incunabula, books and maps equal in number and value to those that had been burned. The collection was also rebuilt thanks to gifts from all over the world.
+The university resumed its work in 1919. The [Treaty of Versailles](/slownik/traktat-wersalski) obliged Germany to hand over to Leuven manuscripts, incunabula, books and maps equal in number and value to those that had been burned. The collection was also rebuilt thanks to gifts from all over the world.
 
 The new library building was made possible by the Americans. The fund-raising was run by a special committee, and a huge role was played by [Herbert Hoover](https://pl.wikipedia.org/wiki/Herbert_Hoover), who during the war organised food relief for occupied Belgium and later became President of the United States. American universities and schools sent donations. The building, in the Flemish Renaissance style, was designed by the American architect Whitney Warren. Construction lasted from 1921 to 1928, and the formal opening took place on 4 July 1928, on United States Independence Day. History came full circle, however: in May 1940, during another German invasion, the library at Leuven burned again.

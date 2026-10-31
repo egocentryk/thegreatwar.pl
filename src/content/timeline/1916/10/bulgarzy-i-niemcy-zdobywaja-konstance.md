@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 października 1916 roku około południa do [Konstancy](https://pl.wikipedia.org/wiki/Konstanca), głównego portu Rumunii nad Morzem Czarnym, weszły kolumny piechoty niemieckiej i bułgarskiej oraz bułgarska kawaleria. Miasto było puste. Wojska rumuńskie i rosyjskie wycofały się z niego poprzedniej nocy, a nad portem unosił się dym. Od wejścia Rumunii do wojny minęło niespełna osiem tygodni. W Rumunii, która używała jeszcze [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 9 października.
+22 października 1916 roku około południa do [Konstancy](https://pl.wikipedia.org/wiki/Konstanca), głównego portu Rumunii nad Morzem Czarnym, weszły kolumny piechoty niemieckiej i bułgarskiej oraz bułgarska kawaleria. Miasto było puste. Wojska rumuńskie i rosyjskie wycofały się z niego poprzedniej nocy, a nad portem unosił się dym. Od wejścia Rumunii do wojny minęło niespełna osiem tygodni. W Rumunii, która używała jeszcze [kalendarza juliańskiego](/slownik/kalendarz-julianski), był to 9 października.
 
 ## Druga ofensywa Mackensena
 

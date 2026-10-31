@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Midhurst (England)
 source: ivor-maxse
-sourceHash: fe6f4466b2c9e674468c190af7b5fc98a3d79857
+sourceHash: d8008a7b78ea5de541e5aa954aa6bef9c1c077d1
 ---
 
 Sir Ivor Maxse was one of those British generals who best understood what trench warfare demanded. He was not a great strategist or an army commander, but a teacher. From volunteers of Kitchener's New Armies he built the 18th Division, one of the best in the British Army, which on 1 July 1916 took all its objectives and in September captured Thiepval, considered an impregnable fortress. He then commanded a corps at Ypres and during the German offensive in the spring of 1918, and in the last months of the war, as Inspector-General of Training, he standardised the fighting methods of the army that defeated the Germans in the autumn. He was a fiery and demanding man who struck fear into lazy officers, yet he was open to new ideas and warm towards those who were not afraid of him.
@@ -47,7 +47,7 @@ He was implacable towards the Germans. During the armistice talks he wrote that 
 
 ## After the war
 
-In 1919 he commanded IX Corps in the Army of the Rhine, and from 1919 to 1923 Northern Command in England. In 1923 he was promoted to general, and in 1926 he retired. He caused controversy by saying at a reception that he preferred a league of tanks to the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów). In retirement in Sussex he set up a fruit-growing business. He died on 28 January 1958 in a nursing home near Midhurst.
+In 1919 he commanded IX Corps in the Army of the Rhine, and from 1919 to 1923 Northern Command in England. In 1923 he was promoted to general, and in 1926 he retired. He caused controversy by saying at a reception that he preferred a league of tanks to the [League of Nations](/slownik/liga-narodow). In retirement in Sussex he set up a fruit-growing business. He died on 28 January 1958 in a nursing home near Midhurst.
 
 ## Assessment
 

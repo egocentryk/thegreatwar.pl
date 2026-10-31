@@ -9,10 +9,10 @@ sides:
     commanders: [Reinhard Scheer, Friedrich Bödicker]
 result: Inconclusive. The Germans shelled Lowestoft and badly damaged the cruiser Conquest, but destroyed no part of the British fleet, and the battlecruiser Seydlitz struck a mine.
 source: atak-na-lowestoft-i-yarmouth
-sourceHash: d1f8f6c0417c36978afd466a05dfdfb205f80665
+sourceHash: 64c5c227dd4e572d4d179f461973f14b89b2d9a4
 ---
 
-The [attack on Lowestoft and Yarmouth](https://pl.wikipedia.org/wiki/Bombardowanie_Yarmouth_i_Lowestoft) was the first sortie by German [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) against the English coast in more than a year. On 24 April 1916 the entire German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) put to sea. During the night German [airships](https://pl.wikipedia.org/wiki/Sterowiec) circled over eastern England, and at dawn on 25 April four battlecruisers under Rear-Admiral Friedrich Bödicker shelled the port of [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft) for over ten minutes and fired a few salvoes towards [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). Commodore [Reginald Tyrwhitt's](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt) light forces from Harwich rushed to meet the raiders and lost several dozen men, but the Germans withdrew before the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) could arrive from the north. The raid coincided with the outbreak of the rising in Ireland.
+The [attack on Lowestoft and Yarmouth](https://pl.wikipedia.org/wiki/Bombardowanie_Yarmouth_i_Lowestoft) was the first sortie by German [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) against the English coast in more than a year. On 24 April 1916 the entire German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) put to sea. During the night German [airships](/slownik/sterowiec) circled over eastern England, and at dawn on 25 April four battlecruisers under Rear-Admiral Friedrich Bödicker shelled the port of [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft) for over ten minutes and fired a few salvoes towards [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). Commodore [Reginald Tyrwhitt's](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt) light forces from Harwich rushed to meet the raiders and lost several dozen men, but the Germans withdrew before the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) could arrive from the north. The raid coincided with the outbreak of the rising in Ireland.
 
 ## Name and dates
 

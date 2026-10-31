@@ -2,7 +2,7 @@
 title: Battle of Pozières Ridge begins
 summary: On the night of 23 July 1916 the 1st Australian Division took most of Pozières on the Somme, the only success of the great British attack that night.
 source: poczatek-bitwy-o-grzbiet-pozieres
-sourceHash: 7d8f8bd41d5505dc6ad4e46bd8151259bbb12208
+sourceHash: 8f5b5c61c3162772469f69cf97510034bce3a2ca
 brief:
   - "On the night of 23 July 1916, half an hour after midnight, the 1st Australian Division attacked the heavily fortified village of Pozières on the ridge beside the Albert–Bapaume road and took it within two hours."
   - "The British had several times attacked Pozières without success, so Douglas Haig handed the task to General Hubert Gough's Reserve Army, which sent in the 1st Australian Division."
@@ -43,7 +43,7 @@ On the right flank two battalions of the 3rd Brigade that were to support the at
 
 ## The fight in the O.G. Lines
 
-Only on the extreme right flank, where the attack went along the two trenches of the O.G. Lines, did the Germans put up strong resistance. The first trench was in tatters. The second, turned by the bombardment into a "tumbled sea of earthen waves", could not be found at all in the dark. In the first, the attack was halted by two machine guns and German grenades, which were thrown further than the Australian ones. Private John Leak of the 9th Battalion then jumped out of the trench without orders, threw three grenades into the German post and leapt in after them. His commander found him a moment later wiping the blood off his bayonet with his hat. It was 12.59 a.m. Leak received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for this deed.
+Only on the extreme right flank, where the attack went along the two trenches of the O.G. Lines, did the Germans put up strong resistance. The first trench was in tatters. The second, turned by the bombardment into a "tumbled sea of earthen waves", could not be found at all in the dark. In the first, the attack was halted by two machine guns and German grenades, which were thrown further than the Australian ones. Private John Leak of the 9th Battalion then jumped out of the trench without orders, threw three grenades into the German post and leapt in after them. His commander found him a moment later wiping the blood off his bayonet with his hat. It was 12.59 a.m. Leak received the [Victoria Cross](/slownik/krzyz-wiktorii) for this deed.
 
 Further north, along the O.G. trenches, the attack stalled. Second Lieutenant Arthur Blackburn of the 10th Battalion led eight successive attacks on the German posts, supported by mortars and howitzers, and advanced step by step, but of his roughly 70 men nearly 40 were killed or wounded. Bean writes that his persistence saved the situation in the O.G. Lines. Blackburn too received the Victoria Cross. Here the attack stopped about 550 metres short of its objective, and the gap between this sector and the village was closed by the bent-back flank of the 12th Battalion.
 

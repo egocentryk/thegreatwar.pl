@@ -11,7 +11,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Hermann von Stein]
 result: Partial Allied success. In the north Pilckem Ridge and the Steenbeek line were taken, but on the Gheluvelt plateau the attack stalled, and German counter-attacks retook part of the gains in the centre.
 source: bitwa-o-grzbiet-pilckem
-sourceHash: 5593f60b9fd95b42767082fdf12b58873f43ab04
+sourceHash: 95c24ac95bfd023f21a8c9ead539991793b46213
 brief:
   - "The Battle of Pilckem Ridge was the opening attack of the Third Battle of Ypres. At 3.50 a.m. on 31 July 1917 nine divisions of General Hubert Gough's Fifth Army went forward, covered by the Second Army and the French."
   - "Gough set very deep objectives for the first day, despite warnings that this would disperse the artillery. The key to the battlefield was the Gheluvelt plateau, where the Germans had concentrated the most guns."
@@ -54,7 +54,7 @@ On the southern flank, in the Second Army, the New Zealand Division took La Bass
 
 **1–2 August.** In the downpour both sides tried to improve their positions. On 1 August the Germans pushed the 8th Division back somewhat south of the railway to Roeselare, but in the evening it recovered the ground. On 2 August their attacks on the XIX Corps sector at the Pommern Redoubt were repulsed. North of Ypres the British reoccupied Sint-Juliaan and pushed posts across the Steenbeek. Gough planned to resume the attack on the plateau quickly, but mud and rain forced him to keep postponing it until 10 August, and the second great attack did not begin until 16 August.
 
-Among the wounded of those days was the medical officer of the Liverpool Scottish battalion of the 55th Division, Captain [Noel Chavasse](https://pl.wikipedia.org/wiki/Noel_Chavasse). Despite his wounds he tended soldiers near Wieltje for two days. He died on 4 August, and for those days he was posthumously awarded a second [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). He is one of only three men in history to have received it twice.
+Among the wounded of those days was the medical officer of the Liverpool Scottish battalion of the 55th Division, Captain [Noel Chavasse](https://pl.wikipedia.org/wiki/Noel_Chavasse). Despite his wounds he tended soldiers near Wieltje for two days. He died on 4 August, and for those days he was posthumously awarded a second [Victoria Cross](/slownik/krzyz-wiktorii). He is one of only three men in history to have received it twice.
 
 ## Casualties
 

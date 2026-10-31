@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 lutego 1916 roku alianci znieśli [blokadę morską](https://pl.wikipedia.org/wiki/Blokada_morska) wybrzeża [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Według brytyjskiej oficjalnej historii wojny na morzu (Newbolt, *Naval Operations*) zrobił to tego dnia francuski komandor Carré, starszy oficer marynarki sił blokady. Historia oficjalna kampanii lądowej (Moberly, *Togoland and the Cameroons*) podaje, że blokadę ostatecznie zniesiono 1 marca, a na jednym odcinku wybrzeża przestała obowiązywać już 11 stycznia. Źródła różnią się więc o jeden dzień.
+29 lutego 1916 roku alianci znieśli [blokadę morską](/slownik/blokada) wybrzeża [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Według brytyjskiej oficjalnej historii wojny na morzu (Newbolt, *Naval Operations*) zrobił to tego dnia francuski komandor Carré, starszy oficer marynarki sił blokady. Historia oficjalna kampanii lądowej (Moberly, *Togoland and the Cameroons*) podaje, że blokadę ostatecznie zniesiono 1 marca, a na jednym odcinku wybrzeża przestała obowiązywać już 11 stycznia. Źródła różnią się więc o jeden dzień.
 
 ## Blokada spełniła zadanie
 

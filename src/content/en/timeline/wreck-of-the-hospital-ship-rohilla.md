@@ -2,10 +2,10 @@
 title: Wreck of the hospital ship Rohilla
 summary: On 30 October 1914 the British hospital ship Rohilla was wrecked in a storm off Whitby. The rescue lasted three days. About 85 people died.
 source: katastrofa-statku-szpitalnego-rohilla
-sourceHash: de23d8b2ad15bda1fdb6e439e4f39ff840e392ee
+sourceHash: 3f6e134a67b1700f8169b56b2e42514c41cf8eec
 ---
 
-In the early hours of 30 October 1914 the British [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) Rohilla was driven in a storm onto the rocks of Saltwick Nab off the Yorkshire coast, near the town of [Whitby](https://pl.wikipedia.org/wiki/Whitby_(North_Yorkshire)). Before the eyes of the townspeople gathered on the shore, one of the most dramatic rescues in the history of British lifeboatmen went on for three days.
+In the early hours of 30 October 1914 the British [hospital ship](/slownik/statek-szpitalny) Rohilla was driven in a storm onto the rocks of Saltwick Nab off the Yorkshire coast, near the town of [Whitby](https://pl.wikipedia.org/wiki/Whitby_(North_Yorkshire)). Before the eyes of the townspeople gathered on the shore, one of the most dramatic rescues in the history of British lifeboatmen went on for three days.
 
 ## Voyage to Dunkirk
 

@@ -2,7 +2,7 @@
 title: Sinking of the Glitra
 summary: On 20 October 1914 the German U-17 stopped and sank the British steamer Glitra off Norway. She was the first merchant ship sunk by a U-boat.
 source: zatoniecie-glitry
-sourceHash: 57769dd4da3fde9426c5d5e18b4d9d775916e66a
+sourceHash: 066cb9744544aa569d1d89eeb2d76aaae4d93d5b
 ---
 
 On 20 October 1914 the German submarine U-17 stopped the British steamer Glitra off the south-west coast of [Norway](https://pl.wikipedia.org/wiki/Norwegia). The Germans ordered the crew into the boats and then sank the ship. Glitra went down in history as the first British merchant ship sunk in the war by a U-boat, and she is usually regarded as the first merchant ship ever sunk by a submarine.
@@ -19,6 +19,6 @@ Feldkirchner acted in accordance with the prize rules that governed war at sea. 
 
 ## A foretaste of the war on trade
 
-The sinking of Glitra was a minor episode, but it showed that U-boats could also destroy merchant shipping. The German command soon saw submarines as an effective weapon against British trade, all the more so because the British [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) was cutting Germany off from supplies ever more tightly.
+The sinking of Glitra was a minor episode, but it showed that U-boats could also destroy merchant shipping. The German command soon saw submarines as an effective weapon against British trade, all the more so because the British [naval blockade](/slownik/blokada) was cutting Germany off from supplies ever more tightly.
 
 Stopping ships according to prize rules was, however, risky and inefficient for a submarine. Its small crew could not take prizes into port, and a surfaced submarine was an easy target. On 4 February 1915 Germany declared the waters around the British Isles a war zone in which merchant ships would be sunk without warning. This began the first phase of [unrestricted submarine warfare](/tematy/wojna-podwodna-1914-1918), which became one of the main reasons for the United States' entry into the war in 1917.

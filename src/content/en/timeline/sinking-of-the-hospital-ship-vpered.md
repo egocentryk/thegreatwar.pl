@@ -2,10 +2,10 @@
 title: Sinking of the hospital ship Vpered
 summary: On 8 July 1916 the German U-38 torpedoed the Russian hospital ship Vpered in the Black Sea off Lazistan. Seven or eight people were killed.
 source: zatopienie-statku-szpitalnego-wpieriod
-sourceHash: 8eb9d70be3888305e5de555975d609f08eafc952
+sourceHash: a6ede695cedf8d8b2104a381c808eab3ad982c7c
 ---
 
-At 9.35 a.m. on 8 July 1916 (25 June by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then in use in Russia) the German submarine [U-38](https://pl.wikipedia.org/wiki/SM_U-38) torpedoed the Russian [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) *Vpered* ("Forward") in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne). The ship sank quickly off the coast of [Lazistan](https://pl.wikipedia.org/wiki/Lazystan), about 32 miles south-west of [Batumi](https://pl.wikipedia.org/wiki/Batumi). Seven or eight people were killed. The date and time are given in a Red Cross telegram sent that same day, and 8 July is also confirmed by a British pamphlet of 1917 on the war against hospital ships. The British chronology of the war recorded the sinking under 10 July, and the uboat.net website gives 9 July.
+At 9.35 a.m. on 8 July 1916 (25 June by the [Julian calendar](/slownik/kalendarz-julianski), then in use in Russia) the German submarine [U-38](https://pl.wikipedia.org/wiki/SM_U-38) torpedoed the Russian [hospital ship](/slownik/statek-szpitalny) *Vpered* ("Forward") in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne). The ship sank quickly off the coast of [Lazistan](https://pl.wikipedia.org/wiki/Lazystan), about 32 miles south-west of [Batumi](https://pl.wikipedia.org/wiki/Batumi). Seven or eight people were killed. The date and time are given in a Red Cross telegram sent that same day, and 8 July is also confirmed by a British pamphlet of 1917 on the war against hospital ships. The British chronology of the war recorded the sinking under 10 July, and the uboat.net website gives 9 July.
 
 ## Portugal's successor
 

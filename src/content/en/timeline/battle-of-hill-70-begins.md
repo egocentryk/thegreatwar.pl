@@ -2,7 +2,7 @@
 title: Battle of Hill 70 begins
 summary: At dawn on 15 August 1917 the Canadian Corps took Hill 70 above Lens and then broke a series of German counter-attacks with artillery fire.
 source: poczatek-bitwy-o-wzgorze-70
-sourceHash: 74cc2f9e19dd3e4bd48dbdf5920d68bc66544123
+sourceHash: bc780d20c1a5817832e12a92ed6383b62cafef05
 brief:
   - "At 4.25 a.m. on 15 August 1917 two divisions of the Canadian Corps attacked Hill 70 above Lens. It was the corps' first battle under a Canadian commander, General Arthur Currie."
   - "The attack was meant to pin down the Germans while the Third Battle of Ypres went on in Flanders. Currie persuaded his superiors that instead of Lens they should take Hill 70, which dominated the town."
@@ -47,6 +47,6 @@ In the afternoon the commander of the 2nd Brigade still wanted to take the rest 
 
 ## The day's toll
 
-Hill 70 was in Canadian hands. According to the Canadian official history it cost 1,056 killed, 2,432 wounded and 39 taken prisoner. German losses are not known but were heavy, and by 9 p.m. the Canadians had counted about 350 prisoners. Haig noted in his diary that the attack had gone "very well", and Horne called it "an unqualified success". Among those decorated that day was a stretcher-bearer of the 7th Battalion, Private Michael O'Rourke, who for three days carried wounded men out under fire and received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for it.
+Hill 70 was in Canadian hands. According to the Canadian official history it cost 1,056 killed, 2,432 wounded and 39 taken prisoner. German losses are not known but were heavy, and by 9 p.m. the Canadians had counted about 350 prisoners. Haig noted in his diary that the attack had gone "very well", and Horne called it "an unqualified success". Among those decorated that day was a stretcher-bearer of the 7th Battalion, Private Michael O'Rourke, who for three days carried wounded men out under fire and received the [Victoria Cross](/slownik/krzyz-wiktorii) for it.
 
 The fight for the hill was only beginning. The next day the Canadians took the rest of the Green Line with the quarry, and by 18 August, according to Currie, they had repulsed 21 German counter-attacks, made also with flamethrowers and under cover of a new gas, mustard gas. The Germans never regained Hill 70.

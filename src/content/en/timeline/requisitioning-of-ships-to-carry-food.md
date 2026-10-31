@@ -2,10 +2,10 @@
 title: Requisitioning of ships to carry food
 summary: On 10 November 1915 the Board of Trade was empowered to direct ships to carry grain. A committee for the carriage of foodstuffs was to increase wheat supplies.
 source: rekwizycja-statkow-do-przewozu-zywnosci
-sourceHash: 726d204c7a4cd25679cc2e679b7b923abbd51eca
+sourceHash: 64d57907adcd009a360350a8c3f19f84090fddec
 ---
 
-On 10 November 1915, the same day on which Britain [introduced licences for ships](/wielka-brytania-wprowadza-licencje-dla-statkow) trading between foreign ports, a second Order in Council empowered the Board of Trade to requisition ships for the carriage of food and other goods. To carry it out, the Requisitioning (Carriage of Foodstuffs) Committee was set up. It was chaired by John Henry Whitley, a Liberal MP and Deputy Speaker of the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin), and its members were three shipowners: F.C. Gardiner, Ernest Glover and Richard Holt. The last two sat on the advisory committee of the Admiralty's Transport Department, which requisitioned ships for the army and navy. This was meant to avoid conflicts between the two bodies. For the same reason one of the committee's two secretaries was Arthur Salter, an official of the Transport Department and later one of the creators of inter-Allied shipping control.
+On 10 November 1915, the same day on which Britain [introduced licences for ships](/wielka-brytania-wprowadza-licencje-dla-statkow) trading between foreign ports, a second Order in Council empowered the Board of Trade to requisition ships for the carriage of food and other goods. To carry it out, the Requisitioning (Carriage of Foodstuffs) Committee was set up. It was chaired by John Henry Whitley, a Liberal MP and Deputy Speaker of the [House of Commons](/slownik/izba-gmin), and its members were three shipowners: F.C. Gardiner, Ernest Glover and Richard Holt. The last two sat on the advisory committee of the Admiralty's Transport Department, which requisitioned ships for the army and navy. This was meant to avoid conflicts between the two bodies. For the same reason one of the committee's two secretaries was Arthur Salter, an official of the Transport Department and later one of the creators of inter-Allied shipping control.
 
 ## Bread and freight from America
 

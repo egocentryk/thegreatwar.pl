@@ -2,10 +2,10 @@
 title: Central Powers retake Orsova
 summary: On 13 November 1916, after three days of street fighting, the Romanians left Orsova on the Danube for the far bank of the Cerna. It returned to Austria-Hungary.
 source: panstwa-centralne-odbijaja-orszowe
-sourceHash: 74d0658c2df687f60274d856dd0fd7bb768e5570
+sourceHash: 503898ff000315ca26a46a33468e38040e3ab9ba
 ---
 
-On 13 November 1916, after three days of fierce fighting, including street fighting, the Romanian defenders abandoned [Orsova](https://pl.wikipedia.org/wiki/Orszowa). This Hungarian port town on the Danube lay on the west bank of the Cerna, at its mouth, just above the [Iron Gates](https://pl.wikipedia.org/wiki/Żelazna_Brama) gorge. The Romanians fell back to the east bank of the Cerna, and Orsova, which they [had taken at the beginning of September](/rumuni-zajmuja-orszowe), returned to Austro-Hungarian hands after more than two months. This is how the Austrian official history and the Romanian historian Constantin Kirițescu describe these events. The British chronology of the war gives the date of 22 November, when the Romanians also abandoned their positions behind the Cerna. In Romania, which reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), 13 November was 31 October.
+On 13 November 1916, after three days of fierce fighting, including street fighting, the Romanian defenders abandoned [Orsova](https://pl.wikipedia.org/wiki/Orszowa). This Hungarian port town on the Danube lay on the west bank of the Cerna, at its mouth, just above the [Iron Gates](https://pl.wikipedia.org/wiki/Żelazna_Brama) gorge. The Romanians fell back to the east bank of the Cerna, and Orsova, which they [had taken at the beginning of September](/rumuni-zajmuja-orszowe), returned to Austro-Hungarian hands after more than two months. This is how the Austrian official history and the Romanian historian Constantin Kirițescu describe these events. The British chronology of the war gives the date of 22 November, when the Romanians also abandoned their positions behind the Cerna. In Romania, which reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), 13 November was 31 October.
 
 ## Two failed attempts
 

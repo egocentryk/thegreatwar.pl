@@ -2,7 +2,7 @@
 title: The charge at Beersheba
 summary: On 31 October 1917 the British took Beersheba. At dusk two regiments of the Australian Light Horse galloped into the town and saved its wells.
 source: szarza-pod-beer-szewa
-sourceHash: 5e9135956611a03d3416f676c5f8876918188518
+sourceHash: 284e4a510b99fe6399bc97e1194aa4c53c7e0b90
 brief:
   - "On 31 October 1917 General Edmund Allenby's troops took Beersheba. It was the first step of the Third Battle of Gaza: instead of attacking Gaza frontally, Allenby outflanked the Turkish line from the east."
   - "The town had to fall before dark, because its wells were the only ones in the area that could water the cavalry's horses. In the morning the infantry of XX Corps took the Turkish trenches west of the town."
@@ -25,7 +25,7 @@ At 5.55 a.m. the artillery of XX Corps opened fire on the Turkish trenches west 
 
 By then the New Zealanders and Australians were already standing east of the town. The Turks were completely surprised to see them, because they had not believed that large cavalry forces would venture so far from water. İsmet Bey, the future president of Turkey, who commanded the defence, reported at noon to the commander of the Eighth Army, General Friedrich Kress von Kressenstein, that two or three cavalry divisions stood to the east and south. According to a Turkish account Kress replied that these were only two brigades, and then ordered: "Beersheba is to be defended." He sent no reinforcements.
 
-The heat was rising. At 12.15 p.m. four brigades of the 60th and 74th Divisions moved off for the main assault, partly hidden in smoke and dust, and before 1 p.m. took all their objectives. The Turks held out longest against two battalions of the Royal Welsh Fusiliers, which suffered two-thirds of the losses of the whole corps. Corporal John Collins, who killed fifteen defenders of one post with the bayonet and carried the wounded out under fire, received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for that day. The infantry could probably have entered the town first, but in accordance with orders it halted on its designated line. Beersheba was to be taken by the cavalry, because it was its horses that needed the water.
+The heat was rising. At 12.15 p.m. four brigades of the 60th and 74th Divisions moved off for the main assault, partly hidden in smoke and dust, and before 1 p.m. took all their objectives. The Turks held out longest against two battalions of the Royal Welsh Fusiliers, which suffered two-thirds of the losses of the whole corps. Corporal John Collins, who killed fifteen defenders of one post with the bayonet and carried the wounded out under fire, received the [Victoria Cross](/slownik/krzyz-wiktorii) for that day. The infantry could probably have entered the town first, but in accordance with orders it halted on its designated line. Beersheba was to be taken by the cavalry, because it was its horses that needed the water.
 
 ## Midday: Tel el Saba
 

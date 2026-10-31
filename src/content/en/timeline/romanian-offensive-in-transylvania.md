@@ -2,10 +2,10 @@
 title: Romanian offensive in Transylvania
 summary: On the night of 27–28 August 1916 three Romanian armies crossed the Carpathian passes. The weak Austro-Hungarian screen fell back deeper into Transylvania.
 source: rumunska-ofensywa-w-siedmiogrodzie
-sourceHash: 74061b7e0d682b165c6fcad82ba5dbb458eb2f68
+sourceHash: 0056da4d801087d396510ba229b3bffd53582185
 ---
 
-On the night of 27–28 August 1916 the Romanian army entered [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród). The Romanian advance guards crossed the border at about 9 p.m. on 27 August, at roughly the same moment as the Romanian minister in Vienna was handing over the [declaration of war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom). Along a front several hundred kilometres long, from the Eastern Carpathians to the Danube, columns of Romanian infantry and cavalry advanced through a dozen or more passes, and throughout 28 August pushed the few Austro-Hungarian units back into the interior. In Romania, which still reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 15 August.
+On the night of 27–28 August 1916 the Romanian army entered [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród). The Romanian advance guards crossed the border at about 9 p.m. on 27 August, at roughly the same moment as the Romanian minister in Vienna was handing over the [declaration of war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom). Along a front several hundred kilometres long, from the Eastern Carpathians to the Danube, columns of Romanian infantry and cavalry advanced through a dozen or more passes, and throughout 28 August pushed the few Austro-Hungarian units back into the interior. In Romania, which still reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), it was 15 August.
 
 ## Three armies against one
 

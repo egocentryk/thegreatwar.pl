@@ -15,7 +15,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Chronologie_der_Julikrise_1914"
 ---
 
-31 lipca 1914 roku, według obowiązującego w Rosji [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański) 18 lipca, był pierwszym dniem powszechnej [mobilizacji](https://pl.wikipedia.org/wiki/Mobilizacja) armii i floty [Imperium Rosyjskiego](/kraje/rosja). Car [Mikołaj II](/postacie/mikolaj-ii) zgodził się na nią [poprzedniego dnia](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) w Peterhofie, a telegramy rozesłano wieczorem do wszystkich okręgów wojskowych. Rano na ulicach Petersburga rozlepiono obwieszczenia o mobilizacji. Austro-węgierski ambasador hrabia Friedrich Szapáry donosił do Wiednia, że miasto przyjmuje rozkazy mobilizacyjne „w ponurym milczeniu”.
+31 lipca 1914 roku, według obowiązującego w Rosji [kalendarza juliańskiego](/slownik/kalendarz-julianski) 18 lipca, był pierwszym dniem powszechnej [mobilizacji](https://pl.wikipedia.org/wiki/Mobilizacja) armii i floty [Imperium Rosyjskiego](/kraje/rosja). Car [Mikołaj II](/postacie/mikolaj-ii) zgodził się na nią [poprzedniego dnia](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) w Peterhofie, a telegramy rozesłano wieczorem do wszystkich okręgów wojskowych. Rano na ulicach Petersburga rozlepiono obwieszczenia o mobilizacji. Austro-węgierski ambasador hrabia Friedrich Szapáry donosił do Wiednia, że miasto przyjmuje rozkazy mobilizacyjne „w ponurym milczeniu”.
 
 ## Dlaczego cała armia
 

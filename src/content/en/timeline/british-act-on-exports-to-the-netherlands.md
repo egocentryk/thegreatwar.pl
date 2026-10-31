@@ -2,10 +2,10 @@
 title: British act on exports to the Netherlands
 summary: On 24 June 1915 a British act came into force under which all exports to the Netherlands could be directed solely to the Netherlands Overseas Trust.
 source: brytyjska-ustawa-o-eksporcie-do-holandii
-sourceHash: 9b13a7b43d562ca34cc109d354baced38c8a4278
+sourceHash: 19dedc7d4072499c9eea109af540bec4a4fea741
 ---
 
-On 24 June 1915 the British Customs (Exportation Restriction) Act 1915 received royal assent. It allowed the government to prohibit the sending of goods to a given country other than to the address of a single designated consignee. From the outset the government made it clear that the country in question was the neutral [Netherlands](https://pl.wikipedia.org/wiki/Holandia), and the consignee the [Netherlands Overseas Trust](/powstaje-holenderski-trust-zamorski) (NOT). The British chronology of the war records the passing of the act as early as 3 June, but according to the parliamentary record the bill was not introduced in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) until 21 June, and the whole legislative process was completed within four days.
+On 24 June 1915 the British Customs (Exportation Restriction) Act 1915 received royal assent. It allowed the government to prohibit the sending of goods to a given country other than to the address of a single designated consignee. From the outset the government made it clear that the country in question was the neutral [Netherlands](https://pl.wikipedia.org/wiki/Holandia), and the consignee the [Netherlands Overseas Trust](/powstaje-holenderski-trust-zamorski) (NOT). The British chronology of the war records the passing of the act as early as 3 June, but according to the parliamentary record the bill was not introduced in the [House of Commons](/slownik/izba-gmin) until 21 June, and the whole legislative process was completed within four days.
 
 ## A gap in the licensing system
 

@@ -2,7 +2,7 @@
 title: Germany declares unrestricted submarine warfare
 summary: On 31 January 1917 Germany told the USA that from the next day its U-boats would sink all ships around the British Isles without warning.
 source: niemcy-oglaszaja-nieograniczona-wojne-podwodna
-sourceHash: 7e83b876aca98924ddd8f776f0649bbfc5738310
+sourceHash: 01da0e4620d5c54ab17a2ccc1e09a0732670b6fa
 brief:
   - "On 31 January 1917 Ambassador Johann Heinrich von Bernstorff informed the USA that from 1 February German U-boats would sink without warning every ship in zones around Great Britain, France and Italy."
   - "Admiral Henning von Holtzendorff calculated that sinking 600,000 tons a month would force Great Britain to make peace before the harvest. Hindenburg and Ludendorff no longer believed in victory on land."
@@ -33,7 +33,7 @@ The note opened with a courteous reference to Wilson's speech and assurances tha
 
 One exception was made for America, which Washington regarded as humiliating. Regular American passenger ships could continue to sail, but only one a week in each direction and only to [Falmouth](https://pl.wikipedia.org/wiki/Falmouth_(Anglia)) in Cornwall, on a set course past the [Scilly Isles](https://pl.wikipedia.org/wiki/Scilly). They had to arrive on Sunday and leave on Wednesday, carry on their hulls and superstructures three vertical stripes a metre wide, alternately white and red, and fly chequered red-and-white flags on their masts. The United States government was to guarantee that they carried no contraband as defined by the German list.
 
-Two days earlier, on 29 January, Germany had informed the British and French governments, through the American and Spanish embassies, that the Allies were using [hospital ships](https://pl.wikipedia.org/wiki/Statek_szpitalny) to carry troops and munitions. From then on no hospital ship would be tolerated in the waters between a line from [Flamborough Head](https://pl.wikipedia.org/wiki/Flamborough_Head) to Terschelling and a line from [Ushant](https://pl.wikipedia.org/wiki/Ouessant) to [Land's End](https://pl.wikipedia.org/wiki/Land’s_End), that is in the North Sea and the English Channel, through which the wounded were carried from France.
+Two days earlier, on 29 January, Germany had informed the British and French governments, through the American and Spanish embassies, that the Allies were using [hospital ships](/slownik/statek-szpitalny) to carry troops and munitions. From then on no hospital ship would be tolerated in the waters between a line from [Flamborough Head](https://pl.wikipedia.org/wiki/Flamborough_Head) to Terschelling and a line from [Ushant](https://pl.wikipedia.org/wiki/Ouessant) to [Land's End](https://pl.wikipedia.org/wiki/Land’s_End), that is in the North Sea and the English Channel, through which the wounded were carried from France.
 
 ## The Chancellor's speech
 

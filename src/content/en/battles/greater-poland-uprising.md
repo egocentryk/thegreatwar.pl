@@ -9,7 +9,7 @@ sides:
     commanders: []
 result: Insurgent victory. By mid-January 1919 they held most of the province, and the armistice signed at Trier on 16 February barred the Germans from attacking the Poles and drew a demarcation line. The Treaty of Versailles gave Poland almost all of Greater Poland.
 source: powstanie-wielkopolskie
-sourceHash: e7e4c2841a05d4bb443fff5548e7a7e5ca2990ce
+sourceHash: 7ad982ad557bf5faed1b7222946d8387d5a8b516
 brief:
   - "The Greater Poland uprising broke out in Poznań on 27 December 1918, during Paderewski's visit, when a German procession tore down Polish and Allied flags and shots were fired outside the Bazar hotel."
   - "The Poles of the Prussian Province of Posen had long resisted Germanisation. The Supreme People's Council counted on the peace conference, but conspirators had been stockpiling arms and preparing units for weeks."
@@ -22,7 +22,7 @@ The Greater Poland uprising broke out unexpectedly, during the visit of [Ignacy 
 
 ## Name and dates
 
-The name "Greater Poland uprising" is universally accepted in Poland, though in 1918 itself people spoke rather of the "Poznań events" or the "December uprising". German literature uses "Posen uprising" (Posener Aufstand) or "Greater Poland uprising". It is taken to begin with the outbreak of fighting in Poznań on 27 December 1918 and to end with the signing at Trier on 16 February 1919 of a further extension of the [Armistice of Compiègne](/rozejm-w-compiegne), which also covered the Greater Poland front. Skirmishes on the demarcation line continued, however, for several more months, until the signing of the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) on 28 June 1919. Since 2021, 27 December has been a [national holiday](https://pl.wikipedia.org/wiki/Narodowy_Dzień_Zwycięskiego_Powstania_Wielkopolskiego) in Poland.
+The name "Greater Poland uprising" is universally accepted in Poland, though in 1918 itself people spoke rather of the "Poznań events" or the "December uprising". German literature uses "Posen uprising" (Posener Aufstand) or "Greater Poland uprising". It is taken to begin with the outbreak of fighting in Poznań on 27 December 1918 and to end with the signing at Trier on 16 February 1919 of a further extension of the [Armistice of Compiègne](/rozejm-w-compiegne), which also covered the Greater Poland front. Skirmishes on the demarcation line continued, however, for several more months, until the signing of the [Treaty of Versailles](/slownik/traktat-wersalski) on 28 June 1919. Since 2021, 27 December has been a [national holiday](https://pl.wikipedia.org/wiki/Narodowy_Dzień_Zwycięskiego_Powstania_Wielkopolskiego) in Poland.
 
 ## Background
 

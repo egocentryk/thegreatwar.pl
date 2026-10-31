@@ -2,7 +2,7 @@
 title: Airship raid and the downing of SL 11
 summary: On the night of 2–3 September 1916, 16 airships set out for London. Lieutenant Leefe Robinson shot down SL 11 over Cuffley, and the rest of the raid collapsed.
 source: nalot-sterowcow-i-zestrzelenie-sl-11
-sourceHash: f93c7a48bb9f4e8f68049c58d00cc2e3a43ceb12
+sourceHash: e7ba3dec59d005be25fa2e482fea06c801151c9a
 brief:
   - "On the afternoon of 2 September 1916 the largest German airship raid yet sent against England set out for London – according to Jones, 16 airships: 12 naval and 4 army."
   - "Rain and snow over the North Sea scattered the force and none of the naval airships reached London. Four people were killed and the damage was negligible."
@@ -11,7 +11,7 @@ brief:
   - "It was the first German airship destroyed over British soil. Robinson received the Victoria Cross, and the German army practically gave up airship raids on Great Britain."
 ---
 
-On the afternoon of 2 September 1916 the largest raid of [airships](https://pl.wikipedia.org/wiki/Sterowiec) the Germans had so far sent against England took off from bases in Germany. According to the British official history of the air war, H.A. Jones's *The War in the Air*, there were 16 airships: 12 belonging to the navy and 4 to the army. The sole target of the whole raid was [London](https://pl.wikipedia.org/wiki/Londyn). The British chronology of the war speaks of fourteen airships attacking England, which was in any case the largest number in a single raid. For the Germans, however, the night ended in failure. At about 2.15 a.m. on 3 September Lieutenant William Leefe Robinson shot down the army airship SL 11 in flames over the village of [Cuffley](https://pl.wikipedia.org/wiki/Cuffley). It was the first German airship destroyed over British soil.
+On the afternoon of 2 September 1916 the largest raid of [airships](/slownik/sterowiec) the Germans had so far sent against England took off from bases in Germany. According to the British official history of the air war, H.A. Jones's *The War in the Air*, there were 16 airships: 12 belonging to the navy and 4 to the army. The sole target of the whole raid was [London](https://pl.wikipedia.org/wiki/Londyn). The British chronology of the war speaks of fourteen airships attacking England, which was in any case the largest number in a single raid. For the Germans, however, the night ended in failure. At about 2.15 a.m. on 3 September Lieutenant William Leefe Robinson shot down the army airship SL 11 in flames over the village of [Cuffley](https://pl.wikipedia.org/wiki/Cuffley). It was the first German airship destroyed over British soil.
 
 ## The raid on London
 
@@ -33,6 +33,6 @@ The next day tens of thousands of people flocked to Cuffley, and fragments of th
 
 ## The first Victoria Cross over England
 
-Robinson became a national hero overnight. On 5 September the award of the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii), the highest British gallantry decoration, was announced, and on 9 September he received it from King George V at [Windsor Castle](https://pl.wikipedia.org/wiki/Zamek_w_Windsorze). He was the first serviceman to receive it for combat fought over Great Britain. He was also given large cash rewards, according to his biographers about £3,500 in all.
+Robinson became a national hero overnight. On 5 September the award of the [Victoria Cross](/slownik/krzyz-wiktorii), the highest British gallantry decoration, was announced, and on 9 September he received it from King George V at [Windsor Castle](https://pl.wikipedia.org/wiki/Zamek_w_Windsorze). He was the first serviceman to receive it for combat fought over Great Britain. He was also given large cash rewards, according to his biographers about £3,500 in all.
 
 For the air defences, [subordinated to the War Office](/ministerstwo-wojny-przejmuje-obrone-przeciwlotnicza) since February, the night of 2 September was a turning point. In March Second Lieutenant Alfred Brandon had [failed to set the airship L 15 alight](/zestrzelenie-sterowca-l-15) with bombs and darts. Now it had been shown that a night fighter armed with a gun firing explosive and incendiary ammunition could destroy a hydrogen-filled airship. Jones called the downing of SL 11 "the beginning of the end of the airship menace". After this loss the German army practically gave up airship raids on Great Britain. [Peter Strasser](/postacie/peter-strasser)'s navy, however, intended to continue the attacks.

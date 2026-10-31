@@ -35,7 +35,7 @@ Po obu stronach walczyło łącznie blisko dwa miliony żołnierzy. Bitwa nie by
 
 ## Tło: plan Schlieffena i wielki odwrót
 
-Niemcy weszli w wojnę z planem, znanym jako [plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena). Zakładał on, że główne siły niemieckie, przechodząc przez Belgię, obejdą francuskie fortyfikacje od północy, a potem, zataczając wielki łuk, zamkną armie francuskie w okrążeniu na wschód od Paryża. Po pokonaniu Francji Niemcy mieli przerzucić wojska na wschód, przeciw Rosji.
+Niemcy weszli w wojnę z planem, znanym jako [plan Schlieffena](/slownik/plan-schlieffena). Zakładał on, że główne siły niemieckie, przechodząc przez Belgię, obejdą francuskie fortyfikacje od północy, a potem, zataczając wielki łuk, zamkną armie francuskie w okrążeniu na wschód od Paryża. Po pokonaniu Francji Niemcy mieli przerzucić wojska na wschód, przeciw Rosji.
 
 Przez pierwsze tygodnie plan zdawał się działać. Armia belgijska wycofała się do Antwerpii, a Francuzi i Brytyjczycy przegrali [bitwy graniczne](/bitwy/bitwa-graniczna) w Lotaryngii, Ardenach, pod Charleroi i pod Mons. Od 24 sierpnia sprzymierzeni cofali się na południe. Wielki odwrót nie przerodził się jednak w ucieczkę. Wojska stawiały opór pod Le Cateau i pod Guise, a naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), zachował spokój. Odwoływał nieudolnych generałów i przerzucał dywizje z Lotaryngii na zagrożone lewe skrzydło.
 

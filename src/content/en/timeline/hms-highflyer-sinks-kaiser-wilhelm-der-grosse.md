@@ -2,10 +2,10 @@
 title: HMS Highflyer sinks Kaiser Wilhelm der Grosse
 summary: On 26 August 1914 the British cruiser Highflyer attacked the German auxiliary cruiser Kaiser Wilhelm der Grosse off the coast of Río de Oro.
 source: hms-highflyer-zatapia-kaiser-wilhelm-der-grosse
-sourceHash: 0e2a043ad4524dc4f6db4b9c26c6f2d548c9b5d4
+sourceHash: 8f4b292ac321d2b90b9e795677b76987c49440ea
 ---
 
-On 26 August 1914 the British cruiser HMS *Highflyer* surprised the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) [*Kaiser Wilhelm der Grosse*](https://pl.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Große) off the coast of [Río de Oro](https://pl.wikipedia.org/wiki/Rio_de_Oro), a Spanish colony on the Atlantic coast of Africa. After an exchange of fire lasting more than an hour, the former luxury liner went to the bottom. She was one of the first German raiders lost in this war.
+On 26 August 1914 the British cruiser HMS *Highflyer* surprised the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) [*Kaiser Wilhelm der Grosse*](https://pl.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Große) off the coast of [Río de Oro](https://pl.wikipedia.org/wiki/Rio_de_Oro), a Spanish colony on the Atlantic coast of Africa. After an exchange of fire lasting more than an hour, the former luxury liner went to the bottom. She was one of the first German raiders lost in this war.
 
 ## A three-week raid
 

@@ -2,10 +2,10 @@
 title: Explosion of the minelayer Princess Irene
 summary: On 27 May 1915 the minelayer Princess Irene blew up on the Medway off Sheerness. About 350 people died, including several dozen dockyard workers.
 source: wybuch-stawiacza-min-princess-irene
-sourceHash: f08cb2a97cfb0118aa116a46f8c2f96dfd9856be
+sourceHash: 6368f2b2e6a38442f2e5b34327ebc7de1ff8cfb9
 ---
 
-At a quarter past eleven in the morning on 27 May 1915, in the estuary of the [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), a few kilometres west of [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), the British auxiliary [minelayer](https://pl.wikipedia.org/wiki/Stawiacz_min) *Princess Irene* blew up. The ship, on whose deck several hundred [mines](https://pl.wikipedia.org/wiki/Mina_morska) were being prepared for action, was literally blown to pieces. About 350 people died: almost the entire crew and several dozen civilian workers from the naval dockyard. This was only half a year after the [battleship *Bulwark* had exploded](/eksplozja-pancernika-bulwark) on the same river.
+At a quarter past eleven in the morning on 27 May 1915, in the estuary of the [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), a few kilometres west of [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), the British auxiliary [minelayer](https://pl.wikipedia.org/wiki/Stawiacz_min) *Princess Irene* blew up. The ship, on whose deck several hundred [mines](/slownik/mina-morska) were being prepared for action, was literally blown to pieces. About 350 people died: almost the entire crew and several dozen civilian workers from the naval dockyard. This was only half a year after the [battleship *Bulwark* had exploded](/eksplozja-pancernika-bulwark) on the same river.
 
 ## A passenger ship at war
 

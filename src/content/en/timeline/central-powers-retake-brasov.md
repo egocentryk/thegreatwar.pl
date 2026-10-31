@@ -2,10 +2,10 @@
 title: Central Powers retake Brașov
 summary: On 9 October 1916, after two days of street fighting, German and Hungarian troops took Brașov. The Romanian Second Army fell back at night to the passes.
 source: panstwa-centralne-odbijaja-braszow
-sourceHash: afa31c45bc67b6b6887fcb70892125dc3c0108e9
+sourceHash: 3b6fcd9b6c7c87d7a916ff82b441b5527fcd2e26
 ---
 
-On the morning of 9 October 1916 German and Hungarian troops occupied the whole of [Brașov](https://pl.wikipedia.org/wiki/Braszów), Kronstadt in German, Brassó in Hungarian. The Romanian Second Army, which since 7 October had been defending the city and the plain of the [Burzenland](https://pl.wikipedia.org/wiki/Burzenland) against the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), had withdrawn during the night towards the Carpathian passes. The Austrian official history writes that on that day the rising sun "shone over the Burzenland on a field of Allied victory". In Romania, where the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) was still in use, it was 26 September.
+On the morning of 9 October 1916 German and Hungarian troops occupied the whole of [Brașov](https://pl.wikipedia.org/wiki/Braszów), Kronstadt in German, Brassó in Hungarian. The Romanian Second Army, which since 7 October had been defending the city and the plain of the [Burzenland](https://pl.wikipedia.org/wiki/Burzenland) against the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), had withdrawn during the night towards the Carpathian passes. The Austrian official history writes that on that day the rising sun "shone over the Burzenland on a field of Allied victory". In Romania, where the [Julian calendar](/slownik/kalendarz-julianski) was still in use, it was 26 September.
 
 ## Two days of fighting
 

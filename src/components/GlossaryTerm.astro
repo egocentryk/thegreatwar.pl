@@ -1,14 +1,18 @@
 ---
 // One glossary term (/slownik/<slug>, /en/glossary/<slugEn>): the definition,
-// related pages, sources, and every article that uses the term.
+// related pages, sources, and every article that uses the term. A term with
+// a longer text (src/content/glossary/<slug>.md) shows it in place of the
+// two short paragraphs, with its author and its own sources.
+import { getCollection, getEntry, render } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import Sources from "@/components/Sources.astro"
-import { locale, plural, type Lang } from "@/i18n"
+import { locale, plural, rewriteEnHtml, type Lang } from "@/i18n"
 import { curated, localPeople } from "@/i18n/local"
 import { listPageLd } from "@/utils/jsonLd"
 import { localTopics } from "@/utils/topics"
 import { formatDate } from "@/utils/formatDate"
+import { slugify } from "@/utils/slugify"
 import { CATEGORIES, GLOSSARY, articlesUsing, glossaryPath, termName, termPath, type GlossaryEntry } from "@/utils/glossary"
 
 interface Props {
@@ -22,6 +26,14 @@ const name = termName(lang, entry)
 const expansion = en ? entry.expansionEn : entry.expansion
 const short = en ? entry.shortEn : entry.short
 const long = en ? entry.longEn : entry.long
+
+// The longer text, if the term has one (the English one only once translated).
+const note = await getEntry("glossary", entry.slug)
+const noteEn = note && en ? (await getCollection("glossaryEn", ({ data }) => !data.draft)).find((e) => e.data.source.id === note.id) : undefined
+const text = note && !note.data.draft && (!en || noteEn) ? (en ? noteEn! : note) : undefined
+const { Content } = text ? await render(text) : { Content: undefined }
+const html = text && en ? await rewriteEnHtml(text.rendered?.html ?? "") : undefined
+const sources = note && text ? note.data.sources : entry.sources
 
 // Topic guides named in `see` ("tematy/<id>"), shown first as "Temat".
 const topicIds = entry.see.filter((ref) => ref.startsWith("tematy/")).map((ref) => ref.slice(7))
@@ -57,6 +69,8 @@ const t = {
     used: "W kronice",
     usedLead: (n: number) => `${n} ${plural("pl", n, ["tekst używa", "teksty używają", "tekstów używa"], ["", ""])} tego pojęcia.`,
     others: "Inne hasła",
+    authors: (n: number) => (n > 1 ? "Autorzy" : "Autor"),
+    updated: "Aktualizacja",
   },
   en: {
     back: "← Glossary",
@@ -65,6 +79,8 @@ const t = {
     used: "In the chronicle",
     usedLead: (n: number) => `${n} ${plural("en", n, ["", "", ""], ["article uses", "articles use"])} this term.`,
     others: "Other terms",
+    authors: (n: number) => (n > 1 ? "Authors" : "Author"),
+    updated: "Updated",
   },
 }[lang]
 
@@ -95,10 +111,31 @@ const jsonLd = listPageLd(Astro.site!, {
         <h1 class="font-display text-ink mt-3 text-3xl font-medium sm:text-4xl">{name}</h1>
         {expansion && <p class="text-ink-soft mt-2 font-mono text-xs">{expansion}</p>}
         <p class="font-display text-ink mt-6 text-xl leading-snug">{short}</p>
-        <div class="text-ink-soft mt-6 space-y-4 leading-7">
-          {long.map((paragraph) => <p>{paragraph}</p>)}
-        </div>
-        <Sources sources={entry.sources} lang={lang} />
+        {
+          text && Content ? (
+            <>
+              <div class="prose prose-sm sm:prose-base mt-6 max-w-2xl">{en ? <Fragment set:html={html} /> : <Content />}</div>
+              <p class="text-ink-soft mt-6 font-mono text-xs">
+                {t.authors(note!.data.authors.length)}:{" "}
+                {note!.data.authors.map((author, index) => (
+                  <>
+                    {index > 0 && ", "}
+                    <a href={`/${en ? "en/author" : "autor"}/${slugify(author)}`} class="text-ink hover:text-signal transition-colors">
+                      {author}
+                    </a>
+                  </>
+                ))}
+                {" · "}
+                {t.updated}: {formatDate(note!.data.updated, "long", undefined, locale(lang))}
+              </p>
+            </>
+          ) : (
+            <div class="text-ink-soft mt-6 space-y-4 leading-7">
+              {long.map((paragraph) => <p>{paragraph}</p>)}
+            </div>
+          )
+        }
+        <Sources sources={sources} lang={lang} />
       </div>
 
       <aside class="mt-12 space-y-8 lg:mt-0 lg:pt-1">

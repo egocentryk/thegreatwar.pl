@@ -2,7 +2,7 @@
 title: French occupy Ruad island
 summary: On 1 September 1915 French sailors occupied Ruad (Arwad) off the Syrian coast. It became a base for blockading the Ottoman coast and for intelligence.
 source: francuzi-zajmuja-wyspe-ruad
-sourceHash: 4d6816efe216006af3bace204f0144666f5eafbc
+sourceHash: b30dff636ef7ce339b802810b3f3ce64460e1f38
 ---
 
 On 1 September 1915 the French navy occupied the island of Ruad, today [Arwad](https://pl.wikipedia.org/wiki/Arwad), lying about 3 kilometres from the port of [Tartus](https://pl.wikipedia.org/wiki/Tartus) on the coast of Ottoman Syria. The French called it Rouad. It was a small rocky islet of about 20 hectares, densely built up and inhabited by fishermen and sailors.
@@ -15,7 +15,7 @@ A small garrison remained on the island. It was commanded by Lieutenant Albert T
 
 ## Why the French wanted Ruad
 
-In August 1915 the Allies officially proclaimed a [blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of the coasts of the [Ottoman Empire](/kraje/imperium-osmanskie), although in practice French and British ships had been intercepting vessels off those shores for many months. Dartige du Fournet pointed out that several islands off the coast, above all Ruad and, further west, Kastellorizo ([Megisti](https://pl.wikipedia.org/wiki/Mejisti)), would be excellent points for observing the mainland and supplying small vessels. The occupation of Ruad gave the squadron a foothold right by the coast, from which shipping could be watched and smuggling looked out for.
+In August 1915 the Allies officially proclaimed a [blockade](/slownik/blokada) of the coasts of the [Ottoman Empire](/kraje/imperium-osmanskie), although in practice French and British ships had been intercepting vessels off those shores for many months. Dartige du Fournet pointed out that several islands off the coast, above all Ruad and, further west, Kastellorizo ([Megisti](https://pl.wikipedia.org/wiki/Mejisti)), would be excellent points for observing the mainland and supplying small vessels. The occupation of Ruad gave the squadron a foothold right by the coast, from which shipping could be watched and smuggling looked out for.
 
 The island was also important for intelligence. The French naval intelligence service in the Levant had its headquarters in Port Said, and Ruad became its forward post. From here contact was maintained with informers on the Syrian and Lebanese mainland, agents were landed and news was gathered about Ottoman troop movements.
 

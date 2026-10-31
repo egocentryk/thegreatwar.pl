@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 stycznia 1915 roku na południowym Atlantyku, u wybrzeży [Brazylii](https://pl.wikipedia.org/wiki/Brazylia), niemiecki [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Prinz Eitel Friedrich zatopił amerykański żaglowiec William P. Frye. Był to pierwszy statek handlowy Stanów Zjednoczonych zatopiony w czasie wojny, choć Stany Zjednoczone pozostawały państwem neutralnym. Sprawa stała się przedmiotem długiego sporu prawnego między Waszyngtonem a Berlinem.
+28 stycznia 1915 roku na południowym Atlantyku, u wybrzeży [Brazylii](https://pl.wikipedia.org/wiki/Brazylia), niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) Prinz Eitel Friedrich zatopił amerykański żaglowiec William P. Frye. Był to pierwszy statek handlowy Stanów Zjednoczonych zatopiony w czasie wojny, choć Stany Zjednoczone pozostawały państwem neutralnym. Sprawa stała się przedmiotem długiego sporu prawnego między Waszyngtonem a Berlinem.
 
 ## Pszenica z Seattle
 

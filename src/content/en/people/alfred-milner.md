@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Giessen (Grand Duchy of Hesse)
 deathPlace: Sturry Court near Canterbury
 source: alfred-milner
-sourceHash: 34b818d7bd8291fa4f0ca06da6dbcc55740f2135
+sourceHash: ec575865dfc30f66e7d79583513982ca8ca3ad15
 ---
 
 Alfred Milner, Viscount Milner, was one of the most influential and at the same time least visible men of the British war effort. He belonged formally to no party, never sat in the House of Commons and had no voters behind him, and yet from December 1916 he was one of the five members of the [War Cabinet](/gabinet-wojenny) and, alongside Andrew Bonar Law, the closest collaborator of [David Lloyd George](/postacie/david-lloyd-george). He led a mission to Tsarist Russia, chaired the work on the empire's peace aims, revised the text of the [Balfour Declaration](/deklaracja-balfoura), and in March 1918 at Doullens he signed on behalf of Britain the agreement that handed the coordination of the Allied armies to General Foch. For the last months of the war he headed the War Office.
@@ -47,7 +47,7 @@ In the summer and autumn of 1918 he worried about manpower reserves. In Septembe
 
 ## After the war
 
-In January 1919 Milner moved to the Colonial Office. In Paris he chaired the commission that prepared the mandate system for the former German colonies, negotiated an agreement with Belgium giving it [Ruanda-Urundi](https://pl.wikipedia.org/wiki/Ruanda-Urundi), and on 28 June 1919 signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski). He also led a mission to Egypt whose report recommended granting the country limited independence. He left the government at the beginning of 1921 and in the same year married Violet Cecil, widow of Lord Edward Cecil, with whom he had been attached since the time of the Boer War. He died on 13 May 1925 at Sturry Court near [Canterbury](https://pl.wikipedia.org/wiki/Canterbury), shortly after returning from a journey to South Africa. The cause of death was given as [sleeping sickness](https://pl.wikipedia.org/wiki/Śpiączka_afrykańska).
+In January 1919 Milner moved to the Colonial Office. In Paris he chaired the commission that prepared the mandate system for the former German colonies, negotiated an agreement with Belgium giving it [Ruanda-Urundi](https://pl.wikipedia.org/wiki/Ruanda-Urundi), and on 28 June 1919 signed the [Treaty of Versailles](/slownik/traktat-wersalski). He also led a mission to Egypt whose report recommended granting the country limited independence. He left the government at the beginning of 1921 and in the same year married Violet Cecil, widow of Lord Edward Cecil, with whom he had been attached since the time of the Boer War. He died on 13 May 1925 at Sturry Court near [Canterbury](https://pl.wikipedia.org/wiki/Canterbury), shortly after returning from a journey to South Africa. The cause of death was given as [sleeping sickness](https://pl.wikipedia.org/wiki/Śpiączka_afrykańska).
 
 ## Assessment
 

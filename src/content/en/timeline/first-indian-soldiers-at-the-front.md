@@ -2,7 +2,7 @@
 title: First Indian soldiers at the front
 summary: A British chronicle records the arrival of the first Indian soldiers at the front on 19 October 1914. They entered the trenches at Messines on 22–23 October.
 source: pierwsi-zolnierze-indyjscy-na-froncie
-sourceHash: f28a28ccf4535c8a8269421c66541ac1d2b11f3a
+sourceHash: 7e765ba97edd4bce9c8b7a8790d6f93138b3705b
 ---
 
 A British chronicle of the war records under 19 October 1914 the arrival at the front in Flanders of the first units of Indian Expeditionary Force "A". This was the Indian Lahore Division, which [had landed at Marseille in September](/korpus-indyjski-laduje-w-marsylii). In practice the date marks the start of the division's move north. The first soldiers from India entered the trenches a few days later, on 22 and 23 October.
@@ -21,6 +21,6 @@ On the morning of 23 October the 129th Baluchis relieved one of the cavalry brig
 
 ## Under fire
 
-On 26 October the 57th and the Connaught Rangers took part in a cavalry attack towards Oosttaverne and captured the first line of German trenches. A few days later, on 30 and 31 October, came the great German attack on the Messines ridge and Hollebeke. In the last two days of October the 57th lost some 300 of its 750 men, and the 129th Baluchis about 240. On 31 October at Hollebeke Sepoy Khudadad Khan of the 129th became the first soldier of the Indian Army to win the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+On 26 October the 57th and the Connaught Rangers took part in a cavalry attack towards Oosttaverne and captured the first line of German trenches. A few days later, on 30 and 31 October, came the great German attack on the Messines ridge and Hollebeke. In the last two days of October the 57th lost some 300 of its 750 men, and the 129th Baluchis about 240. On 31 October at Hollebeke Sepoy Khudadad Khan of the 129th became the first soldier of the Indian Army to win the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 At the end of October the corps' second division, the Meerut Division, reached Flanders, and the two divisions under General James Willcocks took over a sector of the front at La Bassée and Neuve-Chapelle. In the first winter of the war the soldiers from India largely filled the gap left by the bled-white battalions of the old British army.

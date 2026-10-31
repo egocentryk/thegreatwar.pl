@@ -27,7 +27,7 @@ Powstanie wielkopolskie wybuchło niespodziewanie, w czasie wizyty [Ignacego Jan
 
 ## Nazwa i daty
 
-Nazwa „powstanie wielkopolskie” jest w Polsce powszechnie przyjęta, choć w samym 1918 roku mówiono raczej o „wypadkach poznańskich” czy „powstaniu grudniowym”. W literaturze niemieckiej używa się nazw „powstanie poznańskie” (Posener Aufstand) lub „wielkopolskie”. Za początek przyjmuje się wybuch walk w Poznaniu 27 grudnia 1918 roku, a za koniec podpisanie w Trewirze 16 lutego 1919 roku kolejnego przedłużenia [rozejmu z Compiègne](/rozejm-w-compiegne), który objął także front wielkopolski. Potyczki na linii demarkacyjnej zdarzały się jednak jeszcze przez kilka miesięcy, aż do podpisania [traktatu wersalskiego](https://pl.wikipedia.org/wiki/Traktat_wersalski) 28 czerwca 1919 roku. Od 2021 roku 27 grudnia jest w Polsce [świętem państwowym](https://pl.wikipedia.org/wiki/Narodowy_Dzień_Zwycięskiego_Powstania_Wielkopolskiego).
+Nazwa „powstanie wielkopolskie” jest w Polsce powszechnie przyjęta, choć w samym 1918 roku mówiono raczej o „wypadkach poznańskich” czy „powstaniu grudniowym”. W literaturze niemieckiej używa się nazw „powstanie poznańskie” (Posener Aufstand) lub „wielkopolskie”. Za początek przyjmuje się wybuch walk w Poznaniu 27 grudnia 1918 roku, a za koniec podpisanie w Trewirze 16 lutego 1919 roku kolejnego przedłużenia [rozejmu z Compiègne](/rozejm-w-compiegne), który objął także front wielkopolski. Potyczki na linii demarkacyjnej zdarzały się jednak jeszcze przez kilka miesięcy, aż do podpisania [traktatu wersalskiego](/slownik/traktat-wersalski) 28 czerwca 1919 roku. Od 2021 roku 27 grudnia jest w Polsce [świętem państwowym](https://pl.wikipedia.org/wiki/Narodowy_Dzień_Zwycięskiego_Powstania_Wielkopolskiego).
 
 ## Tło
 

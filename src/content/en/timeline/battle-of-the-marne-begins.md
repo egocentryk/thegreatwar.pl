@@ -2,7 +2,7 @@
 title: Battle of the Marne begins
 summary: On 6 September 1914 the French armies and the British went over to the counter-offensive from Paris to Verdun. The battle that decided 1914 had begun.
 source: poczatek-bitwy-nad-marna
-sourceHash: d6f525dafcf1e24717a24b98872dd29c30a607e1
+sourceHash: 02db49e86df1b91d04ec564cdaa7db1b1161a56e
 brief:
   - "On 6 September 1914, after two weeks of retreat, the French armies and the British Expeditionary Force struck at the Germans on a front about 200 kilometres long, from the outskirts of Paris to Verdun."
   - "Instead of passing west of Paris, Kluck turned south-east and crossed the Marne on 3 September. General Joseph Gallieni saw that the German flank now lay exposed to the capital's garrison."
@@ -15,7 +15,7 @@ On 6 September 1914, after two weeks of retreat, the French armies and the [Brit
 
 ## The Germans at the gates of Paris
 
-At the beginning of September it seemed that the German plan for victory in the west, known as the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena), was close to fulfilment. After their defeats in the [Battle of the Frontiers](/bitwy/bitwa-graniczna) the French and British had been retreating for almost two weeks. Five German armies of the right wing and centre, from the 1st Army of General [Alexander von Kluck](/postacie/alexander-von-kluck) in the west to the 5th Army of Crown Prince Wilhelm at Verdun, were pressing southwards. The French government had left Paris for Bordeaux, and German cavalry patrols were appearing a few dozen kilometres from the capital.
+At the beginning of September it seemed that the German plan for victory in the west, known as the [Schlieffen Plan](/slownik/plan-schlieffena), was close to fulfilment. After their defeats in the [Battle of the Frontiers](/bitwy/bitwa-graniczna) the French and British had been retreating for almost two weeks. Five German armies of the right wing and centre, from the 1st Army of General [Alexander von Kluck](/postacie/alexander-von-kluck) in the west to the 5th Army of Crown Prince Wilhelm at Verdun, were pressing southwards. The French government had left Paris for Bordeaux, and German cavalry patrols were appearing a few dozen kilometres from the capital.
 
 The plan assumed that the German right wing would pass west of Paris and close the French armies in a great encirclement. Kluck, however, did not take that route. At the end of August, wishing to catch the retreating French 5th Army and prevent its escape, he turned south-east, so that his troops would pass east of Paris. The chief of the German General Staff, [Helmuth von Moltke](/postacie/helmuth-von-moltke), commanding from distant Luxembourg, accepted this move and merely instructed Kluck to cover the right flank on the Paris side. Kluck, sure that the French were already beaten, crossed the Marne on 3 September and pressed on south, leaving only a weak screen behind him.
 

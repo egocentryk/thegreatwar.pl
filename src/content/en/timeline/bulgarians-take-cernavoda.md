@@ -2,10 +2,10 @@
 title: Bulgarians take Cernavodă
 summary: On 25 October 1916 the Bulgarians entered Cernavodă, left by the Romanians overnight. With it they lost the great railway bridge over the Danube.
 source: bulgarzy-zdobywaja-cernavode
-sourceHash: 50baeda9243f2b84b33b6bbce2401b0f7382c3d3
+sourceHash: 9cab5bbe02e73c67ce4ce1fce0c3334a219706ef
 ---
 
-Before noon on 25 October 1916 Bulgarian troops entered [Cernavodă](https://pl.wikipedia.org/wiki/Cernavodă), a town on the [Danube](https://pl.wikipedia.org/wiki/Dunaj) where the railway from Bucharest to Constanța crossed the river. The Romanians had evacuated the bridgehead during the night, and the Bulgarians learned of it only in the morning from a German liaison officer. This is how the Romanian historian Constantin Kirițescu describes it; according to him they entered the town at about ten o'clock and still had to fight a bloody action in the streets against Romanian rearguards. The Austrian official history states that the enemy had already given up the bridgehead to General Toshev's group on 24 October. In Romania, which still used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 12 October.
+Before noon on 25 October 1916 Bulgarian troops entered [Cernavodă](https://pl.wikipedia.org/wiki/Cernavodă), a town on the [Danube](https://pl.wikipedia.org/wiki/Dunaj) where the railway from Bucharest to Constanța crossed the river. The Romanians had evacuated the bridgehead during the night, and the Bulgarians learned of it only in the morning from a German liaison officer. This is how the Romanian historian Constantin Kirițescu describes it; according to him they entered the town at about ten o'clock and still had to fight a bloody action in the streets against Romanian rearguards. The Austrian official history states that the enemy had already given up the bridgehead to General Toshev's group on 24 October. In Romania, which still used the [Julian calendar](/slownik/kalendarz-julianski), it was 12 October.
 
 ## Defending the bridgehead
 

@@ -2,7 +2,7 @@
 title: Germany mobilises and declares war on Russia
 summary: On 1 August 1914 Germany ordered general mobilisation and in the evening declared war on Russia. The war ceased to be a Balkan conflict.
 source: niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji
-sourceHash: 7a32f87d1e971336146e6b9d342943bb74714aca
+sourceHash: ffed2506fd8e7020e11674e2692dedb7368d5921
 brief:
   - "On 1 August 1914 Kaiser Wilhelm II ordered general mobilisation, and in the evening Germany declared war on Russia. For the first time one great power had declared war on another."
   - "At noon the German ultimatum demanding that Russia halt its mobilisation expired. Ambassador Friedrich von Pourtalès asked Sazonov three times whether Russia would stop, then handed over the note."
@@ -30,6 +30,6 @@ Meanwhile German soldiers had already entered [Troisvierges](https://pl.wikipedi
 
 ## A war on two fronts
 
-Although Germany had declared war on Russia, its [war plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) assumed that the main blow would fall first on France, before Russia could fully mobilise its forces. In the east, meanwhile, a relatively small army was to defend East Prussia. That is why only two days later, on 3 August, Germany declared war on [France](/kraje/francja), and on 4 August it entered Belgium, which settled Great Britain's entry into the war.
+Although Germany had declared war on Russia, its [war plan](/slownik/plan-schlieffena) assumed that the main blow would fall first on France, before Russia could fully mobilise its forces. In the east, meanwhile, a relatively small army was to defend East Prussia. That is why only two days later, on 3 August, Germany declared war on [France](/kraje/francja), and on 4 August it entered Belgium, which settled Great Britain's entry into the war.
 
 1 August 1914 was therefore the day on which a local conflict definitively became a European war. From that moment the mobilisation machinery of the great powers could no longer be stopped.

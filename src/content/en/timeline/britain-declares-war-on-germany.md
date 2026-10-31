@@ -2,7 +2,7 @@
 title: Britain declares war on Germany
 summary: At 11 p.m. London time on 4 August 1914 the ultimatum expired. Britain and its whole empire found themselves at war with Germany.
 source: wielka-brytania-wypowiada-wojne-niemcom
-sourceHash: e79b0d03cc287c31d3184b28fc18a91ac4cd4359
+sourceHash: a6a86028d57cc4be7119be01ca05a941ce7f5677
 brief:
   - "At 11 p.m. London time on 4 August 1914 the British ultimatum expired. Berlin had given no assurance that it would respect Belgian neutrality, and Great Britain was at war with Germany."
   - "The immediate cause was Belgium, whose neutrality Britain had guaranteed since 1839. Sir Edward Grey and most of the cabinet also feared German domination of the Continent and the threat from its fleet."
@@ -14,7 +14,7 @@ On 4 August 1914 at 11 p.m. London time, that is midnight in Berlin, the British
 
 ## The last hours of peace
 
-All day London waited for a reply that never came. In the afternoon the prime minister, [H. H. Asquith](/postacie/herbert-henry-asquith), informed the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) that the ultimatum had been sent. In the evening crowds gathered outside [Buckingham Palace](https://pl.wikipedia.org/wiki/Pałac_Buckingham) and in the streets of Westminster, singing patriotic songs. When Big Ben struck eleven, war became a fact. King [George V](/postacie/jerzy-v) wrote in his diary that evening that it was a terrible catastrophe, but not Britain's fault.
+All day London waited for a reply that never came. In the afternoon the prime minister, [H. H. Asquith](/postacie/herbert-henry-asquith), informed the [House of Commons](/slownik/izba-gmin) that the ultimatum had been sent. In the evening crowds gathered outside [Buckingham Palace](https://pl.wikipedia.org/wiki/Pałac_Buckingham) and in the streets of Westminster, singing patriotic songs. When Big Ben struck eleven, war became a fact. King [George V](/postacie/jerzy-v) wrote in his diary that evening that it was a terrible catastrophe, but not Britain's fault.
 
 The German ambassador in London, Prince [Karl Max von Lichnowsky](https://pl.wikipedia.org/wiki/Karol_Lichnowsky), was handed the documents establishing the state of war. Lichnowsky, who had tried to the very end to prevent a conflict between the two countries, left London a few days later.
 

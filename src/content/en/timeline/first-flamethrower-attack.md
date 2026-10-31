@@ -2,10 +2,10 @@
 title: First flamethrower attack
 summary: On 26 February 1915, in the Malancourt wood near Verdun, Bernhard Reddemann's German detachment attacked French trenches with flamethrowers.
 source: pierwszy-atak-miotaczami-ognia
-sourceHash: ebc3cf503e1faa03e1e1f1dc2520e5227643e6ed
+sourceHash: 408066d27076a438a53deb2053af81254d8d559f
 ---
 
-On 26 February 1915, in the Malancourt wood on the west bank of the Meuse, north-west of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), the Germans attacked French trenches with a new weapon. The experimental detachment of Landwehr Major Bernhard Reddemann drenched the enemy positions with jets of burning liquid from [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia). The British, who encountered the weapon themselves a few months later, called it *liquid fire*. This attack is usually regarded as the first combat use of flamethrowers in this war.
+On 26 February 1915, in the Malancourt wood on the west bank of the Meuse, north-west of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), the Germans attacked French trenches with a new weapon. The experimental detachment of Landwehr Major Bernhard Reddemann drenched the enemy positions with jets of burning liquid from [flamethrowers](/slownik/miotacz-ognia). The British, who encountered the weapon themselves a few months later, called it *liquid fire*. This attack is usually regarded as the first combat use of flamethrowers in this war.
 
 ## The fireman and the pyrotechnist
 

@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Obernkirchen (now Lower Saxony)
 deathPlace: Marktredwitz (Bavaria)
 source: reinhard-scheer
-sourceHash: 58761769cbcba310be1bfdcc62fa08a6afaf3710
+sourceHash: b6b8c499cc3368d688138852d57c13def9e5e559
 ---
 
 Reinhard Scheer commanded the German High Seas Fleet in the only great clash of battle fleets of the First World War. At Jutland in 1916 his smaller fleet inflicted heavier losses on the British than it suffered itself, and twice broke out of a trap set by the Grand Fleet. Scheer soon concluded, however, that even the most successful battle at sea would not force Britain to make peace, and he became one of the loudest advocates of unrestricted submarine warfare, which in 1917 drew the United States into the war. In the last months of the war he directed the whole German war at sea. The plan for a final battle of the fleet, prepared by him and Hipper in October 1918, provoked a mutiny of the sailors with which the revolution in Germany began.
@@ -33,7 +33,7 @@ Scheer did not know that the British codebreakers of [Room 40](https://pl.wikipe
 
 At the [Battle of Jutland](/bitwy/bitwa-jutlandzka), at about 6.30 p.m., Scheer saw a long line of British dreadnoughts firing at his ships out of the mist to the north and east. He ordered the 180-degree simultaneous turn of all ships that had been practised for years (*Gefechtskehrtwendung*), and the fleet vanished from British view. Less than half an hour later, to the enemy's surprise, he turned east again. He himself wrote that he wanted to strike a second blow and possibly rescue the crew of the disabled cruiser *Wiesbaden*, while the British official history holds that he was more likely hoping to slip past astern of the Grand Fleet. His leading ships again came under the fire of the British line. Scheer turned away for the third time and, to cover the move, threw his torpedo boats and battlecruisers at the British with orders to ram the enemy. Jellicoe turned his battleships away from the torpedoes and contact was lost. During the night Scheer, determined to break through by the shortest route whatever the cost, passed through the British destroyers behind the Grand Fleet and on the morning of 1 June was safe off the Horns Reef.
 
-The Germans proclaimed a great victory at the Skagerrak. Scheer was promoted to admiral and received the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). In his report to the Kaiser of 4 July, however, he wrote that even the most successful battle would not force Britain to make peace, and that only submarine warfare against her trade, waged without restrictions, could do so.
+The Germans proclaimed a great victory at the Skagerrak. Scheer was promoted to admiral and received the [Pour le Mérite](/slownik/pour-le-merite). In his report to the Kaiser of 4 July, however, he wrote that even the most successful battle would not force Britain to make peace, and that only submarine warfare against her trade, waged without restrictions, could do so.
 
 ## After Jutland
 

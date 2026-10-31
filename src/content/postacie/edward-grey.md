@@ -50,7 +50,7 @@ Grey firmował też obietnice składane Arabom i podział Turcji. W październik
 
 ## Blokada i Ameryka
 
-Drugim wielkim zadaniem Greya było utrzymanie dobrych stosunków ze Stanami Zjednoczonymi przy jednoczesnym zaciskaniu [blokady morskiej](https://pl.wikipedia.org/wiki/Blokada_morska) Niemiec. Blokada uderzała w amerykański handel, a Waszyngton protestował w kolejnych notach. Grey [odpowiadał na nie cierpliwie](/londyn-broni-blokady-przed-protestem-usa), zaostrzając kontrolę handlu krok po kroku, tak by nie przekroczyć granicy, za którą Ameryka mogłaby zrobić coś więcej niż protestować. Przez to w Londynie zarzucano mu, że blokada jest dziurawa, a Foreign Office każe zwalniać zatrzymane statki. W lutym 1916 roku sprawy blokady przejął [osobny minister](/robert-cecil-ministrem-blokady). Grey przyjaźnił się z doradcą prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson), pułkownikiem Edwardem House'em, i w lutym 1916 roku uzgodnił z nim memorandum o możliwej amerykańskiej mediacji. Był jednym z niewielu brytyjskich polityków, którzy poważnie traktowali myśl o pokoju z udziałem Ameryki, ale gabinet i sojusznicy nie podzielali jego zainteresowania.
+Drugim wielkim zadaniem Greya było utrzymanie dobrych stosunków ze Stanami Zjednoczonymi przy jednoczesnym zaciskaniu [blokady morskiej](/slownik/blokada) Niemiec. Blokada uderzała w amerykański handel, a Waszyngton protestował w kolejnych notach. Grey [odpowiadał na nie cierpliwie](/londyn-broni-blokady-przed-protestem-usa), zaostrzając kontrolę handlu krok po kroku, tak by nie przekroczyć granicy, za którą Ameryka mogłaby zrobić coś więcej niż protestować. Przez to w Londynie zarzucano mu, że blokada jest dziurawa, a Foreign Office każe zwalniać zatrzymane statki. W lutym 1916 roku sprawy blokady przejął [osobny minister](/robert-cecil-ministrem-blokady). Grey przyjaźnił się z doradcą prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson), pułkownikiem Edwardem House'em, i w lutym 1916 roku uzgodnił z nim memorandum o możliwej amerykańskiej mediacji. Był jednym z niewielu brytyjskich polityków, którzy poważnie traktowali myśl o pokoju z udziałem Ameryki, ale gabinet i sojusznicy nie podzielali jego zainteresowania.
 
 ## Odejście
 
@@ -58,7 +58,7 @@ Grey źle znosił ciężar wojny. Od lat chorował na oczy i stopniowo tracił w
 
 ## Po wojnie
 
-Od 1918 roku przewodniczył stowarzyszeniu popierającemu [Ligę Narodów](https://pl.wikipedia.org/wiki/Liga_Narodów). W 1919 roku pojechał na kilka miesięcy jako ambasador do Waszyngtonu, by przekonać Amerykanów do traktatu wersalskiego i Ligi, ale nie zdołał nawet spotkać się ze sparaliżowanym po udarze Wilsonem. W latach 1923–1924 był przywódcą liberałów w Izbie Lordów, a od 1928 roku kanclerzem Uniwersytetu Oksfordzkiego. W 1925 roku wydał wspomnienia „Twenty-Five Years”, a dwa lata później cenioną książkę o ptakach. Zmarł niemal niewidomy w Fallodon 7 września 1933 roku.
+Od 1918 roku przewodniczył stowarzyszeniu popierającemu [Ligę Narodów](/slownik/liga-narodow). W 1919 roku pojechał na kilka miesięcy jako ambasador do Waszyngtonu, by przekonać Amerykanów do traktatu wersalskiego i Ligi, ale nie zdołał nawet spotkać się ze sparaliżowanym po udarze Wilsonem. W latach 1923–1924 był przywódcą liberałów w Izbie Lordów, a od 1928 roku kanclerzem Uniwersytetu Oksfordzkiego. W 1925 roku wydał wspomnienia „Twenty-Five Years”, a dwa lata później cenioną książkę o ptakach. Zmarł niemal niewidomy w Fallodon 7 września 1933 roku.
 
 ## Ocena
 

@@ -2,7 +2,7 @@
 title: End of the Battle of Loos
 summary: On 8 October 1915 the Germans tried to retake Loos and their lost trenches. The Allies repulsed them, and British nomenclature ends the battle that day.
 source: koniec-bitwy-pod-loos
-sourceHash: 9ef85f9a82ef10852ebeb253a6a9aac796cbb129
+sourceHash: b5b787abb347a3583c3d47f985e263119ce95ba3
 ---
 
 On the afternoon of 8 October 1915 the Germans launched their last major attack in the Battle of [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle). They wanted to recover the village and the trenches they had lost on [25 September](/poczatek-bitwy-pod-loos), the first day of the British offensive. They attacked on the sector from the Double Crassier slag heaps near [Lens](https://pl.wikipedia.org/wiki/Lens) to the La Bassée Canal, but were everywhere repulsed with heavy losses. The Battles Nomenclature Committee set up in Britain after the war ends the Battle of Loos on this day. It named the further fighting, for the Hohenzollern Redoubt, separately. James Edmonds's British official history did not accept this division and regarded the October attacks as a continuation of the same battle.
@@ -21,7 +21,7 @@ The right wing attacked from Bois Hugo and the Puits 14 bis pit against the Brit
 
 ## The bombing fight
 
-The fighting lasted longest in the north, at the Hohenzollern Redoubt and the quarries near [Hulluch](https://pl.wikipedia.org/wiki/Hulluch). It was defended by soldiers of the British Guards Division, who for the first time had plenty of the new [Mills hand grenades](https://pl.wikipedia.org/wiki/Bomba_Millsa), according to the British official history about 9,000. German assault groups armed with grenades worked their way along the communication trenches. One of them succeeded in driving a battalion of the Grenadier Guards out of a trench the British called Big Willie. A counter-attack by guardsmen of the Coldstream, Scots and Irish Guards recovered it after fierce fighting. Oliver Brooks, an NCO of the Coldstream Guards who led one of the bombing parties, received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for it. At dusk the German columns advancing across the open from Fosse 8 were broken up by fire from the Guards' trenches.
+The fighting lasted longest in the north, at the Hohenzollern Redoubt and the quarries near [Hulluch](https://pl.wikipedia.org/wiki/Hulluch). It was defended by soldiers of the British Guards Division, who for the first time had plenty of the new [Mills hand grenades](https://pl.wikipedia.org/wiki/Bomba_Millsa), according to the British official history about 9,000. German assault groups armed with grenades worked their way along the communication trenches. One of them succeeded in driving a battalion of the Grenadier Guards out of a trench the British called Big Willie. A counter-attack by guardsmen of the Coldstream, Scots and Irish Guards recovered it after fierce fighting. Oliver Brooks, an NCO of the Coldstream Guards who led one of the bombing parties, received the [Victoria Cross](/slownik/krzyz-wiktorii) for it. At dusk the German columns advancing across the open from Fosse 8 were broken up by fire from the Guards' trenches.
 
 In the evening the British 12th Division also attacked, as planned earlier, a section of Gun Trench by the Vermelles–Hulluch road. One of its battalions broke into the German trench, but ran out of grenades and had to withdraw. After dark the fighting died down. The German attack had collapsed along the whole front.
 

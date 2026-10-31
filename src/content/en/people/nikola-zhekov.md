@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Sliven (Ottoman Empire, now Bulgaria)
 deathPlace: Füssen (Germany)
 source: nikola-zekow
-sourceHash: 64fefea7d00d9fe960105584c5616a0df7969fdb
+sourceHash: 059484061a76e1026ef0040bb5395bc43374e163
 ---
 
 Throughout the war that Bulgaria waged on the side of the Central Powers, Nikola Zhekov stood at the head of its army. Formally the commander-in-chief was Tsar [Ferdinand](/postacie/ferdynand-i-koburg), but it was Zhekov, as commander of the field army, who directed the troops in the Serbian campaign of 1915, in the war with Romania and through three years of fighting on the Macedonian front. He was among the most resolute supporters of the alliance with Germany, with which he cooperated, though not without disputes. His command ended in disaster: when the Allies broke through the front at Dobro Pole in September 1918, he was undergoing medical treatment in Vienna. After the war a court convicted him as one of those responsible for the "second national catastrophe", and in the 1930s he became one of the leaders of the Bulgarian far right.
@@ -23,7 +23,7 @@ In the summer of 1915 Bulgaria was wavering between the two coalitions. In Augus
 
 Zhekov had three armies. In accordance with the convention, he placed the [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) under the orders of Field Marshal [August von Mackensen](/postacie/august-von-mackensen), who commanded the whole expedition against Serbia. The Second Army of General [Georgi Todorov](/postacie/georgi-todorow) remained under direct Bulgarian command and was to enter Serbian Macedonia, while the Third Army of General [Stefan Toshev](/postacie/stefan-toszew) guarded the border with Romania. After the [declaration of war on Serbia](/bulgaria-i-serbia-wypowiadaja-sobie-wojne) on 14 October the Second Army cut the railway to Salonika within a week, and at the beginning of November the First Army [took Niš](/bulgarzy-zajmuja-nisz). Zhekov then informed the Prime Minister, [Vasil Radoslavov](/postacie/wasil-radoslawow), that the Bulgarian flag was flying over the fortress "for ever". On 6 November at Paraćin he met [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) and Mackensen to agree on further operations.
 
-At the end of the year, after the [conquest of Serbia](/bitwy/podboj-serbii) and the expulsion of the French and British from Macedonia, the Bulgarian troops stood on the Greek border. There they halted at the demand of the Germans, who did not want to push neutral Greece into the Entente camp. For Zhekov and the Bulgarian staff this was a decision hard to accept, as it allowed the Allies to entrench themselves at Salonika. In January 1916 Emperor Wilhelm II awarded him the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite).
+At the end of the year, after the [conquest of Serbia](/bitwy/podboj-serbii) and the expulsion of the French and British from Macedonia, the Bulgarian troops stood on the Greek border. There they halted at the demand of the Germans, who did not want to push neutral Greece into the Entente camp. For Zhekov and the Bulgarian staff this was a decision hard to accept, as it allowed the Allies to entrench themselves at Salonika. In January 1916 Emperor Wilhelm II awarded him the [Pour le Mérite](/slownik/pour-le-merite).
 
 ## 1916: Greece, Romania and Bitola
 

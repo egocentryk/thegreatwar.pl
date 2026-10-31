@@ -6,7 +6,7 @@ country: France
 birthPlace: Nantes (France)
 deathPlace: Paris
 source: aristide-briand
-sourceHash: cfcc758b734e19305e5175e6cfbb971ca6a55465
+sourceHash: bbfb373561c4053d00b9c8e94cd9881d032dc9bc
 ---
 
 Aristide Briand was France's longest-serving Prime Minister during the war. He governed from October 1915 to March 1917, and thus through Verdun, the Somme, the entry into the war and defeat of Romania, and the fiercest disputes over who should direct the war: the government, parliament or the high command. A former socialist and a master of parliamentary compromise, he could reconcile quarrelling factions, but was not always able to take hard decisions. He was the chief champion of the Salonika expedition and of the policy that turned Greece into a battlefield of diplomats. He removed Joffre from command and staked everything on Nivelle, which turned against him. After the war, as Foreign Minister for many years, he became the symbol of reconciliation with Germany and in 1926 received the Nobel Peace Prize.
@@ -39,7 +39,7 @@ The government fell for a reason that seemed secondary. On 14 March Lyautey, sho
 
 ## After the war
 
-He returned to power in January 1921 as Prime Minister and Foreign Minister. A year later he fell after the Cannes conference, where the press portrayed him as a politician too compliant towards the British. From 1925 until January 1932, almost until his death, with a short break, he directed French diplomacy. He negotiated the [Locarno Treaties](https://pl.wikipedia.org/wiki/Traktaty_lokarneńskie) of 1925, for which in 1926 he received the Nobel Peace Prize together with [Gustav Stresemann](https://pl.wikipedia.org/wiki/Gustav_Stresemann). In 1928, with the American Secretary of State Frank Kellogg, he brought about the [pact renouncing war](https://pl.wikipedia.org/wiki/Pakt_Brianda-Kellogga), and in 1929 at the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów) he proposed a European federation. In all he headed the government eleven times. In May 1931 he lost the presidential election to Paul Doumer. He died in Paris on 7 March 1932.
+He returned to power in January 1921 as Prime Minister and Foreign Minister. A year later he fell after the Cannes conference, where the press portrayed him as a politician too compliant towards the British. From 1925 until January 1932, almost until his death, with a short break, he directed French diplomacy. He negotiated the [Locarno Treaties](https://pl.wikipedia.org/wiki/Traktaty_lokarneńskie) of 1925, for which in 1926 he received the Nobel Peace Prize together with [Gustav Stresemann](https://pl.wikipedia.org/wiki/Gustav_Stresemann). In 1928, with the American Secretary of State Frank Kellogg, he brought about the [pact renouncing war](https://pl.wikipedia.org/wiki/Pakt_Brianda-Kellogga), and in 1929 at the [League of Nations](/slownik/liga-narodow) he proposed a European federation. In all he headed the government eleven times. In May 1931 he lost the presidential election to Paul Doumer. He died in Paris on 7 March 1932.
 
 ## Assessment
 

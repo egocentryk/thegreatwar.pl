@@ -2,7 +2,7 @@
 title: Germans retreat from the Marne
 summary: On 9 September 1914 the German 1st and 2nd Armies began to retreat from the Marne, sealed by Moltke's envoy Hentsch. The plan for a quick victory failed.
 source: niemcy-wycofuja-sie-znad-marny
-sourceHash: 4f7ce9e39cbac49fe0707e07b377df7856a7b6a1
+sourceHash: 839c0c613a7db54ee3c581ffa98bd3cb65d81f1f
 brief:
   - "On 9 September 1914 General Karl von Bülow's German 2nd Army, and a few hours later General Alexander von Kluck's 1st Army, began to withdraw from the Marne. That day the Battle of the Marne was decided."
   - "Kluck had moved corps to the Ourcq against Maunoury's 6th Army, opening a gap some 40–50 kilometres wide between him and Bülow. The British and the left wing of the French 5th Army were entering it."
@@ -53,4 +53,4 @@ Many German officers, both during the war and after it, blamed Hentsch for "givi
 
 ## Significance
 
-The retreat from the Marne meant the collapse of the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) in the form in which Germany had entered the war. France had not been defeated in a few weeks, and Germany had to prepare for a long war on two fronts. Paris, which only a few days earlier German patrols had been a few dozen kilometres from, was saved. The Allies, exhausted by three weeks of retreat and several days of battle, were however unable to turn the German retreat into a rout. Soon the front came to a halt on the Aisne, and the war in the west began to turn into trench warfare.
+The retreat from the Marne meant the collapse of the [Schlieffen Plan](/slownik/plan-schlieffena) in the form in which Germany had entered the war. France had not been defeated in a few weeks, and Germany had to prepare for a long war on two fronts. Paris, which only a few days earlier German patrols had been a few dozen kilometres from, was saved. The Allies, exhausted by three weeks of retreat and several days of battle, were however unable to turn the German retreat into a rout. Soon the front came to a halt on the Aisne, and the war in the west began to turn into trench warfare.

@@ -24,6 +24,6 @@ Sazonow natychmiast przekazał decyzję telefonicznie szefowi sztabu generalnego
 
 ## Krok, którego nie dało się cofnąć
 
-Mobilizacja powszechna [Rosji](/kraje/rosja) była decyzją o znaczeniu zasadniczym. Niemiecki [plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena) zakładał, że w razie wojny na dwa fronty Niemcy muszą najpierw szybko pokonać Francję, zanim Rosja zdąży zmobilizować swoje ogromne siły. Z punktu widzenia niemieckiego sztabu generalnego każdy dzień rosyjskiej mobilizacji skracał czas na realizację tego planu.
+Mobilizacja powszechna [Rosji](/kraje/rosja) była decyzją o znaczeniu zasadniczym. Niemiecki [plan Schlieffena](/slownik/plan-schlieffena) zakładał, że w razie wojny na dwa fronty Niemcy muszą najpierw szybko pokonać Francję, zanim Rosja zdąży zmobilizować swoje ogromne siły. Z punktu widzenia niemieckiego sztabu generalnego każdy dzień rosyjskiej mobilizacji skracał czas na realizację tego planu.
 
 Reakcja Berlina była szybka. 31 lipca Niemcy ogłosiły stan zagrożenia wojennego i wystosowały do Rosji ultimatum, żądając wstrzymania mobilizacji. Gdy Petersburg go nie przyjął, 1 sierpnia Niemcy wypowiedziały Rosji wojnę. Decyzja podjęta 30 lipca w Peterhofie przesądziła, że konflikt przestanie być wojną na Bałkanach i stanie się wojną wielkich mocarstw.

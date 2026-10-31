@@ -2,14 +2,14 @@
 title: Auxiliary cruiser Prinz Eitel Friedrich sails from Tsingtao
 summary: In early August 1914 the armed liner Prinz Eitel Friedrich left the German base of Tsingtao in China to join Admiral von Spee's squadron.
 source: prinz-eitel-friedrich-wyplywa-z-tsingtao
-sourceHash: fbc86ad92b05c4a4bd8fcce23b1d367763bf1dc6
+sourceHash: fba5cf0c411ff4bdc7c76b3dc77ae3a8b41fea69
 ---
 
 At the beginning of August 1914 the auxiliary cruiser Prinz Eitel Friedrich sailed from Tsingtao, today's [Qingdao](https://pl.wikipedia.org/wiki/Qingdao), the German naval base on the coast of China. Contemporary chronicles give the date as 6 August; other sources point to 5 August, the day on which the ship was officially commissioned.
 
 ## A liner with guns
 
-Prinz Eitel Friedrich was a passenger ship of the [Norddeutscher Lloyd](https://pl.wikipedia.org/wiki/Norddeutscher_Lloyd) company, serving routes in the Far East. The outbreak of war found her at Tsingtao. The German navy quickly converted her into an [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy), fitting guns taken from obsolete gunboats stationed in the port. Her crew was made up with sailors from those vessels.
+Prinz Eitel Friedrich was a passenger ship of the [Norddeutscher Lloyd](https://pl.wikipedia.org/wiki/Norddeutscher_Lloyd) company, serving routes in the Far East. The outbreak of war found her at Tsingtao. The German navy quickly converted her into an [auxiliary cruiser](/slownik/krazownik-pomocniczy), fitting guns taken from obsolete gunboats stationed in the port. Her crew was made up with sailors from those vessels.
 
 ## A cruise across two oceans
 

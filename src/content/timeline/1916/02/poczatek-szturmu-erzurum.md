@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 12 lutego 1916 roku początek rosyjskiego ataku na [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), największą twierdzę osmańską we wschodniej Anatolii. Według historii wojen kaukaskich W.E.D. Allena i Pawła Muratowa rosyjska artyleria otworzyła ogień na forty już 11 lutego o 14.00, a piechota ruszyła do szturmu w nocy z 11 na 12 lutego. 12 lutego był więc pierwszym pełnym dniem walk o twierdzę. W Rosji, gdzie obowiązywał [kalendarz juliański](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 30 stycznia.
+Brytyjska chronologia wojny notuje pod 12 lutego 1916 roku początek rosyjskiego ataku na [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), największą twierdzę osmańską we wschodniej Anatolii. Według historii wojen kaukaskich W.E.D. Allena i Pawła Muratowa rosyjska artyleria otworzyła ogień na forty już 11 lutego o 14.00, a piechota ruszyła do szturmu w nocy z 11 na 12 lutego. 12 lutego był więc pierwszym pełnym dniem walk o twierdzę. W Rosji, gdzie obowiązywał [kalendarz juliański](/slownik/kalendarz-julianski), był to 30 stycznia.
 
 ## Twierdza i jej obrońcy
 

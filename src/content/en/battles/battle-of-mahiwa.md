@@ -9,7 +9,7 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Kurt Wahle]
 result: German victory. The British lost about 2,700 men and fell back to Nyangao, but the Germans, who lost more than 500 men and most of their ammunition, had to leave the colony in November.
 source: bitwa-pod-mahiwa
-sourceHash: b108dfc983de758b90ca17dbb29389858a83e3cc
+sourceHash: d08b5c18f190405e8cf17bf200bd41dd079c6d89
 ---
 
 The Battle of Mahiwa was the largest and bloodiest engagement of the campaign in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). For four days, from 15 to 18 October 1917, British columns from [Lindi](https://pl.wikipedia.org/wiki/Lindi) and the Nigerian Brigade, which came up from the north, attacked the positions of General Kurt Wahle on the road from Lindi to Masasi. [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) himself came to Wahle's aid at the last moment with five companies. With about 1,500 men by his own reckoning, he beat off every attack, surrounded two Nigerian battalions for several days and inflicted on the enemy losses such as the British suffered in no other battle of this war in Africa. It was, however, a Pyrrhic victory. The Germans lost about a third of the men engaged, as well as most of their ammunition, and had nothing with which to make good these losses. Five weeks later Lettow-Vorbeck left the colony.
@@ -54,7 +54,7 @@ During the night Beves ordered the Nigerian Brigade to attack at dawn, but the o
 
 Downes states that the British lost 2,700 killed and wounded at Mahiwa out of 4,900 infantry who took part in the fighting: column No. III numbered 1,500 men, column No. IV 1,700, and the Nigerian Brigade 1,750. Most later studies accept this figure. The Nigerian Brigade alone lost, according to Downes, 528 men, including 38 Europeans. Estimates at the time varied: Clifford wrote of about 2,000 killed and wounded on the British side and 800 on the German side, while Lettow-Vorbeck quoted the opinion of a senior British officer who spoke of 1,500, which he considered a decided underestimate.
 
-According to Lettow-Vorbeck the Germans lost 14 Europeans and 81 [askaris](https://pl.wikipedia.org/wiki/Askarysi) killed, 55 Europeans and 367 askaris wounded and two missing, 519 men in all. They captured a gun, nine machine guns and about 200,000 rounds.
+According to Lettow-Vorbeck the Germans lost 14 Europeans and 81 [askaris](/slownik/askarysi) killed, 55 Europeans and 367 askaris wounded and two missing, 519 men in all. They captured a gun, nine machine guns and about 200,000 rounds.
 
 ## Significance
 

@@ -2,7 +2,7 @@
 title: British win at Kut
 summary: On 28 September 1915 Townshend's division skirted the marshes by night and took the Turkish redoubts at Es Sinn. That night the Turks fell back up the Tigris.
 source: brytyjczycy-wygrywaja-pod-al-kutem
-sourceHash: 6c01e3641e3e1caea9532136a7ee1f7db1905921
+sourceHash: 7323849a413f3f6339178e05ecd981e7f21e248d
 ---
 
 On 28 September 1915 the British and Indian troops of General Charles Townshend defeated the Turks at Es Sinn on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about 11 kilometres east of [Kut](https://pl.wikipedia.org/wiki/Al-Kut). After a night march around the marshes, General Walter Delamain's column took the redoubts on the left flank of the Turkish position, and in the evening drove back an approaching Turkish reserve with the bayonet. The British official history calls this action the Battle of Kut. It was the greatest British victory in [Mesopotamia](/bitwy/kampania-mezopotamska) in 1915, but not the one Townshend had hoped for.
@@ -21,7 +21,7 @@ The fighting took place in dreadful conditions. A strong wind raised clouds of d
 
 ## Lieutenant-Commander Cookson
 
-At about six in the evening Townshend suggested to the navy that it try to break through the river barrier after dark. Three armed launches approached without lights, but the Turks spotted them and opened fire from both banks. The flotilla commander, Lieutenant-Commander Edgar Cookson, had the *Comet* laid alongside the boat forming the centre of the barrier and tried himself to cut the cables holding it with an axe. Hit by many bullets, he died ten minutes later. He was posthumously awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). The flotilla turned back with fourteen wounded aboard the *Comet*.
+At about six in the evening Townshend suggested to the navy that it try to break through the river barrier after dark. Three armed launches approached without lights, but the Turks spotted them and opened fire from both banks. The flotilla commander, Lieutenant-Commander Edgar Cookson, had the *Comet* laid alongside the boat forming the centre of the barrier and tried himself to cut the cables holding it with an axe. Hit by many bullets, he died ten minutes later. He was posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii). The flotilla turned back with fourteen wounded aboard the *Comet*.
 
 ## An incomplete victory
 

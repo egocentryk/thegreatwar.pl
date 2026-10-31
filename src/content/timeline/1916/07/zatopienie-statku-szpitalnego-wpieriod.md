@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 lipca 1916 roku o 9.35 (25 czerwca według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), obowiązującego wówczas w Rosji) niemiecki okręt podwodny [U-38](https://pl.wikipedia.org/wiki/SM_U-38) storpedował na [Morzu Czarnym](https://pl.wikipedia.org/wiki/Morze_Czarne) rosyjski [statek szpitalny](https://pl.wikipedia.org/wiki/Statek_szpitalny) Wpieriod („Naprzód”). Statek szybko zatonął u wybrzeży [Lazystanu](https://pl.wikipedia.org/wiki/Lazystan), około 32 mil na południowy zachód od [Batumi](https://pl.wikipedia.org/wiki/Batumi). Zginęło siedem lub osiem osób. Datę i godzinę podaje telegram Czerwonego Krzyża wysłany jeszcze tego samego dnia, a 8 lipca potwierdza też brytyjska broszura o wojnie ze statkami szpitalnymi z 1917 roku. Brytyjska chronologia wojny zapisała to zatopienie pod 10 lipca, a serwis uboat.net podaje 9 lipca.
+8 lipca 1916 roku o 9.35 (25 czerwca według [kalendarza juliańskiego](/slownik/kalendarz-julianski), obowiązującego wówczas w Rosji) niemiecki okręt podwodny [U-38](https://pl.wikipedia.org/wiki/SM_U-38) storpedował na [Morzu Czarnym](https://pl.wikipedia.org/wiki/Morze_Czarne) rosyjski [statek szpitalny](/slownik/statek-szpitalny) Wpieriod („Naprzód”). Statek szybko zatonął u wybrzeży [Lazystanu](https://pl.wikipedia.org/wiki/Lazystan), około 32 mil na południowy zachód od [Batumi](https://pl.wikipedia.org/wiki/Batumi). Zginęło siedem lub osiem osób. Datę i godzinę podaje telegram Czerwonego Krzyża wysłany jeszcze tego samego dnia, a 8 lipca potwierdza też brytyjska broszura o wojnie ze statkami szpitalnymi z 1917 roku. Brytyjska chronologia wojny zapisała to zatopienie pod 10 lipca, a serwis uboat.net podaje 9 lipca.
 
 ## Następca Portugala
 

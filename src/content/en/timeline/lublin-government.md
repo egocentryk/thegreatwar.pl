@@ -2,7 +2,7 @@
 title: Lublin government
 summary: On the night of 6/7 November 1918 the pro-independence left set up the Provisional People's Government of the Republic of Poland in Lublin under Daszyński.
 source: rzad-lubelski
-sourceHash: 84b01bdae6ce11ab8560ecbcc106174439366eb4
+sourceHash: 2d9cee5c8cafbc3ca659f95564bc223dec3fb8c0
 ---
 
 On the night of 6/7 November 1918 posters with the manifesto of a new authority were put up on the streets of [Lublin](https://pl.wikipedia.org/wiki/Lublin). It announced the creation of the [Provisional People's Government of the Republic of Poland](https://pl.wikipedia.org/wiki/Rząd_Ignacego_Daszyńskiego), headed by the Galician socialist [Ignacy Daszyński](/postacie/ignacy-daszynski). The government occupied the building of the former Austro-Hungarian general government, the [Lubomirski Palace](https://pl.wikipedia.org/wiki/Pałac_Lubomirskich_w_Lublinie) on Plac Litewski, and declared itself the authority for the whole of Poland, not just one partition. For the first time since the partitions, a government had been formed on Polish soil that called its state a republic.
@@ -11,7 +11,7 @@ On the night of 6/7 November 1918 posters with the manifesto of a new authority 
 
 The Habsburg monarchy was falling apart before everyone's eyes. At the end of October the Austro-Hungarian administration in the Kingdom ceased to function, and the last [governor-general](https://pl.wikipedia.org/wiki/Generalne_Gubernatorstwo_Lubelskie) in Lublin, General Anton Lipošćak, resigned on 2 November. Poles were taking over power in the towns of the former Austrian occupation zone, as they had a few days earlier [in Kraków](/wyzwolenie-krakowa). In Warsaw, meanwhile, there was confusion. On 4 November the [Regency Council](/deklaracja-rady-regencyjnej) dismissed the government of Józef Świeżyński, which the day before had called, without the Council's consent, for the formation of a national government ([an attempt that went down in history as a coup d'état](https://pl.wikipedia.org/wiki/Zamach_stanu_w_Polsce_(1918))). Current business was henceforth conducted by the officials' [caretaker government of Władysław Wróblewski](https://pl.wikipedia.org/wiki/Prowizorium_rządowe_Władysława_Wróblewskiego).
 
-The pro-independence left did not want to wait for the regents, whom it regarded as a creation of the occupiers. On the night of 1/2 November, at a meeting in the Warsaw flat of [Artur Śliwiński](https://pl.wikipedia.org/wiki/Artur_Śliwiński), it was decided to form a national government. Lublin was chosen as its seat, already free of Austrian rule and safe thanks to strong units of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) (POW). A German garrison was still stationed in Warsaw. By 6 November most of the future ministers were already in Lublin.
+The pro-independence left did not want to wait for the regents, whom it regarded as a creation of the occupiers. On the night of 1/2 November, at a meeting in the Warsaw flat of [Artur Śliwiński](https://pl.wikipedia.org/wiki/Artur_Śliwiński), it was decided to form a national government. Lublin was chosen as its seat, already free of Austrian rule and safe thanks to strong units of the [Polish Military Organisation](/slownik/pow) (POW). A German garrison was still stationed in Warsaw. By 6 November most of the future ministers were already in Lublin.
 
 ## Composition and manifesto
 

@@ -2,10 +2,10 @@
 title: Start of the Erzurum offensive
 summary: In January 1916, in the depths of winter, Yudenich struck the Turks in the Caucasus. The first attacks on Mount Karadağ were to draw their reserves away.
 source: poczatek-ofensywy-erzurumskiej
-sourceHash: 31d35b1cf598773549efbd92875e0c40be1a6328
+sourceHash: 55af8523d6d85fd7ace18fdc69870c175df863f0
 ---
 
-The British chronology of the war records under 11 January 1916 the start of the Russian offensive towards the fortress of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum) in eastern Anatolia. According to the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, the first attack went in a day earlier, on 10 January, and on 11 January the fighting was in full swing. In Russia, which then used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), these were 28 and 29 December 1915, which is why in Russian sources the offensive begins in the old year. The commander of the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)), General [Nikolai Yudenich](/postacie/nikolaj-judenicz), chose the moment deliberately: Orthodox Christmas and New Year, in the middle of a harsh winter on the Armenian Highlands, when no one expected any operations.
+The British chronology of the war records under 11 January 1916 the start of the Russian offensive towards the fortress of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum) in eastern Anatolia. According to the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, the first attack went in a day earlier, on 10 January, and on 11 January the fighting was in full swing. In Russia, which then used the [Julian calendar](/slownik/kalendarz-julianski), these were 28 and 29 December 1915, which is why in Russian sources the offensive begins in the old year. The commander of the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)), General [Nikolai Yudenich](/postacie/nikolaj-judenicz), chose the moment deliberately: Orthodox Christmas and New Year, in the middle of a harsh winter on the Armenian Highlands, when no one expected any operations.
 
 ## A race against time
 

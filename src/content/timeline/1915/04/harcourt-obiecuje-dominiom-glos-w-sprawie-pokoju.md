@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 kwietnia 1915 roku brytyjski minister kolonii [Lewis Harcourt](https://pl.wikipedia.org/wiki/Lewis_Harcourt) zapewnił w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin), że rządy [dominiów](https://pl.wikipedia.org/wiki/Dominium_brytyjskie) będą miały głos przy ustalaniu warunków pokoju. Nie była to nowa deklaracja, lecz pierwsze publiczne ogłoszenie obietnicy, którą Harcourt już w styczniu przekazał w tajemnicy premierom Kanady, Australii, Nowej Zelandii, Związku Południowej Afryki i Nowej Fundlandii.
+14 kwietnia 1915 roku brytyjski minister kolonii [Lewis Harcourt](https://pl.wikipedia.org/wiki/Lewis_Harcourt) zapewnił w [Izbie Gmin](/slownik/izba-gmin), że rządy [dominiów](https://pl.wikipedia.org/wiki/Dominium_brytyjskie) będą miały głos przy ustalaniu warunków pokoju. Nie była to nowa deklaracja, lecz pierwsze publiczne ogłoszenie obietnicy, którą Harcourt już w styczniu przekazał w tajemnicy premierom Kanady, Australii, Nowej Zelandii, Związku Południowej Afryki i Nowej Fundlandii.
 
 ## Odwołana konferencja
 

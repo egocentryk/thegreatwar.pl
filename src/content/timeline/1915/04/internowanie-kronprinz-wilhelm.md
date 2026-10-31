@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 kwietnia 1915 roku w [Newport News](https://pl.wikipedia.org/wiki/Newport_News) w Wirginii władze amerykańskie internowały niemiecki [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Kronprinz Wilhelm. Okręt, który od sierpnia 1914 roku polował na statki państw Ententy na Atlantyku, wszedł do neutralnego portu dwa tygodnie wcześniej, bez węgla i z chorą załogą. Brytyjska chronologia nazywa go ostatnim niemieckim rajderem na oceanach. Rzeczywiście, po jego internowaniu żaden niemiecki okręt nie prowadził już wojny handlowej z dala od Europy. Kolejne rajdery, takie jak Möwe, wyszły w morze dopiero pod koniec 1915 roku, i to z portów niemieckich.
+26 kwietnia 1915 roku w [Newport News](https://pl.wikipedia.org/wiki/Newport_News) w Wirginii władze amerykańskie internowały niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) Kronprinz Wilhelm. Okręt, który od sierpnia 1914 roku polował na statki państw Ententy na Atlantyku, wszedł do neutralnego portu dwa tygodnie wcześniej, bez węgla i z chorą załogą. Brytyjska chronologia nazywa go ostatnim niemieckim rajderem na oceanach. Rzeczywiście, po jego internowaniu żaden niemiecki okręt nie prowadził już wojny handlowej z dala od Europy. Kolejne rajdery, takie jak Möwe, wyszły w morze dopiero pod koniec 1915 roku, i to z portów niemieckich.
 
 ## Liniowiec z działami Karlsruhe
 

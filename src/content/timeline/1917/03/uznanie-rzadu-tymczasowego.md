@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-22 marca 1917 roku (9 marca według kalendarza juliańskiego) ambasador Stanów Zjednoczonych w Piotrogrodzie David R. Francis oficjalnie uznał w imieniu swojego rządu rosyjski [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji). Był to pierwszy formalny akt uznania nowej władzy, która tydzień wcześniej [przejęła rządy](/powstanie-rzadu-tymczasowego) po [abdykacji Mikołaja II](/abdykacja-mikolaja-ii). Tego samego dnia brytyjska [Izba Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) przesłała pozdrowienia Dumie i gratulacje narodowi rosyjskiemu, a 24 marca ambasadorowie Wielkiej Brytanii, Francji i Włoch złożyli wizytę rządowi księcia [Gieorgija Lwowa](/postacie/gieorgij-lwow) i formalnie nawiązali z nim stosunki.
+22 marca 1917 roku (9 marca według kalendarza juliańskiego) ambasador Stanów Zjednoczonych w Piotrogrodzie David R. Francis oficjalnie uznał w imieniu swojego rządu rosyjski [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji). Był to pierwszy formalny akt uznania nowej władzy, która tydzień wcześniej [przejęła rządy](/powstanie-rzadu-tymczasowego) po [abdykacji Mikołaja II](/abdykacja-mikolaja-ii). Tego samego dnia brytyjska [Izba Gmin](/slownik/izba-gmin) przesłała pozdrowienia Dumie i gratulacje narodowi rosyjskiemu, a 24 marca ambasadorowie Wielkiej Brytanii, Francji i Włoch złożyli wizytę rządowi księcia [Gieorgija Lwowa](/postacie/gieorgij-lwow) i formalnie nawiązali z nim stosunki.
 
 ## Pośpiech Amerykanów
 

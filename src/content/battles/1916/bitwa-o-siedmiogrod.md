@@ -31,7 +31,7 @@ W literaturze anglojęzycznej mówi się o bitwie o Transylwanię (Battle of Tra
 
 Przyjmujemy daty 27 sierpnia – 14 października 1916 roku. Pierwsza wyznacza wieczór, w którym rumuńskie straże przednie przekroczyły granicę. Druga pochodzi z austriackiej historii oficjalnej, według której do 14 października niemiecka 9 Armia i austro-węgierska 1 Armia wyparły Rumunów z całych Węgier i Siedmiogrodu, z wyjątkiem wąskich skrawków pod Orszową i przy dwóch przełęczach Karpat Wschodnich. Angielska Wikipedia kończy bitwę 16 października. Późniejsze walki o przełęcze i listopadowe przełamanie w dolinie Jiu należą już do kampanii na Wołoszczyźnie.
 
-Rumunia posługiwała się wtedy [kalendarzem juliańskim](https://pl.wikipedia.org/wiki/Kalendarz_juliański), opóźnionym o 13 dni. W rumuńskich dokumentach i części rumuńskich opracowań wojna zaczęła się więc 14 sierpnia, a Rumuni weszli do Braszowa 16 sierpnia. Na tej stronie wszystkie daty podajemy według kalendarza gregoriańskiego.
+Rumunia posługiwała się wtedy [kalendarzem juliańskim](/slownik/kalendarz-julianski), opóźnionym o 13 dni. W rumuńskich dokumentach i części rumuńskich opracowań wojna zaczęła się więc 14 sierpnia, a Rumuni weszli do Braszowa 16 sierpnia. Na tej stronie wszystkie daty podajemy według kalendarza gregoriańskiego.
 
 ## Tło
 

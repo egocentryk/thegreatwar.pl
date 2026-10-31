@@ -2,10 +2,10 @@
 title: Battle of Mărăști begins
 summary: On 22 July 1917 Averescu's Romanian Second Army opened fire on German positions in Vrancea. It was Romania's first offensive in six months.
 source: poczatek-bitwy-pod-marasti
-sourceHash: ad49fb0a24f9a9449a119127340877ab7c8578d1
+sourceHash: af237ba8238a2beb6c24acf6ea2fce3a4159ba49
 ---
 
-On 22 July 1917 (9 July in the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then in force in Romania) the guns of General [Alexandru Averescu](/postacie/alexandru-averescu)'s Romanian Second Army began shelling the German and Austro-Hungarian positions on the hills of Vrancea, a mountainous region on the western edge of [Moldavia](https://pl.wikipedia.org/wiki/Mołdawia_(kraina_historyczna)). The batteries of the neighbouring Russian VIII Corps fired with them. It was the start of the battle named after the village of Mărăști, fortified by the Germans in the middle of the sector of attack, and the first offensive of the Romanian army since the defeat of 1916. The British chronology of the war records under this date the start of the "Battle of Mărășești". That is a mistake: Mărășești lies about 30 kilometres further south-east, and the battle for it began only on 6 August, when the Germans went over to the attack. On 22 July it was the Battle of Mărăști that began.
+On 22 July 1917 (9 July in the [Julian calendar](/slownik/kalendarz-julianski) then in force in Romania) the guns of General [Alexandru Averescu](/postacie/alexandru-averescu)'s Romanian Second Army began shelling the German and Austro-Hungarian positions on the hills of Vrancea, a mountainous region on the western edge of [Moldavia](https://pl.wikipedia.org/wiki/Mołdawia_(kraina_historyczna)). The batteries of the neighbouring Russian VIII Corps fired with them. It was the start of the battle named after the village of Mărăști, fortified by the Germans in the middle of the sector of attack, and the first offensive of the Romanian army since the defeat of 1916. The British chronology of the war records under this date the start of the "Battle of Mărășești". That is a mistake: Mărășești lies about 30 kilometres further south-east, and the battle for it began only on 6 August, when the Germans went over to the attack. On 22 July it was the Battle of Mărăști that began.
 
 ## The plan of the offensive
 

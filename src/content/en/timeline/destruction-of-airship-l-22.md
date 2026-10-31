@@ -2,10 +2,10 @@
 title: Destruction of airship L 22
 summary: At dawn on 14 May 1917 a British flying boat from Great Yarmouth shot down the naval airship L 22 near Terschelling. All 21 airmen were killed.
 source: zniszczenie-sterowca-l-22
-sourceHash: c927a4fef6da3ddf5d5f4d8cca5f8224b77c8129
+sourceHash: 69948a4930354af28b3e1d72d94c3f1d3ea2ce66
 ---
 
-At dawn on 14 May 1917, over the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) near the Dutch island of [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), the German naval [airship](https://pl.wikipedia.org/wiki/Sterowiec) L 22 fell in flames. The whole crew was killed, 21 men including the commander, Kapitänleutnant Ulrich Lehmann. A British chronology of the war records that the airship was destroyed by British warships. That had been the case a year earlier with [L 7](/zniszczenie-sterowca-l-7), but L 22 was shot down by an aircraft: a twin-engined Curtiss H.12 "Large America" [flying boat](https://pl.wikipedia.org/wiki/Łódź_latająca) from the naval air station at [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). This is agreed by H. A. Jones's British official history of the air war and by later studies.
+At dawn on 14 May 1917, over the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) near the Dutch island of [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), the German naval [airship](/slownik/sterowiec) L 22 fell in flames. The whole crew was killed, 21 men including the commander, Kapitänleutnant Ulrich Lehmann. A British chronology of the war records that the airship was destroyed by British warships. That had been the case a year earlier with [L 7](/zniszczenie-sterowca-l-7), but L 22 was shot down by an aircraft: a twin-engined Curtiss H.12 "Large America" [flying boat](https://pl.wikipedia.org/wiki/Łódź_latająca) from the naval air station at [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). This is agreed by H. A. Jones's British official history of the air war and by later studies.
 
 ## Hunting by wireless
 

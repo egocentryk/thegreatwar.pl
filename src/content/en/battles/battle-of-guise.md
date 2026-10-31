@@ -9,7 +9,7 @@ sides:
     commanders: [Karl von Bülow]
 result: Inconclusive. The French threw the Germans back at Guise but failed to take Saint-Quentin and resumed their retreat. Bülow halted for a day and a half.
 source: bitwa-pod-guise
-sourceHash: 7ff23d79da4b5814baf66e3518a991f27c949423
+sourceHash: 51b5556698ae0a5b8b26d37f619a5064f8f8fd50
 ---
 
 The Battle of Guise, fought on 29 and 30 August 1914 in the valley of the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) in northern France, was the only major French counter-attack during the Great Retreat of August 1914. The French name it after the small town of [Guise](https://pl.wikipedia.org/wiki/Guise), the Germans after the nearby town of [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). It was fought between the French Fifth Army of General Charles Lanrezac and the German Second Army of General [Karl von Bülow](/postacie/karl-von-bulow).
@@ -40,6 +40,6 @@ Figures for losses are incomplete and vary from source to source. According to v
 
 The Germans regarded the battle as their victory, because it was the French who left the battlefield. From the perspective of the campaign as a whole, however, it was a valuable Allied success. Bülow's army halted for a day and a half, and the Fifth Army escaped encirclement and withdrew in good order.
 
-The indirect consequences proved more important. Bülow, convinced that the French had been beaten yet alarmed by their strength, asked General [Alexander von Kluck](/postacie/alexander-von-kluck) for support. On the evening of 30 August Kluck decided to direct the First Army south-east to cut off the Fifth Army's retreat, instead of passing west of Paris as the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) envisaged. The Supreme Army Command approved this change. As a result Kluck's army passed east of Paris and exposed its right flank to the newly formed French Sixth Army, stationed around the capital. A few days later the French exploited this in the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną).
+The indirect consequences proved more important. Bülow, convinced that the French had been beaten yet alarmed by their strength, asked General [Alexander von Kluck](/postacie/alexander-von-kluck) for support. On the evening of 30 August Kluck decided to direct the First Army south-east to cut off the Fifth Army's retreat, instead of passing west of Paris as the [Schlieffen Plan](/slownik/plan-schlieffena) envisaged. The Supreme Army Command approved this change. As a result Kluck's army passed east of Paris and exposed its right flank to the newly formed French Sixth Army, stationed around the capital. A few days later the French exploited this in the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną).
 
 Lanrezac did not remain in command to see that victory. On 3 September Joffre removed him from command, accusing him of a lack of offensive spirit and poor cooperation with the British. He was succeeded by Franchet d'Espèrey, the hero of the fighting at Guise.

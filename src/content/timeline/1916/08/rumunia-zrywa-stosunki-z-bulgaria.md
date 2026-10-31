@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 sierpnia 1916 roku wieczorem rumuński poseł w [Sofii](https://pl.wikipedia.org/wiki/Sofia) Gheorghe Derussi zażądał wydania paszportów i notyfikował bułgarskiemu rządowi zerwanie stosunków dyplomatycznych. Według komunikatu, który poselstwo bułgarskie w Berlinie otrzymało z Sofii, stosunki między obu państwami zostały zerwane przez stronę rumuńską o godzinie 18. W [Rumunii](/kraje/rumunia), która wciąż posługiwała się [kalendarzem juliańskim](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 17 sierpnia. [Bułgaria](/kraje/bulgaria) przeszła na kalendarz gregoriański już wiosną 1916 roku.
+30 sierpnia 1916 roku wieczorem rumuński poseł w [Sofii](https://pl.wikipedia.org/wiki/Sofia) Gheorghe Derussi zażądał wydania paszportów i notyfikował bułgarskiemu rządowi zerwanie stosunków dyplomatycznych. Według komunikatu, który poselstwo bułgarskie w Berlinie otrzymało z Sofii, stosunki między obu państwami zostały zerwane przez stronę rumuńską o godzinie 18. W [Rumunii](/kraje/rumunia), która wciąż posługiwała się [kalendarzem juliańskim](/slownik/kalendarz-julianski), był to 17 sierpnia. [Bułgaria](/kraje/bulgaria) przeszła na kalendarz gregoriański już wiosną 1916 roku.
 
 ## Wojna bez wypowiedzenia
 

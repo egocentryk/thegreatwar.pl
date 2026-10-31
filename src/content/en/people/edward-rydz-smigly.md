@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Brzeżany (Austria-Hungary)
 deathPlace: Warsaw
 source: edward-rydz-smigly
-sourceHash: 23eb189a82f97470c4708539969e874b8c875ebb
+sourceHash: e1217cd3fbeccee84bac4d2276a23f1d03369998
 ---
 
-Edward Rydz, known during the Great War mainly by his pseudonym "Śmigły", was one of the ablest line officers the Legions produced. A painter by training, for three years he commanded the 1st Infantry Regiment of the First Brigade, the most experienced unit of [Józef Piłsudski](/postacie/jozef-pilsudski). His greatest role, however, came while the Commandant sat in a German prison. From the summer of 1917 Rydz led the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), the underground that in November 1918 disarmed the partitioning powers' troops and carried the independence left to power. In the Lublin government of [Ignacy Daszyński](/postacie/ignacy-daszynski) he was minister of war. He later became a Marshal of Poland and commander-in-chief in 1939, but that part of his life lies outside the Great War.
+Edward Rydz, known during the Great War mainly by his pseudonym "Śmigły", was one of the ablest line officers the Legions produced. A painter by training, for three years he commanded the 1st Infantry Regiment of the First Brigade, the most experienced unit of [Józef Piłsudski](/postacie/jozef-pilsudski). His greatest role, however, came while the Commandant sat in a German prison. From the summer of 1917 Rydz led the [Polish Military Organisation](/slownik/pow), the underground that in November 1918 disarmed the partitioning powers' troops and carried the independence left to power. In the Lublin government of [Ignacy Daszyński](/postacie/ignacy-daszynski) he was minister of war. He later became a Marshal of Poland and commander-in-chief in 1939, but that part of his life lies outside the Great War.
 
 ## Before the war
 

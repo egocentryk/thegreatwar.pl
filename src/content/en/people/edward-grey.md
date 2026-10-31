@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Fallodon (Northumberland)
 source: edward-grey
-sourceHash: bb3d4f538bc1c898a83205595dded1385d2f2c69
+sourceHash: 6dedcc5bd6858262bde40cb8835ddb7a21f754f0
 ---
 
 Sir Edward Grey directed British foreign policy for eleven years, from December 1905 to December 1916, longer without a break than anyone before or since. It was he who built the agreements with France and Russia, who in July 1914 tried to stop the war with a conference of the powers, and who on 3 August made the speech in the House of Commons that convinced Parliament and a divided government that Britain could not leave France and Belgium to their fate. During the war he conducted the secret diplomacy of the Entente: he negotiated Italy's entry, courted the Balkan states, promised Constantinople to Russia and signed the agreement partitioning Asiatic Turkey. Weary and losing his sight, he left the government together with Asquith.
@@ -37,7 +37,7 @@ Grey also put his name to the promises made to the Arabs and to the partition of
 
 ## The blockade and America
 
-Grey's second great task was to keep good relations with the United States while tightening the [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of Germany. The blockade hit American trade, and Washington protested in note after note. Grey [answered them patiently](/londyn-broni-blokady-przed-protestem-usa), tightening the control of trade step by step so as not to cross the line beyond which America might do more than protest. As a result he was accused in London of running a leaky blockade, with the Foreign Office ordering the release of detained ships. In February 1916 blockade matters were taken over by a [separate minister](/robert-cecil-ministrem-blokady). Grey was a friend of President [Woodrow Wilson](/postacie/woodrow-wilson)'s adviser Colonel Edward House, and in February 1916 agreed with him a memorandum on possible American mediation. He was one of the few British politicians who took seriously the idea of a peace with American participation, but the Cabinet and the allies did not share his interest.
+Grey's second great task was to keep good relations with the United States while tightening the [naval blockade](/slownik/blokada) of Germany. The blockade hit American trade, and Washington protested in note after note. Grey [answered them patiently](/londyn-broni-blokady-przed-protestem-usa), tightening the control of trade step by step so as not to cross the line beyond which America might do more than protest. As a result he was accused in London of running a leaky blockade, with the Foreign Office ordering the release of detained ships. In February 1916 blockade matters were taken over by a [separate minister](/robert-cecil-ministrem-blokady). Grey was a friend of President [Woodrow Wilson](/postacie/woodrow-wilson)'s adviser Colonel Edward House, and in February 1916 agreed with him a memorandum on possible American mediation. He was one of the few British politicians who took seriously the idea of a peace with American participation, but the Cabinet and the allies did not share his interest.
 
 ## Departure
 
@@ -45,7 +45,7 @@ Grey bore the burden of the war badly. He had suffered from eye trouble for year
 
 ## After the war
 
-From 1918 he presided over an association supporting the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów). In 1919 he went to Washington for a few months as ambassador to win Americans over to the Treaty of Versailles and the League, but he could not even meet Wilson, paralysed by a stroke. In 1923–1924 he was leader of the Liberals in the House of Lords, and from 1928 Chancellor of the University of Oxford. In 1925 he published his memoirs, "Twenty-Five Years", and two years later a highly regarded book on birds. He died almost blind at Fallodon on 7 September 1933.
+From 1918 he presided over an association supporting the [League of Nations](/slownik/liga-narodow). In 1919 he went to Washington for a few months as ambassador to win Americans over to the Treaty of Versailles and the League, but he could not even meet Wilson, paralysed by a stroke. In 1923–1924 he was leader of the Liberals in the House of Lords, and from 1928 Chancellor of the University of Oxford. In 1925 he published his memoirs, "Twenty-Five Years", and two years later a highly regarded book on birds. He died almost blind at Fallodon on 7 September 1933.
 
 ## Assessment
 

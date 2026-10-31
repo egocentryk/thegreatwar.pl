@@ -9,7 +9,7 @@ sides:
     commanders: [Arthur Arz von Straußenburg, Erich von Falkenhayn]
 result: Central Powers victory. By mid-October the Romanians had been driven out of almost all of Transylvania, but their armies withdrew behind the Carpathians and held the passes.
 source: bitwa-o-siedmiogrod
-sourceHash: 9cd1f72b2fc14cd8b7ec629c73d84f8d01e10877
+sourceHash: 0282c72fb9c6f2fb7bf71f23875478a0191459a5
 brief:
   - "On the evening of 27 August 1916, at the hour of the declaration of war on Austria-Hungary, three Romanian armies set off through the Carpathian passes into Transylvania, whose conquest was the aim of the whole war."
   - "General Arz von Straußenburg's weak units fell back, and on 29 August the Romanians took Brașov, but the offensive soon lost momentum and after the defeat in Dobruja the Romanian command halted it."
@@ -26,7 +26,7 @@ English-language literature speaks of the Battle of Transylvania, the Austrian o
 
 We adopt the dates 27 August – 14 October 1916. The first marks the evening on which the Romanian advance guards crossed the border. The second comes from the Austrian official history, according to which by 14 October the German Ninth Army and the Austro-Hungarian First Army had driven the Romanians out of the whole of Hungary and Transylvania, except for narrow strips near Orșova and at two passes of the Eastern Carpathians. The English Wikipedia ends the battle on 16 October. The later fighting for the passes and the November breakthrough in the Jiu valley belong to the campaign in Wallachia.
 
-Romania then used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), 13 days behind. In Romanian documents and some Romanian studies the war therefore began on 14 August, and the Romanians entered Brașov on 16 August. On this page all dates are given according to the Gregorian calendar.
+Romania then used the [Julian calendar](/slownik/kalendarz-julianski), 13 days behind. In Romanian documents and some Romanian studies the war therefore began on 14 August, and the Romanians entered Brașov on 16 August. On this page all dates are given according to the Gregorian calendar.
 
 ## Background
 

@@ -2,12 +2,12 @@
 title: Hague conference on prisoners of war
 summary: In June 1918 a second Anglo-German conference on prisoners opened at The Hague. London sent the Home Secretary, George Cave.
 source: konferencja-haska-o-jencach
-sourceHash: bf3441636aa7d3cd96f9ae37880014e779af7994
+sourceHash: 53470160590f996a1e93ef49cf47adc255430e7f
 ---
 
 In June 1918, for the second time during the war, representatives of the British and German governments sat down to talks at [The Hague](https://pl.wikipedia.org/wiki/Haga). They were to settle disputed questions concerning [prisoners of war](https://pl.wikipedia.org/wiki/Jeniec_wojenny) and interned civilians. The chronology of the war records the conference under 9 June, but according to the historian Bennett Strange, who draws on Lord Newton's memoirs, the sessions began on 8 June. A year earlier, in July 1917, the same parties had concluded the [first prisoner agreement](/porozumienie-haskie-o-jencach) at The Hague, and its implementation had since brought more mutual recriminations than relief.
 
-This time London sent a higher-ranking delegation. Alongside Lord Newton, Assistant Under-Secretary of State at the Foreign Office and head of its prisoners of war department, and Lieutenant-General Herbert Belfield of the War Office, the Home Secretary, [George Cave](https://pl.wikipedia.org/wiki/George_Cave), went to the Netherlands. [Andrew Bonar Law](/postacie/andrew-bonar-law) announced his appointment in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) on 3 June, explaining it by the importance the government attached to the matter. The delegates, he said, had "very wide" powers.
+This time London sent a higher-ranking delegation. Alongside Lord Newton, Assistant Under-Secretary of State at the Foreign Office and head of its prisoners of war department, and Lieutenant-General Herbert Belfield of the War Office, the Home Secretary, [George Cave](https://pl.wikipedia.org/wiki/George_Cave), went to the Netherlands. [Andrew Bonar Law](/postacie/andrew-bonar-law) announced his appointment in the [House of Commons](/slownik/izba-gmin) on 3 June, explaining it by the importance the government attached to the matter. The delegates, he said, had "very wide" powers.
 
 ## The dispute over exchange
 

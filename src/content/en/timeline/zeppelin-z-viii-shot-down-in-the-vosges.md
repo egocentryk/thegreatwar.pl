@@ -2,10 +2,10 @@
 title: Zeppelin Z VIII shot down in the Vosges
 summary: On 23 August 1914 the German army airship Z VIII, hit by ground fire while flying over French troops, came down in a forest near Badonviller.
 source: zestrzelenie-sterowca-z-viii-w-wogezach
-sourceHash: 8e1eb17a3d79000c2a07c38c6684ae3934cf6329
+sourceHash: 6752b658d08592d51ce6161885fdc739beb800ef
 ---
 
-On 23 August 1914 the German army [airship](https://pl.wikipedia.org/wiki/Sterowiec) Z VIII (factory designation LZ 23) was shot down over the foothills of the [Vosges](https://pl.wikipedia.org/wiki/Wogezy). Damaged by ground fire, it came down in a forest near the French village of [Badonviller](https://pl.wikipedia.org/wiki/Badonviller).
+On 23 August 1914 the German army [airship](/slownik/sterowiec) Z VIII (factory designation LZ 23) was shot down over the foothills of the [Vosges](https://pl.wikipedia.org/wiki/Wogezy). Damaged by ground fire, it came down in a forest near the French village of [Badonviller](https://pl.wikipedia.org/wiki/Badonviller).
 
 ## A mission over Lorraine
 

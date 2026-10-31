@@ -2,7 +2,7 @@
 title: First Battle of Passchendaele
 summary: On 12 October 1917 Anzacs advanced in the rain on Passchendaele. By evening they were back on their old lines, and 845 New Zealanders were dead.
 source: poczatek-pierwszej-bitwy-pod-passchendaele
-sourceHash: 00f37161ae82a089f456865bd2224dfd2d83798b
+sourceHash: 1b8f95cd2869cbf4c20fa1530553a062dd900885
 brief:
   - "At 5.25 a.m. on 12 October 1917, in rain and mud, two divisions of II Anzac Corps advanced on the ridge above Passchendaele: the 3rd Australian Division on the village, the New Zealand Division on the Bellevue spur."
   - "Douglas Haig still believed the Germans were close to collapse. The attack was prepared within three days of the failed attack at Poelcappelle, and the artillery was stuck in the mud far to the rear."
@@ -27,7 +27,7 @@ The New Zealand 2nd Brigade, with battalions from [Otago](https://pl.wikipedia.o
 
 ## Morning: by the church in Passchendaele
 
-The Australian 9th Brigade advanced along the ridge beside the road to the village. Disorganised from the first minutes, it lost an hour capturing machine-gun nests, until Captain Clarence Jeffries of the 34th Battalion led men round to the rear of the German positions and took 25 prisoners. When he repeated this at another machine gun, he was killed. He was posthumously awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). At about 8.30 a.m. some hundred men from three battalions stood on the eastern slope of the ridge, roughly where the second objective was to run, and sent several hundred prisoners to the rear. In the Ravebeek valley the 10th Brigade was held up near the first objective by fire from the Bellevue spur, which the New Zealanders had not taken.
+The Australian 9th Brigade advanced along the ridge beside the road to the village. Disorganised from the first minutes, it lost an hour capturing machine-gun nests, until Captain Clarence Jeffries of the 34th Battalion led men round to the rear of the German positions and took 25 prisoners. When he repeated this at another machine gun, he was killed. He was posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii). At about 8.30 a.m. some hundred men from three battalions stood on the eastern slope of the ridge, roughly where the second objective was to run, and sent several hundred prisoners to the rear. In the Ravebeek valley the 10th Brigade was held up near the first objective by fire from the Bellevue spur, which the New Zealanders had not taken.
 
 One group, however, about twenty men, mostly of the 38th Battalion, went on up the valley, because they could see no barrage in front of them to keep close behind. At Crest Farm, on the edge of the village, the garrison of a large pillbox surrendered to them. The Australians reached the church in Passchendaele and found neither Germans nor any of their own men there. They turned back. On the way back they saw the Germans returning to Crest Farm and opening fire from it. One of the division's units carried an Australian flag that it was to plant in the village. It was not planted.
 

@@ -2,7 +2,7 @@
 title: Hymans becomes Belgian foreign minister
 summary: On 1 January 1918 Liberal Paul Hymans took over Belgian diplomacy from Prime Minister Broqueville, whom colleagues suspected of favouring a compromise peace.
 source: hymans-ministrem-spraw-zagranicznych
-sourceHash: a52c7789764a41d2fc67658928a87450cd144fda
+sourceHash: ce05b697fc837c20f59c1ed277d1f58bf536db42
 ---
 
 On 1 January 1918 the Liberal [Paul Hymans](https://pl.wikipedia.org/wiki/Paul_Hymans) became foreign minister in the Belgian government in exile, based at [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse) near Le Havre. He replaced the prime minister, Charles de Broqueville, who [since August 1917](/broqueville-ministrem-spraw-zagranicznych) had himself been in charge of diplomacy. Broqueville remained head of the government, but instead of foreign affairs he took over the newly created Ministry of National Reconstruction, which was to prepare the country's post-war recovery from ruin. According to Belgian lists of governments, other portfolios were also changed the same day: economic affairs, until then run by Hymans, were taken over by the Catholic Prosper Poullet, and a second socialist besides Émile Vandervelde, Émile Brunet, joined the Council of Ministers.
@@ -17,4 +17,4 @@ Hymans, born in 1865 in [Ixelles](https://pl.wikipedia.org/wiki/Ixelles) near Br
 
 ## What came next
 
-The change did not save Broqueville. His plans for post-war reforms, including electoral reform and concessions to the Flemish movement, met with resistance from conservative Catholics, and the prime minister's position was also weakened by old disputes with King [Albert I](/postacie/albert-i) over command of the army. At the end of May 1918 the prime minister resigned, and a new government was formed by Gérard Cooreman. Hymans kept the foreign ministry in the following cabinets too. In 1919 he led the Belgian delegation at the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)), and in 1920 he became the first President of the Assembly of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów).
+The change did not save Broqueville. His plans for post-war reforms, including electoral reform and concessions to the Flemish movement, met with resistance from conservative Catholics, and the prime minister's position was also weakened by old disputes with King [Albert I](/postacie/albert-i) over command of the army. At the end of May 1918 the prime minister resigned, and a new government was formed by Gérard Cooreman. Hymans kept the foreign ministry in the following cabinets too. In 1919 he led the Belgian delegation at the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)), and in 1920 he became the first President of the Assembly of the [League of Nations](/slownik/liga-narodow).

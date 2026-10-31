@@ -9,7 +9,7 @@ sides:
     commanders: [Alexander von Kluck]
 result: Tactically indecisive. The Germans held the Sixth Army, but by shifting forces to the Ourcq they opened a gap in the front and had to retreat.
 source: bitwa-nad-ourcq
-sourceHash: 2e194a3d51943c23896e357983ed86aaa0c9a56f
+sourceHash: 1065e735dc67a9289e09f0e20464d9e9eeb78a53
 ---
 
 The Battle of the Ourcq, fought on 5–9 September 1914 north-east of Paris, was part of the [First Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną) and at the same time its opening. The French Sixth Army of General [Michel Maunoury](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) struck at the right wing of the German First Army of General [Alexander von Kluck](/postacie/alexander-von-kluck) between [Meaux](https://pl.wikipedia.org/wiki/Meaux) and the River [Ourcq](https://pl.wikipedia.org/wiki/Ourcq_(rzeka)), a tributary of the Marne. The French failed to break the German defence, but they forced Kluck to turn his whole army west, which led to the German retreat. French historians sometimes date it to 5–10 September, also counting the day on which the last German units were leaving the battlefield.
@@ -18,7 +18,7 @@ The Battle of the Ourcq, fought on 5–9 September 1914 north-east of Paris, was
 
 At the end of August 1914, after the lost [Battle of the Frontiers](/bitwy/bitwa-graniczna), General [Joseph Joffre](/postacie/joseph-joffre) began moving units by rail from Alsace and Lorraine to the left wing of the front. From them and from reserve divisions a new Sixth Army was formed, commanded by Maunoury. It fell back with the rest of the forces until at the beginning of September it found itself near Paris. There it was placed under the military governor of the capital, General [Joseph Gallieni](/postacie/joseph-gallieni).
 
-Meanwhile Kluck, instead of passing west of Paris as the [Schlieffen Plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) envisaged, turned south-east in pursuit of the French Fifth Army and crossed the Marne on 3 September. French airmen and cavalrymen reported that the German columns were passing Paris to the east. Gallieni saw a chance to strike at the exposed German flank. On the evening of 4 September Joffre issued the order for a general counter-offensive on 6 September, and the Sixth Army was to take up its starting positions east of Paris beforehand.
+Meanwhile Kluck, instead of passing west of Paris as the [Schlieffen Plan](/slownik/plan-schlieffena) envisaged, turned south-east in pursuit of the French Fifth Army and crossed the Marne on 3 September. French airmen and cavalrymen reported that the German columns were passing Paris to the east. Gallieni saw a chance to strike at the exposed German flank. On the evening of 4 September Joffre issued the order for a general counter-offensive on 6 September, and the Sixth Army was to take up its starting positions east of Paris beforehand.
 
 ## Forces
 

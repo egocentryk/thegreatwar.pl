@@ -59,7 +59,7 @@ Na południowym skrzydle 2 Armii Dywizja Nowozelandzka po walce ulicznej zajęł
 
 **1–2 sierpnia.** W ulewie obie strony próbowały poprawić pozycje. 1 sierpnia Niemcy zepchnęli nieco 8 Dywizję na południe od linii kolejowej do Roeselare, ale wieczorem odzyskała ona teren. 2 sierpnia odparto ich ataki na odcinku XIX Korpusu pod redutą Pommern. Na północ od Ypres Brytyjczycy znów zajęli Sint-Juliaan i przerzucili posterunki przez Steenbeek. Gough planował szybko wznowić natarcie na płaskowyż, ale błoto i deszcz zmusiły go do odkładania go aż do 10 sierpnia, a drugie wielkie natarcie ruszyło dopiero 16 sierpnia.
 
-Wśród rannych tych dni był lekarz batalionu Liverpool Scottish z 55 Dywizji, kapitan [Noel Chavasse](https://pl.wikipedia.org/wiki/Noel_Chavasse). Mimo ran przez dwa dni opatrywał żołnierzy pod Wieltje. Zmarł 4 sierpnia, a za te dni otrzymał pośmiertnie drugi [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Jest jednym z zaledwie trzech ludzi w historii odznaczonych nim dwukrotnie.
+Wśród rannych tych dni był lekarz batalionu Liverpool Scottish z 55 Dywizji, kapitan [Noel Chavasse](https://pl.wikipedia.org/wiki/Noel_Chavasse). Mimo ran przez dwa dni opatrywał żołnierzy pod Wieltje. Zmarł 4 sierpnia, a za te dni otrzymał pośmiertnie drugi [Krzyż Wiktorii](/slownik/krzyz-wiktorii). Jest jednym z zaledwie trzech ludzi w historii odznaczonych nim dwukrotnie.
 
 ## Straty
 

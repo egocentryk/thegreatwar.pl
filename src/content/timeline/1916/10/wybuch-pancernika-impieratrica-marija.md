@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 20 października 1916 roku (7 października według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), obowiązującego wówczas w Rosji) na redzie [Sewastopola](https://pl.wikipedia.org/wiki/Sewastopol) wyleciał w powietrze najnowszy rosyjski [drednot](https://pl.wikipedia.org/wiki/Drednot) Impieratrica Marija, okręt flagowy [Floty Czarnomorskiej](https://pl.wikipedia.org/wiki/Flota_Czarnomorska). W komorze amunicyjnej przedniej wieży artylerii głównej wybuchł pożar, a potem nastąpiła seria eksplozji. W niecałą godzinę okręt przewrócił się do góry dnem i zatonął w odległości około pół mili od brzegu. Zginęło ponad 200 marynarzy. Przyczyny katastrofy nigdy nie wyjaśniono.
+Rankiem 20 października 1916 roku (7 października według [kalendarza juliańskiego](/slownik/kalendarz-julianski), obowiązującego wówczas w Rosji) na redzie [Sewastopola](https://pl.wikipedia.org/wiki/Sewastopol) wyleciał w powietrze najnowszy rosyjski [drednot](https://pl.wikipedia.org/wiki/Drednot) Impieratrica Marija, okręt flagowy [Floty Czarnomorskiej](https://pl.wikipedia.org/wiki/Flota_Czarnomorska). W komorze amunicyjnej przedniej wieży artylerii głównej wybuchł pożar, a potem nastąpiła seria eksplozji. W niecałą godzinę okręt przewrócił się do góry dnem i zatonął w odległości około pół mili od brzegu. Zginęło ponad 200 marynarzy. Przyczyny katastrofy nigdy nie wyjaśniono.
 
 ## Duma floty
 

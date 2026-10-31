@@ -2,10 +2,10 @@
 title: Sinking of the Llandovery Castle
 summary: On 27 June 1918 U-86 torpedoed the Canadian hospital ship Llandovery Castle and fired on the lifeboats. 234 people died, including 14 nurses.
 source: zatopienie-llandovery-castle
-sourceHash: c89553aa01db7d96254a0c01d93dc9209259cfb4
+sourceHash: 78d1e7aa686a735499d92fc62ed3701dec71f981
 ---
 
-On 27 June 1918, at about 9.30 p.m., the German submarine [U-86](https://pl.wikipedia.org/wiki/SM_U-86) torpedoed the Canadian [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) [*Llandovery Castle*](https://pl.wikipedia.org/wiki/Zatopienie_HMHS_Llandovery_Castle) in the Atlantic, about 116 nautical miles south-west of the Fastnet Rock off the coast of Ireland. The ship was returning to England from [Halifax](https://pl.wikipedia.org/wiki/Halifax_(miejscowość_w_Kanadzie)), where she had taken wounded and sick soldiers. She sank in about ten minutes. The submarine then surfaced, questioned the survivors and afterwards opened fire on the lifeboats with its gun. Of the 258 people on board only 24, all from a single boat, survived. 234 people died, among them all fourteen Canadian nurses. It was Canada's deadliest maritime disaster of the war and one of the most notorious crimes of the submarine war.
+On 27 June 1918, at about 9.30 p.m., the German submarine [U-86](https://pl.wikipedia.org/wiki/SM_U-86) torpedoed the Canadian [hospital ship](/slownik/statek-szpitalny) [*Llandovery Castle*](https://pl.wikipedia.org/wiki/Zatopienie_HMHS_Llandovery_Castle) in the Atlantic, about 116 nautical miles south-west of the Fastnet Rock off the coast of Ireland. The ship was returning to England from [Halifax](https://pl.wikipedia.org/wiki/Halifax_(miejscowość_w_Kanadzie)), where she had taken wounded and sick soldiers. She sank in about ten minutes. The submarine then surfaced, questioned the survivors and afterwards opened fire on the lifeboats with its gun. Of the 258 people on board only 24, all from a single boat, survived. 234 people died, among them all fourteen Canadian nurses. It was Canada's deadliest maritime disaster of the war and one of the most notorious crimes of the submarine war.
 
 ## The ship and her voyage
 

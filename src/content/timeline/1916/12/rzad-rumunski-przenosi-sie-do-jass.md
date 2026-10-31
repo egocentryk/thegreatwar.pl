@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje pod 1 grudnia 1916 roku, że rząd rumuński przeniósł się z [Bukaresztu](https://pl.wikipedia.org/wiki/Bukareszt) do [Jass](https://pl.wikipedia.org/wiki/Jassy), dawnej stolicy [Mołdawii](https://pl.wikipedia.org/wiki/Mołdawia_(kraina_historyczna)), położonej ponad 300 kilometrów na północny wschód, tuż przy granicy z Rosją. Przeprowadzka nie odbyła się jednak w jeden dzień. Trwała kilka tygodni. W ostatnich dniach listopada i na początku grudnia wyjechały z Bukaresztu ministerstwa, banki i poselstwa państw sojuszniczych. Gabinet premiera [Iona I.C. Brătianu](/postacie/ion-bratianu) opuścił stolicę dopiero 3 grudnia, gdy przegrał [bitwę nad Argeșem](/bitwy/bitwa-nad-argesem). W Rumunii, liczącej czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), 1 grudnia był 18 listopada.
+Brytyjska chronologia wojny podaje pod 1 grudnia 1916 roku, że rząd rumuński przeniósł się z [Bukaresztu](https://pl.wikipedia.org/wiki/Bukareszt) do [Jass](https://pl.wikipedia.org/wiki/Jassy), dawnej stolicy [Mołdawii](https://pl.wikipedia.org/wiki/Mołdawia_(kraina_historyczna)), położonej ponad 300 kilometrów na północny wschód, tuż przy granicy z Rosją. Przeprowadzka nie odbyła się jednak w jeden dzień. Trwała kilka tygodni. W ostatnich dniach listopada i na początku grudnia wyjechały z Bukaresztu ministerstwa, banki i poselstwa państw sojuszniczych. Gabinet premiera [Iona I.C. Brătianu](/postacie/ion-bratianu) opuścił stolicę dopiero 3 grudnia, gdy przegrał [bitwę nad Argeșem](/bitwy/bitwa-nad-argesem). W Rumunii, liczącej czas według [kalendarza juliańskiego](/slownik/kalendarz-julianski), 1 grudnia był 18 listopada.
 
 ## Ewakuacja stolicy
 

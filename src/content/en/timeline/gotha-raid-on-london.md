@@ -2,7 +2,7 @@
 title: Gotha raid on London
 summary: On 13 June 1917 fourteen Gothas bombed the City and East End by day, killing 162 people, 18 of them children at a Poplar school. No bomber was lost.
 source: nalot-gothow-na-londyn
-sourceHash: 426ed45c9010bde1544f45a1d03739576cffd47c
+sourceHash: 5ed413f7a0015da454a0e52eb80bb50a3762d49d
 brief:
   - "Shortly before noon on 13 June 1917 fourteen Gotha G.IV bombers bombed the City of London, the docklands and the East End in broad daylight."
   - "According to the British official history 162 people were killed and 432 injured. It was the deadliest single air raid on Britain of the whole war."
@@ -31,7 +31,7 @@ On the way back the Gothas dropped the rest of their bombs on the eastern distri
 
 ## A helpless defence
 
-Despite a new artillery fire plan introduced a week earlier, the defence proved helpless. According to Jones, 92 pilots took off from home defence squadrons, schools, depots and experimental stations, but each acted on his own and most never saw the enemy. Only a few managed to get within firing range. In one of the [Bristol F.2](https://pl.wikipedia.org/wiki/Bristol_F.2_Fighter) aircraft the observer, Captain C. H. C. Keevil, was killed. Brandenburg reported afterwards that visibility had been exceptionally good and the anti-aircraft fire weak and badly directed: "Our aircraft circled and dropped their bombs without haste or hindrance." All the Gothas returned without serious damage. The next day Brandenburg was summoned to Berlin to receive the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). On the way back, on 19 June, he crashed in his aircraft and lost a leg, and command of the squadron passed to Captain Rudolf Kleine.
+Despite a new artillery fire plan introduced a week earlier, the defence proved helpless. According to Jones, 92 pilots took off from home defence squadrons, schools, depots and experimental stations, but each acted on his own and most never saw the enemy. Only a few managed to get within firing range. In one of the [Bristol F.2](https://pl.wikipedia.org/wiki/Bristol_F.2_Fighter) aircraft the observer, Captain C. H. C. Keevil, was killed. Brandenburg reported afterwards that visibility had been exceptionally good and the anti-aircraft fire weak and badly directed: "Our aircraft circled and dropped their bombs without haste or hindrance." All the Gothas returned without serious damage. The next day Brandenburg was summoned to Berlin to receive the [Pour le Mérite](/slownik/pour-le-merite). On the way back, on 19 June, he crashed in his aircraft and lost a leg, and command of the squadron passed to Captain Rudolf Kleine.
 
 ## Outrage and decisions
 

@@ -24,4 +24,4 @@ Była to tak zwana zasada podróży ciągłej, znana z czasów wojen napoleońsk
 
 ## Znaczenie
 
-Zarządzenie z 20 sierpnia było ważnym krokiem w budowie [blokady morskiej](https://pl.wikipedia.org/wiki/Blokada_morska) Niemiec. Wywołało protesty państw neutralnych, zwłaszcza Stanów Zjednoczonych, które broniły prawa do swobodnego handlu. W kolejnych miesiącach Wielka Brytania stopniowo wprowadzała dalsze zmiany, a w 1916 roku całkowicie odstąpiła od deklaracji londyńskiej. Blokada, coraz szczelniejsza, stała się jedną z najważniejszych broni aliantów w tej wojnie.
+Zarządzenie z 20 sierpnia było ważnym krokiem w budowie [blokady morskiej](/slownik/blokada) Niemiec. Wywołało protesty państw neutralnych, zwłaszcza Stanów Zjednoczonych, które broniły prawa do swobodnego handlu. W kolejnych miesiącach Wielka Brytania stopniowo wprowadzała dalsze zmiany, a w 1916 roku całkowicie odstąpiła od deklaracji londyńskiej. Blokada, coraz szczelniejsza, stała się jedną z najważniejszych broni aliantów w tej wojnie.

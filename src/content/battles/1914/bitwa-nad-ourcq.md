@@ -23,7 +23,7 @@ Bitwa nad Ourcq, stoczona w dniach 5–9 września 1914 roku na północny wsch�
 
 Pod koniec sierpnia 1914 roku, po przegranej [bitwie granicznej](/bitwy/bitwa-graniczna), generał [Joseph Joffre](/postacie/joseph-joffre) zaczął przerzucać koleją oddziały z Alzacji i Lotaryngii na lewe skrzydło frontu. Z nich i z dywizji rezerwowych utworzono nową 6 Armię, dowodzoną przez Maunoury'ego. Cofała się ona wraz z resztą wojsk, aż na początku września znalazła się pod Paryżem. Tam podporządkowano ją gubernatorowi wojskowemu stolicy, generałowi [Josephowi Gallieniemu](/postacie/joseph-gallieni).
 
-Tymczasem Kluck, zamiast obchodzić Paryż od zachodu, jak przewidywał [plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena), skręcił na południowy wschód w pościgu za francuską 5 Armią i 3 września przekroczył Marnę. Francuscy lotnicy i kawalerzyści meldowali, że niemieckie kolumny mijają Paryż od wschodu. Gallieni dostrzegł szansę uderzenia w odsłonięte niemieckie skrzydło. Joffre wieczorem 4 września wydał rozkaz ogólnej kontrofensywy na 6 września, a 6 Armia miała wcześniej zająć pozycje wyjściowe na wschód od Paryża.
+Tymczasem Kluck, zamiast obchodzić Paryż od zachodu, jak przewidywał [plan Schlieffena](/slownik/plan-schlieffena), skręcił na południowy wschód w pościgu za francuską 5 Armią i 3 września przekroczył Marnę. Francuscy lotnicy i kawalerzyści meldowali, że niemieckie kolumny mijają Paryż od wschodu. Gallieni dostrzegł szansę uderzenia w odsłonięte niemieckie skrzydło. Joffre wieczorem 4 września wydał rozkaz ogólnej kontrofensywy na 6 września, a 6 Armia miała wcześniej zająć pozycje wyjściowe na wschód od Paryża.
 
 ## Siły
 

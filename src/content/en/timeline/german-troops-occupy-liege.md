@@ -2,7 +2,7 @@
 title: German troops occupy Liège
 summary: On 7 August 1914 a brigade led by Erich Ludendorff entered Liège and took the citadel. The forts surrounding the city, however, continued to resist.
 source: wojska-niemieckie-zajmuja-liege
-sourceHash: 5c15e8230ff02f57427817e34d7189f1226d7b86
+sourceHash: 5dc2b5b0b6aea30550655e8368adb13cdfb84473
 ---
 
 On 7 August 1914 German troops entered [Liège](https://pl.wikipedia.org/wiki/Liège). On the third day of the fighting for the Belgian fortress they took the city itself, its bridges over the [Meuse](/miejsca/moza) and the old citadel, but the ring of twelve forts around it remained in the defenders' hands. The leading part was played by an officer of whom the whole world would soon hear: [Erich Ludendorff](/postacie/erich-ludendorff).
@@ -29,4 +29,4 @@ The inhabitants received the Germans in silence. Paul Hamelius, a professor at t
 
 The Germans' position was nonetheless still uncertain. The forts were firing on the roads and railways along which the German armies were to pass, and according to Ludendorff the situation could be regarded as saved only once the eastern forts had fallen. To destroy them, heavy siege artillery was needed, and it opened fire on 12 August.
 
-For Liège, Ludendorff and Emmich received the order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite) from the Kaiser. The British official history later judged that the fortress's resistance had cost the Germans four or five days, while the Belgians spoke of at least four. For Ludendorff it was the start of a great career: two weeks later he was summoned to the Eastern Front.
+For Liège, Ludendorff and Emmich received the order [Pour le Mérite](/slownik/pour-le-merite) from the Kaiser. The British official history later judged that the fortress's resistance had cost the Germans four or five days, while the Belgians spoke of at least four. For Ludendorff it was the start of a great career: two weeks later he was summoned to the Eastern Front.

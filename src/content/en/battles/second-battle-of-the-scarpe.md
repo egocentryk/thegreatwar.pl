@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Ludwig von Falkenhausen, Otto von Below, Fritz von Loßberg]
 result: Inconclusive. The British advanced from a few hundred metres to 2 km, took Guémappe and Gavrelle and captured more than 2,700 prisoners, but Rœux and the chemical works remained in German hands.
 source: druga-bitwa-nad-scarpe-1917
-sourceHash: f09b808c5245707ead7840a1d21d1bac95ca8134
+sourceHash: 6b5c594e0d150ad43298d406f41900046009d8e5
 brief:
   - "The Second Battle of the Scarpe, fought on 23–24 April 1917, was the second great British attack in the Battle of Arras. Nine divisions of the Third and First Armies attacked on both sides of the Scarpe."
   - "The attack was renewed mainly to support the French offensive on the Aisne. The Germans used the eight-day pause well: Loßberg built a new, deep defence based on counter-attack divisions."
@@ -56,7 +56,7 @@ The attack north of Vimy Ridge, on the sector of La Coulotte and Hill 65 near [L
 
 ## Losses
 
-The British official history writes that the losses were smaller than might have been expected. The Third Army reported more than 8,000 killed, wounded and missing for the week of 18–25 April, to which must be added the losses of the First Army's 63rd Division, and from which those of the days preceding the battle must be subtracted. The Canadian official history gives about 10,000 men for the whole Second Battle of the Scarpe. The Third Army took 2,264 Germans prisoner, and the 63rd Division 479. German losses were also very heavy. The 141st Infantry Regiment of the 35th Division alone, shattered at Wancourt Tower, lost 1,089 men, more than two-thirds of its fighting strength, and the Bavarian 18th Infantry Regiment, which defended Guémappe, 808. Two British officers, Captain David Hirsch of the 50th Division and Captain Arthur Henderson of the 33rd Division, were posthumously awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+The British official history writes that the losses were smaller than might have been expected. The Third Army reported more than 8,000 killed, wounded and missing for the week of 18–25 April, to which must be added the losses of the First Army's 63rd Division, and from which those of the days preceding the battle must be subtracted. The Canadian official history gives about 10,000 men for the whole Second Battle of the Scarpe. The Third Army took 2,264 Germans prisoner, and the 63rd Division 479. German losses were also very heavy. The 141st Infantry Regiment of the 35th Division alone, shattered at Wancourt Tower, lost 1,089 men, more than two-thirds of its fighting strength, and the Bavarian 18th Infantry Regiment, which defended Guémappe, 808. Two British officers, Captain David Hirsch of the 50th Division and Captain Arthur Henderson of the 33rd Division, were posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 ## Significance
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 lipca 1915 roku sankcję królewską otrzymał Munitions of War Act, czyli ustawa o amunicji wojennej. Tego samego dnia jej przepisy weszły w życie. Ustawa poddała brytyjski przemysł zbrojeniowy kontroli państwa, zakazała w nim [strajków](https://pl.wikipedia.org/wiki/Strajk) i [lokautów](https://pl.wikipedia.org/wiki/Lokaut), a spory między robotnikami a pracodawcami kazała rozstrzygać w drodze przymusowego [arbitrażu](https://pl.wikipedia.org/wiki/Arbitraż_(prawo)). Parlament uchwalił ją w ekspresowym tempie. [Izba Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) skończyła pracę nad projektem nad ranem 2 lipca, a [Izba Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów) przyjęła go jeszcze tego samego popołudnia, na jednym posiedzeniu, po czym w obu izbach ogłoszono sankcję królewską.
+2 lipca 1915 roku sankcję królewską otrzymał Munitions of War Act, czyli ustawa o amunicji wojennej. Tego samego dnia jej przepisy weszły w życie. Ustawa poddała brytyjski przemysł zbrojeniowy kontroli państwa, zakazała w nim [strajków](https://pl.wikipedia.org/wiki/Strajk) i [lokautów](https://pl.wikipedia.org/wiki/Lokaut), a spory między robotnikami a pracodawcami kazała rozstrzygać w drodze przymusowego [arbitrażu](https://pl.wikipedia.org/wiki/Arbitraż_(prawo)). Parlament uchwalił ją w ekspresowym tempie. [Izba Gmin](/slownik/izba-gmin) skończyła pracę nad projektem nad ranem 2 lipca, a [Izba Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów) przyjęła go jeszcze tego samego popołudnia, na jednym posiedzeniu, po czym w obu izbach ogłoszono sankcję królewską.
 
 ## Kryzys pocisków i porozumienie skarbowe
 

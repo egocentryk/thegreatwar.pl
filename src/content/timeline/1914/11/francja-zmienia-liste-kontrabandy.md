@@ -18,4 +18,4 @@ Dekret wymieniał listy kontrabandy bezwzględnej, obejmującej przede wszystkim
 
 Najważniejsza zmiana dotyczyła ciężaru dowodu. Dotąd to państwo zatrzymujące ładunek musiało wykazać, że jest on przeznaczony dla nieprzyjaciela. Po 6 listopada to właściciel towaru musiał udowodnić, że nie trafi on do Niemiec ani do Austro-Węgier. Dla kupców z krajów neutralnych, zwłaszcza sąsiadujących z Niemcami, oznaczało to dłuższe postoje statków, kosztowne procesy przed sądami pryzowymi i ryzyko utraty ładunku.
 
-Nie był to ostatni francuski akt w tej sprawie. Na początku 1915 roku Francja ogłosiła kolejne uzupełnienia list kontrabandy, a w marcu 1915 roku razem z Wielką Brytanią postanowiła zatrzymywać wszelkie towary płynące do Niemiec i z Niemiec, co oznaczało w praktyce pełną [blokadę morską](https://pl.wikipedia.org/wiki/Blokada_morska).
+Nie był to ostatni francuski akt w tej sprawie. Na początku 1915 roku Francja ogłosiła kolejne uzupełnienia list kontrabandy, a w marcu 1915 roku razem z Wielką Brytanią postanowiła zatrzymywać wszelkie towary płynące do Niemiec i z Niemiec, co oznaczało w praktyce pełną [blokadę morską](/slownik/blokada).

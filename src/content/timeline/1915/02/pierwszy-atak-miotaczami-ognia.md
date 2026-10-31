@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 lutego 1915 roku w lesie Malancourt, na zachodnim brzegu Mozy, na północny zachód od [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), Niemcy zaatakowali francuskie okopy nową bronią. Doświadczalny oddział majora Landwehry Bernharda Reddemanna zalał pozycje przeciwnika strumieniami płonącej cieczy z [miotaczy ognia](https://pl.wikipedia.org/wiki/Miotacz_ognia). Brytyjczycy, którzy kilka miesięcy później sami poznali tę broń, nazywali ją „płynnym ogniem” (*liquid fire*). Zwykle uznaje się ten atak za pierwsze bojowe użycie miotaczy ognia w tej wojnie.
+26 lutego 1915 roku w lesie Malancourt, na zachodnim brzegu Mozy, na północny zachód od [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), Niemcy zaatakowali francuskie okopy nową bronią. Doświadczalny oddział majora Landwehry Bernharda Reddemanna zalał pozycje przeciwnika strumieniami płonącej cieczy z [miotaczy ognia](/slownik/miotacz-ognia). Brytyjczycy, którzy kilka miesięcy później sami poznali tę broń, nazywali ją „płynnym ogniem” (*liquid fire*). Zwykle uznaje się ten atak za pierwsze bojowe użycie miotaczy ognia w tej wojnie.
 
 ## Strażak i pirotechnik
 

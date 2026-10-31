@@ -2,7 +2,7 @@
 title: First Indian troops land at Marseille
 summary: On 26 September 1914 the first units of Indian Expeditionary Force "A" landed at Marseille. A month later they were already fighting in Flanders.
 source: korpus-indyjski-laduje-w-marsylii
-sourceHash: a6c4e3c1c8a7727d89c54d804a7ea5f491bf7d1d
+sourceHash: afb10e8c3c2ce657b68232f248c5f0f21eda3752
 ---
 
 On 26 September 1914 the first transports carrying soldiers of Indian Expeditionary Force "A" put into [Marseille](https://pl.wikipedia.org/wiki/Marsylia). Onto the French quayside came the brigades of the Lahore Division, which a week earlier had [sailed from Egypt](/korpus-indyjski-wyplywa-z-egiptu-do-marsylii). They were the first troops of the Indian Army to set foot on French soil in this war.
@@ -21,6 +21,6 @@ From Marseille the division was taken by rail northwards to the area of [Orléan
 
 ## At Ypres and La Bassée
 
-In the second half of October, when the [Race to the Sea](/bitwy/wyscig-do-morza) reached Flanders, the British command urgently needed every battalion. The Lahore Division was thrown into battle before it had been able to assemble in full. The Ferozepore Brigade reinforced the British cavalry between [Hollebeke](https://pl.wikipedia.org/wiki/Hollebeke) and [Messines](https://pl.wikipedia.org/wiki/Mesen) south of [Ypres](/miejsca/ypres), while the Jullundur Brigade fought further south, around [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée). Sources date the first clashes between Indian soldiers and the Germans to 22–23 October. On 31 October at Hollebeke Sepoy Khudadad Khan of the 129th Baluchis, though wounded, kept a machine gun in action although all the other men of his crew had been killed. For this he became the first soldier of the Indian Army to receive the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+In the second half of October, when the [Race to the Sea](/bitwy/wyscig-do-morza) reached Flanders, the British command urgently needed every battalion. The Lahore Division was thrown into battle before it had been able to assemble in full. The Ferozepore Brigade reinforced the British cavalry between [Hollebeke](https://pl.wikipedia.org/wiki/Hollebeke) and [Messines](https://pl.wikipedia.org/wiki/Mesen) south of [Ypres](/miejsca/ypres), while the Jullundur Brigade fought further south, around [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée). Sources date the first clashes between Indian soldiers and the Germans to 22–23 October. On 31 October at Hollebeke Sepoy Khudadad Khan of the 129th Baluchis, though wounded, kept a machine gun in action although all the other men of his crew had been killed. For this he became the first soldier of the Indian Army to receive the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 At the end of October the two divisions, combined into the Indian Corps under General James Willcocks, took over a sector of the front around La Bassée and Neuve-Chapelle. Throughout 1915 the Indian Corps fought on the Western Front, suffering heavy losses. At the end of 1915 its infantry divisions were transferred to Mesopotamia.

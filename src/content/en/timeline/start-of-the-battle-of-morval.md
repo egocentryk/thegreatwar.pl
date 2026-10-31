@@ -2,7 +2,7 @@
 title: Start of the Battle of Morval
 summary: On 25 September 1916 the British Fourth Army attacked on the Somme at noon and took Morval and Lesbœufs in three hours. At Gueudecourt the attack failed.
 source: poczatek-bitwy-pod-morval
-sourceHash: 638345e294150c225ea8c3080114d45de184cdbc
+sourceHash: e6d833ed68f33c390d6bd6de68ea203370b92088
 brief:
   - "On 25 September 1916 at 12.35 p.m. General Henry Rawlinson's British Fourth Army attacked on the Somme towards the villages of Morval, Lesbœufs and Gueudecourt."
   - "The villages were to have fallen on 15 September, but that attack stalled, and rain and French delays put off the new attack three times. Foch and Haig agreed that both armies would attack together, no earlier than noon."
@@ -35,7 +35,7 @@ At 1.35 p.m. the second stage began. Battalions of the 5th and 6th Divisions and
 
 In Lesbœufs the battalions of the 6th Division and of the 1st Guards Brigade found few Germans. The Grenadiers and the Irish Guards occupied the village without difficulty, and by 3.30 p.m. the 1st Battalion of the Grenadiers had gone round it from the north and reached the final objective. Twenty-one minutes after the start of the final bound an observer in a balloon reported to corps headquarters that the whole final objective had been taken except the south-eastern edge of Morval, which fell in the evening. Contact patrol airmen reported that day an attack "splendidly carried out, in perfect order", and a map of the positions of the troops drawn up in the evening from aerial observation proved more accurate than the reports of the units themselves.
 
-The most remarkable deed was performed by Private Thomas Alfred Jones of the 1st Battalion of the Cheshire Regiment. He went out alone to silence a German sniper, killed him and then two more Germans. When he reached a German trench, he persuaded the occupants of several dugouts to surrender and brought back through the British barrage more than a hundred prisoners, including several officers. For this he received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+The most remarkable deed was performed by Private Thomas Alfred Jones of the 1st Battalion of the Cheshire Regiment. He went out alone to silence a German sniper, killed him and then two more Germans. When he reached a German trench, he persuaded the occupants of several dugouts to surrender and brought back through the British barrage more than a hundred prisoners, including several officers. For this he received the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 XIV Corps had broken through the last of the main German positions on a front of almost two thousand yards. German batteries were seen driving off in haste, and most of the German infantry was withdrawing out of range of the fighting. The Germans began to shell the ruins of both villages heavily, so the British held them only with small detachments, while the main forces dug in on the high ground beyond the villages. At six in the evening the 16th Battalion of the Royal Warwickshire dug in more than two hundred yards beyond the eastern edge of Morval. Three tanks of the 5th Division moved off behind the infantry, but two got stuck, and the third reached Morval at dusk and was sent back. The three tanks of the Guards were not used.
 

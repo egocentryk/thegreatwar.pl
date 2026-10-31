@@ -2,7 +2,7 @@
 title: Battle of St Julien begins
 summary: On 24 April 1915 the Germans struck the Canadians at Ypres with chlorine. The 1st Canadian Division's front gave way, and in the afternoon St Julien fell.
 source: poczatek-bitwy-pod-st-julien
-sourceHash: 9de013a0e63b5ae3e89376c7151335a48e51e84d
+sourceHash: 04b7a8a78888af299b31fb08eb611f65398e5f82
 brief:
   - "At dawn on 24 April 1915 the Germans released a cloud of chlorine at Ypres for the second time in three days, this time straight onto the trenches of the 1st Canadian Division. So began the Battle of St Julien."
   - "After two days of fighting the Canadian front formed a sharp wedge, and many units had already lost half their strength. The Canadians had no masks and covered their faces with wet handkerchiefs."
@@ -21,7 +21,7 @@ After two days of fighting, described as the [Battle of Gravenstafel Ridge](/poc
 
 At about 4 a.m., after a short, heavy artillery bombardment, the Germans opened the cylinders opposite the apex of the salient. The cloud struck a sector several hundred metres wide, at the junction of the two Canadian brigades. The Canadians had no masks. The advice was passed along to cover the mouth and nose with handkerchiefs or pieces of cloth soaked in water, or, when there was none, in urine. It did little good. The worst hit was the 15th Battalion, made up of men of the Toronto regiment the 48th Highlanders, which was in the worst position in this sector: its flares calling for support went unanswered, because the battery that was to cover it had been moved. The battalion lost 647 men that day, more than two hundred of them taken prisoner. It was the heaviest loss suffered by a single Canadian battalion in a single battle in the whole war.
 
-Lieutenant-Colonel Louis Lipsett's 8th Battalion managed to hold most of its trenches, partly because one of its companies was beyond the reach of the gas and checked the attackers with flanking fire. Between the two battalions, however, the Germans broke into the Canadian line. Company Sergeant-Major Frederick Hall of the 8th Battalion was killed trying to carry a wounded man out of the line of fire, and Lieutenant Edward Bellew of the 7th Battalion kept up fire from two machine guns on a rise near Keerselare until his ammunition ran out. He then smashed the gun and, wounded, was taken prisoner. Both were awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). The Canadians also complained about their [Ross rifles](https://pl.wikipedia.org/wiki/Karabin_Rossa), which in rapid fire jammed so badly that they had to be opened with a kick or a blow from an entrenching tool.
+Lieutenant-Colonel Louis Lipsett's 8th Battalion managed to hold most of its trenches, partly because one of its companies was beyond the reach of the gas and checked the attackers with flanking fire. Between the two battalions, however, the Germans broke into the Canadian line. Company Sergeant-Major Frederick Hall of the 8th Battalion was killed trying to carry a wounded man out of the line of fire, and Lieutenant Edward Bellew of the 7th Battalion kept up fire from two machine guns on a rise near Keerselare until his ammunition ran out. He then smashed the gun and, wounded, was taken prisoner. Both were awarded the [Victoria Cross](/slownik/krzyz-wiktorii). The Canadians also complained about their [Ross rifles](https://pl.wikipedia.org/wiki/Karabin_Rossa), which in rapid fire jammed so badly that they had to be opened with a kick or a blow from an entrenching tool.
 
 ## The fall of St Julien
 

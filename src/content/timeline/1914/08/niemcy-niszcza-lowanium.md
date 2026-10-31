@@ -49,6 +49,6 @@ Polskim czytelnikom zniszczenie Lowanium może przypominać los [Kalisza](https:
 
 ## Odbudowa biblioteki
 
-Uniwersytet wznowił działalność w 1919 roku. [Traktat wersalski](https://pl.wikipedia.org/wiki/Traktat_wersalski) zobowiązał Niemcy do przekazania Lowanium rękopisów, inkunabułów, książek i map odpowiadających liczbą i wartością tym, które spłonęły. Księgozbiór odtwarzano także dzięki darom z całego świata.
+Uniwersytet wznowił działalność w 1919 roku. [Traktat wersalski](/slownik/traktat-wersalski) zobowiązał Niemcy do przekazania Lowanium rękopisów, inkunabułów, książek i map odpowiadających liczbą i wartością tym, które spłonęły. Księgozbiór odtwarzano także dzięki darom z całego świata.
 
 Nowy gmach biblioteki powstał dzięki Amerykanom. Zbiórkę pieniędzy prowadził specjalny komitet, a ogromną rolę odegrał [Herbert Hoover](https://pl.wikipedia.org/wiki/Herbert_Hoover), w czasie wojny organizator pomocy żywnościowej dla okupowanej Belgii, a później prezydent Stanów Zjednoczonych. Datki przekazywały amerykańskie uczelnie i szkoły. Budynek w stylu flamandzkiego renesansu zaprojektował amerykański architekt Whitney Warren. Budowa trwała od 1921 do 1928 roku, a uroczyste otwarcie odbyło się 4 lipca 1928 roku, w dniu święta niepodległości Stanów Zjednoczonych. Historia zatoczyła jednak koło: w maju 1940 roku, w czasie kolejnej niemieckiej inwazji, biblioteka w Lowanium znów spłonęła.

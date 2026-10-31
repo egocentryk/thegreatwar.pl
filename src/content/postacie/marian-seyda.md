@@ -50,7 +50,7 @@ Po zawieszeniu broni Seyda pojechał do Warszawy. Według jego biografa w dniach
 
 ## Konferencja pokojowa
 
-W 1919 roku Seyda był ekspertem politycznym polskiej delegacji na [konferencji pokojowej w Paryżu](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) i członkiem jej komisji do spraw zaboru pruskiego. Pisał memoriały o polskich roszczeniach do Wielkopolski, Pomorza i Śląska, a w Paryżu wydał książkę „Territoires polonais sous la domination prussienne”, w której uzasadniał prawa Polski do tych ziem. 1 czerwca 1919 roku wybrano go w Wielkopolsce na posła na Sejm Ustawodawczy z listy [Związku Ludowo-Narodowego](https://pl.wikipedia.org/wiki/Związek_Ludowo-Narodowy). 28 czerwca jako przedstawiciel polskiej prasy był obecny przy podpisaniu [traktatu wersalskiego](https://pl.wikipedia.org/wiki/Traktat_wersalski). Na stałe wrócił do kraju jesienią 1919 roku.
+W 1919 roku Seyda był ekspertem politycznym polskiej delegacji na [konferencji pokojowej w Paryżu](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) i członkiem jej komisji do spraw zaboru pruskiego. Pisał memoriały o polskich roszczeniach do Wielkopolski, Pomorza i Śląska, a w Paryżu wydał książkę „Territoires polonais sous la domination prussienne”, w której uzasadniał prawa Polski do tych ziem. 1 czerwca 1919 roku wybrano go w Wielkopolsce na posła na Sejm Ustawodawczy z listy [Związku Ludowo-Narodowego](https://pl.wikipedia.org/wiki/Związek_Ludowo-Narodowy). 28 czerwca jako przedstawiciel polskiej prasy był obecny przy podpisaniu [traktatu wersalskiego](/slownik/traktat-wersalski). Na stałe wrócił do kraju jesienią 1919 roku.
 
 ## Po wojnie
 

@@ -2,10 +2,10 @@
 title: Blockade of Bulgaria's Aegean coast
 summary: At 6 a.m. on 16 October 1915 the Entente fleet began a blockade of Bulgaria's Aegean coast. Neutral ships were given 48 hours to leave.
 source: blokada-egejskiego-wybrzeza-bulgarii
-sourceHash: 3c76535b236b9f5a996dc06ed05a72ccbcd4aadb
+sourceHash: f1ccb7509de6a0ad23d45ac56c0f6f07fee03e86
 ---
 
-At 6 a.m. on 16 October 1915 a [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of the Bulgarian coast of the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie) came into force. It was declared by Vice-Admiral John de Robeck, commander of the Allied squadron in the eastern Mediterranean, made up mainly of British and French ships. Ships of neutral states were given 48 hours to leave the blockaded area. That same day the British Foreign Secretary, [Edward Grey](/postacie/edward-grey), notified the governments of the neutral states of the blockade. His note to the United States ambassador in London found its way into the American diplomatic documents published later. The French government sent Washington an identical notification two days later.
+At 6 a.m. on 16 October 1915 a [naval blockade](/slownik/blokada) of the Bulgarian coast of the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie) came into force. It was declared by Vice-Admiral John de Robeck, commander of the Allied squadron in the eastern Mediterranean, made up mainly of British and French ships. Ships of neutral states were given 48 hours to leave the blockaded area. That same day the British Foreign Secretary, [Edward Grey](/postacie/edward-grey), notified the governments of the neutral states of the blockade. His note to the United States ambassador in London found its way into the American diplomatic documents published later. The French government sent Washington an identical notification two days later.
 
 ## A response to Bulgaria's entry into the war
 

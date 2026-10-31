@@ -23,7 +23,7 @@ Bitwa pod Braszowem była ostatnią wielką bitwą kampanii w Siedmiogrodzie. Od
 
 Austriacka historia oficjalna nazywa to starcie bitwą pod Kronstadt (Schlacht bei Kronstadt), od niemieckiej nazwy miasta. Niemiecki kalendarz bitewny wymienia je jako walki pod Kronstadt (Kämpfe bei Kronstadt), w literaturze anglojęzycznej spotyka się nazwy Battle of Brașov i Battle of Brassó, a w rumuńskiej bitwę pod Braszowem (Bătălia de la Brașov). Bitwa była częścią szerszej [bitwy o Siedmiogród](/bitwy/bitwa-o-siedmiogrod).
 
-Przyjmujemy daty 7–9 października 1916 roku za austriacką historią oficjalną, niemieckim kalendarzem bitewnym i amerykańskim historykiem Michaelem Barrettem. Rankiem 9 października walki już się nie toczyły, ale tego dnia zwycięzcy zajęli całe miasto i ruszyli za cofającymi się Rumunami. Rumuńska Wikipedia kończy bitwę 8 października, w dniu rozstrzygnięcia. Brytyjska chronologia wojny podaje te same daty co austriacka historia oficjalna. Rumunia posługiwała się wtedy [kalendarzem juliańskim](https://pl.wikipedia.org/wiki/Kalendarz_juliański), więc w rumuńskich dokumentach bitwa trwała od 24 do 26 września.
+Przyjmujemy daty 7–9 października 1916 roku za austriacką historią oficjalną, niemieckim kalendarzem bitewnym i amerykańskim historykiem Michaelem Barrettem. Rankiem 9 października walki już się nie toczyły, ale tego dnia zwycięzcy zajęli całe miasto i ruszyli za cofającymi się Rumunami. Rumuńska Wikipedia kończy bitwę 8 października, w dniu rozstrzygnięcia. Brytyjska chronologia wojny podaje te same daty co austriacka historia oficjalna. Rumunia posługiwała się wtedy [kalendarzem juliańskim](/slownik/kalendarz-julianski), więc w rumuńskich dokumentach bitwa trwała od 24 do 26 września.
 
 ## Tło
 

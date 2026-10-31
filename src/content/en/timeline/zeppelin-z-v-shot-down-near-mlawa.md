@@ -2,14 +2,14 @@
 title: Zeppelin Z V shot down near Mława
 summary: At the end of August 1914 the German airship Z V, hit by the Russians during a raid on the station at Mława, made a forced landing. Its crew was captured.
 source: zestrzelenie-sterowca-z-v-pod-mlawa
-sourceHash: 04296cb23d49a5426a486658af5ab78b5bc573e4
+sourceHash: 09f4328c4516422c1637ccedbd1ad6f95f19a37f
 ---
 
 An old British chronology of the war records under 29 August 1914 the shooting down of the German army airship Z V near [Mława](https://pl.wikipedia.org/wiki/Mława). The airship, hit by fire from the ground during a raid on the local railway junction, had to make a forced landing in territory held by the Russians, and its crew was taken prisoner. Most modern studies, including German ones, give 28 August as the date of the incident, and some Polish sources even point to the morning of 27 August. The discrepancy probably arises from news from the front reaching the press with a delay.
 
 ## An airship over the Kingdom of Poland
 
-Z V (works number LZ 20) was one of the German army's [airships](https://pl.wikipedia.org/wiki/Sterowiec) built at the works of Count [Ferdinand von Zeppelin](https://pl.wikipedia.org/wiki/Ferdinand_von_Zeppelin). It was filled with hydrogen, held in a series of gas cells inside a rigid frame. After the outbreak of war it was sent to the Eastern Front, where it carried out reconnaissance over the Russian part of the Polish lands and bombed Russian positions. It was commanded by Captain Grüner of the Württemberg army.
+Z V (works number LZ 20) was one of the German army's [airships](/slownik/sterowiec) built at the works of Count [Ferdinand von Zeppelin](https://pl.wikipedia.org/wiki/Ferdinand_von_Zeppelin). It was filled with hydrogen, held in a series of gas cells inside a rigid frame. After the outbreak of war it was sent to the Eastern Front, where it carried out reconnaissance over the Russian part of the Polish lands and bombed Russian positions. It was commanded by Captain Grüner of the Württemberg army.
 
 At the end of August the [Battle of Tannenberg](/bitwy/bitwa-pod-tannenbergiem) was under way in southern East Prussia. Mława, in the [Płock Governorate](https://pl.wikipedia.org/wiki/Gubernia_płocka) of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), right on the border with Prussia, was one of the main supply points of General Samsonov's Russian Second Army. Through the town ran the railway line from Warsaw to the Prussian border at [Działdowo](https://pl.wikipedia.org/wiki/Działdowo), along which the Russians brought soldiers and supplies to the front.
 

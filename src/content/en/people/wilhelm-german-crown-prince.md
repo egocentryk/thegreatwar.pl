@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Potsdam (Germany)
 deathPlace: Hechingen (Germany)
 source: wilhelm-nastepca-tronu
-sourceHash: d455b8cd3d1f949f6553b34d478fb8cd39ea45af
+sourceHash: 1416d4b4f4b9fab1224119b845e68b9121c45e0b
 ---
 
 Wilhelm, the last crown prince of the German Empire and the Kingdom of Prussia, was throughout the war one of the best-known German commanders, although he almost never truly commanded. In August 1914, as a 32-year-old officer who had never commanded anything larger than a regiment, he was given the 5th Army. It was in fact run by his chief of staff, and his father, Emperor [Wilhelm II](/postacie/wilhelm-ii), told him to follow his advice. In 1916 the crown prince's army conducted the German offensive at Verdun, and for the French and British the "Kronprinz" became the face of that battle. From the autumn of 1916 to the end of the war he commanded an army group in the central part of the Western Front, which in 1917 repulsed the Nivelle offensive and in 1918 conducted several great offensives. In politics he sided with the generals against the chancellor, and after the war, in exile and after his return home, he fought the republic and helped Hitler on his road to power.
@@ -21,7 +21,7 @@ The crown prince was athletic, an excellent horseman, fond of society and regard
 
 In August 1914 Wilhelm took over the 5th Army, deployed opposite Luxembourg and Lorraine. His chief of staff was Knobelsdorf, and the emperor is said to have told him: "Whatever he advises you, you must do." In the [Battle of the Ardennes](/bitwy/bitwa-w-ardenach), part of the [Battle of the Frontiers](/bitwy/bitwa-graniczna), the 5th Army threw back the French 3rd Army at [Longwy](https://pl.wikipedia.org/wiki/Longwy) and Virton and then advanced towards the Meuse and Verdun. During the [Battle of the Marne](/bitwy/pierwsza-bitwa-nad-marna) it attacked west of Verdun, around Revigny, but did not encircle the fortress, and after the retreat of the right wing of the German armies it had to fall back. Until the end of 1915 the 5th Army held the front in the Argonne and around Verdun. There the crown prince favoured new methods of fighting: he supported the first [flamethrower](/pierwszy-atak-miotaczami-ognia) units, which went into action in February 1915 at Malancourt in his army's sector.
 
-In October 1914 Wilhelm gave an interview to the American correspondent Karl von Wiegand in which he called the war "the most stupid, senseless and unnecessary war of modern times", while insisting that it had been forced on Germany. In January 1915 he was promoted to lieutenant-general, and in August that year he received the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite).
+In October 1914 Wilhelm gave an interview to the American correspondent Karl von Wiegand in which he called the war "the most stupid, senseless and unnecessary war of modern times", while insisting that it had been forced on Germany. In January 1915 he was promoted to lieutenant-general, and in August that year he received the [Pour le Mérite](/slownik/pour-le-merite).
 
 ## Verdun
 

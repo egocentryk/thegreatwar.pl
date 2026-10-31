@@ -6,14 +6,14 @@ country: German Empire
 birthPlace: Danzig (Prussia)
 deathPlace: Weimar
 source: fritz-von-below
-sourceHash: bd9a5f38d55881b87f22291901f1dd016ddc8ff3
+sourceHash: 7f005b0a21ad54a1e463d3e93cb6ffe2e33c403b
 ---
 
 Fritz von Below was the commander on whom the Anglo-French offensive on the Somme fell on 1 July 1916. His 2nd Army, which for two years had held a quiet sector of the front in Picardy, took the most powerful blow the Allies had so far delivered in the west. For almost five months, from July as commander of the new 1st Army north of the river, he conducted a defensive battle in which the Germans lost a few kilometres of ground but prevented a breakthrough. The experience of his army, written up with his chief of staff Fritz von Loßberg, became one of the foundations of new German defensive tactics. He is less well known than his cousin [Otto von Below](/postacie/otto-von-below), the victor of Caporetto, and is often confused with him.
 
 ## Before the war
 
-He was born on 23 September 1853 in Danzig into an old Pomeranian-Mecklenburg noble family in which military service was a tradition. His father Ferdinand was a Prussian major-general, and his grandfather Theodor had received the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite) as far back as the Napoleonic Wars. Fritz's younger brother Ernst also became a general. Fritz went through the cadet corps and in 1873 joined the 1st Foot Guards in Potsdam as a second lieutenant. He spent most of his career alternating between the Great General Staff and Guards units. In 1908 he took over the 1st Guards Division, and in 1912, by then a general of infantry, the newly formed [XXI Corps](https://pl.wikipedia.org/wiki/XXI_Korpus_Armijny_(Cesarstwo_Niemieckie)) with its headquarters in [Saarbrücken](https://pl.wikipedia.org/wiki/Saarbrücken), near the French border. He never married.
+He was born on 23 September 1853 in Danzig into an old Pomeranian-Mecklenburg noble family in which military service was a tradition. His father Ferdinand was a Prussian major-general, and his grandfather Theodor had received the [Pour le Mérite](/slownik/pour-le-merite) as far back as the Napoleonic Wars. Fritz's younger brother Ernst also became a general. Fritz went through the cadet corps and in 1873 joined the 1st Foot Guards in Potsdam as a second lieutenant. He spent most of his career alternating between the Great General Staff and Guards units. In 1908 he took over the 1st Guards Division, and in 1912, by then a general of infantry, the newly formed [XXI Corps](https://pl.wikipedia.org/wiki/XXI_Korpus_Armijny_(Cesarstwo_Niemieckie)) with its headquarters in [Saarbrücken](https://pl.wikipedia.org/wiki/Saarbrücken), near the French border. He never married.
 
 ## 1914–1915: Lorraine and Masuria
 

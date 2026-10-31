@@ -2,7 +2,7 @@
 title: The end of the Emden
 summary: On 9 November 1914 the Australian cruiser Sydney destroyed the German raider Emden off the Cocos Islands. The most famous raid of this war was over.
 source: zaglada-emdena
-sourceHash: 67ee8b894dd9a5b81013dc17b22be06b93390e17
+sourceHash: 69d47437df585ffd43443fc9d5d2f754a4bac419
 ---
 
 On 9 November 1914 the career of the German light cruiser [Emden](https://pl.wikipedia.org/wiki/SMS_Emden_(1908)), the most famous raider of the first months of the war, came to an end. In the morning the ship put a landing party ashore on Direction Island in the [Cocos Islands](https://pl.wikipedia.org/wiki/Wyspy_Kokosowe) to destroy the cable and wireless station there. The station's staff managed to send a distress signal, which was picked up by a convoy carrying Australian and New Zealand troops that was passing nearby. The cruiser [HMAS Sydney](https://pl.wikipedia.org/wiki/HMAS_Sydney_(1912)), detached from the convoy, was stronger, faster and better armed. After less than two hours of fighting the burning Emden ran herself onto the reef of the islet of North Keeling.
@@ -23,7 +23,7 @@ Depending on the source, between about 115 and more than 130 men were killed on 
 
 ## Müller's fate
 
-Müller was taken prisoner together with the surviving members of the crew. They were taken to Ceylon, and from there the officers to [Malta](https://pl.wikipedia.org/wiki/Malta). The British treated him with respect but guarded him closely. In 1916 he was moved to a camp in England, where in 1917 he took part in an escape of more than twenty prisoners through a tunnel, which ended in recapture. Suffering from malaria, in 1918 he was sent to the Netherlands under a prisoner exchange, and in October he returned to Germany. He received the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). After the war he left the navy, was a member of the Brunswick parliament and died in 1923, weakened by recurrent bouts of malaria.
+Müller was taken prisoner together with the surviving members of the crew. They were taken to Ceylon, and from there the officers to [Malta](https://pl.wikipedia.org/wiki/Malta). The British treated him with respect but guarded him closely. In 1916 he was moved to a camp in England, where in 1917 he took part in an escape of more than twenty prisoners through a tunnel, which ended in recapture. Suffering from malaria, in 1918 he was sent to the Netherlands under a prisoner exchange, and in October he returned to Germany. He received the [Pour le Mérite](/slownik/pour-le-merite). After the war he left the navy, was a member of the Brunswick parliament and died in 1923, weakened by recurrent bouts of malaria.
 
 In Germany Emden became a legend. Emperor [Wilhelm II](/postacie/wilhelm-ii) decided that the ship's successor, the new cruiser Emden, would bear the [Iron Cross](https://pl.wikipedia.org/wiki/Krzyż_Żelazny) on her bow. Members of the crew and their descendants were later granted the right to add "-Emden" to their surnames.
 

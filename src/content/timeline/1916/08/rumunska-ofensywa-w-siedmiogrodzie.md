@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 27 na 28 sierpnia 1916 roku armia rumuńska wkroczyła do [Siedmiogrodu](https://pl.wikipedia.org/wiki/Siedmiogród). Rumuńskie straże przednie przekroczyły granicę około 21.00 27 sierpnia, mniej więcej w tej samej chwili, w której poseł rumuński w Wiedniu wręczał [wypowiedzenie wojny Austro-Węgrom](/rumunia-wypowiada-wojne-austro-wegrom). Na odcinku długości kilkuset kilometrów, od Karpat Wschodnich po Dunaj, kolumny rumuńskiej piechoty i kawalerii ruszyły przez kilkanaście przełęczy, a 28 sierpnia przez cały dzień odpychały w głąb kraju nieliczne oddziały austro-węgierskie. W Rumunii, która liczyła jeszcze czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 15 sierpnia.
+W nocy z 27 na 28 sierpnia 1916 roku armia rumuńska wkroczyła do [Siedmiogrodu](https://pl.wikipedia.org/wiki/Siedmiogród). Rumuńskie straże przednie przekroczyły granicę około 21.00 27 sierpnia, mniej więcej w tej samej chwili, w której poseł rumuński w Wiedniu wręczał [wypowiedzenie wojny Austro-Węgrom](/rumunia-wypowiada-wojne-austro-wegrom). Na odcinku długości kilkuset kilometrów, od Karpat Wschodnich po Dunaj, kolumny rumuńskiej piechoty i kawalerii ruszyły przez kilkanaście przełęczy, a 28 sierpnia przez cały dzień odpychały w głąb kraju nieliczne oddziały austro-węgierskie. W Rumunii, która liczyła jeszcze czas według [kalendarza juliańskiego](/slownik/kalendarz-julianski), był to 15 sierpnia.
 
 ## Trzy armie przeciw jednej
 

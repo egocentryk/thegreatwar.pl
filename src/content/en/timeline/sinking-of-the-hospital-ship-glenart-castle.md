@@ -2,10 +2,10 @@
 title: Sinking of the hospital ship Glenart Castle
 summary: On 26 February 1918 UC-56 torpedoed the lit hospital ship Glenart Castle in the Bristol Channel. 153 people died, including all the nurses.
 source: zatopienie-statku-szpitalnego-glenart-castle
-sourceHash: fb38f822ef21e7e6dc7544b0b88738bc2cf456d9
+sourceHash: 48e80ab2df01c452676cc0c0f1f84553f35c856d
 ---
 
-On 26 February 1918, shortly before four in the morning, a German submarine torpedoed the British [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) Glenart Castle in the [Bristol Channel](https://pl.wikipedia.org/wiki/Kanał_Bristolski), about 10 nautical miles west of [Lundy](https://pl.wikipedia.org/wiki/Lundy_(wyspa)) island. The ship had left [Newport](https://pl.wikipedia.org/wiki/Newport_(Gwent)) in South Wales the previous day and was sailing to [Brest](https://pl.wikipedia.org/wiki/Brest) to pick up wounded and sick men from France. She therefore had no patients on board, only her crew and medical staff. Fishermen who passed her in the night later testified that she was fully lit: she had green lights around the saloon and the red light of the Red Cross.
+On 26 February 1918, shortly before four in the morning, a German submarine torpedoed the British [hospital ship](/slownik/statek-szpitalny) Glenart Castle in the [Bristol Channel](https://pl.wikipedia.org/wiki/Kanał_Bristolski), about 10 nautical miles west of [Lundy](https://pl.wikipedia.org/wiki/Lundy_(wyspa)) island. The ship had left [Newport](https://pl.wikipedia.org/wiki/Newport_(Gwent)) in South Wales the previous day and was sailing to [Brest](https://pl.wikipedia.org/wiki/Brest) to pick up wounded and sick men from France. She therefore had no patients on board, only her crew and medical staff. Fishermen who passed her in the night later testified that she was fully lit: she had green lights around the saloon and the red light of the Red Cross.
 
 It was the same ship that less than a year earlier [had struck a mine in the English Channel](/uszkodzenie-statku-szpitalnego-glenart-castle), but on that occasion no one was killed and the damaged hull was towed into port. After repairs Glenart Castle, a former Union-Castle Line liner, returned to service in November 1917. This time the torpedo struck No. 3 hold. The explosion destroyed most of the lifeboats, and the list made it difficult to lower the rest. The ship sank in seven or eight minutes. According to accounts, Captain Bernard Burt gave the order "every man for himself" and was last seen returning to the chart room.
 

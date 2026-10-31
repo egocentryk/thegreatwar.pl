@@ -2,10 +2,10 @@
 title: First airship raid on Paris
 summary: On the night of 20–21 March 1915 two German airships bombed Paris and its suburbs. Z X, damaged by fire from the ground, crashed on the way back.
 source: pierwszy-nalot-sterowcow-na-paryz
-sourceHash: 7c812bd0057efbe27f87f4fa1172d22f2c80b4a7
+sourceHash: 5d84bf5098a16dd0f0a170ccd989e09c97bcdf4f
 ---
 
-On the night of 20–21 March 1915 German [airships](https://pl.wikipedia.org/wiki/Sterowiec) appeared over [Paris](https://pl.wikipedia.org/wiki/Paryż) for the first time. They dropped bombs on the north-western districts of the city and on the communes around Paris. According to most accounts the damage was slight, but the French capital learned that the threat from the air had not ended when the front was pushed back.
+On the night of 20–21 March 1915 German [airships](/slownik/sterowiec) appeared over [Paris](https://pl.wikipedia.org/wiki/Paryż) for the first time. They dropped bombs on the north-western districts of the city and on the communes around Paris. According to most accounts the damage was slight, but the French capital learned that the threat from the air had not ended when the front was pushed back.
 
 ## An army expedition
 

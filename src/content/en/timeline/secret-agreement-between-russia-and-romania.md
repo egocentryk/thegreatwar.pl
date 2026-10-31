@@ -2,10 +2,10 @@
 title: Secret agreement between Russia and Romania
 summary: In autumn 1914 Russia, in a secret agreement, recognised Romania's claim to Transylvania and part of Bukovina in return for Bucharest's benevolent neutrality.
 source: tajne-porozumienie-rosji-i-rumunii
-sourceHash: d27e3640d6d1e69331be18fa091cded8aa94de9a
+sourceHash: 2e974aa27db51997c05603887a59c75a62070b0a
 ---
 
-The British chronology of the war records under 19 September 1914 the conclusion of a secret agreement on mutual support between the governments of Russia and [Romania](/kraje/rumunia). The agreement, known after its signatories as the Sazonov–Diamandy agreement, was sealed by an exchange of notes in Petrograd. Historians usually date it to 1 October 1914 in the Gregorian calendar, that is 18 September in the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), which both Russia and Romania then used. The date in the British chronology therefore probably results from confusing the two calendars, or refers to an earlier stage of the negotiations.
+The British chronology of the war records under 19 September 1914 the conclusion of a secret agreement on mutual support between the governments of Russia and [Romania](/kraje/rumunia). The agreement, known after its signatories as the Sazonov–Diamandy agreement, was sealed by an exchange of notes in Petrograd. Historians usually date it to 1 October 1914 in the Gregorian calendar, that is 18 September in the [Julian calendar](/slownik/kalendarz-julianski), which both Russia and Romania then used. The date in the British chronology therefore probably results from confusing the two calendars, or refers to an earlier stage of the negotiations.
 
 ## Romania between the blocs
 

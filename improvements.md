@@ -2678,6 +2678,73 @@ page counts, sample matches, JS-escape check, `--merge`).
   shelling of Gorizia from 18 XI 1915 (town guide: 17 XI); U-21 to Cattaro
   (uboat.net: Pola).
 
+## 51. Longer glossary texts, batch 1: fifteen terms (2026-10-31)
+
+- Owner: "commit and go with next" (after the count of batches left). The
+  glossary step of expansion-plan.md C: a term that fits the glossary keeps
+  its entry and gets a longer text on its page.
+- New collection `glossary` (`src/content/glossary/<glossary slug>.md`:
+  `term`, `wikiTitles`, `updated`, `authors`, `sources`) and `glossaryEn`
+  (`src/content/en/glossary/<slugEn>.md`, `term`, `source`). `glossary.json`
+  stays the source of the term (name, patterns, hover definition).
+- `GlossaryTerm.astro`: a term with a text shows it (Markdown, links;
+  English through `rewriteEnHtml`) in place of the two `long` paragraphs,
+  with author, date and the text's own sources.
+- `rewriteEnHtml`: `/slownik/<slug>` → `/en/glossary/<slugEn>` (every term
+  has an English page; slug map from `glossary.json`). `plPath`/`enPath`
+  gain `glossary`.
+- `GlossaryMarks.astro`: a link the text already gives to the term's page
+  becomes its mark (hover card), so a replaced Wikipedia link still shows
+  the definition.
+- Scripts: `wiki-to-internal.py` and `wiki-links-report.py` read the texts'
+  `wikiTitles` (prefix `slownik`, no date rule) and edit the texts too;
+  `i18n-status.mjs` kind `glossary`; `topics.py --glossary` (300–600 words,
+  4+ internal links, 2+ sources outside Wikipedia, copy check), internal
+  links to `/slownik/<slug>` accepted in all modes. Brief
+  `scripts/briefs/glossary-long.md`.
+- Two new terms (`glossary.py` 0 problems, merged; 136 terms):
+  `kalendarz-julianski` / `julian-calendar` (pattern also catches
+  "kalendarz gregoriański") and `izba-gmin` / `house-of-commons` (five
+  Canadian pages in `exclude`).
+- Fifteen texts, PL/EN, 0 problems, five writers: Krzyż Wiktorii (571
+  words, 10 internal links), Pour le Mérite (595, 17), askarysi (524, 7),
+  kalendarz juliański (405, 8), Izba Gmin (433, 16), POW (450, 16),
+  traktat wersalski (555, 19), Liga Narodów (464, 11), plan Schlieffena
+  (509, 13), sterowiec (529, 17), miotacz ognia (484, 11), mina morska
+  (528, 17), blokada (516, 22), statek szpitalny (514, 11), krążownik
+  pomocniczy (496, 17).
+- Links: 607 now ours, 560 files, English restamped. Report: 24,904 →
+  24,297.
+- Checks: glossary texts, places, guides, countries, series, year intros 0;
+  i18n 0 (3418 EN files); typecheck 0 errors; build 7984 pages; term pages
+  and the hover card on a replaced link checked at 390px, no script errors.
+
+### Writers' notes (for the review list)
+
+- `topics/skutki-i-wojny-swiatowej`: article 231 as "Niemcy przyjęli
+  odpowiedzialność za wojnę" simplifies the treaty's wording (loss and
+  damage of a war imposed by German and allied aggression).
+- Schlieffen's term: `battles/1914/bitwa-graniczna` 1891–1906; sources
+  1891–1905 (hand-over 1 I 1906).
+- `battles/1914/bitwa-pod-liege`: airship raid on Liège 6 VIII; en.wiki: Z VI
+  on 5 VIII (night of 5–6 VIII).
+- Blockade deaths: `1916/12/zima-brukwiowa` cites DHM ~700,000; the DHM
+  LeMO page opened says ~750,000.
+- `1918/06/zatopienie-llandovery-castle`: night lights "required by the
+  Hague convention"; Convention X art. 5 prescribes paint and flags, not
+  lights.
+- `1914/09/carmania-zatapia-cap-trafalgar` says accounts of the disguise
+  contradict each other; the glossary `long` and RMG say Cap Trafalgar was
+  disguised as Carmania.
+- Askaris: Lettow-Vorbeck's 2,540 (our pages) vs Moyd ~1,100 askaris in
+  1914; armistice accepted 14 XI (our pages) vs 16 XI (Western Front
+  Association).
+- Pour le Mérite: last award 22 IX 1918 (en.wiki) vs 3 X 1918 (uboat.net,
+  Hartwig); de.wiki has Immelmann first and alone, our pages Boelcke and
+  Immelmann the same day.
+- The Izba Gmin writer flagged `1917/12/wybory-w-kanadzie` as linking the
+  British house: checked, it links `Izba_Gmin_Kanady` already (no change).
+
 ---
 
 ## Roadmap (checklist)
@@ -2785,7 +2852,8 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links, step 1: country pages, guides and 7 events take 660 links (§48)
 - [x] Wikipedia links: "Miejsca" section and pilot of 5 places, 316 links (§49)
 - [x] Wikipedia links: "Miejsca" batch 2, eight places, 325 links (§50)
-- [ ] Wikipedia links: more place batches; "Siły zbrojne" pilot (3); deeper glossary terms (expansion-plan.md C)
+- [x] Wikipedia links: longer glossary texts, batch 1 (§51)
+- [ ] Wikipedia links: more place batches; "Siły zbrojne" pilot (3); glossary batch 2 (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

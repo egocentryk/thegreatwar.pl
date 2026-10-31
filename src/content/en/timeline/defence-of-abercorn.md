@@ -2,7 +2,7 @@
 title: Defence of Abercorn
 summary: On 5 September 1914 troops from German East Africa crossed the border of Northern Rhodesia. The small garrison of Abercorn held out until relief arrived.
 source: obrona-abercorn
-sourceHash: 8b016581cad8e5ef9be278d169b502e20310cefa
+sourceHash: 7eca7a5e123fd638b58b96f619a590c6867cee00
 ---
 
 On 5 September 1914 a force from [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) crossed the border of British [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), today's Zambia. Its objective was Abercorn, today [Mbala](https://pl.wikipedia.org/wiki/Mbala), the northernmost British outpost in this part of Africa. So began the defence of Abercorn, which lasted until 9 September.
@@ -13,7 +13,7 @@ Abercorn lay on a plateau, a few dozen kilometres from the southern end of Lake 
 
 ## The raid
 
-The German force numbered over 300 men: a few officers, several dozen [askaris](https://pl.wikipedia.org/wiki/Askarysi), and above all irregular ruga-ruga warriors and armed porters. The raiders burnt administrative buildings and the stores of a trading company in the border settlements and repeatedly cut the telegraph line linking Abercorn with Fife, further to the east.
+The German force numbered over 300 men: a few officers, several dozen [askaris](/slownik/askarysi), and above all irregular ruga-ruga warriors and armed porters. The raiders burnt administrative buildings and the stores of a trading company in the border settlements and repeatedly cut the telegraph line linking Abercorn with Fife, further to the east.
 
 The defenders of Abercorn were many times weaker, but they held their positions. Meanwhile relief was on its way from the interior of the colony: over a hundred soldiers of the Northern Rhodesia Police under Major Henry Stennett. It reached Abercorn on 9 September, the day of another German attack. The reinforced garrison, now about 230 men with three machine guns, drove off the attackers, and the next day the Germans withdrew across the border, pursued by McCarthy's detachment.
 

@@ -2,7 +2,7 @@
 title: Arrest of Piłsudski
 summary: On the night of 21–22 July 1917 the Germans arrested Józef Piłsudski and Kazimierz Sosnkowski in Warsaw. The Commandant spent over a year in Magdeburg.
 source: aresztowanie-pilsudskiego
-sourceHash: da1091a3a7b11ae74384e200a1c32307b4452cd4
+sourceHash: d5137391562daf96b82b4137ab5fcb2e1a795421
 brief:
   - "On the night of 21–22 July 1917 German gendarmes arrested in Warsaw Józef Piłsudski, the creator of the Legions, and his chief of staff, Colonel Kazimierz Sosnkowski."
   - "The arrest followed the oath crisis: at Piłsudski's call legionaries of the I and III Brigades had refused to swear an oath of \"brotherhood in arms\" with Germany and Austria-Hungary."
@@ -16,7 +16,7 @@ On the night of 21–22 July 1917 German gendarmes arrested in Warsaw [Józef Pi
 
 The arrest was a direct consequence of the [oath crisis](/kryzys-przysiegowy). Two weeks earlier, on 9 and 11 July, legionaries of the I and III Brigades, at Piłsudski's call, had refused to swear an oath of "brotherhood in arms" with Germany and Austria-Hungary, and the German occupation authorities had disarmed and interned them. The plan of Governor-General [Hans Hartwig von Beseler](/postacie/hans-von-beseler), who wanted to build a large Polish army at Germany's side, lay in ruins. The Germans had no doubt who was behind it.
 
-They were particularly worried by the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) (POW), a clandestine organisation answering to Piłsudski, which in January had formally placed itself under the Council of State and was now changing sides. Justifying the arrest to the Council of State, Beseler pointed precisely to the change in the POW's attitude under Piłsudski's direction and argued that the situation called for swift action: behind the Eastern Front the Germans would not tolerate an organisation that might turn against them. In the summer of 1917 the occupation authorities also arrested other activists of the independence camp, among them [Walery Sławek](https://pl.wikipedia.org/wiki/Walery_Sławek), [Wacław Jędrzejewicz](https://pl.wikipedia.org/wiki/Wacław_Jędrzejewicz) and [Adam Skwarczyński](https://pl.wikipedia.org/wiki/Adam_Skwarczyński).
+They were particularly worried by the [Polish Military Organisation](/slownik/pow) (POW), a clandestine organisation answering to Piłsudski, which in January had formally placed itself under the Council of State and was now changing sides. Justifying the arrest to the Council of State, Beseler pointed precisely to the change in the POW's attitude under Piłsudski's direction and argued that the situation called for swift action: behind the Eastern Front the Germans would not tolerate an organisation that might turn against them. In the summer of 1917 the occupation authorities also arrested other activists of the independence camp, among them [Walery Sławek](https://pl.wikipedia.org/wiki/Walery_Sławek), [Wacław Jędrzejewicz](https://pl.wikipedia.org/wiki/Wacław_Jędrzejewicz) and [Adam Skwarczyński](https://pl.wikipedia.org/wiki/Adam_Skwarczyński).
 
 ## The road to Magdeburg
 

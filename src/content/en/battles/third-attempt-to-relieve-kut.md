@@ -9,7 +9,7 @@ sides:
     commanders: [Halil Bey, Colmar von der Goltz, Ali İhsan Bey]
 result: Ottoman victory. The British took Hanna, Fallahiyah and Beit Aiessa but did not break the defences at Sannaiyat and Es Sinn. On 29 April Kut surrendered.
 source: trzecia-proba-odsieczy-al-kutu
-sourceHash: bd8db68315840a38be55a62d230165c9e5c0dbf5
+sourceHash: 393002230b245330160faa32186373b6abffbd51
 ---
 
 The third relief attempt was the last chance for General Charles Townshend's division, [besieged in Kut](/bitwy/oblezenie-al-kutu) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) since December 1915. After the [defeat at Dujaila](/bitwy/bitwa-pod-dudzajla) in March, the Anglo-Indian Tigris Corps, now commanded by General George Gorringe, received the fresh 13th Division, veterans of Gallipoli. On 5 April 1916 it took the trenches in the Hanna defile, abandoned by the Turks, and in the evening the position at Fallahiyah. The next Turkish line, at Sannaiyat, between the river and the marsh, withstood three attacks: on 6, 9 and 22 April. On the right bank the British took Beit Aiessa on 17 April, but during the night they had to beat off a violent Turkish counter-attack. All the while they were also fighting the swollen Tigris and the wind, which drove the water of the marshes onto their trenches. On the evening of 24 April the steamer Julnar tried to carry food into the town, but stuck at Magasis. Five days later Kut surrendered.
@@ -48,7 +48,7 @@ Lake and Gorringe concluded that the Turks had weakened the garrison of Sannaiya
 
 ## Julnar (24 April)
 
-There remained one last, desperate attempt to deliver food by river. The steamer Julnar, armoured and stripped of her woodwork, carried 270 tons of supplies. She was commanded by Lieutenant Humphrey Firman, with Lieutenant-Commander Charles Cowley, an expert on the river from the Lynch shipping company, as his second. On the evening of 24 April (according to Moberly at 7 p.m., according to Newbolt at 8 p.m.) the ship sailed from Fallahiyah, while British artillery and machine guns tried to drown the noise of her engines. She passed under fire by Sannaiyat and Es Sinn, but at Magasis a shell hit the bridge and killed Firman. A few minutes later Julnar caught on a cable stretched across the river, ran aground and had to surrender. Cowley died in captivity in unclear circumstances. Both were awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) posthumously.
+There remained one last, desperate attempt to deliver food by river. The steamer Julnar, armoured and stripped of her woodwork, carried 270 tons of supplies. She was commanded by Lieutenant Humphrey Firman, with Lieutenant-Commander Charles Cowley, an expert on the river from the Lynch shipping company, as his second. On the evening of 24 April (according to Moberly at 7 p.m., according to Newbolt at 8 p.m.) the ship sailed from Fallahiyah, while British artillery and machine guns tried to drown the noise of her engines. She passed under fire by Sannaiyat and Es Sinn, but at Magasis a shell hit the bridge and killed Firman. A few minutes later Julnar caught on a cable stretched across the river, ran aground and had to surrender. Cowley died in captivity in unclear circumstances. Both were awarded the [Victoria Cross](/slownik/krzyz-wiktorii) posthumously.
 
 ## Losses
 

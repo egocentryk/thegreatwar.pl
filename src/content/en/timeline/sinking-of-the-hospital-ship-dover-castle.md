@@ -2,10 +2,10 @@
 title: Sinking of the hospital ship Dover Castle
 summary: On 26 May 1917 the German UC-67 torpedoed the hospital ship Dover Castle off Algeria with over 600 patients aboard. The patients survived; 7 stokers died.
 source: zatopienie-statku-szpitalnego-dover-castle
-sourceHash: 9f243139702f0fa477670968792b293a21e80798
+sourceHash: 07f02a15985810b93adf271d9a5e139d0ff9c0e3
 ---
 
-At about 11 a.m. on 26 May 1917 a German submarine torpedoed the British [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) [*Dover Castle*](https://pl.wikipedia.org/wiki/HMHS_Dover_Castle) without warning. The ship was sailing from [Malta](https://pl.wikipedia.org/wiki/Malta_(wyspa)) to [Gibraltar](https://pl.wikipedia.org/wiki/Gibraltar), and from there was to go on to Britain. According to the Admiralty statement she was carrying 632 sick and wounded, including 29 officers. She was hit about 50 miles north of Bône, today's [Annaba](https://pl.wikipedia.org/wiki/Annaba), in French Algeria. It was yet another attack on a hospital ship in this war, but this time there was no great tragedy.
+At about 11 a.m. on 26 May 1917 a German submarine torpedoed the British [hospital ship](/slownik/statek-szpitalny) [*Dover Castle*](https://pl.wikipedia.org/wiki/HMHS_Dover_Castle) without warning. The ship was sailing from [Malta](https://pl.wikipedia.org/wiki/Malta_(wyspa)) to [Gibraltar](https://pl.wikipedia.org/wiki/Gibraltar), and from there was to go on to Britain. According to the Admiralty statement she was carrying 632 sick and wounded, including 29 officers. She was hit about 50 miles north of Bône, today's [Annaba](https://pl.wikipedia.org/wiki/Annaba), in French Algeria. It was yet another attack on a hospital ship in this war, but this time there was no great tragedy.
 
 The *Dover Castle* was a Union-Castle liner, built in 1904 by Barclay Curle in [Glasgow](https://pl.wikipedia.org/wiki/Glasgow), of about 8,300 gross register tons. During the war she was requisitioned and converted into a hospital ship, and in 1916–1917 she sailed in the Mediterranean. In October 1916 she rescued more than 300 men from the transport *Franconia*, torpedoed east of Malta.
 

@@ -2,10 +2,10 @@
 title: Germans and Bulgarians take Silistra
 summary: After Tutrakan the Romanians abandoned the Danube fortress of Silistra without a fight. In early September 1916 German uhlans and Bulgarians entered it.
 source: niemcy-i-bulgarzy-zdobywaja-silistre
-sourceHash: c336a7d9d56151a65ffe8ba6562126c2258733bb
+sourceHash: 5fd72e11913c53dc5ed40f5e12f77aa9d7058ee2
 ---
 
-The British chronology of the war states that on 10 September 1916 German and Bulgarian troops occupied [Silistra](https://pl.wikipedia.org/wiki/Silistra), the second Romanian fortress on the Danube in southern [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża) after Turtucaia. It was not, however, a capture in the strict sense. The Romanians left the town without a fight, and the victors entered an empty fortress. Sources differ on the day. According to the Austrian official history and the memoirs of [Erich Ludendorff](/postacie/erich-ludendorff), it happened on 9 September. The Romanian historian Constantin Kirițescu writes that the Bulgarians and Germans entered Silistra two days after its evacuation, that is on 10 September. This date was also given in communiqués and the press of those days, and some American yearbooks even give 11 September. In Romania, which still used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was the end of August.
+The British chronology of the war states that on 10 September 1916 German and Bulgarian troops occupied [Silistra](https://pl.wikipedia.org/wiki/Silistra), the second Romanian fortress on the Danube in southern [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża) after Turtucaia. It was not, however, a capture in the strict sense. The Romanians left the town without a fight, and the victors entered an empty fortress. Sources differ on the day. According to the Austrian official history and the memoirs of [Erich Ludendorff](/postacie/erich-ludendorff), it happened on 9 September. The Romanian historian Constantin Kirițescu writes that the Bulgarians and Germans entered Silistra two days after its evacuation, that is on 10 September. This date was also given in communiqués and the press of those days, and some American yearbooks even give 11 September. In Romania, which still used the [Julian calendar](/slownik/kalendarz-julianski), it was the end of August.
 
 ## A fortress no one defended
 

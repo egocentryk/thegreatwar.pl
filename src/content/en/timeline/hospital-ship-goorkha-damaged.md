@@ -2,10 +2,10 @@
 title: Hospital ship Goorkha damaged
 summary: On 17 October 1917 the British hospital ship Goorkha struck a mine off Malta. All 360-odd people on board survived and the ship was towed into port.
 source: uszkodzenie-statku-szpitalnego-goorkha
-sourceHash: 60ca45c4d6578fc69325d3003a7acbd2237c6451
+sourceHash: 37d8b781283176c7da7eac6bb215e4839c1e4b29
 ---
 
-On 17 October 1917 the British [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) *Goorkha* struck a [mine](https://pl.wikipedia.org/wiki/Mina_morska) off [Malta](https://pl.wikipedia.org/wiki/Malta_(wyspa)). According to lists of British hospital ships there were 362 people on board, including seventeen military nurses. Some works give the figure of 372. The evacuation went smoothly: within about 35 minutes everyone had left the ship and no one was killed.
+On 17 October 1917 the British [hospital ship](/slownik/statek-szpitalny) *Goorkha* struck a [mine](/slownik/mina-morska) off [Malta](https://pl.wikipedia.org/wiki/Malta_(wyspa)). According to lists of British hospital ships there were 362 people on board, including seventeen military nurses. Some works give the figure of 372. The evacuation went smoothly: within about 35 minutes everyone had left the ship and no one was killed.
 
 *Goorkha* was an old liner of the Union-Castle company, which ran a regular service between Great Britain and South Africa. She was built in 1897 by Harland & Wolff in [Belfast](https://pl.wikipedia.org/wiki/Belfast). She measured about 6,300 gross register tons. During the Boer War she carried troops to Africa, and in August 1914 she sailed in the convoy that took the British garrison and their families from Cape Town to Britain. On 20 October 1914 she was taken up as a hospital ship with 408 beds. From then on she carried the sick and wounded, largely in the Mediterranean, where Malta with its hospitals received soldiers first from Gallipoli and then from the Salonika front.
 

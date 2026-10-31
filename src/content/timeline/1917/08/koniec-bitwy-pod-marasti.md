@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-1 sierpnia 1917 roku (19 lipca według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), którym posługiwała się wówczas Rumunia) rumuńska 2 Armia generała [Alexandru Averescu](/postacie/alexandru-averescu) po raz ostatni zaatakowała masyw Măgura Cașinului, skalisty szczyt (1167 metrów) nad doliną rzeki Cașin, na północnym skraju krainy Vrancea. Atak się nie powiódł i wieczorem Averescu zrezygnował z dalszych prób. Tak skończyła się [bitwa pod Mărăști](/poczatek-bitwy-pod-marasti), pierwsze zwycięstwo armii rumuńskiej odbudowanej po klęsce 1916 roku. Brytyjska chronologia wojny zapisuje pod tą datą koniec „pierwszej fazy bitwy pod Mărășești”. W rzeczywistości chodzi o Mărăști: bitwa pod leżącymi 30 kilometrów dalej Mărășești miała się zacząć dopiero za pięć dni, gdy do natarcia przeszli Niemcy.
+1 sierpnia 1917 roku (19 lipca według [kalendarza juliańskiego](/slownik/kalendarz-julianski), którym posługiwała się wówczas Rumunia) rumuńska 2 Armia generała [Alexandru Averescu](/postacie/alexandru-averescu) po raz ostatni zaatakowała masyw Măgura Cașinului, skalisty szczyt (1167 metrów) nad doliną rzeki Cașin, na północnym skraju krainy Vrancea. Atak się nie powiódł i wieczorem Averescu zrezygnował z dalszych prób. Tak skończyła się [bitwa pod Mărăști](/poczatek-bitwy-pod-marasti), pierwsze zwycięstwo armii rumuńskiej odbudowanej po klęsce 1916 roku. Brytyjska chronologia wojny zapisuje pod tą datą koniec „pierwszej fazy bitwy pod Mărășești”. W rzeczywistości chodzi o Mărăști: bitwa pod leżącymi 30 kilometrów dalej Mărășești miała się zacząć dopiero za pięć dni, gdy do natarcia przeszli Niemcy.
 
 ## Ostatni szturm
 

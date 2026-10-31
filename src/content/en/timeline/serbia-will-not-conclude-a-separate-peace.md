@@ -2,10 +2,10 @@
 title: Serbia will not conclude a separate peace
 summary: On 5 December 1914 Nikola Pašić formed a coalition government in Niš. On 7 December it declared that Serbia, loyal to its allies, would fight to victory.
 source: serbia-nie-zawrze-odrebnego-pokoju
-sourceHash: 2d2da40330bed6d0560860e48d9ef94ac4c4a0ea
+sourceHash: 51bda973bcfd89a631246ae393b7254d2c3599b8
 ---
 
-The British chronology of the war records under 5 December 1914 that the Serbian government declared that Serbia would never make peace without the consent of its allies. We have been unable to find a separate statement from that day. On 5 December, that is 22 November by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then used in Serbia, the Prime Minister, [Nikola Pašić](/postacie/nikola-pasic), formed a new coalition government in [Niš](https://pl.wikipedia.org/wiki/Nisz). Its programme, read out in parliament on 7 December, went down in history as the Niš Declaration. Most probably it is these events that lie behind the entry in the British chronology.
+The British chronology of the war records under 5 December 1914 that the Serbian government declared that Serbia would never make peace without the consent of its allies. We have been unable to find a separate statement from that day. On 5 December, that is 22 November by the [Julian calendar](/slownik/kalendarz-julianski) then used in Serbia, the Prime Minister, [Nikola Pašić](/postacie/nikola-pasic), formed a new coalition government in [Niš](https://pl.wikipedia.org/wiki/Nisz). Its programme, read out in parliament on 7 December, went down in history as the Niš Declaration. Most probably it is these events that lie behind the entry in the British chronology.
 
 ## A government of unity
 

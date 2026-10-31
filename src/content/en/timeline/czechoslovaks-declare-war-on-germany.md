@@ -2,7 +2,7 @@
 title: Czechoslovaks declare war on Germany
 summary: On 13 August 1918, per the British chronology, the Czechoslovaks declared war on Germany too. They had three armies, in Russia, France and Italy.
 source: czechoslowacy-wypowiadaja-wojne-niemcom
-sourceHash: daa75f67c2e70e74eaa7d1d2a451a213538abe7a
+sourceHash: 6ef631af68a96eddb5e9ccd34a93ff900ea76dc4
 brief:
   - "Under 13 August 1918 the British official chronology of the war records that the Czechoslovaks declared war on Germany. The text of a separate act declaring war on that day has not been found."
   - "That day Reuters circulated Balfour's declaration, in which Britain recognised the Czechoslovaks as an Allied nation and their three armies as one army at war with Austria-Hungary and Germany."
@@ -37,4 +37,4 @@ Further steps followed quickly. On 3 September the United States recognised that
 
 ## Significance
 
-For the Czechs and Slovaks the state of war with Germany was above all of legal and political significance. An émigré movement without territory was demonstrating that it was a party to the war, and not merely a group of rebels against its own monarch. Thanks to this, after the fighting ended Czechoslovakia sat at the Paris Peace Conference among the Allied and Associated Powers, and on 28 June 1919 its representatives signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) with Germany. In August 1918 this outcome was not yet settled. The Czech and Slovak lands still belonged to the monarchy, and its government regarded the National Council as a committee of private individuals with no mandate whatsoever.
+For the Czechs and Slovaks the state of war with Germany was above all of legal and political significance. An émigré movement without territory was demonstrating that it was a party to the war, and not merely a group of rebels against its own monarch. Thanks to this, after the fighting ended Czechoslovakia sat at the Paris Peace Conference among the Allied and Associated Powers, and on 28 June 1919 its representatives signed the [Treaty of Versailles](/slownik/traktat-wersalski) with Germany. In August 1918 this outcome was not yet settled. The Czech and Slovak lands still belonged to the monarchy, and its government regarded the National Council as a committee of private individuals with no mandate whatsoever.

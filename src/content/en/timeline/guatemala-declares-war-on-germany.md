@@ -2,7 +2,7 @@
 title: Guatemala declares war on Germany
 summary: On 23 April 1918 President Estrada Cabrera promulgated a decree by which Guatemala adopted towards Germany the same belligerent attitude as the United States.
 source: gwatemala-wypowiada-wojne-niemcom
-sourceHash: 5599b7a87658a6745e09b019a78191c74d438cfb
+sourceHash: 6dd07541225885ba472e68f32b85e1f34ac46ed6
 brief:
   - "On 23 April 1918 President Manuel Estrada Cabrera signed Decree No. 976, by which Guatemala adopted towards the German Empire \"the same belligerent attitude as the United States\"."
   - "Guatemala had broken off relations with Germany on 27 April 1917. The dictator based his power on good relations with Washington, which pressed him to curb the influence of the wealthy German colony."
@@ -32,4 +32,4 @@ In Latin America Guatemala was not the first. As early as April 1917, immediatel
 
 Guatemala sent no soldiers to the front and had no navy. Its war consisted of supporting the Americans and dealing with German interests in its own country. The government placed German enterprises under state administration, including the capital's electricity company, the Verapaz railway and the electricity and telephone company in Quetzaltenango. According to some historians, however, Estrada Cabrera did this reluctantly and did little, and most German coffee planters kept their estates, which was received with irritation in Washington.
 
-Taking part in the war earned Guatemala a place among the victors. It signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) and in January 1920 was among the founding members of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów). The alliance with America did not, however, secure lasting support for Estrada Cabrera himself. In April 1920 the Assembly declared him unfit to hold office, and after several days of fighting in the streets of the capital the dictator had to surrender.
+Taking part in the war earned Guatemala a place among the victors. It signed the [Treaty of Versailles](/slownik/traktat-wersalski) and in January 1920 was among the founding members of the [League of Nations](/slownik/liga-narodow). The alliance with America did not, however, secure lasting support for Estrada Cabrera himself. In April 1920 the Assembly declared him unfit to hold office, and after several days of fighting in the streets of the capital the dictator had to surrender.

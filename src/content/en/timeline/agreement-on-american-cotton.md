@@ -2,7 +2,7 @@
 title: Agreement on American cotton
 summary: In March 1915 London agreed with American exporters to let through or buy up cotton already contracted. Cotton became contraband only in August.
 source: porozumienie-w-sprawie-amerykanskiej-bawelny
-sourceHash: 58c70e51c53c53b0a48cc5fa85ad3050bd446e7d
+sourceHash: a8789e7bf50f4aa594742aa2b7d9ba719dfe5821
 ---
 
 The British chronology of the war records under 18 March 1915 an agreement between the British government and American cotton interests under which [cotton](https://pl.wikipedia.org/wiki/Bawełna_(włókno)) was to be declared contraband. The documents of the time, however, show something else. In March 1915 the British did indeed conclude an agreement on cotton with representatives of American exporters, but it concerned letting through or buying up cargoes contracted before the new restrictions. Cotton became contraband only in August 1915.
@@ -25,7 +25,7 @@ In the following days the terms were eased. On 15 March, the day the [British re
 
 Washington took care that the agreement should not have an official character. When in May a British memorandum presented it as a concession to the United States government, the State Department protested. The British Embassy then explained that the terms had been agreed in London by British officials with a private representative of American cotton interests. Rose and his associate had acted in the talks on behalf of the exporters, not the government. The Foreign Secretary, [Edward Grey](/postacie/edward-grey), confirmed that London regarded the agreement as private and not binding on the US government.
 
-The agreement did not end the disputes. By mid-May the British had stopped 28 ships with more than 200,000 bales of cotton. Most cargoes were bought up under the terms of the agreement, and the exporters complained of delays in payment. On 19 May the Chancellor of the Exchequer, [David Lloyd George](/postacie/david-lloyd-george), admitted in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) that cotton was not formally contraband, but that the measures applied since 11 March cut Germany off from it as effectively as such a declaration would.
+The agreement did not end the disputes. By mid-May the British had stopped 28 ships with more than 200,000 bales of cotton. Most cargoes were bought up under the terms of the agreement, and the exporters complained of delays in payment. On 19 May the Chancellor of the Exchequer, [David Lloyd George](/postacie/david-lloyd-george), admitted in the [House of Commons](/slownik/izba-gmin) that cotton was not formally contraband, but that the measures applied since 11 March cut Germany off from it as effectively as such a declaration would.
 
 ## Cotton becomes contraband
 

@@ -2,7 +2,7 @@
 title: Battle of Frezenberg Ridge ends
 summary: On 13 May 1915 the Germans made their last attack at Ypres in the Battle of Frezenberg Ridge. Dismounted cavalry and British infantry held the front.
 source: koniec-bitwy-o-grzbiet-frezenberg
-sourceHash: 80aad4de48efc042c9f50f8ce1bb261c24401cf4
+sourceHash: ca61344f34c8067079e36aed602ad36b29268fd3
 ---
 
 On 13 May 1915, for the last time in the Battle of Frezenberg Ridge, the Germans tried to break the British defence east of [Ypres](/miejsca/ypres). From 3.30 a.m. to 1 p.m. their artillery shelled the trenches and the rear, and the war diary of the British V Corps described the bombardment as the heaviest since the fighting began. It rained all day and the shallow trenches turned to mud. The Germans broke into the line at several points but got no further. In the evening the front settled, and the battle, which had begun [on 8 May](/poczatek-bitwy-o-grzbiet-frezenberg) with the breach at Frezenberg, came to an end.
@@ -15,7 +15,7 @@ At about 8 a.m. the Germans broke into the line of the 7th Cavalry Brigade, whic
 
 ## Mouse Trap Farm
 
-To the left of the cavalry the 4th Division held its ground. Mouse Trap Farm, surrounded by a moat and, by British reckoning, hit by more than a hundred shells a minute, was lost for a moment when two platoons of its garrison were killed, but in the evening the British occupied it again. German attacks on the neighbouring sectors collapsed under rifle fire, some at the very wire. Lance-Sergeant Douglas Belcher of the London Rifle Brigade, a territorial battalion, held a wrecked trench all day with a handful of men, and every time the Germans made ready to attack he opened rapid fire on them. For covering the division's flank he received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+To the left of the cavalry the 4th Division held its ground. Mouse Trap Farm, surrounded by a moat and, by British reckoning, hit by more than a hundred shells a minute, was lost for a moment when two platoons of its garrison were killed, but in the evening the British occupied it again. German attacks on the neighbouring sectors collapsed under rifle fire, some at the very wire. Lance-Sergeant Douglas Belcher of the London Rifle Brigade, a territorial battalion, held a wrecked trench all day with a handful of men, and every time the Germans made ready to attack he opened rapid fire on them. For covering the division's flank he received the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 ## Outcome of the battle
 

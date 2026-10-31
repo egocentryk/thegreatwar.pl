@@ -2,10 +2,10 @@
 title: Airship raid on Theatreland
 summary: On the evening of 13 October 1915 the airship L 15 bombed London's Theatreland. The raid by five airships killed 71 people and injured 128.
 source: nalot-sterowcow-na-dzielnice-teatrow
-sourceHash: af9592eae4de885b9cc7ca1a1cc325e27c2be15a
+sourceHash: 9a00aed65ad1bd9042538c130efbf3dc9a8233ca
 ---
 
-On the evening of 13 October 1915 the German naval [airship](https://pl.wikipedia.org/wiki/Sterowiec) L 15 of Kapitänleutnant Joachim Breithaupt flew over the very centre of London. At about 9.35 p.m. it began dropping bombs around [Covent Garden](https://pl.wikipedia.org/wiki/Covent_Garden) and the [Strand](https://pl.wikipedia.org/wiki/Strand_(Londyn)), in the heart of the theatre district. One bomb fell at the junction of Wellington Street and Exeter Street, in front of the Lyceum Theatre, and killed 17 people. It was the deadliest airship raid on Britain in 1915. In England it went down in history as the "Theatreland raid".
+On the evening of 13 October 1915 the German naval [airship](/slownik/sterowiec) L 15 of Kapitänleutnant Joachim Breithaupt flew over the very centre of London. At about 9.35 p.m. it began dropping bombs around [Covent Garden](https://pl.wikipedia.org/wiki/Covent_Garden) and the [Strand](https://pl.wikipedia.org/wiki/Strand_(Londyn)), in the heart of the theatre district. One bomb fell at the junction of Wellington Street and Exeter Street, in front of the Lyceum Theatre, and killed 17 people. It was the deadliest airship raid on Britain in 1915. In England it went down in history as the "Theatreland raid".
 
 ## Five airships
 

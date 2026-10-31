@@ -2,7 +2,7 @@
 title: Clash in the Strait of Otranto
 summary: On 15 May 1917 Horthy's cruisers sank 14 British drifters in the Strait of Otranto. In the pursuit Novara was badly damaged and Horthy was wounded.
 source: starcie-w-ciesninie-otranto
-sourceHash: f5db9fa4d75a8c229704571ec0ecbc51a9066714
+sourceHash: 84b8ae42d40696260da55ad4ef5ec14e4dc34025
 ---
 
 Before dawn on 15 May 1917 three Austro-Hungarian light cruisers under Captain [Miklós Horthy](/postacie/miklos-horthy) burst in among the British drifters guarding the anti-submarine nets in the [Strait of Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto). In less than two hours they sank fourteen of them. On the way back they were intercepted by British and Italian ships from Brindisi, and the largest surface battle in the Adriatic of the whole war was fought. The British chronology of the war describes it briefly as an action between Austrian and British light forces in which 14 British drifters were sunk. On the Allied side, however, the commander was an Italian, Rear-Admiral Alfredo Acton, and Italian and French ships also took part.
@@ -15,7 +15,7 @@ The Austrians had raided the drifters before. Most often it was done by destroye
 
 ## Slaughter of the drifters
 
-That night 47 drifters were on station in the strait. The cruisers passed through their line unrecognised and at about half past three in the morning, Austrian time, each in its own sector, opened fire. The Austrians often first called on the crews to abandon their boats and only then fired. Not all the fishermen fled. Skipper Joseph Watt of the drifter *Gowan Lee* ordered his boat to carry on and return fire with its single gun. His boat was badly damaged but stayed afloat, and Watt received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for this fight. By dawn the cruisers had sunk 14 drifters and damaged several more. They took 72 British seamen prisoner. According to British casualty lists, a dozen or so men of the boats' crews were killed.
+That night 47 drifters were on station in the strait. The cruisers passed through their line unrecognised and at about half past three in the morning, Austrian time, each in its own sector, opened fire. The Austrians often first called on the crews to abandon their boats and only then fired. Not all the fishermen fled. Skipper Joseph Watt of the drifter *Gowan Lee* ordered his boat to carry on and return fire with its single gun. His boat was badly damaged but stayed afloat, and Watt received the [Victoria Cross](/slownik/krzyz-wiktorii) for this fight. By dawn the cruisers had sunk 14 drifters and damaged several more. They took 72 British seamen prisoner. According to British casualty lists, a dozen or so men of the boats' crews were killed.
 
 Meanwhile *Csepel* and *Balaton* came upon a small Italian convoy off Albania, sailing from Gallipoli in Apulia to [Valona](https://pl.wikipedia.org/wiki/Wlora). Its escort, the old destroyer *Borea*, approached to find out who the strange ships were and was fired on at close range. Shells pierced her steam pipe and hull, she stopped and soon afterwards sank. Eleven of her crew were killed. *Balaton* set two of the three steamers on fire. *Carroccio*, carrying ammunition, sank, while *Verità*, abandoned by her crew, stayed afloat and later reached port, although some accounts state that both sank.
 

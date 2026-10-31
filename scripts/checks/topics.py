@@ -12,6 +12,10 @@ Usage: python3 -I scripts/checks/topics.py . <slug> [more slugs...]
        scripts/evidence/places/<slug>.json; also 2 sources outside
        Wikipedia, 400–900 words, 5+ links to our own pages, and the copy
        check below)
+       python3 -I scripts/checks/topics.py . --glossary <slug> [more...]
+       (a glossary term's longer text: src/content/glossary/<slug>.md
+       against scripts/evidence/glossary/<slug>.json; 2 sources outside
+       Wikipedia, 300–600 words, 4+ links to our own pages, the copy check)
 
 Evidence format:
 {
@@ -33,7 +37,7 @@ existing page (an article, battle, person or another guide); every number in the
 Web quotes cannot be re-checked offline: they are the writer's record of what
 the opened page says.
 
-Copy check (place pages): the plain text of the pl.wikipedia article of each
+Copy check (place pages, glossary texts): the plain text of the pl.wikipedia article of each
 `wikiTitles` entry is fetched (cached in $TMPDIR/tgw-wiki) and every run of
 8 or more words shared with the page, in the same order, is a problem. Our
 pages are our own writing: a shared run means a sentence was taken over.
@@ -144,12 +148,13 @@ def check(repo, slug):
     pages |= {"tematy/" + os.path.basename(f)[:-3] for f in glob.glob(f"{repo}/src/content/topics/*.md")}
     pages |= {"kraje/" + os.path.basename(f)[:-3] for f in glob.glob(f"{repo}/src/content/countries/*.md")}
     pages |= {"miejsca/" + os.path.basename(f)[:-3] for f in glob.glob(f"{repo}/src/content/places/*.md")}
-    for ref in re.findall(r"\]\(/((?:bitwy/|postacie/|tematy/|kraje/|miejsca/)?[a-z0-9-]+)(?:#[^)]*)?\)", body):
+    pages |= {"slownik/" + e["slug"] for e in json.load(open(f"{repo}/src/data/glossary.json", encoding="utf-8"))}
+    for ref in re.findall(r"\]\(/((?:bitwy/|postacie/|tematy/|kraje/|miejsca/|slownik/)?[a-z0-9-]+)(?:#[^)]*)?\)", body):
         if ref not in pages:
             problems.append(f"link to a page that doesn't exist: /{ref}")
     if len(sources) < 4:
         problems.append(f"{len(sources)} sources (want at least 4)")
-    if KIND in ("countries", "places") and sum("wikipedia.org" not in u for u in sources) < 2:
+    if KIND in ("countries", "places", "glossary") and sum("wikipedia.org" not in u for u in sources) < 2:
         problems.append("fewer than 2 sources outside Wikipedia")
     body_nums = set(numbers(norm(body)))
     for point in brief:
@@ -158,11 +163,12 @@ def check(repo, slug):
                 problems.append(f"brief number {n} not in the body: {point[:60]}")
     words = len(norm(body).split())
     internal = len(set(re.findall(r"\]\(/[^)]+\)", body)))
-    if KIND == "places":
-        if not 400 <= words <= 900:
-            problems.append(f"{words} words (want 400–900)")
-        if internal < 5:
-            problems.append(f"{internal} links to our own pages (want at least 5)")
+    if KIND in ("places", "glossary"):
+        low, high, links = (400, 900, 5) if KIND == "places" else (300, 600, 4)
+        if not low <= words <= high:
+            problems.append(f"{words} words (want {low}–{high})")
+        if internal < links:
+            problems.append(f"{internal} links to our own pages (want at least {links})")
         m = re.search(r"^wikiTitles:\s*\[(.*)\]", fm, re.M)
         titles = [t.strip().strip("\"'") for t in (m.group(1).split(",") if m else []) if t.strip()]
         if not titles:
@@ -181,7 +187,7 @@ KIND = "topics"
 def main():
     global KIND
     repo, slugs = sys.argv[1], sys.argv[2:]
-    if slugs and slugs[0] in ("--countries", "--places"):
+    if slugs and slugs[0] in ("--countries", "--places", "--glossary"):
         KIND, slugs = slugs[0][2:], slugs[1:]
     total = 0
     for slug in slugs:

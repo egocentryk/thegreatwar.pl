@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Nad ranem 30 października 1914 roku brytyjski [statek szpitalny](https://pl.wikipedia.org/wiki/Statek_szpitalny) Rohilla wpadł w sztormie na skały Saltwick Nab u wybrzeży Yorkshire, niedaleko miasta [Whitby](https://pl.wikipedia.org/wiki/Whitby_(North_Yorkshire)). Na oczach mieszkańców, zgromadzonych na brzegu, przez trzy dni trwała jedna z najbardziej dramatycznych akcji ratunkowych w historii brytyjskich ratowników morskich.
+Nad ranem 30 października 1914 roku brytyjski [statek szpitalny](/slownik/statek-szpitalny) Rohilla wpadł w sztormie na skały Saltwick Nab u wybrzeży Yorkshire, niedaleko miasta [Whitby](https://pl.wikipedia.org/wiki/Whitby_(North_Yorkshire)). Na oczach mieszkańców, zgromadzonych na brzegu, przez trzy dni trwała jedna z najbardziej dramatycznych akcji ratunkowych w historii brytyjskich ratowników morskich.
 
 ## Rejs do Dunkierki
 

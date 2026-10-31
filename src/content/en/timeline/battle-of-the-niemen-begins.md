@@ -2,7 +2,7 @@
 title: Battle of the Niemen begins
 summary: On 20 September 1920 two Polish divisions attacked Grodno from the Augustów Forest. Tukhachevsky took it for the main blow; Piłsudski planned to outflank him.
 source: poczatek-bitwy-nad-niemnem
-sourceHash: 917c0ee3049a85bb1e6e3dff518a5cadf46eee78
+sourceHash: b4409853b5903cfdc945320cbc6e5a96f5cf513e
 ---
 
 On the morning of 20 September 1920 two Polish divisions supported by heavy artillery came out of the woods of the Augustów Forest and attacked the Soviet positions in front of Grodno. So began the Battle of the Niemen, the Polish Army's second great operation against Mikhail Tukhachevsky's Western Front after the [Battle of Warsaw](/bitwy/bitwa-warszawska). The attack at Grodno was only the first move. The decision was to come from the north, where the 2nd Army's manoeuvre group was to outflank the Niemen line through land held by the Lithuanians.
@@ -23,6 +23,6 @@ Tukhachevsky took the attack at Grodno for the start of the main Polish offensiv
 
 ## The League of Nations and Riga
 
-That same day the Council of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów) adopted a resolution confirming the so-called Foch Line in the Suwałki region as a provisional demarcation line between Poland and Lithuania. The Polish plan meant crossing it. The Lithuanians, who had occupied Vilna after the Red Army's retreat and in September had fought the Poles near Sejny and Augustów, declared their neutrality in the Polish–Soviet war. In Poland, however, they were regarded as Moscow's de facto allies.
+That same day the Council of the [League of Nations](/slownik/liga-narodow) adopted a resolution confirming the so-called Foch Line in the Suwałki region as a provisional demarcation line between Poland and Lithuania. The Polish plan meant crossing it. The Lithuanians, who had occupied Vilna after the Red Army's retreat and in September had fought the Poles near Sejny and Augustów, declared their neutrality in the Polish–Soviet war. In Poland, however, they were regarded as Moscow's de facto allies.
 
 On 20 September in Moscow [Vladimir Lenin](/postacie/wlodzimierz-lenin) told his associates that a quick armistice with Poland was needed, because first the White army of General Pyotr Wrangel had to be defeated in the south. The next day Polish–Soviet peace talks were to begin in Riga. Their course now depended to a large extent on what would happen on the Niemen.

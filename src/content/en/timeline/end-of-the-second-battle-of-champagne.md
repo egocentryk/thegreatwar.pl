@@ -2,7 +2,7 @@
 title: End of the Second Battle of Champagne
 summary: On 6 November 1915 the last fighting of the Second Battle of Champagne died down. German counter-attacks retook the Butte de Tahure and Hill 199 near Massiges.
 source: koniec-drugiej-bitwy-w-szampanii
-sourceHash: 30f52b2fbb5747949d5e58ba6fde50f4d16a2426
+sourceHash: 59ef80e678573539cbbab3c94b8afb9c4744d21a
 ---
 
 On 6 November 1915 the last fighting of the great autumn battle in [Champagne](https://pl.wikipedia.org/wiki/Szampania), which had begun [on 25 September](/poczatek-drugiej-bitwy-w-szampanii), died down. This date for its end is given by the British chronology of the war and also by German studies, which speak of the autumn battle in Champagne. The date is conventional. General [Joseph Joffre](/postacie/joseph-joffre) had broken off the offensive proper at the beginning of October, when ammunition ran short, and in the middle of the month he ordered larger operations to be halted both here and [in Artois](/koniec-trzeciej-bitwy-w-artois). The last weeks of the battle belonged to the Germans, who with counter-attacks took back part of the ground the French had won.
@@ -13,7 +13,7 @@ From 7 October further divisions arrived on the front of General [Karl von Einem
 
 ## Hill 199 and La Courtine
 
-At the beginning of November the fighting shifted east, to the area of [Massiges](https://pl.wikipedia.org/wiki/Massiges). On 3 November, according to German studies, the German 56th Infantry Division recaptured the whole of Hill 199 north of the village in a surprise attack. The French communiqué wrote that the Germans, after a bombardment with asphyxiating gas shells, attacked the positions south of the Chausson farm and were repulsed, except on a few stretches of forward trenches on Hill 199. In the following days the fighting went on between that hill and Maisons de Champagne. The French reported that they had first driven the enemy out of a trench he still held, but that in the evening the Germans established themselves in it again with a fresh attack. In front of La Courtine the Germans attacked with [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia), and French communiqués reported further attacks repulsed. The Germans also made small territorial gains near the Navarin farm.
+At the beginning of November the fighting shifted east, to the area of [Massiges](https://pl.wikipedia.org/wiki/Massiges). On 3 November, according to German studies, the German 56th Infantry Division recaptured the whole of Hill 199 north of the village in a surprise attack. The French communiqué wrote that the Germans, after a bombardment with asphyxiating gas shells, attacked the positions south of the Chausson farm and were repulsed, except on a few stretches of forward trenches on Hill 199. In the following days the fighting went on between that hill and Maisons de Champagne. The French reported that they had first driven the enemy out of a trench he still held, but that in the evening the Germans established themselves in it again with a fresh attack. In front of La Courtine the Germans attacked with [flamethrowers](/slownik/miotacz-ognia), and French communiqués reported further attacks repulsed. The Germans also made small territorial gains near the Navarin farm.
 
 After 6 November the communiqués from Champagne spoke only of heavy artillery fire between Tahure and Hill 199 and of isolated attacks in the trenches. Both sides were exhausted, and winter was approaching.
 

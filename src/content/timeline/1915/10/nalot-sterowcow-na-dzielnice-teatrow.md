@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 13 października 1915 roku niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) marynarki L 15 kapitanlejtnanta Joachima Breithaupta przeleciał nad samym środkiem Londynu. Około 21.35 zaczął zrzucać bomby w okolicy [Covent Garden](https://pl.wikipedia.org/wiki/Covent_Garden) i ulicy [Strand](https://pl.wikipedia.org/wiki/Strand_(Londyn)), w sercu dzielnicy teatralnej. Jedna bomba spadła na skrzyżowaniu Wellington Street i Exeter Street, przed Lyceum Theatre, i zabiła 17 osób. Był to najkrwawszy nalot sterowców na Wielką Brytanię w 1915 roku. W Anglii przeszedł do historii jako „Theatreland raid”, czyli nalot na dzielnicę teatrów.
+Wieczorem 13 października 1915 roku niemiecki [sterowiec](/slownik/sterowiec) marynarki L 15 kapitanlejtnanta Joachima Breithaupta przeleciał nad samym środkiem Londynu. Około 21.35 zaczął zrzucać bomby w okolicy [Covent Garden](https://pl.wikipedia.org/wiki/Covent_Garden) i ulicy [Strand](https://pl.wikipedia.org/wiki/Strand_(Londyn)), w sercu dzielnicy teatralnej. Jedna bomba spadła na skrzyżowaniu Wellington Street i Exeter Street, przed Lyceum Theatre, i zabiła 17 osób. Był to najkrwawszy nalot sterowców na Wielką Brytanię w 1915 roku. W Anglii przeszedł do historii jako „Theatreland raid”, czyli nalot na dzielnicę teatrów.
 
 ## Pięć sterowców
 

@@ -16,7 +16,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Linia_Focha"
 ---
 
-Około trzeciej nad ranem 23 sierpnia 1919 roku oddziały suwalskiego okręgu [Polskiej Organizacji Wojskowej](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) rozpoczęły powstanie przeciwko władzy litewskiej na Sejneńszczyźnie. Jedna kompania zajęła z zaskoczenia [Krasnopol](https://pl.wikipedia.org/wiki/Krasnopol_(Polska)), a główne siły zdobyły [Sejny](https://pl.wikipedia.org/wiki/Sejny), które Litwini trzymali, choć według ustalonej miesiąc wcześniej w Paryżu linii demarkacyjnej miały przypaść Polsce. W kilkanaście godzin powstańcy opanowali znaczną część Sejneńszczyzny, a niektóre oddziały przekroczyły nawet tę linię. Był to jeden z najgłośniejszych epizodów narastającego [konfliktu polsko-litewskiego](https://pl.wikipedia.org/wiki/Konflikt_polsko-litewski).
+Około trzeciej nad ranem 23 sierpnia 1919 roku oddziały suwalskiego okręgu [Polskiej Organizacji Wojskowej](/slownik/pow) rozpoczęły powstanie przeciwko władzy litewskiej na Sejneńszczyźnie. Jedna kompania zajęła z zaskoczenia [Krasnopol](https://pl.wikipedia.org/wiki/Krasnopol_(Polska)), a główne siły zdobyły [Sejny](https://pl.wikipedia.org/wiki/Sejny), które Litwini trzymali, choć według ustalonej miesiąc wcześniej w Paryżu linii demarkacyjnej miały przypaść Polsce. W kilkanaście godzin powstańcy opanowali znaczną część Sejneńszczyzny, a niektóre oddziały przekroczyły nawet tę linię. Był to jeden z najgłośniejszych epizodów narastającego [konfliktu polsko-litewskiego](https://pl.wikipedia.org/wiki/Konflikt_polsko-litewski).
 
 ## Sporna ziemia
 

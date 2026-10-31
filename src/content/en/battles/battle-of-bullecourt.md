@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below, Otto von Moser]
 result: A costly British tactical success. The Australians held and widened their breach in the Hindenburg Line and the British took the ruins of Bullecourt. There was no breakthrough, and losses exceeded 14,000 men.
 source: bitwa-pod-bullecourt
-sourceHash: c1add26fec1ba2689938f959478a1da6483b41d5
+sourceHash: 8847235c850b2dbe8cacdd78632e1311e44d4001
 brief:
   - "The Battle of Bullecourt, fought from 3 to 17 May 1917, was the longest and bloodiest episode of the final phase of the Battle of Arras. Gough's Fifth Army attacked the Hindenburg Line here for the second time."
   - "On 11 April the 4th Australian Division had suffered a heavy defeat here. In May the attack was only meant to support the Third Army and pin the Germans, and this time very thorough artillery preparation preceded it."
@@ -44,7 +44,7 @@ The 62nd Division's attack ended in failure. Battalions of the right brigade man
 
 ## Course of the battle: 4–6 May
 
-Birdwood gave Smyth brigades of the 1st Australian Division. On the night of 3/4 May fresh battalions moved up to the lodgement along a communication trench dug under fire, known as Pioneer Avenue, and the exhausted remnants of the 6th Brigade could at last leave the line. On the afternoon of 4 May the Australians widened the breach by bombing in both directions until it took in just over a kilometre of the Hindenburg Line. The Germans answered with ever heavier shelling and counter-attacks. The most dangerous came on 6 May. An attack from the north was broken up by the Australian barrage, but along the front trench the Germans advanced rapidly with [flamethrowers](https://pl.wikipedia.org/wiki/Miotacz_ognia) and pushed the defenders back to Central Road. The situation was saved by Corporal George Howell, who leapt out of the trench and, running along its edge, bombed the Germans. The Australians counter-attacked and recovered the lost trench. Howell was wounded and received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). According to the official history the Germans had made half a dozen major counter-attacks by 6 May, and in the meantime the 27th Division had been replaced by the 3rd Guard Division.
+Birdwood gave Smyth brigades of the 1st Australian Division. On the night of 3/4 May fresh battalions moved up to the lodgement along a communication trench dug under fire, known as Pioneer Avenue, and the exhausted remnants of the 6th Brigade could at last leave the line. On the afternoon of 4 May the Australians widened the breach by bombing in both directions until it took in just over a kilometre of the Hindenburg Line. The Germans answered with ever heavier shelling and counter-attacks. The most dangerous came on 6 May. An attack from the north was broken up by the Australian barrage, but along the front trench the Germans advanced rapidly with [flamethrowers](/slownik/miotacz-ognia) and pushed the defenders back to Central Road. The situation was saved by Corporal George Howell, who leapt out of the trench and, running along its edge, bombed the Germans. The Australians counter-attacked and recovered the lost trench. Howell was wounded and received the [Victoria Cross](/slownik/krzyz-wiktorii). According to the official history the Germans had made half a dozen major counter-attacks by 6 May, and in the meantime the 27th Division had been replaced by the 3rd Guard Division.
 
 ## Course of the battle: 7–17 May
 

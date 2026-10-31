@@ -2,7 +2,7 @@
 title: The Battle of Neuve Chapelle begins
 summary: On 10 March 1915, after a 35-minute bombardment, the British First Army attacked at Neuve Chapelle. It took the village in hours but could go no further.
 source: poczatek-bitwy-pod-neuve-chapelle
-sourceHash: d262a7c1aca2a99ead70b06cb87af0a2a47feb03
+sourceHash: 4a3dd5bacf8c03caac98a1abf2b59c648ac0e6da
 brief:
   - "On 10 March 1915 General Douglas Haig's First Army attacked at Neuve Chapelle in French Flanders. It was the first offensive the British had planned and carried out on their own since the front congealed into trenches."
   - "Haig wanted to eliminate the German salient, take the village and push on to the Aubers Ridge. Preparations were thorough: maps from aerial photographs and more than 340 concealed guns with a timetable to the minute."
@@ -29,7 +29,7 @@ The preparations were more thorough than for any previous British attack. Airmen
 
 The night was wet, with passing snow, and in the morning mist hung over the plain. At 7.30 the bombardment began. According to most sources, for 35 minutes the field guns cut the wire while the howitzers pounded the German breastworks. Soldiers in the British trenches later recalled a roar so tremendous that they could not hear their own voices. At 8.05 the artillery lifted its fire onto the village and the infantry left the trenches.
 
-In the centre the British 25th Brigade and the Indian Garhwal Brigade crossed no man's land almost without loss. The stunned German survivors of the bombardment mostly surrendered. The soldiers broke into the ruins of the village and cleared them house by house. On the right flank, however, one of the battalions of the 39th Garhwal Rifles lost its direction and ran into an unbombarded stretch of the German trenches, where it suffered heavy losses. Rifleman Gabbar Singh Negi of the regiment's second battalion led the attack along a German trench, forcing the defenders to surrender. He was killed that day and was posthumously awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+In the centre the British 25th Brigade and the Indian Garhwal Brigade crossed no man's land almost without loss. The stunned German survivors of the bombardment mostly surrendered. The soldiers broke into the ruins of the village and cleared them house by house. On the right flank, however, one of the battalions of the 39th Garhwal Rifles lost its direction and ran into an unbombarded stretch of the German trenches, where it suffered heavy losses. Rifleman Gabbar Singh Negi of the regiment's second battalion led the attack along a German trench, forcing the defenders to surrender. He was killed that day and was posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii).
 
 On the left flank the 23rd Brigade came up against intact wire. The two batteries of heavy howitzers that were to have destroyed it had reached their positions only on the eve of the attack and had not had time to register. The 2nd Battalion of the Middlesex Regiment and the 2nd Battalion of the Scottish Rifles lost hundreds of men here in a short time, and the commanding officer of the Scots, Lieutenant-Colonel Wilfred Bliss, was killed. Only when a neighbouring brigade took this position in the flank from the direction of the village, and the artillery shelled it again, did the attack move on. According to French's report, by 11 o'clock the whole village was in British hands.
 

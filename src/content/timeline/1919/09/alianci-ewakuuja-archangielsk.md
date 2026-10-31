@@ -25,7 +25,7 @@ Londyn rozważał jeszcze natarcie w górę Dwiny na [Kotłas](https://pl.wikipe
 
 ## Uderzenie na pożegnanie
 
-Do kierowania ewakuacją z obu portów wysłano generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson), byłego dowódcę 4 Armii we Francji, który przybył do Archangielska 12 sierpnia. Dwa dni wcześniej, 10 sierpnia, brygada Sadleira-Jacksona i oddziały rosyjskie zaatakowały czerwonych nad Dwiną, by odepchnąć ich przed odwrotem. Według Białej Księgi wzięto ponad 2 tysiące jeńców i 18 dział, a front przesunął się o około 30 kilometrów. Dwóch żołnierzy z australijskich kompanii 45 Batalionu Royal Fusiliers dostało za sierpniowe walki [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+Do kierowania ewakuacją z obu portów wysłano generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson), byłego dowódcę 4 Armii we Francji, który przybył do Archangielska 12 sierpnia. Dwa dni wcześniej, 10 sierpnia, brygada Sadleira-Jacksona i oddziały rosyjskie zaatakowały czerwonych nad Dwiną, by odepchnąć ich przed odwrotem. Według Białej Księgi wzięto ponad 2 tysiące jeńców i 18 dział, a front przesunął się o około 30 kilometrów. Dwóch żołnierzy z australijskich kompanii 45 Batalionu Royal Fusiliers dostało za sierpniowe walki [Krzyż Wiktorii](/slownik/krzyz-wiktorii).
 
 Rawlinson i Ironside uważali, że po odejściu Brytyjczyków Rosjanie nie utrzymają Archangielska. Rawlinson namawiał Millera, by przeniósł najlepsze oddziały na front murmański, ale generał, popierany rozkazem Kołczaka, by bronić Archangielska do końca, odmówił. Brytyjczycy zostawili mu więc żywność, broń, amunicję i węgiel na zimę.
 

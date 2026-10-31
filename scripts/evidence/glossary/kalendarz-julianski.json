@@ -1,0 +1,78 @@
+{
+ "slug": "kalendarz-julianski",
+ "paragraphs": [
+  {
+   "start": "Kalendarz juliański to rachuba czasu wprowadzona p",
+   "quotes": [
+    {"url": "https://www.tondering.dk/claus/cal/julian.php", "quote": "The Julian calendar was introduced by Julius Caesar in 45 BC. It was in common use until the late 1500s, when countries started changing to the Gregorian calendar. However, some countries (for example, Greece and Russia) used it into the early 1900s, and the Orthodox church in Russia still uses it, as do some other Orthodox churches."},
+    {"url": "https://www.tondering.dk/claus/cal/julian.php", "quote": "The Julian calendar has 1 leap year every 4 years"},
+    {"file": "src/content/timeline/1917/03/rewolucja-lutowa.md", "quote": "Rosja posługiwała się wówczas kalendarzem juliańskim, który w XX wieku opóźniał się o 13 dni wobec gregoriańskiego, obowiązującego w niemal całej Europie."},
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "W dokumentach międzynarodowych, części prasy, a także w urzędowych pismach z ziem polskich, gdzie katolicka ludność żyła według kalendarza gregoriańskiego, podawano obie daty."}
+   ]
+  },
+  {
+   "start": "Rok juliański jest odrobinę dłuższy od słoneczneg",
+   "quotes": [
+    {"url": "https://www.tondering.dk/claus/cal/julian.php", "quote": "In the Julian calendar, the tropical year is approximated as 365¼ days = 365.25 days. This gives an error of 1 day in approximately 128 years."},
+    {"url": "https://www.tondering.dk/claus/cal/gregorian.php", "quote": "It was decreed by Pope Gregory XIII in a papal bull on 24 February 1582."},
+    {"url": "https://www.tondering.dk/claus/cal/gregorian.php", "quote": "Every year divisible by 4 is a leap year. However, every year divisible by 100 is not a leap year. However, every year divisible by 400 is a leap year after all. So, 1700, 1800, 1900, 2100, and 2200 are not leap years."},
+    {"url": "https://www.tondering.dk/claus/cal/gregorian.php", "quote": "The papal bull of February 1582 decreed that 10 days should be dropped from October 1582 so that 15 October should follow immediately after 4 October, and from then on the reformed calendar should be used."},
+    {"url": "https://www.tondering.dk/claus/cal/gregorian.php", "quote": "This was observed in Italy, Poland, and Spain/Portugal. Other Catholic countries followed shortly after, but Protestant countries were reluctant to change, and the Greek orthodox countries didn’t change until the start of the 1900s. Changes in the 1500s required 10 days to be dropped. Changes in the 1600s required 10 days to be dropped. Changes in the 1700s required 11 days to be dropped. Changes in the 1800s required 12 days to be dropped. Changes in the 1900s required 13 days to be dropped."}
+   ]
+  },
+  {
+   "start": "W Rosji przeszkodą była Cerkiew, która nie chciała",
+   "quotes": [
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "Główną przeszkodą była prawosławna Cerkiew, religia państwowa cesarstwa, która nie chciała przyjąć „łacińskiej” reformy."},
+    {"file": "src/content/battles/1914/kampania-serbska-1914.md", "quote": "Daty serbskie, zapisane według kalendarza juliańskiego, są o 13 dni wcześniejsze: inwazja zaczęła się według nich 30 lipca, a Belgrad wyzwolono 2 grudnia."},
+    {"file": "src/content/battles/1916/bitwa-pod-mojkovacem.md", "quote": "6 i 7 stycznia 1916 roku, w prawosławną Wigilię i Boże Narodzenie, oddziały Landsturmu generała Wilhelma von Reinöhla zaatakowały czarnogórskie pozycje nad rzeką Tarą koło miasteczka Mojkovac."},
+    {"file": "src/content/battles/1916/bitwa-pod-mojkovacem.md", "quote": "Czarnogórcy posługiwali się wtedy kalendarzem juliańskim, według którego były to 24 i 25 grudnia 1915 roku, czyli Wigilia i pierwszy dzień prawosławnego Bożego Narodzenia."}
+   ]
+  },
+  {
+   "start": "Rumunia przystąpiła do wojny 27 sierpnia 1916 roku",
+   "quotes": [
+    {"file": "src/content/timeline/1916/08/rumunia-wypowiada-wojne-austro-wegrom.md", "quote": "27 sierpnia 1916 roku, w niedzielę (14 sierpnia według kalendarza juliańskiego, obowiązującego wtedy w Rumunii), w Pałacu Cotroceni w Bukareszcie zebrała się rada koronna."},
+    {"file": "src/content/battles/1916/bitwa-pod-florina.md", "quote": "Bułgaria przeszła na kalendarz gregoriański wiosną 1916 roku, więc jej daty z sierpnia nie wymagają przeliczania."},
+    {"file": "src/content/battles/1916/bitwa-pod-tutrakanem.md", "quote": "Bułgaria używała już wtedy kalendarza gregoriańskiego, Rumunia wciąż juliańskiego, więc w rumuńskich dokumentach twierdza padła 24 sierpnia."}
+   ]
+  },
+  {
+   "start": "Imperium Osmańskie miało własne kłopoty z czasem.",
+   "quotes": [
+    {"url": "https://en.wikipedia.org/wiki/Rumi_calendar", "quote": "a specific calendar based on the Julian calendar, was officially used by the Ottoman Empire after Tanzimat (1839) and by its successor, the Republic of Turkey until 1926. It was adopted for civic matters and is a solar based calendar, assigning a date to each solar day."},
+    {"url": "https://en.wikipedia.org/wiki/Rumi_calendar", "quote": "the difference between the lunar Islamic calendar and the solar Julian calendar"},
+    {"url": "https://en.wikipedia.org/wiki/Rumi_calendar", "quote": "The counting of years began with the year 622 AD, when Muhammad and his followers emigrated from Mecca to Medina, the same event marking the start of the Islamic calendar."},
+    {"url": "https://en.wikipedia.org/wiki/Rumi_calendar", "quote": "Since the Julian to Gregorian calendar changeover was finally being adopted in neighboring countries, the Rumi calendar was realigned to the Gregorian calendar in February 1917, leaving the difference of 584 years unchanged, however. Thus, after February 15, 1332 AH (28 February 1917 AD), the next day instead of being February 16 suddenly became March 1, 1333 AH (March 1, 1917 AD)."}
+   ]
+  },
+  {
+   "start": "Wszystkie daty podajemy według kalendarza gregoria",
+   "quotes": [
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "Na naszej stronie podajemy daty według kalendarza gregoriańskiego. Przy wydarzeniach rosyjskich do tego dnia dodawaliśmy w nawiasie datę juliańską, bo w niej zapisały je ówczesne dokumenty i wspomnienia."},
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "14 lutego 1918 roku Rosja Sowiecka zaczęła liczyć dni tak jak niemal cała Europa."},
+    {"file": "src/content/timeline/1917/03/rewolucja-lutowa.md", "quote": "12 marca 1917 roku, w poniedziałek, w Piotrogrodzie zbuntowały się wojska garnizonu."},
+    {"file": "src/content/timeline/1917/03/rewolucja-lutowa.md", "quote": "Według rosyjskiego kalendarza rozruchy zaczęły się 23 lutego, a garnizon zbuntował się 27 lutego. Dlatego rewolucję, która według naszego kalendarza wybuchła w marcu, nazywa się lutową."},
+    {"file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md", "quote": "7 listopada 1917 roku (25 października według kalendarza juliańskiego) bolszewicy przejęli władzę w Piotrogrodzie."}
+   ]
+  },
+  {
+   "start": "Bolszewicy zmienili kalendarz dekretem Rady Komisa",
+   "quotes": [
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "14 lutego 1918 roku Rosja Sowiecka zaczęła liczyć dni tak jak niemal cała Europa. Dzień wcześniej, w środę, kalendarze w Piotrogrodzie i Moskwie pokazywały 31 stycznia. Następny dzień, czwartek, nie był jednak 1 lutego, lecz 14 lutego."},
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "Tak nakazywał dekret „o wprowadzeniu w Republice Rosyjskiej kalendarza zachodnioeuropejskiego”, który Rada Komisarzy Ludowych przyjęła 24 stycznia (6 lutego) 1918 roku, a „Prawda” opublikowała następnego dnia."},
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "Rosyjski Kościół Prawosławny z patriarchą Tichonem nie poszedł za państwem i pozostał przy kalendarzu juliańskim."},
+    {"file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md", "quote": "Ukraińska Republika Ludowa przeszła na nowy kalendarz na początku marca 1918 roku, a białe władze na południu Rosji trzymały się starego stylu do końca wojny domowej."}
+   ]
+  },
+  {
+   "start": "Pozostałe państwa zmieniły kalendarz po wojnie: Ru",
+   "quotes": [
+    {"url": "https://www.tondering.dk/claus/cal/gregorian.php", "quote": "Romania: 31 Mar 1919 was followed by 14 Apr 1919"},
+    {"url": "https://www.tondering.dk/claus/cal/gregorian.php", "quote": "Yugoslavia: 1919"},
+    {"url": "https://www.tondering.dk/claus/cal/gregorian.php", "quote": "Greece: 15 Feb 1923 was followed by 1 Mar 1923"},
+    {"url": "https://en.wikipedia.org/wiki/Rumi_calendar", "quote": "The use of the AH era was abandoned as part of Atatürk's reforms by an act of December 26, 1341 AH (1925 AD) and was replaced by the Gregorian year from 1926."}
+   ]
+  }
+ ]
+}

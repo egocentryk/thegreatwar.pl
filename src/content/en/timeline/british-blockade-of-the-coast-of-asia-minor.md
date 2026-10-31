@@ -2,10 +2,10 @@
 title: British blockade of the coast of Asia Minor
 summary: On 2 June 1915 Britain declared a blockade of the Aegean coast of Asia Minor from the Dardanelles to Samos to cut German submarines off from their bases.
 source: brytyjska-blokada-wybrzeza-azji-mniejszej
-sourceHash: 99349220edc9e5b7ba9dc9ef5ae6cfaaf611f789
+sourceHash: 9f6ab7d76f3cb8030e2df1870636b57c45edd4b5
 ---
 
-At noon on 2 June 1915 a British [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of the coast of [Asia Minor](https://pl.wikipedia.org/wiki/Azja_Mniejsza) on the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie) came into force. That same morning the Foreign Office notified the governments of the neutral states. In a note to the United States ambassador in London, preserved in the American diplomatic papers, the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), defined the blockaded area by latitude: from 37°35′ to 40°05′ north, including the entrance to the [Dardanelles](/miejsca/dardanele). It therefore covered the whole Turkish coast from the mouth of the strait roughly to the latitude of the island of [Samos](https://pl.wikipedia.org/wiki/Samos), together with [Smyrna](https://pl.wikipedia.org/wiki/Izmir). Neutral ships were given 72 hours to leave the blockaded area.
+At noon on 2 June 1915 a British [naval blockade](/slownik/blokada) of the coast of [Asia Minor](https://pl.wikipedia.org/wiki/Azja_Mniejsza) on the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie) came into force. That same morning the Foreign Office notified the governments of the neutral states. In a note to the United States ambassador in London, preserved in the American diplomatic papers, the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), defined the blockaded area by latitude: from 37°35′ to 40°05′ north, including the entrance to the [Dardanelles](/miejsca/dardanele). It therefore covered the whole Turkish coast from the mouth of the strait roughly to the latitude of the island of [Samos](https://pl.wikipedia.org/wiki/Samos), together with [Smyrna](https://pl.wikipedia.org/wiki/Izmir). Neutral ships were given 72 hours to leave the blockaded area.
 
 ## Submarines in the Aegean
 

@@ -2,7 +2,7 @@
 title: France issues a new contraband decree
 summary: On 25 August 1914 the French government issued a decree on applying the Declaration of London, tightening, like the British, the rules for seizing goods.
 source: francja-oglasza-nowy-dekret-o-kontrabandzie
-sourceHash: b71af111dd49896b96d6783024e9b9ddc96e5f6a
+sourceHash: 5bec41d2388e5d404d8bd88dd546905d91b7d192
 ---
 
 On 25 August 1914 the French government issued a decree setting out how it would apply the 1909 [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) on the law of naval warfare in wartime. The decree redefined the rules on contraband of war, that is, goods that the French navy could seize at sea, including on board ships of neutral states.
@@ -17,4 +17,4 @@ The decree adopted the Declaration of London with additions similar to those int
 
 ## Significance
 
-The decree of 25 August was a further step in building the Allied [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of the Central Powers. It was soon considered insufficient. On 6 November 1914 France issued a further decree that shifted the burden of proof onto the owners of cargoes: it was they who had to show that the goods would not reach the enemy. In the following years France and Britain increasingly extended the contraband lists and moved away from the Declaration of London, which provoked protests from the neutral states.
+The decree of 25 August was a further step in building the Allied [naval blockade](/slownik/blokada) of the Central Powers. It was soon considered insufficient. On 6 November 1914 France issued a further decree that shifted the burden of proof onto the owners of cargoes: it was they who had to show that the goods would not reach the enemy. In the following years France and Britain increasingly extended the contraband lists and moved away from the Declaration of London, which provoked protests from the neutral states.

@@ -9,7 +9,7 @@ sides:
     commanders: [Mahmud Kâmil Pasha, Abdul Kerim Pasha]
 result: Decisive Russian victory. The Ottoman 3rd Army was broken at Köprüköy, and on 16 February 1916 the Russians took the fortress of Erzurum, capturing more than 300 guns.
 source: ofensywa-erzurumska
-sourceHash: d6bb4ca343c6c8df5d774f1c2809300a552c0b12
+sourceHash: 8239e333812223f7679b4ac6ebcd7a53df2942c2
 brief:
   - "The Erzurum offensive, from 10 January to 16 February 1916, was the greatest victory of the Russian Caucasus Army in the First World War. In the depths of winter General Nikolai Yudenich attacked the Ottoman 3rd Army."
   - "Yudenich wanted to break the 3rd Army before the divisions freed by the evacuation of Gallipoli could reach it. Preparations were made in the greatest secrecy, and the Turks expected calm until spring."
@@ -24,7 +24,7 @@ The Erzurum offensive was the greatest victory of the Russian [Caucasus Army](ht
 
 Russian literature speaks of the Erzurum operation, Turkish literature of the Battle or Offensive of Erzurum (Erzurum Muharebesi, Erzurum Taarruzu). The British history of the Caucasian wars by W.E.D. Allen and Paul Muratoff, the main source for this page, divides it into the Battle of Köprüköy (10–19 January 1916) and the assault on Erzurum (11–16 February 1916), and between them describes the preparations for the assault.
 
-All dates on this page are given according to the Gregorian calendar, used in Western Europe and by the Turks in military correspondence. Russia then used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), 13 days behind. In Russian documents and some Russian studies the offensive therefore began on 28 December 1915, and Erzurum fell on 3 February 1916. The mixing of the two calendars in later publications, including online ones, means that the same events are sometimes dated differently. The British chronology of the war on which our timeline is based records the start of the offensive under 11 January, the capture of Köprüköy under 17 January and the occupation of Erzurum under 16 February. We adopt the dates 10 January – 16 February 1916: from the first attack to the Russian entry into Erzurum. The pursuit of the broken army went on for several more weeks, and Allen and Muratoff consider that the operation ended only in mid-March.
+All dates on this page are given according to the Gregorian calendar, used in Western Europe and by the Turks in military correspondence. Russia then used the [Julian calendar](/slownik/kalendarz-julianski), 13 days behind. In Russian documents and some Russian studies the offensive therefore began on 28 December 1915, and Erzurum fell on 3 February 1916. The mixing of the two calendars in later publications, including online ones, means that the same events are sometimes dated differently. The British chronology of the war on which our timeline is based records the start of the offensive under 11 January, the capture of Köprüköy under 17 January and the occupation of Erzurum under 16 February. We adopt the dates 10 January – 16 February 1916: from the first attack to the Russian entry into Erzurum. The pursuit of the broken army went on for several more weeks, and Allen and Muratoff consider that the operation ended only in mid-March.
 
 ## Background
 

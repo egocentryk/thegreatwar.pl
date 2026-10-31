@@ -2,7 +2,7 @@
 title: Cuba declares war on Austria-Hungary
 summary: On 16 December 1917 Cuba proclaimed a state of war with Austria-Hungary. President Menocal's request passed both houses of Congress in a few days.
 source: kuba-wypowiada-wojne-austro-wegrom
-sourceHash: 22971bb2a61e10bc4e9e87e23cd3c906a9ac335f
+sourceHash: 91d40f38870765f101f6ce0fdb4c48a78abaa465
 brief:
   - "On 16 December 1917 President Mario García Menocal proclaimed that a state of war existed between Cuba and Austria-Hungary. Cuba again followed Washington, nine days after the American decision."
   - "The president's request passed both houses of Congress in a few days. A proposal to declare war on the Ottoman Empire and Bulgaria as well was rejected."
@@ -33,4 +33,4 @@ Menocal wanted more. As early as June 1917 he asked Congress to introduce compul
 
 The declaration of war on Austria-Hungary did not change the position of Cuba, which was already a belligerent and a delegate to the [great inter-Allied conference in Paris](/wielka-konferencja-miedzysojusznicza-w-paryzu). It was, however, a further confirmation that in foreign policy the island, bound to the United States by the [Platt Amendment](https://pl.wikipedia.org/wiki/Poprawka_Platta), followed Washington step by step. Even the motion meant to challenge this failed in Congress. In 1917, apart from the United States, only four states declared war on Austria-Hungary: [Siam](https://pl.wikipedia.org/wiki/Tajlandia), China, Panama and Cuba.
 
-Thanks to this, Cuba took its place among the victors. It signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) and, in September 1919, the [Treaty of Saint-Germain-en-Laye](https://pl.wikipedia.org/wiki/Traktat_w_Saint-Germain-en-Laye_(1919)) with Austria, and became one of the founding members of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów). It gained most from sugar. Wartime prices, and their steep rise after the war, gave the island in 1919–1920 a brief period of dizzying wealth, called the "Dance of the Millions", which ended in a crash at the end of 1920.
+Thanks to this, Cuba took its place among the victors. It signed the [Treaty of Versailles](/slownik/traktat-wersalski) and, in September 1919, the [Treaty of Saint-Germain-en-Laye](https://pl.wikipedia.org/wiki/Traktat_w_Saint-Germain-en-Laye_(1919)) with Austria, and became one of the founding members of the [League of Nations](/slownik/liga-narodow). It gained most from sugar. Wartime prices, and their steep rise after the war, gave the island in 1919–1920 a brief period of dizzying wealth, called the "Dance of the Millions", which ended in a crash at the end of 1920.

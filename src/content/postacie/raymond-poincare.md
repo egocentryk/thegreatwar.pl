@@ -50,7 +50,7 @@ Jesienią 1917 roku Francja przeżywała kryzys: bunty w wojsku, strajki, afery 
 
 Poincaré pozostał jednak obecny w najważniejszych chwilach. 26 marca 1918 roku, w czasie [niemieckiej ofensywy w Pikardii](/bitwy/operacja-michael), otworzył [konferencję w Doullens](/konferencja-w-doullens), na której [Ferdinand Foch](/postacie/ferdinand-foch) dostał zadanie koordynowania działań sprzymierzonych. Zawieszenie broni z 11 listopada uważał za przedwczesne, bo chciał, by armie wkroczyły głębiej w Niemcy. W grudniu 1918 roku z Clemenceau przejechał przez odzyskane Alzację i Lotaryngię, w Metzu wręczył buławę marszałkowską [Pétainowi](/petain-marszalkiem-francji), a w Strasburgu witały go tłumy. 14 grudnia witał w Paryżu [prezydenta Wilsona](/wilson-przybywa-do-europy).
 
-W czasie konferencji pokojowej opowiadał się za trwałym oddzieleniem od Niemiec ziem na lewym brzegu Renu lub przynajmniej za długą okupacją Nadrenii. Foch namawiał go, by wykorzystał uprawnienia konstytucyjne i sam wziął sprawy w swoje ręce. Poincaré rozważał nawet dymisję, ale ostatecznie przyjął kompromis wynegocjowany przez Clemenceau, zapisany w [traktacie wersalskim](https://pl.wikipedia.org/wiki/Traktat_wersalski).
+W czasie konferencji pokojowej opowiadał się za trwałym oddzieleniem od Niemiec ziem na lewym brzegu Renu lub przynajmniej za długą okupacją Nadrenii. Foch namawiał go, by wykorzystał uprawnienia konstytucyjne i sam wziął sprawy w swoje ręce. Poincaré rozważał nawet dymisję, ale ostatecznie przyjął kompromis wynegocjowany przez Clemenceau, zapisany w [traktacie wersalskim](/slownik/traktat-wersalski).
 
 ## Po wojnie
 

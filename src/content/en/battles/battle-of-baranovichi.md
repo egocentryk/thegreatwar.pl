@@ -9,14 +9,14 @@ sides:
     commanders: [Prince Leopold of Bavaria, Remus von Woyrsch, Johann von Henriquez]
 result: Russian defeat. The Fourth Army took only scraps of the first line of defence, and the main blow of the Western Front, which was to decide the outcome of the summer of 1916, collapsed after a week.
 source: bitwa-pod-baranowiczami
-sourceHash: 1727f4b9e2ed5646dd1cc11b07fa8813ef739cda
+sourceHash: d38a86aa7b2fbdac487c8d6f0a0bb8e12cc853b8
 ---
 
 The Battle of Baranovichi was meant to be the main blow of the Russian army in the summer of 1916. The Western Front of General [Alexei Evert](/postacie/aleksiej-ewert), the strongest of all the Russian fronts, had spent the whole spring preparing an offensive on Vilna, and when in June the [Brusilov Offensive](/bitwy/ofensywa-brusilowa) broke through the Austro-Hungarian front in Volhynia, it still delayed. In the end it struck in a different place: on 2 July 1916 its new [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Imperium_Rosyjskie)) began a bombardment of the German and Austro-Hungarian positions at [Baranovichi](https://pl.wikipedia.org/wiki/Baranowicze), and on 3 July it went over to the assault. Despite a several-fold superiority in infantry it took only parts of the first line of defence. After a week, on 9 July, the offensive petered out. The Russians lost about 80,000 men, and the command concluded that a breakthrough of the German front north of Polesia was impossible.
 
 ## Name and dates
 
-German and Austrian literature speaks of the Battle of Baranovichi (Schlacht bei Baranowitschi), Russian literature of the Baranovichi operation. Russia then used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), 13 days behind. In Russian documents the assault therefore began on 20 June, not 3 July. On this page all dates are given according to the Gregorian calendar.
+German and Austrian literature speaks of the Battle of Baranovichi (Schlacht bei Baranowitschi), Russian literature of the Baranovichi operation. Russia then used the [Julian calendar](/slownik/kalendarz-julianski), 13 days behind. In Russian documents the assault therefore began on 20 June, not 3 July. On this page all dates are given according to the Gregorian calendar.
 
 The British chronology of the war, on which our timeline is based, and the Austrian official history date the battle to 2–9 July 1916: from the start of the Russian bombardment to the day on which the Western Front halted the offensive. Russian studies usually count the operation from the first infantry assault on 3 July to 25 July, and sometimes to 29 July, because they include the German counter-attack of 14 July and the last, equally unsuccessful attempt at an offensive on 25–29 July. The Russian historian Aleksei Oleinikov even distinguishes three offensives at Baranovichi: the attack of the Grenadier Corps at Stolovichi in mid-June, the main battle at the beginning of July and the renewal of the attacks at the end of July. On this page we adopt the dates 2–9 July and describe the later fighting as an epilogue.
 

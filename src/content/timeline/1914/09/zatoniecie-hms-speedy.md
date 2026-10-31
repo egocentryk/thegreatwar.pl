@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 września 1914 roku u wybrzeży Anglii, w pobliżu ujścia estuarium [Humber](https://pl.wikipedia.org/wiki/Humber), zatonął brytyjski okręt HMS Speedy. Wszedł na [minę](https://pl.wikipedia.org/wiki/Mina_morska) podczas oczyszczania pola minowego, postawionego tu przez Niemców kilka dni wcześniej.
+3 września 1914 roku u wybrzeży Anglii, w pobliżu ujścia estuarium [Humber](https://pl.wikipedia.org/wiki/Humber), zatonął brytyjski okręt HMS Speedy. Wszedł na [minę](/slownik/mina-morska) podczas oczyszczania pola minowego, postawionego tu przez Niemców kilka dni wcześniej.
 
 ## Stary okręt w nowej roli
 

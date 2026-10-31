@@ -2,7 +2,7 @@
 title: Anti-submarine net barrage in the North Channel
 summary: On 22 February 1915 British drifters began laying nets in the North Channel to close the way for U-boats into the Irish Sea, to Liverpool and Glasgow.
 source: zapora-sieciowa-w-kanale-polnocnym
-sourceHash: db2bc587135c9f1a8fd366971855e1ed4b49151c
+sourceHash: d1ad661c2292cd104c8207a239e59bed6d1b7a4d
 ---
 
 On 22 February 1915 in the [North Channel](https://pl.wikipedia.org/wiki/Kanał_Północny), the strait separating Ireland from Scotland, British fishing vessels laid anti-submarine nets for the first time. On the same day the Admiralty closed most of the strait to shipping. The barrage was meant to cut off the German U-boats' northern entrance to the [Irish Sea](https://pl.wikipedia.org/wiki/Morze_Irlandzkie), and with it the route to [Liverpool](https://pl.wikipedia.org/wiki/Liverpool), [Belfast](https://pl.wikipedia.org/wiki/Belfast) and [Glasgow](https://pl.wikipedia.org/wiki/Glasgow).
@@ -25,4 +25,4 @@ On 22 February a warning to shipping was issued. Ships were forbidden to use the
 
 The first nets were laid in daylight on 22 February, but a gale blew up and the drifters had to take shelter under the coast. They returned to sea only at dawn on 24 February, and a dozen of them then lost 31 nets. Admiral Barlow arrived at Larne the same day. On 26 February another gale again interrupted the work. At the end of the month there were 67 drifters at Larne, but only 47 had nets, and only 26 had indicator buoys as well. The clips joining the net sections proved too weak for rough seas and had to be reinforced with twine. An unexpected enemy also appeared: rats, which came aboard the drifters from the quay and at night gnawed the kapok floats.
 
-For many weeks more the barrage worked only in part. At the beginning of March there were already 80 drifters at Larne, but only 27 of them had a full set of nets and buoys, and gales kept destroying the gear. On 10 March patrols forced U-20, which was trying to pass through the strait, to turn back, but the next day at its entrance another submarine sank the British [armed merchant cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Bayano. Most of the crew were killed, and it was the Royal Navy's heaviest loss in the first months of the German submarine campaign.
+For many weeks more the barrage worked only in part. At the beginning of March there were already 80 drifters at Larne, but only 27 of them had a full set of nets and buoys, and gales kept destroying the gear. On 10 March patrols forced U-20, which was trying to pass through the strait, to turn back, but the next day at its entrance another submarine sank the British [armed merchant cruiser](/slownik/krazownik-pomocniczy) Bayano. Most of the crew were killed, and it was the Royal Navy's heaviest loss in the first months of the German submarine campaign.

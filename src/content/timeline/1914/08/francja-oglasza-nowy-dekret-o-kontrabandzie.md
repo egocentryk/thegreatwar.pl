@@ -22,4 +22,4 @@ Dekret przyjmował deklarację londyńską z podobnymi uzupełnieniami, jakie wp
 
 ## Znaczenie
 
-Dekret z 25 sierpnia był kolejnym krokiem w budowie alianckiej [blokady morskiej](https://pl.wikipedia.org/wiki/Blokada_morska) państw centralnych. Szybko uznano go za niewystarczający. 6 listopada 1914 roku Francja wydała kolejny dekret, który przerzucał ciężar dowodu na właścicieli ładunków: to oni musieli wykazać, że towar nie trafi do nieprzyjaciela. W kolejnych latach Francja i Wielka Brytania coraz bardziej rozszerzały listy kontrabandy i odchodziły od deklaracji londyńskiej, co wywoływało protesty państw neutralnych.
+Dekret z 25 sierpnia był kolejnym krokiem w budowie alianckiej [blokady morskiej](/slownik/blokada) państw centralnych. Szybko uznano go za niewystarczający. 6 listopada 1914 roku Francja wydała kolejny dekret, który przerzucał ciężar dowodu na właścicieli ładunków: to oni musieli wykazać, że towar nie trafi do nieprzyjaciela. W kolejnych latach Francja i Wielka Brytania coraz bardziej rozszerzały listy kontrabandy i odchodziły od deklaracji londyńskiej, co wywoływało protesty państw neutralnych.

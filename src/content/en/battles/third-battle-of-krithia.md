@@ -9,7 +9,7 @@ sides:
     commanders: [Otto Liman von Sanders, Erich Weber]
 result: Ottoman defensive victory. The Allies gained about 250 to 500 yards (230–460 metres) on a front a mile long, but did not take Krithia.
 source: trzecia-bitwa-o-kritie
-sourceHash: 4b24f78fb978d578de19dfd67954eeb87af69f45
+sourceHash: b587130ba4088a314ca4c208cfd9f4e85977d79a
 ---
 
 The Third Battle of Krithia was the last great attack in which the Allies tried to break out of the bridgehead at Helles, at the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula, by a frontal assault across the whole width of the peninsula. On 4 June 1915 the British VIII Corps and the French expeditionary corps, about 30,000 men in all, attacked what was by now a continuous line of Turkish trenches. This time the objective was more modest than in April and May: not Achi Baba, but the capture of the first lines of trenches, at most 800 yards forward. In the centre Lancashire Territorials broke through the Turkish defences almost to Krithia itself. On both flanks, however, the attack collapsed, the reserves were thrown in where the attack had failed rather than where it had succeeded, and by the evening most of the ground won had to be given up.
@@ -68,7 +68,7 @@ According to the British official history, on 4 June VIII Corps lost about 4,500
 
 ## Aftermath
 
-On the evening of 4 June General Henry de Lisle, sent from France to take command of the 29th Division, came ashore on the beach at Helles, crowded with wounded and shelled by the Turkish artillery. The night and the following day were spent carrying the wounded down to the beaches and consolidating the new line. On 5 June the Turks counter-attacked several times without success, and on the morning of 6 June, after further reinforcements had arrived, they struck in greater strength. In the 42nd Division's sector they recovered some of the trenches, and in the 88th Brigade's sector the whole forward part of the captured line. Second Lieutenant George Moor of the Hampshire Regiment, who stopped the fleeing soldiers of a neighbouring unit and with them retook the lost trench, received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for it. The Turkish afternoon attack was repulsed. Hunter-Weston later wrote that holding the position by the exhausted Territorials was an even greater feat than taking it.
+On the evening of 4 June General Henry de Lisle, sent from France to take command of the 29th Division, came ashore on the beach at Helles, crowded with wounded and shelled by the Turkish artillery. The night and the following day were spent carrying the wounded down to the beaches and consolidating the new line. On 5 June the Turks counter-attacked several times without success, and on the morning of 6 June, after further reinforcements had arrived, they struck in greater strength. In the 42nd Division's sector they recovered some of the trenches, and in the 88th Brigade's sector the whole forward part of the captured line. Second Lieutenant George Moor of the Hampshire Regiment, who stopped the fleeing soldiers of a neighbouring unit and with them retook the lost trench, received the [Victoria Cross](/slownik/krzyz-wiktorii) for it. The Turkish afternoon attack was repulsed. Hunter-Weston later wrote that holding the position by the exhausted Territorials was an even greater feat than taking it.
 
 ## Significance
 

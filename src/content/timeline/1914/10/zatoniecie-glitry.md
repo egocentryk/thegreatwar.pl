@@ -25,6 +25,6 @@ Feldkirchner postąpił zgodnie z zasadami prawa pryzowego, które obowiązywał
 
 ## Zapowiedź wojny handlowej
 
-Zatopienie Glitry było drobnym epizodem, ale pokazało, że U-Booty mogą niszczyć także żeglugę handlową. Niemieckie dowództwo szybko dostrzegło w okrętach podwodnych skuteczną broń przeciw brytyjskiemu handlowi, zwłaszcza że brytyjska [blokada morska](https://pl.wikipedia.org/wiki/Blokada_morska) coraz mocniej odcinała Niemcy od dostaw.
+Zatopienie Glitry było drobnym epizodem, ale pokazało, że U-Booty mogą niszczyć także żeglugę handlową. Niemieckie dowództwo szybko dostrzegło w okrętach podwodnych skuteczną broń przeciw brytyjskiemu handlowi, zwłaszcza że brytyjska [blokada morska](/slownik/blokada) coraz mocniej odcinała Niemcy od dostaw.
 
 Zatrzymywanie statków zgodnie z prawem pryzowym było jednak dla okrętu podwodnego ryzykowne i mało wydajne. Mała załoga nie mogła odprowadzać zdobyczy do portu, a wynurzony okręt był łatwym celem. 4 lutego 1915 roku Niemcy ogłosiły wody wokół Wysp Brytyjskich strefą wojenną, w której statki handlowe miały być zatapiane bez ostrzeżenia. Rozpoczął się pierwszy etap [nieograniczonej wojny podwodnej](/tematy/wojna-podwodna-1914-1918), która stała się jedną z najważniejszych przyczyn przystąpienia Stanów Zjednoczonych do wojny w 1917 roku.

@@ -47,7 +47,7 @@ Whigham postanowił nie atakować Havrincourt od czoła. Od lasu Havrincourt na 
 
 ## Przebieg
 
-O 5.25 rano 12 września ruszyła zapora ogniowa. Ranek był pogodny i chłodny. W 62 Dywizji dwa bataliony pułku Duke of Wellington's ze 186 Brygady poszły najpierw na północ, potem skręciły na wschód wzdłuż południowego skraju wsi i do 7.30 zdobyły przednią linię pozycji Hindenburga. O 7.15, gdy ciężka artyleria przeniosła ogień z Havrincourt, do wsi wszedł 2/4 batalion pułku Hampshire. Zamek wziął bez trudu, ale o resztę wsi toczył ciężkie walki i dopiero o 11.30 stanął na jej wschodnim skraju. W 187 Brygadzie 5 batalion lekkiej piechoty King's Own Yorkshire i 2/4 batalion York and Lancaster zatrzymał na chwilę ogień z boku z umocnionego punktu na południe od wsi. Sierżant Laurence Calvert z 5 batalionu KOYLI sam rzucił się na dwa karabiny maszynowe, zabił ich obsługi i zdobył oba. Dostał za to [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Do 7.30 i tu osiągnięto cel.
+O 5.25 rano 12 września ruszyła zapora ogniowa. Ranek był pogodny i chłodny. W 62 Dywizji dwa bataliony pułku Duke of Wellington's ze 186 Brygady poszły najpierw na północ, potem skręciły na wschód wzdłuż południowego skraju wsi i do 7.30 zdobyły przednią linię pozycji Hindenburga. O 7.15, gdy ciężka artyleria przeniosła ogień z Havrincourt, do wsi wszedł 2/4 batalion pułku Hampshire. Zamek wziął bez trudu, ale o resztę wsi toczył ciężkie walki i dopiero o 11.30 stanął na jej wschodnim skraju. W 187 Brygadzie 5 batalion lekkiej piechoty King's Own Yorkshire i 2/4 batalion York and Lancaster zatrzymał na chwilę ogień z boku z umocnionego punktu na południe od wsi. Sierżant Laurence Calvert z 5 batalionu KOYLI sam rzucił się na dwa karabiny maszynowe, zabił ich obsługi i zdobył oba. Dostał za to [Krzyż Wiktorii](/slownik/krzyz-wiktorii). Do 7.30 i tu osiągnięto cel.
 
 Na prawo od nich 111 Brygada z 37 Dywizji początkowo prawie nie napotkała oporu, ale Trescault, leżące pod grzbietem od zachodu, i umocniony punkt na wschód od wsi broniły się uparcie. Około 8 rano brygada doszła do celu na prawym skrzydle i w środku.
 
@@ -57,7 +57,7 @@ O 18.30 Niemcy podjęli zdecydowaną próbę odzyskania Havrincourt. Po gwałtow
 
 ## Walki o grzbiet Trescault
 
-W nocy z 12 na 13 września, w ulewie, Nowozelandczyków ze 3 Brygady zluzowała 1 Brygada. 13 września po południu jej bataliony próbowały odzyskać utraconą część okopów na grzbiecie, ale postęp był niewielki. Wieczorem Dywizja Strzelców uderzyła kilkakrotnie, a o 1.45 w nocy na 14 września, przy użyciu [miotaczy ognia](https://pl.wikipedia.org/wiki/Miotacz_ognia), odbiła cały okop African na szczycie grzbietu. Historia nowozelandzka przyznaje, że strzelcy byli „godnymi przeciwnikami”, a bilans tych dni nie wypadł zdecydowanie na korzyść Nowozelandczyków. 14 września wieczorem dywizję zluzowała 5 Dywizja, która zdobyła ten okop dopiero 28 września.
+W nocy z 12 na 13 września, w ulewie, Nowozelandczyków ze 3 Brygady zluzowała 1 Brygada. 13 września po południu jej bataliony próbowały odzyskać utraconą część okopów na grzbiecie, ale postęp był niewielki. Wieczorem Dywizja Strzelców uderzyła kilkakrotnie, a o 1.45 w nocy na 14 września, przy użyciu [miotaczy ognia](/slownik/miotacz-ognia), odbiła cały okop African na szczycie grzbietu. Historia nowozelandzka przyznaje, że strzelcy byli „godnymi przeciwnikami”, a bilans tych dni nie wypadł zdecydowanie na korzyść Nowozelandczyków. 14 września wieczorem dywizję zluzowała 5 Dywizja, która zdobyła ten okop dopiero 28 września.
 
 ## Straty
 

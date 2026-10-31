@@ -2,7 +2,7 @@
 title: British capture Hill 60
 summary: On 17 April 1915 the British blew mines under Hill 60 south of Ypres and took it within minutes. Over the following days they beat off counter-attacks.
 source: brytyjczycy-zdobywaja-wzgorze-60
-sourceHash: 7ad5eacf126604acbfce37aa5edb8abda860a1aa
+sourceHash: 9fc6a0c2324c6e6b5af5137ccdcb073f4b6b1da5
 brief:
   - "At 7.05 p.m. on 17 April 1915 British sappers fired mines under the German trenches on Hill 60 near Zillebeke, south-east of Ypres. It was the first large British mining operation on the Western Front."
   - "The hill, piled up from earth dug out for a railway, overlooked Zillebeke and Ypres. From March miners of the Royal Engineers' tunnelling companies drove galleries more than 90 metres long beneath it."
@@ -35,7 +35,7 @@ A Saxon reserve company tried to counter-attack at once, but the explosions had 
 
 The Germans reacted quickly. Their artillery shelled the hill from three sides: from the ridge near Zandvoorde, from the spoil heap on the other side of the railway cutting, called by the British the Caterpillar, and from the area of Zwarteleen. At about 11 p.m. four German companies attacked frontally and from both flanks. British machine guns repulsed this attack, but on the right flank sappers and infantry managed to get close to the craters with grenades. Between 3.15 and 4 a.m. on 18 April three more counter-attacks followed.
 
-In the course of 18 April artillery and machine-gun fire from the flank drove the British off the summit. In the evening, at about 6 p.m., two fresh battalions of the 13th Brigade, the 2nd Battalion, King's Own Yorkshire Light Infantry, and the 2nd Battalion, Duke of Wellington's, retook the summit. Before dawn on 19 April most of the brigade was relieved by the 15th Brigade. According to British figures the 13th Brigade lost 1,362 men in three days. Over the following days the defenders of the new position, among them men of the 1st Battalion, East Surrey, and of the London battalion Queen Victoria's Rifles, repulsed further attacks. Four of them were awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for the fighting of 20 and 21 April.
+In the course of 18 April artillery and machine-gun fire from the flank drove the British off the summit. In the evening, at about 6 p.m., two fresh battalions of the 13th Brigade, the 2nd Battalion, King's Own Yorkshire Light Infantry, and the 2nd Battalion, Duke of Wellington's, retook the summit. Before dawn on 19 April most of the brigade was relieved by the 15th Brigade. According to British figures the 13th Brigade lost 1,362 men in three days. Over the following days the defenders of the new position, among them men of the 1st Battalion, East Surrey, and of the London battalion Queen Victoria's Rifles, repulsed further attacks. Four of them were awarded the [Victoria Cross](/slownik/krzyz-wiktorii) for the fighting of 20 and 21 April.
 
 ## The gas dispute
 
