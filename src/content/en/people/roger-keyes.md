@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Tundiani, Punjab (British India)
 deathPlace: Tingewick (England)
 source: roger-keyes
-sourceHash: 405cd7be3db02e979b8441f0bfa614ed22f1a9a3
+sourceHash: ce4e2344405b77b92af54f30db0dd0290a6b3a93
 ---
 
 Sir Roger Keyes was the most pugnacious of the British admirals of the First World War. He was always looking for a fight, always proposing the bolder course, and could not bear waiting. In August 1914 he helped devise the plan for the Royal Navy's first victory, [in the Heligoland Bight](/bitwy/bitwa-w-zatoce-helgolandzkiej); in 1915, as chief of staff of the fleet at the Dardanelles, he argued to the end that the ships could force the straits; and in 1918, as commander of the Dover Patrol, he led the [Zeebrugge Raid](/rajd-na-zeebrugge), the most famous action of the British navy in this war. To his contemporaries he was a hero in the spirit of Nelson. Historians value his courage and energy, but point out that his plans often promised more than they could deliver.
@@ -19,7 +19,7 @@ He then served as an intelligence officer at the Admiralty, as naval attaché in
 
 ## 1914: the Heligoland Bight
 
-In August 1914 Keyes commanded the submarines at [Harwich](https://pl.wikipedia.org/wiki/Harwich), which from the first days of the war watched the exits from the German bases. They noticed that German torpedo boats went out on patrol every evening and returned in the morning. Together with Commodore [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt), commander of the Harwich destroyers, Keyes proposed an ambush, which was backed by the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill). On 28 August Keyes was aboard the destroyer *Lurcher*. In the confusion of the fight in the mist, not having been warned that Commodore Goodenough's light cruisers had also put to sea, he took them for German ships and called for help. The battle was decided by the entry into the bight of the battlecruisers of Admiral [David Beatty](/postacie/david-beatty). The Germans lost three light cruisers and a torpedo boat. *Lurcher* came alongside the sinking cruiser *Mainz* and took off about 220 survivors.
+In August 1914 Keyes commanded the submarines at [Harwich](https://pl.wikipedia.org/wiki/Harwich), which from the first days of the war watched the exits from the German bases. They noticed that German torpedo boats went out on patrol every evening and returned in the morning. Together with Commodore [Reginald Tyrwhitt](/postacie/reginald-tyrwhitt), commander of the Harwich destroyers, Keyes proposed an ambush, which was backed by the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill). On 28 August Keyes was aboard the destroyer *Lurcher*. In the confusion of the fight in the mist, not having been warned that Commodore Goodenough's light cruisers had also put to sea, he took them for German ships and called for help. The battle was decided by the entry into the bight of the battlecruisers of Admiral [David Beatty](/postacie/david-beatty). The Germans lost three light cruisers and a torpedo boat. *Lurcher* came alongside the sinking cruiser *Mainz* and took off about 220 survivors.
 
 In December Keyes's submarines waited off the German coast, ready to rescue airmen [in the Cuxhaven Raid](/nalot-na-cuxhaven), the first attack by aircraft launched from ships.
 

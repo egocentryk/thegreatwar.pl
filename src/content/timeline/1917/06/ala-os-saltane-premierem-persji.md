@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 6 czerwca 1917 roku, że Ala os-Saltane po raz drugi został premierem [Persji](https://pl.wikipedia.org/wiki/Iran) i objął zarazem ministerstwo spraw zagranicznych. Perskie zestawienia rządów datują początek jego urzędowania na 15 chordada 1296 roku według kalendarza irańskiego, czyli na 5 czerwca. Nowy gabinet zastąpił rząd Wosuga od-Dole, który [podał się do dymisji pod koniec maja](/dymisja-wosuga-od-dole). Szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) powierzył władzę jednemu z najstarszych perskich polityków, człowiekowi, który zaczynał karierę jeszcze w połowie XIX wieku.
+Brytyjska chronologia wojny notuje pod 6 czerwca 1917 roku, że Ala os-Saltane po raz drugi został premierem [Persji](/kraje/persja) i objął zarazem ministerstwo spraw zagranicznych. Perskie zestawienia rządów datują początek jego urzędowania na 15 chordada 1296 roku według kalendarza irańskiego, czyli na 5 czerwca. Nowy gabinet zastąpił rząd Wosuga od-Dole, który [podał się do dymisji pod koniec maja](/dymisja-wosuga-od-dole). Szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) powierzył władzę jednemu z najstarszych perskich polityków, człowiekowi, który zaczynał karierę jeszcze w połowie XIX wieku.
 
 ## Dyplomata z Bagdadu
 

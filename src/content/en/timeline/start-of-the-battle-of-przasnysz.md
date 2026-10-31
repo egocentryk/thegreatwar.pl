@@ -2,7 +2,7 @@
 title: Start of the battle of Przasnysz
 summary: On 22 February 1915 German divisions began to encircle Przasnysz in northern Mazovia, and the Russians sent fresh Siberian corps against their flank.
 source: poczatek-bitwy-pod-przasnyszem
-sourceHash: ef8b01d4ab3fbff013e7dba479d48076f92ed644
+sourceHash: 7f1739e26549bc21cdd3e1722987a086c0d84d44
 ---
 
 A British chronology of the war records under 22 February 1915 the start of the first battle of [Przasnysz](https://pl.wikipedia.org/wiki/Przasnysz). On that day German divisions began to close the ring around this small town in northern Mazovia, and the Russian command threw new forces against them. Fighting in this sector, however, had already been going on for several days, and according to some studies even since the beginning of February, so other sources date the start of the battle earlier, for example to 7, 15 or 18 February.
@@ -21,6 +21,6 @@ On 22 February Wernitz's division cut the road from Mława to Przasnysz, and the
 
 ## The Russian response
 
-The Russians, however, had fresh forces nearby. The new Twelfth Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe), intended for an offensive into East Prussia, was just then concentrating on the Narew sector. From [Ostrołęka](https://pl.wikipedia.org/wiki/Ostrołęka) Plehve sent the II Siberian Corps, which from 22 February was to strike the flank of the Germans who had pushed through between Przasnysz and the river [Orzyc](https://pl.wikipedia.org/wiki/Orzyc). The I Siberian Corps was approaching from the south.
+The Russians, however, had fresh forces nearby. The new Twelfth Army of General [Pavel Plehve](/postacie/pawel-plehwe), intended for an offensive into East Prussia, was just then concentrating on the Narew sector. From [Ostrołęka](https://pl.wikipedia.org/wiki/Ostrołęka) Plehve sent the II Siberian Corps, which from 22 February was to strike the flank of the Germans who had pushed through between Przasnysz and the river [Orzyc](https://pl.wikipedia.org/wiki/Orzyc). The I Siberian Corps was approaching from the south.
 
 A race against time began. The Germans had to take the town before the Siberian corps arrived, and the defenders of Przasnysz had to hold out until they came. The next day the ring around the town closed, and the fighting entered its hardest phase.

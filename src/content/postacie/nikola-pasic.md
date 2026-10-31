@@ -60,7 +60,7 @@ Gdy jesienią 1918 roku front salonicki się załamał, a monarchia habsburska r
 
 ## Po wojnie
 
-Pašić stanął na czele delegacji nowego państwa na [konferencji pokojowej w Paryżu](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)). Nie zdołał uzyskać Rijeki ani większej części Karyntii, ale wynegocjował granice z Bułgarią i Węgrami. W 1921 roku znów został premierem i przeprowadził przez parlament centralistyczną konstytucję vidovdańską, uchwaloną 28 czerwca, przy bojkocie chorwackich chłopskich republikanów [Stjepana Radicia](https://pl.wikipedia.org/wiki/Stjepan_Radić). Rządził z krótką przerwą do kwietnia 1926 roku. W grudniu, po audiencji, podczas której król Aleksander nie powierzył mu ponownie władzy i wytknął skandale jego syna, Pašić zmarł nagle 10 grudnia 1926 roku w Belgradzie.
+Pašić stanął na czele delegacji nowego państwa na [konferencji pokojowej w Paryżu](/slownik/paryska-konferencja-pokojowa). Nie zdołał uzyskać Rijeki ani większej części Karyntii, ale wynegocjował granice z Bułgarią i Węgrami. W 1921 roku znów został premierem i przeprowadził przez parlament centralistyczną konstytucję vidovdańską, uchwaloną 28 czerwca, przy bojkocie chorwackich chłopskich republikanów [Stjepana Radicia](https://pl.wikipedia.org/wiki/Stjepan_Radić). Rządził z krótką przerwą do kwietnia 1926 roku. W grudniu, po audiencji, podczas której król Aleksander nie powierzył mu ponownie władzy i wytknął skandale jego syna, Pašić zmarł nagle 10 grudnia 1926 roku w Belgradzie.
 
 ## Ocena
 

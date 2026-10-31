@@ -2,10 +2,10 @@
 title: Vosugh od-Dowleh becomes prime minister of Persia
 summary: In late August 1916 the Sepahsalar's government resigned; Vosugh od-Dowleh, a politician close to the British, became premier and foreign minister.
 source: wosug-od-dole-premierem-persji
-sourceHash: fefb63702aee3a8fe0908e9e81b14ef797ea4b65
+sourceHash: 1635ab98111a3fb677567d02dc500bec1b0b94cd
 ---
 
-The British chronology of the war records under 29 August 1916 that the prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran), the Sepahsalar, resigned and was succeeded by Vosugh od-Dowleh, who also took over the foreign ministry. Persian lists of governments confirm this date: they end the Sepahsalar's premiership and begin Vosugh's term of office on 7 Shahrivar 1295 in the Iranian calendar, that is, precisely 29 August. Some Persian accounts, however, give an earlier start to his government, 18 Mordad, that is, 9 August. At the foreign ministry Vosugh replaced Prince [Sarem od-Dowleh](/sarem-od-dole-ministrem-spraw-zagranicznych-persji).
+The British chronology of the war records under 29 August 1916 that the prime minister of [Persia](/kraje/persja), the Sepahsalar, resigned and was succeeded by Vosugh od-Dowleh, who also took over the foreign ministry. Persian lists of governments confirm this date: they end the Sepahsalar's premiership and begin Vosugh's term of office on 7 Shahrivar 1295 in the Iranian calendar, that is, precisely 29 August. Some Persian accounts, however, give an earlier start to his government, 18 Mordad, that is, 9 August. At the foreign ministry Vosugh replaced Prince [Sarem od-Dowleh](/sarem-od-dole-ministrem-spraw-zagranicznych-persji).
 
 ## A change at a bad moment
 

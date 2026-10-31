@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 stycznia 1915 roku wojska rosyjskie opuściły [Tebriz](https://pl.wikipedia.org/wiki/Tebriz), największe miasto północnej [Persji](https://pl.wikipedia.org/wiki/Iran) i stolicę prowincji [Azerbejdżan](https://pl.wikipedia.org/wiki/Azerbejdżan_Irański). Był to ostatni etap ewakuacji, którą Rosjanie rozpoczęli w drugiej połowie grudnia, gdy klęska pod [Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) wydawała się możliwa. Trzy dni wcześniej [opuścili Urmię](/rosjanie-opuszczaja-urmie).
+5 stycznia 1915 roku wojska rosyjskie opuściły [Tebriz](https://pl.wikipedia.org/wiki/Tebriz), największe miasto północnej [Persji](/kraje/persja) i stolicę prowincji [Azerbejdżan](https://pl.wikipedia.org/wiki/Azerbejdżan_Irański). Był to ostatni etap ewakuacji, którą Rosjanie rozpoczęli w drugiej połowie grudnia, gdy klęska pod [Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) wydawała się możliwa. Trzy dni wcześniej [opuścili Urmię](/rosjanie-opuszczaja-urmie).
 
 ## Rosyjski Tebriz
 

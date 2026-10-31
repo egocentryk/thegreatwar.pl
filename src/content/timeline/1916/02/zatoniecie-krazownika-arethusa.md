@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 lutego 1916 roku brytyjski [krążownik lekki](https://pl.wikipedia.org/wiki/Krążownik_lekki) Arethusa, okręt flagowy komodora [Reginalda Tyrwhitta](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt), wszedł na minę tuż przed powrotem do bazy w [Harwich](https://pl.wikipedia.org/wiki/Harwich). Wybuch nastąpił w pobliżu boi North Cutler, na podejściu do portu naprzeciw [Felixstowe](https://pl.wikipedia.org/wiki/Felixstowe). Minę postawił niedługo wcześniej niemiecki podwodny stawiacz min [UC-7](https://pl.wikipedia.org/wiki/SM_UC-7). Uszkodzonego okrętu nie zdołano odholować. Wiatr i fala zepchnęły go na mieliznę, gdzie przełamał się na dwie części.
+11 lutego 1916 roku brytyjski [krążownik lekki](https://pl.wikipedia.org/wiki/Krążownik_lekki) Arethusa, okręt flagowy komodora [Reginalda Tyrwhitta](/postacie/reginald-tyrwhitt), wszedł na minę tuż przed powrotem do bazy w [Harwich](https://pl.wikipedia.org/wiki/Harwich). Wybuch nastąpił w pobliżu boi North Cutler, na podejściu do portu naprzeciw [Felixstowe](https://pl.wikipedia.org/wiki/Felixstowe). Minę postawił niedługo wcześniej niemiecki podwodny stawiacz min [UC-7](https://pl.wikipedia.org/wiki/SM_UC-7). Uszkodzonego okrętu nie zdołano odholować. Wiatr i fala zepchnęły go na mieliznę, gdzie przełamał się na dwie części.
 
 ## Fałszywy alarm
 

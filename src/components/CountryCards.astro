@@ -1,7 +1,8 @@
 ---
 // The country pages (utils/countries.ts) in two columns, the Entente and the
-// Central Powers: name, the dates it was at war, the summary and how much
-// the site has on it. Used by /kraje and /en/countries.
+// Central Powers, then the neutral states: name, the dates it was at war,
+// the summary and how much the site has on it. Used by /kraje and
+// /en/countries.
 import { locale, plural, sideEn, type Lang } from "@/i18n"
 import { countryFacts, localCountries, SIDES } from "@/utils/countries"
 import { formatDate } from "@/utils/formatDate"
@@ -35,9 +36,11 @@ const counts = (articles: number, battles: number) =>
             <li class="border-line border-b">
               <a href={c.href} class="group block py-5">
                 <span class="font-display text-ink group-hover:text-signal block text-xl transition-colors">{c.name}</span>
-                <span class="text-ink-soft mt-1 block font-mono text-[11px]">
-                  {short(c.source.data.entered)} – {short(c.source.data.left)}
-                </span>
+                {c.source.data.entered && c.source.data.left && (
+                  <span class="text-ink-soft mt-1 block font-mono text-[11px]">
+                    {short(c.source.data.entered)} – {short(c.source.data.left)}
+                  </span>
+                )}
                 <span class="text-ink-soft mt-2 block leading-7">{c.summary}</span>
                 <span class="text-ink-soft mt-2 block font-mono text-[11px]">{counts(c.facts.articles, c.facts.battles.length)}</span>
               </a>

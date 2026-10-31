@@ -28,6 +28,6 @@ Przasnysz był do tego dobrym celem. Leżał na skrzyżowaniu dróg z Prus Wscho
 
 ## Rosyjska odpowiedź
 
-Rosjanie mieli jednak w pobliżu świeże siły. Na odcinku Narwi koncentrowała się właśnie nowa 12 Armia generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe), przeznaczona do ofensywy na Prusy Wschodnie. Plehwe skierował spod [Ostrołęki](https://pl.wikipedia.org/wiki/Ostrołęka) II Korpus Syberyjski, który od 22 lutego miał uderzyć na flankę Niemców, którzy przedarli się między Przasnyszem a rzeką [Orzyc](https://pl.wikipedia.org/wiki/Orzyc). Od południa nadciągał I Korpus Syberyjski.
+Rosjanie mieli jednak w pobliżu świeże siły. Na odcinku Narwi koncentrowała się właśnie nowa 12 Armia generała [Pawła Plehwego](/postacie/pawel-plehwe), przeznaczona do ofensywy na Prusy Wschodnie. Plehwe skierował spod [Ostrołęki](https://pl.wikipedia.org/wiki/Ostrołęka) II Korpus Syberyjski, który od 22 lutego miał uderzyć na flankę Niemców, którzy przedarli się między Przasnyszem a rzeką [Orzyc](https://pl.wikipedia.org/wiki/Orzyc). Od południa nadciągał I Korpus Syberyjski.
 
 Zaczął się wyścig z czasem. Niemcy musieli zdobyć miasto, zanim nadejdą syberyjskie korpusy, a obrońcy Przasnysza musieli wytrzymać do ich przybycia. Następnego dnia pierścień wokół miasta się zamknął, a walki weszły w najcięższą fazę.

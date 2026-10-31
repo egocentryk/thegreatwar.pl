@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 6 marca 1916 roku, że ministrem spraw zagranicznych [Persji](https://pl.wikipedia.org/wiki/Iran) został „Sarim ed Douleh”, czyli książę Akbar Mirza, noszący tytuł Sarem od-Dole. Wszedł do rządu, który utworzył [nowy premier, Sepahsalar](/sepahsalar-premierem-persji). Perskie zestawienia ministrów datują początek jego urzędowania na 14 esfanda 1294 roku według kalendarza irańskiego, czyli na 4 marca 1916 roku. Zastąpił Alego Koli Chana Ansariego, Moszawera ol-Mamalek, który [odszedł razem z rządem Farmanfarmy](/dymisja-ministra-spraw-zagranicznych-persji).
+Brytyjska chronologia wojny notuje pod 6 marca 1916 roku, że ministrem spraw zagranicznych [Persji](/kraje/persja) został „Sarim ed Douleh”, czyli książę Akbar Mirza, noszący tytuł Sarem od-Dole. Wszedł do rządu, który utworzył [nowy premier, Sepahsalar](/sepahsalar-premierem-persji). Perskie zestawienia ministrów datują początek jego urzędowania na 14 esfanda 1294 roku według kalendarza irańskiego, czyli na 4 marca 1916 roku. Zastąpił Alego Koli Chana Ansariego, Moszawera ol-Mamalek, który [odszedł razem z rządem Farmanfarmy](/dymisja-ministra-spraw-zagranicznych-persji).
 
 ## Książę z Isfahanu
 

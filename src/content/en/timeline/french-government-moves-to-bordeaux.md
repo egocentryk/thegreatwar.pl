@@ -2,10 +2,10 @@
 title: French government moves to Bordeaux
 summary: On the night of 2–3 September 1914 President Poincaré and Viviani's government left Paris, threatened by the Germans, and moved to Bordeaux.
 source: rzad-francuski-przenosi-sie-do-bordeaux
-sourceHash: e8f73cdf1a9e457c0ede2e9ef2434a028f636227
+sourceHash: ae3973ff7b9d5eaba7cae5991b559b17c9ee3d55
 ---
 
-On 2 September 1914, the anniversary of the defeat at Sedan in 1870, the French authorities decided to leave [Paris](https://pl.wikipedia.org/wiki/Paryż). Late in the evening President [Raymond Poincaré](/postacie/raymond-poincare) and the ministers of [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani)'s government left by train for [Bordeaux](https://pl.wikipedia.org/wiki/Bordeaux), which they reached at noon the next day. For more than three months the city on the Garonne was the de facto capital of France.
+On 2 September 1914, the anniversary of the defeat at Sedan in 1870, the French authorities decided to leave [Paris](https://pl.wikipedia.org/wiki/Paryż). Late in the evening President [Raymond Poincaré](/postacie/raymond-poincare) and the ministers of [René Viviani](/postacie/rene-viviani)'s government left by train for [Bordeaux](https://pl.wikipedia.org/wiki/Bordeaux), which they reached at noon the next day. For more than three months the city on the Garonne was the de facto capital of France.
 
 ## The Germans near Paris
 

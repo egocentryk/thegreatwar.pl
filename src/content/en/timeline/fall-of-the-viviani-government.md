@@ -2,10 +2,10 @@
 title: Fall of the Viviani government
 summary: On 29 October 1915 René Viviani's government fell. After Balkan setbacks and failed offensives he could not reshape his cabinet and gave way to Briand.
 source: dymisja-rzadu-vivianiego
-sourceHash: bf61ece33aea2412925f1254292f906563920cf5
+sourceHash: 9024892b24b4c2f4876ba13b2ca5bab5f72a5d3d
 ---
 
-On 29 October 1915 [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) resigned as prime minister of France. He had been head of government since 13 June 1914, and since 26 August 1914 had led the cabinet of national defence, the government of the so-called sacred union (French: union sacrée), which included representatives of almost all parties, the socialists among them. It was he who had led France through the first and hardest months of the war. By the autumn of 1915, however, his government had lost the confidence of both parliament and public opinion.
+On 29 October 1915 [René Viviani](/postacie/rene-viviani) resigned as prime minister of France. He had been head of government since 13 June 1914, and since 26 August 1914 had led the cabinet of national defence, the government of the so-called sacred union (French: union sacrée), which included representatives of almost all parties, the socialists among them. It was he who had led France through the first and hardest months of the war. By the autumn of 1915, however, his government had lost the confidence of both parliament and public opinion.
 
 Sources date the end of this cabinet differently: some give 27 or 28 October, others 29 October. This follows from the course of the crisis. Viviani spent several days trying to reconstruct the government; on the evening of 28 October he announced that he would resign in any case before the sitting of the Chamber the next day, and the president signed the decrees appointing the new government late in the evening of 29 October.
 

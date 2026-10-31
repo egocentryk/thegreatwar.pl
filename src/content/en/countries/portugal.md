@@ -9,7 +9,7 @@ brief:
   - "On 9 April 1918 the German attack on the Lys shattered the Portuguese 2nd Division, while Lettow-Vorbeck fought in Mozambique for ten months."
   - "The war divided the country: in December 1917 power was seized by Sidónio Pais, an opponent of taking part in the war, who was killed a year later."
 source: portugalia
-sourceHash: 38fe9e3218c1d6717574a3ded6ce5fb5f56e0909
+sourceHash: a96c646846d24e6536a57a348ba0407d86f6a7d6
 ---
 
 Portugal, England's ally since the fourteenth century, fought the Germans in its African colonies from 1914, but it was formally at war only from 9 March 1916, when, after the seizure of German ships, Germany declared war on it. The republican government sent an expeditionary corps to the Western Front, which was shattered in the Battle of the Lys on 9 April 1918, while in Mozambique the Portuguese suffered painful defeats at the hands of Lettow-Vorbeck's forces. The war, which was meant to strengthen the young republic, divided the country and greatly weakened it.
@@ -22,7 +22,7 @@ Portugal was bound to England by an alliance concluded in 1373. In the nineteent
 
 In August 1914 the government declared that the country would honour its obligations as an ally, but at London's request it declared neither neutrality nor entry into the war. Reinforcements sailed to Angola and Mozambique. In Africa the fighting began quickly. On 24 August a German detachment attacked the Maziua post in Mozambique, and in October, after the [Naulila incident](/niemcy-atakuja-angole), troops from German South West Africa raided Portuguese posts in Angola. On 18 December 1914 the Germans defeated the Portuguese at Naulila itself, and the Portuguese retreat set off a rising of the Kwanyama people. For months southern Angola slipped out of Lisbon's control.
 
-On [23 November 1914](/portugalia-zapowiada-wspolprace-z-wielka-brytania) parliament authorised the government to take part in the war at Britain's side "when and as it deems necessary", but disputes over the war broke up one cabinet after another. In January 1915 power passed to [General Pimenta de Castro](/pimenta-de-castro-premierem-portugalii), who governed without parliament. On [14 May 1915](/upadek-rzadu-pimenty-de-castro) the navy and armed civilians overthrew his dictatorship, and [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa)'s Democrats, supporters of entering the war, returned to power.
+On [23 November 1914](/portugalia-zapowiada-wspolprace-z-wielka-brytania) parliament authorised the government to take part in the war at Britain's side "when and as it deems necessary", but disputes over the war broke up one cabinet after another. In January 1915 power passed to [General Pimenta de Castro](/pimenta-de-castro-premierem-portugalii), who governed without parliament. On [14 May 1915](/upadek-rzadu-pimenty-de-castro) the navy and armed civilians overthrew his dictatorship, and [Afonso Costa](/postacie/afonso-costa)'s Democrats, supporters of entering the war, returned to power.
 
 ## Entry into the war
 

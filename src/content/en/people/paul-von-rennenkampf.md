@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Konofer, today Konuvere (Governorate of Estonia, now Estonia)
 deathPlace: Taganrog
 source: paul-von-rennenkampf
-sourceHash: 7737c82dba558cfe0091499e85981f979d9f3138
+sourceHash: 927676188bf7af1355c136df52305796d1d790d8
 ---
 
 In 1914 General Paul von Rennenkampf commanded the Russian 1st Army, which was the first to enter East Prussia and on 20 August won at Gumbinnen the only major Russian victory of that campaign. A few days later the Germans destroyed the neighbouring army of Alexander Samsonov at Tannenberg, and Rennenkampf, who had not come to its aid, became in the eyes of the public the chief culprit of the defeat. After the defeat at the Masurian Lakes and the failure to close the pocket at Łódź he lost his command, and his German surname brought him accusations of treason. Historians today judge him more leniently than his contemporaries did, pointing out that his superiors made the more serious mistakes.
@@ -35,7 +35,7 @@ In November 1914 the 1st Army covered the right flank of the Russian offensive t
 
 The commander of the North-Western Front, [Nikolai Ruzsky](/postacie/nikolaj-ruzski), put the blame on Rennenkampf, and at the turn of November and December the general was removed from command; the 1st Army was taken over by General Alexander Litvinov. The affair was investigated by a special commission under General Pyotr Baranov. According to Russian studies it found that the main mistakes had been made by Ruzsky, but the Stavka did not restore Rennenkampf to service. In October 1915 he was retired "for domestic reasons", with the right to wear uniform and to a pension.
 
-The defeats in East Prussia and his German surname made him a traitor in the eyes of many Russians. He was insulted in the press and in the streets of Petrograd, and rumours of his supposed sympathy for the Germans circulated long after the war. The Chief of Staff of the Stavka, Nikolai Yanushkevich, wrote to the Minister of War that the mass of complaints about "Germans" in the army, including Rennenkampf, had led Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz) to choose as his successor a man with a Russian surname instead of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe).
+The defeats in East Prussia and his German surname made him a traitor in the eyes of many Russians. He was insulted in the press and in the streets of Petrograd, and rumours of his supposed sympathy for the Germans circulated long after the war. The Chief of Staff of the Stavka, Nikolai Yanushkevich, wrote to the Minister of War that the mass of complaints about "Germans" in the army, including Rennenkampf, had led Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz) to choose as his successor a man with a Russian surname instead of General [Pavel Plehve](/postacie/pawel-plehwe).
 
 ## After the war
 

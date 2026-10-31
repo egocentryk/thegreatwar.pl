@@ -17,7 +17,7 @@ brief:
   - "28 sierpnia kontrnatarcie 4 Armii przyniosło lokalne sukcesy, ale wieczorem nadszedł rozkaz odwrotu nad Aisne. Opór nad Mozą spowolnił niemieckie centrum i nie pozwolił rozerwać frontu."
 ---
 
-25 sierpnia 1914 roku francuska 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), pobita kilka dni wcześniej w Ardenach, zajęła pozycje za [Mozą](/miejsca/moza), na odcinku od okolic Mézières po [Stenay](https://pl.wikipedia.org/wiki/Stenay). Na jej prawym skrzydle, w rejonie [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse), za rzekę wycofywała się 3 Armia. Tak rozpoczęła się bitwa nad Mozą, jedno z najważniejszych starć wielkiego odwrotu. Przez kolejne dni Francuzi bronili przepraw przed nacierającymi armiami niemieckimi, zadając im ciężkie straty.
+25 sierpnia 1914 roku francuska 4 Armia generała [Fernanda de Langle de Cary](/postacie/fernand-de-langle-de-cary), pobita kilka dni wcześniej w Ardenach, zajęła pozycje za [Mozą](/miejsca/moza), na odcinku od okolic Mézières po [Stenay](https://pl.wikipedia.org/wiki/Stenay). Na jej prawym skrzydle, w rejonie [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse), za rzekę wycofywała się 3 Armia. Tak rozpoczęła się bitwa nad Mozą, jedno z najważniejszych starć wielkiego odwrotu. Przez kolejne dni Francuzi bronili przepraw przed nacierającymi armiami niemieckimi, zadając im ciężkie straty.
 
 ## Po klęsce w Ardenach
 

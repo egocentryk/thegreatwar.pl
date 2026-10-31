@@ -1,0 +1,197 @@
+{
+ "slug": "paryska-konferencja-pokojowa",
+ "paragraphs": [
+  {
+   "start": "Paryska konferencja pokojowa była zjazdem zwycięskich",
+   "quotes": [
+    {
+     "url": "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F",
+     "quote": "od 18 stycznia 1919 roku do 21 stycznia 1920 roku - Konferencja pokojowa w Paryżu"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Talks between the Allies to establish a common negotiating position started on 18 January 1919, in the Salle de l'Horloge (Clock Room) at the French Foreign Ministry on the Quai d'Orsay in Paris."
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "Konferencja pokojowa w Paryżu przygotowała pięć traktatów z pokonanymi."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "Stan wojny między Niemcami a sprzymierzonymi zakończył dopiero traktat wersalski, podpisany 28 czerwca 1919 roku, który wszedł w życie w styczniu 1920 roku."
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "statut Ligi stał się pierwszą częścią traktatu wersalskiego"
+    }
+   ]
+  },
+  {
+   "start": "Do Paryża zjechali delegaci 27 państw, wśród nich",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Initially, 70 delegates from 27 nations participated in the negotiations."
+    },
+    {
+     "file": "src/content/timeline/1915/04/harcourt-obiecuje-dominiom-glos-w-sprawie-pokoju.md",
+     "quote": "Szczególnie dotkliwie odczuwał to premier Kanady Robert Borden."
+    },
+    {
+     "file": "src/content/timeline/1915/04/harcourt-obiecuje-dominiom-glos-w-sprawie-pokoju.md",
+     "quote": "Po wojnie Borden i premier Australii William Hughes wywalczyli dla dominiów osobne delegacje na konferencji pokojowej w Paryżu i prawo do samodzielnego podpisania traktatu pokojowego z Niemcami."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919–1920)",
+     "quote": "The Delegates from 27 nations (delegates representing 5 nationalities were for the most part ignored) were assigned to 52 commissions"
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "Pokonanych nie dopuszczono do obrad, nie zaproszono też Rosji Radzieckiej."
+    }
+   ]
+  },
+  {
+   "start": "Obradom przewodniczył premier Francji Georges Clemenceau",
+   "quotes": [
+    {
+     "file": "src/content/postacie/georges-clemenceau.md",
+     "quote": "przewodniczący paryskiej konferencji pokojowej"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Initially, a \"Council of Ten\" (comprising two delegates each from Britain, France, the United States, Italy, and Japan) met officially to decide the peace terms. This council was replaced by the \"Council of Five\", formed from each country's foreign ministers, to discuss minor matters. French Prime Minister Georges Clemenceau, Italian Prime Minister Vittorio Emanuele Orlando, British Prime Minister David Lloyd George, and United States President Woodrow Wilson formed the \"Big Four\""
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "The minor powers attended a weekly \"Plenary Conference\" that discussed issues in a general forum but made no decisions."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Supreme_War_Council",
+     "quote": "the Supreme War Council became the \"Council of Ten\" in mid January, and later the \"Council of Four\" (Big Four) in mid March"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919–1920)",
+     "quote": "The Delegates from 27 nations (delegates representing 5 nationalities were for the most part ignored) were assigned to 52 commissions"
+    }
+   ]
+  },
+  {
+   "start": "W czasie wojny przyszła konferencja była punktem odniesienia",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W czasie wojny przyszła konferencja pokojowa była punktem odniesienia dla wszystkich roszczeń: tajne układy sojuszników, obietnice dla Japonii, Włoch czy Rumunii i programy ruchów narodowych miały się rozstrzygnąć właśnie tam. Wiele z nich wywołało w Paryżu ostre spory, jak sprawa Fiume czy Szantungu."
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "26 kwietnia 1915 Włochy podpisały w Londynie tajny układ z Ententą."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
+     "quote": "While it fought alongside the Allies, the United States was not bound to honor pre-existing agreements among the Allied Powers. These agreements focused on postwar redistribution of territories. U.S. President Woodrow Wilson strongly opposed many of these arrangements, including Italian demands on the Adriatic."
+    },
+    {
+     "file": "src/content/postacie/vittorio-emanuele-orlando.md",
+     "quote": "23 kwietnia 1919 roku Wilson ogłosił orędzie do narodu włoskiego, ponad głową premiera. Nazajutrz delegacja włoska opuściła konferencję. W Rzymie witały ją tłumy, a parlament udzielił rządowi zaufania, ale w Paryżu obradowano dalej bez Włochów i 7 maja Orlando z Sonninem musieli tam wrócić bez żadnych ustępstw."
+    },
+    {
+     "file": "src/content/timeline/1917/08/chiny-wypowiadaja-wojne-niemcom-i-austro-wegrom.md",
+     "quote": "Na konferencji w Paryżu mocarstwa przyznały niemieckie prawa w Szantungu Japonii, co dało początek Ruchowi 4 Maja. Chiny odmówiły podpisania traktatu wersalskiego."
+    }
+   ]
+  },
+  {
+   "start": "Polską delegacją kierował Roman Dmowski. 16 stycznia",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1919/06/polska-podpisuje-traktat-wersalski.md",
+     "quote": "W imieniu Polski złożyli pod nim podpisy premier i minister spraw zagranicznych Ignacy Jan Paderewski oraz przewodniczący delegacji na konferencję pokojową Roman Dmowski. Niemcy uznały w artykule 87 „całkowitą niepodległość Polski” i zrzekły się na jej rzecz większości ziem zaboru pruskiego. Tego samego dnia Polska podpisała z mocarstwami osobny traktat o ochronie mniejszości"
+    },
+    {
+     "file": "src/content/postacie/ignacy-jan-paderewski.md",
+     "quote": "Piłsudski uznał, że rząd z Paderewskim na czele da Polsce uznanie aliantów. 16 stycznia Paderewski stanął na czele rządu i objął także ministerstwo spraw zagranicznych."
+    },
+    {
+     "file": "src/content/postacie/roman-dmowski.md",
+     "quote": "29 stycznia 1919 roku przez około pięć godzin przedstawiał Radzie Dziesięciu polskie żądania, sam tłumacząc swoje wystąpienie na francuski i angielski. Przemówienie uznano za mistrzowskie. Programu w całości nie przeprowadził. Gdańsk został wolnym miastem, o Górnym Śląsku, Warmii i Mazurach miały rozstrzygnąć plebiscyty, a Polskę zobowiązano do podpisania traktatu o ochronie mniejszości"
+    },
+    {
+     "file": "src/content/timeline/1919/06/polska-podpisuje-traktat-wersalski.md",
+     "quote": "Polskie postulaty rozpatrywała komisja pod przewodnictwem francuskiego dyplomaty Jules’a Cambona. Jej raport z 19 marca przyznawał Polsce cały Górny Śląsk, Wielkopolskę, Pomorze Gdańskie z Gdańskiem i cztery powiaty na prawym brzegu Wisły"
+    },
+    {
+     "file": "src/content/timeline/1919/06/polska-podpisuje-traktat-wersalski.md",
+     "quote": "Przy nie zawsze stanowczym sprzeciwie Clemenceau i często przy poparciu Wilsona Lloyd George przeforsował zmiany na niekorzyść Polski: Gdańsk miał zostać Wolnym Miastem, a o Warmii, Mazurach i Powiślu miały zdecydować plebiscyty."
+    }
+   ]
+  },
+  {
+   "start": "Rada Najwyższa konferencji rozstrzygała także spory",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1919/06/rada-najwyzsza-zezwala-na-zajecie-galicji-wschodniej.md",
+     "quote": "25 czerwca 1919 roku o trzeciej po południu"
+    },
+    {
+     "file": "src/content/timeline/1919/06/rada-najwyzsza-zezwala-na-zajecie-galicji-wschodniej.md",
+     "quote": "Uchwaliła, że rząd polski może zająć ją swoimi wojskami aż po Zbrucz i użyć do tego także armii generała Hallera."
+    },
+    {
+     "file": "src/content/timeline/1919/08/powstanie-sejnenskie.md",
+     "quote": "26 lipca Rada Najwyższa konferencji pokojowej przyjęła zaproponowaną przez marszałka Ferdinanda Focha linię demarkacyjną między wojskami polskimi i litewskimi."
+    },
+    {
+     "file": "src/content/timeline/1919/06/polska-podpisuje-traktat-wersalski.md",
+     "quote": "Granic wschodnich traktat nie wyznaczał. Ustalić je miały później mocarstwa."
+    },
+    {
+     "file": "src/content/timeline/1919/02/poczatek-wojny-polsko-bolszewickiej.md",
+     "quote": "Wojna rozpoczęta lutowymi potyczkami trwała do jesieni 1920 roku."
+    }
+   ]
+  },
+  {
+   "start": "Najważniejszy był traktat wersalski, podpisany z Niemcami",
+   "quotes": [
+    {
+     "url": "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F",
+     "quote": "28 czerwca 1919 roku Podpisanie traktatu wersalskiego."
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "statut Ligi stał się pierwszą częścią traktatu wersalskiego"
+    },
+    {
+     "file": "src/content/countries/austro-wegry.md",
+     "quote": "W traktacie z Saint-Germain-en-Laye z 10 września 1919 roku Austria oddała ziemie Czechosłowacji, Włochom, Królestwu SHS i Rumunii, zobowiązała się nie rezygnować z niepodległości, a jej armię ograniczono do 30 tysięcy ludzi. Traktat w Trianon z 4 czerwca 1920 roku zostawił Węgrom 93 tys. km² z 325 tys. i 8 z 21 milionów mieszkańców."
+    },
+    {
+     "file": "src/content/countries/bulgaria.md",
+     "quote": "27 listopada 1919 roku Bułgaria podpisała traktat w Neuilly-sur-Seine. Oddała w nim zachodnią Trację Grecji, a z nią dostęp do Morza Egejskiego"
+    },
+    {
+     "file": "src/content/countries/imperium-osmanskie.md",
+     "quote": "Traktat w Sèvres z 10 sierpnia 1920 roku odbierał imperium Syrię i Mezopotamię, które miały stać się mandatami Ligi Narodów, dawał Grecji prawo do okupacji i administrowania rejonem Smyrny i przewidywał niepodległą Armenię oraz autonomiczny Kurdystan. Turecki ruch narodowy pod wodzą Mustafy Kemala nie dopuścił do jego wejścia w życie i w 1923 roku zastąpił go traktat w Lozannie."
+    }
+   ]
+  },
+  {
+   "start": "Senat Stanów Zjednoczonych w marcu 1920 roku odrzucił",
+   "quotes": [
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "Senat USA w marcu 1920 roku odrzucił traktat wersalski, a wraz z nim przystąpienie do Ligi Narodów."
+    },
+    {
+     "file": "src/content/glossary/traktat-wersalski.md",
+     "quote": "Niemcy odczytali go jako przypisanie im winy za wojnę i obrazę honoru narodu, a cały traktat nazywali „dyktatem”."
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "Konferencja pokojowa w Paryżu narzuciła pokonanym traktaty, z których najważniejszy, wersalski, do dziś budzi spory."
+    }
+   ]
+  }
+ ]
+}

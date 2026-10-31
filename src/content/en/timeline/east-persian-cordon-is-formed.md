@@ -2,10 +2,10 @@
 title: East Persian Cordon is formed
 summary: At the end of July 1915 the British and Russians began to form a cordon in eastern Persia to stop German missions from getting through to Afghanistan.
 source: powstaje-kordon-wschodnioperski
-sourceHash: 02cdcb94d291c031be8ad21e830b51d418b4a9d2
+sourceHash: 805b146d2280b3d2e61bfe29e7e4d954bb49c9be
 ---
 
-The British chronology of the war records under 29 July 1915 the beginning of the formation of the East Persian Cordon. This was a chain of posts and patrols that Britain and Russia stretched along the border of [Persia](https://pl.wikipedia.org/wiki/Iran) with [Afghanistan](https://pl.wikipedia.org/wiki/Afganistan). It was meant to stop the German and Turkish missions that were trying to reach Kabul through neutral Persia. The neutrality proclaimed by Tehran was no obstacle to them. Both powers had long treated Persia as their own backyard, divided into spheres of influence by the [Anglo-Russian Convention](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) of 1907.
+The British chronology of the war records under 29 July 1915 the beginning of the formation of the East Persian Cordon. This was a chain of posts and patrols that Britain and Russia stretched along the border of [Persia](/kraje/persja) with [Afghanistan](https://pl.wikipedia.org/wiki/Afganistan). It was meant to stop the German and Turkish missions that were trying to reach Kabul through neutral Persia. The neutrality proclaimed by Tehran was no obstacle to them. Both powers had long treated Persia as their own backyard, divided into spheres of influence by the [Anglo-Russian Convention](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) of 1907.
 
 ## German missions to Kabul
 

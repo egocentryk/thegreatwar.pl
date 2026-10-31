@@ -2,7 +2,7 @@
 title: End of the Battle of Baranovichi
 summary: On 9 July 1916 Evert halted the attack at Baranovichi. After a week of assaults the Fourth Army had won scraps of trench, losing 80,000 men by Austrian figures.
 source: koniec-bitwy-pod-baranowiczami
-sourceHash: 9910a4c0a73b00ce72aaed2a13970de986f049b6
+sourceHash: 99a51e9862e54873c69eccf52b8a7abe629a0cf4
 ---
 
 On 9 July 1916 (26 June in the Julian calendar) silence fell at [Baranovichi](https://pl.wikipedia.org/wiki/Baranowicze). The next assault the Germans and Austrians expected did not come. According to Russian accounts it was prevented by morning mist, and that same day Stavka left it to the commander of the Western Front, General [Alexei Evert](/postacie/aleksiej-ewert), to decide whether he wished to continue the attack. Evert suspended the attack of the [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Imperium_Rosyjskie)) until the arrival of IV Siberian Corps. Later he postponed it several more times, and finally called it off, citing a shortage of shells. The battle that was to have been the main blow of the Russian army in 1916 ended after a week.
@@ -13,7 +13,7 @@ On 9 July 1916 (26 June in the Julian calendar) silence fell at [Baranovichi](ht
 
 ## The balance
 
-According to the Austrian official history, the Russians lost 80,000 men at Baranovichi, a figure "exceptionally high even by Russian standards". The Russian historian Aleksei Oleynikov, citing the archives, gives a similar figure: up to 80,000, including about 30,000 killed. German and Austro-Hungarian losses were many times smaller. Russian accounts estimate them at 13,000–25,000, and official German figures, cited by Sergei Nelipovich, at about 6,500 in the whole army of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch). The Russians took about 4,000 prisoners. The Austro-Hungarian 31st Infantry Brigade suffered most, losing about 5,000 men in the first days.
+According to the Austrian official history, the Russians lost 80,000 men at Baranovichi, a figure "exceptionally high even by Russian standards". The Russian historian Aleksei Oleynikov, citing the archives, gives a similar figure: up to 80,000, including about 30,000 killed. German and Austro-Hungarian losses were many times smaller. Russian accounts estimate them at 13,000–25,000, and official German figures, cited by Sergei Nelipovich, at about 6,500 in the whole army of General [Remus von Woyrsch](/postacie/remus-von-woyrsch). The Russians took about 4,000 prisoners. The Austro-Hungarian 31st Infantry Brigade suffered most, losing about 5,000 men in the first days.
 
 Stavka drew far-reaching conclusions from the defeat. After the March disaster [at Lake Naroch](/bitwy/bitwa-nad-jeziorem-narocz), it was the Western Front's second failed attempt of 1916. The Austrian official history wrote that "the sense of German superiority weighed like a nightmare on commanders and soldiers". Orders issued on 9 July shifted the weight of the summer campaign to the South-Western Front of General [Aleksei Brusilov](/postacie/aleksiej-brusilow), which was to take Kovel. It was given further corps, and soon the Guard as well. In those same days his armies broke the front on the Styr, where in the [Battle of Kostiuchnówka](/bitwy/bitwa-pod-kostiuchnowka) the Russian advance was held up for three days by the Polish Legions, and pushed the forces of the Central Powers back behind the Stokhod.
 

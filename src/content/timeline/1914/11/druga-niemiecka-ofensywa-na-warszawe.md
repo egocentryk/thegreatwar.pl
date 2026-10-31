@@ -28,7 +28,7 @@ Po [bitwie pod Warszawą i Dęblinem](/bitwy/bitwa-pod-warszawa-i-deblinem) Rosj
 
 ## Rosjanie odwołują marsz na Śląsk
 
-Rosyjskie dowództwo długo nie doceniało niemieckiego uderzenia. Dopiero 16 lub 17 listopada (źródła podają różne daty) wielki książę Mikołaj Mikołajewicz zrozumiał, że zagrożona jest cała 2 Armia, i odwołał ofensywę na Śląsk. Na ratunek ruszyła z południa 5 Armia generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe), której żołnierze w ciągu kilku dni przeszli forsownym marszem ponad sto kilometrów.
+Rosyjskie dowództwo długo nie doceniało niemieckiego uderzenia. Dopiero 16 lub 17 listopada (źródła podają różne daty) wielki książę Mikołaj Mikołajewicz zrozumiał, że zagrożona jest cała 2 Armia, i odwołał ofensywę na Śląsk. Na ratunek ruszyła z południa 5 Armia generała [Pawła Plehwego](/postacie/pawel-plehwe), której żołnierze w ciągu kilku dni przeszli forsownym marszem ponad sto kilometrów.
 
 Na niemiecką ofensywę liczyli także Austriacy. Tego samego dnia, 16 listopada, austro-węgierska 4 Armia [wyszła z twierdzy Kraków](/poczatek-bitwy-pod-krakowem) i uderzyła w bok rosyjskiej 9 Armii. Oba natarcia miały zatrzymać rosyjski walec, zanim wejdzie na terytorium Niemiec.
 

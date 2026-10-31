@@ -2,10 +2,10 @@
 title: Ain od-Dowleh becomes prime minister of Persia
 summary: Per the British chronology, on 27 April 1915 Ain od-Dowleh, premier in the Constitutional Revolution era, again led Persia. A new foreign minister came in too.
 source: ajn-od-dole-premierem-persji
-sourceHash: a386372d5636b81476549e21373c1e3e1edb42ab
+sourceHash: 734857b9ebb3dd293ebef42f62c49147ce0f1852
 ---
 
-The British chronology of the war records under 27 April 1915 that Prince Abdol-Majid Mirza, known by the title Ain od-Dowleh, became the new prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran). He replaced Hassan Pirnia, Moshir od-Dowleh, whose government had [fallen the day before](/dymisja-rzadu-moszira-od-dole) under pressure from Russia and Britain. The Encyclopaedia Iranica dates the appointment broadly to April 1915, and some lists give 1 May as his first day in office. Ain od-Dowleh also took over the ministry of war.
+The British chronology of the war records under 27 April 1915 that Prince Abdol-Majid Mirza, known by the title Ain od-Dowleh, became the new prime minister of [Persia](/kraje/persja). He replaced Hassan Pirnia, Moshir od-Dowleh, whose government had [fallen the day before](/dymisja-rzadu-moszira-od-dole) under pressure from Russia and Britain. The Encyclopaedia Iranica dates the appointment broadly to April 1915, and some lists give 1 May as his first day in office. Ain od-Dowleh also took over the ministry of war.
 
 Together with the prime minister the foreign minister changed. The British chronology calls the new minister "Mohtashem ed Douleh". This is most probably Hassan Esfandiari, who bore the title Mohtasham os-Saltaneh, and whom lists of Persian ministers name as head of diplomacy from 1 May to the beginning of July 1915. He was an experienced official. Between 1908 and 1921 he chaired, among other things, the boundary commission with Turkey, was governor of [Urmia](https://pl.wikipedia.org/wiki/Urmia_(miasto)) and of Azerbaijan, and several times a minister, and in the 1930s and 1940s he presided over the Majlis, the Persian parliament.
 

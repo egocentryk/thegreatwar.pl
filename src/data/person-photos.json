@@ -8,6 +8,14 @@
   "adolphe-guillaumat": {
     "file": "Adolphe_Guillaumat_1921.jpg"
   },
+  "afonso-costa": {
+    "file": "Afonso_Costa_-_Março,_1921.png",
+    "frame": [
+      0.75,
+      0.5,
+      0.03
+    ]
+  },
   "albert-i": {
     "file": "Albert_I_Koning_der_Belgen.jpg"
   },
@@ -52,6 +60,14 @@
   },
   "aleksiej-ewert": {
     "file": "Alexey_Evert.jpeg"
+  },
+  "aleksiej-kaledin": {
+    "file": "Войсковой_Атаман_Области_Войска_Донского,_генерал_от_кавалерии_Каледин_Алексей_Максимович.PNG",
+    "frame": [
+      0.7,
+      0.52,
+      0.03
+    ]
   },
   "alexander-von-kluck": {
     "file": "Bildnis_Alexander_von_Kluck.png"
@@ -112,6 +128,12 @@
   },
   "august-von-mackensen": {
     "file": "August_von_Mackensen_fieldmarshal.jpg"
+  },
+  "austen-chamberlain": {
+    "file": "Sir (Joseph) Austen Chamberlain.jpg"
+  },
+  "bernardino-machado": {
+    "file": "Fotografia_oficial_do_Presidente_da_República_Bernardino_Machado.jpg"
   },
   "billy-hughes": {
     "file": "Billy_Hughes_1908.jpg"
@@ -227,6 +249,14 @@
   "feliks-dzierzynski": {
     "file": "Feliks_Dzierżyński.jpg"
   },
+  "felix-von-bothmer": {
+    "file": "Gen. Count V. Bothmer LCCN2014700403.jpg",
+    "frame": [
+      0.45,
+      0.51,
+      0.16
+    ]
+  },
   "ferdinand-foch": {
     "file": "Ferdinand_Foch_pre_1915.jpg"
   },
@@ -235,6 +265,14 @@
   },
   "ferdynand-i-rumunski": {
     "file": "King_Ferdinand_of_Romania.jpg"
+  },
+  "fernand-de-langle-de-cary": {
+    "file": "Gal Langle de Cary. - btv1b10050292k.jpg",
+    "frame": [
+      0.45,
+      0.45,
+      0.15
+    ]
   },
   "franciszek-jozef-i": {
     "file": "Franz_Joseph_I_of_Austria.1910_(cropped).jpg"
@@ -269,6 +307,14 @@
   "georg-von-hertling": {
     "file": "Georg_von_Hertling.jpeg"
   },
+  "george-curzon": {
+    "file": "George_Curzon2.jpg",
+    "frame": [
+      0.75,
+      0.48,
+      0.03
+    ]
+  },
   "georges-clemenceau": {
     "file": "Georges_Clemenceau_par_Nadar.jpg"
   },
@@ -280,6 +326,22 @@
   },
   "gieorgij-lwow": {
     "file": "Georgy_Lvov,_1918.jpg"
+  },
+  "giovanni-giolitti": {
+    "file": "Portrait_of_Giovanni_Giolitti,_1920.jpg",
+    "frame": [
+      0.45,
+      0.55,
+      0.18
+    ]
+  },
+  "gottlieb-von-jagow": {
+    "file": "Gottlieb_von_Jagow_circa_1915.jpg",
+    "frame": [
+      0.65,
+      0.56,
+      0
+    ]
   },
   "grigorij-rasputin": {
     "file": "Rasputin_PA.jpg"
@@ -325,6 +387,14 @@
   },
   "hubert-gough": {
     "file": "LtGenHubert_de_la_Poer_Gough.jpg"
+  },
+  "hugh-trenchard": {
+    "file": "Major General Hugh Trenchard.jpg",
+    "frame": [
+      0.55,
+      0.56,
+      0.04
+    ]
   },
   "husajn-ibn-ali": {
     "file": "Sharif_Husayn.jpg"
@@ -406,6 +476,14 @@
   },
   "jozef-dowbor-musnicki": {
     "file": "Józef Dowbor-Muśnicki.PNG"
+  },
+  "jozef-ferdynand": {
+    "file": "GdI EH Josef Ferdinand, Kommandant des 14. Korps 1914 C. Pietzner.jpg",
+    "frame": [
+      0.55,
+      0.5,
+      0
+    ]
   },
   "jozef-haller": {
     "file": "Jozef_Haller.jpg"
@@ -489,6 +567,9 @@
   },
   "leopold-bawarski": {
     "file": "Prinz_Leopold_von_Bayern.png"
+  },
+  "leopold-berchtold": {
+    "file": "Bundesarchiv_Bild_183-2004-1110-500,_Leopold_Graf_Berchtold_(cropped).jpg"
   },
   "lew-trocki": {
     "file": "Лев_Давидович_Троцкий.jpg"
@@ -651,6 +732,9 @@
   "paul-von-rennenkampf": {
     "file": "Paul_Rennenkampff.jpg"
   },
+  "pawel-plehwe": {
+    "file": "Pavel_Plehve.jpg"
+  },
   "pawiel-milukow": {
     "file": "Pavel_Milyukov.jpg"
   },
@@ -690,8 +774,22 @@
   "raymond-poincare": {
     "file": "Raymond_Poincaré_officiel_(cropped).jpg"
   },
+  "reginald-tyrwhitt": {
+    "file": "Adm. Sir R. Tyrwhitt LCCN2014716217.jpg"
+  },
   "reinhard-scheer": {
     "file": "Almirante_Reinhard_Scheer.jpg"
+  },
+  "remus-von-woyrsch": {
+    "file": "Remus_von_Woyrsch_1915.jpg",
+    "frame": [
+      0.6,
+      0.47,
+      0
+    ]
+  },
+  "rene-viviani": {
+    "file": "René_Viviani,_1912.jpg"
   },
   "robert-borden": {
     "file": "RobertLBorden.jpg"

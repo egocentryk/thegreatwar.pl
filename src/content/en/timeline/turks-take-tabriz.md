@@ -2,10 +2,10 @@
 title: Turks take Tabriz
 summary: On 8 January 1915 Kurdish and Turkish units entered Tabriz, abandoned by the Russians. The occupation of the capital of Persian Azerbaijan lasted three weeks.
 source: turcy-zajmuja-tebriz
-sourceHash: c62b83476a76faa015bb778be2d195e061e4c233
+sourceHash: f533a3f57ef1c6cd4f1a062e3dae595221ad7891
 ---
 
-On Friday 8 January 1915 Kurdish and Turkish units marched into [Tabriz](https://pl.wikipedia.org/wiki/Tebriz). Three days earlier the [Russian troops had left the city](/rosjanie-opuszczaja-tebriz); they had been occupying northern [Persia](https://pl.wikipedia.org/wiki/Iran) since 1909.
+On Friday 8 January 1915 Kurdish and Turkish units marched into [Tabriz](https://pl.wikipedia.org/wiki/Tebriz). Three days earlier the [Russian troops had left the city](/rosjanie-opuszczaja-tebriz); they had been occupying northern [Persia](/kraje/persja) since 1909.
 
 ## Who took the city
 

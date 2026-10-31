@@ -2,10 +2,10 @@
 title: Resignation of Jagow
 summary: On 22 November 1916 Gottlieb von Jagow left the head of German diplomacy, officially for his health, in reality over the dispute about submarine warfare.
 source: dymisja-jagowa
-sourceHash: a35c6a0d27296b5d4eeca05139666c5c313dcadf
+sourceHash: d87fdf13b4ab02f7d0592ec607378445f29a082b
 ---
 
-On 22 November 1916 Kaiser [Wilhelm II](/postacie/wilhelm-ii) accepted the resignation of [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), since January 1913 State Secretary of the German Foreign Office (Auswärtiges Amt), in practice the Reich's foreign minister. His successor was the Under-Secretary of State, Arthur Zimmermann. This date is given by most German studies and lists of officials. The British war chronology records Jagow's departure as early as 20 November. Officially Jagow was leaving because of poor health. Behind this version, however, lay defeat in a dispute that had divided the German authorities for months: whether to begin unrestricted submarine warfare and risk war with the United States.
+On 22 November 1916 Kaiser [Wilhelm II](/postacie/wilhelm-ii) accepted the resignation of [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), since January 1913 State Secretary of the German Foreign Office (Auswärtiges Amt), in practice the Reich's foreign minister. His successor was the Under-Secretary of State, Arthur Zimmermann. This date is given by most German studies and lists of officials. The British war chronology records Jagow's departure as early as 20 November. Officially Jagow was leaving because of poor health. Behind this version, however, lay defeat in a dispute that had divided the German authorities for months: whether to begin unrestricted submarine warfare and risk war with the United States.
 
 ## A reluctant diplomat
 

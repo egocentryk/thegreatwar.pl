@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Gunsborough near Listowel (County Kerry, Ireland)
 deathPlace: The sea off the west coast of Orkney
 source: horatio-kitchener
-sourceHash: 5aaac1ca28cd274c2baefe9fd1686fcf615d16ef
+sourceHash: 01425b88cf9e2cc180fc777f9d9ff676a3b60271
 ---
 
 Horatio Herbert Kitchener, 1st Earl Kitchener, known as Lord Kitchener, was in 1914 the most famous soldier of the British Empire. The conqueror of the Sudan and a commander in the Boer War, he took over the War Office in the first days of the war and was one of the few who claimed from the outset that the conflict would last for years. From a small professional army he built the mass volunteer New Armies, and his face on a recruiting poster became one of the symbols of the war. As a minister, however, he was a difficult colleague who could neither share power nor work with politicians, and the shell crisis and the defeat at the Dardanelles undermined his position. He died in June 1916, when the ship taking him to Russia struck a mine.
@@ -17,7 +17,7 @@ He was born on 24 June 1850 at Gunsborough near [Listowel](https://pl.wikipedia.
 
 In 1896–1898 he methodically retook the Sudan from the Mahdi's successors, building a railway as he went. On 2 September 1898 he routed their army [at Omdurman](https://pl.wikipedia.org/wiki/Bitwa_pod_Omdurmanem), and a few days later, during the [Fashoda incident](https://pl.wikipedia.org/wiki/Incydent_w_Faszodzie), he forced the French to withdraw from the Upper Nile. He was created Baron Kitchener of Khartoum. In the [Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska) he was chief of staff to Field Marshal [Frederick Roberts](https://pl.wikipedia.org/wiki/Frederick_Roberts), and from November 1900 commander-in-chief. In fighting the Boer guerrillas he burned farms and confined the civilian population in concentration camps, in which tens of thousands of women and children died. At the peace negotiations in 1902, however, he argued for milder terms than the governor, Alfred Milner.
 
-In 1902–1909 he was Commander-in-Chief in India and reorganised the army there. His dispute with the Viceroy, [George Curzon](https://pl.wikipedia.org/wiki/George_Curzon), over control of military affairs ended in 1905 with Curzon's resignation. In 1909 Kitchener became a field marshal. He did not get the post of Viceroy of India that he coveted, and from 1911 he was British Consul-General in Egypt, in reality its ruler. In June 1914 he was created an earl. He was a solitary man and never married. He surrounded himself with a group of young officers devoted to him, but got on badly with his equals.
+In 1902–1909 he was Commander-in-Chief in India and reorganised the army there. His dispute with the Viceroy, [George Curzon](/postacie/george-curzon), over control of military affairs ended in 1905 with Curzon's resignation. In 1909 Kitchener became a field marshal. He did not get the post of Viceroy of India that he coveted, and from 1911 he was British Consul-General in Egypt, in reality its ruler. In June 1914 he was created an earl. He was a solitary man and never married. He surrounded himself with a group of young officers devoted to him, but got on badly with his equals.
 
 ## Secretary of State for War
 

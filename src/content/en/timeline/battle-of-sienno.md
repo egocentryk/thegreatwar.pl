@@ -2,10 +2,10 @@
 title: Battle of Sienno
 summary: On 17 July 1915 Woyrsch's Silesian Landwehr broke the Russian front at Sienno on the west bank of the Vistula. The Russians fell back towards Ivangorod.
 source: bitwa-pod-siennem
-sourceHash: 8cfdbb5684a4956827387fbb78450b81ea134903
+sourceHash: 57b0394b97b7437cdeb823bed1b162b1da829bf3
 ---
 
-On 17 July 1915 the German troops of Colonel-General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch) broke through the Russian positions at [Sienno](https://pl.wikipedia.org/wiki/Sienno), between Iłża and Lipsko, on the west bank of the Vistula. The fight was decided within a single day: in the morning the Germans broke into the Russian lines, and by evening they had torn a gap in them about 10 kilometres wide. The breakthrough opened the way to the Vistula and the fortress of Ivangorod.
+On 17 July 1915 the German troops of Colonel-General [Remus von Woyrsch](/postacie/remus-von-woyrsch) broke through the Russian positions at [Sienno](https://pl.wikipedia.org/wiki/Sienno), between Iłża and Lipsko, on the west bank of the Vistula. The fight was decided within a single day: in the morning the Germans broke into the Russian lines, and by evening they had torn a gap in them about 10 kilometres wide. The breakthrough opened the way to the Vistula and the fortress of Ivangorod.
 
 Woyrsch's army group stood between the [Pilica](https://pl.wikipedia.org/wiki/Pilica) and the Vistula, on the left wing of the Central Powers' forces conducting the summer offensive in the Kingdom of Poland. On the other side of the Vistula the Austro-Hungarian Fourth Army had since the beginning of July been engaged in [heavy fighting at Kraśnik](/bitwy/druga-bitwa-pod-krasnikiem), and on 16 July Mackensen's whole army group launched its [great offensive on Lublin and Chełm](/bitwy/bitwa-pod-krasnymstawem). On 12 July the Austro-Hungarian high command ordered Woyrsch to attack at the same time, with a strong right wing, and to prevent the Russians from shifting troops to the other bank of the river. According to the Austrian official history he faced only two corps of the Russian [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Imperium_Rosyjskie)) of General [Alexei Evert](/postacie/aleksiej-ewert), the XVI and the Grenadier Corps, and the wing of the Second Army. Evert had earlier moved his remaining forces to the east bank, against the Austro-Hungarians.
 

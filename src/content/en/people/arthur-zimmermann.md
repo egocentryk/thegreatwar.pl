@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Marggrabowa, now Olecko (East Prussia, now Poland)
 deathPlace: Berlin
 source: arthur-zimmermann
-sourceHash: dbc4eae206b8b5035cfd9d1fb23a6d917d84267c
+sourceHash: 8eed1f639cd1a9a7b809e70940f8d3ec9486e7ed
 ---
 
 Arthur Zimmermann headed German diplomacy for less than nine months, from November 1916 to August 1917, but his name is known to anyone who has read about America's entry into the war. In January 1917 he signed a telegram proposing to Mexico an alliance against the United States and the recovery of Texas, New Mexico and Arizona. British intelligence intercepted and decoded it, and when the Americans published it, Zimmermann himself confirmed that it was genuine. Earlier, as Under-Secretary of State, he had for years been the real driving force of the Foreign Office: in July 1914 he assured the Austrians of German support, and during the war he backed plans to stir up revolts and revolutions behind the enemy's lines, from Ireland to Russia. He was the first man in the history of the Reich without noble origins to head its diplomacy.
@@ -15,7 +15,7 @@ Arthur Zimmermann headed German diplomacy for less than nine months, from Novemb
 
 He was born on 5 October 1864 in Marggrabowa, today's [Olecko](https://pl.wikipedia.org/wiki/Olecko) in Masuria, into a well-off middle-class family. He attended gymnasia in Lyck and Königsberg and studied law in Königsberg and Leipzig. After his legal training and a doctorate in law he entered the foreign service in 1893, not in diplomacy, which was staffed by the aristocracy, but in the less prestigious consular service. He spent several years in China as vice-consul and consul in Shanghai, Canton and Tientsin, where he was caught by the [Boxer Rebellion](https://pl.wikipedia.org/wiki/Powstanie_bokserów). In 1902 he moved to headquarters in Berlin. He travelled back by way of the United States, and according to some biographers he later liked to cite this journey as proof that he knew America.
 
-In Berlin he was promoted quickly. In 1910 he became a director in the political department, and in 1911 Under-Secretary of State, that is deputy head of the office. From January 1913 his superior was [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), a slight, sickly aristocrat who shunned parliament and disliked representative duties. Many conversations with foreign diplomats and Reichstag deputies were therefore conducted by Zimmermann. He was easy-going, talkative and well liked, but also hot-tempered and prone to hasty judgements.
+In Berlin he was promoted quickly. In 1910 he became a director in the political department, and in 1911 Under-Secretary of State, that is deputy head of the office. From January 1913 his superior was [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), a slight, sickly aristocrat who shunned parliament and disliked representative duties. Many conversations with foreign diplomats and Reichstag deputies were therefore conducted by Zimmermann. He was easy-going, talkative and well liked, but also hot-tempered and prone to hasty judgements.
 
 ## July 1914
 

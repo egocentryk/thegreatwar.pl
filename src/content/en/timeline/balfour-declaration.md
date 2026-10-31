@@ -2,7 +2,7 @@
 title: Balfour Declaration
 summary: On 2 November 1917 Arthur Balfour assured Lord Rothschild that Britain supported the establishment in Palestine of a national home for the Jewish people.
 source: deklaracja-balfoura
-sourceHash: 0d3099be6569ec6830f3dfa47790a8987130560a
+sourceHash: 884760263b8e1abb2035c124e98ed2d9d4380260
 brief:
   - "On 2 November 1917 the British Foreign Secretary Arthur Balfour assured Lord Rothschild in a letter that the government viewed with favour the establishment in Palestine of a national home for the Jewish people."
   - "It was the first public support for Zionism from a great power. Chaim Weizmann and Nahum Sokolow had campaigned for it, and Lloyd George's government was thinking of partitioning the Ottoman lands."
@@ -27,7 +27,7 @@ The breakthrough came with the change of government in December 1916. [David Llo
 
 ## Disputes in the Cabinet
 
-The draft came before the War Cabinet in the autumn. The fiercest opponent was the Secretary of State for India, Edwin Montagu, the only Jew in the government. In a memorandum of late August he called the government's policy anti-Semitic in its effects: in his view the declaration would brand Jews in their home countries as foreigners and undermine their position as citizens. [Lord Curzon](https://pl.wikipedia.org/wiki/George_Curzon) also had doubts; in a memorandum of 26 October he asked what the notion of a "national home" contained and what would become of the country's Arab inhabitants.
+The draft came before the War Cabinet in the autumn. The fiercest opponent was the Secretary of State for India, Edwin Montagu, the only Jew in the government. In a memorandum of late August he called the government's policy anti-Semitic in its effects: in his view the declaration would brand Jews in their home countries as foreigners and undermine their position as citizens. [Lord Curzon](/postacie/george-curzon) also had doubts; in a memorandum of 26 October he asked what the notion of a "national home" contained and what would become of the country's Arab inhabitants.
 
 These objections changed the text. At the end of August [Lord Milner](/postacie/alfred-milner) replaced "Palestine" as the national home with the words "in Palestine", and at the beginning of October he and [Leo Amery](https://pl.wikipedia.org/wiki/Leo_Amery) added two provisos: on the rights of the non-Jewish communities in Palestine and on the position of Jews in other countries. The notion of a "national home" had no precedent in international law and deliberately left open whether a Jewish state was meant. Nor were the borders of Palestine defined.
 

@@ -2,7 +2,7 @@
 title: Polish Army becomes an allied army
 summary: On 28 September 1918 France and the Polish National Committee agreed to recognise the Polish Army as autonomous, allied and co-belligerent with the Entente.
 source: armia-polska-sprzymierzona
-sourceHash: 97702478b58866d18e28cb4d9071a0aca7f269a9
+sourceHash: b00ba88bbaed16e8931c742020536b12166612c6
 ---
 
 On 28 September 1918 the French government and the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego) concluded an agreement in Paris that changed the position of the Polish troops fighting on the side of the Entente. The [Polish Army in France](/tematy/polskie-formacje-wojskowe) ceased to be a formation of volunteers under French administration. From then on it was to be a single, autonomous Polish army, allied with the Entente powers and co-belligerent with them against the Central Powers, under a single Polish command and under the supreme political authority of the Committee. Polish editions of the documents give the French formula: *armée autonome, alliée et belligérante sous un commandement polonais unique*. The Polish state did not yet exist, but its army took its place in the ranks of the coalition as an ally, and not merely as a collection of volunteers in someone else's army.
@@ -19,7 +19,7 @@ On 7 August 1918 the Committee proposed to the French government that France and
 
 The Polish National Committee was recognised as the supreme political authority of the Polish Army. All Polish formations fighting on the Allied side, wherever they stood, whether in France, Italy or Russia, were to form one army under a unified Polish command. Its commander-in-chief was to be appointed by the Committee in agreement with the French government. At the front the army, like all Allied troops in France, was subordinate to the French and Allied high command. The Franco-Polish Military Mission, which had until then raised and run the army, was henceforth to act as an intermediary between the French authorities and the Polish command and to deal with supplies.
 
-The most important thing was the change of status. In the language of diplomacy an "allied and co-belligerent" army is the armed force of a state taking part in the war as a member of a coalition. Polish historians stress that by recognising the army the Allies indirectly recognised as a member of the victorious coalition a Poland that did not yet formally exist. For Dmowski this was an argument that Poland had the right to sit at the negotiating table as one of the victors, and not as the object of other people's arrangements. A few months later Polish delegates took part in the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) as representatives of an allied state.
+The most important thing was the change of status. In the language of diplomacy an "allied and co-belligerent" army is the armed force of a state taking part in the war as a member of a coalition. Polish historians stress that by recognising the army the Allies indirectly recognised as a member of the victorious coalition a Poland that did not yet formally exist. For Dmowski this was an argument that Poland had the right to sit at the negotiating table as one of the victors, and not as the object of other people's arrangements. A few months later Polish delegates took part in the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa) as representatives of an allied state.
 
 ## The army in the autumn of 1918
 

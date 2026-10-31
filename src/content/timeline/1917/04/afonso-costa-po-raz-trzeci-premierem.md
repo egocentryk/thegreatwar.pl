@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-25 kwietnia 1917 roku prezydent [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) powołał nowy rząd [Portugalii](/kraje/portugalia). Na jego czele po raz trzeci stanął [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), przywódca [Partii Demokratycznej](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). Tak jak w poprzednich swoich gabinetach, zatrzymał dla siebie ministerstwo finansów, którym kierował także w ustępującym rządzie. Tego samego dnia odszedł gabinet [Antónia José de Almeidy](/antonio-jose-de-almeida-premierem-portugalii), tak zwany rząd „Świętej Unii”, który rządził od marca 1916 roku, przez ponad 13 miesięcy. Jak na niestabilną Pierwszą Republikę był to bardzo długi okres.
+25 kwietnia 1917 roku prezydent [Bernardino Machado](/postacie/bernardino-machado) powołał nowy rząd [Portugalii](/kraje/portugalia). Na jego czele po raz trzeci stanął [Afonso Costa](/postacie/afonso-costa), przywódca [Partii Demokratycznej](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). Tak jak w poprzednich swoich gabinetach, zatrzymał dla siebie ministerstwo finansów, którym kierował także w ustępującym rządzie. Tego samego dnia odszedł gabinet [Antónia José de Almeidy](/antonio-jose-de-almeida-premierem-portugalii), tak zwany rząd „Świętej Unii”, który rządził od marca 1916 roku, przez ponad 13 miesięcy. Jak na niestabilną Pierwszą Republikę był to bardzo długi okres.
 
 ## Koniec „Świętej Unii”
 

@@ -2,7 +2,7 @@
 title: Collapse of the Kornilov affair
 summary: On 13 September 1917 General Krymov shot himself in Petrograd; next day General Alekseyev arrested Kornilov in Mogilev. The revolt collapsed without a fight.
 source: upadek-puczu-kornilowa
-sourceHash: 59733d99287e9174d22d895178b1fcf724f2f203
+sourceHash: d731ed6481f69d4422eb9b32392befb31627b83b
 ---
 
 On 14 September 1917 (1 September in the Julian calendar), in [Mogilev](/miejsca/mohylew), General [Mikhail Alekseyev](/postacie/michail-aleksiejew), the new chief of staff to the commander-in-chief, formally arrested General [Lavr Kornilov](/postacie/lawr-kornilow) and his closest associates. The day before, in Petrograd, General Aleksandr Krymov, commander of the troops sent against the capital, had shot himself. The revolt that [a week earlier](/pucz-kornilowa) had shaken Russia ended without a single shot being fired. The British chronology of the war records the collapse of the revolt under 13 September and Kornilov's surrender under 14 September.
@@ -13,7 +13,7 @@ From the start Krymov's expedition was badly prepared. The cavalry trains were s
 
 The Savage Division was stranded at Vyritsa station, where the tracks had been torn up. On 11 September a Muslim delegation organised by the soviets arrived there, including a grandson of Imam Shamil, the hero of the Caucasian highlanders. Its speeches in the languages of the Caucasus quickly undermined the horsemen's trust in their officers. On 12 September the division's commander, Prince Dmitry Bagration, ordered all action against government troops to cease, and on 13 September a delegation in Caucasian dress assured the government in Petrograd of its loyalty. It was the same with the Cossacks of the 3rd Cavalry Corps, stationed in the area of [Luga](https://pl.wikipedia.org/wiki/Ługa). Power in the regiments was taken over by soldiers' committees, which hastened to give assurances of obedience to the Provisional Government.
 
-The only ones who did not fail were those on whom Kornilov had not been counting. The conspirators from the Petrograd officers' organisations, who were to have provoked disturbances in the capital, vanished, some of them, as Chamberlin wrote, together with the funds. The ataman of the Don Cossacks, [Aleksey Kaledin](https://pl.wikipedia.org/wiki/Aleksiej_Kaledin), on whose support the general had been counting, had to flee arrest by a roundabout route to Novocherkassk. The commander of the South-Western Front, General [Anton Denikin](/postacie/anton-denikin), and his chief of staff, General Sergei Markov, were imprisoned by the front committee on 11 September in [Berdichev](https://pl.wikipedia.org/wiki/Berdyczów).
+The only ones who did not fail were those on whom Kornilov had not been counting. The conspirators from the Petrograd officers' organisations, who were to have provoked disturbances in the capital, vanished, some of them, as Chamberlin wrote, together with the funds. The ataman of the Don Cossacks, [Aleksey Kaledin](/postacie/aleksiej-kaledin), on whose support the general had been counting, had to flee arrest by a roundabout route to Novocherkassk. The commander of the South-Western Front, General [Anton Denikin](/postacie/anton-denikin), and his chief of staff, General Sergei Markov, were imprisoned by the front committee on 11 September in [Berdichev](https://pl.wikipedia.org/wiki/Berdyczów).
 
 ## Krymov's death
 

@@ -11,7 +11,7 @@ sides:
     commanders: [Remus von Woyrsch]
 result: Russian victory. The Austro-Hungarian First Army had to withdraw, and soon afterwards the whole Austro-Hungarian front fell back behind the San.
 source: bitwa-pod-tarnawka
-sourceHash: 5ac92e06297f69cedd031da73fd729fc3306362c
+sourceHash: 886fbb87ec5a1d00e73257f72c9368b68ecd152d
 ---
 
 The Battle of Tarnawka was fought in September 1914 in the Lublin region, on the hilly fields around the villages of Tarnawka, Giełczew and Zakrzew, a dozen or so kilometres south of [Lublin](https://pl.wikipedia.org/wiki/Lublin). Here Russian troops broke the defence of the Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl) and of the German corps supporting it. It was part of the great [Battle of Galicia](/bitwy/bitwa-galicyjska), although the fighting took place not in Galicia but in the Kingdom of Poland.
@@ -26,7 +26,7 @@ On 23–25 August Dankl's army defeated the Russian Fourth Army in the [Battle o
 
 The Russians, on the contrary, were strengthening their northern wing. The new commander of the Fourth Army, General [Aleksei Evert](/postacie/aleksiej-ewert), received fresh corps, including the [Guards](https://pl.wikipedia.org/wiki/Gwardia_Imperium_Rosyjskiego) Corps, made up of elite regiments stationed in peacetime in St Petersburg, and the Grenadier Corps. On the Vistula the new Ninth Army of General Platon Lechitsky was deploying. On 3 September the command of the Russian South-Western Front ordered a general advance towards the lower San.
 
-Dankl's only help was the German [Landwehr](https://pl.wikipedia.org/wiki/Landwehra) Corps of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch). Made up of older reservists, it had marched from the frontier across the western part of the Kingdom, crossed the Vistula at Józefów on 3 September and was temporarily placed under the Austro-Hungarian First Army.
+Dankl's only help was the German [Landwehr](https://pl.wikipedia.org/wiki/Landwehra) Corps of General [Remus von Woyrsch](/postacie/remus-von-woyrsch). Made up of older reservists, it had marched from the frontier across the western part of the Kingdom, crossed the Vistula at Józefów on 3 September and was temporarily placed under the Austro-Hungarian First Army.
 
 ## Course of the battle
 

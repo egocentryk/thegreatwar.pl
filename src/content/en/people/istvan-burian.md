@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Stomfa, now Stupava (Hungary, now Slovakia)
 deathPlace: Vienna
 source: istvan-burian
-sourceHash: 5995bee4b0f8626637aae24d9a52084360f9c401
+sourceHash: 7385e833360ab417d68664124d19ddb538ceeb26
 ---
 
 Baron István Burián, in German Stephan Burián von Rajecz, directed the diplomacy of the Habsburg monarchy twice: from January 1915 to December 1916 and from April to October 1918. He was a professional diplomat of the old school, an expert on the Balkans and the closest confidant of the Hungarian Prime Minister [István Tisza](/postacie/istvan-tisza). In his first term he failed to stop Italy and Romania from joining the Entente, but he won Bulgaria over to the Central Powers and pressed for the union of the Kingdom of Poland with the monarchy. In his second, as Austria-Hungary was already falling apart, he tried in vain to bring about peace. Contemporaries and historians reproached him for pedantry and inflexibility, though no one questioned his integrity or his knowledge of his craft.
@@ -17,7 +17,7 @@ He was born on 16 January 1851 in Stomfa, in German Stampfen, today [Stupava](ht
 
 In 1903 he became the monarchy's joint Minister of Finance. This office financed the common affairs of Austria and Hungary, but above all it administered Bosnia and Herzegovina, occupied since 1878. Burián ran it during the [Bosnian crisis](/austro-wegry-oglaszaja-aneksje-bosni-i-hercegowiny), when in 1908 the monarchy annexed the province. He tried to govern gently and to win over the local elites, and he gave [Bosnia and Herzegovina](https://pl.wikipedia.org/wiki/Kondominium_Bośni_i_Hercegowiny) a provincial diet, but his reforms were criticised in Vienna as going too far, and they did not pacify the country anyway. In 1912 he left office.
 
-In June 1913 he joined Tisza's government as minister to the King's person, that is, the representative of the Hungarian government at the court in Vienna. After the assassination in Sarajevo in July 1914 he mediated between the Foreign Minister [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold), who was pushing for war with Serbia, and Tisza, who at first opposed it. In the end Tisza gave way, and from then on Burián was his chief adviser on foreign affairs.
+In June 1913 he joined Tisza's government as minister to the King's person, that is, the representative of the Hungarian government at the court in Vienna. After the assassination in Sarajevo in July 1914 he mediated between the Foreign Minister [Leopold Berchtold](/postacie/leopold-berchtold), who was pushing for war with Serbia, and Tisza, who at first opposed it. In the end Tisza gave way, and from then on Burián was his chief adviser on foreign affairs.
 
 ## Foreign Minister: Italy
 

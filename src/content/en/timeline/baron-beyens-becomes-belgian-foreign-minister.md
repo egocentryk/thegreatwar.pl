@@ -2,7 +2,7 @@
 title: Baron Beyens becomes Belgian foreign minister
 summary: On 18 January 1916 Baron Eugène Beyens, pre-war envoy in Berlin, became Belgium's foreign minister, having stood in for the ailing Davignon since summer.
 source: baron-beyens-ministrem-spraw-zagranicznych-belgii
-sourceHash: 0869b63f12c1985b4402d93af0968c2a2880b2bd
+sourceHash: a4d6204af753c50572856e24e1d26d10c5baeda2
 ---
 
 On 18 January 1916 a decree of King [Albert I](/postacie/albert-i) entrusted Baron Eugène Beyens with the office of Belgian minister of foreign affairs. Beyens replaced Julien Davignon, who had directed Belgian diplomacy since 1907 and who in August 1914 had received the [ultimatum to Belgium](/niemcy-stawiaja-belgii-ultimatum) from the hands of the German envoy. Since the summer of 1915 Davignon had been seriously ill, and Beyens had in fact already been running his ministry. The appointment thus merely confirmed a situation that had existed for months. The Belgian government was then in exile, at [Sainte-Adresse near Le Havre](/rzad-belgijski-w-hawrze).
@@ -11,7 +11,7 @@ On 18 January 1916 a decree of King [Albert I](/postacie/albert-i) entrusted Bar
 
 Beyens was born in 1855 in Paris, the son of Belgium's long-serving envoy to France. His godfather was reportedly Emperor Napoleon III himself. He served at Belgian missions in Paris, Tehran and Bucharest, and then headed King Albert's household. In 1912 he took over the legation in Berlin, the most difficult post in Belgian diplomacy. According to his biographers, it was he who, with the king's consent, passed on to the French ambassador [Jules Cambon](https://pl.wikipedia.org/wiki/Jules_Cambon) the warning that Albert had heard at Potsdam in November 1913: [Wilhelm II](/postacie/wilhelm-ii) and the chief of the German general staff considered war with France inevitable and imminent.
 
-On 4 August 1914 Beyens protested in Berlin against the German entry into Belgium. The Secretary of State, [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), then admitted that Belgium could not be reproached with anything, but said that a rapid passage through its territory was a matter of life and death for Germany. That same day Belgium [broke off relations with Germany](/belgia-zrywa-stosunki-dyplomatyczne-z-niemcami), and the envoy received his passports and the next day was escorted to the Dutch border.
+On 4 August 1914 Beyens protested in Berlin against the German entry into Belgium. The Secretary of State, [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), then admitted that Belgium could not be reproached with anything, but said that a rapid passage through its territory was a matter of life and death for Germany. That same day Belgium [broke off relations with Germany](/belgia-zrywa-stosunki-dyplomatyczne-z-niemcami), and the envoy received his passports and the next day was escorted to the Dutch border.
 
 ## Deputy for an ailing minister
 

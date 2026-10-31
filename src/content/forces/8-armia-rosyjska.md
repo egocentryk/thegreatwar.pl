@@ -10,7 +10,7 @@ brief:
   - "W lipcu 1917 roku Ławr Korniłow poprowadził ją na Halicz i Kałusz; po przejściu na front rumuński armię rozwiązano na początku 1918 roku."
 kind: armia
 country: rosja
-people: [aleksiej-brusilow, lawr-kornilow, anton-denikin, radko-dimitriew, nikolaj-iwanow]
+people: [aleksiej-brusilow, aleksiej-kaledin, lawr-kornilow, anton-denikin, radko-dimitriew, nikolaj-iwanow]
 wikiTitles: ["8_Armia_(Imperium_Rosyjskie)"]
 updated: 2026-10-31
 authors: [Łukasz Skowroń]

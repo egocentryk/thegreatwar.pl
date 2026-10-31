@@ -2,10 +2,10 @@
 title: Resignation of Farmanfarma
 summary: At the turn of February and March 1916 the government of Prince Farmanfarma, Britain's closest friend in Tehran, fell. It had lasted just over two months.
 source: dymisja-farmanfarmy
-sourceHash: 9f6519294f1089e02b4214a9aa910e20594a0b17
+sourceHash: 2c8cfee556c5162c96a94518dd61a8fb8788a712
 ---
 
-A British chronology of the war records under 5 March 1916 that the prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran), Prince Abdol-Hossein Mirza Farmanfarma, resigned. He had headed the government [since the end of December 1915](/farmanfarma-premierem-persji). The exact day is hard to establish. Persian lists of governments end his term on 10 Esfand 1294 in the Iranian calendar, that is 29 February 1916. Reuters' correspondent in Tehran reported the resignation in a dispatch dated 7 March, and the London weekly *The Near East* carried the news on 10 March. All the sources thus place the fall of the government at the turn of February and March.
+A British chronology of the war records under 5 March 1916 that the prime minister of [Persia](/kraje/persja), Prince Abdol-Hossein Mirza Farmanfarma, resigned. He had headed the government [since the end of December 1915](/farmanfarma-premierem-persji). The exact day is hard to establish. Persian lists of governments end his term on 10 Esfand 1294 in the Iranian calendar, that is 29 February 1916. Reuters' correspondent in Tehran reported the resignation in a dispatch dated 7 March, and the London weekly *The Near East* carried the news on 10 March. All the sources thus place the fall of the government at the turn of February and March.
 
 ## Ten weeks
 

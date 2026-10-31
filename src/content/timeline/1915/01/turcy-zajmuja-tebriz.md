@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W piątek 8 stycznia 1915 roku do [Tebrizu](https://pl.wikipedia.org/wiki/Tebriz) wkroczyły kurdyjskie i tureckie oddziały. Trzy dni wcześniej [miasto opuściły wojska rosyjskie](/rosjanie-opuszczaja-tebriz), które od 1909 roku okupowały północną [Persję](https://pl.wikipedia.org/wiki/Iran).
+W piątek 8 stycznia 1915 roku do [Tebrizu](https://pl.wikipedia.org/wiki/Tebriz) wkroczyły kurdyjskie i tureckie oddziały. Trzy dni wcześniej [miasto opuściły wojska rosyjskie](/rosjanie-opuszczaja-tebriz), które od 1909 roku okupowały północną [Persję](/kraje/persja).
 
 ## Kto zajął miasto
 

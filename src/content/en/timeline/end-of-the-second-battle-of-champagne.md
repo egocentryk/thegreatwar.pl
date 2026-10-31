@@ -2,7 +2,7 @@
 title: End of the Second Battle of Champagne
 summary: On 6 November 1915 the last fighting of the Second Battle of Champagne died down. German counter-attacks retook the Butte de Tahure and Hill 199 near Massiges.
 source: koniec-drugiej-bitwy-w-szampanii
-sourceHash: 59ef80e678573539cbbab3c94b8afb9c4744d21a
+sourceHash: b11cdfae2f1387f11b49242c5846111deda9e0e2
 ---
 
 On 6 November 1915 the last fighting of the great autumn battle in [Champagne](https://pl.wikipedia.org/wiki/Szampania), which had begun [on 25 September](/poczatek-drugiej-bitwy-w-szampanii), died down. This date for its end is given by the British chronology of the war and also by German studies, which speak of the autumn battle in Champagne. The date is conventional. General [Joseph Joffre](/postacie/joseph-joffre) had broken off the offensive proper at the beginning of October, when ammunition ran short, and in the middle of the month he ordered larger operations to be halted both here and [in Artois](/koniec-trzeciej-bitwy-w-artois). The last weeks of the battle belonged to the Germans, who with counter-attacks took back part of the ground the French had won.
@@ -19,6 +19,6 @@ After 6 November the communiqués from Champagne spoke only of heavy artillery f
 
 ## Balance
 
-The French advanced 3–4 kilometres in Champagne and took more than 20,000 prisoners, but they did not break through the German second position, and the last German counter-attacks took back part of their gains. French losses are estimated at 140,000–180,000 killed, wounded and missing, and German losses at 72,000–85,000, depending on the source and the period covered. The offensive contributed to a political crisis in France: at the end of October [the Viviani government fell](/dymisja-rzadu-vivianiego), and [Aristide Briand](/aristide-briand-premierem-francji) became the new prime minister. General Joffre kept his post, but in December command of the Fourth Army passed from General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) to General Henri Gouraud.
+The French advanced 3–4 kilometres in Champagne and took more than 20,000 prisoners, but they did not break through the German second position, and the last German counter-attacks took back part of their gains. French losses are estimated at 140,000–180,000 killed, wounded and missing, and German losses at 72,000–85,000, depending on the source and the period covered. The offensive contributed to a political crisis in France: at the end of October [the Viviani government fell](/dymisja-rzadu-vivianiego), and [Aristide Briand](/aristide-briand-premierem-francji) became the new prime minister. General Joffre kept his post, but in December command of the Fourth Army passed from General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary) to General Henri Gouraud.
 
 The front in Champagne stabilised for a long time. For the Germans the experience of this battle confirmed the value of defence in depth, with a second position hidden on the reverse slopes. Joffre and the British, meanwhile, began planning an even larger joint offensive for 1916, but before it came about, in February 1916, the Germans attacked at [Verdun](https://pl.wikipedia.org/wiki/Bitwa_pod_Verdun).

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 20 lutego 1915 roku zmianę na stanowisku ministra spraw zagranicznych [Persji](https://pl.wikipedia.org/wiki/Iran). Ala os-Saltane, który kierował perską dyplomacją od sierpnia 1914 roku, ustąpił, a jego miejsce zajął Moawen od-Dole. Część zestawień podaje jako ostatni dzień urzędowania Ala os-Saltane 21 lutego.
+Brytyjska chronologia wojny odnotowuje pod 20 lutego 1915 roku zmianę na stanowisku ministra spraw zagranicznych [Persji](/kraje/persja). Ala os-Saltane, który kierował perską dyplomacją od sierpnia 1914 roku, ustąpił, a jego miejsce zajął Moawen od-Dole. Część zestawień podaje jako ostatni dzień urzędowania Ala os-Saltane 21 lutego.
 
 ## Doświadczony urzędnik
 

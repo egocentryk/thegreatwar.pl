@@ -2,7 +2,7 @@
 title: Panama declares war on Austria-Hungary
 summary: On 10 December 1917 Panama's National Assembly unanimously declared a state of war with Austria-Hungary, three days after the US Congress did so.
 source: panama-wypowiada-wojne-austro-wegrom
-sourceHash: d4f9f2cc73d011c67803ffbf9f11f5e737b187b4
+sourceHash: 2cce00cb8069d06352a53a37ef7675ddca9459d6
 brief:
   - "On 10 December 1917 the National Assembly of Panama unanimously declared a state of war with Austria-Hungary, only three days after the United States had done so."
   - "The American minister William Jennings Price unofficially suggested the step, because the Assembly was ending its session and only it could declare war. Lansing later asked why he had acted without instructions."
@@ -37,4 +37,4 @@ Panama could give no more. It had no army, which had been disbanded in 1904, and
 
 The declaration of war on Austria-Hungary was above all symbolic. The year 1917 brought several such declarations: in July [Siam](https://pl.wikipedia.org/wiki/Tajlandia) declared war on Austria-Hungary, in August China, and six days after Panama [Cuba](https://pl.wikipedia.org/wiki/Kuba) did so. In Latin America only [Nicaragua](https://pl.wikipedia.org/wiki/Nikaragua) later joined this group, in May 1918. Panama, like the United States, did not declare war on the [Ottoman Empire](/kraje/imperium-osmanskie) or [Bulgaria](/kraje/bulgaria).
 
-President Valdés did not live to see the end of the war; he died in office on 3 June 1918. Belligerent status nevertheless gave Panama a place at the victors' table. At the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) it was represented by its minister in Spain, Antonio Burgos. Panama signed the [Treaty of Versailles](/slownik/traktat-wersalski) with Germany and, in September 1919, the [Treaty of Saint-Germain-en-Laye](https://pl.wikipedia.org/wiki/Traktat_w_Saint-Germain-en-Laye_(1919)) with Austria, which formally ended the war declared on 10 December 1917. It also became one of the founding members of the [League of Nations](/slownik/liga-narodow).
+President Valdés did not live to see the end of the war; he died in office on 3 June 1918. Belligerent status nevertheless gave Panama a place at the victors' table. At the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa) it was represented by its minister in Spain, Antonio Burgos. Panama signed the [Treaty of Versailles](/slownik/traktat-wersalski) with Germany and, in September 1919, the [Treaty of Saint-Germain-en-Laye](https://pl.wikipedia.org/wiki/Traktat_w_Saint-Germain-en-Laye_(1919)) with Austria, which formally ended the war declared on 10 December 1917. It also became one of the founding members of the [League of Nations](/slownik/liga-narodow).

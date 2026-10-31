@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 marca 1915 roku w [Persji](https://pl.wikipedia.org/wiki/Iran) zmienił się rząd. Premier Mostowfi ol-Mamalek podał się do dymisji. Jego następcą został Hasan Pirnia, znany pod tytułem Moszir od-Dole. Zaledwie trzy tygodnie wcześniej, w lutym, [zmienił się minister spraw zagranicznych](/nowy-minister-spraw-zagranicznych-persji). Teraz upadł cały rząd.
+14 marca 1915 roku w [Persji](/kraje/persja) zmienił się rząd. Premier Mostowfi ol-Mamalek podał się do dymisji. Jego następcą został Hasan Pirnia, znany pod tytułem Moszir od-Dole. Zaledwie trzy tygodnie wcześniej, w lutym, [zmienił się minister spraw zagranicznych](/nowy-minister-spraw-zagranicznych-persji). Teraz upadł cały rząd.
 
 ## Upadek Mostowfiego
 

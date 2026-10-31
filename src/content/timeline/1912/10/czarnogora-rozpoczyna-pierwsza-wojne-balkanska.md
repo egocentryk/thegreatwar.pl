@@ -28,7 +28,7 @@ Czarnogórski król [Mikołaj I](/postacie/mikolaj-i-petrowic-niegosz) nie potrz
 
 ## Sygnał do wojny
 
-Latem 1912 roku powstanie w Albanii obaliło rząd w Konstantynopolu i zmusiło młodoturków do ustępstw wobec Albańczyków. Państwa bałkańskie uznały to za dowód słabości Turcji, a zarazem za groźbę dla chrześcijan w Macedonii. Oburzenie wywołały też masakry w Koczani i Beranach. Propozycja austro-węgierskiego ministra spraw zagranicznych [Leopolda Berchtolda](https://pl.wikipedia.org/wiki/Leopold_Berchtold), by skłonić Turcję do decentralizacji, niczego nie zmieniła. Sojusznicy podpisali konwencje wojskowe, a pod koniec września ogłosili mobilizację.
+Latem 1912 roku powstanie w Albanii obaliło rząd w Konstantynopolu i zmusiło młodoturków do ustępstw wobec Albańczyków. Państwa bałkańskie uznały to za dowód słabości Turcji, a zarazem za groźbę dla chrześcijan w Macedonii. Oburzenie wywołały też masakry w Koczani i Beranach. Propozycja austro-węgierskiego ministra spraw zagranicznych [Leopolda Berchtolda](/postacie/leopold-berchtold), by skłonić Turcję do decentralizacji, niczego nie zmieniła. Sojusznicy podpisali konwencje wojskowe, a pod koniec września ogłosili mobilizację.
 
 8 października, w ostatniej chwili, Rosja i Austro-Węgry w imieniu mocarstw ogłosiły, że te same przeprowadzą reformy w europejskiej Turcji, a jeśli dojdzie do wojny, nie dopuszczą do żadnej zmiany terytorialnego status quo, jakkolwiek by się skończyła. Tego samego dnia Czarnogóra wypowiedziała wojnę. Jej armia ruszyła na Szkodrę i w głąb Sandżaku Nowopazarskiego.
 

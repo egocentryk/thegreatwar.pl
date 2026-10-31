@@ -2,10 +2,10 @@
 title: Netherlands warns against misuse of its flag
 summary: On 12 March 1915 the Netherlands announced that foreign ships passing themselves off as Dutch in its ports and waters, e.g. under its flag, would be held there.
 source: holandia-ostrzega-przed-naduzywaniem-swojej-bandery
-sourceHash: 051a4ca7b41d18d0f4f593d052542b4920ad0214
+sourceHash: 557f9e8bd645c35a9fc8542bda6bc8792e44499f
 ---
 
-On 12 March 1915 the Dutch Ministry of Marine published a warning to foreign shipowners in the official "Staatscourant". Foreign merchant ships in waters under the jurisdiction of the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) that passed themselves off as Dutch ships were to be detained. The authorities announced that they would prevent them from leaving Dutch ports and from navigating Dutch waters.
+On 12 March 1915 the Dutch Ministry of Marine published a warning to foreign shipowners in the official "Staatscourant". Foreign merchant ships in waters under the jurisdiction of the [Netherlands](/kraje/holandia) that passed themselves off as Dutch ships were to be detained. The authorities announced that they would prevent them from leaving Dutch ports and from navigating Dutch waters.
 
 ## False colours
 

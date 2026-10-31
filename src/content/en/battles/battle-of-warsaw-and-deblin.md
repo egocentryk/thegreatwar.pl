@@ -11,7 +11,7 @@ sides:
     commanders: [Grand Duke Nicholas Nikolaevich, Nikolai Ivanov, Nikolai Ruzsky]
 result: Russian victory. The Germans failed to take Warsaw and the Austrians the crossings at Dęblin. The Central Powers' armies withdrew towards the Silesian border and Kraków.
 source: bitwa-pod-warszawa-i-deblinem
-sourceHash: b2c8e64301ef0eb34f0f75dfc4aa1effb5f3ddf7
+sourceHash: fd6366803b35643b75f3dabb7cda81244d414417
 brief:
   - "The Battle of Warsaw and Dęblin, fought from 28 September to 8 November 1914, was one of the largest operations of 1914 on the Eastern Front and the first great battle in the heart of the Kingdom of Poland."
   - "After Austria-Hungary's defeat in Galicia the Germans formed Hindenburg's 9th Army, which with Dankl's Austro-Hungarian 1st Army struck through the Kingdom of Poland to draw the Russians away from Galicia."
@@ -40,7 +40,7 @@ The Russian high command, headed by [Grand Duke Nicholas Nikolaevich](/postacie/
 
 According to various estimates, from about 300,000 to over 320,000 soldiers fought on the side of the Central Powers. The German 9th Army comprised several corps, including the XVII Corps of General [August von Mackensen](/postacie/august-von-mackensen), the XX Corps, the XI Corps and the Guards Reserve Corps, as well as a Landwehr corps and cavalry divisions. Dankl's Austro-Hungarian 1st Army was of similar size. Within it fought the 1st Regiment of the [Polish Legions](/tematy/polskie-formacje-wojskowe) under the command of [Józef Piłsudski](/postacie/jozef-pilsudski).
 
-The Russians fielded, according to various sources, about 470,000–490,000 soldiers. At Warsaw stood the [2nd Army](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)) of General [Sergei Scheidemann](https://pl.wikipedia.org/wiki/Siergiej_Scheidemann) and the 5th Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe), supported by the garrison of the Warsaw fortified area. The stretch of the Vistula at Ivangorod and Kozienice was defended by the 4th Army of General [Alexei Evert](/postacie/aleksiej-ewert), and further south, towards Sandomierz, by the 9th Army of General Platon Lechitsky. The numerical advantage lay with the Russians, but the Germans had more heavy artillery and more efficient command.
+The Russians fielded, according to various sources, about 470,000–490,000 soldiers. At Warsaw stood the [2nd Army](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)) of General [Sergei Scheidemann](https://pl.wikipedia.org/wiki/Siergiej_Scheidemann) and the 5th Army of General [Pavel Plehve](/postacie/pawel-plehwe), supported by the garrison of the Warsaw fortified area. The stretch of the Vistula at Ivangorod and Kozienice was defended by the 4th Army of General [Alexei Evert](/postacie/aleksiej-ewert), and further south, towards Sandomierz, by the 9th Army of General Platon Lechitsky. The numerical advantage lay with the Russians, but the Germans had more heavy artillery and more efficient command.
 
 ## Course
 

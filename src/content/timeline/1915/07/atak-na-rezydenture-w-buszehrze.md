@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-12 lipca 1915 roku uzbrojeni plemieńcy z Tangestanu, nadmorskiej krainy na południe od [Buszehru](https://pl.wikipedia.org/wiki/Buszehr), zaatakowali brytyjską rezydenturę w tym mieście. Buszehr był głównym portem [Persji](https://pl.wikipedia.org/wiki/Iran) nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska) i od XIX wieku siedzibą brytyjskiego rezydenta politycznego, który nadzorował interesy Wielkiej Brytanii w całej Zatoce. Rezydentury strzegł niewielki garnizon wojsk indyjskich, złożony z żołnierzy 96 Pułku Piechoty Berar. Persja była państwem neutralnym, ale od początku wojny jej południe stało się areną rywalizacji Brytyjczyków z niemieckimi agentami.
+12 lipca 1915 roku uzbrojeni plemieńcy z Tangestanu, nadmorskiej krainy na południe od [Buszehru](https://pl.wikipedia.org/wiki/Buszehr), zaatakowali brytyjską rezydenturę w tym mieście. Buszehr był głównym portem [Persji](/kraje/persja) nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska) i od XIX wieku siedzibą brytyjskiego rezydenta politycznego, który nadzorował interesy Wielkiej Brytanii w całej Zatoce. Rezydentury strzegł niewielki garnizon wojsk indyjskich, złożony z żołnierzy 96 Pułku Piechoty Berar. Persja była państwem neutralnym, ale od początku wojny jej południe stało się areną rywalizacji Brytyjczyków z niemieckimi agentami.
 
 ## Rais Ali i niemieccy agenci
 

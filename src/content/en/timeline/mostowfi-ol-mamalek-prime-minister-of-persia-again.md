@@ -2,10 +2,10 @@
 title: Mostowfi ol-Mamalek prime minister of Persia again
 summary: The British chronology records on 19 January 1918 Mostowfi ol-Mamalek's return as head of Persia's government. Moshaver ol-Mamalek took foreign affairs.
 source: mostowfi-ol-mamalek-ponownie-premierem-persji
-sourceHash: d46e8013141a1f8ff1b807b521ebf6249474b5ce
+sourceHash: 03121e3f466d185971aea9a58797c77fa988648e
 ---
 
-The British chronology of the war records under 19 January 1918 that Mostowfi ol-Mamalek had become prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran) in place of [Ain od-Dowleh](/ajn-od-dole-ponownie-premierem-persji), and Moshaver ol-Mamalek foreign minister, succeeding Ala al-Saltaneh. Lists of Persian governments give different dates for this change. Mostowfi's biography in the Persian Wikipedia says that his cabinet was formed on 28 Dey 1296 in the Iranian calendar, that is 18 January 1918, which almost agrees with the chronology. The Persian list of prime ministers, based on an official publication on the governments of Iran, gives 17 Dey, however, that is 7 January, and English-language lists 16 January. All that is certain is that Ain od-Dowleh's government, appointed in November 1917, lasted less than two months.
+The British chronology of the war records under 19 January 1918 that Mostowfi ol-Mamalek had become prime minister of [Persia](/kraje/persja) in place of [Ain od-Dowleh](/ajn-od-dole-ponownie-premierem-persji), and Moshaver ol-Mamalek foreign minister, succeeding Ala al-Saltaneh. Lists of Persian governments give different dates for this change. Mostowfi's biography in the Persian Wikipedia says that his cabinet was formed on 28 Dey 1296 in the Iranian calendar, that is 18 January 1918, which almost agrees with the chronology. The Persian list of prime ministers, based on an official publication on the governments of Iran, gives 17 Dey, however, that is 7 January, and English-language lists 16 January. All that is certain is that Ain od-Dowleh's government, appointed in November 1917, lasted less than two months.
 
 ## In power for the fourth time
 

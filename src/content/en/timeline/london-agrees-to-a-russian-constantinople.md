@@ -2,7 +2,7 @@
 title: London agrees to a Russian Constantinople
 summary: On 12 March 1915 Britain agreed that Russia would get Constantinople and the Straits after the war. In return it wanted, inter alia, Persia's neutral zone.
 source: londyn-godzi-sie-na-rosyjski-konstantynopol
-sourceHash: f1602eafaa220646b3c4ec83368c8969f8d993f6
+sourceHash: d73ab404a65bc74415e3fa7e716c98865b75beca
 ---
 
 On 12 March 1915, or 27 February by the Julian calendar, the British ambassador in Petrograd, George Buchanan, handed the Russian Foreign Minister [Sergey Sazonov](/postacie/siergiej-sazonow) his government's reply to the [Russian demand of 4 March](/rosja-zada-konstantynopola). Britain agreed that after a victorious war Russia would receive [Constantinople](/miejsca/konstantynopol), both shores of the Straits and the territories Sazonov had listed. The consent was not, however, unconditional.
@@ -15,7 +15,7 @@ The Foreign Secretary, [Edward Grey](/postacie/edward-grey), was aware of how gr
 
 The British set several conditions. Constantinople, which was always to remain an important centre of trade for south-eastern Europe and Asia Minor, was to have a free port for goods in transit to and from countries other than Russia. Merchant ships were to pass freely through the Straits, which Sazonov had in any case already promised. Grey also stipulated that the future of Asiatic Turkey would have to be discussed with France and Russia, and that the Muslim holy places and [Arabia](https://pl.wikipedia.org/wiki/Arabia) must in no case come under foreign rule.
 
-The most important demand concerned [Persia](https://pl.wikipedia.org/wiki/Iran). The [Anglo-Russian Convention](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) of 1907 had divided it into a Russian sphere of influence in the north, a British one in the south-east and a neutral zone in between. The neutral zone contained, among other things, the oilfields of the Anglo-Persian Oil Company, in which since 1914 the majority shareholding had belonged to the British government, which needed oil for the fleet. London demanded that this zone become British. According to the French ambassador Maurice Paléologue, when Buchanan put this request to him, Sazonov replied at once: "Of course!". Paléologue remarked in his diary that the Persian question, for two centuries a bone of contention between England and Russia, had been settled in a minute. The details, however, were haggled over for several more weeks.
+The most important demand concerned [Persia](/kraje/persja). The [Anglo-Russian Convention](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) of 1907 had divided it into a Russian sphere of influence in the north, a British one in the south-east and a neutral zone in between. The neutral zone contained, among other things, the oilfields of the Anglo-Persian Oil Company, in which since 1914 the majority shareholding had belonged to the British government, which needed oil for the fleet. London demanded that this zone become British. According to the French ambassador Maurice Paléologue, when Buchanan put this request to him, Sazonov replied at once: "Of course!". Paléologue remarked in his diary that the Persian question, for two centuries a bone of contention between England and Russia, had been settled in a minute. The details, however, were haggled over for several more weeks.
 
 ## The Dardanelles and the Balkans
 

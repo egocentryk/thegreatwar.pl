@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 19 stycznia 1918 roku, że premierem [Persji](https://pl.wikipedia.org/wiki/Iran) w miejsce [Ajn od-Dole](/ajn-od-dole-ponownie-premierem-persji) został Mostowfi ol-Mamalek, a ministrem spraw zagranicznych, po Ala os-Saltane, Moszawer ol-Mamalek. Zestawienia perskich rządów podają różne daty tej zmiany. Biografia Mostowfiego w perskiej Wikipedii mówi, że jego gabinet powstał 28 deja 1296 roku według kalendarza irańskiego, czyli 18 stycznia 1918 roku, co niemal zgadza się z chronologią. Perska lista premierów, oparta na urzędowym wydawnictwie o rządach Iranu, przyjmuje jednak 17 deja, czyli 7 stycznia, a anglojęzyczne zestawienia 16 stycznia. Pewne jest tylko, że rząd Ajn od-Dole, powołany w listopadzie 1917 roku, przetrwał niespełna dwa miesiące.
+Brytyjska chronologia wojny notuje pod 19 stycznia 1918 roku, że premierem [Persji](/kraje/persja) w miejsce [Ajn od-Dole](/ajn-od-dole-ponownie-premierem-persji) został Mostowfi ol-Mamalek, a ministrem spraw zagranicznych, po Ala os-Saltane, Moszawer ol-Mamalek. Zestawienia perskich rządów podają różne daty tej zmiany. Biografia Mostowfiego w perskiej Wikipedii mówi, że jego gabinet powstał 28 deja 1296 roku według kalendarza irańskiego, czyli 18 stycznia 1918 roku, co niemal zgadza się z chronologią. Perska lista premierów, oparta na urzędowym wydawnictwie o rządach Iranu, przyjmuje jednak 17 deja, czyli 7 stycznia, a anglojęzyczne zestawienia 16 stycznia. Pewne jest tylko, że rząd Ajn od-Dole, powołany w listopadzie 1917 roku, przetrwał niespełna dwa miesiące.
 
 ## Czwarty raz u władzy
 

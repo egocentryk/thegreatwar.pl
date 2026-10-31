@@ -2,10 +2,10 @@
 title: Théophile Delcassé resigns
 summary: On 13 October 1915 the French foreign minister Théophile Delcassé finally stepped down. He left ill, after the failure of Entente diplomacy in Bulgaria.
 source: theophile-delcasse-podaje-sie-do-dymisji
-sourceHash: d12182388a0ead2840d631572157abe165d7242b
+sourceHash: 6511f0434598c6b5eed161be9dd105ac40a13d6e
 ---
 
-On 13 October 1915 the French foreign minister [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé) finally left the government. He had directed French diplomacy since [August 1914](/delcasse-ministrem-spraw-zagranicznych), and earlier, in 1898–1905, he had built the understanding with Britain and strengthened the alliance with Russia. Now he was leaving at a moment when the Entente's Balkan policy was collapsing before his eyes: German and Austro-Hungarian troops [were crossing the Danube and the Sava](/panstwa-centralne-atakuja-serbie), and Bulgaria, which Delcassé had been courting for a year, was beginning operations against Serbia, although it had not yet formally declared war. Until a successor was appointed, the foreign ministry was temporarily run by the prime minister, [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani).
+On 13 October 1915 the French foreign minister [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé) finally left the government. He had directed French diplomacy since [August 1914](/delcasse-ministrem-spraw-zagranicznych), and earlier, in 1898–1905, he had built the understanding with Britain and strengthened the alliance with Russia. Now he was leaving at a moment when the Entente's Balkan policy was collapsing before his eyes: German and Austro-Hungarian troops [were crossing the Danube and the Sava](/panstwa-centralne-atakuja-serbie), and Bulgaria, which Delcassé had been courting for a year, was beginning operations against Serbia, although it had not yet formally declared war. Until a successor was appointed, the foreign ministry was temporarily run by the prime minister, [René Viviani](/postacie/rene-viviani).
 
 The date of 13 October is given by most French works. Some sources give 14 or even 15 October, because the resignation was announced and formally accepted with some delay. The decision itself, however, had been maturing for two weeks.
 

@@ -2,10 +2,10 @@
 title: Burián replaces Berchtold
 summary: On 13 January 1915 Baron István Burián replaced Count Berchtold as Austro-Hungarian foreign minister. Berchtold had to go for being ready to yield to Italy.
 source: burian-zastepuje-berchtolda
-sourceHash: 46b8bcc748b0427256621ee998ab313673e0d368
+sourceHash: 825abf945614a8bfe6c54e56f7ca4b1acf677164
 ---
 
-On 13 January 1915 Count [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) ceased to be foreign minister of Austria-Hungary. His successor was a Hungarian, Baron [István Burián](/postacie/istvan-burian), a close associate of the Hungarian prime minister, Count [István Tisza](/postacie/istvan-tisza). The change at the head of the Habsburg monarchy's diplomacy was the result of a dispute over how to respond to Italy's demands.
+On 13 January 1915 Count [Leopold Berchtold](/postacie/leopold-berchtold) ceased to be foreign minister of Austria-Hungary. His successor was a Hungarian, Baron [István Burián](/postacie/istvan-burian), a close associate of the Hungarian prime minister, Count [István Tisza](/postacie/istvan-tisza). The change at the head of the Habsburg monarchy's diplomacy was the result of a dispute over how to respond to Italy's demands.
 
 ## The dispute over compensation
 

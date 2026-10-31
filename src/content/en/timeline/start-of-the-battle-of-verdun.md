@@ -2,7 +2,7 @@
 title: Start of the Battle of Verdun
 summary: On 21 February 1916 more than 1,200 German guns opened fire on the French positions at Verdun. A battle began that lasted until December 1916.
 source: poczatek-bitwy-pod-verdun
-sourceHash: 75c2299c66a59e4308b7b1e3814a0de9496f6754
+sourceHash: 1cd532dbe54cf88a18397d4059ec712550b4ae92
 brief:
   - "On the morning of 21 February 1916 more than 1,200 German guns opened fire on the French positions north of Verdun. A battle began that, with pauses, lasted until December 1916."
   - "Falkenhayn wrote after the war that he meant to bleed France to death, but some historians think this version came later. Verdun lay in a salient of the front, and in 1915 most guns were removed from its forts."
@@ -31,7 +31,7 @@ Preparations went on from January. The III Corps, the VII Reserve Corps and the 
 
 Since the Franco-Prussian War Verdun had been surrounded by two rings of forts, the largest of which was Fort Douaumont. After the fall of the Belgian and French fortresses in 1914, however, the French high command lost faith in forts. In August 1915 Verdun ceased to be a fortress in the old sense: the Fortified Region of Verdun (Région fortifiée de Verdun) was created under the command of General Frédéric-Georges Herr, and most of the guns and ammunition were removed from the forts for the needs of the field front. Only the guns in armoured turrets and small garrisons remained in the forts, and some works were prepared for demolition. The trench lines that were to replace the forts were built slowly, because men and equipment were being sent to Champagne.
 
-On the sector the Germans had chosen for the attack, between the Meuse and the heights near Ornes, Herr had the 72nd and 51st Infantry Divisions of General Paul Chrétien's XXX Corps. According to Pétain they were supported by about 130 field guns and about 140 heavy guns, most of them of old pattern. General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), commander of the Centre Army Group, advised against crowding soldiers into the front lines, which the artillery would smash anyway, but the rear positions had not been completed in time.
+On the sector the Germans had chosen for the attack, between the Meuse and the heights near Ornes, Herr had the 72nd and 51st Infantry Divisions of General Paul Chrétien's XXX Corps. According to Pétain they were supported by about 130 field guns and about 140 heavy guns, most of them of old pattern. General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary), commander of the Centre Army Group, advised against crowding soldiers into the front lines, which the artillery would smash anyway, but the rear positions had not been completed in time.
 
 ## Driant's warnings
 

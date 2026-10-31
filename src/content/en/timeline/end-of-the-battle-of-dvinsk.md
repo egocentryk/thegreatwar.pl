@@ -2,7 +2,7 @@
 title: End of the Battle of Dvinsk
 summary: On 1 November 1915 the German attack on Dvinsk petered out. The Russians kept the town and Dvina bridgeheads; the front froze there for over two years.
 source: koniec-bitwy-pod-dzwinskiem
-sourceHash: d38e18cf741ee0f01a73e050d522491c817e3cbc
+sourceHash: e1ea2c76a91951a81d2204e4526b09cab6672373
 ---
 
 On 1 November 1915 the British chronology of the war records the end of the battle of [Dvinsk](https://pl.wikipedia.org/wiki/Dyneburg). The German Army of the Niemen, which had moved on the town [on 9 September](/poczatek-bitwy-pod-dzwinskiem), had spent almost two months pushing the Russians back from its approaches, but did not take Dvinsk itself. The same date ends the battle in the German official list of battles for some of the divisions, and from November the list records only positional fighting at Dvinsk. The date is, however, a convention. Russian accounts end the fighting on the Dvinsk axis on 3 November, that is 21 October by the Julian calendar. According to them, the Germans were still driving the Russians out of one of the isthmuses between the lakes on 2–3 November, and French communiqués of the first days of November mentioned violent fighting in the Dvinsk area.
@@ -21,6 +21,6 @@ Dvinsk, an important railway junction on the line from Warsaw to Petrograd, foun
 
 ## Plehve and the new trench warfare
 
-Russian and Latvian accounts credit the defence of Dvinsk above all to the commander of the [Fifth Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)), General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe). The fighting among the lakes and marshes outside the town already resembled the trench warfare of the Western Front. In October Plehve ordered special detachments of "bombometchiki" to be formed in every company of his army, armed with [hand grenades](https://pl.wikipedia.org/wiki/Granat_ręczny), axes, spades and wire-cutters. Russian accounts regard them as among the first assault units in the Russian army. In December Plehve took command of the whole [Northern Front](https://pl.wikipedia.org/wiki/Front_Północny_(Imperium_Rosyjskie)) from the ailing General Ruzsky.
+Russian and Latvian accounts credit the defence of Dvinsk above all to the commander of the [Fifth Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)), General [Pavel Plehve](/postacie/pawel-plehwe). The fighting among the lakes and marshes outside the town already resembled the trench warfare of the Western Front. In October Plehve ordered special detachments of "bombometchiki" to be formed in every company of his army, armed with [hand grenades](https://pl.wikipedia.org/wiki/Granat_ręczny), axes, spades and wire-cutters. Russian accounts regard them as among the first assault units in the Russian army. In December Plehve took command of the whole [Northern Front](https://pl.wikipedia.org/wiki/Front_Północny_(Imperium_Rosyjskie)) from the ailing General Ruzsky.
 
 The Battle of Dvinsk closed the Russian army's Great Retreat of 1915 in the north. The front on the Dvina stood without major changes throughout 1916. The Germans took Riga only in September 1917, and Dvinsk in February 1918, when the Russian army was already disintegrating.

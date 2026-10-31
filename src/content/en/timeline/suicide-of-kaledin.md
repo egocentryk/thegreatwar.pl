@@ -2,10 +2,10 @@
 title: Suicide of Kaledin
 summary: On 11 February 1918 the Don Cossack ataman Alexey Kaledin laid down his powers and shot himself in Novocherkassk. The Cossacks would not defend the Don.
 source: samobojstwo-kaledina
-sourceHash: 3cfb476e8919cdf7411775b8bb745afe50eec24e
+sourceHash: 64f86caef96429b5a742af890d11fa64589b0a7a
 ---
 
-On 11 February 1918 (29 January by the Julian calendar, still in force in Russia), in [Novocherkassk](https://pl.wikipedia.org/wiki/Nowoczerkask), the capital of the [Don Cossacks](https://pl.wikipedia.org/wiki/Kozacy_dońscy), the ataman General [Alexey Kaledin](https://pl.wikipedia.org/wiki/Aleksiej_Kaledin) convened a meeting of the government of the Don Host. He announced that 147 bayonets were left at the front to defend the province against the advancing Bolsheviks, and laid down his powers. When members of the government began to dwell at length on the situation, he cut them short, according to witnesses, with the words: "Gentlemen, be brief. Time does not wait. It was by talk that Russia perished." After the meeting he went to his study and shot himself through the heart. In a letter to General [Mikhail Alekseyev](/postacie/michail-aleksiejew) he explained that he was taking his own life because the Cossacks had refused to follow their ataman. A British chronology of the war records Kaledin's suicide under 13 February, probably by the date on which the news reached the West.
+On 11 February 1918 (29 January by the Julian calendar, still in force in Russia), in [Novocherkassk](https://pl.wikipedia.org/wiki/Nowoczerkask), the capital of the [Don Cossacks](https://pl.wikipedia.org/wiki/Kozacy_dońscy), the ataman General [Alexey Kaledin](/postacie/aleksiej-kaledin) convened a meeting of the government of the Don Host. He announced that 147 bayonets were left at the front to defend the province against the advancing Bolsheviks, and laid down his powers. When members of the government began to dwell at length on the situation, he cut them short, according to witnesses, with the words: "Gentlemen, be brief. Time does not wait. It was by talk that Russia perished." After the meeting he went to his study and shot himself through the heart. In a letter to General [Mikhail Alekseyev](/postacie/michail-aleksiejew) he explained that he was taking his own life because the Cossacks had refused to follow their ataman. A British chronology of the war records Kaledin's suicide under 13 February, probably by the date on which the news reached the West.
 
 ## The Don against the Bolsheviks
 

@@ -113,6 +113,49 @@ print nothing for your files:
 
 Check first that no page exists already: `ls src/content/postacie | grep <surname>`.
 
+## Batch: the most linked people without a page (2026-10-31)
+
+This section replaces the Polish-thread table above for this batch: the
+people our articles still link to pl.wikipedia most often, plus three that
+our force pages name without a page. Everything else in this brief
+applies (models, front matter, 800–1,600 words, `wikiTitles` checked via
+the API, links, the English page). They are not Polish people: write
+`## Przed wojną`, the war sections and `## Po wojnie` as the person's
+own story; the Polish thread only where it belongs. Tags: from the
+existing vocabulary (`grep -rh "^tags:" src/content/timeline | tr ',' '\n' | sort | uniq -c | sort -rn | head -80`).
+Front matter strings with a colon in double quotes. Each group writes its
+two people; link the other people of this batch as `/postacie/<slug>`
+only if their file exists when you finish.
+
+| grp | slug | person | country | side | wikiTitles (check variants) | author |
+|---|---|---|---|---|---|---|
+| P1 | rene-viviani | René Viviani | Francja | Ententa | René_Viviani | Natalia |
+| P1 | fernand-de-langle-de-cary | Fernand de Langle de Cary | Francja | Ententa | Fernand_de_Langle_de_Cary | Łukasz Skowroń |
+| P2 | pawel-plehwe | Paweł Plehwe (Pavel Plehve) | Rosja | Ententa | Paweł_Plehwe | Łukasz Skowroń |
+| P2 | aleksiej-kaledin | Aleksiej Kaledin | Rosja | Ententa | Aleksiej_Kaledin | Natalia |
+| P3 | afonso-costa | Afonso Costa | Portugalia | Ententa | Afonso_Costa | Natalia |
+| P3 | bernardino-machado | Bernardino Machado | Portugalia | Ententa | Bernardino_Machado | Łukasz Skowroń |
+| P4 | remus-von-woyrsch | Remus von Woyrsch | Niemcy | Państwa centralne | Remus_von_Woyrsch | Łukasz Skowroń |
+| P4 | felix-von-bothmer | Felix von Bothmer | Niemcy | Państwa centralne | (check: our articles may name him without a link) | Natalia |
+| P5 | george-curzon | George Curzon | Wielka Brytania | Ententa | George_Curzon | Natalia |
+| P5 | austen-chamberlain | Austen Chamberlain | Wielka Brytania | Ententa | Austen_Chamberlain | Łukasz Skowroń |
+| P6 | reginald-tyrwhitt | Reginald Tyrwhitt | Wielka Brytania | Ententa | Reginald_Tyrwhitt | Łukasz Skowroń |
+| P6 | hugh-trenchard | Hugh Trenchard | Wielka Brytania | Ententa | (check) | Natalia |
+| P7 | jozef-ferdynand | arcyksiążę Józef Ferdynand | Austro-Węgry | Państwa centralne | Józef_Ferdynand (check it is the archduke, not a disambiguation) | Natalia |
+| P7 | leopold-berchtold | Leopold Berchtold | Austro-Węgry | Państwa centralne | Leopold_Berchtold | Łukasz Skowroń |
+| P8 | giovanni-giolitti | Giovanni Giolitti | Włochy | Ententa | Giovanni_Giolitti | Łukasz Skowroń |
+| P8 | gottlieb-von-jagow | Gottlieb von Jagow | Niemcy | Państwa centralne | Gottlieb_von_Jagow | Natalia |
+
+Notes: Plehwe is the general of the 1914–1916 armies (Łódź, the 5th Army),
+not Vyacheslav von Plehve the minister (killed 1904); Kaledin: the 8th
+Army 1916 and the Don Cossacks 1917–1918 (link
+`/sily-zbrojne/8-armia-rosyjska`); Trenchard and Bothmer: link
+`/sily-zbrojne/royal-flying-corps`, `/sily-zbrojne/royal-air-force`,
+`/sily-zbrojne/armia-poludniowa`; Tyrwhitt: the Harwich Force; Józef
+Ferdynand: the 4th Army at Kraśnik and Łuck 1914–1916; Giolitti: the
+neutralist of 1914–1915 ("parecchio"); Jagow: the foreign secretary of
+1913–1916 and the July crisis.
+
 ## Report (short)
 
 For each person: paths, word count, `wikiTitles`, sources, conflicts with

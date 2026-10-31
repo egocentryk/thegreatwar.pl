@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 sierpnia 1915 roku Brytyjczycy zajęli [Buszehr](https://pl.wikipedia.org/wiki/Buszehr), główny port [Persji](https://pl.wikipedia.org/wiki/Iran) nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska). W mieście rozplakatowano proklamację, w której ogłoszono, że Wielka Brytania obejmuje zarząd nad całą wyspą Buszehr, razem z miastem i portem, i utrzyma go, dopóki nie otrzyma zadośćuczynienia. Władzę objął major Arthur Prescott Trevor z brytyjskiej rezydentury, jako komendant zarządu wojskowego w imieniu rządu brytyjskiego. Okupacja neutralnego państwa była odpowiedzią na [atak plemion Tangestanu na rezydenturę](/atak-na-rezydenture-w-buszehrze) 12 lipca, w którym zginęło dwóch brytyjskich oficerów.
+8 sierpnia 1915 roku Brytyjczycy zajęli [Buszehr](https://pl.wikipedia.org/wiki/Buszehr), główny port [Persji](/kraje/persja) nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska). W mieście rozplakatowano proklamację, w której ogłoszono, że Wielka Brytania obejmuje zarząd nad całą wyspą Buszehr, razem z miastem i portem, i utrzyma go, dopóki nie otrzyma zadośćuczynienia. Władzę objął major Arthur Prescott Trevor z brytyjskiej rezydentury, jako komendant zarządu wojskowego w imieniu rządu brytyjskiego. Okupacja neutralnego państwa była odpowiedzią na [atak plemion Tangestanu na rezydenturę](/atak-na-rezydenture-w-buszehrze) 12 lipca, w którym zginęło dwóch brytyjskich oficerów.
 
 ## Zadośćuczynienie, którego nie było
 

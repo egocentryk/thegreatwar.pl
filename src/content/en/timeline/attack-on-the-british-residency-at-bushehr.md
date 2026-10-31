@@ -2,10 +2,10 @@
 title: Attack on the British residency at Bushehr
 summary: On 12 July 1915 Tangistani tribesmen attacked the British residency at Bushehr. Two officers died in an ambush, but the assault on the posts was beaten off.
 source: atak-na-rezydenture-w-buszehrze
-sourceHash: 820015411aed19e0399c33502c026983dd83cda8
+sourceHash: ec0f98eac5bcdf1a7e2177bbd9df0960eb361f0b
 ---
 
-On 12 July 1915 armed tribesmen from Tangistan, a coastal district south of [Bushehr](https://pl.wikipedia.org/wiki/Buszehr), attacked the British residency in that town. Bushehr was the main port of [Persia](https://pl.wikipedia.org/wiki/Iran) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska) and since the 19th century the seat of the British political resident, who oversaw Britain's interests throughout the Gulf. The residency was guarded by a small garrison of Indian troops, made up of soldiers of the 96th Berar Infantry. Persia was a neutral state, but from the beginning of the war its south had become an arena of rivalry between the British and German agents.
+On 12 July 1915 armed tribesmen from Tangistan, a coastal district south of [Bushehr](https://pl.wikipedia.org/wiki/Buszehr), attacked the British residency in that town. Bushehr was the main port of [Persia](/kraje/persja) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska) and since the 19th century the seat of the British political resident, who oversaw Britain's interests throughout the Gulf. The residency was guarded by a small garrison of Indian troops, made up of soldiers of the 96th Berar Infantry. Persia was a neutral state, but from the beginning of the war its south had become an arena of rivalry between the British and German agents.
 
 ## Rais Ali and the German agents
 

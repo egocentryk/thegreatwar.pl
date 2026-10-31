@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 27 kwietnia 1915 roku, że nowym premierem [Persji](https://pl.wikipedia.org/wiki/Iran) został książę Abdolmadżid Mirza, znany pod tytułem Ajn od-Dole. Zastąpił Hasana Pirnię, Moszira od-Dole, którego rząd [upadł dzień wcześniej](/dymisja-rzadu-moszira-od-dole) pod naciskiem Rosji i Wielkiej Brytanii. Encyclopaedia Iranica datuje nominację ogólnie na kwiecień 1915 roku, a część zestawień podaje jako pierwszy dzień urzędowania 1 maja. Ajn od-Dole objął jednocześnie ministerstwo wojny.
+Brytyjska chronologia wojny notuje pod 27 kwietnia 1915 roku, że nowym premierem [Persji](/kraje/persja) został książę Abdolmadżid Mirza, znany pod tytułem Ajn od-Dole. Zastąpił Hasana Pirnię, Moszira od-Dole, którego rząd [upadł dzień wcześniej](/dymisja-rzadu-moszira-od-dole) pod naciskiem Rosji i Wielkiej Brytanii. Encyclopaedia Iranica datuje nominację ogólnie na kwiecień 1915 roku, a część zestawień podaje jako pierwszy dzień urzędowania 1 maja. Ajn od-Dole objął jednocześnie ministerstwo wojny.
 
 Razem z premierem zmienił się minister spraw zagranicznych. Brytyjska chronologia nazywa nowego ministra „Mohtashem ed Douleh”. Najpewniej chodzi o Hasana Esfandiariego, noszącego tytuł Mohtaszam os-Saltane, którego zestawienia perskich ministrów wymieniają jako szefa dyplomacji od 1 maja do początku lipca 1915 roku. Był doświadczonym urzędnikiem. W latach 1908–1921 przewodniczył między innymi komisji granicznej z Turcją, był gubernatorem [Urmii](https://pl.wikipedia.org/wiki/Urmia_(miasto)) i Azerbejdżanu oraz kilkakrotnie ministrem, a w latach 30. i 40. stał na czele Madżlisu, perskiego parlamentu.
 

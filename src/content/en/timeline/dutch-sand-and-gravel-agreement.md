@@ -2,10 +2,10 @@
 title: Dutch sand and gravel agreement
 summary: In early May 1918 the Netherlands yielded to Germany and resumed the transit of sand and gravel to Belgium. The Allies said it went into concrete defences.
 source: porozumienie-o-holenderskim-piasku
-sourceHash: 1f73d937c209421aa89f9017e00141031995ca65
+sourceHash: 897d1dc7b75654a71aca51634657aba5773a1a5b
 ---
 
-At the beginning of May 1918 the governments of the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) and Germany reached agreement in a dispute that for a few days in April had threatened the neutral state with war. The Dutch agreed to resume the transit of German sand and gravel across their territory to occupied [Belgium](/kraje/belgia) and the export of their own gravel to Belgium, and the Germans accepted Dutch terms on other matters. The British chronology of the war records the conclusion of the agreement under 2 May. According to diplomatic documents published in the American collection *Foreign Relations of the United States*, negotiations went on from the end of April: on 3 May the Dutch foreign minister, John Loudon, told the American minister that the agreement was almost ready, the next day he presented it to the [States General](https://pl.wikipedia.org/wiki/Stany_Generalne_(Holandia)), and he expected the final exchange of notes in Berlin on 16 May.
+At the beginning of May 1918 the governments of the [Netherlands](/kraje/holandia) and Germany reached agreement in a dispute that for a few days in April had threatened the neutral state with war. The Dutch agreed to resume the transit of German sand and gravel across their territory to occupied [Belgium](/kraje/belgia) and the export of their own gravel to Belgium, and the Germans accepted Dutch terms on other matters. The British chronology of the war records the conclusion of the agreement under 2 May. According to diplomatic documents published in the American collection *Foreign Relations of the United States*, negotiations went on from the end of April: on 3 May the Dutch foreign minister, John Loudon, told the American minister that the agreement was almost ready, the next day he presented it to the [States General](https://pl.wikipedia.org/wiki/Stany_Generalne_(Holandia)), and he expected the final exchange of notes in Berlin on 16 May.
 
 ## Concrete for Flanders
 

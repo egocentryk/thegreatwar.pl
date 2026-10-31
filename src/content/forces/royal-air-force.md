@@ -11,7 +11,7 @@ brief:
 kind: lotnictwo
 country: wielka-brytania
 formed: 1918-04-01
-people: [jan-smuts, douglas-haig, winston-churchill]
+people: [jan-smuts, hugh-trenchard, douglas-haig, winston-churchill]
 wikiTitles: ["Royal_Air_Force"]
 updated: 2026-10-31
 authors: [Łukasz Skowroń]

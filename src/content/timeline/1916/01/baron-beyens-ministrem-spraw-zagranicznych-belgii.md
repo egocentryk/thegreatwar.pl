@@ -16,7 +16,7 @@ draft: false
 
 Beyens urodził się w 1855 roku w Paryżu jako syn wieloletniego posła Belgii we Francji. Jego ojcem chrzestnym był podobno sam cesarz Napoleon III. Służył w belgijskich placówkach w Paryżu, Teheranie i Bukareszcie, potem kierował gabinetem króla Alberta. W 1912 roku objął poselstwo w Berlinie, najtrudniejszą placówkę belgijskiej dyplomacji. Według jego biografów to on przekazał francuskiemu ambasadorowi [Jules'owi Cambonowi](https://pl.wikipedia.org/wiki/Jules_Cambon) za zgodą króla ostrzeżenie, jakie Albert usłyszał w listopadzie 1913 roku w Poczdamie: [Wilhelm II](/postacie/wilhelm-ii) i szef niemieckiego sztabu generalnego uważali wojnę z Francją za nieuniknioną i bliską.
 
-4 sierpnia 1914 roku Beyens zaprotestował w Berlinie przeciw wkroczeniu Niemców do Belgii. Sekretarz stanu [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow) przyznał wówczas, że Belgii nie można nic zarzucić, ale szybki przemarsz przez jej terytorium był dla Niemiec sprawą życia i śmierci. Tego samego dnia Belgia [zerwała stosunki z Niemcami](/belgia-zrywa-stosunki-dyplomatyczne-z-niemcami), a poseł dostał paszporty i następnego dnia odwieziono go do granicy holenderskiej.
+4 sierpnia 1914 roku Beyens zaprotestował w Berlinie przeciw wkroczeniu Niemców do Belgii. Sekretarz stanu [Gottlieb von Jagow](/postacie/gottlieb-von-jagow) przyznał wówczas, że Belgii nie można nic zarzucić, ale szybki przemarsz przez jej terytorium był dla Niemiec sprawą życia i śmierci. Tego samego dnia Belgia [zerwała stosunki z Niemcami](/belgia-zrywa-stosunki-dyplomatyczne-z-niemcami), a poseł dostał paszporty i następnego dnia odwieziono go do granicy holenderskiej.
 
 ## Zastępca chorego ministra
 

@@ -9,7 +9,7 @@ brief:
   - "On 1 April 1918 the RFC was merged with the naval air arm into the Royal Air Force."
 name: Royal Flying Corps
 source: royal-flying-corps
-sourceHash: 485258bc6ea88c3457442b3a620f0cb60db2d6ba
+sourceHash: ba318ca8d142f612b46593cb383130089bf7b959
 ---
 
 The Royal Flying Corps (RFC) was the air arm of the British Army from 1912 to 1918. In August 1914 it flew to France behind the [British Expeditionary Force](/slownik/bef) and from the first weeks supplied it with reconnaissance reports. Over the following years it grew into a great force that fought for command of the air over the Western Front, flew in Palestine and Italy, and defended [Britain](/kraje/wielka-brytania) against air raids. On 1 April 1918 it was merged with the naval air arm into the Royal Air Force.

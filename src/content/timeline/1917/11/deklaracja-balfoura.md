@@ -33,7 +33,7 @@ Przełom przyniosła zmiana rządu w grudniu 1916 roku. [David Lloyd George](/ll
 
 ## Spory w gabinecie
 
-Projekt trafił pod obrady gabinetu wojennego jesienią. Najostrzej sprzeciwiał się mu minister do spraw Indii Edwin Montagu, jedyny Żyd w rządzie. W memoriale z końca sierpnia nazwał politykę rządu antysemicką w skutkach: jego zdaniem deklaracja naznaczyłaby Żydów w ich ojczystych krajach jako obcych i podważyła ich pozycję obywateli. Wątpliwości miał też [lord Curzon](https://pl.wikipedia.org/wiki/George_Curzon), który w memoriale z 26 października pytał, co mieści się w pojęciu „siedziby narodowej” i co stanie się z arabskimi mieszkańcami kraju.
+Projekt trafił pod obrady gabinetu wojennego jesienią. Najostrzej sprzeciwiał się mu minister do spraw Indii Edwin Montagu, jedyny Żyd w rządzie. W memoriale z końca sierpnia nazwał politykę rządu antysemicką w skutkach: jego zdaniem deklaracja naznaczyłaby Żydów w ich ojczystych krajach jako obcych i podważyła ich pozycję obywateli. Wątpliwości miał też [lord Curzon](/postacie/george-curzon), który w memoriale z 26 października pytał, co mieści się w pojęciu „siedziby narodowej” i co stanie się z arabskimi mieszkańcami kraju.
 
 Te zastrzeżenia zmieniły tekst. Pod koniec sierpnia [lord Milner](/postacie/alfred-milner) zastąpił „Palestynę” jako siedzibę narodową słowami „w Palestynie”, a na początku października on i [Leo Amery](https://pl.wikipedia.org/wiki/Leo_Amery) dopisali dwa zastrzeżenia: o prawach społeczności nieżydowskich w Palestynie i o pozycji Żydów w innych krajach. Pojęcie „siedziby narodowej” (national home) nie miało precedensu w prawie międzynarodowym i celowo nie przesądzało, czy chodzi o państwo żydowskie. Nie określono też granic Palestyny.
 

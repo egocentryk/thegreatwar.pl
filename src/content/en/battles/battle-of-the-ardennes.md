@@ -9,7 +9,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Crown Prince Wilhelm]
 result: German victory. The French suffered very heavy losses and withdrew behind the Meuse.
 source: bitwa-w-ardenach
-sourceHash: c16ab8a2d28730a12c6e540f35b19cce89fb4b26
+sourceHash: 24e9967e8adbe198967b1852d916dff35b574056
 ---
 
 The Battle of the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny), fought on 21–24 August 1914, was one of the bloodiest episodes of the [Battle of the Frontiers](/bitwy/bitwa-graniczna). Two French armies, sent through the forests of the [Belgian province of Luxembourg](https://pl.wikipedia.org/wiki/Luksemburg_(prowincja)) to split the German centre, collided with two German armies that were stronger and better prepared. The battle included 22 August, the day on which the French army suffered the heaviest losses in its entire history.
@@ -24,7 +24,7 @@ The dates vary. English-language literature usually dates the battle to 21–23 
 
 The French war plan provided for an offensive along every sector of the frontier. After the first weeks of August the commander-in-chief, [Joseph Joffre](/postacie/joseph-joffre), already knew that the Germans were marching through Belgium and that they were strong in Lorraine. He therefore concluded that their centre, in the Ardennes and Luxembourg, must be weak. There he decided to deliver the main blow: to strike at the flank and rear of the German armies heading west and to cut the German front in two.
 
-The task went to the Third Army of General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey) and the Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary). The Fourth Army was reinforced at the expense of the Fifth Army, which handed over to it the II and XI Corps and two reserve divisions. From the right wing of the Third Army, facing Metz, a separate Army of Lorraine was formed so that Ruffey could move north with all his forces. According to the British official history the Third Army numbered about 168,000 men and the Fourth Army about 193,000, some 361,000 in all.
+The task went to the Third Army of General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey) and the Fourth Army of General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary). The Fourth Army was reinforced at the expense of the Fifth Army, which handed over to it the II and XI Corps and two reserve divisions. From the right wing of the Third Army, facing Metz, a separate Army of Lorraine was formed so that Ruffey could move north with all his forces. According to the British official history the Third Army numbered about 168,000 men and the Fourth Army about 193,000, some 361,000 in all.
 
 Reconnaissance misled the French. On 19 August the cavalry of the Fourth Army reported that the outskirts of Neufchâteau were held only by weak German detachments, and the airmen confirmed it. The next day two French cavalry divisions fought a hard action at Neufchâteau, but the staff took this as proof that the enemy was on the move, not that he was strong. On 20 August the Germans broke the French offensive in [Lorraine](/bitwy/bitwa-w-lotaryngii) and [forced the First and Second Armies to retreat](/koniec-bitew-pod-morhange-i-sarrebourgiem), and at [Longwy](https://pl.wikipedia.org/wiki/Longwy) [the siege of the French fortress began](/oblezenie-longwy). Joffre judged that the moment had come for an attack in the centre.
 

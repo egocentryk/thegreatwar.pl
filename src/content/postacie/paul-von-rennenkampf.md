@@ -48,7 +48,7 @@ W listopadzie 1914 roku 1 Armia osłaniała prawe skrzydło rosyjskiej ofensywy 
 
 Dowódca Frontu Północno-Zachodniego [Nikołaj Ruzski](/postacie/nikolaj-ruzski) obarczył winą Rennenkampfa i na przełomie listopada i grudnia generał został odsunięty od dowodzenia, a 1 Armię przejął generał Aleksandr Litwinow. Sprawę badała specjalna komisja generała Piotra Baranowa. Według rosyjskich opracowań wykazała ona, że główne błędy popełnił Ruzski, ale Stawka nie przywróciła Rennenkampfa do służby. W październiku 1915 roku przeniesiono go w stan spoczynku „z powodów domowych”, z prawem do munduru i emerytury.
 
-Klęski w Prusach Wschodnich i niemieckie nazwisko zrobiły z niego w oczach wielu Rosjan zdrajcę. W prasie i na ulicach Piotrogrodu znieważano go, a plotki o rzekomym sprzyjaniu Niemcom krążyły jeszcze długo po wojnie. Szef sztabu Stawki Nikołaj Januszkiewicz pisał do ministra wojny, że masa skarg na „Niemców” w armii, w tym na Rennenkampfa, skłoniła wielkiego księcia [Mikołaja Mikołajewicza](/postacie/mikolaj-mikolajewicz) do tego, by na jego następcę zamiast generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe) wybrać człowieka o rosyjskim nazwisku.
+Klęski w Prusach Wschodnich i niemieckie nazwisko zrobiły z niego w oczach wielu Rosjan zdrajcę. W prasie i na ulicach Piotrogrodu znieważano go, a plotki o rzekomym sprzyjaniu Niemcom krążyły jeszcze długo po wojnie. Szef sztabu Stawki Nikołaj Januszkiewicz pisał do ministra wojny, że masa skarg na „Niemców” w armii, w tym na Rennenkampfa, skłoniła wielkiego księcia [Mikołaja Mikołajewicza](/postacie/mikolaj-mikolajewicz) do tego, by na jego następcę zamiast generała [Pawła Plehwego](/postacie/pawel-plehwe) wybrać człowieka o rosyjskim nazwisku.
 
 ## Po wojnie
 

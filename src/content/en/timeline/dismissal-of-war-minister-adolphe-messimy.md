@@ -2,10 +2,10 @@
 title: Dismissal of war minister Adolphe Messimy
 summary: On 26 August 1914 the French war minister Adolphe Messimy lost his post in Viviani's reshuffled government and soon went to the front.
 source: dymisja-ministra-wojny-messimy
-sourceHash: 29cbe10dd9602a7d185a870ea2db34d32bb703ce
+sourceHash: 234b03aa2a064a573e94af116fd1f9abb059a7b8
 ---
 
-On 26 August 1914 the French war minister Adolphe Messimy, who had headed the ministry since mid-June 1914, lost his post. That day Prime Minister [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) reshuffled his government, and the war ministry was taken over by [Alexandre Millerand](/postacie/alexandre-millerand).
+On 26 August 1914 the French war minister Adolphe Messimy, who had headed the ministry since mid-June 1914, lost his post. That day Prime Minister [René Viviani](/postacie/rene-viviani) reshuffled his government, and the war ministry was taken over by [Alexandre Millerand](/postacie/alexandre-millerand).
 
 ## Minister of the first weeks of the war
 

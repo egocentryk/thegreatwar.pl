@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Arethusa
 summary: On 11 February 1916 the cruiser Arethusa, Commodore Tyrwhitt's flagship, struck a mine off Harwich. She could not be towed in and was wrecked on a shoal.
 source: zatoniecie-krazownika-arethusa
-sourceHash: e1fd2a9cfb79b194e77cf9e410f419a228dc33ca
+sourceHash: b578993c5700439ae9af95595e7d37a46512c111
 ---
 
-On 11 February 1916 the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) *Arethusa*, the flagship of Commodore [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt), struck a mine just before returning to her base at [Harwich](https://pl.wikipedia.org/wiki/Harwich). The explosion occurred near the North Cutler buoy, on the approach to the harbour opposite [Felixstowe](https://pl.wikipedia.org/wiki/Felixstowe). The mine had been laid shortly before by the German minelaying submarine [UC-7](https://pl.wikipedia.org/wiki/SM_UC-7). The damaged ship could not be towed in. Wind and sea drove her onto a shoal, where she broke in two.
+On 11 February 1916 the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) *Arethusa*, the flagship of Commodore [Reginald Tyrwhitt](/postacie/reginald-tyrwhitt), struck a mine just before returning to her base at [Harwich](https://pl.wikipedia.org/wiki/Harwich). The explosion occurred near the North Cutler buoy, on the approach to the harbour opposite [Felixstowe](https://pl.wikipedia.org/wiki/Felixstowe). The mine had been laid shortly before by the German minelaying submarine [UC-7](https://pl.wikipedia.org/wiki/SM_UC-7). The damaged ship could not be towed in. Wind and sea drove her onto a shoal, where she broke in two.
 
 ## A false alarm
 

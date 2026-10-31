@@ -2,7 +2,7 @@
 import ThemeToggle from '@/components/ThemeToggle.astro';
 import LangSwitch from '@/components/LangSwitch.astro';
 import CoffeeIcon from '@/components/CoffeeIcon.astro';
-import { SITE, NAV_LINKS, NAV_LINKS_EN } from '@/site.config';
+import { SITE, NAV_LINKS, NAV_LINKS_EN, GUIDE, GUIDE_EN } from '@/site.config';
 import type { Alternates, Lang } from '@/i18n';
 
 interface Props {
@@ -14,16 +14,15 @@ const { lang = 'pl', alternates = {} } = Astro.props;
 const currentPath = Astro.url.pathname;
 const isActive = (href: string) => currentPath === href || currentPath.startsWith(`${href}/`);
 
-const links =
-  lang === 'en'
-    ? [
-        ...NAV_LINKS_EN.map((link) => ({ ...link, isActive: isActive(link.href) })),
-        { label: 'Contact', href: '/en#contact', isActive: false },
-      ]
-    : [
-        ...NAV_LINKS.map((link) => ({ ...link, isActive: isActive(link.href) })),
-        { label: 'Kontakt', href: '/#contact', isActive: false },
-      ];
+const links = (lang === 'en' ? NAV_LINKS_EN : NAV_LINKS).map((link) => ({ ...link, isActive: isActive(link.href) }));
+const contact = lang === 'en' ? { label: 'Contact', href: '/en#contact' } : { label: 'Kontakt', href: '/#contact' };
+const guideSource = lang === 'en' ? GUIDE_EN : GUIDE;
+const guide = {
+  label: guideSource.label,
+  items: guideSource.items.map((link) => ({ ...link, isActive: isActive(link.href) })),
+  more: guideSource.more.map((link) => ({ ...link, isActive: isActive(link.href) })),
+};
+const guideActive = [...guide.items, ...guide.more].some((link) => link.isActive);
 const homeHref = lang === 'en' ? '/en' : '/';
 const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : { open: 'Otwórz menu', close: 'Zamknij menu' };
 ---
@@ -51,6 +50,85 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
             </a>
           ))
         }
+        <div class="relative" data-guide>
+          <button
+            type="button"
+            data-guide-toggle
+            aria-expanded="false"
+            aria-controls="guide-panel"
+            class:list={[
+              'flex cursor-pointer items-center gap-1 font-mono text-xs tracking-wide uppercase transition-colors',
+              guideActive ? 'text-signal' : 'text-ink-soft hover:text-ink',
+            ]}
+          >
+            {guide.label}
+            <svg
+              data-guide-chevron
+              class="h-3 w-3 transition-transform duration-200 motion-reduce:transition-none"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M6 9l6 6 6-6"></path>
+            </svg>
+          </button>
+          {/* Opens below the header, right-aligned to the button; hidden while closed. */}
+          <div
+            id="guide-panel"
+            data-guide-panel
+            hidden
+            class="border-line bg-paper absolute top-full right-0 mt-5 w-[34rem] border shadow-lg"
+          >
+            <ul class="grid grid-cols-2 gap-px p-2">
+              {
+                guide.items.map((link) => (
+                  <li>
+                    <a
+                      href={link.href}
+                      aria-current={link.isActive ? 'page' : undefined}
+                      class="group hover:bg-line/40 block px-4 py-3 transition-colors"
+                    >
+                      <span
+                        class:list={[
+                          'font-display block text-base transition-colors',
+                          link.isActive ? 'text-signal' : 'text-ink group-hover:text-signal',
+                        ]}
+                      >
+                        {link.label}
+                      </span>
+                      <span class="text-ink-soft mt-0.5 block text-xs leading-5">{link.note}</span>
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+            <ul class="border-line flex flex-wrap gap-x-5 gap-y-2 border-t px-6 py-4">
+              {
+                guide.more.map((link) => (
+                  <li>
+                    <a
+                      href={link.href}
+                      aria-current={link.isActive ? 'page' : undefined}
+                      class:list={[
+                        'font-mono text-[11px] tracking-wide uppercase transition-colors',
+                        link.isActive ? 'text-signal' : 'text-ink-soft hover:text-ink',
+                      ]}
+                    >
+                      {link.label}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+        </div>
+        <a href={contact.href} class="text-ink-soft hover:text-ink font-mono text-xs tracking-wide uppercase transition-colors">
+          {contact.label}
+        </a>
       </nav>
 
       <a
@@ -133,6 +211,52 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
             </li>
           ))
         }
+        <li class="border-line border-b py-4">
+          <p class:list={['font-mono text-sm tracking-wide uppercase', guideActive ? 'text-signal' : 'text-ink-soft']}>
+            {guide.label}
+          </p>
+          <ul class="mt-2 grid grid-cols-2 gap-x-4">
+            {
+              guide.items.map((link) => (
+                <li>
+                  <a
+                    href={link.href}
+                    aria-current={link.isActive ? 'page' : undefined}
+                    class:list={[
+                      'font-display block py-2 text-base transition-colors',
+                      link.isActive ? 'text-signal' : 'text-ink hover:text-signal',
+                    ]}
+                  >
+                    {link.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+          <ul class="mt-2 flex flex-wrap gap-x-4 gap-y-1">
+            {
+              guide.more.map((link) => (
+                <li>
+                  <a
+                    href={link.href}
+                    aria-current={link.isActive ? 'page' : undefined}
+                    class:list={[
+                      'block py-1 font-mono text-[11px] tracking-wide uppercase transition-colors',
+                      link.isActive ? 'text-signal' : 'text-ink-soft hover:text-ink',
+                    ]}
+                  >
+                    {link.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </li>
+        <li>
+          <a href={contact.href} class="text-ink-soft hover:text-ink block py-4 font-mono text-sm tracking-wide uppercase transition-colors">
+            {contact.label}
+          </a>
+        </li>
       </ul>
     </nav>
   </div>
@@ -198,6 +322,45 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
     );
   }
 
+  // The desktop "Przewodnik" dropdown: opens on click, closes on a link, an
+  // outside click or Escape.
+  function initGuide() {
+    const root = document.querySelector<HTMLElement>('[data-guide]');
+    const button = root?.querySelector<HTMLButtonElement>('[data-guide-toggle]');
+    const panel = root?.querySelector<HTMLElement>('[data-guide-panel]');
+    if (!root || !button || !panel || !controller) return;
+    const { signal } = controller;
+    const chevron = button.querySelector('[data-guide-chevron]');
+
+    const isOpen = () => button.getAttribute('aria-expanded') === 'true';
+    const setOpen = (open: boolean) => {
+      panel.hidden = !open;
+      button.setAttribute('aria-expanded', String(open));
+      chevron?.classList.toggle('rotate-180', open);
+    };
+
+    button.addEventListener('click', () => setOpen(!isOpen()), { signal });
+    panel.addEventListener('click', (event) => (event.target as HTMLElement).closest('a') && setOpen(false), { signal });
+    document.addEventListener(
+      'click',
+      (event) => isOpen() && !root.contains(event.target as Node) && setOpen(false),
+      { signal },
+    );
+    document.addEventListener(
+      'keydown',
+      (event) => {
+        if (event.key === 'Escape' && isOpen()) {
+          setOpen(false);
+          button.focus();
+        }
+      },
+      { signal },
+    );
+  }
+
   // astro:page-load fires on the first load and after every client-side navigation.
-  document.addEventListener('astro:page-load', initMobileMenu);
+  document.addEventListener('astro:page-load', () => {
+    initMobileMenu();
+    initGuide();
+  });
 </script>

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-15 maja 1915 roku, dzień po [upadku dyktatury generała Pimenty de Castro](/upadek-rzadu-pimenty-de-castro), prezydent [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga) powołał nowy rząd [Portugalii](/kraje/portugalia). Na jego czele miał stanąć [João Chagas](https://pl.wikipedia.org/wiki/João_Chagas), który objął także ministerstwo spraw wewnętrznych. Kandydata wskazała rewolucyjna Junta Konstytucyjna, która przejęła władzę w Lizbonie. Zgodnie z życzeniem jej przywódców gabinet miał być rządem narodowym, a nie partyjnym. Przywódcy republikańskich partii, w tym [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), odmówili jednak wejścia do rządu, a dwaj nominowani ministrowie, Basílio Teles i Alves da Veiga, nie przyjęli tek.
+15 maja 1915 roku, dzień po [upadku dyktatury generała Pimenty de Castro](/upadek-rzadu-pimenty-de-castro), prezydent [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga) powołał nowy rząd [Portugalii](/kraje/portugalia). Na jego czele miał stanąć [João Chagas](https://pl.wikipedia.org/wiki/João_Chagas), który objął także ministerstwo spraw wewnętrznych. Kandydata wskazała rewolucyjna Junta Konstytucyjna, która przejęła władzę w Lizbonie. Zgodnie z życzeniem jej przywódców gabinet miał być rządem narodowym, a nie partyjnym. Przywódcy republikańskich partii, w tym [Afonso Costa](/postacie/afonso-costa), odmówili jednak wejścia do rządu, a dwaj nominowani ministrowie, Basílio Teles i Alves da Veiga, nie przyjęli tek.
 
 ## Dziennikarz i spiskowiec
 

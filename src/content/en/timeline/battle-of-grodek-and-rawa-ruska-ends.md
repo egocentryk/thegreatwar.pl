@@ -2,7 +2,7 @@
 title: Battle of Gródek and Rawa Ruska ends
 summary: On 11 September 1914 the Austro-Hungarian bid to retake Lviv failed. The Russians broke the front at Rawa Ruska; Conrad ordered a retreat behind the San.
 source: koniec-bitwy-pod-grodkiem-i-rawa-ruska
-sourceHash: 3950a9fbf797e9cdd0217395f249152597c7494c
+sourceHash: adac9386f073f8e27d8a5f59da40462523cda71b
 ---
 
 On 11 September 1914 the Battle of Gródek and Rawa Ruska, called the Second Battle of Lemberg in the British chronology of the war, came to an end. The Austro-Hungarian armies, which for several days had been trying to recover the capital of Galicia, were halted, and at [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska) the Russians broke through their front. In the evening the Chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), issued the order for a general retreat.
@@ -13,7 +13,7 @@ After the loss of Lviv Conrad decided to reverse the course of the campaign. The
 
 ## The threat of encirclement
 
-The outcome of the battle was decided by events on the northern flank. The Russian Fifth Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe), rebuilt after the Battle of Komarów, entered the gap between Auffenberg's army and General Viktor Dankl's First Army, retreating from Lublin, and threatened the rear of the whole Austro-Hungarian front. On 11 September the Russian XI Corps broke through the defences at Rawa Ruska, and Russian cavalry was already appearing behind the lines of the Fourth Army.
+The outcome of the battle was decided by events on the northern flank. The Russian Fifth Army of General [Pavel Plehve](/postacie/pawel-plehwe), rebuilt after the Battle of Komarów, entered the gap between Auffenberg's army and General Viktor Dankl's First Army, retreating from Lublin, and threatened the rear of the whole Austro-Hungarian front. On 11 September the Russian XI Corps broke through the defences at Rawa Ruska, and Russian cavalry was already appearing behind the lines of the Fourth Army.
 
 Conrad realised that his armies were in danger of being cut off from the crossings over the San. In the evening of 11 September he ordered all his armies to withdraw behind the [San](/miejsca/san). The next day the Russians occupied the abandoned Rawa Ruska.
 

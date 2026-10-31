@@ -9,7 +9,7 @@ sides:
     commanders: [Pavel Plehve]
 result: Austro-Hungarian victory. The Russian Fifth Army suffered heavy losses but escaped encirclement and withdrew behind the Bug.
 source: bitwa-pod-komarowem
-sourceHash: f8512b2596d467e963fcc2cd3746964b4881aab7
+sourceHash: 3fca459151abc109961495a666be02e2925fea16
 ---
 
 The [Battle of Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) was fought on 26 August – 2 September 1914 in the Zamość region, between [Zamość](https://pl.wikipedia.org/wiki/Zamość), [Komarów](https://pl.wikipedia.org/wiki/Komarów-Osada) and [Tomaszów Lubelski](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski). At the time these were lands of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)) under Russian rule. Here the Austro-Hungarian Fourth Army of General Moritz von Auffenberg defeated the Russian Fifth Army of General Pavel Plehve and very nearly encircled it. It was Austria-Hungary's greatest victory in the [Battle of Galicia](/bitwy/bitwa-galicyjska).
@@ -20,11 +20,11 @@ It should not be confused with the [Battle of Komarów of 1920](https://pl.wikip
 
 The Chief of the General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), wanted to forestall the Russian offensive and strike north from Galicia, deep into the Kingdom of Poland, between the Vistula and the Bug. On the left wing advanced the First Army of [Viktor Dankl](/postacie/victor-dankl), which on 23–25 August won a victory [at Kraśnik](/bitwy/bitwa-pod-krasnikiem). To its right, towards [Chełm](https://pl.wikipedia.org/wiki/Chełm), Auffenberg's [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) was to advance. The risk of the plan lay in the fact that much weaker forces were left to cover eastern Galicia and Lviv.
 
-The Russians, meanwhile, were planning an attack of their own. Their [Fifth Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)) under [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe) was marching south from the Chełm and Hrubieszów area towards the Galician border. The two armies were thus advancing towards each other without knowing exactly where the enemy's main forces were. According to Polish literature, Auffenberg had 12 infantry divisions and 2 cavalry divisions, and Plehve 13 infantry divisions and 5 cavalry divisions, although not all of them entered the fighting from the first day.
+The Russians, meanwhile, were planning an attack of their own. Their [Fifth Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)) under [Pavel Plehve](/postacie/pawel-plehwe) was marching south from the Chełm and Hrubieszów area towards the Galician border. The two armies were thus advancing towards each other without knowing exactly where the enemy's main forces were. According to Polish literature, Auffenberg had 12 infantry divisions and 2 cavalry divisions, and Plehve 13 infantry divisions and 5 cavalry divisions, although not all of them entered the fighting from the first day.
 
 ## Course of the battle
 
-On 25 August Conrad ordered the Fourth Army to advance north. Auffenberg was additionally given the XIV (Tyrolean) Corps of Archduke [Joseph Ferdinand](https://pl.wikipedia.org/wiki/Józef_Ferdynand) from the Third Army. He intended to outflank the Russians on both sides: on the left wing marched the II (Viennese) and IX Corps, in the centre the VI Corps of General [Svetozar Boroević](/postacie/svetozar-boroevic) and the newly formed XVII Corps, and on the right wing the XIV Corps.
+On 25 August Conrad ordered the Fourth Army to advance north. Auffenberg was additionally given the XIV (Tyrolean) Corps of Archduke [Joseph Ferdinand](/postacie/jozef-ferdynand) from the Third Army. He intended to outflank the Russians on both sides: on the left wing marched the II (Viennese) and IX Corps, in the centre the VI Corps of General [Svetozar Boroević](/postacie/svetozar-boroevic) and the newly formed XVII Corps, and on the right wing the XIV Corps.
 
 **On 26 August** the Austro-Hungarian II Corps attacked the Russian XXV Corps near Zamość and forced it to retreat north, towards [Krasnystaw](https://pl.wikipedia.org/wiki/Krasnystaw).
 

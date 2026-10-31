@@ -2,14 +2,14 @@
 title: Germany proclaims a state of imminent danger of war
 summary: On 31 July 1914 Germany proclaimed a "state of imminent danger of war" (Kriegsgefahr), the last step before mobilisation. The chancellor admitted it meant war.
 source: niemcy-oglaszaja-stan-zagrozenia-wojennego
-sourceHash: da2140ca46bf84584a8c88b311b66a1a17e21947
+sourceHash: 74b11280594ffc96977d429d5d64747645e8104d
 ---
 
 In the early afternoon of 31 July 1914 Emperor [Wilhelm II](/postacie/wilhelm-ii) proclaimed a "state of imminent danger of war" (Zustand drohender Kriegsgefahr) in [Germany](/kraje/niemcy). The War Minister, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), informed the Chancellor and the Secretary of State in a brief note: "Zustand der drohenden Kriegsgefahr befohlen" (state of imminent danger of war ordered). It was the response to the news that Russia had ordered [general mobilisation](/rosja-rozpoczyna-powszechna-mobilizacje). The ambassador's telegram from St Petersburg had reached Berlin before noon.
 
 ## The last step before mobilisation
 
-The state of imminent danger of war was not yet mobilisation. Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) explained to the British Ambassador that it signified the taking of certain precautionary measures consequent upon strained relations with a foreign country. The Secretary of State, [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), told the French Ambassador, [Jules Cambon](https://pl.wikipedia.org/wiki/Jules_Cambon), that it allowed the authorities, if they saw fit, to proclaim a [state of siege](https://pl.wikipedia.org/wiki/Stan_wojenny), suspend some public services and close the frontiers. That day the General Staff had already closed the border with Switzerland, citing fears of French espionage.
+The state of imminent danger of war was not yet mobilisation. Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) explained to the British Ambassador that it signified the taking of certain precautionary measures consequent upon strained relations with a foreign country. The Secretary of State, [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), told the French Ambassador, [Jules Cambon](https://pl.wikipedia.org/wiki/Jules_Cambon), that it allowed the authorities, if they saw fit, to proclaim a [state of siege](https://pl.wikipedia.org/wiki/Stan_wojenny), suspend some public services and close the frontiers. That day the General Staff had already closed the border with Switzerland, citing fears of French espionage.
 
 Within the government, however, nobody had any illusions. The day before, at a session of the Prussian Ministry of State, Bethmann Hollweg had said that proclaiming a state of imminent danger of war meant mobilisation, and under present conditions, with both sides mobilising, it meant war. He admitted that the military had already demanded the proclamation, but he had persuaded the Emperor to wait for Vienna's answer to the German and British mediation proposals. The Russian mobilisation settled the matter. The French, for their part, believed that under cover of the state of imminent danger Germany had already begun actual mobilisation.
 

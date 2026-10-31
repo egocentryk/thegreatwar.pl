@@ -17,7 +17,7 @@ brief:
   - "Niemcy uważali wyrok za zgodny z prawem, ale krytycy wskazywali na pośpiech egzekucji. W Wielkiej Brytanii i USA śmierć Cavell wywołała ogromne oburzenie, a propaganda zrobiła z niej symbol niemieckiego barbarzyństwa."
 ---
 
-O świcie 12 października 1915 roku na strzelnicy wojskowej Tir National w [Schaerbeek](https://pl.wikipedia.org/wiki/Schaerbeek) na przedmieściach [Brukseli](https://pl.wikipedia.org/wiki/Bruksela) niemiecki pluton egzekucyjny rozstrzelał 49-letnią brytyjską pielęgniarkę [Edith Cavell](/postacie/edith-cavell). Razem z nią zginął belgijski architekt Philippe Baucq. Niemiecki sąd wojenny skazał ich poprzedniego dnia za pomoc w ucieczce alianckich żołnierzy i młodych Belgów z okupowanej Belgii do neutralnej [Holandii](https://pl.wikipedia.org/wiki/Holandia). Nocne starania dyplomatów amerykańskich i hiszpańskiego posła o ułaskawienie albo choćby odroczenie egzekucji nic nie dały.
+O świcie 12 października 1915 roku na strzelnicy wojskowej Tir National w [Schaerbeek](https://pl.wikipedia.org/wiki/Schaerbeek) na przedmieściach [Brukseli](https://pl.wikipedia.org/wiki/Bruksela) niemiecki pluton egzekucyjny rozstrzelał 49-letnią brytyjską pielęgniarkę [Edith Cavell](/postacie/edith-cavell). Razem z nią zginął belgijski architekt Philippe Baucq. Niemiecki sąd wojenny skazał ich poprzedniego dnia za pomoc w ucieczce alianckich żołnierzy i młodych Belgów z okupowanej Belgii do neutralnej [Holandii](/kraje/holandia). Nocne starania dyplomatów amerykańskich i hiszpańskiego posła o ułaskawienie albo choćby odroczenie egzekucji nic nie dały.
 
 ## Pielęgniarka z Brukseli
 

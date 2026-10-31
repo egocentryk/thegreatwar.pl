@@ -10,7 +10,7 @@ brief:
   - "Do listopada 1918 roku flota urosła według różnych zestawień do 1261 lub ponad 1354 okrętów, a według Johna Simkina zginęło w niej 34 642 ludzi."
 kind: flota
 country: wielka-brytania
-people: [winston-churchill, john-fisher, john-jellicoe, david-beatty, arthur-balfour, edward-carson, eric-geddes, roger-keyes, william-sims]
+people: [winston-churchill, john-fisher, john-jellicoe, david-beatty, arthur-balfour, edward-carson, eric-geddes, roger-keyes, william-sims, reginald-tyrwhitt]
 wikiTitles: ["Royal_Navy"]
 updated: 2026-10-31
 authors: [Natalia]

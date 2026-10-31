@@ -2,10 +2,10 @@
 title: Mostowfi ol-Mamalek prime minister again
 summary: On 18 August 1915 Mostowfi ol-Mamalek became Persian prime minister for the third time. Persia, with no army, tried to steer between the Entente and Germany.
 source: mostowfi-ol-mamalek-ponownie-premierem
-sourceHash: eb7930223ff6ebd6d512decf37e4d0d9eeb262cb
+sourceHash: 654f7ecea664924d3d9dee694f18941041ad6101
 ---
 
-The British chronology of the war records under 18 August 1915 that Mostowfi ol-Mamalek had once again become Prime Minister of [Persia](https://pl.wikipedia.org/wiki/Iran). He had already headed the government twice, most recently until [March 1915](/nowy-premier-persji). According to Persian sources, [Ahmad Shah](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) entrusted him with the office at the beginning of August, and on 27 Mordad 1294 in the Iranian calendar, that is 18 or 19 August, the new Prime Minister presented his cabinet to the Majlis, the Persian parliament. Lists of Persian prime ministers usually take this date as the start of his third government. The previous cabinet, led by Ain od-Dowleh, [had already fallen in July](/dymisja-rzadu-ajn-od-dole).
+The British chronology of the war records under 18 August 1915 that Mostowfi ol-Mamalek had once again become Prime Minister of [Persia](/kraje/persja). He had already headed the government twice, most recently until [March 1915](/nowy-premier-persji). According to Persian sources, [Ahmad Shah](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) entrusted him with the office at the beginning of August, and on 27 Mordad 1294 in the Iranian calendar, that is 18 or 19 August, the new Prime Minister presented his cabinet to the Majlis, the Persian parliament. Lists of Persian prime ministers usually take this date as the start of his third government. The previous cabinet, led by Ain od-Dowleh, [had already fallen in July](/dymisja-rzadu-ajn-od-dole).
 
 ## A respected prime minister
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-26 sierpnia 1914 roku na Zamojszczyźnie rozpoczęła się [bitwa pod Komarowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)). Austro-węgierska 4 Armia generała [Moritza von Auffenberga](https://pl.wikipedia.org/wiki/Moritz_Auffenberg) starła się z rosyjską 5 Armią generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe) na ziemiach Królestwa Polskiego, między [Zamościem](https://pl.wikipedia.org/wiki/Zamość), Komarowem a [Tomaszowem Lubelskim](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski).
+26 sierpnia 1914 roku na Zamojszczyźnie rozpoczęła się [bitwa pod Komarowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)). Austro-węgierska 4 Armia generała [Moritza von Auffenberga](https://pl.wikipedia.org/wiki/Moritz_Auffenberg) starła się z rosyjską 5 Armią generała [Pawła Plehwego](/postacie/pawel-plehwe) na ziemiach Królestwa Polskiego, między [Zamościem](https://pl.wikipedia.org/wiki/Zamość), Komarowem a [Tomaszowem Lubelskim](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski).
 
 ## Dwie armie w marszu
 

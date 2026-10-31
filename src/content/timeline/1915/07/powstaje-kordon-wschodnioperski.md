@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 29 lipca 1915 roku początek tworzenia kordonu wschodnioperskiego. Był to łańcuch posterunków i patroli, który Wielka Brytania i Rosja rozciągnęły wzdłuż granicy [Persji](https://pl.wikipedia.org/wiki/Iran) z [Afganistanem](https://pl.wikipedia.org/wiki/Afganistan). Miał zatrzymać niemieckie i tureckie misje, które przez neutralną Persję próbowały dotrzeć do Kabulu. Ogłoszona przez Teheran neutralność nie była dla nich przeszkodą. Oba mocarstwa od dawna traktowały Persję jak swoje zaplecze, podzieloną na strefy wpływów w [porozumieniu rosyjsko-angielskim](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) z 1907 roku.
+Brytyjska chronologia wojny notuje pod 29 lipca 1915 roku początek tworzenia kordonu wschodnioperskiego. Był to łańcuch posterunków i patroli, który Wielka Brytania i Rosja rozciągnęły wzdłuż granicy [Persji](/kraje/persja) z [Afganistanem](https://pl.wikipedia.org/wiki/Afganistan). Miał zatrzymać niemieckie i tureckie misje, które przez neutralną Persję próbowały dotrzeć do Kabulu. Ogłoszona przez Teheran neutralność nie była dla nich przeszkodą. Oba mocarstwa od dawna traktowały Persję jak swoje zaplecze, podzieloną na strefy wpływów w [porozumieniu rosyjsko-angielskim](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) z 1907 roku.
 
 ## Niemieckie misje do Kabulu
 

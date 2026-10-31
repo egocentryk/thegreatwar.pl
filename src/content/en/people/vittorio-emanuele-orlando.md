@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Palermo (Italy)
 deathPlace: Rome
 source: vittorio-emanuele-orlando
-sourceHash: 1552fab9a6bda8de7bc951be3fe138836e1e7655
+sourceHash: 17369e6133ba55921a3de3da98aaa18f4b0bb0fa
 ---
 
 Vittorio Emanuele Orlando took over the government of Italy at the worst moment of its war, in the last days of October 1917, when the army was retreating in disorder from Caporetto. An eminent professor of public law from Palermo, until then Minister of the Interior accused by the Supreme Command of leniency towards opponents of the war, he proved to be the prime minister the country needed at that time. He changed the commander-in-chief, united parliament and public opinion around the defence on the Piave, and in October 1918 pressed the army to deal Austria-Hungary the final blow at Vittorio Veneto. As the "premier of victory" he sat in Paris in the "Big Four" alongside Wilson, Clemenceau and Lloyd George, but there he lost the dispute over Fiume and the Adriatic coast, and disappointment at the "mutilated victory" contributed to the crisis from which fascism grew.
@@ -15,7 +15,7 @@ Vittorio Emanuele Orlando took over the government of Italy at the worst moment 
 
 He was born on 19 May 1860 in [Palermo](https://pl.wikipedia.org/wiki/Palermo) into a family of lawyers. He studied law at the university there and made a very rapid academic career: in his twenties he was a professor, and in the 1880s and 1890s he became one of the founders of the modern Italian science of constitutional and administrative law. He modelled himself on the German school of law, translated the works of Georg Jellinek, and his great multi-volume treatise on administrative law trained a generation of Italian lawyers. From 1903 he lectured at the University of Rome.
 
-He became a deputy in 1897 for the Sicilian constituency of Partinico and represented it until 1925. He drew close to the liberal [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), in whose governments he was Minister of Education in 1903–1905, when he extended compulsory schooling to the age of twelve, and Minister of Justice in 1907–1909, when among other things he created the Superior Council of the Judiciary. At the end of 1914 he again took over the Ministry of Justice, this time in the cabinet of [Antonio Salandra](/postacie/antonio-salandra).
+He became a deputy in 1897 for the Sicilian constituency of Partinico and represented it until 1925. He drew close to the liberal [Giovanni Giolitti](/postacie/giovanni-giolitti), in whose governments he was Minister of Education in 1903–1905, when he extended compulsory schooling to the age of twelve, and Minister of Justice in 1907–1909, when among other things he created the Superior Council of the Judiciary. At the end of 1914 he again took over the Ministry of Justice, this time in the cabinet of [Antonio Salandra](/postacie/antonio-salandra).
 
 ## Minister of the home front
 
@@ -39,7 +39,7 @@ After the last Austrian offensive was repulsed in the [June battle on the Piave]
 
 ## The peace conference
 
-At the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) Orlando and Sonnino demanded everything the Treaty of London had promised, and in addition the port city of Fiume, which the treaty had not granted to Italy. Orlando was ready to give up most of Dalmatia in exchange for Fiume, Sonnino insisted on Dalmatia, and in the end Italy demanded both and received neither. In the way stood President [Woodrow Wilson](/postacie/woodrow-wilson), who invoked the principle of nationality and supported the emerging State of Serbs, Croats and Slovenes. On 23 April 1919 Wilson issued a message to the Italian people, over the prime minister's head. The next day the Italian delegation left the conference. In Rome crowds greeted it and parliament gave the government a vote of confidence, but in Paris the deliberations went on without the Italians, and on 7 May Orlando and Sonnino had to return there without any concessions. The failure weighed on the prime minister. On 19 June 1919 his government fell in parliament, and Italian nationalists began to speak of a "mutilated victory".
+At the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa) Orlando and Sonnino demanded everything the Treaty of London had promised, and in addition the port city of Fiume, which the treaty had not granted to Italy. Orlando was ready to give up most of Dalmatia in exchange for Fiume, Sonnino insisted on Dalmatia, and in the end Italy demanded both and received neither. In the way stood President [Woodrow Wilson](/postacie/woodrow-wilson), who invoked the principle of nationality and supported the emerging State of Serbs, Croats and Slovenes. On 23 April 1919 Wilson issued a message to the Italian people, over the prime minister's head. The next day the Italian delegation left the conference. In Rome crowds greeted it and parliament gave the government a vote of confidence, but in Paris the deliberations went on without the Italians, and on 7 May Orlando and Sonnino had to return there without any concessions. The failure weighed on the prime minister. On 19 June 1919 his government fell in parliament, and Italian nationalists began to speak of a "mutilated victory".
 
 ## After the war
 

@@ -2,7 +2,7 @@
 title: Battle of the Ardennes begins
 summary: On 22 August 1914 French armies advancing through the Ardennes ran into strong German forces. It was the bloodiest day in the history of the French army.
 source: poczatek-bitwy-w-ardenach
-sourceHash: 91085c55e4746d9f2cbd85d4383d5c7121a1b639
+sourceHash: a70234e4d6282bafb7188d4f9ef9cd532e0c33f5
 brief:
   - "On 22 August 1914, in the forests of the Ardennes, a battle between two French and two German armies flared up in earnest. The day went down as the bloodiest in the history of the French army."
   - "Joffre believed the German centre in the Ardennes was weak and sent in General Ruffey's Third Army and General de Langle de Cary's Fourth Army. Reconnaissance failed: two strong German armies were advancing."
@@ -14,7 +14,7 @@ On 22 August 1914, in the forests of the [Ardennes](https://pl.wikipedia.org/wik
 
 ## Advancing blind
 
-The commander-in-chief, [Joseph Joffre](/postacie/joseph-joffre), was convinced that the Germans had sent their main forces through northern Belgium and that their centre in the Ardennes was weak. He wanted to strike there, at the flank and supply lines of the German armies marching west, and split the German front. He gave the main role to General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey)'s Third Army and General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary)'s Fourth Army, reinforced at the expense of other armies. On 21 August, the day after the [defeat in Lorraine](/koniec-bitew-pod-morhange-i-sarrebourgiem) and on the day the [Battle of Charleroi began](/poczatek-bitwy-pod-charleroi) on the Sambre, the Fourth Army crossed the river [Semois](https://pl.wikipedia.org/wiki/Semois) and set off towards [Neufchâteau](https://pl.wikipedia.org/wiki/Neufchâteau_(prowincja_Luksemburg)), and the Third Army towards Arlon. The first day brought only minor skirmishes.
+The commander-in-chief, [Joseph Joffre](/postacie/joseph-joffre), was convinced that the Germans had sent their main forces through northern Belgium and that their centre in the Ardennes was weak. He wanted to strike there, at the flank and supply lines of the German armies marching west, and split the German front. He gave the main role to General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey)'s Third Army and General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary)'s Fourth Army, reinforced at the expense of other armies. On 21 August, the day after the [defeat in Lorraine](/koniec-bitew-pod-morhange-i-sarrebourgiem) and on the day the [Battle of Charleroi began](/poczatek-bitwy-pod-charleroi) on the Sambre, the Fourth Army crossed the river [Semois](https://pl.wikipedia.org/wiki/Semois) and set off towards [Neufchâteau](https://pl.wikipedia.org/wiki/Neufchâteau_(prowincja_Luksemburg)), and the Third Army towards Arlon. The first day brought only minor skirmishes.
 
 French reconnaissance failed. Units had too few maps and did not know how many enemies they faced. Coming towards them were two strong German armies: the Fourth Army of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and the Fifth Army of Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu). According to the British official history the two sides had similar strength: the French about 361,000, the Germans about 380,000 men. The Germans, however, advanced more cautiously, and some of their units had dug in on the hills and at the edges of the woods.
 

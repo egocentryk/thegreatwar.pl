@@ -2,7 +2,7 @@
 title: Lloyd George becomes prime minister
 summary: On 7 December 1916 David Lloyd George became Prime Minister. He relied on the Conservatives and Labour, while most Liberals backed Asquith.
 source: lloyd-george-premierem
-sourceHash: 9bdfec76e79d21396dee4815cac15e2089ecb4cd
+sourceHash: c4a6074895084f866ddecc5bfb618d16bb3a83d2
 brief:
   - "On 7 December 1916 David Lloyd George accepted the office of Prime Minister of the United Kingdom from King George V, two days after Herbert Henry Asquith had resigned."
   - "He formed his cabinet in a little over a day, relying on the Conservatives, Labour and part of the Liberals, because almost all the leading Liberals sided with Asquith."
@@ -18,7 +18,7 @@ After Asquith's resignation the King first asked the Conservative leader [Andrew
 
 ## Twenty-four hours
 
-Lloyd George needed three pillars: the Conservatives, Labour and at least part of the Liberals. The decisive factor proved to be the position of Balfour, a former prime minister and until then First Lord of the Admiralty, who agreed to take the Foreign Office. The leading Conservative ministers also agreed to join the government: Lord [Curzon](https://pl.wikipedia.org/wiki/George_Curzon), [Austen Chamberlain](https://pl.wikipedia.org/wiki/Austen_Chamberlain) and Lord Robert Cecil, who as early as 5 December had announced that they would join a stable Lloyd George government. The Conservatives obtained an assurance that General [Douglas Haig](/postacie/douglas-haig) would remain commander-in-chief of the British forces in France. [Winston Churchill](/postacie/winston-churchill), whom many of them blamed for the Dardanelles disaster, remained outside the government for the time being.
+Lloyd George needed three pillars: the Conservatives, Labour and at least part of the Liberals. The decisive factor proved to be the position of Balfour, a former prime minister and until then First Lord of the Admiralty, who agreed to take the Foreign Office. The leading Conservative ministers also agreed to join the government: Lord [Curzon](/postacie/george-curzon), [Austen Chamberlain](/postacie/austen-chamberlain) and Lord Robert Cecil, who as early as 5 December had announced that they would join a stable Lloyd George government. The Conservatives obtained an assurance that General [Douglas Haig](/postacie/douglas-haig) would remain commander-in-chief of the British forces in France. [Winston Churchill](/postacie/winston-churchill), whom many of them blamed for the Dardanelles disaster, remained outside the government for the time being.
 
 On 7 December Lloyd George met the Labour MPs and the party's national executive. Only a week earlier Henderson had called Asquith indispensable, but the new prime minister had a great deal to offer Labour. He promised to create ministries of labour and of pensions headed by Labour men, state control of the coal mines and a place for Henderson in the small body directing the war. Labour agreed by a narrow majority. According to Lloyd George's memoirs it was decided by a single vote; historians rather suppose it was several.
 

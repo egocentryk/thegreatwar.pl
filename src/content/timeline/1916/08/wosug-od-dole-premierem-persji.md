@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 29 sierpnia 1916 roku, że premier [Persji](https://pl.wikipedia.org/wiki/Iran) Sepahsalar podał się do dymisji, a jego następcą został Wosug od-Dole, który objął także ministerstwo spraw zagranicznych. Perskie zestawienia rządów potwierdzają tę datę: kończą premierostwo Sepahsalara, a zaczynają urzędowanie Wosuga 7 szahriwara 1295 roku według kalendarza irańskiego, czyli właśnie 29 sierpnia. Niektóre perskie opracowania podają jednak wcześniejszy początek jego rządów, 18 mordada, czyli 9 sierpnia. W resorcie spraw zagranicznych Wosug zastąpił księcia [Sarema od-Dole](/sarem-od-dole-ministrem-spraw-zagranicznych-persji).
+Brytyjska chronologia wojny notuje pod 29 sierpnia 1916 roku, że premier [Persji](/kraje/persja) Sepahsalar podał się do dymisji, a jego następcą został Wosug od-Dole, który objął także ministerstwo spraw zagranicznych. Perskie zestawienia rządów potwierdzają tę datę: kończą premierostwo Sepahsalara, a zaczynają urzędowanie Wosuga 7 szahriwara 1295 roku według kalendarza irańskiego, czyli właśnie 29 sierpnia. Niektóre perskie opracowania podają jednak wcześniejszy początek jego rządów, 18 mordada, czyli 9 sierpnia. W resorcie spraw zagranicznych Wosug zastąpił księcia [Sarema od-Dole](/sarem-od-dole-ministrem-spraw-zagranicznych-persji).
 
 ## Zmiana w złą godzinę
 

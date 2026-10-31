@@ -9,7 +9,7 @@ brief:
   - "It was disbanded after the armistice on the Eastern Front, according to the German record on 25 January 1918."
 name: South Army
 source: armia-poludniowa
-sourceHash: 29c6abb389dbaede67c96557c6fd460da1b8cdf8
+sourceHash: 33428bd4d0d7d52a73285dc3c35a3f92de384013
 ---
 
 The South Army (Südarmee) was the first joint army of [Germany](/kraje/niemcy) and [Austria-Hungary](/kraje/austro-wegry), formed in January 1915 to help the ally in the Carpathians. It was commanded by German generals, first [Alexander von Linsingen](/postacie/alexander-von-linsingen) and from July 1915 Felix von Bothmer, but in its corps Austro-Hungarian divisions fought alongside German regiments, and later Turkish ones as well. For three years it fought in the Carpathians and Eastern Galicia, and it was one of the few armies of the Central Powers against which the great Russian offensives of 1916 and 1917 broke.

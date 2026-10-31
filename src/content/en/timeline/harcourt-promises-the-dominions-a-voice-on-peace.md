@@ -2,7 +2,7 @@
 title: Harcourt promises the dominions a voice on peace
 summary: On 14 April 1915 Colonial Secretary Lewis Harcourt told the House of Commons that the British government would consult the dominions when peace talks came.
 source: harcourt-obiecuje-dominiom-glos-w-sprawie-pokoju
-sourceHash: 48043214fd54530da7329b59501491b1f51ee33e
+sourceHash: 77bae121c275de607d38220dfc9f82475906acc9
 ---
 
 On 14 April 1915 the British Colonial Secretary, [Lewis Harcourt](https://pl.wikipedia.org/wiki/Lewis_Harcourt), gave an assurance in the [House of Commons](/slownik/izba-gmin) that the governments of the [dominions](https://pl.wikipedia.org/wiki/Dominium_brytyjskie) would have a voice in settling the terms of peace. It was not a new declaration but the first public announcement of a promise that Harcourt had already conveyed confidentially in January to the prime ministers of Canada, Australia, New Zealand, the Union of South Africa and Newfoundland.
@@ -23,4 +23,4 @@ The promise mattered. The dominions did not conduct their own foreign policy. Wh
 
 Harcourt did not remain in office long enough to see the promise fulfilled. In May 1915, when [Herbert Henry Asquith](/postacie/herbert-henry-asquith) formed a coalition government, the Colonial Office was taken over by the Conservative [Andrew Bonar Law](/postacie/andrew-bonar-law). For a long time the dominion leaders complained that London treated them as supplicants and told them little about the conduct of the war. The Prime Minister of Canada, [Robert Borden](/postacie/robert-borden), felt this particularly keenly.
 
-Change came only in 1917, when the new prime minister, David Lloyd George, invited the dominion leaders to London and set up the Imperial War Cabinet. After the war Borden and the Prime Minister of Australia, William Hughes, won separate delegations for the dominions at the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) and the right to sign the peace treaty with Germany in their own right. In the British Parliament it was recalled at the time that Asquith's government had already pledged to give the dominions a full share in settling the terms of peace.
+Change came only in 1917, when the new prime minister, David Lloyd George, invited the dominion leaders to London and set up the Imperial War Cabinet. After the war Borden and the Prime Minister of Australia, William Hughes, won separate delegations for the dominions at the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa) and the right to sign the peace treaty with Germany in their own right. In the British Parliament it was recalled at the time that Asquith's government had already pledged to give the dominions a full share in settling the terms of peace.

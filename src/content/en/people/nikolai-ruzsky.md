@@ -5,7 +5,7 @@ role: Commander of the North-Western Front (1914–1915) and the Northern Front 
 country: Russia
 deathPlace: Pyatigorsk
 source: nikolaj-ruzski
-sourceHash: a75cc4045d5f1dd1fc33e45c0545fa5c336d34d4
+sourceHash: cd93c65b76ccee4829cc2932423c8f72b64347c9
 ---
 
 General of Infantry Nikolai Ruzsky was one of the most important Russian commanders of the First World War, although his fame came early and faded quickly. In August 1914 his 3rd Army routed the Austrians east of Lviv and took the city, which made him a hero in Russia, "the conqueror of Galicia". In the autumn he took over the North-Western Front and fought the Germans in the Kingdom of Poland, at Warsaw, Łódź and on the Bzura, and in the winter of 1915 his troops suffered defeat in Masuria. In poor health, he gave up and regained command several times. He went down in history, however, above all as commander of the Northern Front, at whose headquarters in Pskov Tsar [Nicholas II](/postacie/mikolaj-ii) renounced the throne in March 1917.
@@ -32,7 +32,7 @@ In February 1915 the Germans struck the Russian 10th Army in East Prussia in a s
 
 ## Northern Front
 
-In the summer of 1915, during the Great Retreat, Ruzsky returned to service as commander of the [6th Army](https://pl.wikipedia.org/wiki/6_Armia_(Imperium_Rosyjskie)), which covered Petrograd and the Baltic coast. At the end of August the enlarged North-Western Front was split in two, and Ruzsky took over the new [Northern Front](https://pl.wikipedia.org/wiki/Front_Północny_(Imperium_Rosyjskie)), which was to defend the road to the capital. A few days later [the Tsar himself assumed supreme command](/mikolaj-ii-obejmuje-naczelne-dowodztwo). In the autumn the front's troops stopped the Germans on the line of the Dvina, at Riga and [at Dvinsk](/bitwy/bitwa-pod-dzwinskiem). In December 1915 Ruzsky fell ill again and command passed to General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe), and after him to General [Aleksei Kuropatkin](https://pl.wikipedia.org/wiki/Aleksiej_Kuropatkin).
+In the summer of 1915, during the Great Retreat, Ruzsky returned to service as commander of the [6th Army](https://pl.wikipedia.org/wiki/6_Armia_(Imperium_Rosyjskie)), which covered Petrograd and the Baltic coast. At the end of August the enlarged North-Western Front was split in two, and Ruzsky took over the new [Northern Front](https://pl.wikipedia.org/wiki/Front_Północny_(Imperium_Rosyjskie)), which was to defend the road to the capital. A few days later [the Tsar himself assumed supreme command](/mikolaj-ii-obejmuje-naczelne-dowodztwo). In the autumn the front's troops stopped the Germans on the line of the Dvina, at Riga and [at Dvinsk](/bitwy/bitwa-pod-dzwinskiem). In December 1915 Ruzsky fell ill again and command passed to General [Pavel Plehve](/postacie/pawel-plehwe), and after him to General [Aleksei Kuropatkin](https://pl.wikipedia.org/wiki/Aleksiej_Kuropatkin).
 
 In August 1916 the Tsar restored Ruzsky to the head of the Northern Front. The general commanded it cautiously and avoided major operations. The only serious attempt at an offensive was the attack by Radko Dimitriev's 12th Army from Riga towards [Mitau](https://pl.wikipedia.org/wiki/Jełgawa) at the beginning of January 1917. The Latvian Riflemen broke through the German lines, but the success was not exploited, and at the end of January the Germans recovered most of the lost ground. During this time Ruzsky maintained contacts with Duma politicians and made no secret of his view that autocracy was obsolete.
 

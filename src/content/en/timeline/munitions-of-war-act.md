@@ -2,7 +2,7 @@
 title: Munitions of War Act
 summary: On 2 July 1915 the British Munitions of War Act came into force. It banned strikes in the armaments industry and placed factories under state control.
 source: ustawa-o-amunicji-wojennej
-sourceHash: d66e0f55cc49442b7f80eb74e2a1614e0cb086fd
+sourceHash: 488d06fd7cfceb3a28baaac448696685db0eb265
 ---
 
 On 2 July 1915 the Munitions of War Act received royal assent. Its provisions came into force the same day. The Act placed the British armaments industry under state control, banned [strikes](https://pl.wikipedia.org/wiki/Strajk) and [lock-outs](https://pl.wikipedia.org/wiki/Lokaut) in it, and required disputes between workers and employers to be settled by compulsory [arbitration](https://pl.wikipedia.org/wiki/Arbitraż_(prawo)). Parliament passed it at express speed. The [House of Commons](/slownik/izba-gmin) finished work on the bill in the early hours of 2 July, and the [House of Lords](/slownik/izba-lordow) passed it that same afternoon, at a single sitting, after which royal assent was announced in both Houses.
@@ -13,7 +13,7 @@ The Act was a response to the crisis that in May had [brought down the purely Li
 
 As early as March 1915 the then [Chancellor of the Exchequer](https://pl.wikipedia.org/wiki/Kanclerz_skarbu), [David Lloyd George](/postacie/david-lloyd-george), had tried to settle the matter amicably. On 17 March he invited the union leaders to the Treasury. The so-called Treasury Agreement reached there provided that for the duration of the war unskilled workers would be admitted to skilled work, arbitration would replace strikes and manufacturers' profits would be limited. The agreement, however, remained largely on paper. The workers did not want to give up their rights until the government limited the employers' profits, and negotiations with the armaments firms on the matter came to nothing.
 
-Lloyd George, by now Minister of Munitions, introduced the bill in the House of Commons on 23 June. He had agreed its content beforehand with representatives of the trade unions. He also warned that if labour ran short, compulsion would be unavoidable. The trade unionists asked for seven days to gather volunteers. Lord [George Curzon](https://pl.wikipedia.org/wiki/George_Curzon), who presented the Act to the Lords on 2 July, called it "a sort of tripartite treaty between the Government, the employers and the employed".
+Lloyd George, by now Minister of Munitions, introduced the bill in the House of Commons on 23 June. He had agreed its content beforehand with representatives of the trade unions. He also warned that if labour ran short, compulsion would be unavoidable. The trade unionists asked for seven days to gather volunteers. Lord [George Curzon](/postacie/george-curzon), who presented the Act to the Lords on 2 July, called it "a sort of tripartite treaty between the Government, the employers and the employed".
 
 ## What the Act provided
 

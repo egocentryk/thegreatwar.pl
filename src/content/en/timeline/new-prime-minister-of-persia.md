@@ -2,10 +2,10 @@
 title: New prime minister of Persia
 summary: On 14 March 1915 Hassan Pirnia, Moshir od-Dowleh, succeeded Mostowfi ol-Mamalek as head of the Persian government. The country still sought to stay neutral.
 source: nowy-premier-persji
-sourceHash: 606c4092bb0287dba2c4409eb140cb7c17978555
+sourceHash: 4205a5a7c120829ce6cb6f35788803db64b8b63b
 ---
 
-On 14 March 1915 the government of [Persia](https://pl.wikipedia.org/wiki/Iran) changed. The prime minister, Mostowfi ol-Mamalek, resigned. His successor was Hassan Pirnia, known by his title of Moshir od-Dowleh. Only three weeks earlier, in February, [the foreign minister had changed](/nowy-minister-spraw-zagranicznych-persji). Now the whole government fell.
+On 14 March 1915 the government of [Persia](/kraje/persja) changed. The prime minister, Mostowfi ol-Mamalek, resigned. His successor was Hassan Pirnia, known by his title of Moshir od-Dowleh. Only three weeks earlier, in February, [the foreign minister had changed](/nowy-minister-spraw-zagranicznych-persji). Now the whole government fell.
 
 ## The fall of Mostowfi
 

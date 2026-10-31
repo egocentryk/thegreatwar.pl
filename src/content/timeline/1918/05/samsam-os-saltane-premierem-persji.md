@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 3 maja 1918 roku, że na czele rządu [Persji](https://pl.wikipedia.org/wiki/Iran), w miejsce [Mostowfiego ol-Mamalek](/mostowfi-ol-mamalek-ponownie-premierem-persji), stanął Nadżafkoli Chan Samsam os-Saltane, jeden z przywódców [Bachtiarów](https://pl.wikipedia.org/wiki/Bachtiarowie). Zestawienia perskich rządów podają nieco inne daty. Perska lista premierów, oparta na opracowaniu Zahry Szodżai o elitach politycznych Iranu, kończy rząd Mostowfiego 5 ordibeheszta 1297 roku według kalendarza irańskiego, czyli 25 kwietnia, a początek gabinetu Samsama wyznacza na 18 ordibeheszta, czyli 8 maja 1918 roku. Anglojęzyczne zestawienia podają 1 maja. Kraj był więc przez kilka dni, a może dwa tygodnie, bez rządu, co w Persji tych lat nie było niczym wyjątkowym.
+Brytyjska chronologia wojny notuje pod 3 maja 1918 roku, że na czele rządu [Persji](/kraje/persja), w miejsce [Mostowfiego ol-Mamalek](/mostowfi-ol-mamalek-ponownie-premierem-persji), stanął Nadżafkoli Chan Samsam os-Saltane, jeden z przywódców [Bachtiarów](https://pl.wikipedia.org/wiki/Bachtiarowie). Zestawienia perskich rządów podają nieco inne daty. Perska lista premierów, oparta na opracowaniu Zahry Szodżai o elitach politycznych Iranu, kończy rząd Mostowfiego 5 ordibeheszta 1297 roku według kalendarza irańskiego, czyli 25 kwietnia, a początek gabinetu Samsama wyznacza na 18 ordibeheszta, czyli 8 maja 1918 roku. Anglojęzyczne zestawienia podają 1 maja. Kraj był więc przez kilka dni, a może dwa tygodnie, bez rządu, co w Persji tych lat nie było niczym wyjątkowym.
 
 ## Wódz Bachtiarów
 

@@ -37,7 +37,7 @@ Plan był śmiały, ale bardzo ryzykowny. Na północy, na Huczwie, zostawała j
 
 Auffenberg zaczął przegrupowanie 3 września i wkrótce jego korpusy, idące na południowy wschód, wpadły na maszerujące na zachód korpusy rosyjskiej 3 Armii. Zamiast uderzenia w skrzydło przeciwnika wybuchła ciężka bitwa spotkaniowa na zalesionym, podmokłym terenie między Rawą Ruską, Magierowem a Niemirowem. Od 6 września Austriacy utknęli, a na północy grupa Józefa Ferdynanda cofała się pod naciskiem rosyjskich korpusów idących od Tomaszowa. W odwrocie rozbity został między innymi słynny tyrolski pułk Kaiserjägrów.
 
-Najgroźniejsze było jednak to, co działo się jeszcze dalej na północnym zachodzie. Rosyjska 5 Armia generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe), którą Auffenberg kilka dni wcześniej omal nie okrążył pod Komarowem, odtworzyła siły i ruszyła na południe, w lukę między armiami austro-węgierskimi. Z każdym dniem zagrażała tyłom 4 Armii. W tym samym czasie armie rosyjskie rozbijały [pod Tarnawką](/bitwy/bitwa-pod-tarnawka) 1 Armię Dankla, która 9 września zaczęła się cofać.
+Najgroźniejsze było jednak to, co działo się jeszcze dalej na północnym zachodzie. Rosyjska 5 Armia generała [Pawła Plehwego](/postacie/pawel-plehwe), którą Auffenberg kilka dni wcześniej omal nie okrążył pod Komarowem, odtworzyła siły i ruszyła na południe, w lukę między armiami austro-węgierskimi. Z każdym dniem zagrażała tyłom 4 Armii. W tym samym czasie armie rosyjskie rozbijały [pod Tarnawką](/bitwy/bitwa-pod-tarnawka) 1 Armię Dankla, która 9 września zaczęła się cofać.
 
 ## Natarcie nad Wereszycą i pod Gródkiem
 

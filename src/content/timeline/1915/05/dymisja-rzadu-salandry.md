@@ -14,7 +14,7 @@ draft: false
 
 ## Powrót Giolittiego
 
-Salandra i Sonnino [podpisali 26 kwietnia układ londyński](/wlochy-podpisuja-pakt-londynski), który zobowiązywał Włochy do przystąpienia do wojny w ciągu miesiąca. Nie mieli jednak za sobą parlamentu. Większość posłów była związana z [Giovannim Giolittim](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), pięciokrotnym premierem i najbardziej wpływowym politykiem kraju, który uważał, że Włochy mogą uzyskać „sporo” bez wojny, w drodze rokowań z [Austro-Węgrami](/kraje/austro-wegry). Wiedeń, naciskany przez Berlin, wciąż składał nowe propozycje.
+Salandra i Sonnino [podpisali 26 kwietnia układ londyński](/wlochy-podpisuja-pakt-londynski), który zobowiązywał Włochy do przystąpienia do wojny w ciągu miesiąca. Nie mieli jednak za sobą parlamentu. Większość posłów była związana z [Giovannim Giolittim](/postacie/giovanni-giolitti), pięciokrotnym premierem i najbardziej wpływowym politykiem kraju, który uważał, że Włochy mogą uzyskać „sporo” bez wojny, w drodze rokowań z [Austro-Węgrami](/kraje/austro-wegry). Wiedeń, naciskany przez Berlin, wciąż składał nowe propozycje.
 
 9 maja Giolitti przyjechał do Rzymu, witany na dworcu wrogimi okrzykami studentów i nacjonalistów. Rozmawiał z królem i z Salandrą, przekonując, że wojna będzie długa, że armia nie jest do niej gotowa i że lepiej kontynuować rozmowy z Wiedniem i Berlinem. 12 maja jego zwolennicy pokazali swoją siłę. W jego rzymskim mieszkaniu zostawiło bilety wizytowe na znak poparcia około 300 posłów, według niektórych źródeł 320, oraz około stu senatorów. Izba liczyła 508 posłów, więc była to wyraźna większość. Rząd, który miał przedstawić parlamentowi zgodę na wojnę, musiał się liczyć z tym, że ją przegra.
 

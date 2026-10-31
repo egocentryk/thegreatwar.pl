@@ -2,10 +2,10 @@
 title: Netherlands Overseas Trust is founded
 summary: In November 1914 Dutch merchants, shipowners and bankers founded the NOT, a private company guaranteeing the Allies that overseas goods would not reach Germany.
 source: powstaje-holenderski-trust-zamorski
-sourceHash: f111fc80e1b8431191a748920ba9e9fcdcbb2e0c
+sourceHash: 351fcea32b891169f8c0b0d43021694788d829a8
 ---
 
-The British chronology of the war records under 23 November 1914 the founding of the Netherlands Overseas Trust (Nederlandsche Overzee Trustmaatschappij, NOT for short). Dutch sources give 24 November as the date of the company's foundation. It was a private firm which throughout the war acted as an intermediary for the overseas imports of neutral [Netherlands](https://pl.wikipedia.org/wiki/Holandia) and gave Britain guarantees that the imported goods would not be resold to Germany.
+The British chronology of the war records under 23 November 1914 the founding of the Netherlands Overseas Trust (Nederlandsche Overzee Trustmaatschappij, NOT for short). Dutch sources give 24 November as the date of the company's foundation. It was a private firm which throughout the war acted as an intermediary for the overseas imports of neutral [Netherlands](/kraje/holandia) and gave Britain guarantees that the imported goods would not be resold to Germany.
 
 ## Guarantees without the government
 

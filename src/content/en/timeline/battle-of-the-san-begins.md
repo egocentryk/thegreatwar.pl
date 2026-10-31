@@ -2,7 +2,7 @@
 title: Battle of the San begins
 summary: On 16 May 1915 the Germans entered Jarosław and began crossing the San. On the river line the Russians were to halt the Central Powers' offensive in Galicia.
 source: poczatek-bitwy-nad-sanem
-sourceHash: 0c8cabf7a63788282a55b044d9242a52bc12ff24
+sourceHash: 630d90e58d4057f35de42d164974134db8ffb0ac
 ---
 
 Early in the morning of 16 May 1915 the first units of the German Guard Corps entered [Jarosław](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)). During the night the Russian XXIV Corps, after two days of [fighting for the bridgehead](/panstwa-centralne-zdobywaja-jaroslaw), had withdrawn to the eastern bank of the [San](/miejsca/san) and set fire to the bridge behind it. That same day the Guard and the Austro-Hungarian VI Corps began to cross the river on pontoons. The British chronology of the war regards 16 May as the first day of the battle of the San, in which the armies of the Central Powers fought to cross the river and the Russians tried to stop them.
@@ -15,6 +15,6 @@ On 16 May Ivanov issued a new directive to the armies of the front: they were to
 
 ## On the river
 
-On the other side the German [Eleventh Army](/sily-zbrojne/11-armia-niemiecka) of General [August von Mackensen](/postacie/august-von-mackensen) already stood on the San along the whole width of its advance, from near Przemyśl to the mouth of the [Wisłok](https://pl.wikipedia.org/wiki/Wisłok). To the north of it the Austro-Hungarian Fourth Army of Archduke [Joseph Ferdinand](https://pl.wikipedia.org/wiki/Józef_Ferdynand) had reached the lower San at Leżajsk, Rudnik and Nisko. On Mackensen's left wing the Germans threw the Russian III Caucasian Corps back across the river, and during the night of 16–17 May crossed the San at several points and dug in on bridgeheads near Makowisko, Cetula and Radawa.
+On the other side the German [Eleventh Army](/sily-zbrojne/11-armia-niemiecka) of General [August von Mackensen](/postacie/august-von-mackensen) already stood on the San along the whole width of its advance, from near Przemyśl to the mouth of the [Wisłok](https://pl.wikipedia.org/wiki/Wisłok). To the north of it the Austro-Hungarian Fourth Army of Archduke [Joseph Ferdinand](/postacie/jozef-ferdynand) had reached the lower San at Leżajsk, Rudnik and Nisko. On Mackensen's left wing the Germans threw the Russian III Caucasian Corps back across the river, and during the night of 16–17 May crossed the San at several points and dug in on bridgeheads near Makowisko, Cetula and Radawa.
 
 The Russians were still shelling Jarosław from the other bank, and their command was preparing a counter-attack. For the next week heavy fighting went on along the San for the bridgeheads and crossings, in which the Russian counter-attacks failed to push the Germans and Austrians back across the river.

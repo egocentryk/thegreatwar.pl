@@ -2,14 +2,14 @@
 title: German submarine blockade begins
 summary: On 18 February 1915 the German war zone around the British Isles came into force. U-boats began hunting ships bound for British ports.
 source: poczatek-niemieckiej-blokady-podwodnej
-sourceHash: eaa06f6914f381e7ce257740f4b4277d35f445f4
+sourceHash: 9f7ed32af45f9346222dcab9900e4a4add70fc04
 ---
 
 On 18 February 1915 the two-week deadline set in the German declaration of 4 February expired. The waters around Great Britain and Ireland, including the English Channel, became a [war zone](/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich) in which German submarines were to sink enemy merchant ships without warning. In Britain and in Germany people spoke of the start of the submarine blockade of the British Isles.
 
 ## The last days before the deadline
 
-For two weeks there was a hectic exchange of notes. On 10 February the United States government warned Berlin that it would hold it strictly accountable for any attack on American ships and citizens, and at the same time [protested in London](/nota-usa-w-sprawie-neutralnych-bander) against the use of the American flag by British ships. The German reply, signed by the Foreign Secretary, [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), was dated 16 February. In it the Germans presented submarine warfare as defence against the British blockade, which was meant to starve the civilian population. They proposed talks on convoying American ships carrying no contraband and hinted that if Britain began to observe the [Declaration of London](/slownik/deklaracja-londynska) and let food through to Germany, they might abandon submarine warfare.
+For two weeks there was a hectic exchange of notes. On 10 February the United States government warned Berlin that it would hold it strictly accountable for any attack on American ships and citizens, and at the same time [protested in London](/nota-usa-w-sprawie-neutralnych-bander) against the use of the American flag by British ships. The German reply, signed by the Foreign Secretary, [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), was dated 16 February. In it the Germans presented submarine warfare as defence against the British blockade, which was meant to starve the civilian population. They proposed talks on convoying American ships carrying no contraband and hinted that if Britain began to observe the [Declaration of London](/slownik/deklaracja-londynska) and let food through to Germany, they might abandon submarine warfare.
 
 The American warning made an impression in Berlin. According to some studies, in mid-February the Kaiser ordered U-boat commanders to spare ships under neutral flags. In practice, however, this rule did not fully protect them, because a submarine commander watching a ship through the periscope often could not be sure whom he was dealing with.
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Nikolai Ivanov, Nikolai Ruzsky, Aleksei Brusilov, Pavel Plehve]
 result: Russian victory. The Austro-Hungarian counter-offensive collapsed, and on 11 September Conrad ordered a retreat behind the San, leaving the fortress of Przemyśl behind the front.
 source: bitwa-pod-grodkiem-i-rawa-ruska
-sourceHash: 3763153312768c9c7e472da76a39952fb95ce407
+sourceHash: 9d7ebaacd13c5d5ded4fca1e05e89fc9f0efe44b
 ---
 
 The Battle of Gródek and Rawa Ruska was the last, decisive stage of the [Battle of Galicia](/bitwy/bitwa-galicyjska). In September 1914 the Chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), tried to recover [Lviv](/miejsca/lwow), lost a few days earlier. His armies struck at the Russians on a front some hundred kilometres long, from around [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska) in the north to the Dniester in the south. The counter-offensive failed, and its defeat forced Austria-Hungary to give up most of Galicia.
@@ -32,7 +32,7 @@ The plan was bold but very risky. In the north, on the Huczwa, only the weak gro
 
 Auffenberg began regrouping on 3 September, and soon his corps, moving south-east, ran into the corps of the Russian Third Army marching west. Instead of a blow at the enemy's flank, a heavy encounter battle broke out in the wooded, marshy country between Rawa Ruska, Magierów and Niemirów. From 6 September the Austrians were stuck, and in the north Joseph Ferdinand's group was falling back under pressure from Russian corps advancing from Tomaszów. Among the units shattered in the retreat was the famous Tyrolean Kaiserjäger regiment.
 
-The greatest danger, however, lay still further to the north-west. The Russian Fifth Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe), which Auffenberg had almost encircled at Komarów a few days earlier, rebuilt its strength and moved south into the gap between the Austro-Hungarian armies. With every day it threatened the rear of the Fourth Army more. At the same time the Russian armies were defeating Dankl's First Army [at Tarnawka](/bitwy/bitwa-pod-tarnawka), which began to fall back on 9 September.
+The greatest danger, however, lay still further to the north-west. The Russian Fifth Army of General [Pavel Plehve](/postacie/pawel-plehwe), which Auffenberg had almost encircled at Komarów a few days earlier, rebuilt its strength and moved south into the gap between the Austro-Hungarian armies. With every day it threatened the rear of the Fourth Army more. At the same time the Russian armies were defeating Dankl's First Army [at Tarnawka](/bitwy/bitwa-pod-tarnawka), which began to fall back on 9 September.
 
 ## The attack on the Wereszyca and at Gródek
 

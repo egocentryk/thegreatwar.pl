@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 6 marca 1916 roku, że nowym premierem [Persji](https://pl.wikipedia.org/wiki/Iran) został „Sipahsalar A'zam”. Zastąpił księcia Farmanfarmę, którego rząd [upadł na przełomie lutego i marca](/dymisja-farmanfarmy). Perskie zestawienia rządów datują początek urzędowania nowego premiera na 13 lub 14 esfanda 1294 roku według kalendarza irańskiego, czyli na 3 lub 4 marca. Korespondent agencji Reutera doniósł o zmianie w depeszy z Teheranu datowanej na 7 marca. Nowy premier objął także ministerstwo spraw wewnętrznych. Perskie poselstwo w Londynie wyjaśniło wtedy agencji, że chodzi o dobrze znanego polityka nazywanego dotąd Sepahdarem. Szach nadał mu właśnie wyższy tytuł Sepahsalar-e Azam, czyli „wielki wódz naczelny”.
+Brytyjska chronologia wojny notuje pod 6 marca 1916 roku, że nowym premierem [Persji](/kraje/persja) został „Sipahsalar A'zam”. Zastąpił księcia Farmanfarmę, którego rząd [upadł na przełomie lutego i marca](/dymisja-farmanfarmy). Perskie zestawienia rządów datują początek urzędowania nowego premiera na 13 lub 14 esfanda 1294 roku według kalendarza irańskiego, czyli na 3 lub 4 marca. Korespondent agencji Reutera doniósł o zmianie w depeszy z Teheranu datowanej na 7 marca. Nowy premier objął także ministerstwo spraw wewnętrznych. Perskie poselstwo w Londynie wyjaśniło wtedy agencji, że chodzi o dobrze znanego polityka nazywanego dotąd Sepahdarem. Szach nadał mu właśnie wyższy tytuł Sepahsalar-e Azam, czyli „wielki wódz naczelny”.
 
 ## Najbogatszy z rewolucjonistów
 

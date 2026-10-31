@@ -2,14 +2,14 @@
 title: Battle of the Ardennes ends
 summary: On 24 August 1914 the French Third and Fourth Armies, beaten in the Ardennes, fell back behind the Meuse on Joffre's orders. A bloody frontier battle was over.
 source: koniec-bitwy-w-ardenach
-sourceHash: b4f0a22b269bf4d060e30f80ed71bb51dfe78f85
+sourceHash: 844c84b463e25ec3eff5acfa06b245ab77060c04
 ---
 
 On 24 August 1914 the French armies beaten in the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny) received orders to retreat behind the [Meuse](/miejsca/moza). So ended the battle that included 22 August, the bloodiest day in the history of the French army.
 
 ## After the defeat
 
-The French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) and the Third Army of General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey) had attacked through the Ardennes on 21 and 22 August, convinced that they faced weak German forces. They ran into two strong armies: the Fourth Army of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and the Fifth Army of Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu). After heavy losses, on 23 August they began to fall back, fighting delaying actions on the [Semois](https://pl.wikipedia.org/wiki/Semois) and [Chiers](https://pl.wikipedia.org/wiki/Chiers) rivers.
+The French Fourth Army of General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary) and the Third Army of General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey) had attacked through the Ardennes on 21 and 22 August, convinced that they faced weak German forces. They ran into two strong armies: the Fourth Army of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and the Fifth Army of Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu). After heavy losses, on 23 August they began to fall back, fighting delaying actions on the [Semois](https://pl.wikipedia.org/wiki/Semois) and [Chiers](https://pl.wikipedia.org/wiki/Chiers) rivers.
 
 On 24 August the Commander-in-Chief, [Joseph Joffre](/postacie/joseph-joffre), ordered the Fourth Army to withdraw behind the Meuse, to the sector between Mézières and Stenay. Langle de Cary's troops pulled back over the next two days, destroying the bridges behind them. Ruffey's army still tried to counter-attack with its right wing on 24 and 25 August, but the withdrawal of its left wing forced it to halt the attack and fall back towards the Meuse and Verdun. A French garrison remained in the encircled fortress of Longwy and held out for another two days.
 

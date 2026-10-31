@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 września 1914 roku zakończyła się bitwa pod Komarowem na [Zamojszczyźnie](https://pl.wikipedia.org/wiki/Zamojszczyzna). W nocy z 1 na 2 września rosyjska 5 Armia generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe), zagrożona okrążeniem, oderwała się od przeciwnika i wycofała na północny wschód, w stronę [Bugu](https://pl.wikipedia.org/wiki/Bug). Pole bitwy pozostało w rękach austro-węgierskiej 4 Armii generała [Moritza von Auffenberga](https://pl.wikipedia.org/wiki/Moritz_Auffenberg).
+2 września 1914 roku zakończyła się bitwa pod Komarowem na [Zamojszczyźnie](https://pl.wikipedia.org/wiki/Zamojszczyzna). W nocy z 1 na 2 września rosyjska 5 Armia generała [Pawła Plehwego](/postacie/pawel-plehwe), zagrożona okrążeniem, oderwała się od przeciwnika i wycofała na północny wschód, w stronę [Bugu](https://pl.wikipedia.org/wiki/Bug). Pole bitwy pozostało w rękach austro-węgierskiej 4 Armii generała [Moritza von Auffenberga](https://pl.wikipedia.org/wiki/Moritz_Auffenberg).
 
 ## Pułapka, która się nie zamknęła
 

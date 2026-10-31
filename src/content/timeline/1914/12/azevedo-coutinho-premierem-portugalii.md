@@ -18,7 +18,7 @@ Prezydent Manuel de Arriaga chciał utrzymać rząd ponad podziałami partyjnymi
 
 ## Marynarz z Makau
 
-Azevedo Coutinho urodził się w 1871 roku w [Makau](https://pl.wikipedia.org/wiki/Makau). Od młodości służył w marynarce wojennej, specjalizował się w hydrografii i w latach 90. XIX wieku brał udział w kampaniach w Mozambiku. Należał do demokratów, ale nie był pierwszoplanowym politykiem. Przeciwnicy uważali, że rządem w rzeczywistości kieruje z tylnego siedzenia [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), przywódca partii.
+Azevedo Coutinho urodził się w 1871 roku w [Makau](https://pl.wikipedia.org/wiki/Makau). Od młodości służył w marynarce wojennej, specjalizował się w hydrografii i w latach 90. XIX wieku brał udział w kampaniach w Mozambiku. Należał do demokratów, ale nie był pierwszoplanowym politykiem. Przeciwnicy uważali, że rządem w rzeczywistości kieruje z tylnego siedzenia [Afonso Costa](/postacie/afonso-costa), przywódca partii.
 
 Nowy premier zatrzymał dla siebie ministerstwo marynarki. Ministrem spraw wewnętrznych został Alexandre Braga, finansów Álvaro de Castro, spraw zagranicznych Augusto Soares, a kolonii Alfredo Rodrigues Gaspar. Opozycja szybko ochrzciła ten skład „nędznikami Wiktora Hugo”, nawiązując do imion premiera i do powieści [„Nędznicy”](https://pl.wikipedia.org/wiki/Nędznicy). Gabinet nazywano też „piwnicą Alexandre'a”, od imienia nowego ministra spraw wewnętrznych.
 

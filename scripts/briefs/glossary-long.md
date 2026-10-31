@@ -246,6 +246,21 @@ Notes:
   1913 coup, Enver, Talat, Djemal, the war, the genocide (link the guide,
   don't retell), the flight of November 1918.
 
+## Batch 3 (2026-10-31): one text
+
+| grp | glossary slug | wikiTitles | author |
+|---|---|---|---|
+| X | `paryska-konferencja-pokojowa` | Konferencja_pokojowa_w_Paryżu_(1919–1920) | Natalia |
+
+Notes: the conference from 18 January 1919: the Council of Ten and the
+Big Four, the Polish delegation (Dmowski, Paderewski) and Poland's
+borders, the treaties (Versailles, Saint-Germain, Neuilly, Trianon,
+Sèvres) in a sentence each, the League's covenant; link the glossary
+texts `traktat-wersalski`, `liga-narodow` and our 1919 articles
+(`polska-podpisuje-traktat-wersalski` and others), don't retell them.
+Many of our articles before 1919 link the conference as what came later:
+the text must serve them too.
+
 ## Report (short)
 
 Per text: paths, words, sources, internal links, conflicts with our pages

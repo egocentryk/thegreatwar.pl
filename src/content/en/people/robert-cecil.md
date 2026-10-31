@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Chelwood Gate (East Sussex, England)
 source: robert-cecil
-sourceHash: e24d6a620c571c20b0cace3624a9e42df958cbd1
+sourceHash: ae5d9504287de81fe07f485c35084c0158f9e286
 ---
 
 Lord Robert Cecil, son of a prime minister and cousin of [Arthur Balfour](/postacie/arthur-balfour), embodied during the war the two faces of British diplomacy. As Minister of Blockade from February 1916 to July 1918 he directed the economic war against Germany: he rationed supplies to neutral countries, kept blacklists of firms trading with the enemy and fended off protests from the United States. At the same time, as Under-Secretary of State at the Foreign Office, he began writing earlier than anyone else in the government about an organisation that after the war would prevent further conflicts. From these reflections grew his role in creating the [League of Nations](/slownik/liga-narodow), to which he devoted the rest of his life and for which he received the Nobel Peace Prize in 1937.
@@ -31,7 +31,7 @@ The entry of the United States into the war in April 1917 transformed the situat
 
 ## In Lloyd George's government
 
-In the crisis of December 1916 Cecil, together with [Austen Chamberlain](https://pl.wikipedia.org/wiki/Austen_Chamberlain) and Lord [Curzon](https://pl.wikipedia.org/wiki/George_Curzon), was among the Conservative ministers who at first viewed the plans of [David Lloyd George](/postacie/david-lloyd-george) critically, and then told Asquith that they would not remain in the government without Law and Lloyd George. After [Asquith's resignation](/dymisja-asquitha) Cecil kept both his posts. Towards the new prime minister, however, he felt a deep distrust, which after the war turned into open hostility.
+In the crisis of December 1916 Cecil, together with [Austen Chamberlain](/postacie/austen-chamberlain) and Lord [Curzon](/postacie/george-curzon), was among the Conservative ministers who at first viewed the plans of [David Lloyd George](/postacie/david-lloyd-george) critically, and then told Asquith that they would not remain in the government without Law and Lloyd George. After [Asquith's resignation](/dymisja-asquitha) Cecil kept both his posts. Towards the new prime minister, however, he felt a deep distrust, which after the war turned into open hostility.
 
 When Balfour took over the Foreign Office, Cecil often deputised for him. In December 1916 it was he who received [Wilson's peace note](/nota-pokojowa-wilsona) from the American ambassador, barely concealing his resentment that the president put both sides on the same footing. In the spring of 1917, while Balfour was on his mission to America, he ran the ministry. He answered in the House of Commons for policy towards Greece, Albania and Serbia, talked with representatives of nations seeking independence, and in the autumn of 1917 his ministry [recognised the Polish National Committee](/wielka-brytania-uznaje-komitet-narodowy-polski) in Paris. In July 1918 he handed the Ministry of Blockade to [Laming Worthington-Evans](/worthington-evans-ministrem-blokady) and himself became Balfour's deputy with the title of Assistant Secretary of State. In August that year he took part in the talks with [Edvard Beneš](/postacie/edvard-benes) that led to the [recognition of the Czechoslovaks](/wielka-brytania-uznaje-czechoslowakow) as an Allied nation.
 

@@ -2,10 +2,10 @@
 title: Afonso Costa prime minister again
 summary: On 29 November 1915 Afonso Costa, leader of the Democrats, became head of the Portuguese government for the second time, replacing José de Castro's cabinet.
 source: afonso-costa-ponownie-premierem
-sourceHash: 563486badf70c8ac0a349d0d7b120ac768c982da
+sourceHash: e2a268c482c0d8578939d5c57239a5a7fa2cffa1
 ---
 
-On 29 November 1915 President [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) entrusted the office of President of the Ministry, that is, prime minister of [Portugal](/kraje/portugalia), to [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), leader of the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). That day [José de Castro's cabinet](/jose-de-castro-premierem-portugalii), which had governed since June, left office. Portuguese lists of governments give the date as 29 November, although in some compilations the new term begins a day later. Costa took office as prime minister for the second time. As in his first government, he also kept the ministry of finance for himself.
+On 29 November 1915 President [Bernardino Machado](/postacie/bernardino-machado) entrusted the office of President of the Ministry, that is, prime minister of [Portugal](/kraje/portugalia), to [Afonso Costa](/postacie/afonso-costa), leader of the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). That day [José de Castro's cabinet](/jose-de-castro-premierem-portugalii), which had governed since June, left office. Portuguese lists of governments give the date as 29 November, although in some compilations the new term begins a day later. Costa took office as prime minister for the second time. As in his first government, he also kept the ministry of finance for himself.
 
 ## Castro's resignation
 

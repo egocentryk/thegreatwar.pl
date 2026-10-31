@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Pisa (Italy)
 deathPlace: Rome
 source: sidney-sonnino
-sourceHash: b151fd9ca3f0123fe122c6f53674406b0257a016
+sourceHash: f5d80fe972d7cc00ec2f621ce9689cce801b076d
 ---
 
 Baron Sidney Sonnino directed Italian diplomacy throughout the war, from November 1914 to June 1919, in three successive governments. Together with Prime Minister [Antonio Salandra](/postacie/antonio-salandra) he bargained with both sides over the price of Italy's participation in the war, and in April 1915 he signed with the Entente the secret Treaty of London, which promised Italy the Trentino, Trieste, Istria and part of Dalmatia. This agreement became for him the measure of everything. He defended it against the Allies, against the Yugoslav movement, against Wilson's Fourteen Points and finally at the peace conference in Paris, where he was defeated. Honest, hard-working, stern and taciturn, he was regarded as the most stubborn diplomat of his age.
@@ -17,7 +17,7 @@ He was born on 11 March 1847 in Pisa. His father, a Livorno banker of Jewish ori
 
 He made his name with an investigation he carried out in Sicily in the spring of 1876 with his friend Leopoldo Franchetti. They toured the island on horseback, and in the book "The Peasants of Sicily" (1877) Sonnino described the poverty of the countryside, the Mafia and the system of clientelism, presenting the question of the South as a problem for the whole state. In 1880 he entered the Chamber of Deputies and sat in it for almost forty years. He advocated social reforms and universal suffrage, but also a strong state and the monarchy. In 1893–1896, as minister of finance and of the treasury in the government of Francesco Crispi, he restored the balance of the budget after a severe banking crisis. In 1897, in a celebrated article "Let us return to the Statute", he proposed strengthening the king's power over parliament, which his opponents took as an attack on parliamentary government. In 1901 he founded the daily "Il Giornale d'Italia".
 
-For years he was the main rival of [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), who governed Italy in the first decade of the 20th century. He himself twice headed the government, in 1906 and at the turn of 1909 and 1910, but neither of his cabinets lasted longer than a few months. He did not know how to win people over and make compromises, as Italian parliamentary politics required. He never married. In 1914 he was regarded as a man whose time had passed.
+For years he was the main rival of [Giovanni Giolitti](/postacie/giovanni-giolitti), who governed Italy in the first decade of the 20th century. He himself twice headed the government, in 1906 and at the turn of 1909 and 1910, but neither of his cabinets lasted longer than a few months. He did not know how to win people over and make compromises, as Italian parliamentary politics required. He never married. In 1914 he was regarded as a man whose time had passed.
 
 ## From the Triple Alliance to the Entente
 

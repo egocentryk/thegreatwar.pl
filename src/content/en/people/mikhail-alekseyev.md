@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Vyazma (Russian Empire)
 deathPlace: Yekaterinodar
 source: michail-aleksiejew
-sourceHash: 2e2c48d1aa22ffb8ec0810c3c38b982c2a51b5cf
+sourceHash: 53bef26fff407f6edadcb738e27d8ca93fa78cfc
 ---
 
 General Mikhail Alekseyev was the most important staff officer of the Russian Army in this war. In 1914, as chief of staff of the Southwestern Front, he helped bring about the victory in Galicia; in 1915 he led the armies out of the Kingdom of Poland; and from September 1915, as chief of staff to Tsar [Nicholas II](/postacie/mikolaj-ii), he in fact directed all of Russia's operations. In March 1917 his telegrams to the front commanders settled the Emperor's abdication. After the Bolshevik coup he created the nucleus of the White Volunteer Army. The son of a soldier who had risen to officer rank, modest and extraordinarily hard-working, he was one of the few Russian generals who reached the top without connections at court.
@@ -39,7 +39,7 @@ Only on 15 April did the Provisional Government appoint him Supreme Commander. A
 
 ## The Volunteer Army
 
-After the [Bolshevik coup](/rewolucja-pazdziernikowa) Alekseyev left Petrograd in disguise and in mid-November reached [Novocherkassk](https://pl.wikipedia.org/wiki/Nowoczerkask), the capital of the Don Cossacks. Ataman [Alexey Kaledin](https://pl.wikipedia.org/wiki/Aleksiej_Kaledin) received him coolly but allowed him to recruit volunteers. From a few hundred officers, cadets and students arose the so-called Alekseyev Organisation, and after Kornilov's arrival at the turn of 1917 and 1918 the [Volunteer Army](https://pl.wikipedia.org/wiki/Armia_Ochotnicza_(Biała_Armia)). Kornilov took military command, while Alekseyev dealt with politics, finances and contacts with the Allies. The two generals did not like each other.
+After the [Bolshevik coup](/rewolucja-pazdziernikowa) Alekseyev left Petrograd in disguise and in mid-November reached [Novocherkassk](https://pl.wikipedia.org/wiki/Nowoczerkask), the capital of the Don Cossacks. Ataman [Alexey Kaledin](/postacie/aleksiej-kaledin) received him coolly but allowed him to recruit volunteers. From a few hundred officers, cadets and students arose the so-called Alekseyev Organisation, and after Kornilov's arrival at the turn of 1917 and 1918 the [Volunteer Army](https://pl.wikipedia.org/wiki/Armia_Ochotnicza_(Biała_Armia)). Kornilov took military command, while Alekseyev dealt with politics, finances and contacts with the Allies. The two generals did not like each other.
 
 After [Kaledin's suicide](/samobojstwo-kaledina) the volunteers [left Rostov](/poczatek-marszu-lodowego) on the night of 22/23 February 1918 and set off for the Kuban. The seriously ill Alekseyev made this "Ice March" in a carriage. After Kornilov's death in April, Denikin took military command, while Alekseyev remained formally the army's supreme head. He died on 8 October 1918 in Yekaterinodar, today's [Krasnodar](https://pl.wikipedia.org/wiki/Krasnodar). Sources give the immediate cause of death differently; they mention heart failure and pneumonia in a man who had been seriously ill with kidney disease for years. In 1920, before the Bolsheviks arrived, his family moved his remains to Belgrade.
 

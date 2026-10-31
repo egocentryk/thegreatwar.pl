@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-12 marca 1915 roku holenderskie ministerstwo marynarki ogłosiło w urzędowej „Staatscourant” ostrzeżenie dla obcych armatorów. Zagraniczne statki handlowe przebywające na wodach podlegających prawu [Holandii](https://pl.wikipedia.org/wiki/Holandia), które udawałyby statki holenderskie, miały zostać zatrzymane. Władze zapowiedziały, że uniemożliwią im wypłynięcie z holenderskich portów i żeglugę po holenderskich wodach.
+12 marca 1915 roku holenderskie ministerstwo marynarki ogłosiło w urzędowej „Staatscourant” ostrzeżenie dla obcych armatorów. Zagraniczne statki handlowe przebywające na wodach podlegających prawu [Holandii](/kraje/holandia), które udawałyby statki holenderskie, miały zostać zatrzymane. Władze zapowiedziały, że uniemożliwią im wypłynięcie z holenderskich portów i żeglugę po holenderskich wodach.
 
 ## Fałszywe barwy
 

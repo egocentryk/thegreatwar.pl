@@ -2,7 +2,7 @@
 title: Siam declares war on Germany and Austria-Hungary
 summary: On 22 July 1917 King Vajiravudh declared war on Germany and Austria-Hungary. At dawn the Siamese interned the Germans and seized nine German ships.
 source: syjam-wypowiada-wojne-niemcom-i-austro-wegrom
-sourceHash: a6d9b8985b0d7fab52aa5a486996c0970fd3646d
+sourceHash: ea9aeb847fd956fa8c45e1aa50b787139a3e1bdd
 brief:
   - "At dawn on 22 July 1917 the Kingdom of Siam announced that it was at war with Germany and Austria-Hungary. The decision was taken personally by King Vajiravudh, who reigned as Rama VI."
   - "Siam, an island of independence between French and British possessions, was still bound by unequal treaties. For three years it stayed neutral, while its princes were divided."
@@ -43,4 +43,4 @@ In Berlin the news took the Foreign Office by surprise. German officials and the
 
 The king wanted to show at once that Siam would not be an ally only on paper. On 28 September 1917 he introduced a new [flag](https://pl.wikipedia.org/wiki/Flaga_Tajlandii) with red, white and blue stripes, called the Trairanga, which replaced the old white elephant on a red ground. Its colours were to symbolise nation, religion and king, and according to many authors they also deliberately echoed the flags of Britain, France, the United States and Russia. In September the war minister called for volunteers for a corps that was to carry the Siamese flag to Europe. In 1918 just under 1,300 airmen, mechanics, drivers and medical orderlies sailed to France. The drivers carried supplies at the front in Champagne, and after the armistice the Siamese took part in the [occupation of the Rhineland](https://pl.wikipedia.org/wiki/Okupacja_Nadrenii) and in the victory parade in Paris in July 1919. Nineteen of them died, all from disease or in accidents. In February 1918 the German internees were shipped off to camps in India.
 
-The king's calculation paid off. Siam took part in the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) and became a founding member of the [League of Nations](/slownik/liga-narodow). In 1920 the United States, and in the following years Britain and France as well, agreed to revise the old treaties and gradually gave up extraterritoriality. Hell calls participation in the war a key step on Siam's road to regaining full sovereignty.
+The king's calculation paid off. Siam took part in the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa) and became a founding member of the [League of Nations](/slownik/liga-narodow). In 1920 the United States, and in the following years Britain and France as well, agreed to revise the old treaties and gradually gave up extraterritoriality. Hell calls participation in the war a key step on Siam's road to regaining full sovereignty.

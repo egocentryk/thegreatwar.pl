@@ -9,7 +9,7 @@ sides:
     commanders: [Grand Duke Nicholas Nikolaevich, Nikolai Ruzsky, Paul von Rennenkampf, Sergei Scheidemann, Pavel Plehve]
 result: Inconclusive. The Germans failed to encircle the Russian armies but halted the Russian march on Silesia. The Russians abandoned Łódź and withdrew to the Bzura and Rawka.
 source: bitwa-pod-lodzia
-sourceHash: 85c410ea863f057a7de9fd321e79d59abe787c6d
+sourceHash: 739ca1eca299ceb8b2be558d2aa50331dc821f3f
 brief:
   - "The Battle of Łódź, fought from 11 November to 6 December 1914 around Łódź, was one of the greatest battles of manoeuvre of the First World War."
   - "The Russians were preparing an offensive into Silesia, but the Germans learned of it from intercepted radio messages. Hindenburg and Ludendorff moved Mackensen's Ninth Army to Thorn to strike the Russian Second Army's flank."
@@ -34,7 +34,7 @@ On 1 November [Paul von Hindenburg](/postacie/paul-von-hindenburg) became comman
 
 ## Forces
 
-According to the Polish Wikipedia, the main striking group of the Ninth Army numbered about 155,000 men and nearly a thousand guns. It included corps transferred earlier from East Prussia, among them the I and XXV Reserve Corps, as well as the XI, XVII and XX Corps, two cavalry corps and the 3rd Guards Division. The Russians had three armies in the battle area, about 360,000 men in all: Rennenkampf's First Army, standing on the Vistula between Włocławek and Warsaw; the [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)) of General [Sergei Scheidemann](https://pl.wikipedia.org/wiki/Siergiej_Scheidemann) on the line of the Warta and near [Łęczyca](https://pl.wikipedia.org/wiki/Łęczyca); and the Fifth Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe), which was preparing to march west further south. The Russians thus had numerical superiority, but the Germans concentrated their forces where they intended to strike.
+According to the Polish Wikipedia, the main striking group of the Ninth Army numbered about 155,000 men and nearly a thousand guns. It included corps transferred earlier from East Prussia, among them the I and XXV Reserve Corps, as well as the XI, XVII and XX Corps, two cavalry corps and the 3rd Guards Division. The Russians had three armies in the battle area, about 360,000 men in all: Rennenkampf's First Army, standing on the Vistula between Włocławek and Warsaw; the [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)) of General [Sergei Scheidemann](https://pl.wikipedia.org/wiki/Siergiej_Scheidemann) on the line of the Warta and near [Łęczyca](https://pl.wikipedia.org/wiki/Łęczyca); and the Fifth Army of General [Pavel Plehve](/postacie/pawel-plehwe), which was preparing to march west further south. The Russians thus had numerical superiority, but the Germans concentrated their forces where they intended to strike.
 
 ## Course of the battle
 

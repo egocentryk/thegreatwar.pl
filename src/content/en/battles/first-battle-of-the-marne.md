@@ -11,7 +11,7 @@ sides:
     commanders: [Helmuth von Moltke, Alexander von Kluck, Karl von Bülow]
 result: Strategic victory for France and the United Kingdom. The Germans withdrew to the Aisne and the plan for a quick defeat of France collapsed.
 source: pierwsza-bitwa-nad-marna
-sourceHash: c996abc9db28b6360006a9bbd5e0571b405bc219
+sourceHash: b9c57475b4bcea9eee27e6c7cad2699c84a78943
 brief:
   - "The First Battle of the Marne, fought on 6–12 September 1914 on a front from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. Nearly two million soldiers fought in it."
   - "After two weeks of Allied retreat General Kluck turned to pass east of Paris and exposed his flank. General Joffre ordered a general counter-offensive, and Maunoury's Sixth Army struck on the Ourcq."
@@ -46,7 +46,7 @@ French and British airmen noticed that Kluck's columns were bypassing Paris. Gal
 
 ## Forces
 
-From the west stood, in turn: Maunoury's French Sixth Army, the British Expeditionary Force, Franchet d'Espèrey's French Fifth Army, Foch's Ninth Army, the Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) and the Third Army of General [Maurice Sarrail](/postacie/maurice-sarrail) at Verdun. Facing them stood five German armies: Kluck's 1st Army, the 2nd Army of General [Karl von Bülow](/postacie/karl-von-bulow), the 3rd Army of General [Max von Hausen](https://pl.wikipedia.org/wiki/Max_von_Hausen), the 4th Army of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and the 5th Army of Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu). On the western wing the Allies had a numerical superiority, which Joffre had gained by moving troops by rail from other sectors.
+From the west stood, in turn: Maunoury's French Sixth Army, the British Expeditionary Force, Franchet d'Espèrey's French Fifth Army, Foch's Ninth Army, the Fourth Army of General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary) and the Third Army of General [Maurice Sarrail](/postacie/maurice-sarrail) at Verdun. Facing them stood five German armies: Kluck's 1st Army, the 2nd Army of General [Karl von Bülow](/postacie/karl-von-bulow), the 3rd Army of General [Max von Hausen](https://pl.wikipedia.org/wiki/Max_von_Hausen), the 4th Army of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and the 5th Army of Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu). On the western wing the Allies had a numerical superiority, which Joffre had gained by moving troops by rail from other sectors.
 
 ## 5–6 September: the beginning
 

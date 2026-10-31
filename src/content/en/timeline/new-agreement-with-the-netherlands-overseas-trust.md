@@ -2,10 +2,10 @@
 title: New agreement with the Netherlands Overseas Trust
 summary: At the end of June 1916 London and the Netherlands Overseas Trust extended rationing to further goods, among them cocoa, tin, hides and asbestos.
 source: nowe-porozumienie-z-holenderskim-trustem-zamorskim
-sourceHash: 00a47ed591a20074e998b8d70e2f478d3adc166a
+sourceHash: e377b344a0b5a5ed725dd83fa336250128dcf1ba
 ---
 
-The British chronology of the war records under 30 June 1916 a further agreement between the British government and the Netherlands Overseas Trust (NOT) on the rationing of the [Netherlands](https://pl.wikipedia.org/wiki/Holandia). The British official history of the blockade, written by Archibald Bell, dates this agreement to 28 June. It supplemented the agreement of [September 1915](/porozumienie-z-holenderskim-trustem-zamorskim), which had limited imports of fodder, fats, oils and wool into the Netherlands to the quantities needed by the country itself. Now the list of goods rationed by the Trust was extended to include [cocoa](https://pl.wikipedia.org/wiki/Kakao) beans, [tin](https://pl.wikipedia.org/wiki/Cyna), raw and tanned hides, [tanning agents](https://pl.wikipedia.org/wiki/Garbniki), [asbestos](https://pl.wikipedia.org/wiki/Azbest) and [paraffin wax](https://pl.wikipedia.org/wiki/Parafina). All these goods, needed by German industry and German consumers, could now reach the Netherlands only in quantities corresponding to its own consumption.
+The British chronology of the war records under 30 June 1916 a further agreement between the British government and the Netherlands Overseas Trust (NOT) on the rationing of the [Netherlands](/kraje/holandia). The British official history of the blockade, written by Archibald Bell, dates this agreement to 28 June. It supplemented the agreement of [September 1915](/porozumienie-z-holenderskim-trustem-zamorskim), which had limited imports of fodder, fats, oils and wool into the Netherlands to the quantities needed by the country itself. Now the list of goods rationed by the Trust was extended to include [cocoa](https://pl.wikipedia.org/wiki/Kakao) beans, [tin](https://pl.wikipedia.org/wiki/Cyna), raw and tanned hides, [tanning agents](https://pl.wikipedia.org/wiki/Garbniki), [asbestos](https://pl.wikipedia.org/wiki/Azbest) and [paraffin wax](https://pl.wikipedia.org/wiki/Parafina). All these goods, needed by German industry and German consumers, could now reach the Netherlands only in quantities corresponding to its own consumption.
 
 ## Butter and bacon instead of fodder
 

@@ -2,14 +2,14 @@
 title: Italo-Turkish war breaks out
 summary: On 29 September 1911 Italy declared war on the Ottoman Empire to seize Tripolitania and Cyrenaica. Turkey's weakness emboldened the Balkan states.
 source: wybucha-wojna-wlosko-turecka
-sourceHash: 6e2a4e3273f14d075bee3ca1deb19157ddf1098a
+sourceHash: 9350e9a53e5a589c6296989889e21ceacfdf26d2
 ---
 
 At 3 p.m. on 29 September 1911 the Kingdom of Italy declared war on the Ottoman Empire. At stake were the Sultan's last African provinces, [Tripolitania](https://pl.wikipedia.org/wiki/Trypolitania) and [Cyrenaica](https://pl.wikipedia.org/wiki/Cyrenajka), today's Libya. The [Italo-Turkish War](https://pl.wikipedia.org/wiki/Wojna_włosko-turecka), also called the Tripolitanian War, lasted more than a year and never threatened peace between the great powers. It did, however, show the whole of Europe how weak the Ottoman state was, and it emboldened its Balkan neighbours.
 
 ## The ultimatum
 
-Italian nationalists had for years demanded a colony on the far side of the Mediterranean. The government of Prime Minister [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti) hesitated for a long time, but in the summer of 1911, during the [second Moroccan crisis](/niemiecka-kanonierka-panther-wplywa-do-agadiru), it became clear that France would get Morocco. Giolitti and the Foreign Minister, the Marquis Antonino di San Giuliano, decided that this was the last chance to reach for Tripolitania. According to some accounts, in mid-September they resolved to act before their allies in Vienna and Berlin learned of it. The pretext was complaints of wrongs done in Tripoli to Italian citizens and businesses.
+Italian nationalists had for years demanded a colony on the far side of the Mediterranean. The government of Prime Minister [Giovanni Giolitti](/postacie/giovanni-giolitti) hesitated for a long time, but in the summer of 1911, during the [second Moroccan crisis](/niemiecka-kanonierka-panther-wplywa-do-agadiru), it became clear that France would get Morocco. Giolitti and the Foreign Minister, the Marquis Antonino di San Giuliano, decided that this was the last chance to reach for Tripolitania. According to some accounts, in mid-September they resolved to act before their allies in Vienna and Berlin learned of it. The pretext was complaints of wrongs done in Tripoli to Italian citizens and businesses.
 
 28 September was fixed as the first day of mobilisation for the expeditionary corps. According to the American naval officer William Beehler, who described the war a year later, at 2.30 p.m. that same day the Italian chargé d'affaires handed an ultimatum to the Ottoman government in Constantinople: within 24 hours Turkey was to consent to the military occupation of both provinces. Other works date the ultimatum to 26 or 27 September. The Young Turk government of the [Committee of Union and Progress](/slownik/mlodoturcy) gave an evasive answer, offering concessions without giving up the Sultan's sovereignty. Rome took this as a refusal.
 

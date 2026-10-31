@@ -2,10 +2,10 @@
 title: Fall of the Moshir od-Dowleh government
 summary: According to the British chronology, on 26 April 1915 Persian premier Moshir od-Dowleh and foreign minister Mo'aven od-Dowleh resigned under Entente pressure.
 source: dymisja-rzadu-moszira-od-dole
-sourceHash: 6508e6d0538e5842e6f4688bafb51e1b6277a1a3
+sourceHash: 566ee2bd0cbf1493895301e8bc551fe3ed107ef0
 ---
 
-The British chronology of the war records under 26 April 1915 the resignation of the prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran), Hassan Pirnia, known by his title of Moshir od-Dowleh. On the same day the foreign minister, Mo'aven od-Dowleh, who had [headed Persian diplomacy since February](/nowy-minister-spraw-zagranicznych-persji), stepped down. Moshir od-Dowleh had been head of the government only since [14 March](/nowy-premier-persji). The exact date on which his term ended is uncertain. The Encyclopaedia Iranica speaks in general terms of April 1915, and some lists give 1 May, when his successor took office.
+The British chronology of the war records under 26 April 1915 the resignation of the prime minister of [Persia](/kraje/persja), Hassan Pirnia, known by his title of Moshir od-Dowleh. On the same day the foreign minister, Mo'aven od-Dowleh, who had [headed Persian diplomacy since February](/nowy-minister-spraw-zagranicznych-persji), stepped down. Moshir od-Dowleh had been head of the government only since [14 March](/nowy-premier-persji). The exact date on which his term ended is uncertain. The Encyclopaedia Iranica speaks in general terms of April 1915, and some lists give 1 May, when his successor took office.
 
 ## An unacceptable neutrality
 

@@ -2,7 +2,7 @@
 title: Castelnau becomes Joffre's chief of staff
 summary: On 10 December 1915 General Noël de Castelnau, who had led the Champagne offensive, became chief of staff and deputy to Joffre, the French commander-in-chief.
 source: castelnau-szefem-sztabu-joffrea
-sourceHash: 66f67aeea9c5893bff3e5fbd18fedd8f39aece8f
+sourceHash: d3c8682ca548ad645e89e5e392307effbce12157
 ---
 
 On 10 December 1915 General [Noël de Castelnau](/postacie/noel-de-castelnau) became chief of staff and deputy to General Joffre. It was the second change at the top of the French army within a week. A few days earlier [Joseph Joffre](/joffre-naczelnym-wodzem-armii-francuskich) had become commander-in-chief of all the French armies, including the troops at Salonika and the Dardanelles. Since he was now to direct the war on several fronts and represent France before the Allies, as at the [Chantilly conference](/druga-konferencja-w-chantilly) that ended on 8 December, he needed someone at his side to relieve him of day-to-day command of the front in France. The choice fell on one of the most respected French generals.
@@ -15,7 +15,7 @@ As early as the turn of 1914 and 1915 Castelnau had warned that without a mass o
 
 ## Conflicting dates and scope of authority
 
-Sources differ on the day of the appointment. The date of 10 December is given by the French historian Victor Giraud, who in 1921 described Castelnau's war on the basis of the general's letters and notes. His service records show 11 December, and the same date is borne by the dispatch from Paris that the *New York Times* printed on 12 December. The appointment was probably announced on 11 December. The British chronology of the war, for its part, records it as early as 9 December, which other available sources do not confirm. Castelnau handed over command of the Centre Army Group on 12 December to General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary).
+Sources differ on the day of the appointment. The date of 10 December is given by the French historian Victor Giraud, who in 1921 described Castelnau's war on the basis of the general's letters and notes. His service records show 11 December, and the same date is borne by the dispatch from Paris that the *New York Times* printed on 12 December. The appointment was probably announced on 11 December. The British chronology of the war, for its part, records it as early as 9 December, which other available sources do not confirm. Castelnau handed over command of the Centre Army Group on 12 December to General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary).
 
 The scope of the new post was also unclear. The French called it "chief of the general staff of the army", and the British official history simply "Joffre's chief of staff". According to Giraud, Castelnau became deputy commander-in-chief and was to direct in particular the operations on the north-eastern front, that is in France. The *New York Times*, on the other hand, wrote that Joffre retained direct command of the armies of the east and north-east. The existing "major général", the chief of staff in the strict sense, General Maurice Pellé, also remained at headquarters in Chantilly. French biographies of the general state that the Minister of War, Joseph Gallieni, later wanted to put him in Joffre's place. Some officers in the commander-in-chief's entourage, by contrast, were clearly hostile to him.
 

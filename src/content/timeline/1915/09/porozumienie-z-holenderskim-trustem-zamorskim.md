@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-23 września 1915 roku rząd brytyjski zawarł z [Holenderskim Zamorskim Trustem](/powstaje-holenderski-trust-zamorski) (NOT) porozumienie, które ograniczało import do [Holandii](https://pl.wikipedia.org/wiki/Holandia) kilkunastu ważnych towarów do ilości potrzebnych krajowi. Objęło ono kukurydzę i żyto, siemię lniane, makuchy i śrutę, tłuszcze zwierzęce i roślinne, nasiona oleiste, smalec, oleje mineralne, ropę naftową i jej produkty oraz surową wełnę. Brytyjska chronologia wojny notuje to porozumienie dopiero pod 23 listopada 1915 roku, ale brytyjska historia oficjalna blokady, napisana przez Archibalda Bella na podstawie dokumentów Foreign Office, podaje datę 23 września. Trzy tygodnie wcześniej, 1 września, podobne porozumienie objęło bawełnę.
+23 września 1915 roku rząd brytyjski zawarł z [Holenderskim Zamorskim Trustem](/powstaje-holenderski-trust-zamorski) (NOT) porozumienie, które ograniczało import do [Holandii](/kraje/holandia) kilkunastu ważnych towarów do ilości potrzebnych krajowi. Objęło ono kukurydzę i żyto, siemię lniane, makuchy i śrutę, tłuszcze zwierzęce i roślinne, nasiona oleiste, smalec, oleje mineralne, ropę naftową i jej produkty oraz surową wełnę. Brytyjska chronologia wojny notuje to porozumienie dopiero pod 23 listopada 1915 roku, ale brytyjska historia oficjalna blokady, napisana przez Archibalda Bella na podstawie dokumentów Foreign Office, podaje datę 23 września. Trzy tygodnie wcześniej, 1 września, podobne porozumienie objęło bawełnę.
 
 ## Racje zamiast wyroków sądu
 

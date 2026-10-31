@@ -2,10 +2,10 @@
 title: Dutch protest against the blockade
 summary: On 19 March 1915 the Netherlands protested in London and Paris against the Allied reprisal measures, which in its view broke the Declaration of Paris of 1856.
 source: holenderski-protest-przeciw-blokadzie
-sourceHash: a40ad80d274b69880e0662882bb35fe2f7191d75
+sourceHash: 676c3dfbed2cc3df5c2515f10273fcb1ae75c76b
 ---
 
-On 19 March 1915 the Dutch Foreign Minister, John Loudon, sent the British and French ministers in The Hague two almost identical letters. In them the government of the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) protested against the measures by which the two states, in reprisal for German submarine warfare, intended to cut Germany off from seaborne trade. A few days later Loudon laid this correspondence before parliament, and its content appeared in the press.
+On 19 March 1915 the Dutch Foreign Minister, John Loudon, sent the British and French ministers in The Hague two almost identical letters. In them the government of the [Netherlands](/kraje/holandia) protested against the measures by which the two states, in reprisal for German submarine warfare, intended to cut Germany off from seaborne trade. A few days later Loudon laid this correspondence before parliament, and its content appeared in the press.
 
 ## Three stages of reprisal
 

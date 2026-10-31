@@ -2,7 +2,7 @@
 title: Grey proposes an international conference to prevent war
 summary: On 24 July 1914 Sir Edward Grey proposed that four powers jointly mediate between Vienna and St Petersburg before the crisis turned into a war.
 source: grey-proponuje-miedzynarodowa-konferencje-aby-powstrzymac-wojne
-sourceHash: 8b77f8cdce7cd647fef5ddd84b8300fddd006d57
+sourceHash: c2c1bfb9b71c75fc93480478aa9d9919f4d49698
 ---
 
 On 24 July 1914, the day after the Austro-Hungarian ultimatum was handed over in Belgrade, the British Foreign Secretary, Sir [Edward Grey](/postacie/edward-grey), put forward the first proposal meant to halt the crisis before it turned into a war between the Great Powers. He proposed that four states not directly involved in the dispute over [Serbia](/kraje/serbia) – [Great Britain](/kraje/wielka-brytania), [France](/kraje/francja), [Germany](/kraje/niemcy) and [Italy](/kraje/wlochy) – should mediate jointly between [Vienna](https://pl.wikipedia.org/wiki/Wiedeń) and [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg). Two days later this idea grew into the formal proposal of a conference of ambassadors in London.
@@ -23,6 +23,6 @@ Grey also instructed his representative in Belgrade to advise the Serbs to expre
 
 ## Berlin's answer
 
-Lichnowsky's report reached Berlin after midnight. On 25 July the Secretary of State, [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), wrote back that he had passed the proposal on to Vienna, but since the time limit expired that day and the Foreign Minister, [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold), was at Bad Ischl, an extension no longer seemed possible. Emperor [Wilhelm II](/postacie/wilhelm-ii), who read the report on 26 July, wrote in the margin beside the mediation plan that it was superfluous, since Austria had made matters plain to Russia, and that he would not join in unless Austria expressly asked him to.
+Lichnowsky's report reached Berlin after midnight. On 25 July the Secretary of State, [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), wrote back that he had passed the proposal on to Vienna, but since the time limit expired that day and the Foreign Minister, [Leopold Berchtold](/postacie/leopold-berchtold), was at Bad Ischl, an extension no longer seemed possible. Emperor [Wilhelm II](/postacie/wilhelm-ii), who read the report on 26 July, wrote in the margin beside the mediation plan that it was superfluous, since Austria had made matters plain to Russia, and that he would not join in unless Austria expressly asked him to.
 
 The proposal of 24 July already contained every element of the later British efforts: mediation by uninvolved powers, the pressure of time, and the conviction that the key to peace lay in Berlin. That was precisely the key Germany had no intention of using.

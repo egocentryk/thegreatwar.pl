@@ -2934,7 +2934,74 @@ page counts, sample matches, JS-escape check, `--merge`).
 - Rada Komisarzy Ludowych: pl.wiki has its decree dissolving the
   Constituent Assembly; `rozpedzenie-konstytuanty` has the WCIK.
 
+## 56. People, neutral states and the peace conference (2026-10-31)
+
+- Owner: "commit, don't add to menu yet … Do point 2 first". The menu has
+  no room for "Miejsca" and "Siły zbrojne"; a different solution is open
+  (idea: one "Przewodnik" item opening a panel of the reference sections).
+- Sixteen person pages, PL/EN (`people.md`, new batch section): René
+  Viviani, Fernand de Langle de Cary, Paweł Plehwe, Aleksiej Kaledin,
+  Afonso Costa, Bernardino Machado, Remus von Woyrsch, Felix von Bothmer,
+  George Curzon, Austen Chamberlain, Reginald Tyrwhitt, Hugh Trenchard,
+  arcyksiążę Józef Ferdynand, Leopold Berchtold, Giovanni Giolitti,
+  Gottlieb von Jagow (1,170–1,540 words). Portraits from Commons for all
+  sixteen (`person-photos.mjs`, framed in review; Trenchard's and Plehwe's
+  credits set to "autor nieznany"). One unverified Giolitti sentence (a
+  press snippet the writer could not open) removed. Force pages' `people`
+  gained Kaledin, Trenchard (RFC, RAF), Bothmer, Tyrwhitt.
+- Neutral states: `side` may be "Państwa neutralne" (`SIDES`, `sideEn`),
+  `entered`/`left` optional (the header and the cards show them only when
+  set); /kraje shows a third group. Pages Persja (1,207 words, 47 internal
+  links; `wikiTitles: Iran`) and Holandia (1,097, 30), PL/EN, 0 problems.
+- The Paris peace conference: a longer glossary text for the existing term
+  `paryska-konferencja-pokojowa` (540 words, 24 internal links) instead of a
+  timeline article of 18 I 1919: most links to it come from articles of
+  1915–1918, which the date rule would keep on pl.wiki.
+- Links: ≈350 now ours (the report: 21,958 → 21,793; the new pages bring
+  182 pl.wiki links of their own, for things we have no page for); 318
+  files, English restamped.
+- Checks: all content checks 0; i18n 0 (3514 EN files); typecheck 0;
+  build 8160 pages; the new pages checked at 390px, no script errors.
+
+### Writers' notes (for the review list)
+
+- `1916/08/zatopienie-hms-falmouth-i-hms-nottingham`: Tyrwhitt
+  "komandora"; he was a commodore ("komodor"), as elsewhere.
+- `1915/08/bernardino-machado-prezydentem-portugalii`: 18 or 19 children;
+  the Museu da Presidência says 17.
+- `forces/armia-poludniowa`: Bothmer's corps formed in May 1915; de.wiki
+  and german1914: named Korps Bothmer 22/23 III 1915.
+- Woyrsch's Landwehr Corps at Kraśnik (outside sources) vs our pages (over
+  the Vistula only on 3 IX 1914): ours kept.
+- pl.wiki trap: `Kryzys_lipcowy` is the Russian July Days of 1917, not the
+  July crisis of 1914 (worth a line in workflow.md §8).
+
 ---
+
+## 57. One "Przewodnik" menu item for the reference sections (2026-10-31)
+
+- Owner: "Do a single menu item 'Przewodnik', I want to see how it looks".
+  The menu had seven links plus Kontakt and no room for "Miejsca" and
+  "Siły zbrojne".
+- The top level is now Oś czasu, Bitwy, Postacie, Przewodnik, Kontakt
+  (EN: Timeline, Battles, People, Guide, Contact). `site.config.ts`:
+  `NAV_LINKS`/`NAV_LINKS_EN` keep the three direct links; new
+  `GUIDE`/`GUIDE_EN` hold the six reference sections with a one-line note
+  each (Tematy, Kraje, Miejsca, Siły zbrojne, Serie, Słownik) and a
+  smaller `more` row (Najważniejsze daty, Wojna w liczbach, Głosy z
+  frontu, which were in no menu before).
+- `Header.astro`, desktop: "Przewodnik ▾" is a button that opens a panel
+  below the header (two columns: name in the display font and its note,
+  the `more` row under a rule). Opens on click; closes on a link, an
+  outside click or Escape (focus returns to the button); `aria-expanded`,
+  the chevron turns. The item is in the accent colour when the current
+  page is one of its sections. Phone menu: "Przewodnik" as a heading with
+  the six sections in two columns and the `more` row, then Kontakt.
+- Checked: typecheck 0 errors, build; Playwright at 1280 (light, dark,
+  EN), 1024 and 390 px: no horizontal scroll, Escape and outside click
+  close, no script errors.
+- To port to thesecondwar.pl: the `GUIDE` config shape and the dropdown
+  script (`initGuide`, sharing the mobile menu's AbortController).
 
 ## Roadmap (checklist)
 
@@ -3046,7 +3113,8 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links: "Siły zbrojne" batch 2 (§53)
 - [x] Wikipedia links: "Miejsca" batch 3, 47 places (§54)
 - [x] Wikipedia links: glossary texts, batch 2 (§55)
-- [ ] Wikipedia links: people and single articles; a menu entry for Miejsca and Siły zbrojne (expansion-plan.md C)
+- [x] Wikipedia links: people, neutral states, the peace conference (§56)
+- [x] Navigation for Miejsca and Siły zbrojne: one "Przewodnik" menu item with a panel (§57; owner to judge the look)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

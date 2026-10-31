@@ -159,11 +159,13 @@ const countries = defineCollection({
     title: z.string(),
     summary: z.string().max(160),
     brief: z.array(z.string()).max(5).default([]),
-    side: z.enum(["Ententa", "Państwa centralne"]),
+    // A neutral state that was still a battlefield or a theatre of the war
+    // (Persia) is "Państwa neutralne".
+    side: z.enum(["Ententa", "Państwa centralne", "Państwa neutralne"]),
     // In the war: the first day at war, the day it stopped fighting
-    // (armistice, separate peace or capitulation).
-    entered: z.coerce.date(),
-    left: z.coerce.date(),
+    // (armistice, separate peace or capitulation); none for a neutral state.
+    entered: z.coerce.date().optional(),
+    left: z.coerce.date().optional(),
     // Other row labels for it in data/war-numbers.json ("Imperium Brytyjskie").
     numbersAs: z.array(z.string()).default([]),
     // pl.wikipedia titles (with underscores) whose links this page replaces

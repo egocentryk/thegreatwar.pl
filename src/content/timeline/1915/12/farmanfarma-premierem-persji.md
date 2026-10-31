@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 25 grudnia 1915 roku, że nowym premierem [Persji](https://pl.wikipedia.org/wiki/Iran) został książę Abdolhosejn Mirza Farmanfarma. Zastąpił Mostowfiego ol-Mamalek, który [dzień wcześniej podał się do dymisji](/dymisja-mostowfiego-ol-mamalek). Perskie zestawienia rządów datują początek urzędowania Farmanfarmy na 3 deja 1294 roku według kalendarza irańskiego, czyli na 24 grudnia, a raport brytyjskiego posła Charlesa Marlinga o jego nominacji nosi tę samą datę. Dostępne źródła nie wyjaśniają różnicy jednego dnia. Pewne jest, że szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) oddał rząd człowiekowi, któremu Ententa ufała bardziej niż komukolwiek innemu w Teheranie.
+Brytyjska chronologia wojny notuje pod 25 grudnia 1915 roku, że nowym premierem [Persji](/kraje/persja) został książę Abdolhosejn Mirza Farmanfarma. Zastąpił Mostowfiego ol-Mamalek, który [dzień wcześniej podał się do dymisji](/dymisja-mostowfiego-ol-mamalek). Perskie zestawienia rządów datują początek urzędowania Farmanfarmy na 3 deja 1294 roku według kalendarza irańskiego, czyli na 24 grudnia, a raport brytyjskiego posła Charlesa Marlinga o jego nominacji nosi tę samą datę. Dostępne źródła nie wyjaśniają różnicy jednego dnia. Pewne jest, że szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) oddał rząd człowiekowi, któremu Ententa ufała bardziej niż komukolwiek innemu w Teheranie.
 
 ## Książę z rodu Kadżarów
 

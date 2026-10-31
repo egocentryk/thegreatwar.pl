@@ -2,10 +2,10 @@
 title: Samsam ol-Saltaneh becomes prime minister of Persia
 summary: The British chronology says that on 3 May 1918 the Bakhtiari chief Samsam ol-Saltaneh, hostile to the Entente, became Persia's premier. He resigned on 31 May.
 source: samsam-os-saltane-premierem-persji
-sourceHash: 51d4eff039e980f9be373398edada59c4907f1bf
+sourceHash: 658d63c67084f01bc8774ff589a71decf5f43806
 ---
 
-The British chronology of the war records under 3 May 1918 that Najafqoli Khan Samsam ol-Saltaneh, one of the leaders of the [Bakhtiari](https://pl.wikipedia.org/wiki/Bachtiarowie), had taken the place of [Mostowfi ol-Mamalek](/mostowfi-ol-mamalek-ponownie-premierem-persji) at the head of the government of [Persia](https://pl.wikipedia.org/wiki/Iran). Lists of Persian governments give somewhat different dates. The Persian list of prime ministers, based on Zahra Shoja'i's study of Iran's political elites, ends Mostowfi's government on 5 Ordibehesht 1297 in the Iranian calendar, that is 25 April, and dates the start of Samsam's cabinet to 18 Ordibehesht, that is 8 May 1918. English-language lists give 1 May. The country was thus without a government for a few days, or perhaps two weeks, which was nothing exceptional in the Persia of those years.
+The British chronology of the war records under 3 May 1918 that Najafqoli Khan Samsam ol-Saltaneh, one of the leaders of the [Bakhtiari](https://pl.wikipedia.org/wiki/Bachtiarowie), had taken the place of [Mostowfi ol-Mamalek](/mostowfi-ol-mamalek-ponownie-premierem-persji) at the head of the government of [Persia](/kraje/persja). Lists of Persian governments give somewhat different dates. The Persian list of prime ministers, based on Zahra Shoja'i's study of Iran's political elites, ends Mostowfi's government on 5 Ordibehesht 1297 in the Iranian calendar, that is 25 April, and dates the start of Samsam's cabinet to 18 Ordibehesht, that is 8 May 1918. English-language lists give 1 May. The country was thus without a government for a few days, or perhaps two weeks, which was nothing exceptional in the Persia of those years.
 
 ## Chief of the Bakhtiari
 

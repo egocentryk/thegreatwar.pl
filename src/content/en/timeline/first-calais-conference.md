@@ -2,10 +2,10 @@
 title: First Calais conference
 summary: On 6 July 1915 the prime ministers of Britain and France met for the first time at Calais. Each side left with a different idea of what had been agreed.
 source: pierwsza-konferencja-w-calais
-sourceHash: e90d8c9dbe223522b5a484eb39b55e9a3292ae73
+sourceHash: 8c6025a289af6fdb2605a46b97201e4b28277f09
 ---
 
-On 6 July 1915 the first conference of British and French ministers was held in [Calais](https://pl.wikipedia.org/wiki/Calais), convened to coordinate the war policy and strategy of the two countries. It was there that the prime ministers [Herbert Henry Asquith](/postacie/herbert-henry-asquith) and [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) met face to face for the first time. The British chronology of the war places this conference under 5 June 1915, but the British official history, the memoirs of [Winston Churchill](/postacie/winston-churchill), the archives of the Pas-de-Calais department and modern studies all give 6 July. None of these sources mentions a ministerial conference in Calais at the beginning of June.
+On 6 July 1915 the first conference of British and French ministers was held in [Calais](https://pl.wikipedia.org/wiki/Calais), convened to coordinate the war policy and strategy of the two countries. It was there that the prime ministers [Herbert Henry Asquith](/postacie/herbert-henry-asquith) and [René Viviani](/postacie/rene-viviani) met face to face for the first time. The British chronology of the war places this conference under 5 June 1915, but the British official history, the memoirs of [Winston Churchill](/postacie/winston-churchill), the archives of the Pas-de-Calais department and modern studies all give 6 July. None of these sources mentions a ministerial conference in Calais at the beginning of June.
 
 ## Two visions of the war
 

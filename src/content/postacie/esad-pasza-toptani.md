@@ -53,7 +53,7 @@ Oddział ten, zwany taborem, walczył u boku Francuzów w dolinie rzeki [Shkumbi
 
 ## Po wojnie
 
-Po zawieszeniu broni Esad przeniósł się do Paryża i zabiegał o dopuszczenie do [konferencji pokojowej](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) jako przedstawiciel Albanii, wspierany przez delegację jugosłowiańską. Mocarstwa go zignorowały, a w kraju jego stronnictwo topniało. Zebrany w styczniu 1920 roku [kongres w Lushnji](https://pl.wikipedia.org/wiki/Kongres_w_Lushnji) utworzył rząd, który odrzucił zarówno włoski protektorat, jak i pretensje paszy. 13 czerwca 1920 roku, gdy Esad wychodził z hotelu Continental w Paryżu, zastrzelił go młody albański nacjonalista [Avni Rustemi](https://pl.wikipedia.org/wiki/Avni_Rustemi). W grudniu paryski sąd uniewinnił zabójcę, a Albania przyjęła go jak bohatera. Esada pochowano na cmentarzu w Thiais pod Paryżem, w kwaterze żołnierzy serbskich.
+Po zawieszeniu broni Esad przeniósł się do Paryża i zabiegał o dopuszczenie do [konferencji pokojowej](/slownik/paryska-konferencja-pokojowa) jako przedstawiciel Albanii, wspierany przez delegację jugosłowiańską. Mocarstwa go zignorowały, a w kraju jego stronnictwo topniało. Zebrany w styczniu 1920 roku [kongres w Lushnji](https://pl.wikipedia.org/wiki/Kongres_w_Lushnji) utworzył rząd, który odrzucił zarówno włoski protektorat, jak i pretensje paszy. 13 czerwca 1920 roku, gdy Esad wychodził z hotelu Continental w Paryżu, zastrzelił go młody albański nacjonalista [Avni Rustemi](https://pl.wikipedia.org/wiki/Avni_Rustemi). W grudniu paryski sąd uniewinnił zabójcę, a Albania przyjęła go jak bohatera. Esada pochowano na cmentarzu w Thiais pod Paryżem, w kwaterze żołnierzy serbskich.
 
 ## Ocena
 

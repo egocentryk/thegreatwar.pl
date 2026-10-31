@@ -9,7 +9,7 @@ brief:
   - "In July 1917 Lavr Kornilov led it to Halicz and Kałusz; after it passed to the Romanian Front the army was disbanded at the beginning of 1918."
 name: Eighth Army
 source: 8-armia-rosyjska
-sourceHash: 3c0aa4bff407f670dac9c8cb98b099b6a17d6185
+sourceHash: 3c89420740f276b747de20f0eabf6f0d959ec6e1
 ---
 
 The Russian Eighth Army, known as Brusilov's army, was one of the most effective armies that [Russia](/kraje/rosja) put into the field in this war. For its first year and a half it was commanded by [Aleksei Brusilov](/postacie/aleksiej-brusilow), who led it across eastern Galicia into the Carpathians and in 1915 withdrew it to Volhynia without being encircled. In June 1916 it was this army that broke the front at Lutsk in the offensive that was the Russian army's greatest victory of the war. In July of the following year it won the only success of the last Russian offensive, and at the beginning of 1918 it ceased to exist.

@@ -2,7 +2,7 @@
 title: Montenegro starts the First Balkan War
 summary: On 8 October 1912 Montenegro declared war on Turkey. Ten days later Serbia, Bulgaria and Greece, its allies in the Balkan League, joined in.
 source: czarnogora-rozpoczyna-pierwsza-wojne-balkanska
-sourceHash: eeeb292712a0f58caa1145375064ae5e54ef23e9
+sourceHash: 100366e9ac43e69b41733cccc6c0d88b402ccbac
 ---
 
 On 8 October 1912 the Montenegrin chargé d'affaires in Constantinople handed the Turkish government a declaration of war. The American ambassador reported to Washington that day that the Turks had at once ordered offensive action. In the Julian calendar, then in use in the Balkans, it was 25 September. The 1914 report of the Carnegie Endowment's commission gives 9 October, probably the day of the first fighting. The smallest Balkan state, with some 250,000 inhabitants according to the American diplomat Jacob Schurman, thus began the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska). Within days it was to be joined by far stronger allies.
@@ -15,7 +15,7 @@ King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz) of Montenegro needed no 
 
 ## The signal for war
 
-In the summer of 1912 a rising in Albania brought down the government in Constantinople and forced the Young Turks into concessions to the Albanians. The Balkan states saw this as proof of Turkey's weakness and at the same time as a threat to the Christians of Macedonia. The massacres at Kočani and Berane also caused outrage. A proposal by the Austro-Hungarian Foreign Minister [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) to induce Turkey to decentralise changed nothing. The allies signed military conventions, and at the end of September they announced mobilisation.
+In the summer of 1912 a rising in Albania brought down the government in Constantinople and forced the Young Turks into concessions to the Albanians. The Balkan states saw this as proof of Turkey's weakness and at the same time as a threat to the Christians of Macedonia. The massacres at Kočani and Berane also caused outrage. A proposal by the Austro-Hungarian Foreign Minister [Leopold Berchtold](/postacie/leopold-berchtold) to induce Turkey to decentralise changed nothing. The allies signed military conventions, and at the end of September they announced mobilisation.
 
 On 8 October, at the last moment, Russia and Austria-Hungary declared on behalf of the powers that they themselves would carry out reforms in European Turkey and that, if war broke out, they would allow no change in the territorial status quo, whatever its outcome. That same day Montenegro declared war. Its army advanced on Scutari and into the Sanjak of Novi Pazar.
 

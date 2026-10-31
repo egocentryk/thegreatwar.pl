@@ -2,10 +2,10 @@
 title: João Chagas becomes Prime Minister of Portugal
 summary: On 15 May 1915 President Arriaga appointed João Chagas Prime Minister of Portugal. He never took office, as a senator shot him on his way to Lisbon.
 source: joao-chagas-premierem-portugalii
-sourceHash: f535068f88ee072704dc1d8995acf17b81c1e425
+sourceHash: 2cd828542b65d274efdbf67bf8165223dbc25bc3
 ---
 
-On 15 May 1915, the day after the [fall of General Pimenta de Castro's dictatorship](/upadek-rzadu-pimenty-de-castro), President [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga) appointed a new government of [Portugal](/kraje/portugalia). It was to be headed by [João Chagas](https://pl.wikipedia.org/wiki/João_Chagas), who also took the Ministry of the Interior. The candidate had been named by the revolutionary Constitutional Junta, which had seized power in Lisbon. In accordance with the wishes of its leaders, the cabinet was to be a national government rather than a party one. The leaders of the republican parties, including [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), refused, however, to join the government, and two of the ministers appointed, Basílio Teles and Alves da Veiga, declined their portfolios.
+On 15 May 1915, the day after the [fall of General Pimenta de Castro's dictatorship](/upadek-rzadu-pimenty-de-castro), President [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga) appointed a new government of [Portugal](/kraje/portugalia). It was to be headed by [João Chagas](https://pl.wikipedia.org/wiki/João_Chagas), who also took the Ministry of the Interior. The candidate had been named by the revolutionary Constitutional Junta, which had seized power in Lisbon. In accordance with the wishes of its leaders, the cabinet was to be a national government rather than a party one. The leaders of the republican parties, including [Afonso Costa](/postacie/afonso-costa), refused, however, to join the government, and two of the ministers appointed, Basílio Teles and Alves da Veiga, declined their portfolios.
 
 ## Journalist and conspirator
 

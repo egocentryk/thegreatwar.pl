@@ -2,7 +2,7 @@
 title: Battle of the Meuse begins
 summary: On 25 August 1914 the French Fourth Army, pulled back from the Ardennes, took post behind the Meuse from Mézières to Stenay. The fight for the crossings began.
 source: poczatek-bitwy-nad-moza
-sourceHash: cb11ab399327fd9737491a896c121cbd57ca8bd4
+sourceHash: df4cb8f1f19b0761aeeb2fe32e8656b07dda5ce2
 brief:
   - "On 25 August 1914 the French Fourth Army of General Fernand de Langle de Cary, beaten in the Ardennes, took up positions behind the Meuse from near Mézières to Stenay. The fight for the crossings began."
   - "That day Joffre issued General Instruction No. 2: the armies were to fall back gradually while a new army formed near Amiens. A breach of the Fourth Army's line could have cut the French front in two."
@@ -10,7 +10,7 @@ brief:
   - "On 28 August the Fourth Army's counter-attack won local successes, but that evening it was ordered back to the Aisne. Its stand on the Meuse slowed the German centre and kept the front from being torn apart."
 ---
 
-On 25 August 1914 the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), beaten a few days earlier in the Ardennes, took up positions behind the [Meuse](/miejsca/moza), on the stretch from near Mézières to [Stenay](https://pl.wikipedia.org/wiki/Stenay). On its right wing, in the area of [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse), the Third Army was withdrawing across the river. So began the Battle of the Meuse, one of the most important engagements of the Great Retreat. Over the following days the French defended the crossings against the advancing German armies, inflicting heavy losses on them.
+On 25 August 1914 the French Fourth Army of General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary), beaten a few days earlier in the Ardennes, took up positions behind the [Meuse](/miejsca/moza), on the stretch from near Mézières to [Stenay](https://pl.wikipedia.org/wiki/Stenay). On its right wing, in the area of [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse), the Third Army was withdrawing across the river. So began the Battle of the Meuse, one of the most important engagements of the Great Retreat. Over the following days the French defended the crossings against the advancing German armies, inflicting heavy losses on them.
 
 ## After the defeat in the Ardennes
 

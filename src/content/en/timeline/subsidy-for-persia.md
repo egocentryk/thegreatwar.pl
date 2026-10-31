@@ -2,10 +2,10 @@
 title: Subsidy for Persia
 summary: On 28 September 1915 Britain and Russia agreed to Persia's request for a monthly subsidy. The money was to keep the Tehran government on the Entente side.
 source: subwencja-dla-persji
-sourceHash: b3659afe0fd368b61ed63edb110bf1929c435ddd
+sourceHash: f66cf4998bca4fb2da58090cdf9dd522ed499c9d
 ---
 
-A British chronology of the war records under 28 September 1915 that the governments of Great Britain and Russia accepted the request of the government of [Persia](https://pl.wikipedia.org/wiki/Iran) for a monthly subsidy. Neutral Persia was sinking in debt and its treasury was empty. The government in [Tehran](https://pl.wikipedia.org/wiki/Teheran), headed by Mostowfi ol-Mamalek, who [had taken office in August](/mostowfi-ol-mamalek-ponownie-premierem), was looking for money wherever it could. For London and Petrograd financial aid was a way of keeping Tehran from going over to the Central Powers.
+A British chronology of the war records under 28 September 1915 that the governments of Great Britain and Russia accepted the request of the government of [Persia](/kraje/persja) for a monthly subsidy. Neutral Persia was sinking in debt and its treasury was empty. The government in [Tehran](https://pl.wikipedia.org/wiki/Teheran), headed by Mostowfi ol-Mamalek, who [had taken office in August](/mostowfi-ol-mamalek-ponownie-premierem), was looking for money wherever it could. For London and Petrograd financial aid was a way of keeping Tehran from going over to the Central Powers.
 
 ## Money instead of a loan
 

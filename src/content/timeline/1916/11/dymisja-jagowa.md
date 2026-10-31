@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-22 listopada 1916 roku cesarz [Wilhelm II](/postacie/wilhelm-ii) udzielił dymisji [Gottliebowi von Jagowowi](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), od stycznia 1913 roku sekretarzowi stanu w niemieckim Urzędzie Spraw Zagranicznych (Auswärtiges Amt), czyli w praktyce ministrowi spraw zagranicznych Rzeszy. Następcą został dotychczasowy podsekretarz stanu Arthur Zimmermann. Tę datę podaje większość niemieckich opracowań i wykazów urzędników. Brytyjska chronologia wojny notuje ustąpienie Jagowa już pod 20 listopada. Oficjalnie Jagow odchodził z powodu złego stanu zdrowia. Za tą wersją kryła się jednak porażka w sporze, który od miesięcy dzielił niemieckie władze: czy rozpocząć nieograniczoną wojnę podwodną i zaryzykować wojnę ze Stanami Zjednoczonymi.
+22 listopada 1916 roku cesarz [Wilhelm II](/postacie/wilhelm-ii) udzielił dymisji [Gottliebowi von Jagowowi](/postacie/gottlieb-von-jagow), od stycznia 1913 roku sekretarzowi stanu w niemieckim Urzędzie Spraw Zagranicznych (Auswärtiges Amt), czyli w praktyce ministrowi spraw zagranicznych Rzeszy. Następcą został dotychczasowy podsekretarz stanu Arthur Zimmermann. Tę datę podaje większość niemieckich opracowań i wykazów urzędników. Brytyjska chronologia wojny notuje ustąpienie Jagowa już pod 20 listopada. Oficjalnie Jagow odchodził z powodu złego stanu zdrowia. Za tą wersją kryła się jednak porażka w sporze, który od miesięcy dzielił niemieckie władze: czy rozpocząć nieograniczoną wojnę podwodną i zaryzykować wojnę ze Stanami Zjednoczonymi.
 
 ## Dyplomata wbrew sobie
 

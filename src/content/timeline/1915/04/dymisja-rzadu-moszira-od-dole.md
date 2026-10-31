@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 26 kwietnia 1915 roku dymisję premiera [Persji](https://pl.wikipedia.org/wiki/Iran) Hasana Pirnii, znanego pod tytułem Moszir od-Dole. Tego samego dnia ustąpił minister spraw zagranicznych Moawen od-Dole, który [kierował perską dyplomacją od lutego](/nowy-minister-spraw-zagranicznych-persji). Moszir od-Dole stał na czele rządu zaledwie od [14 marca](/nowy-premier-persji). Dokładna data końca jego urzędowania nie jest pewna. Encyclopaedia Iranica pisze ogólnie o kwietniu 1915 roku, a część zestawień podaje 1 maja, gdy urząd objął jego następca.
+Brytyjska chronologia wojny notuje pod 26 kwietnia 1915 roku dymisję premiera [Persji](/kraje/persja) Hasana Pirnii, znanego pod tytułem Moszir od-Dole. Tego samego dnia ustąpił minister spraw zagranicznych Moawen od-Dole, który [kierował perską dyplomacją od lutego](/nowy-minister-spraw-zagranicznych-persji). Moszir od-Dole stał na czele rządu zaledwie od [14 marca](/nowy-premier-persji). Dokładna data końca jego urzędowania nie jest pewna. Encyclopaedia Iranica pisze ogólnie o kwietniu 1915 roku, a część zestawień podaje 1 maja, gdy urząd objął jego następca.
 
 ## Neutralność nie do przyjęcia
 

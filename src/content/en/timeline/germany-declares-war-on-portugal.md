@@ -2,7 +2,7 @@
 title: Germany declares war on Portugal
 summary: On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal.
 source: niemcy-wypowiadaja-wojne-portugalii
-sourceHash: 6dde3188b8e3d0c6f14ace0b2386780c7d02860b
+sourceHash: 382181385f3638ce52729e98f740915d8d129fca
 brief:
   - "On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal. The following evening Rosen left for Madrid."
   - "The immediate cause was the seizure by the Portuguese, at Britain's request, of German and Austro-Hungarian merchant ships in the Tagus on 23 February. Lisbon refused to revoke the decision."
@@ -17,7 +17,7 @@ The following evening Rosen, with his wife and the legation staff, left Lisbon b
 
 ## The dispute over the ships
 
-The immediate cause of the rupture was ships. On 23 February, at Britain's request, the Portuguese [seized the German and Austro-Hungarian merchant ships](/portugalia-zajmuje-niemieckie-statki) lying in the [Tagus](https://pl.wikipedia.org/wiki/Tag_(rzeka)), and in the following days also those in the country's other ports and in the colonies. By 9 March they had taken over about 70 of them. The government of [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa) presented this as an ordinary requisition in the public interest, needed by the economy, and that same day instructed its minister in Berlin to explain to the Germans Lisbon's position on the rights of shipowners, crews and compensation.
+The immediate cause of the rupture was ships. On 23 February, at Britain's request, the Portuguese [seized the German and Austro-Hungarian merchant ships](/portugalia-zajmuje-niemieckie-statki) lying in the [Tagus](https://pl.wikipedia.org/wiki/Tag_(rzeka)), and in the following days also those in the country's other ports and in the colonies. By 9 March they had taken over about 70 of them. The government of [Afonso Costa](/postacie/afonso-costa) presented this as an ordinary requisition in the public interest, needed by the economy, and that same day instructed its minister in Berlin to explain to the Germans Lisbon's position on the rights of shipowners, crews and compensation.
 
 Berlin did not accept these explanations. According to a later report by the Portuguese government, a few days after the seizure of the ships Rosen handed Soares a note in which he called Portugal's conduct "a particular violation of law and an act of violence" and demanded that the decision be revoked immediately. Lisbon refused. It invoked a provision of international law that Italy had recently applied when requisitioning German ships in its ports, without Germany declaring war on it for that. It also recalled that in August 1914 Portugal had openly declared its loyalty to the alliance with Britain, and that Germany had taken note of this, keeping its minister in Lisbon.
 
@@ -37,7 +37,7 @@ The Portuguese had in fact been fighting the Germans for a long time, although f
 
 ## Congress and a national government
 
-On the afternoon of 10 March Congress, that is both chambers of parliament, met in extraordinary session in the [São Bento Palace](https://pl.wikipedia.org/wiki/Pałac_São_Bento). A crowd filled the galleries and the streets around the building. President [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) watched the proceedings from a box, and in the diplomatic gallery the British and French ministers were given an ovation. The reading of the German note provoked indignation. Costa declared that Portugal would fulfil all the obligations arising from the [alliance with Britain](https://pl.wikipedia.org/wiki/Sojusz_angielsko-portugalski). Congress unanimously adopted a motion by the deputy Alexandre Braga: it supported the government's actions and declared that the time had come for a "national ministry" that would guard the honour and interests of the country.
+On the afternoon of 10 March Congress, that is both chambers of parliament, met in extraordinary session in the [São Bento Palace](https://pl.wikipedia.org/wiki/Pałac_São_Bento). A crowd filled the galleries and the streets around the building. President [Bernardino Machado](/postacie/bernardino-machado) watched the proceedings from a box, and in the diplomatic gallery the British and French ministers were given an ovation. The reading of the German note provoked indignation. Costa declared that Portugal would fulfil all the obligations arising from the [alliance with Britain](https://pl.wikipedia.org/wiki/Sojusz_angielsko-portugalski). Congress unanimously adopted a motion by the deputy Alexandre Braga: it supported the government's actions and declared that the time had come for a "national ministry" that would guard the honour and interests of the country.
 
 Costa tendered his cabinet's resignation and continued to govern on an interim basis. Talks on a new government went slowly, because several candidates for prime minister declined. In the end a cabinet was formed that was called the "Sacred Union", on the model of the French national concord of 1914.
 

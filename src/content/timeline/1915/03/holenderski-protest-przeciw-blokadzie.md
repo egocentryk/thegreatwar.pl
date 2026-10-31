@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-19 marca 1915 roku holenderski minister spraw zagranicznych John Loudon wysłał posłom Wielkiej Brytanii i Francji w Hadze dwa niemal jednakowe listy. Rząd [Holandii](https://pl.wikipedia.org/wiki/Holandia) protestował w nich przeciw środkom, którymi oba państwa w odwecie za niemiecką wojnę podwodną chciały odciąć Niemcy od handlu morskiego. Kilka dni później Loudon przedstawił tę korespondencję parlamentowi, a jej treść ukazała się w prasie.
+19 marca 1915 roku holenderski minister spraw zagranicznych John Loudon wysłał posłom Wielkiej Brytanii i Francji w Hadze dwa niemal jednakowe listy. Rząd [Holandii](/kraje/holandia) protestował w nich przeciw środkom, którymi oba państwa w odwecie za niemiecką wojnę podwodną chciały odciąć Niemcy od handlu morskiego. Kilka dni później Loudon przedstawił tę korespondencję parlamentowi, a jej treść ukazała się w prasie.
 
 ## Trzy etapy odwetu
 

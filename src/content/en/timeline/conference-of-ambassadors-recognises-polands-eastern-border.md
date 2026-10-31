@@ -2,7 +2,7 @@
 title: Conference of Ambassadors recognises Poland's eastern border
 summary: On 15 March 1923 the Conference of Ambassadors recognised Poland's eastern borders with Russia and Lithuania and its sovereignty over Eastern Galicia and Vilna.
 source: rada-ambasadorow-uznaje-wschodnia-granice-polski
-sourceHash: 8803fde95dd4c1aa75cb45eacf4586b028c7581b
+sourceHash: 685e6382cd47b1fd6d3fb07183af3d7ae9f564e2
 brief:
   - "On 15 March 1923 the Conference of Ambassadors recognised Poland's border with Russia under the Peace of Riga and its border with Lithuania, which left Vilna on the Polish side. It also granted Poland full sovereignty over Eastern Galicia."
   - "The Treaty of Versailles left the fixing of Poland's eastern borders to the powers, but Poland had won them by itself. Their recognition was blocked above all by Lloyd George's Britain, which demanded real autonomy for the Ukrainians of Galicia."
@@ -22,7 +22,7 @@ Successive foreign ministers, Eustachy Sapieha, [Konstanty Skirmunt](https://pl.
 
 The situation changed in the winter. In October 1922 Lloyd George's government fell, and his successor, the Conservative Bonar Law, was much better disposed towards Poland. The new Foreign Minister in [Władysław Sikorski](/postacie/wladyslaw-sikorski)'s government, [Aleksander Skrzyński](https://pl.wikipedia.org/wiki/Aleksander_Skrzyński), made the question of the borders his chief task. In January the powers were preoccupied with the occupation of the Ruhr and [Lithuania's seizure of Klaipėda](/powstanie-w-klajpedzie), and Warsaw's restrained reaction won their goodwill. On 3 February the Council of the League of Nations divided the neutral zone between Poland and Lithuania. On 6 February Skrzyński delivered his exposé in the Sejm, and the Sejm resolved that the Treaty of Riga had fixed the eastern border definitively and that the belonging of the Vilna land had been decided by "the expressed will of the local population". On 15 February the Polish government formally asked the Conference of Ambassadors to settle the matter. Lithuania had asked for the same as early as November 1922.
 
-France and Mussolini's Italy took Poland's side. On 1 March the Conference took up the matter, and the British ambassador, Lord Crewe, considered Galician autonomy insufficient. Weary of the whole affair, however, London gave way on 6 March: [Lord Curzon](https://pl.wikipedia.org/wiki/George_Curzon) dropped the demand for a separate convention on the status of Galicia. On 14 March the Conference adopted the final text, and it was signed the following afternoon.
+France and Mussolini's Italy took Poland's side. On 1 March the Conference took up the matter, and the British ambassador, Lord Crewe, considered Galician autonomy insufficient. Weary of the whole affair, however, London gave way on 6 March: [Lord Curzon](/postacie/george-curzon) dropped the demand for a separate convention on the status of Galicia. On 14 March the Conference adopted the final text, and it was signed the following afternoon.
 
 ## The decision
 

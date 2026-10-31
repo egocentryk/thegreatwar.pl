@@ -2,10 +2,10 @@
 title: Shipping Control Committee
 summary: On 27 January 1916 Asquith set up the Shipping Control Committee under Lord Curzon. It was to share out scarce tonnage between home, the forces and the Allies.
 source: komitet-kontroli-zeglugi
-sourceHash: 8d0d272aceafbc821b6ce4de6ccb303704706c39
+sourceHash: e875e11263bc4e2d99f3e8bff258ec94fd6e4860
 ---
 
-On 27 January 1916 Prime Minister [Herbert Henry Asquith](/postacie/herbert-henry-asquith) set up the Shipping Control Committee. It was to decide on the allocation of British ships to the essential needs of the Allies and to the essential needs of Britain herself, and to put its views to the Cabinet on the tonnage required by the Navy and the Army. On the latter, however, it could not decide. The chairman was Lord [George Curzon](https://pl.wikipedia.org/wiki/George_Curzon), [Lord Privy Seal](https://pl.wikipedia.org/wiki/Lord_tajnej_pieczęci) and a member of the Cabinet. Alongside him sat Lord Faringdon, a financier and chairman of the Great Central Railway; Thomas Royden, deputy chairman of the [Cunard Line](https://pl.wikipedia.org/wiki/Cunard_Line); and Frederick Lewis, deputy chairman of the shipowners Furness, Withy & Co. The secretary was Captain Clement Jones of the Booth Line.
+On 27 January 1916 Prime Minister [Herbert Henry Asquith](/postacie/herbert-henry-asquith) set up the Shipping Control Committee. It was to decide on the allocation of British ships to the essential needs of the Allies and to the essential needs of Britain herself, and to put its views to the Cabinet on the tonnage required by the Navy and the Army. On the latter, however, it could not decide. The chairman was Lord [George Curzon](/postacie/george-curzon), [Lord Privy Seal](https://pl.wikipedia.org/wiki/Lord_tajnej_pieczęci) and a member of the Cabinet. Alongside him sat Lord Faringdon, a financier and chairman of the Great Central Railway; Thomas Royden, deputy chairman of the [Cunard Line](https://pl.wikipedia.org/wiki/Cunard_Line); and Frederick Lewis, deputy chairman of the shipowners Furness, Withy & Co. The secretary was Captain Clement Jones of the Booth Line.
 
 ## Not enough ships for everything
 

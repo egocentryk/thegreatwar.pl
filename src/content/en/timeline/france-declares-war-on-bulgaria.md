@@ -2,7 +2,7 @@
 title: France declares war on Bulgaria
 summary: On 16 October 1915, a day after Britain, France declared a state of war with Bulgaria. Paris faced a cabinet crisis; the Army of the Orient was landing.
 source: francja-wypowiada-wojne-bulgarii
-sourceHash: 69dfe8a1ba417cfe85fde5fe7af2c5a8b51f96f1
+sourceHash: 8d44f4ab96ecffd12cd99675132417e642804281
 ---
 
 On 16 October 1915 [France](/kraje/francja) declared that it was in a state of war with [Bulgaria](/kraje/bulgaria). According to the British *Annual Register*, the state of war applied from six in the morning. That day President [Raymond Poincaré](/postacie/raymond-poincare) noted in his diary: "Since the representatives of the Allies have left Sofia without obtaining even the shadow of a promise, and Bulgaria has declared war on Serbia, we now consider that a state of war exists between France and Bulgaria. Great Britain has anticipated us in this." Indeed, the British had [declared a state of war](/wielka-brytania-wypowiada-wojne-bulgarii) the previous evening.
@@ -11,7 +11,7 @@ France used the same formula as London. It did not send Sofia a separate declara
 
 ## A government in crisis
 
-According to the British official history of naval operations, the joint declaration of the allies was delayed precisely because of the crisis in France. Three days earlier [Foreign Minister Théophile Delcassé had resigned](/theophile-delcasse-podaje-sie-do-dymisji), and his ministry was temporarily run by Prime Minister [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani). The government was criticised for the failure of its diplomacy in the Balkans, and in the press and in parliament there was dispute over whether it was worth sending troops to help Serbia at all, instead of concentrating all forces on the Western Front. In a stormy debate in the Chamber of Deputies Viviani defended the Salonika expedition and gave assurances that France would not act there alone, since Britain and Russia had promised help. The cabinet survived, but, as the *Revue des Deux Mondes* wrote, it had been saved rather than strengthened.
+According to the British official history of naval operations, the joint declaration of the allies was delayed precisely because of the crisis in France. Three days earlier [Foreign Minister Théophile Delcassé had resigned](/theophile-delcasse-podaje-sie-do-dymisji), and his ministry was temporarily run by Prime Minister [René Viviani](/postacie/rene-viviani). The government was criticised for the failure of its diplomacy in the Balkans, and in the press and in parliament there was dispute over whether it was worth sending troops to help Serbia at all, instead of concentrating all forces on the Western Front. In a stormy debate in the Chamber of Deputies Viviani defended the Salonika expedition and gave assurances that France would not act there alone, since Britain and Russia had promised help. The cabinet survived, but, as the *Revue des Deux Mondes* wrote, it had been saved rather than strengthened.
 
 Bulgaria had its own grievances against France. According to Poincaré, Tsar [Ferdinand](/postacie/ferdynand-i-koburg) complained in a private letter that in 1913 France had supported giving [Kavala](/miejsca/kawala) to Greece, and at the beginning of 1914 had not allowed Bulgaria to raise a loan in Paris. The Bulgarians had then taken it [from German banks](/niemiecka-pozyczka-dla-bulgarii). Poincaré considered these complaints a pretext.
 

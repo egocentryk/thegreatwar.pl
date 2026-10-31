@@ -2,14 +2,14 @@
 title: Battle of Heligoland Bight
 summary: On 28 August 1914 British ships surprised the Germans off Heligoland. They sank three light cruisers and a torpedo boat without losing a single ship.
 source: bitwa-w-zatoce-helgolandzkiej
-sourceHash: 07fdc0f891ded2ed248fb3209ca710e50e890f45
+sourceHash: 43208265c29ab5eecb97e7a6ce90c4f503e8d44c
 ---
 
 On 28 August 1914 in the [Heligoland Bight](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), off the coast of Germany, the first major naval battle of the First World War took place. British destroyers, light cruisers and submarines attacked German patrols near the island of [Heligoland](https://pl.wikipedia.org/wiki/Helgoland), and the battlecruisers of Vice-Admiral [David Beatty](/postacie/david-beatty) decided the outcome of the action. The Germans lost the light cruisers SMS *Mainz*, SMS *Cöln* and SMS [*Ariadne*](https://pl.wikipedia.org/wiki/SMS_Ariadne_(1900)) and the torpedo boat V187. The British did not lose a single ship.
 
 ## The commodores' plan
 
-The idea came from two British officers: Commodore [Roger Keyes](/postacie/roger-keyes), in command of the submarines, and Commodore [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt), commander of the Harwich destroyers. Since the start of the war British submarines had been watching the Heligoland Bight and had noticed that German torpedo boats went out on patrol every evening and returned to port in the morning. Keyes and Tyrwhitt proposed cutting off their way home and destroying them close to the German bases. The Admiralty, headed by the First Lord, [Winston Churchill](/postacie/winston-churchill), adopted the plan.
+The idea came from two British officers: Commodore [Roger Keyes](/postacie/roger-keyes), in command of the submarines, and Commodore [Reginald Tyrwhitt](/postacie/reginald-tyrwhitt), commander of the Harwich destroyers. Since the start of the war British submarines had been watching the Heligoland Bight and had noticed that German torpedo boats went out on patrol every evening and returned to port in the morning. Keyes and Tyrwhitt proposed cutting off their way home and destroying them close to the German bases. The Admiralty, headed by the First Lord, [Winston Churchill](/postacie/winston-churchill), adopted the plan.
 
 The commander of the [Grand Fleet](/sily-zbrojne/grand-fleet), Admiral John Jellicoe, on learning of the plan, sent Beatty's battlecruisers and the light cruiser squadron of Commodore [William Goodenough](https://pl.wikipedia.org/wiki/William_Goodenough) in support at the last moment. The news of this did not reach Keyes and Tyrwhitt in time. This failure of communication nearly ended in tragedy, because during the battle British ships mistook one another for the enemy.
 

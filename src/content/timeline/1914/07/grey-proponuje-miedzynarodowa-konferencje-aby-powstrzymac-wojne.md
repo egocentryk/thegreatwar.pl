@@ -33,6 +33,6 @@ Grey polecił też swojemu przedstawicielowi w Belgradzie radzić Serbom, by wyr
 
 ## Odpowiedź Berlina
 
-Raport Lichnowsky'ego dotarł do Berlina po północy. 25 lipca sekretarz stanu [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow) odpisał, że przekazał propozycję do Wiednia, ale skoro termin upływa tego dnia, a minister [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) przebywa w Bad Ischl, przedłużenie nie wydaje się już możliwe. Cesarz [Wilhelm II](/postacie/wilhelm-ii), który przeczytał raport 26 lipca, napisał na marginesie przy planie mediacji, że jest on zbędny, bo Austria jasno postawiła sprawę wobec Rosji, i że nie przyłączy się do niego, chyba że Austria wyraźnie o to poprosi.
+Raport Lichnowsky'ego dotarł do Berlina po północy. 25 lipca sekretarz stanu [Gottlieb von Jagow](/postacie/gottlieb-von-jagow) odpisał, że przekazał propozycję do Wiednia, ale skoro termin upływa tego dnia, a minister [Leopold Berchtold](/postacie/leopold-berchtold) przebywa w Bad Ischl, przedłużenie nie wydaje się już możliwe. Cesarz [Wilhelm II](/postacie/wilhelm-ii), który przeczytał raport 26 lipca, napisał na marginesie przy planie mediacji, że jest on zbędny, bo Austria jasno postawiła sprawę wobec Rosji, i że nie przyłączy się do niego, chyba że Austria wyraźnie o to poprosi.
 
 Propozycja z 24 lipca zawierała już wszystkie elementy późniejszych brytyjskich wysiłków: mediację mocarstw niezaangażowanych, nacisk na czas i przekonanie, że klucz do pokoju leży w Berlinie. Właśnie tego klucza Niemcy nie zamierzały użyć.

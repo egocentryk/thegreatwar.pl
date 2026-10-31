@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Hildesheim (Kingdom of Hanover)
 deathPlace: Hanover
 source: alexander-von-linsingen
-sourceHash: 6c11557fbdd6a4daad956e98f23e871f865c8d49
+sourceHash: 608e58285d40c3b056c2263032a007dc453b3a6b
 ---
 
 Alexander von Linsingen was one of the oldest and longest-serving German army commanders of the First World War. When war broke out he was 64 and commanded a corps. After the campaign in France and Flanders he was sent to the Eastern Front, where he spent more than three years. In 1915 he led the South Army through the Carpathians and [to the Stryi](/bitwy/bitwa-nad-stryjem), then the new Army of the Bug towards Brest-Litovsk and Pinsk, and from the autumn of that year he headed an army group in Volhynia and Polesia in which Austro-Hungarian troops also fought under German command. In the summer of 1916 his troops stopped the [Brusilov offensive](/bitwy/ofensywa-brusilowa) before Kovel, and in 1918 they advanced into Ukraine and entered Kiev. He ended the war as commander of the troops in Berlin, in the days of the November Revolution.
@@ -39,7 +39,7 @@ In August the Army of the Bug crossed the river near Włodawa and outflanked fro
 
 ## 1916: Brusilov and the defence of Kovel
 
-On 4 June 1916 the armies of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) [broke through the Austro-Hungarian front](/poczatek-ofensywy-brusilowa). The heaviest blow fell on the Austro-Hungarian Fourth Army of Archduke [Joseph Ferdinand](https://pl.wikipedia.org/wiki/Józef_Ferdynand), which belonged to Linsingen's group. Its front at Lutsk fell apart within a few days, and the Russians took tens of thousands of prisoners and occupied the town. The archduke soon lost his post. According to some authors Linsingen, who made no secret of his low opinion of Austro-Hungarian commanders, had a hand in this.
+On 4 June 1916 the armies of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) [broke through the Austro-Hungarian front](/poczatek-ofensywy-brusilowa). The heaviest blow fell on the Austro-Hungarian Fourth Army of Archduke [Joseph Ferdinand](/postacie/jozef-ferdynand), which belonged to Linsingen's group. Its front at Lutsk fell apart within a few days, and the Russians took tens of thousands of prisoners and occupied the town. The archduke soon lost his post. According to some authors Linsingen, who made no secret of his low opinion of Austro-Hungarian commanders, had a hand in this.
 
 The Germans brought reinforcements to Volhynia, some of them from France, and on 16 June Linsingen's troops counter-attacked the salient at Lutsk. They did not retake the town, but they stopped the Russian march on Kovel, the most important railway junction in that part of the front. At the beginning of July the Russians attacked again on the Styr. At [Kostiuchnówka](/bitwy/bitwa-pod-kostiuchnowka) the Legion brigades held up the attack for several days, but the front still had to fall back behind the [Stokhid](https://pl.wikipedia.org/wiki/Stochód). From the end of July until the autumn the Russians, including the elite Guard regiments, attacked again and again across the marshes of the Stokhid, suffering enormous losses. They did not take Kovel. The defence of this sector was Linsingen's greatest achievement. From the summer of 1916 his army group was subordinate to the eastern command of [Paul von Hindenburg](/postacie/paul-von-hindenburg), and then to his successor, Prince Leopold of Bavaria. In January 1917 the Kaiser awarded Linsingen the Order of the Black Eagle.
 

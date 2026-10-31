@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-17 maja 1916 roku podsekretarz stanu w ministerstwie wojny [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant) ogłosił w Izbie Gmin, że rząd powołuje Radę Lotniczą (Air Board). Miała ona koordynować pracę dwóch rywalizujących ze sobą brytyjskich formacji lotniczych: [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), podległego armii, i [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), należącego do marynarki. Przewodniczącym rady został lord [George Curzon](https://pl.wikipedia.org/wiki/George_Curzon), członek gabinetu. Była to odpowiedź na wielomiesięczną krytykę stanu brytyjskiego lotnictwa, ale jej uprawnienia od początku budziły wątpliwości.
+17 maja 1916 roku podsekretarz stanu w ministerstwie wojny [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant) ogłosił w Izbie Gmin, że rząd powołuje Radę Lotniczą (Air Board). Miała ona koordynować pracę dwóch rywalizujących ze sobą brytyjskich formacji lotniczych: [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), podległego armii, i [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), należącego do marynarki. Przewodniczącym rady został lord [George Curzon](/postacie/george-curzon), członek gabinetu. Była to odpowiedź na wielomiesięczną krytykę stanu brytyjskiego lotnictwa, ale jej uprawnienia od początku budziły wątpliwości.
 
 ## Dwa lotnictwa i jeden rynek
 

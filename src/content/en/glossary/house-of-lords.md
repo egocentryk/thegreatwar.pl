@@ -1,7 +1,7 @@
 ---
 term: House of Lords
 source: izba-lordow
-sourceHash: 8efd1c3e62e5c74990b232385308e97e2a319544
+sourceHash: 830f6003d40cc4291557bed572bbac5626d496d3
 ---
 
 The House of Lords is the upper, unelected house of the Parliament of the United Kingdom. During the war it was made up above all of hereditary peers, alongside the bishops of the Church of England and the law lords, who also formed the country's highest court of appeal. The Lords could now only delay bills, but their House remained a platform for ministers, generals and critics of the government.
@@ -14,7 +14,7 @@ The dispute over [David Lloyd George's](/postacie/david-lloyd-george) "People's 
 
 War legislation passed through the House quickly. On 8 August 1914 the Lords passed the [Defence of the Realm Act](/ustawa-o-obronie-krolestwa) in a single sitting, without a committee stage. They passed the [Munitions of War Act](/ustawa-o-amunicji-wojennej) in the same way in July 1915, and in January 1916 conscription, [passed by MPs](/izba-gmin-uchwala-pobor), went through its second reading without even a division.
 
-Members of the government spoke from its benches. On 25 August 1914 [Lord Kitchener](/postacie/horatio-kitchener), the [new Secretary of State for War](/lord-kitchener-ministrem-wojny), addressed the House for the first time. He assured it that as a soldier he belonged to no party, and that he held his post on the same terms as the volunteers: for the war, or for three years if it lasted longer than three years. In July 1916 [Edward Grey](/postacie/edward-grey) moved to the House, and from December the Lords were led by [George Curzon](https://pl.wikipedia.org/wiki/George_Curzon), a member of the [War Cabinet](/gabinet-wojenny). [John Jellicoe](/postacie/john-jellicoe), dismissed from the Admiralty at the end of 1917, agreed to accept a peerage partly in order to [have a platform in the House](/dymisja-jellicoe).
+Members of the government spoke from its benches. On 25 August 1914 [Lord Kitchener](/postacie/horatio-kitchener), the [new Secretary of State for War](/lord-kitchener-ministrem-wojny), addressed the House for the first time. He assured it that as a soldier he belonged to no party, and that he held his post on the same terms as the volunteers: for the war, or for three years if it lasted longer than three years. In July 1916 [Edward Grey](/postacie/edward-grey) moved to the House, and from December the Lords were led by [George Curzon](/postacie/george-curzon), a member of the [War Cabinet](/gabinet-wojenny). [John Jellicoe](/postacie/john-jellicoe), dismissed from the Admiralty at the end of 1917, agreed to accept a peerage partly in order to [have a platform in the House](/dymisja-jellicoe).
 
 On 25 April 1916 the Lords met in secret session, something the Marquess of Salisbury called unprecedented in the House's long history, to hear confidential figures on the men needed by the Army and the Navy. The motion was moved for the government by the Marquess of Crewe, and Salisbury, while not opposing it, protested that the reporters' gallery had been closed before the House had had a chance to agree. In January 1918 the House decided on [votes for women](/brytyjki-otrzymuja-prawo-glosu). Curzon, an opponent of the reform, abstained, and an amendment striking out women's suffrage was rejected by 134 votes to 71.
 

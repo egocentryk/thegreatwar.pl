@@ -28,7 +28,7 @@ Król Albert I opuścił miasto po południu tego samego dnia. Samochodem przeje
 
 ## Ucieczka mieszkańców
 
-Wyjazd władz i przemarsz wojska wywołały w mieście panikę. Już od końca września z Antwerpii wywożono rannych i zapasy. Teraz uciekać zaczęli cywile. Dziesiątki, a w kolejnych dniach setki tysięcy ludzi wyruszyły pociągami, statkami, wozami i pieszo na zachód oraz na północ, do sąsiedniej, neutralnej [Holandii](https://pl.wikipedia.org/wiki/Holandia). Późnym wieczorem 7 października, jeszcze przed północą, Niemcy rozpoczęli ostrzał samego miasta. W ciągu kolejnych dni na Antwerpię spadły tysiące pocisków, a pożary strawiły wiele budynków.
+Wyjazd władz i przemarsz wojska wywołały w mieście panikę. Już od końca września z Antwerpii wywożono rannych i zapasy. Teraz uciekać zaczęli cywile. Dziesiątki, a w kolejnych dniach setki tysięcy ludzi wyruszyły pociągami, statkami, wozami i pieszo na zachód oraz na północ, do sąsiedniej, neutralnej [Holandii](/kraje/holandia). Późnym wieczorem 7 października, jeszcze przed północą, Niemcy rozpoczęli ostrzał samego miasta. W ciągu kolejnych dni na Antwerpię spadły tysiące pocisków, a pożary strawiły wiele budynków.
 
 ## Z Ostendy do Hawru
 

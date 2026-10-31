@@ -508,6 +508,11 @@ The top 50 by kind:
    londyńska, Admiralicja, Izba Lordów, Room 40; eight deeper: drednot,
    gaz bojowy, karabin maszynowy, grypa hiszpanka, Duma, Rada Komisarzy
    Ludowych, rada delegatów, młodoturcy), 391 links (22,349 → 21,958; §55).
+11. **People, neutral states, the conference:** 2026-10-31, sixteen person
+   pages, a "Państwa neutralne" group (Persja, Holandia), the peace
+   conference as a glossary text; ≈350 links (21,958 → 21,793; §56). The
+   top targets left are mostly under 20 links each. Open: navigation for
+   the new sections (the owner: not in the menu, it has no room).
 
 ### The plan
 

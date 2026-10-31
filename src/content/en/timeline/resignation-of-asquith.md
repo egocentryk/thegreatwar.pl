@@ -2,7 +2,7 @@
 title: Resignation of Asquith
 summary: In early December 1916 a dispute over the War Committee brought down Asquith's government. Beaten by Lloyd George and the Tories, he resigned on 5 December.
 source: dymisja-asquitha
-sourceHash: c4f616e891bf9dde8e946aba91551428137b8eeb
+sourceHash: 96c3b165bf8be24b4c2c745bef74403ec974c586
 ---
 
 On 5 December 1916, at about 7 p.m., the British Prime Minister [Herbert Henry Asquith](/postacie/herbert-henry-asquith) drove to King [George V](/postacie/jerzy-v) and tendered his resignation. He stepped down when it became clear that he could not go on governing without [David Lloyd George](/postacie/david-lloyd-george) and the Conservatives. The day before, he had obtained the King's consent to reconstruct the government, so that all ministers placed their offices at his disposal. At that point he was counting on regaining the initiative this way, not on leaving. The British war chronology gives 4 December as the date of the Prime Minister's resignation. So ended more than eight and a half years in office, the longest unbroken premiership since the 1820s, and a crisis lasting less than a week that historians still argue about today.
@@ -19,7 +19,7 @@ In November the mood in London worsened further. On 8 November the [House of Com
 
 On 20 November Lloyd George, then [Secretary of State for War](/lloyd-george-ministrem-wojny), Bonar Law and Carson met at the Hyde Park Hotel. The meeting was arranged by Law's friend, the Canadian millionaire and MP [Max Aitken](https://pl.wikipedia.org/wiki/Max_Aitken_(1._baron_Beaverbrook)), later Lord Beaverbrook, who afterwards described the whole crisis in his book "Politicians and the War", colourful but partisan. The three politicians agreed that the war should be directed by a small council of no more than five members, with full executive power and Lloyd George as chairman. Asquith would remain Prime Minister, but day-to-day war decisions would pass into other hands. Law and Lloyd George wanted to keep Asquith in office; Aitken and Carson, like the influential owner of "[The Times](https://pl.wikipedia.org/wiki/The_Times)" and the "[Daily Mail](https://pl.wikipedia.org/wiki/Daily_Mail)", Lord Northcliffe ([Alfred Harmsworth](https://pl.wikipedia.org/wiki/Alfred_Harmsworth)), preferred to be rid of him.
 
-On 25 November Law presented the Prime Minister with a draft of such a council. Asquith refused: in his view it would undermine his colleagues' confidence and his own authority. On 30 November Law discussed the matter for the first time with the leading Conservative ministers, [Austen Chamberlain](https://pl.wikipedia.org/wiki/Austen_Chamberlain), Lord [Curzon](https://pl.wikipedia.org/wiki/George_Curzon) and Lord Robert Cecil. All three were highly critical of Lloyd George's plan.
+On 25 November Law presented the Prime Minister with a draft of such a council. Asquith refused: in his view it would undermine his colleagues' confidence and his own authority. On 30 November Law discussed the matter for the first time with the leading Conservative ministers, [Austen Chamberlain](/postacie/austen-chamberlain), Lord [Curzon](/postacie/george-curzon) and Lord Robert Cecil. All three were highly critical of Lloyd George's plan.
 
 ## The proposal of 1 December
 

@@ -2,10 +2,10 @@
 title: The Air Board is created
 summary: On 17 May 1916 the government announced Lord Curzon's Air Board in the Commons. It was to reconcile army and naval aviation but had no executive power.
 source: powstaje-rada-lotnicza
-sourceHash: 96254c4475bd1e75a53ec7e20267c44905f0ccfc
+sourceHash: afb4162e571e29004cb9173cb59287d8c4b3ae59
 ---
 
-On 17 May 1916 the Under-Secretary of State for War, [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant), announced in the House of Commons that the government was setting up an Air Board. It was to coordinate the work of Britain's two rival air arms: the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), under the army, and the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), belonging to the navy. The chairman of the board was Lord [George Curzon](https://pl.wikipedia.org/wiki/George_Curzon), a member of the cabinet. It was the answer to months of criticism of the state of British aviation, but its powers raised doubts from the start.
+On 17 May 1916 the Under-Secretary of State for War, [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant), announced in the House of Commons that the government was setting up an Air Board. It was to coordinate the work of Britain's two rival air arms: the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), under the army, and the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), belonging to the navy. The chairman of the board was Lord [George Curzon](/postacie/george-curzon), a member of the cabinet. It was the answer to months of criticism of the state of British aviation, but its powers raised doubts from the start.
 
 ## Two air services and one market
 

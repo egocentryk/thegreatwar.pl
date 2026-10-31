@@ -2,10 +2,10 @@
 title: Resignation of Mostowfi ol-Mamalek
 summary: On 24 December 1915 Persian prime minister Mostowfi ol-Mamalek resigned. He failed to bring the deputies back from Qom, and the Russians took town after town.
 source: dymisja-mostowfiego-ol-mamalek
-sourceHash: 14ffa02c2e64ae4f7a6cc27ae46263c28abc81c6
+sourceHash: 621511e201042475ad4233cbd3848df717173868
 ---
 
-On 24 December 1915 the prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran), Mostowfi ol-Mamalek, resigned. He had headed the government since August, when he [took office for the third time](/mostowfi-ol-mamalek-ponownie-premierem), and for four months had tried to keep the country out of the war, manoeuvring between the Entente and Germany. Persian lists of governments end his term on 3 Dey 1294 in the Iranian calendar, that is precisely 24 December. Some works give the following day, 25 December, because that is how the appointment of his successor is sometimes dated. At the moment of his resignation the policy he had pursued already lay in ruins.
+On 24 December 1915 the prime minister of [Persia](/kraje/persja), Mostowfi ol-Mamalek, resigned. He had headed the government since August, when he [took office for the third time](/mostowfi-ol-mamalek-ponownie-premierem), and for four months had tried to keep the country out of the war, manoeuvring between the Entente and Germany. Persian lists of governments end his term on 3 Dey 1294 in the Iranian calendar, that is precisely 24 December. Some works give the following day, 25 December, because that is how the appointment of his successor is sometimes dated. At the moment of his resignation the policy he had pursued already lay in ruins.
 
 ## A government without a parliament
 

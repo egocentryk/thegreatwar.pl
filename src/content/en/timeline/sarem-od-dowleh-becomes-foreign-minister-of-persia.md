@@ -2,10 +2,10 @@
 title: Sarem od-Dowleh becomes foreign minister of Persia
 summary: In early March 1916 Prince Akbar Mirza, Sarem od-Dowleh, a grandson of Naser al-Din Shah educated in England, became head of Persian diplomacy.
 source: sarem-od-dole-ministrem-spraw-zagranicznych-persji
-sourceHash: cb5b368e6c71b81cf01481321ee4f2365029c019
+sourceHash: bd2caf080d805f5b92d3e773aec81a86d44dc7bd
 ---
 
-The British chronology of the war records under 6 March 1916 that "Sarim ed Douleh", that is Prince Akbar Mirza, who bore the title Sarem od-Dowleh, became foreign minister of [Persia](https://pl.wikipedia.org/wiki/Iran). He joined the government formed by the [new prime minister, Sepahsalar](/sepahsalar-premierem-persji). Persian lists of ministers date the start of his term to 14 Esfand 1294 in the Iranian calendar, that is to 4 March 1916. He replaced Ali Qoli Khan Ansari, Moshaver ol-Mamalek, who had [left together with Farmanfarma's government](/dymisja-ministra-spraw-zagranicznych-persji).
+The British chronology of the war records under 6 March 1916 that "Sarim ed Douleh", that is Prince Akbar Mirza, who bore the title Sarem od-Dowleh, became foreign minister of [Persia](/kraje/persja). He joined the government formed by the [new prime minister, Sepahsalar](/sepahsalar-premierem-persji). Persian lists of ministers date the start of his term to 14 Esfand 1294 in the Iranian calendar, that is to 4 March 1916. He replaced Ali Qoli Khan Ansari, Moshaver ol-Mamalek, who had [left together with Farmanfarma's government](/dymisja-ministra-spraw-zagranicznych-persji).
 
 ## A prince from Isfahan
 

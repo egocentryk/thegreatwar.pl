@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Serbia
 summary: On 28 July 1914 Austria-Hungary declared war on Serbia by telegram. That same night Belgrade was shelled and the First World War began.
 source: austro-wegry-wypowiadaja-wojne-serbii
-sourceHash: 552c411d0224164a10d329ff94683e3912718839
+sourceHash: f8f3626a2953f2099ce5a23ea7e5111a40e97742
 brief:
   - "On 28 July 1914, exactly a month after the assassination in Sarajevo, Austria-Hungary declared war on Serbia. For many historians this day marks the beginning of the First World War."
   - "Leopold Berchtold sent the declaration by telegram to Prime Minister Nikola Pašić in Niš, as diplomatic relations had been broken off three days earlier. It was the first time war had been declared by telegram."
@@ -15,7 +15,7 @@ On 28 July 1914, exactly a month after the assassination in Sarajevo, [Austria-H
 
 ## War declared by telegram
 
-The decision was approved by Emperor [Franz Joseph I](/postacie/franciszek-jozef-i), who was still at his summer residence in [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl). Because diplomatic relations with Serbia had been broken off three days earlier, there was no longer an Austro-Hungarian minister in Belgrade to deliver a note. Foreign Minister [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) therefore sent a telegram from Vienna at 11:10 a.m. to the Serbian prime minister, [Nikola Pašić](/postacie/nikola-pasic).
+The decision was approved by Emperor [Franz Joseph I](/postacie/franciszek-jozef-i), who was still at his summer residence in [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl). Because diplomatic relations with Serbia had been broken off three days earlier, there was no longer an Austro-Hungarian minister in Belgrade to deliver a note. Foreign Minister [Leopold Berchtold](/postacie/leopold-berchtold) therefore sent a telegram from Vienna at 11:10 a.m. to the Serbian prime minister, [Nikola Pašić](/postacie/nikola-pasic).
 
 The message, written in French, went over the ordinary telegraph network via [Bucharest](/miejsca/bukareszt) as open, unencrypted text. It reached [Niš](https://pl.wikipedia.org/wiki/Nisz), where the Serbian government had moved, at about 12:30 p.m. In it Berchtold declared that the Serbian government had not given a satisfactory reply to the note of 23 July, and that the monarchy accordingly considered itself to be in a state of war with Serbia. It was the first time in history that war had been declared by telegram. The unusual form led Pašić at first to suspect a hoax and to seek confirmation that the document was genuine.
 

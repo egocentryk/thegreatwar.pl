@@ -2,10 +2,10 @@
 title: Turks occupy Urmia
 summary: On 16 April 1915 Halil Bey's regular Ottoman troops reached Urmia in northern Persia. Since January the town had been held by Kurds and Turkish volunteers.
 source: turcy-zajmuja-urmie
-sourceHash: 165c12f605ccb9ac4ee55b694e1e9e3c49684781
+sourceHash: 3040317fecb2c3de51ce3c6d632dccdde3c690bb
 ---
 
-On 16 April 1915 regular Ottoman troops under Halil Bey reached [Urmia](https://pl.wikipedia.org/wiki/Urmia_(miasto)) in north-western [Persia](https://pl.wikipedia.org/wiki/Iran). The town did not change hands that day. Since the [Russian withdrawal at the beginning of January](/rosjanie-opuszczaja-urmie) it and the surrounding plain had been dominated by [Kurdish](https://pl.wikipedia.org/wiki/Kurdowie) bands, Turkish volunteers and small army detachments. Now, for the first time, a large regular army appeared in Persian Azerbaijan.
+On 16 April 1915 regular Ottoman troops under Halil Bey reached [Urmia](https://pl.wikipedia.org/wiki/Urmia_(miasto)) in north-western [Persia](/kraje/persja). The town did not change hands that day. Since the [Russian withdrawal at the beginning of January](/rosjanie-opuszczaja-urmie) it and the surrounding plain had been dominated by [Kurdish](https://pl.wikipedia.org/wiki/Kurdowie) bands, Turkish volunteers and small army detachments. Now, for the first time, a large regular army appeared in Persian Azerbaijan.
 
 ## Halil's expedition
 

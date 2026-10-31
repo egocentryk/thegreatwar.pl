@@ -2,10 +2,10 @@
 title: Canto e Castro becomes president
 summary: On 16 December 1918, two days after Sidónio Pais was killed, Congress elected Admiral João do Canto e Castro, a monarchist at heart, president of Portugal.
 source: canto-e-castro-prezydentem
-sourceHash: 7e4bf3257347a23004a8ab0e4b833f93d09a6dac
+sourceHash: cd3de8fb5443cdff7897ab274058b7ad0261348e
 ---
 
-On the evening of 16 December 1918, in the [São Bento Palace](https://pl.wikipedia.org/wiki/Pałac_São_Bento) in Lisbon, the Congress of the Republic, a joint session of the Chamber of Deputies and the Senate, elected Admiral [João do Canto e Castro](https://pl.wikipedia.org/wiki/João_do_Canto_e_Castro) president of Portugal. Two days earlier President Sidónio Pais had been [shot dead](/zamach-na-sidonia-paisa) at Rossio station. A British chronology of the war records under this date that "Senhor Antunes" had been appointed acting president. The new president's full name was João do Canto e Castro Silva Antunes, but he was known as Canto e Castro. Nor was he merely acting president. Congress elected him president for the rest of the term begun in 1915 by [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado), whom Pais had overthrown, that is, until 5 October 1919.
+On the evening of 16 December 1918, in the [São Bento Palace](https://pl.wikipedia.org/wiki/Pałac_São_Bento) in Lisbon, the Congress of the Republic, a joint session of the Chamber of Deputies and the Senate, elected Admiral [João do Canto e Castro](https://pl.wikipedia.org/wiki/João_do_Canto_e_Castro) president of Portugal. Two days earlier President Sidónio Pais had been [shot dead](/zamach-na-sidonia-paisa) at Rossio station. A British chronology of the war records under this date that "Senhor Antunes" had been appointed acting president. The new president's full name was João do Canto e Castro Silva Antunes, but he was known as Canto e Castro. Nor was he merely acting president. Congress elected him president for the rest of the term begun in 1915 by [Bernardino Machado](/postacie/bernardino-machado), whom Pais had overthrown, that is, until 5 October 1919.
 
 ## Two days without a president
 

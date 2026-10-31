@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 18 sierpnia 1915 roku, że premierem [Persji](https://pl.wikipedia.org/wiki/Iran) znów został Mostowfi ol-Mamalek. Kierował on rządem już dwukrotnie, ostatnio do [marca 1915 roku](/nowy-premier-persji). Według perskich źródeł szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) powierzył mu urząd na początku sierpnia, a 27 mordada 1294 roku według kalendarza irańskiego, czyli 18 lub 19 sierpnia, nowy premier przedstawił swój gabinet Madżlisowi, perskiemu parlamentowi. Tę datę zestawienia perskich premierów przyjmują zwykle za początek jego trzecich rządów. Poprzedni gabinet, kierowany przez Ajn od-Dole, [upadł już w lipcu](/dymisja-rzadu-ajn-od-dole).
+Brytyjska chronologia wojny notuje pod 18 sierpnia 1915 roku, że premierem [Persji](/kraje/persja) znów został Mostowfi ol-Mamalek. Kierował on rządem już dwukrotnie, ostatnio do [marca 1915 roku](/nowy-premier-persji). Według perskich źródeł szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) powierzył mu urząd na początku sierpnia, a 27 mordada 1294 roku według kalendarza irańskiego, czyli 18 lub 19 sierpnia, nowy premier przedstawił swój gabinet Madżlisowi, perskiemu parlamentowi. Tę datę zestawienia perskich premierów przyjmują zwykle za początek jego trzecich rządów. Poprzedni gabinet, kierowany przez Ajn od-Dole, [upadł już w lipcu](/dymisja-rzadu-ajn-od-dole).
 
 ## Szanowany premier
 

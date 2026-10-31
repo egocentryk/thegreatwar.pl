@@ -2,10 +2,10 @@
 title: Sepahsalar becomes prime minister of Persia
 summary: In early March 1916 Mohammad Vali Khan Tonekaboni, the Sepahsalar, hero of the 1909 revolution and advocate of accord with Russia, became Persian premier.
 source: sepahsalar-premierem-persji
-sourceHash: 507d7f39562cb1ae0fef3aadbf8d84cf6179149d
+sourceHash: 5c1abf57ff1a2f9d5f1386cecf28675b44472545
 ---
 
-The British chronology of the war records under 6 March 1916 that "Sipahsalar A'zam" had become the new prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran). He replaced Prince Farmanfarma, whose government had [fallen at the turn of February and March](/dymisja-farmanfarmy). Persian lists of governments date the start of the new prime minister's term to 13 or 14 Esfand 1294 in the Iranian calendar, that is, to 3 or 4 March. Reuters' correspondent reported the change in a telegram from Tehran dated 7 March. The new prime minister also took over the Ministry of the Interior. The Persian legation in London explained to the agency at the time that this was the well-known politician hitherto called Sepahdar. The Shah had just conferred on him the higher title of Sepahsalar-e Azam, meaning "great commander-in-chief".
+The British chronology of the war records under 6 March 1916 that "Sipahsalar A'zam" had become the new prime minister of [Persia](/kraje/persja). He replaced Prince Farmanfarma, whose government had [fallen at the turn of February and March](/dymisja-farmanfarmy). Persian lists of governments date the start of the new prime minister's term to 13 or 14 Esfand 1294 in the Iranian calendar, that is, to 3 or 4 March. Reuters' correspondent reported the change in a telegram from Tehran dated 7 March. The new prime minister also took over the Ministry of the Interior. The Persian legation in London explained to the agency at the time that this was the well-known politician hitherto called Sepahdar. The Shah had just conferred on him the higher title of Sepahsalar-e Azam, meaning "great commander-in-chief".
 
 ## The richest of the revolutionaries
 

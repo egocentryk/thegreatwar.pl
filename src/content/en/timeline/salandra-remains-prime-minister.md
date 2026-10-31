@@ -2,12 +2,12 @@
 title: Salandra remains prime minister
 summary: On 16 May 1915 Victor Emmanuel III rejected the resignation of Salandra's government. The neutralists gave way, and on 20 May the Chamber gave it war powers.
 source: salandra-pozostaje-premierem
-sourceHash: 97ac219bf23cbe15d4fa494cfe61fafa8e5c7a02
+sourceHash: 65d0c1ec03bdcd63379897ef71f51486834cb851
 ---
 
 On 16 May 1915 King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) rejected the resignation that the government of [Antonio Salandra](/postacie/antonio-salandra) had tendered [three days earlier](/dymisja-rzadu-salandry). The Prime Minister and the Foreign Minister, Sidney Sonnino, remained in office. With that the neutralists' last chance of keeping Italy out of the war was gone.
 
-For three days the King had looked for another head of government. He turned first to [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), who had the backing of the majority of deputies. Giolitti refused. He already knew that Salandra and Sonnino had signed an agreement with the Entente with the King's consent, and he did not want to take upon himself the breaking of commitments that bound the monarch, nor to divide the country at a moment when the streets were seething. Nor did the other politicians to whom the King turned take the opportunity: the President of the Chamber of Deputies, Giuseppe Marcora, the Treasury Minister, Paolo Carcano, and Paolo Boselli. All three were supporters of the war and all advised that the task be entrusted to Salandra again.
+For three days the King had looked for another head of government. He turned first to [Giovanni Giolitti](/postacie/giovanni-giolitti), who had the backing of the majority of deputies. Giolitti refused. He already knew that Salandra and Sonnino had signed an agreement with the Entente with the King's consent, and he did not want to take upon himself the breaking of commitments that bound the monarch, nor to divide the country at a moment when the streets were seething. Nor did the other politicians to whom the King turned take the opportunity: the President of the Chamber of Deputies, Giuseppe Marcora, the Treasury Minister, Paolo Carcano, and Paolo Boselli. All three were supporters of the war and all advised that the task be entrusted to Salandra again.
 
 The King's decision settled the matter. The interventionists celebrated their victory, and the last weeks before the war went down in Italian history as the "radiant May" (maggio radioso). Some historians, however, judge that Italy's entry into the war was decided by the monarch, two ministers and the pressure of the street against the will of the majority in parliament. Giolitti, convinced that further resistance was pointless, left Rome on 18 May for Cavour in Piedmont, where he lived, and did not attend the sitting of the Chamber.
 

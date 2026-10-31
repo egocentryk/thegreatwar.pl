@@ -2,10 +2,10 @@
 title: Battle of Komarów begins
 summary: On 26 August 1914 Auffenberg's Austro-Hungarian 4th Army attacked Plehve's Russian 5th Army near Zamość. The Battle of Komarów had begun.
 source: poczatek-bitwy-pod-komarowem
-sourceHash: 90c1781ee80dd3098e444fcfbcb43a8d54414e47
+sourceHash: 6b31239d6be0a95539f6668bcdbe949b4c2cad3b
 ---
 
-On 26 August 1914 the [Battle of Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) began in the Zamość region. The Austro-Hungarian 4th Army of General [Moritz von Auffenberg](https://pl.wikipedia.org/wiki/Moritz_Auffenberg) clashed with the Russian 5th Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe) on the territory of the Kingdom of Poland, between [Zamość](https://pl.wikipedia.org/wiki/Zamość), Komarów and [Tomaszów Lubelski](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski).
+On 26 August 1914 the [Battle of Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) began in the Zamość region. The Austro-Hungarian 4th Army of General [Moritz von Auffenberg](https://pl.wikipedia.org/wiki/Moritz_Auffenberg) clashed with the Russian 5th Army of General [Pavel Plehve](/postacie/pawel-plehwe) on the territory of the Kingdom of Poland, between [Zamość](https://pl.wikipedia.org/wiki/Zamość), Komarów and [Tomaszów Lubelski](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski).
 
 ## Two armies on the march
 

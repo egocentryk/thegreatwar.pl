@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Poznań (Province of Posen, Prussia)
 deathPlace: Buenos Aires
 source: marian-seyda
-sourceHash: c147782d6dead6e8f654b60ac8ef551aea286bcc
+sourceHash: a9382363a21467f4a85d714e26ab6f0570cff12e
 ---
 
 Marian Seyda was one of the people who made the voice of the Poles of the Prussian partition heard in the Entente camp. A Poznań journalist and activist of the secret [National League](https://pl.wikipedia.org/wiki/Liga_Narodowa), before the war editor of the "[Kurier Poznański](https://pl.wikipedia.org/wiki/Kurier_Poznański)", he left for Switzerland at the end of 1915 on the instructions of the Greater Poland National Democrats. In Lausanne he co-founded a Polish press bureau that showered the press of the Allied countries with information about the Polish cause, and in August 1917 he joined [Roman Dmowski](/postacie/roman-dmowski)'s [Polish National Committee](/powstanie-komitetu-narodowego-polskiego). In Paris he ran its press department, travelled on missions to Rome and the United States, and at the peace conference he was an expert on the lands of the Prussian partition. He also wrote one of the basic accounts of Polish politics in the years of the Great War.
@@ -35,7 +35,7 @@ After the armistice Seyda went to Warsaw. According to his biographer, between 5
 
 ## The peace conference
 
-In 1919 Seyda was a political expert of the Polish delegation to the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) and a member of its commission on the Prussian partition. He wrote memoranda on Polish claims to Greater Poland, Pomerania and Silesia, and in Paris he published the book "Territoires polonais sous la domination prussienne", in which he argued Poland's rights to those lands. On 1 June 1919 he was elected in Greater Poland to the Legislative Sejm on the list of the [Popular National Union](https://pl.wikipedia.org/wiki/Związek_Ludowo-Narodowy). On 28 June he attended the signing of the [Treaty of Versailles](/slownik/traktat-wersalski) as a representative of the Polish press. He returned home for good in the autumn of 1919.
+In 1919 Seyda was a political expert of the Polish delegation to the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa) and a member of its commission on the Prussian partition. He wrote memoranda on Polish claims to Greater Poland, Pomerania and Silesia, and in Paris he published the book "Territoires polonais sous la domination prussienne", in which he argued Poland's rights to those lands. On 1 June 1919 he was elected in Greater Poland to the Legislative Sejm on the list of the [Popular National Union](https://pl.wikipedia.org/wiki/Związek_Ludowo-Narodowy). On 28 June he attended the signing of the [Treaty of Versailles](/slownik/traktat-wersalski) as a representative of the Polish press. He returned home for good in the autumn of 1919.
 
 ## After the war
 

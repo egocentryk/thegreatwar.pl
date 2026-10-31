@@ -17,7 +17,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Wojna_polsko-ukraińska"
 ---
 
-25 czerwca 1919 roku o trzeciej po południu w gabinecie francuskiego ministra spraw zagranicznych Stéphena Pichona przy Quai d’Orsay zebrali się ministrowie spraw zagranicznych Stanów Zjednoczonych, Wielkiej Brytanii, Francji, Włoch i Japonii. Ta Rada Ministrów Spraw Zagranicznych, jedno z ciał Rady Najwyższej [konferencji pokojowej](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)), zajęła się przede wszystkim przyszłością [Galicji Wschodniej](https://pl.wikipedia.org/wiki/Galicja_Wschodnia). Uchwaliła, że rząd polski może zająć ją swoimi wojskami aż po [Zbrucz](https://pl.wikipedia.org/wiki/Zbrucz) i użyć do tego także armii generała Hallera. Była to wielka wygrana polskiej dyplomacji, choć mocarstwa wyraźnie zastrzegły, że nie przesądzają o tym, do kogo kraj ostatecznie będzie należał.
+25 czerwca 1919 roku o trzeciej po południu w gabinecie francuskiego ministra spraw zagranicznych Stéphena Pichona przy Quai d’Orsay zebrali się ministrowie spraw zagranicznych Stanów Zjednoczonych, Wielkiej Brytanii, Francji, Włoch i Japonii. Ta Rada Ministrów Spraw Zagranicznych, jedno z ciał Rady Najwyższej [konferencji pokojowej](/slownik/paryska-konferencja-pokojowa), zajęła się przede wszystkim przyszłością [Galicji Wschodniej](https://pl.wikipedia.org/wiki/Galicja_Wschodnia). Uchwaliła, że rząd polski może zająć ją swoimi wojskami aż po [Zbrucz](https://pl.wikipedia.org/wiki/Zbrucz) i użyć do tego także armii generała Hallera. Była to wielka wygrana polskiej dyplomacji, choć mocarstwa wyraźnie zastrzegły, że nie przesądzają o tym, do kogo kraj ostatecznie będzie należał.
 
 ## Spór o Galicję
 

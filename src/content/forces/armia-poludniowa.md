@@ -12,7 +12,7 @@ kind: armia
 country: niemcy
 formed: 1915-01-11
 disbanded: 1918-01-25
-people: [alexander-von-linsingen, eduard-von-bohm-ermolli, erich-ludendorff]
+people: [alexander-von-linsingen, felix-von-bothmer, eduard-von-bohm-ermolli, erich-ludendorff]
 wikiTitles: ["Armia_Południowa_(Państwa_Centralne)"]
 updated: 2026-10-31
 authors: [Natalia]

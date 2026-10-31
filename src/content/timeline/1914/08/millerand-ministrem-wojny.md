@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-27 sierpnia 1914 roku francuski dziennik urzędowy „Journal officiel” ogłosił nominację [Alexandre'a Milleranda](/postacie/alexandre-millerand) na ministra wojny. Dekret, podpisany przez prezydenta Raymonda Poincarégo i premiera [René Vivianiego](https://pl.wikipedia.org/wiki/René_Viviani), nosił datę 26 sierpnia. Millerand zastąpił Adolphe'a Messimy'ego, którego dymisję przyjęto tego samego dnia.
+27 sierpnia 1914 roku francuski dziennik urzędowy „Journal officiel” ogłosił nominację [Alexandre'a Milleranda](/postacie/alexandre-millerand) na ministra wojny. Dekret, podpisany przez prezydenta Raymonda Poincarégo i premiera [René Vivianiego](/postacie/rene-viviani), nosił datę 26 sierpnia. Millerand zastąpił Adolphe'a Messimy'ego, którego dymisję przyjęto tego samego dnia.
 
 ## Rząd jedności narodowej
 

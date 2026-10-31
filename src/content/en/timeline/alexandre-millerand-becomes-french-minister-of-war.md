@@ -2,10 +2,10 @@
 title: Alexandre Millerand becomes French minister of war
 summary: On 27 August 1914 Alexandre Millerand was named minister of war. He replaced Messimy in Viviani's reshuffled government, a government of national unity.
 source: millerand-ministrem-wojny
-sourceHash: ab6f2bbe68ae35e33f64fdfaa8bd983c846d8d4b
+sourceHash: 61a8effbbce4c43b11c54aaaaf14c076183f582f
 ---
 
-On 27 August 1914 the French official gazette, the "Journal officiel", announced the appointment of [Alexandre Millerand](/postacie/alexandre-millerand) as minister of war. The decree, signed by President Raymond Poincaré and Prime Minister [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani), was dated 26 August. Millerand replaced Adolphe Messimy, whose resignation was accepted the same day.
+On 27 August 1914 the French official gazette, the "Journal officiel", announced the appointment of [Alexandre Millerand](/postacie/alexandre-millerand) as minister of war. The decree, signed by President Raymond Poincaré and Prime Minister [René Viviani](/postacie/rene-viviani), was dated 26 August. Millerand replaced Adolphe Messimy, whose resignation was accepted the same day.
 
 ## A government of national unity
 

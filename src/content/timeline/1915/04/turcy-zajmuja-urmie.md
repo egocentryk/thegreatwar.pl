@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 kwietnia 1915 roku do [Urmii](https://pl.wikipedia.org/wiki/Urmia_(miasto)) w północno-zachodniej [Persji](https://pl.wikipedia.org/wiki/Iran) dotarły regularne wojska osmańskie pod dowództwem Halila Beja. Miasto nie przeszło tego dnia z rąk do rąk. Od [wycofania się Rosjan na początku stycznia](/rosjanie-opuszczaja-urmie) panowały w nim i na okolicznej równinie oddziały [kurdyjskie](https://pl.wikipedia.org/wiki/Kurdowie), tureccy ochotnicy i niewielkie oddziały wojska. Teraz po raz pierwszy w perskim Azerbejdżanie pojawiła się duża armia regularna.
+16 kwietnia 1915 roku do [Urmii](https://pl.wikipedia.org/wiki/Urmia_(miasto)) w północno-zachodniej [Persji](/kraje/persja) dotarły regularne wojska osmańskie pod dowództwem Halila Beja. Miasto nie przeszło tego dnia z rąk do rąk. Od [wycofania się Rosjan na początku stycznia](/rosjanie-opuszczaja-urmie) panowały w nim i na okolicznej równinie oddziały [kurdyjskie](https://pl.wikipedia.org/wiki/Kurdowie), tureccy ochotnicy i niewielkie oddziały wojska. Teraz po raz pierwszy w perskim Azerbejdżanie pojawiła się duża armia regularna.
 
 ## Wyprawa Halila
 

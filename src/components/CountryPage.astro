@@ -40,7 +40,8 @@ const contents = headings.filter((h) => h.depth === 2)
 const facts = await countryFacts(country, lang)
 const glossaryTerms = termsIn(country.entry.body ?? "", lang, source.id)
 const updated = formatDate(source.data.updated, "long", undefined, loc)
-const atWar = `${formatDate(source.data.entered, "long", undefined, loc)} – ${formatDate(source.data.left, "long", undefined, loc)}`
+const { entered, left } = source.data
+const atWar = entered && left ? `${formatDate(entered, "long", undefined, loc)} – ${formatDate(left, "long", undefined, loc)}` : undefined
 // Key battles are listed; with many battles the rest fold away.
 const shownBattles = facts.keyBattles.length >= 3 ? facts.keyBattles : facts.battles.slice(0, 12)
 const moreBattles = facts.battles.filter((b) => !shownBattles.includes(b))
@@ -119,7 +120,7 @@ const jsonLd = [
 
       <dl class="border-line text-ink-soft mt-6 flex flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs">
         <div><dt class="inline">{t.side}: </dt><dd class="text-ink inline">{en ? sideEn(source.data.side) : source.data.side}</dd></div>
-        <div><dt class="inline">{t.atWar}: </dt><dd class="text-ink inline">{atWar}</dd></div>
+        {atWar && <div><dt class="inline">{t.atWar}: </dt><dd class="text-ink inline">{atWar}</dd></div>}
         <div>
           <dt class="inline">{t.authors(source.data.authors.length)}: </dt>
           <dd class="inline">

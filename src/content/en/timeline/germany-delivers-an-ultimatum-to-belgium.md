@@ -2,7 +2,7 @@
 title: Germany delivers an ultimatum to Belgium
 summary: On the evening of 2 August 1914 Germany demanded that Belgium allow its troops to pass through, giving it 12 hours to reply.
 source: niemcy-stawiaja-belgii-ultimatum
-sourceHash: 7f0c3788f65d9f38f2dfbc44620385777f9c11cf
+sourceHash: cff841d114cd962079dab64e418752ed439772c8
 ---
 
 At 7 p.m. Belgian time on 2 August 1914 the German Minister in [Brussels](https://pl.wikipedia.org/wiki/Bruksela), Claus von Below-Saleske, handed the Belgian Foreign Minister, Julien Davignon, a "very confidential" note. [Germany](/kraje/niemcy) demanded that [Belgium](/kraje/belgia) let its troops pass through Belgian territory. It gave twelve hours for a reply.
@@ -11,7 +11,7 @@ At 7 p.m. Belgian time on 2 August 1914 the German Minister in [Brussels](https:
 
 The document had not been written that day. The first draft was written in his own hand on 26 July by the Chief of the General Staff, [Helmuth von Moltke](/postacie/helmuth-von-moltke). The text was revised by officials of the Auswärtiges Amt and by Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg), and on 29 July a courier took it to Brussels in a sealed envelope. The minister was to keep it locked up and open it only when instructed by telegraph.
 
-The instruction came on 2 August. The Secretary of State, [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), ordered the note to be delivered at 8 p.m. German time, but made two changes. He struck out the promise that Germany would support any Belgian claims to territorial compensation at the expense of France, and he cut the time allowed for a reply from 24 to 12 hours. Below was to assure the Belgians that the German information about French plans was certain, and to suggest that the government withdraw with its troops to [Antwerp](/miejsca/antwerpia). The Belgians were to be left believing that the instructions had arrived only that day. The reply was to be sent at once by car to General [Otto von Emmich](https://pl.wikipedia.org/wiki/Otto_von_Emmich) at the Union Hotel in [Aachen](https://pl.wikipedia.org/wiki/Akwizgran). Emmich was to lead the first attack on [Liège](https://pl.wikipedia.org/wiki/Liège).
+The instruction came on 2 August. The Secretary of State, [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), ordered the note to be delivered at 8 p.m. German time, but made two changes. He struck out the promise that Germany would support any Belgian claims to territorial compensation at the expense of France, and he cut the time allowed for a reply from 24 to 12 hours. Below was to assure the Belgians that the German information about French plans was certain, and to suggest that the government withdraw with its troops to [Antwerp](/miejsca/antwerpia). The Belgians were to be left believing that the instructions had arrived only that day. The reply was to be sent at once by car to General [Otto von Emmich](https://pl.wikipedia.org/wiki/Otto_von_Emmich) at the Union Hotel in [Aachen](https://pl.wikipedia.org/wiki/Akwizgran). Emmich was to lead the first attack on [Liège](https://pl.wikipedia.org/wiki/Liège).
 
 ## The text of the note
 

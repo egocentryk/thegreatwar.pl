@@ -2,10 +2,10 @@
 title: British occupy Bushehr
 summary: On 8 August 1915 the British occupied the Persian port of Bushehr and took over its administration, in reply to the July Tangestani attack on the Residency.
 source: brytyjczycy-zajmuja-buszehr
-sourceHash: 8e12640b65063a5e69617d3fe6e797ce26f3f476
+sourceHash: 298d9f2b1102a4d6b6036a6393cf5f8d27cf685b
 ---
 
-On 8 August 1915 the British occupied [Bushehr](https://pl.wikipedia.org/wiki/Buszehr), the main port of [Persia](https://pl.wikipedia.org/wiki/Iran) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska). A proclamation was posted in the town announcing that Great Britain was taking over the administration of the whole island of Bushehr, together with the town and port, and would hold it until it received satisfaction. Power was assumed by Major Arthur Prescott Trevor of the British Residency, as commandant of the military administration on behalf of the British government. The occupation of a neutral state was the reply to the [attack of Tangestan tribes on the Residency](/atak-na-rezydenture-w-buszehrze) on 12 July, in which two British officers were killed.
+On 8 August 1915 the British occupied [Bushehr](https://pl.wikipedia.org/wiki/Buszehr), the main port of [Persia](/kraje/persja) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska). A proclamation was posted in the town announcing that Great Britain was taking over the administration of the whole island of Bushehr, together with the town and port, and would hold it until it received satisfaction. Power was assumed by Major Arthur Prescott Trevor of the British Residency, as commandant of the military administration on behalf of the British government. The occupation of a neutral state was the reply to the [attack of Tangestan tribes on the Residency](/atak-na-rezydenture-w-buszehrze) on 12 July, in which two British officers were killed.
 
 ## The satisfaction that never came
 

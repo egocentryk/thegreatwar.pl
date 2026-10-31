@@ -11,7 +11,7 @@ sides:
     commanders: [Nikolai Ivanov, Platon Lechitsky, Alexei Evert, Radko Dimitriev]
 result: Inconclusive. The Austrians halted the Russians in the forefield of Kraków but failed to drive them away from the fortress. The Russians made no attempt to storm it.
 source: bitwa-pod-krakowem
-sourceHash: 80bcfee614be26d89784abf92d8e906e36749c81
+sourceHash: 1225fd111e987f89ddbf500ba256b394fa37aa53
 brief:
   - "The Battle of Kraków, also called the first battle for Kraków, was fought in the second half of November 1914 on the northern and eastern forefield of the fortress of Kraków."
   - "After their defeat on the Vistula the Austro-Hungarian armies fell back to Kraków, and the Russian 9th Army of General Lechitsky came up to the fortress. The Russians meant only to blockade it, not storm it."
@@ -30,7 +30,7 @@ Some Polish publications also distinguish a "second battle for Kraków", fought 
 
 ## Background
 
-At the beginning of November 1914, after the failed [Battle of Warsaw and Dęblin](/bitwy/bitwa-pod-warszawa-i-deblinem), the armies of the Central Powers were retreating westwards. The Austro-Hungarian [1st Army](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)) of General [Viktor Dankl](/postacie/victor-dankl) took up positions on the [Kraków-Częstochowa Upland](https://pl.wikipedia.org/wiki/Wyżyna_Krakowsko-Częstochowska), north-west of Kraków, and the 4th Army of [Archduke Joseph Ferdinand](https://pl.wikipedia.org/wiki/Józef_Ferdynand) fell back to the forefield of the fortress. The German 9th Army left by rail for the north, to the area of Thorn, from where on 11 November it attacked the Russians, opening the [Battle of Łódź](/bitwy/bitwa-pod-lodzia). In Silesia, between the Austrians and the Germans, there remained the Landwehr corps of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch).
+At the beginning of November 1914, after the failed [Battle of Warsaw and Dęblin](/bitwy/bitwa-pod-warszawa-i-deblinem), the armies of the Central Powers were retreating westwards. The Austro-Hungarian [1st Army](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)) of General [Viktor Dankl](/postacie/victor-dankl) took up positions on the [Kraków-Częstochowa Upland](https://pl.wikipedia.org/wiki/Wyżyna_Krakowsko-Częstochowska), north-west of Kraków, and the 4th Army of [Archduke Joseph Ferdinand](/postacie/jozef-ferdynand) fell back to the forefield of the fortress. The German 9th Army left by rail for the north, to the area of Thorn, from where on 11 November it attacked the Russians, opening the [Battle of Łódź](/bitwy/bitwa-pod-lodzia). In Silesia, between the Austrians and the Germans, there remained the Landwehr corps of General [Remus von Woyrsch](/postacie/remus-von-woyrsch).
 
 Behind them came the Russian armies of the South-Western Front of General [Nikolai Ivanov](/postacie/nikolaj-iwanow). North of the Vistula, towards Silesia and Kraków, the 4th Army of General [Alexei Evert](/postacie/aleksiej-ewert) and the 9th Army of General Platon Lechitsky were advancing. Around 14 November the latter reached the line Wolbrom – Skała – Słomniki – Proszowice. South of the Vistula, from Tarnów, the 3rd Army of General [Radko Dimitriev](/postacie/radko-dimitriew) marched west, and further east Brusilov's 8th Army pressed on towards the Carpathians. Behind the front the Russians closed the ring around [Przemyśl](/bitwy/drugie-oblezenie-przemysla) for the second time.
 

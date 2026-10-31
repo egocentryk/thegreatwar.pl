@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 23 listopada 1914 roku powstanie Holenderskiego Zamorskiego Trustu (Nederlandsche Overzee Trustmaatschappij, w skrócie NOT). Źródła holenderskie podają jako datę założenia spółki 24 listopada. Była to prywatna firma, która przez całą wojnę pośredniczyła w zamorskim imporcie neutralnej [Holandii](https://pl.wikipedia.org/wiki/Holandia) i dawała Wielkiej Brytanii gwarancje, że sprowadzane towary nie zostaną odsprzedane Niemcom.
+Brytyjska chronologia wojny notuje pod datą 23 listopada 1914 roku powstanie Holenderskiego Zamorskiego Trustu (Nederlandsche Overzee Trustmaatschappij, w skrócie NOT). Źródła holenderskie podają jako datę założenia spółki 24 listopada. Była to prywatna firma, która przez całą wojnę pośredniczyła w zamorskim imporcie neutralnej [Holandii](/kraje/holandia) i dawała Wielkiej Brytanii gwarancje, że sprowadzane towary nie zostaną odsprzedane Niemcom.
 
 ## Gwarancje bez rządu
 

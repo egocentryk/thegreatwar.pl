@@ -23,7 +23,7 @@ brief:
   - "Ofensywa nie osiągnęła żadnego celu, ale dowództwo francuskie utwierdziło się w przekonaniu, że piechota dobrze wsparta artylerią może przebić się przez niemieckie linie."
 ---
 
-Pierwsza bitwa w [Szampanii](https://pl.wikipedia.org/wiki/Szampania) była pierwszą wielką ofensywą Francuzów przeciw umocnionym pozycjom niemieckim na froncie zachodnim. Francuska 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) przez blisko trzy miesiące, od grudnia 1914 do marca 1915 roku, atakowała okopy niemieckiej [3 Armii](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) na kredowych równinach na wschód od [Reims](/miejsca/reims). Walki toczyły się w deszczu, błocie i mrozie wokół kilku małych wsi: Souain, Perthes-lès-Hurlus, Mesnil-lès-Hurlus i Massiges. Francuzi posunęli się w najlepszym razie o 2–3 kilometry, a zapłacili za to stratami liczonymi w dziesiątkach tysięcy ludzi.
+Pierwsza bitwa w [Szampanii](https://pl.wikipedia.org/wiki/Szampania) była pierwszą wielką ofensywą Francuzów przeciw umocnionym pozycjom niemieckim na froncie zachodnim. Francuska 4 Armia generała [Fernanda de Langle de Cary](/postacie/fernand-de-langle-de-cary) przez blisko trzy miesiące, od grudnia 1914 do marca 1915 roku, atakowała okopy niemieckiej [3 Armii](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) na kredowych równinach na wschód od [Reims](/miejsca/reims). Walki toczyły się w deszczu, błocie i mrozie wokół kilku małych wsi: Souain, Perthes-lès-Hurlus, Mesnil-lès-Hurlus i Massiges. Francuzi posunęli się w najlepszym razie o 2–3 kilometry, a zapłacili za to stratami liczonymi w dziesiątkach tysięcy ludzi.
 
 ## Nazwa i daty
 

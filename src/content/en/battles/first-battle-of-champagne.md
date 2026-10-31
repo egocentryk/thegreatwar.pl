@@ -9,7 +9,7 @@ sides:
     commanders: [Erich von Falkenhayn, Karl von Einem]
 result: Inconclusive. The French advanced 2–3 kilometres in places and took Perthes-lès-Hurlus, but did not break through the German front.
 source: pierwsza-bitwa-w-szampanii
-sourceHash: c9d07b2f9940bc8d6ae75a99f2a10a8e35fbd1b2
+sourceHash: db0f50ebcfe629561a3060efa6696398dc66b237
 brief:
   - "The First Battle of Champagne, fought from 20 December 1914 to 17 March 1915, was the first great French offensive against fortified German positions on the Western Front."
   - "General Joffre wanted to strike the Noyon salient from two sides and threaten the German railways. General de Langle de Cary's French Fourth Army was to attack from Suippes towards Rethel."
@@ -18,7 +18,7 @@ brief:
   - "The offensive achieved none of its objectives, yet the French command became convinced that infantry well supported by artillery could break through the German lines."
 ---
 
-The First Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania) was the first great French offensive against fortified German positions on the Western Front. For almost three months, from December 1914 to March 1915, the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) attacked the trenches of the German [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) on the chalk plains east of [Reims](/miejsca/reims). The fighting took place in rain, mud and frost around a few small villages: Souain, Perthes-lès-Hurlus, Mesnil-lès-Hurlus and Massiges. At best the French advanced 2–3 kilometres, and they paid for it with losses counted in tens of thousands of men.
+The First Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania) was the first great French offensive against fortified German positions on the Western Front. For almost three months, from December 1914 to March 1915, the French Fourth Army of General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary) attacked the trenches of the German [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) on the chalk plains east of [Reims](/miejsca/reims). The fighting took place in rain, mud and frost around a few small villages: Souain, Perthes-lès-Hurlus, Mesnil-lès-Hurlus and Massiges. At best the French advanced 2–3 kilometres, and they paid for it with losses counted in tens of thousands of men.
 
 ## Name and dates
 

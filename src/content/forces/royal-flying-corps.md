@@ -12,7 +12,7 @@ kind: lotnictwo
 country: wielka-brytania
 formed: 1912-05-13
 disbanded: 1918-04-01
-people: [john-french, douglas-haig, jan-smuts]
+people: [john-french, hugh-trenchard, douglas-haig, jan-smuts]
 wikiTitles: ["Royal_Flying_Corps"]
 updated: 2026-10-31
 authors: [Łukasz Skowroń]

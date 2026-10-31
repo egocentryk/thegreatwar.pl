@@ -10,7 +10,7 @@ import { listUrl } from "@/utils/filteredPages"
 import { compareTimelineEntries } from "@/utils/groupTimelineEntries"
 import { WAR_NUMBERS, type Row } from "@/utils/warNumbers"
 
-export const SIDES = ["Ententa", "Państwa centralne"] as const
+export const SIDES = ["Ententa", "Państwa centralne", "Państwa neutralne"] as const
 
 const cache = new Map<Lang, ReturnType<typeof load>>()
 export function localCountries(lang: Lang) {

@@ -2,7 +2,7 @@
 title: Outbreak of the Irish War of Independence
 summary: On 21 January 1919 the Sinn Féin MPs met in Dublin as Dáil Éireann and declared independence. In Tipperary two policemen were shot dead.
 source: wybuch-irlandzkiej-wojny-o-niepodleglosc
-sourceHash: 5ebd8267dd36a0d47600de4b4fbbaa5a2ed685fc
+sourceHash: 775df8d0bc8ee0c32844c14f76f3da9851ad3866
 ---
 
 On 21 January 1919 two things happened in Ireland which only later came to be told as a single story. Around midday in County [Tipperary](https://pl.wikipedia.org/wiki/Tipperary_(hrabstwo)) republican volunteers shot dead two policemen escorting a cart of explosives. In the afternoon [Dáil Éireann](https://pl.wikipedia.org/wiki/Dáil_Éireann), a parliament set up by the [Sinn Féin](https://pl.wikipedia.org/wiki/Sinn_Féin) MPs, met for the first time in Dublin and declared Ireland's independence. The shots at Soloheadbeg are traditionally regarded as the start of the [Irish War of Independence](https://pl.wikipedia.org/wiki/Irlandzka_wojna_o_niepodległość), although nobody in Dublin had ordered them.
@@ -17,7 +17,7 @@ The operation was carried out without orders from Dublin. The Volunteers' chief 
 
 In the [December election](/wybory-w-wielkiej-brytanii) Sinn Féin had won 73 of the 105 Irish seats, and as promised its MPs did not go to Westminster. At 3.30 p.m. they gathered in the Mansion House, the residence of the Lord Mayor of Dublin. Only 27 of them came. According to the record of the sitting, more than thirty were in prison, "imprisoned by the foreigners", among them [Éamon de Valera](https://pl.wikipedia.org/wiki/Éamon_de_Valera) and [Arthur Griffith](https://pl.wikipedia.org/wiki/Arthur_Griffith), arrested in May 1918 over an alleged [plot with Germany](/aresztowania-sinn-fein). Several others had been deported. The names of the 26 unionist MPs and six of the Irish Parliamentary Party, who boycotted the assembly, were also read out. The name of [Edward Carson](/postacie/edward-carson) was greeted with laughter.
 
-The deputies elected [Cathal Brugha](https://pl.wikipedia.org/wiki/Cathal_Brugha) as their speaker and passed a short provisional constitution. They then read out the declaration of Irish independence and the "Message to the Free Nations of the World", which called on every free nation to recognise the Irish Republic and its right to be heard at the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)). They also adopted the Democratic Programme, a social policy document agreed with the Labour Party, which in return had not stood in the election. The assembly wanted to show the world that Ireland already had its own serious government, and nobody in the hall spoke of war.
+The deputies elected [Cathal Brugha](https://pl.wikipedia.org/wiki/Cathal_Brugha) as their speaker and passed a short provisional constitution. They then read out the declaration of Irish independence and the "Message to the Free Nations of the World", which called on every free nation to recognise the Irish Republic and its right to be heard at the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa). They also adopted the Democratic Programme, a social policy document agreed with the Labour Party, which in return had not stood in the election. The assembly wanted to show the world that Ireland already had its own serious government, and nobody in the hall spoke of war.
 
 ## A war that started slowly
 

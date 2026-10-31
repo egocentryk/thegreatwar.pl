@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Temesvár (now Timișoara, Romania)
 deathPlace: Vienna
 source: hermann-kovess
-sourceHash: 2676fd3a593b94743585945fdbfe25a82b02bb33
+sourceHash: 461909c61023b41dc27768d520765708865e120d
 ---
 
 Hermann Kövess von Kövessháza, a baron from 1917, was among the most successful commanders of the Austro-Hungarian Army, although he began the war as one of the oldest and most overlooked generals of the monarchy. In 1914, while colleagues younger than him were taking over armies, he commanded a corps. Only in 1915 was he given independent tasks: his troops occupied the left-bank part of the fortress of Ivangorod, and in the autumn, as commander of the 3rd Army, he took Belgrade. In the winter of 1915/1916 he conquered Montenegro and northern Albania within a few weeks, and in the summer of 1917 he retook Bukovina with Czernowitz. He was one of the few generals of the monarchy whom the Germans also respected. Finally, in November 1918, Emperor Charles made him commander-in-chief of an army that was just ceasing to exist.
@@ -23,7 +23,7 @@ In June 1911 he took over XII Corps in [Hermannstadt](https://pl.wikipedia.org/w
 
 In the summer of 1914 Kövess was the oldest corps commander in the army, both by age and by seniority, and yet he was not given an army. The armies went to [Viktor Dankl](/postacie/victor-dankl) and [Eduard von Böhm-Ermolli](/postacie/eduard-von-bohm-ermolli), both younger than him. His corps, made up of Transylvanian divisions, went to eastern Galicia as the vanguard of the 2nd Army, which was still fighting the Serbs. Until that army arrived, Kövess commanded an army group covering Lviv and the Dniester alongside the 3rd Army of General Rudolf von Brudermann. In the [Battle of the Złota Lipa](/bitwy/bitwa-nad-zlota-lipa) and the subsequent fighting on the Gniła Lipa his troops suffered heavy losses and had to fall back, and on 3 September the Russians [took Lviv](/rosjanie-zdobywaja-lwow). In those same days his eldest son Adalbert was killed near Uhnów.
 
-After the [Battle of Galicia](/bitwy/bitwa-galicyjska) XII Corps fought as part of the 2nd Army in the Carpathians and near Stary Sambor, and in November it was moved by rail to Silesia and into the Kingdom of Poland. There, on the Warta and the Pilica, it covered the southern flank of the Germans during the [Battle of Łódź](/bitwy/bitwa-pod-lodzia) and in the winter positional fighting. When the 2nd Army returned to the Carpathians in the spring of 1915, Kövess stayed in Poland. His corps, expanded into an army group, became part of the army of the Prussian General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch).
+After the [Battle of Galicia](/bitwy/bitwa-galicyjska) XII Corps fought as part of the 2nd Army in the Carpathians and near Stary Sambor, and in November it was moved by rail to Silesia and into the Kingdom of Poland. There, on the Warta and the Pilica, it covered the southern flank of the Germans during the [Battle of Łódź](/bitwy/bitwa-pod-lodzia) and in the winter positional fighting. When the 2nd Army returned to the Carpathians in the spring of 1915, Kövess stayed in Poland. His corps, expanded into an army group, became part of the army of the Prussian General [Remus von Woyrsch](/postacie/remus-von-woyrsch).
 
 ## 1915: Ivangorod and Belgrade
 

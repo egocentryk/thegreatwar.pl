@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-26 sierpnia 1914 roku stanowisko stracił francuski minister wojny Adolphe Messimy, który kierował resortem od połowy czerwca 1914 roku. Premier [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) przebudował tego dnia rząd, a tekę ministra wojny przejął [Alexandre Millerand](/postacie/alexandre-millerand).
+26 sierpnia 1914 roku stanowisko stracił francuski minister wojny Adolphe Messimy, który kierował resortem od połowy czerwca 1914 roku. Premier [René Viviani](/postacie/rene-viviani) przebudował tego dnia rząd, a tekę ministra wojny przejął [Alexandre Millerand](/postacie/alexandre-millerand).
 
 ## Minister pierwszych tygodni wojny
 

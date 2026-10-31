@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 2 na 3 stycznia 1915 roku wojska rosyjskie opuściły [Urmię](https://pl.wikipedia.org/wiki/Urmia_(miasto)) i okoliczną równinę nad [jeziorem Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)) w północno-zachodniej [Persji](https://pl.wikipedia.org/wiki/Iran). Wycofanie się Rosjan oznaczało katastrofę dla mieszkających tu chrześcijan, [Asyryjczyków](https://pl.wikipedia.org/wiki/Asyryjczycy) i [Ormian](https://pl.wikipedia.org/wiki/Ormianie). Tysiące z nich ruszyły w środku zimy za odchodzącymi wojskami, a ci, którzy zostali, znaleźli się na łasce [Kurdów](https://pl.wikipedia.org/wiki/Kurdowie) i wojsk osmańskich.
+W nocy z 2 na 3 stycznia 1915 roku wojska rosyjskie opuściły [Urmię](https://pl.wikipedia.org/wiki/Urmia_(miasto)) i okoliczną równinę nad [jeziorem Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)) w północno-zachodniej [Persji](/kraje/persja). Wycofanie się Rosjan oznaczało katastrofę dla mieszkających tu chrześcijan, [Asyryjczyków](https://pl.wikipedia.org/wiki/Asyryjczycy) i [Ormian](https://pl.wikipedia.org/wiki/Ormianie). Tysiące z nich ruszyły w środku zimy za odchodzącymi wojskami, a ci, którzy zostali, znaleźli się na łasce [Kurdów](https://pl.wikipedia.org/wiki/Kurdowie) i wojsk osmańskich.
 
 ## Rosjanie w neutralnej Persji
 

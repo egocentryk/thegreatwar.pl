@@ -2,14 +2,14 @@
 title: Pimenta de Castro becomes prime minister of Portugal
 summary: On 25 January 1915, after an officers' protest, President Arriaga gave the Portuguese government to General Pimenta de Castro, who ruled without parliament.
 source: pimenta-de-castro-premierem-portugalii
-sourceHash: bd9c60f4ac52ebb7e5a732ef12fd59737d013d81
+sourceHash: 056e111fbf61b485925bc8f98b0d79ed52b75b74
 ---
 
 On 25 January 1915 the President of [Portugal](/kraje/portugalia), Manuel de Arriaga, entrusted the leadership of the government to General Joaquim Pimenta de Castro. He replaced Vítor Hugo de Azevedo Coutinho, whose [cabinet of Democrats](/azevedo-coutinho-premierem-portugalii) had lasted only six weeks. Sources give different dates for the general's assumption of power. Arriaga approached him by letter as early as 23 January, the appointment was made on 25 January, and the other ministers took up their portfolios only on 28 January. Until then Pimenta de Castro ran all the ministries himself.
 
 ## The Movement of the Swords
 
-The Azevedo Coutinho government fell as a result of a protest by the military. Many officers accused the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)) of [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa) of bringing party politics into the army and, moreover, of seeking to drag Portugal into the war in Europe. The spark was the transfer of Major João Carlos Craveiro Lopes from one regiment to another, which the army regarded as an act of political revenge. On 22 January a group of officers of the 2nd Cavalry Regiment, led by Captain Martins de Lima, set off for the Belém Palace to hand their swords to the President in protest. They were arrested and confined on the frigate *Dom Fernando II e Glória*. That same afternoon Commander Machado Santos, one of the heroes of the 1910 revolution that had overthrown the monarchy, laid down his sword at the palace. From this gesture the events were called the Movement of the Swords (Movimento das Espadas).
+The Azevedo Coutinho government fell as a result of a protest by the military. Many officers accused the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)) of [Afonso Costa](/postacie/afonso-costa) of bringing party politics into the army and, moreover, of seeking to drag Portugal into the war in Europe. The spark was the transfer of Major João Carlos Craveiro Lopes from one regiment to another, which the army regarded as an act of political revenge. On 22 January a group of officers of the 2nd Cavalry Regiment, led by Captain Martins de Lima, set off for the Belém Palace to hand their swords to the President in protest. They were arrested and confined on the frigate *Dom Fernando II e Glória*. That same afternoon Commander Machado Santos, one of the heroes of the 1910 revolution that had overthrown the monarchy, laid down his sword at the palace. From this gesture the events were called the Movement of the Swords (Movimento das Espadas).
 
 The protest was supported by moderate republicans, monarchists and part of the Church. President Arriaga, who had long been looking for a counterweight to the Democrats, took it as a sign that the government had lost the confidence of the army. On 25 January the Azevedo Coutinho cabinet resigned.
 

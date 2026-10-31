@@ -2,7 +2,7 @@
 title: Belgian government moves to Ostend
 summary: On 7 October 1914 the Belgian government left Antwerp and moved to Ostend. The army was withdrawing across the Scheldt and residents fled the bombardment.
 source: rzad-belgijski-przenosi-sie-do-ostendy
-sourceHash: cb4c35ee24176529ce02d4951d677ae1347c0229
+sourceHash: 462e2e3dc734c6a791b004ab013eecaecbc49d50
 ---
 
 On 7 October 1914 the Belgian government left besieged [Antwerp](/miejsca/antwerpia) and moved to [Ostend](/miejsca/ostenda) on the North Sea coast. On the same day King [Albert I](/postacie/albert-i) left the city, and the field army was crossing the [Scheldt](https://pl.wikipedia.org/wiki/Skalda) to the west. Antwerp, since August the refuge of the army, the King and the state authorities, was left to its own resources. Its evacuation began.
@@ -21,7 +21,7 @@ King Albert I left the city in the afternoon of the same day. He drove across a 
 
 ## The flight of the inhabitants
 
-The departure of the authorities and the march of the troops caused panic in the city. Since the end of September the wounded and supplies had been taken out of Antwerp. Now civilians began to flee. Tens of thousands, and over the following days hundreds of thousands, of people set off by train, by ship, by cart and on foot to the west and to the north, to the neighbouring neutral [Netherlands](https://pl.wikipedia.org/wiki/Holandia). Late in the evening of 7 October, before midnight, the Germans began to shell the city itself. Over the following days thousands of shells fell on Antwerp, and fires consumed many buildings.
+The departure of the authorities and the march of the troops caused panic in the city. Since the end of September the wounded and supplies had been taken out of Antwerp. Now civilians began to flee. Tens of thousands, and over the following days hundreds of thousands, of people set off by train, by ship, by cart and on foot to the west and to the north, to the neighbouring neutral [Netherlands](/kraje/holandia). Late in the evening of 7 October, before midnight, the Germans began to shell the city itself. Over the following days thousands of shells fell on Antwerp, and fires consumed many buildings.
 
 ## From Ostend to Le Havre
 

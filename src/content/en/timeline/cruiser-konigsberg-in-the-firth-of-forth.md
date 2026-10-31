@@ -2,7 +2,7 @@
 title: The cruiser Königsberg in the Firth of Forth
 summary: On 15 November 1918 the cruiser Königsberg brought Rear-Admiral Meurer to the Firth of Forth to agree with Beatty how Germany would hand over its fleet.
 source: krazownik-konigsberg-w-zatoce-forth
-sourceHash: f0653a517176368b40997e87e0d64d048464f899
+sourceHash: 94924622feb29fc313a9767ef739c49b9335c75b
 ---
 
 On 15 November 1918 the German light cruiser *Königsberg* entered the [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth) in Scotland, where the British [Grand Fleet](/sily-zbrojne/grand-fleet) lay. She brought Rear-Admiral Hugo Meurer, the plenipotentiary of the German navy, who was to settle with the commander of the Grand Fleet, Admiral [David Beatty](/postacie/david-beatty), how the naval terms of the [Armistice of Compiègne](/rozejm-w-compiegne) were to be carried out. In the evening, between seven and eight, Meurer and his staff went aboard Beatty's flagship, the battleship [*Queen Elizabeth*](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)). A British chronology of the war records this meeting under 15–16 November, because the talks began on the evening of 15 November and ended the following day.
@@ -17,7 +17,7 @@ Meurer was no chance envoy. In the spring of 1918 he had commanded the German na
 
 ## Talks aboard Queen Elizabeth
 
-The first conference began at 7.40 p.m. On the British side sat Beatty, his second-in-command Admiral Charles Madden and his chief of staff Vice-Admiral Osmond Brock, and the commander of the Harwich Force, Rear-Admiral [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt), took part in some of the talks. Meurer, after his credentials had been checked, was given a document in two columns: the left summarised the terms of the armistice, the right listed the questions he was to answer and the orders he was to carry out. The British wanted to know how many submarines were ready to be handed over, where the surface ships lay and how long it would take to assemble them.
+The first conference began at 7.40 p.m. On the British side sat Beatty, his second-in-command Admiral Charles Madden and his chief of staff Vice-Admiral Osmond Brock, and the commander of the Harwich Force, Rear-Admiral [Reginald Tyrwhitt](/postacie/reginald-tyrwhitt), took part in some of the talks. Meurer, after his credentials had been checked, was given a document in two columns: the left summarised the terms of the armistice, the right listed the questions he was to answer and the orders he was to carry out. The British wanted to know how many submarines were ready to be handed over, where the surface ships lay and how long it would take to assemble them.
 
 Meurer replied that he could not answer everything at once and had to consult home. He asked the British to bear in mind the chaos in Germany: the old institutions had collapsed and their place had been taken by soldiers' and workers' councils. Beatty agreed that if any of the ships named in the armistice could not be made ready because of the disorder in the dockyards, it could be replaced by another. The unfinished cruiser *Wiesbaden* was to be replaced by another light cruiser. At 8.30 p.m. Meurer returned to his ship. The scene of the Germans arriving aboard *Queen Elizabeth* in the dark was captured in a painting by the Irish painter [John Lavery](https://pl.wikipedia.org/wiki/John_Lavery).
 

@@ -2,7 +2,7 @@
 title: Battle of Tarnawka begins
 summary: On 7 September 1914 the Battle of Tarnawka broke out south of Lublin. The reinforced Russians struck Dankl's Austro-Hungarian army and forced it to retreat.
 source: poczatek-bitwy-pod-tarnawka
-sourceHash: f768fe7dca50d5429a75e31474d33b8b78d50f76
+sourceHash: 6e5ab1dca58b1b75e63049006dfb0803ac329892
 ---
 
 On 7 September 1914, in the Lublin region, in the fields around the village of Tarnawka south of [Lublin](https://pl.wikipedia.org/wiki/Lublin), a battle broke out between Russian troops and the Austro-Hungarian 1st Army of General [Viktor Dankl](/postacie/victor-dankl) together with the German units supporting it. It was one of the hardest battles fought on Polish lands in 1914 and a turning point in the fighting on the northern wing of the [Battle of Galicia](/bitwy/bitwa-galicyjska).
@@ -11,7 +11,7 @@ On 7 September 1914, in the Lublin region, in the fields around the village of T
 
 At the end of August Dankl's army [beat the Russians at Kraśnik](/bitwy/bitwa-pod-krasnikiem) and followed them north, towards Lublin. At the beginning of September, however, it halted on the hills of the [Lublin Upland](https://pl.wikipedia.org/wiki/Wyżyna_Lubelska), from a dozen or so to several dozen kilometres from the city. The Russians meanwhile were bringing up reinforcements. Their 4th Army, now commanded by General [Alexei Evert](/postacie/aleksiej-ewert), was strengthened with fresh corps, including the elite [Guards](https://pl.wikipedia.org/wiki/Gwardia_Imperium_Rosyjskiego) Corps. A new 9th Army under General Platon Lechitsky was concentrating on the Vistula. On 3 September the Russian front command issued the order for a general offensive.
 
-The Austro-Hungarians, weakened by the August fighting, received little help. The German [Landwehr](https://pl.wikipedia.org/wiki/Landwehra) Corps of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch), made up of older reservists, crossed to the right bank of the Vistula and was temporarily placed under Dankl. Even so, the Russian superiority grew quickly. According to Austrian studies, around 7 September Dankl's three corps faced seven Russian corps.
+The Austro-Hungarians, weakened by the August fighting, received little help. The German [Landwehr](https://pl.wikipedia.org/wiki/Landwehra) Corps of General [Remus von Woyrsch](/postacie/remus-von-woyrsch), made up of older reservists, crossed to the right bank of the Vistula and was temporarily placed under Dankl. Even so, the Russian superiority grew quickly. According to Austrian studies, around 7 September Dankl's three corps faced seven Russian corps.
 
 ## The blow
 

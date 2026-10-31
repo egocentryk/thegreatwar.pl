@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Warsaw (Kingdom of Poland)
 deathPlace: Klemensów near Szczebrzeszyn
 source: maurycy-zamoyski
-sourceHash: 96af20d5a7d69c4ff410286d7f2eb443ec196b6b
+sourceHash: 3af35a73afe5f855f8cbcdc1bac9f4b8e0ea582b
 ---
 
 Count Maurycy Zamoyski, the 15th holder of the [Zamość entail](https://pl.wikipedia.org/wiki/Ordynacja_Zamojska), was one of the richest men in the Polish lands and [Roman Dmowski](/postacie/roman-dmowski)'s closest ally among the aristocracy. He was neither a great orator nor an ideologue, but without his money, name and connections the politics of the national camp in the West during the Great War is hard to imagine. Following Dmowski, he moved from Russia to the West, and in August 1917 he became vice-president and treasurer of the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego). When Dmowski was in the United States in the autumn of 1918, Zamoyski ran the Committee in Paris. After the war he was reborn Poland's first envoy to France, and in 1922 the right's candidate for president.
@@ -35,7 +35,7 @@ According to Mintzberg, a measure of Zamoyski's standing was that he was offered
 
 ## After the war
 
-In 1919 Zamoyski was a member of the Polish delegation to the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)). Paderewski's government appointed him Polish envoy to France, and Zamoyski held the post from August 1919 to January 1924. During the war with the Bolsheviks in 1920, using his acquaintance with [Alexandre Millerand](/postacie/alexandre-millerand), French prime minister and from September president, he sought French help and, according to his biographer, pledged the whole entail as security for arms deliveries. In December 1922 he was the right's candidate in the presidential election. He led in the first rounds, but in the final vote he lost to [Gabriel Narutowicz](https://pl.wikipedia.org/wiki/Gabriel_Narutowicz) by 227 votes to 289. From January to July 1924 he was foreign minister in Władysław Grabski's government. He died on 5 May 1939 at Klemensów and was buried in the Zamość collegiate church.
+In 1919 Zamoyski was a member of the Polish delegation to the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa). Paderewski's government appointed him Polish envoy to France, and Zamoyski held the post from August 1919 to January 1924. During the war with the Bolsheviks in 1920, using his acquaintance with [Alexandre Millerand](/postacie/alexandre-millerand), French prime minister and from September president, he sought French help and, according to his biographer, pledged the whole entail as security for arms deliveries. In December 1922 he was the right's candidate in the presidential election. He led in the first rounds, but in the final vote he lost to [Gabriel Narutowicz](https://pl.wikipedia.org/wiki/Gabriel_Narutowicz) by 227 votes to 289. From January to July 1924 he was foreign minister in Władysław Grabski's government. He died on 5 May 1939 at Klemensów and was buried in the Zamość collegiate church.
 
 ## Assessment
 

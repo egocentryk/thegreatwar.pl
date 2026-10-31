@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 października 1915 roku [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) złożył dymisję z funkcji premiera Francji. Był szefem rządu od 13 czerwca 1914 roku, a od 26 sierpnia 1914 roku kierował gabinetem obrony narodowej, czyli rządem tzw. świętej jedności (fr. union sacrée), do którego weszli przedstawiciele niemal wszystkich partii, z socjalistami włącznie. To on przeprowadził Francję przez pierwsze, najcięższe miesiące wojny. Jesienią 1915 roku jego rząd stracił jednak zaufanie zarówno parlamentu, jak i opinii publicznej.
+29 października 1915 roku [René Viviani](/postacie/rene-viviani) złożył dymisję z funkcji premiera Francji. Był szefem rządu od 13 czerwca 1914 roku, a od 26 sierpnia 1914 roku kierował gabinetem obrony narodowej, czyli rządem tzw. świętej jedności (fr. union sacrée), do którego weszli przedstawiciele niemal wszystkich partii, z socjalistami włącznie. To on przeprowadził Francję przez pierwsze, najcięższe miesiące wojny. Jesienią 1915 roku jego rząd stracił jednak zaufanie zarówno parlamentu, jak i opinii publicznej.
 
 Źródła różnie datują koniec tego gabinetu: część podaje 27 lub 28 października, inne 29 października. Wynika to z przebiegu kryzysu. Viviani przez kilka dni próbował przebudować rząd, 28 października wieczorem zapowiedział, że niezależnie od wszystkiego ustąpi przed posiedzeniem Izby następnego dnia, a dekrety o powołaniu nowego rządu prezydent podpisał późnym wieczorem 29 października.
 

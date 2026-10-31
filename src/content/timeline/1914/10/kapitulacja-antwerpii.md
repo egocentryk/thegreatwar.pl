@@ -28,7 +28,7 @@ Tego samego dnia zdobywcy świętowali zwycięstwo. Generał [Hans von Beseler](
 
 ## Jeńcy i internowani
 
-Liczby żołnierzy, którzy nie zdołali się wycofać, podawane są różnie. Według części źródeł do niewoli niemieckiej trafiło około 30 tysięcy Belgów, głównie z załogi twierdzy. Około 30–40 tysięcy żołnierzy przekroczyło granicę [Holandii](https://pl.wikipedia.org/wiki/Holandia). Neutralne państwo, zgodnie z konwencją haską, rozbroiło ich i [internowało](https://pl.wikipedia.org/wiki/Internowanie) do końca wojny. Belgów rozmieszczono w obozach w głębi kraju, z dala od granicy, między innymi w Zeist, Amersfoort i Oldebroek.
+Liczby żołnierzy, którzy nie zdołali się wycofać, podawane są różnie. Według części źródeł do niewoli niemieckiej trafiło około 30 tysięcy Belgów, głównie z załogi twierdzy. Około 30–40 tysięcy żołnierzy przekroczyło granicę [Holandii](/kraje/holandia). Neutralne państwo, zgodnie z konwencją haską, rozbroiło ich i [internowało](https://pl.wikipedia.org/wiki/Internowanie) do końca wojny. Belgów rozmieszczono w obozach w głębi kraju, z dala od granicy, między innymi w Zeist, Amersfoort i Oldebroek.
 
 Ciężko ucierpiała brytyjska Dywizja Marynarki. Około 1500 marynarzy z 1 Brygady, do których nie dotarł na czas rozkaz odwrotu, przeszło do Holandii. Internowano ich w obozie w [Groningen](https://pl.wikipedia.org/wiki/Groningen), gdzie wielu z nich spędziło resztę wojny. Blisko tysiąc innych, w większości żołnierzy piechoty morskiej, których pociąg Niemcy zatrzymali w drodze na zachód, trafiło do niewoli.
 

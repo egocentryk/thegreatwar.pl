@@ -2,10 +2,10 @@
 title: Fall of the Ain od-Dowleh government
 summary: In July 1915 the government of Persian prime minister Ain od-Dowleh fell. The Majlis attacked his minister Farmanfarma, and he stood by the British protégé.
 source: dymisja-rzadu-ajn-od-dole
-sourceHash: efd76af0837b03e33ee1d3836978a16770eaa972
+sourceHash: a9b710ddb4ef05e6af87ee4bedaee45700f6cfa1
 ---
 
-In the summer of 1915 the government of [Persia](https://pl.wikipedia.org/wiki/Iran) fell. Since the turn of April and May it had been headed by the aged Prince Abdolmajid Mirza, known by the title Ain od-Dowleh. The British chronology of the war records his resignation only under 17 August, the day before his successor was appointed. Persian sources and the Encyclopaedia Iranica indicate, however, that the cabinet had already resigned in July. Persian lists of governments end his term on 29 Tir 1294 of the Iranian calendar, that is, 21 July 1915, and we place this article under that date. For the following weeks the country waited for a new government.
+In the summer of 1915 the government of [Persia](/kraje/persja) fell. Since the turn of April and May it had been headed by the aged Prince Abdolmajid Mirza, known by the title Ain od-Dowleh. The British chronology of the war records his resignation only under 17 August, the day before his successor was appointed. Persian sources and the Encyclopaedia Iranica indicate, however, that the cabinet had already resigned in July. Persian lists of governments end his term on 29 Tir 1294 of the Iranian calendar, that is, 21 July 1915, and we place this article under that date. For the following weeks the country waited for a new government.
 
 ## The minister the British wanted
 

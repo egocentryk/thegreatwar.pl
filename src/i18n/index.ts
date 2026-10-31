@@ -38,6 +38,7 @@ export const FRONT_EN: Record<string, string> = {
 export const SIDE_EN: Record<string, string> = {
   Ententa: "The Entente",
   "Państwa centralne": "The Central Powers",
+  "Państwa neutralne": "Neutral states",
   "Sprawa polska": "The Polish cause",
 }
 

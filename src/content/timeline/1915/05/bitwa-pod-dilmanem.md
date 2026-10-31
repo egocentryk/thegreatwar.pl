@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 maja 1915 roku pod Dilmanem, głównym miasteczkiem równiny Salmas na północ od [jeziora Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)), rozegrała się decydująca bitwa wiosennej wyprawy osmańskiej do północno-zachodniej [Persji](https://pl.wikipedia.org/wiki/Iran). Wojska Halila Beja przez cały dzień atakowały pozycje rosyjskiego oddziału generała Towmasa Nazarbekowa, ale zostały odparte z ciężkimi stratami, a w nocy z 1 na 2 maja wycofały się. Dilman to dzisiejsze miasto [Salmas](https://pl.wikipedia.org/wiki/Salmas).
+1 maja 1915 roku pod Dilmanem, głównym miasteczkiem równiny Salmas na północ od [jeziora Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)), rozegrała się decydująca bitwa wiosennej wyprawy osmańskiej do północno-zachodniej [Persji](/kraje/persja). Wojska Halila Beja przez cały dzień atakowały pozycje rosyjskiego oddziału generała Towmasa Nazarbekowa, ale zostały odparte z ciężkimi stratami, a w nocy z 1 na 2 maja wycofały się. Dilman to dzisiejsze miasto [Salmas](https://pl.wikipedia.org/wiki/Salmas).
 
 ## Wyprawa Halila
 

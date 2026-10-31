@@ -2,14 +2,14 @@
 title: France orders general mobilisation
 summary: On the afternoon of 1 August 1914 France proclaimed general mobilisation. By mid-August nearly three million men had been called to arms.
 source: francja-zarzadza-powszechna-mobilizacje
-sourceHash: d1c8677a0accdbe07a659470c096631b124b61ca
+sourceHash: 82e9c505118f9621f9b69d42c73aaf667ac5c8de
 ---
 
 On the afternoon of 1 August 1914 the government of [France](/kraje/francja) ordered the general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army and navy. The War Minister, Adolphe Messimy, told the British military attaché that the orders had been given at 3.40 p.m. According to French records, the telegram with the order left Paris at 3.55 p.m. Telegrams went to the commanders of corps and regiments and to the prefects, who in turn informed the mayors. Posters printed in advance, which needed only the date filled in, were pasted on the walls. The first day of mobilisation was 2 August.
 
 ## The decision
 
-France waited until the last moment. On the evening of 31 July the German Ambassador, Wilhelm von Schoen, asked the Prime Minister, [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani), what position France would take in a war between Germany and Russia. Viviani decided to make no declaration and to answer only that France would have regard to her interests. The government of the Republic, as he wrote, need give an account of its intentions to no one but its ally. When Schoen came again at 11 a.m. on 1 August, he did not repeat the question and said of his own accord that France's attitude was not in doubt. According to the German White Book, Viviani gave him the answer he had planned at 1 p.m.
+France waited until the last moment. On the evening of 31 July the German Ambassador, Wilhelm von Schoen, asked the Prime Minister, [René Viviani](/postacie/rene-viviani), what position France would take in a war between Germany and Russia. Viviani decided to make no declaration and to answer only that France would have regard to her interests. The government of the Republic, as he wrote, need give an account of its intentions to no one but its ally. When Schoen came again at 11 a.m. on 1 August, he did not repeat the question and said of his own accord that France's attitude was not in doubt. According to the German White Book, Viviani gave him the answer he had planned at 1 p.m.
 
 The news from across the Rhine settled the matter. Berlin had proclaimed a [state of imminent danger of war](/niemcy-oglaszaja-stan-zagrozenia-wojennego), and Viviani wrote to the ambassador in London that under its cover Germany had immediately begun mobilisation in the proper sense of the word. Messimy explained to the British that the Germans had already called up six classes and that eight German army corps on a war footing faced the French troops. An attack was expected at any moment, so further delay would be too dangerous.
 

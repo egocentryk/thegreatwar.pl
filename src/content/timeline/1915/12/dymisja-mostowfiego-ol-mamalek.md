@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 grudnia 1915 roku premier [Persji](https://pl.wikipedia.org/wiki/Iran) Mostowfi ol-Mamalek złożył dymisję. Kierował rządem od sierpnia, gdy [po raz trzeci objął urząd](/mostowfi-ol-mamalek-ponownie-premierem), i przez cztery miesiące próbował utrzymać kraj poza wojną, lawirując między Ententą a Niemcami. Perskie zestawienia rządów kończą jego urzędowanie 3 deja 1294 roku według kalendarza irańskiego, czyli właśnie 24 grudnia. W części opracowań pojawia się dzień późniejszy, 25 grudnia, bo tak bywa datowana nominacja jego następcy. W chwili dymisji polityka, którą prowadził, była już w ruinie.
+24 grudnia 1915 roku premier [Persji](/kraje/persja) Mostowfi ol-Mamalek złożył dymisję. Kierował rządem od sierpnia, gdy [po raz trzeci objął urząd](/mostowfi-ol-mamalek-ponownie-premierem), i przez cztery miesiące próbował utrzymać kraj poza wojną, lawirując między Ententą a Niemcami. Perskie zestawienia rządów kończą jego urzędowanie 3 deja 1294 roku według kalendarza irańskiego, czyli właśnie 24 grudnia. W części opracowań pojawia się dzień późniejszy, 25 grudnia, bo tak bywa datowana nominacja jego następcy. W chwili dymisji polityka, którą prowadził, była już w ruinie.
 
 ## Rząd bez parlamentu
 

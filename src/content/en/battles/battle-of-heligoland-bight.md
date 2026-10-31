@@ -9,7 +9,7 @@ sides:
     commanders: [Leberecht Maass, Franz von Hipper]
 result: British victory. The Germans lost three light cruisers and a torpedo boat, the British not a single ship.
 source: bitwa-w-zatoce-helgolandzkiej
-sourceHash: ca02e9a44765a83c38ca3b3f159bde2ca675fdde
+sourceHash: daa1c909686afa1a6b6502a2d3ccab4e79a406bc
 ---
 
 The [Battle of Heligoland Bight](https://pl.wikipedia.org/wiki/Bitwa_koło_Helgolandu_(1914)), also called the First Battle of Heligoland, was fought on 28 August 1914 off the north-west coast of Germany. It was the first major clash of the British [Royal Navy](/sily-zbrojne/royal-navy) and the German [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) in the First World War. The British sank three German light cruisers and a torpedo boat without losing a single ship themselves.
@@ -20,7 +20,7 @@ Before the war both sides expected command of the sea to be decided by a great b
 
 ## The plan
 
-British submarines, which had been watching the bight since the first days of the war, noticed that German torpedo boats went out on night patrols and returned to port in the morning. Commodore [Roger Keyes](/postacie/roger-keyes), commander of the submarines, and Commodore [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt), commander of the destroyers based at Harwich, proposed an ambush. The submarines were to lure the Germans out to sea, while Tyrwhitt's destroyers, led by light cruisers, were to get between them and the coast and destroy the patrol. The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), backed this bold idea.
+British submarines, which had been watching the bight since the first days of the war, noticed that German torpedo boats went out on night patrols and returned to port in the morning. Commodore [Roger Keyes](/postacie/roger-keyes), commander of the submarines, and Commodore [Reginald Tyrwhitt](/postacie/reginald-tyrwhitt), commander of the destroyers based at Harwich, proposed an ambush. The submarines were to lure the Germans out to sea, while Tyrwhitt's destroyers, led by light cruisers, were to get between them and the coast and destroy the patrol. The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), backed this bold idea.
 
 The commander of the Grand Fleet, Admiral [John Jellicoe](/postacie/john-jellicoe), judged that the operation needed stronger cover and obtained permission to send support: the battlecruisers of Vice-Admiral [David Beatty](/postacie/david-beatty) and the light cruiser squadron of Commodore [William Goodenough](https://pl.wikipedia.org/wiki/William_Goodenough). Keyes and Tyrwhitt, who were already at sea, were not informed of this in time. In all, according to the most commonly cited figures, five battlecruisers, eight light cruisers, more than 30 destroyers and eight submarines took part in the operation on the British side.
 

@@ -6,7 +6,7 @@ country: France
 birthPlace: Saint-Omer (France)
 deathPlace: Paris
 source: alexandre-ribot
-sourceHash: 99972ca63f39f6aad82099cf1d6c99a1fd96c281
+sourceHash: c5e8c38ab2b6f9e4fbac8d82438229dfcb7781f3
 ---
 
 Alexandre Ribot was the oldest of the leading French politicians of the war. When he took over the Ministry of Finance in August 1914 he was 72, and he had been active in politics since the days when the Third Republic was still taking shape. For two and a half years he financed France's war effort, above all through loans rather than taxes, and negotiated joint financing of the war with the British. In March 1917, at the age of 75, he became prime minister and foreign minister. His six months in office fell in the hardest period of the war for France: [the Nivelle offensive](/bitwy/druga-bitwa-nad-aisne), mutinies in the army, revolution in Russia, the entry of the United States into the war and the first secret peace soundings. Ribot was not a leader equal to these events. He remained unbending, however, on war aims: he rejected any peace without Alsace and Lorraine and any offer in which he saw an attempt to split the coalition.
@@ -15,7 +15,7 @@ Alexandre Ribot was the oldest of the leading French politicians of the war. Whe
 
 Alexandre Félix Joseph Ribot (originally Ribotte) was born on 7 February 1842 in [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)) in the Pas-de-Calais department. He studied law in Paris and became a respected barrister, and in 1875–1876 he worked at the Ministry of Justice. In 1878 he entered the Chamber of Deputies as a moderate republican and for the next three decades represented his home department. He specialised in finance and the budget, admired British institutions, and his wife was an American, which later eased his contacts with the Allies.
 
-As foreign minister in 1890–1893 he was one of the architects of the [Franco-Russian Alliance](/wchodzi-w-zycie-sojusz-francusko-rosyjski), the foundation of French policy until 1917. He headed the government three times between 1892 and 1895. He opposed the Radicals and anticlerical policy, though in the end he came to terms with the separation of Church and State. In 1906 he became a member of the [Académie française](https://pl.wikipedia.org/wiki/Akademia_Francuska), and from 1909 he sat in the Senate. On 9 June 1914 he formed a government for the fourth time, but the Chamber refused it confidence on its very first day, which earned the cabinet the nickname "the one-day government". A few days later [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) became prime minister.
+As foreign minister in 1890–1893 he was one of the architects of the [Franco-Russian Alliance](/wchodzi-w-zycie-sojusz-francusko-rosyjski), the foundation of French policy until 1917. He headed the government three times between 1892 and 1895. He opposed the Radicals and anticlerical policy, though in the end he came to terms with the separation of Church and State. In 1906 he became a member of the [Académie française](https://pl.wikipedia.org/wiki/Akademia_Francuska), and from 1909 he sat in the Senate. On 9 June 1914 he formed a government for the fourth time, but the Chamber refused it confidence on its very first day, which earned the cabinet the nickname "the one-day government". A few days later [René Viviani](/postacie/rene-viviani) became prime minister.
 
 ## Minister of Finance
 

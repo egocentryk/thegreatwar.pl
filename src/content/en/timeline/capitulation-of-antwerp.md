@@ -2,7 +2,7 @@
 title: Capitulation of Antwerp
 summary: On 10 October 1914 Antwerp formally capitulated. Governor Deguise surrendered at Fort Sainte-Marie, and thousands of soldiers were interned in the Netherlands.
 source: kapitulacja-antwerpii
-sourceHash: 7f7c6fb0a1aff29142736288f27f63d512ffdbdd
+sourceHash: 2bbb869bd4e3bcd05328d33390569be13aba549f
 ---
 
 On 10 October 1914 [Antwerp](/miejsca/antwerpia), Belgium's largest port and its national redoubt, formally capitulated. At noon the agreement that the city's representatives had [signed at Kontich](/upadek-ostatnich-fortow-antwerpii) the previous day came into force. The governor of the fortress, General Victor Deguise, surrendered to the Germans in one of the forts on the left bank of the [Scheldt](https://pl.wikipedia.org/wiki/Skalda). The fortress, regarded as one of the strongest in Europe, had held out for less than two weeks.
@@ -21,7 +21,7 @@ That same day the conquerors celebrated their victory. General [Hans von Beseler
 
 ## Prisoners and internees
 
-The numbers of soldiers who failed to get away are given differently. According to some sources, about 30,000 Belgians, mainly from the fortress garrison, were taken prisoner by the Germans. Some 30,000–40,000 soldiers crossed the border into the [Netherlands](https://pl.wikipedia.org/wiki/Holandia). The neutral state, in accordance with the Hague Convention, disarmed them and [interned](https://pl.wikipedia.org/wiki/Internowanie) them until the end of the war. The Belgians were placed in camps inland, away from the border, among them Zeist, Amersfoort and Oldebroek.
+The numbers of soldiers who failed to get away are given differently. According to some sources, about 30,000 Belgians, mainly from the fortress garrison, were taken prisoner by the Germans. Some 30,000–40,000 soldiers crossed the border into the [Netherlands](/kraje/holandia). The neutral state, in accordance with the Hague Convention, disarmed them and [interned](https://pl.wikipedia.org/wiki/Internowanie) them until the end of the war. The Belgians were placed in camps inland, away from the border, among them Zeist, Amersfoort and Oldebroek.
 
 The British Naval Division suffered heavily. About 1,500 sailors of the 1st Brigade, whom the order to withdraw did not reach in time, crossed into the Netherlands. They were interned in a camp at [Groningen](https://pl.wikipedia.org/wiki/Groningen), where many of them spent the rest of the war. Nearly a thousand others, mostly marines, whose train the Germans stopped on its way west, were taken prisoner.
 

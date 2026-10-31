@@ -2,7 +2,7 @@
 title: Bombardment of Lowestoft and Yarmouth
 summary: At dawn on 25 April 1916 German battlecruisers shelled Lowestoft, destroying about 200 houses, and hit the cruiser Conquest of Tyrwhitt's force.
 source: ostrzal-lowestoft-i-yarmouth
-sourceHash: 0c0048f2be700a47edf1e12625bbf73d6a9503b9
+sourceHash: 11d41a950bbee75c060c9c4944d327a9e4ee0106
 ---
 
 Shortly after four in the morning on 25 April 1916 the inhabitants of [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), a fishing port on the coast of [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), were woken by the roar of heavy guns. Four German [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) of Rear-Admiral Friedrich Bödicker were firing from the sea, from a range of about 10–13 kilometres. It was the first bombardment of an English town by German heavy ships since December 1914. The day before, the [Rising had broken out](/wybuch-powstania-wielkanocnego) in Dublin, and many historians believe that the Germans planned their raid to coincide with its beginning.
@@ -11,7 +11,7 @@ Shortly after four in the morning on 25 April 1916 the inhabitants of [Lowestoft
 
 The British were expecting an attack. The Admiralty knew from intercepted signals that the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) had put to sea, and before midnight it established that its battlecruisers were heading straight for Yarmouth. Patrols and minesweepers on the coast were recalled to port, and airmen were ordered to look out for the enemy at dawn. During the night German [airships](/slownik/sterowiec) circled over Norfolk and Suffolk. Their bombs fell mainly on villages and fields. In the village of [Dilham](https://pl.wikipedia.org/wiki/Dilham) in Norfolk an elderly woman reportedly died of fright as bombs exploded around her house.
 
-Meanwhile Commodore [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt) had put out from [Harwich](https://pl.wikipedia.org/wiki/Harwich) with three light cruisers and more than a dozen destroyers. Some of his destroyers had only just returned from off Belgium, where the day before they had covered the [laying of a mine barrage](/zapora-minowa-u-wybrzezy-belgii). Tyrwhitt had orders to sail out into the open sea and from there draw the Germans into a submarine ambush, but when he learnt where the battlecruisers were heading, he turned straight towards them on his own responsibility. The British official history says that he could not bear the thought of the enemy once again shelling the English coast with impunity.
+Meanwhile Commodore [Reginald Tyrwhitt](/postacie/reginald-tyrwhitt) had put out from [Harwich](https://pl.wikipedia.org/wiki/Harwich) with three light cruisers and more than a dozen destroyers. Some of his destroyers had only just returned from off Belgium, where the day before they had covered the [laying of a mine barrage](/zapora-minowa-u-wybrzezy-belgii). Tyrwhitt had orders to sail out into the open sea and from there draw the Germans into a submarine ambush, but when he learnt where the battlecruisers were heading, he turned straight towards them on his own responsibility. The British official history says that he could not bear the thought of the enemy once again shelling the English coast with impunity.
 
 ## A quarter of an hour of fire
 

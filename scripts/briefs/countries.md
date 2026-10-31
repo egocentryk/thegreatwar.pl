@@ -125,6 +125,21 @@ other file in the repo has a problem, but it stamps.)
 | D | Portugalia | portugalia | portugal | Ententa | 9 | Natalia | 9 III 1916 (Africa fighting from 1914) – XI 1918 |
 | D | Stany Zjednoczone | stany-zjednoczone | united-states | Ententa | 12 | Łukasz Skowroń | 6 IV 1917 – 11 XI 1918 |
 
+## Neutral states (2026-10-31)
+
+A third group on /kraje, `side: Państwa neutralne`: states that stayed out
+of the war but were part of it (a battlefield, a theatre, a channel of
+trade). No `entered` / `left` (leave them out); `numbersAs` only if
+war-numbers has a row. The page tells what the war did to the country and
+what the country meant to the war. The same rules, evidence, checker
+(`--countries`) and English part as above; `summary` and `brief` points in
+double quotes.
+
+| name | slug | english slug | order | wikiTitles | author | notes |
+|---|---|---|---|---|---|---|
+| Persja | persja | persia | 1 | Iran (check our articles' variants, e.g. Persja_(państwo), Kadżarowie) | Łukasz Skowroń | the Qajar state's neutrality of 1914, the Russian and British zones (1907), the Ottoman and Russian campaigns in its north-west, the German agents (Wassmuss, Niedermayer), the gendarmerie and the South Persia Rifles, Kermanshah and Hamadan, the famine of 1917–1919, Dunsterforce and Baku 1918, the 1919 agreement in a sentence; tag "Persja" (83 articles) |
+| Holandia | holandia | netherlands | 2 | Holandia | Natalia | armed neutrality, the Belgian refugees (1914), the interned soldiers, the Netherlands Overseas Trust and the blockade, trade and hunger, the seized ships (1918), Wilhelm II's exile (November 1918); tag "Holandia" |
+
 ## Report (short)
 
 Per page: paths, word count, sections, sources, the `entered`/`left` you

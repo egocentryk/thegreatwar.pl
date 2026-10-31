@@ -30,7 +30,7 @@ Urodził się 16 stycznia 1851 roku w Stomfie, po niemiecku Stampfen, dziś [Stu
 
 W 1903 roku został wspólnym ministrem finansów monarchii. Urząd ten finansował wspólne sprawy Austrii i Węgier, ale przede wszystkim zarządzał okupowaną od 1878 roku Bośnią i Hercegowiną. Burián kierował nią w czasie [kryzysu bośniackiego](/austro-wegry-oglaszaja-aneksje-bosni-i-hercegowiny), gdy w 1908 roku monarchia anektowała prowincję. Próbował rządzić łagodnie, pozyskać miejscowe elity i dał [Bośni i Hercegowinie](https://pl.wikipedia.org/wiki/Kondominium_Bośni_i_Hercegowiny) sejm krajowy, ale jego reformy krytykowano w Wiedniu jako zbyt daleko idące, a kraju i tak nie uspokoiły. W 1912 roku odszedł z urzędu.
 
-W czerwcu 1913 roku wszedł do rządu Tiszy jako minister przy osobie króla, czyli przedstawiciel rządu węgierskiego na dworze w Wiedniu. Po zamachu w Sarajewie w lipcu 1914 roku pośredniczył między ministrem spraw zagranicznych [Leopoldem Berchtoldem](https://pl.wikipedia.org/wiki/Leopold_Berchtold), który parł do wojny z Serbią, a Tiszą, który początkowo się jej sprzeciwiał. Ostatecznie Tisza ustąpił, a Burián był odtąd jego głównym doradcą w sprawach zagranicznych.
+W czerwcu 1913 roku wszedł do rządu Tiszy jako minister przy osobie króla, czyli przedstawiciel rządu węgierskiego na dworze w Wiedniu. Po zamachu w Sarajewie w lipcu 1914 roku pośredniczył między ministrem spraw zagranicznych [Leopoldem Berchtoldem](/postacie/leopold-berchtold), który parł do wojny z Serbią, a Tiszą, który początkowo się jej sprzeciwiał. Ostatecznie Tisza ustąpił, a Burián był odtąd jego głównym doradcą w sprawach zagranicznych.
 
 ## Minister spraw zagranicznych: Włochy
 

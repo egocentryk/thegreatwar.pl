@@ -2,10 +2,10 @@
 title: Battle of Komarów ends
 summary: On 2 September 1914 Plehve's Russian Fifth Army slipped out of encirclement towards the Bug. The Battle of Komarów ended in an Austro-Hungarian victory.
 source: koniec-bitwy-pod-komarowem
-sourceHash: 2ad960c65741967f1d24e539d3c3a3425d314665
+sourceHash: 28ba40cc58c04c77075f1be265b76b03e02d1d9f
 ---
 
-On 2 September 1914 the Battle of Komarów in the [Zamość region](https://pl.wikipedia.org/wiki/Zamojszczyzna) came to an end. On the night of 1/2 September the Russian Fifth Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe), threatened with encirclement, broke contact with the enemy and withdrew north-east towards the [Bug](https://pl.wikipedia.org/wiki/Bug). The battlefield remained in the hands of the Austro-Hungarian Fourth Army of General [Moritz von Auffenberg](https://pl.wikipedia.org/wiki/Moritz_Auffenberg).
+On 2 September 1914 the Battle of Komarów in the [Zamość region](https://pl.wikipedia.org/wiki/Zamojszczyzna) came to an end. On the night of 1/2 September the Russian Fifth Army of General [Pavel Plehve](/postacie/pawel-plehwe), threatened with encirclement, broke contact with the enemy and withdrew north-east towards the [Bug](https://pl.wikipedia.org/wiki/Bug). The battlefield remained in the hands of the Austro-Hungarian Fourth Army of General [Moritz von Auffenberg](https://pl.wikipedia.org/wiki/Moritz_Auffenberg).
 
 ## A trap that did not close
 

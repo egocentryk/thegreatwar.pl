@@ -2,7 +2,7 @@
 title: Battle of Tarnawka ends
 summary: On 9 September 1914 the fighting at Tarnawka south of Lublin ended. Broken by the Russians, Dankl's army began to retreat southwards towards the San.
 source: koniec-bitwy-pod-tarnawka
-sourceHash: 93804b67cc6d06f8361ad5325daa6586be73a963
+sourceHash: 2fdc607e5211f76062dd67354fbd309a122b341a
 ---
 
 On 9 September 1914 the three-day Battle of Tarnawka, fought in the fields a dozen or so kilometres south of [Lublin](https://pl.wikipedia.org/wiki/Lublin), came to an end. The Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl), broken by superior Russian forces, began to withdraw southwards, towards Kraśnik and the [San](/miejsca/san).
@@ -15,6 +15,6 @@ Dankl's position was also deteriorating on his right wing. Between his army and 
 
 ## The retreat
 
-Dankl decided to retreat. General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch)'s German Landwehr men covered the withdrawing Austrians, and then themselves crossed back to the left bank of the Vistula and fell back towards [Sandomierz](https://pl.wikipedia.org/wiki/Sandomierz). On 11 September the chief of the general staff, Franz Conrad von Hötzendorf, ordered the whole Austro-Hungarian front to retreat behind the San. With that the entire [Battle of Galicia](/bitwy/bitwa-galicyjska) was lost, and Dankl's August victory at Kraśnik had come to nothing.
+Dankl decided to retreat. General [Remus von Woyrsch](/postacie/remus-von-woyrsch)'s German Landwehr men covered the withdrawing Austrians, and then themselves crossed back to the left bank of the Vistula and fell back towards [Sandomierz](https://pl.wikipedia.org/wiki/Sandomierz). On 11 September the chief of the general staff, Franz Conrad von Hötzendorf, ordered the whole Austro-Hungarian front to retreat behind the San. With that the entire [Battle of Galicia](/bitwy/bitwa-galicyjska) was lost, and Dankl's August victory at Kraśnik had come to nothing.
 
 The fields at Tarnawka, Giełczew and Zakrzew were covered with the graves of soldiers of both armies, among whom there was no shortage of Poles. The fallen were buried in war cemeteries that have survived to this day.

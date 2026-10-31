@@ -2,10 +2,10 @@
 title: Russians abandon Urmia
 summary: On 2 January 1915 Russian troops withdrew from Urmia in northern Persia. Thousands of Assyrians and Armenians fled with them; Kurds and Turks took the town.
 source: rosjanie-opuszczaja-urmie
-sourceHash: 6fa2f5811a0205ba8c2de2d87a4ecabf1fb00790
+sourceHash: cbbd442ed8bfeb4c443eb0428d2b37005ec0227a
 ---
 
-On the night of 2/3 January 1915 Russian troops left [Urmia](https://pl.wikipedia.org/wiki/Urmia_(miasto)) and the surrounding plain on [Lake Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)) in north-western [Persia](https://pl.wikipedia.org/wiki/Iran). The Russian withdrawal meant catastrophe for the Christians living there, [Assyrians](https://pl.wikipedia.org/wiki/Asyryjczycy) and [Armenians](https://pl.wikipedia.org/wiki/Ormianie). Thousands of them set out in the depths of winter after the departing troops, while those who stayed found themselves at the mercy of the [Kurds](https://pl.wikipedia.org/wiki/Kurdowie) and the Ottoman forces.
+On the night of 2/3 January 1915 Russian troops left [Urmia](https://pl.wikipedia.org/wiki/Urmia_(miasto)) and the surrounding plain on [Lake Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)) in north-western [Persia](/kraje/persja). The Russian withdrawal meant catastrophe for the Christians living there, [Assyrians](https://pl.wikipedia.org/wiki/Asyryjczycy) and [Armenians](https://pl.wikipedia.org/wiki/Ormianie). Thousands of them set out in the depths of winter after the departing troops, while those who stayed found themselves at the mercy of the [Kurds](https://pl.wikipedia.org/wiki/Kurdowie) and the Ottoman forces.
 
 ## Russians in neutral Persia
 

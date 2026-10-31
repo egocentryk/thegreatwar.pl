@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 5 marca 1916 roku, że premier [Persji](https://pl.wikipedia.org/wiki/Iran), książę Abdolhosejn Mirza Farmanfarma, podał się do dymisji. Stał na czele rządu [od końca grudnia 1915 roku](/farmanfarma-premierem-persji). Dokładny dzień trudno ustalić. Perskie zestawienia rządów kończą jego urzędowanie 10 esfanda 1294 roku według kalendarza irańskiego, czyli 29 lutego 1916 roku. Korespondent agencji Reutera w Teheranie doniósł o dymisji w depeszy datowanej na 7 marca, a londyński tygodnik „The Near East” podał tę wiadomość 10 marca. Wszystkie źródła umieszczają więc upadek rządu na przełomie lutego i marca.
+Brytyjska chronologia wojny notuje pod 5 marca 1916 roku, że premier [Persji](/kraje/persja), książę Abdolhosejn Mirza Farmanfarma, podał się do dymisji. Stał na czele rządu [od końca grudnia 1915 roku](/farmanfarma-premierem-persji). Dokładny dzień trudno ustalić. Perskie zestawienia rządów kończą jego urzędowanie 10 esfanda 1294 roku według kalendarza irańskiego, czyli 29 lutego 1916 roku. Korespondent agencji Reutera w Teheranie doniósł o dymisji w depeszy datowanej na 7 marca, a londyński tygodnik „The Near East” podał tę wiadomość 10 marca. Wszystkie źródła umieszczają więc upadek rządu na przełomie lutego i marca.
 
 ## Dziesięć tygodni
 

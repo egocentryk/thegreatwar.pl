@@ -2,7 +2,7 @@
 title: Renewed attack on Bushehr
 summary: On 9 September 1915 several hundred Tangistanis attacked the British lines at Bushehr. They were repulsed after hours of fighting that saw a cavalry charge.
 source: ponowny-atak-na-buszehr
-sourceHash: 84202f1457184b17bd959d09e5d547fb3b9c5c89
+sourceHash: 3d5511d901978c27855f2409499c1f6e14271bb0
 ---
 
 On 9 September 1915 tribesmen from Tangistan again attacked [Bushehr](https://pl.wikipedia.org/wiki/Buszehr), the Persian port on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska) which the British [had occupied](/brytyjczycy-zajmuja-buszehr) for a month. About six hundred attackers approached the British posts through the ravines and the flat sands, periodically flooded by the sea, that surround the town. After several hours of fighting a British counter-attack, supported by the fire of warships and a cavalry charge, forced them to retreat. It was the last serious attempt to drive the British out of Bushehr in 1915.
@@ -23,4 +23,4 @@ At about 10.30 a.m. Brooking went over to the counter-attack. The 96th Berar Inf
 
 According to the report of General John Nixon, commander of the forces in Mesopotamia, to whom Bushehr was subordinate, the tribesmen left 43 dead, 14 wounded and four prisoners on the field. They managed to carry many wounded away with them. According to studies based on this report the British lost more than 80 killed and wounded, most of them in the 11th Rajputs and in the cavalry. The British official history of the Mesopotamian campaign writes that Brooking inflicted a heavy defeat on the attackers and for a time put an end to their raids around the town. According to it, the whole operation at Bushehr, conducted in terrible heat, cost the navy and the army more than 150 killed and wounded in action, not counting the victims of the climate.
 
-On 13 September Brooking handed over command to Colonel S. M. Edwardes and left Bushehr. The Tangistanis did not attack Bushehr again, but the struggle against the British in the south of [Persia](https://pl.wikipedia.org/wiki/Iran) was only beginning. The German agent Wilhelm Wassmuss, who was stirring up the tribes against the British, was still active in the interior, and in the autumn pro-German officers of the Persian gendarmerie seized power in Shiraz.
+On 13 September Brooking handed over command to Colonel S. M. Edwardes and left Bushehr. The Tangistanis did not attack Bushehr again, but the struggle against the British in the south of [Persia](/kraje/persja) was only beginning. The German agent Wilhelm Wassmuss, who was stirring up the tribes against the British, was still active in the interior, and in the autumn pro-German officers of the Persian gendarmerie seized power in Shiraz.

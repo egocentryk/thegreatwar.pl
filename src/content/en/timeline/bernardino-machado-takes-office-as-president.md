@@ -2,10 +2,10 @@
 title: Bernardino Machado takes office as president
 summary: On 5 October 1915, the fifth anniversary of the republic's proclamation, Bernardino Machado was sworn in as President of Portugal, succeeding Teófilo Braga.
 source: bernardino-machado-obejmuje-urzad-prezydenta
-sourceHash: a0072919f9ca52e8ac5ac7e97912898c678ee1a5
+sourceHash: 4a6460c8be7bb54544a8a7cb06b322ced52bb28c
 ---
 
-On 5 October 1915 [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) was sworn in as President of [Portugal](/kraje/portugalia). The day was not chosen by chance: it was the fifth anniversary of the [revolution](https://pl.wikipedia.org/wiki/Rewolucja_portugalska_(1910)) that had overthrown the monarchy and proclaimed the republic. Congress, that is the two chambers of parliament sitting together, had [elected Machado on 6 August](/bernardino-machado-prezydentem-portugalii) to a full four-year term. On this day [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga), who [in May](/teofilo-braga-prezydentem-portugalii) had been meant only to complete the term of the outgoing Manuel de Arriaga, ceased to hold office. The British chronology of the war records the new president as "Machado Guimarães". This is not a mistake but his full surname: Bernardino Luís Machado Guimarães.
+On 5 October 1915 [Bernardino Machado](/postacie/bernardino-machado) was sworn in as President of [Portugal](/kraje/portugalia). The day was not chosen by chance: it was the fifth anniversary of the [revolution](https://pl.wikipedia.org/wiki/Rewolucja_portugalska_(1910)) that had overthrown the monarchy and proclaimed the republic. Congress, that is the two chambers of parliament sitting together, had [elected Machado on 6 August](/bernardino-machado-prezydentem-portugalii) to a full four-year term. On this day [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga), who [in May](/teofilo-braga-prezydentem-portugalii) had been meant only to complete the term of the outgoing Manuel de Arriaga, ceased to hold office. The British chronology of the war records the new president as "Machado Guimarães". This is not a mistake but his full surname: Bernardino Luís Machado Guimarães.
 
 ## The ceremony at São Bento
 
@@ -19,4 +19,4 @@ The constitution of 1911 gave the president little power. He was elected by Cong
 
 For the time being the government of [José de Castro](/jose-de-castro-premierem-portugalii), formed in June by politicians close to the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)), remained in office. Portugal was formally still neutral, although since 1914 its soldiers had been fighting the Germans on the border of [Angola](https://pl.wikipedia.org/wiki/Angola) and guarding the borders of [Mozambique](https://pl.wikipedia.org/wiki/Mozambik). After handing over the office Braga withdrew from politics.
 
-The new president soon changed the government. On 29 November 1915 José de Castro's cabinet left office, and Machado entrusted the formation of a government to [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), the leader of the Democrats. During his government, in March 1916, Germany declared war on Portugal. Machado did not complete his term: in December 1917 he was overthrown by the coup d'état of [Sidónio Pais](/postacie/sidonio-pais).
+The new president soon changed the government. On 29 November 1915 José de Castro's cabinet left office, and Machado entrusted the formation of a government to [Afonso Costa](/postacie/afonso-costa), the leader of the Democrats. During his government, in March 1916, Germany declared war on Portugal. Machado did not complete his term: in December 1917 he was overthrown by the coup d'état of [Sidónio Pais](/postacie/sidonio-pais).

@@ -2,10 +2,10 @@
 title: Afonso Costa prime minister for the third time
 summary: On 25 April 1917 Afonso Costa became head of the Portuguese government for the third time, replacing Almeida's "Sacred Union" with a cabinet of Democrats only.
 source: afonso-costa-po-raz-trzeci-premierem
-sourceHash: ca92523fa20ad13cdae7ce2db14d30233bf981fa
+sourceHash: 9b56fef1eb738511a78bb8261a5a7a1d3de18739
 ---
 
-On 25 April 1917 President [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) appointed a new government of [Portugal](/kraje/portugalia). At its head, for the third time, stood [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), leader of the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). As in his previous cabinets, he kept the finance ministry for himself, which he had also headed in the outgoing government. On the same day the cabinet of [António José de Almeida](/antonio-jose-de-almeida-premierem-portugalii) stepped down, the so-called "Sacred Union" government, which had ruled since March 1916, for more than 13 months. For the unstable First Republic this was a very long time.
+On 25 April 1917 President [Bernardino Machado](/postacie/bernardino-machado) appointed a new government of [Portugal](/kraje/portugalia). At its head, for the third time, stood [Afonso Costa](/postacie/afonso-costa), leader of the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). As in his previous cabinets, he kept the finance ministry for himself, which he had also headed in the outgoing government. On the same day the cabinet of [António José de Almeida](/antonio-jose-de-almeida-premierem-portugalii) stepped down, the so-called "Sacred Union" government, which had ruled since March 1916, for more than 13 months. For the unstable First Republic this was a very long time.
 
 ## The end of the "Sacred Union"
 

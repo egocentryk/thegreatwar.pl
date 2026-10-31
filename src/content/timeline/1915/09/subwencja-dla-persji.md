@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 28 września 1915 roku, że rządy Wielkiej Brytanii i Rosji przyjęły prośbę rządu [Persji](https://pl.wikipedia.org/wiki/Iran) o comiesięczną subwencję. Neutralna Persja tonęła w długach, a jej skarb był pusty. Rząd w [Teheranie](https://pl.wikipedia.org/wiki/Teheran), kierowany przez Mostowfiego ol-Mamaleka, który [w sierpniu objął władzę](/mostowfi-ol-mamalek-ponownie-premierem), szukał pieniędzy, gdzie tylko mógł. Dla Londynu i Piotrogrodu pomoc finansowa była sposobem na to, by Teheran nie przeszedł na stronę państw centralnych.
+Brytyjska chronologia wojny notuje pod 28 września 1915 roku, że rządy Wielkiej Brytanii i Rosji przyjęły prośbę rządu [Persji](/kraje/persja) o comiesięczną subwencję. Neutralna Persja tonęła w długach, a jej skarb był pusty. Rząd w [Teheranie](https://pl.wikipedia.org/wiki/Teheran), kierowany przez Mostowfiego ol-Mamaleka, który [w sierpniu objął władzę](/mostowfi-ol-mamalek-ponownie-premierem), szukał pieniędzy, gdzie tylko mógł. Dla Londynu i Piotrogrodu pomoc finansowa była sposobem na to, by Teheran nie przeszedł na stronę państw centralnych.
 
 ## Pieniądze zamiast pożyczki
 

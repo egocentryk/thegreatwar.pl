@@ -42,7 +42,7 @@ Z 9 Armii i sąsiednich wojsk utworzono grupę armii księcia Leopolda Bawarskie
 
 ## 1916: obrona i dowództwo na wschodzie
 
-W 1916 roku grupa armii Leopolda była celem rosyjskich natarć. Najcięższe nadeszło w lipcu, gdy rosyjska 4 Armia uderzyła [pod Baranowiczami](/bitwy/bitwa-pod-baranowiczami) na odcinek broniony przez armię generała [Remusa von Woyrscha](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch). Rosjanie stracili około 80 tysięcy ludzi i nie przełamali frontu. Po tej klęsce rosyjska Kwatera Główna zrezygnowała z wielkich natarć na północ od Polesia.
+W 1916 roku grupa armii Leopolda była celem rosyjskich natarć. Najcięższe nadeszło w lipcu, gdy rosyjska 4 Armia uderzyła [pod Baranowiczami](/bitwy/bitwa-pod-baranowiczami) na odcinek broniony przez armię generała [Remusa von Woyrscha](/postacie/remus-von-woyrsch). Rosjanie stracili około 80 tysięcy ludzi i nie przełamali frontu. Po tej klęsce rosyjska Kwatera Główna zrezygnowała z wielkich natarć na północ od Polesia.
 
 1 sierpnia 1916 roku Leopold został pruskim feldmarszałkiem. 29 sierpnia, gdy [Paul von Hindenburg](/postacie/paul-von-hindenburg) i [Erich Ludendorff](/postacie/erich-ludendorff) przejęli [naczelne dowództwo](/hindenburg-szefem-sztabu-generalnego), książę objął po Hindenburgu stanowisko naczelnego wodza na wschodzie, a jego szefem sztabu został [Max Hoffmann](/postacie/max-hoffmann). Ten podział ról odpowiadał zwyczajom armii niemieckiej: książę reprezentował dowództwo i podejmował ostateczne decyzje, a szef sztabu je przygotowywał. Hoffmann cenił swego przełożonego jako mądrego żołnierza, który zostawiał mu dużo swobody. Z czasem władza Leopolda rozciągnęła się od Bałtyku po Karpaty i objęła także wojska austro-węgierskie, tureckie i bułgarskie na tym froncie.
 

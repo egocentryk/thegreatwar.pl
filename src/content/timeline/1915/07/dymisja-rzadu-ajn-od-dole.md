@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Latem 1915 roku upadł rząd [Persji](https://pl.wikipedia.org/wiki/Iran), na którego czele od przełomu kwietnia i maja stał sędziwy książę Abdolmadżid Mirza, znany pod tytułem Ajn od-Dole. Brytyjska chronologia wojny notuje jego dymisję dopiero pod 17 sierpnia, dzień przed powołaniem następcy. Źródła perskie i Encyclopaedia Iranica wskazują jednak, że gabinet ustąpił już w lipcu. Perskie zestawienia rządów kończą jego urzędowanie 29 tira 1294 roku według kalendarza irańskiego, czyli 21 lipca 1915 roku, i pod tą datą umieszczamy ten artykuł. Przez następne tygodnie kraj czekał na nowy rząd.
+Latem 1915 roku upadł rząd [Persji](/kraje/persja), na którego czele od przełomu kwietnia i maja stał sędziwy książę Abdolmadżid Mirza, znany pod tytułem Ajn od-Dole. Brytyjska chronologia wojny notuje jego dymisję dopiero pod 17 sierpnia, dzień przed powołaniem następcy. Źródła perskie i Encyclopaedia Iranica wskazują jednak, że gabinet ustąpił już w lipcu. Perskie zestawienia rządów kończą jego urzędowanie 29 tira 1294 roku według kalendarza irańskiego, czyli 21 lipca 1915 roku, i pod tą datą umieszczamy ten artykuł. Przez następne tygodnie kraj czekał na nowy rząd.
 
 ## Minister, którego chcieli Brytyjczycy
 

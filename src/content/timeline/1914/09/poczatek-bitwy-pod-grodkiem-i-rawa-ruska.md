@@ -26,7 +26,7 @@ Najśmielszą częścią planu był zwrot 4 Armii generała [Moritza Auffenberga
 
 ## Przeciwnicy
 
-Naprzeciw Austriaków stały dwie zwycięskie armie rosyjskiego Frontu Południowo-Zachodniego: 3 Armia generała [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski), która zajęła Lwów, i na południe od niej 8 Armia generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow). Rosjanie nie czekali biernie. 7 września, po ciężkich walkach, zajęli sam Gródek. Od północy zbliżała się 5 Armia generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe), która po bitwie pod Komarowem szybko się odtworzyła i ruszyła za cofającymi się wojskami Auffenberga.
+Naprzeciw Austriaków stały dwie zwycięskie armie rosyjskiego Frontu Południowo-Zachodniego: 3 Armia generała [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski), która zajęła Lwów, i na południe od niej 8 Armia generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow). Rosjanie nie czekali biernie. 7 września, po ciężkich walkach, zajęli sam Gródek. Od północy zbliżała się 5 Armia generała [Pawła Plehwego](/postacie/pawel-plehwe), która po bitwie pod Komarowem szybko się odtworzyła i ruszyła za cofającymi się wojskami Auffenberga.
 
 ## Natarcie
 

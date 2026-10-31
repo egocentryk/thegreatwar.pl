@@ -26,20 +26,48 @@ export const SITE = {
 
 export const NAV_LINKS = [
   { label: "Oś czasu", href: "/timeline" },
-  { label: "Tematy", href: "/tematy" },
-  { label: "Kraje", href: "/kraje" },
   { label: "Bitwy", href: "/bitwy" },
   { label: "Postacie", href: "/postacie" },
-  { label: "Serie", href: "/serie" },
-  { label: "Słownik", href: "/slownik" },
 ] as const
 
 export const NAV_LINKS_EN = [
   { label: "Timeline", href: "/en/timeline" },
-  { label: "Topics", href: "/en/topics" },
-  { label: "Countries", href: "/en/countries" },
   { label: "Battles", href: "/en/battles" },
   { label: "People", href: "/en/people" },
-  { label: "Series", href: "/en/series" },
-  { label: "Glossary", href: "/en/glossary" },
 ] as const
+
+// The reference sections, under one "Przewodnik" menu item (a dropdown on
+// desktop, a sub-list in the mobile menu). `more` is the smaller row below.
+export const GUIDE = {
+  label: "Przewodnik",
+  items: [
+    { label: "Tematy", href: "/tematy", note: "Najważniejsze pytania o wojnę" },
+    { label: "Kraje", href: "/kraje", note: "Państwa walczące i neutralne" },
+    { label: "Miejsca", href: "/miejsca", note: "Miasta, twierdze, rzeki, wyspy" },
+    { label: "Siły zbrojne", href: "/sily-zbrojne", note: "Armie, floty i lotnictwo" },
+    { label: "Serie", href: "/serie", note: "Wybrane wątki, tekst po tekście" },
+    { label: "Słownik", href: "/slownik", note: "Pojęcia, skróty i nazwy" },
+  ],
+  more: [
+    { label: "Najważniejsze daty", href: "/najwazniejsze-daty" },
+    { label: "Wojna w liczbach", href: "/wojna-w-liczbach" },
+    { label: "Głosy z frontu", href: "/glosy" },
+  ],
+} as const
+
+export const GUIDE_EN = {
+  label: "Guide",
+  items: [
+    { label: "Topics", href: "/en/topics", note: "The key questions about the war" },
+    { label: "Countries", href: "/en/countries", note: "The warring and neutral states" },
+    { label: "Places", href: "/en/places", note: "Cities, fortresses, rivers, islands" },
+    { label: "Armed forces", href: "/en/armed-forces", note: "Armies, fleets and air services" },
+    { label: "Series", href: "/en/series", note: "Selected threads, article by article" },
+    { label: "Glossary", href: "/en/glossary", note: "Terms, abbreviations and names" },
+  ],
+  more: [
+    { label: "Key dates", href: "/en/key-dates" },
+    { label: "The war in numbers", href: "/en/war-in-numbers" },
+    { label: "Voices from the front", href: "/en/voices" },
+  ],
+} as const

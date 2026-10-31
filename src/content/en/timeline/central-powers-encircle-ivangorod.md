@@ -2,10 +2,10 @@
 title: Central Powers encircle Ivangorod
 summary: On 21 July 1915 Woyrsch's troops reached Ivangorod. Kövess's Austro-Hungarians closed it off from the west; the Germans prepared to cross the Vistula.
 source: panstwa-centralne-otaczaja-iwangrod
-sourceHash: 4ddb38dc9a122b48628753d0239ef9a3fd6ad645
+sourceHash: 9e42a61f07562f693f0747a9065f0c41945ce616
 ---
 
-On 21 July 1915 the troops of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch)'s army group, [attacking since 20 July](/poczatek-drugiej-bitwy-pod-iwangrodem), broke through the last Russian field position west of Ivangorod, the [fortress of Dęblin](https://pl.wikipedia.org/wiki/Twierdza_Dęblin). The Russian field units began to withdraw across the Vistula, leaving the fortress garrison in the forefield. The British chronology of the war records under this date the encirclement of Ivangorod by German and Austro-Hungarian troops. According to the Austrian official history, the order to close off the fortress was issued a day later, on 22 July, and the task went to the Austro-Hungarians.
+On 21 July 1915 the troops of General [Remus von Woyrsch](/postacie/remus-von-woyrsch)'s army group, [attacking since 20 July](/poczatek-drugiej-bitwy-pod-iwangrodem), broke through the last Russian field position west of Ivangorod, the [fortress of Dęblin](https://pl.wikipedia.org/wiki/Twierdza_Dęblin). The Russian field units began to withdraw across the Vistula, leaving the fortress garrison in the forefield. The British chronology of the war records under this date the encirclement of Ivangorod by German and Austro-Hungarian troops. According to the Austrian official history, the order to close off the fortress was issued a day later, on 22 July, and the task went to the Austro-Hungarians.
 
 The fortress, built by the Russians in the 19th century at the confluence of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)) and the Vistula, guarded the crossing and the important Lublin–Ivangorod–Radom railway. Its forts stood on both sides of the river, but those on the left bank were already obsolete. The Russians had strengthened the forefield with a belt of field fortifications with partly concrete strongpoints. The commandant was Major-General Aleksei von Schwarz, who had also defended the fortress in the autumn of 1914. According to an Austrian study, the garrison consisted of two regiments of the 47th Infantry Division, two brigades of militia (opolchenie) and fortress artillery.
 

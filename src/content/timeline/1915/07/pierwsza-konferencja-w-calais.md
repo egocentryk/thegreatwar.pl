@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 lipca 1915 roku w [Calais](https://pl.wikipedia.org/wiki/Calais) odbyła się pierwsza konferencja brytyjskich i francuskich ministrów, zwołana po to, by uzgodnić politykę wojenną i strategię obu państw. Po raz pierwszy spotkali się tam twarzą w twarz premierzy [Herbert Henry Asquith](/postacie/herbert-henry-asquith) i [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani). Brytyjska chronologia wojny umieszcza tę konferencję pod datą 5 czerwca 1915 roku, ale brytyjska historia oficjalna, wspomnienia [Winstona Churchilla](/postacie/winston-churchill), archiwa departamentu Pas-de-Calais i współczesne opracowania zgodnie podają 6 lipca. Żadne z tych źródeł nie wspomina o ministerialnej konferencji w Calais na początku czerwca.
+6 lipca 1915 roku w [Calais](https://pl.wikipedia.org/wiki/Calais) odbyła się pierwsza konferencja brytyjskich i francuskich ministrów, zwołana po to, by uzgodnić politykę wojenną i strategię obu państw. Po raz pierwszy spotkali się tam twarzą w twarz premierzy [Herbert Henry Asquith](/postacie/herbert-henry-asquith) i [René Viviani](/postacie/rene-viviani). Brytyjska chronologia wojny umieszcza tę konferencję pod datą 5 czerwca 1915 roku, ale brytyjska historia oficjalna, wspomnienia [Winstona Churchilla](/postacie/winston-churchill), archiwa departamentu Pas-de-Calais i współczesne opracowania zgodnie podają 6 lipca. Żadne z tych źródeł nie wspomina o ministerialnej konferencji w Calais na początku czerwca.
 
 ## Dwie wizje wojny
 

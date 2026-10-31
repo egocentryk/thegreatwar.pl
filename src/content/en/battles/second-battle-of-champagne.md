@@ -9,7 +9,7 @@ sides:
     commanders: [Erich von Falkenhayn, Karl von Einem]
 result: Inconclusive. The French advanced 3–4 kilometres and took the Main de Massiges and Tahure, but did not break the German second position and suffered enormous losses.
 source: druga-bitwa-w-szampanii
-sourceHash: c2e57193611370799968a1126ae6a496e15b7b93
+sourceHash: ce2b134bd4f816dc4f015323982cde00805b2650
 brief:
   - "From 25 September to 6 November 1915 General Pétain's 2nd Army and General de Langle de Cary's 4th Army attacked in Champagne, east of Reims. It was the largest offensive of the French army in 1915."
   - "Joffre wanted to exploit German weakness in the west, help Russia and return to a war of manoeuvre. On a front about 25–30 kilometres long, 20 divisions stood in the first line."
@@ -18,7 +18,7 @@ brief:
   - "The French advanced 3–4 kilometres, but the offensive cost them about 140,000–180,000 men. The lessons led the Germans to defence in depth, and Falkenhayn to the plan that led to the Battle of Verdun."
 ---
 
-The Second Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania) was the largest offensive of the French army in 1915 and the main part of the Allies' autumn attack on the Western Front. On 25 September two armies of General [Noël de Castelnau](/postacie/noel-de-castelnau)'s army group, General [Philippe Pétain](/postacie/philippe-petain)'s 2nd Army and General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary)'s 4th Army, struck the German [3rd Army](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) east of [Reims](/miejsca/reims), on the same chalk hills where fighting had raged in winter and spring in the [First Battle of Champagne](/bitwy/pierwsza-bitwa-w-szampanii). This time the French threw far more divisions and artillery into the fight. On the first day they got through the German first line in several sectors and took well over ten thousand prisoners. The German second position, hidden on the reverse slopes, nevertheless withstood all attacks. The fighting, with pauses, went on until November and cost the French about 140,000–180,000 killed, wounded and missing.
+The Second Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania) was the largest offensive of the French army in 1915 and the main part of the Allies' autumn attack on the Western Front. On 25 September two armies of General [Noël de Castelnau](/postacie/noel-de-castelnau)'s army group, General [Philippe Pétain](/postacie/philippe-petain)'s 2nd Army and General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary)'s 4th Army, struck the German [3rd Army](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) east of [Reims](/miejsca/reims), on the same chalk hills where fighting had raged in winter and spring in the [First Battle of Champagne](/bitwy/pierwsza-bitwa-w-szampanii). This time the French threw far more divisions and artillery into the fight. On the first day they got through the German first line in several sectors and took well over ten thousand prisoners. The German second position, hidden on the reverse slopes, nevertheless withstood all attacks. The fighting, with pauses, went on until November and cost the French about 140,000–180,000 killed, wounded and missing.
 
 ## Name and dates
 
@@ -54,4 +54,4 @@ The French advanced 3–4 kilometres on a front a dozen or so kilometres wide an
 
 The Germans concluded that building the second position had saved the front, and based the further development of defence in depth, with positions on reverse slopes, on their experience in Champagne. Falkenhayn wrote in his memoirs that the autumn battles had proved that mass attempts at a breakthrough had no chance of success in the west. From these considerations grew his plan for 1916, which led to the [Battle of Verdun](https://pl.wikipedia.org/wiki/Bitwa_pod_Verdun).
 
-The offensive caused a political crisis in France. At the end of October the government of [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) fell, and [Aristide Briand](/postacie/aristide-briand) became the new prime minister. On the battlefield, near the Navarin farm, a monument and ossuary to those who fell in Champagne were erected after the war.
+The offensive caused a political crisis in France. At the end of October the government of [René Viviani](/postacie/rene-viviani) fell, and [Aristide Briand](/postacie/aristide-briand) became the new prime minister. On the battlefield, near the Navarin farm, a monument and ossuary to those who fell in Champagne were erected after the war.

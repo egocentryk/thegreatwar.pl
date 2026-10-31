@@ -2,7 +2,7 @@
 title: Battle of the Marne begins
 summary: On 6 September 1914 the French armies and the British went over to the counter-offensive from Paris to Verdun. The battle that decided 1914 had begun.
 source: poczatek-bitwy-nad-marna
-sourceHash: 08c70a8bea71089a9a5cb3cc351c024c0a6cd696
+sourceHash: d9c07fcf1a8696b3136255ee74cda8a992fe8a00
 brief:
   - "On 6 September 1914, after two weeks of retreat, the French armies and the British Expeditionary Force struck at the Germans on a front about 200 kilometres long, from the outskirts of Paris to Verdun."
   - "Instead of passing west of Paris, Kluck turned south-east and crossed the Marne on 3 September. General Joseph Gallieni saw that the German flank now lay exposed to the capital's garrison."
@@ -31,7 +31,7 @@ On the morning of 6 September Joffre issued his famous order of the day to the t
 
 ## The front from Paris to Verdun
 
-On the Allied side, from the west, stood in turn: Maunoury's 6th Army north-east of Paris, French's British Expeditionary Force, the 5th Army of General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey), who a few days earlier had replaced the dismissed General Lanrezac, Foch's 9th Army, the 4th Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) and the 3rd Army of General [Maurice Sarrail](/postacie/maurice-sarrail), anchored on the fortress of Verdun. Facing them stood the German 1st to 5th Armies: those of Kluck, [Karl von Bülow](/postacie/karl-von-bulow), [Max von Hausen](https://pl.wikipedia.org/wiki/Max_von_Hausen), Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu). Further east, in Lorraine, fierce fighting was already under way for the heights in front of Nancy.
+On the Allied side, from the west, stood in turn: Maunoury's 6th Army north-east of Paris, French's British Expeditionary Force, the 5th Army of General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey), who a few days earlier had replaced the dismissed General Lanrezac, Foch's 9th Army, the 4th Army of General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary) and the 3rd Army of General [Maurice Sarrail](/postacie/maurice-sarrail), anchored on the fortress of Verdun. Facing them stood the German 1st to 5th Armies: those of Kluck, [Karl von Bülow](/postacie/karl-von-bulow), [Max von Hausen](https://pl.wikipedia.org/wiki/Max_von_Hausen), Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu). Further east, in Lorraine, fierce fighting was already under way for the heights in front of Nancy.
 
 ## The gap between the German armies
 

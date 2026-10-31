@@ -2,10 +2,10 @@
 title: Persian foreign minister Vosugh od-Dowleh resigns
 summary: Chronicles of the time record that on 18 August 1914 Persia's foreign minister Vosugh od-Dowleh resigned. The country faced a choice of stance towards the war.
 source: wosug-od-dole-ustepuje-z-urzedu-ministra
-sourceHash: 5f7fc7648583d31ec841d1476db3fb45a6ac680e
+sourceHash: f08b45077e5c4c463ce103a7b8f91fe8300a536e
 ---
 
-According to chronicles of the war from the time, on 18 August 1914 Vosugh od-Dowleh, who had held the post since January 1913, resigned as foreign minister of [Persia](https://pl.wikipedia.org/wiki/Iran). His resignation preceded a change of the whole government in the following days.
+According to chronicles of the war from the time, on 18 August 1914 Vosugh od-Dowleh, who had held the post since January 1913, resigned as foreign minister of [Persia](/kraje/persja). His resignation preceded a change of the whole government in the following days.
 
 ## Persia between the powers
 

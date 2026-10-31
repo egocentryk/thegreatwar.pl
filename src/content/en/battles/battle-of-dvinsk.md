@@ -9,10 +9,10 @@ sides:
     commanders: [Nikolai Ruzsky, Pavel Plehve]
 result: German failure. The Niemen Army drove the Russians from the approaches and took Illukste on 23 October, but did not capture Dvinsk. The front came to a halt a dozen or so kilometres short of the city.
 source: bitwa-pod-dzwinskiem
-sourceHash: aef599f559ce6302f697b3a8ec85f22277c170a2
+sourceHash: f120fa6b7d9bc2dd2e1b6beee6e7d607b4ef66ac
 ---
 
-The Battle of Dvinsk was the longest of the autumn battles with which the great retreat of the Russian army in 1915 ended. The German Niemen Army of General [Otto von Below](/postacie/otto-von-below) was to reach the [Dvina](https://pl.wikipedia.org/wiki/Dźwina), cover the advance on Vilna from the north and take [Dvinsk](https://pl.wikipedia.org/wiki/Dyneburg), an important railway junction and base of the Russian army. Throughout September its troops pushed General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe)'s Russian [5th Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)) back from the distant approaches to the city onto a fortified bridgehead among the lakes. In October the Germans took the ruined town of [Illukste](https://pl.wikipedia.org/wiki/Iłukszta), but they did not take Dvinsk. At the beginning of November the fighting died down, and the front came to a halt a dozen or so kilometres short of the city, where it was to remain until 1918.
+The Battle of Dvinsk was the longest of the autumn battles with which the great retreat of the Russian army in 1915 ended. The German Niemen Army of General [Otto von Below](/postacie/otto-von-below) was to reach the [Dvina](https://pl.wikipedia.org/wiki/Dźwina), cover the advance on Vilna from the north and take [Dvinsk](https://pl.wikipedia.org/wiki/Dyneburg), an important railway junction and base of the Russian army. Throughout September its troops pushed General [Pavel Plehve](/postacie/pawel-plehwe)'s Russian [5th Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)) back from the distant approaches to the city onto a fortified bridgehead among the lakes. In October the Germans took the ruined town of [Illukste](https://pl.wikipedia.org/wiki/Iłukszta), but they did not take Dvinsk. At the beginning of November the fighting died down, and the front came to a halt a dozen or so kilometres short of the city, where it was to remain until 1918.
 
 ## Name and dates
 

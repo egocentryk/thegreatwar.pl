@@ -2,7 +2,7 @@
 title: Execution of Edith Cavell
 summary: On 12 October 1915 the Germans shot the British nurse Edith Cavell in Brussels. She had helped Allied soldiers escape from occupied Belgium.
 source: rozstrzelanie-edith-cavell
-sourceHash: e4c48855353107aac0f0a57801bdf03e6a0d38f4
+sourceHash: 7ee881f9175b4ee6415a3b7ad824557c9fa7fff9
 brief:
   - "At dawn on 12 October 1915 the Germans shot the British nurse Edith Cavell and the Belgian architect Philippe Baucq at Schaerbeek on the outskirts of Brussels."
   - "Cavell ran a school of nursing in Brussels and belonged to a network that helped Allied soldiers and young Belgians escape from occupied Belgium to the neutral Netherlands."
@@ -11,7 +11,7 @@ brief:
   - "The Germans considered the sentence lawful, but critics pointed to the haste of the execution. Her death caused enormous outrage in Britain and the United States, and propaganda made her a symbol of German barbarity."
 ---
 
-At dawn on 12 October 1915, at the Tir National military rifle range in [Schaerbeek](https://pl.wikipedia.org/wiki/Schaerbeek) on the outskirts of [Brussels](https://pl.wikipedia.org/wiki/Bruksela), a German firing squad shot the 49-year-old British nurse [Edith Cavell](/postacie/edith-cavell). The Belgian architect Philippe Baucq died with her. A German court martial had sentenced them the previous day for helping Allied soldiers and young Belgians escape from occupied Belgium to the neutral [Netherlands](https://pl.wikipedia.org/wiki/Holandia). Night-time efforts by American diplomats and the Spanish minister to obtain a pardon, or at least a postponement of the execution, came to nothing.
+At dawn on 12 October 1915, at the Tir National military rifle range in [Schaerbeek](https://pl.wikipedia.org/wiki/Schaerbeek) on the outskirts of [Brussels](https://pl.wikipedia.org/wiki/Bruksela), a German firing squad shot the 49-year-old British nurse [Edith Cavell](/postacie/edith-cavell). The Belgian architect Philippe Baucq died with her. A German court martial had sentenced them the previous day for helping Allied soldiers and young Belgians escape from occupied Belgium to the neutral [Netherlands](/kraje/holandia). Night-time efforts by American diplomats and the Spanish minister to obtain a pardon, or at least a postponement of the execution, came to nothing.
 
 ## The nurse from Brussels
 

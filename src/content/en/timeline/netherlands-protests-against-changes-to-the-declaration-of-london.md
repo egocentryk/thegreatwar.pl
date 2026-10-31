@@ -2,10 +2,10 @@
 title: Netherlands protests against changes to the Declaration of London
 summary: On 13 November 1914 the Dutch government protested against changes to the Declaration of London that tightened Allied controls on neutral trade.
 source: holandia-protestuje-przeciw-zmianom-deklaracji-londynskiej
-sourceHash: 6d9505bf164ca80e0744a309b246e3a7ec87cae4
+sourceHash: 70aa6d6ec369b8a1a8d99294d7cc04e7c9cb1971
 ---
 
-A British chronology of the war records under 13 November 1914 a protest by the government of the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) against changes to the [Declaration of London](/slownik/deklaracja-londynska). It concerned the regulations by which Great Britain, followed by France, had unilaterally altered the rules of this code of the law of naval warfare. The text of the Dutch note itself could not be found in the available sources, but its subject and background are well known.
+A British chronology of the war records under 13 November 1914 a protest by the government of the [Netherlands](/kraje/holandia) against changes to the [Declaration of London](/slownik/deklaracja-londynska). It concerned the regulations by which Great Britain, followed by France, had unilaterally altered the rules of this code of the law of naval warfare. The text of the Dutch note itself could not be found in the available sources, but its subject and background are well known.
 
 ## A transit country
 

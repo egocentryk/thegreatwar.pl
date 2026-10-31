@@ -18,7 +18,7 @@ Ustawa była odpowiedzią na kryzys, który w maju [obalił rząd samych libera�
 
 Już w marcu 1915 roku ówczesny [kanclerz skarbu](https://pl.wikipedia.org/wiki/Kanclerz_skarbu) [David Lloyd George](/postacie/david-lloyd-george) próbował załatwić sprawę polubownie. 17 marca zaprosił przywódców związkowych do ministerstwa skarbu. Uzgodnione tam tak zwane porozumienie skarbowe przewidywało, że na czas wojny do pracy wykwalifikowanej zostaną dopuszczeni robotnicy niewykwalifikowani, strajki zastąpi arbitraż, a zyski fabrykantów zostaną ograniczone. Porozumienie pozostało jednak w dużej mierze na papierze. Robotnicy nie chcieli rezygnować ze swoich praw, dopóki rząd nie ograniczy zysków przedsiębiorców, a rokowania z firmami zbrojeniowymi w tej sprawie nic nie dały.
 
-Lloyd George, już jako minister amunicji, wniósł projekt ustawy do Izby Gmin 23 czerwca. Wcześniej uzgodnił jego treść z przedstawicielami związków zawodowych. Ostrzegł też, że jeśli zabraknie rąk do pracy, przymus będzie nieunikniony. Związkowcy poprosili o siedem dni na zebranie ochotników. Lord [George Curzon](https://pl.wikipedia.org/wiki/George_Curzon), który 2 lipca przedstawiał ustawę lordom, nazwał ją „rodzajem trójstronnego traktatu między rządem, pracodawcami i pracownikami”.
+Lloyd George, już jako minister amunicji, wniósł projekt ustawy do Izby Gmin 23 czerwca. Wcześniej uzgodnił jego treść z przedstawicielami związków zawodowych. Ostrzegł też, że jeśli zabraknie rąk do pracy, przymus będzie nieunikniony. Związkowcy poprosili o siedem dni na zebranie ochotników. Lord [George Curzon](/postacie/george-curzon), który 2 lipca przedstawiał ustawę lordom, nazwał ją „rodzajem trójstronnego traktatu między rządem, pracodawcami i pracownikami”.
 
 ## Co przewidywała ustawa
 

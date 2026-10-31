@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 maja 1915 roku do [Urmii](https://pl.wikipedia.org/wiki/Urmia_(miasto)) w północno-zachodniej [Persji](https://pl.wikipedia.org/wiki/Iran) wróciły wojska rosyjskie. Nie musiały toczyć walk. Ostatnie oddziały osmańskie i kurdyjskie opuściły miasto kilka dni wcześniej, po klęsce Halila Beja [pod Dilmanem](/bitwa-pod-dilmanem). Tak skończyła się blisko pięciomiesięczna okupacja, która zaczęła się, gdy Rosjanie [wycofali się z Urmii na początku stycznia](/rosjanie-opuszczaja-urmie).
+24 maja 1915 roku do [Urmii](https://pl.wikipedia.org/wiki/Urmia_(miasto)) w północno-zachodniej [Persji](/kraje/persja) wróciły wojska rosyjskie. Nie musiały toczyć walk. Ostatnie oddziały osmańskie i kurdyjskie opuściły miasto kilka dni wcześniej, po klęsce Halila Beja [pod Dilmanem](/bitwa-pod-dilmanem). Tak skończyła się blisko pięciomiesięczna okupacja, która zaczęła się, gdy Rosjanie [wycofali się z Urmii na początku stycznia](/rosjanie-opuszczaja-urmie).
 
 ## Odejście Turków i Kurdów
 

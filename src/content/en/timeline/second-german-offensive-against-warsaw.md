@@ -2,7 +2,7 @@
 title: Second German offensive against Warsaw
 summary: On 16 November 1914 the German Ninth Army crossed the Bzura and advanced on Łódź. The British chronology treats this day as the start of the Battle of Łódź.
 source: druga-niemiecka-ofensywa-na-warszawe
-sourceHash: b09d71ed2fb48a4aa98be1e1f5827b2025b9d7de
+sourceHash: 3278b010de37dbde93132a8aa7a89dd14501803b
 ---
 
 The British chronology of the war records under 16 November 1914 the start of the second German offensive against Warsaw and of the Battle of Łódź. On that day the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) of General [August von Mackensen](/postacie/august-von-mackensen), which for five days had been advancing from the Vistula into the Kingdom of Poland, crossed the [Bzura](https://pl.wikipedia.org/wiki/Bzura). The Russian Second Army was falling back towards [Łódź](https://pl.wikipedia.org/wiki/Łódź), and the fighting began to shift to the approaches to the city.
@@ -21,7 +21,7 @@ On 11 November the Germans attacked the V Siberian Corps of General [Paul von Re
 
 ## The Russians call off the march on Silesia
 
-The Russian command long underestimated the German blow. Only on 16 or 17 November (sources give different dates) did Grand Duke Nicholas Nikolaevich realise that the whole Second Army was in danger, and he called off the offensive into Silesia. The Fifth Army of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe) set off from the south to the rescue; within a few days its soldiers covered more than a hundred kilometres in forced marches.
+The Russian command long underestimated the German blow. Only on 16 or 17 November (sources give different dates) did Grand Duke Nicholas Nikolaevich realise that the whole Second Army was in danger, and he called off the offensive into Silesia. The Fifth Army of General [Pavel Plehve](/postacie/pawel-plehwe) set off from the south to the rescue; within a few days its soldiers covered more than a hundred kilometres in forced marches.
 
 The Austrians were also counting on the German offensive. On the same day, 16 November, the Austro-Hungarian Fourth Army [came out of the fortress of Kraków](/poczatek-bitwy-pod-krakowem) and struck the flank of the Russian Ninth Army. Both attacks were meant to stop the Russian steamroller before it entered German territory.
 

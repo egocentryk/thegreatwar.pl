@@ -14,7 +14,7 @@ draft: false
 
 ## Złamana konstytucja
 
-Urząd prezydenta był pusty od 11 grudnia, gdy junta rewolucyjna usunęła i wygnała z kraju [Bernardina Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado). Według konstytucji z 1911 roku prezydenta wybierał parlament, a obie izby, Izba Deputowanych i Senat, zbierały się w tym celu na wspólnym posiedzeniu jako Kongres. Tak w 1915 roku [wybrano Machado](/bernardino-machado-prezydentem-portugalii). Parlament był jednak rozwiązany, a Pais nie zamierzał zwoływać nowego. Na mocy jednego dekretu połączył więc w swoich rękach urzędy szefa rządu i głowy państwa. Paradoksalnie w 1911 roku jako poseł do Konstytuanty sam pomagał pisać konstytucję, którą teraz łamał. Jego zwolennicy przedstawiali to jako początek „Nowej Republiki”, w której silny prezydent miał rządzić ponad skłóconymi partiami.
+Urząd prezydenta był pusty od 11 grudnia, gdy junta rewolucyjna usunęła i wygnała z kraju [Bernardina Machado](/postacie/bernardino-machado). Według konstytucji z 1911 roku prezydenta wybierał parlament, a obie izby, Izba Deputowanych i Senat, zbierały się w tym celu na wspólnym posiedzeniu jako Kongres. Tak w 1915 roku [wybrano Machado](/bernardino-machado-prezydentem-portugalii). Parlament był jednak rozwiązany, a Pais nie zamierzał zwoływać nowego. Na mocy jednego dekretu połączył więc w swoich rękach urzędy szefa rządu i głowy państwa. Paradoksalnie w 1911 roku jako poseł do Konstytuanty sam pomagał pisać konstytucję, którą teraz łamał. Jego zwolennicy przedstawiali to jako początek „Nowej Republiki”, w której silny prezydent miał rządzić ponad skłóconymi partiami.
 
 ## Nowa Republika
 

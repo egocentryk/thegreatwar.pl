@@ -2,7 +2,7 @@
 title: Azevedo Coutinho becomes Prime Minister of Portugal
 summary: On 12 December 1914 naval officer Vítor Hugo de Azevedo Coutinho became Portugal's prime minister. His almost wholly Democratic cabinet met resistance at once.
 source: azevedo-coutinho-premierem-portugalii
-sourceHash: 08b618a3ce6884accb830b0690721076aed020b5
+sourceHash: a5f5551ebba0948a9a5f7ba6a5b44e6c1b55b7e0
 ---
 
 On 12 December 1914 Vítor Hugo de Azevedo Coutinho, a naval officer and president of the Chamber of Deputies, became Prime Minister of [Portugal](/kraje/portugalia). He replaced Bernardino Machado, whose [non-party government had just fallen](/dymisja-rzadu-bernardina-machado). The cabinet consisted almost entirely of members of the Democratic Party, the strongest group in parliament.
@@ -13,7 +13,7 @@ President Manuel de Arriaga wanted to keep the government above party divisions.
 
 ## A sailor from Macau
 
-Azevedo Coutinho was born in 1871 in [Macau](https://pl.wikipedia.org/wiki/Makau). He served in the navy from his youth, specialised in hydrography and in the 1890s took part in the campaigns in Mozambique. He belonged to the Democrats but was not a front-rank politician. His opponents believed that the government was in reality run from the back seat by [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), the party's leader.
+Azevedo Coutinho was born in 1871 in [Macau](https://pl.wikipedia.org/wiki/Makau). He served in the navy from his youth, specialised in hydrography and in the 1890s took part in the campaigns in Mozambique. He belonged to the Democrats but was not a front-rank politician. His opponents believed that the government was in reality run from the back seat by [Afonso Costa](/postacie/afonso-costa), the party's leader.
 
 The new prime minister kept the navy ministry for himself. Alexandre Braga became Minister of the Interior, Álvaro de Castro Minister of Finance, Augusto Soares Foreign Minister and Alfredo Rodrigues Gaspar Minister of the Colonies. The opposition quickly dubbed the line-up "the miserables of Victor Hugo", a play on the prime minister's names and on the novel [*Les Misérables*](https://pl.wikipedia.org/wiki/Nędznicy). The cabinet was also called "Alexandre's cellar", after the first name of the new interior minister.
 

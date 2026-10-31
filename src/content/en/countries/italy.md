@@ -9,7 +9,7 @@ brief:
   - "The offensive at Vittorio Veneto shattered the Austro-Hungarian army, and the Armistice of Villa Giusti ended the war on the Italian front on 4 November 1918."
   - "Italy gained Trentino, Trieste and Istria, but its disappointed hopes for Dalmatia and Fiume gave rise to the myth of the \"mutilated victory\"."
 source: wlochy
-sourceHash: 4ceef18493263d01e803ca003ab528dae60e4895
+sourceHash: c8c7dad4368658d3f380751f24c33acfa4d267d2
 ---
 
 Italy, linked to Germany and Austria-Hungary in the Triple Alliance since 1882, declared its neutrality in 1914, and in May 1915 entered the war on the side of the Entente in return for the promise of Trentino, Trieste and the Adriatic coast. For two and a half years it attacked on the Isonzo and in the Alps; in 1917 it suffered defeat at Caporetto but held the front on the Piave, and in the autumn of 1918 it shattered the Austro-Hungarian army at Vittorio Veneto. Depending on the method of counting, the war cost it between 460,000 and 651,000 soldiers killed and dead.
@@ -24,7 +24,7 @@ On [3 August 1914](/wlochy-oglaszaja-neutralnosc) the government of [Antonio Sal
 
 On [26 April 1915](/wlochy-podpisuja-pakt-londynski) Italy signed a secret agreement in London. For entering the war within a month it was to receive Trentino and South Tyrol up to the Brenner Pass, Trieste, Gorizia, all of Istria and northern Dalmatia. The promises went far beyond the lands inhabited by Italians: according to historians' calculations the areas Rome demanded were home to about 650,000 Italians, but also to more than 700,000 Slovenes and Croats and about 230,000 Tyrolean Germans.
 
-The majority of deputies, gathered around former Prime Minister [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), still wanted neutrality. On [4 May](/wlochy-wypowiadaja-trojprzymierze) Rome declared the alliance with Austria-Hungary void, and on [13 May](/dymisja-rzadu-salandry) Salandra resigned. King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) [refused the resignation](/salandra-pozostaje-premierem), demonstrations by supporters of war took over the streets of the big cities, and parliament granted the government full powers.
+The majority of deputies, gathered around former Prime Minister [Giovanni Giolitti](/postacie/giovanni-giolitti), still wanted neutrality. On [4 May](/wlochy-wypowiadaja-trojprzymierze) Rome declared the alliance with Austria-Hungary void, and on [13 May](/dymisja-rzadu-salandry) Salandra resigned. King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) [refused the resignation](/salandra-pozostaje-premierem), demonstrations by supporters of war took over the streets of the big cities, and parliament granted the government full powers.
 
 On [23 May 1915](/wlochy-wypowiadaja-wojne-austro-wegrom) the ambassador in Vienna delivered the declaration of war: from the following day Italy considered itself at war with Austria-Hungary. Italy declared war on the other Central Powers step by step: on Turkey [in August 1915](/wlochy-wypowiadaja-wojne-turcji), [on Bulgaria on 19 October](/rosja-i-wlochy-wypowiadaja-wojne-bulgarii), and on Germany [only on 28 August 1916](/wlochy-wypowiadaja-wojne-niemcom).
 

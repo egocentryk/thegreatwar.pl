@@ -2,7 +2,7 @@
 title: Great Britain issues an ultimatum to Germany
 summary: On 4 August 1914 London demanded that Germany respect Belgian neutrality by midnight. The chancellor called the treaty a "scrap of paper".
 source: wielka-brytania-stawia-niemcom-ultimatum
-sourceHash: c2968f07a73aba1d1337ce8e41a10100f8cf606a
+sourceHash: 6d2ee6e34cfa4041d23ae9adc57273bf23d810e7
 ---
 
 On 4 August 1914 the government of [Great Britain](/kraje/wielka-brytania) twice demanded from [Germany](/kraje/niemcy) an assurance that it would respect the neutrality of [Belgium](/kraje/belgia). The second telegram from the Foreign Secretary, [Edward Grey](/postacie/edward-grey), to the ambassador in Berlin, Sir Edward Goschen, was an ultimatum: a satisfactory reply was to arrive by midnight, failing which the ambassador was to ask for his passports.
@@ -17,7 +17,7 @@ Grey's second telegram stated that Germany had declined to give the assurance Fr
 
 ## "A scrap of paper"
 
-In the afternoon the Secretary of State, [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), told Goschen that the answer was "No", because German troops had already crossed the frontier. Germany had to advance into France by the quickest and easiest way; by the southern route it could not have got through without a great loss of time, which the Russians would have gained. At about 7 p.m. Goschen brought him the terms of the ultimatum. Jagow replied that even if the time given were twenty-four hours or more, his answer would be the same, and expressed his regret at the crumbling of his whole policy of rapprochement with Great Britain.
+In the afternoon the Secretary of State, [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), told Goschen that the answer was "No", because German troops had already crossed the frontier. Germany had to advance into France by the quickest and easiest way; by the southern route it could not have got through without a great loss of time, which the Russians would have gained. At about 7 p.m. Goschen brought him the terms of the ultimatum. Jagow replied that even if the time given were twenty-four hours or more, his answer would be the same, and expressed his regret at the crumbling of his whole policy of rapprochement with Great Britain.
 
 The ambassador then went to take leave of Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg). He found him very agitated. For about twenty minutes the Chancellor declared that Britain's step was terrible: just for a word, "neutrality", just for "a scrap of paper", it was going to make war on a kindred nation that desired nothing better than to be friends with her. He likened it to striking a man from behind while he was fighting for his life against two assailants. Goschen replied that keeping its solemn engagement was a matter of "life and death" for the honour of Great Britain. "But at what price?" the Chancellor asked. He later explained that he had meant that the Belgian treaty was for England only a scrap of paper compared with her real interests.
 

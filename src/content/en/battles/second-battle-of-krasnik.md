@@ -9,10 +9,10 @@ sides:
     commanders: [Mikhail Alekseyev, Leonid Lesh, Aleksei Evert]
 result: Inconclusive, with the advantage to the Central Powers. The Austro-Hungarians took Kraśnik and about 15,000 prisoners but did not break through to Lublin. The Russians withdrew on the night of 18–19 July.
 source: druga-bitwa-pod-krasnikiem
-sourceHash: c2ce3f1a9659a7daae8dfff876f43bc27469bc37
+sourceHash: 2fd966ed3b57bb85b6a71af6e973122f598cfc30
 ---
 
-The Second Battle of [Kraśnik](https://pl.wikipedia.org/wiki/Kraśnik) was fought in July 1915 on the same hills of the southern Lublin region where eleven months earlier Viktor Dankl's army had won [Austria-Hungary's first victory of the war](/bitwy/bitwa-pod-krasnikiem). This time the roles were reversed: it was the Russians who defended fortified positions, while the Austro-Hungarian [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) of Archduke [Joseph Ferdinand](https://pl.wikipedia.org/wiki/Józef_Ferdynand) attacked from the south towards [Lublin](https://pl.wikipedia.org/wiki/Lublin) and the Ivangorod–Lublin–Chełm railway, the most important supply line of the Russian forces in the Kingdom of Poland. The Austro-Hungarians broke the Russian front at Kraśnik and advanced a dozen or so kilometres, but fresh Russian corps stopped them short of Lublin and partly pushed them back. The battle brought no decision, but it drew in Russian reserves and prepared the ground for Mackensen's great offensive in mid-July.
+The Second Battle of [Kraśnik](https://pl.wikipedia.org/wiki/Kraśnik) was fought in July 1915 on the same hills of the southern Lublin region where eleven months earlier Viktor Dankl's army had won [Austria-Hungary's first victory of the war](/bitwy/bitwa-pod-krasnikiem). This time the roles were reversed: it was the Russians who defended fortified positions, while the Austro-Hungarian [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) of Archduke [Joseph Ferdinand](/postacie/jozef-ferdynand) attacked from the south towards [Lublin](https://pl.wikipedia.org/wiki/Lublin) and the Ivangorod–Lublin–Chełm railway, the most important supply line of the Russian forces in the Kingdom of Poland. The Austro-Hungarians broke the Russian front at Kraśnik and advanced a dozen or so kilometres, but fresh Russian corps stopped them short of Lublin and partly pushed them back. The battle brought no decision, but it drew in Russian reserves and prepared the ground for Mackensen's great offensive in mid-July.
 
 ## Name and dates
 

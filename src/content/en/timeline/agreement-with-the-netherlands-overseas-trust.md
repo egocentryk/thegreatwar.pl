@@ -2,10 +2,10 @@
 title: Agreement with the Netherlands Overseas Trust
 summary: On 23 September 1915 London and the Netherlands Overseas Trust agreed import limits on fodder, fats, oils and wool. The Netherlands was put on British rations.
 source: porozumienie-z-holenderskim-trustem-zamorskim
-sourceHash: 757c6e25dafa256cd6d0889e63a199e97e32e15a
+sourceHash: fd3052f826e28acc83c5a1562aa50c0dd02a4bd2
 ---
 
-On 23 September 1915 the British government concluded an agreement with the [Netherlands Overseas Trust](/powstaje-holenderski-trust-zamorski) (NOT) that limited imports into the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) of a dozen or so important goods to the quantities the country needed. It covered maize and rye, linseed, oilcake and meal, animal and vegetable fats, oilseeds, lard, mineral oils, petroleum and its products, and raw wool. The British chronology of the war records this agreement only under 23 November 1915, but the British official history of the blockade, written by Archibald Bell on the basis of Foreign Office documents, gives the date 23 September. Three weeks earlier, on 1 September, a similar agreement had covered cotton.
+On 23 September 1915 the British government concluded an agreement with the [Netherlands Overseas Trust](/powstaje-holenderski-trust-zamorski) (NOT) that limited imports into the [Netherlands](/kraje/holandia) of a dozen or so important goods to the quantities the country needed. It covered maize and rye, linseed, oilcake and meal, animal and vegetable fats, oilseeds, lard, mineral oils, petroleum and its products, and raw wool. The British chronology of the war records this agreement only under 23 November 1915, but the British official history of the blockade, written by Archibald Bell on the basis of Foreign Office documents, gives the date 23 September. Three weeks earlier, on 1 September, a similar agreement had covered cotton.
 
 ## Rations instead of court verdicts
 

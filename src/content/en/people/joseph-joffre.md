@@ -6,7 +6,7 @@ country: France
 birthPlace: Rivesaltes (France)
 deathPlace: Paris
 source: joseph-joffre
-sourceHash: 1fcdeb73f73e79a303f538fb515d6f86261279c1
+sourceHash: 5c664e6734b6f17a4e9fc89e7e2b77d1663826ae
 ---
 
 Joseph Joffre commanded the French Army for the first two and a half years of the war. He entered it with a plan that failed in August 1914. The French armies lost the Battle of the Frontiers and within a few weeks lost hundreds of thousands of men. Joffre, however, did not lose his head: he regrouped his forces, dismissed incompetent generals and in September led the Allies to victory on the Marne, which wrecked the German plan for a quick war. For the next two years he was the most powerful man in France, and at the same time the commander of costly and largely fruitless offensives. In December 1916 he was relieved of command and, by way of consolation, made the first Marshal of France in half a century. To the French he remained above all "the victor of the Marne", but historians still argue about his merits and about the price French infantry paid for his decisions.
@@ -47,7 +47,7 @@ Throughout the spring Joffre divided his forces between Verdun and the Somme. He
 
 By the autumn of 1916 confidence in Joffre had run out. He was blamed for neglecting the defence of Verdun, for the meagre results of the Somme and for the defeat of Romania, and in secret sessions parliament demanded that his powers be curtailed. On 12 December Briand's government entrusted command of the forces in France to [General Robert Nivelle](/nivelle-naczelnym-wodzem). Joffre kept the title of commander-in-chief and was to be technical adviser to the government, but it soon became clear that the title carried no power. The new war minister, General Hubert Lyautey, would not accept such an adviser alongside him. On 26 December Joffre asked to be relieved and on the same day [was made a Marshal of France](/joffre-marszalkiem-francji), the first since the fall of the Second Empire.
 
-He never again held real command, but the government made use of his fame. In April and May 1917 he travelled to the United States with the former prime minister [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani). He addressed Congress, toured the country and persuaded the Americans to send [one division](/amerykanska-dywizja-do-francji) to France as soon as possible, before a large army was raised. In June 1917 he welcomed General John Pershing in Paris, and on 4 July, together with President Poincaré, he took the salute at a parade of an American battalion on the Champs-Élysées. In February 1918 he was elected to the [Académie française](https://pl.wikipedia.org/wiki/Akademia_Francuska).
+He never again held real command, but the government made use of his fame. In April and May 1917 he travelled to the United States with the former prime minister [René Viviani](/postacie/rene-viviani). He addressed Congress, toured the country and persuaded the Americans to send [one division](/amerykanska-dywizja-do-francji) to France as soon as possible, before a large army was raised. In June 1917 he welcomed General John Pershing in Paris, and on 4 July, together with President Poincaré, he took the salute at a parade of an American battalion on the Champs-Élysées. In February 1918 he was elected to the [Académie française](https://pl.wikipedia.org/wiki/Akademia_Francuska).
 
 ## After the war
 

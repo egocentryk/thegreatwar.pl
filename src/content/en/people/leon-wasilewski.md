@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Petersburg (Russian Empire)
 deathPlace: Warsaw
 source: leon-wasilewski
-sourceHash: 035f7faf0c0060f2eebcaf9cfa462aa01795a74a
+sourceHash: 62fcd9aa58cd67f81e20fedc9cb05461b4aa6328
 ---
 
 Leon Wasilewski was one of [Józef Piłsudski](/postacie/jozef-pilsudski)'s closest associates from the days of the underground Polish Socialist Party and the independence camp's leading expert on the peoples of the old Commonwealth: the Lithuanians, Belarusians and Ukrainians. During the war he was active in Piłsudskiite organisations in Galicia and in the Kingdom, and his writings on Lithuania, Ukraine and the Chełm region prepared the ground for a Polish eastern programme. In November 1918, in the first government appointed by Piłsudski, he became foreign minister. For two months he built Polish diplomacy from scratch, in a country that none of the Entente powers had yet recognised. Historians call him one of the architects of Piłsudski's eastern policy.
@@ -35,7 +35,7 @@ As minister Wasilewski tried to carry out Piłsudski's eastern programme: a fede
 
 ## After the war
 
-Wasilewski went to Paris as the Chief of State's delegate to the Polish National Committee, which had been turned into the delegation to the [peace conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)), where he kept in touch with the Ukrainian delegation. In 1920–1921 he was envoy to [Estonia](https://pl.wikipedia.org/wiki/Estonia), took part in the negotiations that ended with the [Treaty of Riga](/pokoj-ryski), and then chaired the Polish side of the mixed border commission. Later he turned to scholarship: he headed the Institute for Research into Modern Polish History, founded the journal "[Niepodległość](https://pl.wikipedia.org/wiki/Niepodległość_(czasopismo))" and became head of the [Institute for Nationality Research](https://pl.wikipedia.org/wiki/Instytut_Badań_Spraw_Narodowościowych). After the May Coup he briefly advised the government on minority affairs, but, disappointed with the Sanation's policy, he became active in the opposition PPS and in 1931 became vice-chairman of its Supreme Council. He died in Warsaw on 10 December 1936. His daughter was [Wanda Wasilewska](https://pl.wikipedia.org/wiki/Wanda_Wasilewska), later a communist activist.
+Wasilewski went to Paris as the Chief of State's delegate to the Polish National Committee, which had been turned into the delegation to the [peace conference](/slownik/paryska-konferencja-pokojowa), where he kept in touch with the Ukrainian delegation. In 1920–1921 he was envoy to [Estonia](https://pl.wikipedia.org/wiki/Estonia), took part in the negotiations that ended with the [Treaty of Riga](/pokoj-ryski), and then chaired the Polish side of the mixed border commission. Later he turned to scholarship: he headed the Institute for Research into Modern Polish History, founded the journal "[Niepodległość](https://pl.wikipedia.org/wiki/Niepodległość_(czasopismo))" and became head of the [Institute for Nationality Research](https://pl.wikipedia.org/wiki/Instytut_Badań_Spraw_Narodowościowych). After the May Coup he briefly advised the government on minority affairs, but, disappointed with the Sanation's policy, he became active in the opposition PPS and in 1931 became vice-chairman of its Supreme Council. He died in Warsaw on 10 December 1936. His daughter was [Wanda Wasilewska](https://pl.wikipedia.org/wiki/Wanda_Wasilewska), later a communist activist.
 
 ## Assessment
 

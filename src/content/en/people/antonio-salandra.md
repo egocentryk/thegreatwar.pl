@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Troia (Apulia, Italy)
 deathPlace: Rome
 source: antonio-salandra
-sourceHash: b8807752a6df7187fe88eabc97b890f99795a448
+sourceHash: 9465464cb542515bd8fe8b155b237df6123827d6
 ---
 
 Antonio Salandra was Prime Minister of Italy for two years and three months, from March 1914 to June 1916, but those two years decided the fate of the country. In August 1914 he declared the neutrality of Italy, which was bound to Germany and Austria-Hungary by the Triple Alliance. In the autumn he announced that Italy would be guided by "sacred egoism", and together with the Foreign Minister [Sidney Sonnino](/postacie/sidney-sonnino) he bargained with both sides over the price of Italian participation in the war. In April 1915 he concluded a secret agreement with the Entente, and in May, against the majority of parliament and with the support of the King and the street, he took Italy into the war against Austria-Hungary. He was counting on a short campaign. When the war proved long, bloody and unsuccessful, and the Austrian offensive in the Trentino threatened Venice, parliament brought him down.
@@ -15,7 +15,7 @@ Antonio Salandra was Prime Minister of Italy for two years and three months, fro
 
 He was born on 13 August 1853 in Troia in Apulia, into a wealthy family of landowners and lawyers. He studied law in Naples, where he also attended the lectures of the literary critic Francesco De Sanctis, his mentor. He became professor of administrative law and the science of administration at the University of Rome, and the author of works on public finance and administrative law. From 1886 he was a deputy for a constituency in Apulia, associated with the liberal right and with the circle of Sidney Sonnino. He was under-secretary in the ministries of finance and the treasury, Minister of Agriculture in the government of General Luigi Pelloux in 1899–1900, and in both of Sonnino's short cabinets, in 1906 and in 1909–1910, Minister of Finance and of the Treasury. He was regarded as a conservative, a defender of the state, the monarchy and landed property, distrustful of the socialists and of mass democracy.
 
-For years he was in opposition to [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), who dominated Italian politics. Paradoxically, it was Giolitti who, on stepping down in March 1914, recommended him to King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) as his successor, expecting to return to power after a few months. Salandra's government, sworn in on 21 March 1914, was the most conservative cabinet in years. Antonino di San Giuliano remained Foreign Minister. In June the government suppressed the revolt known as "Red Week", a wave of strikes and riots in the Romagna and the Marche.
+For years he was in opposition to [Giovanni Giolitti](/postacie/giovanni-giolitti), who dominated Italian politics. Paradoxically, it was Giolitti who, on stepping down in March 1914, recommended him to King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) as his successor, expecting to return to power after a few months. Salandra's government, sworn in on 21 March 1914, was the most conservative cabinet in years. Antonino di San Giuliano remained Foreign Minister. In June the government suppressed the revolt known as "Red Week", a wave of strikes and riots in the Romagna and the Marche.
 
 ## Neutrality and "sacred egoism"
 

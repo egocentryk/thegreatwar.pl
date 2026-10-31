@@ -2,10 +2,10 @@
 title: Ain od-Dowleh again prime minister of Persia
 summary: On 19 November 1917 the aged Prince Ain od-Dowleh replaced Ala al-Saltaneh as Persian premier. Famine was spreading and Russian troops were falling apart.
 source: ajn-od-dole-ponownie-premierem-persji
-sourceHash: 2bbda96e0325669261e52a00aa0c634448edb657
+sourceHash: e084652c79ea4bcd35a69cc1ec92ddb089fa709c
 ---
 
-On 19 November 1917 Prince Abdol-Majid Mirza, known by his title Ain od-Dowleh, became prime minister of [Persia](https://pl.wikipedia.org/wiki/Iran) for the third time. This is how Persian lists of governments date the start of his tenure: 28 Aban 1296 in the Iranian calendar. He replaced Ala al-Saltaneh, whose cabinet, according to the same lists, ended its work two days later, on 30 Aban, that is 21 November. The Encyclopaedia Iranica dates the appointment generally to the month of Safar 1336 in the Islamic calendar, which began in mid-November. The British chronology of the war records the change of government only under 24 November.
+On 19 November 1917 Prince Abdol-Majid Mirza, known by his title Ain od-Dowleh, became prime minister of [Persia](/kraje/persja) for the third time. This is how Persian lists of governments date the start of his tenure: 28 Aban 1296 in the Iranian calendar. He replaced Ala al-Saltaneh, whose cabinet, according to the same lists, ended its work two days later, on 30 Aban, that is 21 November. The Encyclopaedia Iranica dates the appointment generally to the month of Safar 1336 in the Islamic calendar, which began in mid-November. The British chronology of the war records the change of government only under 24 November.
 
 Shah [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) for the second time entrusted the government to a man from a bygone era. Ain od-Dowleh, a grandson of Fath-Ali Shah of the [Qajar](https://pl.wikipedia.org/wiki/Kadżarowie) dynasty, was 72 years old. In 1904–1906 he had been the all-powerful prime minister of Mozaffar ad-Din Shah, and his harsh rule had pushed the country towards the Constitutional Revolution. In the spring of 1915 he had [already once headed a wartime government](/ajn-od-dole-premierem-persji), which [fell after a little over two months](/dymisja-rzadu-ajn-od-dole). His predecessor, the nearly eighty-year-old diplomat Ala al-Saltaneh, had [taken office in June](/ala-os-saltane-premierem-persji), but because of age and illness achieved little. According to the British chronology he remained foreign minister in the new cabinet.
 

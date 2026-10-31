@@ -9,7 +9,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Crown Prince Wilhelm, Max von Hausen]
 result: Tactical success for the French defence, strategically indecisive. The French delayed the Germans but, on Joffre's orders, withdrew to the Aisne.
 source: bitwa-nad-moza
-sourceHash: 297c18a6ca14d85f0055de4c85674a5b13d0d2a1
+sourceHash: 0cb41aeb611006f0c4049d8aa0425994a728c69c
 ---
 
 The Battle of the [Meuse](/miejsca/moza) was fought at the end of August 1914 in north-eastern France, on the stretch of the river from around Mézières through [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) to [Stenay](https://pl.wikipedia.org/wiki/Stenay) and [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). The French 4th Army, with the 3rd Army on its right wing, defended the crossings against German troops pressing forward after their victory in the Ardennes. It was one of the first engagements in which the French, after a series of defeats in the [Battle of the Frontiers](/bitwy/bitwa-graniczna), defended themselves successfully.
@@ -20,7 +20,7 @@ Sources define the time frame of the battle differently. The British chronology 
 
 ## Retreat behind the Meuse
 
-On 21–24 August the 3rd Army of General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey) and the 4th Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) suffered a heavy defeat in the [Battle of the Ardennes](/bitwy/bitwa-w-ardenach). Facing them stood the German 4th Army of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and the 5th Army of Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu).
+On 21–24 August the 3rd Army of General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey) and the 4th Army of General [Fernand de Langle de Cary](/postacie/fernand-de-langle-de-cary) suffered a heavy defeat in the [Battle of the Ardennes](/bitwy/bitwa-w-ardenach). Facing them stood the German 4th Army of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) and the 5th Army of Crown Prince [Wilhelm](/postacie/wilhelm-nastepca-tronu).
 
 On 24 August the commander-in-chief [Joseph Joffre](/postacie/joseph-joffre) ordered the 4th Army to withdraw behind the Meuse. In the evening the army staff ordered the bridges over the Meuse and the [Chiers](https://pl.wikipedia.org/wiki/Chiers) to be blown up once the last units had crossed. On 25 August the 4th Army held positions on the left bank of the river while sappers destroyed the crossings. On the same day Joffre issued General Instruction No. 2, which announced a gradual retreat of the whole front and the formation of a new army on the left wing. The 3rd Army crossed the Meuse on 26 August in pouring rain, among other places by the bridge at Dun, which was then blown up.
 

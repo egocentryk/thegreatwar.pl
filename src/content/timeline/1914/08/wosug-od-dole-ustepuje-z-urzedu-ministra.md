@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Według ówczesnych kronik wojny 18 sierpnia 1914 roku ze stanowiska ministra spraw zagranicznych [Persji](https://pl.wikipedia.org/wiki/Iran) ustąpił Wosug od-Dole, który sprawował tę funkcję od stycznia 1913 roku. Jego dymisja poprzedziła zmianę całego rządu w następnych dniach.
+Według ówczesnych kronik wojny 18 sierpnia 1914 roku ze stanowiska ministra spraw zagranicznych [Persji](/kraje/persja) ustąpił Wosug od-Dole, który sprawował tę funkcję od stycznia 1913 roku. Jego dymisja poprzedziła zmianę całego rządu w następnych dniach.
 
 ## Persja między mocarstwami
 

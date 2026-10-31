@@ -9,7 +9,7 @@ brief:
   - "By November 1918 the fleet had grown, depending on the count, to 1,261 or more than 1,354 ships, and according to John Simkin 34,642 of its men had been killed."
 name: Royal Navy
 source: royal-navy
-sourceHash: 0c028f08bb07f778e1ede92ae994aa4548b6e536
+sourceHash: 485cd43379d3606ba81675fc14bff0ef5178b623
 ---
 
 The Royal Navy, Britain's navy, entered the First World War as the most powerful fleet in the world. For four years it barred Germany's way to the ocean and enforced its [blockade](/slownik/blokada), carried the armies of the Empire and guarded the shipping on which the feeding of [Britain](/kraje/wielka-brytania) depended. It won no decisive victory over the German fleet, failed in its attempt to force the Dardanelles, and in 1917 nearly succumbed to the U-boats. In November 1918, however, it received the surrender of the German fleet.

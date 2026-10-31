@@ -6,7 +6,7 @@ country: Albania
 birthPlace: Tirana (Ottoman Empire, today Albania)
 deathPlace: Paris
 source: esad-pasza-toptani
-sourceHash: 36939f53c1962d4583335c195521646ac5a21b6b
+sourceHash: 7311df6d1768004fc1ebf9d38e3f6e7a66e8cd4c
 ---
 
 Essad Pasha Toptani was the most influential and at the same time the most hated by his compatriots of all Albanian politicians of the Great War years. A magnate from central Albania and a former Ottoman general, in the autumn of 1914 he returned from exile with Serbian money, took [Durrës](/miejsca/durres) and headed a government whose authority seldom reached far beyond that town. He relied in turn on Serbia, Italy and France, and when the Austrians arrived in February 1916 he sailed away to Italy. He spent the rest of the war as head of a government without a country, first in Italy and France, then in Salonika. Many Albanians still regard him as a symbol of treason; in Serbia he is remembered as an ally from the darkest days of 1915.
@@ -39,7 +39,7 @@ This unit, called a tabor, fought alongside the French in the valley of the [Shk
 
 ## After the war
 
-After the armistice Essad moved to Paris and sought admission to the [peace conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) as Albania's representative, supported by the Yugoslav delegation. The Powers ignored him, and at home his following dwindled. The [Congress of Lushnjë](https://pl.wikipedia.org/wiki/Kongres_w_Lushnji), which met in January 1920, formed a government that rejected both an Italian protectorate and the pasha's claims. On 13 June 1920, as Essad was leaving the Hotel Continental in Paris, he was shot dead by a young Albanian nationalist, [Avni Rustemi](https://pl.wikipedia.org/wiki/Avni_Rustemi). In December a Paris court acquitted the assassin, and Albania welcomed him as a hero. Essad was buried in the cemetery at Thiais near Paris, in the plot of Serbian soldiers.
+After the armistice Essad moved to Paris and sought admission to the [peace conference](/slownik/paryska-konferencja-pokojowa) as Albania's representative, supported by the Yugoslav delegation. The Powers ignored him, and at home his following dwindled. The [Congress of Lushnjë](https://pl.wikipedia.org/wiki/Kongres_w_Lushnji), which met in January 1920, formed a government that rejected both an Italian protectorate and the pasha's claims. On 13 June 1920, as Essad was leaving the Hotel Continental in Paris, he was shot dead by a young Albanian nationalist, [Avni Rustemi](https://pl.wikipedia.org/wiki/Avni_Rustemi). In December a Paris court acquitted the assassin, and Albania welcomed him as a hero. Essad was buried in the cemetery at Thiais near Paris, in the plot of Serbian soldiers.
 
 ## Assessment
 

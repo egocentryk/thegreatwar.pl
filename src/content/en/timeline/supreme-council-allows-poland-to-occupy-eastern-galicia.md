@@ -2,10 +2,10 @@
 title: Supreme Council allows Poland to occupy Eastern Galicia
 summary: On 25 June 1919 the powers' foreign ministers let Poland occupy Eastern Galicia up to the Zbruch, with Haller's army too, leaving its status open.
 source: rada-najwyzsza-zezwala-na-zajecie-galicji-wschodniej
-sourceHash: 4c9fbb9b958e1c64b8c4920c103a8b8ff18f0ab2
+sourceHash: 16534b2d9e2df7ce236f2733f7a1cf234562bca0
 ---
 
-At three in the afternoon on 25 June 1919 the foreign ministers of the United States, Great Britain, France, Italy and Japan met in the room of the French foreign minister, Stéphen Pichon, at the Quai d'Orsay. This Council of Foreign Ministers, one of the bodies of the Supreme Council of the [peace conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)), dealt above all with the future of [Eastern Galicia](https://pl.wikipedia.org/wiki/Galicja_Wschodnia). It resolved that the Polish government might occupy it with its troops as far as the [Zbruch](https://pl.wikipedia.org/wiki/Zbrucz) and use General Haller's army for the purpose as well. It was a great success for Polish diplomacy, although the powers stated plainly that they were not deciding to whom the country would ultimately belong.
+At three in the afternoon on 25 June 1919 the foreign ministers of the United States, Great Britain, France, Italy and Japan met in the room of the French foreign minister, Stéphen Pichon, at the Quai d'Orsay. This Council of Foreign Ministers, one of the bodies of the Supreme Council of the [peace conference](/slownik/paryska-konferencja-pokojowa), dealt above all with the future of [Eastern Galicia](https://pl.wikipedia.org/wiki/Galicja_Wschodnia). It resolved that the Polish government might occupy it with its troops as far as the [Zbruch](https://pl.wikipedia.org/wiki/Zbrucz) and use General Haller's army for the purpose as well. It was a great success for Polish diplomacy, although the powers stated plainly that they were not deciding to whom the country would ultimately belong.
 
 ## The dispute over Galicia
 

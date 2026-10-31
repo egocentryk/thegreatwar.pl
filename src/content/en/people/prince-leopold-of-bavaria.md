@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Munich (Bavaria)
 deathPlace: Munich
 source: leopold-bawarski
-sourceHash: 0eec3cc6c80a55e56eecdef565c5a3f6d523fb6d
+sourceHash: 3d33e929aa26c97edb937b15f6e16006c91c344b
 ---
 
 At the outbreak of the war Prince Leopold of Bavaria was a sixty-eight-year-old field marshal who had been in retirement for a year and a half. In the spring of 1915 he returned to service and until the end of the war commanded on the Eastern Front, first the Ninth Army, which entered Warsaw in August 1915, then an army group, and from 1916, as Hindenburg's successor, all the German forces in the East. Behind him worked an outstanding chief of staff, General Max Hoffmann, who usually receives the credit for the decisions of this command. The prince was not merely a figurehead, however: he had two wars and half a century of service behind him, he knew how to work with people and how to manage the conflicting interests of the allies. It was at his headquarters in Brest-Litovsk that the armistice and the peace with Soviet Russia were signed.
@@ -29,7 +29,7 @@ From the Ninth Army and neighbouring troops the Prince Leopold of Bavaria Army G
 
 ## 1916: defence and command in the East
 
-In 1916 Leopold's army group was the target of Russian offensives. The heaviest came in July, when the Russian Fourth Army struck [at Baranovichi](/bitwy/bitwa-pod-baranowiczami) on the sector defended by the army of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch). The Russians lost about 80,000 men and did not break through the front. After this defeat the Russian Stavka gave up major offensives north of Polesia.
+In 1916 Leopold's army group was the target of Russian offensives. The heaviest came in July, when the Russian Fourth Army struck [at Baranovichi](/bitwy/bitwa-pod-baranowiczami) on the sector defended by the army of General [Remus von Woyrsch](/postacie/remus-von-woyrsch). The Russians lost about 80,000 men and did not break through the front. After this defeat the Russian Stavka gave up major offensives north of Polesia.
 
 On 1 August 1916 Leopold became a Prussian field marshal. On 29 August, when [Paul von Hindenburg](/postacie/paul-von-hindenburg) and [Erich Ludendorff](/postacie/erich-ludendorff) took over the [supreme command](/hindenburg-szefem-sztabu-generalnego), the prince succeeded Hindenburg as Commander-in-Chief in the East, and [Max Hoffmann](/postacie/max-hoffmann) became his chief of staff. This division of roles corresponded to the customs of the German army: the prince represented the command and took the final decisions, while the chief of staff prepared them. Hoffmann valued his superior as a wise soldier who left him a great deal of freedom. In time Leopold's authority extended from the Baltic to the Carpathians and also covered the Austro-Hungarian, Turkish and Bulgarian troops on this front.
 

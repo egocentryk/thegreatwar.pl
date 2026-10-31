@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Udine (Venetia)
 deathPlace: Innsbruck
 source: victor-dankl
-sourceHash: 38a4b6ad61efdfe266c37a7f9ba18023da432868
+sourceHash: 9ecd50c8889f54f257785c4cbbbf18cbf6f07892
 ---
 
 Viktor Dankl, from 1918 Count Dankl von Krasnik, was the commander who gave the Austro-Hungarian army its first victory of the First World War. On 23–25 August 1914 his First Army defeated the Russians at Kraśnik in the Lublin region, and the monarchy, just humiliated by defeat in Serbia, hailed him as a hero. The success proved short-lived, for two weeks later Dankl's army had to fall back from Lublin. In 1915, with very modest forces, he halted the Italians on the Tyrolean border, and in 1916 his Eleventh Army opened the great offensive from Tyrol. After it, amid quarrels with his superiors and because of illness, he left the front and held no further command until the end of the war.
@@ -23,7 +23,7 @@ After mobilisation Dankl was given command of the [First Army](https://pl.wikipe
 
 According to historians' estimates, the [Battle of Kraśnik](/bitwy/bitwa-pod-krasnikiem) cost about 15,000 Austro-Hungarian and about 25,000 Russian soldiers, including 6,000 prisoners. Salza lost his command. Soon afterwards Auffenberg won the [Battle of Komarów](/bitwy/bitwa-pod-komarowem), and for a moment Vienna believed that the campaign in the east was going according to plan. Dankl became a hero of the press and one of the most popular generals of the monarchy.
 
-He followed the Russians north, and at the turn of August and September his leading units stood on the hills before Lublin. They got no further. The high command was focused on the east, where the Russians were routing the Austro-Hungarian armies near Lviv, and Conrad turned Auffenberg's army back south. A gap opened between the First and Fourth Armies. From 5 September the reinforced Russian Fourth and Ninth Armies, including the Guards Corps, attacked Dankl's front. According to Austrian accounts, around 7 September his three corps faced seven Russian ones. His only support was the German [Landwehr](https://pl.wikipedia.org/wiki/Landwehra) Corps of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch). In the [Battle of Tarnawka](/bitwy/bitwa-pod-tarnawka) the Russians broke through the defence, and on 9 September Dankl began to fall back towards the San. Two days later Conrad ordered the whole front to retreat, and the [Battle of Galicia](/bitwy/bitwa-galicyjska) was lost.
+He followed the Russians north, and at the turn of August and September his leading units stood on the hills before Lublin. They got no further. The high command was focused on the east, where the Russians were routing the Austro-Hungarian armies near Lviv, and Conrad turned Auffenberg's army back south. A gap opened between the First and Fourth Armies. From 5 September the reinforced Russian Fourth and Ninth Armies, including the Guards Corps, attacked Dankl's front. According to Austrian accounts, around 7 September his three corps faced seven Russian ones. His only support was the German [Landwehr](https://pl.wikipedia.org/wiki/Landwehra) Corps of General [Remus von Woyrsch](/postacie/remus-von-woyrsch). In the [Battle of Tarnawka](/bitwy/bitwa-pod-tarnawka) the Russians broke through the defence, and on 9 September Dankl began to fall back towards the San. Two days later Conrad ordered the whole front to retreat, and the [Battle of Galicia](/bitwy/bitwa-galicyjska) was lost.
 
 ## The Vistula, the Nida and Kraków
 

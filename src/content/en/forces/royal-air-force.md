@@ -9,7 +9,7 @@ brief:
   - "At the armistice the RAF numbered 291,170 men and women and 22,647 aircraft and was the largest military air force in the world."
 name: Royal Air Force
 source: royal-air-force
-sourceHash: eb02d4bb239886ce0d9c309ed23cfd4fd393f572
+sourceHash: bfe48d5447e1e5501f7348c1af40c023997b76d9
 ---
 
 The Royal Air Force (RAF) was formed on 1 April 1918 by merging the army's air arm, the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), and the navy's, the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) (RNAS). It answered neither to the War Office nor to the Admiralty but to a new Air Ministry, and it is usually regarded as the world's first air force independent of both army and navy. In the last months of the war it fought over the Western Front, in Italy, in Macedonia and in the Middle East, defended [Britain](/kraje/wielka-brytania) against air raids and bombed western Germany. In November 1918 it was the largest military air force in the world.

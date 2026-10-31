@@ -2,10 +2,10 @@
 title: Fall of Pimenta de Castro's government
 summary: On 14 May 1915 the navy and armed civilians rose in Lisbon against the dictatorship of General Pimenta de Castro. His government fell that same day.
 source: upadek-rzadu-pimenty-de-castro
-sourceHash: 1d0268dcb670f573acef8820cc60b481a562b093
+sourceHash: b85072f7acde91889467f81e37b2377ac5156dec
 ---
 
-In the night of 13–14 May 1915 an uprising broke out in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona) against the government of General Joaquim Pimenta de Castro. Since January the general, appointed by President [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), had [ruled without parliament and by decree](/pimenta-de-castro-premierem-portugalii). The plot was prepared by people linked to the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)) of [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), especially a group of young officers known as the Young Turks. The leaders of the movement included Álvaro de Castro, Alfredo de Sá Cardoso and José Norton de Matos, and command of the naval forces was taken by the naval officer Leote do Rego. The insurgents justified the revolt as a defence of the 1911 constitution, which the president and the general had allegedly violated by preventing Congress, that is, parliament, from sitting.
+In the night of 13–14 May 1915 an uprising broke out in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona) against the government of General Joaquim Pimenta de Castro. Since January the general, appointed by President [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), had [ruled without parliament and by decree](/pimenta-de-castro-premierem-portugalii). The plot was prepared by people linked to the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)) of [Afonso Costa](/postacie/afonso-costa), especially a group of young officers known as the Young Turks. The leaders of the movement included Álvaro de Castro, Alfredo de Sá Cardoso and José Norton de Matos, and command of the naval forces was taken by the naval officer Leote do Rego. The insurgents justified the revolt as a defence of the 1911 constitution, which the president and the general had allegedly violated by preventing Congress, that is, parliament, from sitting.
 
 ## Warships on the Tagus
 

@@ -2,10 +2,10 @@
 title: New Persian foreign minister
 summary: According to a British chronology, on 20 February 1915 Mo'aven od-Dowleh replaced Ala al-Saltaneh as Persian foreign minister. Persia barely kept neutral.
 source: nowy-minister-spraw-zagranicznych-persji
-sourceHash: adc8b6fd718eb0c101542405277ad342ba0608e2
+sourceHash: 18cbfe645dbbd5e663faaf8609975fb1b7b0627f
 ---
 
-A British chronology of the war records under 20 February 1915 a change of foreign minister in [Persia](https://pl.wikipedia.org/wiki/Iran). Ala al-Saltaneh, who had headed Persian diplomacy since August 1914, stepped down, and his place was taken by Mo'aven od-Dowleh. Some lists give 21 February as Ala al-Saltaneh's last day in office.
+A British chronology of the war records under 20 February 1915 a change of foreign minister in [Persia](/kraje/persja). Ala al-Saltaneh, who had headed Persian diplomacy since August 1914, stepped down, and his place was taken by Mo'aven od-Dowleh. Some lists give 21 February as Ala al-Saltaneh's last day in office.
 
 ## An experienced official
 

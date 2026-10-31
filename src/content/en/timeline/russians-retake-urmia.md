@@ -2,10 +2,10 @@
 title: Russians retake Urmia
 summary: On 24 May 1915 the Russians returned to Urmia, left a few days earlier by the Turks and Kurds. An occupation tragic for the Christians was over.
 source: rosjanie-odbijaja-urmie
-sourceHash: 6155ac2bea6219ea9318b8bae46912145cb8a459
+sourceHash: 31d6509c76763998ea1cdee57cdc0d38a312803b
 ---
 
-On 24 May 1915 Russian troops returned to [Urmia](https://pl.wikipedia.org/wiki/Urmia_(miasto)) in north-western [Persia](https://pl.wikipedia.org/wiki/Iran). They did not have to fight. The last Ottoman and Kurdish units had left the town a few days earlier, after Halil Bey's defeat [at Dilman](/bitwa-pod-dilmanem). So ended an occupation of almost five months, which had begun when the Russians [withdrew from Urmia at the beginning of January](/rosjanie-opuszczaja-urmie).
+On 24 May 1915 Russian troops returned to [Urmia](https://pl.wikipedia.org/wiki/Urmia_(miasto)) in north-western [Persia](/kraje/persja). They did not have to fight. The last Ottoman and Kurdish units had left the town a few days earlier, after Halil Bey's defeat [at Dilman](/bitwa-pod-dilmanem). So ended an occupation of almost five months, which had begun when the Russians [withdrew from Urmia at the beginning of January](/rosjanie-opuszczaja-urmie).
 
 ## The Turks and Kurds leave
 

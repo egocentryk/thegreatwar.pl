@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-30 stycznia 1915 roku wojska rosyjskie ponownie weszły do [Tebrizu](https://pl.wikipedia.org/wiki/Tebriz), stolicy perskiego Azerbejdżanu. Niespełna cztery tygodnie wcześniej [opuściły miasto](/rosjanie-opuszczaja-tebriz), a [8 stycznia zajęli je Kurdowie i Turcy](/turcy-zajmuja-tebriz). Po zwycięstwie pod [Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) Rosjanie mogli znów zająć się północną [Persją](https://pl.wikipedia.org/wiki/Iran).
+30 stycznia 1915 roku wojska rosyjskie ponownie weszły do [Tebrizu](https://pl.wikipedia.org/wiki/Tebriz), stolicy perskiego Azerbejdżanu. Niespełna cztery tygodnie wcześniej [opuściły miasto](/rosjanie-opuszczaja-tebriz), a [8 stycznia zajęli je Kurdowie i Turcy](/turcy-zajmuja-tebriz). Po zwycięstwie pod [Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) Rosjanie mogli znów zająć się północną [Persją](/kraje/persja).
 
 Na czele wojsk, które ruszyły na Tebriz, stał generał Fiodor Czernozubow, dowódca tzw. oddziału azerbejdżańskiego. Znał Persję dobrze, bo przed laty, w latach 1902–1906, szkolił kawalerię perskiej Brygady Kozackiej. Jego oddział, złożony z kozackiej jazdy, piechoty i artylerii, podszedł od strony [Dżolfy](https://pl.wikipedia.org/wiki/Dżolfa) przez [Marand](https://pl.wikipedia.org/wiki/Marand). Pod Sufianem, na północny zachód od Tebrizu, zagrodziły mu drogę oddziały kurdyjskie i tureckie. Według rosyjskich opracowań walka trwała trzy dni, od 26 do 28 stycznia, i zakończyła się odwrotem przeciwnika.
 

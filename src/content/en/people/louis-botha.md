@@ -6,7 +6,7 @@ country: Union of South Africa
 birthPlace: Greytown (Natal)
 deathPlace: Pretoria
 source: louis-botha
-sourceHash: 469eb4e9f2c6cea4202c1c35d313be2638a56540
+sourceHash: 1e4a6e8e57329906750491c27797b3213693e05e
 ---
 
 Louis Botha was one of the most remarkable figures of the Great War. A dozen or so years earlier, as commandant-general of the Transvaal, he had fought against the British in the Boer War, and in 1914, as prime minister of a British dominion, he sided with the Empire without hesitation. He paid for it with a revolt by part of his own people. He put down the Boer rebellion personally, and then himself led the forces of the Union of South Africa across the Namib Desert and in July 1915 accepted the surrender of German South West Africa. Later he sent soldiers to East Africa and to France, and in 1919 he signed the Treaty of Versailles on behalf of his country. He died two months later.
@@ -41,7 +41,7 @@ The government also agreed to send a contingent of black labourers to France. In
 
 ## 1919: Paris
 
-After the armistice Botha went to the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)). He wanted South West Africa annexed to the Union, but when the talks on the colonies stalled he accepted a mandate, which in practice gave the Union control of the territory. This was regarded as one of his most important contributions to the proceedings. In the spring of 1919 he chaired a commission that was to bring about an armistice between Poland and the Ukrainians in Eastern Galicia. The [demarcation line](https://pl.wikipedia.org/wiki/Linia_Bothy) it proposed left Lviv on the Polish side and the oil basin near Borysław on the Ukrainian side. The Ukrainians accepted it; the Polish delegation rejected it. Botha considered many of the terms of the peace with Germany too harsh and said so openly, but on 28 June 1919, together with Smuts, he signed the [Treaty of Versailles](/slownik/traktat-wersalski) on behalf of the Union. For him it was proof that South Africa had become a state on a par with others.
+After the armistice Botha went to the [Paris Peace Conference](/slownik/paryska-konferencja-pokojowa). He wanted South West Africa annexed to the Union, but when the talks on the colonies stalled he accepted a mandate, which in practice gave the Union control of the territory. This was regarded as one of his most important contributions to the proceedings. In the spring of 1919 he chaired a commission that was to bring about an armistice between Poland and the Ukrainians in Eastern Galicia. The [demarcation line](https://pl.wikipedia.org/wiki/Linia_Bothy) it proposed left Lviv on the Polish side and the oil basin near Borysław on the Ukrainian side. The Ukrainians accepted it; the Polish delegation rejected it. Botha considered many of the terms of the peace with Germany too harsh and said so openly, but on 28 June 1919, together with Smuts, he signed the [Treaty of Versailles](/slownik/traktat-wersalski) on behalf of the Union. For him it was proof that South Africa had become a state on a par with others.
 
 ## Death
 

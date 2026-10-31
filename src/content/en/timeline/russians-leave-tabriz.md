@@ -2,10 +2,10 @@
 title: Russians leave Tabriz
 summary: On 5 January 1915 the last Russian troops left Tabriz, capital of Persian Azerbaijan, held since 1909. Most of the Armenians fled with them.
 source: rosjanie-opuszczaja-tebriz
-sourceHash: 738738d4de55924f447be914b0dce1cc7eed9fca
+sourceHash: 97f6a97016e131db00e89c39dc2119a113f49468
 ---
 
-On 5 January 1915 Russian troops left [Tabriz](https://pl.wikipedia.org/wiki/Tebriz), the largest city of northern [Persia](https://pl.wikipedia.org/wiki/Iran) and capital of the province of [Azerbaijan](https://pl.wikipedia.org/wiki/Azerbejdżan_Irański). It was the last stage of an evacuation that the Russians had begun in the second half of December, when defeat at [Sarikamish](/bitwy/bitwa-pod-sarykamyszem) seemed possible. Three days earlier they had [left Urmia](/rosjanie-opuszczaja-urmie).
+On 5 January 1915 Russian troops left [Tabriz](https://pl.wikipedia.org/wiki/Tebriz), the largest city of northern [Persia](/kraje/persja) and capital of the province of [Azerbaijan](https://pl.wikipedia.org/wiki/Azerbejdżan_Irański). It was the last stage of an evacuation that the Russians had begun in the second half of December, when defeat at [Sarikamish](/bitwy/bitwa-pod-sarykamyszem) seemed possible. Three days earlier they had [left Urmia](/rosjanie-opuszczaja-urmie).
 
 ## Russian Tabriz
 

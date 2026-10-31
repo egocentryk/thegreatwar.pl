@@ -2,10 +2,10 @@
 title: Battle of Dilman
 summary: On 1 May 1915 at Dilman in Persian Azerbaijan, Russians and Armenian volunteers under Nazarbekian repulsed Halil Bey's corps. The Turks withdrew at night.
 source: bitwa-pod-dilmanem
-sourceHash: a64757e05c6cc0eae55552f8b03da30cac32f35f
+sourceHash: 05a5eb678c7f4c6c43f691eb776f39449522d3c9
 ---
 
-On 1 May 1915 at Dilman, the main town of the Salmas plain north of [Lake Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)), the decisive battle of the Ottoman spring expedition into north-western [Persia](https://pl.wikipedia.org/wiki/Iran) was fought. Halil Bey's troops attacked the positions of General Tovmas Nazarbekian's Russian detachment all day, but were repulsed with heavy losses, and during the night of 1–2 May they withdrew. Dilman is today the town of [Salmas](https://pl.wikipedia.org/wiki/Salmas).
+On 1 May 1915 at Dilman, the main town of the Salmas plain north of [Lake Urmia](https://pl.wikipedia.org/wiki/Urmia_(jezioro)), the decisive battle of the Ottoman spring expedition into north-western [Persia](/kraje/persja) was fought. Halil Bey's troops attacked the positions of General Tovmas Nazarbekian's Russian detachment all day, but were repulsed with heavy losses, and during the night of 1–2 May they withdrew. Dilman is today the town of [Salmas](https://pl.wikipedia.org/wiki/Salmas).
 
 ## Halil's expedition
 
