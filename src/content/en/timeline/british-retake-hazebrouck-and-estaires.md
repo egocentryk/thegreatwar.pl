@@ -2,10 +2,10 @@
 title: British retake Hazebrouck and Estaires
 summary: The British chronicle records the recapture of Hazebrouck and Estaires on 10 October 1914. British cavalry entered Hazebrouck; Estaires was still under threat.
 source: brytyjczycy-odbijaja-hazebrouck-i-estaires
-sourceHash: d2ba61df29fafd39117d18d8719137218226fd63
+sourceHash: 19146786d17ed83272af58aae4e759060005acf9
 ---
 
-The British chronicle of the war records under 10 October 1914 the recapture of [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck) and [Estaires](https://pl.wikipedia.org/wiki/Estaires) by the British. Both towns lie in French Flanders, on the route along which the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) was then moving from the Saint-Omer and Béthune area towards the Lys. The chronicle's entry, however, simplifies events. Neither town had to be taken by fighting that day.
+The British chronicle of the war records under 10 October 1914 the recapture of [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck) and [Estaires](https://pl.wikipedia.org/wiki/Estaires) by the British. Both towns lie in French Flanders, on the route along which the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) was then moving from the Saint-Omer and Béthune area towards the Lys. The chronicle's entry, however, simplifies events. Neither town had to be taken by fighting that day.
 
 Hazebrouck, an important railway junction, was the objective of the German IV Cavalry Corps, which [a few days earlier](/niemcy-zajmuja-armentieres-i-hazebrouck) had passed through Ypres and Bailleul. Near the town the Germans ran into French Territorial units, and on 9 October they fell back to Bailleul. That same day the British cavalry corps of General [Edmund Allenby](/postacie/edmund-allenby) was ordered to secure the line from Merville to Hazebrouck. According to the British official history, it reached it by 11 October, meeting only weak resistance from German cavalry. The 2nd Cavalry Division took up positions around Hazebrouck and covered the concentration of the British III Corps, which from 10 October was detraining near Saint-Omer. On 12 October the British set up a field hospital in the local college, and the next day III Corps set out from Hazebrouck eastwards, towards Bailleul.
 

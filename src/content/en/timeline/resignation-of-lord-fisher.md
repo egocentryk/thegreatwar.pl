@@ -2,10 +2,10 @@
 title: Resignation of Lord Fisher
 summary: On 15 May 1915 First Sea Lord John Fisher resigned and walked out of the Admiralty. He would no longer share responsibility for the Dardanelles expedition.
 source: dymisja-lorda-fishera
-sourceHash: 5f783849087d5cf94693f4190cdd1f5ef12d2913
+sourceHash: 46b19fe6c201252ff356895be01645e947a44496
 ---
 
-On the morning of Saturday 15 May 1915 Admiral Lord [John Fisher](/postacie/john-fisher), the First Sea Lord, that is the most senior officer of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), wrote a short letter to his civilian superior, the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill). In it he declared that after further reflection he had come to the conclusion that he could no longer remain his colleague. He found it increasingly difficult to adjust himself to the increasing requirements of the Dardanelles. "As you truly said yesterday, I am in the position of continually vetoing your proposals," he wrote. He announced that he was leaving for Scotland at once so as to avoid all questionings. Then he simply walked out of the Admiralty.
+On the morning of Saturday 15 May 1915 Admiral Lord [John Fisher](/postacie/john-fisher), the First Sea Lord, that is the most senior officer of the [Royal Navy](/sily-zbrojne/royal-navy), wrote a short letter to his civilian superior, the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill). In it he declared that after further reflection he had come to the conclusion that he could no longer remain his colleague. He found it increasingly difficult to adjust himself to the increasing requirements of the Dardanelles. "As you truly said yesterday, I am in the position of continually vetoing your proposals," he wrote. He announced that he was leaving for Scotland at once so as to avoid all questionings. Then he simply walked out of the Admiralty.
 
 ## The last straw
 

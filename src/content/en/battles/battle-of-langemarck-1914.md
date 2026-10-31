@@ -11,7 +11,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Georg von Kleist, Otto von Hügel]
 result: Indecisive. The British advance on Bruges was halted on the first day, but the German reserve corps, despite heavy losses, failed to break the front north of Ypres.
 source: bitwa-pod-langemarck
-sourceHash: 861ded094337f73c4f68ef7da2c71d60502add94
+sourceHash: 674962b8a62acb9315387839afc5a53221d5ba30
 brief:
   - "The Battle of Langemarck was fought from 21 to 24 October 1914 north and north-east of Ypres. It was the first stage of the First Battle of Ypres."
   - "Field Marshal French believed there was at most one German corps north of Ypres. In reality four new reserve corps were arriving, with many poorly trained volunteers among their men."
@@ -34,7 +34,7 @@ By mid-October 1914 the [race to the sea](/bitwy/wyscig-do-morza) was coming to 
 
 The British commander-in-chief, Field Marshal [John French](/postacie/john-french), still believed that the German flank could be turned. Together with General [Ferdinand Foch](/foch-obejmuje-dowodztwo-we-flandrii), he hoped that the Allied forces would advance east and north-east from Ypres. I Corps was ordered to march towards Thourout (Torhout) and then on to Bruges. French disregarded the reports of his own intelligence and assumed that there was at most one German corps north of Ypres.
 
-In reality the new German [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) was heading for Flanders. Its core consisted of [four new reserve corps](/niemcy-docieraja-do-wybrzeza-belgii), the XXII, XXIII, XXVI and XXVII, formed in the first weeks of the war. Many of their men were volunteers who had joined up in August 1914, including schoolboys and students, alongside reservists and older Landwehr soldiers. Their training had lasted only a few weeks. They lacked experienced officers and NCOs, machine guns and artillery. The Chief of the German General Staff, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), threw these corps into an attack between the sea and Ypres, hoping that they would break through the weak Allied front and open the way to the Channel ports. In the last days before the battle their advance guards drove the French and British cavalry out of Roeselare and off the ridge at Passendale, east of Ypres.
+In reality the new German [4th Army](/sily-zbrojne/4-armia-niemiecka) of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) was heading for Flanders. Its core consisted of [four new reserve corps](/niemcy-docieraja-do-wybrzeza-belgii), the XXII, XXIII, XXVI and XXVII, formed in the first weeks of the war. Many of their men were volunteers who had joined up in August 1914, including schoolboys and students, alongside reservists and older Landwehr soldiers. Their training had lasted only a few weeks. They lacked experienced officers and NCOs, machine guns and artillery. The Chief of the German General Staff, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), threw these corps into an attack between the sea and Ypres, hoping that they would break through the weak Allied front and open the way to the Channel ports. In the last days before the battle their advance guards drove the French and British cavalry out of Roeselare and off the ridge at Passendale, east of Ypres.
 
 ## Course of the fighting
 

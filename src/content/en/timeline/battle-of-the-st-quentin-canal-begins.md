@@ -2,7 +2,7 @@
 title: Battle of the St Quentin Canal begins
 summary: On 29 September 1918 the British 46th Division crossed the St Quentin Canal in fog, while Americans and Australians stormed the Hindenburg Line at Bellicourt.
 source: poczatek-bitwy-o-kanal-saint-quentin
-sourceHash: 4abe4cbe5dfc0fd46af98bd341e9d78344bb2d91
+sourceHash: cb6df637e63ebea3dc632b4663a9b56484989575
 brief:
   - "At 5.50 a.m. on 29 September 1918 General Henry Rawlinson's British Fourth Army attacked the Hindenburg Line north of Saint-Quentin. It was the last of four blows Foch dealt the Germans on successive days."
   - "In thick fog the British 46th Division crossed the deep canal cutting at Bellenglise and Riqueval, partly on lifebelts from the cross-Channel ferries, and seized the bridge at Riqueval intact."
@@ -15,7 +15,7 @@ At 5.50 a.m. on 29 September 1918 General [Henry Rawlinson's](/postacie/henry-ra
 
 ## Night and fog
 
-From 10.30 p.m. on 26 September more than 1,600 British guns shelled the German positions, first with [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy) shells and then with high explosive and shrapnel. For three nights two batteries of six-inch howitzers fired a shell every minute into the defences above the bend of the canal at Bellenglise, so that the defenders could get no rest. The night of 28–29 September was dark and stormy, and towards morning, as the army's meteorologists had forecast, fog settled over the ground. Together with the smoke of the screens and of the guns, it meant that for several hours the airmen of the [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force) could see almost nothing. The tanks drove up to their start positions at night, the noise of their engines drowned by the cannonade.
+From 10.30 p.m. on 26 September more than 1,600 British guns shelled the German positions, first with [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy) shells and then with high explosive and shrapnel. For three nights two batteries of six-inch howitzers fired a shell every minute into the defences above the bend of the canal at Bellenglise, so that the defenders could get no rest. The night of 28–29 September was dark and stormy, and towards morning, as the army's meteorologists had forecast, fog settled over the ground. Together with the smoke of the screens and of the guns, it meant that for several hours the airmen of the [Royal Air Force](/sily-zbrojne/royal-air-force) could see almost nothing. The tanks drove up to their start positions at night, the noise of their engines drowned by the cannonade.
 
 The fog was a bad omen for the American 27th Division. Its preliminary attack on 27 September on the Quennemont and Gillemont farms and the Knoll had failed, and since small groups of Americans, including wounded, might still be lying in front of the line, the barrage had not been brought closer. So at 4.50 a.m., an hour before the rest of the army, the division's leading units set off to fight their way, on their own and with the help of tanks, to the line from which the barrage was to start at 5.50.
 

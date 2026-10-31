@@ -2,10 +2,10 @@
 title: End of the battle of the Strypa
 summary: The British chronology ends the battle of the Strypa on 30 June 1916. Bothmer held the upper Strypa, and Shcherbachev's last big attack had failed on 21 June.
 source: koniec-bitwy-nad-strypa
-sourceHash: d48d70d24a82a333a9b50abf68762e59eade7ddd
+sourceHash: 4aae3fa057f0e2267588804a59a8a0e774eff9c8
 ---
 
-Under 30 June 1916 the British chronology of the war closes the battle of the [Strypa](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), which it [opens on 11 June](/poczatek-bitwy-nad-strypa). On the last day of June, 17 June by the Julian calendar then used in Russia, nothing decisive happened on the Strypa itself, however. The front of General Felix von Bothmer's German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) had been quiet for more than a week. The last big attack of General [Dmitry Shcherbachev's](/postacie/dmitrij-szczerbaczow) Russian [Seventh Army](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) had collapsed on 21 June. The date in the chronology can rather be linked with reports from the Dniester and the Prut, where at the end of June the Russian troops moved forward again.
+Under 30 June 1916 the British chronology of the war closes the battle of the [Strypa](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), which it [opens on 11 June](/poczatek-bitwy-nad-strypa). On the last day of June, 17 June by the Julian calendar then used in Russia, nothing decisive happened on the Strypa itself, however. The front of General Felix von Bothmer's German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) had been quiet for more than a week. The last big attack of General [Dmitry Shcherbachev's](/postacie/dmitrij-szczerbaczow) Russian [Seventh Army](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) had collapsed on 21 June. The date in the chronology can rather be linked with reports from the Dniester and the Prut, where at the end of June the Russian troops moved forward again.
 
 ## The fighting at Kotuzów
 

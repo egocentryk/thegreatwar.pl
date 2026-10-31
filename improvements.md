@@ -2796,6 +2796,44 @@ page counts, sample matches, JS-escape check, `--merge`).
 - RFC: "Royal Flying Corps" neuter in some articles, masculine in others;
   the page uses neuter. Trenchard, Henderson, Salmond have no person pages.
 
+## 53. "Siły zbrojne", batch 2: twelve forces (2026-10-31)
+
+- Owner approved the pilot (layout with people beside the text, 800–900
+  words, the candidates). Schema: `country` and `formed` optional (a force
+  without a state; a navy centuries old); the page shows the period only
+  when it has a date. Brief: `summary` always in double quotes.
+- Twelve pages, PL/EN, `topics.py --forces` 0 problems, six writers:
+  Royal Navy (781 words, 42 internal links), RNAS (888, 32), RAF (798, 25),
+  BEF (804, 41), 9 Armia (805, 31), 11 Armia (822, 28), 4 Armia (898, 36),
+  Armia Południowa (790, 24), 3 Armia rosyjska (805, 26), 8 Armia rosyjska
+  (787, 23), Legion Czechosłowacki (858, 27), Gurkhowie (808, 24). 15
+  forces in all.
+- Dates left out where no source gives a verifiable day: the Russian 3rd
+  and 8th armies (formed July 1914, ended early 1918; the text gives
+  months), the BEF's end, Gurkhowie, Royal Navy. The BEF's `formed`
+  4 VIII 1914 is the day its command was named (our article).
+- Glossary: `bef` and `legion-czechoslowacki` point to their force pages.
+- Links: 375 now ours, 337 files, English restamped. Report: 24,120 →
+  23,745.
+- Checks: forces, glossary texts, places, guides, countries, series, year
+  intros 0; i18n 0 (3433 EN files); build 8016 pages; pages checked at
+  390px, no script errors.
+
+### Writers' notes (for the review list)
+
+- `postacie/friedrich-sixt-von-armin`: took over the 4th Army 1 III 1917;
+  Cron (de/en.wiki) 25 II (the page gives both).
+- `battles/1914/bitwa-galicyjska`: the 8th Army over the Zbrucz 18 VIII;
+  `postacie/aleksiej-brusilow`: into Galicia "pod koniec sierpnia".
+- `postacie/fritz-von-below`: appointed to the 9th Army 9 VI 1918; de.wiki
+  18 VI. `druga-bitwa-pod-noyon` has Eben in command in late August, de.wiki
+  only until early August.
+- `postacie/max-von-gallwitz`: "took over Mackensen's 11th Army" simplifies
+  the renaming of the 12th Army staff (the page tells it).
+- Armia Południowa's end: 25 I 1918 (Cron) vs 3 II 1918 (historyofwar),
+  both given; Linsingen to Bothmer 8 VII vs 6 VII 1915, both given.
+- No person pages for Trenchard, Bothmer, Kaledin, Gurkha commanders.
+
 ---
 
 ## Roadmap (checklist)
@@ -2905,6 +2943,7 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links: "Miejsca" batch 2, eight places, 325 links (§50)
 - [x] Wikipedia links: longer glossary texts, batch 1 (§51)
 - [x] Wikipedia links: "Siły zbrojne" pilot (§52)
+- [x] Wikipedia links: "Siły zbrojne" batch 2 (§53)
 - [ ] Wikipedia links: more place batches; "Siły zbrojne" batches; glossary batch 2 (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices

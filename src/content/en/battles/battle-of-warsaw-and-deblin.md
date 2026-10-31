@@ -11,7 +11,7 @@ sides:
     commanders: [Grand Duke Nicholas Nikolaevich, Nikolai Ivanov, Nikolai Ruzsky]
 result: Russian victory. The Germans failed to take Warsaw and the Austrians the crossings at Dęblin. The Central Powers' armies withdrew towards the Silesian border and Kraków.
 source: bitwa-pod-warszawa-i-deblinem
-sourceHash: f1ca18039fe42816dce929209979ad920d3f20ee
+sourceHash: b2c8e64301ef0eb34f0f75dfc4aa1effb5f3ddf7
 brief:
   - "The Battle of Warsaw and Dęblin, fought from 28 September to 8 November 1914, was one of the largest operations of 1914 on the Eastern Front and the first great battle in the heart of the Kingdom of Poland."
   - "After Austria-Hungary's defeat in Galicia the Germans formed Hindenburg's 9th Army, which with Dankl's Austro-Hungarian 1st Army struck through the Kingdom of Poland to draw the Russians away from Galicia."
@@ -20,7 +20,7 @@ brief:
   - "It was the first serious defeat of Hindenburg and Ludendorff in the east. The Russians recovered almost the whole Kingdom of Poland, but the destroyed railways kept them from entering Silesia straight away."
 ---
 
-The [Battle of Warsaw and Ivangorod](https://pl.wikipedia.org/wiki/Bitwa_pod_Warszawą_i_Iwangorodem), also called the Battle of Warsaw and Dęblin, was one of the largest operations of 1914 on the Eastern Front and the first great battle of this war fought in the heart of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Ivangorod was the Russian name of the time for the [Dęblin fortress](https://pl.wikipedia.org/wiki/Twierdza_Dęblin) at the confluence of the Wieprz and the Vistula. At the end of September the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) and the Austro-Hungarian [1st Army](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)) set out from Silesia and western Galicia to the north-east to draw the Russians away from the defeated Habsburg army. They reached the Vistula, and German units stood a dozen or so kilometres from Warsaw. The Russians, however, assembled much larger forces here, crossed the Vistula and forced the enemy to retreat, a retreat that halted only near the borders of Silesia and outside Kraków.
+The [Battle of Warsaw and Ivangorod](https://pl.wikipedia.org/wiki/Bitwa_pod_Warszawą_i_Iwangorodem), also called the Battle of Warsaw and Dęblin, was one of the largest operations of 1914 on the Eastern Front and the first great battle of this war fought in the heart of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Ivangorod was the Russian name of the time for the [Dęblin fortress](https://pl.wikipedia.org/wiki/Twierdza_Dęblin) at the confluence of the Wieprz and the Vistula. At the end of September the German [9th Army](/sily-zbrojne/9-armia-niemiecka) and the Austro-Hungarian [1st Army](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)) set out from Silesia and western Galicia to the north-east to draw the Russians away from the defeated Habsburg army. They reached the Vistula, and German units stood a dozen or so kilometres from Warsaw. The Russians, however, assembled much larger forces here, crossed the Vistula and forced the enemy to retreat, a retreat that halted only near the borders of Silesia and outside Kraków.
 
 ## Name and dates
 

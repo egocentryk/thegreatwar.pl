@@ -2,10 +2,10 @@
 title: Britain guarantees protection of the French coast
 summary: On 2 August 1914 the British government promised France that the Royal Navy would defend its coasts against the German fleet in the North Sea and the Channel.
 source: wielka-brytania-gwarantuje-ochrone-francuskich-wybrzezy
-sourceHash: 528f151829f16577e17a362a8c58c1a8d1cb2806
+sourceHash: 14e0342a8553cfbccc48ed0675a49dceb892f305
 ---
 
-On 2 August 1914, after an almost three-hour stormy discussion, the British cabinet authorised the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), to give France an important promise. In the afternoon Grey informed the French ambassador, [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), that if the German fleet came into the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) or through the [English Channel](https://pl.wikipedia.org/wiki/La_Manche) to attack French coasts or shipping, the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) would give France all the protection in its power.
+On 2 August 1914, after an almost three-hour stormy discussion, the British cabinet authorised the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), to give France an important promise. In the afternoon Grey informed the French ambassador, [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), that if the German fleet came into the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) or through the [English Channel](https://pl.wikipedia.org/wiki/La_Manche) to attack French coasts or shipping, the [Royal Navy](/sily-zbrojne/royal-navy) would give France all the protection in its power.
 
 The commitment arose from agreements made before the war. Since 1912 the two states had agreed a division of tasks at sea: the main forces of the French fleet were concentrated in the Mediterranean, while the British were to watch over the northern waters. As a result the northern and western coasts of [France](/kraje/francja) were left almost without protection of their own. Paris argued that London had a moral obligation to defend them.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-10 września 1914 roku [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) i sąsiednie armie francuskie posuwały się na północ za cofającymi się Niemcami. Walki toczyły się już tylko ze strażami tylnymi, osłaniającymi odwrót niemieckiej 1 i 2 Armii. Brytyjska chronologia wojny uznaje ten dzień za koniec [bitwy nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), największej i najważniejszej bitwy 1914 roku.
+10 września 1914 roku [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) i sąsiednie armie francuskie posuwały się na północ za cofającymi się Niemcami. Walki toczyły się już tylko ze strażami tylnymi, osłaniającymi odwrót niemieckiej 1 i 2 Armii. Brytyjska chronologia wojny uznaje ten dzień za koniec [bitwy nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), największej i najważniejszej bitwy 1914 roku.
 
 ## Pościg
 

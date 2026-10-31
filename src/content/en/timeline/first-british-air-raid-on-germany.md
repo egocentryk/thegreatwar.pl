@@ -2,10 +2,10 @@
 title: First British air raid on Germany
 summary: On 22 September 1914 Royal Naval Air Service airmen took off from Antwerp to bomb the airship sheds at Düsseldorf and Cologne. Fog got in their way.
 source: pierwszy-brytyjski-nalot-na-niemcy
-sourceHash: 2918a12fcdb10039f1ed18b19cf86856e47ab0be
+sourceHash: 6654ed4ebbf5c5c9c0fff3e59d5d5e836bb1cfd7
 ---
 
-On 22 September 1914 British airmen carried out the first raid of this war on German territory. Four aircraft of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the air arm of the Royal Navy, took off from [Antwerp](/miejsca/antwerpia) to bomb the [airship](/slownik/sterowiec) sheds at [Düsseldorf](https://pl.wikipedia.org/wiki/Düsseldorf) and [Cologne](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)).
+On 22 September 1914 British airmen carried out the first raid of this war on German territory. Four aircraft of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), the air arm of the Royal Navy, took off from [Antwerp](/miejsca/antwerpia) to bomb the [airship](/slownik/sterowiec) sheds at [Düsseldorf](https://pl.wikipedia.org/wiki/Düsseldorf) and [Cologne](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)).
 
 ## Hunting zeppelins
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 16 listopada 1914 roku początek drugiej niemieckiej ofensywy na Warszawę i bitwy pod Łodzią. Tego dnia niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Augusta von Mackensena](/postacie/august-von-mackensen), która od pięciu dni posuwała się znad Wisły w głąb Królestwa Polskiego, przekroczyła [Bzurę](https://pl.wikipedia.org/wiki/Bzura). Rosyjska 2 Armia cofała się w stronę [Łodzi](https://pl.wikipedia.org/wiki/Łódź), a walki zaczęły się przenosić na przedpola miasta.
+Brytyjska chronologia wojny notuje pod datą 16 listopada 1914 roku początek drugiej niemieckiej ofensywy na Warszawę i bitwy pod Łodzią. Tego dnia niemiecka [9 Armia](/sily-zbrojne/9-armia-niemiecka) generała [Augusta von Mackensena](/postacie/august-von-mackensen), która od pięciu dni posuwała się znad Wisły w głąb Królestwa Polskiego, przekroczyła [Bzurę](https://pl.wikipedia.org/wiki/Bzura). Rosyjska 2 Armia cofała się w stronę [Łodzi](https://pl.wikipedia.org/wiki/Łódź), a walki zaczęły się przenosić na przedpola miasta.
 
 ## Dlaczego 16 listopada
 

@@ -2,7 +2,7 @@
 title: Germans lay mines in the open sea. The sinking of the Königin Luise
 summary: On 5 August 1914 British destroyers sank the German minelayer Königin Luise off Suffolk. A day later her mines sank HMS Amphion.
 source: niemcy-stawiaja-miny-na-otwartym-morzu-koenigin-luise-zatopiona
-sourceHash: 4a8e278782a1eeb5bdf104bbc4a290d4e5e2a626
+sourceHash: e306917aed8e43b632ac88e341974ac0dfed42dc
 ---
 
 During the night of 4–5 August 1914, only a few hours after Great Britain's declaration of war, the German ship *Königin Luise* laid a minefield in the open [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), about 30 miles off the coast of [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), east of [Southwold](https://pl.wikipedia.org/wiki/Southwold). The mines threatened the shipping lanes leading to the mouth of the [Thames](https://pl.wikipedia.org/wiki/Tamiza) and to the British ports on the east coast.
@@ -13,7 +13,7 @@ During the night of 4–5 August 1914, only a few hours after Great Britain's de
 
 ## The first shot
 
-On the morning of 5 August the suspicious ship was spotted by fishermen and then by ships of the British 3rd Destroyer Flotilla from Harwich, led by the cruiser HMS *Amphion*. At about 11 a.m. the destroyer HMS *Lance* opened fire. This is thought to have been the first shot fired by the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) in the war. After a short chase and bombardment *Königin Luise* capsized and sank shortly after noon. The British rescued several dozen members of the German crew and took them aboard *Amphion*.
+On the morning of 5 August the suspicious ship was spotted by fishermen and then by ships of the British 3rd Destroyer Flotilla from Harwich, led by the cruiser HMS *Amphion*. At about 11 a.m. the destroyer HMS *Lance* opened fire. This is thought to have been the first shot fired by the [Royal Navy](/sily-zbrojne/royal-navy) in the war. After a short chase and bombardment *Königin Luise* capsized and sank shortly after noon. The British rescued several dozen members of the German crew and took them aboard *Amphion*.
 
 ## Victims of the mines
 

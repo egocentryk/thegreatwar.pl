@@ -2,10 +2,10 @@
 title: Battle of Sanok and Rzeszów begins
 summary: On 8 May 1915 the Russians, driven from the Wisłoka, tried to halt the Central Powers' pursuit on the Wisłok. They were to die in their positions, not retreat.
 source: poczatek-bitwy-pod-sanokiem-i-rzeszowem
-sourceHash: 8fa0ddaae930961bd8e91f46febebc5cd33bb84f
+sourceHash: 9ce51263a5081fe256b768744f8ae565b9c2b9b3
 ---
 
-On 8 May 1915, according to the British chronology of the war, the Battle of Sanok and Rzeszów began in Galicia. It was the second phase of the offensive that German and Austro-Hungarian troops had begun a week earlier [at Gorlice](/bitwy/bitwa-pod-gorlicami). The Russian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)), shattered there, was retreating eastwards, and its commander, General [Radko Dimitriev](/postacie/radko-dimitriew), was trying to halt the pursuit on a new line, based on the [Wisłok](https://pl.wikipedia.org/wiki/Wisłok) and the hills between the Wisłok and the Vistula. On 8 May the Central Powers attacked this line along its entire length.
+On 8 May 1915, according to the British chronology of the war, the Battle of Sanok and Rzeszów began in Galicia. It was the second phase of the offensive that German and Austro-Hungarian troops had begun a week earlier [at Gorlice](/bitwy/bitwa-pod-gorlicami). The Russian [Third Army](/sily-zbrojne/3-armia-rosyjska), shattered there, was retreating eastwards, and its commander, General [Radko Dimitriev](/postacie/radko-dimitriew), was trying to halt the pursuit on a new line, based on the [Wisłok](https://pl.wikipedia.org/wiki/Wisłok) and the hills between the Wisłok and the Vistula. On 8 May the Central Powers attacked this line along its entire length.
 
 The dates of this battle are conventional. The Austrian historian Ernst Joly, who described the campaign in 1922 for the Encyclopaedia Britannica, spoke of "the pursuit and the battles of Sanok and Rzeszów" on 6–11 May, and took the capture of Rzeszów on the night of 11–12 May as their end. The British chronology uses the dates 8–14 May. Polish historiography usually describes this fighting as part of the Gorlice operation, without a separate name.
 

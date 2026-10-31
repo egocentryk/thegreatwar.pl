@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-5 maja 1915 roku, późnym wieczorem, sztab rosyjskiej [3 Armii](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) wydał rozkaz odwrotu całej armii za [Wisłokę](https://pl.wikipedia.org/wiki/Wisłoka). Cztery dni po [przełamaniu pod Gorlicami](/poczatek-bitwy-pod-gorlicami) rosyjska obrona na pogórzu między Wisłą a Beskidem Niskim rozpadła się, a nowe dywizje, rzucane do walki prosto z pociągów, nie zdołały jej odbudować. Według brytyjskiej chronologii tego dnia zakończyła się bitwa pod Gorlicami i Tarnowem. Dla Rosjan był to dopiero początek długiego odwrotu.
+5 maja 1915 roku, późnym wieczorem, sztab rosyjskiej [3 Armii](/sily-zbrojne/3-armia-rosyjska) wydał rozkaz odwrotu całej armii za [Wisłokę](https://pl.wikipedia.org/wiki/Wisłoka). Cztery dni po [przełamaniu pod Gorlicami](/poczatek-bitwy-pod-gorlicami) rosyjska obrona na pogórzu między Wisłą a Beskidem Niskim rozpadła się, a nowe dywizje, rzucane do walki prosto z pociągów, nie zdołały jej odbudować. Według brytyjskiej chronologii tego dnia zakończyła się bitwa pod Gorlicami i Tarnowem. Dla Rosjan był to dopiero początek długiego odwrotu.
 
 ## Druga i trzecia pozycja
 

@@ -2,7 +2,7 @@
 title: Germans retreat from the Marne
 summary: On 9 September 1914 the German 1st and 2nd Armies began to retreat from the Marne, sealed by Moltke's envoy Hentsch. The plan for a quick victory failed.
 source: niemcy-wycofuja-sie-znad-marny
-sourceHash: 839c0c613a7db54ee3c581ffa98bd3cb65d81f1f
+sourceHash: 75c5c50f49ac395db5d7615a49db436a7c5ac4f1
 brief:
   - "On 9 September 1914 General Karl von Bülow's German 2nd Army, and a few hours later General Alexander von Kluck's 1st Army, began to withdraw from the Marne. That day the Battle of the Marne was decided."
   - "Kluck had moved corps to the Ourcq against Maunoury's 6th Army, opening a gap some 40–50 kilometres wide between him and Bülow. The British and the left wing of the French 5th Army were entering it."
@@ -17,7 +17,7 @@ On 9 September 1914 the armies of the German right wing began to withdraw from t
 
 Three days earlier, [on 6 September](/poczatek-bitwy-nad-marna), the French and British had gone over to a counter-offensive along the whole front from Paris to Verdun. The most dangerous blow for the Germans proved to be the one on the western wing. The French 6th Army of General Michel-Joseph Maunoury attacked from the direction of Paris into the flank of the 1st Army on the River Ourcq. To repel this attack, Kluck took corps after corps away from the Marne and moved them north-west, [to the Ourcq](/bitwy/bitwa-nad-ourcq). He did well there and even began to threaten Maunoury's left wing, but he paid a high price for it.
 
-A gap some 40–50 kilometres wide opened between his 1st Army and Bülow's 2nd Army. It was covered only by cavalry corps and a few Jäger battalions. From the south the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) was entering it, and beside it the left wing of the French 5th Army of General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey). They advanced cautiously, but every step they took threatened to cut the German front in two.
+A gap some 40–50 kilometres wide opened between his 1st Army and Bülow's 2nd Army. It was covered only by cavalry corps and a few Jäger battalions. From the south the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) was entering it, and beside it the left wing of the French 5th Army of General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey). They advanced cautiously, but every step they took threatened to cut the German front in two.
 
 ## Moltke in Luxembourg
 

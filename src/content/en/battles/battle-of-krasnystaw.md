@@ -9,10 +9,10 @@ sides:
     commanders: [Mikhail Alekseyev, Leonid Lesh, Vladimir Bezobrazov]
 result: Victory for the Central Powers. The Germans took Krasnystaw and a bridgehead on the east bank of the Wieprz, but did not destroy the Russian Third Army, which during the night of 18–19 July fell back to the next line in front of the Lublin–Chełm railway.
 source: bitwa-pod-krasnymstawem
-sourceHash: b252bb3baaa2dd5689bf4b13f941a0658be356b9
+sourceHash: 9100e38cda8296db195bb5562fe2ba0c355fbdb5
 ---
 
-The Battle of Krasnystaw was the first major clash of the second phase of the Central Powers' summer offensive between the Vistula and the Bug. On 16 July 1915 the German [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)) of Field Marshal [August von Mackensen](/postacie/august-von-mackensen), spearheaded by the Prussian Guard, attacked the Russian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)). The objective was the railway from Ivangorod through Lublin to Chełm, the main supply line of the Russian armies in the Kingdom of Poland. In three days the Germans took successive lines of trenches, captured about 15,000 prisoners and seized [Krasnystaw](https://pl.wikipedia.org/wiki/Krasnystaw). The Russians, reinforced by their Guard, nevertheless refused to be broken, and during the night of 18–19 July they withdrew to previously prepared positions closer to the railway.
+The Battle of Krasnystaw was the first major clash of the second phase of the Central Powers' summer offensive between the Vistula and the Bug. On 16 July 1915 the German [Eleventh Army](/sily-zbrojne/11-armia-niemiecka) of Field Marshal [August von Mackensen](/postacie/august-von-mackensen), spearheaded by the Prussian Guard, attacked the Russian [Third Army](/sily-zbrojne/3-armia-rosyjska) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)). The objective was the railway from Ivangorod through Lublin to Chełm, the main supply line of the Russian armies in the Kingdom of Poland. In three days the Germans took successive lines of trenches, captured about 15,000 prisoners and seized [Krasnystaw](https://pl.wikipedia.org/wiki/Krasnystaw). The Russians, reinforced by their Guard, nevertheless refused to be broken, and during the night of 18–19 July they withdrew to previously prepared positions closer to the railway.
 
 ## Name and dates
 

@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: Canadian tactical victory. The Canadian Corps took the village of Passchendaele and the highest part of the ridge, but the offensive halted short of Westrozebeke, and the salient won was narrow, waterlogged and under fire from three sides.
 source: druga-bitwa-pod-passchendaele
-sourceHash: e7bcd36a495026996846e14d5b21d9fab9275e38
+sourceHash: 6250cbbcaf7a41d72219296f594e1b345a2fc9e9
 brief:
   - "The Second Battle of Passchendaele, fought from 26 October to 10 November 1917, was the final act of the Third Battle of Ypres. It was fought almost entirely by General Arthur Currie's Canadian Corps."
   - "After the bloody failures of 9 and 12 October Haig nevertheless resolved to take the village on the ridge, so his army could winter on higher ground. Currie predicted it would cost 16,000 killed and wounded."
@@ -42,7 +42,7 @@ Currie wanted to attack on 24 and then on 29 October. Haig pressed for haste, an
 
 ## German defence
 
-The ridge was defended by Group "Ypern" of the German [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) of General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin), part of the army group of Crown Prince [Rupprecht](/postacie/rupprecht-bawarski) of Bavaria. At first the 11th Bavarian Infantry Division faced the Canadians, followed in turn by the 238th, 39th, 11th and 4th Divisions and the 44th Reserve Division. After the defeat at Broodseinde, where the densely held front lines had been shattered by British artillery, the Fourth Army introduced a "forefield" by an order of 7 October: the first line of craters was to be held only by scattered outposts with light machine guns, while the main line of resistance ran 500–1,000 metres further back. The forefield was defended by machine-gun nests in craters and by concrete shelters, which the British called *pillboxes*. Their walls, a metre and a half thick, could be broken only by a direct hit from a heavy howitzer shell. Behind each front-line division stood a counter-attack division.
+The ridge was defended by Group "Ypern" of the German [Fourth Army](/sily-zbrojne/4-armia-niemiecka) of General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin), part of the army group of Crown Prince [Rupprecht](/postacie/rupprecht-bawarski) of Bavaria. At first the 11th Bavarian Infantry Division faced the Canadians, followed in turn by the 238th, 39th, 11th and 4th Divisions and the 44th Reserve Division. After the defeat at Broodseinde, where the densely held front lines had been shattered by British artillery, the Fourth Army introduced a "forefield" by an order of 7 October: the first line of craters was to be held only by scattered outposts with light machine guns, while the main line of resistance ran 500–1,000 metres further back. The forefield was defended by machine-gun nests in craters and by concrete shelters, which the British called *pillboxes*. Their walls, a metre and a half thick, could be broken only by a direct hit from a heavy howitzer shell. Behind each front-line division stood a counter-attack division.
 
 ## Course: 26–28 October
 

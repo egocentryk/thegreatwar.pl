@@ -2,14 +2,14 @@
 title: German gas attack at Bolimów
 summary: On 31 January 1915 the Germans attacked the Russians at Bolimów, firing 18,000 shells filled with tear gas. In the frost the gas had almost no effect.
 source: niemiecki-atak-gazowy-pod-bolimowem
-sourceHash: ec868aa5f010828c8ddc6d9e2f6e8b89cf48726d
+sourceHash: 977e04363501709d78cf0f1b3bf3bc15f2f2f871
 ---
 
 On the morning of 31 January 1915 German artillery opened fire on the Russian trenches on the [Rawka](https://pl.wikipedia.org/wiki/Rawka_(rzeka)), near [Bolimów](https://pl.wikipedia.org/wiki/Bolimów). Among the ordinary shells, about 18,000 shells filled with a tear agent fell on the Russian positions. It was the first attack of this war in which chemical weapons were used on such a scale. It ended in failure: in the frosty air the gas hardly evaporated.
 
 ## A new attack on the Rawka
 
-Since mid-December 1914 the front on the Bzura and the Rawka had [stood almost still](/poczatek-walk-nad-rawka-i-bzura). At the end of January General [August von Mackensen](/postacie/august-von-mackensen)'s German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) was given the task of making a strong attack in this sector. It was no longer only about the road to Warsaw. The command of the Eastern Front, Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) and General Erich Ludendorff, was preparing a great offensive in East Prussia for the beginning of February. The attack at Bolimów was meant to draw in the Russian reserves and divert attention from Masuria.
+Since mid-December 1914 the front on the Bzura and the Rawka had [stood almost still](/poczatek-walk-nad-rawka-i-bzura). At the end of January General [August von Mackensen](/postacie/august-von-mackensen)'s German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) was given the task of making a strong attack in this sector. It was no longer only about the road to Warsaw. The command of the Eastern Front, Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) and General Erich Ludendorff, was preparing a great offensive in East Prussia for the beginning of February. The attack at Bolimów was meant to draw in the Russian reserves and divert attention from Masuria.
 
 On a narrow sector between [Humin](https://pl.wikipedia.org/wiki/Humin) and [Wola Szydłowiecka](https://pl.wikipedia.org/wiki/Wola_Szydłowiecka) the Germans concentrated several divisions of General Kurt von Morgen's I Reserve Corps and of XVII Corps. According to Russian accounts they were supported by about 600 guns, including heavy howitzers and two Austro-Hungarian 305 mm mortars. Facing them stood the divisions of the Russian VI Corps of General [Vasily Gurko](https://pl.wikipedia.org/wiki/Wasilij_Gurko), part of General Vladimir Smirnov's [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)).
 

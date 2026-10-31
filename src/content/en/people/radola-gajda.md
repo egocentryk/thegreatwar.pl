@@ -6,7 +6,7 @@ country: Czechoslovakia
 birthPlace: Kotor (Dalmatia, Austria)
 deathPlace: Prague
 source: radola-gajda
-sourceHash: dcaa796a03a27ec3b96df41253e81390b48fb4bd
+sourceHash: 7b916516316bc103822878aa9ea3d092b2dff539
 ---
 
 Radola Gajda was the most daring and the most controversial commander of the Czechoslovak forces in Russia. In 1915 he was serving as a reservist in the Austro-Hungarian army, and by September 1918, at the age of 26, he was a general. In the spring and summer of 1918 his troops seized the central section of the Trans-Siberian Railway and fought their way east beyond Lake Baikal. He later entered the service of Admiral [Alexander Kolchak](/postacie/aleksandr-kolczak), took Perm in December 1918 and commanded the Siberian Army. His life story, full of changed names, false titles and sudden reversals, ends less gloriously: in independent Czechoslovakia he became the leader of the fascist movement.
@@ -19,7 +19,7 @@ After the outbreak of war he was called up into the Austro-Hungarian army, in wh
 
 ## Zborov
 
-At the beginning of 1917 he joined the Czechoslovak brigade in the Russian army. On 26 March he took command of a company in the 2nd Rifle Regiment. In the [Battle of Zborov](/bitwa-pod-zborowem) on 2 July 1917 he distinguished himself so much that, according to Czech biographers, during the attack he was in effect directing operations on its entire southern sector. For this battle he received the [Order of St. George](https://pl.wikipedia.org/wiki/Order_Świętego_Jerzego_(Imperium_Rosyjskie)), 4th class, and was rapidly promoted. When after Zborov the brigade grew into the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki), Gajda was among its most promising officers. On 28 March 1918, when the corps was already withdrawing from Ukraine before the Germans, he took command of the 7th Tatra Rifle Regiment.
+At the beginning of 1917 he joined the Czechoslovak brigade in the Russian army. On 26 March he took command of a company in the 2nd Rifle Regiment. In the [Battle of Zborov](/bitwa-pod-zborowem) on 2 July 1917 he distinguished himself so much that, according to Czech biographers, during the attack he was in effect directing operations on its entire southern sector. For this battle he received the [Order of St. George](https://pl.wikipedia.org/wiki/Order_Świętego_Jerzego_(Imperium_Rosyjskie)), 4th class, and was rapidly promoted. When after Zborov the brigade grew into the [Czechoslovak Legion](/sily-zbrojne/legion-czechoslowacki), Gajda was among its most promising officers. On 28 March 1918, when the corps was already withdrawing from Ukraine before the Germans, he took command of the 7th Tatra Rifle Regiment.
 
 ## Revolt on the railway
 

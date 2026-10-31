@@ -2,7 +2,7 @@
 title: Battle of Frezenberg Ridge begins
 summary: On 8 May 1915, after a hurricane bombardment, the Germans broke the British front on Frezenberg Ridge near Ypres. The last reserves closed the gap at night.
 source: poczatek-bitwy-o-grzbiet-frezenberg
-sourceHash: 27a007b3b8063682cc022bc3e6f9cbaeb52e7b38
+sourceHash: 2bf8a0c8e84aaea1672c8b679673a3b1414f9b05
 brief:
   - "At 5.30 a.m. on 8 May 1915 the German artillery began one of the heaviest bombardments of the Second Battle of Ypres. It struck hardest at the 28th Division on the exposed slope of Frezenberg Ridge."
   - "Four days earlier the British had withdrawn to a new, shorter line of shallow trenches without dugouts. The Germans overlooked it from higher ridges, and the British had only a dozen or so worn-out heavy guns."
@@ -17,7 +17,7 @@ At 5.30 a.m. on 8 May 1915 the German artillery opened fire on the British trenc
 
 Four days earlier the British had [withdrawn from the tip of the salient](/koniec-bitwy-pod-st-julien) to a new, shorter line. In the sector of General Edward Bulfin's 28th Division the trenches were narrow, less than a metre deep, without dugouts or communication trenches, and work on the wire had barely begun. The Germans could see them from the higher ridges near Zonnebeke and Gravenstafel and from 4 May shelled them methodically. On 5 May they tried to take them by assault but were repulsed. That same day they retook [Hill 60](/bitwy/walki-o-wzgorze-60), at the southern edge of the salient, with gas.
 
-There were also changes of command in the salient. On 6 May Field Marshal [John French](/postacie/john-french) removed the commander of the Second Army, General Horace Smith-Dorrien, and on 7 May General [Herbert Plumer](/postacie/herbert-plumer) took over the army. On the morning of 8 May Plumer ordered the troops to hold their positions stubbornly and not to count on reinforcements from the First Army, which was to begin its attack at Aubers the next day. The British had only a dozen or so heavy guns at Ypres, most of them obsolete and worn out, and little ammunition. Opposite them the German [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) had concentrated most of three corps and strong artillery.
+There were also changes of command in the salient. On 6 May Field Marshal [John French](/postacie/john-french) removed the commander of the Second Army, General Horace Smith-Dorrien, and on 7 May General [Herbert Plumer](/postacie/herbert-plumer) took over the army. On the morning of 8 May Plumer ordered the troops to hold their positions stubbornly and not to count on reinforcements from the First Army, which was to begin its attack at Aubers the next day. The British had only a dozen or so heavy guns at Ypres, most of them obsolete and worn out, and little ammunition. Opposite them the German [4th Army](/sily-zbrojne/4-armia-niemiecka) had concentrated most of three corps and strong artillery.
 
 ## The gap at Frezenberg
 

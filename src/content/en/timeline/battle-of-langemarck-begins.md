@@ -2,7 +2,7 @@
 title: Battle of Langemarck begins
 summary: On 21 October 1914 the British I Corps advanced from Ypres towards Bruges. It ran into new German reserve corps and went over to the defensive that same day.
 source: poczatek-bitwy-pod-langemarck
-sourceHash: 1d51ed39914048a6a501bff02ed0b7dda6e72779
+sourceHash: 762ac631a3a018a88879f637596cef0680912adc
 brief:
   - "On 21 October 1914 General Douglas Haig's British I Corps advanced from Ypres towards Langemarck and Poelkapelle, ordered to march as far as Bruges. British nomenclature dates the Battle of Langemarck from this day."
   - "Field Marshal Sir John French believed only one German corps faced him. In fact Albrecht of Württemberg's new 4th Army was approaching, and according to the British official history the Germans had five divisions against Haig's two."
@@ -17,7 +17,7 @@ On 21 October 1914 General [Douglas Haig](/postacie/douglas-haig)'s British I Co
 
 I Corps, made up of the 1st and 2nd Divisions, was the last of the corps of the British Expeditionary Force to arrive in Flanders from the Aisne. On the evening of 20 October the 2nd Division stood north-east of Ypres, on the line Frezenberg–Wieltje–Pilkem, while the head of the 1st Division had only reached Elverdinge, west of the town. The headquarters of Field Marshal [Sir John French](/postacie/john-french) ordered the corps to march towards Thourout (Torhout), capture Bruges and attack the enemy wherever met.
 
-French was convinced that only one German corps stood within striking distance. The British official history admits that the Commander-in-Chief either distrusted his own intelligence or underrated the new German reserve corps. The staffs of I and IV Corps, however, expected a strong enemy. North of Ypres the new German [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) was approaching, its core formed by [four new reserve corps](/niemcy-docieraja-do-wybrzeza-belgii). According to the British official history, on I Corps' sector the Germans had five divisions that day against Haig's two.
+French was convinced that only one German corps stood within striking distance. The British official history admits that the Commander-in-Chief either distrusted his own intelligence or underrated the new German reserve corps. The staffs of I and IV Corps, however, expected a strong enemy. North of Ypres the new German [4th Army](/sily-zbrojne/4-armia-niemiecka) of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) was approaching, its core formed by [four new reserve corps](/niemcy-docieraja-do-wybrzeza-belgii). According to the British official history, on I Corps' sector the Germans had five divisions that day against Haig's two.
 
 Haig planned the attack in two stages: first to the line Passendale–Poelkapelle, and then a few kilometres further north, through Westrozebeke. The 2nd Division was to wait until the 1st Division reached Langemarck at 7 a.m. The corps' left flank was to be covered by General de Mitry's four French cavalry divisions, standing on the edge of the forest at [Houthulst](https://pl.wikipedia.org/wiki/Houthulst), and by French territorial units in Langemarck.
 

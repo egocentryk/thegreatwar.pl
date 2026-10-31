@@ -11,7 +11,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Otto von Hügel]
 result: Inconclusive. The Germans took St. Julien and forced the Allies to shorten their front, but did not break through the defence or take Ypres.
 source: bitwa-pod-st-julien
-sourceHash: 5c8a5858a589c62ebed9626e73c86415fb740df1
+sourceHash: 17424d31d18644b050eabab5ae409aa1a3bd6e54
 brief:
   - "The Battle of St. Julien, fought from 24 April to 4 May 1915, was the second stage of the Second Battle of Ypres. It began at dawn with a German chlorine attack on the trenches of the 1st Canadian Division."
   - "The Canadians had no masks and covered their faces with wet handkerchiefs. They fell back, and in the afternoon of 24 April the Germans took the village of Sint-Juliaan, called St. Julien by the British."
@@ -32,7 +32,7 @@ The village of Sint-Juliaan now lies in the municipality of Langemark-Poelkapell
 
 On 22 April the Germans, for the first time on the Western Front, [released a cloud of chlorine](/poczatek-drugiej-bitwy-pod-ypres) on two French divisions on the northern edge of the Ypres salient. The French broke, and a gap several kilometres wide opened in the Allied front. Through the night and the following day [the Canadians counter-attacked](/poczatek-bitwy-o-grzbiet-gravenstafel) and, together with British battalions rushed up in haste, built a new, thin line from their old front to the Ypres–Yser canal. The front of General Edwin Alderson's 1st Canadian Division now bent into a sharp wedge. Its apex lay at the crossroads at Keerselare, on the road from Sint-Juliaan to Poelkapelle. To the east of it, towards Gravenstafel Ridge, stood General [Arthur Currie](/postacie/arthur-currie)'s 2nd Brigade, and to the west, towards Sint-Juliaan, General Richard Turner's depleted 3rd Brigade.
 
-The German [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) under [Albrecht, Duke of Württemberg](/postacie/albrecht-wirtemberski) decided to exploit its success and eliminate the salient. General Otto von Hügel's XXVI Reserve Corps, with the 51st and 52nd Reserve Divisions, was assigned to the attack on the Canadians. Engineers placed gas cylinders opposite the Canadian apex.
+The German [4th Army](/sily-zbrojne/4-armia-niemiecka) under [Albrecht, Duke of Württemberg](/postacie/albrecht-wirtemberski) decided to exploit its success and eliminate the salient. General Otto von Hügel's XXVI Reserve Corps, with the 51st and 52nd Reserve Divisions, was assigned to the attack on the Canadians. Engineers placed gas cylinders opposite the Canadian apex.
 
 ## Course of the fighting
 

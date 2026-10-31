@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 września 1914 roku [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) zakończył odwrót, który rozpoczął się po bitwie pod Mons. Zmęczone brytyjskie dywizje zatrzymały się na południowy wschód od Paryża, za rzekami [Marną](https://pl.wikipedia.org/wiki/Marna) i [Grand Morin](https://pl.wikipedia.org/wiki/Grand_Morin), w okolicach Tournan-en-Brie, niedaleko [Melun](https://pl.wikipedia.org/wiki/Melun). Następnego dnia te same oddziały miały zawrócić i ruszyć na północ.
+5 września 1914 roku [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) zakończył odwrót, który rozpoczął się po bitwie pod Mons. Zmęczone brytyjskie dywizje zatrzymały się na południowy wschód od Paryża, za rzekami [Marną](https://pl.wikipedia.org/wiki/Marna) i [Grand Morin](https://pl.wikipedia.org/wiki/Grand_Morin), w okolicach Tournan-en-Brie, niedaleko [Melun](https://pl.wikipedia.org/wiki/Melun). Następnego dnia te same oddziały miały zawrócić i ruszyć na północ.
 
 ## Dwa tygodnie marszu
 

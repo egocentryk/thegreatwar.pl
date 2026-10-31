@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 30 listopada 1914 roku początek bitwy pod Łowiczem i Sannikami. Nazwa i data pochodzą z niemieckiego urzędowego wykazu bitew. Tego dnia lewe skrzydło niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) rozpoczęło natarcie na pozycje rosyjskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) na północ i północny zachód od [Łowicza](https://pl.wikipedia.org/wiki/Łowicz), w rejonie między Wisłą a [Bzurą](https://pl.wikipedia.org/wiki/Bzura). W polskiej tradycji te walki nazywa się zwykle [bitwą nad Bzurą](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)).
+Brytyjska chronologia wojny notuje pod datą 30 listopada 1914 roku początek bitwy pod Łowiczem i Sannikami. Nazwa i data pochodzą z niemieckiego urzędowego wykazu bitew. Tego dnia lewe skrzydło niemieckiej [9 Armii](/sily-zbrojne/9-armia-niemiecka) rozpoczęło natarcie na pozycje rosyjskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) na północ i północny zachód od [Łowicza](https://pl.wikipedia.org/wiki/Łowicz), w rejonie między Wisłą a [Bzurą](https://pl.wikipedia.org/wiki/Bzura). W polskiej tradycji te walki nazywa się zwykle [bitwą nad Bzurą](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)).
 
 ## Po kryzysie pod Łodzią
 

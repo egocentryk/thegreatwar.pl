@@ -2,10 +2,10 @@
 title: Battles of Stryj and Drohobycz begin
 summary: In mid-May 1915 the South Army came down from the Carpathians to Stryj and Drohobycz. The Russians stood there on a new line and repulsed attack after attack.
 source: poczatek-bitew-pod-stryjem-i-drohobyczem
-sourceHash: 850bf8cd08630045bba2bd2b0ecfea1ce3dbbda3
+sourceHash: 951b182473889de26115d2399021214ea04a1329
 ---
 
-The British chronology of the war records under 18 May 1915 the beginning of the battles of Stryj and Drohobycz. Behind this lies the fighting of the German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen), which after the breakthrough at Gorlice came down from the Carpathians into the foothills and ran into a new Russian defensive line in front of [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)), [Dolina](https://pl.wikipedia.org/wiki/Dolina_(miasto)) and [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz). According to the Austrian official history, the first attacks on this line began as early as 16 May, and 18 May was the third day of attacks that brought no decision.
+The British chronology of the war records under 18 May 1915 the beginning of the battles of Stryj and Drohobycz. Behind this lies the fighting of the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen), which after the breakthrough at Gorlice came down from the Carpathians into the foothills and ran into a new Russian defensive line in front of [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)), [Dolina](https://pl.wikipedia.org/wiki/Dolina_(miasto)) and [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz). According to the Austrian official history, the first attacks on this line began as early as 16 May, and 18 May was the third day of attacks that brought no decision.
 
 ## From the Carpathians to the foothills
 

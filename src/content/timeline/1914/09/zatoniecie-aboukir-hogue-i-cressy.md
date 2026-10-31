@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rano 22 września 1914 roku na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), u wybrzeży Holandii, niemiecki okręt podwodny [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) zatopił kolejno trzy brytyjskie [krążowniki pancerne](https://pl.wikipedia.org/wiki/Krążownik_pancerny): [Aboukir](https://pl.wikipedia.org/wiki/HMS_Aboukir_(1900)), [Hogue](https://pl.wikipedia.org/wiki/HMS_Hogue_(1900)) i [Cressy](https://pl.wikipedia.org/wiki/HMS_Cressy_(1899)). Cała akcja trwała nieco ponad godzinę. Zginęło 1459 marynarzy, więcej niż w bitwie pod Trafalgarem. Była to jedna z najcięższych klęsk [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w tej wojnie i pierwsze wielkie zwycięstwo niemieckich U-Bootów.
+Rano 22 września 1914 roku na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), u wybrzeży Holandii, niemiecki okręt podwodny [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) zatopił kolejno trzy brytyjskie [krążowniki pancerne](https://pl.wikipedia.org/wiki/Krążownik_pancerny): [Aboukir](https://pl.wikipedia.org/wiki/HMS_Aboukir_(1900)), [Hogue](https://pl.wikipedia.org/wiki/HMS_Hogue_(1900)) i [Cressy](https://pl.wikipedia.org/wiki/HMS_Cressy_(1899)). Cała akcja trwała nieco ponad godzinę. Zginęło 1459 marynarzy, więcej niż w bitwie pod Trafalgarem. Była to jedna z najcięższych klęsk [Royal Navy](/sily-zbrojne/royal-navy) w tej wojnie i pierwsze wielkie zwycięstwo niemieckich U-Bootów.
 
 ## „Eskadra żywej przynęty”
 

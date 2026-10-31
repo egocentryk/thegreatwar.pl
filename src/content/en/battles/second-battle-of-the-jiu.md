@@ -9,10 +9,10 @@ sides:
     commanders: [Paraschiv Vasilescu]
 result: Central Powers victory. The Romanian 1st Division and the 17th Division sent to its aid were routed, and the German 9th Army emerged from the mountains onto the Oltenian plain.
 source: druga-bitwa-nad-jiu
-sourceHash: 6c7e20f21c02fd82793b4d0c17d7a3a7386fccce
+sourceHash: cf6fede82851b43210ac3ddd9175d10c188198e9
 ---
 
-The Second Battle of the Jiu decided the fate of western Wallachia. Throughout October 1916 the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) tried in vain to cross the passes of the [Southern Carpathians](https://pl.wikipedia.org/wiki/Karpaty_Południowe). In November it therefore concentrated its forces on the westernmost sector of the front, in the valley of the river [Jiu](https://pl.wikipedia.org/wiki/Jiu). From 11 November General Viktor Kühne's German LIV Corps fought its way out of the mountains, on 15 November it entered [Târgu Jiu](https://pl.wikipedia.org/wiki/Târgu_Jiu), and on 17 November, in the foothills south of the town, it routed the last Romanian divisions barring its way. From there German cavalry and infantry moved out onto the plain of [Oltenia](https://pl.wikipedia.org/wiki/Oltenia), and the whole Romanian defence of the Carpathians began to crumble.
+The Second Battle of the Jiu decided the fate of western Wallachia. Throughout October 1916 the German [9th Army](/sily-zbrojne/9-armia-niemiecka) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) tried in vain to cross the passes of the [Southern Carpathians](https://pl.wikipedia.org/wiki/Karpaty_Południowe). In November it therefore concentrated its forces on the westernmost sector of the front, in the valley of the river [Jiu](https://pl.wikipedia.org/wiki/Jiu). From 11 November General Viktor Kühne's German LIV Corps fought its way out of the mountains, on 15 November it entered [Târgu Jiu](https://pl.wikipedia.org/wiki/Târgu_Jiu), and on 17 November, in the foothills south of the town, it routed the last Romanian divisions barring its way. From there German cavalry and infantry moved out onto the plain of [Oltenia](https://pl.wikipedia.org/wiki/Oltenia), and the whole Romanian defence of the Carpathians began to crumble.
 
 ## Name and dates
 

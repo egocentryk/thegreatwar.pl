@@ -2,7 +2,7 @@
 title: Battle of La Bassée begins
 summary: On 10 October 1914 the British II Corps, moved from the Aisne, marched towards Béthune and La Bassée. So began the British fighting in Flanders.
 source: poczatek-bitwy-pod-la-bassee
-sourceHash: f197791d3f212581237918eb21baa2a614af44e0
+sourceHash: 5cbbd9abc13b3abf96e0e70d3edeae3103c75e2d
 brief:
   - "On 10 October 1914, according to the official British chronology, the Battle of La Bassée began. General Horace Smith-Dorrien's British II Corps, freshly moved from the Aisne, was marching towards Béthune."
   - "North of the French Tenth Army's left wing there were only French cavalry and Territorial divisions. Foch and Field Marshal John French agreed at Doullens on a joint advance, with the British to outflank Lille from the north."
@@ -14,7 +14,7 @@ On 10 October 1914, according to the official British chronology, the Battle of 
 
 ## The British in the north
 
-From the beginning of October the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) had been secretly [leaving the Aisne front](/bef-opuszcza-aisne). II Corps, made up of the 3rd and 5th Divisions, arrived by train in the [Abbeville](https://pl.wikipedia.org/wiki/Abbeville_(Francja)) area on 8 and 9 October. The commander of the British army, Field Marshal [John French](/postacie/john-french), did not wait for the whole army to assemble. On the evening of 8 October he ordered Smith-Dorrien to move east the next day and reach the left wing of the French Tenth Army near [Béthune](https://pl.wikipedia.org/wiki/Béthune).
+From the beginning of October the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) had been secretly [leaving the Aisne front](/bef-opuszcza-aisne). II Corps, made up of the 3rd and 5th Divisions, arrived by train in the [Abbeville](https://pl.wikipedia.org/wiki/Abbeville_(Francja)) area on 8 and 9 October. The commander of the British army, Field Marshal [John French](/postacie/john-french), did not wait for the whole army to assemble. On the evening of 8 October he ordered Smith-Dorrien to move east the next day and reach the left wing of the French Tenth Army near [Béthune](https://pl.wikipedia.org/wiki/Béthune).
 
 The situation in the north was uncertain. The French Tenth Army had just [held Arras](/koniec-bitwy-pod-arras), but its left wing ended at Vermelles, south of the La Bassée Canal. Further north, as far as Dunkirk, there were only French cavalry and Territorial divisions, while German cavalry corps were ranging deep to the west. That same day [Antwerp](/kapitulacja-antwerpii) fell, freeing further forces for the Germans.
 

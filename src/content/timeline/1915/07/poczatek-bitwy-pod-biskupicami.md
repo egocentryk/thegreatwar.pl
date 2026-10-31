@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 lipca 1915 roku wojska feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) po kilkudniowej przerwie znów uderzyły na całym froncie między Wisłą a Bugiem. Najważniejszy cios zadała niemiecka [11 Armia](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)) na zachód od [Wieprza](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), w kierunku [Biskupic](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), dawnego miasteczka nad [Giełczewką](https://pl.wikipedia.org/wiki/Giełczewka), na południowy wschód od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Jeszcze tego dnia Niemcy przerwali rosyjskie linie i doszli do kolei z Lublina do [Chełma](https://pl.wikipedia.org/wiki/Chełm). Niemiecki spis bitew, a za nim brytyjska chronologia wojny, nazywa te walki bitwą pod Biskupicami. Trwała dwa dni.
+29 lipca 1915 roku wojska feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) po kilkudniowej przerwie znów uderzyły na całym froncie między Wisłą a Bugiem. Najważniejszy cios zadała niemiecka [11 Armia](/sily-zbrojne/11-armia-niemiecka) na zachód od [Wieprza](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), w kierunku [Biskupic](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), dawnego miasteczka nad [Giełczewką](https://pl.wikipedia.org/wiki/Giełczewka), na południowy wschód od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Jeszcze tego dnia Niemcy przerwali rosyjskie linie i doszli do kolei z Lublina do [Chełma](https://pl.wikipedia.org/wiki/Chełm). Niemiecki spis bitew, a za nim brytyjska chronologia wojny, nazywa te walki bitwą pod Biskupicami. Trwała dwa dni.
 
 ## Nowy plan Mackensena
 
@@ -19,7 +19,7 @@ Po zwycięstwie [pod Krasnymstawem](/bitwy/bitwa-pod-krasnymstawem) w połowie l
 
 Główne uderzenie miał poprowadzić generał [Otto von Emmich](https://pl.wikipedia.org/wiki/Otto_von_Emmich). Według austriackiej historii oficjalnej dostał siedem dywizji piechoty: dywizje XXII i X Korpusu Rezerwowego oraz X Korpusu, a także 119 Dywizję Piechoty. Do tego doszła dywizja kawalerii gwardii. Pruska gwardia i austro-węgierski VI Korpus na wschodnim brzegu Wieprza miały ruszyć dopiero wtedy, gdy klin Emmicha zacznie działać. Celem była kolej Lublin – Chełm, część [Kolei Nadwiślańskiej](https://pl.wikipedia.org/wiki/Kolej_Nadwiślańska). Po niej Rosjanie wywozili wojska i zapasy z Królestwa Polskiego.
 
-Naprzeciw stała rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała Leonida Lesza. W połowie lipca rosyjskie dowództwo wzmocniło ją dwoma korpusami z odwodu: [gwardią](https://pl.wikipedia.org/wiki/Gwardia_Imperium_Rosyjskiego) i II Korpusem Syberyjskim. Pod Biskupicami bronił się właśnie II Korpus Syberyjski.
+Naprzeciw stała rosyjska [3 Armia](/sily-zbrojne/3-armia-rosyjska) generała Leonida Lesza. W połowie lipca rosyjskie dowództwo wzmocniło ją dwoma korpusami z odwodu: [gwardią](https://pl.wikipedia.org/wiki/Gwardia_Imperium_Rosyjskiego) i II Korpusem Syberyjskim. Pod Biskupicami bronił się właśnie II Korpus Syberyjski.
 
 ## Przełamanie
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 listopada 1916 roku pierwszy lord Admiralicji [Arthur Balfour](/postacie/arthur-balfour) ogłosił w Izbie Gmin największe od początku wojny zmiany w dowództwie [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Admirał [John Jellicoe](/postacie/john-jellicoe), od sierpnia 1914 roku dowódca [Grand Fleet](/sily-zbrojne/grand-fleet), zostawał pierwszym lordem morskim, czyli zawodowym szefem marynarki. Jego miejsce na czele floty zajął wiceadmirał [David Beatty](/postacie/david-beatty), dotychczasowy dowódca krążowników liniowych. Dotychczasowy pierwszy lord morski, [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), szedł na stanowisko komendanta Królewskiego Kolegium Marynarki Wojennej w Greenwich. Balfour dodał, że decyzje zapadły już wcześniej, ale z przyczyn wojskowych ogłoszenie odłożono. Beatty w chwili ogłoszenia dowodził już flotą.
+29 listopada 1916 roku pierwszy lord Admiralicji [Arthur Balfour](/postacie/arthur-balfour) ogłosił w Izbie Gmin największe od początku wojny zmiany w dowództwie [Royal Navy](/sily-zbrojne/royal-navy). Admirał [John Jellicoe](/postacie/john-jellicoe), od sierpnia 1914 roku dowódca [Grand Fleet](/sily-zbrojne/grand-fleet), zostawał pierwszym lordem morskim, czyli zawodowym szefem marynarki. Jego miejsce na czele floty zajął wiceadmirał [David Beatty](/postacie/david-beatty), dotychczasowy dowódca krążowników liniowych. Dotychczasowy pierwszy lord morski, [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), szedł na stanowisko komendanta Królewskiego Kolegium Marynarki Wojennej w Greenwich. Balfour dodał, że decyzje zapadły już wcześniej, ale z przyczyn wojskowych ogłoszenie odłożono. Beatty w chwili ogłoszenia dowodził już flotą.
 
 ## Kryzys podwodny
 

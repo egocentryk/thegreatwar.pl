@@ -2,14 +2,14 @@
 title: End of the Battle of the Gniła Lipa
 summary: On 29 June 1915 the Central Powers crossed the Gniła Lipa but met strong resistance. The Russians fell back to the Złota Lipa only on the night of 1–2 July.
 source: koniec-bitwy-nad-gnila-lipa
-sourceHash: d0e5060fd19ffd70c295ceb2ffa56ba38ff5fed3
+sourceHash: 4afb6811d2e95dc03c0bb1e6c82c4a5d737e2341
 ---
 
 On 29 June 1915 German and Austro-Hungarian troops were crossing the [Gniła Lipa](https://pl.wikipedia.org/wiki/Gniła_Lipa) along the whole sector from [Przemyślany](https://pl.wikipedia.org/wiki/Przemyślany) to the river's mouth on the Dniester near [Halicz](https://pl.wikipedia.org/wiki/Halicz_(miasto)). The British chronology of the war records the end of the Battle of the Gniła Lipa under this date. The fighting, however, went on longer. According to the Austrian official history, on 29 June it was only gathering pace, and it was decided on 1 July. On the night of 1–2 July the Russians withdrew to the next line of defence, on the [Złota Lipa](https://pl.wikipedia.org/wiki/Złota_Lipa).
 
 ## Resistance on the eastern bank
 
-The troops of the Central Powers reached the river on 28 June, after several days of [pursuing the Russians retreating from Lviv](/poczatek-bitwy-nad-gnila-lipa). Airmen saw no occupied trenches on the Gniła Lipa, and the commander of the German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)), General [Alexander von Linsingen](/postacie/alexander-von-linsingen), believed that he faced only a single Russian corps covering the retreat of the rest of the army. As early as the evening of 28 June his troops took the western bank of the river near [Rohatyn](https://pl.wikipedia.org/wiki/Rohatyn), Koniuszki and [Bursztyn](https://pl.wikipedia.org/wiki/Bursztyn_(miasto)), and some units crossed to the other bank. Linsingen ordered the attack to continue.
+The troops of the Central Powers reached the river on 28 June, after several days of [pursuing the Russians retreating from Lviv](/poczatek-bitwy-nad-gnila-lipa). Airmen saw no occupied trenches on the Gniła Lipa, and the commander of the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa), General [Alexander von Linsingen](/postacie/alexander-von-linsingen), believed that he faced only a single Russian corps covering the retreat of the rest of the army. As early as the evening of 28 June his troops took the western bank of the river near [Rohatyn](https://pl.wikipedia.org/wiki/Rohatyn), Koniuszki and [Bursztyn](https://pl.wikipedia.org/wiki/Bursztyn_(miasto)), and some units crossed to the other bank. Linsingen ordered the attack to continue.
 
 On 29 June it turned out that the Russian [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) of General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow) had no intention of leaving quickly. On the high eastern bank, which dominated the valley, prepared trenches and heavy fire awaited the crossing battalions. The German corps of Generals Bothmer and Kosch managed only to come up to the fiercely defended Russian trenches. The Austro-Hungarian 19th Infantry Division fought its way across to the eastern bank near Bursztyn. Near Halicz units of Hofmann's corps were preparing to cross the Gniła Lipa right at its mouth.
 

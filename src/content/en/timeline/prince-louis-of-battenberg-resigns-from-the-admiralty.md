@@ -2,10 +2,10 @@
 title: Prince Louis of Battenberg resigns from the Admiralty
 summary: On 29 October 1914 the First Sea Lord, Prince Louis of Battenberg, stepped down. He fell victim to anti-German feeling.
 source: ludwik-battenberg-ustepuje
-sourceHash: 2e807953d7b175487464817b530ec1c95146acd6
+sourceHash: 07cc7eb8e087a9d65f5b0a9f646a9a97d9ffddd2
 ---
 
-On 29 October 1914 the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), accepted the resignation of the First Sea Lord, Admiral Prince [Louis of Battenberg](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)). The highest-ranking officer of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) had to go not because of any mistakes, but because he was a German prince by birth.
+On 29 October 1914 the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), accepted the resignation of the First Sea Lord, Admiral Prince [Louis of Battenberg](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)). The highest-ranking officer of the [Royal Navy](/sily-zbrojne/royal-navy) had to go not because of any mistakes, but because he was a German prince by birth.
 
 ## A German prince in the British fleet
 

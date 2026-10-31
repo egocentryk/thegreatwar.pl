@@ -2,10 +2,10 @@
 title: Arthur Balfour becomes First Lord of the Admiralty
 summary: In late May 1915 the former prime minister Arthur Balfour replaced Churchill at the Admiralty. He was the only Conservative with real influence on the war.
 source: arthur-balfour-pierwszym-lordem-admiralicji
-sourceHash: 455513a4b305df05d0fd8f7945b02521e6f75844
+sourceHash: 21ea47ece1b354e916a764d51bd4503a0a2001df
 ---
 
-At the end of May 1915 [Arthur Balfour](/postacie/arthur-balfour), the Conservative former prime minister, became First Lord of the Admiralty, the minister responsible for the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). He replaced [Winston Churchill](/postacie/winston-churchill), who [had to leave the Admiralty](/churchill-odchodzi-z-admiralicji) after the formation of the [coalition government](/rzad-koalicyjny-asquitha). The British chronology of the war records the appointment under 28 May. Official lists date Balfour's tenure from 25 May, the day the coalition was formed, and according to Churchill's memoirs the new ministers took office on 26 May.
+At the end of May 1915 [Arthur Balfour](/postacie/arthur-balfour), the Conservative former prime minister, became First Lord of the Admiralty, the minister responsible for the [Royal Navy](/sily-zbrojne/royal-navy). He replaced [Winston Churchill](/postacie/winston-churchill), who [had to leave the Admiralty](/churchill-odchodzi-z-admiralicji) after the formation of the [coalition government](/rzad-koalicyjny-asquitha). The British chronology of the war records the appointment under 28 May. Official lists date Balfour's tenure from 25 May, the day the coalition was formed, and according to Churchill's memoirs the new ministers took office on 26 May.
 
 ## A philosopher in politics
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-18 września 1914 roku generał [Paul von Hindenburg](/postacie/paul-von-hindenburg) objął dowództwo nowo tworzonej niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)). Brytyjska chronologia wojny opisuje to jako mianowanie go naczelnym dowódcą armii niemieckich na wschodzie. Formalnie tytuł ten, jako Oberbefehlshaber Ost, Hindenburg otrzymał dopiero 1 listopada. We wrześniu dowodził 9 Armią, a dotychczasową 8 Armię w Prusach Wschodnich przejął generał [Richard von Schubert](https://pl.wikipedia.org/wiki/Richard_von_Schubert). Według części opracowań Hindenburg zachował jednak zwierzchnictwo nad obiema armiami, a w praktyce to on i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff) decydowali o działaniach Niemców na wschodzie.
+18 września 1914 roku generał [Paul von Hindenburg](/postacie/paul-von-hindenburg) objął dowództwo nowo tworzonej niemieckiej [9 Armii](/sily-zbrojne/9-armia-niemiecka). Brytyjska chronologia wojny opisuje to jako mianowanie go naczelnym dowódcą armii niemieckich na wschodzie. Formalnie tytuł ten, jako Oberbefehlshaber Ost, Hindenburg otrzymał dopiero 1 listopada. We wrześniu dowodził 9 Armią, a dotychczasową 8 Armię w Prusach Wschodnich przejął generał [Richard von Schubert](https://pl.wikipedia.org/wiki/Richard_von_Schubert). Według części opracowań Hindenburg zachował jednak zwierzchnictwo nad obiema armiami, a w praktyce to on i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff) decydowali o działaniach Niemców na wschodzie.
 
 ## Sojusznik w kłopotach
 

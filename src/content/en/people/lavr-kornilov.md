@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Ust-Kamenogorsk (Russian Empire)
 deathPlace: near Yekaterinodar
 source: lawr-kornilow
-sourceHash: cf80700d56ecd02a0ac1c7b042f6096dfcaa7826
+sourceHash: 9d7f31670b9726d1cae12946afb0cec93185b968
 ---
 
 General Lavr Kornilov was the most controversial Russian commander of the war. In 1914–1915 he made his name as a recklessly brave divisional commander, in 1916 all Russia talked of his escape from Austro-Hungarian captivity, and in the summer of 1917, after the defeat of the last Russian offensive, the government entrusted him with the supreme command. The right and the officers saw in him the man who would halt the disintegration of the army and the state. The left saw in him a would-be dictator. His September conflict with the prime minister Alexander Kerensky, known as the Kornilov affair or Kornilov putsch, ended in the general's defeat, but it weakened the Provisional Government still further and opened the way for the Bolsheviks' coup. After the October Revolution Kornilov co-founded the White Volunteer Army and was killed at its head in the spring of 1918.
@@ -19,7 +19,7 @@ For more than a decade he was an intelligence officer and explorer in Central As
 
 ## 1914–1915: the "Steel" Division
 
-At the beginning of the war he took over the 48th Infantry Division in General [Aleksei Brusilov](/postacie/aleksiej-brusilow)'s [8th Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)). Within a few weeks he turned an ordinary division from the Kazan Military District into one of the best units on the front, later called the "Steel" Division. He fought in the final phase of the [Battle of Galicia](/bitwy/bitwa-galicyjska) and in the Carpathians. Brusilov, who disliked him, wrote that Kornilov never spared his division, which suffered terrible losses in every action, and yet the soldiers loved him because they always saw him under fire, in the front line.
+At the beginning of the war he took over the 48th Infantry Division in General [Aleksei Brusilov](/postacie/aleksiej-brusilow)'s [8th Army](/sily-zbrojne/8-armia-rosyjska). Within a few weeks he turned an ordinary division from the Kazan Military District into one of the best units on the front, later called the "Steel" Division. He fought in the final phase of the [Battle of Galicia](/bitwy/bitwa-galicyjska) and in the Carpathians. Brusilov, who disliked him, wrote that Kornilov never spared his division, which suffered terrible losses in every action, and yet the soldiers loved him because they always saw him under fire, in the front line.
 
 These traits, courage and a tendency to act on his own initiative, showed themselves in November 1914. During the [second Russian invasion of Hungary](/druga-rosyjska-inwazja-na-wegry) Kornilov's division unexpectedly took Humenné and came down from the mountains onto the Hungarian plain, against the orders of the corps commander. It was quickly cut off and had to fight its way back along mountain paths, losing thousands of men and a battery of guns. Brusilov wanted to court-martial the general, but it ended with a reprimand. In December the division fought [at Limanowa](/bitwy/bitwa-pod-limanowa), and in winter on the Carpathian ridges. In February 1915 Kornilov became a lieutenant-general.
 

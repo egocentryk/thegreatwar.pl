@@ -9,7 +9,7 @@ sides:
     commanders: [Maximilian von Spee]
 result: German victory. The British lost two armoured cruisers with all hands; the Germans lost no ship.
 source: bitwa-pod-coronelem
-sourceHash: b9ff8a1cddc994858fb5e30e006d5a7794ac5db2
+sourceHash: a578e76bde1f1238f9230cc20de0d089bb8bd98d
 brief:
   - "On the evening of 1 November 1914, off the coast of central Chile, the German East Asia Squadron of Vice-Admiral Maximilian von Spee destroyed the British force of Rear-Admiral Christopher Cradock."
   - "Cradock had weak forces: two old armoured cruisers crewed largely by reservists. He left his most powerful ship, the slow Canopus, behind, and nevertheless chose to fight."
@@ -18,7 +18,7 @@ brief:
   - "It was the Royal Navy's first defeat in a naval battle in more than a hundred years. Admiral Fisher sent battlecruisers after Spee, and on 8 December 1914 they caught him off the Falklands."
 ---
 
-The [Battle of Coronel](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem) was fought on the evening of 1 November 1914 in the Pacific, off the coast of central [Chile](https://pl.wikipedia.org/wiki/Chile). The German East Asia Squadron of Vice-Admiral [Maximilian von Spee](/postacie/maximilian-von-spee) destroyed the British force of Rear-Admiral [Christopher Cradock](https://pl.wikipedia.org/wiki/Christopher_Cradock). Two British armoured cruisers went down with all hands, while the Germans had only three wounded. It was the first defeat of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) in a naval battle in more than a hundred years.
+The [Battle of Coronel](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem) was fought on the evening of 1 November 1914 in the Pacific, off the coast of central [Chile](https://pl.wikipedia.org/wiki/Chile). The German East Asia Squadron of Vice-Admiral [Maximilian von Spee](/postacie/maximilian-von-spee) destroyed the British force of Rear-Admiral [Christopher Cradock](https://pl.wikipedia.org/wiki/Christopher_Cradock). Two British armoured cruisers went down with all hands, while the Germans had only three wounded. It was the first defeat of the [Royal Navy](/sily-zbrojne/royal-navy) in a naval battle in more than a hundred years.
 
 ## The chase across the Pacific
 

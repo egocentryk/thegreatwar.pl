@@ -22,7 +22,7 @@ Generał [August von Mackensen](/postacie/august-von-mackensen) dostał nowe nie
 
 ## Rosjanie przed bitwą
 
-Po utracie Przemyśla rosyjska [8 Armia](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) okopała się na wzgórzach na zachód od Mościsk, a na północ od niej [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała Leonida Lesza nad Lubaczówką i Sanem. Obie armie były wykrwawione. Według rosyjskich meldunków, na które powołuje się austriacka historia oficjalna, front południowo-zachodni stracił w samym maju 412 tysięcy ludzi. Dowódca frontu, generał [Nikołaj Iwanow](/postacie/nikolaj-iwanow), meldował 5 czerwca, że trzeba się bronić z największym uporem, bo przeciwnikowi w końcu zabraknie pocisków. Kilka korpusów wycofał do odwodu, w tym trzy w okolice Lubaczowa.
+Po utracie Przemyśla rosyjska [8 Armia](/sily-zbrojne/8-armia-rosyjska) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) okopała się na wzgórzach na zachód od Mościsk, a na północ od niej [3 Armia](/sily-zbrojne/3-armia-rosyjska) generała Leonida Lesza nad Lubaczówką i Sanem. Obie armie były wykrwawione. Według rosyjskich meldunków, na które powołuje się austriacka historia oficjalna, front południowo-zachodni stracił w samym maju 412 tysięcy ludzi. Dowódca frontu, generał [Nikołaj Iwanow](/postacie/nikolaj-iwanow), meldował 5 czerwca, że trzeba się bronić z największym uporem, bo przeciwnikowi w końcu zabraknie pocisków. Kilka korpusów wycofał do odwodu, w tym trzy w okolice Lubaczowa.
 
 ## Przeprawa pod Sieniawą
 

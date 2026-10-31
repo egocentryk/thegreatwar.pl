@@ -2,7 +2,7 @@
 title: Kerensky Offensive begins
 summary: On 1 July 1917, after two days of artillery fire, Russian infantry attacked in eastern Galicia. At Koniuchy it broke through the Austro-Hungarian front.
 source: poczatek-ofensywy-kierenskiego
-sourceHash: 9f398b81d105b0cf1679b5f3b72dcdf3d1550f22
+sourceHash: c4df8e73c1d6d136434c7ea77a21c8db0273e792
 brief:
   - "On 1 July 1917, after a two-day artillery bombardment, the infantry of the Russian Eleventh and Seventh Armies attacked in eastern Galicia, between Zborów and Brzeżany."
   - "The war minister, Alexander Kerensky, had spent weeks urging the soldiers to fight. More than 30 divisions were concentrated on a sector about 65 kilometres wide, and for the first time the Russians had superiority in firepower."
@@ -23,7 +23,7 @@ The enemy was waiting for the attack. Russian deserters had announced a great as
 
 ## Breakthrough at Koniuchy
 
-At about five in the morning of 1 July the Russian fire turned into a hurricane bombardment. At nine the VI and XLIX Corps of the Eleventh Army attacked the village of Koniuchy, at the junction of the German [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) and the Austro-Hungarian Second Army. The Russian 16th Division broke into the lines of the 54th Division, and the 4th Division pierced the positions of the neighbouring 19th Division and drove into the centre of the village. Wheeling north and south, the Russians surrounded and captured most of the defenders, including the 81st Infantry Regiment, the storm battalion of the 54th Division and a battalion of the [Ukrainian Sich Riflemen](https://pl.wikipedia.org/wiki/Legion_Ukraińskich_Strzelców_Siczowych). The Austrian gunners had to blow up their guns. A gap several kilometres wide opened in the front.
+At about five in the morning of 1 July the Russian fire turned into a hurricane bombardment. At nine the VI and XLIX Corps of the Eleventh Army attacked the village of Koniuchy, at the junction of the German [South Army](/sily-zbrojne/armia-poludniowa) and the Austro-Hungarian Second Army. The Russian 16th Division broke into the lines of the 54th Division, and the 4th Division pierced the positions of the neighbouring 19th Division and drove into the centre of the village. Wheeling north and south, the Russians surrounded and captured most of the defenders, including the 81st Infantry Regiment, the storm battalion of the 54th Division and a battalion of the [Ukrainian Sich Riflemen](https://pl.wikipedia.org/wiki/Legion_Ukraińskich_Strzelców_Siczowych). The Austrian gunners had to blow up their guns. A gap several kilometres wide opened in the front.
 
 Before noon Koniuchy was in Russian hands, and the attackers were climbing the slopes west of the village. German reinforcements sent from the reserves moved slowly in the stifling heat. Only in the afternoon did regiments of the German 223rd Division, together with the remnants of Austro-Hungarian units, occupy the second position at the edge of the woods and halt the attack. The Russians did not reach their objective for the day, the heights above the Złota Lipa, but they won a clear victory. At Zborów itself the Austro-Hungarian 32nd Division repulsed an attack by the 4th Finnish Rifle Division that day. The next day, in the same place, it was the turn of the Czechoslovak brigade.
 

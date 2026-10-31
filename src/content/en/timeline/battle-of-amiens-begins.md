@@ -2,7 +2,7 @@
 title: Battle of Amiens begins
 summary: On 8 August 1918, in fog, Canadians, Australians and tanks broke the front at Amiens, taking over 15,000 prisoners. Ludendorff called it the "black day".
 source: poczatek-bitwy-pod-amiens
-sourceHash: 09b91d2ce76ee8694ed89386e5d42ba701c48be0
+sourceHash: 19d804acf6fd0edba72d777dca4ac9827525aa88
 brief:
   - "At 4.20 a.m. on 8 August 1918, without a preliminary bombardment, the Canadian, Australian and British divisions of General Rawlinson's Fourth Army attacked at Amiens with more than four hundred tanks. The French First Army attacked alongside."
   - "The preparations took less than two weeks and were carried out in the utmost secrecy. The Canadian Corps was brought from Arras by night, while two of its battalions pretended in Flanders that the whole corps was heading for Ypres."
@@ -51,7 +51,7 @@ Things went worse for General Richard Butler's British III Corps. Its 18th and 5
 
 ## In the air
 
-In the morning the fog limited air operations, but aircraft dropped smoke bombs where the artillery could not reach and strafed columns on the roads. When airmen reported that the roads to the Somme crossings were jammed with retreating troops, General John Salmond, commander of the [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force) in France, at about midday cancelled other tasks and sent the bombers, and even fighters with small bombs, against the bridges at [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), Brie and Saint-Christ. The Germans meanwhile brought in aircraft from the whole front, including the fighter wing [Jagdgeschwader 1](https://pl.wikipedia.org/wiki/Jagdgeschwader_1_(1917–1918)), Richthofen's former wing, commanded by [Hermann Göring](https://pl.wikipedia.org/wiki/Hermann_Göring). Great air battles broke out under the low cloud. The bridges were not cut, and the British lost 44 aircraft that day, with another 52 having to be struck off strength. The official history called 8 August "an unlucky day for the RAF".
+In the morning the fog limited air operations, but aircraft dropped smoke bombs where the artillery could not reach and strafed columns on the roads. When airmen reported that the roads to the Somme crossings were jammed with retreating troops, General John Salmond, commander of the [Royal Air Force](/sily-zbrojne/royal-air-force) in France, at about midday cancelled other tasks and sent the bombers, and even fighters with small bombs, against the bridges at [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), Brie and Saint-Christ. The Germans meanwhile brought in aircraft from the whole front, including the fighter wing [Jagdgeschwader 1](https://pl.wikipedia.org/wiki/Jagdgeschwader_1_(1917–1918)), Richthofen's former wing, commanded by [Hermann Göring](https://pl.wikipedia.org/wiki/Hermann_Göring). Great air battles broke out under the low cloud. The bridges were not cut, and the British lost 44 aircraft that day, with another 52 having to be struck off strength. The official history called 8 August "an unlucky day for the RAF".
 
 ## Evening
 

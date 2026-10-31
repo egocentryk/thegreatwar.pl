@@ -2,7 +2,7 @@
 title: End of the Battle of Przemyśl
 summary: A British chronology ends the Battle of Przemyśl on 11 June 1915. After the fortress fell, the front halted at Mościska and Mackensen prepared to hit Lviv.
 source: koniec-bitwy-o-przemysl
-sourceHash: 43877b457b619307edd2c45a3892c105cd587a07
+sourceHash: edc1dad6498fed7a3dc5f1372072727cddf9f6d7
 ---
 
 A British chronology of the war records under 11 June 1915 the end of the Battle of Przemyśl, which by its reckoning had lasted since 24 May. The fortress itself had then been in the hands of the Central Powers for eight days. [German and Austro-Hungarian troops had entered it on 3 June](/panstwa-centralne-odbijaja-przemysl). The British date therefore also covers the fighting that continued after the fall of the fortress to the east of it, on the road to [Mościska](https://pl.wikipedia.org/wiki/Mościska) and Lviv. Other sources end the battle earlier. The Austrian official history describes the "Battle of Przemyśl" from 24 May to 4 June, and the Encyclopaedia Britannica of 1922 from 24 May to 6 June. On our site we describe this fighting as the [recapture of Przemyśl](/bitwy/odbicie-przemysla), from the attack at Radymno to the entry into the fortress.
@@ -17,7 +17,7 @@ North of Przemyśl, on the lower [San](https://pl.wikipedia.org/wiki/San), the l
 
 The fall of Przemyśl opened the way east for the Central Powers. The chiefs of the general staffs, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) and [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), decided not to stop on the San and the Dniester, even though Austria-Hungary had recently also been at war with Italy. The objective of the new blow was to be [Lviv](https://pl.wikipedia.org/wiki/Lwów). From 4 June new German divisions were detrained near [Rzeszów](https://pl.wikipedia.org/wiki/Rzeszów): the XXII Reserve Corps, the 22nd and 107th Infantry Divisions and the Bavarian 8th Reserve Division. The Austro-Hungarian Third Army, which had fought at Przemyśl, was dissolved and its corps passed to the neighbouring armies. Mackensen was also given command of the Austro-Hungarian Fourth Army, and the Second Army was soon to join him as well.
 
-The plan was simple. The reinforced German [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)) was to strike north of Gródek, towards Magierów, and outflank the Russian positions in front of Lviv from the north. Its right wing was to be covered by the Second Army, and its left by the Fourth Army, which first had to cross the San between Sieniawa and Ulanów. On 10 June Mackensen issued the order to attack. The Fourth Army was to cross the San from 12 June, and the main attack would begin a day later.
+The plan was simple. The reinforced German [Eleventh Army](/sily-zbrojne/11-armia-niemiecka) was to strike north of Gródek, towards Magierów, and outflank the Russian positions in front of Lviv from the north. Its right wing was to be covered by the Second Army, and its left by the Fourth Army, which first had to cross the San between Sieniawa and Ulanów. On 10 June Mackensen issued the order to attack. The Fourth Army was to cross the San from 12 June, and the main attack would begin a day later.
 
 ## Russian armies at the end of their strength
 

@@ -11,7 +11,7 @@ sides:
     commanders: [Erich von Falkenhayn, "Albrecht, Duke of Württemberg", "Rupprecht, Crown Prince of Bavaria", Max von Fabeck]
 result: Allied defensive victory. The Germans failed to break the front and did not reach the Channel ports. A salient formed around Ypres and was held until 1918.
 source: pierwsza-bitwa-pod-ypres
-sourceHash: 924247a6da212758eefe203bc00b20baf667f5eb
+sourceHash: 4cb7822d49b5fc4f6f6792513eabfe9fe689f76a
 brief:
   - "The First Battle of Ypres, fought from 19 October to 22 November 1914, was the last and largest battle of the race to the sea. Allied and German offensives collided in it."
   - "The Allies wanted to turn the Germans' northern flank, while General Falkenhayn threw into Flanders a new Fourth Army, made up largely of volunteers, to break the front and reach the Channel ports."
@@ -20,7 +20,7 @@ brief:
   - "The battle closed the race to the sea and began trench warfare in the west. The old regular British army all but ceased to exist: from August to the end of November it lost almost 90,000 men."
 ---
 
-The [First Battle of Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), fought from 19 October to 22 November 1914, was the last and largest battle of the [race to the sea](/bitwy/wyscig-do-morza). Two offensives collided at the old Flemish town of [Ypres](/miejsca/ypres). The Allies wanted to advance eastwards and turn the Germans' northern flank, while the Germans, who had moved into Flanders a new army made up largely of volunteers, intended to break the front and reach the Channel ports. For five weeks the Germans attacked almost without pause, first to the north and east of the town, then to the south-east. Several times they came close to a breakthrough, but the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) and the arriving French corps held the line. Ypres stayed in Allied hands, and the regular British army that had set out for France in August all but ceased to exist.
+The [First Battle of Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), fought from 19 October to 22 November 1914, was the last and largest battle of the [race to the sea](/bitwy/wyscig-do-morza). Two offensives collided at the old Flemish town of [Ypres](/miejsca/ypres). The Allies wanted to advance eastwards and turn the Germans' northern flank, while the Germans, who had moved into Flanders a new army made up largely of volunteers, intended to break the front and reach the Channel ports. For five weeks the Germans attacked almost without pause, first to the north and east of the town, then to the south-east. Several times they came close to a breakthrough, but the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) and the arriving French corps held the line. Ypres stayed in Allied hands, and the regular British army that had set out for France in August all but ceased to exist.
 
 ## Name and dates
 

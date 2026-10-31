@@ -2,10 +2,10 @@
 title: End of the retreat from Mons
 summary: On 5 September 1914 the British Expeditionary Force ended its retreat from Mons. After almost two weeks of marching it halted south of the Marne, near Paris.
 source: koniec-odwrotu-spod-mons
-sourceHash: ea7d7d54f13fc618ed7d2982b8050f30a43ae25d
+sourceHash: 868027daf37312b0b85d68da44be2fda35b5dbc6
 ---
 
-On 5 September 1914 the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) ended the retreat that had begun after the Battle of Mons. The tired British divisions halted south-east of Paris, beyond the rivers [Marne](https://pl.wikipedia.org/wiki/Marna) and [Grand Morin](https://pl.wikipedia.org/wiki/Grand_Morin), around Tournan-en-Brie, not far from [Melun](https://pl.wikipedia.org/wiki/Melun). The next day the same units were to turn about and advance north.
+On 5 September 1914 the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) ended the retreat that had begun after the Battle of Mons. The tired British divisions halted south-east of Paris, beyond the rivers [Marne](https://pl.wikipedia.org/wiki/Marna) and [Grand Morin](https://pl.wikipedia.org/wiki/Grand_Morin), around Tournan-en-Brie, not far from [Melun](https://pl.wikipedia.org/wiki/Melun). The next day the same units were to turn about and advance north.
 
 ## Two weeks of marching
 

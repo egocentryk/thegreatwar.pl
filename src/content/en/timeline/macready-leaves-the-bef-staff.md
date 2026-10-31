@@ -2,10 +2,10 @@
 title: Macready leaves the BEF staff
 summary: On 21 February 1916 General Nevil Macready ceased to be Adjutant-General of the BEF. He had handled its manpower since the first days of the war in France.
 source: macready-odchodzi-ze-sztabu-bef
-sourceHash: 39a260687bac1a4f75848b095d42dc62b4d2a281
+sourceHash: a7aca846f678f50e6e2db9956bdfb7e798263377
 ---
 
-On 21 February 1916 Lieutenant-General Sir Nevil Macready ceased to be Adjutant-General of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Of the four generals who in August 1914 had headed the [force's headquarters](/sztab-brytyjskiego-korpusu-ekspedycyjnego), he alone still held his original post at that time. He was leaving, however, not in disgrace but on promotion: on the same day in London he took over from General [Henry Sclater](/dymisja-henryego-sclatera) the office of Adjutant-General of the whole army.
+On 21 February 1916 Lieutenant-General Sir Nevil Macready ceased to be Adjutant-General of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Of the four generals who in August 1914 had headed the [force's headquarters](/sztab-brytyjskiego-korpusu-ekspedycyjnego), he alone still held his original post at that time. He was leaving, however, not in disgrace but on promotion: on the same day in London he took over from General [Henry Sclater](/dymisja-henryego-sclatera) the office of Adjutant-General of the whole army.
 
 ## A staff officer for people
 

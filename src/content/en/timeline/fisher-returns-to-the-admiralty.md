@@ -2,10 +2,10 @@
 title: Fisher returns to the Admiralty
 summary: On 30 October 1914 the 73-year-old Admiral John Fisher became First Sea Lord again. He replaced Prince Louis of Battenberg.
 source: fisher-pierwszym-lordem-morskim
-sourceHash: 94811c1daf823abd6bb7440a655751e3329243b3
+sourceHash: c075b424c4a4e4ebe150c82ed1f643a48a7ee71b
 ---
 
-On 30 October 1914 Admiral Lord [John Fisher](/postacie/john-fisher) took up for the second time the post of First Sea Lord, the most senior officer of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). He replaced Prince Louis of Battenberg, who the day before [had stepped down under pressure from anti-German feeling](/ludwik-battenberg-ustepuje). Fisher was 73, but *The Times* of London wrote that he had never been younger or more energetic.
+On 30 October 1914 Admiral Lord [John Fisher](/postacie/john-fisher) took up for the second time the post of First Sea Lord, the most senior officer of the [Royal Navy](/sily-zbrojne/royal-navy). He replaced Prince Louis of Battenberg, who the day before [had stepped down under pressure from anti-German feeling](/ludwik-battenberg-ustepuje). Fisher was 73, but *The Times* of London wrote that he had never been younger or more energetic.
 
 ## Creator of the modern fleet
 

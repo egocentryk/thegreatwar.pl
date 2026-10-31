@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 stycznia 1915 roku generał porucznik sir William Robertson przestał być kwatermistrzem generalnym [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Tego samego dnia [odszedł szef sztabu, generał Archibald Murray](/murray-odchodzi-ze-sztabu-bef), a Robertson miał zająć jego miejsce. Kończył tym samym pięć miesięcy pracy, w czasie których dał się poznać jako sprawny i pomysłowy organizator.
+24 stycznia 1915 roku generał porucznik sir William Robertson przestał być kwatermistrzem generalnym [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Tego samego dnia [odszedł szef sztabu, generał Archibald Murray](/murray-odchodzi-ze-sztabu-bef), a Robertson miał zająć jego miejsce. Kończył tym samym pięć miesięcy pracy, w czasie których dał się poznać jako sprawny i pomysłowy organizator.
 
 Kwatermistrz generalny odpowiadał za zaopatrzenie i transport całego korpusu: żywność, paszę dla koni, amunicję, sprzęt i przewozy. Robertson objął to stanowisko 5 sierpnia 1914 roku, choć według przedwojennych planów miał je dostać Murray. Od początku obawiał się, że korpus koncentruje się zbyt daleko na przedzie. Już 22 sierpnia, dzień przed bitwą pod Mons, rozważał możliwość odwrotu i przygotował plany awaryjne.
 

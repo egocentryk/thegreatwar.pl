@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Pod koniec maja 1915 roku pierwszym lordem Admiralicji, czyli ministrem odpowiedzialnym za [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), został [Arthur Balfour](/postacie/arthur-balfour), konserwatywny były premier. Zastąpił [Winstona Churchilla](/postacie/winston-churchill), który [musiał odejść z Admiralicji](/churchill-odchodzi-z-admiralicji) po utworzeniu [rządu koalicyjnego](/rzad-koalicyjny-asquitha). Brytyjska chronologia wojny notuje nominację pod 28 maja. Oficjalne zestawienia liczą urzędowanie Balfoura od 25 maja, dnia powstania koalicji, a według wspomnień Churchilla nowi ministrowie przejęli urzędy 26 maja.
+Pod koniec maja 1915 roku pierwszym lordem Admiralicji, czyli ministrem odpowiedzialnym za [Royal Navy](/sily-zbrojne/royal-navy), został [Arthur Balfour](/postacie/arthur-balfour), konserwatywny były premier. Zastąpił [Winstona Churchilla](/postacie/winston-churchill), który [musiał odejść z Admiralicji](/churchill-odchodzi-z-admiralicji) po utworzeniu [rządu koalicyjnego](/rzad-koalicyjny-asquitha). Brytyjska chronologia wojny notuje nominację pod 28 maja. Oficjalne zestawienia liczą urzędowanie Balfoura od 25 maja, dnia powstania koalicji, a według wspomnień Churchilla nowi ministrowie przejęli urzędy 26 maja.
 
 ## Filozof w polityce
 

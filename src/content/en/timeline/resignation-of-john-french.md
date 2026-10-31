@@ -2,10 +2,10 @@
 title: Resignation of John French
 summary: Under 15 December 1915 a chronology records Field Marshal French's resignation. The government forced him to give up the British command in France after Loos.
 source: dymisja-johna-frencha
-sourceHash: 9a8faa386bd2054049d71446ac10ef55ce824eed
+sourceHash: 8ec0701246a07a48d9880dbdf848245cf4d650e3
 ---
 
-The British chronology of the war records under 15 December 1915 that Field Marshal Sir [John French](/postacie/john-french) resigned as Commander-in-Chief of the British armies in France. He had commanded the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) from the first days of the war, from August 1914, when it numbered six infantry divisions, to the autumn of 1915, when nearly forty stood in France and Flanders. Formally, he resigned of his own accord. In reality he was forced to do so by the government of Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith), and his closest subordinates also contributed to his downfall.
+The British chronology of the war records under 15 December 1915 that Field Marshal Sir [John French](/postacie/john-french) resigned as Commander-in-Chief of the British armies in France. He had commanded the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) from the first days of the war, from August 1914, when it numbered six infantry divisions, to the autumn of 1915, when nearly forty stood in France and Flanders. Formally, he resigned of his own accord. In reality he was forced to do so by the government of Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith), and his closest subordinates also contributed to his downfall.
 
 ## The dispute over the reserves at Loos
 

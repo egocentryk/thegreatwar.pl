@@ -2,7 +2,7 @@
 title: Gotha raid on London
 summary: On 13 June 1917 fourteen Gothas bombed the City and East End by day, killing 162 people, 18 of them children at a Poplar school. No bomber was lost.
 source: nalot-gothow-na-londyn
-sourceHash: 5ed413f7a0015da454a0e52eb80bb50a3762d49d
+sourceHash: 5f128f4d231ef17a2dd0ed868f72fc005c86d46b
 brief:
   - "Shortly before noon on 13 June 1917 fourteen Gotha G.IV bombers bombed the City of London, the docklands and the East End in broad daylight."
   - "According to the British official history 162 people were killed and 432 injured. It was the deadliest single air raid on Britain of the whole war."
@@ -37,4 +37,4 @@ Despite a new artillery fire plan introduced a week earlier, the defence proved 
 
 The raid shook the country. Jones writes that the dominant feeling was outrage. People who only a moment before had been gazing curiously at the sky learned that the enemy could bomb the heart of the empire with impunity in broad daylight. The War Cabinet met that same afternoon, and the next day the Chief of the Imperial General Staff, General William Robertson, called for a substantial increase in the number of aircraft, even at the expense of other armaments. The Cabinet agreed and instructed the departments to prepare a plan for expanding the air services. A reprisal raid on a German city, such as [Mannheim](https://pl.wikipedia.org/wiki/Mannheim), and the recall of fighters from the front were also considered.
 
-Field Marshal [Douglas Haig](/postacie/douglas-haig) and the commander of the air services in France, General Hugh Trenchard, opposed weakening the front just before the offensive in Flanders. In the end Haig had to give up two fighter squadrons for two weeks: one was moved to England, the other to Calais. They returned to France on 5 and 6 July, and on 7 July the Gothas were over London again. The second raid settled the appointment of General [Jan Smuts's](/postacie/jan-smuts) committee, whose reports led to the reorganisation of London's defences and to the creation in 1918 of an independent air force, the [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force).
+Field Marshal [Douglas Haig](/postacie/douglas-haig) and the commander of the air services in France, General Hugh Trenchard, opposed weakening the front just before the offensive in Flanders. In the end Haig had to give up two fighter squadrons for two weeks: one was moved to England, the other to Calais. They returned to France on 5 and 6 July, and on 7 July the Gothas were over London again. The second raid settled the appointment of General [Jan Smuts's](/postacie/jan-smuts) committee, whose reports led to the reorganisation of London's defences and to the creation in 1918 of an independent air force, the [Royal Air Force](/sily-zbrojne/royal-air-force).

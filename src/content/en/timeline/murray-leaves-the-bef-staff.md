@@ -2,10 +2,10 @@
 title: Murray leaves the BEF staff
 summary: On 24 January 1915 John French sent the BEF chief of staff, General Archibald Murray, on sick leave. The next day he demanded his resignation.
 source: murray-odchodzi-ze-sztabu-bef
-sourceHash: 03c32250e2507e8c3443694fc67632a71b47cf40
+sourceHash: 97d5168a627abf8cc96e5bbed03998cdd6516c01
 ---
 
-On 24 January 1915 Lieutenant-General Sir Archibald Murray ceased to head the staff of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). That day the commander-in-chief, Field Marshal [John French](/postacie/john-french), sent him on a month's sick leave, and the next day demanded his resignation. Murray insisted that a few days' rest would be enough, but the decision had already been taken. So ended the service of the man who had been [French's chief of staff](/sztab-brytyjskiego-korpusu-ekspedycyjnego) since the first day of the war.
+On 24 January 1915 Lieutenant-General Sir Archibald Murray ceased to head the staff of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). That day the commander-in-chief, Field Marshal [John French](/postacie/john-french), sent him on a month's sick leave, and the next day demanded his resignation. Murray insisted that a few days' rest would be enough, but the decision had already been taken. So ended the service of the man who had been [French's chief of staff](/sztab-brytyjskiego-korpusu-ekspedycyjnego) since the first day of the war.
 
 ## French's old colleague
 

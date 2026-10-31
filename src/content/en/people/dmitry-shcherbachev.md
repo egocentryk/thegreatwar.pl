@@ -5,7 +5,7 @@ role: Commander of the Russian 11th and 7th Armies (1915–1917), de facto comma
 country: Russia
 deathPlace: Nice
 source: dmitrij-szczerbaczow
-sourceHash: 93baa6a097d811a9c2ea6ed215175a6383e30140
+sourceHash: a106b6580b3b116a4a87459e50906470e8476936
 ---
 
 General of Infantry Dmitry Shcherbachev went through the whole war on the southern wing of the Eastern Front. In 1914 he commanded a corps at Lviv and Przemyśl, in 1915–1917 the 11th and then the 7th Army in Eastern Galicia, and from the spring of 1917, as deputy to the King of Romania, he in practice directed the entire Romanian Front. He was regarded as an educated, cautious and methodical commander who seldom suffered defeat but also seldom exploited victory. His hardest decisions, however, came at the end of 1917: he refused to recognise Lenin's government, concluded the armistice of Focșani with the Central Powers and helped the Romanians disarm the disintegrating Russian troops.
@@ -18,7 +18,7 @@ In January 1905, on [Bloody Sunday](https://pl.wikipedia.org/wiki/Krwawa_niedzie
 
 ## 1914: Lviv and Przemyśl
 
-IX Corps belonged to General [Nikolai Ruzsky](/postacie/nikolaj-ruzski)'s [3rd Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)), which in August 1914 routed the Austrians [on the Złota Lipa and Gniła Lipa](/bitwy/bitwa-nad-zlota-lipa) and [took Lviv](/rosjanie-zdobywaja-lwow). Russian biographies credit Shcherbachev with considerable initiative in the fighting for the city. He received the Order of St George, 4th class, precisely for the fighting at Lviv and in the [Battle of Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska), where his corps doggedly repulsed Austro-Hungarian attacks.
+IX Corps belonged to General [Nikolai Ruzsky](/postacie/nikolaj-ruzski)'s [3rd Army](/sily-zbrojne/3-armia-rosyjska), which in August 1914 routed the Austrians [on the Złota Lipa and Gniła Lipa](/bitwy/bitwa-nad-zlota-lipa) and [took Lviv](/rosjanie-zdobywaja-lwow). Russian biographies credit Shcherbachev with considerable initiative in the fighting for the city. He received the Order of St George, 4th class, precisely for the fighting at Lviv and in the [Battle of Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska), where his corps doggedly repulsed Austro-Hungarian attacks.
 
 In mid-September, when [Radko Dimitriev](/postacie/radko-dimitriew) took over the 3rd Army, Shcherbachev was given command of a group of about six and a half divisions that [laid siege to Przemyśl](/bitwy/pierwsze-oblezenie-przemysla). At the beginning of October Dimitriev, wishing to take the fortress before a relief force arrived, threw the group into an assault on the forts. The main attack, against the forts near Siedliska, collapsed with heavy losses, because the Russians had no heavy siege artillery. A few days later the Austro-Hungarian relief force approached, the siege was broken off and the group was dissolved. In November and December IX Corps fought with the 3rd Army near Kraków and [at Limanowa](/bitwy/bitwa-pod-limanowa). At the end of the year Shcherbachev was promoted to general of infantry.
 

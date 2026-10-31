@@ -2,10 +2,10 @@
 title: British Expeditionary Force headquarters appointed
 summary: On 4 August 1914 the command of the British Expeditionary Force was appointed. Field Marshal Sir John French became its Commander-in-Chief.
 source: sztab-brytyjskiego-korpusu-ekspedycyjnego
-sourceHash: f976cc0bcb3c69671d1da541cdeb75bdca3cf05f
+sourceHash: 05fb3bda55d346db0be1851c8529ecab00bb53a7
 ---
 
-On 4 August 1914, the day Britain entered the war, the command of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) was appointed. It was an army prepared before the war for rapid dispatch to the Continent to support France in the event of German aggression.
+On 4 August 1914, the day Britain entered the war, the command of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) was appointed. It was an army prepared before the war for rapid dispatch to the Continent to support France in the event of German aggression.
 
 Its Commander-in-Chief was Field Marshal Sir [John French](/postacie/john-french), an experienced cavalryman who had made his name in the Boer War. General Sir Archibald Murray was appointed Chief of the General Staff. Personnel matters were the responsibility of the Adjutant-General, General Sir Nevil Macready, and supply and transport that of the Quartermaster-General, General Sir William Robertson.
 

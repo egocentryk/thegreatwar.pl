@@ -1,0 +1,318 @@
+{
+ "slug": "brytyjski-korpus-ekspedycyjny",
+ "paragraphs": [
+  {
+   "start": "Brytyjski Korpus Ekspedycyjny (British Expeditionary",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_I)",
+     "quote": "The designation \"British Expeditionary Force\" remained the official name of the British armies in France and Flanders throughout the First World War"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Armia brytyjska wysłana do Francji w sierpniu 1914 roku pod dowództwem Johna Frencha. Z kilku dywizji zawodowych żołnierzy wyrosła w czasie wojny do pięciu armii; od grudnia 1915 dowodził nią Haig."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Korpus walczył pod Mons, wycofywał się aż nad Marnę, a jesienią w pierwszej bitwie pod Ypres stracił znaczną część dawnej armii zawodowej."
+    },
+    {
+     "file": "src/content/battles/1918/bitwy-o-linie-hindenburga.md",
+     "quote": "12 września – 12 października 1918 trzy armie brytyjskie z Kanadyjczykami, Australijczykami i Amerykanami przełamały Linię Hindenburga i doszły nad Selle."
+    }
+   ]
+  },
+  {
+   "start": "Siły ekspedycyjne przygotowano po wojnie burskiej w",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Siły ekspedycyjne przygotowano po wojnie burskiej w ramach reform ministra wojny Richarda Haldane'a. W sierpniu 1914 roku do Francji przeprawiły się najpierw cztery dywizje piechoty i dywizja kawalerii, wkrótce potem kolejne."
+    },
+    {
+     "file": "src/content/timeline/1914/08/sztab-brytyjskiego-korpusu-ekspedycyjnego.md",
+     "quote": "4 sierpnia 1914 roku, w dniu przystąpienia Wielkiej Brytanii do wojny, wyznaczono dowództwo Brytyjskiego Korpusu Ekspedycyjnego. Była to armia przygotowana przed wojną do szybkiego wysłania na kontynent, by wesprzeć Francję w razie niemieckiej agresji. Naczelnym dowódcą został marszałek polny sir John French, doświadczony kawalerzysta, który zasłynął w wojnie burskiej. Szefem sztabu generalnego mianowano generała sir Archibalda Murraya."
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-oddzialy-brytyjskiego-korpusu-ekspedycyjnego-we-francji.md",
+     "quote": "Główne siły, I Korpus generała Douglasa Haiga i II Korpus, przeprawiły się między 12 a 17 sierpnia. 14 sierpnia do Boulogne przybył naczelny dowódca, marszałek John French. Z portów żołnierzy przewożono koleją w rejon Maubeuge przy granicy belgijskiej, na lewe skrzydło armii francuskiej."
+    },
+    {
+     "file": "src/content/timeline/1914/08/brytyjski-korpus-ekspedycyjny-zakonczyl-ladowanie-we-francji.md",
+     "quote": "16 sierpnia 1914 zakończyło się lądowanie pierwotnego Brytyjskiego Korpusu Ekspedycyjnego we Francji. Przeprawa odbyła się bez strat."
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsza-nowa-armia-kitchenera.md",
+     "quote": "Do Francji wysłano Brytyjski Korpus Ekspedycyjny liczący około 100 tysięcy żołnierzy, mniej więcej po połowie zawodowych i rezerwistów, i była to jedyna polowa armia kraju."
+    }
+   ]
+  },
+  {
+   "start": "23 sierpnia Brytyjczycy stanęli pod Mons na drodze",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/koniec-odwrotu-spod-mons.md",
+     "quote": "Odwrót zaczął się w nocy z 23 na 24 sierpnia, gdy marszałek John French zrozumiał, że jego armii grozi okrążenie przez znacznie liczniejszą niemiecką 1 Armię generała Alexandra von Klucka."
+    },
+    {
+     "file": "src/content/timeline/1914/09/koniec-odwrotu-spod-mons.md",
+     "quote": "Najcięższy bój stoczył 26 sierpnia II Korpus generała Smith-Dorriena w bitwie pod Le Cateau."
+    },
+    {
+     "file": "src/content/timeline/1914/09/koniec-odwrotu-spod-mons.md",
+     "quote": "5 września 1914 roku Brytyjski Korpus Ekspedycyjny zakończył odwrót, który rozpoczął się po bitwie pod Mons."
+    },
+    {
+     "file": "src/content/timeline/1914/09/koniec-odwrotu-spod-mons.md",
+     "quote": "Liczone po drogach, którymi szły kolumny piechoty, odległość ta wynosiła według brytyjskich relacji około 200 mil, czyli ponad 300 kilometrów."
+    },
+    {
+     "file": "src/content/timeline/1914/09/koniec-odwrotu-spod-mons.md",
+     "quote": "Po zaledwie jednym dniu wytchnienia, 6 września wziął udział w kontrofensywie nad Marną, która zatrzymała niemiecki marsz na Paryż."
+    }
+   ]
+  },
+  {
+   "start": "W październiku przerzucono go znad Aisne do Flandrii",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/10/bef-konczy-przerzut-do-flandrii.md",
+     "quote": "19 października 1914 I Korpus Haiga zakończył wyładunek pod Hazebrouck. Cała armia brytyjska, przerzucona znad Aisne, stanęła we Flandrii."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-pod-ypres.md",
+     "quote": "Od 19 października do 22 listopada 1914 alianci obronili Ypres przed nowymi armiami niemieckimi. Stara armia brytyjska wykrwawiła się pod miastem."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-pod-ypres.md",
+     "quote": "Według brytyjskiej historii oficjalnej Brytyjski Korpus Ekspedycyjny stracił między 14 października a 30 listopada, a więc łącznie z bitwami pod La Bassée, Armentières i Messines, 58 155 zabitych, rannych i zaginionych."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-pod-ypres.md",
+     "quote": "Dla Brytyjczyków była to bitwa, w której przestała istnieć ich stara armia zawodowa."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Jej żołnierze nazwali się „Old Contemptibles” od rzekomego rozkazu cesarza Wilhelma II o „pogardzanej małej armii”, którego istnienia nigdy nie dowiedziono."
+    }
+   ]
+  },
+  {
+   "start": "Minister wojny, lord Herbert Kitchener, już 21 sierp",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/pierwsza-nowa-armia-kitchenera.md",
+     "quote": "21 sierpnia 1914 roku brytyjskie ministerstwo wojny wydało rozkaz armii nr 324, zarządzający utworzenie pierwszej z tak zwanych Nowych Armii."
+    },
+    {
+     "file": "src/content/timeline/1915/02/pierwsza-dywizja-terytorialna-jedzie-do-francji.md",
+     "quote": "Według brytyjskiej chronologii wojny 24 lutego 1915 roku Anglię opuściła dywizja North Midland, pierwsza dywizja ochotniczych Sił Terytorialnych (Territorial Force) wysłana w całości na front zachodni."
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/?p=2558",
+     "quote": "Formed in France on 26 December 1914, initially under the command of Sir Horace Smith-Dorrien."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_I)",
+     "quote": "The Third Army was formed in July 1915 and with the influx of troops from Kitchener's volunteers and further reorganisation, the Fourth Army and the Reserve Army, became the Fifth Army in 1916."
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/?p=2558",
+     "quote": "Fourth Formed in France on 5 February 1916, under the command of Sir Henry Rawlinson. Was renamed Second Army when Plumer moved to Italy, and reverted to Fourth Army when he returned. More Fifth On 22 May 1916, the Reserve Corps HQ under Sir Hubert Gough became the Reserve Army, which was then renamed Fifth Army."
+    }
+   ]
+  },
+  {
+   "start": "Korpus nie był tylko brytyjski. We wrześniu 1914 r",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_I)",
+     "quote": "In September 1914, the BEF was reinforced by the Indian Expeditionary Force A which eventually formed two corps each of two divisions, the Indian Cavalry Corps and the Indian Infantry Corps."
+    },
+    {
+     "file": "src/content/timeline/1915/02/kanadyjska-dywizja-przeprawia-sie-do-francji.md",
+     "quote": "9 lutego 1915 z Avonmouth wypłynęły transportowce z 1 Dywizją Kanadyjską. Po sztormowej przeprawie żołnierze zeszli na ląd w Saint-Nazaire."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_I)",
+     "quote": "Its major combat formation was the Canadian Corps, which eventually commanded four Canadian infantry divisions."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_I)",
+     "quote": "By the end of the war, the AIF on the Western Front comprised five infantry divisions."
+    },
+    {
+     "file": "src/content/timeline/1917/01/brytyjsko-portugalska-konwencja-wojskowa.md",
+     "quote": "3 stycznia 1917 Portugalia i Wielka Brytania podpisały konwencję o korpusie dla Francji, który miał walczyć pod brytyjskim dowództwem. Pierwsi przybyli w lutym."
+    }
+   ]
+  },
+  {
+   "start": "Rok 1915 przyniósł kosztowne natarcia bez przełomu",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/12/dymisja-johna-frencha.md",
+     "quote": "Brytyjska historia oficjalna Jamesa Edmondsa, życzliwa Frenchowi, przypomina, że w 1915 roku Neuve-Chapelle, druga bitwa pod Ypres, Aubers, Festubert i Loos kosztowały ogromne straty, a nie zachwiały Niemcami."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-loos.md",
+     "quote": "Zdobyli Loos, ale odwody przyszły za późno."
+    },
+    {
+     "file": "src/content/battles/1915/druga-bitwa-pod-ypres.md",
+     "quote": "Od 22 kwietnia do 25 maja 1915 Niemcy, używając po raz pierwszy na zachodzie chloru, zmniejszyli łuk Ypres o kilka kilometrów, ale miasta nie zdobyli."
+    },
+    {
+     "file": "src/content/timeline/1915/12/dymisja-johna-frencha.md",
+     "quote": "W rzeczywistości zmusił go do niej rząd premiera Herberta Henry'ego Asquitha"
+    },
+    {
+     "file": "src/content/timeline/1915/12/haig-dowodca-wojsk-brytyjskich-we-francji.md",
+     "quote": "19 grudnia 1915 gen. Douglas Haig przejął od Johna Frencha dowództwo Brytyjskiego Korpusu Ekspedycyjnego."
+    }
+   ]
+  },
+  {
+   "start": "W styczniu 1916 roku Wielka Brytania, dotąd walcząca",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/01/wielka-brytania-wprowadza-pobor.md",
+     "quote": "Wielka Brytania, jedyne wielkie mocarstwo europejskie, które dotąd prowadziło wojnę armią złożoną wyłącznie z ochotników, wprowadziła pobór."
+    },
+    {
+     "file": "src/content/timeline/1916/01/wielka-brytania-wprowadza-pobor.md",
+     "quote": "27 stycznia 1916 roku ustawa o służbie wojskowej (Military Service Act) otrzymała sankcję królewską."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "Pierwszy dzień był najkrwawszym w dziejach armii brytyjskiej: według historii oficjalnej 4 Armia straciła 57 470 ludzi, w tym 19 240 zabitych i zmarłych z ran."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "Według brytyjskiej historii oficjalnej armia brytyjska straciła do końca listopada 1916 roku 419 654 zabitych, rannych, zaginionych i jeńców, a francuska 204 253."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "Od 1 lipca do 18 listopada 1916 Brytyjczycy i Francuzi nacierali nad Sommą. Zyskali najwyżej 10 km, a obie strony straciły łącznie ponad milion ludzi."
+    }
+   ]
+  },
+  {
+   "start": "W 1917 roku korpus nacierał w różnych miejscach fron",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_I)",
+     "quote": "In 1917 the BEF's attacks moved along the front, they operated in the Pas-de-Calais during the Battle of Arras."
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-arras-1917.md",
+     "quote": "Pierwszego dnia Brytyjczycy posunęli się najdalej od początku wojny pozycyjnej, a Kanadyjczycy zdobyli grzbiet Vimy, ale frontu nie przełamano. W ciągu pięciu tygodni zyskano kilka kilometrów za cenę około 150 tysięcy ludzi."
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-messines-1917.md",
+     "quote": "7–14 czerwca 1917 brytyjska 2 Armia po wybuchu 19 wielkich min zdobyła grzbiet Messines–Wytschaete pod Ypres, trzymany przez Niemców od 1914 roku."
+    },
+    {
+     "file": "src/content/postacie/herbert-plumer.md",
+     "quote": "Dowódca brytyjskiej 2 Armii (1915–1918)"
+    }
+   ]
+  },
+  {
+   "start": "Od 31 lipca do 10 listopada Haig nacierał spod Ypre",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/trzecia-bitwa-pod-ypres.md",
+     "quote": "Od 31 lipca do 10 listopada 1917 Brytyjczycy nacierali spod Ypres na Passchendaele."
+    },
+    {
+     "file": "src/content/battles/1917/trzecia-bitwa-pod-ypres.md",
+     "quote": "Brytyjska historia oficjalna (James Edmonds, 1948) podała 244 897 zabitych, rannych i zaginionych po stronie brytyjskiej, a Robin Prior i Trevor Wilson szacują je na około 275 tysięcy."
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-cambrai-1917.md",
+     "quote": "20 listopada – 7 grudnia 1917 Brytyjczycy setkami czołgów przełamali Linię Hindenburga pod Cambrai, ale niemieckie kontrnatarcie odebrało im większość zdobyczy."
+    },
+    {
+     "file": "src/content/postacie/julian-byng.md",
+     "quote": "brytyjskiej 3 Armii (1917–1918)"
+    }
+   ]
+  },
+  {
+   "start": "21 marca 1918 roku Niemcy rozpoczęli operację Michae",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/04/rozkaz-plecami-do-muru.md",
+     "quote": "21 marca Niemcy rozpoczęli operację Michael, rozbili brytyjską 5 Armię i doszli pod Amiens. Zaledwie cztery dni po jej zatrzymaniu, 9 kwietnia, uderzyli we Flandrii"
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Niemcy zajęli ponad 3 tysiące km² i wzięli około 75 tysięcy jeńców brytyjskich, ale nie rozdzielili armii sprzymierzonych i nie zdobyli Amiens."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rozkaz-plecami-do-muru.md",
+     "quote": "11 kwietnia 1918 Douglas Haig wydał rozkaz dzienny, w którym kazał walczyć „plecami do muru” i bronić każdej pozycji do ostatniego człowieka."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rozkaz-plecami-do-muru.md",
+     "quote": "Rozkaz nakazywał bronić każdej pozycji do ostatniego człowieka i zabraniał jakiegokolwiek odwrotu."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-nad-lys-1918.md",
+     "quote": "9–29 kwietnia 1918 Niemcy uderzyli we Flandrii, rozbili Portugalczyków i zdobyli Kemmel, ale nie przebili się do Hazebrouck ani do portów nad La Manche."
+    }
+   ]
+  },
+  {
+   "start": "8 sierpnia Brytyjczycy Rawlinsona z Kanadyjczykami",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "8–11 sierpnia 1918 Kanadyjczycy, Australijczycy i Brytyjczycy Rawlinsona z czołgami oraz Francuzi Debeneya przełamali front niemiecki na wschód od Amiens."
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-stu-dni.md",
+     "quote": "8 sierpnia – 11 listopada 1918 sprzymierzeni pod wodzą Focha w serii natarć zepchnęli Niemców z Linii Hindenburga ku Mozie i zmusili ich do rozejmu."
+    },
+    {
+     "file": "src/content/battles/1918/bitwy-o-linie-hindenburga.md",
+     "quote": "Brytyjska 1, 3 i 4 Armia przełamały całą Linię Hindenburga między Cambrai a Saint-Quentin i wyszły na otwarty teren."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-nad-sambra-1918.md",
+     "quote": "4 listopada 1918 trzy armie brytyjskie sforsowały Kanał Sambra–Oise, przeszły przez las Mormal i zdobyły Le Quesnoy. Była to ostatnia wielka bitwa BEF."
+    },
+    {
+     "file": "src/content/timeline/1918/11/brytyjczycy-odbijaja-mons.md",
+     "quote": "Rankiem 11 listopada 1918 Kanadyjczycy wkroczyli do Mons, gdzie w 1914 Brytyjczycy stoczyli pierwszą bitwę."
+    }
+   ]
+  },
+  {
+   "start": "W marcu 1919 roku z części jego dywizji utworzono Br",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Army_of_the_Rhine",
+     "quote": "The first British Army of the Rhine was created in March 1919 to implement the occupation of the Rhineland."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Army_of_the_Rhine",
+     "quote": "Light Division (formed from 2nd Division)"
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/army/some-british-army-statistics-of-the-great-war/",
+     "quote": "France and Flanders: 2,046,901 5,399,563"
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/army/some-british-army-statistics-of-the-great-war/",
+     "quote": "Total British Army deaths in France and Flanders: 564,715"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/British_Expeditionary_Force_(World_War_I)",
+     "quote": "Over the course of the war 5,399,563 men served with the BEF, the peak strength being 2,046,901 men."
+    }
+   ]
+  }
+ ]
+}

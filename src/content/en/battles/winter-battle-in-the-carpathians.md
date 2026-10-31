@@ -11,7 +11,7 @@ sides:
     commanders: [Nikolai Ivanov, Aleksei Brusilov, Radko Dimitriev]
 result: Defeat of the Central Powers. Przemyśl could not be relieved and the fortress capitulated on 22 March. The Russian offensive into Hungary also stalled in the mountains.
 source: zimowa-bitwa-w-karpatach
-sourceHash: 862f26549036a9f09ed1519ad7f3928d28136454
+sourceHash: 7051d8f917c5ee43a18898182c61bbaddec16fbc
 brief:
   - "The Winter Battle in the Carpathians was a series of offensives and counter-offensives fought from 23 January to 15 April 1915 on the ridges and passes of the Carpathians."
   - "Conrad von Hötzendorf wanted a winter offensive across the mountains to save besieged Przemyśl, where about 130,000 soldiers were shut up. At the same time the Russians aimed to cross the Carpathians into Hungary."
@@ -32,7 +32,7 @@ The literature uses different time frames. Russian historiography speaks of the 
 
 At the turn of 1914 and 1915 Austria-Hungary was in a difficult position. Since November the Russians had again been besieging Przemyśl, in which about 130,000 soldiers were shut up. The fortress commander, General Hermann Kusmanek, estimated that the food would last until March at most. Russian troops stood on the ridges of the Carpathians and twice, in September and in November 1914, [had already descended into Hungary](/koniec-drugiej-rosyjskiej-inwazji-na-wegry). The December victory [at Limanowa](/bitwy/bitwa-pod-limanowa) pushed the Russians away from Kraków, but the Third Army, which was then to reach Przemyśl, was driven back into the mountains at the end of December. In this fighting the I Brigade of the Legions fought the [battle of Łowczówek](/bitwy/bitwa-pod-lowczowkiem).
 
-The Chief of the General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), decided to save the fortress with a winter offensive across the Carpathians. He also hoped that a victory would keep neutral Italy and Romania from entering the war. The Germans, though sceptical of the plan, sent help. In January 1915 the [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) was formed from German and Austro-Hungarian divisions under the command of General [Alexander von Linsingen](/postacie/alexander-von-linsingen).
+The Chief of the General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), decided to save the fortress with a winter offensive across the Carpathians. He also hoped that a victory would keep neutral Italy and Romania from entering the war. The Germans, though sceptical of the plan, sent help. In January 1915 the [South Army](/sily-zbrojne/armia-poludniowa) was formed from German and Austro-Hungarian divisions under the command of General [Alexander von Linsingen](/postacie/alexander-von-linsingen).
 
 The Russians had plans of their own. Ivanov and his chief of staff, General Mikhail Alekseyev, argued to the high command that the quickest road to victory was a march across the Carpathians into Hungary and on Budapest, which could knock Austria-Hungary out of the war. Two offensives were to collide in the mountains.
 
@@ -40,7 +40,7 @@ The Russians had plans of their own. Ivanov and his chief of staff, General Mikh
 
 According to the most often cited estimates, the strike forces of the Central Powers numbered about 175,000 soldiers at the start of the offensive. The Russian historian Sergei Nelipovich, who counts all troops along the whole Carpathian front, gives for 23 January about 390,000 infantry and more than 3,000 guns on the side of the Central Powers, and about 320,000 infantry and just under 1,500 guns on the Russian side. In the following weeks both sides brought new armies into the mountains.
 
-From west to east the Austro-Hungarian front was made up of: the Third Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) in the [Low Beskids](https://pl.wikipedia.org/wiki/Beskid_Niski) and the [Bieszczady](https://pl.wikipedia.org/wiki/Bieszczady), the South Army in the eastern Bieszczady, and the group of General [Karl Pflanzer-Baltin](/postacie/karl-pflanzer-baltin) in Bukovina and Pokuttya. Facing them stood the Russian [Eighth Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) and the left wing of the Third Army of General [Radko Dimitriev](/postacie/radko-dimitriew).
+From west to east the Austro-Hungarian front was made up of: the Third Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) in the [Low Beskids](https://pl.wikipedia.org/wiki/Beskid_Niski) and the [Bieszczady](https://pl.wikipedia.org/wiki/Bieszczady), the South Army in the eastern Bieszczady, and the group of General [Karl Pflanzer-Baltin](/postacie/karl-pflanzer-baltin) in Bukovina and Pokuttya. Facing them stood the Russian [Eighth Army](/sily-zbrojne/8-armia-rosyjska) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) and the left wing of the Third Army of General [Radko Dimitriev](/postacie/radko-dimitriew).
 
 ## Course
 

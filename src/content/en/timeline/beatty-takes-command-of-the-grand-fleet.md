@@ -2,10 +2,10 @@
 title: Beatty takes command of the Grand Fleet
 summary: On 29 November 1916 Balfour told the Commons that Jellicoe would be First Sea Lord and that David Beatty, hero of Jutland, had taken command of the Grand Fleet.
 source: beatty-dowodca-grand-fleet
-sourceHash: 23720bcf58cd943cac28d83916860852f778735c
+sourceHash: c4eea69254f6f14428a4ffa3b6da9d08f81e29e0
 ---
 
-On 29 November 1916 the First Lord of the Admiralty, [Arthur Balfour](/postacie/arthur-balfour), announced in the House of Commons the greatest changes in the command of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) since the beginning of the war. Admiral [John Jellicoe](/postacie/john-jellicoe), commander of the [Grand Fleet](/sily-zbrojne/grand-fleet) since August 1914, was to become First Sea Lord, that is, the professional head of the navy. His place at the head of the fleet was taken by Vice-Admiral [David Beatty](/postacie/david-beatty), until then commander of the battlecruisers. The outgoing First Sea Lord, [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), was going to the post of President of the Royal Naval College at Greenwich. Balfour added that the decisions had been taken earlier, but the announcement had been delayed for military reasons. By the time of the announcement Beatty was already in command of the fleet.
+On 29 November 1916 the First Lord of the Admiralty, [Arthur Balfour](/postacie/arthur-balfour), announced in the House of Commons the greatest changes in the command of the [Royal Navy](/sily-zbrojne/royal-navy) since the beginning of the war. Admiral [John Jellicoe](/postacie/john-jellicoe), commander of the [Grand Fleet](/sily-zbrojne/grand-fleet) since August 1914, was to become First Sea Lord, that is, the professional head of the navy. His place at the head of the fleet was taken by Vice-Admiral [David Beatty](/postacie/david-beatty), until then commander of the battlecruisers. The outgoing First Sea Lord, [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), was going to the post of President of the Royal Naval College at Greenwich. Balfour added that the decisions had been taken earlier, but the announcement had been delayed for military reasons. By the time of the announcement Beatty was already in command of the fleet.
 
 ## The submarine crisis
 

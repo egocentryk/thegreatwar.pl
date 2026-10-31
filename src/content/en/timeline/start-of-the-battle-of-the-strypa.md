@@ -2,10 +2,10 @@
 title: Start of the Battle of the Strypa
 summary: On 11 June 1916 the Russian 7th Army, having taken Buczacz, attacked Bothmer's South Army beyond the Strypa. A German counter-attack threw it back at Olesza.
 source: poczatek-bitwy-nad-strypa
-sourceHash: 4283d7ccb30e73261a91153cb5f37575fd0b2ad6
+sourceHash: 2449dacde119293e8f14a6bad7703a973d7cadff
 ---
 
-A British chronology of the war records under 11 June 1916 the start of the battle on the [Strypa](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), a river in eastern Galicia on which the front had stood since the autumn of 1915. On that day, 29 May by the Julian calendar then used in Russia, General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s [7th Army](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) struck beyond the Strypa at the right wing of General Felix von Bothmer's German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)). Fighting on the river, however, had been going on for several days already. Russian accounts count it as part of the Jazłowiec operation, dated from 6 to 17 June (24 May to 4 June by the Julian calendar).
+A British chronology of the war records under 11 June 1916 the start of the battle on the [Strypa](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), a river in eastern Galicia on which the front had stood since the autumn of 1915. On that day, 29 May by the Julian calendar then used in Russia, General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s [7th Army](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) struck beyond the Strypa at the right wing of General Felix von Bothmer's German-Austrian [South Army](/sily-zbrojne/armia-poludniowa). Fighting on the river, however, had been going on for several days already. Russian accounts count it as part of the Jazłowiec operation, dated from 6 to 17 June (24 May to 4 June by the Julian calendar).
 
 ## Breakthrough at Jazłowiec
 

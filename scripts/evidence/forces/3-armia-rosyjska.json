@@ -1,0 +1,302 @@
+{
+ "slug": "3-armia-rosyjska",
+ "paragraphs": [
+  {
+   "start": "Rosyjska 3 Armia była jedną z armii polowych",
+   "quotes": [
+    {
+     "file": "src/content/postacie/nikolaj-ruzski.md",
+     "quote": "W sierpniu 1914 roku jego 3 Armia rozbiła Austriaków na wschód od Lwowa i zajęła miasto"
+    },
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "Przez ponad pół roku dowodził rosyjską 3 Armią: oblegał Przemyśl, podchodził pod Kraków i walczył w Karpatach. W maju 1915 roku to jego armia przyjęła pod Gorlicami główne uderzenie Niemców i Austriaków i została rozbita"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "В 1916 году армия участвовала в Брусиловском прорыве, неудачно наступая на рубеже реки Стоход. После его завершения передана на правый фланг Западного фронта и до конца войны активных боевых действий более не вела."
+    },
+    {
+     "url": "https://www.gw2ru.com/history/236811-3-most-serious-defeats-of-the-russian-army-in-world-war-i",
+     "quote": "The Gorlice breakthrough marked the beginning of a series of failures for the Russian army, which ultimately led to the so-called ‘Great retreat’."
+    }
+   ]
+  },
+  {
+   "start": "Dowództwo armii utworzono w lipcu 1914 roku",
+   "quotes": [
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "Полевое управление (штаб 3 А) образовано в июле 1914 года при штабе Киевского военного округа."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "В начале войны в состав армии входили: Полевое управление (Штаб 3 А). IX армейский корпус X армейский корпус XI армейский корпус XXI армейский корпус 9-я кавалерийская дивизия 10-я кавалерийская дивизия 11-я кавалерийская дивизия"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-nad-zlota-lipa.md",
+     "quote": "3 Armia Ruzskiego nadciągała z Wołynia, a 8 Armia Brusiłowa z Podola, przez graniczną rzekę Zbrucz."
+    },
+    {
+     "file": "src/content/postacie/nikolaj-ruzski.md",
+     "quote": "Gdy Austriacy rzucili główne siły na północ, przeciw rosyjskiej 4 i 5 Armii pod Kraśnikiem i Komarowem, Ruzski wraz z 8 Armią Aleksieja Brusiłowa parł na Lwów przeciw słabszej austro-węgierskiej 3 Armii."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Po stronie rosyjskiej na Galicję szedł Front Południowo-Zachodni generała Nikołaja Iwanowa"
+    }
+   ]
+  },
+  {
+   "start": "W bitwie galicyjskiej obie armie rozbiły",
+   "quotes": [
+    {
+     "file": "src/content/postacie/nikolaj-ruzski.md",
+     "quote": "Pod koniec sierpnia obie armie rozbiły ją nad Złotą i Gniłą Lipą, a 3 września Rosjanie weszli do Lwowa"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Однако, Головин Н. Н. писал, что данное бездействие было странным"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Указанное поведение генерала Рузского «дало врагу передышку на его важнейшем, в стратегическом отношении, левом фланге»"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "2 września miasto opuściły ostatnie oddziały austro-węgierskie, a 3 września wkroczyli do niego bez walki Rosjanie."
+    },
+    {
+     "file": "src/content/postacie/nikolaj-ruzski.md",
+     "quote": "co uczyniło go w Rosji bohaterem, „zdobywcą Galicji”"
+    }
+   ]
+  },
+  {
+   "start": "Kilka dni później armia Ruzskiego, idąca od Lwowa",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-grodkiem-i-rawa-ruska.md",
+     "quote": "Auffenberg zaczął przegrupowanie 3 września i wkrótce jego korpusy, idące na południowy wschód, wpadły na maszerujące na zachód korpusy rosyjskiej 3 Armii."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-grodkiem-i-rawa-ruska.md",
+     "quote": "4 Armia miała uderzyć od północy, spod Rawy Ruskiej, w skrzydło Rosjan maszerujących od Lwowa na zachód."
+    },
+    {
+     "url": "https://btgv.ru/history/great-war/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%B1%D0%B5%D0%B6/1914/rava-russian-operation-of-1914/",
+     "quote": "Последствием этого стал разброс корпусов армии веером на фронте до 100 км."
+    },
+    {
+     "url": "https://btgv.ru/history/great-war/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%B1%D0%B5%D0%B6/1914/rava-russian-operation-of-1914/",
+     "quote": "С другой стороны, эта ситуация свидетельствует о серьезных оперативно-тактических упущения со стороны командования русской 3-й армии и лично Н. В. Рузского."
+    },
+    {
+     "url": "https://btgv.ru/history/great-war/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%B1%D0%B5%D0%B6/1914/rava-russian-operation-of-1914/",
+     "quote": "Ключевое значение для успеха штурма Равы Русской имело то обстоятельство, что группа корпусов – 21-й армейский 3-й армии и 5-й и 17-й армейские 5-й армии - наступлением с севера способствовала оставлению противником укрепленного района."
+    }
+   ]
+  },
+  {
+   "start": "Bułgarski generał w służbie rosyjskiej chciał",
+   "quotes": [
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "Dimitriew chciał zdobyć twierdzę, zanim Austriacy przejdą do kontrofensywy. Wezwał załogę do kapitulacji, a po odmowie w dniach 5–8 października rzucił piechotę do szturmu na forty, bez ciężkiej artylerii oblężniczej. Atak przyniósł ciężkie straty i nie dał nic, a kilka dni później nadeszła austriacka odsiecz."
+    },
+    {
+     "file": "src/content/postacie/dmitrij-szczerbaczow.md",
+     "quote": "Szczerbaczow dostał dowództwo grupy około sześciu i pół dywizji, która obległa Przemyśl."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsze-oblezenie-przemysla.md",
+     "quote": "Wobec zbliżania się austro-węgierskiej 3 Armii generała Svetozara Boroevicia Rosjanie przerwali oblężenie i wycofali się na wschodni brzeg Sanu."
+    }
+   ]
+  },
+  {
+   "start": "W listopadzie, po odwrocie państw centralnych",
+   "quotes": [
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "a w listopadzie, po odwrocie państw centralnych, szła od Tarnowa na zachód"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-krakowem.md",
+     "quote": "Na pomoc zagrożonemu skrzydłu 9 Armii Rosjanie przerzucili przez Wisłę korpusy z 3 Armii Dimitriewa."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-krakowem.md",
+     "quote": "Pod koniec listopada rosyjska 3 Armia podeszła pod Kraków od południowego wschodu. Około 30 listopada Rosjanie zajęli Wieliczkę, a także Dobczyce."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-limanowa.md",
+     "quote": "Rosyjska 3 Armia gen. Radko Dimitriewa weszła w lukę między armiami austro-węgierskimi i groziła obejściem twierdzy Kraków. Conrad postanowił uderzyć z gór w jej bok i tyły."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-limanowa.md",
+     "quote": "Zwycięstwo Austro-Węgier. Rosyjska 3 Armia cofnęła się za Dunajec"
+    }
+   ]
+  },
+  {
+   "start": "Zimą jej lewe skrzydło walczyło w Beskidzie",
+   "quotes": [
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "Zimą lewe skrzydło 3 Armii walczyło w Beskidzie Niskim w zimowej bitwie w Karpatach, w śniegu i mrozie, które kosztowały ją dziesiątki tysięcy chorych i odmrożonych. Wiosną 1915 roku jej front ciągnął się od Wisły pod Tarnowem po Przełęcz Łupkowską"
+    },
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "Okopy były płytkie, tylne pozycje słabe, a artylerii brakowało amunicji."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "Во всей 3 армии в составе 7 корпусов кроме легких орудий на фронте 200 верст было всего 4 тяжелых орудия."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "ze 141 lekkimi działami i zaledwie czterema ciężkimi"
+    }
+   ]
+  },
+  {
+   "start": "2 maja 1915 roku nowa niemiecka 11 Armia",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "2 maja 1915 roku niemiecka 11 Armia generała Augusta von Mackensena, wsparta przez Austro-Węgrów, uderzyła na rosyjską 3 Armię pod Gorlicami."
+    },
+    {
+     "url": "https://www.gw2ru.com/history/236811-3-most-serious-defeats-of-the-russian-army-in-world-war-i",
+     "quote": "The German and Austro-Hungarian troops outnumbered the Russian 3rd Army three times in personnel and six times in artillery."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "Wieczorem pierwsza linia rosyjska była przełamana na całym odcinku natarcia, na głębokość kilku kilometrów."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "a wieczorem 5 maja generał Radko Dimitriew nakazał całej 3 Armii odwrót za Wisłokę"
+    }
+   ]
+  },
+  {
+   "start": "Naczelne dowództwo zakazywało cofania się",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "Kwatera Główna wielkiego księcia kategorycznie zabroniła odwrotu i żądała utrzymania pozycji."
+    },
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "W ciągu dwóch tygodni 3 Armia straciła całą Galicję Zachodnią i dziesiątki tysięcy jeńców."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "Liczba rosyjskich jeńców przekroczyła według niemieckich i austriackich komunikatów 140 tysięcy."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "19 мая капитан Нейльсон, донося о потерях этой армии, пишет: «Потери колоссальны. Мне сказали, что к 16-му они были более 100 000, но я думаю, что они больше…"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "в одной дивизии осталось 1000 человек, в другой 900"
+    }
+   ]
+  },
+  {
+   "start": "10 maja Dimitriew wycofał armię za San",
+   "quotes": [
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "10 maja nakazał odwrót za San."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-nad-sanem.md",
+     "quote": "Dwa korpusy 3 Armii, XII i XXI, wraz z załogą Przemyśla przekazano pod rozkazy generała Aleksieja Brusiłowa"
+    },
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "Dowództwo szukało winnego. Według rosyjskich spisów służby Dimitriewa odsunięto od dowodzenia w drugiej połowie maja, a oficjalny rozkaz wydano na początku czerwca. 3 Armię przejął generał Leonid Lesz"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "Северо-Западного фронта (июнь — авг. 1915)"
+    }
+   ]
+  },
+  {
+   "start": "Latem Lesz bronił się na Lubelszczyźnie",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/druga-bitwa-pod-krasnikiem.md",
+     "quote": "1–19 lipca 1915 austro-węgierska 4 Armia przełamała rosyjskie pozycje pod Kraśnikiem, ale rosyjskie odwody zatrzymały ją kilkanaście kilometrów dalej."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-krasnymstawem.md",
+     "quote": "16–18 lipca 1915 niemiecka 11 Armia Mackensena wdarła się w front rosyjskiej 3 Armii nad Wieprzem i zajęła Krasnystaw"
+    },
+    {
+     "file": "src/content/timeline/1915/07/poczatek-bitwy-pod-biskupicami.md",
+     "quote": "W połowie lipca rosyjskie dowództwo wzmocniło ją dwoma korpusami z odwodu: gwardią i II Korpusem Syberyjskim."
+    },
+    {
+     "file": "src/content/timeline/1915/07/koniec-bitwy-pod-krasnymstawem.md",
+     "quote": "Rosyjskie opracowania oceniają łączne straty tej armii na 25–30 tysięcy ludzi."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zdobywaja-brzesc-litewski.md",
+     "quote": "Główne siły rosyjskiej 3 Armii uszły na wschód, w stronę Kobrynia i Prużan"
+    },
+    {
+     "file": "src/content/timeline/1915/09/niemcy-zajmuja-pinsk.md",
+     "quote": "Po utracie Pińska Rosjanie wycofali się za Jasiołdę i Kanał Ogińskiego, w głąb bagien nad Prypecią."
+    }
+   ]
+  },
+  {
+   "start": "Przez zimę armia stała na Froncie Zachodnim",
+   "quotes": [
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "Западного фронта (август 1915 — июнь 1916) Юго-Западного фронта (июнь — июль 1916)"
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-kostiuchnowka.md",
+     "quote": "Pod koniec miesiąca Kwatera Główna przekazała generałowi Aleksiejowi Brusiłowowi 3 Armię generała Leonida Lesza, która miała uderzyć swoim lewym skrzydłem na Hołuzję i Maniewicze, a dalej na Kowel."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-kostiuchnowka.md",
+     "quote": "4–6 lipca 1916 I i III Brygada Legionów broniły się nad Styrem przed rosyjskim XLVI Korpusem. Straciły około 2 tysięcy ludzi i cofnęły się za Stochód."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-kostiuchnowka.md",
+     "quote": "a do 14 lipca wojska Lesza i Kaledina stanęły nad Stochodem. Tam jednak natarcie się zatrzymało, a Kowla Rosjanie nie zdobyli aż do końca ofensywy."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "В 1916 году армия участвовала в Брусиловском прорыве, неудачно наступая на рубеже реки Стоход."
+    }
+   ]
+  },
+  {
+   "start": "Po tych walkach armię oddano z powrotem",
+   "quotes": [
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "После его завершения передана на правый фланг Западного фронта и до конца войны активных боевых действий более не вела. В конце 1917 года штаб 3-й армии размещался в Полоцке. Армия расформирована в феврале-марте 1918 года."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "в штаб армий был назначен военный комиссар Временного правительства, после Февральской революции 1917 года"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/3-я_армия_(Российская_империя)",
+     "quote": "03.06.1915 — 03.08.1917 — генерал от инфантерии Леш, Леонид Вильгельмович 03.08.1917 — 11.08.1917 — генерал-лейтенант Квецинский, Михаил Фёдорович 11.08.1917 — 09.09.1917 — генерал-лейтенант Цихович, Януарий Казимирович 12.09.1917 — 09.10.1917 — генерал-лейтенант Одишелидзе, Илья Зурабович 09.10.1917 — 08.11.1917 — генерал-лейтенант Парский, Дмитрий Павлович 08.11.1917 — ??.04.1918 — подпоручик Анучин, Сергей Андреевич"
+    }
+   ]
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 title: Battle of Mościska and Lubaczów begins
 summary: On 12 June 1915 Mackensen's troops crossed the San and the Lubaczówka near Sieniawa. The battle that was to open the road to Lviv had begun.
 source: poczatek-bitwy-pod-mosciskami-i-lubaczowem
-sourceHash: 32f336a9f89038d2e5a78d5f40cc8af34cafdbdf
+sourceHash: 8304256ed10f5f7d738f08c270865fc48209b22d
 ---
 
 Early on the morning of 12 June 1915 the artillery of the Austro-Hungarian [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) opened fire on the Russian positions on the eastern bank of the [San](https://pl.wikipedia.org/wiki/San) near [Sieniawa](https://pl.wikipedia.org/wiki/Sieniawa). German and Austro-Hungarian infantry crossed the river and the [Lubaczówka](https://pl.wikipedia.org/wiki/Lubaczówka), which flows into it, and broke into the Russian trenches. Thus began the Battle of [Mościska](https://pl.wikipedia.org/wiki/Mościska) and [Lubaczów](https://pl.wikipedia.org/wiki/Lubaczów), the next stage of the Central Powers' offensive in Galicia after the [recapture of Przemyśl](/bitwy/odbicie-przemysla). Its objective was [Lviv](https://pl.wikipedia.org/wiki/Lwów).
@@ -15,7 +15,7 @@ General [August von Mackensen](/postacie/august-von-mackensen) received new Germ
 
 ## The Russians before the battle
 
-After the loss of Przemyśl the Russian [Eighth Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) dug in on the hills west of Mościska, and to the north of it the [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) of General Leonid Lesh on the Lubaczówka and the San. Both armies had been bled white. According to Russian reports cited by the Austrian official history, the South-Western Front lost 412,000 men in May alone. The front commander, General [Nikolai Ivanov](/postacie/nikolaj-iwanow), reported on 5 June that they had to defend themselves with the utmost tenacity, because the enemy would eventually run out of shells. He withdrew several corps into reserve, three of them to the area of Lubaczów.
+After the loss of Przemyśl the Russian [Eighth Army](/sily-zbrojne/8-armia-rosyjska) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) dug in on the hills west of Mościska, and to the north of it the [Third Army](/sily-zbrojne/3-armia-rosyjska) of General Leonid Lesh on the Lubaczówka and the San. Both armies had been bled white. According to Russian reports cited by the Austrian official history, the South-Western Front lost 412,000 men in May alone. The front commander, General [Nikolai Ivanov](/postacie/nikolaj-iwanow), reported on 5 June that they had to defend themselves with the utmost tenacity, because the enemy would eventually run out of shells. He withdrew several corps into reserve, three of them to the area of Lubaczów.
 
 ## The crossing at Sieniawa
 

@@ -25,4 +25,4 @@ W nocy 25 sierpnia niemiecki stawiacz min Nautilus, osłaniany przez lekki krą�
 
 ## Znaczenie
 
-Po [krążowniku Amphion](/hms-amphion-zatopiony-na-minie) był to kolejny okręt [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) stracony na niemieckich minach w pierwszych tygodniach wojny. Straty poniesione przy próbach oczyszczenia pola minowego u ujścia Humber skłoniły Admiralicję do zmiany taktyki. Zamiast usuwać całe zagrody minowe, trałowce zaczęły wytyczać przez nie bezpieczne kanały dla żeglugi.
+Po [krążowniku Amphion](/hms-amphion-zatopiony-na-minie) był to kolejny okręt [Royal Navy](/sily-zbrojne/royal-navy) stracony na niemieckich minach w pierwszych tygodniach wojny. Straty poniesione przy próbach oczyszczenia pola minowego u ujścia Humber skłoniły Admiralicję do zmiany taktyki. Zamiast usuwać całe zagrody minowe, trałowce zaczęły wytyczać przez nie bezpieczne kanały dla żeglugi.

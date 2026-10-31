@@ -2,7 +2,7 @@
 title: Last Zeppelin raid
 summary: On 5 August 1918 five naval airships set out for England. A British DH.4 shot down L 70 over the sea, killing Peter Strasser, the head of the airship service.
 source: ostatni-nalot-zeppelinow
-sourceHash: 523be1fb39da2d1bfdd56fc45734c0d3f4f97f63
+sourceHash: 056386416e893772d8e213b2eff789b922312292
 ---
 
 On the afternoon of 5 August 1918 five German naval airships took off from bases in northern Germany: L 53, L 56, L 63, L 65 and L 70. They were to bomb the English Midlands. On board the newest of them, L 70, flew [Peter Strasser](/postacie/peter-strasser) himself, the commander of the Naval Airship Division. It was the first airship raid on England since the [raid of 12 April](/ostatni-nalot-sterowcow-z-ofiarami) and, as it turned out, the last of the war. That night the bombs fell only into the sea, and L 70 was shot down in flames off the coast of [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)). The whole crew and Strasser were killed.
@@ -11,7 +11,7 @@ On the afternoon of 5 August 1918 five German naval airships took off from bases
 
 H. A. Jones, the author of the British official history of the war in the air, points out that the weather did not favour a raid. The pressure was falling, the sky was overcast and it was raining over land. Never before had airships set out for England with the barometer so low. L 70 was then the newest ship of the naval airship fleet. She had entered service on 8 July, and her seven 290-horsepower Maybach engines made her the most powerful Zeppelin built during the war. She was commanded by Kapitänleutnant Johann von Lossnitzer, but his superior was on board. Strasser often flew over England with his airships in person.
 
-The naval airship fleet was by then weakened. On 19 July British Sopwith Camels from the aircraft carrier [HMS *Furious*](https://pl.wikipedia.org/wiki/HMS_Furious_(1916)) had bombed the base at [Tondern](https://pl.wikipedia.org/wiki/Tønder) in Schleswig and burned two airships, L 54 and L 60, in their shed. British air defence, meanwhile, was much stronger than in previous years. Since April it had come under the new [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force), which had many aircraft on the east coast capable of climbing to the heights at which the airships now flew.
+The naval airship fleet was by then weakened. On 19 July British Sopwith Camels from the aircraft carrier [HMS *Furious*](https://pl.wikipedia.org/wiki/HMS_Furious_(1916)) had bombed the base at [Tondern](https://pl.wikipedia.org/wiki/Tønder) in Schleswig and burned two airships, L 54 and L 60, in their shed. British air defence, meanwhile, was much stronger than in previous years. Since April it had come under the new [Royal Air Force](/sily-zbrojne/royal-air-force), which had many aircraft on the east coast capable of climbing to the heights at which the airships now flew.
 
 ## The shooting down of L 70
 

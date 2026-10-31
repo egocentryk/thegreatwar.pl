@@ -1,0 +1,281 @@
+{
+ "slug": "9-armia-niemiecka",
+ "paragraphs": [
+  {
+   "start": "Niemiecka 9 Armia była armią cesarskich Niemiec",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/9th_Army_(German_Empire)",
+     "quote": "It was formed in September 1914 in Breslau to command troops on the southern sector of the Eastern Front.  The army was dissolved on 30 July 1916, but reformed in Transylvania on 6 September 1916 for the Romanian Campaign.  It was transferred to the Western Front on 19 June 1918 where it was finally dissolved on 18 September 1918."
+    },
+    {
+     "file": "src/content/timeline/1914/09/hindenburg-naczelnym-dowodca-na-wschodzie.md",
+     "quote": "Dowództwo 9 Armii przejął Mackensen, a jej wojska przerzucono koleją w rejon Torunia, skąd w listopadzie uderzyły w bok Rosjan, co doprowadziło do bitwy pod Łodzią."
+    },
+    {
+     "file": "src/content/postacie/leopold-bawarski.md",
+     "quote": "Wiosną 1915 roku wrócił do służby i do końca wojny dowodził na froncie wschodnim, najpierw 9 Armią, która w sierpniu 1915 roku weszła do Warszawy"
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/9._Armee_(Deutsches_Kaiserreich)",
+     "quote": "Ab November 1916 griff die 9. Armee an, eroberte gemeinsam mit der Donau-Armee der Heeresgruppe Mackensen Bukarest"
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/9._Armee_(Deutsches_Kaiserreich)",
+     "quote": "Das AOK 9 war an der Zweiten Schlacht an der Marne nahe Soissons beteiligt"
+    }
+   ]
+  },
+  {
+   "start": "Po klęsce Austro-Węgier w bitwie galicyjskiej",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Po klęsce Austro-Węgier w Galicji Niemcy utworzyli 9 Armię Hindenburga"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Niemcy utworzyli więc na Śląsku nową 9 Armię, złożoną w dużej części z korpusów przerzuconych koleją z Prus Wschodnich."
+    },
+    {
+     "url": "https://archive.org/details/outofmylife0000hind",
+     "quote": "On September 15 I had to part from General Ludendorff. He had been appointed Chief of Staff of the newly formed 9th Army. On September 17, however, His Majesty gave orders that I was to take over the command of this army while retaining my control of the 8th Army which had been left behind to protect East Prussia"
+    },
+    {
+     "file": "src/content/timeline/1914/09/hindenburg-naczelnym-dowodca-na-wschodzie.md",
+     "quote": "Dowództwo 9 Armii zorganizowano 19 września we Wrocławiu"
+    },
+    {
+     "url": "https://archive.org/details/mywarmemories19101lude",
+     "quote": "The 9th Army was formed out of the 8th Cav. Div., the 11th, 17th and 20th A.C., the Guard R.C., the 35th Res. Div. and Count von Bredow's Landwehr Division."
+    }
+   ]
+  },
+  {
+   "start": "28 września armia ruszyła przez Królestwo Polskie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/hindenburg-naczelnym-dowodca-na-wschodzie.md",
+     "quote": "28 września 9 Armia ruszyła do natarcia przez Królestwo Polskie w stronę Wisły"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "9 Armię Hindenburga, która razem z austro-węgierską 1 Armią Dankla uderzyła przez Królestwo Polskie"
+    },
+    {
+     "file": "src/content/timeline/1914/10/koniec-bitwy-pod-warszawa.md",
+     "quote": "Północne skrzydło niemieckiej 9 Armii, grupa generała Augusta von Mackensena, skręciło na Warszawę i około 12 października stanęło kilkanaście kilometrów od miasta."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Pod koniec października 9 Armia była z powrotem w pobliżu pozycji, z których wyruszyła"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Według jednych danych sama niemiecka 9 Armia straciła w tej kampanii około 40 tysięcy żołnierzy."
+    }
+   ]
+  },
+  {
+   "start": "1 listopada Hindenburg został naczelnym dowódcą",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "1 listopada Hindenburg został naczelnym dowódcą na froncie wschodnim, a dowództwo 9 Armii objął Mackensen."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "11 listopada 9 Armia rozpoczęła natarcie pod Włocławkiem, a 6 grudnia wojska niemieckie weszły do opuszczonej przez Rosjan Łodzi."
+    }
+   ]
+  },
+  {
+   "start": "Armię wzmocniono kosztem 8 Armii",
+   "quotes": [
+    {
+     "url": "https://archive.org/details/outofmylife0000hind",
+     "quote": "However great was the threat to the 8th Army, it had to give up two corps to the 9th."
+    },
+    {
+     "url": "https://archive.org/details/outofmylife0000hind",
+     "quote": "As the result of the measures of which I have spoken the total strength of the 9th Army was brought up to about five and a half corps and five cavalry divisions. Two of the latter had come from the Western Front."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Hindenburg i Ludendorff przerzucili 9 Armię Mackensena pod Toruń, by uderzyła w bok rosyjskiej 2 Armii.\" - \"Niemcy niemal okrążyli Łódź, ale nie zamknęli pierścienia od południa."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Po kilku dniach to Niemcy znaleźli się w okrążeniu, z którego wyrwali się pod Brzezinami."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "W nocy z 5 na 6 grudnia Rosjanie opuścili Łódź"
+    }
+   ]
+  },
+  {
+   "start": "Zimą front zastygł nad Bzurą i Rawką",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Rosjanie opuścili Łódź i wycofali się nad Bzurę i Rawkę."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-bolimowem.md",
+     "quote": "Na przełomie stycznia i lutego 1915 roku niemiecka 9 Armia uderzyła nad Rawką pod Bolimowem, około 60 kilometrów na zachód od Warszawy."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-bolimowem.md",
+     "quote": "31 stycznia Niemcy wystrzelili około 18 tysięcy pocisków z gazem łzawiącym, po raz pierwszy w tej wojnie używając broni chemicznej na dużą skalę. W mrozie bromek ksylilu prawie nie parował."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-bolimowem.md",
+     "quote": "Gaz zawiódł, a front nie pękł."
+    }
+   ]
+  },
+  {
+   "start": "W kwietniu Mackensen wyjechał do Galicji",
+   "quotes": [
+    {
+     "file": "src/content/postacie/leopold-bawarski.md",
+     "quote": "W kwietniu 1915 roku, gdy August von Mackensen wyjechał do Galicji szykować uderzenie pod Gorlicami, Leopolda przywrócono do służby i dano mu po Mackensenie 9 Armię"
+    },
+    {
+     "file": "src/content/postacie/leopold-bawarski.md",
+     "quote": "Latem 1915 roku wielka ofensywa państw centralnych uderzyła na Królestwo Polskie od północy i od południa, a 9 Armia miała wiązać Rosjan od frontu. Gdy w połowie lipca Rosjanie zaczęli się cofać, wojska Leopolda poszły za nimi, przełamały pozycje pod Błoniem i linię warszawskich fortów, a 5 sierpnia weszły do opuszczonej przez Rosjan Warszawy."
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/9._Armee_(Deutsches_Kaiserreich)",
+     "quote": "Das Hauptquartier des Armeeoberkommandos befand sich vom 2. Januar bis zum 21. Juli 1915 in Łódź und ab dem 22. September 1915 in Slonim. Ab August 1915 fungierte es gleichzeitig als Heeresgruppenkommando der Heeresgruppe Prinz Leopold von Bayern. Am 30. Juli 1916 wurde die Armee selbst aufgelöst"
+    },
+    {
+     "url": "https://archive.org/details/mywarmemories19101lude",
+     "quote": "Field-Marshal Prince Leopold of Bavaria took command of the 9th Army"
+    }
+   ]
+  },
+  {
+   "start": "27 sierpnia 1916 roku Rumunia wypowiedziała",
+   "quotes": [
+    {
+     "file": "src/content/postacie/erich-von-falkenhayn.md",
+     "quote": "tymczasem 27 sierpnia Rumunia wypowiedziała wojnę Austro-Węgrom"
+    },
+    {
+     "file": "src/content/postacie/erich-von-falkenhayn.md",
+     "quote": "29 sierpnia 1916 roku zastąpił go Hindenburg"
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/9._Armee_(Deutsches_Kaiserreich)",
+     "quote": "Dazu wurde das Armeeoberkommando 9 am 6. September 1916 erneut zusammengestellt und nach Siebenbürgen verlegt. Es hatte allerdings mit General der Infanterie Erich von Falkenhayn, dem ehemaligen Kriegsminister und Chef des Generalstabes des Feldheeres, einen neuen Oberbefehlshaber"
+    },
+    {
+     "file": "src/content/postacie/erich-von-falkenhayn.md",
+     "quote": "W bitwie pod Sybinem pod koniec września nie zdołał okrążyć rumuńskiego korpusu, jak zamierzał, ale wyparł Rumunów z kotliny Sybina"
+    },
+    {
+     "file": "src/content/timeline/1916/08/rumuni-zajmuja-braszow.md",
+     "quote": "niemiecka 9 Armia Ericha von Falkenhayna ruszyła na Braszów i w dniach 7–9 października odbiła miasto."
+    }
+   ]
+  },
+  {
+   "start": "Armia, złożona z dywizji niemieckich i austro-węgierskich",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/9th_Army_(German_Empire)",
+     "quote": "Group Krafft\npart of Alpenkorps\nCavalry Corps \"Schmettow\""
+    },
+    {
+     "file": "src/content/battles/1916/druga-bitwa-nad-jiu.md",
+     "quote": "Przez cały październik 1916 roku niemiecka 9 Armia generała Ericha von Falkenhayna bezskutecznie próbowała przejść przez przełęcze Karpat Południowych."
+    },
+    {
+     "file": "src/content/battles/1916/druga-bitwa-nad-jiu.md",
+     "quote": "W dniach 11–17 listopada 1916 korpus generała Kühnego przełamał rumuński front w dolinie Jiu, zajął Târgu Jiu i otworzył 9 Armii drogę na równinę Oltenii."
+    },
+    {
+     "file": "src/content/postacie/erich-von-falkenhayn.md",
+     "quote": "Tam współdziałał z Armią Dunajską Mackensena, która sforsowała Dunaj z Bułgarii. Na początku grudnia obie armie rozbiły rumuńską kontrofensywę w bitwie nad Argeșem, a 6 grudnia weszły do Bukaresztu."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-zdobywaja-fokszany.md",
+     "quote": "8 stycznia 1917 Niemcy weszli do Fokszan, opuszczonych nocą przez Rosjan po walkach nad Milcovem. Front rosyjsko-rumuński stanął na Putnie i Serecie."
+    }
+   ]
+  },
+  {
+   "start": "Latem 1917 roku armią dowodził generał Johannes",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/bitwa-pod-marasesti.md",
+     "quote": "6 sierpnia 1917 roku niemiecka 9 Armia z grupy armii feldmarszałka Augusta von Mackensena uderzyła znad rzeki Putny na północ"
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-marasesti.md",
+     "quote": "Niemiecka 9 Armia generała piechoty Johannesa von Ebena liczyła według Kirițescu 12 dywizji, czyli 102 bataliony piechoty, 865 dział i 1135 karabinów maszynowych. Wśród nich były dywizje austro-węgierskie (62 Dywizja Piechoty i 13 Dywizja Strzelców)"
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-marasesti.md",
+     "quote": "Zwycięstwo Rumunów i Rosjan. Niemcy posunęli się o 6–7 kilometrów, ale nie przełamali frontu, nie doszli do Adjud i musieli zrezygnować z zajęcia Mołdawii."
+    },
+    {
+     "file": "src/content/timeline/1917/12/rozejm-w-fokszanach.md",
+     "quote": "9 grudnia 1917 w Fokszanach armie frontu rumuńskiego podpisały rozejm z państwami centralnymi."
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/9._Armee_(Deutsches_Kaiserreich)",
+     "quote": "Im Frühjahr 1918 stand die 9. Armee im Nordosten Rumäniens."
+    }
+   ]
+  },
+  {
+   "start": "19 czerwca 1918 roku dowództwo 9 Armii",
+   "quotes": [
+    {
+     "url": "https://de.wikipedia.org/wiki/9._Armee_(Deutsches_Kaiserreich)",
+     "quote": "Am 19. Juni 1918 wurde das Armeeoberkommando 9 an die Westfront verlegt. Dort kam es bereits am 5. Juli 1918 am westlichen Abschnitt des Marnebogens zum Einsatz. Der seit 18. Juni 1918 mit der Führung beauftragte General Fritz von Below war todkrank, daher führte der vorherige Oberbefehlshaber General der Infanterie Johannes von Eben das Kommando in Vertretung bis Anfang August weiter."
+    },
+    {
+     "url": "https://archive.org/details/mywarmemories19102lude",
+     "quote": "To relieve the 7th Army Headquarters, the 9th Army Headquarters from Rumania was put in between the Oise and the Ourcq astride the Aisne. In the attack on both sides of Rheims we reckoned on an enemy counter-offensive between the Aisne and the Marne, with Soissons as its principal objective, and we disposed the 9th Army and the right wing of the 7th accordingly."
+    },
+    {
+     "file": "src/content/timeline/1918/07/kontrofensywa-mangina.md",
+     "quote": "18 lipca 1918 francuska 10 Armia Mangina z Amerykanami i setkami czołgów uderzyła bez przygotowania artyleryjskiego spod Villers-Cotterêts na skrzydło Niemców."
+    },
+    {
+     "file": "src/content/timeline/1918/07/kontrofensywa-mangina.md",
+     "quote": "Ebenowi polecono za wszelką cenę utrzymać Soissons"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-w-soissonnais-i-nad-ourcq.md",
+     "quote": "W nocy z 1 na 2 sierpnia cofnęli się za Vesle i Aisne, a 2 sierpnia oddali Soissons."
+    }
+   ]
+  },
+  {
+   "start": "W drugiej połowie sierpnia Francuzi uderzyli",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/druga-bitwa-pod-noyon.md",
+     "quote": "17–29 sierpnia 1918 armie Mangina i Humberta uderzyły między Oise a Aisne, zepchnęły Niemców za Ailette i odbiły zrujnowane Noyon."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-pod-noyon.md",
+     "quote": "Naprzeciw niej stała niemiecka 9 Armia generała Johannesa von Ebena"
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/9._Armee_(Deutsches_Kaiserreich)",
+     "quote": "dann als Teil der Heeresgruppe Boehn an der Abwehr gegen die Hunderttageoffensive der Alliierten und wich später in die Siegfriedstellung aus. Am 18. September 1918 wurde es jedoch aufgelöst"
+    },
+    {
+     "url": "https://archive.org/details/mywarmemories19102lude",
+     "quote": "The 2nd Army was assigned to Rupprecht's Army Group, and the 18th to that of the German Crown Prince. In this group, the 9th Army was taken over by the 7th."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "slug": "legion-czechoslowacki",
+ "paragraphs": [
+  {
+   "start": "Legionem Czechosłowackim nazywa się oddziały, któr",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Legion Czechosłowacki – oddziały Czechów i Słowaków walczące po stronie Ententy, przede wszystkim w Rosji."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "Cały korpus liczył wiosną 1918 roku, w zależności od źródła, od około 40 do 50 tysięcy żołnierzy."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W sierpniu 1914 roku Czesi mieszkający w Rosji utworzyli w Kijowie Drużynę Czeską, liczącą początkowo około 700 ochotników. Dołączali do niej jeńcy i dezerterzy z armii austro-węgierskiej. Rozgłos przyniosła legionistom bitwa pod Zborowem w lipcu 1917 roku."
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "Militarnie bitwa była tylko epizodem ofensywy, ale stała się legendą, a później symbolem walki o niepodległą Czechosłowację."
+    },
+    {
+     "file": "src/content/timeline/1920/09/koniec-ewakuacji-legionu-czechoslowackiego.md",
+     "quote": "2 września 1920 roku z Władywostoku wypłynął amerykański transportowiec „Heffron” z ostatnimi żołnierzami czechosłowackiego wojska w Rosji."
+    }
+   ]
+  },
+  {
+   "start": "W Rosji mieszkało przed wojną około stu tysięcy Cz",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/czechoslovak-legions-russian-empire/",
+     "quote": "By 1914 about 100,000 Czechs and Slovaks lived in Russia."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/czechoslovak-legions-russian-empire/",
+     "quote": "When the First World War began many of them connected the fight against Austria-Hungary with the hope for the creation of an independent Czech state in the near future."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "W sierpniu 1914 roku Czesi mieszkający w Rosji uzyskali zgodę cara na utworzenie w Kijowie własnego oddziału, Drużyny Czeskiej, liczącej początkowo około 700 ochotników."
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "Carskie władze nie ufały jednak tym, którzy złamali przysięgę wobec własnego monarchy. Używały czeskich ochotników głównie jako zwiadowców i tłumaczy, rozrzuconych po wielu dywizjach, i niechętnie godziły się na werbunek w obozach jeńców."
+    }
+   ]
+  },
+  {
+   "start": "Mimo to oddział powoli rósł. W grudniu 1915 roku p",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/czechoslovak-legions-russian-empire/",
+     "quote": "The Jan Hus 1 st Czechoslovak Rifle Regiment was formed in December 1915."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/czechoslovak-legions-russian-empire/",
+     "quote": "On 6 April 1916 an order was issued relating to the formation of a Czechoslovak Rifle Brigade."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/czechoslovak-legions-russian-empire/",
+     "quote": "In the spring and summer of 1916 many Czech and Slovak soldiers participated in the famous Lutsk (Brusilov) breakthrough against the Austro-Hungarian forces."
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "Rewolucja lutowa zmieniła sytuację. Rząd Tymczasowy był życzliwszy narodom walczącym z Austro-Węgrami"
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "W maju 1917 roku do Piotrogrodu przybył przywódca czeskiej emigracji, profesor Tomáš Masaryk. Zabiegał o rozbudowę czechosłowackiego wojska"
+    }
+   ]
+  },
+  {
+   "start": "2 lipca 1917 roku, w czasie ofensywy Kiereńskiego,",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "2 lipca 1917 roku, drugiego dnia ofensywy Kiereńskiego, pod Zborowem w Galicji Wschodniej do ataku ruszyła Czechosłowacka Brygada Strzelców. Około trzech i pół tysiąca Czechów i Słowaków"
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "W ciągu kilku godzin przełamali kolejne linie austro-węgierskich okopów"
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "Z drużyny wyrósł z czasem pułk, a potem brygada strzelców, która latem 1917 roku liczyła trzy pułki."
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "Według źródeł czeskich brygada wzięła do niewoli około 3300 żołnierzy"
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "„Po raz pierwszy w tej wojnie obywatele monarchii naddunajskiej wystąpili przeciw jej armii w większych oddziałach jako sprzymierzeńcy wroga” – pisała austriacka historia oficjalna. Wiadomość obiegła świat."
+    }
+   ]
+  },
+  {
+   "start": "Po Zborowie Rząd Tymczasowy zgodził się na werbune",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "po której Rząd Tymczasowy zgodził się na werbunek w obozach jenieckich. Brygada rozrosła się w dwie dywizje, a jesienią w korpus."
+    },
+    {
+     "url": "https://www.vhu.cz/en/?p=105776",
+     "quote": "when the Czechoslovak Army Corps, consisting of two divisions, was established on the basis of the Order of the Chief of Staff of Supreme Commander of Russian Forces, No. 613, dated October 9 (September 26) 1917"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/czechoslovak-legions-russian-empire/",
+     "quote": "On 26 September 1917 General Dukhonin ordered an independent Czechoslovak corps consisting of two divisions and a reserve brigade to be formed in Kiev. General Vladimir Nikolaevich Shokorov (1868-1940) was put at the head of the corps, and General Mikhail Konstantinovich Diterikhs (1874-1937) was named Chief of Staff."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "Po przewrocie bolszewickim Masaryk ogłosił neutralność korpusu w sporach wewnętrznych Rosji"
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "W grudniu 1917 roku dekret rządu francuskiego (według większości źródeł z 19 grudnia) powołał autonomiczną armię czechosłowacką we Francji, a korpus w Rosji uznano za jej część, podporządkowaną formalnie francuskiemu dowództwu. Czechosłowacy stali się w ten sposób wojskiem sojuszniczym, choć państwa, za które walczyli, jeszcze nie było."
+    }
+   ]
+  },
+  {
+   "start": "Traktat brzeski nie zostawiał w Rosji miejsca dla",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "Traktat brzeski zobowiązywał Rosję radziecką do demobilizacji i nie zostawiał miejsca dla obcego wojska walczącego z państwami centralnymi."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "Na początku 1918 roku korpus stał na Ukrainie. Gdy w lutym ruszyła niemiecka ofensywa, jego 1 Dywizja w walkach pod Bachmaczem w marcu powstrzymywała Niemców tak długo, aż pociągi czechosłowackie przejechały przez węzeł kolejowy i wydostały się do Rosji."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "postanowiono, że korpus pojedzie przez całą Syberię do Władywostoku, a stamtąd statkami dookoła świata do Francji."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "26 marca w Penzie przedstawiciele rządu radzieckiego i czechosłowackiej rady podpisali porozumienie o przejeździe."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "z niewielką ilością broni do samoobrony"
+    }
+   ]
+  },
+  {
+   "start": "14 maja na stacji w Czelabińsku legioniści zlinczo",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "14 maja na stacji w Czelabińsku, gdzie stały pociągi 3 i 6 Pułku, zatrzymał się pociąg jadący na zachód z jeńcami węgierskimi i niemieckimi. Gdy ruszał, ktoś z wagonu rzucił kawałkiem żelaza, według części relacji nogą od piecyka, i ciężko ranił czeskiego żołnierza. Rozwścieczeni legioniści zatrzymali pociąg i zlinczowali sprawcę, Węgra. Miejscowa rada wszczęła śledztwo i aresztowała dziesięciu Czechosłowaków, a potem także delegatów, którzy przyszli się za nimi wstawić. 17 maja legioniści weszli do miasta, uwolnili aresztowanych"
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "25 maja 1918 roku komisarz ludowy do spraw wojskowych Lew Trocki rozesłał telegram do wszystkich rad wzdłuż linii kolejowej od Penzy do Omska. Nakazywał w nim, pod groźbą surowej kary, rozbroić żołnierzy Korpusu Czechosłowackiego, którzy jechali przez Rosję do Władywostoku, by stamtąd popłynąć do Francji. „Każdy Czechosłowak, który zostanie znaleziony z bronią na linii kolejowej, ma być rozstrzelany na miejscu” – głosił rozkaz."
+    },
+    {
+     "file": "src/content/postacie/radola-gajda.md",
+     "quote": "Po upadku Omska połączyła się z zachodnimi zgrupowaniami korpusu, a potem ruszyła wzdłuż kolei na wschód, by przebić się do Władywostoku. Razem z ochotnikami tworzonej Armii Syberyjskiej, którymi dowodził Anatolij Piepielajew, Czechosłowacy Gajdy wkroczyli 11 lipca do Irkucka."
+    },
+    {
+     "file": "src/content/timeline/1918/08/czechoslowacy-zajmuja-kazan.md",
+     "quote": "7 sierpnia 1918 roku przed południem ostatnie oddziały czerwonych zostały wyparte z Kazania, wielkiego miasta nad Wołgą. Po dwóch dniach walk zdobyli je żołnierze antybolszewickiej Armii Ludowej Komuczu, samarskiego rządu eserowców, i dwa bataliony Korpusu Czechosłowackiego, wspierane przez uzbrojone statki rzeczne. „Po dwudniowym boju 7 sierpnia oddziały samarskiego zgrupowania Armii Ludowej i Czechosłowacy wspólnie z naszą flotyllą bojową wzięli Kazań. Zdobyczy nie da się zliczyć, zagarnięto złotą rezerwę Rosji, 650 milionów”"
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "8 czerwca Czechosłowacy zajęli Samarę, gdzie powstał antybolszewicki rząd eserowców, Komucz. Pod koniec czerwca legioniści przejęli Władywostok, a 25 lipca wkroczyli do Jekaterynburga. Osiem dni wcześniej bolszewicy, obawiając się ich nadejścia, zamordowali tam rodzinę carską. Los Czechosłowaków przekonał prezydenta Wilsona, który dotąd sprzeciwiał się interwencji. W sierpniu Japonia i Stany Zjednoczone wysłały wojska na Syberię, oficjalnie po to, by pomóc legionistom w odwrocie"
+    }
+   ]
+  },
+  {
+   "start": "Mniejsze legiony powstały na zachodzie. We Francji",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/06/czechoslowacy-przysiegaja-w-darney.md",
+     "quote": "30 czerwca 1918 roku na polu za miasteczkiem Darney w Wogezach około 6 tysięcy żołnierzy 21 i 22 Pułku Strzelców Czechosłowackich złożyło przysięgę wojskową. Prezydent Francji Raymond Poincaré wręczył 21 Pułkowi sztandar. Na uroczystości był sekretarz generalny Czechosłowackiej Rady Narodowej Edvard Beneš. Przy tej okazji rząd francuski ogłosił, że uznaje radę za najwyższy organ ruchu czechosłowackiego"
+    },
+    {
+     "file": "src/content/timeline/1918/06/czechoslowacy-przysiegaja-w-darney.md",
+     "quote": "Nie było to jeszcze uznanie rady za rząd, ale otwierało do niego drogę. 9 sierpnia Wielka Brytania uznała radę za powierniczkę przyszłego rządu czechosłowackiego, a na początku września Stany Zjednoczone uznały ją za rząd de facto. Brygada z Darney walczyła jesienią w Alzacji i w Ardenach."
+    },
+    {
+     "file": "src/content/timeline/1918/04/konwencja-wlosko-czechoslowacka.md",
+     "quote": "21 kwietnia 1918 roku w Rzymie premier Vittorio Emanuele Orlando i minister wojny generał Vittorio Italico Zupelli podpisali konwencję między rządem włoskim a Czechosłowacką Radą Narodową, którą reprezentował jej wiceprzewodniczący, pułkownik Milan Rastislav Štefánik. Włochy zgodziły się na utworzenie z jeńców autonomicznej armii czechosłowackiej"
+    },
+    {
+     "file": "src/content/timeline/1918/04/konwencja-wlosko-czechoslowacka.md",
+     "quote": "Utworzono z nich 6 Dywizję Czechosłowacką"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-vittorio-veneto.md",
+     "quote": "Wśród odwodów stała dywizja czechosłowacka"
+    }
+   ]
+  },
+  {
+   "start": "28 października 1918 roku w Pradze proklamowano ni",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/czechoslovak-legions-russian-empire/",
+     "quote": "Some regiments had refused to obey the orders of commanders to take up positions at the front. The decline of discipline was connected with important political events: the proclamation of the Czechoslovak Republic on 28 October 1918 and the end of the First World War."
+    },
+    {
+     "file": "src/content/timeline/1918/11/czechoslowacy-w-jekaterynburgu.md",
+     "quote": "żołnierze Korpusu Czechosłowackiego w Rosji uroczyście świętowali jego narodziny"
+    },
+    {
+     "file": "src/content/timeline/1918/11/zamach-kolczaka.md",
+     "quote": "Filia Czechosłowackiej Rady Narodowej w Rosji, która niedawno świętowała w Jekaterynburgu narodziny republiki, 21 listopada wyraziła potępienie przewrotu."
+    },
+    {
+     "file": "src/content/timeline/1918/12/bolszewicy-odbijaja-ufe.md",
+     "quote": "a Czechosłowacy, którzy do niedawna byli jej najtwardszym oparciem, wycofywali się z frontu"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Czechoslovak_Legion",
+     "quote": "the Czechoslovaks defended the Kolchak government's only supply route for the duration of 1919"
+    }
+   ]
+  },
+  {
+   "start": "W styczniu 1919 roku Štefánik kazał odsyłać do kra",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1920/09/koniec-ewakuacji-legionu-czechoslowackiego.md",
+     "quote": "Pierwszy impuls do ewakuacji dał 5 stycznia 1919 roku minister wojny Milan Rastislav Štefánik, który kazał odsyłać do kraju inwalidów, rannych, chorych i żony żołnierzy. 15 stycznia 1919 roku z Władywostoku odpłynął pierwszy statek, włoski „Roma”, ze 139 osobami. 12 sierpnia 1919 roku na Syberię przyjechało poselstwo rządu czechosłowackiego z posłem Františkiem Václavem Krejčím, które przywiozło rozkaz ewakuacji całej armii."
+    },
+    {
+     "file": "src/content/timeline/1920/09/koniec-ewakuacji-legionu-czechoslowackiego.md",
+     "quote": "Zimą 1919 i 1920 roku jechali na wschód razem z cofającymi się wojskami admirała Kołczaka, a w styczniu 1920 roku w Irkucku wydali admirała jego przeciwnikom. 7 lutego, w dniu, w którym rozstrzelano Kołczaka, zawarli w stacji Kujtun rozejm z Armią Czerwoną"
+    },
+    {
+     "file": "src/content/timeline/1920/09/koniec-ewakuacji-legionu-czechoslowackiego.md",
+     "quote": "2 września 1920 roku z Władywostoku wypłynął amerykański transportowiec „Heffron” z ostatnimi żołnierzami czechosłowackiego wojska w Rosji."
+    },
+    {
+     "file": "src/content/timeline/1920/09/koniec-ewakuacji-legionu-czechoslowackiego.md",
+     "quote": "Według badań czeskiego historyka Jaroslava Vaculíka z Syberii wróciło łącznie 67 730 osób, a także 1641 wagonów bagażu i towarów. 83 procent stanowili żołnierze, 13 procent dawni jeńcy i koloniści, a 3 procent cudzoziemcy. Według innego czeskiego zestawienia wśród ewakuowanych było ponad 1700 kobiet i ponad 700 dzieci. Sprzymierzeni dali 21 statków, z tego 12 amerykańskich i 9 brytyjskich. Kolejne 12 wynajęła Centrokomise, samopomocowa organizacja czechosłowackiego wojska, i przewiozła nimi 9683 osoby. Większość statków płynęła wokół Indii i przez Kanał Sueski do Triestu."
+    },
+    {
+     "file": "src/content/timeline/1920/09/koniec-ewakuacji-legionu-czechoslowackiego.md",
+     "quote": "Najczęściej podaje się, że w Rosji zginęło około 4,1 tysiąca żołnierzy, choć szacunki wahają się od 4 do 5 tysięcy. Wielu legionistów, jak Syrový i Radola Gajda, zajęło potem wysokie stanowiska w armii i państwie czechosłowackim."
+    }
+   ]
+  }
+ ]
+}

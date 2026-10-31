@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 stycznia 1915 roku generał porucznik sir William Robertson został szefem sztabu generalnego [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Zastąpił generała Archibalda Murraya, [odesłanego dzień wcześniej na urlop zdrowotny](/murray-odchodzi-ze-sztabu-bef). Dotychczas Robertson był [kwatermistrzem generalnym korpusu](/robertson-przestaje-byc-kwatermistrzem-bef) i odpowiadał za jego zaopatrzenie.
+25 stycznia 1915 roku generał porucznik sir William Robertson został szefem sztabu generalnego [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Zastąpił generała Archibalda Murraya, [odesłanego dzień wcześniej na urlop zdrowotny](/murray-odchodzi-ze-sztabu-bef). Dotychczas Robertson był [kwatermistrzem generalnym korpusu](/robertson-przestaje-byc-kwatermistrzem-bef) i odpowiadał za jego zaopatrzenie.
 
 ## Od szeregowca do generała
 

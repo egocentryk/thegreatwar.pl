@@ -2,10 +2,10 @@
 title: British complete their move to Flanders
 summary: On 19 October 1914 Haig's I Corps finished detraining near Hazebrouck. The whole British army, moved from the Aisne, now stood in Flanders.
 source: bef-konczy-przerzut-do-flandrii
-sourceHash: 4f099eca90d4375480edd98a54e51a5e86c978d2
+sourceHash: b349f71d6bc2aad878c06c38b124116d728029ac
 ---
 
-On 19 October 1914 the transfer of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) from the Aisne to Flanders was completed. That day the last units of General [Douglas Haig](/postacie/douglas-haig)'s I Corps got off their trains and assembled between [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)) and [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck). The operation, which the British had [begun at the start of October](/bef-opuszcza-aisne), had thus taken more than two weeks.
+On 19 October 1914 the transfer of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) from the Aisne to Flanders was completed. That day the last units of General [Douglas Haig](/postacie/douglas-haig)'s I Corps got off their trains and assembled between [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)) and [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck). The operation, which the British had [begun at the start of October](/bef-opuszcza-aisne), had thus taken more than two weeks.
 
 I Corps, made up of the 1st and 2nd Divisions, was the last large British formation to leave the Aisne front. Its soldiers came out of the trenches only on the night of 12–13 October, when the other corps had already been fighting in the north for several days. II Corps was attacking near La Bassée, III Corps had retaken Armentières, and the Cavalry Corps was fighting for the hills around Messines. From the middle of the month General Henry Rawlinson's IV Corps had been standing at Ypres; it had come to Flanders not from the Aisne but from Belgium.
 

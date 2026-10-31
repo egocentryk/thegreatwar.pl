@@ -2,10 +2,10 @@
 title: Warneford destroys airship LZ 37
 summary: On 7 June 1915 British airman Reginald Warneford bombed the airship LZ 37 in mid-air over Ghent. The burning wreck fell on a convent in Sint-Amandsberg.
 source: warneford-niszczy-sterowiec-lz-37
-sourceHash: ec2eaef58c5826892a90f73255ceaffb8fbeb9fe
+sourceHash: 6e80f26de2d8b19e8e4a1a14a190177252f5ecd5
 ---
 
-Before dawn on 7 June 1915 Reginald Warneford, a 23-year-old pilot of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), attacked the German army airship LZ 37 over [Ghent](https://pl.wikipedia.org/wiki/Gandawa). Bombs dropped from his single-seat [Morane-Saulnier L](https://pl.wikipedia.org/wiki/Morane-Saulnier_L) monoplane set fire to the hydrogen in the [airship](/slownik/sterowiec), which crashed in flames onto the buildings of [Sint-Amandsberg](https://pl.wikipedia.org/wiki/Sint-Amandsberg), a suburban municipality of Ghent. The same night two other British naval airmen destroyed in its shed at [Evere](https://pl.wikipedia.org/wiki/Evere) near Brussels the airship [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), which a week earlier had [been the first to bomb London](/pierwszy-nalot-sterowca-na-londyn).
+Before dawn on 7 June 1915 Reginald Warneford, a 23-year-old pilot of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), attacked the German army airship LZ 37 over [Ghent](https://pl.wikipedia.org/wiki/Gandawa). Bombs dropped from his single-seat [Morane-Saulnier L](https://pl.wikipedia.org/wiki/Morane-Saulnier_L) monoplane set fire to the hydrogen in the [airship](/slownik/sterowiec), which crashed in flames onto the buildings of [Sint-Amandsberg](https://pl.wikipedia.org/wiki/Sint-Amandsberg), a suburban municipality of Ghent. The same night two other British naval airmen destroyed in its shed at [Evere](https://pl.wikipedia.org/wiki/Evere) near Brussels the airship [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), which a week earlier had [been the first to bomb London](/pierwszy-nalot-sterowca-na-londyn).
 
 ## Night over Flanders
 

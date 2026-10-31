@@ -2,10 +2,10 @@
 title: Battles of Warsaw and Dęblin begin
 summary: On 9 October 1914 the Germans reached the Vistula and moved on Warsaw. The British chronology dates the start of the battles of Warsaw and Dęblin to this day.
 source: poczatek-bitew-pod-warszawa-i-deblinem
-sourceHash: a338dec321efa7e062e1208e788a0e0294e56caf
+sourceHash: f506dadec42db6663e834d3f96c6e579910786a7
 ---
 
-The British chronology of the war records under 9 October 1914 the first German offensive against Warsaw and the start of the battles of Warsaw and Ivangorod, that is, Dęblin. That day troops of General [Paul von Hindenburg's](/postacie/paul-von-hindenburg) German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) reached the [Vistula](https://pl.wikipedia.org/wiki/Wisła). After nearly two weeks of marching across the Kingdom of Poland, they ran into the main Russian forces for the first time.
+The British chronology of the war records under 9 October 1914 the first German offensive against Warsaw and the start of the battles of Warsaw and Ivangorod, that is, Dęblin. That day troops of General [Paul von Hindenburg's](/postacie/paul-von-hindenburg) German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) reached the [Vistula](https://pl.wikipedia.org/wiki/Wisła). After nearly two weeks of marching across the Kingdom of Poland, they ran into the main Russian forces for the first time.
 
 ## Which date?
 

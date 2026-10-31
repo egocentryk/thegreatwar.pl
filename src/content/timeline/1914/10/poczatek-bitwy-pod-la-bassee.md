@@ -21,7 +21,7 @@ brief:
 
 ## Brytyjczycy na północy
 
-Od początku października [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) potajemnie [opuszczał front nad Aisne](/bef-opuszcza-aisne). II Korpus, złożony z 3 i 5 Dywizji, przyjechał pociągami w rejon [Abbeville](https://pl.wikipedia.org/wiki/Abbeville_(Francja)) 8 i 9 października. Dowódca armii brytyjskiej, marszałek [John French](/postacie/john-french), nie czekał, aż zbierze się cała armia. Wieczorem 8 października polecił Smith-Dorrienowi ruszyć następnego dnia na wschód i dojść do lewego skrzydła francuskiej 10 Armii pod [Béthune](https://pl.wikipedia.org/wiki/Béthune).
+Od początku października [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) potajemnie [opuszczał front nad Aisne](/bef-opuszcza-aisne). II Korpus, złożony z 3 i 5 Dywizji, przyjechał pociągami w rejon [Abbeville](https://pl.wikipedia.org/wiki/Abbeville_(Francja)) 8 i 9 października. Dowódca armii brytyjskiej, marszałek [John French](/postacie/john-french), nie czekał, aż zbierze się cała armia. Wieczorem 8 października polecił Smith-Dorrienowi ruszyć następnego dnia na wschód i dojść do lewego skrzydła francuskiej 10 Armii pod [Béthune](https://pl.wikipedia.org/wiki/Béthune).
 
 Sytuacja na północy była niepewna. Francuska 10 Armia właśnie [obroniła Arras](/koniec-bitwy-pod-arras), ale jej lewe skrzydło kończyło się pod Vermelles, na południe od kanału La Bassée. Dalej na północ, aż po Dunkierkę, stały tylko francuska kawaleria i dywizje terytorialne, a niemieckie korpusy kawalerii zapuszczały się głęboko na zachód. Tego samego dnia padła [Antwerpia](/kapitulacja-antwerpii), co zwalniało Niemcom kolejne siły.
 

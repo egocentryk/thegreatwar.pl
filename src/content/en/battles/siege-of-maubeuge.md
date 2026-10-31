@@ -9,7 +9,7 @@ sides:
     commanders: [Karl von Bülow, Hans von Zwehl]
 result: German victory. The fortress capitulated and its garrison went into captivity, but the siege delayed the transfer of part of the German forces.
 source: oblezenie-maubeuge
-sourceHash: 4565c6951c190f32f4b835253a31fba7701d75dc
+sourceHash: a361bb8faca9122b8208a71bc7901669eb6b58d8
 ---
 
 The siege of [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) lasted from the last days of August to 7 September 1914. The French fortress on the [Sambre](https://pl.wikipedia.org/wiki/Sambra), right by the Belgian border, was surrounded by German troops during the Great Retreat of the French and British armies. It held out longer than the Belgian fortresses of Liège and Namur, though it too eventually had to capitulate.
@@ -18,7 +18,7 @@ The siege of [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) lasted from the 
 
 Maubeuge was one of the fortresses guarding France's north-eastern border. The entrenched camp consisted of six forts and several smaller defensive works, placed a few kilometres from the town on a perimeter of about 30 kilometres. Most of the forts, however, dated from the 1880s and were not designed to withstand fire from the heaviest siege guns. The garrison, numbering according to various sources about 45,000–50,000 men, largely older soldiers from territorial units, was commanded by the governor of the fortress, General Joseph Fournier.
 
-In August 1914 the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) assembled near Maubeuge, and from there it set out for Mons. After the defeats at Charleroi and Mons the British and the French 5th Army retreated south. Field Marshal Sir John French deliberately did not shelter his troops in the fortress, fearing they would be shut up inside it. Maubeuge was left alone.
+In August 1914 the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) assembled near Maubeuge, and from there it set out for Mons. After the defeats at Charleroi and Mons the British and the French 5th Army retreated south. Field Marshal Sir John French deliberately did not shelter his troops in the fortress, fearing they would be shut up inside it. Maubeuge was left alone.
 
 ## Encirclement
 

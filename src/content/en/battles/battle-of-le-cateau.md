@@ -11,10 +11,10 @@ sides:
     commanders: [Alexander von Kluck, Friedrich Sixt von Armin, Georg von der Marwitz]
 result: German tactical victory. The British lost the battlefield and 38 guns, but broke contact with the enemy and continued their retreat.
 source: bitwa-pod-le-cateau
-sourceHash: 3099fdb068078637b0dfeec29009e864d36309b1
+sourceHash: 2d5f641dcb041982b28d7ef56382272a401baca3
 ---
 
-The [Battle of Le Cateau](https://pl.wikipedia.org/wiki/Bitwa_pod_Le_Cateau) was fought on 26 August 1914 in the Nord department of northern France. The British II Corps of General Horace Smith-Dorrien, reinforced by the 4th Division and cavalry, held out for most of the day against the German First Army of General [Alexander von Kluck](/postacie/alexander-von-kluck). It was the second battle of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), after the [Battle of Mons](/bitwy/bitwa-pod-mons), and one of the most important engagements of the great Allied retreat of August 1914.
+The [Battle of Le Cateau](https://pl.wikipedia.org/wiki/Bitwa_pod_Le_Cateau) was fought on 26 August 1914 in the Nord department of northern France. The British II Corps of General Horace Smith-Dorrien, reinforced by the 4th Division and cavalry, held out for most of the day against the German First Army of General [Alexander von Kluck](/postacie/alexander-von-kluck). It was the second battle of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), after the [Battle of Mons](/bitwy/bitwa-pod-mons), and one of the most important engagements of the great Allied retreat of August 1914.
 
 ## Background
 

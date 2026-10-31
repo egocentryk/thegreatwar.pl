@@ -2,7 +2,7 @@
 title: Germany declares war on Romania
 summary: On 28 August 1916 Germany declared war on Romania, a day after it turned against Austria-Hungary. The surprise at Pless cost Falkenhayn his post.
 source: niemcy-wypowiadaja-wojne-rumunii
-sourceHash: 3f175bf7c13888482db31ce7952a4bfa822847ca
+sourceHash: 0f3f9efee32f2a2cc71c731eafbe78e8f11a1b67
 brief:
   - "On 28 August 1916 Germany declared war on Romania, less than a day after Romania had declared war on Austria-Hungary and its advance guards had crossed the Carpathian passes."
   - "Since 1883 Romania had been bound by a secret alliance with Austria-Hungary and Germany, but in 1914 it declared neutrality, and on 17 August 1916 Prime Minister Ion I.C. Brătianu signed a treaty with the Entente."
@@ -53,4 +53,4 @@ The trouble was that Bulgaria was still not at war with Romania. For several day
 
 ## What came next
 
-The German declaration of war opened a new front, which the new leadership of the German army decided to close by an offensive. As early as 29 August Hindenburg and Ludendorff halted the Danube crossing and ordered Mackensen first to advance into Dobruja. In Transylvania the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) began to be formed, and in September Falkenhayn himself took command of it, as compensation for the loss of his post. The campaign which in August had seemed a catastrophe at Pless brought the Central Powers one of the greatest victories of the war in the autumn: on 6 December 1916 Mackensen's troops entered Bucharest, and Romanian grain and oil fell into German hands.
+The German declaration of war opened a new front, which the new leadership of the German army decided to close by an offensive. As early as 29 August Hindenburg and Ludendorff halted the Danube crossing and ordered Mackensen first to advance into Dobruja. In Transylvania the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) began to be formed, and in September Falkenhayn himself took command of it, as compensation for the loss of his post. The campaign which in August had seemed a catastrophe at Pless brought the Central Powers one of the greatest victories of the war in the autumn: on 6 December 1916 Mackensen's troops entered Bucharest, and Romanian grain and oil fell into German hands.

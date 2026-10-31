@@ -2,10 +2,10 @@
 title: Admiralty orders hostilities against Turkey
 summary: On 31 October 1914 the British Admiralty ordered its ships to begin hostilities against Turkey at once, although war had not yet been declared.
 source: brytyjski-rozkaz-dzialan-przeciw-turcji
-sourceHash: 276dfdc0da0f104800d9062f5fc8cee2820b6328
+sourceHash: de57b6e14271884fe266ecca424698c63339f5c6
 ---
 
-On 31 October 1914 at 5.05 p.m. the British Admiralty sent a short order to all ships: "Commence hostilities at once against Turkey. Acknowledge." Great Britain had not yet declared war on the [Ottoman Empire](/kraje/imperium-osmanskie), and its ambassador was still in Constantinople. Even so, the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) was given a free hand.
+On 31 October 1914 at 5.05 p.m. the British Admiralty sent a short order to all ships: "Commence hostilities at once against Turkey. Acknowledge." Great Britain had not yet declared war on the [Ottoman Empire](/kraje/imperium-osmanskie), and its ambassador was still in Constantinople. Even so, the [Royal Navy](/sily-zbrojne/royal-navy) was given a free hand.
 
 The order was a response to the [Ottoman fleet's attack on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea and to the [fruitless demands](/ultimatum-aliantow-wobec-turcji) that Turkey send away the Germans from *Goeben* and *Breslau*. The deadline set by London had passed without a reply, and the Entente ambassadors [had already asked for their passports](/zerwanie-stosunkow-z-turcja). The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), was in favour of a swift blow. On the back of the telegram with the British ultimatum he added in red pencil an instruction to examine the possibility of bombarding the forts of the [Dardanelles](/miejsca/dardanele), because "it is good to strike a quick blow". His advisers were sceptical, believing that a bombardment would achieve little compared with the risk to the ships.
 

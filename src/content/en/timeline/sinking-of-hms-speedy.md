@@ -2,7 +2,7 @@
 title: Sinking of HMS Speedy
 summary: On 3 September 1914 the old torpedo gunboat HMS Speedy, serving as a minesweeper, struck a German mine off the mouth of the Humber and sank.
 source: zatoniecie-hms-speedy
-sourceHash: d3643b1d6e57f473306438ee1f4737ca36527170
+sourceHash: 50384730ad602df9961f274a8383afa92b9cf369
 ---
 
 On 3 September 1914, off the coast of England near the mouth of the [Humber](https://pl.wikipedia.org/wiki/Humber) estuary, the British warship HMS Speedy sank. She struck a [mine](/slownik/mina-morska) while clearing a minefield laid there by the Germans a few days earlier.
@@ -19,4 +19,4 @@ On 3 September Speedy was sweeping this field together with several drifters, fi
 
 ## Significance
 
-After the [cruiser Amphion](/hms-amphion-zatopiony-na-minie), she was the next [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) ship lost to German mines in the first weeks of the war. The losses suffered in attempts to clear the minefield off the Humber led the Admiralty to change tactics. Instead of removing entire minefields, minesweepers began to mark out safe channels through them for shipping.
+After the [cruiser Amphion](/hms-amphion-zatopiony-na-minie), she was the next [Royal Navy](/sily-zbrojne/royal-navy) ship lost to German mines in the first weeks of the war. The losses suffered in attempts to clear the minefield off the Humber led the Admiralty to change tactics. Instead of removing entire minefields, minesweepers began to mark out safe channels through them for shipping.

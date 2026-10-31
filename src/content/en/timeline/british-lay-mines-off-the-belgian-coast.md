@@ -2,10 +2,10 @@
 title: British lay mines off the Belgian coast
 summary: In early October 1914 the Royal Navy laid its first minefield in open waters, between the Goodwin Sands and Belgium, to protect the Channel routes.
 source: brytyjczycy-stawiaja-miny-u-wybrzezy-belgii
-sourceHash: f8647952b01bf6e8373832c4a81c8fb1a94ed640
+sourceHash: e1e99ffb42a1dfe02d2b7b5dc34655fb35774652
 ---
 
-At the beginning of October 1914 the British [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) laid a minefield in open waters for the first time in this war. The mines barred the southern edge of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), east of the Goodwin Sands off the coast of Kent, towards the Belgian coast. Britain, which since August had accused the Germans of laying mines in the open sea, thus took up the same weapon, although unlike them it publicly announced which area was mined.
+At the beginning of October 1914 the British [Royal Navy](/sily-zbrojne/royal-navy) laid a minefield in open waters for the first time in this war. The mines barred the southern edge of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), east of the Goodwin Sands off the coast of Kent, towards the Belgian coast. Britain, which since August had accused the Germans of laying mines in the open sea, thus took up the same weapon, although unlike them it publicly announced which area was mined.
 
 ## A response to German mines and submarines
 

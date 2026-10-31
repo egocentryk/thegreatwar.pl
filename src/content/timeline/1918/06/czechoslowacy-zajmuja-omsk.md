@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 czerwca 1918 roku przywódcy rady bolszewickiej w [Omsku](https://pl.wikipedia.org/wiki/Omsk), największym mieście zachodniej Syberii, wsiedli na parowiec i odpłynęli w dół [Irtyszu](https://pl.wikipedia.org/wiki/Irtysz), w stronę [Tobolska](https://pl.wikipedia.org/wiki/Tobolsk). Dzień wcześniej oddziały [Korpusu Czechosłowackiego](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) rozbiły czerwonogwardzistów broniących podejść do miasta. Omsk przeszedł w ręce antybolszewików, a ostatnia przeszkoda na [Kolei Transsyberyjskiej](https://pl.wikipedia.org/wiki/Kolej_Transsyberyjska) między dwoma wielkimi zgrupowaniami Czechosłowaków zniknęła. Rosyjskie opracowania datują zajęcie miasta na 6 albo 7 czerwca, ale zarówno rozkazy nowych władz, jak i relacje czeskie wskazują, że bolszewicy opuścili Omsk 7 czerwca.
+7 czerwca 1918 roku przywódcy rady bolszewickiej w [Omsku](https://pl.wikipedia.org/wiki/Omsk), największym mieście zachodniej Syberii, wsiedli na parowiec i odpłynęli w dół [Irtyszu](https://pl.wikipedia.org/wiki/Irtysz), w stronę [Tobolska](https://pl.wikipedia.org/wiki/Tobolsk). Dzień wcześniej oddziały [Korpusu Czechosłowackiego](/sily-zbrojne/legion-czechoslowacki) rozbiły czerwonogwardzistów broniących podejść do miasta. Omsk przeszedł w ręce antybolszewików, a ostatnia przeszkoda na [Kolei Transsyberyjskiej](https://pl.wikipedia.org/wiki/Kolej_Transsyberyjska) między dwoma wielkimi zgrupowaniami Czechosłowaków zniknęła. Rosyjskie opracowania datują zajęcie miasta na 6 albo 7 czerwca, ale zarówno rozkazy nowych władz, jak i relacje czeskie wskazują, że bolszewicy opuścili Omsk 7 czerwca.
 
 ## Omsk między dwoma frontami
 

@@ -18,7 +18,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Czechoslovak_Legion"
 ---
 
-2 września 1920 roku z [Władywostoku](https://pl.wikipedia.org/wiki/Władywostok) wypłynął amerykański transportowiec „Heffron” z ostatnimi żołnierzami czechosłowackiego wojska w Rosji. Był to 36 transport, którym, jak podają czeskie opracowania, oficjalnie zakończono ewakuację [Korpusu Czechosłowackiego](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) z Syberii. Według czeskich zestawień statek zabrał ponad 1100 osób, w tym około 720 legionistów. Rosyjskie opracowania podają, że ostatni żołnierze korpusu opuścili Władywostok 3 września. 11 listopada „Heffron” zawinął do [Triestu](/miejsca/triest). Ponad dwa lata po tym, jak w maju 1918 roku legioniści [wystąpili zbrojnie przeciw bolszewikom](/bunt-legionu-czechoslowackiego) na Kolei Transsyberyjskiej, ich wojna w Rosji dobiegła końca.
+2 września 1920 roku z [Władywostoku](https://pl.wikipedia.org/wiki/Władywostok) wypłynął amerykański transportowiec „Heffron” z ostatnimi żołnierzami czechosłowackiego wojska w Rosji. Był to 36 transport, którym, jak podają czeskie opracowania, oficjalnie zakończono ewakuację [Korpusu Czechosłowackiego](/sily-zbrojne/legion-czechoslowacki) z Syberii. Według czeskich zestawień statek zabrał ponad 1100 osób, w tym około 720 legionistów. Rosyjskie opracowania podają, że ostatni żołnierze korpusu opuścili Władywostok 3 września. 11 listopada „Heffron” zawinął do [Triestu](/miejsca/triest). Ponad dwa lata po tym, jak w maju 1918 roku legioniści [wystąpili zbrojnie przeciw bolszewikom](/bunt-legionu-czechoslowackiego) na Kolei Transsyberyjskiej, ich wojna w Rosji dobiegła końca.
 
 ## Rozkaz powrotu
 

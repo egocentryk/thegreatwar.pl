@@ -9,10 +9,10 @@ sides:
     commanders: [August von Mackensen, Johannes von Eben, Curt von Morgen, Karl von Wenninger]
 result: Romanian and Russian victory. The Germans advanced 6–7 kilometres but did not break the front, did not reach Adjud and had to abandon the conquest of Moldavia.
 source: bitwa-pod-marasesti
-sourceHash: c99fb12cf1935615043d6978649bafe0329e6677
+sourceHash: 8a8035857f3e36716d0776e574f50b9c01bf4727
 ---
 
-The Battle of Mărășești was the largest battle on the Romanian front during the First World War and the last attempt to force Romania out of the war. On 6 August 1917 the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group attacked northwards from the Putna river, along the [Siret](https://pl.wikipedia.org/wiki/Seret_(dopływ_Dunaju)), towards Adjud. The front there was held by the disintegrating Russian 4th Army, whose divisions fled on the very first day. The gap was closed on the run by divisions of the Romanian 1st Army, which had just been due to relieve the Russians. For four weeks, in the worst heat of summer, the Germans and Austrians stormed the positions near the town of [Mărășești](https://pl.wikipedia.org/wiki/Mărășești), near Panciu and on the Muncelu hills. They advanced a few kilometres but did not break the front. For the Romanians Mărășești became the symbol of the rebirth of an army that had been shattered a year earlier.
+The Battle of Mărășești was the largest battle on the Romanian front during the First World War and the last attempt to force Romania out of the war. On 6 August 1917 the German [9th Army](/sily-zbrojne/9-armia-niemiecka) of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group attacked northwards from the Putna river, along the [Siret](https://pl.wikipedia.org/wiki/Seret_(dopływ_Dunaju)), towards Adjud. The front there was held by the disintegrating Russian 4th Army, whose divisions fled on the very first day. The gap was closed on the run by divisions of the Romanian 1st Army, which had just been due to relieve the Russians. For four weeks, in the worst heat of summer, the Germans and Austrians stormed the positions near the town of [Mărășești](https://pl.wikipedia.org/wiki/Mărășești), near Panciu and on the Muncelu hills. They advanced a few kilometres but did not break the front. For the Romanians Mărășești became the symbol of the rebirth of an army that had been shattered a year earlier.
 
 ## Name and dates
 

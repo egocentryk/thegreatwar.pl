@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W sobotę 18 maja 1918 roku, w przeddzień Zielonych Świątek, brytyjskie bombowce zaatakowały w biały dzień [Kolonię](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)), jedno z największych miast Rzeszy i główny węzeł kolejowy nad Renem. Sześć dwumiejscowych samolotów [Airco DH.4](https://pl.wikipedia.org/wiki/Airco_DH.4) z 55 Dywizjonu [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force) zrzuciło bomby na dworce i fabryki. Miasto nie zostało w porę ostrzeżone, więc ofiar było znacznie więcej niż zwykle przy takich wyprawach. Za dnia brytyjskie samoloty pojawiły się nad miastem po raz pierwszy od października 1914 roku, gdy [lotnik marynarki zrzucił kilka małych bomb na główny dworzec](/drugi-brytyjski-nalot-na-niemcy). Od tamtej pory Kolonię zaatakował tylko pojedynczy bombowiec Handley Page w nocy z 24 na 25 marca 1918 roku.
+W sobotę 18 maja 1918 roku, w przeddzień Zielonych Świątek, brytyjskie bombowce zaatakowały w biały dzień [Kolonię](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)), jedno z największych miast Rzeszy i główny węzeł kolejowy nad Renem. Sześć dwumiejscowych samolotów [Airco DH.4](https://pl.wikipedia.org/wiki/Airco_DH.4) z 55 Dywizjonu [Royal Air Force](/sily-zbrojne/royal-air-force) zrzuciło bomby na dworce i fabryki. Miasto nie zostało w porę ostrzeżone, więc ofiar było znacznie więcej niż zwykle przy takich wyprawach. Za dnia brytyjskie samoloty pojawiły się nad miastem po raz pierwszy od października 1914 roku, gdy [lotnik marynarki zrzucił kilka małych bomb na główny dworzec](/drugi-brytyjski-nalot-na-niemcy). Od tamtej pory Kolonię zaatakował tylko pojedynczy bombowiec Handley Page w nocy z 24 na 25 marca 1918 roku.
 
 ## Bombowce z Lotaryngii
 

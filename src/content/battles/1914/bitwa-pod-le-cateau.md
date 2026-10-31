@@ -19,7 +19,7 @@ tags: [Brytyjski Korpus Ekspedycyjny, Wielka Brytania, Niemcy, Francja]
 milestone: false
 ---
 
-[Bitwa pod Le Cateau](https://pl.wikipedia.org/wiki/Bitwa_pod_Le_Cateau) została stoczona 26 sierpnia 1914 roku w departamencie Nord w północnej Francji. Brytyjski II Korpus generała Horace'a Smith-Dorriena, wzmocniony 4 Dywizją i kawalerią, przez większą część dnia opierał się niemieckiej 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck). Była to druga, po [bitwie pod Mons](/bitwy/bitwa-pod-mons), bitwa [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) i jedno z najważniejszych starć wielkiego odwrotu aliantów w sierpniu 1914 roku.
+[Bitwa pod Le Cateau](https://pl.wikipedia.org/wiki/Bitwa_pod_Le_Cateau) została stoczona 26 sierpnia 1914 roku w departamencie Nord w północnej Francji. Brytyjski II Korpus generała Horace'a Smith-Dorriena, wzmocniony 4 Dywizją i kawalerią, przez większą część dnia opierał się niemieckiej 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck). Była to druga, po [bitwie pod Mons](/bitwy/bitwa-pod-mons), bitwa [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) i jedno z najważniejszych starć wielkiego odwrotu aliantów w sierpniu 1914 roku.
 
 ## Tło
 

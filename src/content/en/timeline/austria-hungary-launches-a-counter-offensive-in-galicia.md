@@ -2,14 +2,14 @@
 title: Austria-Hungary launches a counter-offensive in Galicia
 summary: In early October 1914 the Austro-Hungarian armies advanced east from the Dunajec. They drove the Russians behind the San and relieved Przemyśl, then stalled.
 source: kontrofensywa-austro-wegier-w-galicji
-sourceHash: 31afe235d7d45e4c7cc6557c57795e8fbabc743f
+sourceHash: eec6052c87370b6d8d3d66cbd82b1904bfc4a13e
 ---
 
 At the beginning of October 1914 the Austro-Hungarian armies, which after their defeat in the [Battle of Galicia](/bitwy/bitwa-galicyjska) [had halted on the Dunajec and the Biała](/koniec-odwrotu-austro-wegier-w-galicji), went over to the counter-offensive. They advanced east to recover the lost lands of Galicia and to relieve the besieged fortress of Przemyśl. The British chronology of the war gives 4 October as the start of the attack; Austrian studies say the troops set out as early as 1 October.
 
 ## Conrad's plan
 
-The counter-offensive was closely linked to German operations. On 28 September the new German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Paul von Hindenburg](/postacie/paul-von-hindenburg) and his chief of staff [Erich Ludendorff](/postacie/erich-ludendorff) set out from Silesia and the Częstochowa area across the Kingdom of Poland towards the middle Vistula, [towards Warsaw and Dęblin](/bitwy/bitwa-pod-warszawa-i-deblinem). The Chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), wanted to exploit this thrust, which threatened the flank and rear of the Russian armies in Galicia.
+The counter-offensive was closely linked to German operations. On 28 September the new German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) of General [Paul von Hindenburg](/postacie/paul-von-hindenburg) and his chief of staff [Erich Ludendorff](/postacie/erich-ludendorff) set out from Silesia and the Częstochowa area across the Kingdom of Poland towards the middle Vistula, [towards Warsaw and Dęblin](/bitwy/bitwa-pod-warszawa-i-deblinem). The Chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), wanted to exploit this thrust, which threatened the flank and rear of the Russian armies in Galicia.
 
 On the northern bank of the Vistula, alongside the Germans, marched General [Viktor Dankl's](/postacie/victor-dankl) Austro-Hungarian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)). South of the river, from the Dunajec, advanced Archduke Joseph Ferdinand's [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) and General [Svetozar Boroević's](/postacie/svetozar-boroevic) [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)). Furthest south, at the foot of the Carpathians, General [Eduard von Böhm-Ermolli's](/postacie/eduard-von-bohm-ermolli) [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(austro-węgierska)) attacked. The main objective was the San and Przemyśl, which lies on it.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 sierpnia 1914 roku [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) rozpoczął odwrót spod belgijskiego miasta [Mons](https://pl.wikipedia.org/wiki/Mons), gdzie dzień wcześniej stoczył swoją pierwszą bitwę. Był to początek wielkiego odwrotu, który miał trwać prawie dwa tygodnie i zakończyć się dopiero nad Marną.
+24 sierpnia 1914 roku [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) rozpoczął odwrót spod belgijskiego miasta [Mons](https://pl.wikipedia.org/wiki/Mons), gdzie dzień wcześniej stoczył swoją pierwszą bitwę. Był to początek wielkiego odwrotu, który miał trwać prawie dwa tygodnie i zakończyć się dopiero nad Marną.
 
 ## Nocna decyzja
 

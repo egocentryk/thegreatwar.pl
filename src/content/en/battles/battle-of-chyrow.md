@@ -9,10 +9,10 @@ sides:
     commanders: [Aleksei Brusilov]
 result: The Russians held their positions. In early November the Austro-Hungarian armies broke off the battle and withdrew after the Central Powers' failure on the Vistula.
 source: bitwa-pod-chyrowem
-sourceHash: 96f95ffa382eb976ad6c019c5e1386821bd3e0e9
+sourceHash: 2dcfad43cc6e8860b9e169f11eb501cc8af74f03
 ---
 
-The Battle of [Chyrów](https://pl.wikipedia.org/wiki/Chyrów) was one of the hardest-fought battles of the autumn 1914 campaign in Galicia. After the [relief of Przemyśl](/odsiecz-przemysla) the Austro-Hungarian 2nd and 3rd Armies tried to break through the positions of General [Aleksei Brusilov](/postacie/aleksiej-brusilow)'s Russian [8th Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)), which stretched from the area of Przemyśl across the hills near Chyrów to [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) and the foothills of the Carpathians. For three weeks bloody attacks and counter-attacks raged on the wooded hills between the San and the Dniester and in the valley of the Strwiąż. Neither side broke the front, and at the beginning of November the Austrians had to withdraw, because the fate of the campaign had been decided by the defeat of the Central Powers on the Vistula.
+The Battle of [Chyrów](https://pl.wikipedia.org/wiki/Chyrów) was one of the hardest-fought battles of the autumn 1914 campaign in Galicia. After the [relief of Przemyśl](/odsiecz-przemysla) the Austro-Hungarian 2nd and 3rd Armies tried to break through the positions of General [Aleksei Brusilov](/postacie/aleksiej-brusilow)'s Russian [8th Army](/sily-zbrojne/8-armia-rosyjska), which stretched from the area of Przemyśl across the hills near Chyrów to [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) and the foothills of the Carpathians. For three weeks bloody attacks and counter-attacks raged on the wooded hills between the San and the Dniester and in the valley of the Strwiąż. Neither side broke the front, and at the beginning of November the Austrians had to withdraw, because the fate of the campaign had been decided by the defeat of the Central Powers on the Vistula.
 
 ## Name and dates
 

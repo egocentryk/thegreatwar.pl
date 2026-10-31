@@ -2,10 +2,10 @@
 title: Sinking of HMS Pathfinder
 summary: On 5 September 1914 the German U-21 sank the cruiser HMS Pathfinder off Scotland, the first British warship sunk by a submarine.
 source: zatoniecie-hms-pathfinder
-sourceHash: b63cdec6865c4702ad1e5dfdcc69202f755ccdc9
+sourceHash: b81f4f937afca0b5638c044359691654399da156
 ---
 
-On 5 September 1914, off the east coast of Scotland near St Abbs Head, the German submarine [U-21](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) sank the British scout cruiser HMS *Pathfinder*. She was the first [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) warship sunk by an enemy [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny), and also the first ship in history sunk by a self-propelled [torpedo](https://pl.wikipedia.org/wiki/Torpeda) fired from a submarine.
+On 5 September 1914, off the east coast of Scotland near St Abbs Head, the German submarine [U-21](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) sank the British scout cruiser HMS *Pathfinder*. She was the first [Royal Navy](/sily-zbrojne/royal-navy) warship sunk by an enemy [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny), and also the first ship in history sunk by a self-propelled [torpedo](https://pl.wikipedia.org/wiki/Torpeda) fired from a submarine.
 
 ## Hunting at the entrance to the Firth of Forth
 

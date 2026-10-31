@@ -2,7 +2,7 @@
 title: HMS Manica, the first balloon ship
 summary: In March 1915 the Royal Navy commissioned HMS Manica, the first ship fitted to fly an observation balloon. She was to direct gunfire at the Dardanelles.
 source: hms-manica-pierwszy-okret-balonowy
-sourceHash: 5523a53a45970472ebac5585cf304c9f58c38b7b
+sourceHash: c0799110f8e7b0a0e4744f54241d616694f8c49e
 ---
 
 The British chronology of the war records under 23 March 1915 the commissioning of HMS *Manica*, the first British ship fitted to carry a tethered observation balloon. According to most accounts the White Ensign was hoisted in her a day earlier, on 22 March. The ship was produced in enormous haste, for the needs of the fleet fighting at the Dardanelles.
@@ -11,7 +11,7 @@ The British chronology of the war records under 23 March 1915 the commissioning 
 
 The [bombardment of the forts at the entrance to the Dardanelles](/poczatek-ataku-floty-na-dardanele), begun on 19 February, showed how hard it was for ships to hit targets they could not see. Turkish batteries hidden behind hills were invisible from the sea, and from a distance of a dozen or so kilometres the fall of shot could not be properly observed. Seaplanes from the carrier *Ark Royal* helped only to a limited extent, since they could not always take off and stay over the target. According to accounts, around 8 March a request for an observation balloon arrived in London from the Dardanelles.
 
-[Tethered balloons](https://pl.wikipedia.org/wiki/Balon_obserwacyjny) in the shape of an elongated "kite", called Drachen after their German name, were much more stable in wind than the old spherical balloons. They were already used by the Germans, French and Belgians. The [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) was only just organising its first balloon unit and had no equipment of its own. One of its officers was therefore sent to Paris, from where he brought back a balloon borrowed from the French together with a winch.
+[Tethered balloons](https://pl.wikipedia.org/wiki/Balon_obserwacyjny) in the shape of an elongated "kite", called Drachen after their German name, were much more stable in wind than the old spherical balloons. They were already used by the Germans, French and Belgians. The [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) was only just organising its first balloon unit and had no equipment of its own. One of its officers was therefore sent to Paris, from where he brought back a balloon borrowed from the French together with a winch.
 
 ## A freighter converted in a few days
 

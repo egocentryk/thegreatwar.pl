@@ -6,7 +6,7 @@ country: Czechoslovakia
 birthPlace: Kožlany (Bohemia)
 deathPlace: Sezimovo Ústí (Czechoslovakia)
 source: edvard-benes
-sourceHash: 78df7bbccf566cdd8a5fc925caf8abcd88ee12a3
+sourceHash: 4127f2ab7d0b0f0ceb2ab864380cfaab36a18af9
 ---
 
 Edvard Beneš was the youngest of the three leaders of the Czechoslovak independence movement in exile and the one who did the greatest share of the day-to-day work. When he fled Prague in 1915, he was 31 and a little-known lecturer in sociology. For three years in Paris he ran the office of the [Czechoslovak National Council](https://pl.wikipedia.org/wiki/Czechosłowacka_Rada_Narodowa), wrote articles and memoranda, maintained secret contact with the homeland and negotiated with French and British officials. In the summer of 1918 it was he who won recognition in Paris and London of the Council as the nucleus of a government, and in October he announced the formation of a Czechoslovak provisional government. For the next seventeen years he directed the foreign policy of the state he had helped to create, and later he was its president in its most tragic years.
@@ -25,7 +25,7 @@ Masaryk entrusted him with affairs in France and himself left for London. In Par
 
 In February 1916 the Czechoslovak National Council was founded with Masaryk as chairman, and Beneš became its secretary-general. Since Masaryk was first in London and from May 1917 in Russia and America, and Štefánik was constantly travelling, it was Beneš who ran the movement's headquarters in Paris. According to his memoirs, he and Štefánik lobbied the foreign ministry for the Allies to mention the liberation of the Czechoslovaks in their [reply to Wilson's note](/odpowiedz-ententy-na-note-wilsona) in January 1917. Masaryk attributed this achievement above all to the Prime Minister, [Aristide Briand](/postacie/aristide-briand).
 
-The most important goal was an army of their own. In December 1917 the French government issued a decree, prepared according to Slovak historians by Beneš and Štefánik, creating an autonomous Czechoslovak army in France, subordinate to the French command in all military matters and politically to the National Council. Formally the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) in Russia also belonged to it. In April 1918 Beneš and Štefánik represented the Council at the [Congress of Oppressed Nationalities](/pakt-rzymski) of Austria-Hungary in Rome, after which Italy agreed to a [Czechoslovak army of its own](/konwencja-wlosko-czechoslowacka) on its front.
+The most important goal was an army of their own. In December 1917 the French government issued a decree, prepared according to Slovak historians by Beneš and Štefánik, creating an autonomous Czechoslovak army in France, subordinate to the French command in all military matters and politically to the National Council. Formally the [Czechoslovak Legion](/sily-zbrojne/legion-czechoslowacki) in Russia also belonged to it. In April 1918 Beneš and Štefánik represented the Council at the [Congress of Oppressed Nationalities](/pakt-rzymski) of Austria-Hungary in Rome, after which Italy agreed to a [Czechoslovak army of its own](/konwencja-wlosko-czechoslowacka) on its front.
 
 ## Summer 1918: recognition
 

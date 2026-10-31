@@ -2,7 +2,7 @@
 title: Indian Expeditionary Force G sails for the Dardanelles
 summary: In early April 1915 the first Indian units sailed from Egypt for the Dardanelles. They were the gunners of two mountain batteries attached to ANZAC.
 source: indyjski-korpus-g-plynie-nad-dardanele
-sourceHash: f29655f5e0ff99b9860e1a34f14624cb735868ec
+sourceHash: ccb95ebb190b71f7416b536af21644ae5d61a945
 ---
 
 The British chronology of the war records under 7 April 1915 that the first units of Indian Expeditionary Force G sailed from [Egypt](https://pl.wikipedia.org/wiki/Egipt) for the Dardanelles. The new force was formed from part of the Indian troops stationed in Egypt, which had recently come under the common designation of [Force E](/indyjski-korpus-f-wlaczony-do-korpusu-e). It was to take part in the landing on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula being prepared by General [Ian Hamilton](/postacie/ian-hamilton).
@@ -17,6 +17,6 @@ At Alexandria the brigade was placed under General William Birdwood, commander o
 
 ## Force G
 
-Besides the mountain artillery, Force G included Indian transport columns with mules and carts, some of which had come earlier from the front in France, and Indian field hospitals. Its most important component was General Herbert Vaughan Cox's 29th Indian Brigade, which in February had [defended Kantara](/poczatek-walk-nad-kanalem-sueskim) against the Turkish attack on the canal. It consisted of the 14th Ferozepore Sikhs, the 69th and 89th Punjabis and the 1st Battalion, 6th [Gurkha](https://pl.wikipedia.org/wiki/Gurkhowie) Rifles. The brigade did not sail with the first echelon. It left Egypt only at the end of April and landed at Cape Helles at the beginning of May.
+Besides the mountain artillery, Force G included Indian transport columns with mules and carts, some of which had come earlier from the front in France, and Indian field hospitals. Its most important component was General Herbert Vaughan Cox's 29th Indian Brigade, which in February had [defended Kantara](/poczatek-walk-nad-kanalem-sueskim) against the Turkish attack on the canal. It consisted of the 14th Ferozepore Sikhs, the 69th and 89th Punjabis and the 1st Battalion, 6th [Gurkha](/sily-zbrojne/gurkhowie) Rifles. The brigade did not sail with the first echelon. It left Egypt only at the end of April and landed at Cape Helles at the beginning of May.
 
 The 29th Brigade was the only Indian infantry brigade to fight at Gallipoli. Even so, India's contribution to the campaign was not limited to it. The mountain batteries and transport columns served on the peninsula from the first day of the fighting to the last, and by some estimates well over ten thousand soldiers and followers from India passed through Gallipoli in all. In popular memory, however, the campaign long remained above all an affair of the Australians, New Zealanders and British.

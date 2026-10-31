@@ -2,7 +2,7 @@
 title: Battle of Mons
 summary: On 23 August 1914 the British Expeditionary Force fought its first battle at Mons. It inflicted heavy losses on the Germans but had to begin a retreat.
 source: bitwa-pod-mons
-sourceHash: 0307a0632185512f89e47aec3bb5d867be9f34ee
+sourceHash: 0a8db4ea81b0df174a32179bb2b7d2756f258b35
 brief:
   - "On 23 August 1914 near the Belgian town of Mons, Field Marshal Sir John French's British Expeditionary Force fought its first battle of the war, the first in Western Europe since Waterloo in 1815."
   - "The British held the line of the Mons–Condé canal, unaware that General Alexander von Kluck's much more numerous German First Army was heading for them. The main weight fell on Smith-Dorrien's II Corps."
@@ -10,7 +10,7 @@ brief:
   - "After the French Fifth Army's defeat at Charleroi the British faced encirclement and the next day began the Great Retreat. They lost about 1,600 men at Mons, and the battle quickly became a legend."
 ---
 
-On 23 August 1914, near the Belgian town of [Mons](https://pl.wikipedia.org/wiki/Mons), the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) fought its first battle of the war. It was the first time the British had fought in Western Europe since the [Battle of Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) in 1815, fought, as it happens, not far away. The British official history noted that the two divisions that bore the brunt of the fighting numbered together just under 36,000 men, not many more than Wellington's whole army at Waterloo.
+On 23 August 1914, near the Belgian town of [Mons](https://pl.wikipedia.org/wiki/Mons), the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) fought its first battle of the war. It was the first time the British had fought in Western Europe since the [Battle of Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) in 1815, fought, as it happens, not far away. The British official history noted that the two divisions that bore the brunt of the fighting numbered together just under 36,000 men, not many more than Wellington's whole army at Waterloo.
 
 ## Meeting Kluck's army
 

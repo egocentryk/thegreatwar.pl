@@ -17,7 +17,7 @@ tags: [Royal Navy, Kaiserliche Marine, Morze Północne, David Beatty]
 milestone: false
 ---
 
-[Bitwa w Zatoce Helgolandzkiej](https://pl.wikipedia.org/wiki/Bitwa_koło_Helgolandu_(1914)), nazywana też pierwszą bitwą koło Helgolandu, rozegrała się 28 sierpnia 1914 roku u północno-zachodnich wybrzeży Niemiec. Była pierwszym dużym starciem brytyjskiej [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) i niemieckiej [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) w I wojnie światowej. Brytyjczycy zatopili trzy niemieckie lekkie krążowniki i torpedowiec, a sami nie stracili żadnego okrętu.
+[Bitwa w Zatoce Helgolandzkiej](https://pl.wikipedia.org/wiki/Bitwa_koło_Helgolandu_(1914)), nazywana też pierwszą bitwą koło Helgolandu, rozegrała się 28 sierpnia 1914 roku u północno-zachodnich wybrzeży Niemiec. Była pierwszym dużym starciem brytyjskiej [Royal Navy](/sily-zbrojne/royal-navy) i niemieckiej [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) w I wojnie światowej. Brytyjczycy zatopili trzy niemieckie lekkie krążowniki i torpedowiec, a sami nie stracili żadnego okrętu.
 
 ## Wojna bez bitwy
 

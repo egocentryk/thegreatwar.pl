@@ -2,10 +2,10 @@
 title: Czechoslovaks take Omsk
 summary: On 7 June 1918 the Bolshevik soviet fled Omsk by steamer down the Irtysh. Russian anti-Bolsheviks took the city, and next day Czechoslovak trains arrived.
 source: czechoslowacy-zajmuja-omsk
-sourceHash: 5ddd2a11526966568e18b71efd24d483d249c34c
+sourceHash: 7dad30ab32b5bc4a96a36a657d1a4bfa647caa19
 ---
 
-On 7 June 1918 the leaders of the Bolshevik soviet in [Omsk](https://pl.wikipedia.org/wiki/Omsk), the largest city of western Siberia, boarded a steamer and sailed down the [Irtysh](https://pl.wikipedia.org/wiki/Irtysz) towards [Tobolsk](https://pl.wikipedia.org/wiki/Tobolsk). The day before, units of the [Czechoslovak Corps](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) had routed the Red Guards defending the approaches to the city. Omsk passed into anti-Bolshevik hands, and the last obstacle on the [Trans-Siberian Railway](https://pl.wikipedia.org/wiki/Kolej_Transsyberyjska) between the two large groupings of Czechoslovaks disappeared. Russian accounts date the capture of the city to 6 or 7 June, but both the orders of the new authorities and Czech accounts indicate that the Bolsheviks left Omsk on 7 June.
+On 7 June 1918 the leaders of the Bolshevik soviet in [Omsk](https://pl.wikipedia.org/wiki/Omsk), the largest city of western Siberia, boarded a steamer and sailed down the [Irtysh](https://pl.wikipedia.org/wiki/Irtysz) towards [Tobolsk](https://pl.wikipedia.org/wiki/Tobolsk). The day before, units of the [Czechoslovak Corps](/sily-zbrojne/legion-czechoslowacki) had routed the Red Guards defending the approaches to the city. Omsk passed into anti-Bolshevik hands, and the last obstacle on the [Trans-Siberian Railway](https://pl.wikipedia.org/wiki/Kolej_Transsyberyjska) between the two large groupings of Czechoslovaks disappeared. Russian accounts date the capture of the city to 6 or 7 June, but both the orders of the new authorities and Czech accounts indicate that the Bolsheviks left Omsk on 7 June.
 
 ## Omsk between two fronts
 

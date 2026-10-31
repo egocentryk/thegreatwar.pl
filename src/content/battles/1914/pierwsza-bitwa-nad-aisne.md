@@ -25,7 +25,7 @@ brief:
   - "Bitwę uważa się za początek wojny okopowej na froncie zachodnim. Natarcia czołowe zawiodły, więc obie strony próbowały obejść skrzydło przeciwnika, co dało początek wyścigowi do morza."
 ---
 
-Pierwsza bitwa nad Aisne, stoczona we wrześniu 1914 roku w północnej Francji, była bezpośrednim następstwem [bitwy nad Marną](/bitwy/pierwsza-bitwa-nad-marna). Francuzi i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), ścigający wycofujące się armie niemieckie, natrafili nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) na przeciwnika, który zatrzymał się na silnej pozycji i nie zamierzał jej oddać. Kilka dni natarć nie przyniosło przełamania. Żołnierze obu stron zaczęli kopać okopy, a na froncie zachodnim skończyła się wojna manewrowa. Bitwę uważa się powszechnie za początek wojny okopowej, która na zachodzie trwała niemal do końca wojny.
+Pierwsza bitwa nad Aisne, stoczona we wrześniu 1914 roku w północnej Francji, była bezpośrednim następstwem [bitwy nad Marną](/bitwy/pierwsza-bitwa-nad-marna). Francuzi i [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), ścigający wycofujące się armie niemieckie, natrafili nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) na przeciwnika, który zatrzymał się na silnej pozycji i nie zamierzał jej oddać. Kilka dni natarć nie przyniosło przełamania. Żołnierze obu stron zaczęli kopać okopy, a na froncie zachodnim skończyła się wojna manewrowa. Bitwę uważa się powszechnie za początek wojny okopowej, która na zachodzie trwała niemal do końca wojny.
 
 ## Daty bitwy
 

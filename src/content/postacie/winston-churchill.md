@@ -22,7 +22,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Winston_Churchill"
 ---
 
-Winston Churchill wszedł w wojnę jako jeden z najmłodszych, najbardziej energicznych i najbardziej kontrowersyjnych członków rządu [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith). Jako pierwszy lord Admiralicji, czyli minister odpowiedzialny za [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), przygotował flotę do wojny jeszcze przed jej wypowiedzeniem, pojechał bronić Antwerpii, wspierał prace nad czołgiem i przede wszystkim był głównym orędownikiem wyprawy na Dardanele. Jej klęska kosztowała go w maju 1915 roku Admiralicję, a jesienią miejsce w rządzie. Przez kilka miesięcy dowodził batalionem w okopach Flandrii, a w 1917 roku wrócił do władzy jako minister amunicji. Wojna, która omal nie zakończyła jego kariery, na całe życie ukształtowała jego myślenie o strategii.
+Winston Churchill wszedł w wojnę jako jeden z najmłodszych, najbardziej energicznych i najbardziej kontrowersyjnych członków rządu [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith). Jako pierwszy lord Admiralicji, czyli minister odpowiedzialny za [Royal Navy](/sily-zbrojne/royal-navy), przygotował flotę do wojny jeszcze przed jej wypowiedzeniem, pojechał bronić Antwerpii, wspierał prace nad czołgiem i przede wszystkim był głównym orędownikiem wyprawy na Dardanele. Jej klęska kosztowała go w maju 1915 roku Admiralicję, a jesienią miejsce w rządzie. Przez kilka miesięcy dowodził batalionem w okopach Flandrii, a w 1917 roku wrócił do władzy jako minister amunicji. Wojna, która omal nie zakończyła jego kariery, na całe życie ukształtowała jego myślenie o strategii.
 
 ## Przed wojną
 

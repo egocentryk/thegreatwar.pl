@@ -2,10 +2,10 @@
 title: Fighting begins on the Rawka and the Bzura
 summary: On 18 December 1914 the Germans attacked new Russian positions on the Rawka and the Bzura, opening fighting that became trench warfare lasting until July 1915.
 source: poczatek-walk-nad-rawka-i-bzura
-sourceHash: 3d69ff92beb12b0f2f996276fc9519d6886530cc
+sourceHash: f3b0c60a75bb3bd2b96bd29154031edbb31dfb94
 ---
 
-The British chronology of the war records under 18 December 1914 the beginning of the battle on the Rawka and the Bzura, adding at once that it had no clear end, as operations gradually turned into trench warfare. The war diaries of some German divisions also count the "battle on the Rawka and the Bzura" from that day. The day before, the [Battle of Łowicz and Sanniki](/koniec-bitwy-nad-bzura) had ended. The Russian armies then took up new positions on the eastern banks of the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura) and the [Rawka](https://pl.wikipedia.org/wiki/Rawka_(rzeka)), only 50–60 kilometres from Warsaw. The German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [August von Mackensen](/postacie/august-von-mackensen) at once tried to break through them.
+The British chronology of the war records under 18 December 1914 the beginning of the battle on the Rawka and the Bzura, adding at once that it had no clear end, as operations gradually turned into trench warfare. The war diaries of some German divisions also count the "battle on the Rawka and the Bzura" from that day. The day before, the [Battle of Łowicz and Sanniki](/koniec-bitwy-nad-bzura) had ended. The Russian armies then took up new positions on the eastern banks of the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura) and the [Rawka](https://pl.wikipedia.org/wiki/Rawka_(rzeka)), only 50–60 kilometres from Warsaw. The German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) of General [August von Mackensen](/postacie/august-von-mackensen) at once tried to break through them.
 
 ## The new line
 

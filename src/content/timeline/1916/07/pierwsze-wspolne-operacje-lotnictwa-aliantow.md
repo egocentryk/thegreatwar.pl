@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 30 lipca 1916 roku „pierwsze operacje lotnicze przeprowadzone wspólnie przez lotnictwo francuskie i brytyjskie na francuskim froncie zachodnim”. Chodzi o odcinek frontu obsadzony przez armię francuską, a nie o rejon, w którym walczyli Brytyjczycy. Tego dnia nad ranem z lotniska w [Luxeuil-les-Bains](https://pl.wikipedia.org/wiki/Luxeuil-les-Bains), u podnóża [Wogezów](https://pl.wikipedia.org/wiki/Wogezy), wystartowały razem samoloty francuskie i trzy maszyny nowego 3 Skrzydła [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), lotnictwa brytyjskiej marynarki. Poleciały za [Ren](https://pl.wikipedia.org/wiki/Ren), by zbombardować magazyny benzyny w Badenii. Był to pierwszy bojowy lot skrzydła, które Brytyjczycy stworzyli do wspólnych z Francuzami nalotów na niemiecki przemysł.
+Brytyjska chronologia wojny notuje pod 30 lipca 1916 roku „pierwsze operacje lotnicze przeprowadzone wspólnie przez lotnictwo francuskie i brytyjskie na francuskim froncie zachodnim”. Chodzi o odcinek frontu obsadzony przez armię francuską, a nie o rejon, w którym walczyli Brytyjczycy. Tego dnia nad ranem z lotniska w [Luxeuil-les-Bains](https://pl.wikipedia.org/wiki/Luxeuil-les-Bains), u podnóża [Wogezów](https://pl.wikipedia.org/wiki/Wogezy), wystartowały razem samoloty francuskie i trzy maszyny nowego 3 Skrzydła [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), lotnictwa brytyjskiej marynarki. Poleciały za [Ren](https://pl.wikipedia.org/wiki/Ren), by zbombardować magazyny benzyny w Badenii. Był to pierwszy bojowy lot skrzydła, które Brytyjczycy stworzyli do wspólnych z Francuzami nalotów na niemiecki przemysł.
 
 ## Brytyjczycy w Luxeuil
 

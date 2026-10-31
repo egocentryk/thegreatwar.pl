@@ -2,10 +2,10 @@
 title: Robertson becomes chief of staff of the BEF
 summary: On 25 January 1915 General William Robertson became Chief of the General Staff of the BEF. The government blocked Henry Wilson, French's favourite.
 source: robertson-szefem-sztabu-bef
-sourceHash: 726214d075b612fb004c943afc7091bfbe98b88b
+sourceHash: 2bf82ec900b8e59b1185a14f0881b8e225539dcc
 ---
 
-On 25 January 1915 Lieutenant-General Sir William Robertson became Chief of the General Staff of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). He replaced General Archibald Murray, [sent on sick leave the day before](/murray-odchodzi-ze-sztabu-bef). Until then Robertson had been the [force's Quartermaster-General](/robertson-przestaje-byc-kwatermistrzem-bef), responsible for its supplies.
+On 25 January 1915 Lieutenant-General Sir William Robertson became Chief of the General Staff of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). He replaced General Archibald Murray, [sent on sick leave the day before](/murray-odchodzi-ze-sztabu-bef). Until then Robertson had been the [force's Quartermaster-General](/robertson-przestaje-byc-kwatermistrzem-bef), responsible for its supplies.
 
 ## From private to general
 

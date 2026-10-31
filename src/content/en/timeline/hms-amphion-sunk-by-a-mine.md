@@ -2,10 +2,10 @@
 title: HMS Amphion sunk by a mine
 summary: On the morning of 6 August 1914 the cruiser HMS Amphion struck German mines off the English coast and sank. She was the first Royal Navy ship lost in the war.
 source: hms-amphion-zatopiony-na-minie
-sourceHash: 95c35f3a32e5a284374b525f1f44e70ac74e117d
+sourceHash: 51cf63d4152b07f2640f5651501c440cd90a28df
 ---
 
-On 6 August 1914 at about 6.30 a.m. the British scout cruiser HMS *Amphion* struck [mines](/slownik/mina-morska) laid on the night of 4–5 August by the German ship *Königin Luise*. She sank within a quarter of an hour or so. She was the first [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) ship lost in the First World War, barely a day and a half after Great Britain entered the war.
+On 6 August 1914 at about 6.30 a.m. the British scout cruiser HMS *Amphion* struck [mines](/slownik/mina-morska) laid on the night of 4–5 August by the German ship *Königin Luise*. She sank within a quarter of an hour or so. She was the first [Royal Navy](/sily-zbrojne/royal-navy) ship lost in the First World War, barely a day and a half after Great Britain entered the war.
 
 ## A trap after victory
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny zamyka pod 30 czerwca 1916 roku bitwę nad [Strypą](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), którą [rozpoczyna 11 czerwca](/poczatek-bitwy-nad-strypa). Ostatniego dnia czerwca, 17 czerwca według kalendarza juliańskiego, którego używała wtedy Rosja, nad samą Strypą nie stało się jednak nic rozstrzygającego. Front niemiecko-austriackiej [Armii Południowej](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) generała Felixa von Bothmera od ponad tygodnia stał spokojnie. Ostatnie duże natarcie rosyjskiej [7 Armii](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) generała [Dmitrija Szczerbaczowa](/postacie/dmitrij-szczerbaczow) załamało się 21 czerwca. Datę z chronologii można raczej wiązać z doniesieniami znad Dniestru i Prutu, gdzie pod koniec czerwca rosyjskie wojska znów ruszyły naprzód.
+Brytyjska chronologia wojny zamyka pod 30 czerwca 1916 roku bitwę nad [Strypą](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), którą [rozpoczyna 11 czerwca](/poczatek-bitwy-nad-strypa). Ostatniego dnia czerwca, 17 czerwca według kalendarza juliańskiego, którego używała wtedy Rosja, nad samą Strypą nie stało się jednak nic rozstrzygającego. Front niemiecko-austriackiej [Armii Południowej](/sily-zbrojne/armia-poludniowa) generała Felixa von Bothmera od ponad tygodnia stał spokojnie. Ostatnie duże natarcie rosyjskiej [7 Armii](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) generała [Dmitrija Szczerbaczowa](/postacie/dmitrij-szczerbaczow) załamało się 21 czerwca. Datę z chronologii można raczej wiązać z doniesieniami znad Dniestru i Prutu, gdzie pod koniec czerwca rosyjskie wojska znów ruszyły naprzód.
 
 ## Walki pod Kotuzowem
 

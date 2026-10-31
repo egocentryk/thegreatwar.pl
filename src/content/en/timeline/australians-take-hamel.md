@@ -2,7 +2,7 @@
 title: Australians take Hamel
 summary: At 3.10 a.m. on 4 July 1918 Australians with Mark V tanks and Americans attacked Hamel on the Somme. In about 90 minutes they took the village, woods and ridge.
 source: australijczycy-zdobywaja-hamel
-sourceHash: 009e7b30c26c9421add71cb28328dfedda9dfd26
+sourceHash: 0f48ab7370d08ce83e6c1ec61a326f4953e82cff
 brief:
   - "At 3.10 a.m. on 4 July 1918 ten battalions of General John Monash's Australian Corps, four companies of the American 33rd Division and sixty Mark V tanks advanced on Hamel on the Somme, about 20 kilometres east of Amiens."
   - "The day before, General Pershing ordered the American companies withdrawn because they had not finished their training. Six were withdrawn, but Field Marshal Haig decided that the attack was to go ahead as planned."
@@ -19,7 +19,7 @@ The day had in fact begun with a quarrel. On the morning of 3 July, when the Aus
 
 At 6 p.m. the battalions received a telegram with zero hour: 3.10 a.m. Many of them gave their men a second hot meal around midnight, which the Americans noted with approval in their accounts. The night was unusually quiet. At 10.30 p.m. the tanks, their engines throttled down, moved off from the orchards near Fouilloy and Hamelet, and between 11.45 p.m. and 1.15 a.m. they reached their assembly line, about 800 metres behind the front. There infantry guides were waiting for them, having marked the way to the battalions with tape. Meanwhile patrols cut gaps in their own wire, and intelligence officers and engineers laid out the tapes of the jumping-off line. Between midnight and 1.45 a.m. the companies left the trenches and lay down in the grass and corn, in places waist-high. The commander of the 15th Battalion, Colonel McSharry, a veteran of many battles, remembered that the men moved to their places "like shadows". One of the American platoons recorded: "When we lined up with bayonets fixed, we were all nervous (…), but when we got to the place we lay down and soon forgot we were going over. (…) We soon fell asleep." Contrary to the custom of the Australian infantry, each man was given a tot of rum.
 
-All night long bombers of No. 101 Squadron, [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force), circled over the front. Every pilot flew at least three sorties and the squadron dropped 350 bombs on Hamel and the valley behind the village. As one aircraft flew off, the next arrived, and their drone, deliberately loud, was meant to drown out the tanks. At one point a parachute flare hung for several minutes just above the tanks' assembly line, but the Germans noticed nothing. One of the prisoners said afterwards that the night flights had aroused some suspicion, but no one imagined that they were meant to hide the noise of tanks.
+All night long bombers of No. 101 Squadron, [Royal Air Force](/sily-zbrojne/royal-air-force), circled over the front. Every pilot flew at least three sorties and the squadron dropped 350 bombs on Hamel and the valley behind the village. As one aircraft flew off, the next arrived, and their drone, deliberately loud, was meant to drown out the tanks. At one point a parachute flare hung for several minutes just above the tanks' assembly line, but the Germans noticed nothing. One of the prisoners said afterwards that the night flights had aroused some suspicion, but no one imagined that they were meant to hide the noise of tanks.
 
 ## Zero hour
 

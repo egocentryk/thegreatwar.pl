@@ -2,10 +2,10 @@
 title: First joint Allied air operations
 summary: On 30 July 1916 No. 3 Wing RNAS aircraft from Luxeuil first flew with the French against Germany. The targets were petrol stores at Müllheim in Baden.
 source: pierwsze-wspolne-operacje-lotnictwa-aliantow
-sourceHash: 8353a4a66fb1b536c548606b32290ff3ba1fdc99
+sourceHash: 12725bd63f0de4118e9de02c46f4016adf462adb
 ---
 
-The British chronology of the war records under 30 July 1916 "the first air operations carried out jointly by the French and British air services on the French western front". This means the sector of the front held by the French army, not the area where the British were fighting. Early that morning French aircraft and three machines of the new No. 3 Wing of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the British navy's air arm, took off together from the airfield at [Luxeuil-les-Bains](https://pl.wikipedia.org/wiki/Luxeuil-les-Bains), at the foot of the [Vosges](https://pl.wikipedia.org/wiki/Wogezy). They flew across the [Rhine](https://pl.wikipedia.org/wiki/Ren) to bomb petrol stores in Baden. It was the first combat flight of the wing, which the British had created for joint raids with the French on German industry.
+The British chronology of the war records under 30 July 1916 "the first air operations carried out jointly by the French and British air services on the French western front". This means the sector of the front held by the French army, not the area where the British were fighting. Early that morning French aircraft and three machines of the new No. 3 Wing of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), the British navy's air arm, took off together from the airfield at [Luxeuil-les-Bains](https://pl.wikipedia.org/wiki/Luxeuil-les-Bains), at the foot of the [Vosges](https://pl.wikipedia.org/wiki/Wogezy). They flew across the [Rhine](https://pl.wikipedia.org/wiki/Ren) to bomb petrol stores in Baden. It was the first combat flight of the wing, which the British had created for joint raids with the French on German industry.
 
 ## The British at Luxeuil
 

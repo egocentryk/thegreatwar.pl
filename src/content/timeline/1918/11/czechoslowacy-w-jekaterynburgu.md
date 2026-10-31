@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 9 listopada 1918 roku, że czechosłowackie wojska w [Jekaterynburgu](https://pl.wikipedia.org/wiki/Jekaterynburg) na Uralu „ogłosiły niepodległość narodową”. W rzeczywistości nikt niczego tam nie ogłaszał. Państwo czechosłowackie [powstało 28 października w Pradze](/niepodleglosc-czechoslowacji), a żołnierze [Korpusu Czechosłowackiego](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) w Rosji uroczyście świętowali jego narodziny. Główna uroczystość odbyła się w Jekaterynburgu, gdzie pułki 2 Czechosłowackiej Dywizji Strzelców otrzymały poświęcone sztandary. Na 9 listopada zapraszał na nią brytyjski konsul w Jekaterynburgu Thomas Preston, ale według czechosłowackiego Związku Legionistów uroczystość odbyła się 10 listopada.
+Brytyjska chronologia wojny notuje pod 9 listopada 1918 roku, że czechosłowackie wojska w [Jekaterynburgu](https://pl.wikipedia.org/wiki/Jekaterynburg) na Uralu „ogłosiły niepodległość narodową”. W rzeczywistości nikt niczego tam nie ogłaszał. Państwo czechosłowackie [powstało 28 października w Pradze](/niepodleglosc-czechoslowacji), a żołnierze [Korpusu Czechosłowackiego](/sily-zbrojne/legion-czechoslowacki) w Rosji uroczyście świętowali jego narodziny. Główna uroczystość odbyła się w Jekaterynburgu, gdzie pułki 2 Czechosłowackiej Dywizji Strzelców otrzymały poświęcone sztandary. Na 9 listopada zapraszał na nią brytyjski konsul w Jekaterynburgu Thomas Preston, ale według czechosłowackiego Związku Legionistów uroczystość odbyła się 10 listopada.
 
 ## Uroczystość na placu
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Maximilian von Spee]
 result: British victory. The Germans lost two armoured cruisers and two light cruisers, and the East Asia Squadron ceased to exist. The British lost no ship.
 source: bitwa-kolo-falklandow
-sourceHash: a033f509f81a71507524e3ff09d7df333ac89224
+sourceHash: acd9fc537e83609a9848720382902e6019cbc8be
 brief:
   - "On 8 December 1914 in the South Atlantic a British force under Vice-Admiral Doveton Sturdee destroyed the German East Asia Squadron of Vice-Admiral Maximilian von Spee, five weeks after the defeat at Coronel."
   - "After Coronel Admiral John Fisher sent the battlecruisers Invincible and Inflexible to the South Atlantic. They had 12-inch guns and were clearly faster than the German armoured cruisers."
@@ -18,7 +18,7 @@ brief:
   - "The battle wiped out the disgrace of Coronel. The only permanent German naval formation outside Europe ceased to exist, and the trade routes in the South Atlantic and the Pacific were safe again."
 ---
 
-The [Battle of the Falkland Islands](https://pl.wikipedia.org/wiki/Bitwa_koło_Falklandów) was fought on 8 December 1914 in the South Atlantic. A British force under Vice-Admiral [Doveton Sturdee](https://pl.wikipedia.org/wiki/Doveton_Sturdee), led by two modern battlecruisers, caught and destroyed the German East Asia Squadron of Vice-Admiral [Maximilian von Spee](/postacie/maximilian-von-spee). Four of the five German cruisers were sunk, and Spee himself and about 1,900 of his sailors were killed. Five weeks after the defeat [at Coronel](/bitwy/bitwa-pod-coronelem), the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) took its revenge, and Germany lost the only squadron it had on the oceans of the world.
+The [Battle of the Falkland Islands](https://pl.wikipedia.org/wiki/Bitwa_koło_Falklandów) was fought on 8 December 1914 in the South Atlantic. A British force under Vice-Admiral [Doveton Sturdee](https://pl.wikipedia.org/wiki/Doveton_Sturdee), led by two modern battlecruisers, caught and destroyed the German East Asia Squadron of Vice-Admiral [Maximilian von Spee](/postacie/maximilian-von-spee). Four of the five German cruisers were sunk, and Spee himself and about 1,900 of his sailors were killed. Five weeks after the defeat [at Coronel](/bitwy/bitwa-pod-coronelem), the [Royal Navy](/sily-zbrojne/royal-navy) took its revenge, and Germany lost the only squadron it had on the oceans of the world.
 
 ## The answer to Coronel
 

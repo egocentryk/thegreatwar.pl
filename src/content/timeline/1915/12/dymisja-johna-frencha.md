@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 15 grudnia 1915 roku, że marszałek polny sir [John French](/postacie/john-french) zrezygnował ze stanowiska naczelnego dowódcy armii brytyjskich we Francji. Dowodził [Brytyjskim Korpusem Ekspedycyjnym](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) od pierwszych dni wojny, od sierpnia 1914 roku, gdy liczył on sześć dywizji piechoty, do jesieni 1915 roku, gdy we Francji i Flandrii stało ich już blisko czterdzieści. Formalnie złożył dymisję sam. W rzeczywistości zmusił go do niej rząd premiera [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith), a do jego upadku przyczynili się także jego najbliżsi podwładni.
+Brytyjska chronologia wojny notuje pod 15 grudnia 1915 roku, że marszałek polny sir [John French](/postacie/john-french) zrezygnował ze stanowiska naczelnego dowódcy armii brytyjskich we Francji. Dowodził [Brytyjskim Korpusem Ekspedycyjnym](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) od pierwszych dni wojny, od sierpnia 1914 roku, gdy liczył on sześć dywizji piechoty, do jesieni 1915 roku, gdy we Francji i Flandrii stało ich już blisko czterdzieści. Formalnie złożył dymisję sam. W rzeczywistości zmusił go do niej rząd premiera [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith), a do jego upadku przyczynili się także jego najbliżsi podwładni.
 
 ## Spór o odwody spod Loos
 

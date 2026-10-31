@@ -9,7 +9,7 @@ sides:
     commanders: [Rudolf von Brudermann, Hermann Kövess]
 result: Russian victory. The Austro-Hungarians withdrew beyond Lviv, which the Russians occupied on 3 September 1914.
 source: bitwa-nad-zlota-lipa
-sourceHash: c002b9c35fdb11084f9cd953eaf2257a2d83afea
+sourceHash: 1050114b05934c7b260c23eef5a99b2c95bec20c
 ---
 
 The Battle of the Złota Lipa, fought on 26–30 August 1914 east of [Lviv](https://pl.wikipedia.org/wiki/Lwów), was one of the key engagements of the [Battle of Galicia](/bitwy/bitwa-galicyjska). In it the Russian armies of Generals [Nikolai Ruzsky](/postacie/nikolaj-ruzski) and [Aleksei Brusilov](/postacie/aleksiej-brusilow) routed the Austro-Hungarian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) of General Rudolf von Brudermann and the army group of General [Hermann Kövess](/postacie/hermann-kovess), opening the way to the capital of Galicia.
@@ -22,7 +22,7 @@ The fighting took place in two stages, on two parallel rivers, tributaries of th
 
 The Chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), staked everything on an offensive to the north, deep into the Kingdom of Poland. There the armies of Dankl and Auffenberg were fighting, and they won the battles of [Kraśnik](/bitwy/bitwa-pod-krasnikiem) and Komarów. Eastern Galicia was only to be screened. Conrad counted on the Russians being weak here and on their main forces attacking from the north.
 
-Meanwhile the Russian [South-Western Front](https://pl.wikipedia.org/wiki/Front_Południowo-Zachodni_(Imperium_Rosyjskie)) of General [Nikolai Ivanov](/postacie/nikolaj-iwanow) threw two strong armies against Eastern Galicia. Ruzsky's [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) was advancing from Volhynia, and Brusilov's [Eighth Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) from Podolia, across the border river [Zbruch](https://pl.wikipedia.org/wiki/Zbrucz). Together they numbered eight corps, that is about 22 infantry divisions and several cavalry divisions. Brudermann had three corps in the front line and, with Kövess and the reinforcements on their way, about 13 divisions. Estimates of the strength of both sides differ depending on the source, but all point to a clear Russian superiority, especially in artillery.
+Meanwhile the Russian [South-Western Front](https://pl.wikipedia.org/wiki/Front_Południowo-Zachodni_(Imperium_Rosyjskie)) of General [Nikolai Ivanov](/postacie/nikolaj-iwanow) threw two strong armies against Eastern Galicia. Ruzsky's [Third Army](/sily-zbrojne/3-armia-rosyjska) was advancing from Volhynia, and Brusilov's [Eighth Army](/sily-zbrojne/8-armia-rosyjska) from Podolia, across the border river [Zbruch](https://pl.wikipedia.org/wiki/Zbrucz). Together they numbered eight corps, that is about 22 infantry divisions and several cavalry divisions. Brudermann had three corps in the front line and, with Kövess and the reinforcements on their way, about 13 divisions. Estimates of the strength of both sides differ depending on the source, but all point to a clear Russian superiority, especially in artillery.
 
 ## On the Złota Lipa (26–27 August)
 

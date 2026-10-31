@@ -2,14 +2,14 @@
 title: Kitchener's first New Army is formed
 summary: On 21 August 1914 the British War Office ordered the formation of the first New Army, six divisions strong, from volunteers.
 source: pierwsza-nowa-armia-kitchenera
-sourceHash: 93265aa61e764fe9032d2ff417805db0990bf43d
+sourceHash: b68f2c1829cffec2a3c655186202c1d6e9603310
 ---
 
 On 21 August 1914 the British War Office issued Army Order No. 324, ordering the formation of the first of the so-called New Armies. The order announced that the King had approved the addition to the army of six infantry divisions with Army Troops, formed from volunteers who had come forward since the outbreak of war. It replaced Army Order No. 311, issued five days earlier and cancelled.
 
 ## Kitchener's vision
 
-Before the war the [British Army](https://pl.wikipedia.org/wiki/British_Army) was a small professional army scattered across the whole empire. The [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) sent to France numbered about 100,000 men, roughly half regulars and half reservists, and it was the country's only field army. The new Secretary of State for War, [Lord Herbert Kitchener](/postacie/horatio-kitchener), who had [taken office on 6 August](/lord-kitchener-ministrem-wojny), unlike most members of the government did not believe in a short war. He predicted that it would last at least three years, cause enormous losses and drain the manpower of the warring states "to the last million". Britain therefore had to raise an army numbered in millions.
+Before the war the [British Army](https://pl.wikipedia.org/wiki/British_Army) was a small professional army scattered across the whole empire. The [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) sent to France numbered about 100,000 men, roughly half regulars and half reservists, and it was the country's only field army. The new Secretary of State for War, [Lord Herbert Kitchener](/postacie/horatio-kitchener), who had [taken office on 6 August](/lord-kitchener-ministrem-wojny), unlike most members of the government did not believe in a short war. He predicted that it would last at least three years, cause enormous losses and drain the manpower of the warring states "to the last million". Britain therefore had to raise an army numbered in millions.
 
 Kitchener did not want to build it on the existing Territorial units. Many of their men had volunteered for home service only, and the minister himself distrusted such formations ever since he had seen how the French territorials performed in the war of 1870–1871. He decided to create entirely new units. On 6 August Parliament sanctioned an increase of the regular army by 500,000 men, and on 11 August a proclamation called on the first 100,000 men to enlist at once "for three years or for the duration of the war". Posters bearing the royal arms proclaimed: "Your King and Country need you".
 

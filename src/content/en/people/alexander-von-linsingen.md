@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Hildesheim (Kingdom of Hanover)
 deathPlace: Hanover
 source: alexander-von-linsingen
-sourceHash: 29f45fbed2b649fe1b254b37c430f5d8e6743c38
+sourceHash: 6c11557fbdd6a4daad956e98f23e871f865c8d49
 ---
 
 Alexander von Linsingen was one of the oldest and longest-serving German army commanders of the First World War. When war broke out he was 64 and commanded a corps. After the campaign in France and Flanders he was sent to the Eastern Front, where he spent more than three years. In 1915 he led the South Army through the Carpathians and [to the Stryi](/bitwy/bitwa-nad-stryjem), then the new Army of the Bug towards Brest-Litovsk and Pinsk, and from the autumn of that year he headed an army group in Volhynia and Polesia in which Austro-Hungarian troops also fought under German command. In the summer of 1916 his troops stopped the [Brusilov offensive](/bitwy/ofensywa-brusilowa) before Kovel, and in 1918 they advanced into Ukraine and entered Kiev. He ended the war as commander of the troops in Berlin, in the days of the November Revolution.
@@ -25,7 +25,7 @@ In the autumn Linsingen was sent to Flanders. In November, in the final phase of
 
 ## 1915: the Carpathians and the Stryi
 
-At the turn of 1914 and 1915 Austria-Hungary found itself in a difficult position. The Russians were besieging Przemyśl and stood on the Carpathian passes. The chief of the Austro-Hungarian general staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), prepared a winter offensive, and the Germans, though sceptical of his plan, sent help. In January 1915 the [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)), the first joint army of the two states, was formed from German and Austro-Hungarian divisions, and Linsingen became its commander. The headquarters of II Corps was converted into the army staff.
+At the turn of 1914 and 1915 Austria-Hungary found itself in a difficult position. The Russians were besieging Przemyśl and stood on the Carpathian passes. The chief of the Austro-Hungarian general staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), prepared a winter offensive, and the Germans, though sceptical of his plan, sent help. In January 1915 the [South Army](/sily-zbrojne/armia-poludniowa), the first joint army of the two states, was formed from German and Austro-Hungarian divisions, and Linsingen became its commander. The headquarters of II Corps was converted into the army staff.
 
 [On 23 January the offensive began](/poczatek-ofensywy-w-karpatach). The South Army attacked in the Eastern Beskids towards Stryi, but in deep snow and frost, without roads, it advanced very slowly. Despite weeks of fighting it failed to break through to the foothills, and the [Winter Battle in the Carpathians](/bitwy/zimowa-bitwa-w-karpatach) did not save Przemyśl, which capitulated in March. Only in April, after long fighting, did Linsingen's troops take the Zwinin ridge, a key Russian position above the road to Stryi.
 

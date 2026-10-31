@@ -2,10 +2,10 @@
 title: End of the Battle of the Marne
 summary: On 10 September 1914 the British and French pursued the retreating Germans. British historiography regards this day as the end of the Battle of the Marne.
 source: koniec-bitwy-nad-marna
-sourceHash: 29e30d48121c55474b58ca711c1f540dfcae32ae
+sourceHash: 05aea8ca4907d63ce35deebcd93813d70633f6b3
 ---
 
-On 10 September 1914 the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) and the neighbouring French armies advanced north behind the retreating Germans. The fighting was now only with the rearguards covering the retreat of the German 1st and 2nd Armies. The British chronology of the war regards this day as the end of the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), the largest and most important battle of 1914.
+On 10 September 1914 the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) and the neighbouring French armies advanced north behind the retreating Germans. The fighting was now only with the rearguards covering the retreat of the German 1st and 2nd Armies. The British chronology of the war regards this day as the end of the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), the largest and most important battle of 1914.
 
 ## The pursuit
 

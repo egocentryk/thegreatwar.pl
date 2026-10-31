@@ -2,10 +2,10 @@
 title: Second German offensive against Warsaw
 summary: On 16 November 1914 the German Ninth Army crossed the Bzura and advanced on Łódź. The British chronology treats this day as the start of the Battle of Łódź.
 source: druga-niemiecka-ofensywa-na-warszawe
-sourceHash: b35432ba6de32084f855af9ec601367a3a1ba2de
+sourceHash: b09d71ed2fb48a4aa98be1e1f5827b2025b9d7de
 ---
 
-The British chronology of the war records under 16 November 1914 the start of the second German offensive against Warsaw and of the Battle of Łódź. On that day the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [August von Mackensen](/postacie/august-von-mackensen), which for five days had been advancing from the Vistula into the Kingdom of Poland, crossed the [Bzura](https://pl.wikipedia.org/wiki/Bzura). The Russian Second Army was falling back towards [Łódź](https://pl.wikipedia.org/wiki/Łódź), and the fighting began to shift to the approaches to the city.
+The British chronology of the war records under 16 November 1914 the start of the second German offensive against Warsaw and of the Battle of Łódź. On that day the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) of General [August von Mackensen](/postacie/august-von-mackensen), which for five days had been advancing from the Vistula into the Kingdom of Poland, crossed the [Bzura](https://pl.wikipedia.org/wiki/Bzura). The Russian Second Army was falling back towards [Łódź](https://pl.wikipedia.org/wiki/Łódź), and the fighting began to shift to the approaches to the city.
 
 ## Why 16 November
 

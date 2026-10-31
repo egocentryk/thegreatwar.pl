@@ -2,10 +2,10 @@
 title: First units of the British Expeditionary Force in France
 summary: On 7 August 1914 the first British units landed in France. The main body of the expeditionary force crossed the Channel over the following days.
 source: pierwsze-oddzialy-brytyjskiego-korpusu-ekspedycyjnego-we-francji
-sourceHash: 946eb49294d4938cfbade7a17a280060630654d0
+sourceHash: b77b96a9ce59707897292a5c5f3f244b127d3c05
 ---
 
-Contemporary chronicles of the war record 7 August 1914 as the day on which the first units of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) landed on the French coast. These were small parties sent ahead to prepare for the reception of the main body. The mass transport of the army across the [English Channel](https://pl.wikipedia.org/wiki/La_Manche) began a few days later and lasted until the middle of August.
+Contemporary chronicles of the war record 7 August 1914 as the day on which the first units of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) landed on the French coast. These were small parties sent ahead to prepare for the reception of the main body. The mass transport of the army across the [English Channel](https://pl.wikipedia.org/wiki/La_Manche) began a few days later and lasted until the middle of August.
 
 ## Preparations on the spot
 
@@ -13,7 +13,7 @@ Before tens of thousands of soldiers with horses, guns and supplies could arrive
 
 ## The crossing
 
-Moving the army was a major logistical operation, prepared before the war. Ships crossed the Channel day and night, escorted by vessels of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), which guarded the strait against attack by the German fleet. The operation was a complete success: not a single transport was sunk, and for a long time the Germans did not realise its scale.
+Moving the army was a major logistical operation, prepared before the war. Ships crossed the Channel day and night, escorted by vessels of the [Royal Navy](/sily-zbrojne/royal-navy), which guarded the strait against attack by the German fleet. The operation was a complete success: not a single transport was sunk, and for a long time the Germans did not realise its scale.
 
 The main body, the I Corps of General [Douglas Haig](/postacie/douglas-haig) and II Corps, crossed between 12 and 17 August. On 14 August the commander-in-chief, Field Marshal [John French](/postacie/john-french), arrived at Boulogne. From the ports the soldiers were taken by rail to the area of [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) near the Belgian border, on the left wing of the French army.
 

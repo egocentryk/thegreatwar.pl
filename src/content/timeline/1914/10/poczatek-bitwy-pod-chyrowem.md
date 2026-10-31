@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-13 października 1914 roku austro-węgierska 2 i 3 Armia przeszły do ogólnego natarcia na pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) na południe od Przemyśla. Brytyjska chronologia wojny datuje na ten dzień początek bitwy pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów). Pierwsze starcia na tym odcinku toczyły się już od 9–10 października, dlatego austriacka historia oficjalna zaczyna bitwę, nazywaną przez nią bitwą pod Przemyślem i Chyrowem, 10 października.
+13 października 1914 roku austro-węgierska 2 i 3 Armia przeszły do ogólnego natarcia na pozycje rosyjskiej [8 Armii](/sily-zbrojne/8-armia-rosyjska) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) na południe od Przemyśla. Brytyjska chronologia wojny datuje na ten dzień początek bitwy pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów). Pierwsze starcia na tym odcinku toczyły się już od 9–10 października, dlatego austriacka historia oficjalna zaczyna bitwę, nazywaną przez nią bitwą pod Przemyślem i Chyrowem, 10 października.
 
 ## Po odsieczy Przemyśla
 

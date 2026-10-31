@@ -2,14 +2,14 @@
 title: Siege of Maubeuge begins
 summary: On 25 August 1914 German troops began to encircle the French fortress of Maubeuge on the Sambre, left behind by the retreating Allies.
 source: poczatek-oblezenia-maubeuge
-sourceHash: c8109ff5671895287e60ee75a2d3a45a1afab6f5
+sourceHash: 832c9345138f57a4058f32602211d453a9ed2357
 ---
 
 On 25 August 1914 German troops began to encircle the French fortress of [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) on the [Sambre](https://pl.wikipedia.org/wiki/Sambra), right on the Belgian border. The same day the Belgian fortress of Namur fell. The units and heavy artillery released from there could now be turned against the next target.
 
 ## A fortress left to itself
 
-Maubeuge lay on the main route of the German invasion. A few days earlier the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) had assembled near it before setting off for Mons. After the defeats at Mons and Charleroi, however, the British and the French Fifth Army were retreating southwards. Field Marshal John French did not want to shut his men up in the fortress because, as he later recalled, he feared they would share the fate of the French army shut up in Metz in 1870. The British columns therefore bypassed Maubeuge and marched on towards Le Cateau.
+Maubeuge lay on the main route of the German invasion. A few days earlier the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) had assembled near it before setting off for Mons. After the defeats at Mons and Charleroi, however, the British and the French Fifth Army were retreating southwards. Field Marshal John French did not want to shut his men up in the fortress because, as he later recalled, he feared they would share the fate of the French army shut up in Metz in 1870. The British columns therefore bypassed Maubeuge and marched on towards Le Cateau.
 
 The fortress was left alone. Its garrison numbered, according to various sources, some 45,000–50,000 men, largely older soldiers from territorial units. It was commanded by its governor, General Joseph Fournier. The six main forts, most of them built in the 1880s, were not prepared for fire from the heaviest siege guns.
 

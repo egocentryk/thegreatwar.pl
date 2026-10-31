@@ -2,10 +2,10 @@
 title: Battle of Biskupice begins
 summary: On 29 July 1915 the German 11th Army broke the Russian front at Biskupice and reached the Lublin–Chełm railway at Trawniki. The Russians began to retreat.
 source: poczatek-bitwy-pod-biskupicami
-sourceHash: eb58f42b5b6538a027893c159f20bb6a53873c0a
+sourceHash: fc71a37c03567554594bd2dd3b8eec4bb6ff581b
 ---
 
-On 29 July 1915, after a pause of several days, the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) again attacked along the whole front between the Vistula and the Bug. The most important blow was struck by the German [11th Army](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), in the direction of [Biskupice](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), a former small town on the [Giełczewka](https://pl.wikipedia.org/wiki/Giełczewka), south-east of [Lublin](https://pl.wikipedia.org/wiki/Lublin). That same day the Germans broke through the Russian lines and reached the railway from Lublin to [Chełm](https://pl.wikipedia.org/wiki/Chełm). The German list of battles, and following it the British chronology of the war, calls this fighting the Battle of Biskupice. It lasted two days.
+On 29 July 1915, after a pause of several days, the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) again attacked along the whole front between the Vistula and the Bug. The most important blow was struck by the German [11th Army](/sily-zbrojne/11-armia-niemiecka) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), in the direction of [Biskupice](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), a former small town on the [Giełczewka](https://pl.wikipedia.org/wiki/Giełczewka), south-east of [Lublin](https://pl.wikipedia.org/wiki/Lublin). That same day the Germans broke through the Russian lines and reached the railway from Lublin to [Chełm](https://pl.wikipedia.org/wiki/Chełm). The German list of battles, and following it the British chronology of the war, calls this fighting the Battle of Biskupice. It lasted two days.
 
 ## Mackensen's new plan
 
@@ -13,7 +13,7 @@ After the victory [at Krasnystaw](/bitwy/bitwa-pod-krasnymstawem) in mid-July th
 
 The main blow was to be led by General [Otto von Emmich](https://pl.wikipedia.org/wiki/Otto_von_Emmich). According to the Austrian official history he was given seven infantry divisions: the divisions of the XXII and X Reserve Corps and of X Corps, as well as the 119th Infantry Division. To these was added the Guard Cavalry Division. The Prussian Guard and the Austro-Hungarian VI Corps on the east bank of the Wieprz were to move only once Emmich's wedge had begun to take effect. The objective was the Lublin – Chełm railway, part of the [Vistula Railway](https://pl.wikipedia.org/wiki/Kolej_Nadwiślańska). Along it the Russians were moving troops and supplies out of Congress Poland.
 
-Facing them stood the Russian [3rd Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) of General Leonid Lesh. In mid-July the Russian command had reinforced it with two corps from the reserve: the [Guard](https://pl.wikipedia.org/wiki/Gwardia_Imperium_Rosyjskiego) and II Siberian Corps. It was II Siberian Corps that was defending at Biskupice.
+Facing them stood the Russian [3rd Army](/sily-zbrojne/3-armia-rosyjska) of General Leonid Lesh. In mid-July the Russian command had reinforced it with two corps from the reserve: the [Guard](https://pl.wikipedia.org/wiki/Gwardia_Imperium_Rosyjskiego) and II Siberian Corps. It was II Siberian Corps that was defending at Biskupice.
 
 ## The breakthrough
 

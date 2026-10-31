@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 24 maja 1915 roku początek bitwy nad [Stryjem](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), która według niej trwała do 11 czerwca. Tego dnia niemiecko-austriacka [Armia Południowa](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen) rozpoczęła według Encyclopaedii Britanniki z 1922 roku dwudniowy ostrzał artyleryjski rosyjskich pozycji przed miastem [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)) i [Doliną](https://pl.wikipedia.org/wiki/Dolina_(miasto)). Piechota ruszyła do szturmu rano 26 maja. W tym samym czasie, kilkadziesiąt kilometrów na północny zachód, [armia Mackensena uderzyła pod Radymnem](/poczatek-walk-o-odbicie-przemysla), a wojska austro-węgierskie atakowały na południe od Przemyśla.
+Brytyjska chronologia wojny notuje pod 24 maja 1915 roku początek bitwy nad [Stryjem](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), która według niej trwała do 11 czerwca. Tego dnia niemiecko-austriacka [Armia Południowa](/sily-zbrojne/armia-poludniowa) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen) rozpoczęła według Encyclopaedii Britanniki z 1922 roku dwudniowy ostrzał artyleryjski rosyjskich pozycji przed miastem [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)) i [Doliną](https://pl.wikipedia.org/wiki/Dolina_(miasto)). Piechota ruszyła do szturmu rano 26 maja. W tym samym czasie, kilkadziesiąt kilometrów na północny zachód, [armia Mackensena uderzyła pod Radymnem](/poczatek-walk-o-odbicie-przemysla), a wojska austro-węgierskie atakowały na południe od Przemyśla.
 
 ## Jedno uderzenie zamiast wielu
 

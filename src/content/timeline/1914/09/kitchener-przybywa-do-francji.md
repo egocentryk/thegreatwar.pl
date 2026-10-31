@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 września 1914 roku brytyjski minister wojny, marszałek polny lord [Herbert Kitchener](/postacie/horatio-kitchener), przybył do Francji, by osobiście rozmówić się z dowódcą [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), marszałkiem [Johnem Frenchem](/postacie/john-french). Spotkanie w ambasadzie brytyjskiej w Paryżu należało do najważniejszych rozmów pierwszych tygodni wojny. Rozstrzygnęło, że Brytyjczycy pozostaną na froncie u boku Francuzów.
+1 września 1914 roku brytyjski minister wojny, marszałek polny lord [Herbert Kitchener](/postacie/horatio-kitchener), przybył do Francji, by osobiście rozmówić się z dowódcą [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), marszałkiem [Johnem Frenchem](/postacie/john-french). Spotkanie w ambasadzie brytyjskiej w Paryżu należało do najważniejszych rozmów pierwszych tygodni wojny. Rozstrzygnęło, że Brytyjczycy pozostaną na froncie u boku Francuzów.
 
 ## Plan odwrotu za Sekwanę
 

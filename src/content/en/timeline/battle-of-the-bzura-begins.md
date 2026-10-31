@@ -2,10 +2,10 @@
 title: Battle of the Bzura begins
 summary: On 30 November 1914 the left wing of the German Ninth Army, reinforced from the west, moved against the Russians at Łowicz and Sanniki.
 source: poczatek-bitwy-nad-bzura
-sourceHash: 25800061bea36228fe38a188e6fb8219a3698767
+sourceHash: 7c3778b7ba7106b684b07cbc43c18cb75ff2f207
 ---
 
-A British chronology of the war records under 30 November 1914 the beginning of the battle of Łowicz and Sanniki. The name and date come from the official German list of battles. On that day the left wing of the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) began an attack on the positions of the Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) north and north-west of [Łowicz](https://pl.wikipedia.org/wiki/Łowicz), in the area between the Vistula and the [Bzura](https://pl.wikipedia.org/wiki/Bzura). In Polish tradition this fighting is usually called the [Battle of the Bzura](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)).
+A British chronology of the war records under 30 November 1914 the beginning of the battle of Łowicz and Sanniki. The name and date come from the official German list of battles. On that day the left wing of the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) began an attack on the positions of the Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) north and north-west of [Łowicz](https://pl.wikipedia.org/wiki/Łowicz), in the area between the Vistula and the [Bzura](https://pl.wikipedia.org/wiki/Bzura). In Polish tradition this fighting is usually called the [Battle of the Bzura](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)).
 
 ## After the crisis at Łódź
 

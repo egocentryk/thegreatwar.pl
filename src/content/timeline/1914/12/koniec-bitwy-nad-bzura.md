@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 17 grudnia 1914 roku koniec bitwy pod Łowiczem i Sannikami, którą w Polsce nazywa się zwykle bitwą nad Bzurą. Datę tę, podobnie jak nazwę, przejęła z niemieckiego urzędowego wykazu bitew. [Polska Wikipedia](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)) ujmuje te walki szerzej i kończy je 20 grudnia. Niezależnie od przyjętej daty w połowie grudnia skończył się trwający od [30 listopada](/poczatek-bitwy-nad-bzura) etap ciężkich walk na północnym skrzydle frontu w [Królestwie Polskim](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Rosyjska [1 Armia](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) cofnęła się za dolną [Bzurę](https://pl.wikipedia.org/wiki/Bzura), a niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) stanęła przed jej nowymi pozycjami.
+Brytyjska chronologia wojny notuje pod datą 17 grudnia 1914 roku koniec bitwy pod Łowiczem i Sannikami, którą w Polsce nazywa się zwykle bitwą nad Bzurą. Datę tę, podobnie jak nazwę, przejęła z niemieckiego urzędowego wykazu bitew. [Polska Wikipedia](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)) ujmuje te walki szerzej i kończy je 20 grudnia. Niezależnie od przyjętej daty w połowie grudnia skończył się trwający od [30 listopada](/poczatek-bitwy-nad-bzura) etap ciężkich walk na północnym skrzydle frontu w [Królestwie Polskim](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Rosyjska [1 Armia](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) cofnęła się za dolną [Bzurę](https://pl.wikipedia.org/wiki/Bzura), a niemiecka [9 Armia](/sily-zbrojne/9-armia-niemiecka) stanęła przed jej nowymi pozycjami.
 
 ## Ostatnie dni walk
 

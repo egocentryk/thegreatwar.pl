@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Tiflis, now Tbilisi (Russian Empire, now Georgia)
 deathPlace: Moscow
 source: aleksiej-brusilow
-sourceHash: 14af5f5641f9ab7193d88e15bd3ec355db55718c
+sourceHash: b4f75ec40be908095edaaecb7fc73882a2a8cb35
 ---
 
 General of Cavalry Aleksei Brusilov was the ablest commander of the Russian Army in the First World War and one of the few generals of the war whose name is borne by a great operation. In 1914 he led the 8th Army across Galicia into the Carpathians, in 1915 he withdrew it in good order to Volhynia, and in June 1916 his Southwestern Front broke through the Austro-Hungarian front in an offensive that went down in history as the Brusilov offensive. After the February Revolution he quickly adapted to the new order and in the summer of 1917 was commander-in-chief for less than two months. In 1920, during the war with Poland, he supported the Bolsheviks, which long marked his memory both among the White émigrés and in Poland.
@@ -19,7 +19,7 @@ Thanks to the patronage of Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-m
 
 ## 1914: Galicia and the Carpathians
 
-On the day war broke out with Germany Brusilov became commander of the [8th Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)), which formed the left wing of General [Nikolai Ivanov's](/postacie/nikolaj-iwanow) Southwestern Front. At the end of August it advanced from Podolia into eastern Galicia and, together with General Nikolai Ruzsky's 3rd Army, routed the Austro-Hungarian 3rd Army [on the Złota Lipa](/bitwy/bitwa-nad-zlota-lipa) and then on the Gniła Lipa. At the beginning of September the 8th Army took Halicz. When the Austrians struck from the west [at Gródek and Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska), the main weight of their attack fell on Brusilov, who had to throw his last reserves into the fighting but held the front until the enemy retreated. Victory in the [Battle of Galicia](/bitwy/bitwa-galicyjska) strengthened his fame.
+On the day war broke out with Germany Brusilov became commander of the [8th Army](/sily-zbrojne/8-armia-rosyjska), which formed the left wing of General [Nikolai Ivanov's](/postacie/nikolaj-iwanow) Southwestern Front. At the end of August it advanced from Podolia into eastern Galicia and, together with General Nikolai Ruzsky's 3rd Army, routed the Austro-Hungarian 3rd Army [on the Złota Lipa](/bitwy/bitwa-nad-zlota-lipa) and then on the Gniła Lipa. At the beginning of September the 8th Army took Halicz. When the Austrians struck from the west [at Gródek and Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska), the main weight of their attack fell on Brusilov, who had to throw his last reserves into the fighting but held the front until the enemy retreated. Victory in the [Battle of Galicia](/bitwy/bitwa-galicyjska) strengthened his fame.
 
 In the autumn his army spent three weeks repelling Austro-Hungarian attacks between Przemyśl and Stary Sambor [in the Battle of Chyrów](/bitwy/bitwa-pod-chyrowem), which Brusilov simply called the Battle of Przemyśl. It then moved into the Carpathians and towards the passes leading into Hungary. In December some of his troops fought [at Limanowa](/bitwy/bitwa-pod-limanowa), and in the winter of 1914/1915 the 8th Army fought hard battles in the snow of the [Carpathian winter battle](/bitwy/zimowa-bitwa-w-karpatach), repelling the Austrian attempts to relieve Przemyśl and seizing the crest of the Beskids.
 

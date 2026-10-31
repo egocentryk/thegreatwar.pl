@@ -2,10 +2,10 @@
 title: British raid on Friedrichshafen
 summary: On 21 November 1914 three Royal Naval Air Service aircraft from Belfort bombed the Zeppelin works at Friedrichshafen. One of the pilots was taken prisoner.
 source: nalot-na-friedrichshafen
-sourceHash: a7997ff4247acf6d856c35410e97ec4b60dde212
+sourceHash: 92af957d89ee2af00c12366dfa62c512ac68b653
 ---
 
-On 21 November 1914 three aircraft of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the air arm of the British navy, attacked the airship works at [Friedrichshafen](https://pl.wikipedia.org/wiki/Friedrichshafen) on [Lake Constance](https://pl.wikipedia.org/wiki/Jezioro_Bodeńskie). They took off from [Belfort](https://pl.wikipedia.org/wiki/Belfort) in France and had to cover some 200 kilometres each way in a straight line, much of it over German territory. It was one of the first raids in history planned from the outset as a strike on an industrial plant deep inside enemy territory.
+On 21 November 1914 three aircraft of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), the air arm of the British navy, attacked the airship works at [Friedrichshafen](https://pl.wikipedia.org/wiki/Friedrichshafen) on [Lake Constance](https://pl.wikipedia.org/wiki/Jezioro_Bodeńskie). They took off from [Belfort](https://pl.wikipedia.org/wiki/Belfort) in France and had to cover some 200 kilometres each way in a straight line, much of it over German territory. It was one of the first raids in history planned from the outset as a strike on an industrial plant deep inside enemy territory.
 
 ## Preparations
 

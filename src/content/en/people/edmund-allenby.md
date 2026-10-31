@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Brackenhurst (England)
 deathPlace: London
 source: edmund-allenby
-sourceHash: a8c6b5d48e7c6426ecc991b714308a342fe4d5bb
+sourceHash: 8ad2f77c97bf9b438dfe145ab4a327298593a027
 ---
 
 Sir Edmund Allenby, a field marshal and Viscount Allenby of Megiddo from 1919, had two wars. On the Western Front he was one of many British generals: he commanded a division, then a cavalry corps, an infantry corps and an army, and his greatest battle, at Arras in the spring of 1917, began brilliantly and ended like all the others, amid mounting losses. He was regarded as a hot-tempered and obstinate commander, and Haig, his rival since their Staff College days, eventually got rid of him. Sent to Egypt, Allenby proved to be one of the best commanders of the war. He took Jerusalem before Christmas 1917, as the Prime Minister wanted, and in September 1918 at Megiddo he crushed the Turkish armies in Palestine in one of the most brilliant operations of the entire war. By the autumn of 1918 his troops were in Damascus and Aleppo, and the Ottoman Empire was asking for an armistice.
@@ -19,7 +19,7 @@ In the [Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska) he commanded a 
 
 ## 1914–1915: the cavalry and Ypres
 
-In August 1914 Allenby led the only cavalry division of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) to France. After the [Battle of Mons](/bitwy/bitwa-pod-mons) his brigades covered the retreat, and his horsemen supported II Corps [at Le Cateau](/bitwy/bitwa-pod-le-cateau). The retreat also revealed Allenby's weaknesses. Subordinates complained that he could not explain his intentions clearly, and Brigadier [Hubert Gough](/postacie/hubert-gough) broke away from the division with his brigade and joined Haig's corps, which soured relations between the two cavalrymen for a long time.
+In August 1914 Allenby led the only cavalry division of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) to France. After the [Battle of Mons](/bitwy/bitwa-pod-mons) his brigades covered the retreat, and his horsemen supported II Corps [at Le Cateau](/bitwy/bitwa-pod-le-cateau). The retreat also revealed Allenby's weaknesses. Subordinates complained that he could not explain his intentions clearly, and Brigadier [Hubert Gough](/postacie/hubert-gough) broke away from the division with his brigade and joined Haig's corps, which soured relations between the two cavalrymen for a long time.
 
 In the autumn, as the British army moved to Flanders, on 9 October 1914 the two cavalry divisions were combined into a corps under Allenby's command. It was to cover the arrival of the infantry and outflank the German wing, but the front quickly froze. From then on the cavalrymen fought on foot in trenches, with bayonets and rifles. [At Messines](/bitwy/bitwa-pod-messines) they held a long sector for three weeks with thin lines of dismounted men, until at the turn of October and November they lost the ridge in heavy fighting that was already part of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Allenby won much praise for this fighting, conducted with very slender forces.
 

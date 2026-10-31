@@ -2,7 +2,7 @@
 title: First night aeroplane raid on London
 summary: On the night of 6–7 May 1917 a lone German aeroplane bombed north London. It was the first night raid on the capital by an aeroplane. One man was killed.
 source: pierwszy-nocny-nalot-samolotu-na-londyn
-sourceHash: 8fdc77a3ed2c6974d8a9dcd0f1742da6ed4b91c0
+sourceHash: 6b1ff937436bcce7311b737d70ec20f4c920a3e5
 ---
 
 Shortly after midnight on 6–7 May 1917 the drone of a single engine was heard over north-east [London](https://pl.wikipedia.org/wiki/Londyn). At about 12.40 a.m. it was heard by anti-aircraft gunners at [Wanstead](https://pl.wikipedia.org/wiki/Wanstead), and a moment later the first bomb fell on Hackney Marshes. Within a few minutes the German aeroplane flew west over [Hackney](https://pl.wikipedia.org/wiki/London_Borough_of_Hackney), [Stoke Newington](https://pl.wikipedia.org/wiki/Stoke_Newington), [Highbury](https://pl.wikipedia.org/wiki/Highbury_(Londyn)) and [Holloway](https://pl.wikipedia.org/wiki/Holloway_(Londyn)), dropping more bombs. It was the first night raid on London by an aeroplane. Until then only airships had bombed the capital by night, and the only earlier aeroplane attack on the city, on [28 November 1916](/pierwszy-dzienny-nalot-samolotu-na-londyn), had taken place in daylight.
@@ -17,6 +17,6 @@ The number of bombs varies between sources. Jones writes of five bombs dropped b
 
 ## No answer from the defences
 
-The defences could do nothing. Two [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) aeroplanes took off from the airfield at Bekesbourne and two [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) ones from Manston, but no pilot sighted the Albatros as it returned over [Kent](https://pl.wikipedia.org/wiki/Kent) towards the coast. Jones regarded the sortie as an isolated "tip and run" attack, similar to the earlier spring visits of single aeroplanes and seaplanes over Broadstairs, Westgate and Dover, and as an event of no particular significance.
+The defences could do nothing. Two [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) aeroplanes took off from the airfield at Bekesbourne and two [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) ones from Manston, but no pilot sighted the Albatros as it returned over [Kent](https://pl.wikipedia.org/wiki/Kent) towards the coast. Jones regarded the sortie as an isolated "tip and run" attack, similar to the earlier spring visits of single aeroplanes and seaplanes over Broadstairs, Westgate and Dover, and as an event of no particular significance.
 
 The real change was still to come. Near [Ghent](https://pl.wikipedia.org/wiki/Gandawa) the bomber squadron Kagohl 3 was completing its preparations, equipped with twin-engined [Gotha G.IV](https://pl.wikipedia.org/wiki/Gotha_G.IV) bombers and intended specifically for attacks on England. Its first expedition against London set off on 25 May 1917. Klimke soon joined it, and in July he was over London again, this time in a Gotha crew. Night raids by aeroplanes on the capital began in earnest only in the autumn of 1917, when the Gothas switched to attacks by moonlight.

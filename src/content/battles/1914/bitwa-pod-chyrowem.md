@@ -17,7 +17,7 @@ tags: [Austro-Węgry, Rosja, Galicja]
 milestone: false
 ---
 
-Bitwa pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów) była jedną z najcięższych bitew jesiennej kampanii 1914 roku w Galicji. Po [odsieczy Przemyśla](/odsiecz-przemysla) austro-węgierskie 2 i 3 Armia próbowały przełamać pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow), które ciągnęły się od okolic Przemyśla przez wzgórza koło Chyrowa po [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) i podnóże Karpat. Przez trzy tygodnie na zalesionych wzgórzach między Sanem a Dniestrem i w dolinie Strwiąża trwały krwawe natarcia i kontrnatarcia. Żadna ze stron nie przełamała frontu, a na początku listopada Austriacy musieli się wycofać, bo o losie kampanii przesądziła porażka państw centralnych nad Wisłą.
+Bitwa pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów) była jedną z najcięższych bitew jesiennej kampanii 1914 roku w Galicji. Po [odsieczy Przemyśla](/odsiecz-przemysla) austro-węgierskie 2 i 3 Armia próbowały przełamać pozycje rosyjskiej [8 Armii](/sily-zbrojne/8-armia-rosyjska) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow), które ciągnęły się od okolic Przemyśla przez wzgórza koło Chyrowa po [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) i podnóże Karpat. Przez trzy tygodnie na zalesionych wzgórzach między Sanem a Dniestrem i w dolinie Strwiąża trwały krwawe natarcia i kontrnatarcia. Żadna ze stron nie przełamała frontu, a na początku listopada Austriacy musieli się wycofać, bo o losie kampanii przesądziła porażka państw centralnych nad Wisłą.
 
 ## Nazwa i daty
 

@@ -20,7 +20,7 @@ Pod koniec września żołnierzy, konie i sprzęt przewieziono do portu w Quebec
 
 ## Przez Atlantyk
 
-Statki płynęły w trzech kolumnach, osłaniane przez krążowniki [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Następnego dnia u wybrzeży [Nowej Fundlandii](https://pl.wikipedia.org/wiki/Dominium_Nowej_Fundlandii) dołączył do nich parowiec Florizel z pierwszym oddziałem Pułku Nowofundlandzkiego. Na jego pokładzie było 537 ochotników, nazywanych „Pierwszą Pięćsetką” albo „Niebieskimi Getrami”, bo z braku sukna w kolorze khaki nosili owijacze niebieskie.
+Statki płynęły w trzech kolumnach, osłaniane przez krążowniki [Royal Navy](/sily-zbrojne/royal-navy). Następnego dnia u wybrzeży [Nowej Fundlandii](https://pl.wikipedia.org/wiki/Dominium_Nowej_Fundlandii) dołączył do nich parowiec Florizel z pierwszym oddziałem Pułku Nowofundlandzkiego. Na jego pokładzie było 537 ochotników, nazywanych „Pierwszą Pięćsetką” albo „Niebieskimi Getrami”, bo z braku sukna w kolorze khaki nosili owijacze niebieskie.
 
 Pierwotnie konwój miał zawinąć do Southampton, ale z obawy przed niemieckimi okrętami podwodnymi skierowano go do [Plymouth](https://pl.wikipedia.org/wiki/Plymouth). Statki dotarły tam 14 października. Mieszkańcy witali Kanadyjczyków z wielkim entuzjazmem.
 

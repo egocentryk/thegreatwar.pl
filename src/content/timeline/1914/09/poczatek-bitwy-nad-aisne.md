@@ -18,7 +18,7 @@ brief:
   - "Nad Aisne skończył się pościg po Marnie i zaczęła się wojna pozycyjna. Obie strony zaczęły szukać otwartego skrzydła na północy, co rozpoczęło tak zwany wyścig do morza."
 ---
 
-12 września 1914 roku wojska francuskie i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), które od kilku dni ścigały armie niemieckie pokonane nad Marną, dotarły nad rzekę [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), między Compiègne a Berry-au-Bac. Tam natrafiły na przeciwnika, który przestał się cofać. Niemcy zajęli wzgórza na północnym brzegu rzeki i postanowili się na nich bronić. Tak zaczęła się pierwsza bitwa nad Aisne, pierwsza wielka bitwa tej wojny, w której obie strony zaczęły się zakopywać w ziemi.
+12 września 1914 roku wojska francuskie i [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), które od kilku dni ścigały armie niemieckie pokonane nad Marną, dotarły nad rzekę [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), między Compiègne a Berry-au-Bac. Tam natrafiły na przeciwnika, który przestał się cofać. Niemcy zajęli wzgórza na północnym brzegu rzeki i postanowili się na nich bronić. Tak zaczęła się pierwsza bitwa nad Aisne, pierwsza wielka bitwa tej wojny, w której obie strony zaczęły się zakopywać w ziemi.
 
 ## Po bitwie nad Marną
 

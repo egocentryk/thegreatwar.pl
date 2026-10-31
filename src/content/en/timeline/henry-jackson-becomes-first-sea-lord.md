@@ -2,10 +2,10 @@
 title: Henry Jackson becomes First Sea Lord
 summary: At the end of May 1915 Admiral Henry Jackson, a wireless pioneer and planner of overseas expeditions, succeeded Fisher as professional head of the Royal Navy.
 source: henry-jackson-pierwszym-lordem-morskim
-sourceHash: 3edcc0f67174db0c8afcb652ff3a1474842b8b8e
+sourceHash: d6ab6179cc9ae48267000052eb9e8829241c028a
 ---
 
-At the end of May 1915 Admiral Sir Henry Jackson became First Sea Lord, that is, the most senior officer and professional head of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). He succeeded Lord [John Fisher](/postacie/john-fisher), who had [walked out of the Admiralty on 15 May](/dymisja-lorda-fishera). The British chronology of the war records the appointment under 28 May, and some lists give 27 May as the start of his tenure. Jackson took his place beside the new First Lord of the Admiralty, [Arthur Balfour](/arthur-balfour-pierwszym-lordem-admiralicji).
+At the end of May 1915 Admiral Sir Henry Jackson became First Sea Lord, that is, the most senior officer and professional head of the [Royal Navy](/sily-zbrojne/royal-navy). He succeeded Lord [John Fisher](/postacie/john-fisher), who had [walked out of the Admiralty on 15 May](/dymisja-lorda-fishera). The British chronology of the war records the appointment under 28 May, and some lists give 27 May as the start of his tenure. Jackson took his place beside the new First Lord of the Admiralty, [Arthur Balfour](/arthur-balfour-pierwszym-lordem-admiralicji).
 
 The appointment came as a surprise to many. After Fisher's departure his duties were temporarily taken over by Admiral Arthur Wilson, who had already been First Sea Lord in 1910–1911. Wilson, however, declared that he would serve only under [Winston Churchill](/postacie/winston-churchill), and when it became clear that Churchill was leaving, he could not be persuaded to change his mind. On 21 May Churchill wrote to the Prime Minister that in this situation he advised appointing Jackson. The proposal was accepted.
 

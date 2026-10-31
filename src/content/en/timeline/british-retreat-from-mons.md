@@ -2,10 +2,10 @@
 title: The British retreat from Mons
 summary: On 24 August 1914 the British Expeditionary Force began its retreat from Mons. Rearguards fought heavy actions at Elouges and Audregnies.
 source: brytyjczycy-wycofuja-sie-spod-mons
-sourceHash: 08ae951c1a53afa6b4c258b0eeae6d6f566e7c88
+sourceHash: 9fb631577a3a118299a854ecafa8eca343796a7c
 ---
 
-On 24 August 1914 the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) began its retreat from the Belgian town of [Mons](https://pl.wikipedia.org/wiki/Mons), where it had fought its first battle the day before. It was the beginning of the Great Retreat, which was to last almost two weeks and end only on the Marne.
+On 24 August 1914 the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) began its retreat from the Belgian town of [Mons](https://pl.wikipedia.org/wiki/Mons), where it had fought its first battle the day before. It was the beginning of the Great Retreat, which was to last almost two weeks and end only on the Marne.
 
 ## A decision in the night
 

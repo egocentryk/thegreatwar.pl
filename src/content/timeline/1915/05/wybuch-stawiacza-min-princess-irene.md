@@ -29,4 +29,4 @@ Ofiar było tyle, że ich dokładna liczba różni się w zależności od źród
 
 Początkowo podejrzewano sabotaż, ale śledztwo nie potwierdziło tych podejrzeń. Komisja śledcza marynarki wojennej uznała, że najbardziej prawdopodobną przyczyną był wadliwy zapalnik jednej z min, uzbrajanych w pośpiechu przez ludzi bez odpowiedniego przeszkolenia. Zaleciła, by odtąd miny uzbrajali wyłącznie wykwalifikowani specjaliści.
 
-Katastrofa zbiegła się z czarną serią [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Tego samego ranka u wybrzeży Gallipoli niemiecki okręt podwodny [zatopił pancernik Majestic](/zatopienie-pancernika-majestic). Ofiary obu katastrof na Medway, Bulwarka i Princess Irene, upamiętniają dziś wspólne pomniki, między innymi w Sheerness i w Gillingham.
+Katastrofa zbiegła się z czarną serią [Royal Navy](/sily-zbrojne/royal-navy). Tego samego ranka u wybrzeży Gallipoli niemiecki okręt podwodny [zatopił pancernik Majestic](/zatopienie-pancernika-majestic). Ofiary obu katastrof na Medway, Bulwarka i Princess Irene, upamiętniają dziś wspólne pomniki, między innymi w Sheerness i w Gillingham.

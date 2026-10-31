@@ -1,0 +1,248 @@
+{
+ "slug": "8-armia-rosyjska",
+ "paragraphs": [
+  {
+   "start": "Rosyjska 8 Armia, nazywana armią Brusiłowa",
+   "quotes": [
+    {
+     "url": "https://www.firstworldwar.com/bio/brusilov.htm",
+     "quote": "Brusilov quickly established Eighth Army as the most consistently successful in the Russian army."
+    },
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "W 1914 roku poprowadził 8 Armię przez Galicję aż w Karpaty, w 1915 roku w porządku wycofał ją na Wołyń, a w czerwcu 1916 roku jego Front Południowo-Zachodni przełamał front austro-węgierski"
+    },
+    {
+     "file": "src/content/timeline/1916/06/poczatek-ofensywy-brusilowa.md",
+     "quote": "Tak zaczęła się ofensywa, która przyniosła armii rosyjskiej największe zwycięstwo w tej wojnie."
+    },
+    {
+     "file": "src/content/postacie/lawr-kornilow.md",
+     "quote": "W lipcowej ofensywie Kiereńskiego jego armia odniosła jedyny wyraźny sukces."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Армия расформирована в январе 1918 года"
+    }
+   ]
+  },
+  {
+   "start": "Armię utworzono w pierwszych dniach wojny",
+   "quotes": [
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Полевое управление (штаб) 8-й полевой армии образовано в июле 1914 года на базе штаба Одесского военного округа России."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Так, например, плана формирования штаба и управления новой 8-й армии не существовало вовсе. Высший состав армии был назначен телеграммой из Петербурга 31 июля, то есть в первый день мобилизации. Прочий личный состав мне пришлось набирать экспромтом с большими трудностями, в хаосе первых дней мобилизации."
+    },
+    {
+     "file": "src/content/postacie/anton-denikin.md",
+     "quote": "został generałem kwatermistrzem 8 Armii, którą dowodził generał Aleksiej Brusiłow."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Армейская конница: 12-я кав. дивизия; 2-я сводно-казачья дивизия; 1-я кубанская каз. дивизия; 2-я кубанская каз. дивизия; терская казачья дивизия."
+    },
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "W dniu wybuchu wojny z Niemcami Brusiłow został dowódcą 8 Armii, która tworzyła lewe skrzydło Frontu Południowo-Zachodniego generała Nikołaja Iwanowa."
+    }
+   ]
+  },
+  {
+   "start": "W drugiej połowie sierpnia armia przeszła",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "gdy rosyjska 8 Armia przekroczyła graniczny Zbrucz"
+    },
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "razem z 3 Armią generała Nikołaja Ruzskiego rozbiła austro-węgierską 3 Armię nad Złotą Lipą, a potem nad Gniłą Lipą. Na początku września 8 Armia zajęła Halicz."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "без моего флангового марша, без того, что противник был разбит на Гнилой Липе, а мои войска продвинулись к югу от Львова (в тыл войскам, противостоящим 3-й армии), этот город без боя очищен бы не был"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-grodkiem-i-rawa-ruska.md",
+     "quote": "Rosyjska 8 Armia Brusiłowa, na którą spadł główny ciężar tego uderzenia, znalazła się w trudnym położeniu."
+    },
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "ale utrzymał front aż do odwrotu przeciwnika"
+    }
+   ]
+  },
+  {
+   "start": "W armii Brusiłowa służyli dowódcy",
+   "quotes": [
+    {
+     "file": "src/content/postacie/radko-dimitriew.md",
+     "quote": "dano mu VIII Korpus w 8 Armii Aleksieja Brusiłowa"
+    },
+    {
+     "file": "src/content/postacie/lawr-kornilow.md",
+     "quote": "Na początku wojny objął 48 Dywizję Piechoty w 8 Armii generała Aleksieja Brusiłowa."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "один из разъездов 12-й кавалерийской дивизии генерала Каледина вошел во Львов"
+    },
+    {
+     "file": "src/content/postacie/anton-denikin.md",
+     "quote": "Na początku września 1914 roku, w trakcie bitwy galicyjskiej, sam poprosił o objęcie 4 Brygady Strzelców"
+    },
+    {
+     "file": "src/content/postacie/lawr-kornilow.md",
+     "quote": "dywizja Korniłowa niespodziewanie zajęła Humenné i zeszła z gór na równinę węgierską, wbrew rozkazom dowódcy korpusu. Szybko została odcięta i musiała się przebijać z powrotem górskimi ścieżkami"
+    }
+   ]
+  },
+  {
+   "start": "Zimą 8 Armia toczyła ciężkie boje",
+   "quotes": [
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "zimą 1914/1915 roku 8 Armia toczyła ciężkie boje w śniegach zimowej bitwy w Karpatach, odpierając austriackie próby odsieczy Przemyśla"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Получив часть освободившихся сил после капитуляции Перемышля, в начале апреля армия возобновила наступление и овладела Бескидскими хребтами, но сил для развития успеха уже не было."
+    }
+   ]
+  },
+  {
+   "start": "Po przełamaniu frontu pod Gorlicami w maju",
+   "quotes": [
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "Po przełamaniu frontu pod Gorlicami w maju 1915 roku armia Brusiłowa musiała zejść z Karpat. W bitwie nad Sanem przejął dwa korpusy rozbitej 3 Armii i załogę Przemyśla"
+    },
+    {
+     "file": "src/content/postacie/lawr-kornilow.md",
+     "quote": "48 Dywizja osłaniała odwrót wojsk z Karpat i na początku maja została okrążona w rejonie Dukli."
+    },
+    {
+     "file": "src/content/postacie/lawr-kornilow.md",
+     "quote": "Ranny w rękę i nogę generał przez kilka dni ukrywał się z garstką ludzi w lasach, aż w połowie maja i on trafił w ręce Austriaków."
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "22 czerwca 1915 do Lwowa wkroczyły wojska austro-węgierskiej 2 Armii."
+    },
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "Po utracie Przemyśla i Lwowa wycofał się w porządku na Wołyń, unikając okrążenia, a we wrześniu podjął własne kontrnatarcie i 23 września na kilka dni odbił Łuck."
+    }
+   ]
+  },
+  {
+   "start": "Odwrót miał też ciemną stronę",
+   "quotes": [
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "Brusiłow, zagorzały germanofob, wielokrotnie zabiegał o rozszerzenie wysiedleń kolonistów niemieckich z Wołynia. Jesienią 1915 roku, także za jego sprawą, wysiedlano nawet tych, których dotąd oszczędzono: starców, wdowy i matki poległych żołnierzy. Twierdził, że niszczą linie telegraficzne."
+    }
+   ]
+  },
+  {
+   "start": "Pod koniec marca 1916 roku Brusiłow",
+   "quotes": [
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "Pod koniec marca 1916 roku Brusiłow zastąpił Iwanowa na czele Frontu Południowo-Zachodniego."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "4 czerwca o świcie rosyjska artyleria otworzyła ogień na całym froncie, od Styru po Czerniowce. Na Wołyniu ostrzał trwał z przerwami 29 godzin. 5 czerwca o 9 rano piechota 8 Armii ruszyła do szturmu na austro-węgierskie pozycje na zachód od Ołyki."
+    },
+    {
+     "file": "src/content/postacie/anton-denikin.md",
+     "quote": "W czerwcu 1916 roku, w pierwszych dniach ofensywy Brusiłowa, żelazni strzelcy ponownie zdobyli Łuck."
+    },
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "8 Armia generała Aleksieja Kaledina przełamała front pod Ołyką i 7 czerwca zajęła Łuck"
+    },
+    {
+     "file": "src/content/postacie/aleksiej-brusilow.md",
+     "quote": "W ciągu kilku tygodni Austro-Węgry straciły setki tysięcy żołnierzy, w tym ponad ćwierć miliona jeńców."
+    }
+   ]
+  },
+  {
+   "start": "Zwycięstwo pozostało niewykorzystane",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "Aleksiejew 9 czerwca polecił mu skierować 8 Armię z Łucka na Lwów, ale dowódca frontu, który uważał swoje uderzenie za pomocnicze wobec natarcia Ewerta i obawiał się niemieckiego ataku od północy, uparcie celował w Kowel, węzeł kolejowy łączący go z Frontem Zachodnim. Kaledin posuwał się ostrożnie."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-kostiuchnowka.md",
+     "quote": "a do 14 lipca wojska Lesza i Kaledina stanęły nad Stochodem"
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "Od 31 sierpnia do 3 września i od 16 do 23 września 8 Armia i gwardia atakowały na południe od Kowla, pod Szelwowem, Świniuchami i Korytnicą. Według rosyjskich opracowań we wrześniowych walkach zajęły tylko dwie wsie, tracąc około 30 tysięcy ludzi."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Однако прорвать созданный на его подступах оборонительный район не смогла"
+    }
+   ]
+  },
+  {
+   "start": "Po rewolucji lutowej Kaledin sprzeciwiał się",
+   "quotes": [
+    {
+     "url": "https://www.firstworldwar.com/bio/kaledin.htm",
+     "quote": "Coming out in opposition to the military reforms instigated by the Provisional Government following the February Revolution of 1917, Kaledin was dismissed in May 1917."
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "a 8 Armia związać przeciwnika na południe od Dniestru"
+    },
+    {
+     "file": "src/content/postacie/lawr-kornilow.md",
+     "quote": "Od 6 lipca przełamała front austro-węgierskiej 3 Armii na zachód od Stanisławowa, wzięła około 10 tysięcy jeńców, zajęła Halicz, a 11 lipca Kałusz. Szczególnie wyróżnił się utworzony z ochotników oddział uderzeniowy kapitana Mitrofana Nieżencewa, przyszły pułk korniłowski."
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "Od 6 lipca 8 Armia generała Ławra Korniłowa przełamała front pod Stanisławowem i zdobyła Halicz i Kałusz, ale nad wezbraną Łomnicą zatrzymały ją niemieckie posiłki, a oddziały coraz częściej odmawiały walki."
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "8 Armia straciła według austriackich szacunków prawie 40 tysięcy żołnierzy"
+    }
+   ]
+  },
+  {
+   "start": "Gdy 19 lipca Niemcy przełamali front",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/kontrofensywa-w-galicji-wschodniej.md",
+     "quote": "19 lipca 1917 roku niemieckie dywizje, ściągnięte w pośpiechu z frontu zachodniego, uderzyły na wąskim odcinku między Zborowem a Zwyżeniem"
+    },
+    {
+     "file": "src/content/battles/1917/kontrofensywa-w-galicji-wschodniej.md",
+     "quote": "22 lipca cały front rosyjski od Seretu po Dniestr ruszył do odwrotu. Rząd w Piotrogrodzie, od 21 lipca kierowany przez Aleksandra Kiereńskiego, zmienił dowódców. Front Południowo-Zachodni zamiast Gutora objął Korniłow, 11 Armię generał Piotr Bałujew, a 8 Armię generał Władimir Czeremisow"
+    },
+    {
+     "file": "src/content/timeline/1917/08/rosjanie-ostatecznie-traca-czerniowce.md",
+     "quote": "rozkazał dowódcy 8 Armii, generałowi Władimirowi Czeremisowowi, bronić Czerniowców co najmniej sześć dni, żeby zdążyć wywieźć zgromadzone w mieście wielkie zapasy wojskowe."
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "Румынский фронт (август 1917 — январь 1918)"
+    },
+    {
+     "url": "https://ru.wikipedia.org/wiki/8-я_армия_(Российская_империя)",
+     "quote": "На конец 1917 года Полевое управление (штаб) армии размещался в Могилёве-Подольском. 8 А расформирована в январе 1918 года (приказано считать с 12 января 1918 года). Фактически демобилизация войск армии была завершена только в марте 1918 года, тогда же расформирован её штаб. Формирования 8-й армии в 1918 году составили основу Донецкой армии"
+    }
+   ]
+  }
+ ]
+}

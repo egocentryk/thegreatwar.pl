@@ -2,7 +2,7 @@
 title: Czechoslovaks declare war on Germany
 summary: On 13 August 1918, per the British chronology, the Czechoslovaks declared war on Germany too. They had three armies, in Russia, France and Italy.
 source: czechoslowacy-wypowiadaja-wojne-niemcom
-sourceHash: 6ef631af68a96eddb5e9ccd34a93ff900ea76dc4
+sourceHash: 4ad0cf15103a710a6e37cc4c2d1e152521392779
 brief:
   - "Under 13 August 1918 the British official chronology of the war records that the Czechoslovaks declared war on Germany. The text of a separate act declaring war on that day has not been found."
   - "That day Reuters circulated Balfour's declaration, in which Britain recognised the Czechoslovaks as an Allied nation and their three armies as one army at war with Austria-Hungary and Germany."
@@ -21,7 +21,7 @@ We have not been able to find the text of a separate act declaring war on this d
 
 The Czechs and Slovaks in exile had declared war on Austria-Hungary almost three years earlier. On Sunday 14 November 1915 Masaryk's Czech Committee Abroad published in Switzerland, France, Russia and the United States a manifesto announcing a life-and-death struggle against the Habsburg monarchy. Beneš later called it the official declaration of war. The manifesto presented Austria-Hungary as a state that had lost its independence and become merely a tool of the German policy of the drive to the east. In February 1916 the [Czechoslovak National Council](https://pl.wikipedia.org/wiki/Czechosłowacka_Rada_Narodowa) was founded in Paris, with Masaryk as chairman and Beneš as secretary-general. [Milan Rastislav Štefánik](/postacie/milan-rastislav-stefanik) was also a member. From then on it led the whole movement.
 
-Formally the enemy was Vienna, but Czechoslovak soldiers had long been fighting the Germans as well. The volunteers from Russia who had distinguished themselves [at Zborov](/bitwa-pod-zborowem) in July 1917 stood up to the Germans in Ukraine in March 1918. The 1st Division of the [Czechoslovak Corps](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) held the railway junction at [Bakhmach](https://pl.wikipedia.org/wiki/Bachmacz) until the trains carrying the legionaries had got away into Russia. In France, Czechoslovak volunteers had served in the Foreign Legion since 1914, and from the beginning of 1918 in their own regiments, intended for the Western Front, that is, for fighting precisely the German army.
+Formally the enemy was Vienna, but Czechoslovak soldiers had long been fighting the Germans as well. The volunteers from Russia who had distinguished themselves [at Zborov](/bitwa-pod-zborowem) in July 1917 stood up to the Germans in Ukraine in March 1918. The 1st Division of the [Czechoslovak Corps](/sily-zbrojne/legion-czechoslowacki) held the railway junction at [Bakhmach](https://pl.wikipedia.org/wiki/Bachmacz) until the trains carrying the legionaries had got away into Russia. In France, Czechoslovak volunteers had served in the Foreign Legion since 1914, and from the beginning of 1918 in their own regiments, intended for the Western Front, that is, for fighting precisely the German army.
 
 ## Three armies
 

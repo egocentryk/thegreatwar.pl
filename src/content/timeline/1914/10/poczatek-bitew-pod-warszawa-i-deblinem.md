@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 9 października 1914 roku pierwszą niemiecką ofensywę na Warszawę i początek bitew pod Warszawą i Iwangorodem, czyli Dęblinem. Tego dnia wojska niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) doszły do [Wisły](https://pl.wikipedia.org/wiki/Wisła). Po blisko dwóch tygodniach marszu przez Królestwo Polskie po raz pierwszy natrafiły na główne siły rosyjskie.
+Brytyjska chronologia wojny notuje pod datą 9 października 1914 roku pierwszą niemiecką ofensywę na Warszawę i początek bitew pod Warszawą i Iwangorodem, czyli Dęblinem. Tego dnia wojska niemieckiej [9 Armii](/sily-zbrojne/9-armia-niemiecka) generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) doszły do [Wisły](https://pl.wikipedia.org/wiki/Wisła). Po blisko dwóch tygodniach marszu przez Królestwo Polskie po raz pierwszy natrafiły na główne siły rosyjskie.
 
 ## Która data?
 

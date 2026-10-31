@@ -22,7 +22,7 @@ sources:
   - "https://en.wikipedia.org/wiki/John_Fisher,_1st_Baron_Fisher"
 ---
 
-John Arbuthnot Fisher, od 1909 roku lord Fisher of Kilverstone, był najbardziej wpływowym i najbardziej kłótliwym admirałem swojej epoki. Jako pierwszy lord morski, czyli zawodowy szef [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), w latach 1904–1910 przebudował flotę pod kątem wojny z Niemcami i dał jej pancernik Dreadnought, od którego nazwę wzięła cała nowa generacja okrętów. W październiku 1914 roku, mając 73 lata, wrócił do Admiralicji u boku [Winstona Churchilla](/postacie/winston-churchill). Szybko pomścił klęskę pod Coronelem i uruchomił ogromny program budowy okrętów, ale wyprawa na Dardanele rozbiła jego współpracę z Churchillem. Jego nagłe odejście w maju 1915 roku pomogło obalić liberalny rząd [Herberta Asquitha](/postacie/herbert-henry-asquith) i zakończyło jego karierę.
+John Arbuthnot Fisher, od 1909 roku lord Fisher of Kilverstone, był najbardziej wpływowym i najbardziej kłótliwym admirałem swojej epoki. Jako pierwszy lord morski, czyli zawodowy szef [Royal Navy](/sily-zbrojne/royal-navy), w latach 1904–1910 przebudował flotę pod kątem wojny z Niemcami i dał jej pancernik Dreadnought, od którego nazwę wzięła cała nowa generacja okrętów. W październiku 1914 roku, mając 73 lata, wrócił do Admiralicji u boku [Winstona Churchilla](/postacie/winston-churchill). Szybko pomścił klęskę pod Coronelem i uruchomił ogromny program budowy okrętów, ale wyprawa na Dardanele rozbiła jego współpracę z Churchillem. Jego nagłe odejście w maju 1915 roku pomogło obalić liberalny rząd [Herberta Asquitha](/postacie/herbert-henry-asquith) i zakończyło jego karierę.
 
 ## Przed wojną
 

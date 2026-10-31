@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Münster (Prussia)
 deathPlace: Berlin
 source: alexander-von-kluck
-sourceHash: 5ce15da58a008c9a1d8fe1082b21269b65024428
+sourceHash: 471be309b4e46aba3c63bfab7b738eeb93012c4f
 ---
 
 In 1914 Alexander von Kluck commanded the German First Army, the strongest and westernmost army of the right wing, which was to pass through Belgium and northern France, sweep round Paris and encircle the French armies. Within a month his soldiers marched several hundred kilometres, defeated the British at Mons and Le Cateau and came within a few dozen kilometres of the French capital. Yet it was Kluck's own decisions, the turn east of Paris and the hasty march across the Marne, that exposed the German right wing and opened the way to their defeat on the Marne. To this day he remains one of the most disputed figures of that battle.
@@ -21,7 +21,7 @@ In 1913 he took over the VIII Army Inspectorate in Berlin, and in January 1914 h
 
 The First Army, more than 300,000 strong, advanced on the far right wing of the German forces. Its task was to cover the longest route in the whole [Schlieffen Plan](/slownik/plan-schlieffena): through Belgium, along the coast and on to the west of Paris. After the fall of the forts of [Liège](/bitwy/bitwa-pod-liege), Kluck's troops pushed the Belgians [back from the Gete](/bitwy/bitwa-nad-gete) and [on 20 August marched through Brussels](/niemcy-zajmuja-bruksele) in a show of strength that witnesses described as an endless parade.
 
-In the second half of August Kluck was for about ten days subordinated to the commander of the neighbouring Second Army, General [Karl von Bülow](/postacie/karl-von-bulow). Bülow, concerned for his own right flank, kept the First Army close to him, while Kluck wanted to swing in a wider arc to the west. According to many historians, this restriction meant that on 23 August the First Army struck the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) head-on [at Mons](/bitwy/bitwa-pod-mons) instead of outflanking it. The British infantry inflicted heavy losses on the Germans and then withdrew. Three days later Kluck, convinced that the British were fleeing towards the Channel ports, ran into a day-long stand by Smith-Dorrien's II Corps [at Le Cateau](/bitwy/bitwa-pod-le-cateau). He won again but did not destroy his opponent. The British then nicknamed him "old one o'clock", twisting his name into the clock-face "o'clock".
+In the second half of August Kluck was for about ten days subordinated to the commander of the neighbouring Second Army, General [Karl von Bülow](/postacie/karl-von-bulow). Bülow, concerned for his own right flank, kept the First Army close to him, while Kluck wanted to swing in a wider arc to the west. According to many historians, this restriction meant that on 23 August the First Army struck the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) head-on [at Mons](/bitwy/bitwa-pod-mons) instead of outflanking it. The British infantry inflicted heavy losses on the Germans and then withdrew. Three days later Kluck, convinced that the British were fleeing towards the Channel ports, ran into a day-long stand by Smith-Dorrien's II Corps [at Le Cateau](/bitwy/bitwa-pod-le-cateau). He won again but did not destroy his opponent. The British then nicknamed him "old one o'clock", twisting his name into the clock-face "o'clock".
 
 ## The turn east of Paris
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W Boże Narodzenie 1914 roku wodnosamoloty [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) wystartowały z wód Zatoki Helgolandzkiej do ataku na bazę niemieckich sterowców w pobliżu [Cuxhaven](https://pl.wikipedia.org/wiki/Cuxhaven). Przywiozły je w pobliże niemieckiego wybrzeża trzy przebudowane promy, które służyły jako [okręty-bazy wodnosamolotów](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów). Był to pierwszy w historii nalot przeprowadzony przez samoloty przewiezione na miejsce przez okręty. Hangarów zeppelinów nie udało się odnaleźć, ale nalot pokazał, że lotnictwo może działać razem z flotą daleko od własnych baz.
+W Boże Narodzenie 1914 roku wodnosamoloty [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) wystartowały z wód Zatoki Helgolandzkiej do ataku na bazę niemieckich sterowców w pobliżu [Cuxhaven](https://pl.wikipedia.org/wiki/Cuxhaven). Przywiozły je w pobliże niemieckiego wybrzeża trzy przebudowane promy, które służyły jako [okręty-bazy wodnosamolotów](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów). Był to pierwszy w historii nalot przeprowadzony przez samoloty przewiezione na miejsce przez okręty. Hangarów zeppelinów nie udało się odnaleźć, ale nalot pokazał, że lotnictwo może działać razem z flotą daleko od własnych baz.
 
 ## Plan Admiralicji
 

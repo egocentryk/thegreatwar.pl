@@ -2,10 +2,10 @@
 title: Cuxhaven raid
 summary: On 25 December 1914 seven British seaplanes took off from ships off Heligoland to bomb the Zeppelin sheds. They failed to find their target.
 source: nalot-na-cuxhaven
-sourceHash: 993d931a0fc1ff8ea1124da0c33b199ccf6f0b80
+sourceHash: 4b87246baea971a23a91d9dc32bd296e30871232
 ---
 
-On Christmas Day 1914 seaplanes of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) took off from the waters of the Heligoland Bight to attack the German airship base near [Cuxhaven](https://pl.wikipedia.org/wiki/Cuxhaven). They had been brought close to the German coast by three converted ferries serving as [seaplane tenders](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów). It was the first raid in history carried out by aircraft carried to the scene by ships. The Zeppelin sheds could not be found, but the raid showed that aviation could operate together with the fleet far from its own bases.
+On Christmas Day 1914 seaplanes of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) took off from the waters of the Heligoland Bight to attack the German airship base near [Cuxhaven](https://pl.wikipedia.org/wiki/Cuxhaven). They had been brought close to the German coast by three converted ferries serving as [seaplane tenders](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów). It was the first raid in history carried out by aircraft carried to the scene by ships. The Zeppelin sheds could not be found, but the raid showed that aviation could operate together with the fleet far from its own bases.
 
 ## The Admiralty's plan
 

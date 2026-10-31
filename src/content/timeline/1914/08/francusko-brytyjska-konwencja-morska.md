@@ -15,7 +15,7 @@ draft: false
 
 ## Podział mórz
 
-Konwencja potwierdzała podział zadań uzgodniony jeszcze przed wojną. Od 1912 roku główne siły francuskiej floty skupiały się na Morzu Śródziemnym, a brytyjska [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) koncentrowała się na Morzu Północnym i w kanale La Manche, gdzie brała też na siebie obronę północnych wybrzeży Francji. Brytyjskie okręty pozostające na Morzu Śródziemnym miały od teraz działać pod ogólnym kierownictwem francuskim.
+Konwencja potwierdzała podział zadań uzgodniony jeszcze przed wojną. Od 1912 roku główne siły francuskiej floty skupiały się na Morzu Śródziemnym, a brytyjska [Royal Navy](/sily-zbrojne/royal-navy) koncentrowała się na Morzu Północnym i w kanale La Manche, gdzie brała też na siebie obronę północnych wybrzeży Francji. Brytyjskie okręty pozostające na Morzu Śródziemnym miały od teraz działać pod ogólnym kierownictwem francuskim.
 
 Na Morzu Śródziemnym aliantom przeciwstawiała się austro-węgierska flota, stacjonująca na Adriatyku, oraz niemiecka Dywizja Śródziemnomorska z krążownikiem liniowym Goeben i krążownikiem Breslau. Dla Francji najważniejsze było bezpieczeństwo transportów wojsk z Afryki Północnej, które miały wesprzeć armię na froncie zachodnim.
 

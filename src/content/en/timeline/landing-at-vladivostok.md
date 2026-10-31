@@ -2,7 +2,7 @@
 title: Landing at Vladivostok
 summary: On 5 April 1918, after a Japanese was killed, Japanese and then British sailors landed at Vladivostok. It was the first step of the intervention in Siberia.
 source: desant-we-wladywostoku
-sourceHash: 69784749782f0d9dbc582481513ad431085f3bd2
+sourceHash: 79af0b1732b4d4253d5a4fca1e4ba8a6d58f1293
 ---
 
 At about five in the morning of 5 April 1918 detachments of sailors went ashore from the Japanese warships lying in the roads of [Vladivostok](https://pl.wikipedia.org/wiki/Władywostok) and began to patrol the city's streets. The Japanese consul informed the Russian authorities by letter that the rear admiral commanding the squadron was landing an armed party solely to protect the lives and property of Japanese subjects. In the afternoon the British landed about fifty armed sailors from the cruiser HMS *Suffolk* to guard their consulate. It was the first armed landing by the Entente powers in the Russian Far East.
@@ -23,4 +23,4 @@ The Japanese did not wait for an investigation. The next morning Rear Admiral Ka
 
 The landing took place without a fight, but it caused a storm. The Vladivostok soviet and the soviet in [Khabarovsk](https://pl.wikipedia.org/wiki/Chabarowsk) protested sharply, and the city authorities and the zemstvo gave the American consul to understand that they would agree to an Allied landing, but not a purely Japanese one. The Soviet government regarded the landing as the beginning of intervention. [Vladimir Lenin](/postacie/wlodzimierz-lenin) warned the Vladivostok soviet to have no illusions and to reckon with the Japanese advancing, followed by the other Allies.
 
-For the moment this did not happen. The Japanese and British sailors kept order in the city but did not move inland, and in Tokyo the dispute between supporters and opponents of an expedition to Siberia went on. The situation changed in the summer, when units of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) were moving across Siberia towards Vladivostok. In August 1918 Japan and the United States announced [the dispatch of troops](https://pl.wikipedia.org/wiki/Interwencja_syberyjska), and the Japanese presence in the Russian Far East, begun with the April landing, lasted until the autumn of 1922.
+For the moment this did not happen. The Japanese and British sailors kept order in the city but did not move inland, and in Tokyo the dispute between supporters and opponents of an expedition to Siberia went on. The situation changed in the summer, when units of the [Czechoslovak Legion](/sily-zbrojne/legion-czechoslowacki) were moving across Siberia towards Vladivostok. In August 1918 Japan and the United States announced [the dispatch of troops](https://pl.wikipedia.org/wiki/Interwencja_syberyjska), and the Japanese presence in the Russian Far East, begun with the April landing, lasted until the autumn of 1922.

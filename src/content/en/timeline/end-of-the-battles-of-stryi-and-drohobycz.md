@@ -2,10 +2,10 @@
 title: End of the battles of Stryi and Drohobycz
 summary: By 3 June 1915 the Russians had fallen back from Stryi and Drohobycz to the Dniester. The oil basin was free, but they still held a bridgehead on the river.
 source: koniec-bitew-pod-stryjem-i-drohobyczem
-sourceHash: 76c36477dbbd9c01dd8094ba5cc5d41d9fbe5c41
+sourceHash: 8c1b7a4faf595bdf50df09b8b8cbc0e5f2047dd1
 ---
 
-The British chronology of the war closes on 3 June 1915 the battles of Stryi and Drohobycz, which according to it [had begun on 18 May](/poczatek-bitew-pod-stryjem-i-drohobyczem). On that day there was no longer a continuous Russian defensive line in the foothills of the Eastern Carpathians. After the fall of [Stryi](https://pl.wikipedia.org/wiki/Stryj_(miasto)) on 31 May the Russian units still holding on east and north of [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz) withdrew towards the [Dniester](https://pl.wikipedia.org/wiki/Dniestr), and the troops of the German–Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) followed on their heels. The fighting on this sector was part of the wider [Battle of the Stryi](/bitwy/bitwa-nad-stryjem), which lasted until 11 June.
+The British chronology of the war closes on 3 June 1915 the battles of Stryi and Drohobycz, which according to it [had begun on 18 May](/poczatek-bitew-pod-stryjem-i-drohobyczem). On that day there was no longer a continuous Russian defensive line in the foothills of the Eastern Carpathians. After the fall of [Stryi](https://pl.wikipedia.org/wiki/Stryj_(miasto)) on 31 May the Russian units still holding on east and north of [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz) withdrew towards the [Dniester](https://pl.wikipedia.org/wiki/Dniestr), and the troops of the German–Austrian [South Army](/sily-zbrojne/armia-poludniowa) followed on their heels. The fighting on this sector was part of the wider [Battle of the Stryi](/bitwy/bitwa-nad-stryjem), which lasted until 11 June.
 
 ## The pursuit from Drohobycz
 

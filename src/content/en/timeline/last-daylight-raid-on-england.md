@@ -2,7 +2,7 @@
 title: Last daylight raid on England
 summary: On 22 August 1917 Gothas bombed Margate, Ramsgate and Dover. The defences shot down three of them, and the Germans gave up daylight raids on England.
 source: ostatni-dzienny-nalot-na-anglie
-sourceHash: 74faf0737586bb6fcc06a124691a2c81e33198f0
+sourceHash: a5e6ce007d3905bd4f9b1e5cdf694389d010c2e0
 ---
 
 Shortly before noon on 22 August 1917 German Gotha bombers attacked England in broad daylight for the last time in the war. They bombed the seaside towns of [Kent](https://pl.wikipedia.org/wiki/Kent): [Margate](https://pl.wikipedia.org/wiki/Margate), [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) and [Dover](https://pl.wikipedia.org/wiki/Dover). This time the defences were ready. Anti-aircraft fire and dozens of fighters forced the bombers to change their plan, and three of them were shot down. Twelve people were killed. After this raid the Germans switched to night attacks.
@@ -13,7 +13,7 @@ Captain Rudolf Kleine's bomber squadron took off from airfields around [Ghent](h
 
 At about 10.30 a.m. the Gothas crossed the coast over Margate and dropped five bombs, which injured no one. From the first moment they came under accurate anti-aircraft fire, and fighters were already climbing from the nearby naval air station at Manston. The bombers therefore turned south-east and dropped 34 bombs on Ramsgate. According to Jones, seven of them fell on hospitals and others on shops and houses. Nine people were killed, among them two soldiers and a child, and about twenty were injured. Jones supposed that the airmen, under fire, dropped their bombs without choosing targets, thinking above all of their own safety.
 
-Two Gothas came down over the [Isle of Thanet](https://pl.wikipedia.org/wiki/Thanet). One crashed in flames in fields near Margate, between Westgate and Ramsgate, and its three-man crew was killed. The other fell into the sea. Of its crew only the gunner was rescued. Jones credits both kills to the guns, later researchers largely to [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) pilots flying Sopwith Camels. The remaining bombers turned back out to sea and crossed the coast again near Deal. At about 11.10 a.m. six of them dropped nine bombs on Dover, destroying several houses, an inn and a school. Three people were killed there, two soldiers and a woman.
+Two Gothas came down over the [Isle of Thanet](https://pl.wikipedia.org/wiki/Thanet). One crashed in flames in fields near Margate, between Westgate and Ramsgate, and its three-man crew was killed. The other fell into the sea. Of its crew only the gunner was rescued. Jones credits both kills to the guns, later researchers largely to [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) pilots flying Sopwith Camels. The remaining bombers turned back out to sea and crossed the coast again near Deal. At about 11.10 a.m. six of them dropped nine bombs on Dover, destroying several houses, an inn and a school. Three people were killed there, two soldiers and a woman.
 
 ## The end of the daylight raids
 

@@ -2,7 +2,7 @@
 title: Canadian division crosses to France
 summary: On 9 February 1915 transports carrying the 1st Canadian Division sailed from Avonmouth. After a stormy crossing the troops landed at Saint-Nazaire.
 source: kanadyjska-dywizja-przeprawia-sie-do-francji
-sourceHash: 72f7fca5537e4db3aae5f5a19b1ce368165d1458
+sourceHash: 51650efbea6d5bc9f067aa8984d2408c00248d02
 ---
 
 On 9 February 1915 the first transports carrying the [1st Canadian Division](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) to France sailed from the port of [Avonmouth](https://pl.wikipedia.org/wiki/Avonmouth) near [Bristol](https://pl.wikipedia.org/wiki/Bristol). The first ships reached [Saint-Nazaire](https://pl.wikipedia.org/wiki/Saint-Nazaire) at the mouth of the Loire on 11 February, and the last a few days later. That is why the British chronology of the war records the Canadians' crossing under two dates, 9 and 11 February. It was the first division from the Dominions to take its place on the Western Front.
@@ -21,6 +21,6 @@ The first were the luckiest. The ship *City of Benares*, carrying divisional hea
 
 ## To the front in Flanders
 
-From Saint-Nazaire trains carried the Canadians by a roundabout route through [Nantes](https://pl.wikipedia.org/wiki/Nantes), Le Mans, Rouen and along the Channel coast. The journey covered nearly 800 kilometres and took about 43 hours. The division went into billets east of [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), in reserve to the British Second Army. From 17 February its brigades in turn learned trench warfare alongside the experienced British 4th and 6th Divisions near [Armentières](https://pl.wikipedia.org/wiki/Armentières). On 20 February the Canadians were inspected by the commander-in-chief of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), Field Marshal John French.
+From Saint-Nazaire trains carried the Canadians by a roundabout route through [Nantes](https://pl.wikipedia.org/wiki/Nantes), Le Mans, Rouen and along the Channel coast. The journey covered nearly 800 kilometres and took about 43 hours. The division went into billets east of [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), in reserve to the British Second Army. From 17 February its brigades in turn learned trench warfare alongside the experienced British 4th and 6th Divisions near [Armentières](https://pl.wikipedia.org/wiki/Armentières). On 20 February the Canadians were inspected by the commander-in-chief of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), Field Marshal John French.
 
 At the beginning of March the division took over its own sector of the front at [Fleurbaix](https://pl.wikipedia.org/wiki/Fleurbaix) from the British 7th Division. A few weeks later the Canadians were to move to Ypres, where their first great test awaited them.

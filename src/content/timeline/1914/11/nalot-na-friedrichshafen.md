@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 listopada 1914 roku trzy samoloty [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), lotnictwa brytyjskiej marynarki wojennej, zaatakowały zakłady budowy sterowców w [Friedrichshafen](https://pl.wikipedia.org/wiki/Friedrichshafen) nad [Jeziorem Bodeńskim](https://pl.wikipedia.org/wiki/Jezioro_Bodeńskie). Wystartowały z francuskiego [Belfort](https://pl.wikipedia.org/wiki/Belfort) i miały do pokonania w jedną stronę około 200 kilometrów w linii prostej, w dużej części nad terytorium Niemiec. Był to jeden z pierwszych w historii nalotów zaplanowanych od początku jako uderzenie na zakład przemysłowy w głębi kraju przeciwnika.
+21 listopada 1914 roku trzy samoloty [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), lotnictwa brytyjskiej marynarki wojennej, zaatakowały zakłady budowy sterowców w [Friedrichshafen](https://pl.wikipedia.org/wiki/Friedrichshafen) nad [Jeziorem Bodeńskim](https://pl.wikipedia.org/wiki/Jezioro_Bodeńskie). Wystartowały z francuskiego [Belfort](https://pl.wikipedia.org/wiki/Belfort) i miały do pokonania w jedną stronę około 200 kilometrów w linii prostej, w dużej części nad terytorium Niemiec. Był to jeden z pierwszych w historii nalotów zaplanowanych od początku jako uderzenie na zakład przemysłowy w głębi kraju przeciwnika.
 
 ## Przygotowania
 

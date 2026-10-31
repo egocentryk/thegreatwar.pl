@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 stycznia 1915 roku generał porucznik Ronald Charles Maxwell został kwatermistrzem generalnym [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Zajął stanowisko, które zwolnił generał William Robertson, [mianowany dwa dni wcześniej szefem sztabu](/robertson-szefem-sztabu-bef). Odtąd Maxwell odpowiadał za zaopatrzenie i transport całej brytyjskiej armii we Francji. Nie należy go mylić z generałem Johnem Maxwellem, który [dowodził wojskami brytyjskimi w Egipcie](/general-maxwell-dowodca-w-egipcie).
+27 stycznia 1915 roku generał porucznik Ronald Charles Maxwell został kwatermistrzem generalnym [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Zajął stanowisko, które zwolnił generał William Robertson, [mianowany dwa dni wcześniej szefem sztabu](/robertson-szefem-sztabu-bef). Odtąd Maxwell odpowiadał za zaopatrzenie i transport całej brytyjskiej armii we Francji. Nie należy go mylić z generałem Johnem Maxwellem, który [dowodził wojskami brytyjskimi w Egipcie](/general-maxwell-dowodca-w-egipcie).
 
 Maxwell urodził się w 1852 roku i był oficerem saperów (Royal Engineers). Miał więc ponad sześćdziesiąt lat, był znacznie starszy od Robertsona i od większości generałów we Francji. Do korpusu przybył we wrześniu 1914 roku, w czasie walk nad Aisne, jako nowo mianowany inspektor generalny linii komunikacyjnych. Na tym stanowisku kierował zapleczem armii: portami wyładunkowymi, bazami, składami i kolejowymi przewozami zaopatrzenia na front.
 

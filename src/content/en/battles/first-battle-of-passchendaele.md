@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: German victory. The attack on Passchendaele village and the Bellevue spur was repulsed and almost all the ground gained was given up. In the north the British advanced a little towards Houthulst Forest.
 source: pierwsza-bitwa-pod-passchendaele
-sourceHash: 98cdabc064d4e04737533b140885e20b1e0c4b8c
+sourceHash: adff32064c591766eb1622970e9ef7cd81f58699
 brief:
   - "The First Battle of Passchendaele, fought on 12 October 1917, was the last October attack on the Passchendaele ridge. General Alexander Godley's II Anzac Corps advanced in the rain at 5.25 a.m."
   - "Haig set the attack only three days after the failure at Poelcappelle. The artillery was stuck in the mud, and in front of the pillboxes on the Bellevue spur ran broad belts of uncut wire."
@@ -42,7 +42,7 @@ The main attack was the task of II Anzac Corps of the Second Army. The 3rd Austr
 
 On the right flank the 12th Brigade of the 4th Australian Division from I Anzac Corps was to take the saddle of the Keiberg hill by the railway cutting and cover the flank. In the north the Fifth Army covered the attack with brigades of the 9th (Scottish) Division and the 18th Division from XVIII Corps, and of the 4th and 17th Divisions and the Guards Division from XIV Corps, which were to advance towards [Houthulst](https://pl.wikipedia.org/wiki/Houthulst) Forest.
 
-Opposite them stood the same divisions of General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin)'s [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) that had repulsed the British on 9 October, among them the 195th Division at Passchendaele and the 233rd Division at Keiberg, with the fresh 18th Division in the Poelcappelle sector. The Germans expected an attack. On the night of 11/12 October their artillery shelled the approach roads with gas as part of the long-planned "Mondnacht" operation. In the Australian sector a strong wind dispersed the gas, but the Guardsmen in the north suffered severe losses from it.
+Opposite them stood the same divisions of General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin)'s [Fourth Army](/sily-zbrojne/4-armia-niemiecka) that had repulsed the British on 9 October, among them the 195th Division at Passchendaele and the 233rd Division at Keiberg, with the fresh 18th Division in the Poelcappelle sector. The Germans expected an attack. On the night of 11/12 October their artillery shelled the approach roads with gas as part of the long-planned "Mondnacht" operation. In the Australian sector a strong wind dispersed the gas, but the Guardsmen in the north suffered severe losses from it.
 
 ## Course of the battle
 

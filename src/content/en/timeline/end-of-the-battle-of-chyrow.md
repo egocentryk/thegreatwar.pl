@@ -2,10 +2,10 @@
 title: End of the Battle of Chyrów
 summary: On 2 November 1914 the Battle of Chyrów ended. During the night the Austro-Hungarian armies began to withdraw, and Brusilov set off in pursuit.
 source: koniec-bitwy-pod-chyrowem
-sourceHash: 1699707c59187b3fd81b8eea58972847d7c3d5e8
+sourceHash: ef7cdc5d81c7e497e70ceeaca04655b0333c3070
 ---
 
-On 2 November 1914 the Battle of [Chyrów](https://pl.wikipedia.org/wiki/Chyrów), which had been going on since [13 October](/poczatek-bitwy-pod-chyrowem), came to an end. For three weeks the Austro-Hungarian Second and Third Armies had vainly attacked the positions of General [Aleksei Brusilov](/postacie/aleksiej-brusilow)'s Russian [8th Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) on the hills south of Przemyśl. On the last day of the battle the Second Army was still attacking, and its XII Corps came up close to Stary Sambor. During the night of 2–3 November, however, the Austro-Hungarian troops began to withdraw.
+On 2 November 1914 the Battle of [Chyrów](https://pl.wikipedia.org/wiki/Chyrów), which had been going on since [13 October](/poczatek-bitwy-pod-chyrowem), came to an end. For three weeks the Austro-Hungarian Second and Third Armies had vainly attacked the positions of General [Aleksei Brusilov](/postacie/aleksiej-brusilow)'s Russian [8th Army](/sily-zbrojne/8-armia-rosyjska) on the hills south of Przemyśl. On the last day of the battle the Second Army was still attacking, and its XII Corps came up close to Stary Sambor. During the night of 2–3 November, however, the Austro-Hungarian troops began to withdraw.
 
 ## An order from the Vistula
 

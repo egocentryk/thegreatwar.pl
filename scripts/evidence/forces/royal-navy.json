@@ -1,0 +1,357 @@
+{
+ "slug": "royal-navy",
+ "paragraphs": [
+  {
+   "start": "Royal Navy, brytyjska marynarka wojenna, weszła do I wojny ś",
+   "quotes": [
+    {
+     "url": "https://spartacus-educational.com/FWWnavy.htm",
+     "quote": "In 1914 the Royal Navy was by far the most powerful navy in the world."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Royal_Navy_during_the_First_World_War",
+     "quote": "However, the war brought unprecedented challenges and setbacks for the Royal Navy. At the pivotal Battle of Jutland in 1916, the Navy suffered heavy casualties, shaking confidence in its unassailable dominance. The Royal Navy also faced serious difficulties countering the German U-boat threat, leading to heavy shipping losses and a critical failure to provide adequate convoys and escorts in the war’s early years. Strategic ambitions were further frustrated by the unsuccessful Dardanelles Campaign of 1915"
+    },
+    {
+     "file": "src/content/countries/wielka-brytania.md",
+     "quote": "Royal Navy blokowała Niemcy, a w 1917 roku obroniła kraj przed nieograniczoną wojną podwodną dzięki konwojom."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Konwoje znano od wieków, a od 1914 roku osłaniano nimi transporty wojska, na przykład z Australii i Nowej Zelandii."
+    },
+    {
+     "file": "src/content/forces/grand-fleet.md",
+     "quote": "pod dowództwem Davida Beatty'ego przyjęła w 1918 roku kapitulację floty niemieckiej"
+    }
+   ]
+  },
+  {
+   "start": "Marynarką kierowała Admiralicja. Jej politycznym szefem był ",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/05/dymisja-lorda-fishera.md",
+     "quote": "pierwszy lord morski, czyli najwyższy rangą oficer Royal Navy, napisał do swojego cywilnego zwierzchnika, pierwszego lorda Admiralicji Winstona Churchilla"
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-mobilizuje-flote.md",
+     "quote": "oświadczył, że mimo decyzji gabinetu zamierza zmobilizować flotę, a następnego dnia rano weźmie za to pełną odpowiedzialność przed rządem. Asquith nie zgłosił sprzeciwu. W nocy z 1 na 2 sierpnia Admiralicja rozesłała rozkazy mobilizacyjne"
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/written-answers/1926/mar/12/headquarters-staff-and-navy-personnel",
+     "quote": "HC Deb 12 March 1926 vol 192 cc2777-8W"
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/written-answers/1926/mar/12/headquarters-staff-and-navy-personnel",
+     "quote": "The personnel of the Navy numbered 146,047 officers and men in July, 1914"
+    },
+    {
+     "url": "https://naval-history.net/xGW-RNOrganisation1914-1918.htm",
+     "quote": "617"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Royal_Navy_during_the_First_World_War",
+     "quote": "In total, the Royal Navy had 622 ships at the beginning of the war."
+    }
+   ]
+  },
+  {
+   "start": "Główne siły, przemianowane w dniu wypowiedzenia wojny na [Gr",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/admiral-jellicoe-obejmuje-dowodztwo-grand-fleet.md",
+     "quote": "4 sierpnia 1914 roku, w dniu przystąpienia Wielkiej Brytanii do wojny, główne siły Royal Navy otrzymały nową nazwę i nowego dowódcę."
+    },
+    {
+     "file": "src/content/timeline/1914/07/brytyjskie-floty-otrzymuja-rozkaz-przejscia-do-baz-wojennych.md",
+     "quote": "28 lipca 1914 Winston Churchill nakazał Pierwszej Flocie przejście z Portland do wojennej bazy Scapa Flow na Orkadach."
+    },
+    {
+     "url": "https://naval-history.net/xGW-RNOrganisation1914-1918.htm",
+     "quote": "Channel Fleet 1914-1915 Othe Major Forces in Home Waters Northern Patrol Admiral of Patrols/East Coast of England Harwich Force Southern Force Dover Patrol Submarine Flotillas"
+    },
+    {
+     "url": "https://naval-history.net/xGW-RNOrganisation1914-1918.htm",
+     "quote": "A station was a major geographic command responsible for the conduct of operations within its area."
+    },
+    {
+     "file": "src/content/timeline/1914/08/brytyjski-patrol-lotniczy-nad-kanalem-la-manche.md",
+     "quote": "Patrole prowadziła Royal Naval Air Service, lotnictwo brytyjskiej marynarki wojennej, wydzielone jako osobna formacja zaledwie kilka tygodni przed wybuchem wojny."
+    }
+   ]
+  },
+  {
+   "start": "Pierwsze miesiące przyniosły sukcesy i wstrząsy. Niemieckie ",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Royal_Navy_during_the_First_World_War",
+     "quote": "In the Mediterranean, the Royal Navy suffered its first strategic defeat when the German Mediterranean Division (battlecruiser Goeben and light cruiser Breslau) managed to escape the British and reach the Dardanelles unscathed. The first major battle took place off Heligoland on August 28 and ended with a victory for the Royal Navy. Further battles followed off Texel and Yarmouth, which the British were also able to win. Nevertheless, the situation developed to the disadvantage of the British. On 22 September, three cruisers were sunk by a German submarine"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-coronelem.md",
+     "quote": "1 listopada 1914 eskadra admirała von Spee rozbiła u wybrzeży Chile zespół admirała Cradocka."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-kolo-falklandow.md",
+     "quote": "8 grudnia 1914 brytyjskie krążowniki liniowe rozbiły koło Falklandów eskadrę admirała von Spee."
+    },
+    {
+     "file": "src/content/timeline/1914/10/fisher-pierwszym-lordem-morskim.md",
+     "quote": "30 października 1914 roku admirał lord John Fisher po raz drugi objął stanowisko Pierwszego Lorda Morskiego, najwyższego rangą oficera Royal Navy. Zastąpił księcia Ludwika Battenberga"
+    }
+   ]
+  },
+  {
+   "start": "Brytyjczycy nie stawiali okrętów u wejść do niemieckich port",
+   "quotes": [
+    {
+     "file": "src/content/glossary/blokada.md",
+     "quote": "Pod niemieckim wybrzeżem okręty blokady byłyby jednak łatwym celem min, torpedowców i okrętów podwodnych. Brytyjczycy zamknęli więc wyjścia z Morza Północnego: patrole w kanale La Manche i między Szetlandami a Norwegią zatrzymywały statki do kontroli."
+    },
+    {
+     "file": "src/content/glossary/blokada.md",
+     "quote": "Najważniejszą była zasada podróży ciągłej: ładunek płynący do neutralnej Holandii czy Danii można było zatrzymać, jeśli w rzeczywistości miał trafić do Niemiec."
+    },
+    {
+     "file": "src/content/glossary/blokada.md",
+     "quote": "Neutralni, zwłaszcza Stany Zjednoczone, protestowali"
+    },
+    {
+     "file": "src/content/timeline/1914/12/londyn-broni-blokady-przed-protestem-usa.md",
+     "quote": "Rząd USA stwierdzał, że z coraz większym niepokojem obserwuje, jak statki z amerykańskimi towarami płynącymi do neutralnych portów Europy są zatrzymywane na morzu, odprowadzane do portów brytyjskich i przetrzymywane tam nieraz tygodniami."
+    }
+   ]
+  },
+  {
+   "start": "Na początku 1915 roku rząd postanowił przebić się flotą prze",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/01/rada-wojenna-decyduje-o-ataku-na-dardanele.md",
+     "quote": "13 stycznia 1915 brytyjska Rada Wojenna poleciła Admiralicji przygotować na luty wyprawę morską na Dardanele, z Konstantynopolem jako celem."
+    },
+    {
+     "file": "src/content/battles/1915/morska-operacja-w-dardanelach.md",
+     "quote": "Od 19 lutego do 18 marca 1915 flota brytyjska i francuska próbowała przebić się przez Dardanele. Atak zakończył się zatopieniem trzech pancerników na minach."
+    },
+    {
+     "file": "src/content/battles/1915/morska-operacja-w-dardanelach.md",
+     "quote": "18 marca w zatoce Eren Köy pancerniki Bouvet, Irresistible i Ocean zatonęły na minach"
+    },
+    {
+     "file": "src/content/battles/1915/kampania-gallipolijska.md",
+     "quote": "francuski pancernik Bouvet wszedł na minę w zatoce Eren Köy"
+    },
+    {
+     "file": "src/content/timeline/1915/05/dymisja-lorda-fishera.md",
+     "quote": "Posiedzenie pokazało, że rząd nie zamierza z niej zrezygnować i że operacja zmienia się w długą kampanię lądową, którą flota będzie musiała wspierać."
+    }
+   ]
+  },
+  {
+   "start": "Spór o Dardanele kosztował urzędy obu szefów Admiralicji. 15",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/05/dymisja-lorda-fishera.md",
+     "quote": "15 maja 1915 roku, w sobotę rano, admirał lord John Fisher"
+    },
+    {
+     "file": "src/content/timeline/1915/05/dymisja-lorda-fishera.md",
+     "quote": "Potem po prostu wyszedł z Admiralicji."
+    },
+    {
+     "file": "src/content/timeline/1915/05/arthur-balfour-pierwszym-lordem-admiralicji.md",
+     "quote": "Zastąpił Winstona Churchilla, który musiał odejść z Admiralicji po utworzeniu rządu koalicyjnego."
+    },
+    {
+     "file": "src/content/timeline/1915/05/henry-jackson-pierwszym-lordem-morskim.md",
+     "quote": "Pod koniec maja 1915 roku pierwszym lordem morskim, czyli najwyższym rangą oficerem i zawodowym szefem Royal Navy, został admirał sir Henry Jackson."
+    }
+   ]
+  },
+  {
+   "start": "Tymczasem przez Dardanele przedzierały się na Morze Marmara",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/08/zatopienie-pancernika-barbaros-hayreddin.md",
+     "quote": "Od drugiej połowy maja, gdy na Morzu Marmara polowały już brytyjskie okręty podwodne"
+    },
+    {
+     "file": "src/content/timeline/1915/08/zatopienie-pancernika-barbaros-hayreddin.md",
+     "quote": "przedarł się przez Dardanele po raz drugi 5 sierpnia"
+    },
+    {
+     "file": "src/content/timeline/1915/08/zatopienie-pancernika-barbaros-hayreddin.md",
+     "quote": "jeszcze tego ranka storpedował transportowiec w przystani Akbaş"
+    },
+    {
+     "file": "src/content/timeline/1915/08/zatopienie-pancernika-barbaros-hayreddin.md",
+     "quote": "O świcie 8 sierpnia 1915 roku na Morzu Marmara, u brzegów przesmyku Bolayır, który łączy półwysep Gallipoli z lądem, brytyjski okręt podwodny E11 storpedował turecki pancernik Barbaros Hayreddin."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-w-delcie-rufiji.md",
+     "quote": "6 i 11 lipca 1915 brytyjskie monitory Severn i Mersey, kierowane z samolotów, ostrzelały w delcie Rufidżi krążownik Königsberg. Załoga zatopiła wrak."
+    }
+   ]
+  },
+  {
+   "start": "31 maja – 1 czerwca 1916 roku Grand Fleet stoczyła z niemiec",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/bitwa-jutlandzka.md",
+     "quote": "31 maja – 1 czerwca 1916 Grand Fleet starła się z Flotą Pełnomorską. Brytyjczycy stracili więcej okrętów, ale Niemcy uciekli i nie przełamali ich przewagi."
+    },
+    {
+     "file": "src/content/timeline/1916/12/jellicoe-pierwszym-lordem-morskim.md",
+     "quote": "Na początku grudnia 1916 roku admirał John Jellicoe, do niedawna dowódca Grand Fleet, objął urząd pierwszego lorda morskiego"
+    },
+    {
+     "file": "src/content/timeline/1917/07/carson-opuszcza-admiralicje.md",
+     "quote": "Carson, wybitny adwokat i przywódca unionistów z Ulsteru, objął Admiralicję w grudniu 1916 roku"
+    }
+   ]
+  },
+  {
+   "start": "Nowe kierownictwo stanęło przed największym zagrożeniem wojn",
+   "quotes": [
+    {
+     "file": "src/content/topics/wojna-podwodna-1914-1918.md",
+     "quote": "Od 1 lutego 1917 roku U-Booty zatapiały statki bez ostrzeżenia."
+    },
+    {
+     "file": "src/content/topics/wojna-podwodna-1914-1918.md",
+     "quote": "W kwietniu 1917 roku straty żeglugi sięgnęły, zależnie od zestawienia, od około 835 do ponad 880 tysięcy ton"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Statków handlowych długo jednak nie konwojowano: Admiralicja uważała, że skupisko statków będzie łatwym celem"
+    }
+   ]
+  },
+  {
+   "start": "Pod naciskiem premiera i części młodszych oficerów Admiralic",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/07/carson-opuszcza-admiralicje.md",
+     "quote": "wiosną 1917 roku Admiralicja, pod naciskiem premiera i części młodszych oficerów, zaczęła wprowadzać konwoje."
+    },
+    {
+     "file": "src/content/topics/wojna-podwodna-1914-1918.md",
+     "quote": "10 maja z Gibraltaru wyszedł pierwszy próbny konwój"
+    },
+    {
+     "file": "src/content/timeline/1917/06/admiralicja-zatwierdza-system-konwojow.md",
+     "quote": "14 czerwca 1917 roku Pierwszy Lord Morski, admirał John Jellicoe, formalnie zatwierdził raport komitetu do spraw konwojów"
+    },
+    {
+     "file": "src/content/timeline/1917/07/pierwszy-regularny-konwoj.md",
+     "quote": "2 lipca 1917 roku z Hampton Roads w Wirginii wyszedł w morze konwój oznaczony w brytyjskich dokumentach jako HH 6. Był to pierwszy konwój regularnej serii"
+    },
+    {
+     "file": "src/content/timeline/1917/04/admiral-sims-przybywa-do-anglii.md",
+     "quote": "9 kwietnia 1917 roku do Liverpoolu przypłynął amerykański liniowiec New York. Wśród pasażerów byli dwaj panowie w cywilnych ubraniach, wpisani na listę jako S. W. Davidson i V. J. Richardson. W rzeczywistości byli to kontradmirał William Sims"
+    }
+   ]
+  },
+  {
+   "start": "W tym samym roku przebudowano samą Admiralicję. Sztab maryna",
+   "quotes": [
+    {
+     "url": "https://naval-history.net/xGW-RNOrganisation1914-1918.htm",
+     "quote": "The War Staff was developed into a properly organised naval staff and placed under the command of the First Sea Lord who became First Sea Lord and Chief of the Naval Staff."
+    },
+    {
+     "file": "src/content/timeline/1917/07/carson-opuszcza-admiralicje.md",
+     "quote": "W połowie lipca 1917 roku Edward Carson przestał kierować Admiralicją i wszedł do Gabinetu Wojennego jako minister bez teki. Jego następcą na stanowisku Pierwszego Lorda Admiralicji, czyli politycznego zwierzchnika marynarki wojennej, został Eric Geddes."
+    },
+    {
+     "file": "src/content/timeline/1917/12/dymisja-jellicoe.md",
+     "quote": "postawił w Admiralicji Geddesa, kolejarza i organizatora"
+    }
+   ]
+  },
+  {
+   "start": "W Wigilię 1917 roku Geddes odwołał Jellicoe'a",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/12/dymisja-jellicoe.md",
+     "quote": "Około szóstej wieczorem 24 grudnia 1917 roku admirał John Jellicoe, od roku pierwszy lord morski, czyli zawodowy szef Royal Navy, dostał w Admiralicji list od swojego politycznego zwierzchnika, Pierwszego Lorda Admiralicji Erica Geddesa."
+    },
+    {
+     "file": "src/content/timeline/1917/12/dymisja-jellicoe.md",
+     "quote": "bo o dymisji przesądził list z Wigilii"
+    },
+    {
+     "file": "src/content/timeline/1917/12/dymisja-jellicoe.md",
+     "quote": "a obowiązki przejął zastępca pierwszego lorda morskiego, wiceadmirał Rosslyn Wemyss."
+    },
+    {
+     "file": "src/content/timeline/1918/04/powstanie-raf.md",
+     "quote": "1 kwietnia 1918 z połączenia Royal Flying Corps i Royal Naval Air Service powstały Królewskie Siły Powietrzne"
+    }
+   ]
+  },
+  {
+   "start": "W nocy na 23 kwietnia okręty Patrolu Dover wiceadmirała [Rog",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "Tuż po północy 23 kwietnia 1918 roku, w dzień świętego Jerzego, patrona Anglii, okręty brytyjskiego Patrolu Dover zaatakowały dwa okupowane przez Niemców porty na wybrzeżu Belgii, Zeebrugge i Ostendę."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "Celem operacji, przygotowanej przez wiceadmirała Rogera Keyesa, było zatopienie w wejściach do kanałów starych krążowników wypełnionych betonem, tak by niemieckie okręty podwodne i torpedowce nie mogły wychodzić w morze ze swojej bazy w Brugii."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "a dwa okręty blokujące zatonęły w kanale. Pod Ostendą blokowce minęły wejście do portu i osiadły na mieliźnie."
+    },
+    {
+     "file": "src/content/timeline/1918/10/zapora-w-ciesninie-otranto.md",
+     "quote": "Chodzi o zaporę stałą: pas zakotwiczonych sieci z ładunkami wybuchowymi, który miał zamknąć niemieckim i austro-węgierskim okrętom podwodnym z Kotoru i Puli drogę z Adriatyku na Morze Śródziemne."
+    }
+   ]
+  },
+  {
+   "start": "Rozejm zakończył wojnę na morzu po myśli Brytyjczyków. 20 li",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "20 listopada 1918 roku u wybrzeży hrabstwa Essex poddała się pierwsza grupa niemieckich okrętów podwodnych."
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "ustalono, że wszystkie U-Booty mają się poddać w Harwich"
+    },
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "21 listopada 1918 Grand Fleet wyszła na spotkanie Floty Pełnomorskiej i odprowadziła 70 niemieckich okrętów do Firth of Forth, skąd popłynęły do Scapa Flow."
+    },
+    {
+     "file": "src/content/timeline/1916/11/beatty-dowodca-grand-fleet.md",
+     "quote": "Dowodził Grand Fleet do końca wojny, a 21 listopada 1918 roku przyjmował kapitulację niemieckiej floty"
+    }
+   ]
+  },
+  {
+   "start": "W chwili rozejmu marynarka była ponad dwa razy większa niż w",
+   "quotes": [
+    {
+     "url": "https://naval-history.net/xGW-RNOrganisation1914-1918.htm",
+     "quote": "1261"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Royal_Navy_during_the_First_World_War",
+     "quote": "In 1914, the Royal Navy consisted of three fleets. The Grand Fleet, the Channel Fleet and the Mediterranean Fleet. Of these, the Grand Fleet was the largest, with 29 battleships (eight of which were King Edward VII class) and four battlecruisers. The Channel Fleet had 14 battleships and the Mediterranean Fleet consisted of three battlecruisers and eight cruisers. In total, the Royal Navy had 622 ships at the beginning of the war. By November 1918, the number had risen to over 1,354, with losses totalling 254 ships."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Royal_Navy_during_the_First_World_War",
+     "quote": "Active personnel263,200 (November 1918)"
+    },
+    {
+     "url": "https://spartacus-educational.com/FWWnavy.htm",
+     "quote": "Total naval casualties were 34,642 dead and 4,510 wounded."
+    }
+   ]
+  }
+ ]
+}

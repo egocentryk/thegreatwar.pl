@@ -15,7 +15,7 @@ draft: false
 
 ## Powitanie w Marsylii
 
-Francja czekała na każdego żołnierza. Po bitwie nad Marną front przesuwał się na północ, a obu stronom brakowało rezerw. Mieszkańcy Marsylii tłumnie witali [sipajów](https://pl.wikipedia.org/wiki/Sipajowie), [Gurkhów](https://pl.wikipedia.org/wiki/Gurkhowie) i żołnierzy brytyjskich batalionów, które wchodziły w skład indyjskich brygad. Według relacji z tych dni obdarowywano ich na ulicach kwiatami, owocami i papierosami. Dla wielu Francuzów był to pierwszy kontakt z żołnierzami z odległych Indii.
+Francja czekała na każdego żołnierza. Po bitwie nad Marną front przesuwał się na północ, a obu stronom brakowało rezerw. Mieszkańcy Marsylii tłumnie witali [sipajów](https://pl.wikipedia.org/wiki/Sipajowie), [Gurkhów](/sily-zbrojne/gurkhowie) i żołnierzy brytyjskich batalionów, które wchodziły w skład indyjskich brygad. Według relacji z tych dni obdarowywano ich na ulicach kwiatami, owocami i papierosami. Dla wielu Francuzów był to pierwszy kontakt z żołnierzami z odległych Indii.
 
 Dywizja przypłynęła bez części swoich sił. Brygada Sirhind została na razie w Egipcie, by strzec [Kanału Sueskiego](/miejsca/kanal-sueski), i dołączyła do dywizji dopiero w grudniu. Wyładunek kolejnych transportów trwał kilka dni, dlatego część opracowań podaje jako datę przybycia korpusu 30 września.
 

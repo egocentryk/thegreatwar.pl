@@ -2,10 +2,10 @@
 title: Maxwell becomes Quartermaster-General of the BEF
 summary: On 27 January 1915 Gen. Ronald Maxwell became Quartermaster-General of the BEF. He had previously run the force's lines of communication in France.
 source: maxwell-kwatermistrzem-bef
-sourceHash: 855b28a78281e26877f727c080afe3ce58f5db77
+sourceHash: f2cf1361445ea608d8c026a763e39d89a95dea2f
 ---
 
-On 27 January 1915 Lieutenant-General Ronald Charles Maxwell became Quartermaster-General of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). He took over the post vacated by General William Robertson, [appointed chief of staff two days earlier](/robertson-szefem-sztabu-bef). From then on Maxwell was responsible for the supply and transport of the whole British army in France. He should not be confused with General John Maxwell, who [commanded the British forces in Egypt](/general-maxwell-dowodca-w-egipcie).
+On 27 January 1915 Lieutenant-General Ronald Charles Maxwell became Quartermaster-General of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). He took over the post vacated by General William Robertson, [appointed chief of staff two days earlier](/robertson-szefem-sztabu-bef). From then on Maxwell was responsible for the supply and transport of the whole British army in France. He should not be confused with General John Maxwell, who [commanded the British forces in Egypt](/general-maxwell-dowodca-w-egipcie).
 
 Maxwell was born in 1852 and was an officer of the Royal Engineers. He was thus over sixty, much older than Robertson and than most of the generals in France. He had joined the force in September 1914, during the fighting on the Aisne, as the newly appointed Inspector-General of Communications. In that post he ran the army's rear: the ports of disembarkation, the bases, the depots and the rail movement of supplies to the front.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 27 października 1914 roku brytyjski pancernik [Audacious](https://pl.wikipedia.org/wiki/HMS_Audacious_(1912)) wszedł na minę u północnych wybrzeży Irlandii, w pobliżu wyspy [Tory](https://pl.wikipedia.org/wiki/Tory_(wyspa)). Mimo wielogodzinnej walki o utrzymanie okrętu na powierzchni wieczorem przewrócił się i zatonął. Był to pierwszy [drednot](https://pl.wikipedia.org/wiki/Drednot) utracony przez [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w tej wojnie.
+Rankiem 27 października 1914 roku brytyjski pancernik [Audacious](https://pl.wikipedia.org/wiki/HMS_Audacious_(1912)) wszedł na minę u północnych wybrzeży Irlandii, w pobliżu wyspy [Tory](https://pl.wikipedia.org/wiki/Tory_(wyspa)). Mimo wielogodzinnej walki o utrzymanie okrętu na powierzchni wieczorem przewrócił się i zatonął. Był to pierwszy [drednot](https://pl.wikipedia.org/wiki/Drednot) utracony przez [Royal Navy](/sily-zbrojne/royal-navy) w tej wojnie.
 
 ## Mina na szlaku do Lough Swilly
 

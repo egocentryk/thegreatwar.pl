@@ -9,7 +9,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Otto von Hügel, Richard von Schubert, Berthold von Deimling]
 result: Inconclusive. The Germans took Frezenberg Ridge and moved the front about a kilometre closer to Ypres, but did not break the British defence.
 source: bitwa-o-grzbiet-frezenberg
-sourceHash: de6ec411424df2c3d727f7b8d52b3ca7986205c3
+sourceHash: 9e52c46e06f6f834f362060fa369173eeb5c51ab
 brief:
   - "The Battle of Frezenberg Ridge, fought from 8 to 13 May 1915 east of Ypres, was the third stage of the Second Battle of Ypres. The German 4th Army massed most of three corps against two exhausted British divisions."
   - "After withdrawing from the tip of the salient, the British held a poor line of shallow trenches overlooked from the German heights. They were short of heavy guns, ammunition, wire and dugouts."
@@ -32,7 +32,7 @@ From 22 April the Germans, helped by clouds of [chlorine](https://pl.wikipedia.o
 
 The new line was not a good one. In the south, in the woods between the Menin road and Bellewaarde Lake, it was held by General Thomas Snow's 27th Division, partly screened by trees. Further north, General Edward Bulfin's 28th Division stood on the long forward slope of Frezenberg Ridge, visible from the German heights at Zonnebeke and Gravenstafel and under fire from the flank. To its left, from Mouse Trap Farm towards the canal, stood the 4th Division. The trenches, dug in haste, were narrow and shallow, less than a metre deep, because any deeper one struck water. There was a shortage of sandbags, barbed wire, communication trenches and dugouts. All three divisions of V Corps had only six modern 60-pounder heavy guns and twelve obsolete 4.7-inch guns in support, some of them so worn that their shells fell short and erratically. Ammunition was also short.
 
-Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski), commander of the German [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)), still wanted to eliminate the salient. For four days he moved up heavy artillery and concentrated most of three corps against the 27th and 28th Divisions: General Berthold von Deimling's [XV Corps](https://pl.wikipedia.org/wiki/XV_Korpus_Armijny_(Cesarstwo_Niemieckie)) in the south, General [Richard von Schubert](https://pl.wikipedia.org/wiki/Richard_von_Schubert)'s XXVII Reserve Corps in the centre and General Otto von Hügel's XXVI Reserve Corps in the north. The main blow was to fall on Frezenberg.
+Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski), commander of the German [4th Army](/sily-zbrojne/4-armia-niemiecka), still wanted to eliminate the salient. For four days he moved up heavy artillery and concentrated most of three corps against the 27th and 28th Divisions: General Berthold von Deimling's [XV Corps](https://pl.wikipedia.org/wiki/XV_Korpus_Armijny_(Cesarstwo_Niemieckie)) in the south, General [Richard von Schubert](https://pl.wikipedia.org/wiki/Richard_von_Schubert)'s XXVII Reserve Corps in the centre and General Otto von Hügel's XXVI Reserve Corps in the north. The main blow was to fall on Frezenberg.
 
 ## Course of the fighting
 

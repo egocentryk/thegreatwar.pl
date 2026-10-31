@@ -23,7 +23,7 @@ Oblężenie [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) trwało od ostatn
 
 Maubeuge była jedną z twierdz strzegących północno-wschodniej granicy Francji. Obóz warowny składał się z sześciu fortów i kilku mniejszych dzieł obronnych, rozmieszczonych kilka kilometrów od miasta na obwodzie około 30 kilometrów. Forty pochodziły jednak w większości z lat 80. XIX wieku i nie były przystosowane do ostrzału z najcięższych dział oblężniczych. Załogą, liczącą według różnych źródeł około 45–50 tysięcy ludzi, w dużej części żołnierzy starszych roczników z oddziałów terytorialnych, dowodził gubernator twierdzy, generał Joseph Fournier.
 
-W sierpniu 1914 roku w pobliżu Maubeuge zbierał się [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), który stamtąd wyruszył pod Mons. Po klęskach pod Charleroi i Mons Brytyjczycy i francuska 5 Armia wycofywali się na południe. Marszałek John French celowo nie schronił swoich wojsk w twierdzy, obawiając się, że zostałyby w niej zamknięte. Maubeuge została sama.
+W sierpniu 1914 roku w pobliżu Maubeuge zbierał się [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), który stamtąd wyruszył pod Mons. Po klęskach pod Charleroi i Mons Brytyjczycy i francuska 5 Armia wycofywali się na południe. Marszałek John French celowo nie schronił swoich wojsk w twierdzy, obawiając się, że zostałyby w niej zamknięte. Maubeuge została sama.
 
 ## Okrążenie
 

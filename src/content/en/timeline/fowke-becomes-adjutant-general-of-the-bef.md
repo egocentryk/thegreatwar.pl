@@ -2,10 +2,10 @@
 title: Fowke becomes adjutant-general of the BEF
 summary: On 22 February 1916 Gen. George Fowke, until then Engineer-in-Chief, became adjutant-general of the BEF, in charge of personnel in Haig's army to the war's end.
 source: fowke-adiutantem-generalnym-bef
-sourceHash: 34d21a136acb1e5ec6ddfe3f825209b1a95e9b63
+sourceHash: ef9e78601bf4d1f01586d558e0445858fe5327f3
 ---
 
-On 22 February 1916 Major-General Sir George Fowke became adjutant-general of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). He replaced General [Nevil Macready](/macready-odchodzi-ze-sztabu-bef), who took up the corresponding post at the War Office in London. For the duration of his new appointment Fowke received the temporary rank of lieutenant-general. From then on, at the headquarters of General [Douglas Haig](/postacie/douglas-haig), he was responsible for personnel matters, reinforcements, discipline, the medical services and the registration of graves.
+On 22 February 1916 Major-General Sir George Fowke became adjutant-general of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). He replaced General [Nevil Macready](/macready-odchodzi-ze-sztabu-bef), who took up the corresponding post at the War Office in London. For the duration of his new appointment Fowke received the temporary rank of lieutenant-general. From then on, at the headquarters of General [Douglas Haig](/postacie/douglas-haig), he was responsible for personnel matters, reinforcements, discipline, the medical services and the registration of graves.
 
 Fowke was a sapper by training and experience. Born in 1864, he joined the Royal Engineers in 1884, and during the [Second Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska) he took part in the defence of [besieged Ladysmith](https://pl.wikipedia.org/wiki/Oblężenie_Ladysmith), as indeed did Macready. After the war he directed public works in the Transvaal, and during the [Russo-Japanese War](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-japońska) he was an observer with the Japanese army in Manchuria. Before the war, however, he had also become acquainted with personnel matters: in 1910–1913 he was Assistant Adjutant-General for the Royal Engineers at the War Office, and then Inspector of Royal Engineers.
 

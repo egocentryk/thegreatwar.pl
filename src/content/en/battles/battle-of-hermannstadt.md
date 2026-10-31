@@ -9,10 +9,10 @@ sides:
     commanders: [Ioan Culcer, Ioan Popovici]
 result: Central Powers victory. The Romanian I Corps was driven out of the Hermannstadt basin and withdrew over the mountains, but escaped encirclement.
 source: bitwa-pod-sybinem
-sourceHash: 01d6efd00b687d2a750498c604590a890fd12656
+sourceHash: e8545f0bd37448c3699e7f7610bc4471a6e6f448
 ---
 
-The Battle of Hermannstadt was the first major victory of the Central Powers in the campaign against Romania and the first battle in which the new German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) took on the Romanian Army. From 26 to 29 September 1916 three German and Austro-Hungarian divisions attacked from the north the Romanian I Corps, which had been standing idle before [Hermannstadt](https://pl.wikipedia.org/wiki/Sybin) since early September, while the mountain Alpenkorps crossed the ridges to its rear and cut the road in the Red Tower Pass (Turnu Roșu). The Romanians managed to break out of the tightening ring, but in disorder, leaving behind prisoners, guns and baggage trains. Falkenhayn did not destroy I Corps, as he had intended, but he cleared the Hermannstadt basin and could turn against the Romanian 2nd Army near Brașov.
+The Battle of Hermannstadt was the first major victory of the Central Powers in the campaign against Romania and the first battle in which the new German [9th Army](/sily-zbrojne/9-armia-niemiecka) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) took on the Romanian Army. From 26 to 29 September 1916 three German and Austro-Hungarian divisions attacked from the north the Romanian I Corps, which had been standing idle before [Hermannstadt](https://pl.wikipedia.org/wiki/Sybin) since early September, while the mountain Alpenkorps crossed the ridges to its rear and cut the road in the Red Tower Pass (Turnu Roșu). The Romanians managed to break out of the tightening ring, but in disorder, leaving behind prisoners, guns and baggage trains. Falkenhayn did not destroy I Corps, as he had intended, but he cleared the Hermannstadt basin and could turn against the Romanian 2nd Army near Brașov.
 
 ## Name and dates
 

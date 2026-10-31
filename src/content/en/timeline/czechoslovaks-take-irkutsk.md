@@ -2,10 +2,10 @@
 title: Czechoslovaks take Irkutsk
 summary: On 11 July 1918 Gajda's Czechoslovaks and Siberian volunteers entered Irkutsk almost unopposed. The Reds fell back to Baikal, blowing up bridges behind them.
 source: czechoslowacy-zajmuja-irkuck
-sourceHash: 4845eedf4461abdf46ed836066242f6ec536c502
+sourceHash: cbc2db2463c2bc85ebbaa7c59b82d08b8e62167e
 ---
 
-On 11 July 1918 the opponents of the Bolsheviks took power in [Irkutsk](https://pl.wikipedia.org/wiki/Irkuck), the largest city of eastern Siberia. Units of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) under the command of [Radola Gajda](/postacie/radola-gajda) and volunteers of the Siberian anti-Bolshevik army entered the city practically without a fight. A British chronology of the war records the capture of Irkutsk under 13 July, but the American consul general Ernest Harris, who was in the city at the time, and Russian sources agree that the Czechoslovaks and Cossacks entered the city on 11 July. The Red Guard had left the city the day before or that same morning, blowing up the bridge over the river [Irkut](https://pl.wikipedia.org/wiki/Irkut).
+On 11 July 1918 the opponents of the Bolsheviks took power in [Irkutsk](https://pl.wikipedia.org/wiki/Irkuck), the largest city of eastern Siberia. Units of the [Czechoslovak Legion](/sily-zbrojne/legion-czechoslowacki) under the command of [Radola Gajda](/postacie/radola-gajda) and volunteers of the Siberian anti-Bolshevik army entered the city practically without a fight. A British chronology of the war records the capture of Irkutsk under 13 July, but the American consul general Ernest Harris, who was in the city at the time, and Russian sources agree that the Czechoslovaks and Cossacks entered the city on 11 July. The Red Guard had left the city the day before or that same morning, blowing up the bridge over the river [Irkut](https://pl.wikipedia.org/wiki/Irkut).
 
 ## The road east
 

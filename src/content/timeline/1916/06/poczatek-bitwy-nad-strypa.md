@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 11 czerwca 1916 roku początek bitwy nad [Strypą](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), rzeką we wschodniej Galicji, nad którą front stał od jesieni 1915 roku. Tego dnia, 29 maja według kalendarza juliańskiego, którego używała wtedy Rosja, [7 Armia](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) generała [Dmitrija Szczerbaczowa](/postacie/dmitrij-szczerbaczow) uderzyła za Strypą na prawe skrzydło niemiecko-austriackiej [Armii Południowej](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) generała Felixa von Bothmera. Walki nad rzeką trwały jednak już od kilku dni. Rosyjskie opracowania zaliczają je do operacji jazłowieckiej, liczonej od 6 do 17 czerwca (od 24 maja do 4 czerwca według kalendarza juliańskiego).
+Brytyjska chronologia wojny notuje pod 11 czerwca 1916 roku początek bitwy nad [Strypą](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), rzeką we wschodniej Galicji, nad którą front stał od jesieni 1915 roku. Tego dnia, 29 maja według kalendarza juliańskiego, którego używała wtedy Rosja, [7 Armia](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) generała [Dmitrija Szczerbaczowa](/postacie/dmitrij-szczerbaczow) uderzyła za Strypą na prawe skrzydło niemiecko-austriackiej [Armii Południowej](/sily-zbrojne/armia-poludniowa) generała Felixa von Bothmera. Walki nad rzeką trwały jednak już od kilku dni. Rosyjskie opracowania zaliczają je do operacji jazłowieckiej, liczonej od 6 do 17 czerwca (od 24 maja do 4 czerwca według kalendarza juliańskiego).
 
 ## Przełamanie pod Jazłowcem
 

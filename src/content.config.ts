@@ -308,11 +308,12 @@ const forces = defineCollection({
     summary: z.string().max(160),
     brief: z.array(z.string()).max(5).default([]),
     kind: z.enum(["armia", "flota", "lotnictwo", "korpus", "formacja"]),
-    // The country page of the state it served.
-    country: reference("countries"),
+    // The country page of the state it served; none for a force without a
+    // state (the Czechoslovak Legion).
+    country: reference("countries").optional(),
     // Formed and disbanded (or merged) on; no `disbanded` if it outlived 1918
-    // as the same force.
-    formed: z.coerce.date(),
+    // as the same force, no `formed` if it is centuries old (the Royal Navy).
+    formed: z.coerce.date().optional(),
     disbanded: z.coerce.date().optional(),
     // Person pages of its commanders and people, in order.
     people: z.array(reference("people")).default([]),

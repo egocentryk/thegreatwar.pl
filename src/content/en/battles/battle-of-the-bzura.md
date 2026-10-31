@@ -9,10 +9,10 @@ sides:
     commanders: [Nikolai Ruzsky, Paul von Rennenkampf, Aleksandr Litvinov]
 result: German success without a breakthrough. The Russians abandoned Łowicz and fell back behind the lower Bzura and the Rawka, where the fighting turned into trench warfare.
 source: bitwa-nad-bzura
-sourceHash: fa11cd6ba403d48999bfaf6df1af6e001f1170db
+sourceHash: 344c03ec9c2e4f2135917e7acb5933568d739750
 ---
 
-The Battle of the Bzura, called the Battle of Łowicz–Sanniki in German and British works, was the last stage of the autumn campaign in the central part of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). It was fought from the end of November to mid-December 1914 on the northern wing of the front, between the [Vistula](https://pl.wikipedia.org/wiki/Wisła) and [Łowicz](https://pl.wikipedia.org/wiki/Łowicz). The German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), reinforced by corps transferred from the Western Front, attacked the Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) here. After more than two weeks of heavy fighting the Russians abandoned Łowicz and fell back behind the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura), where the front froze for many months.
+The Battle of the Bzura, called the Battle of Łowicz–Sanniki in German and British works, was the last stage of the autumn campaign in the central part of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). It was fought from the end of November to mid-December 1914 on the northern wing of the front, between the [Vistula](https://pl.wikipedia.org/wiki/Wisła) and [Łowicz](https://pl.wikipedia.org/wiki/Łowicz). The German [Ninth Army](/sily-zbrojne/9-armia-niemiecka), reinforced by corps transferred from the Western Front, attacked the Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) here. After more than two weeks of heavy fighting the Russians abandoned Łowicz and fell back behind the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura), where the front froze for many months.
 
 ## Name and dates
 

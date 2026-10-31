@@ -2,7 +2,7 @@
 title: The Air Ministry is created
 summary: On 2 January 1918 Lord Rothermere became Secretary of State for Air, and on 3 January the Air Council took over the duties of the Air Board.
 source: utworzenie-ministerstwa-lotnictwa
-sourceHash: 38696c707c370c78486d8cb862caff9b823f9183
+sourceHash: f33b466c385bd933ca312f7c94d3262372b696d0
 ---
 
 On 2 January 1918, at a meeting of the Privy Council at Buckingham Palace, Lord Rothermere, the press magnate and brother of Lord [Northcliffe](https://pl.wikipedia.org/wiki/Alfred_Harmsworth), took the oath as one of His Majesty's Principal Secretaries of State. Thus the first air minister appeared in the British government. The same day the King issued a second order in council under the [Air Force Act](/ustawa-o-silach-powietrznych). It fixed the day on which the Air Council would begin to operate as 3 January 1918. Both instruments were published in the *London Gazette* of 4 January.
@@ -17,4 +17,4 @@ On 3 January the Air Council took over the duties of the [Air Board](/powstaje-r
 
 ## What next
 
-For the time being only the ministry and its leadership existed. The Royal Flying Corps still belonged to the army, and the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) to the navy. The Council's most important task was to prepare their merger into a single independent armed service: many thousands of men had to be transferred to the new force, and ranks, uniforms and disciplinary regulations had to be settled. The new force, the [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force), came into being on 1 April 1918. From the start it was also burdened by a clash of personalities: the Chief of the Air Staff, General Hugh Trenchard, took up his work at the ministry only in mid-January and soon began to quarrel with Rothermere over how the new force should be run.
+For the time being only the ministry and its leadership existed. The Royal Flying Corps still belonged to the army, and the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) to the navy. The Council's most important task was to prepare their merger into a single independent armed service: many thousands of men had to be transferred to the new force, and ranks, uniforms and disciplinary regulations had to be settled. The new force, the [Royal Air Force](/sily-zbrojne/royal-air-force), came into being on 1 April 1918. From the start it was also burdened by a clash of personalities: the Chief of the Air Staff, General Hugh Trenchard, took up his work at the ministry only in mid-January and soon began to quarrel with Rothermere over how the new force should be run.

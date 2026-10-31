@@ -2,7 +2,7 @@
 title: Start of the First Battle of Mount Kemmel
 summary: On 17 April 1918 the Germans attacked the Flanders hills near Kemmel and the Belgians at Merkem. British, Australians, French and Belgians beat off the attacks.
 source: poczatek-pierwszej-bitwy-o-wzgorze-kemmel
-sourceHash: 36b64be297ce05d201d1cc262d0cc2cdd76c045d
+sourceHash: 3bf13a6482c9bac3ee4618d8b894e87bb9f2f95b
 brief:
   - "On 17 April 1918, the ninth day of the Battle of the Lys, the Germans attacked the range of hills with the Kemmelberg, Mont Rouge and Mont Noir, and at the same time the Belgian army north of Ypres."
   - "The two attacks, sharing the code name \"Tannenberg\", were to squeeze the Ypres salient from two sides and force the British to abandon it."
@@ -37,7 +37,7 @@ In front of Mont Noir and Mont Rouge, General Nicholson's six exhausted brigades
 
 At Kemmel itself the German heavy artillery pounded the summit and slopes of the hill from 6 a.m. The hill, which from the German lines looked like a squat pyramid rising from the plain, was an excellent target, but the shells fell behind the British front line. At 8.30 a.m. the German infantry began to come down in extended lines from the low ridge near Lindenhoek, and then approached in ones and twos. At 10.50 a.m. it launched a general assault on the 178th Brigade and two brigades of the 19th Division. The fire of artillery, rifles and machine guns, shooting from the slopes over the heads of their own infantry, stopped it a few hundred metres short of the line. The Germans took only Donegal Farm, of whose garrison an officer and eight sappers survived, and came up to the huts at Aircraft Farm. In the afternoon two battalions of the French 99th Infantry Regiment closed the gap, and another regiment of the 28th Division occupied the neighbouring Scherpenberg. An evening attack was easily beaten off, and during the night the French retook Donegal Farm. They themselves, however, could advance no more than two hundred metres in a counter-attack on Spanbroekmolen.
 
-Over the battlefield the Allied air forces had the upper hand. The [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force) flew 61 patrol and reconnaissance sorties and dropped more than 10 tons of bombs, although from 11 a.m. low cloud hung over Flanders. German regimental histories later wrote that the waves of the attack were mown down by machine-gun fire from the flank, and the survivors lay all day in their jumping-off trenches while British aircraft circled overhead and bombs tore through their ranks.
+Over the battlefield the Allied air forces had the upper hand. The [Royal Air Force](/sily-zbrojne/royal-air-force) flew 61 patrol and reconnaissance sorties and dropped more than 10 tons of bombs, although from 11 a.m. low cloud hung over Flanders. German regimental histories later wrote that the waves of the attack were mown down by machine-gun fire from the flank, and the survivors lay all day in their jumping-off trenches while British aircraft circled overhead and bombs tore through their ranks.
 
 ## Evening at headquarters
 

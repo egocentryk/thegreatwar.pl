@@ -32,7 +32,7 @@ Pierwsze ofiary zginęły w Stoke Newington. Bomba zapalająca podpaliła dom ro
 
 ## Bezradna obrona
 
-Obrona Londynu okazała się bezsilna. Reflektory nie wychwyciły sterowca, a działa przeciwlotnicze w mieście milczały. Samoloty [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) wykonały kilkanaście lotów, ale tylko jeden pilot dostrzegł sterowiec i musiał przerwać pościg z powodu awarii silnika. Przy lądowaniu w [Hendon](https://pl.wikipedia.org/wiki/Hendon) rozbił się inny samolot, a jego pilot zginął. LZ 38 bez przeszkód wrócił do Belgii.
+Obrona Londynu okazała się bezsilna. Reflektory nie wychwyciły sterowca, a działa przeciwlotnicze w mieście milczały. Samoloty [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) wykonały kilkanaście lotów, ale tylko jeden pilot dostrzegł sterowiec i musiał przerwać pościg z powodu awarii silnika. Przy lądowaniu w [Hendon](https://pl.wikipedia.org/wiki/Hendon) rozbił się inny samolot, a jego pilot zginął. LZ 38 bez przeszkód wrócił do Belgii.
 
 ## Po nalocie
 

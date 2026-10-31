@@ -2,14 +2,14 @@
 title: British take Dojran
 summary: On 22 September 1918 the Allies entered the abandoned Bulgarian positions at Lake Dojran, which they had failed to take by assault. The pursuit began.
 source: brytyjczycy-zajmuja-dojran
-sourceHash: 6f8a5043857d28a06b9b3f3b7a955b3aa0561b09
+sourceHash: 7e4cb2ca5cc1e99ee68e3a2b5db8de6317be6619
 ---
 
 The British chronology of the war records under 22 September 1918 that British troops took [Dojran](https://pl.wikipedia.org/wiki/Dojran_(miasto)). The small town on the lake, which the Bulgarians had [taken in December 1915](/bulgarzy-zajmuja-dojran-i-gewgelije), had for three years lain within their defensive line, depopulated and ruined by shellfire. It was not, however, taken by assault. Three days earlier the British and Greeks had once again [been thrown back from the Bulgarian defences](/bitwy/bitwa-pod-dojranem-1918) on the heights west of the lake, losing more than 7,000 men. Now the Bulgarians left of their own accord, because further west the front had already been broken.
 
 ## The Bulgarian retreat
 
-The breach that the Serbs and French had made on 15 September in the Moglena mountains widened every day. On 20 September the headquarters of the Bulgarian 1st Army received orders to prepare a retreat to a new line in the [Belasica](https://pl.wikipedia.org/wiki/Bełasica) range, and General Vladimir Vazov's 9th Pleven Division, undefeated in three battles at Dojran, had to abandon its positions. Under cover of a strong rearguard the artillery and transport moved off by night along the road through Kosturino towards [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)). On 21 September, between 8.00 and 8.30 a.m., the British heard loud explosions of dumps being blown up, and airmen spotted columns moving north on both banks of the [Vardar](https://pl.wikipedia.org/wiki/Wardar). From the afternoon aircraft of the [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force) bombed the crowded roads in relays, at times coming down to a dozen or so metres above the ground to machine-gun the columns. At the crossroads near Rabrovo the transport piled up in a disorderly mass.
+The breach that the Serbs and French had made on 15 September in the Moglena mountains widened every day. On 20 September the headquarters of the Bulgarian 1st Army received orders to prepare a retreat to a new line in the [Belasica](https://pl.wikipedia.org/wiki/Bełasica) range, and General Vladimir Vazov's 9th Pleven Division, undefeated in three battles at Dojran, had to abandon its positions. Under cover of a strong rearguard the artillery and transport moved off by night along the road through Kosturino towards [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)). On 21 September, between 8.00 and 8.30 a.m., the British heard loud explosions of dumps being blown up, and airmen spotted columns moving north on both banks of the [Vardar](https://pl.wikipedia.org/wiki/Wardar). From the afternoon aircraft of the [Royal Air Force](/sily-zbrojne/royal-air-force) bombed the crowded roads in relays, at times coming down to a dozen or so metres above the ground to machine-gun the columns. At the crossroads near Rabrovo the transport piled up in a disorderly mass.
 
 ## 22 September
 

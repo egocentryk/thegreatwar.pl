@@ -18,7 +18,7 @@ brief:
   - "Bitwa przekreśliła niemiecki plan szybkiego zwycięstwa na zachodzie i zmusiła Niemcy do długiej wojny na dwa fronty. Francuzi nazwali ją „cudem nad Marną”."
 ---
 
-6 września 1914 roku, po dwóch tygodniach odwrotu, armie francuskie i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) zatrzymały się i uderzyły na Niemców na froncie długości około 200 kilometrów, od okolic Paryża po Verdun. Tak zaczęła się [bitwa nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), jedna z najważniejszych bitew całej wojny. W ciągu kilku dni zdecydowała, że Niemcy nie pokonają Francji w jednej szybkiej kampanii.
+6 września 1914 roku, po dwóch tygodniach odwrotu, armie francuskie i [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) zatrzymały się i uderzyły na Niemców na froncie długości około 200 kilometrów, od okolic Paryża po Verdun. Tak zaczęła się [bitwa nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), jedna z najważniejszych bitew całej wojny. W ciągu kilku dni zdecydowała, że Niemcy nie pokonają Francji w jednej szybkiej kampanii.
 
 ## Niemcy u bram Paryża
 

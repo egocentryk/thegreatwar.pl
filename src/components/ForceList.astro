@@ -61,7 +61,7 @@ const jsonLd = listPageLd(Astro.site!, {
           <li class="border-line border-b py-5 sm:pr-8">
             <a href={force.href} class="group block">
               <span class="text-ink-soft block font-mono text-[10px] tracking-[0.2em] uppercase">
-                {countries.get(force.source.data.country.id)}
+                {force.source.data.country ? countries.get(force.source.data.country.id) : ""}
               </span>
               <span class="font-display text-ink group-hover:text-signal mt-1 block text-2xl transition-colors">{force.name}</span>
               <span class="text-ink-soft mt-2 block text-sm leading-6">{force.summary}</span>

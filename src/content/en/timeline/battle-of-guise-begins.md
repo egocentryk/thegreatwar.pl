@@ -2,7 +2,7 @@
 title: Battle of Guise begins
 summary: On 29 August 1914 Lanrezac's French Fifth Army broke off its retreat and counter-attacked Bülow's German Second Army on the river Oise.
 source: poczatek-bitwy-pod-guise
-sourceHash: 4f56e6b5b1dd674c456797681bd925c6de06f3f7
+sourceHash: 41a17f99332c44ec17ae19a7f32c5f2d33815d81
 brief:
   - "On 29 August 1914 General Charles Lanrezac's French Fifth Army broke off its retreat and struck Bülow's German Second Army in the Oise valley. It was the only major Allied counter-attack during the Great Retreat."
   - "Joffre needed time to assemble the new Sixth Army and forced the attack on Lanrezac, who opposed it. Field Marshal John French refused British participation, so the French fought alone."
@@ -14,7 +14,7 @@ On 29 August 1914 the French Fifth Army under General Charles Lanrezac stopped r
 
 ## A retreat that had to be halted
 
-At the end of August the Allied situation in the west was very difficult. After the lost [Battle of the Frontiers](/bitwy/bitwa-graniczna), the French armies and the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) were falling back to the south, while the German right wing pressed on towards Paris. The French Commander-in-Chief, General [Joseph Joffre](/postacie/joseph-joffre), was forming a new Sixth Army on his left wing and needed time to assemble it. He decided that the Fifth Army would halt and strike westwards, towards Saint-Quentin, into the flank of the German First Army under General [Alexander von Kluck](/postacie/alexander-von-kluck), which was pursuing the British.
+At the end of August the Allied situation in the west was very difficult. After the lost [Battle of the Frontiers](/bitwy/bitwa-graniczna), the French armies and the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) were falling back to the south, while the German right wing pressed on towards Paris. The French Commander-in-Chief, General [Joseph Joffre](/postacie/joseph-joffre), was forming a new Sixth Army on his left wing and needed time to assemble it. He decided that the Fifth Army would halt and strike westwards, towards Saint-Quentin, into the flank of the German First Army under General [Alexander von Kluck](/postacie/alexander-von-kluck), which was pursuing the British.
 
 Lanrezac was opposed. Wheeling the army to face west meant exposing its right flank to a blow from the German Second Army under General [Karl von Bülow](/postacie/karl-von-bulow), approaching from the north. Joffre would not give way. On 28 August he came to Lanrezac's headquarters at [Marle](https://pl.wikipedia.org/wiki/Marle) and demanded that the order be carried out; at his instruction it was written down and signed on the spot. On the morning of 29 August he came again, this time to Laon, and for several hours watched in silence as Lanrezac directed the battle. He left convinced that the commander of the Fifth Army was handling it well.
 

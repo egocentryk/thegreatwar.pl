@@ -9,10 +9,10 @@ sides:
     commanders: [Vladimir Smirnov, Aleksandr Litvinov, Vasily Gurko]
 result: Inconclusive. The Germans did not break the front or reach Warsaw. The Russians gave up their positions only in July 1915, during the general retreat from Poland.
 source: walki-nad-rawka-i-bzura
-sourceHash: dcac0c85d61281b96d45c30974675c4da2d73967
+sourceHash: 559243994cb757a83d6e23118cb1eaecdff5ed67
 ---
 
-The fighting on the Rawka and Bzura was seven months of positional warfare in western Masovia, a few dozen kilometres from Warsaw. After the [Battle of the Bzura](/bitwy/bitwa-nad-bzura) the Russian armies dug in behind the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura) and the [Rawka](https://pl.wikipedia.org/wiki/Rawka_(rzeka)), and throughout the winter and spring the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) tried to break through. The front moved no more than a few kilometres, but it cost both sides tens of thousands of dead. At [Bolimów](https://pl.wikipedia.org/wiki/Bolimów) the Germans used chemical weapons on a large scale for the first time: tear-gas shells in January 1915 and, from May, chlorine. The fighting ended only in July 1915, when the Russians, threatened with encirclement, began the great retreat from Congress Poland.
+The fighting on the Rawka and Bzura was seven months of positional warfare in western Masovia, a few dozen kilometres from Warsaw. After the [Battle of the Bzura](/bitwy/bitwa-nad-bzura) the Russian armies dug in behind the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura) and the [Rawka](https://pl.wikipedia.org/wiki/Rawka_(rzeka)), and throughout the winter and spring the German [9th Army](/sily-zbrojne/9-armia-niemiecka) tried to break through. The front moved no more than a few kilometres, but it cost both sides tens of thousands of dead. At [Bolimów](https://pl.wikipedia.org/wiki/Bolimów) the Germans used chemical weapons on a large scale for the first time: tear-gas shells in January 1915 and, from May, chlorine. The fighting ended only in July 1915, when the Russians, threatened with encirclement, began the great retreat from Congress Poland.
 
 ## Name and dates
 

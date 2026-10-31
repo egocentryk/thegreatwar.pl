@@ -2,7 +2,7 @@
 title: Second Battle of Ypres begins
 summary: On 22 April 1915 the Germans released a cloud of chlorine at Ypres. Two French divisions broke, and a gap several kilometres wide opened north of the town.
 source: poczatek-drugiej-bitwy-pod-ypres
-sourceHash: 64005827c3f53f15695a710e9246b1ed54ebd484
+sourceHash: fe8f6b6c30281af7427c2d9b90d833ccaa36de66
 brief:
   - "Towards evening on 22 April 1915 the Germans released chlorine at Ypres onto the trenches of two French divisions. It was the first Western Front attack with a gas meant to kill, and the start of the Second Battle of Ypres."
   - "The chemist Fritz Haber proposed releasing gas from cylinders and letting the wind carry it to the enemy's trenches. Falkenhayn treated the attack as a trial of the new weapon, not an attempt to break the front."
@@ -21,7 +21,7 @@ A special pioneer unit under Colonel Peterson was formed to handle the cylinders
 
 ## The cylinders wait for the wind
 
-The front of the German [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) at Ypres was chosen for the attack. First, in February, the pioneers dug in cylinders on the sector of XV Corps, south-east of the town, but a southerly wind was needed there, and it would not blow. On 25 March the army command decided to prepare a second sector, on the northern edge of the salient, between the village of [Poelkapelle](https://pl.wikipedia.org/wiki/Poelkapelle) and Steenstrate (Steenstraat) on the Ypres–Yser canal. Here a northerly or north-easterly wind was enough. By 11 April, according to the Canadian official history, 5,730 cylinders, large and small, had been dug in along a front about 6 kilometres long. The quantity of chlorine is usually estimated at about 150 tonnes, although some accounts give 160–180 tonnes.
+The front of the German [Fourth Army](/sily-zbrojne/4-armia-niemiecka) of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) at Ypres was chosen for the attack. First, in February, the pioneers dug in cylinders on the sector of XV Corps, south-east of the town, but a southerly wind was needed there, and it would not blow. On 25 March the army command decided to prepare a second sector, on the northern edge of the salient, between the village of [Poelkapelle](https://pl.wikipedia.org/wiki/Poelkapelle) and Steenstrate (Steenstraat) on the Ypres–Yser canal. Here a northerly or north-easterly wind was enough. By 11 April, according to the Canadian official history, 5,730 cylinders, large and small, had been dug in along a front about 6 kilometres long. The quantity of chlorine is usually estimated at about 150 tonnes, although some accounts give 160–180 tonnes.
 
 For nearly two weeks the wind blew the wrong way, and the attack was postponed from day to day. The German commanders made no secret of their distrust of the new, untested weapon, which made them dependent on the weather. Nor was the aim of the attack a breakthrough. Falkenhayn treated it as a trial of the new weapon and at the same time as one of the operations meant to divert Allied attention from the transfer of troops to the east, where the Germans were preparing a great offensive in Galicia. He refused Duke Albrecht an additional division in case of success. The order set a limited objective: to take the ridge near the village of Pilkem (Pilckem) and dig in on it.
 

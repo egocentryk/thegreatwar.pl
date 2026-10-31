@@ -6,10 +6,10 @@ country: United Kingdom
 birthPlace: Blenheim Palace, Woodstock (England)
 deathPlace: London
 source: winston-churchill
-sourceHash: d1150005c38982f9e2ff173694e03bc91e8cd490
+sourceHash: d2cc58577fb64ea67177f6909c9922d373213266
 ---
 
-Winston Churchill entered the war as one of the youngest, most energetic and most controversial members of [H. H. Asquith's](/postacie/herbert-henry-asquith) government. As First Lord of the Admiralty, the minister responsible for the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), he prepared the fleet for war even before it was declared, went to defend Antwerp, supported work on the tank and, above all, was the chief advocate of the Dardanelles expedition. Its failure cost him the Admiralty in May 1915 and his seat in the government in the autumn. For several months he commanded a battalion in the trenches of Flanders, and in 1917 he returned to power as Minister of Munitions. The war, which nearly ended his career, shaped his thinking about strategy for the rest of his life.
+Winston Churchill entered the war as one of the youngest, most energetic and most controversial members of [H. H. Asquith's](/postacie/herbert-henry-asquith) government. As First Lord of the Admiralty, the minister responsible for the [Royal Navy](/sily-zbrojne/royal-navy), he prepared the fleet for war even before it was declared, went to defend Antwerp, supported work on the tank and, above all, was the chief advocate of the Dardanelles expedition. Its failure cost him the Admiralty in May 1915 and his seat in the government in the autumn. For several months he commanded a battalion in the trenches of Flanders, and in 1917 he returned to power as Minister of Munitions. The war, which nearly ended his career, shaped his thinking about strategy for the rest of his life.
 
 ## Before the war
 

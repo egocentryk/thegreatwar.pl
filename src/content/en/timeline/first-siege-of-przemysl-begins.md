@@ -2,7 +2,7 @@
 title: First siege of Przemyśl begins
 summary: On 24 September 1914 the Russian Third Army cut Przemyśl off from the Austro-Hungarian army. The first siege of one of the largest fortresses in Europe began.
 source: poczatek-oblezenia-przemysla
-sourceHash: cc462c78d441465d7563fbf01486fc75225b6fc0
+sourceHash: 8a3ce8aebe80357129c51184cf48bf9efa5294cc
 ---
 
 On 24 September 1914, according to the British chronology of the war, Russian troops cut off the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) from the Austro-Hungarian armies retreating westwards. The first siege of one of the largest fortresses in Europe began. Within its walls were more than 120,000 soldiers and over ten thousand civilians. Przemyśl became a symbol of the war in Galicia, and for the next six months the whole Habsburg monarchy followed its fate.
@@ -29,7 +29,7 @@ Before the war Przemyśl had several tens of thousands of inhabitants: Poles, Je
 
 ## The Russians below the forts
 
-The fortress was besieged by the Russian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) of General [Radko Dimitriev](/postacie/radko-dimitriew), a Bulgarian in Russian service. Several divisions took up position directly before Przemyśl, six according to English-language studies. Their commander soon became General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow). The main forces of the Third Army moved on west in pursuit of the Austrians. The Russians, however, had no heavy siege artillery. They counted on the fortress, defended by older reservists, surrendering quickly or falling to a sudden assault.
+The fortress was besieged by the Russian [Third Army](/sily-zbrojne/3-armia-rosyjska) of General [Radko Dimitriev](/postacie/radko-dimitriew), a Bulgarian in Russian service. Several divisions took up position directly before Przemyśl, six according to English-language studies. Their commander soon became General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow). The main forces of the Third Army moved on west in pursuit of the Austrians. The Russians, however, had no heavy siege artillery. They counted on the fortress, defended by older reservists, surrendering quickly or falling to a sudden assault.
 
 Dimitriev wanted to take Przemyśl before the Central Powers went over to a counter-offensive. On 4 October he sent an envoy to the fortress with a summons to surrender, and after the refusal he ordered an assault. From 5 October Russian artillery shelled the forts, and at dawn on 7 October the infantry went into the attack, most strongly against the forts in the Siedliska area to the south-east. Until 8 October the Russians also attacked the northern forts. All the attacks broke down on the entanglements and under the defenders' fire. Russian losses are estimated very differently: in Polish studies usually at some 10,000 killed, wounded and taken prisoner, in some others at as many as 40,000. The garrison lost many times fewer.
 

@@ -2,14 +2,14 @@
 title: British Expeditionary Force completes its landing in France
 summary: On 16 August 1914 the landing of the original British Expeditionary Force in France was completed. The crossing was made without loss.
 source: brytyjski-korpus-ekspedycyjny-zakonczyl-ladowanie-we-francji
-sourceHash: edb9b80b42f4c5ab9fdc79feb933d9c944a039dc
+sourceHash: e42ade0ec3bd0fb6ecd60db27b30bbf510eb42ac
 ---
 
-On 16 August 1914 the landing of the original [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) in France was completed. Four infantry divisions and a cavalry division crossed to the Continent, together with their artillery, transport and supplies. The completion of the crossing was made public only on 18 August, so as not to reveal troop movements to the enemy.
+On 16 August 1914 the landing of the original [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) in France was completed. Four infantry divisions and a cavalry division crossed to the Continent, together with their artillery, transport and supplies. The completion of the crossing was made public only on 18 August, so as not to reveal troop movements to the enemy.
 
 ## An operation without loss
 
-Moving an army across the English Channel was one of the largest transport operations of its time. The ships sailed mainly from Southampton and put in at Le Havre, Rouen and Boulogne. The crossing was covered by ships of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), and naval aircraft patrolled over the Channel. Not a single transport was sunk or attacked. For a long time the Germans did not even know where and when the British had arrived on the Continent.
+Moving an army across the English Channel was one of the largest transport operations of its time. The ships sailed mainly from Southampton and put in at Le Havre, Rouen and Boulogne. The crossing was covered by ships of the [Royal Navy](/sily-zbrojne/royal-navy), and naval aircraft patrolled over the Channel. Not a single transport was sunk or attacked. For a long time the Germans did not even know where and when the British had arrived on the Continent.
 
 ## On the French left wing
 

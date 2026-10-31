@@ -6,7 +6,7 @@ country: Russia
 birthPlace: St Petersburg
 deathPlace: Irkutsk
 source: aleksandr-kolczak
-sourceHash: f08016dcf8eb405f639ad597dec22d256048d3d9
+sourceHash: 09aaaa3d4d52617d047d36d42c3832e8030f60a2
 ---
 
 Admiral Alexander Kolchak was the ablest Russian naval commander of this war and one of the most tragic figures of the Russian Revolution. Before he became a fighting officer, he won fame as an Arctic explorer. In 1914–1916, as a staff officer and commander of the Mine Division of the Baltic Fleet, he was the principal author of Russia's mine war against Germany. From the summer of 1916, as the youngest fleet commander among the belligerent powers, he led the Black Sea Fleet, which bottled up the Turks and Germans in the Bosporus. In June 1917 mutinous sailors took his command from him. After the Bolshevik coup, refusing to accept Russia's withdrawal from the war, he volunteered for service with the British, and in November 1918 in Omsk he became head of White Russia as Supreme Ruler. He was shot by the Bolsheviks.
@@ -47,7 +47,7 @@ In Omsk at the beginning of November he became Minister of War and Marine in the
 
 ## After the war
 
-The offensive collapsed in the summer of 1919. The Red Army crossed the Urals and in November took Omsk. Kolchak retreated along the Trans-Siberian Railway, carrying the gold reserve of the former empire. Neither the British, nor the French, nor the Americans formally recognised his government, the Japanese acted on their own account, and the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) wanted only to go home. In January 1920 the Czechoslovaks, with the consent of the head of the Allied mission, General [Maurice Janin](https://pl.wikipedia.org/wiki/Maurice_Janin), handed the admiral over to the left-wing authorities of [Irkutsk](https://pl.wikipedia.org/wiki/Irkuck), who soon passed power to the Bolsheviks. After nine days of interrogation, on the night of 6–7 February 1920, Kolchak and his prime minister [Viktor Pepelyayev](https://pl.wikipedia.org/wiki/Wiktor_Piepielajew) were shot, and their bodies were pushed under the ice of the [Angara](https://pl.wikipedia.org/wiki/Angara).
+The offensive collapsed in the summer of 1919. The Red Army crossed the Urals and in November took Omsk. Kolchak retreated along the Trans-Siberian Railway, carrying the gold reserve of the former empire. Neither the British, nor the French, nor the Americans formally recognised his government, the Japanese acted on their own account, and the [Czechoslovak Legion](/sily-zbrojne/legion-czechoslowacki) wanted only to go home. In January 1920 the Czechoslovaks, with the consent of the head of the Allied mission, General [Maurice Janin](https://pl.wikipedia.org/wiki/Maurice_Janin), handed the admiral over to the left-wing authorities of [Irkutsk](https://pl.wikipedia.org/wiki/Irkuck), who soon passed power to the Bolsheviks. After nine days of interrogation, on the night of 6–7 February 1920, Kolchak and his prime minister [Viktor Pepelyayev](https://pl.wikipedia.org/wiki/Wiktor_Piepielajew) were shot, and their bodies were pushed under the ice of the [Angara](https://pl.wikipedia.org/wiki/Angara).
 
 ## Assessment
 

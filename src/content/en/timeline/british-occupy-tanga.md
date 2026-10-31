@@ -2,10 +2,10 @@
 title: British occupy Tanga
 summary: On 7 July 1916 an Indian force entered Tanga unopposed, where the British had been defeated in 1914. The Germans withdrew, wrecking the port and railway.
 source: brytyjczycy-zajmuja-tange
-sourceHash: 1139b88c391309f05b8a69b491d96ef5d1c9d748
+sourceHash: 1b4ebb8d5ffea4e137147249cfaa355e4aec3818
 ---
 
-On 7 July 1916 British and Indian troops occupied [Tanga](https://pl.wikipedia.org/wiki/Tanga) without a fight. It was a port on the northern coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and the terminus of the Usambara Railway. This same Tanga had in November 1914 been the scene of [one of the most painful British defeats](/bitwy/bitwa-pod-tanga) of the whole war. This time the Germans did not defend the town. Indian infantry entered it from the west, and sailors from [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) ships from the sea.
+On 7 July 1916 British and Indian troops occupied [Tanga](https://pl.wikipedia.org/wiki/Tanga) without a fight. It was a port on the northern coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and the terminus of the Usambara Railway. This same Tanga had in November 1914 been the scene of [one of the most painful British defeats](/bitwy/bitwa-pod-tanga) of the whole war. This time the Germans did not defend the town. Indian infantry entered it from the west, and sailors from [Royal Navy](/sily-zbrojne/royal-navy) ships from the sea.
 
 ## A port left to one side
 

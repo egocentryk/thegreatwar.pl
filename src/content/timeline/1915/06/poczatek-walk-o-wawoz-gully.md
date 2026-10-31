@@ -20,7 +20,7 @@ Wtedy natarcie na całej szerokości frontu załamało się, bo brytyjskich haub
 
 ## Sukces nad morzem
 
-Upalnego, bezwietrznego ranka o 9 zaczął się ostrzał. O 10.45 batalion Border Regiment szybkim atakiem zdobył redutę Boomerang na skraju wąwozu i wziął stu jeńców. Kwadrans później ruszyła reszta. Na Gully Spur ostrzał był tak potężny, że dwie pierwsze linie tureckich okopów zamieniły się w gruzowisko, a ich obrońcy byli zabici albo ranni. 87 Brygada zajęła je bez trudu. Za nią 2 batalion Royal Fusiliers do południa zdobył dwie dalsze linie, a [Gurkhowie](https://pl.wikipedia.org/wiki/Gurkhowie), posuwając się wzdłuż nadmorskich urwisk, zajęli cypel nad morzem, nazwany później Fusilier Bluff. Pięć linii tureckich okopów na Gully Spur przeszło w ręce Brytyjczyków.
+Upalnego, bezwietrznego ranka o 9 zaczął się ostrzał. O 10.45 batalion Border Regiment szybkim atakiem zdobył redutę Boomerang na skraju wąwozu i wziął stu jeńców. Kwadrans później ruszyła reszta. Na Gully Spur ostrzał był tak potężny, że dwie pierwsze linie tureckich okopów zamieniły się w gruzowisko, a ich obrońcy byli zabici albo ranni. 87 Brygada zajęła je bez trudu. Za nią 2 batalion Royal Fusiliers do południa zdobył dwie dalsze linie, a [Gurkhowie](/sily-zbrojne/gurkhowie), posuwając się wzdłuż nadmorskich urwisk, zajęli cypel nad morzem, nazwany później Fusilier Bluff. Pięć linii tureckich okopów na Gully Spur przeszło w ręce Brytyjczyków.
 
 ## Klęska na Fir Tree Spur
 

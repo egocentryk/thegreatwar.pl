@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Przed świtem 7 czerwca 1915 roku 23-letni pilot [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) Reginald Warneford zaatakował nad [Gandawą](https://pl.wikipedia.org/wiki/Gandawa) niemiecki sterowiec armii LZ 37. Bomby zrzucone z jednomiejscowego jednopłatowca [Morane-Saulnier L](https://pl.wikipedia.org/wiki/Morane-Saulnier_L) zapaliły wodór w [sterowcu](/slownik/sterowiec), który runął w płomieniach na zabudowania [Sint-Amandsberg](https://pl.wikipedia.org/wiki/Sint-Amandsberg), podmiejskiej gminy Gandawy. Tej samej nocy dwaj inni lotnicy brytyjskiej marynarki zniszczyli w hangarze w [Evere](https://pl.wikipedia.org/wiki/Evere) pod Brukselą sterowiec [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), który tydzień wcześniej [jako pierwszy zbombardował Londyn](/pierwszy-nalot-sterowca-na-londyn).
+Przed świtem 7 czerwca 1915 roku 23-letni pilot [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) Reginald Warneford zaatakował nad [Gandawą](https://pl.wikipedia.org/wiki/Gandawa) niemiecki sterowiec armii LZ 37. Bomby zrzucone z jednomiejscowego jednopłatowca [Morane-Saulnier L](https://pl.wikipedia.org/wiki/Morane-Saulnier_L) zapaliły wodór w [sterowcu](/slownik/sterowiec), który runął w płomieniach na zabudowania [Sint-Amandsberg](https://pl.wikipedia.org/wiki/Sint-Amandsberg), podmiejskiej gminy Gandawy. Tej samej nocy dwaj inni lotnicy brytyjskiej marynarki zniszczyli w hangarze w [Evere](https://pl.wikipedia.org/wiki/Evere) pod Brukselą sterowiec [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), który tydzień wcześniej [jako pierwszy zbombardował Londyn](/pierwszy-nalot-sterowca-na-londyn).
 
 ## Noc nad Flandrią
 

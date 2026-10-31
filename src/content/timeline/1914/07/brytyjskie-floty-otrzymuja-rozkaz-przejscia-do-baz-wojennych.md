@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-28 lipca 1914 roku, w dniu wypowiedzenia przez Austro-Węgry wojny Serbii, brytyjska Admiralicja podjęła kolejną decyzję przygotowującą [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) do wojny. Pierwszy Lord Admiralicji [Winston Churchill](/postacie/winston-churchill) nakazał, by Pierwsza Flota, od dwóch dni utrzymywana w gotowości w Portland, następnego dnia wyruszyła do swojej wojennej bazy [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady).
+28 lipca 1914 roku, w dniu wypowiedzenia przez Austro-Węgry wojny Serbii, brytyjska Admiralicja podjęła kolejną decyzję przygotowującą [Royal Navy](/sily-zbrojne/royal-navy) do wojny. Pierwszy Lord Admiralicji [Winston Churchill](/postacie/winston-churchill) nakazał, by Pierwsza Flota, od dwóch dni utrzymywana w gotowości w Portland, następnego dnia wyruszyła do swojej wojennej bazy [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady).
 
 Churchill działał za zgodą premiera [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith), ale bez szerszej dyskusji w rządzie. Rozkaz był ściśle tajny: cel rejsu znali tylko admirałowie i dowódcy okrętów. Flota miała przepłynąć kanałem [La Manche](https://pl.wikipedia.org/wiki/La_Manche), a przez [Cieśninę Kaletańską](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) przejść nocą, bez świateł, by następnie skierować się na północ. Okręty wyruszyły z Portland 29 lipca, a w nocy z 29 na 30 lipca przepłynęły przez cieśninę.
 

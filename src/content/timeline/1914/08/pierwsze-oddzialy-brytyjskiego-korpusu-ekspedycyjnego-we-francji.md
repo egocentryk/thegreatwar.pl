@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Ówczesne kroniki wojny odnotowują 7 sierpnia 1914 roku jako dzień, w którym na francuskim wybrzeżu wylądowały pierwsze oddziały [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Były to niewielkie grupy wysłane przodem, by przygotować przyjęcie głównych sił. Masowy przerzut armii przez kanał [La Manche](https://pl.wikipedia.org/wiki/La_Manche) rozpoczął się kilka dni później i trwał do połowy sierpnia.
+Ówczesne kroniki wojny odnotowują 7 sierpnia 1914 roku jako dzień, w którym na francuskim wybrzeżu wylądowały pierwsze oddziały [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Były to niewielkie grupy wysłane przodem, by przygotować przyjęcie głównych sił. Masowy przerzut armii przez kanał [La Manche](https://pl.wikipedia.org/wiki/La_Manche) rozpoczął się kilka dni później i trwał do połowy sierpnia.
 
 ## Przygotowania na miejscu
 
@@ -19,7 +19,7 @@ Zanim do Francji mogły przypłynąć dziesiątki tysięcy żołnierzy z końmi,
 
 ## Przeprawa
 
-Przerzut armii był wielką operacją logistyczną, przygotowaną jeszcze przed wojną. Statki kursowały przez kanał dzień i noc, osłaniane przez okręty [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), które strzegły cieśniny przed atakiem niemieckiej floty. Operacja zakończyła się pełnym sukcesem: żaden transportowiec nie został zatopiony, a Niemcy przez długi czas nie zdawali sobie sprawy z jej skali.
+Przerzut armii był wielką operacją logistyczną, przygotowaną jeszcze przed wojną. Statki kursowały przez kanał dzień i noc, osłaniane przez okręty [Royal Navy](/sily-zbrojne/royal-navy), które strzegły cieśniny przed atakiem niemieckiej floty. Operacja zakończyła się pełnym sukcesem: żaden transportowiec nie został zatopiony, a Niemcy przez długi czas nie zdawali sobie sprawy z jej skali.
 
 Główne siły, I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) i II Korpus, przeprawiły się między 12 a 17 sierpnia. 14 sierpnia do Boulogne przybył naczelny dowódca, marszałek [John French](/postacie/john-french). Z portów żołnierzy przewożono koleją w rejon [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) przy granicy belgijskiej, na lewe skrzydło armii francuskiej.
 

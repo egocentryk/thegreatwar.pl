@@ -2,10 +2,10 @@
 title: Czechoslovaks take Kazan
 summary: On 7 August 1918 Vladimir Kappel's detachment and the Czechoslovaks took Kazan after two days of fighting, capturing over half of Russia's gold reserve.
 source: czechoslowacy-zajmuja-kazan
-sourceHash: e370a41d5042793c16421739354e232857dd0b66
+sourceHash: 3718f91c09c772577165decce4c9403f640cdd01
 ---
 
-Before noon on 7 August 1918 the last Red units were driven out of [Kazan](https://pl.wikipedia.org/wiki/Kazań), a large city on the [Volga](https://pl.wikipedia.org/wiki/Wołga). After two days of fighting it had been taken by soldiers of the anti-Bolshevik People's Army of [Komuch](https://pl.wikipedia.org/wiki/Komucz), the Samara government of the Socialist Revolutionaries, and two battalions of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki), supported by armed river steamers. "After a two-day battle on 7 August units of the Samara group of the People's Army and the Czechoslovaks, together with our combat flotilla, took Kazan. The booty cannot be counted; the gold reserve of Russia, 650 million, has been seized," reported Lieutenant-Colonel [Vladimir Kappel](https://pl.wikipedia.org/wiki/Władimir_Kappel). The British chronology of the war records the capture of Kazan by the Czechoslovaks under 14 July, but in mid-July the front was still far from the city, and Kazan fell only at the beginning of August.
+Before noon on 7 August 1918 the last Red units were driven out of [Kazan](https://pl.wikipedia.org/wiki/Kazań), a large city on the [Volga](https://pl.wikipedia.org/wiki/Wołga). After two days of fighting it had been taken by soldiers of the anti-Bolshevik People's Army of [Komuch](https://pl.wikipedia.org/wiki/Komucz), the Samara government of the Socialist Revolutionaries, and two battalions of the [Czechoslovak Legion](/sily-zbrojne/legion-czechoslowacki), supported by armed river steamers. "After a two-day battle on 7 August units of the Samara group of the People's Army and the Czechoslovaks, together with our combat flotilla, took Kazan. The booty cannot be counted; the gold reserve of Russia, 650 million, has been seized," reported Lieutenant-Colonel [Vladimir Kappel](https://pl.wikipedia.org/wiki/Władimir_Kappel). The British chronology of the war records the capture of Kazan by the Czechoslovaks under 14 July, but in mid-July the front was still far from the city, and Kazan fell only at the beginning of August.
 
 ## An expedition against orders
 

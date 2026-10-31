@@ -2,12 +2,12 @@
 title: Austrians retake Stanisławów
 summary: On 8 June 1915 troops of the South Army entered Stanisławów without a fight, abandoned by the retreating Russian 9th Army. The second occupation was over.
 source: austriacy-odbijaja-stanislawow
-sourceHash: 04ae43352e806ec1b931fd8d73f32b2a6ad6458d
+sourceHash: b32c69d9ed526e79a780846c78ced0be15fe54db
 ---
 
 On 8 June 1915 the troops of the Central Powers entered [Stanisławów](https://pl.wikipedia.org/wiki/Iwano-Frankiwsk), one of the largest towns and an important railway junction of Eastern Galicia. The Russians, who had [retaken the town on 4 March](/rosjanie-odbijaja-stanislawow), abandoned it without a fight. This date is given consistently by the Austrian official history, the 1922 Encyclopaedia Britannica and Ukrainian studies of the town's history, according to which the second period of Russian rule in Stanisławów lasted from 4 March to 8 June 1915.
 
-The British chronology speaks of Austrians, but it was the corps of the German general Friedrich von Gerok of the German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) that entered the town. It comprised the German 48th Reserve Division and the Austro-Hungarian 19th Infantry Division. For the inhabitants, however, it meant above all the return of Austrian rule. It was already the fourth time Stanisławów had changed hands since the start of the war: the Russians had taken it at the turn of August and September 1914, and in February 1915 [the Austrians had retaken it for two weeks](/austriacy-zdobywaja-stanislawow).
+The British chronology speaks of Austrians, but it was the corps of the German general Friedrich von Gerok of the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) that entered the town. It comprised the German 48th Reserve Division and the Austro-Hungarian 19th Infantry Division. For the inhabitants, however, it meant above all the return of Austrian rule. It was already the fourth time Stanisławów had changed hands since the start of the war: the Russians had taken it at the turn of August and September 1914, and in February 1915 [the Austrians had retaken it for two weeks](/austriacy-zdobywaja-stanislawow).
 
 ## The march from Kałusz
 

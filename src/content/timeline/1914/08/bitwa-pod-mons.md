@@ -22,7 +22,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Bitwa_pod_Mons_(1914)"
 ---
 
-23 sierpnia 1914 roku pod belgijskim miastem [Mons](https://pl.wikipedia.org/wiki/Mons) [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) stoczył swoją pierwszą bitwę w tej wojnie. Brytyjczycy walczyli w Europie Zachodniej po raz pierwszy od [bitwy pod Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) w 1815 roku, stoczonej zresztą niedaleko stąd. Brytyjska historia oficjalna odnotowała, że dwie dywizje, które poniosły główny ciężar walki, liczyły razem niespełna 36 tysięcy ludzi, niewiele więcej niż cała armia Wellingtona pod Waterloo.
+23 sierpnia 1914 roku pod belgijskim miastem [Mons](https://pl.wikipedia.org/wiki/Mons) [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) stoczył swoją pierwszą bitwę w tej wojnie. Brytyjczycy walczyli w Europie Zachodniej po raz pierwszy od [bitwy pod Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) w 1815 roku, stoczonej zresztą niedaleko stąd. Brytyjska historia oficjalna odnotowała, że dwie dywizje, które poniosły główny ciężar walki, liczyły razem niespełna 36 tysięcy ludzi, niewiele więcej niż cała armia Wellingtona pod Waterloo.
 
 ## Spotkanie z armią Klucka
 

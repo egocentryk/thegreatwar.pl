@@ -2,7 +2,7 @@
 title: Defence of Givenchy
 summary: On 20 December 1914 the Germans blew mines under the Indian Corps' trenches at Givenchy and broke its line. Men from Manchester retook the village that evening.
 source: obrona-givenchy
-sourceHash: 1b2c019d0c9b2641f3ac550966253473e7dfb489
+sourceHash: c33d12938d32c88279bc929ce5d5ad88a45e52a7
 brief:
   - "On 20 December 1914 the Germans attacked the Indian Corps in French Flanders. At about 9 a.m. German mines exploded under the trenches by the village of Givenchy, and infantry with grenades went in to the attack."
   - "The blow fell on troops exhausted by the attacks of 19 December. During the night there was a downpour, the trenches filled with water and the mud-clogged rifles jammed."
@@ -20,7 +20,7 @@ According to German prisoners, the attack had long been planned for 20 December,
 
 ## Mines and grenades
 
-The German mines were small, about 50 kilograms of explosive each, but they went off right under the parapets, at the ends of saps the defenders knew nothing about. According to the British official history ten were blown. On the right of the Sirhind Brigade's sector, one double company of the 1st Battalion, 4th [Gurkha](https://pl.wikipedia.org/wiki/Gurkhowie) Rifles and half a company of the Scottish 1st Battalion, Highland Light Infantry were killed in the explosions or buried in their trenches. A handful of survivors fought on until they were taken prisoner. On the left, similar explosions destroyed several stretches of trench together with their defenders.
+The German mines were small, about 50 kilograms of explosive each, but they went off right under the parapets, at the ends of saps the defenders knew nothing about. According to the British official history ten were blown. On the right of the Sirhind Brigade's sector, one double company of the 1st Battalion, 4th [Gurkha](/sily-zbrojne/gurkhowie) Rifles and half a company of the Scottish 1st Battalion, Highland Light Infantry were killed in the explosions or buried in their trenches. A handful of survivors fought on until they were taken prisoner. On the left, similar explosions destroyed several stretches of trench together with their defenders.
 
 The Germans came through the saps and across the open field in waves, throwing [hand grenades](https://pl.wikipedia.org/wiki/Granat_ręczny). The defenders had few, and those they had were improvised on the spot and in the rain often would not light. The Gurkhas and the Scots fought hand to hand. Captain Rundall of the 4th Gurkhas was killed leading a grenade counter-attack, a day after his younger brother had fallen in the failed attack. Major Bliss of the 1st Gurkhas was killed leading a bayonet charge. At about 1 p.m. the remnants of the Sirhind Brigade fell back as far as the Festubert road. Lieutenant Stewart of the Highland Light Infantry remained in a support trench with a few dozen men and two machine guns, almost cut off from his own side. He held out there for nearly twenty-four hours.
 

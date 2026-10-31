@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 października 1914 roku admirał lord [John Fisher](/postacie/john-fisher) po raz drugi objął stanowisko Pierwszego Lorda Morskiego, najwyższego rangą oficera [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Zastąpił księcia Ludwika Battenberga, który dzień wcześniej [ustąpił pod presją antyniemieckich nastrojów](/ludwik-battenberg-ustepuje). Fisher miał 73 lata, ale londyński „The Times” pisał, że nigdy nie był młodszy ani bardziej energiczny.
+30 października 1914 roku admirał lord [John Fisher](/postacie/john-fisher) po raz drugi objął stanowisko Pierwszego Lorda Morskiego, najwyższego rangą oficera [Royal Navy](/sily-zbrojne/royal-navy). Zastąpił księcia Ludwika Battenberga, który dzień wcześniej [ustąpił pod presją antyniemieckich nastrojów](/ludwik-battenberg-ustepuje). Fisher miał 73 lata, ale londyński „The Times” pisał, że nigdy nie był młodszy ani bardziej energiczny.
 
 ## Twórca nowoczesnej floty
 

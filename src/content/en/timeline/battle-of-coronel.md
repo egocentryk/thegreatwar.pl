@@ -2,7 +2,7 @@
 title: Battle of Coronel
 summary: On 1 November 1914 off Chile Admiral von Spee's squadron sank two British armoured cruisers. Admiral Cradock and about 1,600 sailors were killed.
 source: bitwa-pod-coronelem
-sourceHash: 0b4225c59ea2af15c1f30501728000f1c0dba5ee
+sourceHash: 4da30df524494afdadebdc63924de0a3faa595ba
 ---
 
 On the evening of 1 November 1914, in the Pacific off the coast of central [Chile](https://pl.wikipedia.org/wiki/Chile), the German East Asia Squadron of Vice-Admiral [Maximilian von Spee](/postacie/maximilian-von-spee) clashed with the British force of Rear-Admiral [Christopher Cradock](https://pl.wikipedia.org/wiki/Christopher_Cradock). In less than an hour the Germans sank the armoured cruiser HMS [Good Hope](https://pl.wikipedia.org/wiki/HMS_Good_Hope_(1901)), and later finished off HMS [Monmouth](https://pl.wikipedia.org/wiki/HMS_Monmouth_(1901)). Both ships went down with all hands.
@@ -21,4 +21,4 @@ Among those killed on Good Hope were four Canadian naval midshipmen: Malcolm Can
 
 ## Shock in London
 
-News of the defeat reached Britain a few days later and caused a shock. For the first time in more than a hundred years the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) had lost a battle at sea. The new First Sea Lord, Admiral [John Fisher](/postacie/john-fisher), who had [returned to the Admiralty](/fisher-pierwszym-lordem-morskim) only two days earlier, reacted firmly and sent two battlecruisers from the Grand Fleet against von Spee's squadron. Spee himself had no illusions about the future. His ships had used up a large part of their ammunition at Coronel and could not replenish it, and superior British and Japanese forces were now setting out against him.
+News of the defeat reached Britain a few days later and caused a shock. For the first time in more than a hundred years the [Royal Navy](/sily-zbrojne/royal-navy) had lost a battle at sea. The new First Sea Lord, Admiral [John Fisher](/postacie/john-fisher), who had [returned to the Admiralty](/fisher-pierwszym-lordem-morskim) only two days earlier, reacted firmly and sent two battlecruisers from the Grand Fleet against von Spee's squadron. Spee himself had no illusions about the future. His ships had used up a large part of their ammunition at Coronel and could not replenish it, and superior British and Japanese forces were now setting out against him.

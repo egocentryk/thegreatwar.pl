@@ -2,10 +2,10 @@
 title: Explosion of the battleship Bulwark
 summary: On 26 November 1914 an ammunition explosion tore apart the battleship Bulwark at anchor off Sheerness. About 740 men died; only a dozen or so survived.
 source: eksplozja-pancernika-bulwark
-sourceHash: df777b08b6642b785229434ab66035e46eb9a736
+sourceHash: 5d04bbfa87d994c8a0f80afd14f61c19302912c1
 ---
 
-On the morning of 26 November 1914 the British battleship Bulwark, anchored in the estuary of the [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), a few kilometres west of the port of [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), was torn apart by a huge explosion in her own magazines. The ship sank almost at once. About 740 officers and men were killed, and of the whole crew only a dozen or so survived. It was one of the most tragic disasters in the history of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), and it happened not in battle but at an anchorage deep in home waters.
+On the morning of 26 November 1914 the British battleship Bulwark, anchored in the estuary of the [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), a few kilometres west of the port of [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), was torn apart by a huge explosion in her own magazines. The ship sank almost at once. About 740 officers and men were killed, and of the whole crew only a dozen or so survived. It was one of the most tragic disasters in the history of the [Royal Navy](/sily-zbrojne/royal-navy), and it happened not in battle but at an anchorage deep in home waters.
 
 ## The ship
 

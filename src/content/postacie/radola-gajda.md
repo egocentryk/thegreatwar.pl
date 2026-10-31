@@ -32,7 +32,7 @@ Po wybuchu wojny powołano go do armii austro-węgierskiej, w której służył 
 
 ## Zborów
 
-Na początku 1917 roku wstąpił do czechosłowackiej brygady w armii rosyjskiej. 26 marca objął dowództwo kompanii w 2 Pułku Strzelców. W [bitwie pod Zborowem](/bitwa-pod-zborowem) 2 lipca 1917 roku wyróżnił się tak, że według czeskich biografów w czasie natarcia faktycznie kierował działaniami na całym jego południowym odcinku. Dostał za tę bitwę [Order Świętego Jerzego](https://pl.wikipedia.org/wiki/Order_Świętego_Jerzego_(Imperium_Rosyjskie)) IV klasy i szybko awansował. Gdy po Zborowie brygada rozrosła się w [Korpus Czechosłowacki](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki), Gajda należał do najbardziej obiecujących oficerów. 28 marca 1918 roku, gdy korpus wycofywał się już z Ukrainy przed Niemcami, objął dowództwo 7 Pułku Strzelców Tatrzańskich.
+Na początku 1917 roku wstąpił do czechosłowackiej brygady w armii rosyjskiej. 26 marca objął dowództwo kompanii w 2 Pułku Strzelców. W [bitwie pod Zborowem](/bitwa-pod-zborowem) 2 lipca 1917 roku wyróżnił się tak, że według czeskich biografów w czasie natarcia faktycznie kierował działaniami na całym jego południowym odcinku. Dostał za tę bitwę [Order Świętego Jerzego](https://pl.wikipedia.org/wiki/Order_Świętego_Jerzego_(Imperium_Rosyjskie)) IV klasy i szybko awansował. Gdy po Zborowie brygada rozrosła się w [Korpus Czechosłowacki](/sily-zbrojne/legion-czechoslowacki), Gajda należał do najbardziej obiecujących oficerów. 28 marca 1918 roku, gdy korpus wycofywał się już z Ukrainy przed Niemcami, objął dowództwo 7 Pułku Strzelców Tatrzańskich.
 
 ## Bunt na kolei
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-4 sierpnia 1914 roku, w dniu przystąpienia Wielkiej Brytanii do wojny, wyznaczono dowództwo [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Była to armia przygotowana przed wojną do szybkiego wysłania na kontynent, by wesprzeć Francję w razie niemieckiej agresji.
+4 sierpnia 1914 roku, w dniu przystąpienia Wielkiej Brytanii do wojny, wyznaczono dowództwo [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Była to armia przygotowana przed wojną do szybkiego wysłania na kontynent, by wesprzeć Francję w razie niemieckiej agresji.
 
 Naczelnym dowódcą został marszałek polny sir [John French](/postacie/john-french), doświadczony kawalerzysta, który zasłynął w wojnie burskiej. Szefem sztabu generalnego mianowano generała sir Archibalda Murraya. Za sprawy personalne jako generał adiutant odpowiadał generał sir Nevil Macready, a za zaopatrzenie i transport jako kwatermistrz generalny – generał sir William Robertson.
 

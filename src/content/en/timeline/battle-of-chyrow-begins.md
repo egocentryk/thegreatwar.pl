@@ -2,10 +2,10 @@
 title: Battle of Chyrów begins
 summary: On 13 October 1914 the Austro-Hungarian armies launched a general attack on the Russian Eighth Army at Chyrów and Stary Sambor. A hard battle began.
 source: poczatek-bitwy-pod-chyrowem
-sourceHash: 1fd8649d44f7fa87882e55f0797d69edd7d1a716
+sourceHash: 4d2ec9ba93b9e3df7e3f600f359c95c1998eae4d
 ---
 
-On 13 October 1914 the Austro-Hungarian Second and Third Armies went over to a general attack on the positions of the Russian [Eighth Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) south of Przemyśl. The British chronology of the war dates the start of the Battle of [Chyrów](https://pl.wikipedia.org/wiki/Chyrów) to this day. The first clashes in this sector had been going on since 9–10 October, which is why the Austrian official history begins the battle, which it calls the Battle of Przemyśl and Chyrów, on 10 October.
+On 13 October 1914 the Austro-Hungarian Second and Third Armies went over to a general attack on the positions of the Russian [Eighth Army](/sily-zbrojne/8-armia-rosyjska) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) south of Przemyśl. The British chronology of the war dates the start of the Battle of [Chyrów](https://pl.wikipedia.org/wiki/Chyrów) to this day. The first clashes in this sector had been going on since 9–10 October, which is why the Austrian official history begins the battle, which it calls the Battle of Przemyśl and Chyrów, on 10 October.
 
 ## After the relief of Przemyśl
 

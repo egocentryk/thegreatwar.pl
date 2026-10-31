@@ -2,7 +2,7 @@
 title: First airship raid on London
 summary: In the night of 31 May – 1 June 1915 the German airship LZ 38 bombed east London. Seven people were killed, including children, and 35 were injured.
 source: pierwszy-nalot-sterowca-na-londyn
-sourceHash: 4433bdc105d0a531bb61d71cfe6ee74001438f3b
+sourceHash: 62c3cd6d76a543e7a1ed715bac928453a8d6b6e1
 brief:
   - "Late in the evening of 31 May 1915 the German army airship LZ 38, commanded by Captain Erich Linnarz, bombed the northern and eastern districts of London. It was the first air raid on the British capital."
   - "Emperor Wilhelm II long refused to permit an attack on London, partly because of his relatives in the British royal family. At the beginning of May 1915 he allowed bombing, but only east of the Tower."
@@ -26,7 +26,7 @@ The first victims died in Stoke Newington. An incendiary bomb set fire to the ho
 
 ## A helpless defence
 
-London's defences proved powerless. The searchlights failed to pick up the airship, and the anti-aircraft guns in the city remained silent. Aircraft of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) flew a dozen or so sorties, but only one pilot sighted the airship, and he had to break off the chase because of engine failure. Another aircraft crashed on landing at [Hendon](https://pl.wikipedia.org/wiki/Hendon), and its pilot was killed. LZ 38 returned to Belgium unhindered.
+London's defences proved powerless. The searchlights failed to pick up the airship, and the anti-aircraft guns in the city remained silent. Aircraft of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) flew a dozen or so sorties, but only one pilot sighted the airship, and he had to break off the chase because of engine failure. Another aircraft crashed on landing at [Hendon](https://pl.wikipedia.org/wiki/Hendon), and its pilot was killed. LZ 38 returned to Belgium unhindered.
 
 ## After the raid
 

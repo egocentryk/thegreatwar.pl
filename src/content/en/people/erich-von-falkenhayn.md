@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Burg Belchau, now Białochowo near Graudenz (West Prussia)
 deathPlace: Lindstedt Palace near Potsdam
 source: erich-von-falkenhayn
-sourceHash: 58e25bd85f495a9bdfb60a446dc69cdb3a0919bd
+sourceHash: 92488154ce7c537cdaa1392340ff3a5cad58bbae
 ---
 
 Erich von Falkenhayn led the German army for almost two years, from the defeat on the Marne to August 1916. Earlier than most German generals, he understood that Germany could not defeat all its enemies at once and that only a favourable compromise could end the war. From this conviction grew his strategy of attrition: limited offensives in the east, defence in the west and one great blow that was to break France. That blow was the Battle of Verdun, which consumed hundreds of thousands of men on both sides and brought no decision. After his dismissal Falkenhayn smashed the Romanian army within a few months, but in Palestine he failed to stop the British. To this day he remains one of the most controversial figures of the German high command.
@@ -49,7 +49,7 @@ The final blow was Romania's entry into the war. Falkenhayn believed the Romania
 
 ## Romania
 
-In September 1916 Falkenhayn took command of the new [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) in Transylvania, which Romanian troops had entered. In the [Battle of Hermannstadt](/bitwy/bitwa-pod-sybinem) at the end of September he failed to encircle a Romanian corps as he had intended, but drove the Romanians out of the Hermannstadt basin, and at the beginning of October he beat them [at Kronstadt](/bitwy/bitwa-pod-braszowem). He himself admitted that at critical moments he was saved by the indecision of the Romanian command. The first attempts to cross the Southern Carpathians stalled in the mountains, but in November his troops [broke through the front at Târgu Jiu](/niemcy-przelamuja-front-pod-targu-jiu), [took Craiova](/niemcy-zdobywaja-krajowe) and descended onto the Wallachian plain.
+In September 1916 Falkenhayn took command of the new [Ninth Army](/sily-zbrojne/9-armia-niemiecka) in Transylvania, which Romanian troops had entered. In the [Battle of Hermannstadt](/bitwy/bitwa-pod-sybinem) at the end of September he failed to encircle a Romanian corps as he had intended, but drove the Romanians out of the Hermannstadt basin, and at the beginning of October he beat them [at Kronstadt](/bitwy/bitwa-pod-braszowem). He himself admitted that at critical moments he was saved by the indecision of the Romanian command. The first attempts to cross the Southern Carpathians stalled in the mountains, but in November his troops [broke through the front at Târgu Jiu](/niemcy-przelamuja-front-pod-targu-jiu), [took Craiova](/niemcy-zdobywaja-krajowe) and descended onto the Wallachian plain.
 
 There he cooperated with Mackensen's Danube Army, which had crossed the Danube from Bulgaria. At the beginning of December the two armies smashed a Romanian counter-offensive in the [Battle of the Argeș](/bitwy/bitwa-nad-argesem), and on 6 December they [entered Bucharest](/upadek-bukaresztu). In January 1917 the Germans [took Focșani](/niemcy-zdobywaja-fokszany), and the front settled in Moldavia. The Romanian campaign is regarded as Falkenhayn's finest performance as a commander. The occupied lands supplied the Central Powers with grain and oil, and the Russians had to extend their front far to the south.
 

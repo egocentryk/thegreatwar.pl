@@ -2,10 +2,10 @@
 title: End of the Battle of Krasnystaw
 summary: On 18 July 1915 the Germans held Krasnystaw and the Wieprz bridgehead despite Russian Guards counter-attacks. At night the Russians fell back near the railway.
 source: koniec-bitwy-pod-krasnymstawem
-sourceHash: bfb43054fbc8db82420722b7c428640affe7c729
+sourceHash: 993f654d8d5b4afb405ca6d655f6102af91e381d
 ---
 
-On 18 July 1915 the three-day Battle of [Krasnystaw](https://pl.wikipedia.org/wiki/Krasnystaw) came to an end. Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s German [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)), which [on 16 July had attacked west of the Wieprz](/poczatek-bitwy-pod-krasnymstawem), already had the town in its hands and a bridgehead on the eastern bank of the river. It had not shattered the Russian front, but it had driven so deep into it that on the night of 18–19 July the Russian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) fell back to the next line of defence.
+On 18 July 1915 the three-day Battle of [Krasnystaw](https://pl.wikipedia.org/wiki/Krasnystaw) came to an end. Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s German [Eleventh Army](/sily-zbrojne/11-armia-niemiecka), which [on 16 July had attacked west of the Wieprz](/poczatek-bitwy-pod-krasnymstawem), already had the town in its hands and a bridgehead on the eastern bank of the river. It had not shattered the Russian front, but it had driven so deep into it that on the night of 18–19 July the Russian [Third Army](/sily-zbrojne/3-armia-rosyjska) fell back to the next line of defence.
 
 Krasnystaw itself had probably fallen the evening before. According to the Austrian official history, the Prussian Guard took it on 17 July, and a Russian Guards officer recalled how that day the Germans marched into the deserted town in columns, with a band at their head. The exhausted Russian 52nd Infantry Division, which no longer had artillery support, had withdrawn from it. Some studies, including Polish ones, give 18 July as the date of the town's capture, when the whole of it was already in German hands. The Guard also took, on the eastern bank of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), the village of [Góry](https://pl.wikipedia.org/wiki/Góry_(powiat_krasnostawski)). From this bridgehead it threatened the rear of the Russian positions on the Wolica and Wojsławka rivers, which for two weeks had held up the German and Austrian advance.
 

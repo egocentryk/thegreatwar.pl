@@ -2,14 +2,14 @@
 title: First air patrol over the British retreat
 summary: On 25 August 1914 British airmen patrolled the skies over the retreating army and forced a German aircraft to land. It was one of the first air combats.
 source: pierwszy-lotniczy-patrol-nad-odwrotem-brytyjczykow
-sourceHash: b5066c87b9b2a8b5333768c162899c51172ddd72
+sourceHash: 78e8d6fc5f3ca612346cf2aec7b9966180e1a251
 ---
 
 On 25 August 1914, the second day of the retreat from Mons, aircraft of the British [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) carried out patrol duties over the withdrawing troops for the first time. The British chronology of the war records this day as the first use of aircraft for patrolling. That same day British airmen forced a German aircraft to land.
 
 ## Aircraft in the retreat
 
-The Royal Flying Corps squadrons had flown to France in mid-August (see [Royal Flying Corps flies to France](/royal-flying-corps-przelatuje-do-francji)) and were based near Maubeuge. After the Battle of Mons they had to fall back with the army, changing airfields almost every day. On 24 August they moved to [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis), and on the afternoon of 25 August to [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). Despite the chaos the airmen carried out reconnaissance, following the movements of General [Alexander von Kluck](/postacie/alexander-von-kluck)'s German First Army, which was trying to outflank the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) from the west. Their reports of German columns helped headquarters plan the further retreat.
+The Royal Flying Corps squadrons had flown to France in mid-August (see [Royal Flying Corps flies to France](/royal-flying-corps-przelatuje-do-francji)) and were based near Maubeuge. After the Battle of Mons they had to fall back with the army, changing airfields almost every day. On 24 August they moved to [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis), and on the afternoon of 25 August to [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). Despite the chaos the airmen carried out reconnaissance, following the movements of General [Alexander von Kluck](/postacie/alexander-von-kluck)'s German First Army, which was trying to outflank the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) from the west. Their reports of German columns helped headquarters plan the further retreat.
 
 According to the British chronology, on 25 August aircraft for the first time circled over the withdrawing columns as patrols. They were to watch for threats and to hinder the German reconnaissance machines that were tracking British movements. Protecting one's own troops from enemy airmen later became one of the basic tasks of fighter aviation.
 

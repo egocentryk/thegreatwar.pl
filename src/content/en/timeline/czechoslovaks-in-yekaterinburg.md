@@ -2,10 +2,10 @@
 title: Czechoslovaks in Yekaterinburg
 summary: Around 9–10 November 1918 the Czechoslovaks in Yekaterinburg solemnly celebrated the birth of their state. The legion's regiments received colours.
 source: czechoslowacy-w-jekaterynburgu
-sourceHash: cfe5e5a92f9c70aaa9f6daa8fb308ac53bb72b05
+sourceHash: 9642a35851a7e3eb77c6b90840ef36e0696ce274
 ---
 
-The British chronology of the war records under 9 November 1918 that the Czechoslovak troops in [Yekaterinburg](https://pl.wikipedia.org/wiki/Jekaterynburg) in the Urals "proclaimed national independence". In reality nobody proclaimed anything there. The Czechoslovak state had [come into being in Prague on 28 October](/niepodleglosc-czechoslowacji), and the soldiers of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) in Russia solemnly celebrated its birth. The main ceremony took place in Yekaterinburg, where the regiments of the 2nd Czechoslovak Rifle Division received consecrated colours. The British consul in Yekaterinburg, Thomas Preston, sent out invitations to it for 9 November, but according to the Czechoslovak Legionaries' Association the ceremony took place on 10 November.
+The British chronology of the war records under 9 November 1918 that the Czechoslovak troops in [Yekaterinburg](https://pl.wikipedia.org/wiki/Jekaterynburg) in the Urals "proclaimed national independence". In reality nobody proclaimed anything there. The Czechoslovak state had [come into being in Prague on 28 October](/niepodleglosc-czechoslowacji), and the soldiers of the [Czechoslovak Legion](/sily-zbrojne/legion-czechoslowacki) in Russia solemnly celebrated its birth. The main ceremony took place in Yekaterinburg, where the regiments of the 2nd Czechoslovak Rifle Division received consecrated colours. The British consul in Yekaterinburg, Thomas Preston, sent out invitations to it for 9 November, but according to the Czechoslovak Legionaries' Association the ceremony took place on 10 November.
 
 ## The ceremony on the square
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 3 na 4 września 1917 roku niemieckie bombowce Gotha po raz pierwszy zaatakowały Anglię po zmroku. Ich celem była główna baza [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) nad rzeką [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)) w [Chatham](https://pl.wikipedia.org/wiki/Chatham_(Wielka_Brytania)). Dwie bomby spadły na szklany dach sali ćwiczeń w koszarach marynarki, gdzie w hamakach spało kilkuset marynarzy. Zginęło około 130 z nich. Według brytyjskiego historyka nalotów Iana Castle'a żadne inne trafienie w jeden cel nie spowodowało w Wielkiej Brytanii w czasie tej wojny tylu ofiar.
+W nocy z 3 na 4 września 1917 roku niemieckie bombowce Gotha po raz pierwszy zaatakowały Anglię po zmroku. Ich celem była główna baza [Royal Navy](/sily-zbrojne/royal-navy) nad rzeką [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)) w [Chatham](https://pl.wikipedia.org/wiki/Chatham_(Wielka_Brytania)). Dwie bomby spadły na szklany dach sali ćwiczeń w koszarach marynarki, gdzie w hamakach spało kilkuset marynarzy. Zginęło około 130 z nich. Według brytyjskiego historyka nalotów Iana Castle'a żadne inne trafienie w jeden cel nie spowodowało w Wielkiej Brytanii w czasie tej wojny tylu ofiar.
 
 ## Pierwsza nocna wyprawa Gothów
 

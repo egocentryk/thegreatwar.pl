@@ -5,7 +5,7 @@ role: Commander of the North-Western Front (1914–1915) and the Northern Front 
 country: Russia
 deathPlace: Pyatigorsk
 source: nikolaj-ruzski
-sourceHash: 3a26d2dedb92fd94bb6289c40cbf26389d997b22
+sourceHash: a75cc4045d5f1dd1fc33e45c0545fa5c336d34d4
 ---
 
 General of Infantry Nikolai Ruzsky was one of the most important Russian commanders of the First World War, although his fame came early and faded quickly. In August 1914 his 3rd Army routed the Austrians east of Lviv and took the city, which made him a hero in Russia, "the conqueror of Galicia". In the autumn he took over the North-Western Front and fought the Germans in the Kingdom of Poland, at Warsaw, Łódź and on the Bzura, and in the winter of 1915 his troops suffered defeat in Masuria. In poor health, he gave up and regained command several times. He went down in history, however, above all as commander of the Northern Front, at whose headquarters in Pskov Tsar [Nicholas II](/postacie/mikolaj-ii) renounced the throne in March 1917.
@@ -18,7 +18,7 @@ He spent most of his career on staffs, for many years in the Kiev Military Distr
 
 ## 1914: Lviv
 
-At the outbreak of war Ruzsky took command of the [3rd Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)), which was to strike from Volhynia into eastern Galicia. When the Austrians threw their main forces north, against the Russian 4th and 5th Armies at Kraśnik and Komarów, Ruzsky, together with the 8th Army of [Aleksei Brusilov](/postacie/aleksiej-brusilow), pushed towards Lviv against the weaker Austro-Hungarian 3rd Army. At the end of August the two armies routed it [on the Złota Lipa and the Gnila Lipa](/bitwy/bitwa-nad-zlota-lipa), and on 3 September the Russians [entered Lviv](/rosjanie-zdobywaja-lwow), which the Austrians had abandoned without a fight. In the following days Ruzsky's army wheeled north-west and took part in the fighting [at Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska), which decided the Austro-Hungarian retreat behind the San.
+At the outbreak of war Ruzsky took command of the [3rd Army](/sily-zbrojne/3-armia-rosyjska), which was to strike from Volhynia into eastern Galicia. When the Austrians threw their main forces north, against the Russian 4th and 5th Armies at Kraśnik and Komarów, Ruzsky, together with the 8th Army of [Aleksei Brusilov](/postacie/aleksiej-brusilow), pushed towards Lviv against the weaker Austro-Hungarian 3rd Army. At the end of August the two armies routed it [on the Złota Lipa and the Gnila Lipa](/bitwy/bitwa-nad-zlota-lipa), and on 3 September the Russians [entered Lviv](/rosjanie-zdobywaja-lwow), which the Austrians had abandoned without a fight. In the following days Ruzsky's army wheeled north-west and took part in the fighting [at Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska), which decided the Austro-Hungarian retreat behind the San.
 
 For Lviv Ruzsky received the Order of St George, 4th and 3rd class, at the same time, and soon afterwards the 2nd class for the [Battle of Galicia](/bitwy/bitwa-galicyjska) as a whole. He was one of only a handful of Russian commanders in this war to receive such a high decoration. The press and the opposition in the Duma praised him to the skies. Critics, however, including some Russian military historians, accused him of stubbornly pressing on towards Lviv even though news was arriving of the difficulties of the armies fighting in the north, and of advancing too cautiously, so that the beaten Austrian army managed to slip away from him.
 

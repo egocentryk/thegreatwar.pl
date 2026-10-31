@@ -2,7 +2,7 @@
 title: Battle of the Sambre begins
 summary: On 4 November 1918 the British crossed the Sambre–Oise Canal and Mormal Forest in fog, and the New Zealanders took Le Quesnoy. Wilfred Owen fell at Ors.
 source: poczatek-bitwy-nad-sambra
-sourceHash: f647cb0afd38dae401a666496fb6e839fb155d46
+sourceHash: 11ab7e2beed38e42a3a36252e555a9e48a81b950
 brief:
   - "At dawn on 4 November 1918 the British Fourth, Third and First Armies set off on the last great battle of the war, against the German second Hermann position resting on the Sambre–Oise Canal, the Sambre and Mormal Forest."
   - "In the fog sappers threw footbridges and bridges on petrol tins across the canal. The crossing at Ors went worst, and in that fighting the 25-year-old poet Wilfred Owen of the 2nd Battalion, Manchester Regiment, was killed."
@@ -31,7 +31,7 @@ Further north the 25th Division attacked towards [Landrecies](https://pl.wikiped
 
 ## The forest and the fortress: 9.00–16.00
 
-At about eight air observers reported that the Germans were withdrawing their guns. When the fog lifted at nine, [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force) aircraft appeared over the battlefield, strafing the retreating infantry and artillery from low level. At 9.37 the 1st Division moved on from its bridgehead, almost unopposed, and at 10.45 the last German post at Ors fell, the fortified, water-girt post of Le Donjon. At about 11.00 the 25th and 50th Divisions stood on the objectives set by the army. At Landrecies the British crossed on rafts made of petrol tins, and by 12.45 a battalion of the Worcestershire Regiment was already clearing the town. Here the 75th Brigade took 838 prisoners and 27 guns. A few Germans even surrendered to two supply tanks, which they took for fighting tanks.
+At about eight air observers reported that the Germans were withdrawing their guns. When the fog lifted at nine, [Royal Air Force](/sily-zbrojne/royal-air-force) aircraft appeared over the battlefield, strafing the retreating infantry and artillery from low level. At 9.37 the 1st Division moved on from its bridgehead, almost unopposed, and at 10.45 the last German post at Ors fell, the fortified, water-girt post of Le Donjon. At about 11.00 the 25th and 50th Divisions stood on the objectives set by the army. At Landrecies the British crossed on rafts made of petrol tins, and by 12.45 a battalion of the Worcestershire Regiment was already clearing the town. Here the 75th Brigade took 838 prisoners and 27 guns. A few Germans even surrendered to two supply tanks, which they took for fighting tanks.
 
 In Mormal Forest and in the orchards in front of it resistance was uneven. A battalion of the Duke of Wellington's Regiment of the 17th Division lost 13 of its 15 officers and 226 of its 583 men in the hedges in front of the forest. Elsewhere the Germans surrendered in large numbers, and their machine-gunners ran before the infantry could reach them. The village of [Preux-au-Bois](https://pl.wikipedia.org/wiki/Preux-au-Bois), set in a maze of orchards, held out longest: only at noon did the 18th Division take it with the help of tanks, surrounding it on all sides. After that the battalions moved along the forest rides in column, almost unhindered.
 

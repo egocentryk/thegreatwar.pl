@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 lutego 1916 roku generał porucznik sir Nevil Macready przestał być generałem adiutantem [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Z czwórki generałów, którzy w sierpniu 1914 roku stanęli na czele [dowództwa korpusu](/sztab-brytyjskiego-korpusu-ekspedycyjnego), tylko on wciąż zajmował wtedy swoje pierwotne stanowisko. Odchodził jednak nie w niełasce, lecz na awans: tego samego dnia przejął w Londynie od generała [Henry'ego Sclatera](/dymisja-henryego-sclatera) urząd generała adiutanta całej armii.
+21 lutego 1916 roku generał porucznik sir Nevil Macready przestał być generałem adiutantem [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Z czwórki generałów, którzy w sierpniu 1914 roku stanęli na czele [dowództwa korpusu](/sztab-brytyjskiego-korpusu-ekspedycyjnego), tylko on wciąż zajmował wtedy swoje pierwotne stanowisko. Odchodził jednak nie w niełasce, lecz na awans: tego samego dnia przejął w Londynie od generała [Henry'ego Sclatera](/dymisja-henryego-sclatera) urząd generała adiutanta całej armii.
 
 ## Sztabowiec od spraw ludzi
 

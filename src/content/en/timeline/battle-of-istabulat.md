@@ -2,7 +2,7 @@
 title: Battle of Istabulat
 summary: On 21–22 April 1917 Cobbe's I Corps, in heat and a sandstorm, drove the Turkish XVIII Corps from Istabulat on the Tigris. The road to Samarra lay open.
 source: bitwa-pod-istabulat
-sourceHash: b80541b265cbda7ea4caa3162894e0d11a54ed0d
+sourceHash: 1ae8e63b2a861ef0494d9f5593b45901f40b09ea
 ---
 
 On 21 and 22 April 1917 at Istabulat, on the right bank of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) about 20 kilometres by rail south of [Samarra](https://pl.wikipedia.org/wiki/Samarra), the troops of General Alexander Cobbe fought one of the hardest battles of the spring campaign in Mesopotamia. The British chronology of the war records it under 22 April as the *Action of Istabulat*, lasting two days. Facing the British was the Turkish XVIII Corps, which since the [action at Mushahida](/potyczka-pod-muszahida) had been falling back along the Baghdad–Samarra railway. This time the Turks decided to stand. Prisoners later stated that the Istabulat position was to have been their main line of defence on the Tigris for the whole hot summer.
@@ -15,7 +15,7 @@ General [Frederick Stanley Maude](/postacie/frederick-maude) believed that the t
 
 ## The first day
 
-At 5.05 a.m. on 21 April, after a few minutes' bombardment, the 21st Brigade of the 7th Division went into the attack. The Scottish 2nd Battalion, Black Watch, advanced on the left along the canal, and the 1st/8th [Gurkha](https://pl.wikipedia.org/wiki/Gurkhowie) Rifles straight at Redoubt A. Before seven the Gurkhas took the redoubt, and then, together with the Scots, broke into Redoubt B. A Turkish counter-attack drove them out of it, but the men rallied and retook its eastern part, which they held until evening. South of the canal the 92nd Punjabis took Istabulat station, and the 19th Brigade, with the 1st Battalion, [Seaforth Highlanders](https://pl.wikipedia.org/wiki/Seaforth_Highlanders), and the 28th Punjabis, crossed three kilometres of open plain under heavy fire and before 7.30 a.m. took about 700 metres of Turkish trenches.
+At 5.05 a.m. on 21 April, after a few minutes' bombardment, the 21st Brigade of the 7th Division went into the attack. The Scottish 2nd Battalion, Black Watch, advanced on the left along the canal, and the 1st/8th [Gurkha](/sily-zbrojne/gurkhowie) Rifles straight at Redoubt A. Before seven the Gurkhas took the redoubt, and then, together with the Scots, broke into Redoubt B. A Turkish counter-attack drove them out of it, but the men rallied and retook its eastern part, which they held until evening. South of the canal the 92nd Punjabis took Istabulat station, and the 19th Brigade, with the 1st Battalion, [Seaforth Highlanders](https://pl.wikipedia.org/wiki/Seaforth_Highlanders), and the 28th Punjabis, crossed three kilometres of open plain under heavy fire and before 7.30 a.m. took about 700 metres of Turkish trenches.
 
 Beyond that they could not get. All day the Turkish artillery shelled the British infantry accurately, and in the heat the airmen could not point out the batteries to their own guns. The commanders of the Black Watch and the Gurkhas judged that a fresh assault from the redoubt had no chance. The British official and historian Arnold Wilson wrote that a sandstorm was raging and that the fighting was as fierce as any earlier in the campaign. Almost all units suffered from thirst.
 

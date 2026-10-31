@@ -9,10 +9,10 @@ sides:
     commanders: [Grigore Crăiniceanu]
 result: Central Powers victory. The Romanian 2nd Army abandoned Brașov and the Burzenland and withdrew to the frontier passes, but was not destroyed.
 source: bitwa-pod-braszowem
-sourceHash: 811597f111a80cecf00cd9290fc76d19c8e5a96a
+sourceHash: da5aa69c67eb9fe1f9d030ce2ce79b5e807b0f1e
 ---
 
-The Battle of Brașov was the last major battle of the campaign in Transylvania. From 7 to 9 October 1916 the German [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), made up of German and Austro-Hungarian divisions, fought for [Brașov](https://pl.wikipedia.org/wiki/Braszów) and the plain of the [Burzenland](https://pl.wikipedia.org/wiki/Burzenland) against the Romanian 2nd Army of General Grigore Crăiniceanu. The German 187th Division and the Hungarian 51st Honvéd Division broke into the town and took it after two days of street fighting, while a Romanian counter-attack on their flank from the direction of Sânpetru failed. During the night of 8–9 October the Romanians withdrew towards the Carpathian passes. Brașov, which they had occupied without a fight [on 29 August](/rumuni-zajmuja-braszow), returned to Austro-Hungarian hands after some 40 days.
+The Battle of Brașov was the last major battle of the campaign in Transylvania. From 7 to 9 October 1916 the German [9th Army](/sily-zbrojne/9-armia-niemiecka) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), made up of German and Austro-Hungarian divisions, fought for [Brașov](https://pl.wikipedia.org/wiki/Braszów) and the plain of the [Burzenland](https://pl.wikipedia.org/wiki/Burzenland) against the Romanian 2nd Army of General Grigore Crăiniceanu. The German 187th Division and the Hungarian 51st Honvéd Division broke into the town and took it after two days of street fighting, while a Romanian counter-attack on their flank from the direction of Sânpetru failed. During the night of 8–9 October the Romanians withdrew towards the Carpathian passes. Brașov, which they had occupied without a fight [on 29 August](/rumuni-zajmuja-braszow), returned to Austro-Hungarian hands after some 40 days.
 
 ## Name and dates
 

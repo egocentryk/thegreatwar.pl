@@ -2,7 +2,7 @@
 title: Sinking of the battleship Formidable
 summary: Before dawn on 1 January 1915 the German U-24 torpedoed the British battleship Formidable in the English Channel. 547 sailors were killed.
 source: zatoniecie-pancernika-formidable
-sourceHash: f9b5496cb84082b4b89f4c2b8a4b2c922e331451
+sourceHash: 96120199cf1981bf6112336ef9944fbceb3274ea
 ---
 
 In the early hours of 1 January 1915 the German submarine [U-24](https://pl.wikipedia.org/wiki/SM_U-24_(1913)) torpedoed the British battleship Formidable in the western part of the [English Channel](https://pl.wikipedia.org/wiki/La_Manche). The ship sank before dawn, and 547 officers and men went down with her. She was the first British battleship sunk by a submarine in this war.
@@ -27,6 +27,6 @@ The people of Lyme Regis are convinced that this very story gave [Eric Knight](h
 
 ## Consequences
 
-The sinking of Formidable was a painful lesson for the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). As early as September, after the [sinking of the cruisers Aboukir, Hogue and Cressy](/zatoniecie-aboukir-hogue-i-cressy), it had become clear that large ships without a destroyer screen were easy targets for U-boats. Vice-Admiral Bayly was criticised for leading the squadron slowly, on a regular course and without an escort in waters where submarines were expected. He was removed from command of the Channel Fleet and made President of the Royal Naval College at Greenwich, although he was ultimately cleared of the charge of negligence. In the summer of 1915 he took command on the coast of Ireland, at Queenstown.
+The sinking of Formidable was a painful lesson for the [Royal Navy](/sily-zbrojne/royal-navy). As early as September, after the [sinking of the cruisers Aboukir, Hogue and Cressy](/zatoniecie-aboukir-hogue-i-cressy), it had become clear that large ships without a destroyer screen were easy targets for U-boats. Vice-Admiral Bayly was criticised for leading the squadron slowly, on a regular course and without an escort in waters where submarines were expected. He was removed from command of the Channel Fleet and made President of the Royal Naval College at Greenwich, although he was ultimately cleared of the charge of negligence. In the summer of 1915 he took command on the coast of Ireland, at Queenstown.
 
 Schneider commanded U-24 for another year and a half. On 19 August 1915 he sank the British passenger liner Arabic, which caused a serious crisis in relations between Germany and the United States. He died on 13 October 1917, when during a storm a wave washed him off the conning tower of the submarine U-87. The wreck of Formidable lies on the bed of the English Channel and is protected as a war grave.

@@ -9,10 +9,10 @@ sides:
     commanders: [Alexander von Kluck]
 result: German tactical victory. The British inflicted heavy losses but were forced to withdraw.
 source: bitwa-pod-mons
-sourceHash: 307ca8cf623d7e9b26a337a62c8034d241f21e56
+sourceHash: 4e0cabc0d1148e11d5b98cabb57eacb39d0b0082
 ---
 
-The [Battle of Mons](https://pl.wikipedia.org/wiki/Bitwa_pod_Mons_(1914)), fought on 23 August 1914, was the first battle of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) in the First World War. It was the first time the British had fought in Western Europe since the [Battle of Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) in 1815, which had in fact been fought not far away. For one day two British divisions held the line of the Mons–Condé Canal against the far more numerous German First Army. They inflicted heavy losses on it, but in the evening, when it became clear that their French neighbours were falling back, they had to begin a retreat.
+The [Battle of Mons](https://pl.wikipedia.org/wiki/Bitwa_pod_Mons_(1914)), fought on 23 August 1914, was the first battle of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) in the First World War. It was the first time the British had fought in Western Europe since the [Battle of Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) in 1815, which had in fact been fought not far away. For one day two British divisions held the line of the Mons–Condé Canal against the far more numerous German First Army. They inflicted heavy losses on it, but in the evening, when it became clear that their French neighbours were falling back, they had to begin a retreat.
 
 ## Name and dates
 

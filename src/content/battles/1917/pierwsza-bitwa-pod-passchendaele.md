@@ -47,7 +47,7 @@ Główne natarcie należało do II Korpusu Anzac z 2 Armii. 3 Dywizja Australijs
 
 Na prawym skrzydle 12 Brygada 4 Dywizji Australijskiej z I Korpusu Anzac miała zająć siodło wzgórza Keiberg przy przekopie kolejowym i osłaniać flankę. Na północy 5 Armia osłaniała natarcie brygadami 9 Dywizji (Szkockiej) i 18 Dywizji z XVIII Korpusu oraz 4 i 17 Dywizji i Dywizji Gwardii z XIV Korpusu, które miały podejść pod las [Houthulst](https://pl.wikipedia.org/wiki/Houthulst).
 
-Naprzeciw stały te same dywizje [4 Armii](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin), które 9 października odparły Brytyjczyków, w tym 195 Dywizja pod Passchendaele i 233 Dywizja pod Keiberg. Na odcinku Poelcappelle stała świeża 18 Dywizja. Niemcy spodziewali się natarcia. W nocy z 11 na 12 października ich artyleria ostrzelała drogi podejścia gazem w ramach zaplanowanej od dawna akcji „Mondnacht”. Na odcinku australijskim silny wiatr rozwiewał gaz, ale gwardziści na północy ponieśli od niego dotkliwe straty.
+Naprzeciw stały te same dywizje [4 Armii](/sily-zbrojne/4-armia-niemiecka) generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin), które 9 października odparły Brytyjczyków, w tym 195 Dywizja pod Passchendaele i 233 Dywizja pod Keiberg. Na odcinku Poelcappelle stała świeża 18 Dywizja. Niemcy spodziewali się natarcia. W nocy z 11 na 12 października ich artyleria ostrzelała drogi podejścia gazem w ramach zaplanowanej od dawna akcji „Mondnacht”. Na odcinku australijskim silny wiatr rozwiewał gaz, ale gwardziści na północy ponieśli od niego dotkliwe straty.
 
 ## Przebieg
 

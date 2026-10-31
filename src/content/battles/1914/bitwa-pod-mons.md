@@ -22,7 +22,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Angels_of_Mons"
 ---
 
-[Bitwa pod Mons](https://pl.wikipedia.org/wiki/Bitwa_pod_Mons_(1914)), stoczona 23 sierpnia 1914 roku, była pierwszą bitwą [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) w I wojnie światowej. Brytyjczycy walczyli w Europie Zachodniej po raz pierwszy od [bitwy pod Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) w 1815 roku, stoczonej zresztą niedaleko stąd. Przez jeden dzień dwie brytyjskie dywizje broniły linii kanału Mons–Condé przed znacznie liczniejszą niemiecką 1 Armią. Zadały jej ciężkie straty, ale wieczorem, gdy okazało się, że francuscy sąsiedzi się cofają, musiały rozpocząć odwrót.
+[Bitwa pod Mons](https://pl.wikipedia.org/wiki/Bitwa_pod_Mons_(1914)), stoczona 23 sierpnia 1914 roku, była pierwszą bitwą [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) w I wojnie światowej. Brytyjczycy walczyli w Europie Zachodniej po raz pierwszy od [bitwy pod Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) w 1815 roku, stoczonej zresztą niedaleko stąd. Przez jeden dzień dwie brytyjskie dywizje broniły linii kanału Mons–Condé przed znacznie liczniejszą niemiecką 1 Armią. Zadały jej ciężkie straty, ale wieczorem, gdy okazało się, że francuscy sąsiedzi się cofają, musiały rozpocząć odwrót.
 
 ## Nazwa i daty
 

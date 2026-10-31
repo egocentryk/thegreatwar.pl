@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Na początku października 1914 roku brytyjska [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) po raz pierwszy w tej wojnie postawiła pole minowe na otwartym morzu. Miny zagrodziły południowy skraj [Morza Północnego](https://pl.wikipedia.org/wiki/Morze_Północne), na wschód od mielizn Goodwin Sands u wybrzeży hrabstwa Kent, w stronę wybrzeża Belgii. Wielka Brytania, która od sierpnia oskarżała Niemców o stawianie min na otwartym morzu, sięgnęła w ten sposób po tę samą broń, choć w odróżnieniu od nich publicznie ogłosiła, który obszar jest zaminowany.
+Na początku października 1914 roku brytyjska [Royal Navy](/sily-zbrojne/royal-navy) po raz pierwszy w tej wojnie postawiła pole minowe na otwartym morzu. Miny zagrodziły południowy skraj [Morza Północnego](https://pl.wikipedia.org/wiki/Morze_Północne), na wschód od mielizn Goodwin Sands u wybrzeży hrabstwa Kent, w stronę wybrzeża Belgii. Wielka Brytania, która od sierpnia oskarżała Niemców o stawianie min na otwartym morzu, sięgnęła w ten sposób po tę samą broń, choć w odróżnieniu od nich publicznie ogłosiła, który obszar jest zaminowany.
 
 ## Odpowiedź na niemieckie miny i okręty podwodne
 

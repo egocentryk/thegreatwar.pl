@@ -17,7 +17,7 @@ Brytyjska chronologia wojny notuje pod 23 marca 1915 roku wcielenie do służby 
 
 [Ostrzał fortów u wejścia do Dardaneli](/poczatek-ataku-floty-na-dardanele), rozpoczęty 19 lutego, pokazał, jak trudno okrętom trafiać w cele, których nie widzą. Tureckie baterie ukryte za wzgórzami były niewidoczne z morza, a z odległości kilkunastu kilometrów nie dało się dobrze obserwować upadku pocisków. Wodnosamoloty z transportowca Ark Royal pomagały tylko w ograniczonym stopniu, bo nie zawsze mogły wystartować i utrzymać się nad celem. Według relacji około 8 marca z Dardaneli przyszło do Londynu zapotrzebowanie na balon obserwacyjny.
 
-[Balony na uwięzi](https://pl.wikipedia.org/wiki/Balon_obserwacyjny) w kształcie wydłużonego „latawca”, zwane od niemieckiej nazwy Drachen, były dużo stabilniejsze w wietrze niż dawne balony kuliste. Używali ich już Niemcy, Francuzi i Belgowie. [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) dopiero organizował pierwszy oddział balonowy i nie miał własnego sprzętu. Jednego z oficerów wysłano więc do Paryża, skąd przywiózł pożyczony od Francuzów balon wraz z wyciągarką.
+[Balony na uwięzi](https://pl.wikipedia.org/wiki/Balon_obserwacyjny) w kształcie wydłużonego „latawca”, zwane od niemieckiej nazwy Drachen, były dużo stabilniejsze w wietrze niż dawne balony kuliste. Używali ich już Niemcy, Francuzi i Belgowie. [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) dopiero organizował pierwszy oddział balonowy i nie miał własnego sprzętu. Jednego z oficerów wysłano więc do Paryża, skąd przywiózł pożyczony od Francuzów balon wraz z wyciągarką.
 
 ## Frachtowiec przerobiony w kilka dni
 

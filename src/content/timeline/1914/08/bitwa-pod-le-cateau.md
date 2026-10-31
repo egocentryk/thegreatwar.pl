@@ -18,7 +18,7 @@ brief:
   - "Niemiecki pościg stracił impet. Wielu historyków uważa, że bitwa uratowała Korpus Ekspedycyjny przed rozbiciem, choć French później obwiniał Smith-Dorriena o nieposłuszeństwo."
 ---
 
-26 sierpnia 1914 roku pod [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis) w północnej Francji brytyjski II Korpus generała Horace'a Smith-Dorriena stoczył całodzienną bitwę z niemiecką 1 Armią. Trzy dni po [bitwie pod Mons](/bitwy/bitwa-pod-mons) Brytyjczycy znów stanęli do walki, tym razem wbrew woli naczelnego dowództwa. Był to jeden z najkrwawszych dni w dziejach [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) w 1914 roku.
+26 sierpnia 1914 roku pod [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis) w północnej Francji brytyjski II Korpus generała Horace'a Smith-Dorriena stoczył całodzienną bitwę z niemiecką 1 Armią. Trzy dni po [bitwie pod Mons](/bitwy/bitwa-pod-mons) Brytyjczycy znów stanęli do walki, tym razem wbrew woli naczelnego dowództwa. Był to jeden z najkrwawszych dni w dziejach [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) w 1914 roku.
 
 ## Odwrót spod Mons
 

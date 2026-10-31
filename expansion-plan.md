@@ -491,9 +491,12 @@ The top 50 by kind:
    haskie, deklaracja londyńska, iperyt, karabin Lewis, hiszpanka.
 7. **"Siły zbrojne" pilot:** 2026-10-31, Royal Flying Corps, Grand Fleet,
    Flota Pełnomorska, 177 links (24,297 → 24,120; §52). Waiting for the
-   owner's verdict. Next: Royal Navy, RNAS, RAF, BEF (the glossary entry
-   points to it), Korpus Czechosłowacki, the German 9th, 11th, 4th armies
-   and Armia Południowa, the Russian 3rd and 8th armies, Gurkhowie.
+   owner's verdict: approved.
+8. **"Siły zbrojne" batch 2:** 2026-10-31, twelve forces (Royal Navy,
+   RNAS, RAF, BEF, the German 9th, 11th, 4th armies, Armia Południowa, the
+   Russian 3rd and 8th armies, Legion Czechosłowacki, Gurkhowie), 375 links
+   (24,120 → 23,745; §53). Left: places (~45), glossary batch 2, people and
+   single articles (Persja, the Paris conference).
 
 ### The plan
 

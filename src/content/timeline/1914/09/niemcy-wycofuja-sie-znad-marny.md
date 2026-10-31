@@ -24,7 +24,7 @@ brief:
 
 Trzy dni wcześniej, [6 września](/poczatek-bitwy-nad-marna), Francuzi i Brytyjczycy przeszli do kontrofensywy na całym froncie od Paryża po Verdun. Najgroźniejsze dla Niemców okazało się uderzenie na zachodnim skrzydle. Francuska 6 Armia generała Michela-Josepha Maunoury'ego zaatakowała od strony Paryża we flankę 1 Armii nad rzeką Ourcq. Kluck, by odeprzeć to natarcie, zabierał kolejne korpusy znad Marny i przerzucał je na północny zachód, [nad Ourcq](/bitwy/bitwa-nad-ourcq). Radził sobie tam dobrze i zaczął nawet zagrażać lewemu skrzydłu Maunoury'ego, ale zapłacił za to wysoką cenę.
 
-Między jego 1 Armią a 2 Armią Bülowa otworzyła się luka szerokości około 40–50 kilometrów. Osłaniały ją tylko korpusy kawalerii i kilka batalionów strzelców. Od południa wchodził w nią [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), a obok niego lewe skrzydło francuskiej 5 Armii generała [Louisa Franchet d'Espéreya](/postacie/louis-franchet-d-esperey). Posuwały się ostrożnie, ale każdy ich krok zagrażał rozcięciu niemieckiego frontu na dwie części.
+Między jego 1 Armią a 2 Armią Bülowa otworzyła się luka szerokości około 40–50 kilometrów. Osłaniały ją tylko korpusy kawalerii i kilka batalionów strzelców. Od południa wchodził w nią [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), a obok niego lewe skrzydło francuskiej 5 Armii generała [Louisa Franchet d'Espéreya](/postacie/louis-franchet-d-esperey). Posuwały się ostrożnie, ale każdy ich krok zagrażał rozcięciu niemieckiego frontu na dwie części.
 
 ## Moltke w Luksemburgu
 

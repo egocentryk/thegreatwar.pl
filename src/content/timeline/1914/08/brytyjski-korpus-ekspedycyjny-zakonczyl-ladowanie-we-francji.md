@@ -11,11 +11,11 @@ milestone: false
 draft: false
 ---
 
-16 sierpnia 1914 roku zakończyło się lądowanie pierwotnego [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) we Francji. Na kontynent przeprawiły się cztery dywizje piechoty i dywizja kawalerii wraz z artylerią, taborami i zaopatrzeniem. Informację o zakończeniu przeprawy podano do publicznej wiadomości dopiero 18 sierpnia, by nie ujawniać przeciwnikowi ruchów wojsk.
+16 sierpnia 1914 roku zakończyło się lądowanie pierwotnego [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) we Francji. Na kontynent przeprawiły się cztery dywizje piechoty i dywizja kawalerii wraz z artylerią, taborami i zaopatrzeniem. Informację o zakończeniu przeprawy podano do publicznej wiadomości dopiero 18 sierpnia, by nie ujawniać przeciwnikowi ruchów wojsk.
 
 ## Operacja bez strat
 
-Przerzut armii przez kanał La Manche był jedną z największych operacji transportowych tamtych czasów. Statki wypływały głównie z Southampton i przybijały do Hawru, Rouen i Boulogne. Przeprawę osłaniały okręty [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), a nad kanałem patrolowało lotnictwo marynarki. Żaden transportowiec nie został zatopiony ani zaatakowany. Niemcy przez długi czas nie wiedzieli nawet, gdzie i kiedy Brytyjczycy przybyli na kontynent.
+Przerzut armii przez kanał La Manche był jedną z największych operacji transportowych tamtych czasów. Statki wypływały głównie z Southampton i przybijały do Hawru, Rouen i Boulogne. Przeprawę osłaniały okręty [Royal Navy](/sily-zbrojne/royal-navy), a nad kanałem patrolowało lotnictwo marynarki. Żaden transportowiec nie został zatopiony ani zaatakowany. Niemcy przez długi czas nie wiedzieli nawet, gdzie i kiedy Brytyjczycy przybyli na kontynent.
 
 ## Na lewym skrzydle Francuzów
 

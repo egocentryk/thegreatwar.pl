@@ -9,7 +9,7 @@ sides:
     commanders: [Hubert von Rebeur-Paschwitz]
 result: British victory. The German-Turkish ships sank the monitors Raglan and M28, but Breslau sank on mines, and the badly damaged Goeben lay aground in the Dardanelles for almost a week.
 source: bitwa-pod-imbros
-sourceHash: 250efabda2eea8f5486bfa8bccac9f3e605419cf
+sourceHash: 02e8a658e6f71505b5560d2ee39c2922bca5b9e9
 ---
 
 The Battle of Imbros was the last sortie of the battlecruiser [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) and the light cruiser [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau) out of the [Dardanelles](/miejsca/dardanele). Since 1914 both ships had sailed under the Ottoman flag as Yavuz Sultan Selim and Midilli, but they still had German crews and a German commander. On the morning of 20 January 1918 they surprised British ships at anchor off the island of [Imbros](https://pl.wikipedia.org/wiki/Imroz) and within roughly half an hour sank two [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)). An hour later, however, they ran into British minefields they knew nothing about. Breslau sank with most of her crew, and Goeben, struck by several mines, struggled back into the strait and ran aground. The sortie, which was meant to show that the Turkish fleet was still dangerous, cost it both of its most valuable ships.
@@ -42,7 +42,7 @@ Turkish destroyers came out to rescue the survivors, but Lizard and Tigress drov
 
 ## Goeben under the bombs
 
-Over the following days British naval aviation (the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service)), supported by Royal Flying Corps aircraft from Salonika and by the Greeks, bombed the immobilised ship without a break. Mist, low cloud and heavy anti-aircraft fire hampered the attacks. According to the British air history about 15 tons of bombs were dropped in all, but they weighed at most 112 pounds and could not penetrate a battlecruiser's armour. Only a few hits were recorded. An attempt to shell Goeben from a monitor on the evening of 24 January came to nothing because of mist. Two seaplanes adapted for dropping torpedoes reached Mudros on 25 January, but did not manage to take off in time.
+Over the following days British naval aviation (the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service)), supported by Royal Flying Corps aircraft from Salonika and by the Greeks, bombed the immobilised ship without a break. Mist, low cloud and heavy anti-aircraft fire hampered the attacks. According to the British air history about 15 tons of bombs were dropped in all, but they weighed at most 112 pounds and could not penetrate a battlecruiser's armour. Only a few hits were recorded. An attempt to shell Goeben from a monitor on the evening of 24 January came to nothing because of mist. Two seaplanes adapted for dropping torpedoes reached Mudros on 25 January, but did not manage to take off in time.
 
 On the afternoon of 26 January the old Turkish battleship Turgut Reis pulled Goeben off the shoal, and the ship returned to Constantinople. The British did not learn of this at once. On the night of 27–28 January the submarine [E14](https://pl.wikipedia.org/wiki/HMS_E14) entered the strait to torpedo the cruiser. She no longer found her, and on the way back she was sunk by Turkish batteries. Her commander, Lieutenant-Commander Geoffrey White, was killed and was posthumously awarded the [Victoria Cross](/slownik/krzyz-wiktorii).
 

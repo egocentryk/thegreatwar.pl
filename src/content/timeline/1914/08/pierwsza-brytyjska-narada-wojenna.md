@@ -18,7 +18,7 @@ W naradzie wzięli udział między innymi minister spraw zagranicznych [Edward G
 
 ## Gdzie wysłać armię
 
-Najważniejszym pytaniem było, gdzie i kiedy wysłać [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Przedwojenne uzgodnienia z Francją przewidywały, że Brytyjczycy skoncentrują się na lewym skrzydle armii francuskiej, w rejonie [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) przy granicy belgijskiej. French rozważał jednak wysłanie wojsk do [Antwerpii](/miejsca/antwerpia), by wspólnie z Belgami działać na skrzydle Niemców. Haig ostrzegał przed pochopnym wysłaniem całej niewielkiej armii zawodowej i opowiadał się za jej rozbudową.
+Najważniejszym pytaniem było, gdzie i kiedy wysłać [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Przedwojenne uzgodnienia z Francją przewidywały, że Brytyjczycy skoncentrują się na lewym skrzydle armii francuskiej, w rejonie [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) przy granicy belgijskiej. French rozważał jednak wysłanie wojsk do [Antwerpii](/miejsca/antwerpia), by wspólnie z Belgami działać na skrzydle Niemców. Haig ostrzegał przed pochopnym wysłaniem całej niewielkiej armii zawodowej i opowiadał się za jej rozbudową.
 
 Najbardziej dalekowzroczny okazał się Kitchener. W przeciwieństwie do większości uczestników narady przewidywał, że wojna potrwa latami, a Wielka Brytania będzie potrzebowała armii liczącej miliony żołnierzy. Obawiał się też, że korpus skoncentrowany pod Maubeuge znajdzie się na drodze głównego niemieckiego uderzenia.
 

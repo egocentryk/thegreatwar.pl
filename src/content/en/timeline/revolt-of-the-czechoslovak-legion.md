@@ -2,10 +2,10 @@
 title: Revolt of the Czechoslovak Legion
 summary: On 25 May 1918 Trotsky ordered the Czechoslovaks travelling on the Trans-Siberian to Vladivostok disarmed. The legionaries took up arms and seized stations.
 source: bunt-legionu-czechoslowackiego
-sourceHash: 5f2c5f9e0a966baee85d4ea2ac4dd1d4db1f0d35
+sourceHash: 6339435d1068b5e5d475d497ecd56ef5369893b3
 ---
 
-On 25 May 1918 the People's Commissar for Military Affairs, [Leon Trotsky](/postacie/lew-trocki), sent a telegram to all the soviets along the railway line from [Penza](https://pl.wikipedia.org/wiki/Penza) to [Omsk](https://pl.wikipedia.org/wiki/Omsk). In it he ordered, under threat of severe punishment, the disarming of the soldiers of the [Czechoslovak Corps](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki), who were travelling across Russia to Vladivostok in order to sail from there to France. "Every Czechoslovak found armed on the railway line is to be shot on the spot," the order read. That same day the first fighting broke out at stations in Siberia and the Urals. The Czechoslovaks, scattered in several dozen trains over thousands of kilometres, did not give up their weapons and within a few days had taken control of the most important sections of the [Trans-Siberian Railway](https://pl.wikipedia.org/wiki/Kolej_Transsyberyjska). The revolt of a legion that only wanted to leave Russia became one of the turning points of the civil war.
+On 25 May 1918 the People's Commissar for Military Affairs, [Leon Trotsky](/postacie/lew-trocki), sent a telegram to all the soviets along the railway line from [Penza](https://pl.wikipedia.org/wiki/Penza) to [Omsk](https://pl.wikipedia.org/wiki/Omsk). In it he ordered, under threat of severe punishment, the disarming of the soldiers of the [Czechoslovak Corps](/sily-zbrojne/legion-czechoslowacki), who were travelling across Russia to Vladivostok in order to sail from there to France. "Every Czechoslovak found armed on the railway line is to be shot on the spot," the order read. That same day the first fighting broke out at stations in Siberia and the Urals. The Czechoslovaks, scattered in several dozen trains over thousands of kilometres, did not give up their weapons and within a few days had taken control of the most important sections of the [Trans-Siberian Railway](https://pl.wikipedia.org/wiki/Kolej_Transsyberyjska). The revolt of a legion that only wanted to leave Russia became one of the turning points of the civil war.
 
 ## An army without a state
 

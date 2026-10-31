@@ -2,10 +2,10 @@
 title: Hindenburg takes command in the east
 summary: On 18 September 1914 General Paul von Hindenburg took command of the new Ninth Army, formed in Silesia to help Austria-Hungary after its defeat in Galicia.
 source: hindenburg-naczelnym-dowodca-na-wschodzie
-sourceHash: 4a326da92ad360c4cf717849e70b23a2a39cb836
+sourceHash: 300dff88fe39e7583d5d0c2474a08e0e1e0c0e16
 ---
 
-On 18 September 1914 General [Paul von Hindenburg](/postacie/paul-von-hindenburg) took command of the newly forming German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)). The British chronology of the war describes this as his appointment as commander-in-chief of the German armies in the east. Formally, Hindenburg received that title, as Oberbefehlshaber Ost, only on 1 November. In September he commanded the Ninth Army, while the existing Eighth Army in East Prussia was taken over by General [Richard von Schubert](https://pl.wikipedia.org/wiki/Richard_von_Schubert). According to some accounts, however, Hindenburg retained authority over both armies, and in practice it was he and his chief of staff [Erich Ludendorff](/postacie/erich-ludendorff) who decided German operations in the east.
+On 18 September 1914 General [Paul von Hindenburg](/postacie/paul-von-hindenburg) took command of the newly forming German [Ninth Army](/sily-zbrojne/9-armia-niemiecka). The British chronology of the war describes this as his appointment as commander-in-chief of the German armies in the east. Formally, Hindenburg received that title, as Oberbefehlshaber Ost, only on 1 November. In September he commanded the Ninth Army, while the existing Eighth Army in East Prussia was taken over by General [Richard von Schubert](https://pl.wikipedia.org/wiki/Richard_von_Schubert). According to some accounts, however, Hindenburg retained authority over both armies, and in practice it was he and his chief of staff [Erich Ludendorff](/postacie/erich-ludendorff) who decided German operations in the east.
 
 ## An ally in trouble
 

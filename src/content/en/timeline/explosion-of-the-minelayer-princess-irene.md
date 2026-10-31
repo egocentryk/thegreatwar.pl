@@ -2,7 +2,7 @@
 title: Explosion of the minelayer Princess Irene
 summary: On 27 May 1915 the minelayer Princess Irene blew up on the Medway off Sheerness. About 350 people died, including several dozen dockyard workers.
 source: wybuch-stawiacza-min-princess-irene
-sourceHash: 6368f2b2e6a38442f2e5b34327ebc7de1ff8cfb9
+sourceHash: fd31b6f0a649a61c3ad93874fd402c03df2409e9
 ---
 
 At a quarter past eleven in the morning on 27 May 1915, in the estuary of the [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), a few kilometres west of [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), the British auxiliary [minelayer](https://pl.wikipedia.org/wiki/Stawiacz_min) *Princess Irene* blew up. The ship, on whose deck several hundred [mines](/slownik/mina-morska) were being prepared for action, was literally blown to pieces. About 350 people died: almost the entire crew and several dozen civilian workers from the naval dockyard. This was only half a year after the [battleship *Bulwark* had exploded](/eksplozja-pancernika-bulwark) on the same river.
@@ -23,4 +23,4 @@ There were so many victims that their exact number varies from source to source.
 
 At first sabotage was suspected, but the investigation did not confirm these suspicions. The naval court of inquiry concluded that the most likely cause was a faulty primer in one of the mines, which were being primed in haste by men without proper training. It recommended that from then on mines should be primed only by qualified specialists.
 
-The disaster coincided with a black run for the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). That same morning off Gallipoli a German submarine [sank the battleship *Majestic*](/zatopienie-pancernika-majestic). The victims of both disasters on the Medway, *Bulwark* and *Princess Irene*, are commemorated today by shared memorials, among others at Sheerness and Gillingham.
+The disaster coincided with a black run for the [Royal Navy](/sily-zbrojne/royal-navy). That same morning off Gallipoli a German submarine [sank the battleship *Majestic*](/zatopienie-pancernika-majestic). The victims of both disasters on the Medway, *Bulwark* and *Princess Irene*, are commemorated today by shared memorials, among others at Sheerness and Gillingham.

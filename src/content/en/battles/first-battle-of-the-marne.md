@@ -11,7 +11,7 @@ sides:
     commanders: [Helmuth von Moltke, Alexander von Kluck, Karl von Bülow]
 result: Strategic victory for France and the United Kingdom. The Germans withdrew to the Aisne and the plan for a quick defeat of France collapsed.
 source: pierwsza-bitwa-nad-marna
-sourceHash: 07f73bc9031532c276eff8692988ab9fd1f4e836
+sourceHash: 80d3a2c32e83f6adef495587f95bcbaf5da07e31
 brief:
   - "The First Battle of the Marne, fought on 6–12 September 1914 on a front from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. Nearly two million soldiers fought in it."
   - "After two weeks of Allied retreat General Kluck turned to pass east of Paris and exposed his flank. General Joffre ordered a general counter-offensive, and Maunoury's Sixth Army struck on the Ourcq."
@@ -20,7 +20,7 @@ brief:
   - "The German plan for a quick defeat of France collapsed, and Germany was condemned to a long war on two fronts. The French called the battle the \"Miracle of the Marne\"."
 ---
 
-The [First Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), fought in September 1914 on a front some 200 kilometres long, from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. After two weeks of retreat, the French armies and the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) went over to the counter-offensive and forced the German armies to fall back to the Aisne. The German plan to defeat France in a few weeks collapsed, and the war in the west changed its character.
+The [First Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), fought in September 1914 on a front some 200 kilometres long, from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. After two weeks of retreat, the French armies and the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) went over to the counter-offensive and forced the German armies to fall back to the Aisne. The German plan to defeat France in a few weeks collapsed, and the war in the west changed its character.
 
 Altogether nearly two million soldiers fought on both sides. The battle was not a single clash but a series of connected battles, fought simultaneously by more than a dozen armies. The most important took place on the river Ourcq, in the wooded valleys between the Marne and the Grand Morin, in the marshes of Saint-Gond, around [Vitry-le-François](https://pl.wikipedia.org/wiki/Vitry-le-François) and west of Verdun. Linked to the Battle of the Marne is also the simultaneous [defence of the heights before Nancy](/bitwy/bitwa-o-grand-couronne), where the French repelled the attack of the Bavarian army.
 

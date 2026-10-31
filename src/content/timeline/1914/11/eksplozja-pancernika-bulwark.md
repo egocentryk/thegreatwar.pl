@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rano 26 listopada 1914 roku brytyjski pancernik Bulwark, zakotwiczony w ujściu rzeki [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), kilka kilometrów na zachód od portu [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), został rozerwany przez potężną eksplozję we własnych komorach amunicyjnych. Okręt zatonął niemal natychmiast. Zginęło około 740 oficerów i marynarzy, a z całej załogi ocalało tylko kilkunastu ludzi. Była to jedna z najtragiczniejszych katastrof w historii [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), do której doszło nie w bitwie, lecz na kotwicowisku w głębi własnego kraju.
+Rano 26 listopada 1914 roku brytyjski pancernik Bulwark, zakotwiczony w ujściu rzeki [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)), kilka kilometrów na zachód od portu [Sheerness](https://pl.wikipedia.org/wiki/Sheerness), został rozerwany przez potężną eksplozję we własnych komorach amunicyjnych. Okręt zatonął niemal natychmiast. Zginęło około 740 oficerów i marynarzy, a z całej załogi ocalało tylko kilkunastu ludzi. Była to jedna z najtragiczniejszych katastrof w historii [Royal Navy](/sily-zbrojne/royal-navy), do której doszło nie w bitwie, lecz na kotwicowisku w głębi własnego kraju.
 
 ## Okręt
 

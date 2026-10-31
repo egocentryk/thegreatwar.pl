@@ -2,14 +2,14 @@
 title: First Indian troops land at Marseille
 summary: On 26 September 1914 the first units of Indian Expeditionary Force "A" landed at Marseille. A month later they were already fighting in Flanders.
 source: korpus-indyjski-laduje-w-marsylii
-sourceHash: afb10e8c3c2ce657b68232f248c5f0f21eda3752
+sourceHash: b0d507bdc805c6a364cfb2e976817da6ee31ed27
 ---
 
 On 26 September 1914 the first transports carrying soldiers of Indian Expeditionary Force "A" put into [Marseille](https://pl.wikipedia.org/wiki/Marsylia). Onto the French quayside came the brigades of the Lahore Division, which a week earlier had [sailed from Egypt](/korpus-indyjski-wyplywa-z-egiptu-do-marsylii). They were the first troops of the Indian Army to set foot on French soil in this war.
 
 ## Welcome in Marseille
 
-France was waiting for every soldier. After the Battle of the Marne the front was moving north, and both sides were short of reserves. The people of Marseille turned out in crowds to greet the [sepoys](https://pl.wikipedia.org/wiki/Sipajowie), the [Gurkhas](https://pl.wikipedia.org/wiki/Gurkhowie) and the soldiers of the British battalions that formed part of the Indian brigades. According to accounts from those days they were showered in the streets with flowers, fruit and cigarettes. For many French people it was their first contact with soldiers from distant India.
+France was waiting for every soldier. After the Battle of the Marne the front was moving north, and both sides were short of reserves. The people of Marseille turned out in crowds to greet the [sepoys](https://pl.wikipedia.org/wiki/Sipajowie), the [Gurkhas](/sily-zbrojne/gurkhowie) and the soldiers of the British battalions that formed part of the Indian brigades. According to accounts from those days they were showered in the streets with flowers, fruit and cigarettes. For many French people it was their first contact with soldiers from distant India.
 
 The division arrived without part of its forces. The Sirhind Brigade remained in Egypt for the time being to guard the [Suez Canal](/miejsca/kanal-sueski), and rejoined the division only in December. Unloading the successive transports took several days, which is why some accounts give 30 September as the date of the corps' arrival.
 

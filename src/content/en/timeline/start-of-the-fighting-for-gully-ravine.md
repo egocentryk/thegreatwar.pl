@@ -2,7 +2,7 @@
 title: Start of the fighting for Gully Ravine
 summary: On 28 June 1915 British troops and Gurkhas at Helles took five lines of Turkish trenches by Gully Ravine. A Scottish brigade alongside lost half its men.
 source: poczatek-walk-o-wawoz-gully
-sourceHash: 3eb4d513baf4c3413c27d619a2bc695bb32d7040
+sourceHash: f6e7bf8e33f093be5892ba503ca05d286d76d006
 ---
 
 At 11 a.m. on 28 June 1915 British infantry went into the attack on the western flank of the Helles front on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. The objectives were the Turkish trenches on both sides of Gully Ravine, a deep gully running along the Aegean coast: on Gully Spur between the ravine and the sea, and on Fir Tree Spur on the other side of the gully. It was the second of a series of limited attacks with which the commanders at Helles hoped to approach Krithia step by step, after [the third attack on the village](/trzeci-atak-na-kritie) on 4 June had gained only a few hundred metres of ground.
@@ -13,7 +13,7 @@ On that day the attack across the whole width of the front had collapsed, becaus
 
 ## Success by the sea
 
-On a hot, windless morning the bombardment began at 9 a.m. At 10.45 a.m. a battalion of the Border Regiment took the Boomerang Redoubt on the edge of the ravine in a swift attack, capturing a hundred prisoners. A quarter of an hour later the rest went forward. On Gully Spur the bombardment was so powerful that the first two lines of Turkish trenches were reduced to rubble and their defenders were dead or wounded. The 87th Brigade occupied them without difficulty. Behind it the 2nd Battalion, Royal Fusiliers, took two further lines by noon, and the [Gurkhas](https://pl.wikipedia.org/wiki/Gurkhowie), advancing along the coastal cliffs, seized a headland above the sea, later named Fusilier Bluff. Five lines of Turkish trenches on Gully Spur passed into British hands.
+On a hot, windless morning the bombardment began at 9 a.m. At 10.45 a.m. a battalion of the Border Regiment took the Boomerang Redoubt on the edge of the ravine in a swift attack, capturing a hundred prisoners. A quarter of an hour later the rest went forward. On Gully Spur the bombardment was so powerful that the first two lines of Turkish trenches were reduced to rubble and their defenders were dead or wounded. The 87th Brigade occupied them without difficulty. Behind it the 2nd Battalion, Royal Fusiliers, took two further lines by noon, and the [Gurkhas](/sily-zbrojne/gurkhowie), advancing along the coastal cliffs, seized a headland above the sea, later named Fusilier Bluff. Five lines of Turkish trenches on Gully Spur passed into British hands.
 
 ## Defeat on Fir Tree Spur
 

@@ -16,7 +16,7 @@ draft: false
 
 ## Twierdza pozostawiona sama sobie
 
-Maubeuge leżała na głównej drodze niemieckiej inwazji. Kilka dni wcześniej w jej pobliżu zbierał się [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), zanim wyruszył pod Mons. Po klęskach pod Mons i Charleroi Brytyjczycy i francuska 5 Armia wycofywali się jednak na południe. Marszałek John French nie chciał zamknąć swoich żołnierzy w twierdzy, bo, jak wspominał, obawiał się, że podzielą los armii francuskiej zamkniętej w Metzu w 1870 roku. Brytyjskie kolumny ominęły więc Maubeuge i maszerowały dalej, w stronę Le Cateau.
+Maubeuge leżała na głównej drodze niemieckiej inwazji. Kilka dni wcześniej w jej pobliżu zbierał się [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), zanim wyruszył pod Mons. Po klęskach pod Mons i Charleroi Brytyjczycy i francuska 5 Armia wycofywali się jednak na południe. Marszałek John French nie chciał zamknąć swoich żołnierzy w twierdzy, bo, jak wspominał, obawiał się, że podzielą los armii francuskiej zamkniętej w Metzu w 1870 roku. Brytyjskie kolumny ominęły więc Maubeuge i maszerowały dalej, w stronę Le Cateau.
 
 Twierdza została sama. Jej załoga liczyła według różnych źródeł około 45–50 tysięcy ludzi, w dużej części żołnierzy starszych roczników z oddziałów terytorialnych. Dowodził nią gubernator, generał Joseph Fournier. Sześć głównych fortów, zbudowanych w większości w latach 80. XIX wieku, nie było przygotowanych na ostrzał z najcięższych dział oblężniczych.
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Leberecht Maass, Franz von Hipper]
 result: British victory. The Germans lost three light cruisers and a torpedo boat, the British not a single ship.
 source: bitwa-w-zatoce-helgolandzkiej
-sourceHash: 47de3347ff36da2f96016149cf55a92c63bf3e53
+sourceHash: ca02e9a44765a83c38ca3b3f159bde2ca675fdde
 ---
 
-The [Battle of Heligoland Bight](https://pl.wikipedia.org/wiki/Bitwa_koło_Helgolandu_(1914)), also called the First Battle of Heligoland, was fought on 28 August 1914 off the north-west coast of Germany. It was the first major clash of the British [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) and the German [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) in the First World War. The British sank three German light cruisers and a torpedo boat without losing a single ship themselves.
+The [Battle of Heligoland Bight](https://pl.wikipedia.org/wiki/Bitwa_koło_Helgolandu_(1914)), also called the First Battle of Heligoland, was fought on 28 August 1914 off the north-west coast of Germany. It was the first major clash of the British [Royal Navy](/sily-zbrojne/royal-navy) and the German [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) in the First World War. The British sank three German light cruisers and a torpedo boat without losing a single ship themselves.
 
 ## A war without a battle
 

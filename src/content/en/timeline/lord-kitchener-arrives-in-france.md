@@ -2,10 +2,10 @@
 title: Lord Kitchener arrives in France
 summary: On 1 September 1914 Lord Kitchener met Field Marshal Sir John French in Paris and stopped the plan to withdraw the British from the front behind the Seine.
 source: kitchener-przybywa-do-francji
-sourceHash: ec21390a18ec6878add6dd929ac0674645c11f81
+sourceHash: 47010689045eeeff3c4d27da673b7f0469c0ff14
 ---
 
-On 1 September 1914 the British Secretary of State for War, Field Marshal Lord [Herbert Kitchener](/postacie/horatio-kitchener), arrived in France to speak in person with the commander of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), Field Marshal [Sir John French](/postacie/john-french). The meeting at the British Embassy in Paris was one of the most important conversations of the first weeks of the war. It settled that the British would remain at the front alongside the French.
+On 1 September 1914 the British Secretary of State for War, Field Marshal Lord [Herbert Kitchener](/postacie/horatio-kitchener), arrived in France to speak in person with the commander of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), Field Marshal [Sir John French](/postacie/john-french). The meeting at the British Embassy in Paris was one of the most important conversations of the first weeks of the war. It settled that the British would remain at the front alongside the French.
 
 ## The plan to retreat behind the Seine
 

@@ -2,7 +2,7 @@
 title: British occupy Mafia Island
 summary: In January 1915 the British took the German island of Mafia off the Rufiji delta. It became a base against the cruiser Königsberg hidden in the delta.
 source: brytyjczycy-zajmuja-wyspe-mafia
-sourceHash: 46e50c0fe39b310a57f2847406d9628288e7eaed
+sourceHash: 123eac4b36bc2eef7144fb9a2381dde9f0df9bd4
 ---
 
 The British chronology of the war records under 12 January 1915 the occupation by the British of [Mafia](https://pl.wikipedia.org/wiki/Mafia_(wyspa)) island, part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). According to the war diary of the British units, the landing force went ashore as early as 10 January, and the main fight took place the following day. The date of 12 January probably corresponds to the surrender of the island's German authorities or to the day on which news of it arrived.
@@ -21,4 +21,4 @@ The island was defended by only three Germans, 15 [askari](/slownik/askarysi) po
 
 That same day the British flag was raised over the island's main settlement, Kilindoni, and the German civil authorities surrendered the island. According to one account, Lieutenant Schiller's wife dressed the wounds of British soldiers before her husband was found. On 13 January a company of Indian infantry took over the garrison of the island, and the askari of the King's African Rifles sailed north, to the area of [Jasin](/brytyjczycy-zajmuja-jasin), where heavy fighting soon took place.
 
-Mafia became the British forward base on the coast of the German colony. From there agents and scouts were sent ashore into the Rufiji delta. An airstrip for the aircraft of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) was also laid out on the island. In July 1915 machines flying from it directed the fire of the two monitors that finally put *Königsberg* out of action.
+Mafia became the British forward base on the coast of the German colony. From there agents and scouts were sent ashore into the Rufiji delta. An airstrip for the aircraft of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) was also laid out on the island. In July 1915 machines flying from it directed the fire of the two monitors that finally put *Königsberg* out of action.

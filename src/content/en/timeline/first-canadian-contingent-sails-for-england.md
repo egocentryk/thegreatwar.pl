@@ -2,7 +2,7 @@
 title: First Canadian contingent sails for England
 summary: On 3 October 1914 a convoy carrying over 30,000 Canadians sailed from Gaspé Bay for England. The first contingent from Newfoundland joined them.
 source: kanadyjczycy-wyplywaja-do-anglii
-sourceHash: a9a68ea4be50203a9f01e5751d9ee238f437aabc
+sourceHash: 23e0c908399df7a8e6e48259ab50c8f47d217f3e
 ---
 
 On the afternoon of 3 October 1914 a great convoy set out for Europe from the bay off the town of [Gaspé](https://pl.wikipedia.org/wiki/Gaspé) in Quebec. Some 30 transports (sources give between 30 and 32) carried the first contingent of the Canadian Expeditionary Force: according to various figures, between 31,000 and 33,000 soldiers and about 7,000 horses. It was the largest military convoy that had ever sailed from Canada.
@@ -15,7 +15,7 @@ At the end of September the soldiers, horses and equipment were taken to the por
 
 ## Across the Atlantic
 
-The ships sailed in three columns, escorted by cruisers of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). The next day, off the coast of [Newfoundland](https://pl.wikipedia.org/wiki/Dominium_Nowej_Fundlandii), they were joined by the steamer *Florizel* carrying the first contingent of the Newfoundland Regiment. On board were 537 volunteers, known as the "First Five Hundred" or the "Blue Puttees", because for lack of khaki cloth they wore blue puttees.
+The ships sailed in three columns, escorted by cruisers of the [Royal Navy](/sily-zbrojne/royal-navy). The next day, off the coast of [Newfoundland](https://pl.wikipedia.org/wiki/Dominium_Nowej_Fundlandii), they were joined by the steamer *Florizel* carrying the first contingent of the Newfoundland Regiment. On board were 537 volunteers, known as the "First Five Hundred" or the "Blue Puttees", because for lack of khaki cloth they wore blue puttees.
 
 The convoy was originally to put in at Southampton, but for fear of German submarines it was diverted to [Plymouth](https://pl.wikipedia.org/wiki/Plymouth). The ships arrived there on 14 October. The inhabitants welcomed the Canadians with great enthusiasm.
 

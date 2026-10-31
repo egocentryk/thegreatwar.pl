@@ -17,7 +17,7 @@ tags: [Niemcy, Rosja, Królestwo Polskie, Paul von Hindenburg]
 milestone: false
 ---
 
-Bitwa nad Bzurą, w niemieckich i brytyjskich opracowaniach nazywana bitwą pod Łowiczem i Sannikami, była ostatnim etapem jesiennej kampanii w środkowej części [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Rozegrała się od końca listopada do połowy grudnia 1914 roku na północnym skrzydle frontu, między [Wisłą](https://pl.wikipedia.org/wiki/Wisła) a [Łowiczem](https://pl.wikipedia.org/wiki/Łowicz). Niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), wzmocniona korpusami przerzuconymi z frontu zachodniego, nacierała tu na rosyjską [1 Armię](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)). Po ponad dwóch tygodniach ciężkich walk Rosjanie opuścili Łowicz i cofnęli się za dolną [Bzurę](https://pl.wikipedia.org/wiki/Bzura), gdzie front zastygł na wiele miesięcy.
+Bitwa nad Bzurą, w niemieckich i brytyjskich opracowaniach nazywana bitwą pod Łowiczem i Sannikami, była ostatnim etapem jesiennej kampanii w środkowej części [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Rozegrała się od końca listopada do połowy grudnia 1914 roku na północnym skrzydle frontu, między [Wisłą](https://pl.wikipedia.org/wiki/Wisła) a [Łowiczem](https://pl.wikipedia.org/wiki/Łowicz). Niemiecka [9 Armia](/sily-zbrojne/9-armia-niemiecka), wzmocniona korpusami przerzuconymi z frontu zachodniego, nacierała tu na rosyjską [1 Armię](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)). Po ponad dwóch tygodniach ciężkich walk Rosjanie opuścili Łowicz i cofnęli się za dolną [Bzurę](https://pl.wikipedia.org/wiki/Bzura), gdzie front zastygł na wiele miesięcy.
 
 ## Nazwa i daty
 

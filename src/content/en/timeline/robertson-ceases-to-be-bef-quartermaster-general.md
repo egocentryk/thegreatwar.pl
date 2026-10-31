@@ -2,10 +2,10 @@
 title: Robertson ceases to be BEF quartermaster general
 summary: On 24 January 1915 General William Robertson stepped down as Quartermaster General of the BEF to take over as chief of staff from Murray.
 source: robertson-przestaje-byc-kwatermistrzem-bef
-sourceHash: a12556c94d5f2e83e80e05ff82524d70efc7562f
+sourceHash: e68fb4f02ddff308fec44c07778bae7d5dec5b4a
 ---
 
-On 24 January 1915 Lieutenant-General Sir William Robertson ceased to be Quartermaster General of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). The same day [the chief of staff, General Archibald Murray, left](/murray-odchodzi-ze-sztabu-bef), and Robertson was to take his place. He thus ended five months of work during which he had shown himself an efficient and resourceful organiser.
+On 24 January 1915 Lieutenant-General Sir William Robertson ceased to be Quartermaster General of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). The same day [the chief of staff, General Archibald Murray, left](/murray-odchodzi-ze-sztabu-bef), and Robertson was to take his place. He thus ended five months of work during which he had shown himself an efficient and resourceful organiser.
 
 The Quartermaster General was responsible for the supply and transport of the whole force: food, fodder for the horses, ammunition, equipment and movements. Robertson took up the post on 5 August 1914, although under the pre-war plans it was to have gone to Murray. From the start he feared that the force was concentrating too far forward. As early as 22 August, the day before the Battle of Mons, he was considering the possibility of a retreat and had prepared contingency plans.
 

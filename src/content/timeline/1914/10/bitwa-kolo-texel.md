@@ -15,7 +15,7 @@ Po południu 17 października 1914 roku na [Morzu Północnym](https://pl.wikipe
 
 ## Wyprawa z miną na Tamizę
 
-Niemieckie dowództwo chciało wykorzystać to, że [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) była zajęta osłoną przerzutu wojsk i zaopatrzenia przez kanał La Manche. Postanowiono postawić miny u ujścia [Tamizy](https://pl.wikipedia.org/wiki/Tamiza) lub na redzie Downs, w pobliżu głównych szlaków żeglugowych. Zadanie powierzono 7 półflotylli torpedowców: S115, S117, S118 i S119. Były to stare, słabo uzbrojone okręty z początku wieku, które uznano za nieprzydatne do innych zadań i których utratę można było przeboleć. Dowodził nimi z pokładu S119 komandor podporucznik Georg Thiele.
+Niemieckie dowództwo chciało wykorzystać to, że [Royal Navy](/sily-zbrojne/royal-navy) była zajęta osłoną przerzutu wojsk i zaopatrzenia przez kanał La Manche. Postanowiono postawić miny u ujścia [Tamizy](https://pl.wikipedia.org/wiki/Tamiza) lub na redzie Downs, w pobliżu głównych szlaków żeglugowych. Zadanie powierzono 7 półflotylli torpedowców: S115, S117, S118 i S119. Były to stare, słabo uzbrojone okręty z początku wieku, które uznano za nieprzydatne do innych zadań i których utratę można było przeboleć. Dowodził nimi z pokładu S119 komandor podporucznik Georg Thiele.
 
 17 października torpedowce wyszły z ujścia Ems i popłynęły na południowy zachód wzdłuż wybrzeża Holandii. Na ich drodze patrolował tego dnia zespół z [Harwich](https://pl.wikipedia.org/wiki/Harwich): nowy krążownik lekki Undaunted, dowodzony przez komandora Cecila Foxa, oraz niszczyciele Lance, Lennox, Legion i Loyal, większe, szybsze i znacznie silniej uzbrojone od niemieckich jednostek.
 

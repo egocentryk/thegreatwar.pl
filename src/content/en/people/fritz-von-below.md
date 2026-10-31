@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Danzig (Prussia)
 deathPlace: Weimar
 source: fritz-von-below
-sourceHash: 7f005b0a21ad54a1e463d3e93cb6ffe2e33c403b
+sourceHash: e7a15ae55d693f4f41afe852547ee03087fa84fe
 ---
 
 Fritz von Below was the commander on whom the Anglo-French offensive on the Somme fell on 1 July 1916. His 2nd Army, which for two years had held a quiet sector of the front in Picardy, took the most powerful blow the Allies had so far delivered in the west. For almost five months, from July as commander of the new 1st Army north of the river, he conducted a defensive battle in which the Germans lost a few kilometres of ground but prevented a breakthrough. The experience of his army, written up with his chief of staff Fritz von Loßberg, became one of the foundations of new German defensive tactics. He is less well known than his cousin [Otto von Below](/postacie/otto-von-below), the victor of Caporetto, and is often confused with him.
@@ -43,7 +43,7 @@ On 30 January 1917 the 1st Army staff issued a study, "Experience of the 1st Arm
 
 At the beginning of April 1917 Below's staff was moved to Rethel in Champagne, where a French offensive was expected. The 1st Army was inserted between the 7th and 3rd Armies, on the sector from the Aisne at Berry-au-Bac to the Suippe. Below took it over on 16 April, the day the offensive of General [Robert Nivelle](/postacie/robert-nivelle) began. His troops repulsed attacks on the Aisne in the [Second Battle of the Aisne](/bitwy/druga-bitwa-nad-aisne), and from [17 April](/poczatek-bitwy-o-wzgorza) defended the heights at Moronvilliers in the [Third Battle of Champagne](/bitwy/trzecia-bitwa-w-szampanii), where the French took several summits but did not break through the front.
 
-The 1st Army held this sector around Reims for the next year, as part of the army group of [Crown Prince Wilhelm](/postacie/wilhelm-nastepca-tronu). On 27 May 1918 its right wing attacked together with the 7th Army in the [Third Battle of the Aisne](/bitwy/trzecia-bitwa-nad-aisne), but failed to encircle Reims. On 9 June Below was appointed commander of the [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), but he was already seriously ill. The army therefore continued to be commanded in his place by its previous commander, General Johannes von Eben, including in the [Second Battle of the Marne](/bitwy/druga-bitwa-nad-marna). On 7 August Below was placed at the disposal of the army, and after the armistice he left the service.
+The 1st Army held this sector around Reims for the next year, as part of the army group of [Crown Prince Wilhelm](/postacie/wilhelm-nastepca-tronu). On 27 May 1918 its right wing attacked together with the 7th Army in the [Third Battle of the Aisne](/bitwy/trzecia-bitwa-nad-aisne), but failed to encircle Reims. On 9 June Below was appointed commander of the [9th Army](/sily-zbrojne/9-armia-niemiecka), but he was already seriously ill. The army therefore continued to be commanded in his place by its previous commander, General Johannes von Eben, including in the [Second Battle of the Marne](/bitwy/druga-bitwa-nad-marna). On 7 August Below was placed at the disposal of the army, and after the armistice he left the service.
 
 ## Death
 

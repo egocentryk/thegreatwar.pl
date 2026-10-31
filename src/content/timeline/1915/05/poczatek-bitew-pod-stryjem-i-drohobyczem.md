@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 18 maja 1915 roku początek bitew pod Stryjem i Drohobyczem. Kryją się za tym walki niemiecko-austriackiej [Armii Południowej](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen), która po przełamaniu frontu pod Gorlicami zeszła z Karpat na przedgórze i natknęła się na nową rosyjską linię obrony przed [Stryjem](https://pl.wikipedia.org/wiki/Stryj_(miasto)), [Doliną](https://pl.wikipedia.org/wiki/Dolina_(miasto)) i [Drohobyczem](https://pl.wikipedia.org/wiki/Drohobycz). Według austriackiej historii oficjalnej pierwsze natarcia na tę linię ruszyły już 16 maja, a 18 maja był trzecim dniem ataków, które nie przyniosły rozstrzygnięcia.
+Brytyjska chronologia wojny notuje pod 18 maja 1915 roku początek bitew pod Stryjem i Drohobyczem. Kryją się za tym walki niemiecko-austriackiej [Armii Południowej](/sily-zbrojne/armia-poludniowa) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen), która po przełamaniu frontu pod Gorlicami zeszła z Karpat na przedgórze i natknęła się na nową rosyjską linię obrony przed [Stryjem](https://pl.wikipedia.org/wiki/Stryj_(miasto)), [Doliną](https://pl.wikipedia.org/wiki/Dolina_(miasto)) i [Drohobyczem](https://pl.wikipedia.org/wiki/Drohobycz). Według austriackiej historii oficjalnej pierwsze natarcia na tę linię ruszyły już 16 maja, a 18 maja był trzecim dniem ataków, które nie przyniosły rozstrzygnięcia.
 
 ## Z Karpat na przedgórze
 

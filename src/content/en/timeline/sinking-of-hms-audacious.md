@@ -2,10 +2,10 @@
 title: Sinking of HMS Audacious
 summary: On 27 October 1914 the modern British battleship Audacious struck a mine off the north coast of Ireland and sank. The Admiralty kept it secret.
 source: zatoniecie-hms-audacious
-sourceHash: ad0faf9ec0f0e98e3df467026ca78ddf255161ad
+sourceHash: 2ead7ef46a9c4320d26a3cee8a6f37a882ebbf68
 ---
 
-On the morning of 27 October 1914 the British battleship [Audacious](https://pl.wikipedia.org/wiki/HMS_Audacious_(1912)) struck a mine off the north coast of Ireland, near [Tory Island](https://pl.wikipedia.org/wiki/Tory_(wyspa)). Despite a struggle lasting many hours to keep the ship afloat, in the evening she capsized and sank. She was the first [dreadnought](https://pl.wikipedia.org/wiki/Drednot) lost by the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) in this war.
+On the morning of 27 October 1914 the British battleship [Audacious](https://pl.wikipedia.org/wiki/HMS_Audacious_(1912)) struck a mine off the north coast of Ireland, near [Tory Island](https://pl.wikipedia.org/wiki/Tory_(wyspa)). Despite a struggle lasting many hours to keep the ship afloat, in the evening she capsized and sank. She was the first [dreadnought](https://pl.wikipedia.org/wiki/Drednot) lost by the [Royal Navy](/sily-zbrojne/royal-navy) in this war.
 
 ## A mine on the route to Lough Swilly
 

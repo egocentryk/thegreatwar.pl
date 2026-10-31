@@ -19,7 +19,7 @@ Königin Luise nie był okrętem wojennym. Przed wojną pływał jako statek pas
 
 ## Pierwszy strzał
 
-Rano 5 sierpnia podejrzany statek zauważyli rybacy, a następnie okręty brytyjskiej 3 Flotylli Niszczycieli z Harwich, prowadzonej przez krążownik HMS Amphion. Około godziny 11 niszczyciel HMS Lance otworzył ogień. Uważa się, że był to pierwszy strzał oddany przez [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w tej wojnie. Po krótkim pościgu i ostrzale Königin Luise przewrócił się i zatonął wkrótce po południu. Brytyjczycy uratowali kilkudziesięciu członków niemieckiej załogi i przenieśli ich na pokład Amphiona.
+Rano 5 sierpnia podejrzany statek zauważyli rybacy, a następnie okręty brytyjskiej 3 Flotylli Niszczycieli z Harwich, prowadzonej przez krążownik HMS Amphion. Około godziny 11 niszczyciel HMS Lance otworzył ogień. Uważa się, że był to pierwszy strzał oddany przez [Royal Navy](/sily-zbrojne/royal-navy) w tej wojnie. Po krótkim pościgu i ostrzale Königin Luise przewrócił się i zatonął wkrótce po południu. Brytyjczycy uratowali kilkudziesięciu członków niemieckiej załogi i przenieśli ich na pokład Amphiona.
 
 ## Ofiary min
 

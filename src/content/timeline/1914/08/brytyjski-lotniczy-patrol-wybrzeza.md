@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Ówczesne kroniki wojny odnotowują pod datą 10 sierpnia 1914 roku utworzenie brytyjskiego lotniczego patrolu wybrzeża. Dzień wcześniej ruszyły patrole nad kanałem La Manche, chroniące transporty wojsk do Francji. Teraz samoloty i sterowce [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) miały regularnie obserwować wybrzeża Wielkiej Brytanii, zwłaszcza od strony [Morza Północnego](https://pl.wikipedia.org/wiki/Morze_Północne).
+Ówczesne kroniki wojny odnotowują pod datą 10 sierpnia 1914 roku utworzenie brytyjskiego lotniczego patrolu wybrzeża. Dzień wcześniej ruszyły patrole nad kanałem La Manche, chroniące transporty wojsk do Francji. Teraz samoloty i sterowce [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) miały regularnie obserwować wybrzeża Wielkiej Brytanii, zwłaszcza od strony [Morza Północnego](https://pl.wikipedia.org/wiki/Morze_Północne).
 
 ## Stacje lotnicze nad morzem
 

@@ -2,10 +2,10 @@
 title: Formation of the RAF
 summary: On 1 April 1918 the Royal Flying Corps and the Royal Naval Air Service merged to form the Royal Air Force, independent of both the army and the navy.
 source: powstanie-raf
-sourceHash: f629ece2b5adbe6035fed2d38a2558028f135e3f
+sourceHash: 1878946ad7e593dfc0ec6148c445255e16f0643b
 ---
 
-On 1 April 1918 two British air services ceased to exist which since the start of the war had fought side by side but under different commands: the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), the army's air arm, and the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the navy's. That day their men, aircraft, aerodromes and schools passed into a new armed service, the [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force). It answered neither to the War Office nor to the Admiralty, but to the Air Ministry and the Air Council. It is usually regarded as the world's first air force independent of the army and the navy. The [Finnish Air Force](https://pl.wikipedia.org/wiki/Fińskie_Siły_Powietrzne), created on 6 March 1918, also claims precedence, but at the time it had a single aircraft.
+On 1 April 1918 two British air services ceased to exist which since the start of the war had fought side by side but under different commands: the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), the army's air arm, and the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), the navy's. That day their men, aircraft, aerodromes and schools passed into a new armed service, the [Royal Air Force](/sily-zbrojne/royal-air-force). It answered neither to the War Office nor to the Admiralty, but to the Air Ministry and the Air Council. It is usually regarded as the world's first air force independent of the army and the navy. The [Finnish Air Force](https://pl.wikipedia.org/wiki/Fińskie_Siły_Powietrzne), created on 6 March 1918, also claims precedence, but at the time it had a single aircraft.
 
 ## The road to the merger
 

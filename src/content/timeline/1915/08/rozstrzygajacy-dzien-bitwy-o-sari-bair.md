@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-O świcie 9 sierpnia 1915 roku sprzymierzeni po raz trzeci spróbowali zdobyć grzbiet Sari Bair nad zatoką Anzac na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). Główne uderzenie się nie odbyło, bo kolumna, która miała je wykonać, zabłądziła w nocy w jarach. Zaatakował tylko jeden batalion [Gurkhów](https://pl.wikipedia.org/wiki/Gurkhowie) z garstką Brytyjczyków. Na krótko wdarli się na szczyt grzbietu i ujrzeli w dole Dardanele, ale ostrzelani przez ciężkie działa, przez wielu uważane za własne, musieli zejść. Brytyjska historia oficjalna uznała później, że w południe tego dnia ofensywa spod Anzac była już przegrana.
+O świcie 9 sierpnia 1915 roku sprzymierzeni po raz trzeci spróbowali zdobyć grzbiet Sari Bair nad zatoką Anzac na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). Główne uderzenie się nie odbyło, bo kolumna, która miała je wykonać, zabłądziła w nocy w jarach. Zaatakował tylko jeden batalion [Gurkhów](/sily-zbrojne/gurkhowie) z garstką Brytyjczyków. Na krótko wdarli się na szczyt grzbietu i ujrzeli w dole Dardanele, ale ostrzelani przez ciężkie działa, przez wielu uważane za własne, musieli zejść. Brytyjska historia oficjalna uznała później, że w południe tego dnia ofensywa spod Anzac była już przegrana.
 
 ## Dwa dni walk
 

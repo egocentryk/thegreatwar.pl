@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 września 1914 roku u wschodnich wybrzeży Szkocji, w pobliżu przylądka St Abbs Head, niemiecki okręt podwodny [U-21](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) zatopił brytyjski krążownik zwiadowczy HMS Pathfinder. Był to pierwszy okręt wojenny [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) zatopiony przez nieprzyjacielski [okręt podwodny](https://pl.wikipedia.org/wiki/Okręt_podwodny) i zarazem pierwszy w historii okręt zatopiony [torpedą](https://pl.wikipedia.org/wiki/Torpeda) samobieżną wystrzeloną z okrętu podwodnego.
+5 września 1914 roku u wschodnich wybrzeży Szkocji, w pobliżu przylądka St Abbs Head, niemiecki okręt podwodny [U-21](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) zatopił brytyjski krążownik zwiadowczy HMS Pathfinder. Był to pierwszy okręt wojenny [Royal Navy](/sily-zbrojne/royal-navy) zatopiony przez nieprzyjacielski [okręt podwodny](https://pl.wikipedia.org/wiki/Okręt_podwodny) i zarazem pierwszy w historii okręt zatopiony [torpedą](https://pl.wikipedia.org/wiki/Torpeda) samobieżną wystrzeloną z okrętu podwodnego.
 
 ## Polowanie u wejścia do Firth of Forth
 

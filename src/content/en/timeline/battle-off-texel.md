@@ -2,14 +2,14 @@
 title: Battle off Texel
 summary: On 17 October 1914 the British cruiser Undaunted and four destroyers sank four German torpedo boats off Texel that were on their way to lay mines.
 source: bitwa-kolo-texel
-sourceHash: 174535309713a7201937a4e8a3d3e78f884642f1
+sourceHash: 6e62701ead89145d5e5ec2f3db135e3f9b4b4ca4
 ---
 
 On the afternoon of 17 October 1914, in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), a few dozen kilometres south-west of the Dutch island of [Texel](https://pl.wikipedia.org/wiki/Texel), the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) *Undaunted* and four destroyers caught four German [torpedo boats](https://pl.wikipedia.org/wiki/Torpedowiec). In less than three hours all the German vessels went to the bottom. More than 200 German sailors were killed, while the British had only a few wounded.
 
 ## A minelaying sortie to the Thames
 
-The German command wanted to take advantage of the fact that the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) was busy covering the transport of troops and supplies across the English Channel. It was decided to lay mines in the mouth of the [Thames](https://pl.wikipedia.org/wiki/Tamiza) or in the Downs anchorage, near the main shipping lanes. The task was given to the 7th Torpedo Boat Half-Flotilla: *S115*, *S117*, *S118* and *S119*. These were old, lightly armed boats from the turn of the century, considered unsuitable for other tasks and whose loss could be borne. They were commanded from *S119* by Lieutenant Commander Georg Thiele.
+The German command wanted to take advantage of the fact that the [Royal Navy](/sily-zbrojne/royal-navy) was busy covering the transport of troops and supplies across the English Channel. It was decided to lay mines in the mouth of the [Thames](https://pl.wikipedia.org/wiki/Tamiza) or in the Downs anchorage, near the main shipping lanes. The task was given to the 7th Torpedo Boat Half-Flotilla: *S115*, *S117*, *S118* and *S119*. These were old, lightly armed boats from the turn of the century, considered unsuitable for other tasks and whose loss could be borne. They were commanded from *S119* by Lieutenant Commander Georg Thiele.
 
 On 17 October the torpedo boats left the mouth of the Ems and steamed south-west along the Dutch coast. That day a force from [Harwich](https://pl.wikipedia.org/wiki/Harwich) was patrolling across their path: the new light cruiser *Undaunted*, commanded by Captain Cecil Fox, and the destroyers *Lance*, *Lennox*, *Legion* and *Loyal*, which were larger, faster and much more heavily armed than the German boats.
 

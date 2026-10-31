@@ -2,10 +2,10 @@
 title: End of the battle of Gorlice
 summary: On 5 May 1915 the Russian Third Army, shattered at Gorlice and Biecz, was ordered back behind the Wisłoka. Counter-attacks failed and the front broke.
 source: koniec-bitwy-pod-gorlicami
-sourceHash: acca8581b66b8160cbcec59a423cf9b8e78e2c9f
+sourceHash: 1826089cd02175175c313c7f72c68354ff1ddf7a
 ---
 
-Late in the evening of 5 May 1915 the headquarters of the Russian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) issued an order for the whole army to retreat behind the [Wisłoka](https://pl.wikipedia.org/wiki/Wisłoka). Four days after the [breakthrough at Gorlice](/poczatek-bitwy-pod-gorlicami) the Russian defence in the foothills between the Vistula and the Low Beskids had fallen apart, and the new divisions thrown into the fighting straight from the trains had been unable to rebuild it. According to the British chronology, the battle of Gorlice–Tarnów ended on that day. For the Russians it was only the beginning of a long retreat.
+Late in the evening of 5 May 1915 the headquarters of the Russian [Third Army](/sily-zbrojne/3-armia-rosyjska) issued an order for the whole army to retreat behind the [Wisłoka](https://pl.wikipedia.org/wiki/Wisłoka). Four days after the [breakthrough at Gorlice](/poczatek-bitwy-pod-gorlicami) the Russian defence in the foothills between the Vistula and the Low Beskids had fallen apart, and the new divisions thrown into the fighting straight from the trains had been unable to rebuild it. According to the British chronology, the battle of Gorlice–Tarnów ended on that day. For the Russians it was only the beginning of a long retreat.
 
 ## The second and third positions
 

@@ -37,7 +37,7 @@ Wieś Sint-Juliaan leży dziś w gminie Langemark-Poelkapelle. Przed bitwą leż
 
 22 kwietnia Niemcy po raz pierwszy na froncie zachodnim [wypuścili chmurę chloru](/poczatek-drugiej-bitwy-pod-ypres) na dwie francuskie dywizje na północnym skraju łuku Ypres. Francuzi poszli w rozsypkę, a w alianckim froncie otworzyła się wyrwa szeroka na kilka kilometrów. Przez noc i następny dzień [Kanadyjczycy kontratakowali](/poczatek-bitwy-o-grzbiet-gravenstafel) i razem ze ściągniętymi w pośpiechu batalionami brytyjskimi zbudowali nową, cienką linię od swojego dawnego frontu po kanał z Ypres do Yser. Front 1 Dywizji Kanadyjskiej generała Edwina Aldersona wyginał się teraz w ostry klin. Wierzchołek leżał przy skrzyżowaniu w Keerselare, na drodze z Sint-Juliaan do Poelkapelle. Na wschód od niego, ku grzbietowi Gravenstafel, stała 2 Brygada generała [Arthura Curriego](/postacie/arthur-currie), a na zachód, ku Sint-Juliaan, przerzedzona 3 Brygada generała Richarda Turnera.
 
-Niemiecka [4 Armia](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) postanowiła wykorzystać powodzenie i zlikwidować wysunięty łuk. Do natarcia na Kanadyjczyków wyznaczono XXVI Korpus Rezerwowy generała Otto von Hügla, z 51 i 52 Dywizją Rezerwową. Saperzy przygotowali butle z gazem naprzeciw kanadyjskiego wierzchołka.
+Niemiecka [4 Armia](/sily-zbrojne/4-armia-niemiecka) księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) postanowiła wykorzystać powodzenie i zlikwidować wysunięty łuk. Do natarcia na Kanadyjczyków wyznaczono XXVI Korpus Rezerwowy generała Otto von Hügla, z 51 i 52 Dywizją Rezerwową. Saperzy przygotowali butle z gazem naprzeciw kanadyjskiego wierzchołka.
 
 ## Przebieg walk
 

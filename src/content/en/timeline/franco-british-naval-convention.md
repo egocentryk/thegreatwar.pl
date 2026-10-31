@@ -2,14 +2,14 @@
 title: Franco-British naval convention
 summary: On 6 August 1914 France and Britain concluded a naval convention in London. A French admiral took command of the Allied forces in the Mediterranean.
 source: francusko-brytyjska-konwencja-morska
-sourceHash: 5026a06e5cb5498f546f55c2ed3d2b2fb244aea6
+sourceHash: 2ebb5632ac535d141395325d1ed7debac161d652
 ---
 
 On 6 August 1914 in London [France](/kraje/francja) and [Great Britain](/kraje/wielka-brytania) concluded a naval convention setting out the rules of cooperation between the two fleets in wartime. The most important provision concerned the [Mediterranean](https://pl.wikipedia.org/wiki/Morze_Śródziemne): the general direction of naval operations in that area was entrusted to France, and the French admiral Augustin Boué de Lapeyrère became commander of the combined Allied forces.
 
 ## Dividing the seas
 
-The convention confirmed the division of tasks agreed before the war. Since 1912 the main forces of the French fleet had been concentrated in the Mediterranean, while the British [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) concentrated on the North Sea and the English Channel, where it also took on the defence of France's northern coasts. British ships remaining in the Mediterranean were from now on to operate under general French direction.
+The convention confirmed the division of tasks agreed before the war. Since 1912 the main forces of the French fleet had been concentrated in the Mediterranean, while the British [Royal Navy](/sily-zbrojne/royal-navy) concentrated on the North Sea and the English Channel, where it also took on the defence of France's northern coasts. British ships remaining in the Mediterranean were from now on to operate under general French direction.
 
 In the Mediterranean the Allies were opposed by the Austro-Hungarian fleet, based in the Adriatic, and by the German Mediterranean Division with the battlecruiser *Goeben* and the cruiser *Breslau*. For France the most important thing was the safety of the troop transports from North Africa that were to reinforce the army on the Western Front.
 

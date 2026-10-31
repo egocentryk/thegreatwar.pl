@@ -2,10 +2,10 @@
 title: Air raid on Chatham
 summary: On the night of 3 September 1917 Gothas bombed Chatham. Two bombs hit a naval barracks hall where several hundred men were sleeping. About 130 sailors died.
 source: nalot-na-chatham
-sourceHash: 76d01940f696ae8d83923d28d1cb168cb090877a
+sourceHash: 3792e4569980d86775c47b134adbada17e94de9d
 ---
 
-On the night of 3/4 September 1917 German Gotha bombers attacked England after dark for the first time. Their target was the main [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) base on the River [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)) at [Chatham](https://pl.wikipedia.org/wiki/Chatham_(Wielka_Brytania)). Two bombs fell on the glass roof of the drill hall in the naval barracks, where several hundred sailors were sleeping in hammocks. About 130 of them were killed. According to the British historian of the raids Ian Castle, no other single hit on one target in Britain during this war caused so many casualties.
+On the night of 3/4 September 1917 German Gotha bombers attacked England after dark for the first time. Their target was the main [Royal Navy](/sily-zbrojne/royal-navy) base on the River [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)) at [Chatham](https://pl.wikipedia.org/wiki/Chatham_(Wielka_Brytania)). Two bombs fell on the glass roof of the drill hall in the naval barracks, where several hundred sailors were sleeping in hammocks. About 130 of them were killed. According to the British historian of the raids Ian Castle, no other single hit on one target in Britain during this war caused so many casualties.
 
 ## The Gothas' first night expedition
 

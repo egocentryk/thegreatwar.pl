@@ -2,10 +2,10 @@
 title: Battle of the Stryj begins
 summary: On 24 May 1915 the South Army began shelling Russian positions before Stryj. Linsingen massed his forces for one blow, but the infantry stuck in the wire.
 source: poczatek-bitwy-nad-stryjem
-sourceHash: b20a143adf141efcfcfa072e9759b2d9950868a6
+sourceHash: 08a0d868ce162b613f90dea3de2070fc8242b61d
 ---
 
-The British chronology of the war records under 24 May 1915 the start of the Battle of the [Stryj](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), which in its account lasted until 11 June. That day, according to the Encyclopaedia Britannica of 1922, General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) began a two-day artillery bombardment of the Russian positions in front of the towns of [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)) and [Dolina](https://pl.wikipedia.org/wiki/Dolina_(miasto)). The infantry went in to the assault on the morning of 26 May. At the same time, some tens of kilometres to the north-west, [Mackensen's army struck at Radymno](/poczatek-walk-o-odbicie-przemysla), and Austro-Hungarian troops were attacking south of Przemyśl.
+The British chronology of the war records under 24 May 1915 the start of the Battle of the [Stryj](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), which in its account lasted until 11 June. That day, according to the Encyclopaedia Britannica of 1922, General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) began a two-day artillery bombardment of the Russian positions in front of the towns of [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)) and [Dolina](https://pl.wikipedia.org/wiki/Dolina_(miasto)). The infantry went in to the assault on the morning of 26 May. At the same time, some tens of kilometres to the north-west, [Mackensen's army struck at Radymno](/poczatek-walk-o-odbicie-przemysla), and Austro-Hungarian troops were attacking south of Przemyśl.
 
 ## One blow instead of many
 

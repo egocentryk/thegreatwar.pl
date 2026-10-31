@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 stycznia 1915 roku generał porucznik sir Archibald Murray przestał kierować sztabem [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Naczelny dowódca, marszałek [John French](/postacie/john-french), odesłał go tego dnia na miesięczny urlop zdrowotny, a następnego dnia zażądał jego rezygnacji. Murray zapewniał, że wystarczy mu kilka dni odpoczynku, ale decyzja już zapadła. Tak zakończyła się służba człowieka, który od pierwszego dnia wojny był [szefem sztabu Frencha](/sztab-brytyjskiego-korpusu-ekspedycyjnego).
+24 stycznia 1915 roku generał porucznik sir Archibald Murray przestał kierować sztabem [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny). Naczelny dowódca, marszałek [John French](/postacie/john-french), odesłał go tego dnia na miesięczny urlop zdrowotny, a następnego dnia zażądał jego rezygnacji. Murray zapewniał, że wystarczy mu kilka dni odpoczynku, ale decyzja już zapadła. Tak zakończyła się służba człowieka, który od pierwszego dnia wojny był [szefem sztabu Frencha](/sztab-brytyjskiego-korpusu-ekspedycyjnego).
 
 ## Stary współpracownik Frencha
 

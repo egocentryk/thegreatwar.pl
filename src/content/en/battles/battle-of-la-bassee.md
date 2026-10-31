@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Erich von Falkenhayn]
 result: Inconclusive. The British failed to take La Bassée and the Germans took Neuve-Chapelle, but did not break the front. The line between Givenchy and Fauquissart lasted until 1915.
 source: bitwa-pod-la-bassee
-sourceHash: d8d25e4b569a8c994d793c666e7443e8d4c2902c
+sourceHash: bfb98bc8297f58a45472f5594569ca12141c439f
 brief:
   - "The Battle of La Bassée, fought from 10 October to 2 November 1914, was the first of a series of battles the British army fought in Flanders in the autumn of 1914, in the last stage of the race to the sea."
   - "The British II Corps of General Horace Smith-Dorrien, brought from the Aisne, was to turn the flank of the German Sixth Army together with the French cavalry and take La Bassée."
@@ -28,7 +28,7 @@ The British Battles Nomenclature Committee adopted the dates 10 October – 2 No
 
 At the beginning of October 1914 the Western Front already stretched from Switzerland to the area of Arras and Lens. In the [First Battle of Artois](/bitwy/pierwsza-bitwa-w-artois) the French Tenth Army of General Louis de Maud'huy defended Arras but failed to turn the German flank. There was still no continuous front only north of Lens, on the plain of French Flanders between La Bassée, [Lille](https://pl.wikipedia.org/wiki/Lille) and the coast. German cavalry corps roamed there, and it was screened by French cavalry and territorial divisions. At the end of September and in the first days of October the German cavalry ventured far to the west, as far as [Hazebrouck](/niemcy-zajmuja-armentieres-i-hazebrouck).
 
-At that time the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) was secretly moving from the Aisne northwards, to the Allied left wing. The first to arrive was II Corps, made up of the 3rd and 5th Divisions, which detrained in the Abbeville area on 8 and 9 October. Field Marshal [John French](/postacie/john-french) did not wait for the rest of the army and sent it east at once. General [Ferdinand Foch](/postacie/ferdinand-foch), who coordinated the French armies in the north, provided buses that could carry almost 10,000 soldiers.
+At that time the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) was secretly moving from the Aisne northwards, to the Allied left wing. The first to arrive was II Corps, made up of the 3rd and 5th Divisions, which detrained in the Abbeville area on 8 and 9 October. Field Marshal [John French](/postacie/john-french) did not wait for the rest of the army and sent it east at once. General [Ferdinand Foch](/postacie/ferdinand-foch), who coordinated the French armies in the north, provided buses that could carry almost 10,000 soldiers.
 
 On the German side the British faced the Sixth Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski). North of La Bassée its I and II Cavalry Corps and XIV Corps fought at first, and in the following days infantry corps transferred from other sectors of the front arrived.
 

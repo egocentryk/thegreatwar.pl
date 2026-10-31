@@ -9,10 +9,10 @@ sides:
     commanders: [Nikolai Ivanov, Dmitry Shcherbachev, Aleksei Brusilov]
 result: Victory of the Central Powers. The South Army broke the Russian defence on the lower Gniła Lipa, and on the night of 1–2 July 1915 the Russians fell back to the Złota Lipa.
 source: bitwa-nad-gnila-lipa
-sourceHash: 759dd5537531b46c0e74ad979efb00b335a0b1d1
+sourceHash: 8ab4323543efa99cd82835506abb428010bb0f7f
 ---
 
-The Battle of the Gniła Lipa was the first clash east of Lviv after its [recapture by Austria-Hungary](/austro-wegrzy-odbijaja-lwow) on 22 June 1915. While the German Eleventh Army turned north towards Lublin and Chełm, the Austro-Hungarian [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(austro-węgierska)) and the German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) were to push the Russians eastwards and cover that thrust from the direction of Podolia. After several days of stubborn fighting at [Bóbrka](https://pl.wikipedia.org/wiki/Bóbrka_(Ukraina)) and Bukaczowce, on 27 June the Russians fell back to the [Gniła Lipa](https://pl.wikipedia.org/wiki/Gniła_Lipa) river, a left-bank tributary of the Dniester. Contrary to the expectations of the Central Powers, they defended themselves there with great tenacity. Only on 1 July did the South Army break their positions on the lower course of the river, and on the night of 1–2 July the Russians withdrew to the next line, on the [Złota Lipa](https://pl.wikipedia.org/wiki/Złota_Lipa).
+The Battle of the Gniła Lipa was the first clash east of Lviv after its [recapture by Austria-Hungary](/austro-wegrzy-odbijaja-lwow) on 22 June 1915. While the German Eleventh Army turned north towards Lublin and Chełm, the Austro-Hungarian [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(austro-węgierska)) and the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) were to push the Russians eastwards and cover that thrust from the direction of Podolia. After several days of stubborn fighting at [Bóbrka](https://pl.wikipedia.org/wiki/Bóbrka_(Ukraina)) and Bukaczowce, on 27 June the Russians fell back to the [Gniła Lipa](https://pl.wikipedia.org/wiki/Gniła_Lipa) river, a left-bank tributary of the Dniester. Contrary to the expectations of the Central Powers, they defended themselves there with great tenacity. Only on 1 July did the South Army break their positions on the lower course of the river, and on the night of 1–2 July the Russians withdrew to the next line, on the [Złota Lipa](https://pl.wikipedia.org/wiki/Złota_Lipa).
 
 ## Name and dates
 

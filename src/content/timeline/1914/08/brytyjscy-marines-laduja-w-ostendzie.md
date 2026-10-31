@@ -11,11 +11,11 @@ milestone: false
 draft: false
 ---
 
-27 sierpnia 1914 roku w belgijskim porcie [Ostenda](https://pl.wikipedia.org/wiki/Ostenda) zaczęła lądować brygada [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines), brytyjskiej piechoty morskiej. Tego samego dnia przyleciała tam eskadra lotnicza [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), lotnictwa brytyjskiej marynarki wojennej. Była to pierwsza jednostka tej formacji, która przybyła na kontynent.
+27 sierpnia 1914 roku w belgijskim porcie [Ostenda](https://pl.wikipedia.org/wiki/Ostenda) zaczęła lądować brygada [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines), brytyjskiej piechoty morskiej. Tego samego dnia przyleciała tam eskadra lotnicza [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), lotnictwa brytyjskiej marynarki wojennej. Była to pierwsza jednostka tej formacji, która przybyła na kontynent.
 
 ## Demonstracja na belgijskim wybrzeżu
 
-W ostatnich dniach sierpnia sytuacja aliantów była bardzo trudna. Francuzi i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) cofali się po klęskach w [bitwach granicznych](/bitwy/bitwa-graniczna), a niemieckie prawe skrzydło parło na południe. Pierwszy lord Admiralicji [Winston Churchill](/postacie/winston-churchill) chciał odwrócić uwagę Niemców i zmusić ich do pozostawienia części sił na tyłach. Admiralicja zgodziła się jedynie na demonstrację: wysadzenie niewielkiego desantu na belgijskim wybrzeżu, który miał zabezpieczyć Ostendę i sprawiać wrażenie zapowiedzi większych sił.
+W ostatnich dniach sierpnia sytuacja aliantów była bardzo trudna. Francuzi i [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) cofali się po klęskach w [bitwach granicznych](/bitwy/bitwa-graniczna), a niemieckie prawe skrzydło parło na południe. Pierwszy lord Admiralicji [Winston Churchill](/postacie/winston-churchill) chciał odwrócić uwagę Niemców i zmusić ich do pozostawienia części sił na tyłach. Admiralicja zgodziła się jedynie na demonstrację: wysadzenie niewielkiego desantu na belgijskim wybrzeżu, który miał zabezpieczyć Ostendę i sprawiać wrażenie zapowiedzi większych sił.
 
 Brygadą dowodził generał brygady George Aston. Liczyła według różnych źródeł około 3 tysięcy żołnierzy z batalionów Chatham, Portsmouth i Plymouth. Dwa bataliony wylądowały wczesnym rankiem 27 sierpnia, trzeci dzień później. Czwarty batalion, z Deal, był jeszcze w trakcie formowania.
 

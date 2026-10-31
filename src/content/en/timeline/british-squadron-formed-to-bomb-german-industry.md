@@ -2,10 +2,10 @@
 title: British squadron formed to bomb German industry
 summary: In February 1916 the British naval air service formed a squadron of Sopwith aircraft to raid factories in Germany. It became the nucleus of No. 3 Wing RNAS.
 source: brytyjski-dywizjon-do-bombardowania-niemieckiego-przemyslu
-sourceHash: c5dadf7f19e5242fc5495607ae8f62cc77c00ed9
+sourceHash: 58ceed2fbcd62dc60633df87b3ea8afe8ac2ee6f
 ---
 
-The British chronology of the war records under 28 February 1916 the formation of the nucleus of a British air squadron intended to bomb German industrial centres. This was a unit of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the air arm of the British navy. According to the history of that service, in February 1916 a squadron of the new two-seat [Sopwith 1½ Strutter](https://pl.wikipedia.org/wiki/Sopwith_1½_Strutter) aircraft began forming at [Detling](https://pl.wikipedia.org/wiki/Detling) in Kent. It was commanded by Reginald Marix, a squadron commander in the naval air ranks since January, the same man who in October 1914 had [destroyed a German airship in its shed at Düsseldorf](/drugi-brytyjski-nalot-na-niemcy). The sources do not give the exact day on which the squadron was formed, so the date of 28 February comes from the British chronology.
+The British chronology of the war records under 28 February 1916 the formation of the nucleus of a British air squadron intended to bomb German industrial centres. This was a unit of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), the air arm of the British navy. According to the history of that service, in February 1916 a squadron of the new two-seat [Sopwith 1½ Strutter](https://pl.wikipedia.org/wiki/Sopwith_1½_Strutter) aircraft began forming at [Detling](https://pl.wikipedia.org/wiki/Detling) in Kent. It was commanded by Reginald Marix, a squadron commander in the naval air ranks since January, the same man who in October 1914 had [destroyed a German airship in its shed at Düsseldorf](/drugi-brytyjski-nalot-na-niemcy). The sources do not give the exact day on which the squadron was formed, so the date of 28 February comes from the British chronology.
 
 ## The idea of raids on the enemy's rear
 

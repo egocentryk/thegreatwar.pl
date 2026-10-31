@@ -2,7 +2,7 @@
 title: Battle of the Aisne begins
 summary: On 12 September 1914 the British and French, pursuing the Germans after the Marne, reached the Aisne. The Germans dug in on the heights beyond the river.
 source: poczatek-bitwy-nad-aisne
-sourceHash: 10aa29b72d2f034f279d0b5cd2849d22e146ec21
+sourceHash: e6af79c167e7e166f0389deb62deb927ae32ba41
 brief:
   - "On 12 September 1914 the French and the British Expeditionary Force, pursuing the Germans after the Marne, reached the Aisne. The Germans had stopped retreating and held the heights on the north bank."
   - "The Germans chose a strong position: steep slopes and the Chemin des Dames ridge, which overlooked the whole valley. Joffre, however, believed they were still retreating and ordered the river to be forced."
@@ -11,7 +11,7 @@ brief:
   - "On the Aisne the pursuit after the Marne ended and trench warfare began. Both sides started looking for an open flank further north, setting off the so-called Race to the Sea."
 ---
 
-On 12 September 1914 the French troops and the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), which for several days had been pursuing the German armies defeated on the Marne, reached the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) between Compiègne and Berry-au-Bac. There they ran into an enemy who had stopped retreating. The Germans had occupied the heights on the north bank of the river and decided to defend them. Thus began the First Battle of the Aisne, the first great battle of this war in which both sides began to dig into the ground.
+On 12 September 1914 the French troops and the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), which for several days had been pursuing the German armies defeated on the Marne, reached the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) between Compiègne and Berry-au-Bac. There they ran into an enemy who had stopped retreating. The Germans had occupied the heights on the north bank of the river and decided to defend them. Thus began the First Battle of the Aisne, the first great battle of this war in which both sides began to dig into the ground.
 
 ## After the Battle of the Marne
 
