@@ -2,7 +2,7 @@
 title: Second Battle of Artois begins
 summary: On 9 May 1915 the French Tenth Army attacked near Arras. Pétain's corps reached Vimy Ridge in two hours, but without reserves it could not hold it.
 source: poczatek-drugiej-bitwy-w-artois
-sourceHash: 48602c0ab8e08167aba00aa8f4c7348a3e0358a5
+sourceHash: 468bedd490d62e528e86c7fb5362a21b4ea5cd0d
 brief:
   - "At 10 a.m. on 9 May 1915 General Victor d'Urbal's French Tenth Army attacked north of Arras towards the heights of Vimy. The Second Battle of Artois had begun."
   - "General Ferdinand Foch planned the offensive to exploit the transfer of German divisions to the east and to help the Russians. The French artillery methodically destroyed the German trenches for six days."
@@ -21,7 +21,7 @@ The offensive was planned by General [Ferdinand Foch](/postacie/ferdinand-foch),
 
 The greatest success in the centre was achieved by the XXXIII Corps of General [Philippe Pétain](/postacie/philippe-petain). Its Moroccan Division, in which soldiers of the [Foreign Legion](https://pl.wikipedia.org/wiki/Legia_Cudzoziemska), Algerian tirailleurs and Zouaves fought, went through all the German lines in one bound. In less than two hours it advanced about four kilometres, and at about 11 a.m. its leading units stood on Hill 140, the highest point of the ridge. Some groups even went down the other side as far as [Givenchy-en-Gohelle](https://pl.wikipedia.org/wiki/Givenchy-en-Gohelle). Before them lay the open plain of [Douai](https://pl.wikipedia.org/wiki/Douai). On their left the 77th Division reached the edge of [Souchez](https://pl.wikipedia.org/wiki/Souchez), and the 70th Division broke into the fortified village of [Carency](https://pl.wikipedia.org/wiki/Carency). On their right XX Corps took the hamlet of La Targette and 350 prisoners before noon, and in the afternoon broke into [Neuville-Saint-Vaast](https://pl.wikipedia.org/wiki/Neuville-Saint-Vaast), where by evening it had taken half the village.
 
-In the ranks of the Foreign Legion a Polish company of volunteers went into the attack; they were called the [Bayonne men](https://pl.wikipedia.org/wiki/Bajończycy) because they had trained in Bayonne. It took German trenches near La Targette and Neuville-Saint-Vaast, but lost about three-quarters of its strength. Its French commander, Captain Osmont d'Amilly, was killed.
+In the ranks of the Foreign Legion a Polish company of volunteers went into the attack; they were called the [Bayonne men](/polscy-ochotnicy-wstepuja-do-legii-cudzoziemskiej) because they had trained in Bayonne. It took German trenches near La Targette and Neuville-Saint-Vaast, but lost about three-quarters of its strength. Its French commander, Captain Osmont d'Amilly, was killed.
 
 ## The breach closed
 

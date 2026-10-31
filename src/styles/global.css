@@ -111,6 +111,16 @@
 .prose :where(h2, h3, h4) {
   font-family: var(--font-display);
 }
+/* Tables (topic guides): scroll inside their own box on narrow screens,
+   so the page itself never scrolls sideways. */
+.prose :where(table):not(:where(.not-prose *)) {
+  display: block;
+  overflow-x: auto;
+  font-size: 0.875em;
+}
+.prose :where(th, td):not(:where(.not-prose *)) {
+  min-width: 7rem;
+}
 .prose :where(a):not(:where(.not-prose *)) {
   text-decoration: none;
   transition: color 150ms ease;

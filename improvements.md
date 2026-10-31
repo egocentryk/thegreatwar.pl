@@ -2511,6 +2511,61 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 47. "Polskie formacje wojskowe 1914–1918": six articles and a guide (2026-10-31)
+
+- Owner chose a topic guide (not a new section) and the gap articles first
+  (brief `scripts/briefs/polish-formations.md`).
+- Six timeline articles, PL/EN, `expand.py` 0 problems, three writers:
+  - `powstaje-legion-pulawski` (4 XII 1914, the first 70 volunteers in
+    Puławy; IPN takes 12 I 1915) and `legion-pulawski-pod-pakoslawiem`
+    (19–20 V 1915; chosen over the brief's "Opole / Hołowczyce, VII 1915",
+    which no source supports);
+  - `dowbor-musnicki-dowodca-i-korpusu-polskiego` (6 VIII 1917; formal
+    order 8 VIII per Wrzosek, corps 24 VII in some works) and
+    `rozwiazanie-i-korpusu-polskiego` (21 V 1918, the Minsk ultimatum);
+  - `polscy-ochotnicy-wstepuja-do-legii-cudzoziemskiej` (22 VIII 1914, the
+    Invalides; Arras 9 V 1915 stays in the Artois article) and
+    `polscy-strzelcy-pod-saint-hilaire-le-grand` (25 VII 1918, Bois de la
+    Raquette, Champagne, not the Vosges; `battle:` left empty, a local
+    action after the Champagne phase of the Second Marne).
+- The guide `/tematy/polskie-formacje-wojskowe`,
+  `/en/topics/polish-military-formations` (order 13, series
+  legiony-polskie): 2,478 words, 52 internal links, a summary table of 11
+  formations, `topics.py` 0 problems. The first Markdown table on the site:
+  global.css gives `.prose table` its own horizontal scroll (the page was
+  527px wide on a 390px phone) and a smaller font.
+- Links in (PL and EN, restamped): Dowbor's page → both corps articles;
+  `i-korpus-polski-przeciw-bolszewikom` → the formation; Dmowski's page →
+  the Puławy Legion (was pl.wiki); Artois (was pl.wiki), the 1917 decree and
+  the colours article → the Bayonne volunteers; `armia-polska-sprzymierzona`
+  and Haller's page → Saint-Hilaire.
+
+### Writers' notes (for the review list)
+
+- `sztandary-dla-armii-polskiej-we-francji`: banner at Villers-Marmery
+  17 VI; regimental history and Nieuwazny: 18 VI, from Gouraud.
+- `ofensywa-kierenskiego` and the `wojna-na-ziemiach-polskich` guide: the
+  rifle division "stała w odwodzie 7 Armii"; pl.wiki: in the trenches near
+  Brzeżany from 6 VII, under fire.
+- `dekret-o-utworzeniu-armii-polskiej-we-francji`: 1914 volunteers "głównie
+  członków Sokoła i Związku Strzeleckiego"; Gałęzowski treats a Strzelec
+  member as an exception.
+- `postacie/stanislaw-szeptycki`: Legions commandant X / 14 XI 1916;
+  Wrzosek: 14 IX 1916.
+- `postacie/jozef-pilsudski`: I Brygada formed 19 XII 1914; Wrzosek: a
+  tactical group until 18 XII.
+- `kryzys-przysiegowy` ("niewielka część żołnierzy z Królestwa, głównie z
+  II Brygady" took the oath) vs `postacie/jozef-haller` (the II Brygada
+  "w większości przysięgę złożyła"); the guide follows Haller's page.
+- `walki-pod-kaniowem`: II Korpus at Kaniów "od 18 kwietnia"; Wrzosek:
+  halted there 19 IV.
+- `postacie/jozef-dowbor-musnicki`: last transport "do początku lipca";
+  Sierchuła/Muszyński: 7 VI (a range rather than an error).
+- Unreliable outside: en.wiki "Battle of Saint Hilaire-le-Grand" (dates,
+  unit type); the Tomb tablet date differs between en.wiki and pl.wiki.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2612,6 +2667,7 @@ finished, tick it here and add its section above.
 - [x] Legions 1915–1916 (Rarańcza, Volhynia, Kostiuchnówka) and the Lost Battalion (§43)
 - [x] "Po wojnie": the war after the war 1919–1923, 53 articles and 2 battle pages, PL/EN (§44)
 - [x] Reading progress, stage 1: opt-in, in the browser only; ✓ in timeline lists, year counters, article status line, settings page (§45)
+- [x] "Polskie formacje wojskowe": 6 gap articles and a topic guide, PL/EN (§47)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

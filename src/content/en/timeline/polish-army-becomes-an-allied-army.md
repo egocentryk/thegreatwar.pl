@@ -2,7 +2,7 @@
 title: Polish Army becomes an allied army
 summary: On 28 September 1918 France and the Polish National Committee agreed to recognise the Polish Army as autonomous, allied and co-belligerent with the Entente.
 source: armia-polska-sprzymierzona
-sourceHash: f1d1a1d61992e946527cc1b4e9432e706351c7f2
+sourceHash: bbdfdc6cb14a01ea38fbba3fa6b0fc61a2d7dec6
 ---
 
 On 28 September 1918 the French government and the [Polish National Committee](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) concluded an agreement in Paris that changed the position of the Polish troops fighting on the side of the Entente. The [Polish Army in France](https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji) ceased to be a formation of volunteers under French administration. From then on it was to be a single, autonomous Polish army, allied with the Entente powers and co-belligerent with them against the Central Powers, under a single Polish command and under the supreme political authority of the Committee. Polish editions of the documents give the French formula: *armée autonome, alliée et belligérante sous un commandement polonais unique*. The Polish state did not yet exist, but its army took its place in the ranks of the coalition as an ally, and not merely as a collection of volunteers in someone else's army.
@@ -23,7 +23,7 @@ The most important thing was the change of status. In the language of diplomacy 
 
 ## The army in the autumn of 1918
 
-When the agreement was concluded the army was still small. According to French and Polish studies, in the autumn of 1918 it numbered just over 17,000 soldiers in two divisions that were being formed. Most were volunteers from the Polish community in America, and senior posts were still held by Frenchmen. The oldest regiment had already fought in Champagne in the summer, and in October the [1st Polish Rifle Division](https://pl.wikipedia.org/wiki/1_Dywizja_Strzelców_Polskich_(AP_we_Francji)) took over a sector of the front in the [Vosges](https://pl.wikipedia.org/wiki/Wogezy). Real expansion came only after the armistice, when former prisoners of war from the German and Austro-Hungarian armies began to join. By the spring of 1919 it already numbered about 70,000 men.
+When the agreement was concluded the army was still small. According to French and Polish studies, in the autumn of 1918 it numbered just over 17,000 soldiers in two divisions that were being formed. Most were volunteers from the Polish community in America, and senior posts were still held by Frenchmen. The oldest regiment had already [fought in Champagne in the summer](/polscy-strzelcy-pod-saint-hilaire-le-grand), and in October the [1st Polish Rifle Division](https://pl.wikipedia.org/wiki/1_Dywizja_Strzelców_Polskich_(AP_we_Francji)) took over a sector of the front in the [Vosges](https://pl.wikipedia.org/wiki/Wogezy). Real expansion came only after the armistice, when former prisoners of war from the German and Austro-Hungarian armies began to join. By the spring of 1919 it already numbered about 70,000 men.
 
 On the same day in Warsaw the *Monitor Polski*, the official gazette of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)), dependent on Germany and Austria-Hungary, published a recruiting appeal for the army, issued in the name of the prime minister. The Provisional Council of State had refused to issue such an appeal throughout its existence. In those same days, then, Poles were forming two armies: one alongside the Entente, the other under German and Austrian occupation.
 

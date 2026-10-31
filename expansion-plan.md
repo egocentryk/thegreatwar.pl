@@ -293,6 +293,8 @@ should link to each other (§B8).
 - "Dokumenty": key primary sources in Polish translation with commentary.
 - "Formacje polskie": the Legion brigades, Bayonne, the Puławy legion, the
   Polish corps in Russia, Haller's army.
+  **Done 2026-10-31** as the guide `/tematy/polskie-formacje-wojskowe` plus
+  6 gap articles (improvements.md §47).
 - "Dla nauczycieli": printable lesson sheets per guide, matched to the
   curriculum; quizzes ("Sprawdź się") from the key dates and the glossary.
 - A public errata page ("Poprawki"), an open dataset (CSV/JSON), an
