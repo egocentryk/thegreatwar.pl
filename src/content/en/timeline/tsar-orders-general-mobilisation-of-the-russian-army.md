@@ -2,10 +2,10 @@
 title: Tsar orders general mobilisation of the Russian army
 summary: On the afternoon of 30 July 1914 Nicholas II, persuaded by Sazonov, agreed to general mobilisation. Its first day was 31 July.
 source: car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej
-sourceHash: 1af7047e30e7e035a66ae8fe40f2e3efe804503a
+sourceHash: 1279f9ae6a33244ad64be40ef550a18d710bb57c
 ---
 
-On the afternoon of 30 July 1914 Tsar [Nicholas II](/postacie/mikolaj-ii) agreed to a general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the [Russian army](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego). Only a day earlier he had halted the same decision at the last moment, confining himself to a partial mobilisation against Austria-Hungary. This time he did not change his mind.
+On the afternoon of 30 July 1914 Tsar [Nicholas II](/postacie/mikolaj-ii) agreed to a general [mobilisation](/slownik/mobilizacja) of the [Russian army](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego). Only a day earlier he had halted the same decision at the last moment, confining himself to a partial mobilisation against Austria-Hungary. This time he did not change his mind.
 
 ## Why partial mobilisation was not enough
 

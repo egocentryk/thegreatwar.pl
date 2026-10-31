@@ -11,7 +11,7 @@ sides:
     commanders: [Alexander von Kluck, Friedrich Sixt von Armin, Georg von der Marwitz]
 result: German tactical victory. The British lost the battlefield and 38 guns, but broke contact with the enemy and continued their retreat.
 source: bitwa-pod-le-cateau
-sourceHash: e2ced1736bb24a04fb6aae5777965f334a1a9e08
+sourceHash: c638921b8131e31aeed557e6cc42ec09f38c9707
 ---
 
 The [Battle of Le Cateau](https://pl.wikipedia.org/wiki/Bitwa_pod_Le_Cateau) was fought on 26 August 1914 in the Nord department of northern France. The British II Corps of General Horace Smith-Dorrien, reinforced by the 4th Division and cavalry, held out for most of the day against the German First Army of General [Alexander von Kluck](/postacie/alexander-von-kluck). It was the second battle of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), after the [Battle of Mons](/bitwy/bitwa-pod-mons), and one of the most important engagements of the great Allied retreat of August 1914.
@@ -36,7 +36,7 @@ The heaviest fighting took place west of Le Cateau, where the positions of the 5
 
 In the early afternoon Smith-Dorrien ordered a retreat. The order did not reach every unit in time, and some fought on until they were surrounded. Gun crews, among them the 37th Howitzer Battery, saved their guns under fire. Five [Victoria Crosses](/slownik/krzyz-wiktorii) were awarded for gallantry that day: to Captain Douglas Reynolds, Drivers Job Drain and Frederick Luke, Major Charles Yate and Lance-Corporal Frederick Holmes.
 
-The British left wing was covered by the French cavalry corps of General André Sordet, and further west, around Cambrai, French territorial divisions were fighting. That same day the Germans [took Cambrai](/niemcy-zajmuja-cambrai). The French screen, however, prevented the enemy from outflanking the British from the west. In the evening and during the night II Corps withdrew towards [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), and the Germans, believing they had defeated the whole Expeditionary Force, did not set off in immediate pursuit.
+The British left wing was covered by the French cavalry corps of General André Sordet, and further west, around Cambrai, French territorial divisions were fighting. That same day the Germans [took Cambrai](/niemcy-zajmuja-cambrai). The French screen, however, prevented the enemy from outflanking the British from the west. In the evening and during the night II Corps withdrew towards [Saint-Quentin](/miejsca/saint-quentin), and the Germans, believing they had defeated the whole Expeditionary Force, did not set off in immediate pursuit.
 
 ## Losses
 

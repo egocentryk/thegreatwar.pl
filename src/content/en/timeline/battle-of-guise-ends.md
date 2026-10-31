@@ -2,10 +2,10 @@
 title: Battle of Guise ends
 summary: On 30 August 1914 the French Fifth Army broke off the fight with Bülow's army and withdrew behind the Serre. The Battle of Guise was over.
 source: koniec-bitwy-pod-guise
-sourceHash: fff493e94750cac9e8e0e04ad05d74a068882248
+sourceHash: 8917df642f5d55422289f708640a7a98deb1daa5
 ---
 
-On 30 August 1914 the Battle of Guise, called by the Germans the Battle of Saint-Quentin, came to an end. The French Fifth Army of General Charles Lanrezac, which the day before had thrown the Germans back in the valley of the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), broke off the fight and resumed its retreat to the south.
+On 30 August 1914 the Battle of Guise, called by the Germans the Battle of Saint-Quentin, came to an end. The French Fifth Army of General Charles Lanrezac, which the day before had thrown the Germans back in the valley of the [Oise](/miejsca/oise), broke off the fight and resumed its retreat to the south.
 
 ## A success without a future
 

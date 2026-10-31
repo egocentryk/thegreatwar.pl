@@ -2,7 +2,7 @@
 title: Entente landing at Salonika
 summary: On 5 October 1915 the French 156th Division and British 10th Division began landing at Salonika to save Serbia, but that day Venizelos's government fell.
 source: ladowanie-ententy-w-salonikach
-sourceHash: 53e796d3044d69cfef20c145a0e1271d4603c52f
+sourceHash: b430052d3c9aadd0429f797181a41d50563fe993
 brief:
   - "On 5 October 1915 the first French and British troops, brought from the Dardanelles, began to land at Salonika. They were to cross neutral Greece to the aid of threatened Serbia."
   - "The landing took place under a formal protest from the Greek government, but with the consent of Prime Minister Eleftherios Venizelos. The French division of General Maurice Bailloud was the first ashore."
@@ -11,7 +11,7 @@ brief:
   - "The Entente troops stayed in Salonika as uninvited guests in a neutral country. So began the Salonika front, which lasted until the end of the war."
 ---
 
-On 5 October 1915 the first French and British troops began to come ashore in the port of [Salonika](/miejsca/saloniki). They had sailed from the Dardanelles to cross neutral Greece and come to the aid of Serbia, which Austria-Hungary and Germany were about to attack any day, and soon Bulgaria as well. The landing, preceded by a week of diplomatic twists and turns, took place under a formal protest from the Greek government, but [with the consent of Prime Minister Eleftherios Venizelos](/wenizelos-prosi-o-wyladowanie-w-salonikach). Before the soldiers had pitched their tents, Venizelos had ceased to be prime minister. So began the presence of Entente troops in Macedonia, out of which grew the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), which lasted until the end of the war.
+On 5 October 1915 the first French and British troops began to come ashore in the port of [Salonika](/miejsca/saloniki). They had sailed from the Dardanelles to cross neutral Greece and come to the aid of Serbia, which Austria-Hungary and Germany were about to attack any day, and soon Bulgaria as well. The landing, preceded by a week of diplomatic twists and turns, took place under a formal protest from the Greek government, but [with the consent of Prime Minister Eleftherios Venizelos](/wenizelos-prosi-o-wyladowanie-w-salonikach). Before the soldiers had pitched their tents, Venizelos had ceased to be prime minister. So began the presence of Entente troops in Macedonia, out of which grew the [Salonika front](/bitwy/front-salonicki), which lasted until the end of the war.
 
 ## First ashore
 
@@ -31,7 +31,7 @@ On the morning of 6 October [Lord Kitchener](/postacie/horatio-kitchener) telegr
 
 On the same day, 5 October, Kitchener and the First Lord of the Admiralty, [Arthur Balfour](/postacie/arthur-balfour), met the French ministers of war and marine, [Alexandre Millerand](/postacie/alexandre-millerand) and Victor Augagneur, at Calais. They settled how to provide the [150,000 troops promised to Greece](/ententa-obiecuje-grecji-wojska). The French were to send a brigade of marine infantry, another brigade, two cavalry divisions and an infantry division, 64,000 men in all according to Corbett. The British undertook to transfer three divisions from France and to help their allies with transport. Even then the promised number would have been about 20,000 short. The conference still worked on the assumption that Venizelos was in power, and Kitchener learnt of his fall immediately after it.
 
-The two allies' plans also differed. The French, convinced that they had promised only to cross Greek territory to Serbia, ordered Bailloud to move straight on to [Niš](https://pl.wikipedia.org/wiki/Nisz). The British did not want to move from Salonika until it was certain that Greece would enter the war. After the fall of Venizelos Paris cancelled the order to march. Bailloud was to wait in Salonika for General [Maurice Sarrail](/postacie/maurice-sarrail), appointed commander of the French Army of the Orient, who left Paris on 6 October and reached Salonika on 12 October.
+The two allies' plans also differed. The French, convinced that they had promised only to cross Greek territory to Serbia, ordered Bailloud to move straight on to [Niš](/miejsca/nisz). The British did not want to move from Salonika until it was certain that Greece would enter the war. After the fall of Venizelos Paris cancelled the order to march. Bailloud was to wait in Salonika for General [Maurice Sarrail](/postacie/maurice-sarrail), appointed commander of the French Army of the Orient, who left Paris on 6 October and reached Salonika on 12 October.
 
 ## Too little and too late
 

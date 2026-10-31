@@ -23,7 +23,7 @@ Rosja nie zamierzała ustąpić. Jej dowódcy twierdzili, że bez rosyjskich woj
 
 Nowy premier należał do najbardziej szanowanych polityków swojego pokolenia. Urodził się w 1871 roku w Nainie, w rodzinie wysokiego urzędnika. Jego ojciec, Mirza Nasrollah Chan, stał na czele rządu w 1906 roku, w czasie rewolucji konstytucyjnej. Hasan Pirnia kształcił się w Moskwie, gdzie ukończył szkołę wojskową i studiował prawo, a potem był posłem perskim w Petersburgu. W 1899 roku założył w Teheranie szkołę nauk politycznych. Po śmierci ojca przejął jego tytuł Moszir od-Dole i współtworzył pierwszą perską konstytucję. Był już między innymi ministrem spraw zagranicznych i ministrem sprawiedliwości.
 
-Kandydata na premiera wskazał Madżlis, a szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) go zatwierdził. Moszir od-Dole cieszył się poparciem nacjonalistów i zamierzał prowadzić politykę prawdziwej, a nie tylko deklarowanej neutralności. Jego rząd współpracował z parlamentem lepiej niż poprzednie. Wspólnie uchylili między innymi ustawę, która dawała szerokie uprawnienia zagranicznym skarbnikom, i przekazali ich kompetencje perskiemu ministrowi finansów.
+Kandydata na premiera wskazał Madżlis, a szach [Ahmad](/postacie/ahmad-szah-kadzar) go zatwierdził. Moszir od-Dole cieszył się poparciem nacjonalistów i zamierzał prowadzić politykę prawdziwej, a nie tylko deklarowanej neutralności. Jego rząd współpracował z parlamentem lepiej niż poprzednie. Wspólnie uchylili między innymi ustawę, która dawała szerokie uprawnienia zagranicznym skarbnikom, i przekazali ich kompetencje perskiemu ministrowi finansów.
 
 ## Krótki rząd
 

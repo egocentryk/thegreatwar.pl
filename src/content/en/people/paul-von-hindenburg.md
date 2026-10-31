@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Posen
 deathPlace: Neudeck (now Ogrodzieniec, Poland)
 source: paul-von-hindenburg
-sourceHash: 7d577025e59c6d0b19014c71b79b7937ee7ccc78
+sourceHash: a1b1894f66075df698c5d15b70298db8ca5857ec
 ---
 
 Paul von Hindenburg entered the war as a retired general of whom few outside the army had heard. Within a few days he was the most famous man in Germany. The victory at Tannenberg in August 1914 made him the "saviour of East Prussia" and a living symbol of German strength. Together with his chief of staff Erich Ludendorff he formed the most famous command partnership of the war: Hindenburg supplied calm, authority and a name, Ludendorff energy and plans. From August 1916 the two directed the entire German army, and their influence on politics was so great that contemporaries already spoke of a military dictatorship. Hindenburg came through defeat with his legend intact, and his later role as President of the Reich, who in 1933 appointed Hitler chancellor, cast a shadow over his whole biography.
@@ -51,7 +51,7 @@ On 9 November at Spa, as [revolution broke out](/rewolucja-w-berlinie) in Berlin
 
 ## After the war
 
-In the winter of 1918/1919 the Supreme Command moved to Kassel and then to [Kolberg](https://pl.wikipedia.org/wiki/Kołobrzeg). In June 1919, when the government was weighing whether to accept the Treaty of Versailles, Hindenburg judged armed resistance hopeless, but left it to Groener to pass this on to the politicians. Soon afterwards he retired from the service. On 18 November 1919, before the National Assembly's committee investigating the causes of the defeat, he declared that the army had been "stabbed in the back", citing the words of some English general. He thus became one of the chief proponents of the [stab-in-the-back myth](https://pl.wikipedia.org/wiki/Legenda_o_ciosie_w_plecy), although it was he himself who had demanded an armistice in September 1918.
+In the winter of 1918/1919 the Supreme Command moved to Kassel and then to [Kolberg](https://pl.wikipedia.org/wiki/Kołobrzeg). In June 1919, when the government was weighing whether to accept the Treaty of Versailles, Hindenburg judged armed resistance hopeless, but left it to Groener to pass this on to the politicians. Soon afterwards he retired from the service. On 18 November 1919, before the National Assembly's committee investigating the causes of the defeat, he declared that the army had been "stabbed in the back", citing the words of some English general. He thus became one of the chief proponents of the [stab-in-the-back myth](/slownik/legenda-o-ciosie-w-plecy), although it was he himself who had demanded an armistice in September 1918.
 
 In 1925, at the age of 77, he was elected [President of the Reich](https://pl.wikipedia.org/wiki/Prezydent_Rzeszy) as the candidate of the right. In 1932 he won again, this time with the support of the republican parties, against [Adolf Hitler](https://pl.wikipedia.org/wiki/Adolf_Hitler). From 1930, however, he governed through presidential cabinets resting on decrees, and on 30 January 1933 he appointed Hitler chancellor and in the following weeks signed the decrees that allowed the Nazis to destroy democracy. He died on 2 August 1934 on his estate of Neudeck in East Prussia, now [Ogrodzieniec](https://pl.wikipedia.org/wiki/Ogrodzieniec_(województwo_warmińsko-mazurskie)) near Kwidzyn. He was buried in the Tannenberg Memorial near Hohenstein. In 1945 the Germans took his coffin west, and today he rests in St Elizabeth's Church in Marburg.
 

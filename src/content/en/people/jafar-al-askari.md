@@ -6,10 +6,10 @@ country: Hejaz
 birthPlace: Baghdad (Ottoman Empire)
 deathPlace: Baghdad
 source: dzafar-al-askari
-sourceHash: 7259157bf4487f675d7813d46b493385087931bb
+sourceHash: a3d7a102d20d60481c11aa9e9d1713ea867710bd
 ---
 
-During the Great War Ja'far al-Askari travelled a road that probably no other officer travelled: he fought first against the British, and then at their side. An Arab from Baghdad, educated in Constantinople and in Germany, in 1915 he organised and led the forces of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order in their expedition against the western border of Egypt. In February 1916 he was taken prisoner at Agagia. In a Cairo prison, shaken by the executions of Arab activists in Syria, he decided to join the revolt of the Sharif of Mecca. From 1917 he commanded the regular units of the Arab Northern Army of Emir [Faisal](/postacie/fajsal-i), with which he fought at Petra, Tafilah and Ma'an, up to the taking of Syria. After the war he helped build the Iraqi army and state, was twice Prime Minister of Iraq, and was killed in 1936 during the country's first military coup.
+During the Great War Ja'far al-Askari travelled a road that probably no other officer travelled: he fought first against the British, and then at their side. An Arab from Baghdad, educated in Constantinople and in Germany, in 1915 he organised and led the forces of the [Senussi](/slownik/sanusijja) order in their expedition against the western border of Egypt. In February 1916 he was taken prisoner at Agagia. In a Cairo prison, shaken by the executions of Arab activists in Syria, he decided to join the revolt of the Sharif of Mecca. From 1917 he commanded the regular units of the Arab Northern Army of Emir [Faisal](/postacie/fajsal-i), with which he fought at Petra, Tafilah and Ma'an, up to the taking of Syria. After the war he helped build the Iraqi army and state, was twice Prime Minister of Iraq, and was killed in 1936 during the country's first military coup.
 
 ## Before the war
 

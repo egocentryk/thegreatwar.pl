@@ -2,10 +2,10 @@
 title: Surrender of Lettow-Vorbeck
 summary: On 25 November 1918 at Abercorn in Northern Rhodesia Lettow-Vorbeck surrendered. His Schutztruppe, unbeaten in the field, had 155 Europeans and 1,168 askaris.
 source: kapitulacja-lettow-vorbecka
-sourceHash: d16fc2461897f9a8e7a3bc19d06d4921c10f0637
+sourceHash: 8448a175aa1ec82a3599cb835f64433f22166ccc
 ---
 
-On 25 November 1918 at Abercorn, today's [Mbala](https://pl.wikipedia.org/wiki/Mbala), on the northern edge of [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) laid down its arms before the British Brigadier-General W. F. S. Edwards. So ended the last campaign of the First World War. Lettow-Vorbeck had fought in East Africa since August 1914, from the [victory at Tanga](/bitwy/bitwa-pod-tanga) to the raid deep into Northern Rhodesia in the last days of the war, and had never allowed himself to be destroyed. He surrendered because Germany had lost, not his force.
+On 25 November 1918 at Abercorn, today's [Mbala](https://pl.wikipedia.org/wiki/Mbala), on the northern edge of [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), the German [Schutztruppe](/slownik/schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) laid down its arms before the British Brigadier-General W. F. S. Edwards. So ended the last campaign of the First World War. Lettow-Vorbeck had fought in East Africa since August 1914, from the [victory at Tanga](/bitwy/bitwa-pod-tanga) to the raid deep into Northern Rhodesia in the last days of the war, and had never allowed himself to be destroyed. He surrendered because Germany had lost, not his force.
 
 ## The march to Abercorn
 

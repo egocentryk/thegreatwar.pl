@@ -2,7 +2,7 @@
 title: Kalogeropoulos becomes Prime Minister of Greece
 summary: On 16 September 1916 Nikolaos Kalogeropoulos, an opponent of Venizelos, formed a Greek government. The Entente saw a party cabinet as a breach of the June note.
 source: kalogeropulos-premierem-grecji
-sourceHash: aa8dfe24c800e7c5c6935512f83edba1151adb81
+sourceHash: edeb755e154ac73f6891105e9633108d230d4722
 ---
 
 On 16 September 1916, that is, 3 September according to the Julian calendar then used by Greece, the government of Nikolaos Kalogeropoulos was sworn in in Athens. This date is given by Greek lists of governments, by the American annual "The American Year Book" and by the American journalist Paxton Hibben, who at the time knew the king and the new prime minister personally. The country had been without a government for several days: [Alexandros Zaimis had resigned](/dymisja-zaimisa), and the first candidate to succeed him, Nikolaos Dimitrakopoulos, withdrew after a conversation with the British minister. On the same day King [Constantine I](/postacie/konstantyn-i) wrote to his brother, Prince Andrew, who was in London, that he had entrusted Kalogeropoulos with forming a cabinet because the new prime minister was "equally animated by the best intentions towards the Entente".
@@ -21,4 +21,4 @@ From the first day Venizelos questioned the sincerity of the new government. Acc
 
 ## What came next
 
-The British official history records that in a conversation with Elliot a few days after the change of government the king complained angrily about the Allied generals and admirals and about the squadron off Salamis, whose guns were trained on the capital, and said that he would declare war only when he saw fit. The Kalogeropoulos cabinet made an offer for Greece to enter the war once the army had been rebuilt, but the Powers demanded an immediate declaration of war on Bulgaria. The government lasted less than three weeks and resigned at the beginning of October, and at the end of September Venizelos had left Athens to head the National Defence movement. The [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa) divided Greece into two camps.
+The British official history records that in a conversation with Elliot a few days after the change of government the king complained angrily about the Allied generals and admirals and about the squadron off Salamis, whose guns were trained on the capital, and said that he would declare war only when he saw fit. The Kalogeropoulos cabinet made an offer for Greece to enter the war once the army had been rebuilt, but the Powers demanded an immediate declaration of war on Bulgaria. The government lasted less than three weeks and resigned at the beginning of October, and at the end of September Venizelos had left Athens to head the National Defence movement. The [National Schism](/slownik/schizma-narodowa) divided Greece into two camps.

@@ -9,10 +9,10 @@ sides:
     commanders: [Pavel Plehve]
 result: Austro-Hungarian victory. The Russian Fifth Army suffered heavy losses but escaped encirclement and withdrew behind the Bug.
 source: bitwa-pod-komarowem
-sourceHash: 3fca459151abc109961495a666be02e2925fea16
+sourceHash: 69827711e151ede090872f482a94ea885eba39ce
 ---
 
-The [Battle of Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) was fought on 26 August – 2 September 1914 in the Zamość region, between [Zamość](https://pl.wikipedia.org/wiki/Zamość), [Komarów](https://pl.wikipedia.org/wiki/Komarów-Osada) and [Tomaszów Lubelski](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski). At the time these were lands of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)) under Russian rule. Here the Austro-Hungarian Fourth Army of General Moritz von Auffenberg defeated the Russian Fifth Army of General Pavel Plehve and very nearly encircled it. It was Austria-Hungary's greatest victory in the [Battle of Galicia](/bitwy/bitwa-galicyjska).
+The [Battle of Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) was fought on 26 August – 2 September 1914 in the Zamość region, between [Zamość](https://pl.wikipedia.org/wiki/Zamość), [Komarów](https://pl.wikipedia.org/wiki/Komarów-Osada) and [Tomaszów Lubelski](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski). At the time these were lands of the [Kingdom of Poland](/miejsca/krolestwo-polskie) under Russian rule. Here the Austro-Hungarian Fourth Army of General Moritz von Auffenberg defeated the Russian Fifth Army of General Pavel Plehve and very nearly encircled it. It was Austria-Hungary's greatest victory in the [Battle of Galicia](/bitwy/bitwa-galicyjska).
 
 It should not be confused with the [Battle of Komarów of 1920](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem), a great cavalry battle of the Polish–Soviet War, fought almost on the same spot six years later.
 

@@ -2,10 +2,10 @@
 title: Bolsheviks take Minsk
 summary: On 10 December 1918 the Red Army, following the withdrawing Germans, entered Minsk almost without a fight. The Belarusian People's Republic lost its capital.
 source: bolszewicy-zajmuja-minsk
-sourceHash: 886296753573346e90f5a3b413883240aa29b4f7
+sourceHash: 3c0c8e343869301afa97ab647be6ed326c2e6fa3
 ---
 
-On 10 December 1918 units of the [Red Army](https://pl.wikipedia.org/wiki/Armia_Czerwona) entered [Minsk](https://pl.wikipedia.org/wiki/Mińsk), which the Germans had held [since February](/poczatek-operacji-faustschlag). The city was taken practically without a fight. No one was in a position to defend it: the Germans were just withdrawing from it, and neither the authorities of the [Belarusian People's Republic](/bialoruska-republika-ludowa) nor the local Poles had any troops.
+On 10 December 1918 units of the [Red Army](/slownik/czerwona-armia) entered [Minsk](https://pl.wikipedia.org/wiki/Mińsk), which the Germans had held [since February](/poczatek-operacji-faustschlag). The city was taken practically without a fight. No one was in a position to defend it: the Germans were just withdrawing from it, and neither the authorities of the [Belarusian People's Republic](/bialoruska-republika-ludowa) nor the local Poles had any troops.
 
 The end of the war opened the way west for the Bolsheviks. On 13 November, two days after the armistice at Compiègne, Lenin's government annulled the [Treaty of Brest-Litovsk](/traktat-brzeski), and the Red Army was ordered to move into the lands the Germans now had to leave. In the Belarusian direction the Western Army operated, formed in mid-November and commanded by a former tsarist general, [Andrei Snesarev](https://pl.wikipedia.org/wiki/Andriej_Sniesariew). During the night of 16–17 November its units crossed the demarcation line and moved off in the wake of the withdrawing Germans, meeting almost no resistance. According to Russian studies, they took [Polotsk](https://pl.wikipedia.org/wiki/Połock) on 21 November, [Bobruisk](https://pl.wikipedia.org/wiki/Bobrujsk) on 28 November, [Borisov](https://pl.wikipedia.org/wiki/Borysów) on 3 December, [Slutsk](https://pl.wikipedia.org/wiki/Słuck) on 8 December and Ihumen on 9 December. Minsk was entered by units of the [Western Rifle Division](https://pl.wikipedia.org/wiki/Zachodnia_Dywizja_Strzelców), formed in Russia from Poles serving in the Red Army, with the [Revolutionary Red Warsaw Regiment](https://pl.wikipedia.org/wiki/Rewolucyjny_Czerwony_Pułk_Warszawski) as its nucleus.
 

@@ -2,10 +2,10 @@
 title: End of the Battle of Hill 70
 summary: On 25 August 1917 the Canadians took Aloof Trench near Lens, ending the Battle of Hill 70. They held the hill, but the attacks on Lens itself failed.
 source: koniec-bitwy-o-wzgorze-70
-sourceHash: 79608daba29e08af8a1cedce5fca36631b7923d4
+sourceHash: 4d166fb481a9bd970e8a31a2630072c5d247e817
 ---
 
-At 2 a.m. on 25 August 1917 the 50th Battalion of the 4th Canadian Division attacked Aloof Trench on the western edge of [Lens](https://pl.wikipedia.org/wiki/Lens). Instead of the usual artillery barrage, the attack was supported by Stokes mortars and hundreds of rifle grenades. The trench fell almost without a fight, and the battalion lost only a few wounded. With this small success the Battle of Hill 70 came to an end, the first battle of the Canadian Corps under the command of General [Arthur Currie](/postacie/arthur-currie). The hill above Lens, taken on [15 August](/poczatek-bitwy-o-wzgorze-70), remained in Canadian hands, but the Germans held the town itself.
+At 2 a.m. on 25 August 1917 the 50th Battalion of the 4th Canadian Division attacked Aloof Trench on the western edge of [Lens](/miejsca/lens). Instead of the usual artillery barrage, the attack was supported by Stokes mortars and hundreds of rifle grenades. The trench fell almost without a fight, and the battalion lost only a few wounded. With this small success the Battle of Hill 70 came to an end, the first battle of the Canadian Corps under the command of General [Arthur Currie](/postacie/arthur-currie). The hill above Lens, taken on [15 August](/poczatek-bitwy-o-wzgorze-70), remained in Canadian hands, but the Germans held the town itself.
 
 ## The attack on Lens
 

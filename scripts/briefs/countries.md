@@ -140,6 +140,12 @@ double quotes.
 | Persja | persja | persia | 1 | Iran (check our articles' variants, e.g. Persja_(państwo), Kadżarowie) | Łukasz Skowroń | the Qajar state's neutrality of 1914, the Russian and British zones (1907), the Ottoman and Russian campaigns in its north-west, the German agents (Wassmuss, Niedermayer), the gendarmerie and the South Persia Rifles, Kermanshah and Hamadan, the famine of 1917–1919, Dunsterforce and Baku 1918, the 1919 agreement in a sentence; tag "Persja" (83 articles) |
 | Holandia | holandia | netherlands | 2 | Holandia | Natalia | armed neutrality, the Belgian refugees (1914), the interned soldiers, the Netherlands Overseas Trust and the blockade, trade and hunger, the seized ships (1918), Wilhelm II's exile (November 1918); tag "Holandia" |
 
+## Union of South Africa (2026-10-31)
+
+| name | slug | english slug | side | order | wikiTitles | author | dates and notes |
+|---|---|---|---|---|---|---|---|
+| Związek Południowej Afryki | zwiazek-poludniowej-afryki | union-of-south-africa | Ententa | 13 | Związek_Południowej_Afryki | Natalia | `entered` 4 VIII 1914 (with the Empire; check), `left` 11 XI 1918; Botha and Smuts, the Maritz rebellion 1914, German South West Africa 1915 (`/miejsca/niemiecka-afryka-poludniowo-zachodnia`), East Africa (`/bitwy/kampania-wschodnioafrykanska`), Delville Wood (`/bitwy/bitwa-o-las-delville`), the Native Labour Contingent and the Mendi, Smuts in the War Cabinet |
+
 ## Report (short)
 
 Per page: paths, word count, sections, sources, the `entered`/`left` you

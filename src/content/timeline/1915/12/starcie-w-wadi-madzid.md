@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 grudnia 1915 roku brytyjskie Siły Zachodniej Granicy wyszły nocą z [Marsa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) i zaatakowały wojska bractwa [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) zgromadzone kilka kilometrów na południowy zachód od miasta. Do wieczora wyparły je ze wzgórz wokół Gebel Medwa i z doliny Wadi Madżid. Było to pierwsze wyraźne zwycięstwo Brytyjczyków w wojnie na zachodniej granicy Egiptu, choć główne siły przeciwnika zdołały ujść.
+25 grudnia 1915 roku brytyjskie Siły Zachodniej Granicy wyszły nocą z [Marsa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) i zaatakowały wojska bractwa [Sanusijja](/slownik/sanusijja) zgromadzone kilka kilometrów na południowy zachód od miasta. Do wieczora wyparły je ze wzgórz wokół Gebel Medwa i z doliny Wadi Madżid. Było to pierwsze wyraźne zwycięstwo Brytyjczyków w wojnie na zachodniej granicy Egiptu, choć główne siły przeciwnika zdołały ujść.
 
 ## Przed bitwą
 

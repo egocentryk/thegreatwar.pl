@@ -2,10 +2,10 @@
 title: Great Britain orders the mobilisation of the army
 summary: On 3 August 1914 the British government decided to mobilise the army. Proclamations calling up the reservists and the Territorial Force were issued on 4 August.
 source: wielka-brytania-zarzadza-mobilizacje-armii
-sourceHash: 7b1a3775829a4dbae40998787948c0f696186a5d
+sourceHash: 810f8adf3cf32196a1d613d7f83c806d2e9121fa
 ---
 
-On 3 August 1914, after Edward Grey's speech in the House of Commons, the British government decided to mobilise the army. Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith), who since the spring of 1914 had also been in charge of the War Office, asked for help from Lord [Haldane](https://pl.wikipedia.org/wiki/Richard_Haldane), the former Secretary of State for War and author of the reforms that had prepared the army for war. Haldane went to the War Office and set in motion the preparations for [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja).
+On 3 August 1914, after Edward Grey's speech in the House of Commons, the British government decided to mobilise the army. Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith), who since the spring of 1914 had also been in charge of the War Office, asked for help from Lord [Haldane](https://pl.wikipedia.org/wiki/Richard_Haldane), the former Secretary of State for War and author of the reforms that had prepared the army for war. Haldane went to the War Office and set in motion the preparations for [mobilisation](/slownik/mobilizacja).
 
 The formal royal proclamations, calling the reservists to rejoin their units and embodying the Territorial Force for active service, were issued on 4 August. The first day of mobilisation was 5 August. Notices were posted outside post offices and in the streets, and reservists from all over the country set off for their regiments.
 

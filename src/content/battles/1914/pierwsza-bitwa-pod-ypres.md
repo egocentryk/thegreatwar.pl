@@ -79,7 +79,7 @@ Niemieckie straty nigdy nie zostały dokładnie policzone. Reichsarchiv podał p
 
 ## Znaczenie
 
-Pierwsza bitwa pod Ypres zamknęła wyścig do morza. Żadnej ze stron nie udało się obejść przeciwnika, a ciągła linia okopów sięgnęła od Szwajcarii do wybrzeża Morza Północnego. Wojna manewrowa na zachodzie się skończyła, a zaczęła się [wojna pozycyjna](https://pl.wikipedia.org/wiki/Wojna_pozycyjna), która miała trwać do 1918 roku. Niepowodzenie we Flandrii przekonało Falkenhayna, że szybkie rozstrzygnięcie na zachodzie jest niemożliwe.
+Pierwsza bitwa pod Ypres zamknęła wyścig do morza. Żadnej ze stron nie udało się obejść przeciwnika, a ciągła linia okopów sięgnęła od Szwajcarii do wybrzeża Morza Północnego. Wojna manewrowa na zachodzie się skończyła, a zaczęła się [wojna pozycyjna](/slownik/wojna-pozycyjna), która miała trwać do 1918 roku. Niepowodzenie we Flandrii przekonało Falkenhayna, że szybkie rozstrzygnięcie na zachodzie jest niemożliwe.
 
 Dla Brytyjczyków była to bitwa, w której przestała istnieć ich stara armia zawodowa. Od sierpnia do końca listopada Brytyjski Korpus Ekspedycyjny stracił prawie 90 tysięcy ludzi, podczas gdy piechota pierwszych siedmiu dywizji liczyła na początku około 84 tysięcy. Z około 12 tysięcy żołnierzy 7 Dywizji na początku listopada zostało nieco ponad 3 tysiące. Ich miejsce zajęli rezerwiści, ochotnicy Sił Terytorialnych, żołnierze z Indii, a później z Kanady, oraz rosnące Nowe Armie Kitchenera.
 

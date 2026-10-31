@@ -2,10 +2,10 @@
 title: Portuguese land in France
 summary: On 2 February 1917 the 1st Brigade of the Portuguese Expeditionary Corps landed at Brest. The Portuguese went on to Flanders to train under British guidance.
 source: portugalczycy-laduja-we-francji
-sourceHash: ffa5ef5ee172e2ab5cd46ae980ae0b741f1d1a85
+sourceHash: 2e1fde5b19e6f1edbcc919dcd4c57fd349d3e9f2
 ---
 
-On 2 February 1917 at [Brest](https://pl.wikipedia.org/wiki/Brest), a port at the western tip of Brittany, the first soldiers of the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) (Corpo Expedicionário Português, CEP) came ashore. This was the 1st Brigade under Manuel Gomes da Costa, the future commander of a Portuguese division in France and, after the war, one of the leaders of the 1926 coup d'état. Half a year after [the Portuguese parliament agreed to the country's participation in the war in Europe](/portugalia-postanawia-wyslac-wojska-do-europy), and a month after the signing of the [military convention with Britain](/brytyjsko-portugalska-konwencja-wojskowa), Portugal had at last sent her soldiers to the Western Front.
+On 2 February 1917 at [Brest](https://pl.wikipedia.org/wiki/Brest), a port at the western tip of Brittany, the first soldiers of the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) (Corpo Expedicionário Português, CEP) came ashore. This was the 1st Brigade under Manuel Gomes da Costa, the future commander of a Portuguese division in France and, after the war, one of the leaders of the 1926 coup d'état. Half a year after [the Portuguese parliament agreed to the country's participation in the war in Europe](/portugalia-postanawia-wyslac-wojska-do-europy), and a month after the signing of the [military convention with Britain](/brytyjsko-portugalska-konwencja-wojskowa), Portugal had at last sent her soldiers to the Western Front.
 
 ## The voyage from Lisbon
 

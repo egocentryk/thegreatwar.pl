@@ -6,10 +6,10 @@ country: Germany
 birthPlace: Saarlouis (Germany)
 deathPlace: Hamburg
 source: paul-von-lettow-vorbeck
-sourceHash: e8849bab9036d57760bcff33b8c0c4dbd72bc099
+sourceHash: 905e090bd90400c028d3525bebd2706bf5dfa270
 ---
 
-Paul von Lettow-Vorbeck commanded the German colonial troops, the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), in [German East Africa](/bitwy/kampania-wschodnioafrykanska). From August 1914 to November 1918, with an army made up mostly of African [askaris](/slownik/askarysi) and cut off from Germany by the British blockade, he fought British, South African, Indian, Belgian and Portuguese forces many times more numerous. He was never encircled or destroyed, and he laid down his arms only two weeks after the armistice of Compiègne. In Germany he became the legend of the general "undefeated in the field". Today the enormous price paid for his campaign by the people of East Africa is also remembered.
+Paul von Lettow-Vorbeck commanded the German colonial troops, the [Schutztruppe](/slownik/schutztruppe), in [German East Africa](/bitwy/kampania-wschodnioafrykanska). From August 1914 to November 1918, with an army made up mostly of African [askaris](/slownik/askarysi) and cut off from Germany by the British blockade, he fought British, South African, Indian, Belgian and Portuguese forces many times more numerous. He was never encircled or destroyed, and he laid down his arms only two weeks after the armistice of Compiègne. In Germany he became the legend of the general "undefeated in the field". Today the enormous price paid for his campaign by the people of East Africa is also remembered.
 
 ## Before the war
 

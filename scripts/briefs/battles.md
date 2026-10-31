@@ -66,3 +66,22 @@ precedent for sub-battles). Model: `src/content/battles/1916/bitwa-pod-asiago.md
 Polish and English paths, word count, the sources, any date you changed and
 why, conflicts with existing pages (file + what), suggested coordinates
 (lat/lon of a sensible centre point for the map).
+
+## Campaign overview: Front salonicki (2026-10-31)
+
+| slug / English slug | title (PL / EN) | front | phase | startDate – endDate | author |
+|---|---|---|---|---|---|
+| `1915/front-salonicki` / `salonika-front` | Front salonicki / The Salonika Front | Front bałkański | 1915-podboj-serbii | 1915-10-05 – 1918-09-30 | Natalia |
+
+It replaces the most repeated pl.wikipedia link (Front_salonicki, 37
+links). The Allied landing at Salonika (October 1915), the failed help for
+Serbia and the retreat, the entrenched camp ("the gardeners of Salonika"),
+the Serbian army from Corfu, 1916 (Florina, the Czerna bend and Bitola),
+1917 (the March offensive, Dojran), malaria, the Greek schism and Greece's
+entry, 1918 (Skra, Dobro Pole, Dojran, the Bulgarian armistice of
+29/30 IX). Its battles (all under `src/content/battles/1915–1918`, grep
+`Front bałkański`) are listed by the page itself: link only what started
+before 5 X 1915. Place pages `/miejsca/saloniki`, `/miejsca/wardar`,
+`/miejsca/bitola`, `/miejsca/crna-reka`, `/miejsca/korfu` are reference
+pages and may be linked. A place page or force page link is not a battle
+link: the date rule is for battles and timeline articles only.

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 23 i 24 stycznia 1915 roku obronę [Upington](https://pl.wikipedia.org/wiki/Upington), miasteczka nad rzeką [Oranje](https://pl.wikipedia.org/wiki/Oranje) w północnej części Prowincji Przylądkowej [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Według południowoafrykańskich opracowań rebelianci generałów Manie Maritza i Jana Kempa uderzyli na miasto o świcie w niedzielę 24 stycznia. Data 23 stycznia odnosi się zapewne do ich podejścia pod Upington. Był to ostatni duży bój [rebelii burskiej](/poczatek-rebelii-burskiej).
+Brytyjska chronologia wojny notuje pod 23 i 24 stycznia 1915 roku obronę [Upington](https://pl.wikipedia.org/wiki/Upington), miasteczka nad rzeką [Oranje](https://pl.wikipedia.org/wiki/Oranje) w północnej części Prowincji Przylądkowej [Związku Południowej Afryki](/kraje/zwiazek-poludniowej-afryki). Według południowoafrykańskich opracowań rebelianci generałów Manie Maritza i Jana Kempa uderzyli na miasto o świcie w niedzielę 24 stycznia. Data 23 stycznia odnosi się zapewne do ich podejścia pod Upington. Był to ostatni duży bój [rebelii burskiej](/poczatek-rebelii-burskiej).
 
 ## Ostatnia karta rebeliantów
 

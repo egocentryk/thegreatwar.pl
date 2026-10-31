@@ -2,10 +2,10 @@
 title: Russians take Kermanshah
 summary: At the end of February 1916 Baratov's corps entered abandoned Kermanshah. Persian nationalists, Germans and Turks fell back towards the Iraqi border.
 source: rosjanie-zajmuja-kermanszah
-sourceHash: 8213ca6e56531fb24d88c51fda6aa91493f478a5
+sourceHash: df3c4e2dc697dbd0d844f9d463b76489c8bc1f9e
 ---
 
-On 26 February 1916 units of General Nikolai Baratov's Russian expeditionary corps entered [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), the main city of western Persia. Its defenders abandoned it without a fight. The date of 26 February is given by the British chronology of the war, by W.E.D. Allen and Paul Muratoff's history of the Caucasian wars and by the work of General Yevgeny Maslovsky, who writes of 13 February by the Julian calendar. The British official history of the Mesopotamian campaign places the capture of the city a day earlier, and the Iranian historian Iraj Nasseri, relying on Persian sources, a day later.
+On 26 February 1916 units of General Nikolai Baratov's Russian expeditionary corps entered [Kermanshah](/miejsca/kermanszah), the main city of western Persia. Its defenders abandoned it without a fight. The date of 26 February is given by the British chronology of the war, by W.E.D. Allen and Paul Muratoff's history of the Caucasian wars and by the work of General Yevgeny Maslovsky, who writes of 13 February by the Julian calendar. The British official history of the Mesopotamian campaign places the capture of the city a day earlier, and the Iranian historian Iraj Nasseri, relying on Persian sources, a day later.
 
 ## The line at Bid-e Sorkh
 

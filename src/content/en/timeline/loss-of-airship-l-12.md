@@ -2,10 +2,10 @@
 title: Loss of airship L 12
 summary: On the night of 9–10 August 1915 guns at Dover hit airship L 12. It came down in the sea, was towed to Ostend and was bombed there by RNAS airmen.
 source: utrata-sterowca-l-12
-sourceHash: 1b9c5e23d4fb52c0cb2d314fd28caf8533300972
+sourceHash: 059a80ba9ede06783c137181acb1797cb99c5e7e
 ---
 
-Early on the morning of 10 August 1915 the German naval [airship](/slownik/sterowiec) L 12, damaged during the night over [Dover](https://pl.wikipedia.org/wiki/Dover) by a British anti-aircraft shell, came down on the sea off the coast of occupied Belgium. German torpedo boats towed it into [Ostend](/miejsca/ostenda). Throughout the day it was attacked there by airmen of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) from Dunkirk, and while the wreck was being dismantled the airship burned. The British chronology of the war records under this date that L 12 was "seriously damaged by British aeroplanes off Ostend". In reality its fate had already been sealed by the night-time fire from Dover, and the bombing from the air finished the job.
+Early on the morning of 10 August 1915 the German naval [airship](/slownik/sterowiec) L 12, damaged during the night over [Dover](/miejsca/dover) by a British anti-aircraft shell, came down on the sea off the coast of occupied Belgium. German torpedo boats towed it into [Ostend](/miejsca/ostenda). Throughout the day it was attacked there by airmen of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) from Dunkirk, and while the wreck was being dismantled the airship burned. The British chronology of the war records under this date that L 12 was "seriously damaged by British aeroplanes off Ostend". In reality its fate had already been sealed by the night-time fire from Dover, and the bombing from the air finished the job.
 
 ## A raid on London that never arrived
 

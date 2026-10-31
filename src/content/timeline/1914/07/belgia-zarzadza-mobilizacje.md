@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-31 lipca 1914 roku rząd [Belgii](/kraje/belgia) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) armii. Jej pierwszym dniem był 1 sierpnia. Decyzja zapadła w chwili, gdy Rosja rozpoczynała mobilizację powszechną, a w Niemczech ogłaszano stan zagrożenia wojennego. Wojna między wielkimi mocarstwami stała się niemal pewna, a położona między Francją a Niemcami Belgia musiała przygotować się na najgorsze.
+31 lipca 1914 roku rząd [Belgii](/kraje/belgia) zarządził powszechną [mobilizację](/slownik/mobilizacja) armii. Jej pierwszym dniem był 1 sierpnia. Decyzja zapadła w chwili, gdy Rosja rozpoczynała mobilizację powszechną, a w Niemczech ogłaszano stan zagrożenia wojennego. Wojna między wielkimi mocarstwami stała się niemal pewna, a położona między Francją a Niemcami Belgia musiała przygotować się na najgorsze.
 
 Mobilizacja nie była wymierzona w konkretne państwo. Belgia, której neutralność od 1839 roku gwarantowały mocarstwa na mocy [traktatu londyńskiego](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)), zamierzała bronić jej przed każdym, kto zechciałby ją naruszyć. Król [Albert I](/postacie/albert-i), zgodnie z konstytucją naczelny wódz armii, był zdecydowany zrealizować zapowiedź złożoną przez rząd kilka dni wcześniej: neutralność miała być broniona, a nie tylko deklarowana.
 

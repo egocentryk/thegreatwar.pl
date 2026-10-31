@@ -2,14 +2,14 @@
 title: Fighting at Karonga
 summary: On 9 September 1914 British troops repulsed a German attack on Karonga in Nyasaland, now Malawi, the first serious clash of the war in this part of Africa.
 source: walki-pod-karonga
-sourceHash: 578287cd7b107cea577a1b7e112048301b0473f9
+sourceHash: 7fbe0e3ee9ee9ce439f2a019ae784114be851e8b
 ---
 
 On 9 September 1914, at [Karonga](https://pl.wikipedia.org/wiki/Karonga), a settlement on the north-western shore of [Lake Nyasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)), the first serious battle took place on the border between the British [Nyasaland Protectorate](https://pl.wikipedia.org/wiki/Niasa_(protektorat)), today's Malawi, and [German East Africa](/bitwy/kampania-wschodnioafrykanska). The British repulsed a German attack and inflicted heavy losses on the attackers.
 
 ## The expedition against Karonga
 
-Karonga, the seat of the district administration, lay only a few dozen kilometres from the border river, the Songwe. The war reached it early: as early as 13 August the British armed steamer Guendolen disabled the German vessel Hermann von Wissmann on the lake. At the beginning of September the 5th Field Company of the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), under Erich von Langenn-Steinkeller, gathered on the German side of the border, supported by several hundred irregular [ruga-ruga](https://pl.wikipedia.org/wiki/Rugaruga) warriors. Sources estimate the whole force at 400–700 men. The Germans crossed the Songwe and advanced along the lake shore on Karonga.
+Karonga, the seat of the district administration, lay only a few dozen kilometres from the border river, the Songwe. The war reached it early: as early as 13 August the British armed steamer Guendolen disabled the German vessel Hermann von Wissmann on the lake. At the beginning of September the 5th Field Company of the [Schutztruppe](/slownik/schutztruppe), under Erich von Langenn-Steinkeller, gathered on the German side of the border, supported by several hundred irregular [ruga-ruga](https://pl.wikipedia.org/wiki/Rugaruga) warriors. Sources estimate the whole force at 400–700 men. The Germans crossed the Songwe and advanced along the lake shore on Karonga.
 
 The British were expecting an attack. At the end of August they concentrated in the area some 400 African soldiers of the 1st Battalion, King's African Rifles, and nearly a hundred white volunteers from the local reserve under Captain C. W. Barton. On 8 September Barton set out north with the main force to meet the enemy. In Karonga itself he left only Lieutenant Bishop with a few dozen askaris and policemen and a handful of civilians.
 

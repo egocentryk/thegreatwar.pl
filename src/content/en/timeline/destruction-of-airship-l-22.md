@@ -2,7 +2,7 @@
 title: Destruction of airship L 22
 summary: At dawn on 14 May 1917 a British flying boat from Great Yarmouth shot down the naval airship L 22 near Terschelling. All 21 airmen were killed.
 source: zniszczenie-sterowca-l-22
-sourceHash: d3c779039f669691c101daba0c28acc27dfcae17
+sourceHash: 3edbf4bfba20c0800b8eae6bbd76684b6c1941c0
 ---
 
 At dawn on 14 May 1917, over the [North Sea](/miejsca/morze-polnocne) near the Dutch island of [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), the German naval [airship](/slownik/sterowiec) L 22 fell in flames. The whole crew was killed, 21 men including the commander, Kapitänleutnant Ulrich Lehmann. A British chronology of the war records that the airship was destroyed by British warships. That had been the case a year earlier with [L 7](/zniszczenie-sterowca-l-7), but L 22 was shot down by an aircraft: a twin-engined Curtiss H.12 "Large America" [flying boat](https://pl.wikipedia.org/wiki/Łódź_latająca) from the naval air station at [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). This is agreed by H. A. Jones's British official history of the air war and by later studies.
@@ -19,4 +19,4 @@ At 4.48, according to Jones, the airship was sighted from the flying boat at a d
 
 ## Significance
 
-It was, as far as is known, the first airship destroyed by a flying boat. Galpin received the [Distinguished Service Order](https://pl.wikipedia.org/wiki/Order_Wybitnej_Służby) for this flight, and Leckie the Distinguished Service Cross. For the German navy the loss was painful not only because of the ship and crew. The airships, which until then had been able to patrol safely low over the sea, discovered that British aircraft could reach them there too. A month later, on 14 June, another H.12 flying boat shot down the airship L 43 in a similar way near the island of [Vlieland](https://pl.wikipedia.org/wiki/Vlieland). After these losses the airship commanders had to patrol at great heights. From there, however, it was harder to spot submarines and mines, and easier for British submarines to slip through unnoticed.
+It was, as far as is known, the first airship destroyed by a flying boat. Galpin received the [Distinguished Service Order](/slownik/order-wybitnej-sluzby) for this flight, and Leckie the Distinguished Service Cross. For the German navy the loss was painful not only because of the ship and crew. The airships, which until then had been able to patrol safely low over the sea, discovered that British aircraft could reach them there too. A month later, on 14 June, another H.12 flying boat shot down the airship L 43 in a similar way near the island of [Vlieland](https://pl.wikipedia.org/wiki/Vlieland). After these losses the airship commanders had to patrol at great heights. From there, however, it was harder to spot submarines and mines, and easier for British submarines to slip through unnoticed.

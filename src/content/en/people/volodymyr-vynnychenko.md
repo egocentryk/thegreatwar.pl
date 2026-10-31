@@ -6,7 +6,7 @@ country: Ukraine
 birthPlace: Yelisavetgrad (now Kropyvnytskyi, Ukraine)
 deathPlace: Mougins (France)
 source: wolodymyr-wynnyczenko
-sourceHash: 22eb7755db0604acb6ea547af68ce579557245a6
+sourceHash: e64583a8cdcd2bba977ed8e4f5c36f5ff3149eff
 ---
 
 Volodymyr Vynnychenko was the most popular Ukrainian writer of his generation and one of the three men who led the Ukrainian revolution. In 1917, as the first head of the Central Rada's government, he negotiated autonomy for Ukraine with Petrograd. In the winter of 1917–1918, when Kyiv found itself at war with the Bolsheviks, he headed the cabinet that sent a delegation to the peace negotiations at Brest. In November 1918 he became head of the Directorate that overthrew Hetman Skoropadskyi. He tied himself neither to the Central Powers nor to the Entente. He was a socialist, an opponent of a standing army and an advocate of agreement with the Russian revolution, and in 1918 he fought the hetmanate that rested on German bayonets. His quarrel with Symon Petliura split the leadership of the reborn republic.
@@ -23,7 +23,7 @@ The outbreak of war found him abroad. He returned secretly to Russia and until 1
 
 ## 1917: head of government
 
-After the [February Revolution](/abdykacja-mikolaja-ii) he returned to Kyiv and joined the [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada), where he became one of the two deputies of its chairman, [Mykhailo Hrushevsky](/postacie/mychajlo-hruszewski). He was the author or co-author of most of its declarations. In May he led a delegation to Petrograd demanding autonomy, but the Provisional Government refused. On 23 June (10 June Old Style) it was Vynnychenko who read out to a military congress the First Universal, which proclaimed that Ukraine would order its own life. A few days later he became head of the General Secretariat, the first Ukrainian government, and took charge of internal affairs in it.
+After the [February Revolution](/abdykacja-mikolaja-ii) he returned to Kyiv and joined the [Ukrainian Central Rada](/slownik/ukrainska-centralna-rada), where he became one of the two deputies of its chairman, [Mykhailo Hrushevsky](/postacie/mychajlo-hruszewski). He was the author or co-author of most of its declarations. In May he led a delegation to Petrograd demanding autonomy, but the Provisional Government refused. On 23 June (10 June Old Style) it was Vynnychenko who read out to a military congress the First Universal, which proclaimed that Ukraine would order its own life. A few days later he became head of the General Secretariat, the first Ukrainian government, and took charge of internal affairs in it.
 
 In July he negotiated in Kyiv with ministers of the Provisional Government, among them [Alexander Kerensky](/postacie/aleksander-kierenski) and [Irakli Tsereteli](/postacie/irakli-cereteli). The agreement, under which Petrograd recognised the Secretariat as its organ in Ukraine, was announced in the Second Universal, and the concessions to Kyiv set off a [government crisis in Petrograd](/kierenski-premierem-rosji). Vynnychenko, however, regarded a standing army as obsolete and wanted to replace it with a people's militia, which led to sharp clashes with Petliura, the secretary for military affairs.
 

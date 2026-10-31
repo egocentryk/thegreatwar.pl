@@ -2,12 +2,12 @@
 title: Sinking of HMS Hermes
 summary: On 31 October 1914 U-27 torpedoed the British seaplane carrier Hermes in the Strait of Dover. More than 20 sailors were killed.
 source: zatoniecie-hms-hermes
-sourceHash: c21b3aba534c3a28b0106815501bb4aeed13057d
+sourceHash: 2618817078e2a3d06631b364f5f055b9ab815308
 ---
 
 On 31 October 1914 the German submarine [U-27](https://pl.wikipedia.org/wiki/SM_U-27_(1913)), commanded by Kapitänleutnant Bernd Wegener, torpedoed the British ship Hermes in the [Strait of Dover](/miejsca/ciesnina-kaletanska), a dozen or so kilometres from [Calais](https://pl.wikipedia.org/wiki/Calais). She was the first ship adapted to carry aircraft to be lost by the British fleet.
 
-Hermes was an old cruiser, launched at the end of the 19th century. In 1913 she was converted into the Royal Navy's first experimental [seaplane carrier](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów). A launching platform was fitted on the bow, and canvas hangars and a crane for lifting aircraft out of the water were installed on deck. The ship could carry three [seaplanes](https://pl.wikipedia.org/wiki/Wodnosamolot). During the fleet's summer manoeuvres in 1913 the trials went promisingly. They also showed that reconnaissance aircraft needed wireless sets if their observations were to be of use.
+Hermes was an old cruiser, launched at the end of the 19th century. In 1913 she was converted into the Royal Navy's first experimental [seaplane carrier](/slownik/okret-baza-wodnosamolotow). A launching platform was fitted on the bow, and canvas hangars and a crane for lifting aircraft out of the water were installed on deck. The ship could carry three [seaplanes](/slownik/wodnosamolot). During the fleet's summer manoeuvres in 1913 the trials went promisingly. They also showed that reconnaissance aircraft needed wireless sets if their observations were to be of use.
 
 After the outbreak of war, on 31 August 1914, the ship was recommissioned. She did not operate as an aircraft carrier, however, but as a transport and supply base for the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), the air arm of the British navy. She ferried aircraft and equipment across the Channel to France. On 30 October she delivered seaplanes to [Dunkirk](https://pl.wikipedia.org/wiki/Dunkierka). The next morning she set out on the return voyage, but was soon ordered back because a German submarine had been sighted in the area.
 

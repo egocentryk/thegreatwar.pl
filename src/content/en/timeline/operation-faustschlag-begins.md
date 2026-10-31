@@ -2,7 +2,7 @@
 title: Operation Faustschlag begins
 summary: At noon on 18 February 1918 the armistice on the Eastern Front expired. The Germans advanced and that same day, almost without a fight, took Dvinsk and Lutsk.
 source: poczatek-operacji-faustschlag
-sourceHash: 7896225bccd17de6996437a6cf303ba91d450d7d
+sourceHash: 3323d994da110defe204a8b3c221f73e237e7981
 brief:
   - "At noon on 18 February 1918 the armistice on the Eastern Front expired, and a few hours later German troops advanced from the Gulf of Riga to Volhynia. Operation Faustschlag, the last great offensive in the east, had begun."
   - "On 10 February Trotsky had announced that Russia was ending the war but would not sign an annexationist peace. The German command treated this as notice ending the armistice and wanted to force a peace on its terms."
@@ -28,4 +28,4 @@ Dvinsk, a great railway junction on the Dvina that housed the headquarters of th
 
 By the morning of 18 February the Soviet government already knew of the German movements, and soon news came of the loss of Dvinsk and Lutsk. [Vladimir Lenin](/postacie/wlodzimierz-lenin), who since January had been pressing for peace to be signed, believed that there was not a moment to lose. When Samoylo's telegram arrived, he told Trotsky that waiting for the German attack meant losing Dvinsk and a great deal of artillery. On the morning of 18 February, however, his motion was defeated in the Bolshevik Central Committee by one vote. The committee met again in the evening, and after several hours of argument Lenin won by the narrowest of majorities. At about midnight the radio station sent a telegram to Berlin stating that the Soviet government accepted the peace terms dictated at Brest.
 
-The Germans were in no hurry. Before negotiations resumed they wanted to reach at least Lake Peipus. So the offensive went on. Over the following week the Germans took Minsk, Dorpat, Reval and Pskov, and on 23 February they presented Russia with a new, much harsher ultimatum. Lenin forced through its acceptance, and on 3 March the Soviet delegation signed at Brest the [peace treaty](https://pl.wikipedia.org/wiki/Traktat_brzeski) in which Russia renounced Poland, Lithuania and Courland, evacuated Livonia and Estonia, and recognised the independence of Finland and Ukraine.
+The Germans were in no hurry. Before negotiations resumed they wanted to reach at least Lake Peipus. So the offensive went on. Over the following week the Germans took Minsk, Dorpat, Reval and Pskov, and on 23 February they presented Russia with a new, much harsher ultimatum. Lenin forced through its acceptance, and on 3 March the Soviet delegation signed at Brest the [peace treaty](/slownik/traktat-brzeski) in which Russia renounced Poland, Lithuania and Courland, evacuated Livonia and Estonia, and recognised the independence of Finland and Ukraine.

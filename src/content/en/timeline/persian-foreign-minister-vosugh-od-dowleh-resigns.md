@@ -2,14 +2,14 @@
 title: Persian foreign minister Vosugh od-Dowleh resigns
 summary: Chronicles of the time record that on 18 August 1914 Persia's foreign minister Vosugh od-Dowleh resigned. The country faced a choice of stance towards the war.
 source: wosug-od-dole-ustepuje-z-urzedu-ministra
-sourceHash: f08b45077e5c4c463ce103a7b8f91fe8300a536e
+sourceHash: a15e97da6296f1ceba3d9cb25c994387bb568458
 ---
 
 According to chronicles of the war from the time, on 18 August 1914 Vosugh od-Dowleh, who had held the post since January 1913, resigned as foreign minister of [Persia](/kraje/persja). His resignation preceded a change of the whole government in the following days.
 
 ## Persia between the powers
 
-Persia, ruled by the [Qajar](https://pl.wikipedia.org/wiki/Kadżarowie) dynasty, was in 1914 a weak state dependent on the great powers. Under the agreement of 1907 Russia and Great Britain had divided it into spheres of influence: a Russian one in the north and a British one in the south. The young [Ahmad Shah](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) had been crowned and assumed full power only in July 1914, on coming of age.
+Persia, ruled by the [Qajar](https://pl.wikipedia.org/wiki/Kadżarowie) dynasty, was in 1914 a weak state dependent on the great powers. Under the agreement of 1907 Russia and Great Britain had divided it into spheres of influence: a Russian one in the north and a British one in the south. The young [Ahmad Shah](/postacie/ahmad-szah-kadzar) had been crowned and assumed full power only in July 1914, on coming of age.
 
 The outbreak of war put the country in a difficult position. On one side stood Russia and Great Britain, which controlled a large part of Persia. On the other stood Germany, and soon also the Ottoman Empire, which enjoyed the sympathy of part of the Persian elite, resentful of Russian and British domination.
 

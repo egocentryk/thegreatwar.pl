@@ -1,0 +1,265 @@
+{
+ "slug": "dover",
+ "paragraphs": [
+  {
+   "start": "Dover, port w hrabstwie Kent naprzeciw francuskiego",
+   "quotes": [
+    {
+     "url": "https://www.dovermuseum.co.uk/Dover-History/20th-Century-Dover.aspx",
+     "quote": "During this period, Dover was one of the most important military centres in Britain."
+    },
+    {
+     "url": "https://www.dovermuseum.co.uk/Dover-History/20th-Century-Dover.aspx",
+     "quote": "Dover Harbour was also significant due to it housing the Dover Patrol, a varied collection of warships and fishing vessels which protected Britain's vital control of the channel."
+    },
+    {
+     "url": "https://www.nationaltransporttrust.org.uk/heritage-sites/heritage-detail/dover-marinewestern-docks-station",
+     "quote": "During the Great War it served as the Britain's ambulance train station, carrying many thousands of wounded from the Western Front."
+    },
+    {
+     "file": "src/content/timeline/1914/12/pierwszy-niemiecki-nalot-na-anglie.md",
+     "quote": "Brytyjczycy, którzy do tej pory obawiali się przede wszystkim zeppelinów, przekonali się, że zagrożenie z powietrza może nadejść także z niemieckich baz lotniczych na wybrzeżu Belgii."
+    },
+    {
+     "file": "src/content/postacie/roger-keyes.md",
+     "quote": "w 1918 roku jako dowódca Patrolu Dover poprowadził [rajd na Zeebrugge](/rajd-na-zeebrugge), najsłynniejszą akcję brytyjskiej marynarki w tej wojnie."
+    }
+   ]
+  },
+  {
+   "start": "Admiralicja zaczęła przebudowywać Dover na wielki",
+   "quotes": [
+    {
+     "url": "https://doverhistorian.com/2014/05/17/world-war-i-dover-at-the-outbreak",
+     "quote": "in 1898, work started on converting the Dover into the Admiralty Harbour, that we see today. It was to be the base for the Royal Navy at the southern end of the North Sea. On Friday 15 October 1909, the new harbour was opened"
+    },
+    {
+     "url": "https://heritage.kent.gov.uk/Designation/DKE19928",
+     "quote": "a vast artificial harbour called Admiralty Harbour, designed by the firm of Coode, Son and Mathews and built between 1898 and 1909"
+    },
+    {
+     "file": "src/content/timeline/1914/12/pierwsza-bomba-na-angielskiej-ziemi.md",
+     "quote": "średniowieczną twierdzę górującą nad portem, która wciąż służyła wojsku"
+    },
+    {
+     "url": "https://doverhistorian.com/2014/05/17/world-war-i-dover-at-the-outbreak",
+     "quote": "Dover, besides being a port was also a major military base with huge barracks on both the Eastern – where the Castle is – and Western Heights."
+    }
+   ]
+  },
+  {
+   "start": "Gdy 4 sierpnia 1914 roku Wielka Brytania przystąpiła",
+   "quotes": [
+    {
+     "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/fortress-dover/",
+     "quote": "When war was declared on 4 August 1914, Dover assumed a vital role in the defence of Britain."
+    },
+    {
+     "url": "https://doverhistorian.com/2014/05/17/world-war-i-dover-at-the-outbreak",
+     "quote": "Entrance and exit to, the now Fortress Dover, could only take place by the railways and the main roads to Folkestone, Deal and Canterbury. Special passes, limited in number, were necessary for those who required entering or leaving the town. The Military Authorities had the power to arrest and search. All local newspapers were subject to censorship by the military"
+    },
+    {
+     "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/fortress-dover/",
+     "quote": "The floor on top of this, which was added in 1914, operated as a Port War Signal Station. From here the Navy controlled the movements of all ships in and out of the harbour, communicating with ships and other signal station using flags and wireless, and providing early warning of attack by enemy ships and aircraft."
+    },
+    {
+     "url": "https://doverhistorian.com/2014/05/17/world-war-i-dover-at-the-outbreak",
+     "quote": "Because Dover was the military port, Folkestone remained the civilian port for the Channel crossing"
+    }
+   ]
+  },
+  {
+   "start": "13 sierpnia z Dover przeleciały do Francji pierwsze",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/royal-flying-corps-przelatuje-do-francji.md",
+     "quote": "13 sierpnia 1914 roku samoloty [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), lotnictwa brytyjskiej armii lądowej, wystartowały z [Dover](https://pl.wikipedia.org/wiki/Dover) i przeleciały nad kanałem La Manche do Francji."
+    },
+    {
+     "file": "src/content/timeline/1914/10/belgowie-opuszczaja-ostende-i-zeebrugge.md",
+     "quote": "Resztki Dywizji Marynarki, która [walczyła w Antwerpii](/piechota-morska-przybywa-do-antwerpii), zaokrętowano w Ostendzie i 11 października dotarły do Dover."
+    },
+    {
+     "file": "src/content/timeline/1914/10/brytyjskie-okrety-ostrzeliwuja-wybrzeze-belgii.md",
+     "quote": "Hood objął 12 października dowództwo Patrolu Dover"
+    },
+    {
+     "file": "src/content/places/ciesnina-kaletanska.md",
+     "quote": "Samodzielne dowództwo strzegące cieśniny powstało 12 października 1914 roku, tuż po upadku Antwerpii. Pierwszym dowódcą Patrolu Dover był kontradmirał Horace Hood"
+    }
+   ]
+  },
+  {
+   "start": "Przez cztery lata port był domem patrolu",
+   "quotes": [
+    {
+     "file": "src/content/places/ciesnina-kaletanska.md",
+     "quote": "Patrol miał bazy w Dover i Dunkierce i zebrał bardzo różne jednostki: krążowniki, monitory, niszczyciele, uzbrojone trawlery i dryftery, trałowce, kutry motorowe, okręty podwodne i samoloty."
+    },
+    {
+     "file": "src/content/places/ciesnina-kaletanska.md",
+     "quote": "Odpowiedzią Niemców były nocne wypady torpedowców z portów Flandrii."
+    },
+    {
+     "file": "src/content/postacie/roger-keyes.md",
+     "quote": "Do jesieni Patrol Dover osłaniał przewozy przez kanał, nękał wybrzeże Flandrii ostrzałem z monitorów"
+    },
+    {
+     "url": "https://heritage.kent.gov.uk/Designation/DKE19928",
+     "quote": "accommodation and magazines were provided for gunners during the First World War to protect the 670 feet long entrance to the harbour"
+    },
+    {
+     "url": "https://heritage.kent.gov.uk/Designation/DKE19928",
+     "quote": "Anti-aircraft guns were provided in concrete emplacements with searchlights in boom defences"
+    }
+   ]
+  },
+  {
+   "start": "Dover był również przystanią rannych.",
+   "quotes": [
+    {
+     "url": "https://www.nationaltransporttrust.org.uk/heritage-sites/heritage-detail/dover-marinewestern-docks-station",
+     "quote": "The construction of Dover Marine Station on an expanded Admiralty Pier was started by the South Eastern & Chatham Railway (SECR) in 1910. It was conpleted in 1914, becoming operational on 2 February 1915"
+    },
+    {
+     "url": "https://www.nationaltransporttrust.org.uk/heritage-sites/heritage-detail/dover-marinewestern-docks-station",
+     "quote": "During the Great War it served as the Britain's ambulance train station, carrying many thousands of wounded from the Western Front."
+    },
+    {
+     "file": "src/content/timeline/1915/11/zatoniecie-statku-szpitalnego-anglia.md",
+     "quote": "17 listopada 1915 roku, krótko po południu, brytyjski [statek szpitalny](/slownik/statek-szpitalny) [Anglia](https://pl.wikipedia.org/wiki/HMHS_Anglia), wiozący rannych żołnierzy z Francji do [Dover](https://pl.wikipedia.org/wiki/Dover), wszedł na minę"
+    },
+    {
+     "file": "src/content/timeline/1916/02/zatoniecie-krazownika-arethusa.md",
+     "quote": "Ofiarą jednej z nich padł dwa tygodnie później, 27 lutego, liniowiec Maloja, który zatonął przy wejściu do portu w Dover."
+    },
+    {
+     "file": "src/content/timeline/1916/02/zatoniecie-krazownika-arethusa.md",
+     "quote": "Miny z małych okrętów podwodnych z Flandrii stały się w tych tygodniach prawdziwą plagą u ujścia Tamizy i w Cieśninie Kaletańskiej."
+    },
+    {
+     "file": "src/content/timeline/1916/02/zatoniecie-krazownika-arethusa.md",
+     "quote": "11 lutego 1916 roku brytyjski krążownik lekki"
+    }
+   ]
+  },
+  {
+   "start": "16 września 1918 roku w samym porcie zapaliła",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/09/zatoniecie-glattona.md",
+     "quote": "16 września 1918 roku około kwadransa po szóstej wieczorem na stojącym w porcie [Dover](https://pl.wikipedia.org/wiki/Dover) brytyjskim [monitorze](/slownik/monitor) „Glatton” rozległ się wybuch."
+    },
+    {
+     "file": "src/content/timeline/1918/09/zatoniecie-glattona.md",
+     "quote": "Groził wybuch, który mógł zniszczyć znaczną część portu i miasta"
+    },
+    {
+     "file": "src/content/timeline/1918/09/zatoniecie-glattona.md",
+     "quote": "Keyes postanowił zatopić „Glattona”."
+    },
+    {
+     "file": "src/content/timeline/1918/09/zatoniecie-glattona.md",
+     "quote": "zatopiony torpedami brytyjskich niszczycieli"
+    }
+   ]
+  },
+  {
+   "start": "Bliskość okupowanej Belgii sprawiła, że Dover",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/12/pierwszy-niemiecki-nalot-na-anglie.md",
+     "quote": "21 grudnia 1914 roku, około godziny 13, nad [Dover](https://pl.wikipedia.org/wiki/Dover) pojawił się niemiecki [wodnosamolot](/slownik/wodnosamolot). Załoga zrzuciła dwie bomby, które wpadły do morza w pobliżu Admiralty Pier"
+    },
+    {
+     "file": "src/content/timeline/1914/12/pierwszy-niemiecki-nalot-na-anglie.md",
+     "quote": "Samolot należał do 1. Oddziału Lotnictwa Morskiego (Seeflieger-Abteilung 1) cesarskiej marynarki, który stacjonował w belgijskim porcie [Zeebrugge](/miejsca/zeebrugge)"
+    },
+    {
+     "file": "src/content/timeline/1914/12/pierwsza-bomba-na-angielskiej-ziemi.md",
+     "quote": "Tym razem jego bomba nie wpadła do morza, jak [trzy dni wcześniej](/pierwszy-niemiecki-nalot-na-anglie), lecz spadła na miasto. Była to pierwsza bomba lotnicza, która spadła na ląd w Anglii."
+    },
+    {
+     "file": "src/content/timeline/1914/12/pierwsza-bomba-na-angielskiej-ziemi.md",
+     "quote": "Spadła nieco ponad 300 metrów od murów zamku, w ogrodzie Thomasa Tersona"
+    },
+    {
+     "file": "src/content/timeline/1915/08/utrata-sterowca-l-12.md",
+     "quote": "W nocy z 9 na 10 sierpnia 1915 artyleria w Dover trafiła sterowiec L 12."
+    }
+   ]
+  },
+  {
+   "start": "2 września 1917 roku niemieckie bombowce",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/09/nocny-nalot-na-dover.md",
+     "quote": "W niedzielę 2 września 1917 roku, o 23.05, nad [Dover](https://pl.wikipedia.org/wiki/Dover) pojawiły się nisko lecące niemieckie samoloty."
+    },
+    {
+     "file": "src/content/timeline/1917/09/nocny-nalot-na-dover.md",
+     "quote": "Miasto nie dostało żadnego ostrzeżenia. Brytyjska historia oficjalna wojny powietrznej H. A. Jonesa uznaje ten krótki atak za początek niemieckiej „kampanii księżycowej”, czyli nocnych nalotów samolotów na Anglię"
+    },
+    {
+     "file": "src/content/timeline/1918/02/ostrzal-dover.md",
+     "quote": "Tuż po północy 16 lutego 1918 roku mieszkańców [Dover](https://pl.wikipedia.org/wiki/Dover) obudziła kanonada od strony morza."
+    },
+    {
+     "file": "src/content/timeline/1918/02/ostrzal-dover.md",
+     "quote": "Zginęła jedna osoba, a siedem zostało rannych."
+    },
+    {
+     "file": "src/content/timeline/1918/02/ostrzal-dover.md",
+     "quote": "Trzynastoletnia Gertrude Boorman zmarła wkrótce po przewiezieniu do szpitala."
+    }
+   ]
+  },
+  {
+   "start": "Według miejscowych zestawień w okręgu Dover",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/12/pierwsza-bomba-na-angielskiej-ziemi.md",
+     "quote": "Do końca wojny w okręgu miasta odnotowano 113 nalotów. Na Dover spadły 184 bomby lotnicze i 23 pociski z niemieckich okrętów, a w tych atakach zginęły 23 osoby, w tym troje dzieci."
+    },
+    {
+     "url": "https://www.dovermuseum.co.uk/Dover-History/20th-Century-Dover.aspx",
+     "quote": "As a consequence of this regular shelling from warships and bombing from aeroplanes, Dover residents were forced to shelter in caves and dug-outs."
+    }
+   ]
+  },
+  {
+   "start": "1 stycznia 1918 roku dowództwo w Dover objął",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "1 stycznia 1918 roku [objął dowództwo w Dover](/dymisja-jellicoe)"
+    },
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "Tuż po północy 23 kwietnia 1918 roku, w dzień świętego Jerzego, okręty brytyjskiego Patrolu Dover zaatakowały okupowane przez Niemców porty Zeebrugge i Ostendę na wybrzeżu Belgii."
+    },
+    {
+     "file": "src/content/places/zeebrugge.md",
+     "quote": "Od 1915 roku przez Zeebrugge i Ostendę wychodziły w morze małe [U-Booty](/slownik/u-boot)"
+    }
+   ]
+  },
+  {
+   "start": "Dziewięciu poległych w rajdzie pochowano",
+   "quotes": [
+    {
+     "url": "https://www.whitecliffscountry.org.uk/things-to-do/attractions/all-attractions/white-cliffs-countrys-historic-cemeteries",
+     "quote": "Graves of nine casualties of the 1918 Raid on Zeebrugge are laid out in ranks near the last resting place of their leader Admiral Sir Roger (later Lord) Keyes."
+    },
+    {
+     "file": "src/content/places/zeebrugge.md",
+     "quote": "W 1943 roku otrzymał tytuł barona Keyes of Zeebrugge and Dover, a po śmierci pochowano go w Dover, obok poległych w rajdzie."
+    },
+    {
+     "file": "src/content/places/ciesnina-kaletanska.md",
+     "quote": "Po wojnie marynarzom patrolu postawiono pomniki po obu stronach cieśniny: w 1921 roku obelisk przy St Margaret's Bay, a drugi na przylądku Blanc-Nez."
+    }
+   ]
+  }
+ ]
+}

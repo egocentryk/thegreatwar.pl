@@ -9,7 +9,7 @@ brief:
   - "It was disbanded after the armistice on the Eastern Front, according to the German record on 25 January 1918."
 name: South Army
 source: armia-poludniowa
-sourceHash: 33428bd4d0d7d52a73285dc3c35a3f92de384013
+sourceHash: e47f49a9cc172ce12895d963b6397dc034ae8473
 ---
 
 The South Army (Südarmee) was the first joint army of [Germany](/kraje/niemcy) and [Austria-Hungary](/kraje/austro-wegry), formed in January 1915 to help the ally in the Carpathians. It was commanded by German generals, first [Alexander von Linsingen](/postacie/alexander-von-linsingen) and from July 1915 Felix von Bothmer, but in its corps Austro-Hungarian divisions fought alongside German regiments, and later Turkish ones as well. For three years it fought in the Carpathians and Eastern Galicia, and it was one of the few armies of the Central Powers against which the great Russian offensives of 1916 and 1917 broke.
@@ -18,7 +18,7 @@ The South Army (Südarmee) was the first joint army of [Germany](/kraje/niemcy) 
 
 At the turn of 1914 and 1915 the Russians were besieging Przemyśl and stood on the Carpathian passes, and Austria-Hungary asked for help. On 11 January 1915 the command of the Prussian II Corps was turned into the staff of the South Army, and its commander, Linsingen, took over the new army. The Chief of the German General Staff, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), wanted to give it [Erich Ludendorff](/postacie/erich-ludendorff) as chief of staff, which was meant to separate him from Hindenburg, but after a few weeks Ludendorff returned to the north. The army was inserted into the gap between the Austro-Hungarian Third Army and the group of General [Karl Pflanzer-Baltin](/postacie/karl-pflanzer-baltin).
 
-From the start it was a mixed army. On the eastern wing fought the corps of General Friedrich von Gerok with the German 48th Reserve Division and the Austro-Hungarian 19th Division, in the centre the Austro-Hungarian corps of General Peter von Hofmann with the German 1st Infantry Division, and the left wing was formed by the German 3rd Guards Infantry Division. Each of these groups crossed the mountains by its own road. In May the army was also given the Austro-Hungarian corps of General Sándor Szurmay, and the German divisions of the centre and the left wing were joined into Bothmer's corps.
+From the start it was a mixed army. On the eastern wing fought the corps of General Friedrich von Gerok with the German 48th Reserve Division and the Austro-Hungarian 19th Division, in the centre the Austro-Hungarian corps of General Peter von Hofmann with the German 1st Infantry Division, and the left wing was formed by the German 3rd Guards Infantry Division. Each of these groups crossed the mountains by its own road. From March the German divisions of the centre and the left wing formed Bothmer's corps, and in May the army was also given the Austro-Hungarian corps of General Sándor Szurmay.
 
 On [23 January](/poczatek-ofensywy-w-karpatach) the offensive began that was to save [besieged Przemyśl](/bitwy/drugie-oblezenie-przemysla). The South Army attacked in the eastern Bieszczady through the Verecke and Wyszków passes, in deep snow and frost, but for weeks on end it stormed the strongly fortified Zwinin range in vain. Zwinin fell only on 9 April, when Przemyśl had been in Russian hands for several weeks. The [Winter Battle in the Carpathians](/bitwy/zimowa-bitwa-w-karpatach) cost Austria-Hungary hundreds of thousands of men in the snow and frost, and did not save the fortress.
 

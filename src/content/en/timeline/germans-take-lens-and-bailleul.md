@@ -2,10 +2,10 @@
 title: The Germans take Lens and Bailleul
 summary: On 4 October 1914 the Germans entered Lens, centre of the Artois coalfield. The British chronology also records the capture of Bailleul.
 source: niemcy-zajmuja-lens-i-bailleul
-sourceHash: 2d2277fd612fb1a52fadc6190294281665b8bc02
+sourceHash: c5820f3363e8f83189d0450ff59e69b458e29577
 ---
 
-On 4 October 1914, according to the British chronology of the war, German troops occupied [Lens](https://pl.wikipedia.org/wiki/Lens) and Bailleul. Lens, a mining town in the Pas-de-Calais department, was the centre of one of France's most important coalfields. Its loss was a painful consequence for the French of the fighting at Arras, which had been going on since the beginning of October.
+On 4 October 1914, according to the British chronology of the war, German troops occupied [Lens](/miejsca/lens) and Bailleul. Lens, a mining town in the Pas-de-Calais department, was the centre of one of France's most important coalfields. Its loss was a painful consequence for the French of the fighting at Arras, which had been going on since the beginning of October.
 
 ## Sunday in Lens
 

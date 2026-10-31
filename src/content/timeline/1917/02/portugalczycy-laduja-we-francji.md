@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 lutego 1917 roku w [Breście](https://pl.wikipedia.org/wiki/Brest), porcie na zachodnim krańcu Bretanii, zeszli na ląd pierwsi żołnierze [Portugalskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) (Corpo Expedicionário Português, CEP). Była to 1 Brygada pod dowództwem Manuela Gomesa da Costy, przyszłego dowódcy portugalskiej dywizji we Francji, a po wojnie jednego z przywódców zamachu stanu z 1926 roku. Pół roku po tym, jak [portugalski parlament zgodził się na udział kraju w wojnie w Europie](/portugalia-postanawia-wyslac-wojska-do-europy), i miesiąc po podpisaniu [konwencji wojskowej z Wielką Brytanią](/brytyjsko-portugalska-konwencja-wojskowa), Portugalia wysłała wreszcie swoich żołnierzy na front zachodni.
+2 lutego 1917 roku w [Breście](https://pl.wikipedia.org/wiki/Brest), porcie na zachodnim krańcu Bretanii, zeszli na ląd pierwsi żołnierze [Portugalskiego Korpusu Ekspedycyjnego](/sily-zbrojne/portugalski-korpus-ekspedycyjny) (Corpo Expedicionário Português, CEP). Była to 1 Brygada pod dowództwem Manuela Gomesa da Costy, przyszłego dowódcy portugalskiej dywizji we Francji, a po wojnie jednego z przywódców zamachu stanu z 1926 roku. Pół roku po tym, jak [portugalski parlament zgodził się na udział kraju w wojnie w Europie](/portugalia-postanawia-wyslac-wojska-do-europy), i miesiąc po podpisaniu [konwencji wojskowej z Wielką Brytanią](/brytyjsko-portugalska-konwencja-wojskowa), Portugalia wysłała wreszcie swoich żołnierzy na front zachodni.
 
 ## Rejs z Lizbony
 

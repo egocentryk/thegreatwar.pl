@@ -2,7 +2,7 @@
 title: Bulgarian-Greek neutral zone
 summary: In mid-December 1915 Bulgaria and Greece agreed on a neutral strip along the border. Both sides' troops were to pull back two kilometres to avoid clashes.
 source: bulgarsko-grecka-strefa-neutralna
-sourceHash: f834b5b869c3532716c19454de2cf29c4f84880b
+sourceHash: 59f9c4fecc391282f3fb2916df57f57cd0fa1767
 ---
 
 The British chronology of the war records under 14 December 1915, that is, 1 December according to the Julian calendar, that the general staffs of Bulgaria and Greece concluded an agreement on a temporary neutral zone along the Greek frontier. It repeats the same entry under 19 December. The available sources do not give the exact day on which Athens accepted the Bulgarian proposal. It is known, however, that the press was writing about it as early as 11 December, and on 16 December announced that the agreement had been concluded. The date of 14 December therefore falls within these limits, and 19 December is most probably the day on which the news reached the British press.
@@ -21,4 +21,4 @@ On 16 December an official communiqué was issued in Sofia. It stated that when,
 
 ## Neutrality two kilometres deep
 
-The zone calmed the frontier for several months. Greek orders from the spring of 1916 recall that the neutral strip created "a few months ago by the mutual withdrawal of the Greek and Bulgarian troops" had guarded against incidents. When, however, the Allies began to push patrols from Salonika towards the frontier, the Germans and Bulgarians abolished the zone on several sectors and dug in on the frontier line itself, while the Greeks, not wishing to clash, pulled back their posts. In the spring of 1916 the troops of the Central Powers crossed the frontier and seized the Greek Fort Rupel in the valley of the [Struma](https://pl.wikipedia.org/wiki/Struma), which deepened the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa) in Greece.
+The zone calmed the frontier for several months. Greek orders from the spring of 1916 recall that the neutral strip created "a few months ago by the mutual withdrawal of the Greek and Bulgarian troops" had guarded against incidents. When, however, the Allies began to push patrols from Salonika towards the frontier, the Germans and Bulgarians abolished the zone on several sectors and dug in on the frontier line itself, while the Greeks, not wishing to clash, pulled back their posts. In the spring of 1916 the troops of the Central Powers crossed the frontier and seized the Greek Fort Rupel in the valley of the [Struma](https://pl.wikipedia.org/wiki/Struma), which deepened the [National Schism](/slownik/schizma-narodowa) in Greece.

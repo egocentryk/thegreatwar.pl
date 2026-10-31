@@ -2,14 +2,14 @@
 title: Battle of Tannenberg ends
 summary: On 31 August 1914 Hindenburg reported to the Kaiser the destruction of the Russian 2nd Army. Over 90,000 Russians were captured and Samsonov was dead.
 source: koniec-bitwy-pod-tannenbergiem
-sourceHash: afdcd0ae2258253b8d37f5789cc18fd94c59ee20
+sourceHash: f562748dae84aa30af2bbd834376a4932b220fc1
 ---
 
 On 31 August 1914 General [Paul von Hindenburg](/postacie/paul-von-hindenburg) reported to Kaiser [Wilhelm II](/postacie/wilhelm-ii) that the ring around the main forces of the Russian 2nd Army had closed the previous day. So ended the Battle of Tannenberg, Germany's greatest victory on the Eastern Front in the first year of the war. The main fighting lasted from 26 to 30 August, but the old British chronology, like some contemporary sources, gives 31 August as the date on which the battle ended. On that day the German 8th Army was finishing rounding up the shattered Russian units, and its command could announce the final result.
 
 ## The last days of the pocket
 
-The fighting in the south of [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) began on 23 August, when the Russian 2nd Army of General [Alexander Samsonov](/postacie/aleksandr-samsonow), marching from the Kingdom of Poland, clashed with the Germans near [Neidenburg](https://pl.wikipedia.org/wiki/Nidzica) (see [Battle of Tannenberg begins](/poczatek-bitwy-pod-tannenbergiem)). On the same day Hindenburg and his chief of staff, [Erich Ludendorff](/postacie/erich-ludendorff), took over command of the German 8th Army (see [Hindenburg takes command of the 8th Army](/hindenburg-obejmuje-dowodztwo-8-armii)). From 26 August the Germans struck at both wings of the Russian army, and on 29 August their pincers closed in its rear.
+The fighting in the south of [East Prussia](/miejsca/prusy-wschodnie) began on 23 August, when the Russian 2nd Army of General [Alexander Samsonov](/postacie/aleksandr-samsonow), marching from the Kingdom of Poland, clashed with the Germans near [Neidenburg](https://pl.wikipedia.org/wiki/Nidzica) (see [Battle of Tannenberg begins](/poczatek-bitwy-pod-tannenbergiem)). On the same day Hindenburg and his chief of staff, [Erich Ludendorff](/postacie/erich-ludendorff), took over command of the German 8th Army (see [Hindenburg takes command of the 8th Army](/hindenburg-obejmuje-dowodztwo-8-armii)). From 26 August the Germans struck at both wings of the Russian army, and on 29 August their pincers closed in its rear.
 
 Three Russian corps were trapped in the forests and marshes between [Hohenstein](https://pl.wikipedia.org/wiki/Olsztynek) and Neidenburg. Exhausted, hungry and cut off from communications, the soldiers tried to break through to the south, but ran into German blocking positions and artillery fire. Samsonov, who had lost control of his army, became separated from his staff on the night of 29–30 August and took his own life in the forest. The Germans found his body only later.
 

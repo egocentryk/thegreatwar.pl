@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-4 października 1914 roku, według brytyjskiej kroniki wojny, wojska niemieckie zajęły [Lens](https://pl.wikipedia.org/wiki/Lens) i Bailleul. Lens, górnicze miasto w departamencie Pas-de-Calais, było ośrodkiem jednego z najważniejszych zagłębi węglowych Francji. Jego utrata była dla Francuzów bolesnym skutkiem walk pod Arras, które trwały od początku października.
+4 października 1914 roku, według brytyjskiej kroniki wojny, wojska niemieckie zajęły [Lens](/miejsca/lens) i Bailleul. Lens, górnicze miasto w departamencie Pas-de-Calais, było ośrodkiem jednego z najważniejszych zagłębi węglowych Francji. Jego utrata była dla Francuzów bolesnym skutkiem walk pod Arras, które trwały od początku października.
 
 ## Niedziela w Lens
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Sergei Kamenev, Mikhail Tukhachevsky, August Kork, Nikolai Sollohub, Vladimir Lazarevich]
 result: Decisive Polish victory. The Red Army's Western Front was routed and fell back to the Niemen, and part of its forces crossed into East Prussia, where they were interned.
 source: bitwa-warszawska
-sourceHash: 7e467989e3a01c26db98ab784da2b89e22422b02
+sourceHash: 61f0ecb58f8ab058a0c9c05f5e43707637937f79
 brief:
   - "At the beginning of August 1920 Tukhachevsky's armies stood a few dozen kilometres from Warsaw, and the Soviet government was already preparing a government for Poland."
   - "The battle plan, approved on 6 August, provided for holding the Warsaw bridgehead and the Wkra line while a manoeuvre army assembled on the Wieprz struck the enemy's rear."
@@ -54,7 +54,7 @@ When Radzymin fell, Haller brought forward the 5th Army's attack. Sikorski struc
 
 On the morning of 16 August the strike group set off from the Wieprz. Five divisions and a cavalry brigade routed the Mozyr Group near Kock and Cyców, advanced several dozen kilometres on the first day and took Garwolin and Włodawa. On 17 August Polish units reached the line Biała Podlaska–Siedlce–Mińsk Mazowiecki and linked up with the defenders of the bridgehead. The 16th Army, disengaging from the fighting before Warsaw, suddenly found the Poles in its rear. On 18 August Piłsudski issued orders in Warsaw for a pursuit that was to pin Tukhachevsky's armies against the East Prussian border.
 
-The pursuit did not close the whole encirclement, because some of the tired Polish troops failed to cut the roads to the east in time. The 3rd and 15th Armies withdrew with heavy losses. The fate of the Soviet right wing was worst. The 5th Army, advancing on Mława, cut off the 4th Army and the 3rd Cavalry Corps, which, without communications with their command, were still attacking towards Włocławek. Around 24 August these units crossed the border into [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), where the Germans disarmed and interned them. On 22–24 August the Poles recovered Łomża and Białystok, and on 25 August they reached the Prussian border. Tukhachevsky was gathering the remnants of his front on the Niemen.
+The pursuit did not close the whole encirclement, because some of the tired Polish troops failed to cut the roads to the east in time. The 3rd and 15th Armies withdrew with heavy losses. The fate of the Soviet right wing was worst. The 5th Army, advancing on Mława, cut off the 4th Army and the 3rd Cavalry Corps, which, without communications with their command, were still attacking towards Włocławek. Around 24 August these units crossed the border into [East Prussia](/miejsca/prusy-wschodnie), where the Germans disarmed and interned them. On 22–24 August the Poles recovered Łomża and Białystok, and on 25 August they reached the Prussian border. Tukhachevsky was gathering the remnants of his front on the Niemen.
 
 ## Casualties
 

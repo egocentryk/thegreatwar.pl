@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 sierpnia 1914 roku, po przemówieniu Edwarda Greya w Izbie Gmin, brytyjski rząd zdecydował o mobilizacji armii. Premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith), który od wiosny 1914 roku kierował także ministerstwem wojny, poprosił o pomoc lorda [Richarda Haldane'a](https://pl.wikipedia.org/wiki/Richard_Haldane), byłego ministra wojny i twórcę reform, które przygotowały armię do wojny. Haldane udał się do ministerstwa i uruchomił przygotowania do [mobilizacji](https://pl.wikipedia.org/wiki/Mobilizacja).
+3 sierpnia 1914 roku, po przemówieniu Edwarda Greya w Izbie Gmin, brytyjski rząd zdecydował o mobilizacji armii. Premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith), który od wiosny 1914 roku kierował także ministerstwem wojny, poprosił o pomoc lorda [Richarda Haldane'a](https://pl.wikipedia.org/wiki/Richard_Haldane), byłego ministra wojny i twórcę reform, które przygotowały armię do wojny. Haldane udał się do ministerstwa i uruchomił przygotowania do [mobilizacji](/slownik/mobilizacja).
 
 Formalne proklamacje królewskie, wzywające rezerwistów do stawienia się w jednostkach i powołujące do czynnej służby Siły Terytorialne (Territorial Force), wydano 4 sierpnia. Pierwszym dniem mobilizacji był 5 sierpnia. Przed budynkami poczty i na ulicach rozlepiano obwieszczenia, a rezerwiści z całego kraju ruszyli do swoich pułków.
 

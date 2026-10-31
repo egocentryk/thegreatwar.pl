@@ -2,10 +2,10 @@
 title: Start of the Battle of Tarnopol
 summary: On 7 September 1915 the Russians struck from bridgeheads on the Seret, routed an Austro-Hungarian brigade, took German guns and pushed the enemy to the Strypa.
 source: poczatek-bitwy-pod-tarnopolem
-sourceHash: 727951591e8f824a05f5420cb6bc750bd615613b
+sourceHash: be1a3f06c233148d1cb326c9ce0b1b463660a666
 ---
 
-On 7 September 1915 the Russian forces in Eastern Galicia, which for several weeks had done nothing but retreat, went over to the counter-offensive. From fortified bridgeheads on the western bank of the [Seret](https://pl.wikipedia.org/wiki/Seret_(dopływ_Dniestru)) river, at [Tarnopol](https://pl.wikipedia.org/wiki/Tarnopol) and [Trembowla](https://pl.wikipedia.org/wiki/Trembowla), the corps of General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s [11th Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) and of the right wing of General Platon Lechitsky's [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Imperium_Rosyjskie)) attacked. They had made the first breach as early as the afternoon of 6 September, which is why the Austrian official history counts the battle from that day. The British chronology of the war and Russian studies begin it on 7 September, when the attack extended to the whole front from Tarnopol to Budzanów.
+On 7 September 1915 the Russian forces in Eastern Galicia, which for several weeks had done nothing but retreat, went over to the counter-offensive. From fortified bridgeheads on the western bank of the [Seret](https://pl.wikipedia.org/wiki/Seret_(dopływ_Dniestru)) river, at [Tarnopol](https://pl.wikipedia.org/wiki/Tarnopol) and [Trembowla](https://pl.wikipedia.org/wiki/Trembowla), the corps of General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s [11th Army](/sily-zbrojne/11-armia-rosyjska) and of the right wing of General Platon Lechitsky's [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Imperium_Rosyjskie)) attacked. They had made the first breach as early as the afternoon of 6 September, which is why the Austrian official history counts the battle from that day. The British chronology of the war and Russian studies begin it on 7 September, when the attack extended to the whole front from Tarnopol to Budzanów.
 
 ## Two plans for the same day
 

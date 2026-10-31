@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-28 listopada 1918 roku (15 listopada według kalendarza juliańskiego, którym posługiwała się wtedy Rumunia) w [Czerniowcach](https://pl.wikipedia.org/wiki/Czerniowce) zebrał się Kongres Generalny Bukowiny, zwołany przez rumuńską Radę Narodową. Pod przewodnictwem jej prezesa, ziemianina i polityka Iancu Flondora, kongres jednomyślnie uchwalił „bezwarunkowe i wieczyste zjednoczenie Bukowiny w jej dawnych granicach, aż po Czeremosz, Kołaczyn i Dniestr, z Królestwem Rumunii”. Bukowina była drugą po [Besarabii](/zjednoczenie-besarabii-z-rumunia) krainą, która w 1918 roku ogłosiła połączenie z Rumunią.
+28 listopada 1918 roku (15 listopada według kalendarza juliańskiego, którym posługiwała się wtedy Rumunia) w [Czerniowcach](/miejsca/czerniowce) zebrał się Kongres Generalny Bukowiny, zwołany przez rumuńską Radę Narodową. Pod przewodnictwem jej prezesa, ziemianina i polityka Iancu Flondora, kongres jednomyślnie uchwalił „bezwarunkowe i wieczyste zjednoczenie Bukowiny w jej dawnych granicach, aż po Czeremosz, Kołaczyn i Dniestr, z Królestwem Rumunii”. Bukowina była drugą po [Besarabii](/zjednoczenie-besarabii-z-rumunia) krainą, która w 1918 roku ogłosiła połączenie z Rumunią.
 
 ## Kraj dwóch narodów
 

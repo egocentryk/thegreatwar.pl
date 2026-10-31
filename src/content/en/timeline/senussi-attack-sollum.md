@@ -2,10 +2,10 @@
 title: Senussi attack Sollum
 summary: In mid-November 1915 men of the Senussi order began firing on the Egyptian post at Sollum. War was beginning on Egypt's western border.
 source: bractwo-sanusijja-atakuje-as-sallum
-sourceHash: 58cac564887ccb3f7e55e2f4405140d666750275
+sourceHash: fc28e774e37731f0a534d696a240c17f1f937301
 ---
 
-The British official chronology of the war recorded under 14 November 1915 that the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order had opened hostilities against the British by attacking the Egyptian post at [Sollum](https://pl.wikipedia.org/wiki/As-Sallum). The sources do not agree on the day. The British official history of naval operations states that Sollum was attacked on 15 November and that the garrison held its position. The official history of operations in Egypt describes as the first concrete incident the night of 17–18 November, when a small party fired on the camp of the Egyptian garrison, while another group killed two Bedouin friendly to the British and cut the telegraph line running along the coast. All versions agree on one thing: in mid-November peace on Egypt's western border came to an end.
+The British official chronology of the war recorded under 14 November 1915 that the [Senussi](/slownik/sanusijja) order had opened hostilities against the British by attacking the Egyptian post at [Sollum](https://pl.wikipedia.org/wiki/As-Sallum). The sources do not agree on the day. The British official history of naval operations states that Sollum was attacked on 15 November and that the garrison held its position. The official history of operations in Egypt describes as the first concrete incident the night of 17–18 November, when a small party fired on the camp of the Egyptian garrison, while another group killed two Bedouin friendly to the British and cut the telegraph line running along the coast. All versions agree on one thing: in mid-November peace on Egypt's western border came to an end.
 
 ## The sheikh and his advisers
 

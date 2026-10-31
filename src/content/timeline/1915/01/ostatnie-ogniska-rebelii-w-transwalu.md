@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 11 stycznia 1915 roku schwytanie ostatnich rebeliantów w [Transwalu](https://pl.wikipedia.org/wiki/Transwal_(prowincja)), północnej prowincji [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Zapis nie podaje, kogo i gdzie pojmano. Nie znaleźliśmy tego wydarzenia ani w oficjalnej południowoafrykańskiej historii wojny z 1924 roku, ani w rządowym raporcie o rebelii, ani w nowszych opracowaniach. Najpewniej chodzi o wyłapanie ostatnich drobnych grup buntowników, które ukrywały się jeszcze po upadku powstania.
+Brytyjska chronologia wojny notuje pod 11 stycznia 1915 roku schwytanie ostatnich rebeliantów w [Transwalu](https://pl.wikipedia.org/wiki/Transwal_(prowincja)), północnej prowincji [Związku Południowej Afryki](/kraje/zwiazek-poludniowej-afryki). Zapis nie podaje, kogo i gdzie pojmano. Nie znaleźliśmy tego wydarzenia ani w oficjalnej południowoafrykańskiej historii wojny z 1924 roku, ani w rządowym raporcie o rebelii, ani w nowszych opracowaniach. Najpewniej chodzi o wyłapanie ostatnich drobnych grup buntowników, które ukrywały się jeszcze po upadku powstania.
 
 ## Rebelia w Transwalu
 

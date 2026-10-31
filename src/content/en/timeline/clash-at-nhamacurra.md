@@ -2,10 +2,10 @@
 title: Clash at Nhamacurra
 summary: On 1–3 July 1918 Lettow-Vorbeck routed the Portuguese-British garrison of Nhamacurra near Quelimane. Many defenders drowned and the Germans took vast stores.
 source: starcie-pod-nhamacurra
-sourceHash: 00536c45ec7c4a0846c3dc78af94f2fae1301666
+sourceHash: 48744a590527ff2a0269e21d24792789f6e30924
 ---
 
-On the afternoon of 1 July 1918 three companies of the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) under Captain Erich Müller made a surprise attack on the Portuguese positions at Nhamacurra, today [Namacurra](https://pl.wikipedia.org/wiki/Namacurra), a settlement with a large sugar mill about 40 kilometres north of the port of [Quelimane](https://pl.wikipedia.org/wiki/Quelimane) in [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia). The same afternoon the main force of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) forded the river Licungo, several hundred metres wide, with the water up to their necks in the deepest places. Three days of fighting ended in one of the Germans' greatest victories in Mozambique and the southernmost point of their march.
+On the afternoon of 1 July 1918 three companies of the German [Schutztruppe](/slownik/schutztruppe) under Captain Erich Müller made a surprise attack on the Portuguese positions at Nhamacurra, today [Namacurra](https://pl.wikipedia.org/wiki/Namacurra), a settlement with a large sugar mill about 40 kilometres north of the port of [Quelimane](https://pl.wikipedia.org/wiki/Quelimane) in [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia). The same afternoon the main force of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) forded the river Licungo, several hundred metres wide, with the water up to their necks in the deepest places. Three days of fighting ended in one of the Germans' greatest victories in Mozambique and the southernmost point of their march.
 
 ## The march south
 

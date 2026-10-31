@@ -2,10 +2,10 @@
 title: Allies retake Niš
 summary: At noon on 12 October 1918 Serbian infantry entered Niš, Serbia's wartime capital, after three days of fighting with the Germans on the approaches to the city.
 source: alianci-odbijaja-nisz
-sourceHash: 1ce60c36a8788bcc164ff84587b41656e10bedd5
+sourceHash: a070b0975af62247c63a5c4b90dbf8c13e8af068
 ---
 
-At about noon on 12 October 1918 the first sub-units of the Serbian 1st Infantry Regiment "Knjaz Miloš" of the Morava Division entered [Niš](https://pl.wikipedia.org/wiki/Nisz), and an hour later the Serbs controlled the whole city and its immediate surroundings. Niš, [Serbia's wartime capital](/rzad-serbski-przeniesiony-z-belgradu-do-niszu) since the summer of 1914, had been [in Bulgarian hands](/bulgarzy-zajmuja-nisz) since November 1915. The entry into the city ended a three-day battle on its approaches. The British chronology of the war records the recapture of Niš under 11 October, but Serbian studies, based on staff documents, consistently give 12 October, and that is the day Niš celebrates the anniversary of its liberation. The German war communiqué of 13 October confirmed that the enemy had taken the city.
+At about noon on 12 October 1918 the first sub-units of the Serbian 1st Infantry Regiment "Knjaz Miloš" of the Morava Division entered [Niš](/miejsca/nisz), and an hour later the Serbs controlled the whole city and its immediate surroundings. Niš, [Serbia's wartime capital](/rzad-serbski-przeniesiony-z-belgradu-do-niszu) since the summer of 1914, had been [in Bulgarian hands](/bulgarzy-zajmuja-nisz) since November 1915. The entry into the city ended a three-day battle on its approaches. The British chronology of the war records the recapture of Niš under 11 October, but Serbian studies, based on staff documents, consistently give 12 October, and that is the day Niš celebrates the anniversary of its liberation. The German war communiqué of 13 October confirmed that the enemy had taken the city.
 
 ## German reinforcements
 

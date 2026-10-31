@@ -2,7 +2,7 @@
 title: Second British air raid on Germany
 summary: On 8 October 1914 RNAS pilot Reginald Marix bombed a shed in Düsseldorf and destroyed the airship Z IX. Spenser Grey failed to find his target at Cologne.
 source: drugi-brytyjski-nalot-na-niemcy
-sourceHash: bf440f2e780f991221212ca4959b132fd7531f96
+sourceHash: d6a6bb262da1f54cdc807cce82b06c98e851e8c5
 ---
 
 On 8 October 1914, when [Antwerp](/miejsca/antwerpia) was already close to falling, airmen of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) attacked the German airship bases in the Rhineland for the second time. This time the raid succeeded: one of the pilots destroyed the airship Z IX in its shed at [Düsseldorf](https://pl.wikipedia.org/wiki/Düsseldorf). It was the first [airship](/slownik/sterowiec) destroyed by an aeroplane.
@@ -23,4 +23,4 @@ Marix had better luck. He found the shed at Düsseldorf and, under rifle fire fr
 
 Marix's aircraft was damaged by fire from the ground and he had to land in a field about 30 kilometres short of Antwerp. He reached the airfield by train and on a borrowed bicycle. He found it almost deserted. The next day the airmen withdrew from the city, which soon afterwards passed into German hands.
 
-Grey and Marix were awarded the [Distinguished Service Order](https://pl.wikipedia.org/wiki/Order_Wybitnej_Służby) for the raid. Both raids from Antwerp were small in scale, but they showed that aircraft could destroy targets deep inside enemy territory. Naval aviation continued its attacks on airship bases. In November 1914 its aircraft bombed the Zeppelin works at Friedrichshafen on Lake Constance.
+Grey and Marix were awarded the [Distinguished Service Order](/slownik/order-wybitnej-sluzby) for the raid. Both raids from Antwerp were small in scale, but they showed that aircraft could destroy targets deep inside enemy territory. Naval aviation continued its attacks on airship bases. In November 1914 its aircraft bombed the Zeppelin works at Friedrichshafen on Lake Constance.

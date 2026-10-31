@@ -2,7 +2,7 @@
 title: British occupy Bushehr
 summary: On 8 August 1915 the British occupied the Persian port of Bushehr and took over its administration, in reply to the July Tangestani attack on the Residency.
 source: brytyjczycy-zajmuja-buszehr
-sourceHash: 298d9f2b1102a4d6b6036a6393cf5f8d27cf685b
+sourceHash: d797cbf6b31fdf4a267cc36f6c351f290ad3f517
 ---
 
 On 8 August 1915 the British occupied [Bushehr](https://pl.wikipedia.org/wiki/Buszehr), the main port of [Persia](/kraje/persja) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska). A proclamation was posted in the town announcing that Great Britain was taking over the administration of the whole island of Bushehr, together with the town and port, and would hold it until it received satisfaction. Power was assumed by Major Arthur Prescott Trevor of the British Residency, as commandant of the military administration on behalf of the British government. The occupation of a neutral state was the reply to the [attack of Tangestan tribes on the Residency](/atak-na-rezydenture-w-buszehrze) on 12 July, in which two British officers were killed.
@@ -15,7 +15,7 @@ The occupation of the town required no fighting. The core of the force was the R
 
 ## A town under foreign administration
 
-Iranian historians describe the first days of the occupation as a flagrant violation of Persian neutrality. According to them the British disarmed the local gendarmerie, seized the Persian vessels lying in the port, including the small warship Mozaffari, and hoisted the British flag over the governor's residence. A dozen or so inhabitants who protested against the occupation are said to have been arrested and deported to India. From 15 August the post office in Bushehr sold Persian stamps bearing the portrait of [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) Shah, overprinted in English "Bushire Under British Occupation". Few things showed so plainly how little Tehran's authority over its own coast counted for.
+Iranian historians describe the first days of the occupation as a flagrant violation of Persian neutrality. According to them the British disarmed the local gendarmerie, seized the Persian vessels lying in the port, including the small warship Mozaffari, and hoisted the British flag over the governor's residence. A dozen or so inhabitants who protested against the occupation are said to have been arrested and deported to India. From 15 August the post office in Bushehr sold Persian stamps bearing the portrait of [Ahmad](/postacie/ahmad-szah-kadzar) Shah, overprinted in English "Bushire Under British Occupation". Few things showed so plainly how little Tehran's authority over its own coast counted for.
 
 ## The punitive expedition and its sequel
 

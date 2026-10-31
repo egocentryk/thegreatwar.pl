@@ -2,10 +2,10 @@
 title: Opening of the Constituent Assembly
 summary: On 18 January 1918 the Constituent Assembly met in Petrograd. It elected Chernov chairman and rejected the declaration of the Bolsheviks, who walked out.
 source: otwarcie-konstytuanty
-sourceHash: 9f5db39cf9747bb73f4b2a7b101cec70f87e3f1c
+sourceHash: 1c6ee75f239a29bd46b25fcfa3fee2c467c1c0b4
 ---
 
-On 18 January 1918 (5 January in the Julian calendar) the [All-Russian Constituent Assembly](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze) at last met in the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) in Petrograd. The original date, 11 December, had [come to nothing](/niedoszle-otwarcie-konstytuanty): too few deputies were present, and Lenin's government had made the opening conditional on 400 deputies registering. Now there was a quorum, although the assembly, in which the Socialist Revolutionaries had a majority, was meeting in a city controlled by the Bolsheviks. The day began with shots fired at a march of the assembly's defenders and ended after midnight with the Bolsheviks and their allies walking out of the hall.
+On 18 January 1918 (5 January in the Julian calendar) the [All-Russian Constituent Assembly](/slownik/konstytuanta) at last met in the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) in Petrograd. The original date, 11 December, had [come to nothing](/niedoszle-otwarcie-konstytuanty): too few deputies were present, and Lenin's government had made the opening conditional on 400 deputies registering. Now there was a quorum, although the assembly, in which the Socialist Revolutionaries had a majority, was meeting in a city controlled by the Bolsheviks. The day began with shots fired at a march of the assembly's defenders and ended after midnight with the Bolsheviks and their allies walking out of the hall.
 
 ## Shots on Liteyny
 

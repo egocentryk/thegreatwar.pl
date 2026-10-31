@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 marca 1917 roku (26 lutego według kalendarza juliańskiego) rosyjskie oddziały generała Nikołaja Baratowa zajęły [Kermanszah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), główne miasto zachodniej Persji. Datę 11 marca podaje brytyjska chronologia wojny. Potwierdza ją brytyjska historia oficjalna kampanii mezopotamskiej F.J. Moberly'ego, według której osmańska 2 Dywizja z dołączonymi do niej oddziałami nieregularnymi i brygadą kawalerii stoczyła tego dnia walkę z Rosjanami pod Kermanszahem i właśnie dzięki temu nie pozwoliła im wejść do miasta wcześniej. Historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa pisze ogólniej, że rosyjska kolumna dotarła do Kermanszahu „do 10 marca”. W Londynie o zdobyciu miasta dowiedziano się 14 marca z nieoficjalnej depeszy.
+11 marca 1917 roku (26 lutego według kalendarza juliańskiego) rosyjskie oddziały generała Nikołaja Baratowa zajęły [Kermanszah](/miejsca/kermanszah), główne miasto zachodniej Persji. Datę 11 marca podaje brytyjska chronologia wojny. Potwierdza ją brytyjska historia oficjalna kampanii mezopotamskiej F.J. Moberly'ego, według której osmańska 2 Dywizja z dołączonymi do niej oddziałami nieregularnymi i brygadą kawalerii stoczyła tego dnia walkę z Rosjanami pod Kermanszahem i właśnie dzięki temu nie pozwoliła im wejść do miasta wcześniej. Historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa pisze ogólniej, że rosyjska kolumna dotarła do Kermanszahu „do 10 marca”. W Londynie o zdobyciu miasta dowiedziano się 14 marca z nieoficjalnej depeszy.
 
 ## Przez Kangawar i Bisotun
 

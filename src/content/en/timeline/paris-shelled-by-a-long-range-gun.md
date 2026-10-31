@@ -2,10 +2,10 @@
 title: Paris shelled by a long-range gun
 summary: On 23 March 1918 shells fired from about 120 km away began to fall on Paris. Thus began the shelling of the city by a German long-range gun.
 source: ostrzal-paryza-z-dziala-dalekonosnego
-sourceHash: 018401a1e57ac67b2ff8f5dea384359d7f7a873f
+sourceHash: 8fced9675607129b13607d8dfb136c53119578bc
 ---
 
-On Saturday 23 March 1918, two days after [the start of the great German offensive](/poczatek-operacji-michael) on the Somme, at about 7.20 a.m., an explosion went off on the pavement in front of No. 6 Quai de Seine, in the working-class 19th arrondissement of [Paris](https://pl.wikipedia.org/wiki/Paryż). Splinters smashed windows, but no one was killed. No aircraft or gunfire could be heard over the city, and the sky was empty. During the day, roughly every quarter of an hour, further shells burst in various parts of the city and in the suburbs. Only in the afternoon did the authorities admit that the Germans were shelling Paris from a gun placed more than a hundred kilometres from the city. It was a weapon unknown until then. Parisians called it "Bertha", and it went down in history as the [Paris Gun](https://pl.wikipedia.org/wiki/Działo_paryskie).
+On Saturday 23 March 1918, two days after [the start of the great German offensive](/poczatek-operacji-michael) on the Somme, at about 7.20 a.m., an explosion went off on the pavement in front of No. 6 Quai de Seine, in the working-class 19th arrondissement of [Paris](https://pl.wikipedia.org/wiki/Paryż). Splinters smashed windows, but no one was killed. No aircraft or gunfire could be heard over the city, and the sky was empty. During the day, roughly every quarter of an hour, further shells burst in various parts of the city and in the suburbs. Only in the afternoon did the authorities admit that the Germans were shelling Paris from a gun placed more than a hundred kilometres from the city. It was a weapon unknown until then. Parisians called it "Bertha", and it went down in history as the [Paris Gun](/slownik/dzialo-paryskie).
 
 ## Mysterious explosions
 

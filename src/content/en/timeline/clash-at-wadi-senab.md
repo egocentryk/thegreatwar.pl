@@ -2,10 +2,10 @@
 title: Clash at Wadi Senab
 summary: From 11 to 13 December 1915 a column from Mersa Matruh twice fought the Senussi. The Senussi forces were driven off, but Lieutenant-Colonel Snow was killed.
 source: starcie-w-wadi-senab
-sourceHash: df9327b9e7584243d4bcd068a01ca3543cef0407
+sourceHash: 22f99acbbcebb3b3f0504df5efba8954054361f4
 ---
 
-On 13 December 1915 the first expedition of the British Western Frontier Force against the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order ended near Mersa Matruh. The British official history of the operations in Egypt calls it the "affair of the Wadi Senab" and uses that name for three days, from 11 to 13 December, with two engagements. The first, in the Wadi Senab proper, took place on 11 December, the second and larger on 13 December at the Wadi Hasheifiat, a dozen or so kilometres further west. The date of 13 December in the chronology of the war thus corresponds to the last day of the expedition.
+On 13 December 1915 the first expedition of the British Western Frontier Force against the [Senussi](/slownik/sanusijja) order ended near Mersa Matruh. The British official history of the operations in Egypt calls it the "affair of the Wadi Senab" and uses that name for three days, from 11 to 13 December, with two engagements. The first, in the Wadi Senab proper, took place on 11 December, the second and larger on 13 December at the Wadi Hasheifiat, a dozen or so kilometres further west. The date of 13 December in the chronology of the war thus corresponds to the last day of the expedition.
 
 ## The first blow
 

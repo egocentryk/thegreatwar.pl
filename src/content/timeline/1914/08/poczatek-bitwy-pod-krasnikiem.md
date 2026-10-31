@@ -20,7 +20,7 @@ Austro-węgierski szef sztabu Franz Conrad von Hötzendorf postanowił uderzyć 
 
 ## Pierwsze austro-węgierskie zwycięstwo
 
-Walki trwały trzy dni. Austro-Węgrzy, mający przewagę liczebną, spychali prawe skrzydło Rosjan, a 25 sierpnia zmusili całą rosyjską armię do odwrotu w kierunku [Lublina](https://pl.wikipedia.org/wiki/Lublin). Było to pierwsze zwycięstwo armii austro-węgierskiej w tej wojnie, szczególnie cenne po klęsce w Serbii. Salza stracił dowództwo.
+Walki trwały trzy dni. Austro-Węgrzy, mający przewagę liczebną, spychali prawe skrzydło Rosjan, a 25 sierpnia zmusili całą rosyjską armię do odwrotu w kierunku [Lublina](/miejsca/lublin). Było to pierwsze zwycięstwo armii austro-węgierskiej w tej wojnie, szczególnie cenne po klęsce w Serbii. Salza stracił dowództwo.
 
 ## Wojna na ziemiach polskich
 

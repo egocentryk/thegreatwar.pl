@@ -156,6 +156,19 @@ Ferdynand: the 4th Army at Kraśnik and Łuck 1914–1916; Giolitti: the
 neutralist of 1914–1915 ("parecchio"); Jagow: the foreign secretary of
 1913–1916 and the July crisis.
 
+## Batch: one more (2026-10-31)
+
+Same rules as the batch above.
+
+| grp | slug | person | country | side | wikiTitles (check variants) | author |
+|---|---|---|---|---|---|---|
+| Z | ahmad-szah-kadzar | Ahmad Szah Kadżar | Persja | Państwa neutralne (new value, allowed) | Ahmad_Szah_Kadżar | Natalia |
+
+Notes: the last Qajar shah, crowned 1909 as a boy, of age 1914; Persia's
+neutrality and its violation, the ministers who leaned to Germany or the
+Entente, the 1915 crisis (the court nearly leaving Tehran), the 1919
+agreement, Reza Khan and the end in 1925; link `/kraje/persja`.
+
 ## Report (short)
 
 For each person: paths, word count, `wikiTitles`, sources, conflicts with

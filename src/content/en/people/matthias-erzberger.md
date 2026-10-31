@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Buttenhausen (Württemberg)
 deathPlace: Bad Griesbach (Baden)
 source: matthias-erzberger
-sourceHash: 348069996f93578042cef60a38d672b8045ebaf8
+sourceHash: a487af86f46a1e69bb967e1b7f55919fa5ecb274
 ---
 
 Matthias Erzberger was the most energetic, the most influential and the most hated German parliamentarian of the war years. The son of a village tailor from Württemberg and a deputy of the Catholic [Centre Party](https://pl.wikipedia.org/wiki/Niemiecka_Partia_Centrum), in 1914 he drew up programmes of vast annexations, and three years later he was one of the first politicians to say publicly that Germany would not win the war. He was the author of the Reichstag's July peace resolution, helped bring down two chancellors, and on 11 November 1918, as head of the German delegation, signed the armistice in the forest of Compiègne. The right made him the symbol of the "betrayal" that had supposedly robbed Germany of victory. In 1921 he was murdered by nationalist assassins.
@@ -49,6 +49,6 @@ In 1919 he was minister without portfolio in the government of [Philipp Scheidem
 
 ## Assessment
 
-In his lifetime Erzberger had the reputation of an opportunist who changed his views as circumstances dictated. The right never forgave him the peace resolution, the armistice, the Treaty of Versailles and the taxes, and the [stab-in-the-back myth](https://pl.wikipedia.org/wiki/Legenda_o_ciosie_w_plecy) made him one of the chief "November criminals", even though it was the Supreme Army Command that demanded the armistice and ordered it to be signed. Even sympathisers admitted that he harmed himself by his carelessness in money matters and his ruthless way of conducting disputes.
+In his lifetime Erzberger had the reputation of an opportunist who changed his views as circumstances dictated. The right never forgave him the peace resolution, the armistice, the Treaty of Versailles and the taxes, and the [stab-in-the-back myth](/slownik/legenda-o-ciosie-w-plecy) made him one of the chief "November criminals", even though it was the Supreme Army Command that demanded the armistice and ordered it to be signed. Even sympathisers admitted that he harmed himself by his carelessness in money matters and his ruthless way of conducting disputes.
 
 The American historian Klaus Epstein, author of the standard biography of 1959, nevertheless judged him one of the ablest German politicians of his era: a man who in 1917 was the first to understand that his own annexationist dreams of 1914 were an illusion, who brought the Centre into alliance with the liberals and Social Democrats, and who took upon himself responsibility for the consequences of a defeat from which the generals had fled. His more recent biographer, Christopher Dowe, titled his book *A Life for Democracy*. Historians argue over how much of his turn in 1917 was conviction and how much political calculation, but they agree that without him Germany's path from empire to republic would have looked different.

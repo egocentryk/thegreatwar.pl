@@ -43,7 +43,7 @@ Każdy żołnierz miał mieć przywiązany na plecach trójkąt wycięty z blasz
 
 ### 28 czerwca
 
-Ranek był upalny i bezwietrzny. O 9 rozpoczął się ostrzał. O 10.45 batalion Border Regiment w trzech falach przebiegł przez otwarte pole i zdobył redutę Boomerang, biorąc stu oszołomionych jeńców przy niewielkich stratach, w czym dużą zasługę miały dwa francuskie [moździerze okopowe](https://pl.wikipedia.org/wiki/Moździerz_okopowy). O 11 artyleria przeniosła ogień w głąb i piechota ruszyła po obu stronach wąwozu.
+Ranek był upalny i bezwietrzny. O 9 rozpoczął się ostrzał. O 10.45 batalion Border Regiment w trzech falach przebiegł przez otwarte pole i zdobył redutę Boomerang, biorąc stu oszołomionych jeńców przy niewielkich stratach, w czym dużą zasługę miały dwa francuskie [moździerze okopowe](/slownik/mozdzierz-okopowy). O 11 artyleria przeniosła ogień w głąb i piechota ruszyła po obu stronach wąwozu.
 
 Na Gully Spur ostrzał był tak silny, że dwie pierwsze linie tureckich okopów były już w gruzach, a ich obrońcy zabici lub ranni. 87 Brygada zajęła swoje cele dokładnie według planu. Za nią ruszyła 86 Brygada i przed południem 2 batalion Royal Fusiliers zdobył dwie najdalsze tureckie linie, J12 i J13. Na lewym skrzydle [Gurkhowie](/sily-zbrojne/gurkhowie) z Brygady Indyjskiej, posuwając się wzdłuż nadmorskich urwisk, zajęli cypel nad morzem, nazwany później Fusilier Bluff, który stał się najdalej na północ wysuniętą pozycją aliantów pod Helles. Według części opracowań front przesunął się tu o mniej więcej pół mili, około 800 metrów.
 

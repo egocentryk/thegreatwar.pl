@@ -2,10 +2,10 @@
 title: Clash at Wadi Majid
 summary: On Christmas Day 1915 the Western Frontier Force attacked the Senussi camp near Mersa Matruh and drove the order's forces out of Wadi Majid.
 source: starcie-w-wadi-madzid
-sourceHash: 31882eabd1ef2d4003abb3c46cfa91366290f5c4
+sourceHash: 615e73d7ae24b0d61ccd5b331e31c6304155b61f
 ---
 
-On 25 December 1915 the British Western Frontier Force marched out of [Mersa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) by night and attacked the forces of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order assembled a few kilometres south-west of the town. By evening it had driven them from the hills around Gebel Medwa and from the valley of Wadi Majid. It was the first clear British victory in the war on Egypt's western frontier, although the enemy's main forces managed to escape.
+On 25 December 1915 the British Western Frontier Force marched out of [Mersa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) by night and attacked the forces of the [Senussi](/slownik/sanusijja) order assembled a few kilometres south-west of the town. By evening it had driven them from the hills around Gebel Medwa and from the valley of Wadi Majid. It was the first clear British victory in the war on Egypt's western frontier, although the enemy's main forces managed to escape.
 
 ## Before the battle
 

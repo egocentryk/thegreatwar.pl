@@ -6,7 +6,7 @@ country: Portugal
 birthPlace: Caminha (Portugal)
 deathPlace: Lisbon
 source: sidonio-pais
-sourceHash: f7148cee69b9956386ea0964dbdffa74ada22947
+sourceHash: 4ce6534db6203b09b0c252b60631cd2bb8620d89
 ---
 
 Sidónio Bernardino Cardoso da Silva Pais ruled Portugal for less than a year, from a coup d'état in December 1917 until his death at an assassin's hand in December 1918. It was the year in which Portuguese troops suffered in Flanders one of the heaviest defeats in their history, and the country, exhausted by high prices, strikes and epidemics, stood on the brink of civil war. Pais came to power as an opponent of the government that had drawn Portugal into the war on the side of the Entente, and many considered him a Germanophile. Yet he did not take Portugal out of the war. Instead he built Portugal's first presidential system, in which he was himself both head of state and head of government, and his supporters surrounded him with a cult. To some he was the saviour of the fatherland and a martyr, to others a dictator and a harbinger of Salazar's authoritarian state.
@@ -21,7 +21,7 @@ After the overthrow of the monarchy in October 1910 the new authorities appointe
 
 After the outbreak of war Portugal remained formally neutral, but it assured Britain of its loyalty to the old alliance, and in Angola and Mozambique there were clashes with the Germans. In Berlin Pais tried to reconcile the increasingly pro-war policy of [Afonso Costa's](/postacie/afonso-costa) government and the Democratic Party with his own conviction that the country could not afford a war with Germany. In time he came to be regarded as more and more pro-German. When in February 1916 Portugal, at Britain's request, seized the German ships lying in its ports, [Germany declared war on it](/niemcy-wypowiadaja-wojne-portugalii), and Pais had to leave Berlin.
 
-After returning home he drew close to Manuel de Brito Camacho's opposition Republican Union and became the natural leader of those opposed to taking part in the fighting on the Western Front. At the beginning of 1917 the [first units](/portugalczycy-laduja-we-francji) of the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) sailed for France, while at home prices rose, food was short and discontent grew. Costa's government, [formed for the third time in April 1917](/afonso-costa-po-raz-trzeci-premierem), responded with censorship and the suspension of liberties.
+After returning home he drew close to Manuel de Brito Camacho's opposition Republican Union and became the natural leader of those opposed to taking part in the fighting on the Western Front. At the beginning of 1917 the [first units](/portugalczycy-laduja-we-francji) of the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) sailed for France, while at home prices rose, food was short and discontent grew. Costa's government, [formed for the third time in April 1917](/afonso-costa-po-raz-trzeci-premierem), responded with censorship and the suspension of liberties.
 
 ## Coup d'état
 

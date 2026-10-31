@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Sadzawki near Siemianowice (Upper Silesia, Prussia)
 deathPlace: Warsaw
 source: wojciech-korfanty
-sourceHash: 8ed550d5e12d158a55304d770e249d123f55b491
+sourceHash: e170fca72716586f2096853d5890ff93b9132783
 ---
 
 Wojciech Korfanty was the most important leader of the Polish national movement in Upper Silesia and one of the ablest Polish politicians in the German Empire. A miner's son, in 1903 he became the first to win a Reichstag election on openly Polish slogans, breaking with the tradition in which Silesian Catholics voted for the German Centre Party. He spent most of the war, however, on the margins of politics, pushed there by conflicts with his former allies. He returned to the stage in 1918, as Germany was collapsing. In June he won a by-election to the Reichstag, and on 25 October, from its rostrum, he demanded that the lands of the Prussian partition and Upper Silesia be joined to Poland. In November he took the lead of the Polish movement in the Prussian partition in Poznań as a member of the Commissariat of the Supreme People's Council. His greatest work, the struggle for Upper Silesia in 1919–1921, came after the Great War.
@@ -35,7 +35,7 @@ The speech caused outrage in the chamber, but it entered Polish tradition as one
 
 ## November and December 1918
 
-At the beginning of November [revolution](/rewolucja-w-berlinie) broke out in Germany, the Emperor abdicated and the Prussian authorities lost their self-assurance. In Poznań a clandestine inter-party committee that had been active since 1916 came into the open. Korfanty arrived in the city on 11 November, and on 12 November he joined the three-man Commissariat, alongside Father [Stanisław Adamski](https://pl.wikipedia.org/wiki/Stanisław_Adamski_(duchowny)) and [Adam Poszwiński](https://pl.wikipedia.org/wiki/Adam_Poszwiński). Two days later the organisation adopted the name [Supreme People's Council](https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa) and called elections to a Polish provincial diet.
+At the beginning of November [revolution](/rewolucja-w-berlinie) broke out in Germany, the Emperor abdicated and the Prussian authorities lost their self-assurance. In Poznań a clandestine inter-party committee that had been active since 1916 came into the open. Korfanty arrived in the city on 11 November, and on 12 November he joined the three-man Commissariat, alongside Father [Stanisław Adamski](https://pl.wikipedia.org/wiki/Stanisław_Adamski_(duchowny)) and [Adam Poszwiński](https://pl.wikipedia.org/wiki/Adam_Poszwiński). Two days later the organisation adopted the name [Supreme People's Council](/slownik/naczelna-rada-ludowa) and called elections to a Polish provincial diet.
 
 In mid-November Korfanty travelled to Warsaw with other activists from the Prussian partition. On 17 November he took part in talks with [Józef Piłsudski](/postacie/jozef-pilsudski) on forming a government. As a National Democrat and an opponent of a left-wing government, he objected to giving the premiership to the socialist [Ignacy Daszyński](/postacie/ignacy-daszynski) and demanded a national cabinet. The meeting ended in disappointment: neither Korfanty nor his colleagues received portfolios in the [Moraczewski government](/rzad-moraczewskiego). The biographers of both politicians date their lasting mutual dislike, which weighed on Polish politics for the next two decades, from this conversation.
 

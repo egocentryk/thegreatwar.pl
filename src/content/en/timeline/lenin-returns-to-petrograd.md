@@ -2,10 +2,10 @@
 title: Lenin returns to Petrograd
 summary: On 16 April 1917 Lenin arrived at the Finland Station in Petrograd. He had crossed Germany with Berlin's consent in a carriage called "sealed".
 source: lenin-wraca-do-piotrogrodu
-sourceHash: ee0ba105b232917c44ec993cc8a122837e894fb9
+sourceHash: f8b41f5ffca624cf8997503dab49fb6bf1024c96
 ---
 
-Late in the evening of 16 April 1917 (3 April in the Julian calendar) a train pulled into the [Finland Station](https://pl.wikipedia.org/wiki/Dworzec_Fiński_(Petersburg)) in Petrograd carrying the leader of the [Bolsheviks](https://pl.wikipedia.org/wiki/Bolszewicy), [Vladimir Lenin](/postacie/wlodzimierz-lenin), back from exile. Thousands of workers, soldiers and sailors were waiting for him on the platform and in the square outside the station. Lenin had travelled from Switzerland through Germany, Sweden and Finland. Across enemy territory, with the consent of the German government and Supreme Army Command, he had been carried in a special carriage, later called "sealed". The Germans hoped that one of the most implacable opponents of the war would weaken Russia from within.
+Late in the evening of 16 April 1917 (3 April in the Julian calendar) a train pulled into the [Finland Station](https://pl.wikipedia.org/wiki/Dworzec_Fiński_(Petersburg)) in Petrograd carrying the leader of the [Bolsheviks](/slownik/bolszewicy), [Vladimir Lenin](/postacie/wlodzimierz-lenin), back from exile. Thousands of workers, soldiers and sailors were waiting for him on the platform and in the square outside the station. Lenin had travelled from Switzerland through Germany, Sweden and Finland. Across enemy territory, with the consent of the German government and Supreme Army Command, he had been carried in a special carriage, later called "sealed". The Germans hoped that one of the most implacable opponents of the war would weaken Russia from within.
 
 ## An émigré in Switzerland
 
@@ -27,7 +27,7 @@ By way of Frankfurt and Berlin, where the carriage stood for about 20 hours in a
 
 At the last border station, Beloostrov, the train filled with workers who had come to greet Lenin. Bolsheviks from Petrograd also boarded, among them [Lev Kamenev](https://pl.wikipedia.org/wiki/Lew_Kamieniew), editor of *[Pravda](https://pl.wikipedia.org/wiki/Prawda_(dziennik))*. According to participants' memoirs, Lenin, immediately after greeting him, rebuked him for what the paper had been writing in support of the Provisional Government and the defence of the country. The train arrived in Petrograd late, at about 11 p.m. Outside the station sailors from [Kronstadt](https://pl.wikipedia.org/wiki/Kronsztad) had formed a guard of honour. In the former imperial waiting room Lenin was awaited by the chairman of the Petrograd Soviet, the Menshevik [Nikolay Chkheidze](https://pl.wikipedia.org/wiki/Nikoloz_Czcheidze). On behalf of the Soviet he expressed the hope that Lenin would join the ranks of revolutionary democracy, since the first task now was to defend free Russia against enemies within and without. Lenin turned away from him and addressed the crowd. He hailed "the vanguard of the worldwide proletarian army" and ended with the cry: "Long live the worldwide socialist revolution!"
 
-Outside the station he climbed onto an [armoured car](https://pl.wikipedia.org/wiki/Samochód_pancerny) and, in the glare of searchlights, addressed the assembled crowd once more. The car then drove through the city to the mansion of the ballerina [Mathilde Kschessinska](https://pl.wikipedia.org/wiki/Matylda_Krzesińska), which the Bolsheviks had taken over as the seat of their committee. Lenin spoke there from the balcony, and then talked to the assembled party activists until late at night.
+Outside the station he climbed onto an [armoured car](/slownik/samochod-pancerny) and, in the glare of searchlights, addressed the assembled crowd once more. The car then drove through the city to the mansion of the ballerina [Mathilde Kschessinska](https://pl.wikipedia.org/wiki/Matylda_Krzesińska), which the Bolsheviks had taken over as the seat of their committee. Lenin spoke there from the balcony, and then talked to the assembled party activists until late at night.
 
 ## The April Theses
 

@@ -2,10 +2,10 @@
 title: Reports of the capture of Kerend
 summary: "According to British sources, on 12 March 1916 the Russians took Kerend on the Kermanshah–Baghdad road. They did not hold it: in April the Turks defended it."
 source: doniesienia-o-zajeciu-kerendu
-sourceHash: b357a5755245608799eac6b37013ac02ca8c7ca6
+sourceHash: 96764be031efe44e8a22868c48179286ca338d77
 ---
 
-The British chronology of the war records under 12 March 1916 that a Russian detachment occupied Kerend in western Persia, and adds that it later withdrew. The British official history of the Mesopotamian campaign gives the same date. Kerend, a small town in the [Zagros](https://pl.wikipedia.org/wiki/Zagros) mountains, lay on the main caravan road from [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) to Baghdad, about 100 kilometres west of Kermanshah and more than halfway to the border with Ottoman Iraq. Anyone going from Persia towards Baghdad had to pass it.
+The British chronology of the war records under 12 March 1916 that a Russian detachment occupied Kerend in western Persia, and adds that it later withdrew. The British official history of the Mesopotamian campaign gives the same date. Kerend, a small town in the [Zagros](https://pl.wikipedia.org/wiki/Zagros) mountains, lay on the main caravan road from [Kermanshah](/miejsca/kermanszah) to Baghdad, about 100 kilometres west of Kermanshah and more than halfway to the border with Ottoman Iraq. Anyone going from Persia towards Baghdad had to pass it.
 
 ## After the fall of Kermanshah
 

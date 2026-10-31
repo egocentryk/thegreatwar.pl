@@ -2,7 +2,7 @@
 title: Greece refuses to help Serbia
 summary: According to the British chronology, on 29 January 1915 Greece refused to intervene for Serbia. Without Romania, the king and the staff saw war as too risky.
 source: grecja-odmawia-pomocy-serbii
-sourceHash: 2954ddb26c1b17caeee41c398a599f4fe70994f9
+sourceHash: be11075a49510d188cab60fbd14c4c1902b70b2c
 ---
 
 The British chronology of the war records under 29 January 1915 that the government of [Greece](/kraje/grecja) refused to intervene on behalf of Serbia. This ended, at least for the time being, the attempt to draw the Greeks into the war that London had made five days earlier by [promising them gains in Asia Minor](/brytyjska-oferta-dla-grecji). The Greek documents of those days make no mention of a single formal refusal delivered on 29 January. They suggest rather that the decision matured over several days, and that its shape was settled by [Romania's reply](/rumunia-odmawia-wsparcia-serbii).
@@ -21,4 +21,4 @@ He did not obtain the king's consent. Soon, moreover, Bulgaria made clear which 
 
 ## The beginning of the rift
 
-The dispute over the January offer was the first clear clash between the king and the Prime Minister over the war. It soon recurred with greater force. When in February the Anglo-French fleet attacked the Dardanelles, Venizelos wanted to send Greek troops there, but the king and the staff again objected. On 6 March 1915 Venizelos resigned. The conflict between the Prime Minister's supporters and the royal camp grew into the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa), which divided Greece for two years. The country entered the war on the side of the Entente only in June 1917, when Constantine I had to leave the throne.
+The dispute over the January offer was the first clear clash between the king and the Prime Minister over the war. It soon recurred with greater force. When in February the Anglo-French fleet attacked the Dardanelles, Venizelos wanted to send Greek troops there, but the king and the staff again objected. On 6 March 1915 Venizelos resigned. The conflict between the Prime Minister's supporters and the royal camp grew into the [National Schism](/slownik/schizma-narodowa), which divided Greece for two years. The country entered the war on the side of the Entente only in June 1917, when Constantine I had to leave the throne.

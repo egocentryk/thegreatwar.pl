@@ -2,10 +2,10 @@
 title: Russia begins general mobilisation
 summary: 31 July 1914 was the first day of general mobilisation in Russia. The news of it provoked an immediate reaction from Berlin.
 source: rosja-rozpoczyna-powszechna-mobilizacje
-sourceHash: 67fbd467339ab0e5c21214f17d88d94966bff0d5
+sourceHash: 117b71399b14c31f796942fc09d2fae1feb13170
 ---
 
-31 July 1914 – 18 July under the [Julian calendar](/slownik/kalendarz-julianski) then in use in Russia – was the first day of the general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army and navy of the [Russian Empire](/kraje/rosja). Tsar [Nicholas II](/postacie/mikolaj-ii) had agreed to it [the previous day](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) at Peterhof, and the telegrams had gone out that evening to all the military districts. In the morning notices of the mobilisation were posted in the streets of St Petersburg. The Austro-Hungarian Ambassador, Count Friedrich Szapáry, reported to Vienna that the city was receiving the mobilisation orders "in moody silence".
+31 July 1914 – 18 July under the [Julian calendar](/slownik/kalendarz-julianski) then in use in Russia – was the first day of the general [mobilisation](/slownik/mobilizacja) of the army and navy of the [Russian Empire](/kraje/rosja). Tsar [Nicholas II](/postacie/mikolaj-ii) had agreed to it [the previous day](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) at Peterhof, and the telegrams had gone out that evening to all the military districts. In the morning notices of the mobilisation were posted in the streets of St Petersburg. The Austro-Hungarian Ambassador, Count Friedrich Szapáry, reported to Vienna that the city was receiving the mobilisation orders "in moody silence".
 
 ## Why the whole army
 
@@ -23,4 +23,4 @@ In the afternoon the Tsar and Emperor [Wilhelm II](/postacie/wilhelm-ii) exchang
 
 In Berlin these assurances were not believed. That same day Germany proclaimed a state of imminent danger of war, and an ultimatum was sent to Pourtalès. The ambassador received it at 11.10 p.m. and presented it to Sazonov at midnight. The minister again cited the technical impossibility of halting the mobilisation and the Tsar's word. Asked whether he could guarantee that Russia would keep the peace even if no agreement with Vienna was reached, he could not give an affirmative answer.
 
-The mobilisation went ahead according to plan. By the time Germany began its own, the Russian military machine had already been running for two days. In mid-August Russian troops entered [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie).
+The mobilisation went ahead according to plan. By the time Germany began its own, the Russian military machine had already been running for two days. In mid-August Russian troops entered [East Prussia](/miejsca/prusy-wschodnie).

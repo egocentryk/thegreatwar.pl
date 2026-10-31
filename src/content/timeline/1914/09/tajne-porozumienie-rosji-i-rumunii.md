@@ -14,7 +14,7 @@ Brytyjska chronologia wojny odnotowuje pod 19 września 1914 roku zawarcie tajne
 
 ## Rumunia między blokami
 
-Rumunia od 1883 roku była związana tajnym sojuszem z Austro-Węgrami i Niemcami. Jej król Karol I pochodził z niemieckiej dynastii Hohenzollernów i chciał, by kraj stanął u boku państw centralnych. Rumuńska opinia publiczna myślała jednak inaczej. Około trzech milionów Rumunów żyło w granicach Austro-Węgier, przede wszystkim w [Siedmiogrodzie](https://pl.wikipedia.org/wiki/Siedmiogród), a ich los budził w Bukareszcie znacznie większe emocje niż zobowiązania sojusznicze.
+Rumunia od 1883 roku była związana tajnym sojuszem z Austro-Węgrami i Niemcami. Jej król Karol I pochodził z niemieckiej dynastii Hohenzollernów i chciał, by kraj stanął u boku państw centralnych. Rumuńska opinia publiczna myślała jednak inaczej. Około trzech milionów Rumunów żyło w granicach Austro-Węgier, przede wszystkim w [Siedmiogrodzie](/miejsca/siedmiogrod), a ich los budził w Bukareszcie znacznie większe emocje niż zobowiązania sojusznicze.
 
 3 sierpnia 1914 roku rada koronna w Sinai, wbrew woli króla, postanowiła, że Rumunia pozostanie neutralna. Premier [Ion I.C. Brătianu](/postacie/ion-bratianu) chciał zaczekać, aż wyjaśni się przebieg wojny, i uzyskać możliwie najwyższą cenę za przyłączenie się do jednej ze stron. Obie strony zabiegały o jego względy.
 

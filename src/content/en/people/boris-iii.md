@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Sofia
 deathPlace: Sofia
 source: borys-iii
-sourceHash: 89b17d108066f637c14f1cf194e379dccc9df3ef
+sourceHash: 57317ec4faaf959618dc9498e870aed2a6124a55
 ---
 
 Boris, Prince of Tarnovo, was during the Great War the heir to the Bulgarian throne and a young officer who took no great decisions. It was his father, Tsar [Ferdinand I](/postacie/ferdynand-i-koburg), who in 1915 brought the country into the war on Germany's side. Boris served at headquarters as a liaison officer, travelling between staffs, fronts and allies, and during the Romanian campaign he smoothed over disputes between Bulgarian and German commanders. His hour came in September 1918. When the Macedonian front collapsed, the heir to the throne went from regiment to regiment trying to stop the retreat, and won a popularity his father had never had. On 3 October 1918, after Ferdinand's abdication, he became tsar. Thanks to him Bulgaria was the only one of the defeated states to keep its monarchy.
@@ -15,7 +15,7 @@ Boris, Prince of Tarnovo, was during the Great War the heir to the Bulgarian thr
 
 He was born on 30 January 1894 (18 January in the Julian calendar, which Bulgaria then used) in Sofia, the first son of Prince Ferdinand of the house of Saxe-Coburg and Gotha and [Princess Marie Louise of Bourbon-Parma](https://pl.wikipedia.org/wiki/Maria_Luiza_Burbon-Parmeńska). He was christened Boris Clement Robert Maria Pius Louis Stanislaus Xavier. His birth was a political asset for Ferdinand. The Catholic prince, whom Russia still did not recognise, had the heir to the throne received into the Orthodox Church in February 1896, and Tsar [Nicholas II](/postacie/mikolaj-ii) became the boy's godfather. Pope [Leo XIII](https://pl.wikipedia.org/wiki/Leon_XIII) excommunicated Ferdinand, and Boris's mother, a devout Catholic, took this very hard. She died in 1899. The reward, however, was Ferdinand's recognition by the Great Powers and reconciliation with Russia. The fact that the heir to the throne had been born in Bulgaria and professed the Orthodox faith was to help him greatly in the future.
 
-His father was demanding and cold, and the sons, Boris and the younger Kiril, grew up apart from their peers. They were taught at a palace school that Ferdinand had founded especially for them. Boris graduated from the military school in Sofia, and during the [Balkan Wars](https://pl.wikipedia.org/wiki/Wojny_bałkańskie) of 1912–1913 he served at headquarters. He grew into a shy, modest and hard-working young man, passionate about nature and technology, especially railways. He liked to drive locomotives himself.
+His father was demanding and cold, and the sons, Boris and the younger Kiril, grew up apart from their peers. They were taught at a palace school that Ferdinand had founded especially for them. Boris graduated from the military school in Sofia, and during the [Balkan Wars](/slownik/wojny-balkanskie) of 1912–1913 he served at headquarters. He grew into a shy, modest and hard-working young man, passionate about nature and technology, especially railways. He liked to drive locomotives himself.
 
 ## At war on Germany's side
 

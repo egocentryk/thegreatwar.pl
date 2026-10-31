@@ -37,7 +37,7 @@ Na początku drugiego oblężenia w twierdzy było według polskich opracowań o
 
 ## Oblegający
 
-Rosjanie nie chcieli wiązać pod Przemyślem najlepszych dywizji polowych. Blokadę twierdzy powierzyli specjalnie utworzonej Armii Oblężniczej, przemianowanej później na [11 Armię](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)). Dowodził nią generał [Andriej Sieliwanow](https://pl.wikipedia.org/wiki/Andriej_Sieliwanow), blisko siedemdziesięcioletni generał, który przed wojną zasiadał w Radzie Państwa i dowództwo pod Przemyślem otrzymał w październiku 1914 roku. Jego siły liczyły według polskich szacunków około 100 tysięcy ludzi i 300 dział i składały się głównie z dywizji rezerwowych, złożonych ze starszych rezerwistów. Liczebność armii oblężniczej zmieniała się w czasie oblężenia.
+Rosjanie nie chcieli wiązać pod Przemyślem najlepszych dywizji polowych. Blokadę twierdzy powierzyli specjalnie utworzonej Armii Oblężniczej, przemianowanej później na [11 Armię](/sily-zbrojne/11-armia-rosyjska). Dowodził nią generał [Andriej Sieliwanow](https://pl.wikipedia.org/wiki/Andriej_Sieliwanow), blisko siedemdziesięcioletni generał, który przed wojną zasiadał w Radzie Państwa i dowództwo pod Przemyślem otrzymał w październiku 1914 roku. Jego siły liczyły według polskich szacunków około 100 tysięcy ludzi i 300 dział i składały się głównie z dywizji rezerwowych, złożonych ze starszych rezerwistów. Liczebność armii oblężniczej zmieniała się w czasie oblężenia.
 
 Sieliwanow, w przeciwieństwie do generała Dimitriewa jesienią 1914 roku, nie rzucał piechoty do szturmu na forty. Otoczył twierdzę pierścieniem okopów, odciął ją od dostaw i czekał, aż załodze skończy się żywność.
 

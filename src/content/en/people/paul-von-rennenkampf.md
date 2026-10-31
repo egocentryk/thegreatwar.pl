@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Konofer, today Konuvere (Governorate of Estonia, now Estonia)
 deathPlace: Taganrog
 source: paul-von-rennenkampf
-sourceHash: 927676188bf7af1355c136df52305796d1d790d8
+sourceHash: 5fcc4bf588a7376db4a26d3cbf8b274957cd53a1
 ---
 
 In 1914 General Paul von Rennenkampf commanded the Russian 1st Army, which was the first to enter East Prussia and on 20 August won at Gumbinnen the only major Russian victory of that campaign. A few days later the Germans destroyed the neighbouring army of Alexander Samsonov at Tannenberg, and Rennenkampf, who had not come to its aid, became in the eyes of the public the chief culprit of the defeat. After the defeat at the Masurian Lakes and the failure to close the pocket at Łódź he lost his command, and his German surname brought him accusations of treason. Historians today judge him more leniently than his contemporaries did, pointing out that his superiors made the more serious mistakes.
@@ -39,7 +39,7 @@ The defeats in East Prussia and his German surname made him a traitor in the eye
 
 ## After the war
 
-After the [February Revolution](/rewolucja-lutowa) Rennenkampf was arrested and imprisoned in the [Peter and Paul Fortress](https://pl.wikipedia.org/wiki/Twierdza_Pietropawłowska). The revolutionaries remembered 1906 against him, but the investigating commission of the Provisional Government found no grounds for a charge. After the [October Revolution](/rewolucja-pazdziernikowa) he was released and went to [Taganrog](https://pl.wikipedia.org/wiki/Taganrog), his wife's home town, where he hid under an assumed name, passing himself off, among other things, as a Greek. In March 1918 the Bolsheviks recognised and arrested him. According to accounts he was offered a command in the [Red Army](https://pl.wikipedia.org/wiki/Armia_Czerwona), and when he refused, [Vladimir Antonov-Ovseyenko](https://pl.wikipedia.org/wiki/Władimir_Antonow-Owsiejenko) had him shot. The execution took place outside the town on the night before 1 April 1918. Some Russian authors give the date as 14 April, converting it to the New Style. The grave was found after the Whites took the town, and its probable location in the old cemetery in Taganrog was established by local researchers in 2015.
+After the [February Revolution](/rewolucja-lutowa) Rennenkampf was arrested and imprisoned in the [Peter and Paul Fortress](https://pl.wikipedia.org/wiki/Twierdza_Pietropawłowska). The revolutionaries remembered 1906 against him, but the investigating commission of the Provisional Government found no grounds for a charge. After the [October Revolution](/rewolucja-pazdziernikowa) he was released and went to [Taganrog](https://pl.wikipedia.org/wiki/Taganrog), his wife's home town, where he hid under an assumed name, passing himself off, among other things, as a Greek. In March 1918 the Bolsheviks recognised and arrested him. According to accounts he was offered a command in the [Red Army](/slownik/czerwona-armia), and when he refused, [Vladimir Antonov-Ovseyenko](https://pl.wikipedia.org/wiki/Władimir_Antonow-Owsiejenko) had him shot. The execution took place outside the town on the night before 1 April 1918. Some Russian authors give the date as 14 April, converting it to the New Style. The grave was found after the Whites took the town, and its probable location in the old cemetery in Taganrog was established by local researchers in 2015.
 
 ## Assessment
 

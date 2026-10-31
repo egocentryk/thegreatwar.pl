@@ -2,10 +2,10 @@
 title: End of the Battle of the Masurian Lakes
 summary: On 15 September 1914 the Battle of the Masurian Lakes ended. Rennenkampf's Russian 1st Army, beaten but not encircled, withdrew from East Prussia.
 source: koniec-bitwy-nad-jeziorami-mazurskimi
-sourceHash: d08aee13fa134cc7c280bb817f111b62dab9878d
+sourceHash: 4a6b078e755806989a1427319c8c4e4cc86af6d5
 ---
 
-On 15 September 1914 the Battle of the Masurian Lakes came to an end. The German Eighth Army of General [Paul von Hindenburg](/postacie/paul-von-hindenburg) ended its pursuit of the Russian 1st Army of General [Paul von Rennenkampf](/postacie/paul-von-rennenkampf), which had withdrawn beyond the border of [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie). After less than a month of Russian invasion the province was again in German hands.
+On 15 September 1914 the Battle of the Masurian Lakes came to an end. The German Eighth Army of General [Paul von Hindenburg](/postacie/paul-von-hindenburg) ended its pursuit of the Russian 1st Army of General [Paul von Rennenkampf](/postacie/paul-von-rennenkampf), which had withdrawn beyond the border of [East Prussia](/miejsca/prusy-wschodnie). After less than a month of Russian invasion the province was again in German hands.
 
 ## Rennenkampf's escape
 

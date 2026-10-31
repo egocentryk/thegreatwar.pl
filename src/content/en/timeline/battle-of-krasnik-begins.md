@@ -2,7 +2,7 @@
 title: The Battle of Kraśnik begins
 summary: On 23 August 1914 the Austro-Hungarian First Army and the Russian Fourth Army clashed in the Lublin region. The great Battle of Galicia had begun.
 source: poczatek-bitwy-pod-krasnikiem
-sourceHash: d4018ba303444a023d352d4a4f215d0bb7b602a8
+sourceHash: 97c7240b7443a006c4deeb79dba287bda57c8bac
 ---
 
 On 23 August 1914, south of [Kraśnik](https://pl.wikipedia.org/wiki/Kraśnik), in Congress Poland, the first great battle between the armies of Austria-Hungary and Russia began. The [Battle of Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) opened the series of clashes known as the [Battle of Galicia](/bitwy/bitwa-galicyjska).
@@ -13,7 +13,7 @@ The Austro-Hungarian chief of staff, Franz Conrad von Hötzendorf, decided to st
 
 ## The first Austro-Hungarian victory
 
-The fighting lasted three days. The Austro-Hungarians, who had numerical superiority, pushed back the Russian right wing, and on 25 August forced the whole Russian army to retreat towards [Lublin](https://pl.wikipedia.org/wiki/Lublin). It was the Austro-Hungarian army's first victory of the war, especially valuable after the defeat in Serbia. Salza lost his command.
+The fighting lasted three days. The Austro-Hungarians, who had numerical superiority, pushed back the Russian right wing, and on 25 August forced the whole Russian army to retreat towards [Lublin](/miejsca/lublin). It was the Austro-Hungarian army's first victory of the war, especially valuable after the defeat in Serbia. Salza lost his command.
 
 ## War on Polish soil
 

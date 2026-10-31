@@ -2,10 +2,10 @@
 title: Operation Albion begins
 summary: On 11 October 1917 a German force with ten dreadnoughts and 19 transports sailed from Libau for the islands at the mouth of the Gulf of Riga.
 source: poczatek-operacji-albion
-sourceHash: 4c583fa03e9e702caaddd5c66272bccd87aa4750
+sourceHash: 77c67282d87d9de471023662e8d5b57fb5562fa9
 ---
 
-On the morning of 11 October 1917 (28 September in the Julian calendar), in the Baltic north of [Libau](https://pl.wikipedia.org/wiki/Lipawa), the groups of German warships that had been waiting two weeks for the weather to improve joined up. Ten dreadnoughts, a battlecruiser, cruisers, dozens of torpedo boats and minesweepers and 19 transports carrying troops set off northwards towards the island of [Saaremaa](https://pl.wikipedia.org/wiki/Sarema), then known as Ösel. Operation Albion was beginning, the largest German amphibious landing of the war, whose aim was to capture the islands that closed the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). The British chronology of the war records under this day the start of operations against the Baltic islands. The first soldiers went ashore at dawn the next day.
+On the morning of 11 October 1917 (28 September in the Julian calendar), in the Baltic north of [Libau](/miejsca/lipawa), the groups of German warships that had been waiting two weeks for the weather to improve joined up. Ten dreadnoughts, a battlecruiser, cruisers, dozens of torpedo boats and minesweepers and 19 transports carrying troops set off northwards towards the island of [Saaremaa](https://pl.wikipedia.org/wiki/Sarema), then known as Ösel. Operation Albion was beginning, the largest German amphibious landing of the war, whose aim was to capture the islands that closed the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). The British chronology of the war records under this day the start of operations against the Baltic islands. The first soldiers went ashore at dawn the next day.
 
 ## The key to the Gulf of Riga
 

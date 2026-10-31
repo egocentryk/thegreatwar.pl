@@ -19,6 +19,7 @@ authors: [Natalia]
 sources:
   - "https://de.wikipedia.org/wiki/S%C3%BCdarmee_(Deutsches_Kaiserreich)"
   - "https://en.wikipedia.org/wiki/South_Army_(German_Empire)"
+  - "https://de.wikipedia.org/wiki/Felix_von_Bothmer"
   - "https://www.historyofwar.org/articles/people_bothmer_felix.html"
   - "https://wartimememoriesproject.com/greatwar/centralpowers/view.php?pid=17549"
   - "https://bac-lac.wayback.archive-it.org/web/20171107152754/http:/firstworldwar.com/bio/linsingen.htm"
@@ -30,7 +31,7 @@ Armia Południowa (Südarmee) była pierwszą wspólną armią [Niemiec](/kraje/
 
 Na przełomie 1914 i 1915 roku Rosjanie oblegali Przemyśl i stali na przełęczach karpackich, a Austro-Węgry prosiły o pomoc. 11 stycznia 1915 roku dowództwo pruskiego II Korpusu przekształcono w sztab Armii Południowej, a jego dowódca, Linsingen, objął nową armię. Szef niemieckiego sztabu generalnego [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) chciał dać jej za szefa sztabu [Ericha Ludendorffa](/postacie/erich-ludendorff), co miało rozdzielić go z Hindenburgiem, ale Ludendorff po kilku tygodniach wrócił na północ. Armia weszła w lukę między austro-węgierską 3 Armią a grupą generała [Karla Pflanzera-Baltina](/postacie/karl-pflanzer-baltin).
 
-Od początku była to armia mieszana. Na wschodnim skrzydle walczył korpus generała Friedricha von Geroka z niemiecką 48 Dywizją Rezerwową i austro-węgierską 19 Dywizją, w środku austro-węgierski korpus generała Petera von Hofmanna z niemiecką 1 Dywizją Piechoty, a lewe skrzydło tworzyła niemiecka 3 Dywizja Piechoty Gwardii. Każda z tych grup szła przez góry osobną drogą. W maju armii podporządkowano jeszcze austro-węgierski korpus generała Sándora Szurmaya, a dywizje niemieckie ze środka i lewego skrzydła połączono w korpus Bothmera.
+Od początku była to armia mieszana. Na wschodnim skrzydle walczył korpus generała Friedricha von Geroka z niemiecką 48 Dywizją Rezerwową i austro-węgierską 19 Dywizją, w środku austro-węgierski korpus generała Petera von Hofmanna z niemiecką 1 Dywizją Piechoty, a lewe skrzydło tworzyła niemiecka 3 Dywizja Piechoty Gwardii. Każda z tych grup szła przez góry osobną drogą. Dywizje niemieckie ze środka i lewego skrzydła tworzyły od marca korpus Bothmera, a w maju armii podporządkowano jeszcze austro-węgierski korpus generała Sándora Szurmaya.
 
 [23 stycznia](/poczatek-ofensywy-w-karpatach) ruszyła ofensywa, która miała uratować [oblężony Przemyśl](/bitwy/drugie-oblezenie-przemysla). Armia Południowa nacierała we wschodnich Bieszczadach przez przełęcze Werecką i Wyszkowską, w głębokim śniegu i mrozie, ale przez całe tygodnie bezskutecznie szturmowała silnie umocnione pasmo Zwinina. Zwinin padł dopiero 9 kwietnia, gdy Przemyśl od kilku tygodni był w rękach Rosjan. [Zimowa bitwa w Karpatach](/bitwy/zimowa-bitwa-w-karpatach) kosztowała Austro-Węgry w śniegu i mrozie setki tysięcy ludzi, a twierdzy nie uratowała.
 

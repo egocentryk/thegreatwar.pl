@@ -2,10 +2,10 @@
 title: Belgium orders mobilisation
 summary: On 31 July 1914 the Belgian government ordered a general mobilisation of the army to defend the country's neutrality against anyone who might violate it.
 source: belgia-zarzadza-mobilizacje
-sourceHash: 3271c23109b10818b573017ed6590c794f472771
+sourceHash: 19f69c54ce6eb3a1a96964a2762dfb6e40a9f762
 ---
 
-On 31 July 1914 the government of [Belgium](/kraje/belgia) ordered a general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army. Its first day was 1 August. The decision came as Russia was beginning general mobilisation and a state of imminent danger of war was being proclaimed in Germany. War between the great powers had become almost certain, and Belgium, lying between France and Germany, had to prepare for the worst.
+On 31 July 1914 the government of [Belgium](/kraje/belgia) ordered a general [mobilisation](/slownik/mobilizacja) of the army. Its first day was 1 August. The decision came as Russia was beginning general mobilisation and a state of imminent danger of war was being proclaimed in Germany. War between the great powers had become almost certain, and Belgium, lying between France and Germany, had to prepare for the worst.
 
 The mobilisation was not directed against any particular state. Belgium, whose neutrality had been guaranteed by the powers since 1839 under the [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)), intended to defend it against anyone who might wish to violate it. King [Albert I](/postacie/albert-i), under the constitution commander-in-chief of the army, was determined to make good the government's statement of a few days earlier: neutrality was to be defended, not merely declared.
 

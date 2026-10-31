@@ -9,7 +9,7 @@ sides:
     commanders: [Otto von Below, Arnold von Winckler, Dimitar Geshov, Nikola Zhekov]
 result: Entente victory. The Serbs took most of the Crna bend, and on 19 November the Allies took Bitola. The front was not broken and came to a halt a few kilometres north of the town.
 source: bitwa-nad-czarna-rzeka-i-o-bitole
-sourceHash: 7287e173f27e473f2ab7d2f1520b8b2724034779
+sourceHash: 23a811386c772216134cd8916027c8be1a464f4c
 ---
 
 The Battle of the Crna and Bitola was the second, decisive part of the Allied autumn offensive in Macedonia. In September 1916 the army of General [Maurice Sarrail](/postacie/maurice-sarrail) drove the Bulgarians back from Lake Ostrovo, recovered Florina and took the peak of [Kaymakchalan](https://pl.wikipedia.org/wiki/Kajmakczałan). At the beginning of October the Bulgarians took up a new, fortified line covering [Bitola](/miejsca/bitola), known in Europe at the time as Monastir. For more than two months the Serbs fought their way through the mountainous bend of the [Crna River](/miejsca/crna-reka), while the French and Russians stormed the Bulgarian trenches on the plain without success. In mid-November the defence on the eastern wing cracked, and on 19 November the Allies entered the abandoned town of Bitola, the first sizeable town of Serbia recovered since the autumn of 1915. On the hills just beyond the town, however, the Bulgarians and the Germans sent to help them halted the advance, and on 11 December the offensive was called off.

@@ -2,7 +2,7 @@
 title: End of the Darfur campaign
 summary: The British chronology of the war takes 31 December 1916 as the end of the Sudanese campaign in Darfur. The former sultanate became a province of the Sudan.
 source: koniec-kampanii-w-darfurze
-sourceHash: f76b6f516b316285876b5d5294799ecdcc989789
+sourceHash: 4e24debc458a9cd106f421db172903994c61ec6f
 ---
 
 The British official chronology of the war states that on 31 December 1916 the campaign of the Sudan Government's troops in [Darfur](https://pl.wikipedia.org/wiki/Darfur), which [had begun on 1 March](/poczatek-wojny-z-sultanem-darfuru), came to an end. No battle was fought that day. The date rather formally closes the period of hostilities. The last serious clash had taken place almost two months earlier, on 6 November, when Major Hubert Huddleston's detachment [caught up with Sultan Ali Dinar's camp](/smierc-sultana-ali-dinara) near Jebel Juba and the Sultan was killed. After that there was only the clearing of the country of the remnants of his followers. Other dates for the end of operations are also found. The British "Fasher" clasp to the Khedive's Sudan Medal covered, according to descriptions of the decoration, the fighting from 1 September to 23 November 1916.
@@ -11,7 +11,7 @@ The British official chronology of the war states that on 31 December 1916 the c
 
 Accounts of the fate of Ali Dinar's family differ. According to the British aviation historian Andrew Roe, his wounded son Muhammad Fadl lay beside the Sultan's body, and nearby two other sons, Husayn and Sayf al-Din, were waiting to surrender. Other studies write that two of his sons were killed together with the Sultan. What is certain is that after Ali Dinar's death no one took over the leadership from him. Several hundred of his men, including members of his family, had already surrendered earlier at Kulme.
 
-The country did not calm down at once. The British official history of operations in Egypt (MacMunn and Falls) compares the situation in Darfur to the aftermath of wars in medieval Europe: for a time bands of masterless armed men roamed the country, plundering the defenceless. They were gradually rounded up and broken up. The whole of Darfur was now quiet, except for a remote corner in the north-west. Darfur was also covered from the north by the French, who in neighbouring [Wadai](https://pl.wikipedia.org/wiki/Wadaj_(królestwo)), conquered a few years earlier, were holding back the infiltration of followers of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja).
+The country did not calm down at once. The British official history of operations in Egypt (MacMunn and Falls) compares the situation in Darfur to the aftermath of wars in medieval Europe: for a time bands of masterless armed men roamed the country, plundering the defenceless. They were gradually rounded up and broken up. The whole of Darfur was now quiet, except for a remote corner in the north-west. Darfur was also covered from the north by the French, who in neighbouring [Wadai](https://pl.wikipedia.org/wiki/Wadaj_(królestwo)), conquered a few years earlier, were holding back the infiltration of followers of the [Senussi](/slownik/sanusijja).
 
 ## The balance of the campaign
 

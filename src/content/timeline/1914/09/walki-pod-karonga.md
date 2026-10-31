@@ -15,7 +15,7 @@ draft: false
 
 ## Wyprawa na Karongę
 
-Karonga, siedziba władz okręgu, leżała zaledwie kilkadziesiąt kilometrów od granicznej rzeki Songwe. Wojna dotarła tu wcześnie: już 13 sierpnia brytyjski uzbrojony parowiec Guendolen unieszkodliwił na jeziorze niemiecki statek Hermann von Wissmann. Na początku września po niemieckiej stronie granicy zebrała się 5 kompania polowa [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) pod dowództwem Ericha von Langenn-Steinkellera, wsparta przez kilkuset nieregularnych wojowników [rugaruga](https://pl.wikipedia.org/wiki/Rugaruga). Źródła szacują całość tych sił na 400–700 ludzi. Niemcy przekroczyli Songwe i ruszyli brzegiem jeziora na Karongę.
+Karonga, siedziba władz okręgu, leżała zaledwie kilkadziesiąt kilometrów od granicznej rzeki Songwe. Wojna dotarła tu wcześnie: już 13 sierpnia brytyjski uzbrojony parowiec Guendolen unieszkodliwił na jeziorze niemiecki statek Hermann von Wissmann. Na początku września po niemieckiej stronie granicy zebrała się 5 kompania polowa [Schutztruppe](/slownik/schutztruppe) pod dowództwem Ericha von Langenn-Steinkellera, wsparta przez kilkuset nieregularnych wojowników [rugaruga](https://pl.wikipedia.org/wiki/Rugaruga). Źródła szacują całość tych sił na 400–700 ludzi. Niemcy przekroczyli Songwe i ruszyli brzegiem jeziora na Karongę.
 
 Brytyjczycy spodziewali się ataku. Pod koniec sierpnia skoncentrowali w okolicy około 400 żołnierzy afrykańskich z 1 Batalionu King's African Rifles i blisko stu białych ochotników z miejscowej rezerwy pod dowództwem kapitana C. W. Bartona. 8 września Barton wyruszył z głównymi siłami na północ, na spotkanie przeciwnika. W samej Karondze zostawił tylko porucznika Bishopa z kilkudziesięcioma askarysami i policjantami oraz garstką cywilów.
 

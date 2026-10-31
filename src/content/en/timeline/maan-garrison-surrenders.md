@@ -2,10 +2,10 @@
 title: The Ma'an garrison surrenders
 summary: On 29 September 1918 at Ziza, south of Amman, the Turkish garrison of Ma'an, surrounded by Bedouin, surrendered to Australian light horsemen.
 source: kapitulacja-garnizonu-maan
-sourceHash: bdf1841a93921b5c44fe91ae47eeb1792b60d111
+sourceHash: 037debda88e74deb31d265ce5bc92ed579eec753
 ---
 
-On 29 September 1918, at Ziza station on the [Hejaz Railway](https://pl.wikipedia.org/wiki/Kolej_Hidżaska), about 30 kilometres south of Amman, several thousand Turkish soldiers surrendered who for more than a year had defended [Ma'an](https://pl.wikipedia.org/wiki/Ma’an) against the Arab rebels. They capitulated to a handful of Australian horsemen, but in truth they feared someone else: hundreds, and according to some accounts thousands, of Bedouin who were circling their camp, waiting for plunder. The scene in which Australians and Turks spent the night side by side in the trenches, ready to fight off the Arabs together, is among the strangest episodes of the Palestine campaign.
+On 29 September 1918, at Ziza station on the [Hejaz Railway](/slownik/kolej-hidzaska), about 30 kilometres south of Amman, several thousand Turkish soldiers surrendered who for more than a year had defended [Ma'an](https://pl.wikipedia.org/wiki/Ma’an) against the Arab rebels. They capitulated to a handful of Australian horsemen, but in truth they feared someone else: hundreds, and according to some accounts thousands, of Bedouin who were circling their camp, waiting for plunder. The scene in which Australians and Turks spent the night side by side in the trenches, ready to fight off the Arabs together, is among the strangest episodes of the Palestine campaign.
 
 ## Retreat from Ma'an
 

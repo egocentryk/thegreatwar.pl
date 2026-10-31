@@ -9,7 +9,7 @@ sides:
     commanders: [Paul von Hindenburg, Erich Ludendorff, Hermann von François]
 result: German victory. The Russian Second Army was encircled and destroyed, and its commander took his own life.
 source: bitwa-pod-tannenbergiem
-sourceHash: c8c572a7ee835d4881b567a6e62cb8d98edf7ec2
+sourceHash: 56d727d9069944e230d2408b24f946ed24b4c2e2
 brief:
   - "The Battle of Tannenberg was fought at the end of August 1914 in the south of East Prussia. The main battle was fought on 26–30 August."
   - "Russia attacked East Prussia with two armies separated by the Masurian Lakes. The Germans intercepted Russian orders sent by radio without encryption."
@@ -18,7 +18,7 @@ brief:
   - "Tannenberg made Hindenburg and Ludendorff national heroes. The Russian offensive, however, induced the Germans to move two corps east on the eve of the Battle of the Marne."
 ---
 
-The [Battle of Tannenberg](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem) was fought at the end of August 1914 in the south of [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), in what is today Warmia and Masuria. The first clashes took place on 23 August, and the main battle was fought on 26–30 August. It ended with the encirclement and destruction of the Russian Second Army and was Germany's greatest victory on the Eastern Front in the first year of the war.
+The [Battle of Tannenberg](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem) was fought at the end of August 1914 in the south of [East Prussia](/miejsca/prusy-wschodnie), in what is today Warmia and Masuria. The first clashes took place on 23 August, and the main battle was fought on 26–30 August. It ended with the encirclement and destruction of the Russian Second Army and was Germany's greatest victory on the Eastern Front in the first year of the war.
 
 ## Two Russian armies
 

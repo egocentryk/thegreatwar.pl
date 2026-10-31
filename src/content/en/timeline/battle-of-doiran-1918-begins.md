@@ -2,10 +2,10 @@
 title: Battle of Doiran begins
 summary: On 18 September 1918 the British and Greeks attacked the Bulgarian defences by Lake Doiran. The Greeks took the forward line, but the main attack broke down.
 source: poczatek-bitwy-pod-dojranem-1918
-sourceHash: 89a78e37f23bfc4485234bf1273fc94f35f0fff6
+sourceHash: 8aad9b1c5bc917dfbba7ba7d8631459ccdedf060
 ---
 
-On 18 September 1918 at 5.08 a.m. British and Greek troops went into the assault on the Bulgarian positions west of Lake [Doiran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)). Three days earlier the Serbs and French had [broken the front at Dobro Pole](/poczatek-bitwy-pod-dobrym-polem), and the Allied commander-in-chief on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey), now wanted General George Milne's British Salonika Army to pin down the Bulgarian 1st Army and prevent it from sending reinforcements to the threatened sector. The British chronology of the war records for this day the beginning of "the Battle of Monastir–Doiran", that is, the British and French part in the offensive, which was to last until 24 September, and within it the Battle of Doiran.
+On 18 September 1918 at 5.08 a.m. British and Greek troops went into the assault on the Bulgarian positions west of Lake [Doiran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)). Three days earlier the Serbs and French had [broken the front at Dobro Pole](/poczatek-bitwy-pod-dobrym-polem), and the Allied commander-in-chief on the [Salonika front](/bitwy/front-salonicki), General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey), now wanted General George Milne's British Salonika Army to pin down the Bulgarian 1st Army and prevent it from sending reinforcements to the threatened sector. The British chronology of the war records for this day the beginning of "the Battle of Monastir–Doiran", that is, the British and French part in the offensive, which was to last until 24 September, and within it the Battle of Doiran.
 
 ## The forward line by the lake
 

@@ -11,7 +11,7 @@ sides:
     commanders: [Erich von Falkenhayn, "Albrecht, Duke of Württemberg", "Rupprecht, Crown Prince of Bavaria", Max von Fabeck]
 result: Allied defensive victory. The Germans failed to break the front and did not reach the Channel ports. A salient formed around Ypres and was held until 1918.
 source: pierwsza-bitwa-pod-ypres
-sourceHash: 4cb7822d49b5fc4f6f6792513eabfe9fe689f76a
+sourceHash: 80a9909cd57dbc598ab505c1881aaa15497ab138
 brief:
   - "The First Battle of Ypres, fought from 19 October to 22 November 1914, was the last and largest battle of the race to the sea. Allied and German offensives collided in it."
   - "The Allies wanted to turn the Germans' northern flank, while General Falkenhayn threw into Flanders a new Fourth Army, made up largely of volunteers, to break the front and reach the Channel ports."
@@ -74,7 +74,7 @@ German losses were never counted exactly. After the war the Reichsarchiv gave, w
 
 ## Significance
 
-The First Battle of Ypres closed the race to the sea. Neither side had managed to outflank the other, and a continuous line of trenches now ran from Switzerland to the North Sea coast. The war of movement in the west was over, and [trench warfare](https://pl.wikipedia.org/wiki/Wojna_pozycyjna) began, which was to last until 1918. The failure in Flanders convinced Falkenhayn that a quick decision in the west was impossible.
+The First Battle of Ypres closed the race to the sea. Neither side had managed to outflank the other, and a continuous line of trenches now ran from Switzerland to the North Sea coast. The war of movement in the west was over, and [trench warfare](/slownik/wojna-pozycyjna) began, which was to last until 1918. The failure in Flanders convinced Falkenhayn that a quick decision in the west was impossible.
 
 For the British this was the battle in which their old regular army ceased to exist. From August to the end of November the British Expeditionary Force lost almost 90,000 men, whereas the infantry of the first seven divisions had initially numbered about 84,000. Of the roughly 12,000 soldiers of the 7th Division, just over 3,000 remained at the beginning of November. Their place was taken by reservists, volunteers of the Territorial Force, soldiers from India and later from Canada, and Kitchener's growing New Armies.
 

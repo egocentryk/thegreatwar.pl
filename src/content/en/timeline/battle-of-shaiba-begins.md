@@ -2,7 +2,7 @@
 title: Battle of Shaiba begins
 summary: On 12 April 1915 Turkish troops and the Arab allies of Süleyman Askerî attacked the British camp at Shaiba near Basra. The attacks were repulsed.
 source: poczatek-bitwy-pod-szuajba
-sourceHash: 27c4ef87e8d62d1f9dfc19f20591ebda8cb6272b
+sourceHash: 7fd42303a4d1af6988b9103bff092e1c3ccc25b1
 ---
 
 At dawn on 12 April 1915 Turkish troops attacked the fortified British camp at Shaiba, a dozen or so kilometres south-west of [Basra](/miejsca/basra). It was the largest Turkish attempt to recover lower [Mesopotamia](/bitwy/kampania-mezopotamska), lost in the autumn of 1914. All day and all night the defenders beat off successive attacks, while the British in Basra struggled to get reinforcements to them across the flooded desert. Only three days earlier General John Nixon had [taken over command in the Persian Gulf](/nixon-obejmuje-dowodztwo-w-mezopotamii).
@@ -11,7 +11,7 @@ At dawn on 12 April 1915 Turkish troops attacked the fortified British camp at S
 
 The expedition was commanded by Lieutenant Colonel Süleyman Askerî, a close associate of [Enver Pasha](/postacie/enver-pasza) and one of the organisers of the secret Special Organisation, commander of the Ottoman forces in Iraq since December 1914. In January he had been badly wounded in a clash with the British at Qurna, and even in April he still could not walk. He directed the expedition from a stretcher. The troops were commanded directly by Ali Bey, commander of the Istanbul fire brigade regiment, a military formation sent to Mesopotamia as one of the best units available. Alongside it went battalions of the 35th Division, the volunteer Osmancık battalion and battalions filled up with Kurdish volunteers. According to Turkish sources, at the end of March Askerî's right wing numbered about 7,600 men with 21 guns, although the British estimated it much higher.
 
-The largest part of the expedition consisted of Arab tribal warriors, according to Turkish sources more than 18,000 men. They had been brought in by powerful sheikhs, above all Ajaimi al-Sa'dun of the Muntafiq tribal confederation, and Shia clerics from [Najaf](https://pl.wikipedia.org/wiki/An-Nadżaf) and [Karbala](https://pl.wikipedia.org/wiki/Karbala) also called for war against the unbelievers. Askerî reckoned that if he took Shaiba and entered Basra, he would rouse the whole region to [jihad](https://pl.wikipedia.org/wiki/Dżihad).
+The largest part of the expedition consisted of Arab tribal warriors, according to Turkish sources more than 18,000 men. They had been brought in by powerful sheikhs, above all Ajaimi al-Sa'dun of the Muntafiq tribal confederation, and Shia clerics from [Najaf](https://pl.wikipedia.org/wiki/An-Nadżaf) and [Karbala](https://pl.wikipedia.org/wiki/Karbala) also called for war against the unbelievers. Askerî reckoned that if he took Shaiba and entered Basra, he would rouse the whole region to [jihad](/slownik/dzihad).
 
 ## Assault on the camp
 

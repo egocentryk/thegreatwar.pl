@@ -67,7 +67,7 @@ Armia polowa Belgii wymknęła się z pułapki. Niemcy próbowali odciąć jej d
 
 ## Straty
 
-Dokładne straty obrońców nie są znane. Według różnych źródeł Niemcy wzięli do niewoli około 30 tysięcy żołnierzy belgijskich, głównie z załogi twierdzy. Kolejne około 30–40 tysięcy przekroczyło granicę holenderską i zostało [internowanych](https://pl.wikipedia.org/wiki/Internowanie) w neutralnej Holandii do końca wojny. Dywizja Marynarki straciła, według brytyjskich danych, kilkadziesiąt osób zabitych i ponad stu rannych. Blisko 1000 marynarzy trafiło do niewoli niemieckiej, a około 1500 zostało internowanych w Holandii, głównie w obozie w [Groningen](https://pl.wikipedia.org/wiki/Groningen), nazywanym przez nich żartobliwie „HMS Timbertown”. Straty niemieckie również nie są dokładnie znane.
+Dokładne straty obrońców nie są znane. Według różnych źródeł Niemcy wzięli do niewoli około 30 tysięcy żołnierzy belgijskich, głównie z załogi twierdzy. Kolejne około 30–40 tysięcy przekroczyło granicę holenderską i zostało [internowanych](/slownik/internowanie) w neutralnej Holandii do końca wojny. Dywizja Marynarki straciła, według brytyjskich danych, kilkadziesiąt osób zabitych i ponad stu rannych. Blisko 1000 marynarzy trafiło do niewoli niemieckiej, a około 1500 zostało internowanych w Holandii, głównie w obozie w [Groningen](https://pl.wikipedia.org/wiki/Groningen), nazywanym przez nich żartobliwie „HMS Timbertown”. Straty niemieckie również nie są dokładnie znane.
 
 Oblężenie wywołało ogromną falę uchodźców. Szacuje się, że w 1914 roku Belgię opuściło około miliona cywilów, uciekających do Holandii, Wielkiej Brytanii i Francji. Wielu mieszkańców Antwerpii wróciło po kilku tygodniach, ale część pozostała na emigracji do końca wojny.
 

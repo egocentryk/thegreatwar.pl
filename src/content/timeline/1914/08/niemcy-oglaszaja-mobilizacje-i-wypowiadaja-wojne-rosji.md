@@ -16,7 +16,7 @@ brief:
   - "Formalnie to Niemcy rozpoczęły wojnę, co pozwoliło Włochom ogłosić neutralność. Zgodnie z planem Schlieffena Niemcy 3 sierpnia wypowiedziały wojnę Francji, a 4 sierpnia wkroczyły do Belgii."
 ---
 
-1 sierpnia 1914 roku [Niemcy](/kraje/niemcy) wykonały dwa kroki, które zamieniły wojnę na Bałkanach w wojnę wielkich mocarstw. Po południu cesarz [Wilhelm II](/postacie/wilhelm-ii) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), a wieczorem niemiecki ambasador w Petersburgu wręczył rosyjskiemu rządowi [wypowiedzenie wojny](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). Po raz pierwszy w tym konflikcie jedno wielkie mocarstwo wypowiedziało wojnę drugiemu.
+1 sierpnia 1914 roku [Niemcy](/kraje/niemcy) wykonały dwa kroki, które zamieniły wojnę na Bałkanach w wojnę wielkich mocarstw. Po południu cesarz [Wilhelm II](/postacie/wilhelm-ii) zarządził powszechną [mobilizację](/slownik/mobilizacja), a wieczorem niemiecki ambasador w Petersburgu wręczył rosyjskiemu rządowi [wypowiedzenie wojny](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). Po raz pierwszy w tym konflikcie jedno wielkie mocarstwo wypowiedziało wojnę drugiemu.
 
 ## Mobilizacja
 

@@ -9,14 +9,14 @@ sides:
     commanders: [Erich von Falkenhayn, Alexander von Kluck, "Rupprecht, Crown Prince of Bavaria"]
 result: Inconclusive. Neither side outflanked the enemy's wing, and the front settled between the Oise and the Somme. The fighting moved further north.
 source: pierwsza-bitwa-w-pikardii
-sourceHash: 96c899a5f177b8a74d9d4cdc18e08be18b340365
+sourceHash: 1111c91bc7489e2d167cf836dac98a5721c069d3
 ---
 
 The First Battle of [Picardy](https://pl.wikipedia.org/wiki/Pikardia), fought on 22–26 September 1914, was the first major clash of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). The French Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) tried to outflank from the west the open wing of the German armies, which had halted on the Aisne. It ran, however, into German corps being moved to the same area with an identical intention. Instead of an outflanking manoeuvre there was a series of frontal clashes, after which the front shifted another section northwards.
 
 ## Dates of the battle
 
-On this page we adopt the dates 22–26 September 1914, given by French historiography (French *bataille de Picardie*) and most modern studies. The limits are, however, conventional. Fighting north of the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) had been going on since about 17 September, when the French Sixth Army tried to outflank the German wing around [Noyon](/miejsca/noyon), and the clashes at Roye and Lassigny dragged on into the beginning of October. From 25 September the main weight of the fighting shifted further north, to the area of Albert and Bapaume. That fighting is usually described as a separate [Battle of Albert](/bitwy/pierwsza-bitwa-pod-albert).
+On this page we adopt the dates 22–26 September 1914, given by French historiography (French *bataille de Picardie*) and most modern studies. The limits are, however, conventional. Fighting north of the [Oise](/miejsca/oise) had been going on since about 17 September, when the French Sixth Army tried to outflank the German wing around [Noyon](/miejsca/noyon), and the clashes at Roye and Lassigny dragged on into the beginning of October. From 25 September the main weight of the fighting shifted further north, to the area of Albert and Bapaume. That fighting is usually described as a separate [Battle of Albert](/bitwy/pierwsza-bitwa-pod-albert).
 
 ## Background: the open wing
 

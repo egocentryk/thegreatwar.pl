@@ -21,7 +21,7 @@ Pierwsza bitwa w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), stoczona w 
 
 ## Daty bitwy
 
-Na tej stronie przyjmujemy daty 22–26 września 1914 roku, podawane przez francuską historiografię (fr. *bataille de Picardie*) i większość współczesnych opracowań. Granice są jednak umowne. Walki na północ od [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) toczyły się już od około 17 września, gdy francuska 6 Armia próbowała obejść niemieckie skrzydło w okolicach [Noyon](/miejsca/noyon), a starcia pod Roye i Lassigny ciągnęły się jeszcze na początku października. Od 25 września główny ciężar walk przesunął się dalej na północ, w okolice Albert i Bapaume. Te walki opisuje się zwykle jako osobną [bitwę pod Albert](/bitwy/pierwsza-bitwa-pod-albert).
+Na tej stronie przyjmujemy daty 22–26 września 1914 roku, podawane przez francuską historiografię (fr. *bataille de Picardie*) i większość współczesnych opracowań. Granice są jednak umowne. Walki na północ od [Oise](/miejsca/oise) toczyły się już od około 17 września, gdy francuska 6 Armia próbowała obejść niemieckie skrzydło w okolicach [Noyon](/miejsca/noyon), a starcia pod Roye i Lassigny ciągnęły się jeszcze na początku października. Od 25 września główny ciężar walk przesunął się dalej na północ, w okolice Albert i Bapaume. Te walki opisuje się zwykle jako osobną [bitwę pod Albert](/bitwy/pierwsza-bitwa-pod-albert).
 
 ## Tło: otwarte skrzydło
 

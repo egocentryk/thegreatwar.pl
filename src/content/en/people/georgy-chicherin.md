@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Karaul, Tambov Governorate (Russian Empire)
 deathPlace: Moscow
 source: gieorgij-cziczerin
-sourceHash: 3c5def85efce517b4bd0859e4595d1c2d5e8d6c6
+sourceHash: 6689433a8553a5f0b947e0e98b1bc0b4c3b543ed
 ---
 
 Georgy Chicherin was the most unusual of the men who ruled Soviet Russia in 1918. A descendant of old nobility, related to Pushkin, a polyglot and a connoisseur of Mozart and Wagner, he had begun his career in the archive of the tsarist foreign ministry. Throughout the war he was an émigré and an opponent of the war, and in London he ended up in prison. He returned to Russia in January 1918, rose in March from deputy to [Leon Trotsky](/postacie/lew-trocki) to head of Soviet diplomacy, and remained so for twelve years. In 1918 his task was to keep the [Brest peace](/traktat-brzeski) alive: to give way to the Germans as much as was needed to stop them resuming the war, and to protest against Entente landings without breaking with the Entente altogether. He was on the Entente side only formally: the government he served had taken Russia out of the war.
@@ -15,7 +15,7 @@ Georgy Chicherin was the most unusual of the men who ruled Soviet Russia in 1918
 
 He was born on 24 November 1872 (12 November in the Julian calendar) on the Karaul estate in [Tambov Governorate](https://pl.wikipedia.org/wiki/Gubernia_tambowska), which belonged to his uncle, the eminent jurist and philosopher Boris Chicherin. His father was a diplomat, and his mother came from the Baltic family of the Barons Meyendorff. His parents were Pietists and brought their son up in an atmosphere of prayer and Bible reading. He studied history and philology at the University of St Petersburg, knew many languages, played the piano and was a friend of the poet [Mikhail Kuzmin](https://pl.wikipedia.org/wiki/Michaił_Kuzmin). From 1898 he worked in the archive of the Ministry of Foreign Affairs and helped write the ministry's jubilee history.
 
-At the beginning of the twentieth century he drew close to the left. In 1904 he went to Germany for medical treatment and never returned to the service. He inherited his uncle's estate and, by many accounts, devoted a large part of the money to the revolutionary movement. In 1905 he joined the Russian Social Democratic Labour Party and sided with the [Mensheviks](https://pl.wikipedia.org/wiki/Mienszewicy). He was secretary of its foreign bureau; in 1907 he was arrested in Berlin for using someone else's passport and expelled from Prussia. He then lived in Paris and was active in the French Socialist Party.
+At the beginning of the twentieth century he drew close to the left. In 1904 he went to Germany for medical treatment and never returned to the service. He inherited his uncle's estate and, by many accounts, devoted a large part of the money to the revolutionary movement. In 1905 he joined the Russian Social Democratic Labour Party and sided with the [Mensheviks](/slownik/mienszewicy). He was secretary of its foreign bureau; in 1907 he was arrested in Berlin for using someone else's passport and expelled from Prussia. He then lived in Paris and was active in the French Socialist Party.
 
 ## Émigré in London
 

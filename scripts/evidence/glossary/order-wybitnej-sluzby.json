@@ -1,0 +1,178 @@
+{
+ "slug": "order-wybitnej-sluzby",
+ "paragraphs": [
+  {
+   "start": "Order Wybitnej Służby (Distinguished Service Order",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "The Distinguished Service Order (DSO) is a military award of the United Kingdom, as well as formerly throughout the Commonwealth, conferred for operational gallantry for highly successful command and leadership during active operations, typically in actual combat."
+    },
+    {
+     "url": "https://www.veterans.gc.ca/en/node/115805",
+     "quote": "Instituted on 6 September 1886 by Queen Victoria in a Royal Warrant published in the London Gazette on 09 November 1886. The order was established for rewarding individual instances of commendable or distinguished service in war."
+    },
+    {
+     "url": "https://footballandthefirstworldwar.org/?p=22993",
+     "quote": "The medal was second only to the Victoria Cross in terms of prestige and holders were entitled to use the letters DSO after their name."
+    }
+   ]
+  },
+  {
+   "start": "Order przysługiwał wyłącznie oficerom armii i mary",
+   "quotes": [
+    {
+     "url": "https://sites.southglos.gov.uk/war-memorials/medals/distinguished-service-order",
+     "quote": "Instituted in 1886, to reward officers (usually of the rank of Major or above) for distinguished service in time of war. It was available to officers of the Royal Navy, Army and RAF (after 1918)."
+    },
+    {
+     "url": "https://www.veterans.gc.ca/en/node/115805",
+     "quote": "Prior to 1943, the order could be given only to someone Mentioned-in-Dispatches. The order is generally given to officers in command, above the rank of Lieutenant-Colonel and awards to ranks below this are usually for a high degree of gallantry just short of deserving the Victoria Cross."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "The decoration signifying the conferral of the DSO is a silver-gilt (gold until 1889) cross with curved ends, 1.6 in (4.1 cm) wide, enamelled white and edged in gilt."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "The red ribbon is 1.125 in (2.86 cm) wide with narrow blue edges."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "From 1916, bars could be authorised for subsequent conferral, worn on the ribbon of the original insignia."
+    }
+   ]
+  },
+  {
+   "start": "Wielka wojna przyniosła najwięcej nadań w dziejach",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "First World War | 1914–1919 | 9,881 | 768 | 76 | 7 ; Second World War | 1939–1946 | 4,880 | 947 | 59 | 8"
+    },
+    {
+     "url": "https://footballandthefirstworldwar.org/?p=22993",
+     "quote": "Almost 9,000 were issued during World War One, with all awards being notified by The London Gazette accompanied by full citation."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "Whilst normally given for service under fire or under conditions equivalent to service in actual combat with the enemy, a number of conferrals made between 1914 and 1916 were under circumstances not under fire, often to staff officers, causing resentment among front-line officers. After 1 January 1917, commanders in the field were instructed to recommend this decoration for those serving under fire only."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "Honorary conferrals to members of allied foreign forces include at least 1,329 for the First World War."
+    }
+   ]
+  },
+  {
+   "start": "W kronice wojny order pojawia się często obok spek",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/10/poczatek-bitwy-pod-armentieres.md",
+     "quote": "13 października 1914 brytyjski III Korpus zaatakował Niemców pod Meteren we Flandrii."
+    },
+    {
+     "file": "src/content/timeline/1914/10/poczatek-bitwy-pod-armentieres.md",
+     "quote": "Przeżył i otrzymał za tę walkę order DSO (Distinguished Service Order), rzadkie wyróżnienie dla tak młodego oficera."
+    },
+    {
+     "file": "src/content/timeline/1914/10/drugi-brytyjski-nalot-na-niemcy.md",
+     "quote": "Grey i Marix otrzymali za nalot Order Wybitnej Służby."
+    },
+    {
+     "file": "src/content/timeline/1914/11/nalot-na-friedrichshafen.md",
+     "quote": "Briggs, Babington i Sippe otrzymali Order Wybitnej Służby"
+    },
+    {
+     "file": "src/content/timeline/1914/12/b11-zatapia-mesudiye.md",
+     "quote": "Jego zastępca, porucznik Sydney Winn, otrzymał Order Wybitnej Służby"
+    },
+    {
+     "file": "src/content/timeline/1914/12/b11-zatapia-mesudiye.md",
+     "quote": "22 grudnia 1914 roku Holbrook został odznaczony Krzyżem Wiktorii."
+    },
+    {
+     "file": "src/content/timeline/1916/09/nalot-sterowcow-i-zestrzelenie-sl-11.md",
+     "quote": "Robinson dostał Krzyż Wiktorii"
+    },
+    {
+     "file": "src/content/timeline/1916/09/nalot-sterowcow-i-zestrzelenie-sl-11.md",
+     "quote": "W nocy z 2 na 3 września 1916 na Londyn ruszyło 16 sterowców."
+    },
+    {
+     "file": "src/content/timeline/1918/08/zniszczenie-l-53.md",
+     "quote": "11 sierpnia 1918 koło Terschelling Camel wystartowany z barki holowanej przez niszczyciel zestrzelił L 53"
+    },
+    {
+     "file": "src/content/timeline/1916/10/zestrzelenie-sterowca-l-31.md",
+     "quote": "Pierwszy dogonił go 25-letni podporucznik Royal Flying Corps Wulstan Tempest z 39 Dywizjonu, tego samego, w którym latali William Leefe Robinson, pogromca sterowca SL 11, i Frederick Sowrey."
+    },
+    {
+     "file": "src/content/timeline/1916/10/zestrzelenie-sterowca-l-31.md",
+     "quote": "Tempest dostał za zestrzelenie L 31 Order Wybitnej Służby."
+    },
+    {
+     "file": "src/content/timeline/1916/09/nalot-sterowcow-i-zestrzelenie-l-32-i-l-33.md",
+     "quote": "Sowrey dostał za zestrzelenie L 32 Order Wybitnej Służby."
+    },
+    {
+     "file": "src/content/timeline/1918/08/zniszczenie-l-53.md",
+     "quote": "Zestrzelił go porucznik Stuart Culley z Royal Air Force, który wystartował myśliwcem Sopwith Camel z płaskiej barki holowanej za brytyjskim niszczycielem HMS Redoubt."
+    },
+    {
+     "file": "src/content/timeline/1918/08/zniszczenie-l-53.md",
+     "quote": "Culley dostał za to zwycięstwo Order Wybitnej Służby"
+    }
+   ]
+  },
+  {
+   "start": "Na innych frontach dostali go podpułkownik Hugh So",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/02/szarza-pod-agagia.md",
+     "quote": "podpułkownikowi Hugh Souterowi"
+    },
+    {
+     "file": "src/content/timeline/1916/02/szarza-pod-agagia.md",
+     "quote": "26 lutego 1916 Dorset Yeomanry dopadła wojska bractwa Sanusijja cofające się spod Agagii"
+    },
+    {
+     "file": "src/content/timeline/1916/02/szarza-pod-agagia.md",
+     "quote": "Souter dostał Order Wybitnej Służby"
+    },
+    {
+     "file": "src/content/timeline/1918/01/koniec-dzialan-o-at-tafile.md",
+     "quote": "Lawrence dostał za bitwę Order Wybitnej Służby"
+    },
+    {
+     "file": "src/content/timeline/1918/03/brytyjczycy-zajmuja-ane.md",
+     "quote": "Za tę akcję Tod dostał w trybie natychmiastowym Order Wybitnej Służby."
+    },
+    {
+     "file": "src/content/timeline/1918/10/zatoniecie-otranto.md",
+     "quote": "6 października 1918 u Islay transportowiec Kashmir staranował w sztormie Otranto"
+    },
+    {
+     "file": "src/content/timeline/1918/10/zatoniecie-otranto.md",
+     "quote": "Craven podchodził do Otranto czterokrotnie i według brytyjskich i amerykańskich zestawień zabrał prawie 600 ludzi"
+    },
+    {
+     "file": "src/content/timeline/1918/10/zatoniecie-otranto.md",
+     "quote": "Craven otrzymał za tę akcję brytyjski Order Wybitnej Służby i amerykański Krzyż Marynarki Wojennej."
+    },
+    {
+     "file": "src/content/postacie/frederick-maude.md",
+     "quote": "dostał Order Wybitnej Służby"
+    },
+    {
+     "file": "src/content/postacie/hugh-trenchard.md",
+     "quote": "za tę służbę dostał w 1906 roku order DSO."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Distinguished_Service_Order",
+     "quote": "Since 1993, reflecting the review of the British honours system which recommended removing distinctions of rank in respect of operational awards, the DSO has been open to all ranks"
+    }
+   ]
+  }
+ ]
+}

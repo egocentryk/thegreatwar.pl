@@ -6,10 +6,10 @@ country: Ukraine
 birthPlace: Chełm (Poland)
 deathPlace: Kislovodsk (Russia)
 source: mychajlo-hruszewski
-sourceHash: dde0758b42d40077c0bbeb40219cc11dc044f853
+sourceHash: 3389954c7db18b9a50aee0a07e3522ee2e1e795c
 ---
 
-Mykhailo Hrushevsky was a historian who wrote the history of Ukraine as the history of a separate nation, and then for a year stood at the head of the Ukrainian revolution. During the war the Russian authorities considered him an Austrian agent and exiled him to the Russian interior. After the February Revolution he returned to Kyiv as the unquestioned authority of the national movement and chairman of the [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada). For most of 1917 he wanted autonomy for Ukraine within a federal, democratic Russia. In January 1918, as Bolshevik troops marched on Kyiv, it was he who read out the universal that proclaimed independence. The Rada made peace with the Central Powers and returned to Kyiv under the protection of their troops, but the Germans soon got rid of it. He was not, however, Berlin's man: he was a socialist and a federalist, and he turned to the Germans for help out of necessity, when the republic was losing the country.
+Mykhailo Hrushevsky was a historian who wrote the history of Ukraine as the history of a separate nation, and then for a year stood at the head of the Ukrainian revolution. During the war the Russian authorities considered him an Austrian agent and exiled him to the Russian interior. After the February Revolution he returned to Kyiv as the unquestioned authority of the national movement and chairman of the [Ukrainian Central Rada](/slownik/ukrainska-centralna-rada). For most of 1917 he wanted autonomy for Ukraine within a federal, democratic Russia. In January 1918, as Bolshevik troops marched on Kyiv, it was he who read out the universal that proclaimed independence. The Rada made peace with the Central Powers and returned to Kyiv under the protection of their troops, but the Germans soon got rid of it. He was not, however, Berlin's man: he was a socialist and a federalist, and he turned to the Germans for help out of necessity, when the republic was losing the country.
 
 ## Before the war
 

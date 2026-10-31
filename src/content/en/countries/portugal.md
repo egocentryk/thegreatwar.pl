@@ -9,7 +9,7 @@ brief:
   - "On 9 April 1918 the German attack on the Lys shattered the Portuguese 2nd Division, while Lettow-Vorbeck fought in Mozambique for ten months."
   - "The war divided the country: in December 1917 power was seized by Sidónio Pais, an opponent of taking part in the war, who was killed a year later."
 source: portugalia
-sourceHash: a96c646846d24e6536a57a348ba0407d86f6a7d6
+sourceHash: 04fd3e504b8acf6e77c5be425e80140d7c7e9f85
 ---
 
 Portugal, England's ally since the fourteenth century, fought the Germans in its African colonies from 1914, but it was formally at war only from 9 March 1916, when, after the seizure of German ships, Germany declared war on it. The republican government sent an expeditionary corps to the Western Front, which was shattered in the Battle of the Lys on 9 April 1918, while in Mozambique the Portuguese suffered painful defeats at the hands of Lettow-Vorbeck's forces. The war, which was meant to strengthen the young republic, divided the country and greatly weakened it.
@@ -38,7 +38,7 @@ The war also shook Portuguese rule in the colonies. From early 1915 the Portugue
 
 ## The Portuguese in France
 
-On [7 August 1916](/portugalia-postanawia-wyslac-wojska-do-europy) parliament accepted the British invitation to take part in the war in Europe. Under the [convention with Britain](/brytyjsko-portugalska-konwencja-wojskowa) the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) was to fight under British command, as part of the First Army. It numbered about 55,000 infantrymen. On [2 February 1917](/portugalczycy-laduja-we-francji) the corps' 1st Brigade landed at Brest, and by the end of October just under 60,000 soldiers had been sent to France.
+On [7 August 1916](/portugalia-postanawia-wyslac-wojska-do-europy) parliament accepted the British invitation to take part in the war in Europe. Under the [convention with Britain](/brytyjsko-portugalska-konwencja-wojskowa) the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) was to fight under British command, as part of the First Army. It numbered about 55,000 infantrymen. On [2 February 1917](/portugalczycy-laduja-we-francji) the corps' 1st Brigade landed at Brest, and by the end of October just under 60,000 soldiers had been sent to France.
 
 On the night of 3–4 June 1917 the Germans [attacked the Portuguese trenches for the first time](/portugalczycy-w-walce-na-froncie-zachodnim) near Neuve-Chapelle. From November the corps held its own sector of the front. Only two divisions ever reached France, however, and in the winter morale sank because replacements were lacking: British ships were by then carrying Americans across the Atlantic. Soldiers were kept in the front line for up to six months, and on 4 April 1918 the exhausted 7th Infantry Battalion refused to return to the front.
 

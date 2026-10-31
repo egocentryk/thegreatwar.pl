@@ -2,10 +2,10 @@
 title: Crossing of the Sava and the Danube
 summary: On 7 October 1915 the Germans and Austrians crossed the Sava and the Danube at several points from Progar to Ram. The Serbs failed to throw them back.
 source: forsowanie-sawy-i-dunaju
-sourceHash: 1d3aefa89528e3bc176086c783a9178fe92cf33a
+sourceHash: 85734ce93399b8ed9bdea98ff4282f63fc5f1440
 ---
 
-During the night of 6–7 October 1915, after two days of bombardment, the [Central Powers began crossing](/panstwa-centralne-atakuja-serbie) Serbia's frontier rivers. On a stretch more than a hundred kilometres long, from the western outskirts of Belgrade to Ram on the Danube, hundreds of pontoons, boats and ferries put out onto the water in darkness and rain. The [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) was several hundred metres wide here, the [Danube](https://pl.wikipedia.org/wiki/Dunaj) at Belgrade more than a kilometre. The attackers were helped by large river islands from which they could start the crossing, the defenders by the high right banks, from which they could see the whole flat plain on the Hungarian side. By the evening of 7 October German and Austro-Hungarian troops had seized bridgeheads at several points. The war chronicles of the time noted briefly under this day that the Austro-German army had forced the Danube, the Sava and the Drina.
+During the night of 6–7 October 1915, after two days of bombardment, the [Central Powers began crossing](/panstwa-centralne-atakuja-serbie) Serbia's frontier rivers. On a stretch more than a hundred kilometres long, from the western outskirts of Belgrade to Ram on the Danube, hundreds of pontoons, boats and ferries put out onto the water in darkness and rain. The [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) was several hundred metres wide here, the [Danube](/miejsca/dunaj) at Belgrade more than a kilometre. The attackers were helped by large river islands from which they could start the crossing, the defenders by the high right banks, from which they could see the whole flat plain on the Hungarian side. By the evening of 7 October German and Austro-Hungarian troops had seized bridgeheads at several points. The war chronicles of the time noted briefly under this day that the Austro-German army had forced the Danube, the Sava and the Drina.
 
 ## At Belgrade and on the Sava
 

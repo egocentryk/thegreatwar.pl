@@ -2,10 +2,10 @@
 title: Bombardment of Smyrna begins
 summary: On 5 March 1915 Vice-Admiral Richard Peirse's British squadron shelled the forts defending Smyrna, to destroy the defences and clear the gulf of mines.
 source: poczatek-bombardowania-smyrny
-sourceHash: f5efb9fc4520b4c6c9d493d60ceefbc14a7f0487
+sourceHash: e6976abad833d560b901a00665c1178c31a9c94a
 ---
 
-On 5 March 1915 a British squadron under Vice-Admiral Richard Peirse began shelling the forts defending [Smyrna](https://pl.wikipedia.org/wiki/Izmir), the largest port on the Aegean coast of the [Ottoman Empire](/kraje/imperium-osmanskie). Taking part in the action were the [armoured cruiser](/slownik/krazownik-pancerny) *Euryalus*, the admiral's flagship, the old battleships *Triumph* and *Swiftsure*, the [seaplane carrier](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów) *Anne Rickmers*, converted from a captured German freighter, and a group of minesweepers converted from fishing vessels.
+On 5 March 1915 a British squadron under Vice-Admiral Richard Peirse began shelling the forts defending [Smyrna](https://pl.wikipedia.org/wiki/Izmir), the largest port on the Aegean coast of the [Ottoman Empire](/kraje/imperium-osmanskie). Taking part in the action were the [armoured cruiser](/slownik/krazownik-pancerny) *Euryalus*, the admiral's flagship, the old battleships *Triumph* and *Swiftsure*, the [seaplane carrier](/slownik/okret-baza-wodnosamolotow) *Anne Rickmers*, converted from a captured German freighter, and a group of minesweepers converted from fishing vessels.
 
 ## Why Smyrna
 

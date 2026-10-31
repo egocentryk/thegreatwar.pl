@@ -2,7 +2,7 @@
 title: Dispersal of the Constituent Assembly
 summary: At dawn on 19 January 1918 the guard broke up the Constituent Assembly; that evening Soviet power dissolved it. Russia's first free parliament met only once.
 source: rozpedzenie-konstytuanty
-sourceHash: f4cad7a1be98749297befa4249163382923afecf
+sourceHash: 42dca2f607c37add487a455c13ba01dd73ba2db9
 brief:
   - "At dawn on 19 January 1918, in the Tauride Palace in Petrograd, the commander of the guard, the anarchist sailor Anatoli Zheleznyakov, broke up the All-Russian Constituent Assembly, saying that \"the guard is tired\"."
   - "After the Bolsheviks and Left SRs walked out, mainly the SRs remained, still a majority of the deputies. In the final minutes they voted through the land law and proclaimed Russia a federative republic."
@@ -11,7 +11,7 @@ brief:
   - "Russia's first freely elected parliament sat for less than thirteen hours. Its dispersal marked the end of the Russian parliamentary democracy born in the February Revolution."
 ---
 
-At dawn on 19 January 1918 (6 January by the Julian calendar), in the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) in Petrograd, the commander of the guard, an anarchist sailor, broke up the session of the [All-Russian Constituent Assembly](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze). The deputies dispersed, having agreed to meet again in the evening, but they never returned to the chamber. That same day Lenin's government decided to dissolve the Constituent Assembly, and during the night the supreme organ of Soviet power approved the decision. The assembly that Russia had awaited since the overthrow of tsarism, and which had been chosen in the [first universal elections in its history](/wybory-do-konstytuanty), sat for less than thirteen hours. It was the end of the Russian parliamentary democracy born in the February Revolution.
+At dawn on 19 January 1918 (6 January by the Julian calendar), in the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) in Petrograd, the commander of the guard, an anarchist sailor, broke up the session of the [All-Russian Constituent Assembly](/slownik/konstytuanta). The deputies dispersed, having agreed to meet again in the evening, but they never returned to the chamber. That same day Lenin's government decided to dissolve the Constituent Assembly, and during the night the supreme organ of Soviet power approved the decision. The assembly that Russia had awaited since the overthrow of tsarism, and which had been chosen in the [first universal elections in its history](/wybory-do-konstytuanty), sat for less than thirteen hours. It was the end of the Russian parliamentary democracy born in the February Revolution.
 
 ## "The guard is tired"
 

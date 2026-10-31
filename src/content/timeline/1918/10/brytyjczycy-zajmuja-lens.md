@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 października 1918 roku oddziały brytyjskiej 1 Armii stwierdziły, że Niemcy opuścili [Lens](https://pl.wikipedia.org/wiki/Lens), górnicze miasto w departamencie Pas-de-Calais, które [zajęli w październiku 1914 roku](/niemcy-zajmuja-lens-i-bailleul). Przez cztery lata leżało ono tuż za niemiecką linią frontu, było ważnym ośrodkiem zaopatrzenia armii niemieckiej i celem nieustannego ostrzału. Brytyjczycy weszli do niego bez walki, bo Niemcy wycofali się w nocy na nowe pozycje dalej na wschodzie.
+3 października 1918 roku oddziały brytyjskiej 1 Armii stwierdziły, że Niemcy opuścili [Lens](/miejsca/lens), górnicze miasto w departamencie Pas-de-Calais, które [zajęli w październiku 1914 roku](/niemcy-zajmuja-lens-i-bailleul). Przez cztery lata leżało ono tuż za niemiecką linią frontu, było ważnym ośrodkiem zaopatrzenia armii niemieckiej i celem nieustannego ostrzału. Brytyjczycy weszli do niego bez walki, bo Niemcy wycofali się w nocy na nowe pozycje dalej na wschodzie.
 
 Brytyjska chronologia wojny umieszcza zajęcie Lens pod 3 września 1918 roku, ale to pomyłka o miesiąc. Na początku września, po odwrocie z występu nad Lys, Brytyjczycy podeszli tylko bliżej miasta, a jeszcze 13 września wywiad brytyjskiej kwatery głównej meldował, że Niemcy bronią się pod Lens w głąb i spodziewają się natarcia. Według brytyjskiej historii oficjalnej (James Edmonds, *Military Operations France and Belgium 1918*, tom V) miasto było puste dopiero 3 października. Francuskie źródła podają często datę wyzwolenia 4 października.
 

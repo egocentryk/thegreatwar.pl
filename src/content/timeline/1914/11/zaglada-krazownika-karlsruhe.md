@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 4 listopada 1914 roku na Atlantyku, kilkaset kilometrów na wschód od [Barbadosu](https://pl.wikipedia.org/wiki/Barbados), niemiecki krążownik lekki [SMS Karlsruhe](https://pl.wikipedia.org/wiki/SMS_Karlsruhe_(1912)) został rozerwany przez potężną eksplozję wewnętrzną. Okręt przełamał się na dwie części i zatonął. Zginęło około 260 ludzi, wśród nich dowódca, fregattenkapitän Erich Köhler. Tak nagle zakończyła się kariera jednego z najgroźniejszych niemieckich [rajderów](https://pl.wikipedia.org/wiki/Rajder) pierwszych miesięcy wojny.
+Wieczorem 4 listopada 1914 roku na Atlantyku, kilkaset kilometrów na wschód od [Barbadosu](https://pl.wikipedia.org/wiki/Barbados), niemiecki krążownik lekki [SMS Karlsruhe](https://pl.wikipedia.org/wiki/SMS_Karlsruhe_(1912)) został rozerwany przez potężną eksplozję wewnętrzną. Okręt przełamał się na dwie części i zatonął. Zginęło około 260 ludzi, wśród nich dowódca, fregattenkapitän Erich Köhler. Tak nagle zakończyła się kariera jednego z najgroźniejszych niemieckich [rajderów](/slownik/rajder) pierwszych miesięcy wojny.
 
 ## Postrach szlaków atlantyckich
 

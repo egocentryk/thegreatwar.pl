@@ -2,7 +2,7 @@
 title: End of the First Battle of Ypres
 summary: On 22 November 1914 the First Battle of Ypres ended. The French took over the salient around the town and the bled-white British army a sector further south.
 source: koniec-pierwszej-bitwy-pod-ypres
-sourceHash: 2d35d3d99c154e25c94d23010eb8ce9089cc90c8
+sourceHash: 59dfa4ffc727d7d65b7650b2955cb900c9203d74
 ---
 
 On 22 November 1914, according to the British nomenclature fixed after the war, the First Battle of [Ypres](/miejsca/ypres) came to an end. The date is largely conventional. The Germans had launched their last great attack eleven days earlier, and in the days that followed the fighting gradually died down. On this day the relief of the exhausted British divisions by the French was being completed, and German artillery set fire to the medieval [Cloth Hall](https://pl.wikipedia.org/wiki/Sukiennice_w_Ieper) in the centre of the town. After five weeks of fighting, which [had begun on 19 October](/poczatek-pierwszej-bitwy-pod-ypres), Ypres remained in Allied hands.
@@ -29,6 +29,6 @@ The Germans lost the most. According to incomplete figures from the Reichsarchiv
 
 For the British it was the end of the old regular army that had set out for France in August. At Ypres its best battalions, their experienced officers and NCOs, were finally bled white. According to frequently cited estimates, of the thousand men of a battalion that had landed in France in August, at the end of the year an average of one officer and about 30 men remained in the ranks. The gap was filled by reservists, volunteers from Territorial Force battalions and soldiers of the Indian Corps, and in the following years by Kitchener's New Armies and troops from the dominions.
 
-The battle closed the [Race to the Sea](/bitwy/wyscig-do-morza). A continuous line of trenches now ran from Switzerland to the North Sea, and [trench warfare](https://pl.wikipedia.org/wiki/Wojna_pozycyjna) began on the Western Front. General [Erich von Falkenhayn](/falkenhayn-zastepuje-moltkego) became convinced that a quick decision in the west was impossible.
+The battle closed the [Race to the Sea](/bitwy/wyscig-do-morza). A continuous line of trenches now ran from Switzerland to the North Sea, and [trench warfare](/slownik/wojna-pozycyjna) began on the Western Front. General [Erich von Falkenhayn](/falkenhayn-zastepuje-moltkego) became convinced that a quick decision in the west was impossible.
 
 What remained on the map after the battle was the Ypres Salient, a projecting bulge of the front around the town, surrounded on three sides by the Germans, who held the surrounding ridges and hills. From them their artillery could shell almost any point inside the salient. The Allies defended it until the end of the war, regarding the holding of the last sizeable town of free Belgium as a matter of honour. They paid for this decision in the following years with hundreds of thousands of soldiers in the Second Battle of Ypres in 1915 and in the Third, at Passchendaele, in 1917. The town itself was reduced to ruins. The burning of the Cloth Hall on 22 November was only the beginning of its destruction.

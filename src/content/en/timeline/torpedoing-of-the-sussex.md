@@ -2,7 +2,7 @@
 title: Torpedoing of the Sussex
 summary: On 24 March 1916 UB-29 torpedoed the French passenger ferry Sussex without warning in the Channel. At least 50 people died; Americans were among the wounded.
 source: storpedowanie-statku-sussex
-sourceHash: 960fe9ca80b6682c14689ce8a3dcd8c4e8dd0e8b
+sourceHash: 40e7d142b33e459ab69d32ce0b86064e24098d95
 brief:
   - "On 24 March 1916 the German submarine UB-29 torpedoed without warning, in the English Channel, the French passenger ferry Sussex, sailing from Folkestone to Dieppe."
   - "The explosion tore off the ship's bow, but Sussex stayed afloat and was towed into Boulogne. At least 50 people were killed, among them the Spanish composer Enrique Granados and his wife."
@@ -20,7 +20,7 @@ That day there were on board, according to the American note, at least 325 passe
 
 ## The rescue
 
-*Sussex* called for help by radio, but gave a position about 15 miles wrong, so the French and British ships sent to search for her could not find her for a long time. Only at 11.10 p.m. did the British destroyer *Afridi* come upon the drifting wreck about 14 miles west of Boulogne. A French trawler was already alongside, taking off the women and children. According to the British official history about 250 survivors were landed at Boulogne and about 120 at [Dover](https://pl.wikipedia.org/wiki/Dover). *Sussex* herself was towed stern first into Boulogne.
+*Sussex* called for help by radio, but gave a position about 15 miles wrong, so the French and British ships sent to search for her could not find her for a long time. Only at 11.10 p.m. did the British destroyer *Afridi* come upon the drifting wreck about 14 miles west of Boulogne. A French trawler was already alongside, taking off the women and children. According to the British official history about 250 survivors were landed at Boulogne and about 120 at [Dover](/miejsca/dover). *Sussex* herself was towed stern first into Boulogne.
 
 Among the dead was the Spanish composer and pianist [Enrique Granados](https://pl.wikipedia.org/wiki/Enrique_Granados) with his wife Amparo. He was returning from New York, where his opera *Goyescas* had had its premiere at the end of January. He had delayed his departure because he accepted an invitation to give a recital for President [Woodrow Wilson](/postacie/woodrow-wilson), and for that reason, instead of sailing straight to Spain, he sailed to England and from there took the ferry to France. According to eyewitnesses he drowned trying to save his wife. Because Spanish citizens had died, the neutral government in Madrid also lodged a protest. No American was killed, but several were wounded, among them an Oxford medical student, [Wilder Penfield](https://pl.wikipedia.org/wiki/Wilder_Penfield), later a famous neurosurgeon.
 

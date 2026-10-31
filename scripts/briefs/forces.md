@@ -173,6 +173,24 @@ Notes:
   recruitment, numbers (ranges), France 1914–1915 (Neuve Chapelle, Loos),
   Gallipoli (Sari Bair), Mesopotamia, Palestine; no `formed`.
 
+## Batch 3 (2026-10-31)
+
+| grp | slug / English slug | name (PL / EN) | kind | country | wikiTitles | author |
+|---|---|---|---|---|---|---|
+| F | `portugalski-korpus-ekspedycyjny` / `portuguese-expeditionary-corps` | Portugalski Korpus Ekspedycyjny / Portuguese Expeditionary Corps | korpus | portugalia | Portugalski_Korpus_Ekspedycyjny | Łukasz Skowroń |
+| F | `11-armia-rosyjska` / `russian-eleventh-army` | 11 Armia / Eleventh Army | armia | rosja | 11_Armia_(Imperium_Rosyjskie) | Natalia |
+
+Notes:
+- CEP: formed 1916 after Germany's declaration of war, Tancos, the
+  landing at Brest from early 1917 (our 2 II 1917 article), the sector
+  in Flanders, the Lys on 9 IV 1918 (`/bitwy/bitwa-nad-lys-1918`),
+  the Sidónio Pais years, losses as ranges; link `/kraje/portugalia` and
+  the person pages of Costa and Machado where they belong.
+- 11 Armia: formed for the siege of Przemyśl (1914–1915), the Carpathians,
+  the 1916 Brusilov offensive in Galicia (Sakharov), 1917 (the July
+  offensive and its collapse), the end; the title "11 Armia rosyjska w I
+  wojnie światowej".
+
 ## Report (short)
 
 Per page: paths, words, sources, internal links, people listed, the

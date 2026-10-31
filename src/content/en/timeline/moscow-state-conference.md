@@ -2,7 +2,7 @@
 title: Moscow State Conference
 summary: On 25–28 August 1917 the State Conference met in Moscow's Bolshoi Theatre. Instead of uniting Russia around Kerensky, it laid bare the country's split.
 source: narada-panstwowa-w-moskwie
-sourceHash: d70df63bb913c53609360ec7082b2786553e4f85
+sourceHash: b0b98159f0d573882681dedad99602bbb5866278
 ---
 
 On the afternoon of 25 August 1917 (12 August in the Julian calendar), in the building of the [Bolshoi Theatre](https://pl.wikipedia.org/wiki/Teatr_Bolszoj) in Moscow, Prime Minister [Alexander Kerensky](/postacie/aleksander-kierenski) opened the State Conference. Called by the [Provisional Government](/powstanie-rzadu-tymczasowego), the gathering of about 2,400 representatives of all social classes, parties and organisations was meant to unite the "living forces of the country" around the government. The sessions lasted until 28 August (15 August Old Style). Some studies, among them Orlando Figes, give the dates as 12–14 August Old Style. The conference passed no resolution, and its main event was the arrival of General [Lavr Kornilov](/postacie/lawr-kornilow), commander-in-chief since [the end of July](/kornilow-naczelnym-wodzem), in whom the right saw its hero.
@@ -15,7 +15,7 @@ According to the historian of the revolution William Chamberlin and Russian stud
 
 ## Strike and rumours
 
-The [Bolsheviks](https://pl.wikipedia.org/wiki/Bolszewicy) regarded the conference from the start as a gathering of the counter-revolution. Several of them belonged to the soviet delegation, but its chairman, the Menshevik [Nikolay Chkheidze](https://pl.wikipedia.org/wiki/Nikoloz_Czcheidze), did not allow them to read out a declaration condemning the conference and to walk out of the hall in protest. The Bolsheviks responded in another way. On the opening day, at their call, most Moscow workers went on strike, even though the Moscow Soviet had voted against the strike by a small majority. According to Russian sources more than 400,000 people stopped work. The trams did not run, restaurants and cafés were closed, including the buffet in the theatre, and the delegates had to see to their own meals.
+The [Bolsheviks](/slownik/bolszewicy) regarded the conference from the start as a gathering of the counter-revolution. Several of them belonged to the soviet delegation, but its chairman, the Menshevik [Nikolay Chkheidze](https://pl.wikipedia.org/wiki/Nikoloz_Czcheidze), did not allow them to read out a declaration condemning the conference and to walk out of the hall in protest. The Bolsheviks responded in another way. On the opening day, at their call, most Moscow workers went on strike, even though the Moscow Soviet had voted against the strike by a small majority. According to Russian sources more than 400,000 people stopped work. The trams did not run, restaurants and cafés were closed, including the buffet in the theatre, and the delegates had to see to their own meals.
 
 Even more than the Bolsheviks, however, people feared a coup from the right. Rumours circulated in the city that the conservatives would use the gathering in the old capital to change the government. The Moscow Soviet, dominated by the Mensheviks and Socialist Revolutionaries, even gave Bolshevik agitators access to the barracks for three days. A few days after the conference the authorities placed under house arrest the grand dukes Michael Alexandrovich, brother of Nicholas II, and Paul Alexandrovich, uncle of the former emperor, but for lack of evidence they were soon released.
 

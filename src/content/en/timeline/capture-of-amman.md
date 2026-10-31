@@ -2,10 +2,10 @@
 title: Capture of Amman
 summary: On 25 September 1918 New Zealand and Australian horsemen took Amman and cut the Hejaz Railway. That day the battles of Megiddo came to an end.
 source: zajecie-ammanu
-sourceHash: 048d56125a652b4dc012b1923e6669d971d7db50
+sourceHash: 6408af6541fdfa0af860d5c0af24e4dd97217639
 ---
 
-On the afternoon of 25 September 1918 Australian and New Zealand horsemen of Major-General Edward Chaytor's force burst into [Amman](https://pl.wikipedia.org/wiki/Amman). Through the town ran the [Hejaz Railway](https://pl.wikipedia.org/wiki/Kolej_Hidżaska), the main line of retreat of the Turkish Fourth Army and the only route by which the garrisons in the south, as far as Ma'an, could return north. In the spring the British had twice tried to reach Amman and twice had to withdraw: in March [their assault on the town was repulsed](/atak-na-amman), and at the turn of April and May the [second raid on Es Salt](/bitwy/drugi-rajd-na-as-salt) ended in a retreat across the Jordan. At the third attempt, when the Turkish front west of the river had already collapsed, Amman fell in a single day. According to the British Battles Nomenclature Committee, that day saw the end of the battles of Megiddo, which had begun six days earlier with the breaking of the front by the Mediterranean.
+On the afternoon of 25 September 1918 Australian and New Zealand horsemen of Major-General Edward Chaytor's force burst into [Amman](https://pl.wikipedia.org/wiki/Amman). Through the town ran the [Hejaz Railway](/slownik/kolej-hidzaska), the main line of retreat of the Turkish Fourth Army and the only route by which the garrisons in the south, as far as Ma'an, could return north. In the spring the British had twice tried to reach Amman and twice had to withdraw: in March [their assault on the town was repulsed](/atak-na-amman), and at the turn of April and May the [second raid on Es Salt](/bitwy/drugi-rajd-na-as-salt) ended in a retreat across the Jordan. At the third attempt, when the Turkish front west of the river had already collapsed, Amman fell in a single day. According to the British Battles Nomenclature Committee, that day saw the end of the battles of Megiddo, which had begun six days earlier with the breaking of the front by the Mediterranean.
 
 ## The road to the plateau
 

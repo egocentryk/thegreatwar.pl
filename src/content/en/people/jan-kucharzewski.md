@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Wysokie Mazowieckie (Kingdom of Poland)
 deathPlace: New York
 source: jan-kucharzewski
-sourceHash: c46a600e12db97bf41b52631f3001add5a32e911
+sourceHash: 06f2439845d8ada2d6837034bd80b8e6742b39ae
 ---
 
 Jan Kucharzewski was a historian of Russia and a lawyer who in November 1917 became head of the first government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)). He returned to politics during the war as a declared opponent of Russia, convinced that the Poles could rebuild their state alongside Germany and Austria-Hungary. He became prime minister only after Berlin had blocked the candidate chosen by the regents. His cabinet, which held only a scrap of power, organised the first Polish ministries. In February 1918 Kucharzewski resigned in protest at the Brest-Litovsk treaty with Ukraine, and in October, as prime minister for the second time, he countersigned the manifesto of the [Regency Council](/powolanie-rady-regencyjnej) announcing an independent Poland. After the war he returned to scholarship and wrote a seven-volume history of Russia from tsarism to Bolshevism.
@@ -23,7 +23,7 @@ As a historian he worked on the history of Russia and Poland in the 19th century
 
 Kucharzewski spent the first years of the war in Switzerland. In 1915–1917 he wrote about the Polish question in the French-language *Gazette de Lausanne*, and in 1916 he published in Lausanne the pamphlet *Réflexions sur le problème polonais*. According to the historian Jacek Goclon, he did not attach himself to any political orientation, although he conducted a wide propaganda campaign for independence. He rejected an offer from [Erazm Piltz](https://pl.wikipedia.org/wiki/Erazm_Piltz), who urged him to join the pro-Russian camp. He regarded the [Act of 5 November](/akt-5-listopada) 1916 as a turning point and as a basis for cooperation with the Central Powers.
 
-In June 1917 he returned to Warsaw, a few weeks before the [oath crisis](/kryzys-przysiegowy), and drew close to the activist [League of Polish Statehood](https://pl.wikipedia.org/wiki/Liga_Państwowości_Polskiej). He worked on the council of the Department of Political Affairs of the [Provisional Council of State](https://pl.wikipedia.org/wiki/Tymczasowa_Rada_Stanu) and headed the higher-education section of the Polish education administration. After the [regents took power](/rada-regencyjna-obejmuje-wladze) in October 1917 he became legal referendary of the Regency Council and, according to Goclon, headed its civil cabinet.
+In June 1917 he returned to Warsaw, a few weeks before the [oath crisis](/kryzys-przysiegowy), and drew close to the activist [League of Polish Statehood](https://pl.wikipedia.org/wiki/Liga_Państwowości_Polskiej). He worked on the council of the Department of Political Affairs of the [Provisional Council of State](/slownik/tymczasowa-rada-stanu) and headed the higher-education section of the Polish education administration. After the [regents took power](/rada-regencyjna-obejmuje-wladze) in October 1917 he became legal referendary of the Regency Council and, according to Goclon, headed its civil cabinet.
 
 ## The Kingdom's first prime minister
 

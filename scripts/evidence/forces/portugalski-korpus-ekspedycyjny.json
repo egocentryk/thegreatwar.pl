@@ -1,0 +1,267 @@
+{
+ "slug": "portugalski-korpus-ekspedycyjny",
+ "paragraphs": [
+  {
+   "start": "Portugalski Korpus Ekspedycyjny (Corpo Expedicionário",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/08/portugalia-postanawia-wyslac-wojska-do-europy.md",
+     "quote": "Formalnie Portugalia była w stanie wojny od 9 marca 1916 roku"
+    },
+    {
+     "file": "src/content/timeline/1916/08/portugalia-postanawia-wyslac-wojska-do-europy.md",
+     "quote": "Dla rządu w Lizbonie korpus we Francji miał zaś być przede wszystkim siłą polityczną: dowodem, że Portugalia jest pełnoprawnym sojusznikiem i zasłużyła na miejsce przy stole pokojowym"
+    },
+    {
+     "file": "src/content/places/leie.md",
+     "quote": "Od 1917 roku trzymał go Portugalski Korpus Ekspedycyjny"
+    },
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "9 kwietnia 1918 roku niemieckie natarcie nad Lys rozbiło portugalską 2 Dywizję"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-nad-lys-1918.md",
+     "quote": "Korpus portugalski jako siła bojowa praktycznie przestał istnieć."
+    }
+   ]
+  },
+  {
+   "start": "Portugalczycy starli się z Niemcami w Angoli",
+   "quotes": [
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "Od 1914 roku wojska Portugalii starły się z Niemcami w Angoli i Mozambiku"
+    },
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "9 marca 1916 roku niemiecki poseł Friedrich Rosen wręczył notę, w której Niemcy uznały się za będące w stanie wojny z Portugalią."
+    },
+    {
+     "file": "src/content/postacie/afonso-costa.md",
+     "quote": "Costa jako minister finansów pozostał najsilniejszą postacią"
+    },
+    {
+     "file": "src/content/postacie/afonso-costa.md",
+     "quote": "Obaj wywalczyli tam kredyty na wysiłek wojenny i miejsce dla portugalskich żołnierzy na froncie zachodnim"
+    },
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "7 sierpnia 1916 roku parlament przyjął brytyjskie zaproszenie do udziału w wojnie w Europie."
+    }
+   ]
+  },
+  {
+   "start": "Wojsko szkolono na poligonie w Tancos nad Tagiem",
+   "quotes": [
+    {
+     "url": "https://pt.wikipedia.org/wiki/Corpo_Expedicionário_Português",
+     "quote": "o General Norton de Matos, Ministro da Guerra entre 1915 e 1917, com a colaboração do General Tamagnini de Abreu e Silva, tornou-se então no responsável pela organização do Corpo Expedicionário Português"
+    },
+    {
+     "file": "src/content/timeline/1916/08/portugalia-postanawia-wyslac-wojska-do-europy.md",
+     "quote": "Mimo to 22 lipca dywizja pokazała się w wielkich manewrach i defiladzie przed portugalskimi władzami oraz oficerami sprzymierzonych. Goście byli zadowoleni, a prowojenna prasa okrzyknęła to „cudem z Tancos” (milagre de Tancos)"
+    },
+    {
+     "url": "https://history-pas-de-calais.com/first-world-war/they-came-from-across-the-globe/the-portuguese",
+     "quote": "On 17 January 1917, The Portuguese Expeditionary Corps (Corpo Expedicionário Português or CEP) was officially established, taking its orders from British military HQ."
+    },
+    {
+     "file": "src/content/timeline/1917/01/brytyjsko-portugalska-konwencja-wojskowa.md",
+     "quote": "Mimo nazwy CEP był na początku zorganizowany jak jedna wzmocniona dywizja piechoty. Taką strukturę zatwierdzono w Lizbonie 17 stycznia. Dowodził nim generał Fernando Tamagnini de Abreu e Silva, wcześniej dowódca dywizji szkolonej na poligonie w Tancos. Już we Francji, w lutym, z inicjatywy brytyjskiej misji wojskowej przy portugalskim dowództwie, dywizję postanowiono przekształcić w korpus złożony z dwóch dywizji, zbudowanych tak jak dywizje brytyjskie."
+    },
+    {
+     "file": "src/content/timeline/1917/01/brytyjsko-portugalska-konwencja-wojskowa.md",
+     "quote": "tak powstał Niezależny Korpus Artylerii Ciężkiej, który walczył przy armii francuskiej."
+    }
+   ]
+  },
+  {
+   "start": "30 stycznia 1917 roku z Tagu wypłynęła 1 Brygada",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/brytyjsko-portugalska-konwencja-wojskowa.md",
+     "quote": "30 stycznia 1917 roku z Tagu wypłynęły trzy brytyjskie parowce z 1 Brygadą CEP generała Manuela Gomesa da Costy. 2 lutego żołnierze wylądowali w Breście, a stamtąd koleją pojechali do Flandrii, w rejon Aire-sur-la-Lys i Saint-Omer"
+    },
+    {
+     "file": "src/content/timeline/1917/01/brytyjsko-portugalska-konwencja-wojskowa.md",
+     "quote": "3 stycznia 1917 roku rządy Portugalii i Wielkiej Brytanii podpisały konwencję wojskową"
+    },
+    {
+     "file": "src/content/timeline/1917/02/portugalczycy-laduja-we-francji.md",
+     "quote": "Korpus podlegał brytyjskiemu dowództwu i 1 Armii brytyjskiej, otrzymał brytyjskie karabiny Lee-Enfield w miejsce własnych mauserów i przeszedł intensywne kursy w brytyjskich szkołach"
+    },
+    {
+     "url": "https://www.rtp.pt/noticias/portugal-na-1-grande-guerra/postal-da-grande-guerra-partidas-e-logstica_es977962",
+     "quote": "Os navios britânicos não se encontravam adaptados ao transporte de tropas de Portugal para França, uma vez que tinham sido desenhados para a execução de viagens de três horas entre a Inglaterra e a França e não de três dias, ou seja, não tinham estruturas para as tropas dormirem"
+    },
+    {
+     "file": "src/content/timeline/1917/01/brytyjsko-portugalska-konwencja-wojskowa.md",
+     "quote": "Przewozy trwały do jesieni. Według portugalskich danych do 28 października 1917 roku do Francji przewieziono 59 388 ludzi."
+    }
+   ]
+  },
+  {
+   "start": "4 kwietnia 1917 roku pierwsze portugalskie oddziały",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/02/portugalczycy-laduja-we-francji.md",
+     "quote": "4 kwietnia 1917 roku pierwsze portugalskie oddziały weszły na szkolenie do okopów obok Brytyjczyków"
+    },
+    {
+     "file": "src/content/timeline/1917/06/portugalczycy-w-walce-na-froncie-zachodnim.md",
+     "quote": "Portugalczycy podlegali brytyjskiemu XI Korpusowi generała Richarda Hakinga w 1 Armii generała Henry'ego Horne'a. Był to płaski, podmokły teren w dolinie Leie (Lys), w miejscu, gdzie Brytyjczycy stoczyli w marcu 1915 roku bitwę pod Neuve-Chapelle."
+    },
+    {
+     "file": "src/content/timeline/1917/06/portugalczycy-w-walce-na-froncie-zachodnim.md",
+     "quote": "W nocy z 3 na 4 czerwca 1917 roku żołnierze Portugalskiego Korpusu Ekspedycyjnego (CEP) po raz pierwszy odpierali niemiecki atak na własne okopy."
+    },
+    {
+     "file": "src/content/timeline/1917/06/portugalczycy-w-walce-na-froncie-zachodnim.md",
+     "quote": "Wypad odparł 35 Batalion Piechoty z Coimbry."
+    },
+    {
+     "file": "src/content/timeline/1917/06/portugalczycy-w-walce-na-froncie-zachodnim.md",
+     "quote": "Do 5 listopada 1917 roku, gdy CEP stał się korpusem dwóch dywizji z własnym odcinkiem frontu"
+    },
+    {
+     "file": "src/content/postacie/bernardino-machado.md",
+     "quote": "Razem z premierem Costą, w dniach 8–25 października, odwiedził portugalskich żołnierzy we Flandrii."
+    }
+   ]
+  },
+  {
+   "start": "Zima przyniosła kryzys. Po wejściu do wojny",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/brytyjsko-portugalska-konwencja-wojskowa.md",
+     "quote": "Gdy w kwietniu 1917 roku do wojny przystąpiły Stany Zjednoczone, brytyjskie statki zaczęły wozić Amerykanów, a portugalskie uzupełnienia przestały docierać do Francji."
+    },
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "8 grudnia 1917 roku, po trzech dniach walk w Lizbonie, upadł rząd Costy, a władzę przejęła junta majora Sidónia Paisa, dawnego posła w Berlinie i przeciwnika wysyłania wojsk na front zachodni."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Expeditionary_Corps",
+     "quote": "The new government called the Portuguese support for the Allies into question and made it easier getting furlough. Many officers used this opportunity."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "część oficerów wyjechała na urlop do kraju i nie wróciła"
+    },
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "Żołnierzy trzymano na pierwszej linii nawet po pół roku, a 4 kwietnia 1918 roku wyczerpany 7 Batalion Piechoty odmówił powrotu na front."
+    },
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "którą w nocy z 9 na 10 kwietnia mieli zluzować Brytyjczycy"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Expeditionary_Corps",
+     "quote": "On 6 April, the 1st Division was pulled back, with the British 55th (West Lancashire) Division extending its lines southwards to fill part of the gap and the 2nd Division taking up the remaining section of the line, now under the operational control of the XI British Corps. The 2nd Division itself, now holding twice the normal divisional frontage, was scheduled to withdraw on 9 April and to be replaced by two British divisions."
+    }
+   ]
+  },
+  {
+   "start": "Rano 9 kwietnia 1918 roku, o 4.15, w gęstej mgle",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/04/poczatek-bitwy-nad-lys.md",
+     "quote": "9 kwietnia 1918 roku, we wtorek, o 4.15 rano, w ciemności i gęstej mgle, artyleria niemieckiej 6 Armii otworzyła ogień na froncie od kanału La Bassée po Armentières"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "Bitwa pod Estaires otworzyła drugą wielką ofensywę niemiecką wiosny 1918 roku, operację „Georgette”, którą Brytyjczycy nazywają bitwami nad Lys"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "jeden z pierwszych pocisków trafił w kwaterę Gomesa da Costy w Lestrem"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "W ciągu kilku godzin portugalska dywizja przestała istnieć jako zorganizowana siła"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-nad-lys-1918.md",
+     "quote": "Część placówek, m.in. w Neuve-Chapelle, broniła się jednak do późnego przedpołudnia."
+    },
+    {
+     "file": "src/content/timeline/1918/04/poczatek-bitwy-nad-lys.md",
+     "quote": "Portugalska 2 Dywizja w ciągu kilku godzin przestała istnieć jako zorganizowana siła."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Expeditionary_Corps",
+     "quote": "The 1st King Edward's Horse and the 11th Cyclist Battalion were sent and joined the 13th (5th Brigade) and 15th (3rd Brigade) Portuguese battalions on the south end of the line, which held their ground until the next morning and prevented any further advances to the south or south-west. Here occurred the famous episode of the 15th Portuguese Battalion's soldier Aníbal Milhais (nickname \"Soldier Millions\") who, armed only with a Lewis gun, single-handedly defeated two German assaults by laying down intense fire"
+    }
+   ]
+  },
+  {
+   "start": "Straty tego dnia są sporne. Starsze portugalskie",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "Najbardziej sporne są liczby portugalskie. Starsze portugalskie zestawienia mówiły o ponad tysiącu zabitych i łącznie kilkunastu tysiącach zabitych, rannych, zaginionych i jeńców. Nowsze badania podają około 300–400 zabitych i około 6 tysięcy jeńców, a straty łącznie szacuje się zwykle na około 7–7,5 tysiąca ludzi"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "Dowódca brytyjskiej 1 Armii, generał Henry Horne, już w grudniu 1917 roku ostrzegał, że korpus nie wytrzyma niemieckiego ataku"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "Spór o przyczyny klęski, o winę rządu w Lizbonie, który nie przysyłał uzupełnień, i o brytyjskie zaniedbanie, które pozwoliło dywizji czekać na zmianę o jedną noc za długo, trwał w Portugalii przez dziesięciolecia."
+    }
+   ]
+  },
+  {
+   "start": "Resztki korpusu wycofano na tyły",
+   "quotes": [
+    {
+     "file": "src/content/countries/portugalia.md",
+     "quote": "Pozostałych żołnierzy używano głównie do budowy okopów i umocnień, a gdy jesienią część batalionów miała wrócić na front, wybuchły bunty."
+    },
+    {
+     "url": "https://pt.wikipedia.org/wiki/Corpo_Expedicionário_Português",
+     "quote": "o governo de Sidónio Pais afirmou tentar enviar mais 10 a 15 mil homens, mas esse envio nunca foi efetivamente concretizado, não sendo proporcionado um único navio de transporte das forças britânicas para assegurar minimamente o reforço das forças portuguesas."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Expeditionary_Corps",
+     "quote": "In September 1918, already under the command of General Garcia Rosado, the remnants of the CEP started to be re-organised in order to re-enter combat."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Expeditionary_Corps",
+     "quote": "By the end of October, four battalions were already combat-capable. These four infantry battalions (I, IV, VIII and IX battalions), together with several artillery, engineer, heavy machine gun and other remaining CEP units, participated in the Hundred Days Offensive."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Expeditionary_Corps",
+     "quote": "On 11 November 1918, under the command of Captain Barros Bastos, the 4th Company of the IV Infantry Battalion (former 23rd Battalion of the 1st Division) made the last assault against the Germans on the passage of the Scheldt river, Belgium."
+    }
+   ]
+  },
+  {
+   "start": "Po rozejmie Portugalia nie miała nawet statków",
+   "quotes": [
+    {
+     "file": "src/content/postacie/sidonio-pais.md",
+     "quote": "Portugalia nie miała nawet statków, by sprowadzić z Francji swoich żołnierzy."
+    },
+    {
+     "url": "https://www.history-pas-de-calais.com/wp-content/uploads/sites/2/2016/03/portugais.pdf",
+     "quote": "On 1 December 1918, a final military parade was held at the Trézennes aerodrome near Aire, from where the first train carrying four hundred Portuguese soldiers left for Cherbourg. On 18 January 1919, a Portuguese delegation took part in the Versailles Peace Conference, and on the following 14 July, a contingent of four hundred men from the CEP took their legitimate place in the victory parade in Paris. Legitimate, but what a sacrifice: 2,160 dead, 5,224 wounded, and 6,678 prisoners."
+    },
+    {
+     "url": "https://pt.wikipedia.org/wiki/Corpo_Expedicionário_Português",
+     "quote": "começou-se a realizar o repatriamento dos efetivos portugueses destacados para o cenário de guerra, contemplando também os prisioneiros que haviam sido retidos nos campos prisionais alemães."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Portuguese_Expeditionary_Corps",
+     "quote": "By the Armistice in 1918, the CEP had lost 2,160 dead, 5,224 wounded and 6,678 taken prisoner – 14,000 casualties and losses out of an establishment of 60,000."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-estaires.md",
+     "quote": "Dla Portugalii 9 kwietnia stał się narodową traumą i jednym z najważniejszych miejsc pamięci I wojny światowej."
+    }
+   ]
+  }
+ ]
+}

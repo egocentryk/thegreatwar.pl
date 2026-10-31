@@ -2,7 +2,7 @@
 title: Strikes and demonstrations in Petrograd
 summary: On 8 March 1917, Women's Day, the women workers of Petrograd took to the streets demanding bread. Within four days the protest drew in hundreds of thousands.
 source: strajki-i-demonstracje-w-piotrogrodzie
-sourceHash: e2895a2b35cd3b7b80e9fc3fa721fcfd132eaa1d
+sourceHash: 9ddd72e9919553841e18beaea626747aebe5985e
 ---
 
 On Thursday 8 March 1917 Petrograd marked International [Women's Day](https://pl.wikipedia.org/wiki/Dzień_Kobiet). In Russia, which still used the Julian calendar, it was 23 February. Socialist organisations had planned rallies and speeches for the day, but nobody had called for a strike. In the morning, however, women workers at several textile mills in the working-class district of the Vyborg Side, on the right bank of the [Neva](https://pl.wikipedia.org/wiki/Newa), downed tools and marched to the neighbouring metalworks, calling on the men to join them. Thus began the unrest which in less than a week overthrew the monarchy.
@@ -13,7 +13,7 @@ For weeks the capital had been living in want. The freezing winter had immobilis
 
 ## Thursday, 8 March
 
-The protesting women were joined by workers from one factory after another. The crowds crossed the Liteyny Bridge into the city centre shouting "Bread!", and some banners also bore the slogans "Down with the war!" and "Down with the autocracy!". According to police reports about 90,000 people were on strike that day; Soviet historians later gave figures as high as 128,000. On [Nevsky Prospekt](https://pl.wikipedia.org/wiki/Newski_Prospekt) the first clashes with the police and the [Cossacks](https://pl.wikipedia.org/wiki/Kozacy) took place. Paléologue noted that there was great agitation in the city all day and that the crowd shouted "Bread and peace!". In the evening, however, the guests at his dinner at the embassy talked mainly about the ball that Princess Radziwiłł had announced for Sunday. The authorities did not consider the events dangerous either. At a meeting that evening the commander of the Petrograd Military District, General [Sergei Khabalov](https://pl.wikipedia.org/wiki/Siergiej_Chabałow), took over responsibility for order in the city from the police.
+The protesting women were joined by workers from one factory after another. The crowds crossed the Liteyny Bridge into the city centre shouting "Bread!", and some banners also bore the slogans "Down with the war!" and "Down with the autocracy!". According to police reports about 90,000 people were on strike that day; Soviet historians later gave figures as high as 128,000. On [Nevsky Prospekt](https://pl.wikipedia.org/wiki/Newski_Prospekt) the first clashes with the police and the [Cossacks](/slownik/kozacy) took place. Paléologue noted that there was great agitation in the city all day and that the crowd shouted "Bread and peace!". In the evening, however, the guests at his dinner at the embassy talked mainly about the ball that Princess Radziwiłł had announced for Sunday. The authorities did not consider the events dangerous either. At a meeting that evening the commander of the Petrograd Military District, General [Sergei Khabalov](https://pl.wikipedia.org/wiki/Siergiej_Chabałow), took over responsibility for order in the city from the police.
 
 ## From strike to general strike
 

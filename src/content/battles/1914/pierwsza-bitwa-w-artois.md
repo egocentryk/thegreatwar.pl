@@ -17,7 +17,7 @@ tags: [Francja, Niemcy, wyścig do morza, Arras]
 milestone: false
 ---
 
-Pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois) była kolejnym etapem tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza), czyli serii prób obejścia skrzydła przeciwnika, które jesienią 1914 roku przesuwały front zachodni coraz dalej na północ. Toczyła się w dniach 27 września – 12 października 1914 roku wokół [Arras](/miejsca/arras), [Lens](https://pl.wikipedia.org/wiki/Lens) i wzgórz na północ od miasta. Francuskie zgrupowanie generała Louisa de Maud'huy, z którego w czasie bitwy powstała 10 Armia, zamiast obejść Niemców musiało bronić się przed natarciem niemieckiej 6 Armii. Arras pozostało w rękach francuskich, ale Niemcy zajęli Lens oraz wzgórza Vimy i Lorette, z których przez następne lata panowali nad okolicą.
+Pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois) była kolejnym etapem tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza), czyli serii prób obejścia skrzydła przeciwnika, które jesienią 1914 roku przesuwały front zachodni coraz dalej na północ. Toczyła się w dniach 27 września – 12 października 1914 roku wokół [Arras](/miejsca/arras), [Lens](/miejsca/lens) i wzgórz na północ od miasta. Francuskie zgrupowanie generała Louisa de Maud'huy, z którego w czasie bitwy powstała 10 Armia, zamiast obejść Niemców musiało bronić się przed natarciem niemieckiej 6 Armii. Arras pozostało w rękach francuskich, ale Niemcy zajęli Lens oraz wzgórza Vimy i Lorette, z których przez następne lata panowali nad okolicą.
 
 ## Nazwa i daty bitwy
 

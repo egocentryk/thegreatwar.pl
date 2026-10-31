@@ -2,10 +2,10 @@
 title: Russia orders partial mobilisation against Austria-Hungary
 summary: On 29 July 1914 Russia mobilised four military districts against Austria-Hungary. That evening the Tsar halted a general mobilisation that was ready to go.
 source: rosja-zarzadza-czesciowa-mobilizacje-przeciw-austro-wegrom
-sourceHash: ec6ef3102b3d2249e915a8e81ab8e9b031c25418
+sourceHash: b403432ef671d815d5f219466dc15e87cfb86742
 ---
 
-On 29 July 1914, the day after [Austria-Hungary](/kraje/austro-wegry) declared war on Serbia, [Russia](/kraje/rosja) ordered a partial [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja). It covered four military districts – Odessa, Kiev, Moscow and Kazan – the ones intended to act against the Habsburg monarchy, above all on the border with [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). It was the first mobilisation by one of the great powers directed against another great power.
+On 29 July 1914, the day after [Austria-Hungary](/kraje/austro-wegry) declared war on Serbia, [Russia](/kraje/rosja) ordered a partial [mobilisation](/slownik/mobilizacja). It covered four military districts – Odessa, Kiev, Moscow and Kazan – the ones intended to act against the Habsburg monarchy, above all on the border with [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). It was the first mobilisation by one of the great powers directed against another great power.
 
 ## A signal to Vienna, not Berlin
 

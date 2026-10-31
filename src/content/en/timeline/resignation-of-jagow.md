@@ -2,7 +2,7 @@
 title: Resignation of Jagow
 summary: On 22 November 1916 Gottlieb von Jagow left the head of German diplomacy, officially for his health, in reality over the dispute about submarine warfare.
 source: dymisja-jagowa
-sourceHash: d87fdf13b4ab02f7d0592ec607378445f29a082b
+sourceHash: 2b7403767a9acde57006dce872b45360eb5e1d02
 ---
 
 On 22 November 1916 Kaiser [Wilhelm II](/postacie/wilhelm-ii) accepted the resignation of [Gottlieb von Jagow](/postacie/gottlieb-von-jagow), since January 1913 State Secretary of the German Foreign Office (Auswärtiges Amt), in practice the Reich's foreign minister. His successor was the Under-Secretary of State, Arthur Zimmermann. This date is given by most German studies and lists of officials. The British war chronology records Jagow's departure as early as 20 November. Officially Jagow was leaving because of poor health. Behind this version, however, lay defeat in a dispute that had divided the German authorities for months: whether to begin unrestricted submarine warfare and risk war with the United States.
@@ -21,4 +21,4 @@ Seier judges that when Jagow tried to prevent unrestricted submarine warfare and
 
 ## What came next
 
-Jagow never returned to high politics. According to Gerard, he took charge of a hospital in [Libau](https://pl.wikipedia.org/wiki/Lipawa) in the occupied Russian territories. He became a member of the Prussian House of Lords, and after the war, in his book "Ursachen und Ausbruch des Weltkrieges" (1919), he defended German policy of the summer of 1914. He died in 1935 in Potsdam. His fears came true. In January 1917 the Kaiser, on the advice of the army and the Admiralty, agreed to unrestricted submarine warfare from 1 February, and in April the United States declared war on Germany.
+Jagow never returned to high politics. According to Gerard, he took charge of a hospital in [Libau](/miejsca/lipawa) in the occupied Russian territories. He became a member of the Prussian House of Lords, and after the war, in his book "Ursachen und Ausbruch des Weltkrieges" (1919), he defended German policy of the summer of 1914. He died in 1935 in Potsdam. His fears came true. In January 1917 the Kaiser, on the advice of the army and the Admiralty, agreed to unrestricted submarine warfare from 1 February, and in April the United States declared war on Germany.

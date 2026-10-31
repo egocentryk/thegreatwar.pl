@@ -22,7 +22,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Julius_von_Griesinger"
 ---
 
-6 sierpnia 1914 roku [Serbia](/kraje/serbia) wypowiedziała wojnę [Niemcom](/kraje/niemcy). Decyzję podjął rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic), działający w wojennej stolicy kraju, [Niszu](https://pl.wikipedia.org/wiki/Nisz). Tydzień wcześniej Serbia została zaatakowana przez [Austro-Węgry](/kraje/austro-wegry), a Niemcy od początku kryzysu stały za polityką Wiednia. Formalnie serbska deklaracja miała postać noty, w której rząd uznał misję niemieckiego posła za zakończoną i wręczył mu paszporty, ale w kronikach wojny i zestawieniach wypowiedzeń wojny figuruje jako wypowiedzenie wojny Niemcom.
+6 sierpnia 1914 roku [Serbia](/kraje/serbia) wypowiedziała wojnę [Niemcom](/kraje/niemcy). Decyzję podjął rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic), działający w wojennej stolicy kraju, [Niszu](/miejsca/nisz). Tydzień wcześniej Serbia została zaatakowana przez [Austro-Węgry](/kraje/austro-wegry), a Niemcy od początku kryzysu stały za polityką Wiednia. Formalnie serbska deklaracja miała postać noty, w której rząd uznał misję niemieckiego posła za zakończoną i wręczył mu paszporty, ale w kronikach wojny i zestawieniach wypowiedzeń wojny figuruje jako wypowiedzenie wojny Niemcom.
 
 ## Nota z Niszu
 

@@ -2,10 +2,10 @@
 title: Battle of the Aisne ends
 summary: By the British reckoning the Battle of the Aisne ended on 15 September 1914. The Allies failed to drive the Germans off the heights and both sides dug in.
 source: koniec-bitwy-nad-aisne
-sourceHash: 4d664c6c2c222b19d08670b9e2ae4e46c7428f37
+sourceHash: 106e489737502cdfb44eab70da5105196342a038
 ---
 
-On 15 September 1914, according to the British chronicle of the war, the Battle of the [Aisne](/miejsca/aisne) came to an end. The British later took it to have lasted from 12 to 15 September, although the fighting on the heights above the river dragged on until the end of the month. After four days of attacks it became clear that the Allies would not drive the Germans from the positions they held. Both sides began digging trenches, and [trench warfare](https://pl.wikipedia.org/wiki/Wojna_pozycyjna) was beginning on the Western Front.
+On 15 September 1914, according to the British chronicle of the war, the Battle of the [Aisne](/miejsca/aisne) came to an end. The British later took it to have lasted from 12 to 15 September, although the fighting on the heights above the river dragged on until the end of the month. After four days of attacks it became clear that the Allies would not drive the Germans from the positions they held. Both sides began digging trenches, and [trench warfare](/slownik/wojna-pozycyjna) was beginning on the Western Front.
 
 ## The attack on the heights
 

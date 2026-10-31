@@ -2,10 +2,10 @@
 title: Attack on Medina
 summary: On 6 June 1916 Faisal's Arabs attacked Medina. Fahreddin Pasha's garrison drove them off with artillery fire, and the torn-up Hejaz Railway was soon repaired.
 source: atak-na-medyne
-sourceHash: 3fd589bef6efff782613e1cc38935b4fb4b23774
+sourceHash: c7037227649e4fd17e9b36ee73cfd6d710253768
 ---
 
-On 6 June 1916, the day after the [outbreak of the revolt](/poczatek-powstania-arabskiego), the Arab forces of Emir [Faisal](/postacie/fajsal-i) attacked the defences of [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)), the second holiest city of Islam and the terminus of the [Hejaz Railway](https://pl.wikipedia.org/wiki/Kolej_Hidżaska). The assault failed. The Turkish garrison, commanded by General Fahreddin Pasha (Fakhri Pasha in British sources), drove the rebels off, and their attempts to cut the railway line to Damascus brought only a short interruption in traffic. The date of 6 June is given by the British official history of the campaign in Egypt and Palestine; the fighting outside the city, however, lasted several days.
+On 6 June 1916, the day after the [outbreak of the revolt](/poczatek-powstania-arabskiego), the Arab forces of Emir [Faisal](/postacie/fajsal-i) attacked the defences of [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)), the second holiest city of Islam and the terminus of the [Hejaz Railway](/slownik/kolej-hidzaska). The assault failed. The Turkish garrison, commanded by General Fahreddin Pasha (Fakhri Pasha in British sources), drove the rebels off, and their attempts to cut the railway line to Damascus brought only a short interruption in traffic. The date of 6 June is given by the British official history of the campaign in Egypt and Palestine; the fighting outside the city, however, lasted several days.
 
 ## The Turks had been warned
 

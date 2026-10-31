@@ -16,7 +16,7 @@ sources:
   - "https://en.wikipedia.org/wiki/German_bombing_of_Britain,_1914%E2%80%931918"
 ---
 
-W Wigilię 1914 roku, około 10.45, nad [Dover](https://pl.wikipedia.org/wiki/Dover) znów pojawił się niemiecki wodnosamolot. Tym razem jego bomba nie wpadła do morza, jak [trzy dni wcześniej](/pierwszy-niemiecki-nalot-na-anglie), lecz spadła na miasto. Była to pierwsza bomba lotnicza, która spadła na ląd w Anglii. Nikt nie zginął, a szkody okazały się niewielkie, ale wiadomość szybko obiegła brytyjską prasę.
+W Wigilię 1914 roku, około 10.45, nad [Dover](/miejsca/dover) znów pojawił się niemiecki wodnosamolot. Tym razem jego bomba nie wpadła do morza, jak [trzy dni wcześniej](/pierwszy-niemiecki-nalot-na-anglie), lecz spadła na miasto. Była to pierwsza bomba lotnicza, która spadła na ląd w Anglii. Nikt nie zginął, a szkody okazały się niewielkie, ale wiadomość szybko obiegła brytyjską prasę.
 
 ## Samolot z Zeebrugge
 

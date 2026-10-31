@@ -28,7 +28,7 @@ Anton Korošec był katolickim księdzem z Dolnej Styrii, który w ciągu półt
 
 Urodził się 12 maja 1872 roku w Biserjanach koło Svetego Jurija ob Ščavnici, w chłopskiej rodzinie w słoweńskiej części Styrii. Gimnazjum ukończył w Ptuju i Mariborze, gdzie studiował też teologię. W 1895 roku przyjął święcenia kapłańskie, a w 1905 roku uzyskał w Grazu doktorat z teologii. Jeszcze w seminarium poznał księdza [Janeza Evangelistę Kreka](https://pl.wikipedia.org/wiki/Janez_Evangelist_Krek), twórcę słoweńskiego ruchu chrześcijańsko-społecznego, i przejął jego poglądy. Jako redaktor katolickiej gazety w Mariborze ostro atakował Niemców w Styrii i za jeden z artykułów został skazany na sześć tygodni aresztu, zamienionych przez cesarza na grzywnę.
 
-W 1906 roku wybrano go do wiedeńskiej [Rady Państwa](https://pl.wikipedia.org/wiki/Rada_Państwa_(Austria)), w której zasiadał aż do upadku monarchii, a od 1909 roku także do sejmu krajowego Styrii. Należał do młodszego, bardziej stanowczego skrzydła słoweńskich katolików, skłóconego z przywódcą Słoweńskiej Partii Ludowej w Krainie, Ivanem Šušteršičem. W marcu 1914 roku stanął na czele chorwacko-słoweńskiego klubu w Radzie Państwa.
+W 1906 roku wybrano go do wiedeńskiej [Rady Państwa](/slownik/rada-panstwa-austria), w której zasiadał aż do upadku monarchii, a od 1909 roku także do sejmu krajowego Styrii. Należał do młodszego, bardziej stanowczego skrzydła słoweńskich katolików, skłóconego z przywódcą Słoweńskiej Partii Ludowej w Krainie, Ivanem Šušteršičem. W marcu 1914 roku stanął na czele chorwacko-słoweńskiego klubu w Radzie Państwa.
 
 ## Lata wojny i deklaracja majowa
 

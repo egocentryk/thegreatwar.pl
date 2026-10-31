@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 21 marca 1918 roku, tego samego dnia, w którym we Francji [ruszyła wielka ofensywa niemiecka](/poczatek-operacji-michael), wojska brytyjskie w Palestynie zebrały się nad [Jordanem](https://pl.wikipedia.org/wiki/Jordan_(rzeka)) na wschód od [Jerycha](https://pl.wikipedia.org/wiki/Jerycho). Londyńska 60 Dywizja generała majora Johna Shei miała przeprawić się przez rzekę i otworzyć drogę na płaskowyż Zajordanii, ku miastu [As-Salt](https://pl.wikipedia.org/wiki/As-Salt) i [Ammanowi](https://pl.wikipedia.org/wiki/Amman), gdzie Brytyjczycy chcieli zniszczyć [Kolej Hidżaską](https://pl.wikipedia.org/wiki/Kolej_Hidżaska). Za piechotą czekały Australijsko-Nowozelandzka Dywizja Konna i Imperialna Brygada Wielbłądzia. Przeprawa przez wezbraną, rwącą rzekę zajęła o dobę dłużej, niż planowano, ale 23 marca wieczorem na Jordanie stało już pięć mostów.
+Wieczorem 21 marca 1918 roku, tego samego dnia, w którym we Francji [ruszyła wielka ofensywa niemiecka](/poczatek-operacji-michael), wojska brytyjskie w Palestynie zebrały się nad [Jordanem](https://pl.wikipedia.org/wiki/Jordan_(rzeka)) na wschód od [Jerycha](https://pl.wikipedia.org/wiki/Jerycho). Londyńska 60 Dywizja generała majora Johna Shei miała przeprawić się przez rzekę i otworzyć drogę na płaskowyż Zajordanii, ku miastu [As-Salt](https://pl.wikipedia.org/wiki/As-Salt) i [Ammanowi](https://pl.wikipedia.org/wiki/Amman), gdzie Brytyjczycy chcieli zniszczyć [Kolej Hidżaską](/slownik/kolej-hidzaska). Za piechotą czekały Australijsko-Nowozelandzka Dywizja Konna i Imperialna Brygada Wielbłądzia. Przeprawa przez wezbraną, rwącą rzekę zajęła o dobę dłużej, niż planowano, ale 23 marca wieczorem na Jordanie stało już pięć mostów.
 
 ## Wezbrana rzeka
 

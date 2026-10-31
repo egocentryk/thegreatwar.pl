@@ -42,8 +42,10 @@ def ours():
         body = re.search(rf"^{block} = \{{(.*?)^\}}", src, re.S | re.M).group(1)
         for t, slug in re.findall(r'"([^"]+)":\s*"([^"]+)"', body):
             have[t] = ("bitwy/" if block == "ALIASES" else "") + slug
+    skip = set(re.findall(r'"([^"]+)"', re.search(r"^GLOSSARY_SKIP = \{(.*?)\}", src, re.M).group(1)))
     for term in json.load(open(f"{ROOT}/src/data/glossary.json", encoding="utf-8")):
-        have.setdefault(term["term"].replace(" ", "_"), "slownik/" + term["slug"])
+        if term["term"].replace(" ", "_") not in skip:
+            have.setdefault(term["term"].replace(" ", "_"), "slownik/" + term["slug"])
     return have
 
 

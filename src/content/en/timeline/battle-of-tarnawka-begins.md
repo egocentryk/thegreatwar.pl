@@ -2,10 +2,10 @@
 title: Battle of Tarnawka begins
 summary: On 7 September 1914 the Battle of Tarnawka broke out south of Lublin. The reinforced Russians struck Dankl's Austro-Hungarian army and forced it to retreat.
 source: poczatek-bitwy-pod-tarnawka
-sourceHash: 6e5ab1dca58b1b75e63049006dfb0803ac329892
+sourceHash: 8eada3c60ca96ae27f8138c4559b6eaca131b70b
 ---
 
-On 7 September 1914, in the Lublin region, in the fields around the village of Tarnawka south of [Lublin](https://pl.wikipedia.org/wiki/Lublin), a battle broke out between Russian troops and the Austro-Hungarian 1st Army of General [Viktor Dankl](/postacie/victor-dankl) together with the German units supporting it. It was one of the hardest battles fought on Polish lands in 1914 and a turning point in the fighting on the northern wing of the [Battle of Galicia](/bitwy/bitwa-galicyjska).
+On 7 September 1914, in the Lublin region, in the fields around the village of Tarnawka south of [Lublin](/miejsca/lublin), a battle broke out between Russian troops and the Austro-Hungarian 1st Army of General [Viktor Dankl](/postacie/victor-dankl) together with the German units supporting it. It was one of the hardest battles fought on Polish lands in 1914 and a turning point in the fighting on the northern wing of the [Battle of Galicia](/bitwy/bitwa-galicyjska).
 
 ## From Kraśnik to Lublin
 

@@ -26,7 +26,7 @@ const surname = (name: string) => {
 const byName = (a: (typeof people)[number], b: (typeof people)[number]) =>
   surname(a.data.name).localeCompare(surname(b.data.name), loc) || a.data.name.localeCompare(b.data.name, loc)
 
-const SIDES = ["Sprawa polska", "Ententa", "Państwa centralne"] as const
+const SIDES = ["Sprawa polska", "Ententa", "Państwa centralne", "Państwa neutralne"] as const
 const sides = SIDES.map((side) => ({
   key: side,
   label: lang === "en" ? sideEn(side) : side,
@@ -99,9 +99,9 @@ const chip =
       }
     </div>
     {/* Phones: a select instead of the long row of country chips. */}
-    <label class="flex items-center gap-2 sm:hidden">
+    <label class="flex min-w-0 items-center gap-2 sm:hidden">
       <span class="text-ink-soft tracking-[0.15em] uppercase">{t.country}:</span>
-      <select data-people-country-select class="border-line bg-surface text-ink rounded-sm border px-2 py-1.5">
+      <select data-people-country-select class="border-line bg-surface text-ink min-w-0 flex-1 rounded-sm border px-2 py-1.5">
         <option value="">{t.allCountries}</option>
         {countries.map(({ country, count }) => <option value={country}>{country} ({count})</option>)}
       </select>

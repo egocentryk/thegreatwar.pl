@@ -6,7 +6,7 @@ country: State of Slovenes, Croats and Serbs
 birthPlace: Biserjane near Sveti Jurij ob Ščavnici (Styria, Austria)
 deathPlace: Belgrade
 source: anton-korosec
-sourceHash: b809161eab5e9bc017ed8aa35918c20b22ff3c79
+sourceHash: ad8e0d0fd72e3dad831b82a2c95381cc4554cb65
 ---
 
 Anton Korošec was a Catholic priest from Lower Styria who within a year and a half went from being a loyal deputy in the Imperial Council in Vienna to head of the first Yugoslav state. On 30 May 1917 he read out in parliament the May Declaration, which demanded the unification of the Slovenes, Croats and Serbs of the monarchy, still under the Habsburg sceptre. A year later he led the movement that broke with the Habsburgs. In October 1918 he became president of the National Council in Zagreb and, after the collapse of the monarchy, formally the highest representative of the State of Slovenes, Croats and Serbs. He went over to the Entente camp only in the last weeks of the war, and in Geneva he defended that state's equal standing with Serbia.
@@ -15,7 +15,7 @@ Anton Korošec was a Catholic priest from Lower Styria who within a year and a h
 
 He was born on 12 May 1872 in Biserjane near Sveti Jurij ob Ščavnici, into a peasant family in the Slovene part of Styria. He finished grammar school in Ptuj and Maribor, where he also studied theology. In 1895 he was ordained a priest, and in 1905 he received a doctorate in theology in Graz. While still at the seminary he met the priest [Janez Evangelist Krek](https://pl.wikipedia.org/wiki/Janez_Evangelist_Krek), founder of the Slovene Christian social movement, and adopted his views. As editor of a Catholic newspaper in Maribor he sharply attacked the Germans in Styria, and for one of his articles he was sentenced to six weeks' arrest, commuted by the Emperor to a fine.
 
-In 1906 he was elected to the [Imperial Council](https://pl.wikipedia.org/wiki/Rada_Państwa_(Austria)) in Vienna, in which he sat until the fall of the monarchy, and from 1909 also to the Styrian provincial diet. He belonged to the younger, more resolute wing of the Slovene Catholics, which was at odds with the leader of the Slovene People's Party in Carniola, Ivan Šušteršič. In March 1914 he became head of the Croatian-Slovene club in the Imperial Council.
+In 1906 he was elected to the [Imperial Council](/slownik/rada-panstwa-austria) in Vienna, in which he sat until the fall of the monarchy, and from 1909 also to the Styrian provincial diet. He belonged to the younger, more resolute wing of the Slovene Catholics, which was at odds with the leader of the Slovene People's Party in Carniola, Ivan Šušteršič. In March 1914 he became head of the Croatian-Slovene club in the Imperial Council.
 
 ## The war years and the May Declaration
 

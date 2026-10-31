@@ -2,10 +2,10 @@
 title: British occupy Kermanshah
 summary: On 24 March 1918 the first British detachment reached Kermanshah, fifty riflemen of the Hampshire Regiment with Lt-Col. Capper and Consul Kennion.
 source: brytyjczycy-zajmuja-kermanszah
-sourceHash: 10e8902e84927249b7005e850bbf583891bf5d06
+sourceHash: de95624ddaa22012f70655d163bbf63a97ac08f2
 ---
 
-On 24 March 1918 the first British detachment rode into [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), the chief town of western Persia. It consisted of fifty riflemen of the 1/4th Battalion of the Hampshire Regiment, accompanied by Lieutenant-Colonel A. S. Capper, appointed commandant of the whole British line of communication beyond the Mesopotamian frontier, and the British consul in Kermanshah, Colonel R. L. Kennion. According to F. J. Moberly's British official history of the Mesopotamian campaign, Capper and Kennion set out by car on 18 March and on the way, at Surkhadiza Khan, picked up the Hampshire men. Downpours, snow and a sodden road meant that the journey took six days. A year earlier, in March 1917, [the Russians had retaken the town from the Turks](/rosjanie-odbijaja-kermanszah). Now the British took their place. The British chronology of the war already gives the occupation of Kermanshah under 25 February, but Moberly states plainly that in February no British troops went beyond [Qasr-e Shirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin) on the frontier.
+On 24 March 1918 the first British detachment rode into [Kermanshah](/miejsca/kermanszah), the chief town of western Persia. It consisted of fifty riflemen of the 1/4th Battalion of the Hampshire Regiment, accompanied by Lieutenant-Colonel A. S. Capper, appointed commandant of the whole British line of communication beyond the Mesopotamian frontier, and the British consul in Kermanshah, Colonel R. L. Kennion. According to F. J. Moberly's British official history of the Mesopotamian campaign, Capper and Kennion set out by car on 18 March and on the way, at Surkhadiza Khan, picked up the Hampshire men. Downpours, snow and a sodden road meant that the journey took six days. A year earlier, in March 1917, [the Russians had retaken the town from the Turks](/rosjanie-odbijaja-kermanszah). Now the British took their place. The British chronology of the war already gives the occupation of Kermanshah under 25 February, but Moberly states plainly that in February no British troops went beyond [Qasr-e Shirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin) on the frontier.
 
 ## The town after the Russians left
 

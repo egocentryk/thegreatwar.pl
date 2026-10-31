@@ -2,10 +2,10 @@
 title: First aircraft attack on a merchant ship
 summary: On 15 March 1915 a German seaplane dropped bombs on the British steamer Blonde off the Kent coast. None hit, and the ship got away safely.
 source: pierwszy-atak-samolotu-na-statek-handlowy
-sourceHash: 4897820094db7f0b66c261a55671718e695f7bc0
+sourceHash: 19743db13de383adab62b3903662565285ff7918
 ---
 
-On 15 March 1915 a German [seaplane](https://pl.wikipedia.org/wiki/Wodnosamolot) attacked the small British steamer *Blonde* off the east coast of England, near the North Foreland in the county of Kent. It dropped five bombs, but all of them missed. The British chronology of the war records this event as the first attack by an aircraft on a merchant ship.
+On 15 March 1915 a German [seaplane](/slownik/wodnosamolot) attacked the small British steamer *Blonde* off the east coast of England, near the North Foreland in the county of Kent. It dropped five bombs, but all of them missed. The British chronology of the war records this event as the first attack by an aircraft on a merchant ship.
 
 *Blonde*, a steamer of 613 gross register tons, was sailing in ballast, without cargo, from [Cowes](https://pl.wikipedia.org/wiki/Cowes) on the Isle of Wight to the mouth of the [Tyne](https://pl.wikipedia.org/wiki/Tyne). According to the British returns of merchant shipping losses and damage, she was about three miles east of the North Foreland when the second officer spotted an aircraft approaching from the east. The master ordered full speed ahead, a zigzag course and the siren sounded. The five bombs fell close alongside but did no damage. Soon an armed vessel of the patrol flotilla from [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) came up. According to the British Naval Staff monograph this was the drifter *Paramount*, which fired a shot from her small gun, and the attacker flew off to the east and vanished into the mist.
 

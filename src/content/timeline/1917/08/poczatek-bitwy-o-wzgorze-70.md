@@ -18,7 +18,7 @@ brief:
   - "Do 18 sierpnia Kanadyjczycy odparli według Curriego 21 niemieckich kontrataków, także z miotaczami ognia i iperytem. Wzgórza 70 Niemcy już nie odzyskali."
 ---
 
-15 sierpnia 1917 roku o 4.25, gdy zaczynało świtać, dwie dywizje Korpusu Kanadyjskiego ruszyły do natarcia na wzgórze 70, bezdrzewne, kredowe wzniesienie na północnych przedmieściach górniczego miasta [Lens](https://pl.wikipedia.org/wiki/Lens) w północnej Francji. Po dwudziestu minutach stały na jego grzbiecie, a przed szóstą rano zajęły prawie wszystkie wyznaczone cele. Przez resztę dnia Niemcy raz po raz kontratakowali, ale ich fale piechoty ginęły pod ogniem kanadyjskiej artylerii, kierowanej przez obserwatorów ze zdobytego szczytu. Była to pierwsza bitwa korpusu pod dowództwem Kanadyjczyka, generała [Arthura Curriego](/postacie/arthur-currie), i dokładnie taki jej przebieg Currie zaplanował.
+15 sierpnia 1917 roku o 4.25, gdy zaczynało świtać, dwie dywizje Korpusu Kanadyjskiego ruszyły do natarcia na wzgórze 70, bezdrzewne, kredowe wzniesienie na północnych przedmieściach górniczego miasta [Lens](/miejsca/lens) w północnej Francji. Po dwudziestu minutach stały na jego grzbiecie, a przed szóstą rano zajęły prawie wszystkie wyznaczone cele. Przez resztę dnia Niemcy raz po raz kontratakowali, ale ich fale piechoty ginęły pod ogniem kanadyjskiej artylerii, kierowanej przez obserwatorów ze zdobytego szczytu. Była to pierwsza bitwa korpusu pod dowództwem Kanadyjczyka, generała [Arthura Curriego](/postacie/arthur-currie), i dokładnie taki jej przebieg Currie zaplanował.
 
 ## Dywersja dla Flandrii
 

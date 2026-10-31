@@ -9,10 +9,10 @@ sides:
     commanders: [Karl von Bülow]
 result: Inconclusive. The French threw the Germans back at Guise but failed to take Saint-Quentin and resumed their retreat. Bülow halted for a day and a half.
 source: bitwa-pod-guise
-sourceHash: 51b5556698ae0a5b8b26d37f619a5064f8f8fd50
+sourceHash: 32ac8ad3f2f7bf444b74fc75dfe1c956628ea6f6
 ---
 
-The Battle of Guise, fought on 29 and 30 August 1914 in the valley of the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) in northern France, was the only major French counter-attack during the Great Retreat of August 1914. The French name it after the small town of [Guise](https://pl.wikipedia.org/wiki/Guise), the Germans after the nearby town of [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). It was fought between the French Fifth Army of General Charles Lanrezac and the German Second Army of General [Karl von Bülow](/postacie/karl-von-bulow).
+The Battle of Guise, fought on 29 and 30 August 1914 in the valley of the [Oise](/miejsca/oise) in northern France, was the only major French counter-attack during the Great Retreat of August 1914. The French name it after the small town of [Guise](https://pl.wikipedia.org/wiki/Guise), the Germans after the nearby town of [Saint-Quentin](/miejsca/saint-quentin). It was fought between the French Fifth Army of General Charles Lanrezac and the German Second Army of General [Karl von Bülow](/postacie/karl-von-bulow).
 
 ## Joffre's order
 

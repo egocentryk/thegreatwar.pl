@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 listopada 1915 roku rząd brytyjski wybrał generała Horace'a Smith-Dorriena na dowódcę nowej wyprawy przeciw [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Decyzja oznaczała zwrot w polityce wobec tego teatru wojny. Przez cały 1915 rok wojska brytyjskie w Afryce Wschodniej miały tylko się bronić, a teraz Londyn postanowił zdobyć niemiecką kolonię jak najszybciej i wysłać tam duże posiłki, głównie z [Afryki Południowej](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Smith-Dorrien nigdy jednak nie objął tego stanowiska.
+22 listopada 1915 roku rząd brytyjski wybrał generała Horace'a Smith-Dorriena na dowódcę nowej wyprawy przeciw [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Decyzja oznaczała zwrot w polityce wobec tego teatru wojny. Przez cały 1915 rok wojska brytyjskie w Afryce Wschodniej miały tylko się bronić, a teraz Londyn postanowił zdobyć niemiecką kolonię jak najszybciej i wysłać tam duże posiłki, głównie z [Afryki Południowej](/kraje/zwiazek-poludniowej-afryki). Smith-Dorrien nigdy jednak nie objął tego stanowiska.
 
 ## Od obrony do ofensywy
 

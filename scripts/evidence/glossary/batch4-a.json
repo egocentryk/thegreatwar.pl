@@ -1,0 +1,105 @@
+[
+ {
+  "slug": "schizma-narodowa",
+  "slugEn": "national-schism",
+  "term": "Schizma narodowa",
+  "termEn": "National Schism",
+  "category": "polityka",
+  "pattern": "[Ss]chizm\\w* narodow\\w*",
+  "patternEn": "National Schism",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Rozłam w Grecji w latach 1915–1917 między premierem Elefteriosem Wenizelosem, zwolennikiem wojny u boku Ententy, a królem Konstantynem I, który chciał utrzymać neutralność.",
+  "shortEn": "The split in Greece in 1915–1917 between Prime Minister Eleftherios Venizelos, who wanted war on the Entente's side, and King Constantine I, who wanted to keep the country neutral.",
+  "long": [
+   "Spór wybuchł w marcu 1915 roku, gdy król odrzucił udział Grecji w operacji w Dardanelach, a Wenizelos podał się do dymisji. Liberałowie wygrali czerwcowe wybory, ale 5 października 1915 roku, w dniu lądowania wojsk Ententy w Salonikach, Konstantyn znów zmusił premiera do odejścia. Odtąd rządzili rojaliści. Obie strony powoływały się na konstytucję: wenizeliści twierdzili, że król nie może odrzucać polityki rządu mającego większość w parlamencie, obóz królewski, że decyzja o wojnie należy do monarchy.",
+   "Po oddaniu Bułgarom Fortu Rupel i Kawali wenizeliści 30 sierpnia 1916 roku przejęli władzę w Salonikach, a jesienią Wenizelos stanął tam na czele rządu tymczasowego Obrony Narodowej. Grecja miała dwa rządy do czerwca 1917 roku, gdy Ententa wymusiła wyjazd Konstantyna, a zjednoczony kraj pod rządami Wenizelosa przystąpił do wojny. Rozłam nie wygasł: w 1920 roku król wrócił na tron, a podział na wenizelistów i rojalistów ciążył na greckiej polityce przez dziesięciolecia."
+  ],
+  "longEn": [
+   "The dispute broke out in March 1915, when the king rejected Greek participation in the Dardanelles operation and Venizelos resigned. The Liberals won the June election, but on 5 October 1915, the day Entente troops landed at Salonika, Constantine again forced the prime minister out. From then on the royalists governed. Both sides appealed to the constitution: the Venizelists argued that the king could not reject the policy of a government with a parliamentary majority, the royalists that the decision on war belonged to the monarch.",
+   "After Fort Rupel and Kavala were handed over to the Bulgarians, the Venizelists seized power in Salonika on 30 August 1916, and in the autumn Venizelos took charge there of a Provisional Government of National Defence. Greece had two governments until June 1917, when the Entente forced Constantine to leave and the reunited country entered the war under Venizelos. The rift did not heal: in 1920 the king returned to the throne, and the division into Venizelists and royalists weighed on Greek politics for decades."
+  ],
+  "see": [
+   "przewrot-wenizelistow-w-salonikach",
+   "dymisja-wenizelosa",
+   "wenizelos-w-salonikach",
+   "abdykacja-krola-konstantyna",
+   "postacie/elefterios-wenizelos",
+   "postacie/konstantyn-i"
+  ],
+  "sources": [
+   "https://web.archive.org/web/2024/https://encyclopedia.1914-1918-online.net/article/greece",
+   "https://web.archive.org/web/2024/https://encyclopedia.1914-1918-online.net/article/movement_of_national_defence_greece",
+   "https://web.archive.org/web/2024/https://encyclopedia.1914-1918-online.net/article/constantine_i_king_of_greece",
+   "https://en.wikipedia.org/wiki/National_Schism"
+  ]
+ },
+ {
+  "slug": "sanusijja",
+  "slugEn": "senussi",
+  "term": "Sanusijja",
+  "termEn": "Senussi",
+  "category": "wojsko",
+  "pattern": "\\bSanusij\\w*|\\b[Ss]enus\\w*",
+  "patternEn": "\\bSenussi\\b|\\bSanusi\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Sufickie bractwo muzułmańskie z libijskiej Cyrenajki. Od 1911 roku walczyło z Włochami, a w latach 1915–1917, namówione przez Turków, prowadziło wojnę z Brytyjczykami na zachodniej granicy Egiptu.",
+  "shortEn": "A Sufi Muslim order from Cyrenaica in Libya. From 1911 it fought the Italians, and in 1915–1917, urged on by the Ottomans, it waged war on the British along Egypt's western border.",
+  "long": [
+   "Bractwo założył w 1837 roku w Mekce Muhammad ibn Ali as-Sanusi. Jego ośrodki, zawije, rozsiane po oazach Sahary, skupiły wokół jednego przywódcy beduińskie plemiona Cyrenajki. Gdy w 1911 roku Włochy zaatakowały Trypolitanię i Cyrenajkę, bractwo dołączyło do oporu i walczyło dalej po pokoju z 1912 roku. Na jego czele stał Sajjid Ahmad asz-Szarif, który od 1902 roku przewodził mu w zastępstwie młodszego kuzyna, Muhammada Idrisa.",
+   "Turcy i Niemcy przysłali mu oficerów, broń i pieniądze. W listopadzie 1915 roku oddziały bractwa, szkolone przez Nuriego beja i Dżafara al-Askariego, zaatakowały As-Sallum, a Brytyjczycy wycofali się do Marsa Matruh. Po klęsce pod Agagią w lutym 1916 roku wojna przeniosła się do oaz Pustyni Zachodniej i skończyła w lutym 1917 roku rajdem na Siwę. W kwietniu 1917 roku Idris zawarł porozumienia z Brytyjczykami i Włochami, a Sajjid Ahmad odpłynął w 1918 roku do Konstantynopola."
+  ],
+  "longEn": [
+   "The order was founded in Mecca in 1837 by Muhammad ibn Ali al-Sanusi. Its lodges, the zawiyas, scattered across the oases of the Sahara, united the Bedouin tribes of Cyrenaica under a single leader. When Italy attacked Tripolitania and Cyrenaica in 1911, the order joined the resistance and kept fighting after the peace of 1912. It was headed by Sayyid Ahmad al-Sharif, who had led it since 1902 on behalf of his younger cousin, Muhammad Idris.",
+   "The Ottomans and Germans sent him officers, arms and money. In November 1915 the order's forces, trained by Nuri Bey and Jafar al-Askari, attacked Sollum, and the British fell back to Mersa Matruh. After the defeat at Agagia in February 1916 the war moved to the oases of the Western Desert and ended in February 1917 with the raid on Siwa. In April 1917 Idris made agreements with the British and the Italians, and in 1918 Sayyid Ahmad sailed for Constantinople."
+  ],
+  "see": [
+   "bractwo-sanusijja-atakuje-as-sallum",
+   "bitwy/bitwa-pod-agagia",
+   "koniec-operacji-przeciw-senusjom",
+   "wybucha-wojna-wlosko-turecka",
+   "postacie/dzafar-al-askari"
+  ],
+  "sources": [
+   "https://www.globalsecurity.org/military/world/libya/senussi.htm",
+   "https://www.globalsecurity.org/military/world/war/italo-sanusi-1.htm",
+   "https://en.wikipedia.org/wiki/Senussi",
+   "https://en.wikipedia.org/wiki/Senussi_campaign"
+  ]
+ },
+ {
+  "slug": "kolej-hidzaska",
+  "slugEn": "hejaz-railway",
+  "term": "Kolej Hidżaska",
+  "termEn": "Hejaz Railway",
+  "category": "wojsko",
+  "pattern": "[Kk]olej\\w* [Hh]idżask\\w*",
+  "patternEn": "Hejaz [Rr]ailway",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Osmańska linia kolejowa z Damaszku do Medyny, otwarta w 1908 roku. W czasie wojny jedyna droga zaopatrzenia tureckich garnizonów w Hidżazie i główny cel rajdów powstania arabskiego.",
+  "shortEn": "The Ottoman railway from Damascus to Medina, opened in 1908. In the war it was the only supply route of the Turkish garrisons in the Hejaz and the main target of the Arab Revolt's raids.",
+  "long": [
+   "Budowę kolei, biegnącej szlakiem pielgrzymów, zarządził w 1900 roku sułtan Abdülhamid II. Opłacano ją w dużej części z datków muzułmanów, a 1 września 1908 roku linia doszła do Medyny. Podróż z Damaszku, która trwała wcześniej około 40 dni, skróciła się do kilku. Kolej miała też ułatwić przerzut wojsk, dlatego szarif Mekki Husajn ibn Ali sprzeciwiał się jej przedłużeniu do Mekki. Nigdy tam nie dotarła.",
+   "Po wybuchu powstania arabskiego w czerwcu 1916 roku Turcy dowieźli nią posiłki do Medyny. Od 1917 roku powstańcy z brytyjskimi i francuskimi oficerami, wśród nich T.E. Lawrence, wysadzali tory, mosty i pociągi; Lawrence uznał, że lepiej utrzymywać linię ledwo działającą, niż zdobywać Medynę. Wiosną 1918 roku tor między Ma’an a Mudawwarą zniszczono tak, że go już nie odbudowano, a we wrześniu jeźdźcy Chaytora przecięli kolej w Ammanie. Garnizon Medyny poddał się dopiero w styczniu 1919 roku."
+  ],
+  "longEn": [
+   "The railway, following the pilgrim route, was ordered by Sultan Abdülhamid II in 1900. It was paid for largely by donations from Muslims, and on 1 September 1908 the line reached Medina. The journey from Damascus, which had taken about 40 days, was cut to a few. The railway was also meant to make troop movements easier, which is why the Sharif of Mecca, Hussein bin Ali, opposed its extension to Mecca. It never got there.",
+   "After the Arab Revolt broke out in June 1916 the Turks brought reinforcements to Medina along it. From 1917 the rebels, with British and French officers among them T. E. Lawrence, blew up track, bridges and trains; Lawrence concluded that it was better to keep the line barely working than to take Medina. In spring 1918 the track between Ma'an and Mudawwara was wrecked so thoroughly that it was never rebuilt, and in September Chaytor's horsemen cut the railway at Amman. The Medina garrison did not surrender until January 1919."
+  ],
+  "see": [
+   "bitwy/powstanie-arabskie",
+   "atak-na-medyne",
+   "arabowie-zajmuja-janbu",
+   "zajecie-ammanu",
+   "bitwy/pierwszy-rajd-na-amman",
+   "postacie/thomas-edward-lawrence"
+  ],
+  "sources": [
+   "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+   "https://gulfif.org/traveling-through-history-on-the-forgotten-hejaz-railway/",
+   "https://en.wikipedia.org/wiki/Hejaz_railway"
+  ]
+ }
+]

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Po zerwaniu stosunków dyplomatycznych z Serbią [Austro-Węgry](/kraje/austro-wegry) bez zwłoki przeszły od słów do przygotowań wojskowych. Wieczorem 25 lipca 1914 roku cesarz [Franciszek Józef](/postacie/franciszek-jozef-i), przebywający w letniej rezydencji w [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl), podpisał rozkaz częściowej [mobilizacji](https://pl.wikipedia.org/wiki/Mobilizacja). Następnego dnia, 26 lipca, była ona już faktem, z którym musiały się liczyć wszystkie europejskie stolice.
+Po zerwaniu stosunków dyplomatycznych z Serbią [Austro-Węgry](/kraje/austro-wegry) bez zwłoki przeszły od słów do przygotowań wojskowych. Wieczorem 25 lipca 1914 roku cesarz [Franciszek Józef](/postacie/franciszek-jozef-i), przebywający w letniej rezydencji w [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl), podpisał rozkaz częściowej [mobilizacji](/slownik/mobilizacja). Następnego dnia, 26 lipca, była ona już faktem, z którym musiały się liczyć wszystkie europejskie stolice.
 
 Mobilizacja nie obejmowała całej [armii Austro-Węgier](https://pl.wikipedia.org/wiki/Armia_Austro-Węgier). Szef sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) uruchomił tzw. przypadek B, czyli plan wojny przewidziany wyłącznie na starcie z [Serbią](/kraje/serbia) i [Czarnogórą](/kraje/czarnogora). Pod broń powoływano tylko te jednostki, które miały walczyć na Bałkanach. Za pierwszy dzień mobilizacji wyznaczono 28 lipca, a więc dzień, w którym monarchia wypowiedziała Serbii wojnę.
 

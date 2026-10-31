@@ -2,10 +2,10 @@
 title: Death of Max Immelmann
 summary: On 18 June 1916 near Lens Max Immelmann, the "Eagle of Lille" and Germany's first great ace, was killed. His Fokker broke up in a fight with British F.E.2bs.
 source: smierc-maxa-immelmanna
-sourceHash: 6c1cbea5d4ad46d32a97da29fa88c616bb69befc
+sourceHash: d35f08dd9baf1ce6ba33452e43118218f4ab325f
 ---
 
-On the evening of 18 June 1916, over the area of [Lens](https://pl.wikipedia.org/wiki/Lens) in northern France, Lieutenant [Max Immelmann](https://pl.wikipedia.org/wiki/Max_Immelmann) was killed. Alongside [Oswald Boelcke](/postacie/oswald-boelcke), he was the most famous German fighter pilot. His [Fokker E.III](https://pl.wikipedia.org/wiki/Fokker_E.III) monoplane broke up in the air in a fight with British aircraft and crashed to the ground. Immelmann was 25 years old and had 15 confirmed victories (some works count 17).
+On the evening of 18 June 1916, over the area of [Lens](/miejsca/lens) in northern France, Lieutenant [Max Immelmann](https://pl.wikipedia.org/wiki/Max_Immelmann) was killed. Alongside [Oswald Boelcke](/postacie/oswald-boelcke), he was the most famous German fighter pilot. His [Fokker E.III](https://pl.wikipedia.org/wiki/Fokker_E.III) monoplane broke up in the air in a fight with British aircraft and crashed to the ground. Immelmann was 25 years old and had 15 confirmed victories (some works count 17).
 
 He came from Dresden, where he was born on 21 September 1890. Before the war he went through cadet school but left the army to study engineering; in 1914 he returned to the army and became a pilot. In the summer of 1915, in a flying unit near [Douai](/miejsca/douai), he received one of the first Fokker monoplanes with a gun firing through the propeller, and on 1 August he scored his first victory, opening the period the British called the ["Fokker Scourge"](/poczatek-plagi-fokkerow). The German press called him the "Eagle of Lille", and his rivalry with Boelcke over the number of victories became a public affair. In January 1916 the two of them were the first airmen to receive the [Pour le Mérite](/slownik/pour-le-merite). That spring, however, the Fokkers' ascendancy [came to an end](/koniec-plagi-fokkerow), and Immelmann was fighting ever better British aircraft.
 

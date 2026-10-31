@@ -9,7 +9,7 @@ brief:
   - "At Christmas 1914 soldiers on many sectors of the front stopped fighting of their own accord, and poets and writers such as Owen, Sassoon and Barbusse fixed the image of the trenches."
   - "Historians still argue over whether the soldiers were led by \"donkeys\" or whether the armies were painfully learning a new kind of war."
 source: zycie-w-okopach
-sourceHash: 7b35b07359d3e42ad516ea22930ab48736e9d15a
+sourceHash: d16cd9c53d1fffa587cab4f2840fb27f284fceb2
 ---
 
 The soldier of the First World War, especially on the Western Front, spent months in the trenches, but not without a break: units rotated through the front line every few days and spent the rest of their time in the support lines, in reserve and behind the lines. In the front line, life was shaped by dawn and dusk, work on the defences, mud, cold, rats and lice. Even in quiet weeks shellfire and snipers killed men, and the great battles cost hundreds of thousands of lives. The trenches became the symbol of the whole war, although in the east and in the Middle East the fighting was often very different.
@@ -26,7 +26,7 @@ A typical trench system had several parallel lines, front, support and reserve, 
 
 Narrow trenches called saps were pushed out from the front line towards the enemy. The men sheltered in dugouts. On the German side these were often concrete, several storeys deep, ventilated, and at least 4 metres below ground. Belts of barbed wire, in places more than 15 metres deep, ran in front of the first line. Wiring parties put them up at night, and wire combined with machine-gun fire stopped most of the attacks that failed.
 
-Between the opposing trenches lay [no man's land](https://pl.wikipedia.org/wiki/Ziemia_niczyja), a strip of ground held by neither side. Cratered by shells and crossed by wire, it was swept by fire from both sides. On the Western Front it was usually between 90 and 275 metres wide, but on [Vimy Ridge](/bitwy/bitwa-o-grzbiet-vimy) only 25 metres. At night patrols, wiring parties and raiders went out into it, and the wounded from failed attacks often lay there for hours because no one could reach them.
+Between the opposing trenches lay [no man's land](/slownik/ziemia-niczyja), a strip of ground held by neither side. Cratered by shells and crossed by wire, it was swept by fire from both sides. On the Western Front it was usually between 90 and 275 metres wide, but on [Vimy Ridge](/bitwy/bitwa-o-grzbiet-vimy) only 25 metres. At night patrols, wiring parties and raiders went out into it, and the wounded from failed attacks often lay there for hours because no one could reach them.
 
 Over time defence moved into depth. From the winter of 1916–17 the Germans held a zone of strongpoints in which the front line was only lightly manned and the main strength was kept further back for counter-attacks. In March 1917 they [abandoned their trenches](/poczatek-glownego-odwrotu-na-linie-hindenburga) along the front from near Arras to Soissons and withdrew to a new position, the Hindenburg Line.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-24 października 1915 roku prawe skrzydło bułgarskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) zajęło [Negotin](https://pl.wikipedia.org/wiki/Negotin), miasto w północno-wschodnim narożniku Serbii, w pobliżu ujścia [Timoku](https://pl.wikipedia.org/wiki/Timok) do [Dunaju](https://pl.wikipedia.org/wiki/Dunaj). Brytyjska chronologia wojny błędnie umieszcza Negotin nad Wardarem. Pomyliła go zapewne z [Negotino](https://pl.wikipedia.org/wiki/Negotino), miasteczkiem w dolinie Wardaru w Macedonii, w pobliżu którego właśnie w tych dniach stanęli Francuzi. Datę 24 października podaje austro-węgierska historia oficjalna. Brytyjska historia wojny wydawana przez Nelsona pisze, że Negotin padł dzień wcześniej.
+24 października 1915 roku prawe skrzydło bułgarskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) zajęło [Negotin](https://pl.wikipedia.org/wiki/Negotin), miasto w północno-wschodnim narożniku Serbii, w pobliżu ujścia [Timoku](https://pl.wikipedia.org/wiki/Timok) do [Dunaju](/miejsca/dunaj). Brytyjska chronologia wojny błędnie umieszcza Negotin nad Wardarem. Pomyliła go zapewne z [Negotino](https://pl.wikipedia.org/wiki/Negotino), miasteczkiem w dolinie Wardaru w Macedonii, w pobliżu którego właśnie w tych dniach stanęli Francuzi. Datę 24 października podaje austro-węgierska historia oficjalna. Brytyjska historia wojny wydawana przez Nelsona pisze, że Negotin padł dzień wcześniej.
 
 ## Walka o Krajinę
 

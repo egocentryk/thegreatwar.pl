@@ -2,10 +2,10 @@
 title: French retake Saint-Quentin
 summary: On 1 October 1918 Debeney's French First Army entered Saint-Quentin, abandoned by the Germans. The town, evacuated in 1917, lay in ruins.
 source: francuzi-odbijaja-saint-quentin
-sourceHash: c1f3df0f8f7492333f46865eba5a383d68a42282
+sourceHash: 242a4e1c08c2ef2fa1f73c21e4a293172a9f06cd
 ---
 
-On 1 October 1918 General Marie-Eugène Debeney's French First Army entered [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), an industrial town on the Somme in the Aisne department. The Germans had taken it on 28 August 1914, during the great Allied retreat, the day before the French Fifth Army struck at them [at Guise](/bitwy/bitwa-pod-guise) and Saint-Quentin. For more than four years it was one of the main centres of the German rear on the Western Front, and from the spring of 1917 it lay just behind the Hindenburg Line, on the front line itself.
+On 1 October 1918 General Marie-Eugène Debeney's French First Army entered [Saint-Quentin](/miejsca/saint-quentin), an industrial town on the Somme in the Aisne department. The Germans had taken it on 28 August 1914, during the great Allied retreat, the day before the French Fifth Army struck at them [at Guise](/bitwy/bitwa-pod-guise) and Saint-Quentin. For more than four years it was one of the main centres of the German rear on the Western Front, and from the spring of 1917 it lay just behind the Hindenburg Line, on the front line itself.
 
 The Germans left the town without a fight. On the night of 30 September to 1 October General [Oskar von Hutier](/postacie/oskar-von-hutier)'s 18th Army fell back to a new line east of Saint-Quentin, because to the north of it the British Fourth Army had broken through the Hindenburg Line on the St Quentin Canal, and the French XV Corps had crossed the canal and was outflanking the town from the north. General Charles Nollet's XXXVI Corps approached it from the front, and further corps of the First Army from the south. The British official history, citing the French one, says briefly that when the Germans withdrew, the French First Army closed up to the canal and entered Saint-Quentin. According to some French sources an advance party entered the town on 1 October, and the whole of Saint-Quentin was occupied on 2 October. Sources also differ as to which corps entered first: some credit XXXVI Corps, others XV Corps.
 

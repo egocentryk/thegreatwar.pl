@@ -9,10 +9,10 @@ sides:
     commanders: [Nikolai Ivanov, Dmitry Shcherbachev]
 result: Central Powers victory. The South Army took Stryj and reached the Dniester, but a Russian counter-offensive forced it to abandon its bridgehead on the river's north bank.
 source: bitwa-nad-stryjem
-sourceHash: 956263db3dbf99f3242905675ad1a4cd620d1d20
+sourceHash: 0831bdad12be74fba55eaaaf15d62b71b8738c0f
 ---
 
-The Battle of the Stryj was the south-easternmost link in the great Central Powers offensive in Galicia in the spring of 1915. While the German Eleventh Army and the Austro-Hungarian armies fought for Przemyśl, the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen) attacked the Russian [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) of General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow), which was defending the Carpathian foothills between [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz) and [Dolyna](https://pl.wikipedia.org/wiki/Dolina_(miasto)). After a week of failed assaults the Germans took [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)) on 31 May, and in the first days of June they reached the [Dniester](/miejsca/dniestr) and crossed it at [Żurawno](https://pl.wikipedia.org/wiki/Żurawno). The Russians replied with a powerful counter-offensive that pushed Linsingen's troops back across the river and for several days threatened Stryj itself.
+The Battle of the Stryj was the south-easternmost link in the great Central Powers offensive in Galicia in the spring of 1915. While the German Eleventh Army and the Austro-Hungarian armies fought for Przemyśl, the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen) attacked the Russian [Eleventh Army](/sily-zbrojne/11-armia-rosyjska) of General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow), which was defending the Carpathian foothills between [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz) and [Dolyna](https://pl.wikipedia.org/wiki/Dolina_(miasto)). After a week of failed assaults the Germans took [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)) on 31 May, and in the first days of June they reached the [Dniester](/miejsca/dniestr) and crossed it at [Żurawno](https://pl.wikipedia.org/wiki/Żurawno). The Russians replied with a powerful counter-offensive that pushed Linsingen's troops back across the river and for several days threatened Stryj itself.
 
 ## Name and dates
 

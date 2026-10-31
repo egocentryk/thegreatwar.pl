@@ -1,0 +1,221 @@
+{
+ "slug": "oise",
+ "paragraphs": [
+  {
+   "start": "Oise wypływa w belgijskim Hainaut, na południe od",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Oise_(river)",
+     "quote": "The Oise ( / w ɑː z / WAHZ ; French: [ waz ] ⓘ ; Picard : Oése ) is a river of Belgium and France , flowing for 341 km (212 mi) [ 1 ] from its source in the Belgian province of Hainaut , south of Chimay . It crosses the border with France after about 20 km (12 mi) , and flows into the Seine at Conflans-Sainte-Honorine , a north-western suburb of Paris . Its main tributary is the Aisne ."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aisne_(river)",
+     "quote": "It flows north and then west before joining the Oise near Compiègne ."
+    },
+    {
+     "file": "src/content/places/noyon.md",
+     "quote": "było przez dwa i pół roku najbliższym Paryża punktem niemieckiego frontu"
+    },
+    {
+     "url": "https://www.cirkwi.com/fr/point-interet/405270-1-l-histoire-du-front-de-l-oise-a-l-aisne",
+     "quote": "Fin août 1914, la Première Armée allemande envahit l’Oise et le Soissonnais."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-noyon-1918.md",
+     "quote": "Bitwa pod Noyon, toczona 25–26 marca 1918 roku, była walką na południowym skrzydle operacji Michael"
+    }
+   ]
+  },
+  {
+   "start": "W ostatnich dniach sierpnia 1914 roku nad Oise",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-guise.md",
+     "quote": "Po klęsce pod Charleroi 5 Armia od kilku dni cofała się na południe, osłaniając prawe skrzydło Brytyjskiego Korpusu Ekspedycyjnego."
+    },
+    {
+     "file": "src/content/timeline/1914/08/poczatek-bitwy-pod-guise.md",
+     "quote": "Już 28 sierpnia oddziały Bülowa atakowały przeprawy przez Oise pod Guise, a o świcie 29 sierpnia przekroczyły rzekę w kilku miejscach."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-guise.md",
+     "quote": "Późnym wieczorem 29 sierpnia Joffre zezwolił Lanrezacowi na odwrót i zniszczenie mostów na Oise."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-guise.md",
+     "quote": "Bülow zatrzymał się na półtorej doby."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-zajmuja-laon-la-fere-i-roye.md",
+     "quote": "La Fère, niewielka twierdza u ujścia Serre do Oise, znalazła się w rękach niemieckich najpóźniej 31 sierpnia"
+    },
+    {
+     "file": "src/content/postacie/alexander-von-kluck.md",
+     "quote": "Wieczorem 30 sierpnia Kluck postanowił skręcić na południowy wschód, w stronę [Noyon](/miejsca/noyon) i Compiègne, by odciąć odwrót 5 Armii."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-guise.md",
+     "quote": "Starły się w niej francuska 5 Armia generała Charles'a Lanrezaca i niemiecka 2 Armia generała [Karla von Bülowa](/postacie/karl-von-bulow)."
+    },
+    {
+     "file": "src/content/postacie/alexander-von-kluck.md",
+     "quote": "Bülow, zatroskany o własne prawe skrzydło, trzymał 1 Armię blisko siebie"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-guise.md",
+     "quote": "29–30 sierpnia 1914 francuska 5 Armia Lanrezaca kontratakowała armię Bülowa nad Oise."
+    }
+   ]
+  },
+  {
+   "start": "Po [bitwie nad Marną](/bitwy/pierwsza-bitwa-nad-marna) Niemcy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/poczatek-bitwy-nad-aisne.md",
+     "quote": "12 września 1914 roku wojska francuskie i [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), które od kilku dni ścigały armie niemieckie pokonane nad Marną, dotarły nad rzekę [Aisne](/miejsca/aisne), między Compiègne a Berry-au-Bac."
+    },
+    {
+     "file": "src/content/timeline/1914/09/francuzi-odzyskuja-noyon.md",
+     "quote": "Już od 17 września lewe skrzydło francuskiej 6 Armii nacierało wzdłuż Oise w stronę Noyon"
+    },
+    {
+     "file": "src/content/timeline/1914/09/poczatek-pierwszej-bitwy-w-pikardii.md",
+     "quote": "22 września 1914 roku na północ od Oise nowo utworzona francuska 2 Armia gen. Noëla de Castelnau ruszyła do natarcia, by obejść skrzydło Niemców."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-w-pikardii.md",
+     "quote": "Żadna ze stron nie obeszła skrzydła przeciwnika, a front ustalił się między Oise a Sommą."
+    },
+    {
+     "url": "https://www.cirkwi.com/fr/point-interet/405270-1-l-histoire-du-front-de-l-oise-a-l-aisne",
+     "quote": "le front se fixe dans la région pendant 30 mois, sur une ligne jalonnée par Roye, Lassigny, Ribécourt, Autrèches et Soissons."
+    }
+   ]
+  },
+  {
+   "start": "Przez trzydzieści miesięcy front przecinał rzekę",
+   "quotes": [
+    {
+     "url": "https://www.cirkwi.com/fr/point-interet/405270-1-l-histoire-du-front-de-l-oise-a-l-aisne",
+     "quote": "Les populations des localités proches des premières lignes sont évacuées, tandis que les Allemands occupent Noyon et le nord-est du département de l’Oise."
+    },
+    {
+     "file": "src/content/places/noyon.md",
+     "quote": "Gdy front zastygł, w okolicach Noyon tworzył wielki występ wbity w głąb Francji."
+    },
+    {
+     "file": "src/content/places/noyon.md",
+     "quote": "[Georges Clemenceau](/postacie/georges-clemenceau) aż do odejścia Niemców przypominał czytelnikom swojego dziennika krótkim zdaniem: „Niemcy są w Noyon”."
+    }
+   ]
+  },
+  {
+   "start": "Wiosną 1917 roku Francuzi szykowali wielkie natarcie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/poczatek-glownego-odwrotu-na-linie-hindenburga.md",
+     "quote": "Franchet d'Espérey szykował tu natarcie między Oise a Avre, pomocnicze wobec wielkiej ofensywy nad Aisne."
+    },
+    {
+     "file": "src/content/battles/1917/odwrot-na-linie-hindenburga.md",
+     "quote": "17 marca Australijczycy weszli do Bapaume, a 18 marca zajęto Péronne i Noyon."
+    },
+    {
+     "url": "https://www.cirkwi.com/fr/point-interet/405270-1-l-histoire-du-front-de-l-oise-a-l-aisne",
+     "quote": "Suite au repli allemand sur la ligne Hindenburg en mars 1917, l’Oise est libérée une première fois."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-zajmuja-laon-la-fere-i-roye.md",
+     "quote": "La Fère również pozostało w rękach niemieckich, a po wycofaniu się Niemców na Linię Zygfryda w 1917 roku znalazło się tuż przy linii frontu."
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "a w lutym 1918 roku brakujących żołnierzy zastąpiono reorganizacją"
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Jednocześnie na prośbę [Philippe'a Pétaina](/postacie/philippe-petain) Brytyjczycy przejęli od Francuzów długi odcinek frontu na południe od Saint-Quentin, aż po Barisis za Oise."
+    }
+   ]
+  },
+  {
+   "start": "21 marca 1918 roku od Oise po okolice Arras",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-pod-saint-quentin-1918.md",
+     "quote": "21 marca 1918 roku, po pięciogodzinnym ostrzale z ponad sześciu tysięcy dział, trzy armie niemieckie uderzyły we mgle na front brytyjski od Oise po okolice Arras."
+    },
+    {
+     "file": "src/content/timeline/1918/03/poczatek-operacji-michael.md",
+     "quote": "Do rana zgęstniała tak, że w dolinie Oise i nad Kanałem Saint-Quentin kolumny żołnierzy znikały z oczu po dziesięciu, dwunastu metrach."
+    },
+    {
+     "file": "src/content/timeline/1918/03/poczatek-operacji-michael.md",
+     "quote": "Niemcy przeszli tam przez Oise pod La Fère"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-noyon-1918.md",
+     "quote": "Niemiecka 18 Armia generała Oskara von Hutiera, która rozbiła prawe skrzydło brytyjskiej 5 Armii, parła między Oise a Sommą na południowy zachód"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-noyon-1918.md",
+     "quote": "25 marca Niemcy przełamali ich linię i wieczorem weszli do Noyon"
+    },
+    {
+     "url": "https://www.horizon14-18.eu/wa_files/Brochure_Grande-guerre.pdf",
+     "quote": "La bataille du Mont-Renaud (26 mars 30 avril 1918) : pendant près d’un mois, de nombreux combats se déroulent sur le Mont-Renaud, un des principaux remparts de la Vallée de l’Oise"
+    },
+    {
+     "file": "src/content/timeline/1918/03/konferencja-w-doullens.md",
+     "quote": "25 marca po południu Milner wziął udział w naradzie w kwaterze Pétaina w [Compiègne](https://pl.wikipedia.org/wiki/Compiègne) z prezydentem Francji [Raymondem Poincarém](/postacie/raymond-poincare), Clemenceau, Fochem i samym Pétainem."
+    }
+   ]
+  },
+  {
+   "start": "9 czerwca Hutier uderzył znowu, między Montdidier",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-nad-matz.md",
+     "quote": "9 czerwca 1918 roku niemiecka 18 Armia gen. Oskara von Hutiera uderzyła między Montdidier a Noyon na francuską 3 Armię gen. Humberta."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-nad-matz.md",
+     "quote": "a 10 czerwca wyszli nad Oise, około 10 kilometrów od Compiègne."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-nad-matz.md",
+     "quote": "Po pierwszym sukcesie zatrzymał ją kontratak Mangina."
+    }
+   ]
+  },
+  {
+   "start": "W sierpniu Francuzi przeszli do ofensywy.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/druga-bitwa-pod-noyon.md",
+     "quote": "17–29 sierpnia 1918 armie Mangina i Humberta uderzyły między Oise a Aisne, zepchnęły Niemców za Ailette i odbiły zrujnowane Noyon."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-pod-noyon.md",
+     "quote": "a 29 sierpnia Francuzi odbili Noyon"
+    },
+    {
+     "file": "src/content/timeline/1918/10/francuzi-odbijaja-laon.md",
+     "quote": "13 października 1918 francuska 10 Armia weszła do Laon, a 1 Armia do La Fère."
+    },
+    {
+     "file": "src/content/timeline/1918/10/francuzi-odbijaja-laon.md",
+     "quote": "Tego samego dnia 1 Armia generała Marie-Eugène'a Debeneya przekroczyła Oise i zajęła La Fère."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "11 listopada 1918 o świcie Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą."
+    },
+    {
+     "file": "src/content/places/aisne.md",
+     "quote": "do Oise pod Compiègne"
+    }
+   ]
+  }
+ ]
+}

@@ -2,10 +2,10 @@
 title: Russians retake Kermanshah
 summary: On 11 March 1917, the day Baghdad fell, Baratov's Russians entered Kermanshah. The Turkish rearguard fell back westwards, towards the border with Iraq.
 source: rosjanie-odbijaja-kermanszah
-sourceHash: 710a8a7e5039f8299c9d15a29da8f1f057f0c48a
+sourceHash: 0a7383f16b3f1b80089a5fe29d871f15c52d6cca
 ---
 
-On 11 March 1917 (26 February by the Julian calendar) the Russian troops of General Nikolai Baratov occupied [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), the main town of western Persia. The date of 11 March is given by the British chronology of the war. It is confirmed by F.J. Moberly's British official history of the Mesopotamian campaign, according to which the Ottoman 2nd Division, with irregulars and a cavalry brigade attached to it, fought the Russians near Kermanshah that day and in this way prevented them from entering the town earlier. The history of the Caucasian wars by W.E.D. Allen and Paul Muratoff states more generally that the Russian column reached Kermanshah "by 10 March". In London the capture of the town was learned of on 14 March from an unofficial dispatch.
+On 11 March 1917 (26 February by the Julian calendar) the Russian troops of General Nikolai Baratov occupied [Kermanshah](/miejsca/kermanszah), the main town of western Persia. The date of 11 March is given by the British chronology of the war. It is confirmed by F.J. Moberly's British official history of the Mesopotamian campaign, according to which the Ottoman 2nd Division, with irregulars and a cavalry brigade attached to it, fought the Russians near Kermanshah that day and in this way prevented them from entering the town earlier. The history of the Caucasian wars by W.E.D. Allen and Paul Muratoff states more generally that the Russian column reached Kermanshah "by 10 March". In London the capture of the town was learned of on 14 March from an unofficial dispatch.
 
 ## Through Kangavar and Bisotun
 

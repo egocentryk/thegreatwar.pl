@@ -2,7 +2,7 @@
 title: Lambros becomes prime minister of Greece
 summary: On 10 October 1916 the historian Spyridon Lambros took office in Athens. His cabinet of officials and professors at once faced a French admiral's ultimatum.
 source: lambros-premierem-grecji
-sourceHash: 6c441b40a3c3a7e1a4cd102734f84334ed74d457
+sourceHash: 9ccb20e64815f85f5a410b6ce497b1f3d5daee9b
 ---
 
 On 10 October 1916, or 27 September by the Julian calendar then used in Greece, the government of Professor [Spyridon Lambros](/postacie/spiridon-lambros) was sworn in in Athens. This date is given by Greek lists of governments and by the British chronology of the war. The sources date the earlier stages of the crisis differently: the British publicist George F. Abbott, relying on a dispatch from the London *Times* correspondent, writes that Lambros accepted the task of forming a government on 8 October, and the American annual *The American Year Book* records his appointment under the same day. The British official history of the Macedonian campaign (Falls) states that the new cabinet was formed on 9 October. The country had been without a government for several days, because [the cabinet of Nikolaos Kalogeropoulos](/dymisja-rzadu-kalogeropulosa), which the Entente powers refused to recognise, had resigned at the beginning of the month.
@@ -17,7 +17,7 @@ Such a government was a response to the demands of the powers themselves. Their 
 
 Neither the King's friends nor his opponents had any doubt whose will the new government would carry out. The British official history of the Macedonian campaign calls the Lambros cabinet a government "of no definite political colour" and evidently merely a mouthpiece of King [Constantine I](/postacie/konstantyn-i). The *Times* correspondent reported on 8 October that Lambros was regarded as a Germanophile and that it was not known whether the powers would recognise his cabinet. Abbott, who defended the King, retorted ironically that the professor was a universally respected scholar whose only fault was that he was not a Venizelist. The new prime minister announced that he would continue the policy of his predecessors: friendly relations with all the belligerents and benevolent neutrality towards the Entente.
 
-By then Greece already had two authorities. The day before, [Eleftherios Venizelos](/postacie/elefterios-wenizelos) had [arrived in Salonika](/wenizelos-w-salonikach) to head the National Defence government together with Admiral Kountouriotis and General Danglis. From then on the Athens government in practice ruled only so-called Old Greece, with the Peloponnese and the Ionian Islands, and the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa) turned into an open split of the state.
+By then Greece already had two authorities. The day before, [Eleftherios Venizelos](/postacie/elefterios-wenizelos) had [arrived in Salonika](/wenizelos-w-salonikach) to head the National Defence government together with Admiral Kountouriotis and General Danglis. From then on the Athens government in practice ruled only so-called Old Greece, with the Peloponnese and the Ionian Islands, and the [National Schism](/slownik/schizma-narodowa) turned into an open split of the state.
 
 ## The first day
 

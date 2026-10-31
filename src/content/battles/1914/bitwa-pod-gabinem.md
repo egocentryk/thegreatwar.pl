@@ -17,7 +17,7 @@ tags: [Prusy Wschodnie, Rosja, Niemcy]
 milestone: false
 ---
 
-[Bitwa pod Gąbinem](https://pl.wikipedia.org/wiki/Bitwa_pod_Gąbinem), znana w literaturze także pod niemiecką nazwą Gumbinnen, rozegrała się 20 sierpnia 1914 roku w [Prusach Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), w pobliżu miasta, które dziś nosi nazwę [Gusiew](https://pl.wikipedia.org/wiki/Gusiew). Była pierwszą wielką bitwą na froncie wschodnim i jedynym poważnym zwycięstwem Rosjan w kampanii wschodniopruskiej.
+[Bitwa pod Gąbinem](https://pl.wikipedia.org/wiki/Bitwa_pod_Gąbinem), znana w literaturze także pod niemiecką nazwą Gumbinnen, rozegrała się 20 sierpnia 1914 roku w [Prusach Wschodnich](/miejsca/prusy-wschodnie), w pobliżu miasta, które dziś nosi nazwę [Gusiew](https://pl.wikipedia.org/wiki/Gusiew). Była pierwszą wielką bitwą na froncie wschodnim i jedynym poważnym zwycięstwem Rosjan w kampanii wschodniopruskiej.
 
 ## Rosyjska ofensywa
 

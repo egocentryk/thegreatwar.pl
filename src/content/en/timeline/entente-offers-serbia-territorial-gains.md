@@ -2,10 +2,10 @@
 title: Entente offers Serbia territorial gains
 summary: On 15 August 1915 the envoys of Russia, Britain and France promised Serbia Bosnia, Syrmia, Bačka and part of Dalmatia in return for concessions in Macedonia.
 source: ententa-oferuje-serbii-nabytki-terytorialne
-sourceHash: 775f19dca617e6516308de0bf70388d773bff3f9
+sourceHash: 5745be057ce38675ed4758a549df703429794133
 ---
 
-On the evening of 15 August 1915 the envoys of Russia, Great Britain and France in [Niš](https://pl.wikipedia.org/wiki/Nisz), where the Serbian government had been based since the beginning of the war, handed Prime Minister [Nikola Pašić](/postacie/nikola-pasic) a note signed on behalf of their governments. In it the Entente powers listed specifically, for the first time, what Serbia would receive after a victorious war if it accepted their position on Macedonia. The fourth ally, Italy, did not take part in this step. The Italian envoy, Baron Nicola Squitti, did not yet have instructions, and the government in Rome was arguing with its allies over the content of the document. We know the course of events from his telegrams, later published in the collection of Italian diplomatic documents.
+On the evening of 15 August 1915 the envoys of Russia, Great Britain and France in [Niš](/miejsca/nisz), where the Serbian government had been based since the beginning of the war, handed Prime Minister [Nikola Pašić](/postacie/nikola-pasic) a note signed on behalf of their governments. In it the Entente powers listed specifically, for the first time, what Serbia would receive after a victorious war if it accepted their position on Macedonia. The fourth ally, Italy, did not take part in this step. The Italian envoy, Baron Nicola Squitti, did not yet have instructions, and the government in Rome was arguing with its allies over the content of the document. We know the course of events from his telegrams, later published in the collection of Italian diplomatic documents.
 
 ## Macedonia for Bulgaria
 

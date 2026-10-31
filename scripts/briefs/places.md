@@ -292,6 +292,71 @@ Notes:
 - Kurlandia: the German occupation from 1915 (Libau, Mitau), Ober Ost, the front on the Dvina, the Baltic Duchy plans of 1918.
 - Archangielsk: the White Sea port of Allied supplies, the Allied landing of August 1918 and the North Russia intervention, the withdrawal of 1919.
 
+## Batch 4 (2026-10-31)
+
+The last mixed batch of the Wikipedia-links work (expansion-plan.md C):
+the places still linked most often. Same form, tone and length as batch 3,
+same rules (quotes around `summary` and `brief` points; battle pages that
+tell part of the place's war are linked, not retold; link another new
+place only if its file exists when you run the check). Before writing,
+check that no battle or campaign page of ours already tells the place's
+whole war: then report it instead of writing.
+
+| grp | slug / English slug | name (PL / EN) | kind | in1914 / today | front | lat, lon | radiusKm | wikiTitles | author |
+|---|---|---|---|---|---|---|---|---|---|
+| W | `dover` / `dover` | Dover / Dover | miasto | Wielka Brytania / Wielka Brytania | Wojna na morzu | 51.13, 1.31 | 15 | Dover | Natalia |
+| W | `saint-quentin` / `saint-quentin` | Saint-Quentin / Saint-Quentin | miasto | Francja / Francja | Front zachodni | 49.85, 3.29 | 15 | Saint-Quentin | Łukasz Skowroń |
+| W | `lens` / `lens` | Lens / Lens | miasto | Francja / Francja | Front zachodni | 50.43, 2.83 | 12 | Lens | Natalia |
+| W | `oise` / `oise` | Oise / Oise | rzeka | Francja / Francja | Front zachodni | 49.5, 2.9 | 60 | Oise_(rzeka) | Łukasz Skowroń |
+| X | `lipawa` / `libau` | Lipawa / Libau | miasto | Rosja / Łotwa | Front wschodni | 56.51, 21.01 | 20 | Lipawa | Łukasz Skowroń |
+| X | `prusy-wschodnie` / `east-prussia` | Prusy Wschodnie / East Prussia | region | Niemcy / Polska i Rosja | Front wschodni | 54.0, 21.3 | 150 | Prusy_Wschodnie | Natalia |
+| X | `krolestwo-polskie` / `kingdom-of-poland` | Królestwo Polskie / Kingdom of Poland | region | Rosja / Polska | Front wschodni | 52.0, 20.5 | 250 | Królestwo_Polskie_(kongresowe) | Łukasz Skowroń |
+| X | `lublin` / `lublin` | Lublin / Lublin | miasto | Rosja / Polska | Front wschodni | 51.25, 22.57 | 20 | Lublin | Natalia |
+| Y | `czerniowce` / `czernowitz` | Czerniowce / Czernowitz | miasto | Austro-Węgry / Ukraina | Front wschodni | 48.29, 25.94 | 20 | Czerniowce | Natalia |
+| Y | `siedmiogrod` / `transylvania` | Siedmiogród / Transylvania | region | Austro-Węgry / Rumunia | Front bałkański | 46.5, 24.5 | 200 | Siedmiogród | Łukasz Skowroń |
+| Y | `dunaj` / `danube` | Dunaj / Danube | rzeka | (several) / (several) | Front bałkański | 44.3, 23.5 | 300 | Dunaj | Natalia |
+| Y | `nisz` / `nis` | Nisz / Niš | miasto | Serbia / Serbia | Front bałkański | 43.32, 21.9 | 20 | Nisz | Łukasz Skowroń |
+| Z | `kermanszah` / `kermanshah` | Kermanszah / Kermanshah | miasto | Persja / Iran | Bliski Wschód | 34.31, 47.07 | 40 | Kermanszah_(miasto) | Łukasz Skowroń |
+
+Notes:
+- Dover: the Dover Patrol, the Straits barrage and the cross-Channel
+  traffic, the raids on the Straits (1916–1917), Zeebrugge 1918 sailed
+  from here; link `/miejsca/ciesnina-kaletanska`, `/miejsca/zeebrugge`,
+  `/miejsca/ostenda`.
+- Saint-Quentin: occupied from 1914, the Hindenburg Line, the evacuated
+  town, 21 III 1918, the canal 1918; our battle pages
+  `bitwa-pod-saint-quentin-1918` and `bitwa-o-kanal-saint-quentin` (and the
+  1914 Guise/Saint-Quentin battle if we have it).
+- Lens: the mining basin in German hands, Loos 1915, Hill 70 1917, its
+  destruction and recapture 1918 (our 1 X and 3 X 1918 articles).
+- Oise: the river of 1914 (the retreat, the Aisne), Noyon salient,
+  1918 (the Michael offensive's southern flank, the Oise–Aisne battles);
+  link `/miejsca/noyon`, `/miejsca/aisne`.
+- Lipawa (Libau): the Russian naval base, the German capture of May 1915,
+  the base for the Baltic and Riga 1917, 1918–1919 in a sentence.
+- Prusy Wschodnie: the Russian invasion of 1914 (Gumbinnen, Tannenberg,
+  the Masurian Lakes), the Winter Battle 1915, the refugees and the
+  rebuilding; the plebiscite of 1920 in a sentence.
+- Królestwo Polskie: the Russian partition at the outbreak, the 1914–1915
+  fighting across it, the evacuation and bieżeństwo of 1915, the German and
+  Austro-Hungarian occupation zones, 5 XI 1916; link
+  `/tematy/wojna-na-ziemiach-polskich` and the glossary.
+- Lublin: the 1914 battles near it, the Austro-Hungarian occupation from
+  1915 (the General Government's seat), the Lublin government of 7 XI 1918
+  (Daszyński).
+- Czerniowce: the Bukovina capital that changed hands repeatedly
+  (1914–1917), Brusilov 1916, 1918 and the Romanian takeover.
+- Siedmiogród: Romania's war aim, the 1916 invasion and Falkenhayn's
+  counter-offensive (`bitwa-o-siedmiogrod`), Alba Iulia 1 XII 1918.
+- Dunaj: the river as a front (Belgrade 1914–1915, Mackensen's crossing,
+  Tutrakan, Svishtov 1916), a supply route for the Central Powers, the
+  Danube flotillas.
+- Nisz: Serbia's wartime capital 1914–1915 (the Niš Declaration), the
+  Bulgarian capture of 1915, the 1918 liberation.
+- Kermanszah: the 1915–1916 fighting in western Persia, the Ottoman and
+  German presence, the Russian advance, Dunsterforce 1918; link
+  `/kraje/persja` and our 24 III 1918 article.
+
 ## Report (short)
 
 Per page: paths, words, sources, internal links, conflicts with our pages

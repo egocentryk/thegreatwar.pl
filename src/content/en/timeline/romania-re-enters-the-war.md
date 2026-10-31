@@ -2,10 +2,10 @@
 title: Romania re-enters the war
 summary: On 10 November 1918 French battalions crossed the Danube at Ruse, and King Ferdinand called on the Romanians to take up arms against the Germans again.
 source: rumunia-wraca-do-wojny
-sourceHash: fae5e33f37978fd96a971eefbc240bb8a99e40e6
+sourceHash: 8c89f1172a01d4d9972e81038053c09e713e8c97
 ---
 
-On 10 November 1918, the day before the end of the war in the west, Romania re-entered it on the side of the Entente. That same day the first French units crossed the [Danube](https://pl.wikipedia.org/wiki/Dunaj) from Bulgaria to the Romanian bank. Half a year earlier Alexandru Marghiloman's government had signed the [Treaty of Bucharest](/pokoj-w-bukareszcie) with the Central Powers, but King [Ferdinand I](/postacie/ferdynand-i-rumunski) had never ratified it. Romania still used the Julian calendar at the time, so in Romanian documents the events of that day are dated 28 October.
+On 10 November 1918, the day before the end of the war in the west, Romania re-entered it on the side of the Entente. That same day the first French units crossed the [Danube](/miejsca/dunaj) from Bulgaria to the Romanian bank. Half a year earlier Alexandru Marghiloman's government had signed the [Treaty of Bucharest](/pokoj-w-bukareszcie) with the Central Powers, but King [Ferdinand I](/postacie/ferdynand-i-rumunski) had never ratified it. Romania still used the Julian calendar at the time, so in Romanian documents the events of that day are dated 28 October.
 
 ## The Army of the Danube
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Anton Saltza]
 result: Austro-Hungarian victory. The Russian 4th Army withdrew towards Lublin, and its commander was dismissed.
 source: bitwa-pod-krasnikiem
-sourceHash: f0a01067f114a4d158011973b9c24dcd7e807f84
+sourceHash: b050c144e85200b5a84f0a7775ee8d3245589c96
 ---
 
-The [Battle of Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) was fought on 23–25 August 1914 in the southern Lublin region, on land then belonging to the Kingdom of Poland under Russian rule. The Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl) clashed there with the Russian Fourth Army of General Anton Saltza and after three days of fighting forced it to retreat towards [Lublin](https://pl.wikipedia.org/wiki/Lublin). It was the first engagement of the great [Battle of Galicia](/bitwy/bitwa-galicyjska) and the first victory of the Austro-Hungarian army in the First World War. It was fought on Polish soil, and Poles served in the ranks of both armies.
+The [Battle of Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) was fought on 23–25 August 1914 in the southern Lublin region, on land then belonging to the Kingdom of Poland under Russian rule. The Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl) clashed there with the Russian Fourth Army of General Anton Saltza and after three days of fighting forced it to retreat towards [Lublin](/miejsca/lublin). It was the first engagement of the great [Battle of Galicia](/bitwy/bitwa-galicyjska) and the first victory of the Austro-Hungarian army in the First World War. It was fought on Polish soil, and Poles served in the ranks of both armies.
 
 ## Name and dates
 

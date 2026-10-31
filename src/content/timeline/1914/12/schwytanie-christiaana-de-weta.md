@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 grudnia 1914 roku na farmie Waterbury, niedaleko [Vryburga](https://pl.wikipedia.org/wiki/Vryburg) w północnej części Prowincji Przylądkowej, wojska rządowe [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) otoczyły niewielki oddział rebeliantów. Jego dowódca, generał [Christiaan de Wet](https://pl.wikipedia.org/wiki/Christiaan_Rudolf_de_Wet), poddał się bez walki razem z około pięćdziesięcioma towarzyszami. Niektóre źródła podają datę 30 listopada, a jedno nawet 2 grudnia. Najczęściej przyjmuje się 1 grudnia.
+1 grudnia 1914 roku na farmie Waterbury, niedaleko [Vryburga](https://pl.wikipedia.org/wiki/Vryburg) w północnej części Prowincji Przylądkowej, wojska rządowe [Związku Południowej Afryki](/kraje/zwiazek-poludniowej-afryki) otoczyły niewielki oddział rebeliantów. Jego dowódca, generał [Christiaan de Wet](https://pl.wikipedia.org/wiki/Christiaan_Rudolf_de_Wet), poddał się bez walki razem z około pięćdziesięcioma towarzyszami. Niektóre źródła podają datę 30 listopada, a jedno nawet 2 grudnia. Najczęściej przyjmuje się 1 grudnia.
 
 ## Legenda wojny burskiej
 

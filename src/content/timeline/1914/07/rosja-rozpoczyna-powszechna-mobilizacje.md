@@ -15,7 +15,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Chronologie_der_Julikrise_1914"
 ---
 
-31 lipca 1914 roku, według obowiązującego w Rosji [kalendarza juliańskiego](/slownik/kalendarz-julianski) 18 lipca, był pierwszym dniem powszechnej [mobilizacji](https://pl.wikipedia.org/wiki/Mobilizacja) armii i floty [Imperium Rosyjskiego](/kraje/rosja). Car [Mikołaj II](/postacie/mikolaj-ii) zgodził się na nią [poprzedniego dnia](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) w Peterhofie, a telegramy rozesłano wieczorem do wszystkich okręgów wojskowych. Rano na ulicach Petersburga rozlepiono obwieszczenia o mobilizacji. Austro-węgierski ambasador hrabia Friedrich Szapáry donosił do Wiednia, że miasto przyjmuje rozkazy mobilizacyjne „w ponurym milczeniu”.
+31 lipca 1914 roku, według obowiązującego w Rosji [kalendarza juliańskiego](/slownik/kalendarz-julianski) 18 lipca, był pierwszym dniem powszechnej [mobilizacji](/slownik/mobilizacja) armii i floty [Imperium Rosyjskiego](/kraje/rosja). Car [Mikołaj II](/postacie/mikolaj-ii) zgodził się na nią [poprzedniego dnia](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) w Peterhofie, a telegramy rozesłano wieczorem do wszystkich okręgów wojskowych. Rano na ulicach Petersburga rozlepiono obwieszczenia o mobilizacji. Austro-węgierski ambasador hrabia Friedrich Szapáry donosił do Wiednia, że miasto przyjmuje rozkazy mobilizacyjne „w ponurym milczeniu”.
 
 ## Dlaczego cała armia
 
@@ -33,4 +33,4 @@ Po południu car i cesarz [Wilhelm II](/postacie/wilhelm-ii) wymienili telegramy
 
 W Berlinie nie dano tym zapewnieniom wiary. Jeszcze tego dnia Niemcy ogłosiły stan zagrożenia wojennego, a do Pourtalèsa wysłano ultimatum. Ambasador otrzymał je o 23:10 i o północy przedstawił Sazonowowi. Minister znów powołał się na techniczną niemożliwość wstrzymania mobilizacji i na słowo cara. Na pytanie, czy może zagwarantować, że Rosja zachowa pokój także wtedy, gdy porozumienie z Wiedniem nie zostanie osiągnięte, nie potrafił odpowiedzieć twierdząco.
 
-Mobilizacja ruszyła zgodnie z planem. W chwili, gdy Niemcy rozpoczynały własną, rosyjska machina wojskowa pracowała już od dwóch dni. W połowie sierpnia wojska rosyjskie wkroczyły do [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie).
+Mobilizacja ruszyła zgodnie z planem. W chwili, gdy Niemcy rozpoczynały własną, rosyjska machina wojskowa pracowała już od dwóch dni. W połowie sierpnia wojska rosyjskie wkroczyły do [Prus Wschodnich](/miejsca/prusy-wschodnie).

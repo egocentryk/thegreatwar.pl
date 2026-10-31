@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Stomfa, now Stupava (Hungary, now Slovakia)
 deathPlace: Vienna
 source: istvan-burian
-sourceHash: 7385e833360ab417d68664124d19ddb538ceeb26
+sourceHash: a70b6824ff352080f7397893640421eed638f7f7
 ---
 
 Baron István Burián, in German Stephan Burián von Rajecz, directed the diplomacy of the Habsburg monarchy twice: from January 1915 to December 1916 and from April to October 1918. He was a professional diplomat of the old school, an expert on the Balkans and the closest confidant of the Hungarian Prime Minister [István Tisza](/postacie/istvan-tisza). In his first term he failed to stop Italy and Romania from joining the Entente, but he won Bulgaria over to the Central Powers and pressed for the union of the Kingdom of Poland with the monarchy. In his second, as Austria-Hungary was already falling apart, he tried in vain to bring about peace. Contemporaries and historians reproached him for pedantry and inflexibility, though no one questioned his integrity or his knowledge of his craft.
@@ -27,7 +27,7 @@ Burián argued that Italian demands for compensation under the Triple Alliance t
 
 ## Bulgaria, Poland and Romania
 
-Burián had greater success in the Balkans, which he knew best. In the autumn of 1915 Bulgaria [allied itself with the Central Powers](/traktat-sojuszniczy-w-sofii) and joined the combined attack on Serbia, which opened the land route to Turkey. At the same time, however, Burián, in line with Tisza, did not want to promise the Bulgarians territory too generously, and he rejected any concessions to Romania in Hungarian [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród). Romania, which no offer from Vienna satisfied, [declared war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom) in August 1916.
+Burián had greater success in the Balkans, which he knew best. In the autumn of 1915 Bulgaria [allied itself with the Central Powers](/traktat-sojuszniczy-w-sofii) and joined the combined attack on Serbia, which opened the land route to Turkey. At the same time, however, Burián, in line with Tisza, did not want to promise the Bulgarians territory too generously, and he rejected any concessions to Romania in Hungarian [Transylvania](/miejsca/siedmiogrod). Romania, which no offer from Vienna satisfied, [declared war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom) in August 1916.
 
 Burián's main war aim was the so-called Austro-Polish solution, that is, the union of the Kingdom of Poland with the Habsburg monarchy. After the [capture of Warsaw](/niemcy-zajmuja-warszawe) he obtained in Berlin in August 1915 the preliminary consent of the Germans to such a plan. In his talks with Bethmann he presented Poland as a burden the monarchy was taking on out of necessity rather than as a prize. The Germans soon withdrew their consent, and in the summer of 1916 the two politicians agreed only on the principle of creating a separate Kingdom of Poland. It was proclaimed by the [Act of 5 November](/akt-5-listopada) 1916, brought forward at the demand of [Erich Ludendorff](/postacie/erich-ludendorff).
 

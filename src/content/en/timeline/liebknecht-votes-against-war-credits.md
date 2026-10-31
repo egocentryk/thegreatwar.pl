@@ -2,7 +2,7 @@
 title: Liebknecht votes against war credits
 summary: On 2 December 1914 the Reichstag passed another 5 billion marks of war credits. The only deputy to vote against was the Social Democrat Karl Liebknecht.
 source: liebknecht-glosuje-przeciw-kredytom-wojennym
-sourceHash: b82823419fb97be726bbbe9c86fecff998682f78
+sourceHash: f34bf7922b0b500e129dfe28e674c40359757ab5
 ---
 
 On 2 December 1914 the German parliament, the Reichstag, voted on the second war credits bill. The government of Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) demanded a further five billion marks to wage the war. The vote was taken by rising from one's seat. Deputies of all parliamentary groups stood up, with one exception. The Social Democrat [Karl Liebknecht](https://pl.wikipedia.org/wiki/Karl_Liebknecht) remained in his seat. The President of the Reichstag, Johannes Kaempf, declared that the bill had been passed unanimously, with the exception of one deputy.
@@ -23,4 +23,4 @@ He gave the reasons for his decision in a written statement. He wrote that this 
 
 The vote of 2 December was the first open breach in the German Burgfrieden. Liebknecht became a symbol of the anti-war left throughout Europe. The authorities quickly took steps to silence him. In February 1915 he was called up into the army as a soldier in a labour battalion, which under military law restricted his political activity, although he could still sit in the Reichstag. In March 1915 a second Social Democrat, Otto Rühle, voted against the credits together with him.
 
-Around Liebknecht and [Rosa Luxemburg](https://pl.wikipedia.org/wiki/Róża_Luksemburg) gathered the radical left, from which the [Spartacus League](https://pl.wikipedia.org/wiki/Związek_Spartakusa) later grew. The dispute over war credits eventually led to a split in the SPD and the founding in 1917 of the [Independent Social Democratic Party of Germany](https://pl.wikipedia.org/wiki/Niezależna_Socjaldemokratyczna_Partia_Niemiec). Liebknecht himself was arrested on 1 May 1916 during an anti-war demonstration in Berlin and sentenced to penal servitude, from which he was released only in October 1918. In January 1919 he was murdered in Berlin together with Rosa Luxemburg.
+Around Liebknecht and [Rosa Luxemburg](https://pl.wikipedia.org/wiki/Róża_Luksemburg) gathered the radical left, from which the [Spartacus League](/slownik/zwiazek-spartakusa) later grew. The dispute over war credits eventually led to a split in the SPD and the founding in 1917 of the [Independent Social Democratic Party of Germany](https://pl.wikipedia.org/wiki/Niezależna_Socjaldemokratyczna_Partia_Niemiec). Liebknecht himself was arrested on 1 May 1916 during an anti-war demonstration in Berlin and sentenced to penal servitude, from which he was released only in October 1918. In January 1919 he was murdered in Berlin together with Rosa Luxemburg.

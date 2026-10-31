@@ -1,0 +1,136 @@
+[
+ {
+  "slug": "rada-panstwa-austria",
+  "slugEn": "austrian-reichsrat",
+  "term": "Rada Państwa (Austria)",
+  "termEn": "Imperial Council (Austria)",
+  "category": "polityka",
+  "pattern": "\\b(?<!rosyjskiej )(?<!rosyjskiej \\[)Rad(?:a|y|zie|ę|ą) Państwa\\b|\\bReichsrat\\w*",
+  "patternEn": "\\bImperial Council\\b|\\bReichsrat\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Parlament austriackiej połowy monarchii habsburskiej w latach 1861–1918, z Izbą Panów i wybieraną Izbą Posłów. Odroczony w marcu 1914 roku, nie obradował przez trzy lata wojny.",
+  "shortEn": "The parliament of the Austrian half of the Habsburg monarchy in 1861–1918, with a House of Lords and an elected House of Deputies. Adjourned in March 1914, it did not sit for three years of the war.",
+  "long": [
+   "Rada Państwa (Reichsrat) powstała w 1861 roku, a od ugody z Węgrami w 1867 roku stanowiła prawo tylko dla krajów austriackich, od Czech i Galicji po Dalmację. Członków Izby Panów powoływał cesarz albo zasiadali w niej z urodzenia, a do Izby Posłów od reformy z 1906 roku wybierali wszyscy dorośli mężczyźni; liczyła 516 posłów. Spory narodowe i obstrukcja często paraliżowały obrady. Polscy posłowie z Galicji tworzyli Koło Polskie, długo pewne oparcie kolejnych rządów.",
+   "16 marca 1914 roku na wniosek premiera Karla Stürgkha cesarz odroczył sesję, a rząd przez całą wojnę wydawał rozporządzenia na podstawie paragrafu 14 konstytucji. Parlament zebrał się ponownie dopiero 30 maja 1917 roku i stał się trybuną narodów: Czesi, Słowianie południowi i Polacy ogłosili tam swoje żądania. W lipcu 1918 roku Koło Polskie obaliło rząd Seidlera. 12 listopada 1918 roku Rada Państwa zebrała się ostatni raz."
+  ],
+  "longEn": [
+   "The Imperial Council (Reichsrat) was created in 1861, and after the Compromise with Hungary in 1867 it legislated only for the Austrian lands, from Bohemia and Galicia to Dalmatia. Members of the House of Lords were appointed by the emperor or sat by birth, and from the reform of 1906 the House of Deputies was elected by all adult men; it had 516 deputies. National disputes and obstruction often paralysed its sittings. The Polish deputies from Galicia formed the Polish Club, long a reliable support of successive governments.",
+   "On 16 March 1914, at the request of Prime Minister Karl Stürgkh, the emperor adjourned the session, and throughout the war the government issued decrees under paragraph 14 of the constitution. Parliament met again only on 30 May 1917 and became a platform for the nations: the Czechs, the South Slavs and the Poles proclaimed their demands there. In July 1918 the Polish Club brought down the Seidler government. On 12 November 1918 the Imperial Council met for the last time."
+  ],
+  "see": [
+   "seidler-premierem-austrii",
+   "zabojstwo-premiera-stuergkha",
+   "rezolucja-kola-polskiego",
+   "rewolucja-w-wiedniu-i-budapeszcie",
+   "postacie/ignacy-daszynski"
+  ],
+  "exclude": [
+   "bielajew-ministrem-wojny-rosji",
+   "bitwy/drugie-oblezenie-przemysla",
+   "boris-sturmer-premierem-rosji",
+   "czerwony-terror",
+   "dymisja-suchomlinowa",
+   "golicyn-premierem-rosji",
+   "nikola-pasic-w-rosji",
+   "pokrowski-ministrem-spraw-zagranicznych-rosji",
+   "postacie/aleksandr-guczkow",
+   "postacie/boris-sturmer",
+   "postacie/husajn-ibn-ali",
+   "postacie/nikolaj-iwanow",
+   "postacie/nikolaj-ruzski",
+   "postacie/pawel-plehwe",
+   "postacie/pawiel-milukow",
+   "rewolucja-lutowa",
+   "szuwajew-zastepuje-poliwanowa",
+   "upadek-rzadu-golicyna",
+   "ustawa-o-samorzadzie-miejskim-w-krolestwie-polskim"
+  ],
+  "sources": [
+   "https://ww1.habsburger.net/en/node/5816",
+   "https://www.parlament.gv.at/erleben/parlamentsgebaeude/geschichte",
+   "https://en.wikipedia.org/wiki/Imperial_Council_(Austria)"
+  ]
+ },
+ {
+  "slug": "konstytuanta",
+  "slugEn": "russian-constituent-assembly",
+  "term": "Wszechrosyjskie Zgromadzenie Ustawodawcze",
+  "termEn": "All-Russian Constituent Assembly",
+  "category": "rewolucja",
+  "pattern": "\\bWszechrosyjsk\\w* Zgromadzeni\\w* Ustawodawcz\\w*|\\b(?<!Estońskie )(?<!Estońskiego )(?<!ukraińskiego )Zgromadzeni\\w* Ustawodawcz\\w*|\\b(?<!Ukraińskiej )Konstytuant\\w*|\\b(?:rosyjsk|rozpędzon|rozwiązan|deputowan)\\w* (?:\\[?przez bolszewików\\]? )?konstytuant\\w*",
+  "patternEn": "\\b(?<!Estonian )(?<!Ukrainian )(?<!Romanian )Constituent Assembly",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Rosyjski parlament, zwany Konstytuantą, wybrany jesienią 1917 roku, by nadał państwu ustrój. Zebrał się tylko raz, 18 stycznia 1918 roku, i następnego dnia bolszewicy go rozwiązali.",
+  "shortEn": "The Russian parliament known as the Constituent, elected in the autumn of 1917 to give the state its constitution. It met only once, on 18 January 1918, and the Bolsheviks dissolved it the next day.",
+  "long": [
+   "Zwołania Konstytuanty od dawna żądała rosyjska opozycja, a po rewolucji lutowej Rząd Tymczasowy miał rządzić tylko do jej zebrania się. Wybory, pierwsze powszechne w dziejach Rosji, zaczęły się 25 listopada 1917 roku (12 listopada według kalendarza juliańskiego), już po przewrocie bolszewickim. Eserowcy dostali około 38 procent głosów, bolszewicy około 23–24 procent, kadeci mniej niż 5 procent. Wyznaczone na 11 grudnia otwarcie nie doszło do skutku.",
+   "Zgromadzenie zebrało się w Pałacu Taurydzkim w Piotrogrodzie 18 stycznia 1918 roku (5 stycznia st. st.) i wybrało na przewodniczącego eserowca Wiktora Czernowa. Gdy odmówiło uznania władzy rad, bolszewicy wyszli z sali, a nad ranem warta przerwała obrady. 19 stycznia władza radziecka rozwiązała Konstytuantę, a jej miejsce zajął III Wszechrosyjski Zjazd Rad. Część posłów utworzyła latem 1918 roku w Samarze antybolszewicki Komucz."
+  ],
+  "longEn": [
+   "The Russian opposition had long demanded a Constituent Assembly, and after the February Revolution the Provisional Government was to rule only until it met. The elections, the first universal ones in Russia's history, began on 25 November 1917 (12 November in the Julian calendar), after the Bolshevik coup. The Socialist Revolutionaries won about 38 per cent of the vote, the Bolsheviks about 23–24 per cent and the Kadets less than 5 per cent. The opening set for 11 December did not take place.",
+   "The Assembly met in the Tauride Palace in Petrograd on 18 January 1918 (5 January Old Style) and elected the Socialist Revolutionary Viktor Chernov as its chairman. When it refused to recognise Soviet power, the Bolsheviks walked out, and towards morning the guard broke up the session. On 19 January the Soviet government dissolved the Constituent, and the Third All-Russian Congress of Soviets took its place. In the summer of 1918 some of its deputies formed the anti-Bolshevik Komuch in Samara."
+  ],
+  "see": [
+   "otwarcie-konstytuanty",
+   "wybory-do-konstytuanty",
+   "niedoszle-otwarcie-konstytuanty",
+   "rozpedzenie-konstytuanty",
+   "postacie/wiktor-czernow",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "exclude": [
+   "bezwarunkowa-unia-besarabii",
+   "gwatemala-wypowiada-wojne-niemcom",
+   "iv-uniwersal",
+   "lotewska-tymczasowa-rada-narodowa-za-niepodlegloscia",
+   "niepodleglosc-azerbejdzanu",
+   "niepodleglosc-gruzji",
+   "sidonio-pais-prezydentem",
+   "kostaryka-zrywa-stosunki-z-niemcami",
+   "pokoj-w-tartu",
+   "postacie/sidonio-pais",
+   "postacie/vittorio-emanuele-orlando"
+  ],
+  "sources": [
+   "https://www.marxists.org/archive/lenin/works/1918/jan/06a.htm",
+   "https://korolevperevody.co.uk/uch-sob-reaction.html",
+   "https://en.wikipedia.org/wiki/Russian_Constituent_Assembly"
+  ]
+ },
+ {
+  "slug": "order-wybitnej-sluzby",
+  "slugEn": "distinguished-service-order",
+  "term": "Order Wybitnej Służby",
+  "termEn": "Distinguished Service Order",
+  "category": "wojsko",
+  "pattern": "Order\\w* Wybitnej Służby|\\bDSO\\b|Distinguished Service Order",
+  "patternEn": "Distinguished Service Order|\\bDSO\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Brytyjski order wojskowy dla oficerów, ustanowiony w 1886 roku, za zasługi w walce, zwłaszcza w dowodzeniu. Prestiżem ustępował tylko Krzyżowi Wiktorii; w I wojnie przyznano go około 9 tysięcy razy.",
+  "shortEn": "A British military order for officers, instituted in 1886, for distinguished service in action, especially in command. Second only to the Victoria Cross in prestige; about 9,000 were awarded in the First World War.",
+  "long": [
+   "Order Wybitnej Służby (Distinguished Service Order, DSO) ustanowiła królowa Wiktoria w 1886 roku. Przysługiwał tylko oficerom, zwykle dowódcom od majora lub podpułkownika wzwyż; młodszy oficer dostawał go za męstwo niewiele mniejsze od zasługującego na Krzyż Wiktorii. Warunkiem było wcześniejsze wymienienie w meldunkach. Odznaką był biały emaliowany krzyż na czerwonej wstążce z niebieskimi brzegami, a od 1916 roku kolejne nadania oznaczano okuciem.",
+   "W I wojnie światowej przyznano go według różnych zestawień od niespełna 9000 do 9881 razy, licząc do 1919 roku. W pierwszych latach trafiał też do oficerów sztabowych spoza linii ognia, więc od 1 stycznia 1917 roku miano go dawać tylko za służbę pod ogniem. Dostawali go dowódcy batalionów i okrętów, a także młodzi lotnicy, jak Frederick Sowrey i Wulstan Tempest, którzy w 1916 roku zestrzelili nad Anglią niemieckie sterowce."
+  ],
+  "longEn": [
+   "The Distinguished Service Order (DSO) was instituted by Queen Victoria in 1886. It was for officers only, usually commanders from major or lieutenant-colonel upwards; a junior officer received it for gallantry just short of deserving the Victoria Cross. A prior mention in despatches was required. The insignia was a white enamelled cross on a red ribbon with blue edges, and from 1916 further awards were marked by a bar.",
+   "In the First World War it was awarded, depending on the count, from just under 9,000 to 9,881 times, counting up to 1919. In the early years it also went to staff officers away from the firing line, so from 1 January 1917 it was to be given only for service under fire. It went to battalion and ship commanders, and also to young airmen such as Frederick Sowrey and Wulstan Tempest, who shot down German airships over England in 1916."
+  ],
+  "see": [
+   "nalot-na-friedrichshafen",
+   "zestrzelenie-sterowca-l-31",
+   "zatoniecie-otranto",
+   "koniec-dzialan-o-at-tafile",
+   "postacie/thomas-edward-lawrence"
+  ],
+  "sources": [
+   "https://www.veterans.gc.ca/en/node/115805",
+   "https://footballandthefirstworldwar.org/?p=22993",
+   "https://en.wikipedia.org/wiki/Distinguished_Service_Order"
+  ]
+ }
+]

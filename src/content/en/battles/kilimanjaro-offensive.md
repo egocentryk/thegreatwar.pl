@@ -9,7 +9,7 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Georg Kraut]
 result: British victory. The Germans lost the Kilimanjaro area with Taveta and Moshi and fell back south along the railway, but their forces were not destroyed.
 source: ofensywa-kilimandzarska
-sourceHash: 2a453942db597467a003c93495b1d5c3de8f88d8
+sourceHash: 0fa774eeab3573e3f3286a8a776c87c1e05797b1
 brief:
   - "The Kilimanjaro offensive, from 5 to 21 March 1916, was Lieutenant-General Jan Smuts's first major operation in East Africa and the first serious British advance into German East Africa since the start of the war."
   - "The Kilimanjaro area, with its plantations and the railway to Moshi, was the most important point of the front, and the Germans had held the border town of Taveta since August 1914. Smuts wanted to strike before the rains."
@@ -30,7 +30,7 @@ We take the dates as 5–21 March 1916. On the morning of 5 March the 1st Divisi
 
 From the first weeks of the war the Kilimanjaro area was the most important point of the front in East Africa. In August 1914 the Germans [occupied the border town of Taveta](/niemcy-zajmuja-tavete) in [British East Africa](/bitwy/kampania-wschodnioafrykanska), and from the area around the mountain they launched raids on the British railway from Mombasa to Nairobi. On the fertile slopes of Kilimanjaro and the neighbouring [Mount Meru](https://pl.wikipedia.org/wiki/Meru_(wulkan)) lay German plantations and settlements that fed the army. The Usambara Railway ran to Moshi from the port of Tanga. The British attempts of November 1914, the landing [at Tanga](/bitwy/bitwa-pod-tanga) and the [attack at Longido](/potyczka-pod-longido), ended in defeat, and throughout 1915 the British on this front were mostly on the defensive.
 
-The situation changed in the winter of 1915–16, when, after the end of the campaign in German South West Africa, reinforcements from the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) began to arrive in East Africa. On 12 February 1916 the troops of General Michael Tighe unsuccessfully attacked the German position on Salaita Hill, which covered the road to Taveta. A week later [Smuts took command](/smuts-dowodca-w-afryce-wschodniej). He decided to strike before the rainy season, which in this area usually began at the end of March, and on 25 February he received the government's approval in London.
+The situation changed in the winter of 1915–16, when, after the end of the campaign in German South West Africa, reinforcements from the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) began to arrive in East Africa. On 12 February 1916 the troops of General Michael Tighe unsuccessfully attacked the German position on Salaita Hill, which covered the road to Taveta. A week later [Smuts took command](/smuts-dowodca-w-afryce-wschodniej). He decided to strike before the rainy season, which in this area usually began at the end of March, and on 25 February he received the government's approval in London.
 
 ## Forces and plan
 

@@ -2,10 +2,10 @@
 title: Bulgarians take Negotin
 summary: On 24 October 1915 the Bulgarians took Negotin on the lower Timok. Two days later they met the Austrians on the Danube, opening the river route to Turkey.
 source: bulgarzy-zajmuja-negotin
-sourceHash: f22a1a831376f0adb0abdd986112a0cdfc9e6a16
+sourceHash: 221198e5b0e99d932c555fa130716afea613f37e
 ---
 
-On 24 October 1915 the right wing of the Bulgarian [1st Army](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) took [Negotin](https://pl.wikipedia.org/wiki/Negotin), a town in the north-eastern corner of Serbia, near the mouth of the [Timok](https://pl.wikipedia.org/wiki/Timok) where it flows into the [Danube](https://pl.wikipedia.org/wiki/Dunaj). The British chronology of the war wrongly places Negotin on the Vardar. It probably confused it with [Negotino](https://pl.wikipedia.org/wiki/Negotino), a small town in the Vardar valley in Macedonia, near which the French had taken up positions in those very days. The date of 24 October is given by the Austro-Hungarian official history. The British history of the war published by Nelson writes that Negotin fell a day earlier.
+On 24 October 1915 the right wing of the Bulgarian [1st Army](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) took [Negotin](https://pl.wikipedia.org/wiki/Negotin), a town in the north-eastern corner of Serbia, near the mouth of the [Timok](https://pl.wikipedia.org/wiki/Timok) where it flows into the [Danube](/miejsca/dunaj). The British chronology of the war wrongly places Negotin on the Vardar. It probably confused it with [Negotino](https://pl.wikipedia.org/wiki/Negotino), a small town in the Vardar valley in Macedonia, near which the French had taken up positions in those very days. The date of 24 October is given by the Austro-Hungarian official history. The British history of the war published by Nelson writes that Negotin fell a day earlier.
 
 ## The fight for the Krajina
 

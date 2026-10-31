@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 15 października 1915 roku zajęcie przez Bułgarów [Vranje](https://pl.wikipedia.org/wiki/Vranje), miasta w dolinie [Morawy Południowej](https://pl.wikipedia.org/wiki/Morawa_Południowa), około 100 kilometrów na południe od [Nisza](https://pl.wikipedia.org/wiki/Nisz). Data jest nieco za wczesna. Według austro-węgierskiej historii oficjalnej Bułgarzy dotarli do słabo obsadzonego Vranje 16 października. Bułgarskie źródła podają, że 29 Jambolski Pułk Piechoty wyszedł tego dnia, czyli 3 października według kalendarza juliańskiego, którego Bułgaria wtedy używała, w rejon stacji kolejowej Vranje, a nazajutrz wkroczył do miasta. Serbski historyk Andrej Mitrović datuje zajęcie Vranje na 16–17 października.
+Brytyjska chronologia wojny notuje pod 15 października 1915 roku zajęcie przez Bułgarów [Vranje](https://pl.wikipedia.org/wiki/Vranje), miasta w dolinie [Morawy Południowej](https://pl.wikipedia.org/wiki/Morawa_Południowa), około 100 kilometrów na południe od [Nisza](/miejsca/nisz). Data jest nieco za wczesna. Według austro-węgierskiej historii oficjalnej Bułgarzy dotarli do słabo obsadzonego Vranje 16 października. Bułgarskie źródła podają, że 29 Jambolski Pułk Piechoty wyszedł tego dnia, czyli 3 października według kalendarza juliańskiego, którego Bułgaria wtedy używała, w rejon stacji kolejowej Vranje, a nazajutrz wkroczył do miasta. Serbski historyk Andrej Mitrović datuje zajęcie Vranje na 16–17 października.
 
 ## Uderzenie od wschodu
 

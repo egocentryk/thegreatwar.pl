@@ -21,7 +21,7 @@ Siły Dobella liczyły według jego raportu około 4300 żołnierzy afrykańskic
 
 ## Kapitulacja
 
-Dobell wezwał niemieckiego komendanta do poddania miasta. Gdy ten odmówił, 26 września okręty ostrzelały Dualę, a wojska przygotowywały się do lądowania. Niemcy nie mieli sił, by bronić portu, który leżał w zasięgu dział okrętowych. Ich główne oddziały, [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), dowodzone przez podpułkownika Carla Zimmermanna, wycofały się wcześniej w głąb kraju wzdłuż linii kolejowych. Przed odejściem wysadziły radiostację. 27 września komendant skapitulował, a alianckie wojska wkroczyły do Duali i Bonaberi bez walki.
+Dobell wezwał niemieckiego komendanta do poddania miasta. Gdy ten odmówił, 26 września okręty ostrzelały Dualę, a wojska przygotowywały się do lądowania. Niemcy nie mieli sił, by bronić portu, który leżał w zasięgu dział okrętowych. Ich główne oddziały, [Schutztruppe](/slownik/schutztruppe), dowodzone przez podpułkownika Carla Zimmermanna, wycofały się wcześniej w głąb kraju wzdłuż linii kolejowych. Przed odejściem wysadziły radiostację. 27 września komendant skapitulował, a alianckie wojska wkroczyły do Duali i Bonaberi bez walki.
 
 Zdobycz była znaczna. Alianci przejęli magazyny, zapasy i kilka dział, a w porcie zagarnęli niemieckie statki handlowe oraz liczne mniejsze jednostki, w tym kanonierkę Soden. Według różnych źródeł statków handlowych było kilka lub około dziesięciu. Do niewoli trafiło, według raportu Dobella, ponad 400 Niemców, wojskowych i cywilów, których wywieziono do Wielkiej Brytanii. Dla niemieckich wojsk w Kamerunie była to dotkliwa strata, bo pozbawiała je ludzi, zapasów i jedynego dużego portu.
 

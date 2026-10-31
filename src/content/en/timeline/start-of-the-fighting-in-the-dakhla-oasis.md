@@ -2,10 +2,10 @@
 title: Start of the fighting in the Dakhla Oasis
 summary: On 17 October 1916 a small British motor column from Kharga entered the Dakhla Oasis. Most of the Senussi forces had already withdrawn.
 source: poczatek-walk-w-oazie-dachla
-sourceHash: b06b1eb720b262ac04340b3c1169726c1692cab3
+sourceHash: 88f629694d3676b11ee8ba0ecfcdb51c80e32965
 ---
 
-On 17 October 1916 a small British motor column, which had set out from [Kharga](https://pl.wikipedia.org/wiki/Charga) two days earlier, reached the Dakhla Oasis ([Dakhla](https://pl.wikipedia.org/wiki/Ad-Dachila)), the richest of the oases of Egypt's [Libyan Desert](https://pl.wikipedia.org/wiki/Pustynia_Libijska). Since February the oasis had been in the hands of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order. That day the British occupied the village of Tinida (Tenida) on the eastern edge of the oasis, after which the cars drove on to Budkhulu and took an enemy detachment prisoner there. The British chronology of the war records under this date the start of operations in the Dakhla Oasis, which lasted until 22 October.
+On 17 October 1916 a small British motor column, which had set out from [Kharga](https://pl.wikipedia.org/wiki/Charga) two days earlier, reached the Dakhla Oasis ([Dakhla](https://pl.wikipedia.org/wiki/Ad-Dachila)), the richest of the oases of Egypt's [Libyan Desert](https://pl.wikipedia.org/wiki/Pustynia_Libijska). Since February the oasis had been in the hands of the [Senussi](/slownik/sanusijja) order. That day the British occupied the village of Tinida (Tenida) on the eastern edge of the oasis, after which the cars drove on to Budkhulu and took an enemy detachment prisoner there. The British chronology of the war records under this date the start of operations in the Dakhla Oasis, which lasted until 22 October.
 
 ## The order in the oases
 

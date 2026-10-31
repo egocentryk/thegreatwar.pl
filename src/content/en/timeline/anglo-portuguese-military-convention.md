@@ -2,10 +2,10 @@
 title: Anglo-Portuguese military convention
 summary: On 3 January 1917 Portugal and Britain signed a convention on a corps for France, to fight under British command. The first troops arrived in February.
 source: brytyjsko-portugalska-konwencja-wojskowa
-sourceHash: 0897f5ac0429085f6ce95cb6d0db7bb9ec27e44c
+sourceHash: 56d277ec88f2e33981d2a21971e57dbc5a1fa0ed
 ---
 
-On 3 January 1917 the governments of Portugal and Britain signed a military convention setting out the terms on which Portuguese soldiers would go to fight in France. The British chronology of the war records under this date that the first units of the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) (Corpo Expedicionário Português, CEP) arrived in France. Portuguese chronologies of the war and historians' accounts describe this day differently. At the beginning of January there was only a small group of staff officers in France, who had gone there in December 1916 with the corps chief of staff, Major Roberto Baptista, to prepare for the reception of the troops. The first brigade sailed from Lisbon only at the end of January, and set foot on French soil on 2 February.
+On 3 January 1917 the governments of Portugal and Britain signed a military convention setting out the terms on which Portuguese soldiers would go to fight in France. The British chronology of the war records under this date that the first units of the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) (Corpo Expedicionário Português, CEP) arrived in France. Portuguese chronologies of the war and historians' accounts describe this day differently. At the beginning of January there was only a small group of staff officers in France, who had gone there in December 1916 with the corps chief of staff, Major Roberto Baptista, to prepare for the reception of the troops. The first brigade sailed from Lisbon only at the end of January, and set foot on French soil on 2 February.
 
 ## What was agreed
 

@@ -2,10 +2,10 @@
 title: Battle of Biskupice begins
 summary: On 29 July 1915 the German 11th Army broke the Russian front at Biskupice and reached the Lublin–Chełm railway at Trawniki. The Russians began to retreat.
 source: poczatek-bitwy-pod-biskupicami
-sourceHash: 286140040d7560f12c65cb93b87d909fcb203138
+sourceHash: c78d408d8686bcf518a065fe86e65015fade0106
 ---
 
-On 29 July 1915, after a pause of several days, the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) again attacked along the whole front between the Vistula and the Bug. The most important blow was struck by the German [11th Army](/sily-zbrojne/11-armia-niemiecka) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), in the direction of [Biskupice](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), a former small town on the [Giełczewka](https://pl.wikipedia.org/wiki/Giełczewka), south-east of [Lublin](https://pl.wikipedia.org/wiki/Lublin). That same day the Germans broke through the Russian lines and reached the railway from Lublin to [Chełm](https://pl.wikipedia.org/wiki/Chełm). The German list of battles, and following it the British chronology of the war, calls this fighting the Battle of Biskupice. It lasted two days.
+On 29 July 1915, after a pause of several days, the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) again attacked along the whole front between the Vistula and the Bug. The most important blow was struck by the German [11th Army](/sily-zbrojne/11-armia-niemiecka) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), in the direction of [Biskupice](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), a former small town on the [Giełczewka](https://pl.wikipedia.org/wiki/Giełczewka), south-east of [Lublin](/miejsca/lublin). That same day the Germans broke through the Russian lines and reached the railway from Lublin to [Chełm](https://pl.wikipedia.org/wiki/Chełm). The German list of battles, and following it the British chronology of the war, calls this fighting the Battle of Biskupice. It lasted two days.
 
 ## Mackensen's new plan
 

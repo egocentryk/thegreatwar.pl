@@ -17,7 +17,7 @@ brief:
   - "Francuzi utrzymali Arras, ale Niemcy zdobyli Lens, ośrodek zagłębia węglowego, oraz wzgórza Vimy i Lorette. Grzbiet Vimy na trwałe odbili dopiero Kanadyjczycy w kwietniu 1917 roku."
 ---
 
-27 września 1914 roku rozpoczęła się pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), kolejny etap tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po walkach w Pikardii i pod Albert obie strony przeniosły swoje próby obejścia przeciwnika dalej na północ, w okolice [Arras](/miejsca/arras) i zagłębia węglowego wokół [Lens](https://pl.wikipedia.org/wiki/Lens). Bitwa trwała do 12 października. Francuzi obronili Arras, ale Niemcy opanowali Lens i wzgórza na północ od miasta, a front, który się tu ustalił, przetrwał z niewielkimi zmianami do 1917 roku.
+27 września 1914 roku rozpoczęła się pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), kolejny etap tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po walkach w Pikardii i pod Albert obie strony przeniosły swoje próby obejścia przeciwnika dalej na północ, w okolice [Arras](/miejsca/arras) i zagłębia węglowego wokół [Lens](/miejsca/lens). Bitwa trwała do 12 października. Francuzi obronili Arras, ale Niemcy opanowali Lens i wzgórza na północ od miasta, a front, który się tu ustalił, przetrwał z niewielkimi zmianami do 1917 roku.
 
 ## Nazwa i daty
 

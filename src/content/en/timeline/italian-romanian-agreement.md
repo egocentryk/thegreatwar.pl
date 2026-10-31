@@ -2,14 +2,14 @@
 title: Italian–Romanian agreement
 summary: The British chronology records on 15 January 1915 the disclosure of a secret Italian–Romanian pact. Both neutral countries had pledged to act together.
 source: wlosko-rumunskie-porozumienie
-sourceHash: 65a4614fd7a6fc1dbbee76afe8d6351d11e3411f
+sourceHash: b7c56d0bab57a0b5e3ae035d150e7dfa267c3fec
 ---
 
 The British chronology of the war records under 15 January 1915 that the existence of a secret agreement on mutual support between Italy and [Romania](/kraje/rumunia) had been announced. A secret agreement between the two states did indeed exist, and had done since September 1914, though at that time it concerned not mutual assistance but a common policy of neutrality. The undertaking to support each other was made only a few weeks later, in February 1915. It has not been possible to establish exactly which announcement the chronology has in mind. Both governments undertook to keep strictly secret both the content and the very existence of the agreements. The entry for 15 January therefore probably refers to press or diplomatic reports of the rapprochement between Rome and Bucharest, which were just then beginning talks on extending their cooperation.
 
 ## Two neutral states
 
-Italy and Romania were in a similar position. Before the war both countries had belonged to the alliance with Germany and Austria-Hungary, both had declared neutrality in August 1914 and both hoped for gains at the expense of the Habsburg monarchy. The Italians wanted Trentino and Trieste, the Romanians [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród) and Bukovina. Each of them on its own was too weak to dictate terms to the great powers. Together they could hope for more.
+Italy and Romania were in a similar position. Before the war both countries had belonged to the alliance with Germany and Austria-Hungary, both had declared neutrality in August 1914 and both hoped for gains at the expense of the Habsburg monarchy. The Italians wanted Trentino and Trieste, the Romanians [Transylvania](/miejsca/siedmiogrod) and Bukovina. Each of them on its own was too weak to dictate terms to the great powers. Together they could hope for more.
 
 At the beginning of September 1914 the Romanian envoys Constantin Istrati and George Diamandy came to Rome, where they met the Prime Minister, [Antonio Salandra](/postacie/antonio-salandra), and the Foreign Minister, [Antonino di San Giuliano](/umiera-antonino-di-san-giuliano). The talks ended in an agreement which was signed in Bucharest on 23 September 1914 (10 September in the Julian calendar, then in use in Romania) by the Prime Minister, [Ion I. C. Brătianu](/postacie/ion-bratianu), and the Italian minister, Baron Carlo Fasciotti. The two states undertook to consult each other constantly on neutrality, and that neither would abandon it without giving the other at least eight days' notice. At about the same time Romania also concluded a [secret agreement with Russia](/tajne-porozumienie-rosji-i-rumunii).
 

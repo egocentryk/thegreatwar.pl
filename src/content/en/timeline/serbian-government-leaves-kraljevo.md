@@ -2,10 +2,10 @@
 title: Serbian government leaves Kraljevo
 summary: On 3 November 1915, as Kragujevac fell, Pašić's government and the Supreme Command left Kraljevo for Raška. It had left Niš, the wartime capital, a week before.
 source: rzad-serbski-opuszcza-kraljevo
-sourceHash: db1164b4040b83cef3e69ee22884856b0745930c
+sourceHash: 4c1734e98f2b1a24e8efbd450c3a0814f8c63253
 ---
 
-On 3 November 1915 the Serbian government of Prime Minister [Nikola Pašić](/postacie/nikola-pasic) and the army's Supreme Command left [Kraljevo](https://pl.wikipedia.org/wiki/Kraljevo) on the Western Morava. They set off up the valley of the [Ibar](https://pl.wikipedia.org/wiki/Ibar) to [Raška](https://pl.wikipedia.org/wiki/Raška). The British chronology of the war records under this day that the Serbian government left [Niš](https://pl.wikipedia.org/wiki/Nisz). In reality it had left the wartime capital about a week earlier, and Kraljevo was only the first stop on the way.
+On 3 November 1915 the Serbian government of Prime Minister [Nikola Pašić](/postacie/nikola-pasic) and the army's Supreme Command left [Kraljevo](https://pl.wikipedia.org/wiki/Kraljevo) on the Western Morava. They set off up the valley of the [Ibar](https://pl.wikipedia.org/wiki/Ibar) to [Raška](https://pl.wikipedia.org/wiki/Raška). The British chronology of the war records under this day that the Serbian government left [Niš](/miejsca/nisz). In reality it had left the wartime capital about a week earlier, and Kraljevo was only the first stop on the way.
 
 ## The evacuation of Niš
 

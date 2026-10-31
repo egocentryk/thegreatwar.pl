@@ -2,10 +2,10 @@
 title: British abandon Sollum
 summary: On 23 November 1915 the Egyptian garrison left Sollum and sailed to Mersa Matruh, where the Western Frontier Force was gathering to fight the Senussi order.
 source: brytyjczycy-opuszczaja-as-sallum
-sourceHash: b688290708830f326aab629332248403c05a0aca
+sourceHash: aa4ab01efcc1fed8d400cb94e10137461082f994
 ---
 
-On 23 November 1915 the Egyptian garrison of [Sollum](https://pl.wikipedia.org/wiki/As-Sallum), a little over a hundred men, boarded the coastguard cutter *Rasheed* and sailed east to [Mersa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh). The British gave up without a fight their westernmost post in Egypt. That same day they began shipping troops to Mersa Matruh, where a new formation was to assemble to fight the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order: the Western Frontier Force.
+On 23 November 1915 the Egyptian garrison of [Sollum](https://pl.wikipedia.org/wiki/As-Sallum), a little over a hundred men, boarded the coastguard cutter *Rasheed* and sailed east to [Mersa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh). The British gave up without a fight their westernmost post in Egypt. That same day they began shipping troops to Mersa Matruh, where a new formation was to assemble to fight the [Senussi](/slownik/sanusijja) order: the Western Frontier Force.
 
 ## Raids on both sides of the frontier
 

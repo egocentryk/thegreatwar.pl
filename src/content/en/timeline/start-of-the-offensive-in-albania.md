@@ -2,10 +2,10 @@
 title: Start of the offensive in Albania
 summary: On 6 July 1918 the French and Italians attacked the Austrians on the Devoll and Osum. Next day the Italians crossed the Vjosë near Vlorë into the Mallakastër.
 source: poczatek-ofensywy-w-albanii
-sourceHash: e008fbf15d47d2eeef492b8a07c0117310867933
+sourceHash: 358edcb209d277eb198b16dcb987e575386417f2
 ---
 
-On 6 July 1918, on the Albanian wing of the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), a joint attack by the Italians and the French against the Austro-Hungarian XIX Corps began. The British chronology of the war and the British official history of the Macedonian campaign (Falls) take this day as the start of the whole offensive. According to the Austrian official history, however, the main Italian blow was planned for 7 July, and on 6 July only a preliminary operation took place in the mountains on the eastern wing, between the rivers [Osum](https://pl.wikipedia.org/wiki/Osum) and [Devoll](https://pl.wikipedia.org/wiki/Devoll).
+On 6 July 1918, on the Albanian wing of the [Salonika front](/bitwy/front-salonicki), a joint attack by the Italians and the French against the Austro-Hungarian XIX Corps began. The British chronology of the war and the British official history of the Macedonian campaign (Falls) take this day as the start of the whole offensive. According to the Austrian official history, however, the main Italian blow was planned for 7 July, and on 6 July only a preliminary operation took place in the mountains on the eastern wing, between the rivers [Osum](https://pl.wikipedia.org/wiki/Osum) and [Devoll](https://pl.wikipedia.org/wiki/Devoll).
 
 The aim was to drive the Austrians as far as possible from [Vlorë](/miejsca/wlora) and from the supply road of the left wing of the Allied armies in Macedonia. The French, who had already carried out two successful attacks in these mountains in May and June, wanted to reach the river Shkumbin. The commander of the Italian XVI Corps, General Giacinto Ferrero, thought above all of the Mallakastër, a range of hills north of the [Vjosë](https://pl.wikipedia.org/wiki/Wjosa), from which the enemy threatened the entrenched camp of Vlorë. The preparations on the Vjosë were hardly concealed, and yet the XIX Corps staff expected the main blow elsewhere, on the road to Berat. On 5 July the Austrian high command received word via Switzerland that an Italian offensive was being prepared precisely there.
 

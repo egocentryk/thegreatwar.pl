@@ -34,7 +34,7 @@ We Lwowie szybko związał się z instytucjami gospodarczymi Galicji. Działał 
 
 ## Z Lwowa do Warszawy
 
-Po zajęciu Królestwa przez państwa centralne w 1915 roku Steczkowski, jako dyrektor Banku Krajowego, uczestniczył w zakładaniu w Warszawie Banku Ziemiańskiego i Banku Emisyjnego. Po utworzeniu [Tymczasowej Rady Stanu](https://pl.wikipedia.org/wiki/Tymczasowa_Rada_Stanu) w grudniu 1916 roku nieformalnie doradzał jej w sprawach organizacji skarbowości. 19 maja 1917 roku cesarz Karol powołał go na dziedzicznego członka austriackiej [Izby Panów](https://pl.wikipedia.org/wiki/Izba_Panów_(Austria)).
+Po zajęciu Królestwa przez państwa centralne w 1915 roku Steczkowski, jako dyrektor Banku Krajowego, uczestniczył w zakładaniu w Warszawie Banku Ziemiańskiego i Banku Emisyjnego. Po utworzeniu [Tymczasowej Rady Stanu](/slownik/tymczasowa-rada-stanu) w grudniu 1916 roku nieformalnie doradzał jej w sprawach organizacji skarbowości. 19 maja 1917 roku cesarz Karol powołał go na dziedzicznego członka austriackiej [Izby Panów](https://pl.wikipedia.org/wiki/Izba_Panów_(Austria)).
 
 W grudniu 1917 roku wszedł jako minister skarbu do [rządu Jana Kucharzewskiego](/rzad-kucharzewskiego), pierwszego gabinetu Królestwa. Zorganizował ministerstwo od podstaw i podzielił je na pięć sekcji, w tym Państwową Kasę Centralną i urząd zajmujący się rozrachunkiem strat wojennych. W tym kształcie resort działał aż do października 1920 roku. W lutym 1918 roku cały gabinet [podał się do dymisji](/dymisja-rzadu-kucharzewskiego) w proteście przeciw [traktatowi brzeskiemu z Ukrainą](/pokoj-brzeski-z-ukraina), który oddawał nowemu państwu Chełmszczyznę.
 

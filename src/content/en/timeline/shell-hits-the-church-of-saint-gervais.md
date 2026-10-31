@@ -2,10 +2,10 @@
 title: Shell hits the church of Saint-Gervais
 summary: On Good Friday, 29 March 1918, a Paris Gun shell hit the church of Saint-Gervais during a service. The collapsing vault killed about 90 worshippers.
 source: pocisk-trafia-w-kosciol-saint-gervais
-sourceHash: c8f82937efea961edfaf14277208cd3c64cae924
+sourceHash: c1044824bd8756db393c12132b9000f796f80a2c
 ---
 
-On [Good Friday](https://pl.wikipedia.org/wiki/Wielki_Piątek), 29 March 1918, at about 4.30 p.m., a shell from the German [Paris Gun](https://pl.wikipedia.org/wiki/Działo_paryskie) hit the roof of the [church of Saint-Gervais-Saint-Protais](https://pl.wikipedia.org/wiki/Kościół_św._Gerwazego_i_Protazego_w_Paryżu), which stands behind the Paris town hall, a few dozen metres from the Seine. The church was full of worshippers who were just finishing the Good Friday afternoon service. The explosion brought down one of the pillars, and the part of the stone vault resting on it crashed down on the kneeling people. About ninety people were killed and several dozen wounded. It was the deadliest single shot of the entire shelling of Paris.
+On [Good Friday](https://pl.wikipedia.org/wiki/Wielki_Piątek), 29 March 1918, at about 4.30 p.m., a shell from the German [Paris Gun](/slownik/dzialo-paryskie) hit the roof of the [church of Saint-Gervais-Saint-Protais](https://pl.wikipedia.org/wiki/Kościół_św._Gerwazego_i_Protazego_w_Paryżu), which stands behind the Paris town hall, a few dozen metres from the Seine. The church was full of worshippers who were just finishing the Good Friday afternoon service. The explosion brought down one of the pillars, and the part of the stone vault resting on it crashed down on the kneeling people. About ninety people were killed and several dozen wounded. It was the deadliest single shot of the entire shelling of Paris.
 
 ## Silence before Good Friday
 

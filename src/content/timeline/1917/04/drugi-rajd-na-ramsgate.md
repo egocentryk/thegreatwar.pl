@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 26 na 27 kwietnia 1917 roku kilka niemieckich torpedowców z Flandrii, w praktyce nowoczesnych niszczycieli, podeszło od strony morza do [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) na wybrzeżu hrabstwa [Kent](https://pl.wikipedia.org/wiki/Kent) i ostrzelało miasto. Brytyjska chronologia wojny nazywa tę akcję drugim niemieckim rajdem niszczycieli na Ramsgate. Pierwszym był [wypad z 17 na 18 marca](/rajd-na-ramsgate-i-broadstairs), kiedy Niemcy ostrzelali Ramsgate i sąsiednie Broadstairs. Wspomnienia wiceadmirała Reginalda Bacona, dowódcy sił w [Dover](https://pl.wikipedia.org/wiki/Dover), i miejscowa prasa datują ostrzał na wczesne godziny 27 kwietnia.
+W nocy z 26 na 27 kwietnia 1917 roku kilka niemieckich torpedowców z Flandrii, w praktyce nowoczesnych niszczycieli, podeszło od strony morza do [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) na wybrzeżu hrabstwa [Kent](https://pl.wikipedia.org/wiki/Kent) i ostrzelało miasto. Brytyjska chronologia wojny nazywa tę akcję drugim niemieckim rajdem niszczycieli na Ramsgate. Pierwszym był [wypad z 17 na 18 marca](/rajd-na-ramsgate-i-broadstairs), kiedy Niemcy ostrzelali Ramsgate i sąsiednie Broadstairs. Wspomnienia wiceadmirała Reginalda Bacona, dowódcy sił w [Dover](/miejsca/dover), i miejscowa prasa datują ostrzał na wczesne godziny 27 kwietnia.
 
 ## Po klęsce w cieśninie
 

@@ -2,10 +2,10 @@
 title: Last shelling of Paris
 summary: On 9 August 1918 the last shells from the German long-range gun fell on Paris. After the defeat at Amiens the Germans withdrew it from Beaumont-en-Beine.
 source: ostatni-ostrzal-paryza
-sourceHash: 94bed06cd2bcab1da8d511a5adc4572301793bfe
+sourceHash: 511f7b439044505601adca07cda032eab2b93f29
 ---
 
-On 9 August 1918 [Paris](https://pl.wikipedia.org/wiki/Paryż) came under fire for the last time from the German [long-range gun](https://pl.wikipedia.org/wiki/Działo_paryskie) that Parisians called "Bertha". According to Henry W. Miller, an American artillery officer and author of a substantial book on the bombardment, that day the gun fired twelve rounds at the city between 9.13 a.m. and 2 p.m. The German author Heinrich Eisgruber, who described the operation after the war, states that the last shell fired at Paris was launched on 9 August at two in the afternoon. The British chronology of the war records the last shelling of the French capital under 15 August. The French military historian Alain Huyon points out that eyewitness accounts of the end of the last series are contradictory and that according to some it went on until about the middle of August. Most sources, however, including the works of Miller and Huyon, take 9 August as the last day of the bombardment.
+On 9 August 1918 [Paris](https://pl.wikipedia.org/wiki/Paryż) came under fire for the last time from the German [long-range gun](/slownik/dzialo-paryskie) that Parisians called "Bertha". According to Henry W. Miller, an American artillery officer and author of a substantial book on the bombardment, that day the gun fired twelve rounds at the city between 9.13 a.m. and 2 p.m. The German author Heinrich Eisgruber, who described the operation after the war, states that the last shell fired at Paris was launched on 9 August at two in the afternoon. The British chronology of the war records the last shelling of the French capital under 15 August. The French military historian Alain Huyon points out that eyewitness accounts of the end of the last series are contradictory and that according to some it went on until about the middle of August. Most sources, however, including the works of Miller and Huyon, take 9 August as the last day of the bombardment.
 
 ## The wandering gun
 

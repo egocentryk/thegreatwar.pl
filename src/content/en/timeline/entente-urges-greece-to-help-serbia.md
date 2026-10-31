@@ -2,7 +2,7 @@
 title: Entente urges Greece to help Serbia
 summary: On 15 February 1915 the British and French ministers urged Greece to help Serbia, promising divisions at Salonika. Venizelos refused at once.
 source: ententa-namawia-grecje-do-pomocy-serbii
-sourceHash: 218a23229181ff0874c0b37a8f52ab3755b8bc3c
+sourceHash: 720276e7f54a5277800a699e45242d319be08d48
 ---
 
 On 15 February 1915 the British minister in Athens, Sir Francis Elliot, and his French colleague presented the Greek prime minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), with a joint démarche from the Entente. Greece was to come to Serbia's aid, and Britain, France and Russia undertook to send one division each to [Salonika](/miejsca/saloniki) to secure the Greek rear and lines of communication. Venizelos rejected the proposal the same day, without even consulting the King.
@@ -21,6 +21,6 @@ Elliot had doubts too. On 10 February he warned London that the announcement of 
 
 ## Refusal
 
-Venizelos replied at once. He considered two divisions a wholly inadequate force to shield Greece from a Bulgarian attack, and called entering the war on such terms suicide. He also repeated what he had said in January: Greek co-operation was out of the question until Romania entered the war, and not merely by attacking Austria-Hungary in [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród), but by acting together with the Greek forces. Venizelos later told the Serbian minister that if the Entente had asked only for free passage for its troops, it would have been quite another matter.
+Venizelos replied at once. He considered two divisions a wholly inadequate force to shield Greece from a Bulgarian attack, and called entering the war on such terms suicide. He also repeated what he had said in January: Greek co-operation was out of the question until Romania entered the war, and not merely by attacking Austria-Hungary in [Transylvania](/miejsca/siedmiogrod), but by acting together with the Greek forces. Venizelos later told the Serbian minister that if the Entente had asked only for free passage for its troops, it would have been quite another matter.
 
 The refusal sealed the fate of the whole undertaking. The British official history of the Dardanelles campaign recorded that the Salonika project had to be abandoned and attention turned to the Dardanelles. The fleet's attack on the Turkish forts, originally planned for 15 February itself, was postponed by a few days. Entente troops landed at Salonika only in October 1915, when Austria-Hungary, Germany and Bulgaria attacked Serbia simultaneously. By then it was too late to help.

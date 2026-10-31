@@ -2,10 +2,10 @@
 title: First bomb on English soil
 summary: On 24 December 1914 a German seaplane dropped a bomb on Dover. It fell in a garden near the castle. It was the first aerial bomb to fall on land in England.
 source: pierwsza-bomba-na-angielskiej-ziemi
-sourceHash: 41392b3d6c2f55c73368a7417faea3e9833dcda9
+sourceHash: 7cbef8d9d03e52d88cb1f161b51ee7a0480462d0
 ---
 
-On Christmas Eve 1914, at about 10.45 a.m., a German seaplane again appeared over [Dover](https://pl.wikipedia.org/wiki/Dover). This time its bomb did not fall into the sea, as it had [three days earlier](/pierwszy-niemiecki-nalot-na-anglie), but landed on the town. It was the first aerial bomb to fall on land in England. No one was killed and the damage was slight, but the news quickly spread through the British press.
+On Christmas Eve 1914, at about 10.45 a.m., a German seaplane again appeared over [Dover](/miejsca/dover). This time its bomb did not fall into the sea, as it had [three days earlier](/pierwszy-niemiecki-nalot-na-anglie), but landed on the town. It was the first aerial bomb to fall on land in England. No one was killed and the damage was slight, but the news quickly spread through the British press.
 
 ## The aircraft from Zeebrugge
 

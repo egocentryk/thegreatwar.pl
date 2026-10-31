@@ -2,7 +2,7 @@
 title: Mutiny in the German fleet
 summary: On 2 August 1917 about 600 sailors of the battleship Prinzregent Luitpold went ashore without leave at Wilhelmshaven, demanding the release of arrested men.
 source: bunt-w-niemieckiej-flocie
-sourceHash: faccf0762e9dc85ae95f35bcb2bd447ddbfd378c
+sourceHash: ccacdaa0557a21252befbff0a27362329ebd8db9
 ---
 
 On 2 August 1917 [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven), the main base of the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska), saw the largest sailors' protest since the beginning of the war. About 600 seamen and stokers of the battleship *Prinzregent Luitpold* went ashore without leave and marched to Rüstersiel on the outskirts of the town to speak up for comrades arrested the day before. The protest was peaceful, but the command treated it as a mutiny and a conspiracy aimed at the fleet's fighting readiness. The British chronology of the war records the outbreak of the mutiny in the German fleet under 3 August, although German studies consistently date the march out to 2 August.
@@ -23,4 +23,4 @@ The squadron command raised the alarm, and *Prinzregent Luitpold* went out into 
 
 At the end of August courts martial passed harsh sentences. On 25–26 August five sailors, including Reichpietsch and Köbis, were sentenced to death for "treasonable incitement to mutiny". The fleet commander, Admiral [Reinhard Scheer](/postacie/reinhard-scheer), confirmed two of the sentences and commuted three to fifteen years' penal servitude each. Reichpietsch and Köbis were shot on 5 September 1917 at the Wahn training ground near [Cologne](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)). Many other participants were sentenced to long terms of imprisonment or sent to the front in Flanders.
 
-The sailors' movement had been broken, but the causes of discontent remained. In October the affair reached the Reichstag, where the Chancellor, [Georg Michaelis](/postacie/georg-michaelis), accused the USPD deputies of treason without having any evidence. A later Reichstag committee in the 1920s found no evidence that the USPD leaders had incited the sailors. The executions were remembered in the fleet as an injustice. A year later, in the autumn of 1918, the sailors' revolt at Wilhelmshaven and Kiel became the beginning of the [November Revolution](https://pl.wikipedia.org/wiki/Rewolucja_listopadowa).
+The sailors' movement had been broken, but the causes of discontent remained. In October the affair reached the Reichstag, where the Chancellor, [Georg Michaelis](/postacie/georg-michaelis), accused the USPD deputies of treason without having any evidence. A later Reichstag committee in the 1920s found no evidence that the USPD leaders had incited the sailors. The executions were remembered in the fleet as an injustice. A year later, in the autumn of 1918, the sailors' revolt at Wilhelmshaven and Kiel became the beginning of the [November Revolution](/slownik/rewolucja-listopadowa).

@@ -2,7 +2,7 @@
 title: Battle of Delville Wood begins
 summary: On 15 July 1916 Lukin's South Africans broke into Delville Wood near Longueval. By afternoon they held almost all of it, and the Germans counter-attacked.
 source: poczatek-bitwy-o-las-delville
-sourceHash: 5f8410cf92d2c7613357813349498f9bedd878af
+sourceHash: d4973852ea911836123c405a9f3768abec64f9a8
 brief:
   - "At about six in the morning on 15 July 1916 three battalions of Brigadier-General Henry Lukin's 1st South African Infantry Brigade entered Delville Wood, on the eastern edge of the village of Longueval."
   - "Together the wood and Longueval formed a salient driven into the German lines. The order was that the wood must be taken at all costs, even if the Scots did not capture the northern part of the village."
@@ -11,7 +11,7 @@ brief:
   - "By 20 July only a handful of survivors came out of the wood, and the brigade lost more than 2,500 men. The Germans were driven out of Delville Wood only at the turn of August and September."
 ---
 
-At about six in the morning on 15 July 1916 three battalions of Brigadier-General Henry Lukin's 1st South African Infantry Brigade entered Delville Wood, on the eastern edge of the village of [Longueval](https://pl.wikipedia.org/wiki/Longueval) in Picardy. Within a few hours they had taken almost the whole wood, and before evening they beat off the first German counter-attacks. It was the baptism of fire on the Western Front for soldiers from the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki), and at the same time the start of fighting that would rage over this small wood for the weeks to come. British soldiers soon called it Devil's Wood.
+At about six in the morning on 15 July 1916 three battalions of Brigadier-General Henry Lukin's 1st South African Infantry Brigade entered Delville Wood, on the eastern edge of the village of [Longueval](https://pl.wikipedia.org/wiki/Longueval) in Picardy. Within a few hours they had taken almost the whole wood, and before evening they beat off the first German counter-attacks. It was the baptism of fire on the Western Front for soldiers from the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki), and at the same time the start of fighting that would rage over this small wood for the weeks to come. British soldiers soon called it Devil's Wood.
 
 ## The wood behind Longueval
 

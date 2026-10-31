@@ -15,11 +15,11 @@ draft: false
 
 ## Lotnictwo marynarki wojennej
 
-Patrole prowadziła [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), lotnictwo brytyjskiej marynarki wojennej, wydzielone jako osobna formacja zaledwie kilka tygodni przed wybuchem wojny. W sierpniu 1914 roku dysponowało ono niespełna setką samolotów, w tym [wodnosamolotami](https://pl.wikipedia.org/wiki/Wodnosamolot), oraz kilkoma [sterowcami](/slownik/sterowiec). Sterowce patrolowały kanał już w pierwszych nocach wojny.
+Patrole prowadziła [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), lotnictwo brytyjskiej marynarki wojennej, wydzielone jako osobna formacja zaledwie kilka tygodni przed wybuchem wojny. W sierpniu 1914 roku dysponowało ono niespełna setką samolotów, w tym [wodnosamolotami](/slownik/wodnosamolot), oraz kilkoma [sterowcami](/slownik/sterowiec). Sterowce patrolowały kanał już w pierwszych nocach wojny.
 
 ## Oczy floty
 
-Samoloty i sterowce nie mogły jeszcze skutecznie walczyć z okrętami. Ich główną zaletą była możliwość obserwacji dużego obszaru morza z powietrza. Lotnicy wypatrywali niemieckich okrętów nawodnych i okrętów podwodnych, które mogłyby zaatakować transportowce, oraz min dryfujących na szlakach żeglugowych. Informacje przekazywano okrętom [Royal Navy](/sily-zbrojne/royal-navy), które strzegły przeprawy w rejonie [Dover](https://pl.wikipedia.org/wiki/Dover) i zachodniej części kanału.
+Samoloty i sterowce nie mogły jeszcze skutecznie walczyć z okrętami. Ich główną zaletą była możliwość obserwacji dużego obszaru morza z powietrza. Lotnicy wypatrywali niemieckich okrętów nawodnych i okrętów podwodnych, które mogłyby zaatakować transportowce, oraz min dryfujących na szlakach żeglugowych. Informacje przekazywano okrętom [Royal Navy](/sily-zbrojne/royal-navy), które strzegły przeprawy w rejonie [Dover](/miejsca/dover) i zachodniej części kanału.
 
 Przerzut korpusu ekspedycyjnego przebiegał głównie między 12 a 18 sierpnia. Transportowce płynęły z Southampton do Hawru, Rouen i Boulogne. Przeprawę osłaniały okręty wojenne i lotnictwo, a żaden statek z wojskiem nie został utracony.
 

@@ -2,10 +2,10 @@
 title: Second raid on Ramsgate
 summary: In the night of 26–27 April 1917 German torpedo boats from Flanders shelled Ramsgate. Two people were killed and more than 20 houses were damaged.
 source: drugi-rajd-na-ramsgate
-sourceHash: f28b2a78e454a6ccff4ab57080e659b385e39a7f
+sourceHash: 11ad521d04e0dd1111a50f4b5c96eabae43ab2ba
 ---
 
-In the night of 26–27 April 1917 several German torpedo boats from Flanders, in practice modern destroyers, approached [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) on the coast of [Kent](https://pl.wikipedia.org/wiki/Kent) from the sea and shelled the town. The British chronology of the war calls this action the second German destroyer raid on Ramsgate. The first had been the [raid of 17–18 March](/rajd-na-ramsgate-i-broadstairs), when the Germans shelled Ramsgate and neighbouring Broadstairs. The memoirs of Vice-Admiral Reginald Bacon, commander of the forces at [Dover](https://pl.wikipedia.org/wiki/Dover), and the local press date the bombardment to the early hours of 27 April.
+In the night of 26–27 April 1917 several German torpedo boats from Flanders, in practice modern destroyers, approached [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) on the coast of [Kent](https://pl.wikipedia.org/wiki/Kent) from the sea and shelled the town. The British chronology of the war calls this action the second German destroyer raid on Ramsgate. The first had been the [raid of 17–18 March](/rajd-na-ramsgate-i-broadstairs), when the Germans shelled Ramsgate and neighbouring Broadstairs. The memoirs of Vice-Admiral Reginald Bacon, commander of the forces at [Dover](/miejsca/dover), and the local press date the bombardment to the early hours of 27 April.
 
 ## After the defeat in the Strait
 

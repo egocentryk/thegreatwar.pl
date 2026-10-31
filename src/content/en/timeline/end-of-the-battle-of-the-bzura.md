@@ -2,10 +2,10 @@
 title: End of the Battle of the Bzura
 summary: On 17 December 1914 the battle of Łowicz and Sanniki came to an end. The Russians gave up Łowicz and took up new positions behind the lower Bzura and the Rawka.
 source: koniec-bitwy-nad-bzura
-sourceHash: acb49709a014171bfdb21b25571d6a93e1d6f976
+sourceHash: 1c4269eed79c0a15a3dd96db2a2570c4e13dd86d
 ---
 
-The British chronology of the war records under 17 December 1914 the end of the battle of Łowicz and Sanniki, which in Poland is usually called the Battle of the Bzura. It took this date, like the name, from the official German list of battles. [Polish Wikipedia](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)) treats the fighting more broadly and ends it on 20 December. Whatever the date adopted, the phase of heavy fighting on the northern wing of the front in the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), which had lasted since [30 November](/poczatek-bitwy-nad-bzura), ended in mid-December. The Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) fell back behind the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura), and the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) halted in front of its new positions.
+The British chronology of the war records under 17 December 1914 the end of the battle of Łowicz and Sanniki, which in Poland is usually called the Battle of the Bzura. It took this date, like the name, from the official German list of battles. [Polish Wikipedia](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)) treats the fighting more broadly and ends it on 20 December. Whatever the date adopted, the phase of heavy fighting on the northern wing of the front in the [Kingdom of Poland](/miejsca/krolestwo-polskie), which had lasted since [30 November](/poczatek-bitwy-nad-bzura), ended in mid-December. The Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) fell back behind the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura), and the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) halted in front of its new positions.
 
 ## The last days of fighting
 

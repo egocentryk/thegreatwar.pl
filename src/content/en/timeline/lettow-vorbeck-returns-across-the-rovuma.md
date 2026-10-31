@@ -2,10 +2,10 @@
 title: Lettow-Vorbeck returns across the Rovuma
 summary: At the end of September 1918 Lettow-Vorbeck's force crossed the Rovuma and, after ten months in Mozambique, returned to German East Africa.
 source: lettow-vorbeck-wraca-za-rovume
-sourceHash: 275a5ebb8cbf21f5060a711e1c9c09119001a050
+sourceHash: 2f7be65045b02d832d33c5201b98484f3de1dbc9
 ---
 
-At the end of September 1918 the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) reached the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma) from the south and crossed to its northern bank. After ten months of marching and fighting in [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), the Germans once again stood on the soil of [German East Africa](/bitwy/kampania-wschodnioafrykanska), which they had left [in November 1917](/lettow-vorbeck-przekracza-rovume). The British chronology of the war records the return under 29 September. Lettow-Vorbeck himself wrote in his memoirs that his columns reached the river on 28 September and, after crossing to the German bank, halted for two days near Nagwamira.
+At the end of September 1918 the German [Schutztruppe](/slownik/schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) reached the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma) from the south and crossed to its northern bank. After ten months of marching and fighting in [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), the Germans once again stood on the soil of [German East Africa](/bitwy/kampania-wschodnioafrykanska), which they had left [in November 1917](/lettow-vorbeck-przekracza-rovume). The British chronology of the war records the return under 29 September. Lettow-Vorbeck himself wrote in his memoirs that his columns reached the river on 28 September and, after crossing to the German bank, halted for two days near Nagwamira.
 
 ## Retreat from the Lúrio
 

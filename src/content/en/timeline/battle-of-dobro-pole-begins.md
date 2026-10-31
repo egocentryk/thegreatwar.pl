@@ -2,10 +2,10 @@
 title: Battle of Dobro Pole begins
 summary: On 15 September 1918 the Serbs and French took the Dobro Pole–Sokol–Vetrenik ridge in Macedonia, and on 16 September the Bulgarians' second position on Kozjak.
 source: poczatek-bitwy-pod-dobrym-polem
-sourceHash: 2341f9f30b11f0cc6ed2a22c818aabd2fa33ba03
+sourceHash: 4ae703797de0b56e10032c483cb0ea75167ff026
 ---
 
-On 15 September 1918 at 5.30 a.m., in the half-light before sunrise, French and Serbian divisions left their trenches on the mountain ridge above the [Moglena](https://pl.wikipedia.org/wiki/Meglena) basin and advanced on the Bulgarian positions on the peaks of Vetrenik, Dobro Pole and Sokol. So began the great Allied offensive on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), prepared since June by General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey). By evening the crest had been taken, and during the night Serbian divisions were already moving north through the breach. The next day the Serbs took the second Bulgarian position on the Kozjak massif. The British chronology of the war records the start of the battle under 15 September and its end under 16 September. Following French historians, however, we take it that the breakthrough lasted until the evening of 17 September.
+On 15 September 1918 at 5.30 a.m., in the half-light before sunrise, French and Serbian divisions left their trenches on the mountain ridge above the [Moglena](https://pl.wikipedia.org/wiki/Meglena) basin and advanced on the Bulgarian positions on the peaks of Vetrenik, Dobro Pole and Sokol. So began the great Allied offensive on the [Salonika front](/bitwy/front-salonicki), prepared since June by General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey). By evening the crest had been taken, and during the night Serbian divisions were already moving north through the breach. The next day the Serbs took the second Bulgarian position on the Kozjak massif. The British chronology of the war records the start of the battle under 15 September and its end under 16 September. Following French historians, however, we take it that the breakthrough lasted until the evening of 17 September.
 
 ## Before the assault
 

@@ -261,6 +261,36 @@ texts `traktat-wersalski`, `liga-narodow` and our 1919 articles
 Many of our articles before 1919 link the conference as what came later:
 the text must serve them too.
 
+## Batch 4 (2026-10-31): six new terms
+
+Six new terms, each with its glossary entry first (see "New terms" above)
+and then its longer text; same limits as batches 1–2. One JSON file per
+group, checked with `glossary.py` without `--merge`; don't link a new term
+of this batch from another until the coordinator merges. Quote the `term`
+if it has a colon. Categories: `polityka`, `wojsko`, `okupacja`, `morze`,
+`bron`, `rewolucja`, `sprawa-polska` (as in glossary.json).
+
+| grp | new slug / slugEn | term | category | wikiTitles | new-entries file | author |
+|---|---|---|---|---|---|---|
+| GA | `schizma-narodowa` / `national-schism` | Schizma narodowa | polityka | Schizma_narodowa | `batch4-a.json` | Natalia |
+| GA | `sanusijja` / `senussi` | Sanusijja | wojsko | Sanusijja | `batch4-a.json` | Łukasz Skowroń |
+| GA | `kolej-hidzaska` / `hejaz-railway` | Kolej Hidżaska | wojsko | Kolej_Hidżaska | `batch4-a.json` | Natalia |
+| GB | `rada-panstwa-austria` / `austrian-reichsrat` | Rada Państwa (Austria) | polityka | Rada_Państwa_(Austria) | `batch4-b.json` | Łukasz Skowroń |
+| GB | `konstytuanta` / `russian-constituent-assembly` | Wszechrosyjskie Zgromadzenie Ustawodawcze | rewolucja | Wszechrosyjskie_Zgromadzenie_Ustawodawcze | `batch4-b.json` | Natalia |
+| GB | `order-wybitnej-sluzby` / `distinguished-service-order` | Order Wybitnej Służby | wojsko | Order_Wybitnej_Służby | `batch4-b.json` | Łukasz Skowroń |
+
+Notes: the National Schism: Venizelos vs Constantine 1915–1917, the
+Thessaloniki government, the Allied pressure and the abdication (link
+`/kraje/grecja`, `/miejsca/saloniki`); Sanusijja: the Sufi order of
+Cyrenaica, its war against Italy and the 1915–1917 campaign against Egypt
+(`/bitwy/bitwa-pod-agagia`); Kolej Hidżaska: the Damascus–Medina line, its
+role and the Arab Revolt raids (`/bitwy/powstanie-arabskie`); Rada Państwa:
+the Austrian parliament, prorogued March 1914 and recalled May 1917, the
+Polish Club; the Constituent Assembly: the elections of November 1917, the
+one day of 18/5 I 1918 and its dispersal (Julian dates marked); the DSO:
+the British order for officers, its use in the war, examples from our
+articles.
+
 ## Report (short)
 
 Per text: paths, words, sources, internal links, conflicts with our pages

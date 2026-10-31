@@ -2,7 +2,7 @@
 title: Zaimis prime minister of Greece again
 summary: On 21 June 1916 King Constantine entrusted the government to Alexandros Zaimis, who accepted all the Entente's demands and formed a cabinet of officials.
 source: zaimis-ponownie-premierem-grecji
-sourceHash: 11171071d9f01653be3b2b4c1be725b8cf679117
+sourceHash: 89feedfa4257f655442a4c4c13f9710460ad29fb
 ---
 
 On 21 June 1916, or 8 June by the Julian calendar used in Greece, King [Constantine I](/postacie/konstantyn-i) once again turned to [Alexandros Zaimis](/postacie/aleksandros-zaimis). That day the ministers of the three protecting powers, France, Britain and Russia, [handed a note in Athens](/ultimatum-ententy-wobec-grecji) demanding the demobilisation of the army, a government without political colour, the dissolution of the chamber and new elections, and the removal of several senior police officials. [Stefanos Skouloudis's cabinet](/dymisja-rzadu-skuludisa) resigned the same day. Zaimis agreed to form a government on the terms set by the Allies and to carry out all their demands. Greek lists of governments and *The American Year Book* give the following day, 22 June (9 June by the Julian calendar), as the start of his term of office.
@@ -21,4 +21,4 @@ Venizelos welcomed the change. On 24 June the London "Daily Mail" quoted his wor
 
 ## What came next
 
-The new government set about carrying out the note. A few days later it announced the demobilisation of the army, replaced the policemen whose removal the Allies wanted, and announced elections. The British official history of the war at sea acknowledges that Zaimis remained on good terms with the Entente ministers, although removing Greek officials at the demand of a foreign power must have been painful for him. The calm lasted until August, when the Bulgarians advanced deep into Greek Eastern Macedonia and a revolt by Venizelos's supporters broke out in Salonika. In September 1916 Zaimis resigned again, and the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa) entered its most acute phase.
+The new government set about carrying out the note. A few days later it announced the demobilisation of the army, replaced the policemen whose removal the Allies wanted, and announced elections. The British official history of the war at sea acknowledges that Zaimis remained on good terms with the Entente ministers, although removing Greek officials at the demand of a foreign power must have been painful for him. The calm lasted until August, when the Bulgarians advanced deep into Greek Eastern Macedonia and a revolt by Venizelos's supporters broke out in Salonika. In September 1916 Zaimis resigned again, and the [National Schism](/slownik/schizma-narodowa) entered its most acute phase.

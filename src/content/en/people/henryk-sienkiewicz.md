@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Wola Okrzejska (Kingdom of Poland)
 deathPlace: Vevey (Switzerland)
 source: henryk-sienkiewicz
-sourceHash: a917a11932347b24c8a0ebd9b5b17af27afd25d6
+sourceHash: f443f9947607c3527d6fac4f024e8d57b8fcd2c3
 ---
 
 Henryk Sienkiewicz, author of the "Trilogy" and "Quo Vadis" and winner of the 1905 Nobel Prize, was the most famous Pole in the world when the war broke out. He devoted the last two years of his life not to literature but to helping the population of the Polish lands, devastated by the passing fronts. From January 1915 he headed the [General Committee for the Relief of War Victims in Poland](https://pl.wikipedia.org/wiki/Szwajcarski_Komitet_Generalny_Pomocy_Ofiarom_Wojny_w_Polsce) in [Vevey](https://pl.wikipedia.org/wiki/Vevey), Switzerland, which with the help of [Ignacy Jan Paderewski](/postacie/ignacy-jan-paderewski) raised millions of francs around the world. The committee was meant to be strictly neutral and to help Poles in all three partitions. Sienkiewicz defended this neutrality to the end, including against the politicians of the national camp with which he was associated. He died in Vevey on 15 November 1916, ten days after the [Act of 5 November](/akt-5-listopada), without living to see an independent Poland.
@@ -17,7 +17,7 @@ He was born on 5 May 1846 in [Wola Okrzejska](https://pl.wikipedia.org/wiki/Wola
 
 ## 1914: from Oblęgorek to Switzerland
 
-The outbreak of war found Sienkiewicz at Oblęgorek. In mid-August uhlans of the [First Cadre Company](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa), which had entered the Kingdom from Galicia, paid him homage there. At the end of the month the writer went to Kraków, where he received the news that the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) had been formed. He tried to keep his distance from it, and yet, as his biographers write, his name appeared without his knowledge under one of the appeals calling for a fight on the side of the Central Powers. On 3 October 1914 he left Vienna with his family for Switzerland. The permission was signed by the Austrian prime minister, and the official reason was the writer's health, as he suffered from arthritis. He settled in Vevey on Lake Geneva, first at the Grand Hôtel and from November 1915 at the Hôtel du Lac.
+The outbreak of war found Sienkiewicz at Oblęgorek. In mid-August uhlans of the [First Cadre Company](/slownik/kadrowka), which had entered the Kingdom from Galicia, paid him homage there. At the end of the month the writer went to Kraków, where he received the news that the [Supreme National Committee](/slownik/nkn) had been formed. He tried to keep his distance from it, and yet, as his biographers write, his name appeared without his knowledge under one of the appeals calling for a fight on the side of the Central Powers. On 3 October 1914 he left Vienna with his family for Switzerland. The permission was signed by the Austrian prime minister, and the official reason was the writer's health, as he suffered from arthritis. He settled in Vevey on Lake Geneva, first at the Grand Hôtel and from November 1915 at the Hôtel du Lac.
 
 ## The committee in Vevey
 

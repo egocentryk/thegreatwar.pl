@@ -2,10 +2,10 @@
 title: Battle of Gumbinnen in East Prussia
 summary: On 20 August 1914 Rennenkampf's Russian First Army repulsed the German Eighth Army at Gumbinnen. It was the first major battle on the Eastern Front.
 source: bitwa-pod-gabinem-w-prusach-wschodnich
-sourceHash: 6afa3114ab9f98b8924cc0f33629c21846fd8df0
+sourceHash: d47c810b4d7a4c7f177953dd957b65d755f171f1
 ---
 
-On 20 August 1914 in [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), near the town of Gumbinnen, in Polish Gąbin, the first major battle on the Eastern Front took place. The chronicles of the time give the dates 19 and 20 August, because the first clashes preceded the main battle. General [Paul von Rennenkampf](/postacie/paul-von-rennenkampf)'s Russian First Army repulsed an attack by the German Eighth Army.
+On 20 August 1914 in [East Prussia](/miejsca/prusy-wschodnie), near the town of Gumbinnen, in Polish Gąbin, the first major battle on the Eastern Front took place. The chronicles of the time give the dates 19 and 20 August, because the first clashes preceded the main battle. General [Paul von Rennenkampf](/postacie/paul-von-rennenkampf)'s Russian First Army repulsed an attack by the German Eighth Army.
 
 ## Russia keeps its word
 

@@ -22,7 +22,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck"
 ---
 
-Paul von Lettow-Vorbeck dowodził niemieckimi wojskami kolonialnymi, [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Od sierpnia 1914 do listopada 1918 roku, z armią złożoną w większości z afrykańskich [askarysów](/slownik/askarysi) i odciętą od Niemiec brytyjską blokadą, walczył z wielokrotnie liczniejszymi wojskami brytyjskimi, południowoafrykańskimi, indyjskimi, belgijskimi i portugalskimi. Nigdy nie dał się okrążyć ani rozbić, a broń złożył dopiero dwa tygodnie po rozejmie w Compiègne. W Niemczech stał się legendą „niepokonanego w polu” generała. Dziś pamięta się także o ogromnej cenie, jaką za jego kampanię zapłaciła ludność Afryki Wschodniej.
+Paul von Lettow-Vorbeck dowodził niemieckimi wojskami kolonialnymi, [Schutztruppe](/slownik/schutztruppe), w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Od sierpnia 1914 do listopada 1918 roku, z armią złożoną w większości z afrykańskich [askarysów](/slownik/askarysi) i odciętą od Niemiec brytyjską blokadą, walczył z wielokrotnie liczniejszymi wojskami brytyjskimi, południowoafrykańskimi, indyjskimi, belgijskimi i portugalskimi. Nigdy nie dał się okrążyć ani rozbić, a broń złożył dopiero dwa tygodnie po rozejmie w Compiègne. W Niemczech stał się legendą „niepokonanego w polu” generała. Dziś pamięta się także o ogromnej cenie, jaką za jego kampanię zapłaciła ludność Afryki Wschodniej.
 
 ## Przed wojną
 

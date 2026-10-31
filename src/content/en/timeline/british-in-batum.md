@@ -2,7 +2,7 @@
 title: British in Batum
 summary: On 22 December 1918 Gen. Forestier-Walker reached Batum with a 27th Division brigade. The British took the port from the Turks and moved by rail to Tiflis.
 source: brytyjczycy-w-batumi
-sourceHash: 3f3c35e45b9ce31bd344b5e27d94b6fbac58fd28
+sourceHash: ee9ac644368bb62c56f24482768a95b8ceddd57e
 ---
 
 On 22 December 1918 Major-General George Forestier-Walker, commander of the British 27th Division, arrived by sea at [Batum](https://pl.wikipedia.org/wiki/Batumi), the main port of Transcaucasia on the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne), with an improvised brigade made up of units of that division. This date is given by the British official history of the Macedonian front (Cyril Falls, *Military Operations: Macedonia*, vol. II). The British chronology of the war records the occupation of Batum only under 27 December, but the takeover of the town took several days: according to Russian studies, on 24 December the headquarters of Brigadier-General James Cooke-Collis, later the military governor, began work in Batum, and on 26 December the first British units set off inland by rail.
@@ -11,7 +11,7 @@ On 22 December 1918 Major-General George Forestier-Walker, commander of the Brit
 
 Batum changed hands in 1918. The [Treaty of Brest-Litovsk](/traktat-brzeski) gave it to Turkey, and on 14 April Ottoman troops [occupied the town](/turcy-zajmuja-batumi) almost without a fight. In June Georgia had to recognise it as Turkish in the [Treaties of Batum](/traktaty-batumskie). The defeat of the Ottoman Empire reversed the situation. The [Armistice of Mudros](/rozejm-w-mudros) obliged the Turks to withdraw their troops from Transcaucasia at the Allies' demand and forbade them to oppose the occupation of Batum and Baku. According to more recent studies, the first British officers arrived in Batum as early as 4 and 12 December. Most of the Turkish troops then left the Batum district, but more than ten thousand Ottoman soldiers were still stationed there.
 
-The 27th Division was sent to Transcaucasia from the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki). According to Falls, the force at Batum was to be the link between Constantinople and the British 39th Brigade, which had [returned to Baku](/brytyjczycy-wracaja-do-baku) in November. It was to supervise the execution of the armistice, secure the [Transcaucasian Railway](https://pl.wikipedia.org/wiki/Kolej_Zakaukaska) from Batum through [Tiflis](https://pl.wikipedia.org/wiki/Tbilisi) to Baku and get the pipeline that carried Baku oil to Batum working again. For the British fleet in the Black Sea the fuel itself also mattered.
+The 27th Division was sent to Transcaucasia from the [Salonika front](/bitwy/front-salonicki). According to Falls, the force at Batum was to be the link between Constantinople and the British 39th Brigade, which had [returned to Baku](/brytyjczycy-wracaja-do-baku) in November. It was to supervise the execution of the armistice, secure the [Transcaucasian Railway](https://pl.wikipedia.org/wiki/Kolej_Zakaukaska) from Batum through [Tiflis](https://pl.wikipedia.org/wiki/Tbilisi) to Baku and get the pipeline that carried Baku oil to Batum working again. For the British fleet in the Black Sea the fuel itself also mattered.
 
 ## War inland
 

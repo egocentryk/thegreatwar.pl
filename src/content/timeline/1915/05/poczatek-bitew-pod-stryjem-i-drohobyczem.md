@@ -21,7 +21,7 @@ Tego samego dnia niemiecki korpus generała Felixa von Bothmera podszedł pod St
 
 ## Nowa linia rosyjska
 
-Meldunki z 15 maja nie pozostawiały wątpliwości, że Rosjanie wstrzymali odwrót. Ich [11 Armia](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) generała [Dmitrija Szczerbaczowa](/postacie/dmitrij-szczerbaczow), ta sama, która zimą oblegała Przemyśl, a wiosną przeszła w Karpaty, okopała się na linii od okolic Perehińska przez przedpole Doliny i Stryja po wzgórza na wschód i na północ od Drohobycza. Dalej na zachód, za bagnami Wielkiego Błota, ciągnęły się pozycje rosyjskiej 8 Armii, które broniły podejść do Przemyśla i Lwowa.
+Meldunki z 15 maja nie pozostawiały wątpliwości, że Rosjanie wstrzymali odwrót. Ich [11 Armia](/sily-zbrojne/11-armia-rosyjska) generała [Dmitrija Szczerbaczowa](/postacie/dmitrij-szczerbaczow), ta sama, która zimą oblegała Przemyśl, a wiosną przeszła w Karpaty, okopała się na linii od okolic Perehińska przez przedpole Doliny i Stryja po wzgórza na wschód i na północ od Drohobycza. Dalej na zachód, za bagnami Wielkiego Błota, ciągnęły się pozycje rosyjskiej 8 Armii, które broniły podejść do Przemyśla i Lwowa.
 
 Stawka była wysoka. Stryj był ważnym węzłem kolejowym, przez który biegła linia z Węgier przez Karpaty do Lwowa. Okolice Drohobycza i Borysławia były najważniejszym zagłębiem naftowym Galicji i całej monarchii habsburskiej. Dla Rosjan utrzymanie tej linii oznaczało osłonę skrzydła armii, które walczyły nad Sanem i na przedpolu Przemyśla.
 

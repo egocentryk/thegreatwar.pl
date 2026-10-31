@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W sobotę 23 marca 1918 roku, dwa dni po [rozpoczęciu wielkiej ofensywy niemieckiej](/poczatek-operacji-michael) nad Sommą, około 7.20 rano na bruku przed domem nr 6 przy Quai de Seine, w robotniczej XIX dzielnicy [Paryża](https://pl.wikipedia.org/wiki/Paryż), rozległ się wybuch. Odłamki porozbijały okna, ale nikt nie zginął. Nad miastem nie było słychać samolotów ani wystrzałów, a niebo było puste. W ciągu dnia, mniej więcej co kwadrans, w różnych częściach miasta i na przedmieściach wybuchały kolejne pociski. Dopiero po południu władze przyznały, że Niemcy ostrzeliwują Paryż z działa ustawionego ponad sto kilometrów od miasta. Była to broń, jakiej dotąd nie znano. Paryżanie nazwali ją „Bertą”, a do historii przeszła jako [działo paryskie](https://pl.wikipedia.org/wiki/Działo_paryskie).
+W sobotę 23 marca 1918 roku, dwa dni po [rozpoczęciu wielkiej ofensywy niemieckiej](/poczatek-operacji-michael) nad Sommą, około 7.20 rano na bruku przed domem nr 6 przy Quai de Seine, w robotniczej XIX dzielnicy [Paryża](https://pl.wikipedia.org/wiki/Paryż), rozległ się wybuch. Odłamki porozbijały okna, ale nikt nie zginął. Nad miastem nie było słychać samolotów ani wystrzałów, a niebo było puste. W ciągu dnia, mniej więcej co kwadrans, w różnych częściach miasta i na przedmieściach wybuchały kolejne pociski. Dopiero po południu władze przyznały, że Niemcy ostrzeliwują Paryż z działa ustawionego ponad sto kilometrów od miasta. Była to broń, jakiej dotąd nie znano. Paryżanie nazwali ją „Bertą”, a do historii przeszła jako [działo paryskie](/slownik/dzialo-paryskie).
 
 ## Tajemnicze wybuchy
 

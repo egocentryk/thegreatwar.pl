@@ -2,12 +2,12 @@
 title: Serbia at war with Turkey
 summary: On 2 November 1914 Serbia, Russia's ally, found itself at war with the Ottoman Empire. The two countries had no common border and did not fight each other.
 source: stan-wojny-miedzy-serbia-a-turcja
-sourceHash: 418f70de0db0f9a42b46278aefdf2c8fd7aae509
+sourceHash: 38bea9fe14f869a446456287427b2add785c3178
 ---
 
 On 2 November 1914 [Serbia](/kraje/serbia) declared war on the [Ottoman Empire](/kraje/imperium-osmanskie). It did so on the same day on which [Russia declared war on Turkey](/rosja-wypowiada-wojne-turcji), Russia being Serbia's chief protector. The government in Niš, as in August when it [declared war on Germany](/serbia-wypowiada-wojne-niemcom), stood beside its allies against another state that had joined Austria-Hungary.
 
-Serbs and Turks were divided by fresh memories of war. In the [Balkan Wars](https://pl.wikipedia.org/wiki/Wojny_bałkańskie) of 1912–1913 Serbia, together with Bulgaria, Greece and Montenegro, had taken almost all the empire's possessions in Europe, occupying among other things Kosovo and a large part of Macedonia. Serbia signed its peace treaty with Turkey in Constantinople only on 14 March 1914, just a few months before the outbreak of the world war. Peace between the two states thus lasted less than eight months.
+Serbs and Turks were divided by fresh memories of war. In the [Balkan Wars](/slownik/wojny-balkanskie) of 1912–1913 Serbia, together with Bulgaria, Greece and Montenegro, had taken almost all the empire's possessions in Europe, occupying among other things Kosovo and a large part of Macedonia. Serbia signed its peace treaty with Turkey in Constantinople only on 14 March 1914, just a few months before the outbreak of the world war. Peace between the two states thus lasted less than eight months.
 
 The declaration had no military significance. After the Balkan Wars the Ottoman Empire had kept in Europe only a scrap of Thrace around Constantinople, and Bulgaria and Greece separated it from Serbia. The two armies never clashed in this war. Serbia in any case had no strength for new fronts. Since August it had been repelling successive Austro-Hungarian offensives, and its exhausted army, short of ammunition, was just then [withdrawing from the Drina](/serbowie-wycofuja-sie-znad-driny) into the interior of the country.
 

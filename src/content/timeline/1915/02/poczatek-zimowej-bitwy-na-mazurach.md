@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje 4 lutego 1915 roku jako początek zimowej bitwy na Mazurach, nazywanej też drugą bitwą nad jeziorami mazurskimi. W ciągu następnych dwóch tygodni dwie armie niemieckie wyparły z [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) rosyjską [10 Armię](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) generała Faddieja Siwersa, która od jesieni 1914 roku zajmowała wschodnie krańce prowincji.
+Brytyjska chronologia wojny podaje 4 lutego 1915 roku jako początek zimowej bitwy na Mazurach, nazywanej też drugą bitwą nad jeziorami mazurskimi. W ciągu następnych dwóch tygodni dwie armie niemieckie wyparły z [Prus Wschodnich](/miejsca/prusy-wschodnie) rosyjską [10 Armię](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) generała Faddieja Siwersa, która od jesieni 1914 roku zajmowała wschodnie krańce prowincji.
 
 ## Data
 

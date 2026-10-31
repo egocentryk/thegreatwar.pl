@@ -2,14 +2,14 @@
 title: Arabs take Yanbu
 summary: On 27 July 1916 the Turkish garrison of Yanbu, the old Red Sea port of Medina, surrendered to the Sharif's insurgents. Medina lost its nearest port.
 source: arabowie-zajmuja-janbu
-sourceHash: 8c5e28f1af8fef63a10d23412cb2eb7e74709367
+sourceHash: 6171f06a075d73b16aa1f99b6e0dafacc1a10cbf
 ---
 
 On 27 July 1916 the Turkish garrison of [Yanbu](https://pl.wikipedia.org/wiki/Janbu) on the coast of the [Red Sea](https://pl.wikipedia.org/wiki/Morze_Czerwone) surrendered to the insurgents of the Sharif of Mecca, [Hussein bin Ali](/postacie/husajn-ibn-ali). This date is given consistently by the British chronology of the war and by the British official history of the campaign in Egypt and Palestine (MacMunn and Falls), which says briefly that on that day another Red Sea port, lying some 200 miles (320 kilometres) north-west of [Jeddah](https://pl.wikipedia.org/wiki/Dżudda), surrendered to the Sharif's followers. The same date appears in a list of the captures of 1916 published by the Jordanian armed forces, which trace their tradition to the troops of the revolt. The available sources say very little about the surrender itself: they give neither the size of the garrison nor the name of the Arab commander to whom it surrendered.
 
 ## The port of Medina
 
-Yanbu stood on a coral reef, enclosed by walls with towers, on the edge of the flat coastal plain of the Tihama, at the mouth of the largest valley of the northern [Hejaz](https://pl.wikipedia.org/wiki/Hidżaz), Wadi Yanbu. For centuries it was the port of [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)), to which a caravan road led from here across the mountains, more than 200 kilometres long. Pilgrims bound for the Prophet's tomb landed here, as did ships with food. The port declined in importance when the [Hejaz Railway](https://pl.wikipedia.org/wiki/Kolej_Hidżaska) from Damascus reached Medina in 1908. [T. E. Lawrence](/postacie/thomas-edward-lawrence), who came to Yanbu a few months later, wrote that since the opening of the railway the town had been half a dead town, with crumbling, empty streets. The surrounding valleys were inhabited by the Juhayna tribe, whose men were soon to make up a large part of the insurgent forces in the north.
+Yanbu stood on a coral reef, enclosed by walls with towers, on the edge of the flat coastal plain of the Tihama, at the mouth of the largest valley of the northern [Hejaz](https://pl.wikipedia.org/wiki/Hidżaz), Wadi Yanbu. For centuries it was the port of [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)), to which a caravan road led from here across the mountains, more than 200 kilometres long. Pilgrims bound for the Prophet's tomb landed here, as did ships with food. The port declined in importance when the [Hejaz Railway](/slownik/kolej-hidzaska) from Damascus reached Medina in 1908. [T. E. Lawrence](/postacie/thomas-edward-lawrence), who came to Yanbu a few months later, wrote that since the opening of the railway the town had been half a dead town, with crumbling, empty streets. The surrounding valleys were inhabited by the Juhayna tribe, whose men were soon to make up a large part of the insurgent forces in the north.
 
 ## Another port in the Sharif's hands
 

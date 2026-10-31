@@ -18,7 +18,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Ridkiwci"
 ---
 
-12 czerwca 1915 roku piechota [II Brygady Legionów Polskich](https://pl.wikipedia.org/wiki/II_Brygada_Legionów_Polskich) zajęła bez walki wieś [Rarańczę](https://pl.wikipedia.org/wiki/Ridkiwci) na północny wschód od [Czerniowców](https://pl.wikipedia.org/wiki/Czerniowce), tuż przy granicy [Bukowiny](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) z rosyjską [Besarabią](https://pl.wikipedia.org/wiki/Besarabia). Dalej legioniści nie przeszli. Za rzeczką Rokitną, na wzgórzach nad besarabską wsią [Rokitną](https://pl.wikipedia.org/wiki/Rokytne_(obwód_czerniowiecki)), czekały na nich cztery linie rosyjskich okopów. Zaczęły się walki, które w legionowych wspomnieniach nazywano „walkami czerwcowymi” pod Rarańczą.
+12 czerwca 1915 roku piechota [II Brygady Legionów Polskich](https://pl.wikipedia.org/wiki/II_Brygada_Legionów_Polskich) zajęła bez walki wieś [Rarańczę](https://pl.wikipedia.org/wiki/Ridkiwci) na północny wschód od [Czerniowców](/miejsca/czerniowce), tuż przy granicy [Bukowiny](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) z rosyjską [Besarabią](https://pl.wikipedia.org/wiki/Besarabia). Dalej legioniści nie przeszli. Za rzeczką Rokitną, na wzgórzach nad besarabską wsią [Rokitną](https://pl.wikipedia.org/wiki/Rokytne_(obwód_czerniowiecki)), czekały na nich cztery linie rosyjskich okopów. Zaczęły się walki, które w legionowych wspomnieniach nazywano „walkami czerwcowymi” pod Rarańczą.
 
 ## Na pograniczu Besarabii
 

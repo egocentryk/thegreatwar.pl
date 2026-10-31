@@ -2,7 +2,7 @@
 title: Start of the Polish–Soviet War
 summary: On 14 February 1919, at Mosty on the Niemen and at Bereza Kartuska, regular units of the Polish Army and the Red Army clashed for the first time.
 source: poczatek-wojny-polsko-bolszewickiej
-sourceHash: 23a6155c36c01e0067217a6b02630616ce1d0a5c
+sourceHash: 6e2b3164f26e4059b00e1be718b511e0a982d6b4
 brief:
   - "On 14 February 1919, at Mosty on the Niemen and at Bereza Kartuska, regular units of the Polish Army and the Red Army clashed for the first time. Nobody declared war on anybody, so historians date its beginning differently."
   - "After the armistice of Compiègne the Germans slowly withdrew from the east, with the Red Army following behind them. Under a secret agreement concluded in Białystok on 5 February, Polish units relieved the German garrisons in Brest-Litovsk, Kobryn and Wołkowysk."
@@ -10,7 +10,7 @@ brief:
   - "The Bolsheviks wanted to establish Soviet rule in the lands the Germans were leaving, while Piłsudski wanted to push Russia as far east as possible. The war that began with the February skirmishes lasted until the autumn of 1920."
 ---
 
-On 14 February 1919, in the lands from which the Germans were withdrawing, regular units of the Polish Army and the [Red Army](https://pl.wikipedia.org/wiki/Armia_Czerwona) clashed for the first time. According to IPN publications, the skirmishes that day took place near the small town of [Mosty](https://pl.wikipedia.org/wiki/Mosty_(miasto)) on the Niemen and at [Bereza Kartuska](https://pl.wikipedia.org/wiki/Bereza) in Polesie. Nobody declared war on anybody, and for many months neither side regarded this front as its most important one. Historians therefore date its beginning differently. Some point to 5 January 1919, when the Red Army took Vilna, driving out the Polish self-defence force. Others, like the IPN, choose 14 February, when the armies of the two states came face to face.
+On 14 February 1919, in the lands from which the Germans were withdrawing, regular units of the Polish Army and the [Red Army](/slownik/czerwona-armia) clashed for the first time. According to IPN publications, the skirmishes that day took place near the small town of [Mosty](https://pl.wikipedia.org/wiki/Mosty_(miasto)) on the Niemen and at [Bereza Kartuska](https://pl.wikipedia.org/wiki/Bereza) in Polesie. Nobody declared war on anybody, and for many months neither side regarded this front as its most important one. Historians therefore date its beginning differently. Some point to 5 January 1919, when the Red Army took Vilna, driving out the Polish self-defence force. Others, like the IPN, choose 14 February, when the armies of the two states came face to face.
 
 ## Between the Germans and the Bolsheviks
 

@@ -25,7 +25,7 @@ Niemieckiemu ambasadorowi w Londynie, księciu [Karolowi Lichnowsky'emu](https:/
 
 ## Wojna całego imperium
 
-Decyzja Londynu oznaczała, że do wojny przystąpiło całe [Imperium brytyjskie](/kraje/wielka-brytania). Dominia i kolonie nie prowadziły wówczas samodzielnej polityki zagranicznej, więc z chwilą wypowiedzenia wojny przez Wielką Brytanię w stanie wojny znalazły się także [Kanada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [Nowa Zelandia](https://pl.wikipedia.org/wiki/Nowa_Zelandia), [Związek Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) i [Indie Brytyjskie](https://pl.wikipedia.org/wiki/Indie_Brytyjskie). O wielkości ich udziału w wojnie decydowały jednak rządy poszczególnych dominiów, które niemal natychmiast zadeklarowały pomoc.
+Decyzja Londynu oznaczała, że do wojny przystąpiło całe [Imperium brytyjskie](/kraje/wielka-brytania). Dominia i kolonie nie prowadziły wówczas samodzielnej polityki zagranicznej, więc z chwilą wypowiedzenia wojny przez Wielką Brytanię w stanie wojny znalazły się także [Kanada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [Nowa Zelandia](https://pl.wikipedia.org/wiki/Nowa_Zelandia), [Związek Południowej Afryki](/kraje/zwiazek-poludniowej-afryki) i [Indie Brytyjskie](https://pl.wikipedia.org/wiki/Indie_Brytyjskie). O wielkości ich udziału w wojnie decydowały jednak rządy poszczególnych dominiów, które niemal natychmiast zadeklarowały pomoc.
 
 ## Dlaczego Wielka Brytania walczyła
 

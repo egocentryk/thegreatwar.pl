@@ -2,7 +2,7 @@
 title: Allies capture Duala
 summary: On 27 September 1914 British and French troops took Duala, the main port of German Kamerun. The Germans withdrew inland and fought on there until 1916.
 source: alianci-zdobywaja-duale
-sourceHash: 3251c92795705a5888d52ae58b709593a1c82552
+sourceHash: 93467f16933064925cd165c2869c7d7f2aa180c0
 ---
 
 On 27 September 1914 the German authorities surrendered [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)), the main port and largest town of [German Kamerun](/miejsca/kamerun), together with Bonaberi on the other side of the river. The town was occupied by Anglo-French troops under the command of General Charles Dobell. The British chronology of the war records this event under the date 26–27 September, because the day before ships had shelled the town, and the capitulation followed the next day.
@@ -15,7 +15,7 @@ Dobell's force, according to his report, numbered about 4,300 African soldiers f
 
 ## The capitulation
 
-Dobell called on the German commandant to surrender the town. When he refused, on 26 September the ships shelled Duala and the troops prepared to land. The Germans did not have the forces to defend a port that lay within range of naval guns. Their main forces, the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), commanded by Lieutenant-Colonel Carl Zimmermann, had already withdrawn inland along the railway lines. Before leaving they blew up the wireless station. On 27 September the commandant capitulated, and the Allied troops entered Duala and Bonaberi without a fight.
+Dobell called on the German commandant to surrender the town. When he refused, on 26 September the ships shelled Duala and the troops prepared to land. The Germans did not have the forces to defend a port that lay within range of naval guns. Their main forces, the [Schutztruppe](/slownik/schutztruppe), commanded by Lieutenant-Colonel Carl Zimmermann, had already withdrawn inland along the railway lines. Before leaving they blew up the wireless station. On 27 September the commandant capitulated, and the Allied troops entered Duala and Bonaberi without a fight.
 
 The haul was considerable. The Allies seized warehouses, stores and several guns, and in the port they captured German merchant ships and numerous smaller vessels, including the gunboat *Soden*. According to various sources there were several, or about ten, merchant ships. According to Dobell's report, over 400 Germans, military and civilian, were taken prisoner and shipped to Britain. For the German forces in Kamerun this was a painful loss, depriving them of men, supplies and their only large port.
 

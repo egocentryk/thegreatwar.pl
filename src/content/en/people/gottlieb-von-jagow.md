@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Berlin (Kingdom of Prussia)
 deathPlace: Potsdam
 source: gottlieb-von-jagow
-sourceHash: 5e9e345b0204735171b94df7f607af4ed16175bc
+sourceHash: d25694c5370db72ca5a51d5aeaa95469a3184cea
 ---
 
 Gottlieb von Jagow led German diplomacy in the most important years of its history. As State Secretary of the Foreign Office (Auswärtiges Amt), in practice the foreign minister of the Reich, in the summer of 1914 he helped shape the policy that was meant to confine Austria-Hungary's war with Serbia to the Balkans and instead led to a European war. It was he who conveyed to the British the refusal to take part in the conference they proposed, and he who gave Belgium and Britain the answers after which Germany found itself at war with the British Empire. During the war he belonged to the moderates: he opposed extreme annexations and above all unrestricted submarine warfare, which was bound to draw the United States into the war. He lost that dispute and had to go in November 1916. His fears came true a few months later.
@@ -39,7 +39,7 @@ On 22 November 1916 the Emperor [dismissed him](/dymisja-jagowa). Officially it 
 
 ## After the war
 
-Jagow never returned to high politics. According to Gerard, after his dismissal he took charge of a hospital at [Libau](https://pl.wikipedia.org/wiki/Lipawa) in occupied Russian territory. He became a member of the Prussian [House of Lords](https://pl.wikipedia.org/wiki/Izba_Panów_(Prusy)). After the war he joined the dispute over responsibility for its outbreak. In his book "Ursachen und Ausbruch des Weltkrieges" (1919) he defended German policy of the summer of 1914, and in "England und der Kriegsausbruch" (1925) he shifted part of the blame onto Britain. He also wrote articles for German political journals. He died on 11 January 1935 in [Potsdam](https://pl.wikipedia.org/wiki/Poczdam).
+Jagow never returned to high politics. According to Gerard, after his dismissal he took charge of a hospital at [Libau](/miejsca/lipawa) in occupied Russian territory. He became a member of the Prussian [House of Lords](https://pl.wikipedia.org/wiki/Izba_Panów_(Prusy)). After the war he joined the dispute over responsibility for its outbreak. In his book "Ursachen und Ausbruch des Weltkrieges" (1919) he defended German policy of the summer of 1914, and in "England und der Kriegsausbruch" (1925) he shifted part of the blame onto Britain. He also wrote articles for German political journals. He died on 11 January 1935 in [Potsdam](https://pl.wikipedia.org/wiki/Poczdam).
 
 ## Assessment
 

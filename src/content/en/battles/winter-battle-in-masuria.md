@@ -9,7 +9,7 @@ sides:
     commanders: [Nikolai Ruzsky, Thadeus von Sievers, Pavel Bulgakov]
 result: German victory. The Russian Tenth Army was driven out of East Prussia and its XX Corps surrendered. The rest of the army escaped encirclement and manned the Grodno–Biebrza line.
 source: zimowa-bitwa-na-mazurach
-sourceHash: 61b4c73b75a9736f87b93f5683f49742e7826aeb
+sourceHash: c73e958f4628592bb8d48284a718857d9e40e78e
 brief:
   - "The Winter Battle in Masuria was fought from 7 to 22 February 1915 on the border of East Prussia and the Suwałki Governorate, in blizzards and frost."
   - "The Germans forestalled a planned Russian offensive into East Prussia. Hindenburg and Ludendorff obtained new corps for the Eastern Front and sent in Below's Eighth Army and Eichhorn's new Tenth Army."
@@ -18,7 +18,7 @@ brief:
   - "The Germans drove the Russians out of East Prussia and hailed a \"second Tannenberg\", but three of Sievers's four corps escaped and manned the Grodno–Biebrza line. Russia suffered no strategic defeat."
 ---
 
-The [Winter Battle in Masuria](https://pl.wikipedia.org/wiki/Bitwa_nad_jeziorami_mazurskimi_(1915)), also called the Second Battle of the Masurian Lakes and in Russian literature the Augustów operation, was fought in February 1915 on the border of [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) and the Suwałki Governorate, in lands most of which belong to Poland today. Two German armies, under Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) and his chief of staff [Erich Ludendorff](/postacie/erich-ludendorff), attacked the Russian [Tenth Army](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) in blizzards and frost and drove it out of the last corner of the German province. Surrounded in the [Augustów Forest](https://pl.wikipedia.org/wiki/Puszcza_Augustowska), the Russian XX Corps had to lay down its arms. The Germans did not, however, manage to destroy the whole of the enemy army, and their victory did not change the situation on the Eastern Front.
+The [Winter Battle in Masuria](https://pl.wikipedia.org/wiki/Bitwa_nad_jeziorami_mazurskimi_(1915)), also called the Second Battle of the Masurian Lakes and in Russian literature the Augustów operation, was fought in February 1915 on the border of [East Prussia](/miejsca/prusy-wschodnie) and the Suwałki Governorate, in lands most of which belong to Poland today. Two German armies, under Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) and his chief of staff [Erich Ludendorff](/postacie/erich-ludendorff), attacked the Russian [Tenth Army](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) in blizzards and frost and drove it out of the last corner of the German province. Surrounded in the [Augustów Forest](https://pl.wikipedia.org/wiki/Puszcza_Augustowska), the Russian XX Corps had to lay down its arms. The Germans did not, however, manage to destroy the whole of the enemy army, and their victory did not change the situation on the Eastern Front.
 
 ## Name and dates
 

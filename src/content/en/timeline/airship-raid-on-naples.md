@@ -2,7 +2,7 @@
 title: Airship raid on Naples
 summary: On the night of 10–11 March 1918 the German airship L 59, flying from Bulgaria, bombed Naples. Sixteen people were killed; the military targets were unharmed.
 source: nalot-sterowca-na-neapol
-sourceHash: 6730ed3c7a2a1a6859b64869d9a3cb0af8dc2ae8
+sourceHash: 13bcd9a1831353f754a2e1f0d1ecb42adf9b471b
 ---
 
 At about one in the morning on 11 March 1918 the German naval [airship](/slownik/sterowiec) L 59 appeared over [Naples](https://pl.wikipedia.org/wiki/Neapol). For roughly 40 minutes it dropped bombs on the city. It was the first air raid on Naples. Sixteen people were killed and several dozen wounded. The port, the naval base and the industrial works that were meant to be the targets of the raid were hardly damaged. The official British chronology of the war of 1922 places the raid under 25 March and states that the airship came from the coast of Dalmatia. German and Italian sources agree, however, that the raid took place on the night of 10–11 March and that L 59 took off from Bulgaria.
@@ -19,4 +19,4 @@ The city's defences failed. Searchlights and observation posts detected the airs
 
 ## After the raid
 
-Soon after the raid the commanders of the Naples anti-aircraft defences were dismissed, and according to some sources so were the commanders at [Foggia](https://pl.wikipedia.org/wiki/Foggia) and [Termoli](https://pl.wikipedia.org/wiki/Termoli). A squadron of fighter [seaplanes](https://pl.wikipedia.org/wiki/Wodnosamolot) was sent to defend the Bay of Naples. The raid had no military significance, but it showed that German airships could reach cities hundreds of kilometres from the front and from their own bases. For L 59 it was one of its last flights. On 20 March it had to break off a flight to [Port Said](https://pl.wikipedia.org/wiki/Port_Said) because of strong winds, and on 7 April it went down in flames with its whole crew over the [Strait of Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto), on its way to Malta.
+Soon after the raid the commanders of the Naples anti-aircraft defences were dismissed, and according to some sources so were the commanders at [Foggia](https://pl.wikipedia.org/wiki/Foggia) and [Termoli](https://pl.wikipedia.org/wiki/Termoli). A squadron of fighter [seaplanes](/slownik/wodnosamolot) was sent to defend the Bay of Naples. The raid had no military significance, but it showed that German airships could reach cities hundreds of kilometres from the front and from their own bases. For L 59 it was one of its last flights. On 20 March it had to break off a flight to [Port Said](https://pl.wikipedia.org/wiki/Port_Said) because of strong winds, and on 7 April it went down in flames with its whole crew over the [Strait of Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto), on its way to Malta.

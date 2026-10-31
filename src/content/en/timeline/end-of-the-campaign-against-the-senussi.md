@@ -2,10 +2,10 @@
 title: End of the campaign against the Senussi
 summary: On 8 February 1917 an armoured car column returned from Siwa to Mersa Matruh. The war with the Senussi order on Egypt's western frontier was over.
 source: koniec-operacji-przeciw-senusjom
-sourceHash: f7fc71cec678523683d9a3d92f0c0d63126baf0e
+sourceHash: b8f56a97a188e2df2ce148b9a56730b130d2ea0f
 ---
 
-On 8 February 1917 Brigadier-General H. W. Hodgson's column of armoured cars returned to [Mersa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) after its raid on the oasis of [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)). In a week it had twice crossed over 300 kilometres of desert, [broken up the order's camp at Girba](/walki-w-oazie-siwa) and taken Siwa, losing only three slightly wounded officers and one lorry with broken springs. The British chronology of the war closes with this date the operations against the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order, begun in November 1915. The British official history of the operations in Egypt states that from this moment the western frontier of the country disappears from the scene of the war.
+On 8 February 1917 Brigadier-General H. W. Hodgson's column of armoured cars returned to [Mersa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) after its raid on the oasis of [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)). In a week it had twice crossed over 300 kilometres of desert, [broken up the order's camp at Girba](/walki-w-oazie-siwa) and taken Siwa, losing only three slightly wounded officers and one lorry with broken springs. The British chronology of the war closes with this date the operations against the [Senussi](/slownik/sanusijja) order, begun in November 1915. The British official history of the operations in Egypt states that from this moment the western frontier of the country disappears from the scene of the war.
 
 ## An incomplete success
 

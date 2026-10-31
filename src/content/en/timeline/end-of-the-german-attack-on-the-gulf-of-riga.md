@@ -2,7 +2,7 @@
 title: End of the German attack on the Gulf of Riga
 summary: On 21 August 1915 German ships left the Irbe Strait. They had broken into the Gulf of Riga but neither destroyed the battleship Slava nor mined Moon Sound.
 source: koniec-niemieckiego-ataku-na-zatoke-ryska
-sourceHash: 447b62c709045f84ccc507b69899a401b533918b
+sourceHash: d59215b29ed1e9f49898c0fb0b1acd505dd498f0
 ---
 
 On 21 August 1915 (8 August in the Julian calendar) the last German ships left the [Irbe Strait](https://pl.wikipedia.org/wiki/Cieśnina_Irbe). This ended the two-week operation in which the German fleet had tried to gain command of the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). Vice-Admiral Ehrhard Schmidt's force had already left the gulf itself the previous afternoon, after a stay of less than two days.
@@ -17,7 +17,7 @@ On the morning of 20 August German torpedo boats brought three old steamers into
 
 At the same time Schmidt was supposed to lay mines in Moon Sound, the passage linking the gulf with the [Gulf of Finland](https://pl.wikipedia.org/wiki/Zatoka_Fińska), through which the Russians moved their ships. In the morning he gave up. In the narrow passage, suspected of being mined, and with visibility of four nautical miles, his ships had no freedom of manoeuvre, and one of the torpedo boats reported a submarine. The admiral also judged that an unguarded barrage would hold up the Russians for a few days at most, since the Germans were going to leave the gulf anyway. A demonstrative bombardment of the fortifications at the mouth of the Dvina was also called off. As the main reason for the withdrawal, the German official history gives the exhaustion of the minesweepers after many days of work and the difficulty of supplying coal to the covering force of Vice-Admiral [Franz von Hipper](/postacie/franz-von-hipper).
 
-On the afternoon of 20 August the dreadnoughts and cruisers left the gulf and anchored in the Irbe Strait. On the morning of 21 August the minesweepers collected the buoys marking the passage through the minefields. The Germans left only markers at the turning points, in case a new army offensive against [Riga](https://pl.wikipedia.org/wiki/Ryga) required them to enter the gulf again. Sappers blew up the wreck of *V 99*, which was sticking out of the water. During the day the ships dispersed to [Libau](https://pl.wikipedia.org/wiki/Lipawa), [Danzig](https://pl.wikipedia.org/wiki/Gdańsk) and Kiel, and in the evening the covering force was disbanded. The Kaiser ordered the ships of the High Seas Fleet to be sent back to the North Sea.
+On the afternoon of 20 August the dreadnoughts and cruisers left the gulf and anchored in the Irbe Strait. On the morning of 21 August the minesweepers collected the buoys marking the passage through the minefields. The Germans left only markers at the turning points, in case a new army offensive against [Riga](https://pl.wikipedia.org/wiki/Ryga) required them to enter the gulf again. Sappers blew up the wreck of *V 99*, which was sticking out of the water. During the day the ships dispersed to [Libau](/miejsca/lipawa), [Danzig](https://pl.wikipedia.org/wiki/Gdańsk) and Kiel, and in the evening the covering force was disbanded. The Kaiser ordered the ships of the High Seas Fleet to be sent back to the North Sea.
 
 ## Balance
 

@@ -2,14 +2,14 @@
 title: End of the Battle of the Stryi
 summary: On 11 June 1915 the South Army, earlier pushed back over the Dniester, attacked again near Żydaczów. The British chronology ends the Stryi battle that day.
 source: koniec-bitwy-nad-stryjem
-sourceHash: 8d10adb422e56bca8b2ed793f5967d7522baff74
+sourceHash: deca74c9222c694e927086bf96c0186ac157d906
 ---
 
 The British chronology of the war records under 11 June 1915 the end of the battle on the [Stryi](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), which had been going on since 24 May. In those less than three weeks General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German–Austrian [South Army](/sily-zbrojne/armia-poludniowa) took the town of Stryi, reached the [Dniester](/miejsca/dniestr) and [entered Stanisławów](/austriacy-odbijaja-stanislawow). The last days of the battle, however, brought it a serious crisis. On 11 June Linsingen tried to master it with a new attack along the Dniester towards [Żydaczów](https://pl.wikipedia.org/wiki/Żydaczów).
 
 ## After the Russian counter-offensive
 
-General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s Russian [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)), reinforced by the fresh VI Corps, struck on 8 and 9 June near Żydaczów and Mikołajów. It routed several brigades of General Sándor Szurmay's corps and came within 12 kilometres of Stryi, and at Bukaczowce it broke through the front on the northern bank of the Dniester. During the night of 9–10 June General Felix von Bothmer's German corps withdrew from the bridgehead at [Żurawno](https://pl.wikipedia.org/wiki/Żurawno) to the southern bank of the river. The gains of the previous week had been lost.
+General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s Russian [Eleventh Army](/sily-zbrojne/11-armia-rosyjska), reinforced by the fresh VI Corps, struck on 8 and 9 June near Żydaczów and Mikołajów. It routed several brigades of General Sándor Szurmay's corps and came within 12 kilometres of Stryi, and at Bukaczowce it broke through the front on the northern bank of the Dniester. During the night of 9–10 June General Felix von Bothmer's German corps withdrew from the bridgehead at [Żurawno](https://pl.wikipedia.org/wiki/Żurawno) to the southern bank of the river. The gains of the previous week had been lost.
 
 Linsingen quickly regrouped his army. Bothmer, with the German 3rd Guard Infantry Division, 1st Infantry Division and 48th Reserve Division, the Hungarian 40th Honvéd Division and the Austro-Hungarian 1st Cavalry Division, was to strike along the Dniester upstream, into the flank of the Russians attacking Szurmay. General Friedrich von Gerok's corps, with the bled-white 38th Honvéd Division, now down to only about 1,100 rifles, and half of the Austro-Hungarian 19th Division, was to guard the Dniester between Ostrów and Żurawno. At Stanisławów and [Halicz](https://pl.wikipedia.org/wiki/Halicz_(miasto)) there remained only General Marschall's group with the German 5th Cavalry Division and General Peter Hofmann's corps, about 7,000 men strong. The Austro-Hungarian high command sent General Berndt's 4th Cavalry Division, reinforced with several infantry battalions and batteries, to help the army's left wing.
 

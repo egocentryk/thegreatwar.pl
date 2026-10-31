@@ -2,10 +2,10 @@
 title: Sinking of HMS Cassandra
 summary: On the night of 4–5 December 1918 the British cruiser Cassandra, sailing with a squadron to help Estonia, struck a German mine off Saaremaa. 11 sailors died.
 source: zatoniecie-cassandry
-sourceHash: e6c945b63f7304a63444643c1f659bc31efd2e63
+sourceHash: eb63cd9b55c36e5de0bd920256bec76188c78a40
 ---
 
-On 4 December 1918 a British squadron under Rear-Admiral Edwyn Alexander-Sinclair sailed north from [Libau](https://pl.wikipedia.org/wiki/Lipawa) in Latvia: according to Estonian accounts, four [light cruisers](https://pl.wikipedia.org/wiki/Krążowniki_lekkie_typu_C) and nine destroyers. It was bound for [Tallinn](https://pl.wikipedia.org/wiki/Tallinn), the capital of Estonia, against which the [Red Army had been advancing](/bolszewicy-zdobywaja-narwe) for a week. During the night of 4–5 December, in the open sea west of the island of [Saaremaa](https://pl.wikipedia.org/wiki/Sarema), the cruiser *Cassandra* struck a mine from a German barrage laid during the war and not marked on British charts. A British chronology of the war records the sinking under 4 December, with the note "night of 4th/5th", while some accounts give 5 December.
+On 4 December 1918 a British squadron under Rear-Admiral Edwyn Alexander-Sinclair sailed north from [Libau](/miejsca/lipawa) in Latvia: according to Estonian accounts, four [light cruisers](https://pl.wikipedia.org/wiki/Krążowniki_lekkie_typu_C) and nine destroyers. It was bound for [Tallinn](https://pl.wikipedia.org/wiki/Tallinn), the capital of Estonia, against which the [Red Army had been advancing](/bolszewicy-zdobywaja-narwe) for a week. During the night of 4–5 December, in the open sea west of the island of [Saaremaa](https://pl.wikipedia.org/wiki/Sarema), the cruiser *Cassandra* struck a mine from a German barrage laid during the war and not marked on British charts. A British chronology of the war records the sinking under 4 December, with the note "night of 4th/5th", while some accounts give 5 December.
 
 ## A squadron in the Baltic
 

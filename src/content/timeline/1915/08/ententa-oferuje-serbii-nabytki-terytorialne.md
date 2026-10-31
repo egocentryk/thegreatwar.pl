@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 15 sierpnia 1915 roku posłowie Rosji, Wielkiej Brytanii i Francji w [Niszu](https://pl.wikipedia.org/wiki/Nisz), gdzie od początku wojny mieścił się rząd serbski, wręczyli premierowi [Nikoli Pašiciowi](/postacie/nikola-pasic) podpisaną w imieniu swoich rządów notę. Mocarstwa Ententy po raz pierwszy wyliczały w niej konkretnie, co Serbia otrzyma po zwycięskiej wojnie, jeśli przyjmie ich stanowisko w sprawie Macedonii. Czwarty sojusznik, Włochy, w tym kroku nie uczestniczył. Poseł włoski, baron Nicola Squitti, nie miał jeszcze instrukcji, a rząd w Rzymie spierał się z sojusznikami o treść dokumentu. Przebieg wydarzeń znamy z jego depesz, opublikowanych później w zbiorze włoskich dokumentów dyplomatycznych.
+Wieczorem 15 sierpnia 1915 roku posłowie Rosji, Wielkiej Brytanii i Francji w [Niszu](/miejsca/nisz), gdzie od początku wojny mieścił się rząd serbski, wręczyli premierowi [Nikoli Pašiciowi](/postacie/nikola-pasic) podpisaną w imieniu swoich rządów notę. Mocarstwa Ententy po raz pierwszy wyliczały w niej konkretnie, co Serbia otrzyma po zwycięskiej wojnie, jeśli przyjmie ich stanowisko w sprawie Macedonii. Czwarty sojusznik, Włochy, w tym kroku nie uczestniczył. Poseł włoski, baron Nicola Squitti, nie miał jeszcze instrukcji, a rząd w Rzymie spierał się z sojusznikami o treść dokumentu. Przebieg wydarzeń znamy z jego depesz, opublikowanych później w zbiorze włoskich dokumentów dyplomatycznych.
 
 ## Macedonia dla Bułgarii
 

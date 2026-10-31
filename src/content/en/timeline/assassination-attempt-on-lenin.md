@@ -2,7 +2,7 @@
 title: Assassination attempt on Lenin
 summary: On 30 August 1918 Lenin was gravely wounded in Moscow; that morning Uritsky, the Petrograd Cheka chief, was killed. The Bolsheviks answered with Red Terror.
 source: zamach-na-lenina
-sourceHash: a85ba3907cd38cb069bcb6fe6d336b734427ddb7
+sourceHash: bcd591958ac6f774f8c28d2890310818fe9809bf
 brief:
   - "On the evening of 30 August 1918 in Moscow, after a rally at the Michelson works, shots were fired at Vladimir Lenin. Two bullets hit him in the neck and shoulder, and for several days it was uncertain whether he would survive."
   - "That morning in Petrograd the poet Leonid Kannegisser had shot dead the chairman of the Petrograd Cheka, Moisei Uritsky. In the summer of 1918 Bolshevik power hung by a thread."
@@ -17,7 +17,7 @@ brief:
 
 In the summer of 1918 Bolshevik power hung by a thread. In the east the [Czechoslovak Legion](/bunt-legionu-czechoslowackiego) and the troops of the Samara [Komuch](https://pl.wikipedia.org/wiki/Komucz) were pushing along the Volga, and at the beginning of August they [took Kazan](/czechoslowacy-zajmuja-kazan) with the state gold reserve. In the north the Allies [landed at Archangel](/alianci-w-archangielsku). In Moscow and Petrograd themselves officers, Socialist Revolutionaries and Entente intelligence agents were conspiring. In June the commissar for the press, V. Volodarsky, was killed in Petrograd by a Socialist Revolutionary assassin, and on 6 July the Left Socialist Revolutionaries [killed the German envoy Mirbach](/zabojstwo-mirbacha). Repression was already under way: the Cheka, [created in December 1917](/powolanie-czeka), was shooting more and more people, often without trial.
 
-The Socialist Revolutionaries, who had won the elections to the [Constituent Assembly](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze), had not forgiven Lenin for [dispersing it in January](/rozpedzenie-konstytuanty). Part of the [Socialist Revolutionary Party](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów) returned to the methods it had used against tsarist dignitaries before the revolution.
+The Socialist Revolutionaries, who had won the elections to the [Constituent Assembly](/slownik/konstytuanta), had not forgiven Lenin for [dispersing it in January](/rozpedzenie-konstytuanty). Part of the [Socialist Revolutionary Party](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów) returned to the methods it had used against tsarist dignitaries before the revolution.
 
 ## The shot in Petrograd
 

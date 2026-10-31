@@ -2,10 +2,10 @@
 title: British retake Sollum
 summary: On 14 March 1916 General Peyton's troops entered Sollum unopposed, and the Duke of Westminster's armoured cars routed the fleeing Senussi forces.
 source: brytyjczycy-odzyskuja-as-sallum
-sourceHash: cc4f62492b600586094e21569f0ff9d68b269843
+sourceHash: 7b43cb32ae48b745431cea10356c9bb68f9d7335
 ---
 
-On the afternoon of 14 March 1916 British cavalry and two battalions of South African infantry entered [Sollum](https://pl.wikipedia.org/wiki/As-Sallum), a small port on the Egyptian-Libyan border. The forces of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order had left the town in haste, without a fight. The British returned there less than four months after they had [withdrawn the Egyptian garrison](/brytyjczycy-opuszczaja-as-sallum) to Mersa Matruh in November 1915. The same day armoured cars caught up with the fleeing Senussi forces in the desert and took all their artillery.
+On the afternoon of 14 March 1916 British cavalry and two battalions of South African infantry entered [Sollum](https://pl.wikipedia.org/wiki/As-Sallum), a small port on the Egyptian-Libyan border. The forces of the [Senussi](/slownik/sanusijja) order had left the town in haste, without a fight. The British returned there less than four months after they had [withdrawn the Egyptian garrison](/brytyjczycy-opuszczaja-as-sallum) to Mersa Matruh in November 1915. The same day armoured cars caught up with the fleeing Senussi forces in the desert and took all their artillery.
 
 ## The march across the plateau
 

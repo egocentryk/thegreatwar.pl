@@ -2,7 +2,7 @@
 title: Currie takes command of the Canadian Corps
 summary: On 9 June 1917 General Arthur Currie officially succeeded Julian Byng in command of the Canadian Corps. He was the first Canadian to lead the whole corps.
 source: currie-dowodca-korpusu-kanadyjskiego
-sourceHash: be0a734c16f1e7ecde12c553ff9edaed3f6e9a3e
+sourceHash: f45e5d879a2942d633cf7b940e030eeb8315bbe4
 ---
 
 On 9 June 1917 General [Arthur Currie](/postacie/arthur-currie) officially took command of the Canadian Corps. That day his promotion to lieutenant-general took effect, and the previous corps commander, the Briton [Julian Byng](/postacie/julian-byng), moved to command the British Third Army. Byng had commanded the Canadians since May 1916 and had prepared them for the [capture of Vimy Ridge](/bitwy/bitwa-o-grzbiet-vimy). Currie was the first Canadian to lead the whole corps. The British chronology of the war gives 19 June as the date of his appointment, but according to the Canadian official history he had been in command of the corps since 9 June.
@@ -23,4 +23,4 @@ The new commander also had an embarrassing secret. Before the war he had run int
 
 ## Significance
 
-The Canadian Corps, made up of four divisions, had until then been commanded by British generals: from September 1915 by Edwin Alderson and from May 1916 by Byng. The corps staff was still largely British, but from then on Currie upheld the principle that the Canadian divisions should fight together under his command. As early as July he was given his first independent task: the attack at [Lens](https://pl.wikipedia.org/wiki/Lens), which in August led to the Battle of Hill 70.
+The Canadian Corps, made up of four divisions, had until then been commanded by British generals: from September 1915 by Edwin Alderson and from May 1916 by Byng. The corps staff was still largely British, but from then on Currie upheld the principle that the Canadian divisions should fight together under his command. As early as July he was given his first independent task: the attack at [Lens](/miejsca/lens), which in August led to the Battle of Hill 70.

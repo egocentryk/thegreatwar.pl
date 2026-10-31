@@ -15,7 +15,7 @@ draft: false
 
 ## Twierdza na górze
 
-Mora leży około 160 kilometrów na południe od [jeziora Czad](https://pl.wikipedia.org/wiki/Czad_(jezioro)), blisko granicy z Nigerią. Stacjonowała tu kompania [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), niemieckich wojsk kolonialnych, pod dowództwem kapitana Ernsta von Rabena. Liczyła kilkunastu Europejczyków i ponad stu afrykańskich żołnierzy (askarysów). Na wieść o wojnie Niemcy obsadzili górę wznoszącą się nad miastem, o stromych, skalistych zboczach, i zamienili ją w naturalną twierdzę.
+Mora leży około 160 kilometrów na południe od [jeziora Czad](https://pl.wikipedia.org/wiki/Czad_(jezioro)), blisko granicy z Nigerią. Stacjonowała tu kompania [Schutztruppe](/slownik/schutztruppe), niemieckich wojsk kolonialnych, pod dowództwem kapitana Ernsta von Rabena. Liczyła kilkunastu Europejczyków i ponad stu afrykańskich żołnierzy (askarysów). Na wieść o wojnie Niemcy obsadzili górę wznoszącą się nad miastem, o stromych, skalistych zboczach, i zamienili ją w naturalną twierdzę.
 
 ## Nieudany szturm
 

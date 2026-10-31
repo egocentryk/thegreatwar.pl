@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 marca 1916 roku po południu brytyjska jazda i dwa bataliony piechoty południowoafrykańskiej weszły do [As-Sallum](https://pl.wikipedia.org/wiki/As-Sallum), małego portu przy granicy egipsko-libijskiej. Wojska bractwa [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) opuściły miasto w pośpiechu, bez walki. Brytyjczycy wrócili tam po niespełna czterech miesiącach od chwili, gdy w listopadzie 1915 roku [wycofali egipski garnizon](/brytyjczycy-opuszczaja-as-sallum) do Marsa Matruh. Tego samego dnia samochody pancerne dopadły na pustyni uchodzące siły bractwa i odebrały im całą artylerię.
+14 marca 1916 roku po południu brytyjska jazda i dwa bataliony piechoty południowoafrykańskiej weszły do [As-Sallum](https://pl.wikipedia.org/wiki/As-Sallum), małego portu przy granicy egipsko-libijskiej. Wojska bractwa [Sanusijja](/slownik/sanusijja) opuściły miasto w pośpiechu, bez walki. Brytyjczycy wrócili tam po niespełna czterech miesiącach od chwili, gdy w listopadzie 1915 roku [wycofali egipski garnizon](/brytyjczycy-opuszczaja-as-sallum) do Marsa Matruh. Tego samego dnia samochody pancerne dopadły na pustyni uchodzące siły bractwa i odebrały im całą artylerię.
 
 ## Marsz przez płaskowyż
 

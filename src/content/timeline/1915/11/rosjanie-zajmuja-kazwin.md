@@ -25,6 +25,6 @@ Przerzucenie tak licznej kawalerii przez [Morze Kaspijskie](https://pl.wikipedia
 
 ## W pobliżu stolicy
 
-Według Sykesa oddziały z Kazwinu, w miarę jak sytuacja stawała się groźniejsza, wysunęły się nad rzekę [Karadż](https://pl.wikipedia.org/wiki/Karadż), około 40 kilometrów od Teheranu. W stolicy rozeszła się pogłoska, że Rosjanie wejdą do miasta i pojmą szacha [Ahmada](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar). Proniemieccy deputowani, dziennikarze i żandarmi zaczęli wyjeżdżać na południe, do [Kumu](https://pl.wikipedia.org/wiki/Kom_(miasto)). W połowie listopada za nimi ruszyli posłowie państw centralnych, licząc, że szach pojedzie razem z nimi.
+Według Sykesa oddziały z Kazwinu, w miarę jak sytuacja stawała się groźniejsza, wysunęły się nad rzekę [Karadż](https://pl.wikipedia.org/wiki/Karadż), około 40 kilometrów od Teheranu. W stolicy rozeszła się pogłoska, że Rosjanie wejdą do miasta i pojmą szacha [Ahmada](/postacie/ahmad-szah-kadzar). Proniemieccy deputowani, dziennikarze i żandarmi zaczęli wyjeżdżać na południe, do [Kumu](https://pl.wikipedia.org/wiki/Kom_(miasto)). W połowie listopada za nimi ruszyli posłowie państw centralnych, licząc, że szach pojedzie razem z nimi.
 
 Pierwszy cel wyprawy został osiągnięty bez jednego wystrzału: obecność Rosjan pod Teheranem przekreśliła niemieckie plany wciągnięcia Persji do wojny. W grudniu oddziały Baratowa ruszyły z Kazwinu dalej, przeciw ośrodkom proniemieckim w Hamadanie i Kumie, i zaczęła się prawdziwa kampania perska. Kazwin na całą zimę pozostał główną bazą korpusu.

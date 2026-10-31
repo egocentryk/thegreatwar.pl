@@ -2,10 +2,10 @@
 title: Bukovinian deputation in Iași
 summary: On 29 November 1918 a delegation of the General Congress of Bukovina led by Iancu Flondor presented King Ferdinand in Iași with the act of union with Romania.
 source: deputacja-bukowiny-w-jassach
-sourceHash: 4ccf4eb5fb8f18e61690e067d1efef2bc527f4e1
+sourceHash: 519e5184eb6527e009923238dd7d4cd0b98c588c
 ---
 
-On 29 November 1918 (16 November in the Julian calendar, which Romania still used at the time) in [Iași](https://pl.wikipedia.org/wiki/Jassy) King [Ferdinand I](/postacie/ferdynand-i-rumunski) received a deputation from Bukovina, which brought him the resolution on the country's union with Romania. The delegation had left [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce) immediately after the General Congress of Bukovina had [voted for union](/unia-bukowiny-z-rumunia) the day before. This is how Romanian studies date the ceremony; some authors give 30 November. The British chronology of the war records the arrival in Iași of a deputation of the Bukovinian National Council only under 7 December.
+On 29 November 1918 (16 November in the Julian calendar, which Romania still used at the time) in [Iași](https://pl.wikipedia.org/wiki/Jassy) King [Ferdinand I](/postacie/ferdynand-i-rumunski) received a deputation from Bukovina, which brought him the resolution on the country's union with Romania. The delegation had left [Czernowitz](/miejsca/czerniowce) immediately after the General Congress of Bukovina had [voted for union](/unia-bukowiny-z-rumunia) the day before. This is how Romanian studies date the ceremony; some authors give 30 November. The British chronology of the war records the arrival in Iași of a deputation of the Bukovinian National Council only under 7 December.
 
 The congress elected a fifteen-member delegation. It was headed by the president of the congress and of the National Council, Iancu Flondor, and the Orthodox Metropolitan of Bukovina, Vladimir de Repta. Its members included the historian Ion Nistor, Dionisie Bejan, Eudoxiu Hurmuzachi, Radu Sbiera and the lawyer Vasile Bodnărescu, who had earlier travelled to Iași to ask for troops to be sent to Bukovina, as well as a representative of the Bukovinian Poles, the physician Stanisław Kwiatkowski.
 

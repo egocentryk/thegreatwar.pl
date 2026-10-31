@@ -29,4 +29,4 @@ Marixowi dopisało szczęście. Odnalazł hangar w Düsseldorfie i pod ogniem ka
 
 Samolot Marixa został uszkodzony ogniem z ziemi i pilot musiał lądować w polu, około 30 kilometrów przed Antwerpią. Do lotniska dotarł pociągiem i pożyczonym rowerem. Zastał je niemal opuszczone. Następnego dnia lotnicy wycofali się z miasta, które wkrótce potem przeszło w ręce Niemców.
 
-Grey i Marix otrzymali za nalot [Order Wybitnej Służby](https://pl.wikipedia.org/wiki/Order_Wybitnej_Służby). Oba naloty z Antwerpii miały niewielką skalę, ale pokazały, że samoloty mogą niszczyć cele w głębi kraju przeciwnika. Lotnictwo marynarki kontynuowało ataki na bazy sterowców. W listopadzie 1914 roku jego samoloty zbombardowały zakłady Zeppelina we Friedrichshafen nad Jeziorem Bodeńskim.
+Grey i Marix otrzymali za nalot [Order Wybitnej Służby](/slownik/order-wybitnej-sluzby). Oba naloty z Antwerpii miały niewielką skalę, ale pokazały, że samoloty mogą niszczyć cele w głębi kraju przeciwnika. Lotnictwo marynarki kontynuowało ataki na bazy sterowców. W listopadzie 1914 roku jego samoloty zbombardowały zakłady Zeppelina we Friedrichshafen nad Jeziorem Bodeńskim.

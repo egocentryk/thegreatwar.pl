@@ -2,10 +2,10 @@
 title: Crossing of the Jordan
 summary: On the night of 21–22 March 1918 London swimmers took ropes across the swollen Jordan at Hajlah. By 23 March the British had built five bridges over the river.
 source: przeprawa-przez-jordan
-sourceHash: 5d4757d8f0445ea5e39fbfb0e1903066aa178d01
+sourceHash: 8b10f674bdaa482ca038f45f887be755a7632352
 ---
 
-On the evening of 21 March 1918, the same day on which [the great German offensive began](/poczatek-operacji-michael) in France, British forces in Palestine assembled on the [Jordan](https://pl.wikipedia.org/wiki/Jordan_(rzeka)) east of [Jericho](https://pl.wikipedia.org/wiki/Jerycho). Major-General John Shea's 60th (London) Division was to cross the river and open the way to the plateau of Transjordan, towards the town of [Es Salt](https://pl.wikipedia.org/wiki/As-Salt) and [Amman](https://pl.wikipedia.org/wiki/Amman), where the British wanted to destroy the [Hejaz Railway](https://pl.wikipedia.org/wiki/Kolej_Hidżaska). Behind the infantry waited the Anzac Mounted Division and the Imperial Camel Corps Brigade. The crossing of the swollen, torrential river took a day longer than planned, but by the evening of 23 March five bridges stood over the Jordan.
+On the evening of 21 March 1918, the same day on which [the great German offensive began](/poczatek-operacji-michael) in France, British forces in Palestine assembled on the [Jordan](https://pl.wikipedia.org/wiki/Jordan_(rzeka)) east of [Jericho](https://pl.wikipedia.org/wiki/Jerycho). Major-General John Shea's 60th (London) Division was to cross the river and open the way to the plateau of Transjordan, towards the town of [Es Salt](https://pl.wikipedia.org/wiki/As-Salt) and [Amman](https://pl.wikipedia.org/wiki/Amman), where the British wanted to destroy the [Hejaz Railway](/slownik/kolej-hidzaska). Behind the infantry waited the Anzac Mounted Division and the Imperial Camel Corps Brigade. The crossing of the swollen, torrential river took a day longer than planned, but by the evening of 23 March five bridges stood over the Jordan.
 
 ## A swollen river
 

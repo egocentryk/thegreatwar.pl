@@ -2,10 +2,10 @@
 title: Farmanfarma becomes prime minister of Persia
 summary: At the end of December 1915 Prince Abdol-Hossein Mirza Farmanfarma of the Qajar dynasty, long tied to the British, became prime minister of Persia.
 source: farmanfarma-premierem-persji
-sourceHash: 6714b457860a4fba39abd467045bfe40adbc4aab
+sourceHash: 703b7e2c2f4cef7ef6fcc835006a736f93a0c6e9
 ---
 
-The British chronology of the war records under 25 December 1915 that Prince Abdol-Hossein Mirza Farmanfarma had become the new prime minister of [Persia](/kraje/persja). He replaced Mostowfi ol-Mamalek, who [had resigned the day before](/dymisja-mostowfiego-ol-mamalek). Persian lists of governments date the beginning of Farmanfarma's term of office to 3 Dey 1294 of the Iranian calendar, that is, to 24 December, and the report of the British minister Charles Marling on his appointment bears the same date. The available sources do not explain the one-day difference. What is certain is that Shah [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) handed the government to a man whom the Entente trusted more than anyone else in Tehran.
+The British chronology of the war records under 25 December 1915 that Prince Abdol-Hossein Mirza Farmanfarma had become the new prime minister of [Persia](/kraje/persja). He replaced Mostowfi ol-Mamalek, who [had resigned the day before](/dymisja-mostowfiego-ol-mamalek). Persian lists of governments date the beginning of Farmanfarma's term of office to 3 Dey 1294 of the Iranian calendar, that is, to 24 December, and the report of the British minister Charles Marling on his appointment bears the same date. The available sources do not explain the one-day difference. What is certain is that Shah [Ahmad](/postacie/ahmad-szah-kadzar) handed the government to a man whom the Entente trusted more than anyone else in Tehran.
 
 ## A prince of the Qajar dynasty
 

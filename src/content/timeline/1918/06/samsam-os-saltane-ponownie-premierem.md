@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Według brytyjskiej chronologii wojny 20 czerwca 1918 roku szach [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) ponownie powierzył urząd premiera Persji wodzowi [Bachtiarów](https://pl.wikipedia.org/wiki/Bachtiarowie) Nadżafkolemu Chanowi Samsamowi os-Saltane, który według tej samej chronologii [podał się do dymisji 31 maja](/samsam-os-saltane-premierem-persji). Perskie zestawienia rządów nie znają jednak tej przerwy. Traktują gabinet Samsama jako jeden rząd, trwający od 18 ordibeheszta do 15 mordada 1297 roku według kalendarza irańskiego, czyli od pierwszej dekady maja do początku sierpnia 1918 roku.
+Według brytyjskiej chronologii wojny 20 czerwca 1918 roku szach [Ahmad](/postacie/ahmad-szah-kadzar) ponownie powierzył urząd premiera Persji wodzowi [Bachtiarów](https://pl.wikipedia.org/wiki/Bachtiarowie) Nadżafkolemu Chanowi Samsamowi os-Saltane, który według tej samej chronologii [podał się do dymisji 31 maja](/samsam-os-saltane-premierem-persji). Perskie zestawienia rządów nie znają jednak tej przerwy. Traktują gabinet Samsama jako jeden rząd, trwający od 18 ordibeheszta do 15 mordada 1297 roku według kalendarza irańskiego, czyli od pierwszej dekady maja do początku sierpnia 1918 roku.
 
 ## Przebudowa gabinetu
 

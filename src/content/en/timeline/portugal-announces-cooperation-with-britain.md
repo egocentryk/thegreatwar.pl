@@ -2,7 +2,7 @@
 title: Portugal announces cooperation with Britain
 summary: On 23 November 1914 the Portuguese parliament authorised the government to take part in the war at Britain's side "when and how it deems necessary".
 source: portugalia-zapowiada-wspolprace-z-wielka-brytania
-sourceHash: 0d51ab627526756162bd3c601eb78c6cb34d3710
+sourceHash: a8374e42beb86bcde3c92408585921d72b4e6b73
 ---
 
 On 23 November 1914 the Congress, the parliament of the [Portuguese Republic](/kraje/portugalia), met in an extraordinary session. Prime Minister [Bernardino Machado](/postacie/bernardino-machado) presented a bill authorising the government to intervene militarily in the ongoing war "when and how it deems necessary" for the interests and duties of Portugal as a free nation and an ally of England. Congress granted the government this authority. It also agreed to hand over to the British, at their request, 20,000 rifles with ammunition and 56 guns. A British chronology of the war recorded this as an announcement of Portugal's future cooperation with Britain.
@@ -17,4 +17,4 @@ In the autumn the situation changed. France, in need of artillery, took an inter
 
 The resolution of 23 November did not mean a declaration of war on Germany or the dispatch of troops to France. The government began preparing an expeditionary division, but the army was not ready to fight in Europe, and the British quickly lost their enthusiasm for accepting it. On 12 December Machado's cabinet fell. In January 1915 a protest by officers against the war brought down the next government, and power was taken by General Joaquim Pimenta de Castro, who opposed intervention.
 
-Portugal entered the war only more than a year later. When in February 1916, at Britain's request, it requisitioned the German ships lying in its ports, Germany declared war on it on 9 March 1916. From 1917 the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) fought on the Western Front.
+Portugal entered the war only more than a year later. When in February 1916, at Britain's request, it requisitioned the German ships lying in its ports, Germany declared war on it on 9 March 1916. From 1917 the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) fought on the Western Front.

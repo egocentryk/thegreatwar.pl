@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Russia
 summary: On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg handed over the declaration of war. The monarchy's main front shifted to Galicia.
 source: austro-wegry-wypowiadaja-wojne-rosji
-sourceHash: 985ebcc0ef2c40c33df709f38f35596486a6ec21
+sourceHash: 6fb0142f28294c199501618e9ce313487410e855
 brief:
   - "On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg, Count Friedrich Szápáry, handed Sergey Sazonov a declaration of war on Russia."
   - "Austria-Hungary was the last of the great powers in the east to declare war, as it was still mobilising and had sent part of its forces against Serbia. Germany had declared war on Russia on 1 August."
@@ -23,7 +23,7 @@ The declaration of war meant that the main front of Austria-Hungary became [Gali
 
 ## The Polish dimension of the war
 
-For Poles the Austro-Russian war had special significance. For the first time since the partitions, two of the partitioning powers went to war against each other. On the same day, 6 August 1914, the [First Cadre Company](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) formed by [Józef Piłsudski](/postacie/jozef-pilsudski) set out from Kraków and crossed the border of the Kingdom of Poland. A few weeks later the [Polish Legions](/tematy/polskie-formacje-wojskowe), fighting alongside the Austro-Hungarian army, were formed on the basis of the Riflemen's units.
+For Poles the Austro-Russian war had special significance. For the first time since the partitions, two of the partitioning powers went to war against each other. On the same day, 6 August 1914, the [First Cadre Company](/slownik/kadrowka) formed by [Józef Piłsudski](/postacie/jozef-pilsudski) set out from Kraków and crossed the border of the Kingdom of Poland. A few weeks later the [Polish Legions](/tematy/polskie-formacje-wojskowe), fighting alongside the Austro-Hungarian army, were formed on the basis of the Riflemen's units.
 
 ## Significance
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Maximilian von Prittwitz, Hermann von François, August von Mackensen]
 result: Russian victory. The German 8th Army broke off the battle and withdrew, and its commander lost his post.
 source: bitwa-pod-gabinem
-sourceHash: fbf06bb65c60e83d94160a6ef737653d5db80ab1
+sourceHash: 8d264884331df97f29529fb18f3765d0f7ed3a41
 ---
 
-The [Battle of Gumbinnen](https://pl.wikipedia.org/wiki/Bitwa_pod_Gąbinem), known in Polish as the Battle of Gąbin, was fought on 20 August 1914 in [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), near the town that today bears the name [Gusev](https://pl.wikipedia.org/wiki/Gusiew). It was the first great battle on the Eastern Front and the only major Russian victory in the East Prussian campaign.
+The [Battle of Gumbinnen](https://pl.wikipedia.org/wiki/Bitwa_pod_Gąbinem), known in Polish as the Battle of Gąbin, was fought on 20 August 1914 in [East Prussia](/miejsca/prusy-wschodnie), near the town that today bears the name [Gusev](https://pl.wikipedia.org/wiki/Gusiew). It was the first great battle on the Eastern Front and the only major Russian victory in the East Prussian campaign.
 
 ## The Russian offensive
 

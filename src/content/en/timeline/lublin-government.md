@@ -2,10 +2,10 @@
 title: Lublin government
 summary: On the night of 6/7 November 1918 the pro-independence left set up the Provisional People's Government of the Republic of Poland in Lublin under Daszyński.
 source: rzad-lubelski
-sourceHash: 2d9cee5c8cafbc3ca659f95564bc223dec3fb8c0
+sourceHash: baab20b02c691162f0d4f23670f60380b6bcb966
 ---
 
-On the night of 6/7 November 1918 posters with the manifesto of a new authority were put up on the streets of [Lublin](https://pl.wikipedia.org/wiki/Lublin). It announced the creation of the [Provisional People's Government of the Republic of Poland](https://pl.wikipedia.org/wiki/Rząd_Ignacego_Daszyńskiego), headed by the Galician socialist [Ignacy Daszyński](/postacie/ignacy-daszynski). The government occupied the building of the former Austro-Hungarian general government, the [Lubomirski Palace](https://pl.wikipedia.org/wiki/Pałac_Lubomirskich_w_Lublinie) on Plac Litewski, and declared itself the authority for the whole of Poland, not just one partition. For the first time since the partitions, a government had been formed on Polish soil that called its state a republic.
+On the night of 6/7 November 1918 posters with the manifesto of a new authority were put up on the streets of [Lublin](/miejsca/lublin). It announced the creation of the [Provisional People's Government of the Republic of Poland](https://pl.wikipedia.org/wiki/Rząd_Ignacego_Daszyńskiego), headed by the Galician socialist [Ignacy Daszyński](/postacie/ignacy-daszynski). The government occupied the building of the former Austro-Hungarian general government, the [Lubomirski Palace](https://pl.wikipedia.org/wiki/Pałac_Lubomirskich_w_Lublinie) on Plac Litewski, and declared itself the authority for the whole of Poland, not just one partition. For the first time since the partitions, a government had been formed on Polish soil that called its state a republic.
 
 ## Why Lublin
 

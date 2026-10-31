@@ -2,7 +2,7 @@
 title: Paris and Chantilly conferences
 summary: On 15–16 November 1916 Allied commanders at Chantilly drew up the war plan for 1917, and politicians meeting at the same time in Paris in effect adopted it.
 source: konferencje-w-paryzu-i-chantilly
-sourceHash: 64e227754364dc960583d9dbdf1a3b54ad2316da
+sourceHash: a08072169e17b4353f35612ae21b60558623a3a8
 ---
 
 On 15 November 1916 the Allies gathered at two meetings at once. At the French Army's headquarters in [Chantilly](https://pl.wikipedia.org/wiki/Chantilly), under the chairmanship of General [Joseph Joffre](/postacie/joseph-joffre), the commanders-in-chief or their representatives met, while in Paris the French Prime Minister [Aristide Briand](/postacie/aristide-briand) hosted politicians from Britain, Italy and Russia. Both conferences lasted two days. For the soldiers this was another Chantilly meeting, after those of [December](/druga-konferencja-w-chantilly) and [March](/trzecia-konferencja-w-chantilly), at which the war plan for the following year was to be drawn up. The British wanted the politicians to have the first word this time. It ended the other way round.
@@ -17,7 +17,7 @@ According to the British official history, the mood at Chantilly was one of "sob
 
 The basis for discussion was a memorandum from the French staff. It calculated that on the Western Front the Allies had 168 divisions against 129 German ones, and argued that the offensives of 1916 had produced important but not decisive results. The Allies should therefore persevere on the same course: continue the operations already begun through the winter, and in the spring of 1917 seek a decision in new, coordinated offensives on all fronts. Haig declared that if necessary he could attack on a larger scale from 1 February, but would prefer to wait until about 1 May, when the British Army would reach its full strength. At Joffre's proposal it was agreed that the coalition's armies would be ready for general offensives from the first half of February, and that if the enemy had not regained the initiative by then, they could wait for the most favourable moment.
 
-The most disputes concerned the Balkans. The Italians, Russians and Serbs, and to a lesser extent the French, regarded the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) as very important. The Russians and Romanians wanted Bulgaria to be attacked from the south while they themselves advanced on the Danube. Robertson was extremely sceptical about Salonika and opposed any further commitment of British troops there, citing the difficulties of shipping in the Mediterranean, which in his view the Allies did not understand.
+The most disputes concerned the Balkans. The Italians, Russians and Serbs, and to a lesser extent the French, regarded the [Salonika front](/bitwy/front-salonicki) as very important. The Russians and Romanians wanted Bulgaria to be attacked from the south while they themselves advanced on the Danube. Robertson was extremely sceptical about Salonika and opposed any further commitment of British troops there, citing the difficulties of shipping in the Mediterranean, which in his view the Allies did not understand.
 
 ## The resolutions of 16 November
 

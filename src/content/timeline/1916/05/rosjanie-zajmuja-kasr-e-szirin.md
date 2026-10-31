@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 maja 1916 roku oddziały rosyjskiego korpusu ekspedycyjnego generała Nikołaja Baratowa zajęły [Kasr-e Szirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin), ostatnie perskie miasto na drodze z [Kermanszahu](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) do Bagdadu. Tę datę podają brytyjska chronologia wojny, brytyjska historia oficjalna kampanii mezopotamskiej i irański historyk Iradż Nasseri, który oparł się na źródłach perskich. Według W.E.D. Allena i Pawła Muratowa, autorów historii wojen kaukaskich, Baratow dotarł do miasta już kilka dni wcześniej, około 2–3 maja. Brytyjska kronika wydarzeń wojny R.P.P. Rowe'a notuje zajęcie Kasr-e Szirin dopiero pod 10 maja. Miasto leżało tuż przy granicy z osmańskim Irakiem, około 30 kilometrów od tureckiej bazy w [Chanakinie](https://pl.wikipedia.org/wiki/Chanakin).
+7 maja 1916 roku oddziały rosyjskiego korpusu ekspedycyjnego generała Nikołaja Baratowa zajęły [Kasr-e Szirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin), ostatnie perskie miasto na drodze z [Kermanszahu](/miejsca/kermanszah) do Bagdadu. Tę datę podają brytyjska chronologia wojny, brytyjska historia oficjalna kampanii mezopotamskiej i irański historyk Iradż Nasseri, który oparł się na źródłach perskich. Według W.E.D. Allena i Pawła Muratowa, autorów historii wojen kaukaskich, Baratow dotarł do miasta już kilka dni wcześniej, około 2–3 maja. Brytyjska kronika wydarzeń wojny R.P.P. Rowe'a notuje zajęcie Kasr-e Szirin dopiero pod 10 maja. Miasto leżało tuż przy granicy z osmańskim Irakiem, około 30 kilometrów od tureckiej bazy w [Chanakinie](https://pl.wikipedia.org/wiki/Chanakin).
 
 ## Marsz przez Zagros
 

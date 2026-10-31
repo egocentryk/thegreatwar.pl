@@ -14,7 +14,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Chronologie_der_Julikrise_1914"
 ---
 
-31 lipca 1914 roku o 15:30 z berlińskiego Centralnego Urzędu Telegraficznego wyszła pilna depesza kanclerza [Theobalda von Bethmanna Hollwega](/postacie/theobald-von-bethmann-hollweg) do ambasadora w [Petersburgu](https://pl.wikipedia.org/wiki/Petersburg), hrabiego Friedricha von Pourtalèsa. Było to ultimatum: [Rosja](/kraje/rosja) miała w ciągu dwunastu godzin wstrzymać przygotowania wojenne albo liczyć się z niemiecką [mobilizacją](https://pl.wikipedia.org/wiki/Mobilizacja). Kilka godzin wcześniej do Berlina dotarła wiadomość o [mobilizacji powszechnej w Rosji](/rosja-rozpoczyna-powszechna-mobilizacje).
+31 lipca 1914 roku o 15:30 z berlińskiego Centralnego Urzędu Telegraficznego wyszła pilna depesza kanclerza [Theobalda von Bethmanna Hollwega](/postacie/theobald-von-bethmann-hollweg) do ambasadora w [Petersburgu](https://pl.wikipedia.org/wiki/Petersburg), hrabiego Friedricha von Pourtalèsa. Było to ultimatum: [Rosja](/kraje/rosja) miała w ciągu dwunastu godzin wstrzymać przygotowania wojenne albo liczyć się z niemiecką [mobilizacją](/slownik/mobilizacja). Kilka godzin wcześniej do Berlina dotarła wiadomość o [mobilizacji powszechnej w Rosji](/rosja-rozpoczyna-powszechna-mobilizacje).
 
 ## Dwanaście godzin
 

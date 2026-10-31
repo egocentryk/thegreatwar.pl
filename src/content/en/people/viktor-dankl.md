@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Udine (Venetia)
 deathPlace: Innsbruck
 source: victor-dankl
-sourceHash: 9ecd50c8889f54f257785c4cbbbf18cbf6f07892
+sourceHash: ab6f71eaf19750e5de0071238af624e6b78154d2
 ---
 
 Viktor Dankl, from 1918 Count Dankl von Krasnik, was the commander who gave the Austro-Hungarian army its first victory of the First World War. On 23–25 August 1914 his First Army defeated the Russians at Kraśnik in the Lublin region, and the monarchy, just humiliated by defeat in Serbia, hailed him as a hero. The success proved short-lived, for two weeks later Dankl's army had to fall back from Lublin. In 1915, with very modest forces, he halted the Italians on the Tyrolean border, and in 1916 his Eleventh Army opened the great offensive from Tyrol. After it, amid quarrels with his superiors and because of illness, he left the front and held no further command until the end of the war.
@@ -19,7 +19,7 @@ In 1912 he took over XIV Corps in [Innsbruck](https://pl.wikipedia.org/wiki/Inns
 
 ## 1914: Kraśnik
 
-After mobilisation Dankl was given command of the [First Army](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)) of three corps, concentrated in the fork of the Vistula and the San. In the plan of the Chief of the General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), his army, together with the Fourth Army under General Moritz von Auffenberg, was to strike north from Galicia, deep into the Kingdom of Poland, and crush the Russians before they had assembled all their forces. On 23 August, in the hills and ravines south of [Kraśnik](https://pl.wikipedia.org/wiki/Kraśnik), his troops collided with the Russian Fourth Army under General Anton Salza. The Austro-Hungarians had numerical superiority and from the outset pushed back the enemy's right wing. On 25 August Dankl concentrated his attack on the left wing, and the Russians, threatened with envelopment, began to withdraw towards [Lublin](https://pl.wikipedia.org/wiki/Lublin).
+After mobilisation Dankl was given command of the [First Army](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)) of three corps, concentrated in the fork of the Vistula and the San. In the plan of the Chief of the General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), his army, together with the Fourth Army under General Moritz von Auffenberg, was to strike north from Galicia, deep into the Kingdom of Poland, and crush the Russians before they had assembled all their forces. On 23 August, in the hills and ravines south of [Kraśnik](https://pl.wikipedia.org/wiki/Kraśnik), his troops collided with the Russian Fourth Army under General Anton Salza. The Austro-Hungarians had numerical superiority and from the outset pushed back the enemy's right wing. On 25 August Dankl concentrated his attack on the left wing, and the Russians, threatened with envelopment, began to withdraw towards [Lublin](/miejsca/lublin).
 
 According to historians' estimates, the [Battle of Kraśnik](/bitwy/bitwa-pod-krasnikiem) cost about 15,000 Austro-Hungarian and about 25,000 Russian soldiers, including 6,000 prisoners. Salza lost his command. Soon afterwards Auffenberg won the [Battle of Komarów](/bitwy/bitwa-pod-komarowem), and for a moment Vienna believed that the campaign in the east was going according to plan. Dankl became a hero of the press and one of the most popular generals of the monarchy.
 

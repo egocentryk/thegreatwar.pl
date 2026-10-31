@@ -2,10 +2,10 @@
 title: Battle of Rarańcza begins
 summary: On 12 June 1915 the Legions' Second Brigade took Rarańcza in Bukovina unopposed, but was held up by Russian trenches on the hills above Rokitna in Bessarabia.
 source: poczatek-bitwy-pod-rarancza
-sourceHash: 5131403fa09cdc58eb8b6bb70a4888cd32123fd8
+sourceHash: 49bcb9ed717097f172ff250a7edd0a434d75d6da
 ---
 
-On 12 June 1915 the infantry of the [Second Brigade of the Polish Legions](https://pl.wikipedia.org/wiki/II_Brygada_Legionów_Polskich) took the village of [Rarańcza](https://pl.wikipedia.org/wiki/Ridkiwci) without a fight, north-east of [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce), right on the border of [Bukovina](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) with Russian [Bessarabia](https://pl.wikipedia.org/wiki/Besarabia). The legionaries got no further. Beyond the Rokitna stream, on the hills above the Bessarabian village of [Rokitna](https://pl.wikipedia.org/wiki/Rokytne_(obwód_czerniowiecki)), four lines of Russian trenches awaited them. So began the fighting that Legion memoirs called "the June fighting" at Rarańcza.
+On 12 June 1915 the infantry of the [Second Brigade of the Polish Legions](https://pl.wikipedia.org/wiki/II_Brygada_Legionów_Polskich) took the village of [Rarańcza](https://pl.wikipedia.org/wiki/Ridkiwci) without a fight, north-east of [Czernowitz](/miejsca/czerniowce), right on the border of [Bukovina](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) with Russian [Bessarabia](https://pl.wikipedia.org/wiki/Besarabia). The legionaries got no further. Beyond the Rokitna stream, on the hills above the Bessarabian village of [Rokitna](https://pl.wikipedia.org/wiki/Rokytne_(obwód_czerniowiecki)), four lines of Russian trenches awaited them. So began the fighting that Legion memoirs called "the June fighting" at Rarańcza.
 
 ## On the Bessarabian border
 

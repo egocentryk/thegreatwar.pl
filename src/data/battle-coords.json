@@ -1628,5 +1628,10 @@
     "lat": 49.15,
     "lon": 22.4,
     "source": "manual"
+  },
+  "front-salonicki": {
+    "lat": 41.05,
+    "lon": 22.2,
+    "source": "manual"
   }
 }

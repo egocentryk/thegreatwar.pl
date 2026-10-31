@@ -2,7 +2,7 @@
 title: First Gotha night raid on London
 summary: On the night of 4 September 1917 Gothas bombed London after dark for the first time. A bomb hit a tram by Cleopatra's Needle. In the capital 16 people died.
 source: pierwszy-nocny-nalot-gothow-na-londyn
-sourceHash: c5ef2ce52854f8d5e1fdc14aa1b53c4289ce0dc9
+sourceHash: 546983cd466d149477c17ca1ceb69dd7416f7064
 ---
 
 On the night of 4–5 September 1917 German Gotha bombers attacked [London](https://pl.wikipedia.org/wiki/Londyn) after dark for the first time. For nearly two hours, from 11 p.m. until almost 1 a.m., single aircraft appeared over various districts of the capital and dropped bombs. Sixteen people were killed and 56 injured. The defences, which over the summer had learnt to fight formations of bombers by day, were almost helpless at night. A new stage in the bombing of Britain had begun: from then on aeroplanes attacked London as the airships had done before them, under cover of darkness.
@@ -13,7 +13,7 @@ Night attacks by aeroplanes were not entirely new. As early as the night [of 6�
 
 The night was clear, the moon two days past full, with a moderate south-easterly wind. According to German documents later cited by the German historian of these raids, Major von Bülow, eleven Gothas took off and two turned back with engine failure. The bombers flew singly, at intervals. British observers, confused in the dark, reported 26 aircraft crossing the coast in seven groups between 10.20 p.m. and 12.10 a.m. It was the first example of how the number of attackers was exaggerated at night.
 
-Not all the Gothas reached their target. Bombs fell on fields in [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), near [Orford](https://pl.wikipedia.org/wiki/Orford_(Suffolk)) and [Aldeburgh](https://pl.wikipedia.org/wiki/Aldeburgh), and on villages in [Essex](https://pl.wikipedia.org/wiki/Essex), without doing much damage. One Gotha bombed [Margate](https://pl.wikipedia.org/wiki/Margate), another [Dover](https://pl.wikipedia.org/wiki/Dover), where three people were killed. Fifteen people were injured in Dover and Margate. According to Ian Castle, a British historian of the raids, five bombers reached London.
+Not all the Gothas reached their target. Bombs fell on fields in [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), near [Orford](https://pl.wikipedia.org/wiki/Orford_(Suffolk)) and [Aldeburgh](https://pl.wikipedia.org/wiki/Aldeburgh), and on villages in [Essex](https://pl.wikipedia.org/wiki/Essex), without doing much damage. One Gotha bombed [Margate](https://pl.wikipedia.org/wiki/Margate), another [Dover](/miejsca/dover), where three people were killed. Fifteen people were injured in Dover and Margate. According to Ian Castle, a British historian of the raids, five bombers reached London.
 
 ## Bombs over the capital
 

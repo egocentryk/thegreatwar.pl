@@ -2,7 +2,7 @@
 title: Demobilisation of the Greek army
 summary: On 27 June 1916 the Zaimis government demobilised the Greek army, as the Entente demanded. Released reservists began forming anti-Venizelist leagues.
 source: demobilizacja-armii-greckiej
-sourceHash: eebc2c83d1002775e6e9c072b6c5b0bc94626da7
+sourceHash: e298ff2063c9eb41bc8264db33b39481ea7d7d5e
 ---
 
 A British chronology of the war records under 27 June 1916, that is 14 June by the Julian calendar then used in Greece, that the Greek government ordered a general [demobilisation](https://pl.wikipedia.org/wiki/Demobilizacja) of the army. The New York monthly "Current History" gives the same date. This was the first and most important point of the [note handed over on 21 June](/ultimatum-ententy-wobec-grecji) in Athens by the ministers of France, Britain and Russia. In it the powers demanded "real and complete demobilisation" and the placing of the army on a peace footing as soon as possible. The new Prime Minister, [Alexandros Zaimis](/postacie/aleksandros-zaimis), accepted all the conditions and now began to carry them out.
@@ -21,4 +21,4 @@ The Entente, however, misjudged the mood of the returning soldiers. The British 
 
 ## Consequences
 
-Demobilisation weakened Greece where it was most dangerous. In August 1916 the Bulgarians advanced deep into Eastern Macedonia. According to the Greek official history, IV Corps in the Kavala area numbered about 600 officers and 8,500 men after the demobilisation, and the government forbade it to resist. The elections for which the Allies had demanded the release of the reservists never took place. The reservists' leagues, on the other hand, played a major role in the following months of the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa), especially during the clashes in Athens in December 1916.
+Demobilisation weakened Greece where it was most dangerous. In August 1916 the Bulgarians advanced deep into Eastern Macedonia. According to the Greek official history, IV Corps in the Kavala area numbered about 600 officers and 8,500 men after the demobilisation, and the government forbade it to resist. The elections for which the Allies had demanded the release of the reservists never took place. The reservists' leagues, on the other hand, played a major role in the following months of the [National Schism](/slownik/schizma-narodowa), especially during the clashes in Athens in December 1916.

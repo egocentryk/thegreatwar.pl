@@ -2,7 +2,7 @@
 title: Hindenburg takes command in the east
 summary: On 18 September 1914 General Paul von Hindenburg took command of the new Ninth Army, formed in Silesia to help Austria-Hungary after its defeat in Galicia.
 source: hindenburg-naczelnym-dowodca-na-wschodzie
-sourceHash: 300dff88fe39e7583d5d0c2474a08e0e1e0c0e16
+sourceHash: 4b1e38b74dddcdbdb49a21fb90f5f30560f7d76e
 ---
 
 On 18 September 1914 General [Paul von Hindenburg](/postacie/paul-von-hindenburg) took command of the newly forming German [Ninth Army](/sily-zbrojne/9-armia-niemiecka). The British chronology of the war describes this as his appointment as commander-in-chief of the German armies in the east. Formally, Hindenburg received that title, as Oberbefehlshaber Ost, only on 1 November. In September he commanded the Ninth Army, while the existing Eighth Army in East Prussia was taken over by General [Richard von Schubert](https://pl.wikipedia.org/wiki/Richard_von_Schubert). According to some accounts, however, Hindenburg retained authority over both armies, and in practice it was he and his chief of staff [Erich Ludendorff](/postacie/erich-ludendorff) who decided German operations in the east.
@@ -15,7 +15,7 @@ The new Chief of the German General Staff, [Erich von Falkenhayn](/postacie/eric
 
 ## The offensive on Warsaw
 
-For the Polish lands the decision of 18 September had direct consequences. On 28 September the Ninth Army began its advance through the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)) towards the Vistula, in cooperation with the Austro-Hungarians, who attacked in Galicia at the same time. At the beginning of October the Germans reached the Vistula, and their units under General [August von Mackensen](/postacie/august-von-mackensen) came within a dozen or so kilometres of Warsaw. In the [Battle of Warsaw and Ivangorod](https://pl.wikipedia.org/wiki/Bitwa_pod_Warszawą_i_Iwangorodem), that is, [Dęblin](https://pl.wikipedia.org/wiki/Dęblin), the Russians nevertheless gathered superior forces and from mid-October went over to counter-attacks. At the end of October Hindenburg withdrew the Ninth Army to the west. As he went, he destroyed roads, bridges and railway lines behind him to delay the Russian pursuit.
+For the Polish lands the decision of 18 September had direct consequences. On 28 September the Ninth Army began its advance through the [Kingdom of Poland](/miejsca/krolestwo-polskie) towards the Vistula, in cooperation with the Austro-Hungarians, who attacked in Galicia at the same time. At the beginning of October the Germans reached the Vistula, and their units under General [August von Mackensen](/postacie/august-von-mackensen) came within a dozen or so kilometres of Warsaw. In the [Battle of Warsaw and Ivangorod](https://pl.wikipedia.org/wiki/Bitwa_pod_Warszawą_i_Iwangorodem), that is, [Dęblin](https://pl.wikipedia.org/wiki/Dęblin), the Russians nevertheless gathered superior forces and from mid-October went over to counter-attacks. At the end of October Hindenburg withdrew the Ninth Army to the west. As he went, he destroyed roads, bridges and railway lines behind him to delay the Russian pursuit.
 
 ## Ober Ost
 

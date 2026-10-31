@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Ludwigsburg (Württemberg)
 deathPlace: Potsdam-Bornstedt
 source: wilhelm-groener
-sourceHash: 26e2fc41401a313e380e8bbb3663571bff7d92e0
+sourceHash: 116d2c11082f6206b406585b768f1927d6c7bc44
 ---
 
 Wilhelm Groener was one of the most able organisers of the Imperial Army and one of the few of its generals who understood that wars are fought not only by armies but by whole societies. In 1914 his railwaymen carried millions of soldiers to the frontiers. In 1916–1917 he directed the entire German war economy, and in 1918 the German occupation of Ukraine. In the last weeks of the war he replaced General Erich Ludendorff, and it was he who on 9 November 1918 told Wilhelm II that the army no longer stood behind him. A day later he made an agreement with Friedrich Ebert under which the army recognised the revolutionary government and the government relied on the army. The monarchists never forgave him for it, and the left still sees the pact as the original sin of the Weimar Republic.
@@ -31,7 +31,7 @@ Groener treated the trade unionists as partners, which the industrialists regard
 
 For half a year Groener commanded on the Western Front, first the 33rd Division and then the XXV Reserve Corps. At the turn of February and March 1918 he took over the I Army Corps, which was entering Ukraine after the Central Powers had concluded [peace with the Ukrainian People's Republic](/pokoj-brzeski-z-ukraina), and on 28 March he became chief of staff of the army group headed by Field Marshal [Hermann von Eichhorn](/postacie/hermann-von-eichhorn). His staff in Kiev, [occupied by the Germans at the beginning of March](/niemcy-zajmuja-kijow), in practice directed the whole of German policy in Ukraine. The main aim was grain and raw materials for starving Germany and Austria, which led to constant disputes with the Austro-Hungarian ally.
 
-The Ukrainian [Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada), left-wing and hostile to requisitioning, did not meet German expectations. In April Eichhorn's order on compulsory sowing of the fields led to open conflict. On 26 April Groener discussed with General [Pavlo Skoropadskyi](/postacie/pawlo-skoropadski) the terms of German support, and on 29 April Skoropadskyi [proclaimed himself Hetman](/skoropadski-hetmanem). Groener also took part in assembling the [Hetman's government](/rzad-lyzohuba) and rejected the demands of the Ukrainian socialist parties. In conversations with officers he warned against the Jews, whom he regarded as enemies of the German "power of order". After [Eichhorn's assassination](/zabojstwo-eichhorna) on 30 July 1918 he remained in his post until October.
+The Ukrainian [Central Rada](/slownik/ukrainska-centralna-rada), left-wing and hostile to requisitioning, did not meet German expectations. In April Eichhorn's order on compulsory sowing of the fields led to open conflict. On 26 April Groener discussed with General [Pavlo Skoropadskyi](/postacie/pawlo-skoropadski) the terms of German support, and on 29 April Skoropadskyi [proclaimed himself Hetman](/skoropadski-hetmanem). Groener also took part in assembling the [Hetman's government](/rzad-lyzohuba) and rejected the demands of the Ukrainian socialist parties. In conversations with officers he warned against the Jews, whom he regarded as enemies of the German "power of order". After [Eichhorn's assassination](/zabojstwo-eichhorna) on 30 July 1918 he remained in his post until October.
 
 ## Ludendorff's successor
 

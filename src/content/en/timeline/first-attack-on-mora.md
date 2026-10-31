@@ -2,14 +2,14 @@
 title: First attack on Mora
 summary: On 27 August 1914 a British force from Nigeria attacked the German post on Mora mountain in northern Kamerun. It was repulsed; Mora held out until 1916.
 source: pierwszy-atak-na-more
-sourceHash: ef17fa725a98e4eca3e38c003e79363117639f49
+sourceHash: 0e9c3bde5c0bae83766ea8bb7837e99052d6118a
 ---
 
 On 27 August 1914 a British force from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) attacked the German post at [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) in the north of [German Kamerun](/miejsca/kamerun). The attack failed. It was the beginning of the fighting for Mora, which went on intermittently for a year and a half.
 
 ## A mountain fortress
 
-Mora lies about 160 kilometres south of [Lake Chad](https://pl.wikipedia.org/wiki/Czad_(jezioro)), close to the border with Nigeria. It was garrisoned by a company of the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), the German colonial troops, under Captain Ernst von Raben. It numbered a dozen or so Europeans and more than a hundred African soldiers (askaris). On hearing of the war the Germans occupied the mountain rising above the town, with its steep, rocky slopes, and turned it into a natural fortress.
+Mora lies about 160 kilometres south of [Lake Chad](https://pl.wikipedia.org/wiki/Czad_(jezioro)), close to the border with Nigeria. It was garrisoned by a company of the [Schutztruppe](/slownik/schutztruppe), the German colonial troops, under Captain Ernst von Raben. It numbered a dozen or so Europeans and more than a hundred African soldiers (askaris). On hearing of the war the Germans occupied the mountain rising above the town, with its steep, rocky slopes, and turned it into a natural fortress.
 
 ## A failed assault
 

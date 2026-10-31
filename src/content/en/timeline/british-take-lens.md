@@ -2,10 +2,10 @@
 title: British take Lens
 summary: On 3 October 1918 the British entered Lens, abandoned by the Germans. After four years of occupation the mining town was a field of rubble.
 source: brytyjczycy-zajmuja-lens
-sourceHash: e3e9d03614a8992a72e87b81d3add0fff2c27dc0
+sourceHash: ea523be057778cfcb4ce928f2cf363ca086c3932
 ---
 
-On 3 October 1918 units of the British First Army found that the Germans had abandoned [Lens](https://pl.wikipedia.org/wiki/Lens), the mining town in the Pas-de-Calais department that they had [taken in October 1914](/niemcy-zajmuja-lens-i-bailleul). For four years it had lain just behind the German front line, an important supply centre of the German army and a target of constant shelling. The British entered it without a fight, because the Germans had withdrawn during the night to new positions further east.
+On 3 October 1918 units of the British First Army found that the Germans had abandoned [Lens](/miejsca/lens), the mining town in the Pas-de-Calais department that they had [taken in October 1914](/niemcy-zajmuja-lens-i-bailleul). For four years it had lain just behind the German front line, an important supply centre of the German army and a target of constant shelling. The British entered it without a fight, because the Germans had withdrawn during the night to new positions further east.
 
 The British chronology of the war places the capture of Lens under 3 September 1918, but that is a month out. At the beginning of September, after the withdrawal from the Lys salient, the British merely drew closer to the town, and as late as 13 September British GHQ intelligence reported that the Germans were defending in depth around Lens and expecting an attack. According to the British official history (James Edmonds, *Military Operations France and Belgium 1918*, vol. V), the town was empty only on 3 October. French sources often give 4 October as the date of liberation.
 

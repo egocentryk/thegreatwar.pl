@@ -2,10 +2,10 @@
 title: Defence of Upington
 summary: On 24 January 1915 the rebels of Maritz and Kemp, backed by German artillery, attacked Upington. Government troops beat them off after hours of fighting.
 source: obrona-upington
-sourceHash: b57cd9617378e029394e979a790f218d63370ef9
+sourceHash: a8d9ea2f9748b602d4733ff914e81a9cd3630551
 ---
 
-The British chronology of the war records under 23 and 24 January 1915 the defence of [Upington](https://pl.wikipedia.org/wiki/Upington), a small town on the [Orange](https://pl.wikipedia.org/wiki/Oranje) river in the northern part of the Cape Province of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). According to South African accounts, the rebels of Generals Manie Maritz and Jan Kemp attacked the town at dawn on Sunday 24 January. The date of 23 January probably refers to their approach to Upington. It was the last major engagement of the [Boer Revolt](/poczatek-rebelii-burskiej).
+The British chronology of the war records under 23 and 24 January 1915 the defence of [Upington](https://pl.wikipedia.org/wiki/Upington), a small town on the [Orange](https://pl.wikipedia.org/wiki/Oranje) river in the northern part of the Cape Province of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki). According to South African accounts, the rebels of Generals Manie Maritz and Jan Kemp attacked the town at dawn on Sunday 24 January. The date of 23 January probably refers to their approach to Upington. It was the last major engagement of the [Boer Revolt](/poczatek-rebelii-burskiej).
 
 ## The rebels' last card
 

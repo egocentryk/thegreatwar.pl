@@ -17,7 +17,7 @@ tags: [Serbia, Austro-Węgry, Radomir Putnik, Stepa Stepanović]
 milestone: false
 ---
 
-Ofensywa w Sremie była pierwszą i jedyną w 1914 roku próbą przeniesienia wojny przez armię serbską na terytorium Austro-Węgier. We wrześniu 1914 roku wojska serbskie przekroczyły [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) i wkroczyły do [Sremu](https://pl.wikipedia.org/wiki/Srem), żyznej krainy między Sawą a [Dunajem](https://pl.wikipedia.org/wiki/Dunaj), należącej wówczas do węgierskiej części monarchii i zamieszkanej w dużej mierze przez Serbów. Operacja trwała około tygodnia i zakończyła się odwrotem, bo Austro-Węgry uderzyły na Serbię od zachodu.
+Ofensywa w Sremie była pierwszą i jedyną w 1914 roku próbą przeniesienia wojny przez armię serbską na terytorium Austro-Węgier. We wrześniu 1914 roku wojska serbskie przekroczyły [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) i wkroczyły do [Sremu](https://pl.wikipedia.org/wiki/Srem), żyznej krainy między Sawą a [Dunajem](/miejsca/dunaj), należącej wówczas do węgierskiej części monarchii i zamieszkanej w dużej mierze przez Serbów. Operacja trwała około tygodnia i zakończyła się odwrotem, bo Austro-Węgry uderzyły na Serbię od zachodu.
 
 ## Niechciana ofensywa
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Franz von Hipper]
 result: British victory. The Germans lost the armoured cruiser Blücher and nearly a thousand men, the British not a single ship. The German battlecruisers managed to escape.
 source: bitwa-na-dogger-bank
-sourceHash: 09626fb3efcf12d2a64a1489193c92975ac48f38
+sourceHash: e90c3a476e70fdb4d3cd71fd0d3e649988991c09
 brief:
   - "On 24 January 1915 in the North Sea the battlecruisers of Vice-Admiral David Beatty clashed with the squadron of Rear-Admiral Franz von Hipper. It was the first clash of battlecruisers."
   - "British naval intelligence in Room 40 was reading German signals, so the Admiralty knew of Hipper's planned sortie to the Dogger Bank area. Beatty left Rosyth that same evening."
@@ -18,7 +18,7 @@ brief:
   - "In Britain the battle was hailed as a great victory, though a bigger success had been thrown away. In Germany Admiral Ingenohl was dismissed, and for over a year the big ships almost stopped putting out into the North Sea."
 ---
 
-The [Battle of Dogger Bank](https://pl.wikipedia.org/wiki/Bitwa_na_Dogger_Bank_(1915)) was fought on 24 January 1915 in the middle of the North Sea. It was the first clash of [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy), the fastest and most powerful ships of both fleets. The squadron of Vice-Admiral [David Beatty](/postacie/david-beatty), forewarned by British intelligence, intercepted a sortie by Rear-Admiral [Franz von Hipper](/postacie/franz-von-hipper) and chased him for several hours towards the German coast. The British sank the armoured cruiser *Blücher*, but because of damage to the flagship and a misunderstood signal they let three German battlecruisers escape.
+The [Battle of Dogger Bank](https://pl.wikipedia.org/wiki/Bitwa_na_Dogger_Bank_(1915)) was fought on 24 January 1915 in the middle of the North Sea. It was the first clash of [battlecruisers](/slownik/krazownik-liniowy), the fastest and most powerful ships of both fleets. The squadron of Vice-Admiral [David Beatty](/postacie/david-beatty), forewarned by British intelligence, intercepted a sortie by Rear-Admiral [Franz von Hipper](/postacie/franz-von-hipper) and chased him for several hours towards the German coast. The British sank the armoured cruiser *Blücher*, but because of damage to the flagship and a misunderstood signal they let three German battlecruisers escape.
 
 ## Name and dates
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska urzędowa chronologia wojny pod datą 14 listopada 1915 roku zapisała, że bractwo [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) rozpoczęło działania wojenne przeciw Brytyjczykom, atakując egipski posterunek w [As-Sallum](https://pl.wikipedia.org/wiki/As-Sallum). Źródła nie są tu zgodne co do dnia. Brytyjska historia oficjalna wojny morskiej podaje, że As-Sallum zaatakowano 15 listopada, a garnizon utrzymał pozycję. Historia oficjalna działań w Egipcie jako pierwszy konkretny incydent opisuje noc z 17 na 18 listopada, kiedy niewielki oddział ostrzelał obóz egipskiego garnizonu, inna grupa zabiła dwóch przyjaznych Brytyjczykom Beduinów i przecięła linię telegraficzną biegnącą wzdłuż wybrzeża. Wszystkie wersje zgadzają się w jednym: w połowie listopada pokój nad zachodnią granicą Egiptu się skończył.
+Brytyjska urzędowa chronologia wojny pod datą 14 listopada 1915 roku zapisała, że bractwo [Sanusijja](/slownik/sanusijja) rozpoczęło działania wojenne przeciw Brytyjczykom, atakując egipski posterunek w [As-Sallum](https://pl.wikipedia.org/wiki/As-Sallum). Źródła nie są tu zgodne co do dnia. Brytyjska historia oficjalna wojny morskiej podaje, że As-Sallum zaatakowano 15 listopada, a garnizon utrzymał pozycję. Historia oficjalna działań w Egipcie jako pierwszy konkretny incydent opisuje noc z 17 na 18 listopada, kiedy niewielki oddział ostrzelał obóz egipskiego garnizonu, inna grupa zabiła dwóch przyjaznych Brytyjczykom Beduinów i przecięła linię telegraficzną biegnącą wzdłuż wybrzeża. Wszystkie wersje zgadzają się w jednym: w połowie listopada pokój nad zachodnią granicą Egiptu się skończył.
 
 ## Szejk i jego doradcy
 

@@ -6,22 +6,22 @@ country: Russia
 birthPlace: Simferopol (Crimea)
 deathPlace: Moscow
 source: adolf-ioffe
-sourceHash: bedf5502c1cd4decdf2866c2fc29ced2c695b0be
+sourceHash: 3a13830773b0e038fd9f8edfe06711ee9d59cac0
 ---
 
 Adolph Joffe was the first diplomat of the Bolshevik revolution. A friend and the closest collaborator of [Leon Trotsky](/postacie/lew-trocki), a doctor by training and a revolutionary by conviction, in December 1917 he headed the delegation that negotiated an armistice with the Central Powers at Brest-Litovsk. It meant Russia's de facto exit from the war, and so from the Entente camp to which it formally belonged. At Brest Joffe presented the Soviet programme of a peace without annexations or indemnities, and later, as a member of the delegation, watched the Germans shatter these illusions. From the spring of 1918 he was the representative of Soviet Russia in Berlin, where he signed onerous agreements supplementing the Brest treaty while at the same time funding German revolutionaries. A few days before the end of the war the Germans expelled him from the country.
 
 ## Before the war
 
-He was born on 22 October 1883 (10 October in the Julian calendar) in [Simferopol](https://pl.wikipedia.org/wiki/Symferopol) in the Crimea, into a very wealthy merchant family. The family's origin was described as Jewish, and according to some sources as Karaite. His father owned postal and transport businesses in the Crimea and had connections with the minister Sergei Witte. While still at grammar school the son drew close to the Social Democrats, and from 1903 he was active in the party, associated with the [Menshevik](https://pl.wikipedia.org/wiki/Mienszewicy) faction. He worked illegally in Baku and Moscow, took part in the 1905 revolution, and studied medicine in Berlin and law in Zurich.
+He was born on 22 October 1883 (10 October in the Julian calendar) in [Simferopol](https://pl.wikipedia.org/wiki/Symferopol) in the Crimea, into a very wealthy merchant family. The family's origin was described as Jewish, and according to some sources as Karaite. His father owned postal and transport businesses in the Crimea and had connections with the minister Sergei Witte. While still at grammar school the son drew close to the Social Democrats, and from 1903 he was active in the party, associated with the [Menshevik](/slownik/mienszewicy) faction. He worked illegally in Baku and Moscow, took part in the 1905 revolution, and studied medicine in Berlin and law in Zurich.
 
 From 1906 he lived mainly in Vienna. There he became friends with Trotsky and in 1908–1912 helped him publish the newspaper *Pravda*, which he also supported with family money. In Vienna he completed his medical studies, and because of a neurosis he was treated by the psychiatrist [Alfred Adler](https://pl.wikipedia.org/wiki/Alfred_Adler), with whom he later worked. In 1912, during a trip to Russia, he was arrested in Odessa and, after sentencing, exiled to Siberia. There the war found him.
 
 ## 1917: with Trotsky to the Bolsheviks
 
-Freed by the February Revolution, in the spring of 1917 he came to Petrograd as a Menshevik internationalist opposed to the war. Together with Trotsky he joined the small group of the "Mezhraiontsy", which merged with the [Bolsheviks](https://pl.wikipedia.org/wiki/Bolszewicy) in the summer. At the Sixth Party Congress at the turn of July and August Joffe became a candidate member of the Central Committee, and soon its secretary. He led the Bolsheviks in the Petrograd city council.
+Freed by the February Revolution, in the spring of 1917 he came to Petrograd as a Menshevik internationalist opposed to the war. Together with Trotsky he joined the small group of the "Mezhraiontsy", which merged with the [Bolsheviks](/slownik/bolszewicy) in the summer. At the Sixth Party Congress at the turn of July and August Joffe became a candidate member of the Central Committee, and soon its secretary. He led the Bolsheviks in the Petrograd city council.
 
-In the autumn he backed [Vladimir Lenin](/postacie/wlodzimierz-lenin) and Trotsky in the dispute over the armed seizure of power. He sat on the Military Revolutionary Committee, which carried out the [October coup](/rewolucja-pazdziernikowa). Trotsky later wrote that during the days of the coup it was Joffe who chaired the committee; other sources name the Left Socialist Revolutionary Pavel Lazimir and Nikolai Podvoisky as its chairmen. Joffe was also elected to the [Constituent Assembly](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze).
+In the autumn he backed [Vladimir Lenin](/postacie/wlodzimierz-lenin) and Trotsky in the dispute over the armed seizure of power. He sat on the Military Revolutionary Committee, which carried out the [October coup](/rewolucja-pazdziernikowa). Trotsky later wrote that during the days of the coup it was Joffe who chaired the committee; other sources name the Left Socialist Revolutionary Pavel Lazimir and Nikolai Podvoisky as its chairmen. Joffe was also elected to the [Constituent Assembly](/slownik/konstytuanta).
 
 ## The armistice at Brest
 

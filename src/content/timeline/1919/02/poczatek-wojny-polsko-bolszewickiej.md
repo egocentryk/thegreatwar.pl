@@ -25,7 +25,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Battle_of_Bereza_Kartuska"
 ---
 
-14 lutego 1919 roku na ziemiach, z których wycofywali się Niemcy, po raz pierwszy starły się regularne oddziały Wojska Polskiego i [Armii Czerwonej](https://pl.wikipedia.org/wiki/Armia_Czerwona). Według opracowań IPN do potyczek doszło tego dnia koło miasteczka [Mosty](https://pl.wikipedia.org/wiki/Mosty_(miasto)) nad Niemnem i pod [Berezą Kartuską](https://pl.wikipedia.org/wiki/Bereza) na Polesiu. Nikt nikomu wojny nie wypowiedział, a obie strony jeszcze przez wiele miesięcy nie uważały tego frontu za najważniejszy. Dlatego historycy różnie datują jej początek. Jedni wskazują 5 stycznia 1919 roku, gdy Armia Czerwona zajęła Wilno, wypierając z niego polską samoobronę. Inni, jak IPN, właśnie 14 lutego, kiedy naprzeciw siebie stanęły wojska obu państw.
+14 lutego 1919 roku na ziemiach, z których wycofywali się Niemcy, po raz pierwszy starły się regularne oddziały Wojska Polskiego i [Armii Czerwonej](/slownik/czerwona-armia). Według opracowań IPN do potyczek doszło tego dnia koło miasteczka [Mosty](https://pl.wikipedia.org/wiki/Mosty_(miasto)) nad Niemnem i pod [Berezą Kartuską](https://pl.wikipedia.org/wiki/Bereza) na Polesiu. Nikt nikomu wojny nie wypowiedział, a obie strony jeszcze przez wiele miesięcy nie uważały tego frontu za najważniejszy. Dlatego historycy różnie datują jej początek. Jedni wskazują 5 stycznia 1919 roku, gdy Armia Czerwona zajęła Wilno, wypierając z niego polską samoobronę. Inni, jak IPN, właśnie 14 lutego, kiedy naprzeciw siebie stanęły wojska obu państw.
 
 ## Między Niemcami a bolszewikami
 

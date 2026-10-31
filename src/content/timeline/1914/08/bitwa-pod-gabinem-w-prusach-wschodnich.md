@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-20 sierpnia 1914 roku w [Prusach Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), w pobliżu miasta Gąbin, po niemiecku Gumbinnen, doszło do pierwszej wielkiej bitwy na froncie wschodnim. Ówczesne kroniki podają daty 19 i 20 sierpnia, bo pierwsze starcia poprzedziły główną bitwę. Rosyjska 1 Armia generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf) odparła natarcie niemieckiej 8 Armii.
+20 sierpnia 1914 roku w [Prusach Wschodnich](/miejsca/prusy-wschodnie), w pobliżu miasta Gąbin, po niemiecku Gumbinnen, doszło do pierwszej wielkiej bitwy na froncie wschodnim. Ówczesne kroniki podają daty 19 i 20 sierpnia, bo pierwsze starcia poprzedziły główną bitwę. Rosyjska 1 Armia generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf) odparła natarcie niemieckiej 8 Armii.
 
 ## Rosja dotrzymuje słowa
 

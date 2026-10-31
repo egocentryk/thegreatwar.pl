@@ -2,7 +2,7 @@
 title: Benedict XV's peace note
 summary: In a note dated 1 August 1917 Benedict XV proposed disarmament, arbitration and the return of occupied lands. He called the war a "useless slaughter".
 source: nota-pokojowa-benedykta-xv
-sourceHash: c35e1d116553ae5668eb2148fab62527f59bc05c
+sourceHash: 1a87ab9e52cda069f570a811bc70a8c272668009
 ---
 
 On 1 August 1917, the third anniversary of Germany's declaration of war on Russia, Pope [Benedict XV](https://pl.wikipedia.org/wiki/Benedykt_XV) signed a letter "to the heads of the belligerent peoples". The document, written in French and known from its opening words as *Dès le début* ("From the very beginning"), went down in history as the papal peace note. Many historians regard it as the most concrete peace proposal put forward by a neutral party during the war. This time the Pope did not stop at calls for reconciliation, as in his [appeal of July 1915](/apel-benedykta-xv-o-pokoj). He set out conditions which in his view could become the basis of a "just and lasting peace".
@@ -37,4 +37,4 @@ The Pope was in a difficult position. The Holy See had no diplomatic relations w
 
 The Entente treated the note politely but without enthusiasm. On 21 August the British government instructed de Salis to tell Gasparri that it had not yet had time to consult its allies, and that it was difficult to speak of peace until the Central Powers stated clearly whether they would restore Belgium's full independence and make good the damage done to it. France associated itself with this position. The first official reply came from President [Woodrow Wilson](/postacie/woodrow-wilson). In a letter dated 27 August and signed by the Secretary of State [Robert Lansing](/postacie/robert-lansing) he rejected the proposal, because he considered that no lasting peace could be made with the present German government. Germany and Austria-Hungary replied in September. The German note of 19 September was vague and did not contain the announcement everyone was waiting for, namely a commitment to evacuate Belgium completely.
 
-The papal initiative ended in failure, like the earlier attempts: the [German peace offer](/niemiecka-oferta-pokojowa) and [Wilson's note](/nota-pokojowa-wilsona) of December 1916. Some of Benedict XV's demands, however, such as freedom of the seas, the limitation of armaments, the evacuation of Belgium and the question of Poland, appeared a few months later in [Wilson's Fourteen Points](https://pl.wikipedia.org/wiki/Czternaście_punktów_Wilsona).
+The papal initiative ended in failure, like the earlier attempts: the [German peace offer](/niemiecka-oferta-pokojowa) and [Wilson's note](/nota-pokojowa-wilsona) of December 1916. Some of Benedict XV's demands, however, such as freedom of the seas, the limitation of armaments, the evacuation of Belgium and the question of Poland, appeared a few months later in [Wilson's Fourteen Points](/slownik/czternascie-punktow).

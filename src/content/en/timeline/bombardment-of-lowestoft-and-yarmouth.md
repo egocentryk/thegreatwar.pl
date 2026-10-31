@@ -2,10 +2,10 @@
 title: Bombardment of Lowestoft and Yarmouth
 summary: At dawn on 25 April 1916 German battlecruisers shelled Lowestoft, destroying about 200 houses, and hit the cruiser Conquest of Tyrwhitt's force.
 source: ostrzal-lowestoft-i-yarmouth
-sourceHash: 11d41a950bbee75c060c9c4944d327a9e4ee0106
+sourceHash: 2121b33c17f6e7f7e19c343cb1a8a4c5ce6022ec
 ---
 
-Shortly after four in the morning on 25 April 1916 the inhabitants of [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), a fishing port on the coast of [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), were woken by the roar of heavy guns. Four German [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) of Rear-Admiral Friedrich Bödicker were firing from the sea, from a range of about 10–13 kilometres. It was the first bombardment of an English town by German heavy ships since December 1914. The day before, the [Rising had broken out](/wybuch-powstania-wielkanocnego) in Dublin, and many historians believe that the Germans planned their raid to coincide with its beginning.
+Shortly after four in the morning on 25 April 1916 the inhabitants of [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), a fishing port on the coast of [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), were woken by the roar of heavy guns. Four German [battlecruisers](/slownik/krazownik-liniowy) of Rear-Admiral Friedrich Bödicker were firing from the sea, from a range of about 10–13 kilometres. It was the first bombardment of an English town by German heavy ships since December 1914. The day before, the [Rising had broken out](/wybuch-powstania-wielkanocnego) in Dublin, and many historians believe that the Germans planned their raid to coincide with its beginning.
 
 ## The night before the bombardment
 

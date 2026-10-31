@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Tuszów Narodowy (Austria-Hungary)
 deathPlace: Gibraltar
 source: wladyslaw-sikorski
-sourceHash: 296dcdad2258ceafd4a3b68c5ff5700877881a48
+sourceHash: 247a8f1cc79d0e5db30e1895e4dfbbd638433eef
 ---
 
-Władysław Sikorski went down in history as prime minister and commander-in-chief during the Second World War, but his road began in the Legions. An engineer from Lviv and a co-founder of the Riflemen's movement, in August 1914 he became head of the Military Department of the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) and for two years was responsible for the organisation, recruitment and rear services of the Polish Legions. He believed that a Polish army had to be built at Austria's side, and this set him at odds with [Józef Piłsudski](/postacie/jozef-pilsudski), who from 1915 made the expansion of the Legions conditional on political concessions from the Central Powers. The dispute, which began during the Great War, lasted throughout the interwar years. Yet when in February 1918 Austria and Germany handed the Chełm region to Ukraine, Sikorski broke with Austria and ended up in an internment camp. In the autumn of 1918 he was organising Polish troops in Galicia.
+Władysław Sikorski went down in history as prime minister and commander-in-chief during the Second World War, but his road began in the Legions. An engineer from Lviv and a co-founder of the Riflemen's movement, in August 1914 he became head of the Military Department of the [Supreme National Committee](/slownik/nkn) and for two years was responsible for the organisation, recruitment and rear services of the Polish Legions. He believed that a Polish army had to be built at Austria's side, and this set him at odds with [Józef Piłsudski](/postacie/jozef-pilsudski), who from 1915 made the expansion of the Legions conditional on political concessions from the Central Powers. The dispute, which began during the Great War, lasted throughout the interwar years. Yet when in February 1918 Austria and Germany handed the Chełm region to Ukraine, Sikorski broke with Austria and ended up in an internment camp. In the autumn of 1918 he was organising Polish troops in Galicia.
 
 ## Before the war
 

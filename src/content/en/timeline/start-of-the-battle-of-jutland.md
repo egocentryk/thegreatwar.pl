@@ -2,7 +2,7 @@
 title: Start of the Battle of Jutland
 summary: On 31 May 1916 the Grand Fleet and the High Seas Fleet clashed off Jutland. By day the British lost three battlecruisers but cut off the Germans' way home.
 source: poczatek-bitwy-jutlandzkiej
-sourceHash: 3cb8dd3a6c104a85759bd411b287d06084437a48
+sourceHash: dddcaa01bb79cdeb827e93b1217588439000e86a
 brief:
   - "On 31 May 1916 the largest naval battle of the First World War began in the North Sea. John Jellicoe's Grand Fleet and Reinhard Scheer's High Seas Fleet together put to sea some 250 ships."
   - "Scheer hoped to lure Beatty's battlecruisers into a trap, but the cryptanalysts of Room 40 were intercepting German signals. The Grand Fleet was thus at sea before the Germans were."
@@ -11,7 +11,7 @@ brief:
   - "The night was to bring the decision. The battle cost the British about 6,100 killed and the Germans about 2,550, and the dispute over who really won at Jutland continues to this day."
 ---
 
-On 31 May 1916, in the North Sea about a hundred kilometres west of the coast of the [Jutland peninsula](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki), the largest naval battle of the First World War began. Admiral [John Jellicoe](/postacie/john-jellicoe)'s British [Grand Fleet](/sily-zbrojne/grand-fleet) and Admiral [Reinhard Scheer](/postacie/reinhard-scheer)'s German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) together put to sea some 250 ships: according to the most commonly cited figures, 151 British and 99 German. Throughout the afternoon and evening there was first a duel of the [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) and then a clash of the main forces of both fleets. By nightfall the British had lost three battlecruisers and an armoured cruiser, and more than four thousand sailors had died in their explosions. Even so, in the evening the Grand Fleet stood between the Germans and their bases. Times are given in Greenwich Mean Time, as in the British official history. German accounts give later times.
+On 31 May 1916, in the North Sea about a hundred kilometres west of the coast of the [Jutland peninsula](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki), the largest naval battle of the First World War began. Admiral [John Jellicoe](/postacie/john-jellicoe)'s British [Grand Fleet](/sily-zbrojne/grand-fleet) and Admiral [Reinhard Scheer](/postacie/reinhard-scheer)'s German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) together put to sea some 250 ships: according to the most commonly cited figures, 151 British and 99 German. Throughout the afternoon and evening there was first a duel of the [battlecruisers](/slownik/krazownik-liniowy) and then a clash of the main forces of both fleets. By nightfall the British had lost three battlecruisers and an armoured cruiser, and more than four thousand sailors had died in their explosions. Even so, in the evening the Grand Fleet stood between the Germans and their bases. Times are given in Greenwich Mean Time, as in the British official history. German accounts give later times.
 
 ## Scheer's plan and the alarm at the Admiralty
 
@@ -25,7 +25,7 @@ Around noon on 31 May, however, the Admiralty made a mistake. Asked where the ca
 
 In the early afternoon Beatty's force, steaming about 65 miles south of Jellicoe's battleships, was just turning north to meet them. Hipper's force was at the same time about 50 miles further east. The two sides might have missed each other, but chance decided otherwise. Between them sailed the Danish steamer *N.J. Fjord*. The German torpedo boats that stopped her for inspection were sighted by the British light cruiser *Galatea*. At 2.20 p.m. she hoisted the signal "enemy in sight", and at 2.28 p.m. the first shots of the battle were fired. Beatty at once turned south-east to cut off the Germans' way back. His flag signal, however, did not reach Evan-Thomas, and the battleships fell more than 10 miles behind.
 
-Soon afterwards a [Short 184](https://pl.wikipedia.org/wiki/Short_Type_184) [seaplane](https://pl.wikipedia.org/wiki/Wodnosamolot) from the seaplane carrier *Engadine*, piloted by Flight Lieutenant Frederick Rutland, took to the air. His observer reported German light cruisers and torpedo boats. This flight is regarded as the first reconnaissance of an enemy fleet by an aircraft during a naval battle. Its practical effect, however, was slight: after less than half an hour in the air a fuel pipe broke, the machine had to come down on the water, and the reports from *Engadine* did not reach Beatty. The German airships that took off that day never found the British fleet at all.
+Soon afterwards a [Short 184](https://pl.wikipedia.org/wiki/Short_Type_184) [seaplane](/slownik/wodnosamolot) from the seaplane carrier *Engadine*, piloted by Flight Lieutenant Frederick Rutland, took to the air. His observer reported German light cruisers and torpedo boats. This flight is regarded as the first reconnaissance of an enemy fleet by an aircraft during a naval battle. Its practical effect, however, was slight: after less than half an hour in the air a fuel pipe broke, the machine had to come down on the water, and the reports from *Engadine* did not reach Beatty. The German airships that took off that day never found the British fleet at all.
 
 ## The run to the south
 

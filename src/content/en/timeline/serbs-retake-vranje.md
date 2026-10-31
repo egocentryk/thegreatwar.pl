@@ -2,14 +2,14 @@
 title: Serbs retake Vranje
 summary: In early October 1918 the Serbian First Army threw back the Austro-Hungarian 9th Division and regained Vranje, the first large town in the Morava valley.
 source: serbowie-odbijaja-vranje
-sourceHash: c1099ce0f1c732602bf0f2299050ddb892483df9
+sourceHash: 21bbec7d7b176d014bd67785292acf7d76226397
 ---
 
 The British chronology of the war records under 5 October 1918 the recapture by the Serbs of [Vranje](https://pl.wikipedia.org/wiki/Vranje), a town in the valley of the [South Morava](https://pl.wikipedia.org/wiki/Morawa_Południowa), which the Bulgarians had [taken in October 1915](/bulgarzy-zajmuja-vranje). The date agrees with most accounts. The Austro-Hungarian war communiqué of 6 October reported that the day before "our advanced detachments were withdrawn from Vranje". Local Serbian accounts date the liberation of the town to 4 October, after fighting that had begun the day before.
 
 ## The race for Niš
 
-After the [armistice with Bulgaria](/rozejm-w-salonikach) General Louis Franchet d'Espèrey set the Allied armies a new objective. The first was to be [Niš](https://pl.wikipedia.org/wiki/Nisz), a railway and road junction through which the Germans and Austrians could bring up reinforcements from the north. The task fell to the Serbian First Army of Vojvoda [Petar Bojović](/postacie/petar-bojovic). The start was planned for 1 October, but according to Serbian accounts it was delayed by a day by the Bulgarians' slowness in laying down their arms. The army advanced up the valley of the South Morava: the cavalry in front, behind it the Danube and Drina Divisions on both banks of the river, and in the third echelon the Morava Division. On the right flank advanced General Jouinot-Gambetta's French cavalry brigade.
+After the [armistice with Bulgaria](/rozejm-w-salonikach) General Louis Franchet d'Espèrey set the Allied armies a new objective. The first was to be [Niš](/miejsca/nisz), a railway and road junction through which the Germans and Austrians could bring up reinforcements from the north. The task fell to the Serbian First Army of Vojvoda [Petar Bojović](/postacie/petar-bojovic). The start was planned for 1 October, but according to Serbian accounts it was delayed by a day by the Bulgarians' slowness in laying down their arms. The army advanced up the valley of the South Morava: the cavalry in front, behind it the Danube and Drina Divisions on both banks of the river, and in the third echelon the Morava Division. On the right flank advanced General Jouinot-Gambetta's French cavalry brigade.
 
 The German command wanted to hold the Serbs on the Priština–Vranje line for as long as possible in order to cover the detraining and deployment of the reinforcements being hurriedly brought into Serbia. The first obstacle in the Serbs' path was the Austro-Hungarian 9th Infantry Division, brought straight from the Italian front. According to Cyril Falls's British official history, it was a unit that had been badly mauled in Italy, with a large proportion of Czech soldiers, and its resistance proved weak.
 

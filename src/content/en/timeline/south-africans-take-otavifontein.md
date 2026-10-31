@@ -2,10 +2,10 @@
 title: South Africans take Otavifontein
 summary: On 1 July 1915 Manie Botha's mounted brigade surprised the Germans near Otavi after a night march and took Otavifontein, the last good water before their line.
 source: poludniowoafrykanczycy-zajmuja-otavifontein
-sourceHash: d19b2634e13b8b52784542c5336d39bd33da2191
+sourceHash: 10d82313359e843a0fb7794a5e5e928ce00cfab0
 ---
 
-On 1 July 1915 the forces of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) took the Otavifontein springs and the railway junction of [Otavi](https://pl.wikipedia.org/wiki/Otavi) in the north of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). This was the objective of the offensive that General [Louis Botha](/postacie/louis-botha) had [begun at the end of June](/poludniowoafrykanczycy-ruszaja-na-otavifontein). It was decided by a single day of fighting, waged in dense bush by General Manie Botha's mounted brigade.
+On 1 July 1915 the forces of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) took the Otavifontein springs and the railway junction of [Otavi](https://pl.wikipedia.org/wiki/Otavi) in the north of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). This was the objective of the offensive that General [Louis Botha](/postacie/louis-botha) had [begun at the end of June](/poludniowoafrykanczycy-ruszaja-na-otavifontein). It was decided by a single day of fighting, waged in dense bush by General Manie Botha's mounted brigade.
 
 ## A night march without water
 

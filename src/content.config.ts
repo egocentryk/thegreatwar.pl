@@ -114,7 +114,7 @@ const people = defineCollection({
       // Role during the war, one line: "Naczelny wódz armii francuskiej (1914–1916)".
       role: z.string(),
       country: z.string(),
-      side: z.enum(["Ententa", "Państwa centralne", "Sprawa polska"]),
+      side: z.enum(["Ententa", "Państwa centralne", "Sprawa polska", "Państwa neutralne"]),
       born: z.coerce.date(),
       died: z.coerce.date(),
       // Only the year is reliably known: pages show "1863", not a made-up day.

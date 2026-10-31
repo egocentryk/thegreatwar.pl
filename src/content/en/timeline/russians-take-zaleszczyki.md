@@ -2,7 +2,7 @@
 title: Russians take Zaleszczyki
 summary: In June 1916, after the defeat at Okna, the Austrians gave up the Zaleszczyki bridgehead without a fight. A British chronology dates the Russian entry 12 June.
 source: rosjanie-zajmuja-zaleszczyki
-sourceHash: dbccc76f661e14b555bc8c0591ac5a12ea19557a
+sourceHash: fb9940f8af4033787a4844af1d4f14b6d6bf76a6
 ---
 
 The British chronology of the war states that on 12 June 1916, 30 May by the Julian calendar then used in Russia, Russian troops took [Zaleszczyki](https://pl.wikipedia.org/wiki/Zaleszczyki). This small district town in eastern Galicia lies in a tight loop of the [Dniester](/miejsca/dniestr), on its left, northern bank. On the other bank Bukovina began. The Russians did not have to fight for the town. The Austro-Hungarian official history states that the garrison abandoned the bridgehead during the night of 10–11 June, but does not record the exact day the Russians entered. Everything was decided by the defeat suffered on 10 June by the Austro-Hungarian [Seventh Army](https://pl.wikipedia.org/wiki/7_Armia_(austro-węgierska)) a dozen or so kilometres away, on the southern bank of the river.
@@ -17,7 +17,7 @@ The commander of the Russian [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_
 
 On 10 June Lechitsky renewed the attack. At about half past ten the Russians broke through the front of the 305th Honvéd Infantry Regiment at Okna, and by noon they were far in its rear. In the afternoon the rest of the Austro-Hungarian positions on the hills further south fell. The troops of General Benigni's group fell back in disorder, and the roads were choked with supply trains. Pflanzer-Baltin had no reserves left and had to order the retreat of the whole wing. The Russians announced that their Ninth Army had taken more than 18,000 prisoners that day. In Russian literature the fighting from 4 June is called the Battle of Dobronouc.
 
-After this defeat the Zaleszczyki bridgehead no longer made sense. It was in danger of being cut off, because the Russian forces had advanced far to the west, towards [Horodenka](https://pl.wikipedia.org/wiki/Horodenka). During the night of 10–11 June General Hadfy withdrew the 21st Rifle Division to the southern bank and positioned it about 5 kilometres south-west of the town. On 11 June the Seventh Army's troops fell back further west, and during the night of 11–12 June they broke contact with the enemy. Russian cavalry followed them, and the Russian XXXIII Corps crossed the Dniester. In July the American monthly "Current History" listed Zaleszczyki, Horodenka and Okna among the places whose capture by the Russians preceded the fall of [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce).
+After this defeat the Zaleszczyki bridgehead no longer made sense. It was in danger of being cut off, because the Russian forces had advanced far to the west, towards [Horodenka](https://pl.wikipedia.org/wiki/Horodenka). During the night of 10–11 June General Hadfy withdrew the 21st Rifle Division to the southern bank and positioned it about 5 kilometres south-west of the town. On 11 June the Seventh Army's troops fell back further west, and during the night of 11–12 June they broke contact with the enemy. Russian cavalry followed them, and the Russian XXXIII Corps crossed the Dniester. In July the American monthly "Current History" listed Zaleszczyki, Horodenka and Okna among the places whose capture by the Russians preceded the fall of [Czernowitz](/miejsca/czerniowce).
 
 ## Significance
 

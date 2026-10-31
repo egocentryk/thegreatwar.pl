@@ -17,7 +17,7 @@ brief:
   - "Bitwa nie przyniosła rozstrzygnięcia, ale wyznaczyła schemat kolejnych tygodni: każda próba obejścia kończyła się czołowym starciem, a nowy odcinek frontu zastygał w okopach."
 ---
 
-22 września 1914 roku w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), na północ od rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), rozpoczęła się pierwsza bitwa w Pikardii. Nowo utworzona francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) ruszyła do natarcia, by obejść od zachodu skrzydło armii niemieckich. Bitwa, trwająca do 26 września, była pierwszym dużym starciem tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza), czyli serii prób oskrzydlenia przeciwnika, które jesienią 1914 roku przesunęły front zachodni aż do wybrzeża Morza Północnego.
+22 września 1914 roku w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), na północ od rzeki [Oise](/miejsca/oise), rozpoczęła się pierwsza bitwa w Pikardii. Nowo utworzona francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) ruszyła do natarcia, by obejść od zachodu skrzydło armii niemieckich. Bitwa, trwająca do 26 września, była pierwszym dużym starciem tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza), czyli serii prób oskrzydlenia przeciwnika, które jesienią 1914 roku przesunęły front zachodni aż do wybrzeża Morza Północnego.
 
 ## Impas nad Aisne
 

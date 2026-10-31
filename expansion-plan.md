@@ -513,6 +513,16 @@ The top 50 by kind:
    conference as a glossary text; ≈350 links (21,958 → 21,793; §56). The
    top targets left are mostly under 20 links each. Open: navigation for
    the new sections (the owner: not in the menu, it has no room).
+12. **Navigation:** one "Przewodnik" menu item with a panel of the
+   reference sections (§57), live.
+13. **Final mixed batch:** 2026-10-31, the review fixes, every glossary
+   term mapped by name, numbered-battle aliases, and 24 pages (Front
+   salonicki, 13 places, Związek Południowej Afryki, Ahmad Szah, six
+   glossary terms, two forces); 21,793 → 20,961 (§58). Since the start
+   26,198 → 20,961 (−20%). The targets left are under 35 links each,
+   mostly under 20: the planned work of section C is done; further pages
+   only where they are worth writing for their own sake (the pre-war
+   wars belong to A2).
 
 ### The plan
 

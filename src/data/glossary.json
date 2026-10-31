@@ -4829,5 +4829,242 @@
    "https://www.archives.gov/publications/prologue/2016/winter/zimmermann-telegram",
    "https://en.wikipedia.org/wiki/Room_40"
   ]
+ },
+ {
+  "slug": "schizma-narodowa",
+  "slugEn": "national-schism",
+  "term": "Schizma narodowa",
+  "termEn": "National Schism",
+  "category": "polityka",
+  "pattern": "[Ss]chizm\\w* narodow\\w*",
+  "patternEn": "National Schism",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Rozłam w Grecji w latach 1915–1917 między premierem Elefteriosem Wenizelosem, zwolennikiem wojny u boku Ententy, a królem Konstantynem I, który chciał utrzymać neutralność.",
+  "shortEn": "The split in Greece in 1915–1917 between Prime Minister Eleftherios Venizelos, who wanted war on the Entente's side, and King Constantine I, who wanted to keep the country neutral.",
+  "long": [
+   "Spór wybuchł w marcu 1915 roku, gdy król odrzucił udział Grecji w operacji w Dardanelach, a Wenizelos podał się do dymisji. Liberałowie wygrali czerwcowe wybory, ale 5 października 1915 roku, w dniu lądowania wojsk Ententy w Salonikach, Konstantyn znów zmusił premiera do odejścia. Odtąd rządzili rojaliści. Obie strony powoływały się na konstytucję: wenizeliści twierdzili, że król nie może odrzucać polityki rządu mającego większość w parlamencie, obóz królewski, że decyzja o wojnie należy do monarchy.",
+   "Po oddaniu Bułgarom Fortu Rupel i Kawali wenizeliści 30 sierpnia 1916 roku przejęli władzę w Salonikach, a jesienią Wenizelos stanął tam na czele rządu tymczasowego Obrony Narodowej. Grecja miała dwa rządy do czerwca 1917 roku, gdy Ententa wymusiła wyjazd Konstantyna, a zjednoczony kraj pod rządami Wenizelosa przystąpił do wojny. Rozłam nie wygasł: w 1920 roku król wrócił na tron, a podział na wenizelistów i rojalistów ciążył na greckiej polityce przez dziesięciolecia."
+  ],
+  "longEn": [
+   "The dispute broke out in March 1915, when the king rejected Greek participation in the Dardanelles operation and Venizelos resigned. The Liberals won the June election, but on 5 October 1915, the day Entente troops landed at Salonika, Constantine again forced the prime minister out. From then on the royalists governed. Both sides appealed to the constitution: the Venizelists argued that the king could not reject the policy of a government with a parliamentary majority, the royalists that the decision on war belonged to the monarch.",
+   "After Fort Rupel and Kavala were handed over to the Bulgarians, the Venizelists seized power in Salonika on 30 August 1916, and in the autumn Venizelos took charge there of a Provisional Government of National Defence. Greece had two governments until June 1917, when the Entente forced Constantine to leave and the reunited country entered the war under Venizelos. The rift did not heal: in 1920 the king returned to the throne, and the division into Venizelists and royalists weighed on Greek politics for decades."
+  ],
+  "see": [
+   "przewrot-wenizelistow-w-salonikach",
+   "dymisja-wenizelosa",
+   "wenizelos-w-salonikach",
+   "abdykacja-krola-konstantyna",
+   "postacie/elefterios-wenizelos",
+   "postacie/konstantyn-i"
+  ],
+  "sources": [
+   "https://web.archive.org/web/2024/https://encyclopedia.1914-1918-online.net/article/greece",
+   "https://web.archive.org/web/2024/https://encyclopedia.1914-1918-online.net/article/movement_of_national_defence_greece",
+   "https://web.archive.org/web/2024/https://encyclopedia.1914-1918-online.net/article/constantine_i_king_of_greece",
+   "https://en.wikipedia.org/wiki/National_Schism"
+  ]
+ },
+ {
+  "slug": "sanusijja",
+  "slugEn": "senussi",
+  "term": "Sanusijja",
+  "termEn": "Senussi",
+  "category": "wojsko",
+  "pattern": "\\bSanusij\\w*|\\b[Ss]enus\\w*",
+  "patternEn": "\\bSenussi\\b|\\bSanusi\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Sufickie bractwo muzułmańskie z libijskiej Cyrenajki. Od 1911 roku walczyło z Włochami, a w latach 1915–1917, namówione przez Turków, prowadziło wojnę z Brytyjczykami na zachodniej granicy Egiptu.",
+  "shortEn": "A Sufi Muslim order from Cyrenaica in Libya. From 1911 it fought the Italians, and in 1915–1917, urged on by the Ottomans, it waged war on the British along Egypt's western border.",
+  "long": [
+   "Bractwo założył w 1837 roku w Mekce Muhammad ibn Ali as-Sanusi. Jego ośrodki, zawije, rozsiane po oazach Sahary, skupiły wokół jednego przywódcy beduińskie plemiona Cyrenajki. Gdy w 1911 roku Włochy zaatakowały Trypolitanię i Cyrenajkę, bractwo dołączyło do oporu i walczyło dalej po pokoju z 1912 roku. Na jego czele stał Sajjid Ahmad asz-Szarif, który od 1902 roku przewodził mu w zastępstwie młodszego kuzyna, Muhammada Idrisa.",
+   "Turcy i Niemcy przysłali mu oficerów, broń i pieniądze. W listopadzie 1915 roku oddziały bractwa, szkolone przez Nuriego beja i Dżafara al-Askariego, zaatakowały As-Sallum, a Brytyjczycy wycofali się do Marsa Matruh. Po klęsce pod Agagią w lutym 1916 roku wojna przeniosła się do oaz Pustyni Zachodniej i skończyła w lutym 1917 roku rajdem na Siwę. W kwietniu 1917 roku Idris zawarł porozumienia z Brytyjczykami i Włochami, a Sajjid Ahmad odpłynął w 1918 roku do Konstantynopola."
+  ],
+  "longEn": [
+   "The order was founded in Mecca in 1837 by Muhammad ibn Ali al-Sanusi. Its lodges, the zawiyas, scattered across the oases of the Sahara, united the Bedouin tribes of Cyrenaica under a single leader. When Italy attacked Tripolitania and Cyrenaica in 1911, the order joined the resistance and kept fighting after the peace of 1912. It was headed by Sayyid Ahmad al-Sharif, who had led it since 1902 on behalf of his younger cousin, Muhammad Idris.",
+   "The Ottomans and Germans sent him officers, arms and money. In November 1915 the order's forces, trained by Nuri Bey and Jafar al-Askari, attacked Sollum, and the British fell back to Mersa Matruh. After the defeat at Agagia in February 1916 the war moved to the oases of the Western Desert and ended in February 1917 with the raid on Siwa. In April 1917 Idris made agreements with the British and the Italians, and in 1918 Sayyid Ahmad sailed for Constantinople."
+  ],
+  "see": [
+   "bractwo-sanusijja-atakuje-as-sallum",
+   "bitwy/bitwa-pod-agagia",
+   "koniec-operacji-przeciw-senusjom",
+   "wybucha-wojna-wlosko-turecka",
+   "postacie/dzafar-al-askari"
+  ],
+  "sources": [
+   "https://www.globalsecurity.org/military/world/libya/senussi.htm",
+   "https://www.globalsecurity.org/military/world/war/italo-sanusi-1.htm",
+   "https://en.wikipedia.org/wiki/Senussi",
+   "https://en.wikipedia.org/wiki/Senussi_campaign"
+  ]
+ },
+ {
+  "slug": "kolej-hidzaska",
+  "slugEn": "hejaz-railway",
+  "term": "Kolej Hidżaska",
+  "termEn": "Hejaz Railway",
+  "category": "wojsko",
+  "pattern": "[Kk]olej\\w* [Hh]idżask\\w*",
+  "patternEn": "Hejaz [Rr]ailway",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Osmańska linia kolejowa z Damaszku do Medyny, otwarta w 1908 roku. W czasie wojny jedyna droga zaopatrzenia tureckich garnizonów w Hidżazie i główny cel rajdów powstania arabskiego.",
+  "shortEn": "The Ottoman railway from Damascus to Medina, opened in 1908. In the war it was the only supply route of the Turkish garrisons in the Hejaz and the main target of the Arab Revolt's raids.",
+  "long": [
+   "Budowę kolei, biegnącej szlakiem pielgrzymów, zarządził w 1900 roku sułtan Abdülhamid II. Opłacano ją w dużej części z datków muzułmanów, a 1 września 1908 roku linia doszła do Medyny. Podróż z Damaszku, która trwała wcześniej około 40 dni, skróciła się do kilku. Kolej miała też ułatwić przerzut wojsk, dlatego szarif Mekki Husajn ibn Ali sprzeciwiał się jej przedłużeniu do Mekki. Nigdy tam nie dotarła.",
+   "Po wybuchu powstania arabskiego w czerwcu 1916 roku Turcy dowieźli nią posiłki do Medyny. Od 1917 roku powstańcy z brytyjskimi i francuskimi oficerami, wśród nich T.E. Lawrence, wysadzali tory, mosty i pociągi; Lawrence uznał, że lepiej utrzymywać linię ledwo działającą, niż zdobywać Medynę. Wiosną 1918 roku tor między Ma’an a Mudawwarą zniszczono tak, że go już nie odbudowano, a we wrześniu jeźdźcy Chaytora przecięli kolej w Ammanie. Garnizon Medyny poddał się dopiero w styczniu 1919 roku."
+  ],
+  "longEn": [
+   "The railway, following the pilgrim route, was ordered by Sultan Abdülhamid II in 1900. It was paid for largely by donations from Muslims, and on 1 September 1908 the line reached Medina. The journey from Damascus, which had taken about 40 days, was cut to a few. The railway was also meant to make troop movements easier, which is why the Sharif of Mecca, Hussein bin Ali, opposed its extension to Mecca. It never got there.",
+   "After the Arab Revolt broke out in June 1916 the Turks brought reinforcements to Medina along it. From 1917 the rebels, with British and French officers among them T. E. Lawrence, blew up track, bridges and trains; Lawrence concluded that it was better to keep the line barely working than to take Medina. In spring 1918 the track between Ma'an and Mudawwara was wrecked so thoroughly that it was never rebuilt, and in September Chaytor's horsemen cut the railway at Amman. The Medina garrison did not surrender until January 1919."
+  ],
+  "see": [
+   "bitwy/powstanie-arabskie",
+   "atak-na-medyne",
+   "arabowie-zajmuja-janbu",
+   "zajecie-ammanu",
+   "bitwy/pierwszy-rajd-na-amman",
+   "postacie/thomas-edward-lawrence"
+  ],
+  "sources": [
+   "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+   "https://gulfif.org/traveling-through-history-on-the-forgotten-hejaz-railway/",
+   "https://en.wikipedia.org/wiki/Hejaz_railway"
+  ]
+ },
+ {
+  "slug": "rada-panstwa-austria",
+  "slugEn": "austrian-reichsrat",
+  "term": "Rada Państwa (Austria)",
+  "termEn": "Imperial Council (Austria)",
+  "category": "polityka",
+  "pattern": "\\b(?<!rosyjskiej )(?<!rosyjskiej \\[)Rad(?:a|y|zie|ę|ą) Państwa\\b|\\bReichsrat\\w*",
+  "patternEn": "\\bImperial Council\\b|\\bReichsrat\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Parlament austriackiej połowy monarchii habsburskiej w latach 1861–1918, z Izbą Panów i wybieraną Izbą Posłów. Odroczony w marcu 1914 roku, nie obradował przez trzy lata wojny.",
+  "shortEn": "The parliament of the Austrian half of the Habsburg monarchy in 1861–1918, with a House of Lords and an elected House of Deputies. Adjourned in March 1914, it did not sit for three years of the war.",
+  "long": [
+   "Rada Państwa (Reichsrat) powstała w 1861 roku, a od ugody z Węgrami w 1867 roku stanowiła prawo tylko dla krajów austriackich, od Czech i Galicji po Dalmację. Członków Izby Panów powoływał cesarz albo zasiadali w niej z urodzenia, a do Izby Posłów od reformy z 1906 roku wybierali wszyscy dorośli mężczyźni; liczyła 516 posłów. Spory narodowe i obstrukcja często paraliżowały obrady. Polscy posłowie z Galicji tworzyli Koło Polskie, długo pewne oparcie kolejnych rządów.",
+   "16 marca 1914 roku na wniosek premiera Karla Stürgkha cesarz odroczył sesję, a rząd przez całą wojnę wydawał rozporządzenia na podstawie paragrafu 14 konstytucji. Parlament zebrał się ponownie dopiero 30 maja 1917 roku i stał się trybuną narodów: Czesi, Słowianie południowi i Polacy ogłosili tam swoje żądania. W lipcu 1918 roku Koło Polskie obaliło rząd Seidlera. 12 listopada 1918 roku Rada Państwa zebrała się ostatni raz."
+  ],
+  "longEn": [
+   "The Imperial Council (Reichsrat) was created in 1861, and after the Compromise with Hungary in 1867 it legislated only for the Austrian lands, from Bohemia and Galicia to Dalmatia. Members of the House of Lords were appointed by the emperor or sat by birth, and from the reform of 1906 the House of Deputies was elected by all adult men; it had 516 deputies. National disputes and obstruction often paralysed its sittings. The Polish deputies from Galicia formed the Polish Club, long a reliable support of successive governments.",
+   "On 16 March 1914, at the request of Prime Minister Karl Stürgkh, the emperor adjourned the session, and throughout the war the government issued decrees under paragraph 14 of the constitution. Parliament met again only on 30 May 1917 and became a platform for the nations: the Czechs, the South Slavs and the Poles proclaimed their demands there. In July 1918 the Polish Club brought down the Seidler government. On 12 November 1918 the Imperial Council met for the last time."
+  ],
+  "see": [
+   "seidler-premierem-austrii",
+   "zabojstwo-premiera-stuergkha",
+   "rezolucja-kola-polskiego",
+   "rewolucja-w-wiedniu-i-budapeszcie",
+   "postacie/ignacy-daszynski"
+  ],
+  "sources": [
+   "https://ww1.habsburger.net/en/node/5816",
+   "https://www.parlament.gv.at/erleben/parlamentsgebaeude/geschichte",
+   "https://en.wikipedia.org/wiki/Imperial_Council_(Austria)"
+  ],
+  "exclude": [
+   "bielajew-ministrem-wojny-rosji",
+   "bitwy/drugie-oblezenie-przemysla",
+   "boris-sturmer-premierem-rosji",
+   "czerwony-terror",
+   "dymisja-suchomlinowa",
+   "golicyn-premierem-rosji",
+   "nikola-pasic-w-rosji",
+   "pokrowski-ministrem-spraw-zagranicznych-rosji",
+   "postacie/aleksandr-guczkow",
+   "postacie/boris-sturmer",
+   "postacie/husajn-ibn-ali",
+   "postacie/nikolaj-iwanow",
+   "postacie/nikolaj-ruzski",
+   "postacie/pawel-plehwe",
+   "postacie/pawiel-milukow",
+   "rewolucja-lutowa",
+   "szuwajew-zastepuje-poliwanowa",
+   "upadek-rzadu-golicyna",
+   "ustawa-o-samorzadzie-miejskim-w-krolestwie-polskim"
+  ]
+ },
+ {
+  "slug": "konstytuanta",
+  "slugEn": "russian-constituent-assembly",
+  "term": "Wszechrosyjskie Zgromadzenie Ustawodawcze",
+  "termEn": "All-Russian Constituent Assembly",
+  "category": "rewolucja",
+  "pattern": "\\bWszechrosyjsk\\w* Zgromadzeni\\w* Ustawodawcz\\w*|\\b(?<!Estońskie )(?<!Estońskiego )(?<!ukraińskiego )Zgromadzeni\\w* Ustawodawcz\\w*|\\b(?<!Ukraińskiej )Konstytuant\\w*|\\b(?:rosyjsk|rozpędzon|rozwiązan|deputowan)\\w* (?:\\[?przez bolszewików\\]? )?konstytuant\\w*",
+  "patternEn": "\\b(?<!Estonian )(?<!Ukrainian )(?<!Romanian )Constituent Assembly",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Rosyjski parlament, zwany Konstytuantą, wybrany jesienią 1917 roku, by nadał państwu ustrój. Zebrał się tylko raz, 18 stycznia 1918 roku, i następnego dnia bolszewicy go rozwiązali.",
+  "shortEn": "The Russian parliament known as the Constituent, elected in the autumn of 1917 to give the state its constitution. It met only once, on 18 January 1918, and the Bolsheviks dissolved it the next day.",
+  "long": [
+   "Zwołania Konstytuanty od dawna żądała rosyjska opozycja, a po rewolucji lutowej Rząd Tymczasowy miał rządzić tylko do jej zebrania się. Wybory, pierwsze powszechne w dziejach Rosji, zaczęły się 25 listopada 1917 roku (12 listopada według kalendarza juliańskiego), już po przewrocie bolszewickim. Eserowcy dostali około 38 procent głosów, bolszewicy około 23–24 procent, kadeci mniej niż 5 procent. Wyznaczone na 11 grudnia otwarcie nie doszło do skutku.",
+   "Zgromadzenie zebrało się w Pałacu Taurydzkim w Piotrogrodzie 18 stycznia 1918 roku (5 stycznia st. st.) i wybrało na przewodniczącego eserowca Wiktora Czernowa. Gdy odmówiło uznania władzy rad, bolszewicy wyszli z sali, a nad ranem warta przerwała obrady. 19 stycznia władza radziecka rozwiązała Konstytuantę, a jej miejsce zajął III Wszechrosyjski Zjazd Rad. Część posłów utworzyła latem 1918 roku w Samarze antybolszewicki Komucz."
+  ],
+  "longEn": [
+   "The Russian opposition had long demanded a Constituent Assembly, and after the February Revolution the Provisional Government was to rule only until it met. The elections, the first universal ones in Russia's history, began on 25 November 1917 (12 November in the Julian calendar), after the Bolshevik coup. The Socialist Revolutionaries won about 38 per cent of the vote, the Bolsheviks about 23–24 per cent and the Kadets less than 5 per cent. The opening set for 11 December did not take place.",
+   "The Assembly met in the Tauride Palace in Petrograd on 18 January 1918 (5 January Old Style) and elected the Socialist Revolutionary Viktor Chernov as its chairman. When it refused to recognise Soviet power, the Bolsheviks walked out, and towards morning the guard broke up the session. On 19 January the Soviet government dissolved the Constituent, and the Third All-Russian Congress of Soviets took its place. In the summer of 1918 some of its deputies formed the anti-Bolshevik Komuch in Samara."
+  ],
+  "see": [
+   "otwarcie-konstytuanty",
+   "wybory-do-konstytuanty",
+   "niedoszle-otwarcie-konstytuanty",
+   "rozpedzenie-konstytuanty",
+   "postacie/wiktor-czernow",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://www.marxists.org/archive/lenin/works/1918/jan/06a.htm",
+   "https://korolevperevody.co.uk/uch-sob-reaction.html",
+   "https://en.wikipedia.org/wiki/Russian_Constituent_Assembly"
+  ],
+  "exclude": [
+   "bezwarunkowa-unia-besarabii",
+   "gwatemala-wypowiada-wojne-niemcom",
+   "iv-uniwersal",
+   "lotewska-tymczasowa-rada-narodowa-za-niepodlegloscia",
+   "niepodleglosc-azerbejdzanu",
+   "niepodleglosc-gruzji",
+   "sidonio-pais-prezydentem",
+   "kostaryka-zrywa-stosunki-z-niemcami",
+   "pokoj-w-tartu",
+   "postacie/sidonio-pais",
+   "postacie/vittorio-emanuele-orlando"
+  ]
+ },
+ {
+  "slug": "order-wybitnej-sluzby",
+  "slugEn": "distinguished-service-order",
+  "term": "Order Wybitnej Służby",
+  "termEn": "Distinguished Service Order",
+  "category": "wojsko",
+  "pattern": "Order\\w* Wybitnej Służby|\\bDSO\\b|Distinguished Service Order",
+  "patternEn": "Distinguished Service Order|\\bDSO\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Brytyjski order wojskowy dla oficerów, ustanowiony w 1886 roku, za zasługi w walce, zwłaszcza w dowodzeniu. Prestiżem ustępował tylko Krzyżowi Wiktorii; w I wojnie przyznano go około 9 tysięcy razy.",
+  "shortEn": "A British military order for officers, instituted in 1886, for distinguished service in action, especially in command. Second only to the Victoria Cross in prestige; about 9,000 were awarded in the First World War.",
+  "long": [
+   "Order Wybitnej Służby (Distinguished Service Order, DSO) ustanowiła królowa Wiktoria w 1886 roku. Przysługiwał tylko oficerom, zwykle dowódcom od majora lub podpułkownika wzwyż; młodszy oficer dostawał go za męstwo niewiele mniejsze od zasługującego na Krzyż Wiktorii. Warunkiem było wcześniejsze wymienienie w meldunkach. Odznaką był biały emaliowany krzyż na czerwonej wstążce z niebieskimi brzegami, a od 1916 roku kolejne nadania oznaczano okuciem.",
+   "W I wojnie światowej przyznano go według różnych zestawień od niespełna 9000 do 9881 razy, licząc do 1919 roku. W pierwszych latach trafiał też do oficerów sztabowych spoza linii ognia, więc od 1 stycznia 1917 roku miano go dawać tylko za służbę pod ogniem. Dostawali go dowódcy batalionów i okrętów, a także młodzi lotnicy, jak Frederick Sowrey i Wulstan Tempest, którzy w 1916 roku zestrzelili nad Anglią niemieckie sterowce."
+  ],
+  "longEn": [
+   "The Distinguished Service Order (DSO) was instituted by Queen Victoria in 1886. It was for officers only, usually commanders from major or lieutenant-colonel upwards; a junior officer received it for gallantry just short of deserving the Victoria Cross. A prior mention in despatches was required. The insignia was a white enamelled cross on a red ribbon with blue edges, and from 1916 further awards were marked by a bar.",
+   "In the First World War it was awarded, depending on the count, from just under 9,000 to 9,881 times, counting up to 1919. In the early years it also went to staff officers away from the firing line, so from 1 January 1917 it was to be given only for service under fire. It went to battalion and ship commanders, and also to young airmen such as Frederick Sowrey and Wulstan Tempest, who shot down German airships over England in 1916."
+  ],
+  "see": [
+   "nalot-na-friedrichshafen",
+   "zestrzelenie-sterowca-l-31",
+   "zatoniecie-otranto",
+   "koniec-dzialan-o-at-tafile",
+   "postacie/thomas-edward-lawrence"
+  ],
+  "sources": [
+   "https://www.veterans.gc.ca/en/node/115805",
+   "https://footballandthefirstworldwar.org/?p=22993",
+   "https://en.wikipedia.org/wiki/Distinguished_Service_Order"
+  ]
  }
 ]

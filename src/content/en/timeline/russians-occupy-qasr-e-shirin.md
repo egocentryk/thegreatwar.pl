@@ -2,10 +2,10 @@
 title: Russians occupy Qasr-e Shirin
 summary: On 7 May 1916 Baratov's cavalry entered Qasr-e Shirin on the border with Iraq. It came too late, as Kut had capitulated more than a week earlier.
 source: rosjanie-zajmuja-kasr-e-szirin
-sourceHash: ea6cdfdfd9b9160353b8e2317dc367b77c0e0ce0
+sourceHash: ff123fd3b4e9c8024819062fa103c23dbc7ba698
 ---
 
-On 7 May 1916 units of General Nikolai Baratov's Russian expeditionary corps occupied [Qasr-e Shirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin), the last Persian town on the road from [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) to Baghdad. This date is given by the British chronology of the war, the British official history of the Mesopotamian campaign and the Iranian historian Iraj Nasseri, who drew on Persian sources. According to W.E.D. Allen and Paul Muratoff, authors of a history of the Caucasian wars, Baratov reached the town a few days earlier, around 2–3 May. R.P.P. Rowe's British chronicle of the events of the war records the occupation of Qasr-e Shirin only under 10 May. The town lay right by the border with Ottoman Iraq, about 30 kilometres from the Turkish base at [Khanaqin](https://pl.wikipedia.org/wiki/Chanakin).
+On 7 May 1916 units of General Nikolai Baratov's Russian expeditionary corps occupied [Qasr-e Shirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin), the last Persian town on the road from [Kermanshah](/miejsca/kermanszah) to Baghdad. This date is given by the British chronology of the war, the British official history of the Mesopotamian campaign and the Iranian historian Iraj Nasseri, who drew on Persian sources. According to W.E.D. Allen and Paul Muratoff, authors of a history of the Caucasian wars, Baratov reached the town a few days earlier, around 2–3 May. R.P.P. Rowe's British chronicle of the events of the war records the occupation of Qasr-e Shirin only under 10 May. The town lay right by the border with Ottoman Iraq, about 30 kilometres from the Turkish base at [Khanaqin](https://pl.wikipedia.org/wiki/Chanakin).
 
 ## The march through the Zagros
 

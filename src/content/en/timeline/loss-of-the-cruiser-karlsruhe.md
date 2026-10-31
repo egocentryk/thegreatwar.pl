@@ -2,10 +2,10 @@
 title: Loss of the cruiser Karlsruhe
 summary: On 4 November 1914 an internal explosion tore apart the German cruiser Karlsruhe on her way to attack Barbados. About 260 men died, including her captain.
 source: zaglada-krazownika-karlsruhe
-sourceHash: 468c19b425f74ef0fe2e7571893de33e64d7511c
+sourceHash: 52a34c5a32eda86982fe01e98ca9f382c9e7e24b
 ---
 
-On the evening of 4 November 1914, in the Atlantic several hundred kilometres east of [Barbados](https://pl.wikipedia.org/wiki/Barbados), the German light cruiser [SMS *Karlsruhe*](https://pl.wikipedia.org/wiki/SMS_Karlsruhe_(1912)) was torn apart by a powerful internal explosion. The ship broke in two and sank. About 260 men died, among them her captain, Fregattenkapitän Erich Köhler. So suddenly ended the career of one of the most dangerous German [raiders](https://pl.wikipedia.org/wiki/Rajder) of the first months of the war.
+On the evening of 4 November 1914, in the Atlantic several hundred kilometres east of [Barbados](https://pl.wikipedia.org/wiki/Barbados), the German light cruiser [SMS *Karlsruhe*](https://pl.wikipedia.org/wiki/SMS_Karlsruhe_(1912)) was torn apart by a powerful internal explosion. The ship broke in two and sank. About 260 men died, among them her captain, Fregattenkapitän Erich Köhler. So suddenly ended the career of one of the most dangerous German [raiders](/slownik/rajder) of the first months of the war.
 
 ## Terror of the Atlantic routes
 

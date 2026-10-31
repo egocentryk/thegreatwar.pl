@@ -2,7 +2,7 @@
 title: End of the retreat to the Hindenburg Line
 summary: On 5 April 1917 the British took Ronssoy and Lempire, the last villages before the Hindenburg Line. The British official history ends the German retreat there.
 source: zakonczenie-odwrotu-na-linie-hindenburga
-sourceHash: 8e1c275e96218c585a9c191de4baaf3c0d55b472
+sourceHash: dee53874bbfe4a74a79df6a62b5fde6f21828506
 ---
 
 On 5 April 1917 the British 145th Brigade of the 48th Division captured the group of villages of [Ronssoy](https://pl.wikipedia.org/wiki/Ronssoy), Basse-Boulogne and [Lempire](https://pl.wikipedia.org/wiki/Lempire) north-west of Saint-Quentin. The attack went in without a preliminary bombardment, and the artillery opened fire only when called on by the infantry. After a short check at the wire and fighting in the streets, the British took 45 prisoners and six machine guns, losing 34 killed, 107 wounded and six missing. The British official history notes that Ronssoy was the last village in the [Somme](https://pl.wikipedia.org/wiki/Somma_(departament)) department in German hands, and that in Lempire the victors changed into new underwear from a captured German store. After the war the British Battles Nomenclature Committee ended "the German retreat to the Hindenburg Line" with the capture of these villages. From Arras to the Aisne the Allies now stood before the new German position.
@@ -17,7 +17,7 @@ Most of these attacks succeeded, but almost every one was costly. The British of
 
 ## The French at Saint-Quentin
 
-To the right of the British, General Georges Humbert's French 3rd Army was approaching the new position south of Saint-Quentin. On 3 April the French took the Épine de Dallon hill, and on 4 April the last villages before the Hindenburg Line on their left wing. Humbert ordered the preparatory bombardment to begin at once, because the French Group of Armies of the North was to attack at [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). It was, however, a modest attack, meant only to replace the great blow between the Oise and the Avre that the German retreat had thwarted. Haig instructed General [Henry Rawlinson](/postacie/henry-rawlinson), commander of the Fourth Army, to support the French, and that is why his divisions fought so stubbornly for the outposts.
+To the right of the British, General Georges Humbert's French 3rd Army was approaching the new position south of Saint-Quentin. On 3 April the French took the Épine de Dallon hill, and on 4 April the last villages before the Hindenburg Line on their left wing. Humbert ordered the preparatory bombardment to begin at once, because the French Group of Armies of the North was to attack at [Saint-Quentin](/miejsca/saint-quentin). It was, however, a modest attack, meant only to replace the great blow between the Oise and the Avre that the German retreat had thwarted. Haig instructed General [Henry Rawlinson](/postacie/henry-rawlinson), commander of the Fourth Army, to support the French, and that is why his divisions fought so stubbornly for the outposts.
 
 ## What followed
 

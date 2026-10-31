@@ -2,10 +2,10 @@
 title: South African troops occupy Lüderitzbucht
 summary: On 19 September 1914 troops of the Union of South Africa landed unopposed at Lüderitzbucht. The invasion of German South West Africa had begun.
 source: poludniowoafrykanczycy-zajmuja-luderitzbucht
-sourceHash: 12f0d135971bc7f52859f255a948474fe6530599
+sourceHash: 63fd51bcda94ca0e45fa56f1d37d23328cb70852
 ---
 
-On 19 September 1914 troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) occupied the port of Lüderitzbucht, today's [Lüderitz](https://pl.wikipedia.org/wiki/Lüderitz), on the coast of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The British chronology of the war stresses that it was the first German territory entered by Union troops. The Germans did not defend the town.
+On 19 September 1914 troops of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) occupied the port of Lüderitzbucht, today's [Lüderitz](https://pl.wikipedia.org/wiki/Lüderitz), on the coast of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The British chronology of the war stresses that it was the first German territory entered by Union troops. The Germans did not defend the town.
 
 ## The invasion plan
 

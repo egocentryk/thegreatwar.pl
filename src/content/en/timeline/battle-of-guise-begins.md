@@ -2,7 +2,7 @@
 title: Battle of Guise begins
 summary: On 29 August 1914 Lanrezac's French Fifth Army broke off its retreat and counter-attacked Bülow's German Second Army on the river Oise.
 source: poczatek-bitwy-pod-guise
-sourceHash: 41a17f99332c44ec17ae19a7f32c5f2d33815d81
+sourceHash: a8c3fa98411169fc2be8e30862c9205e0893ca42
 brief:
   - "On 29 August 1914 General Charles Lanrezac's French Fifth Army broke off its retreat and struck Bülow's German Second Army in the Oise valley. It was the only major Allied counter-attack during the Great Retreat."
   - "Joffre needed time to assemble the new Sixth Army and forced the attack on Lanrezac, who opposed it. Field Marshal John French refused British participation, so the French fought alone."
@@ -10,7 +10,7 @@ brief:
   - "The success was fragile, and that evening Joffre allowed a retreat behind the Oise. Yet the battle halted Bülow for a day and a half and led Kluck to turn east of Paris, giving the French their chance on the Marne."
 ---
 
-On 29 August 1914 the French Fifth Army under General Charles Lanrezac stopped retreating for the first time since its defeat at Charleroi and struck at the Germans. In the valley of the river [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), around the small town of [Guise](https://pl.wikipedia.org/wiki/Guise) and the town of [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), the Battle of Guise began. The Germans call it the Battle of Saint-Quentin. It was the only major Allied counter-attack during the Great Retreat and one of the most important engagements leading up to the Battle of the Marne.
+On 29 August 1914 the French Fifth Army under General Charles Lanrezac stopped retreating for the first time since its defeat at Charleroi and struck at the Germans. In the valley of the river [Oise](/miejsca/oise), around the small town of [Guise](https://pl.wikipedia.org/wiki/Guise) and the town of [Saint-Quentin](/miejsca/saint-quentin), the Battle of Guise began. The Germans call it the Battle of Saint-Quentin. It was the only major Allied counter-attack during the Great Retreat and one of the most important engagements leading up to the Battle of the Marne.
 
 ## A retreat that had to be halted
 

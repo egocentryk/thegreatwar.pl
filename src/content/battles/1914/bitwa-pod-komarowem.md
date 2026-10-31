@@ -17,7 +17,7 @@ tags: [Austro-Węgry, Rosja, Królestwo Polskie, bitwa galicyjska]
 milestone: false
 ---
 
-[Bitwa pod Komarowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) rozegrała się w dniach 26 sierpnia – 2 września 1914 roku na Zamojszczyźnie, między [Zamościem](https://pl.wikipedia.org/wiki/Zamość), [Komarowem](https://pl.wikipedia.org/wiki/Komarów-Osada) a [Tomaszowem Lubelskim](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski). Były to wówczas ziemie [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)) pod panowaniem rosyjskim. Austro-węgierska 4 Armia generała Moritza von Auffenberga pokonała tu rosyjską 5 Armię generała Pawła Plehwego i niewiele brakowało, by ją okrążyła. Było to największe zwycięstwo Austro-Węgier w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska).
+[Bitwa pod Komarowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) rozegrała się w dniach 26 sierpnia – 2 września 1914 roku na Zamojszczyźnie, między [Zamościem](https://pl.wikipedia.org/wiki/Zamość), [Komarowem](https://pl.wikipedia.org/wiki/Komarów-Osada) a [Tomaszowem Lubelskim](https://pl.wikipedia.org/wiki/Tomaszów_Lubelski). Były to wówczas ziemie [Królestwa Polskiego](/miejsca/krolestwo-polskie) pod panowaniem rosyjskim. Austro-węgierska 4 Armia generała Moritza von Auffenberga pokonała tu rosyjską 5 Armię generała Pawła Plehwego i niewiele brakowało, by ją okrążyła. Było to największe zwycięstwo Austro-Węgier w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska).
 
 Nie należy jej mylić z [bitwą pod Komarowem z 1920 roku](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem), wielką bitwą kawaleryjską wojny polsko-bolszewickiej, stoczoną niemal w tym samym miejscu sześć lat później.
 

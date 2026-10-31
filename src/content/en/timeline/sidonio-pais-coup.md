@@ -2,7 +2,7 @@
 title: Sidónio Pais's coup
 summary: On 8 December 1917, after three days of fighting in Lisbon, Costa's government fell to the revolutionary junta of Major Sidónio Pais, an opponent of the war.
 source: zamach-stanu-sidonia-paisa
-sourceHash: aff5e7f2c7f7cc4edfa004e24f9db476bb11e92b
+sourceHash: bbaa46a216a9ea558c83424afae1e5b6a9dabd44
 ---
 
 On 8 December 1917 a three-day armed coup came to an end in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona). The government of [Afonso Costa](/postacie/afonso-costa), [formed in April](/afonso-costa-po-raz-trzeci-premierem), resigned, and power was taken over by a Revolutionary Junta. Its chairman was the artillery major and professor of mathematics [Sidónio Pais](/postacie/sidonio-pais). The same day an extraordinary supplement to the official gazette announced that "the people and the revolutionary forces of land and sea" had set up a junta composed of Sidónio Pais as chairman and António Machado Santos and José Feliciano da Costa Júnior as members. The junta announced that it would hand over power, in the shortest possible time, to a government "in accordance with the aspirations of the nation".
@@ -15,7 +15,7 @@ The conspiracy was formed by men from the circle of Manuel de Brito Camacho's Re
 
 ## Why the revolt broke out
 
-Costa's government was increasingly isolated. Participation in the war, and especially the dispatch of the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) to Flanders, was unpopular at home. Food was short, prices were rising, in May Lisbon was swept by food riots, and the government responded by suspending liberties and imposing censorship. In the November local elections the Democrats lost most municipalities. The moment was also favourable: Costa and the foreign minister Augusto Soares were abroad, among other places in Paris, where the [great inter-Allied conference](/wielka-konferencja-miedzysojusznicza-w-paryzu) was sitting at the end of November. From 19 November the government was headed in their absence by the war minister, José Norton de Matos.
+Costa's government was increasingly isolated. Participation in the war, and especially the dispatch of the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) to Flanders, was unpopular at home. Food was short, prices were rising, in May Lisbon was swept by food riots, and the government responded by suspending liberties and imposing censorship. In the November local elections the Democrats lost most municipalities. The moment was also favourable: Costa and the foreign minister Augusto Soares were abroad, among other places in Paris, where the [great inter-Allied conference](/wielka-konferencja-miedzysojusznicza-w-paryzu) was sitting at the end of November. From 19 November the government was headed in their absence by the war minister, José Norton de Matos.
 
 ## Three days of fighting
 

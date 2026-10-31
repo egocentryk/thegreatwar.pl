@@ -2,10 +2,10 @@
 title: France orders general mobilisation
 summary: On the afternoon of 1 August 1914 France proclaimed general mobilisation. By mid-August nearly three million men had been called to arms.
 source: francja-zarzadza-powszechna-mobilizacje
-sourceHash: 82e9c505118f9621f9b69d42c73aaf667ac5c8de
+sourceHash: 26498373e2332acc13e938ab1628ce088cbd206d
 ---
 
-On the afternoon of 1 August 1914 the government of [France](/kraje/francja) ordered the general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army and navy. The War Minister, Adolphe Messimy, told the British military attaché that the orders had been given at 3.40 p.m. According to French records, the telegram with the order left Paris at 3.55 p.m. Telegrams went to the commanders of corps and regiments and to the prefects, who in turn informed the mayors. Posters printed in advance, which needed only the date filled in, were pasted on the walls. The first day of mobilisation was 2 August.
+On the afternoon of 1 August 1914 the government of [France](/kraje/francja) ordered the general [mobilisation](/slownik/mobilizacja) of the army and navy. The War Minister, Adolphe Messimy, told the British military attaché that the orders had been given at 3.40 p.m. According to French records, the telegram with the order left Paris at 3.55 p.m. Telegrams went to the commanders of corps and regiments and to the prefects, who in turn informed the mayors. Posters printed in advance, which needed only the date filled in, were pasted on the walls. The first day of mobilisation was 2 August.
 
 ## The decision
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-22 lutego 1915 roku niemieckie naczelne dowództwo ogłosiło zakończenie zimowej bitwy na Mazurach. Po dwóch tygodniach walk w śniegu, mrozie i błocie dwie armie niemieckie feldmarszałka [Paula von Hindenburga](/postacie/paul-von-hindenburg) wyparły rosyjską [10 Armię](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) z [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) i zepchnęły ją na linię Niemna i Biebrzy. Dzień wcześniej w Puszczy Augustowskiej [skapitulował otoczony XX Korpus](/kapitulacja-xx-korpusu-w-puszczy-augustowskiej).
+22 lutego 1915 roku niemieckie naczelne dowództwo ogłosiło zakończenie zimowej bitwy na Mazurach. Po dwóch tygodniach walk w śniegu, mrozie i błocie dwie armie niemieckie feldmarszałka [Paula von Hindenburga](/postacie/paul-von-hindenburg) wyparły rosyjską [10 Armię](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) z [Prus Wschodnich](/miejsca/prusy-wschodnie) i zepchnęły ją na linię Niemna i Biebrzy. Dzień wcześniej w Puszczy Augustowskiej [skapitulował otoczony XX Korpus](/kapitulacja-xx-korpusu-w-puszczy-augustowskiej).
 
 ## Komunikat zwycięstwa
 

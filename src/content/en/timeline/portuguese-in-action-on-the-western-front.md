@@ -2,10 +2,10 @@
 title: Portuguese in action on the Western Front
 summary: On the night of 3/4 June 1917 the Germans first attacked Portuguese trenches near Neuve-Chapelle. The 35th Infantry Battalion from Coimbra repulsed them.
 source: portugalczycy-w-walce-na-froncie-zachodnim
-sourceHash: 64c3eab50418953ed34f2b6ab57522a2dbf1fa9d
+sourceHash: 8851d7b352f8c0ab661df9966ede4d5047be424e
 ---
 
-On the night of 3/4 June 1917 soldiers of the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) (CEP) for the first time beat off a German attack on their own trenches. At about four in the morning, after an artillery bombardment, German assault troops advanced across no man's land in French Flanders. They struck the 35th Infantry Battalion from [Coimbra](https://pl.wikipedia.org/wiki/Coimbra), which had been in the front-line trenches for only two days. Accounts differ as to exactly where the raid fell: on the [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle) sector or on the neighbouring Ferme du Bois sector. Red rockets calling for help were fired from the Portuguese trenches, the Portuguese artillery shelled the ground in front, and the battalion drove off the attackers. The British chronology of the war records the first Portuguese fighting only under 17 June, but Portuguese military historians agree in pointing to the night of 3/4 June.
+On the night of 3/4 June 1917 soldiers of the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) (CEP) for the first time beat off a German attack on their own trenches. At about four in the morning, after an artillery bombardment, German assault troops advanced across no man's land in French Flanders. They struck the 35th Infantry Battalion from [Coimbra](https://pl.wikipedia.org/wiki/Coimbra), which had been in the front-line trenches for only two days. Accounts differ as to exactly where the raid fell: on the [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle) sector or on the neighbouring Ferme du Bois sector. Red rockets calling for help were fired from the Portuguese trenches, the Portuguese artillery shelled the ground in front, and the battalion drove off the attackers. The British chronology of the war records the first Portuguese fighting only under 17 June, but Portuguese military historians agree in pointing to the night of 3/4 June.
 
 ## The road to the front line
 

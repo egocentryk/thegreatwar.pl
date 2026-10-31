@@ -2,10 +2,10 @@
 title: End of the First Battle of Picardy
 summary: On 26 September 1914 the First Battle of Picardy ended. The French failed to turn the German flank, and the front between the Oise and Somme set in trenches.
 source: koniec-bitwy-w-pikardii
-sourceHash: 0db9500a98b317d7f11e19d93e7455f889e603fb
+sourceHash: 6d4f8d60b221d4a850178cd44c227a0d1e110c87
 ---
 
-On 26 September 1914 the First Battle of [Picardy](https://pl.wikipedia.org/wiki/Pikardia) came to an end, the first large engagement of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). After five days of fighting between the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) and the [Somme](/miejsca/somma), neither side had managed to turn the enemy's flank. The exhausted French and German troops began to dig in.
+On 26 September 1914 the First Battle of [Picardy](https://pl.wikipedia.org/wiki/Pikardia) came to an end, the first large engagement of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). After five days of fighting between the [Oise](/miejsca/oise) and the [Somme](/miejsca/somma), neither side had managed to turn the enemy's flank. The exhausted French and German troops began to dig in.
 
 ## An attack that stalled
 

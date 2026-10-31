@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-12 października 1918 roku około południa do [Niszu](https://pl.wikipedia.org/wiki/Nisz) weszły pierwsze pododdziały serbskiego 1 Pułku Piechoty „Knjaz Miloš” z Dywizji Morawskiej, a godzinę później Serbowie panowali już nad całym miastem i jego najbliższą okolicą. Nisz, od lata 1914 roku [wojenna stolica Serbii](/rzad-serbski-przeniesiony-z-belgradu-do-niszu), od listopada 1915 roku był [w rękach bułgarskich](/bulgarzy-zajmuja-nisz). Wejście do miasta zakończyło trzydniową bitwę na jego przedpolach. Brytyjska chronologia wojny notuje odzyskanie Niszu pod 11 października, ale serbskie opracowania, oparte na dokumentach sztabowych, zgodnie podają 12 października i tego dnia obchodzi się w Niszu rocznicę wyzwolenia. Niemiecki komunikat wojenny z 13 października potwierdzał, że miasto zajął nieprzyjaciel.
+12 października 1918 roku około południa do [Niszu](/miejsca/nisz) weszły pierwsze pododdziały serbskiego 1 Pułku Piechoty „Knjaz Miloš” z Dywizji Morawskiej, a godzinę później Serbowie panowali już nad całym miastem i jego najbliższą okolicą. Nisz, od lata 1914 roku [wojenna stolica Serbii](/rzad-serbski-przeniesiony-z-belgradu-do-niszu), od listopada 1915 roku był [w rękach bułgarskich](/bulgarzy-zajmuja-nisz). Wejście do miasta zakończyło trzydniową bitwę na jego przedpolach. Brytyjska chronologia wojny notuje odzyskanie Niszu pod 11 października, ale serbskie opracowania, oparte na dokumentach sztabowych, zgodnie podają 12 października i tego dnia obchodzi się w Niszu rocznicę wyzwolenia. Niemiecki komunikat wojenny z 13 października potwierdzał, że miasto zajął nieprzyjaciel.
 
 ## Niemieckie posiłki
 

@@ -2,10 +2,10 @@
 title: Möwe sails on her first cruise
 summary: On 29 December 1915 the auxiliary cruiser Möwe, disguised as a freighter, put to sea from Wilhelmshaven to lay mines and sink Allied ships.
 source: mowe-wyplywa-w-pierwszy-rejs
-sourceHash: 64c6274254c6443e72d5fd03b93ce87d09ba9271
+sourceHash: d272503660524d398e3bf0c7b6a753b805aca828
 ---
 
-On 29 December 1915 the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) [*Möwe*](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)), disguised as a neutral freighter, put to sea from [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven). She was the first German [raider](https://pl.wikipedia.org/wiki/Rajder) in many months that was to break through the British blockade onto the open ocean, lay mines off the coasts of Britain and France and then sink Allied ships. The British chronology of the war places her departure under 26 December, but the British official history of the war at sea, German studies and German lists of warships all give 29 December. The cruise revived German cruiser warfare on the Atlantic shipping lanes for several months.
+On 29 December 1915 the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) [*Möwe*](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)), disguised as a neutral freighter, put to sea from [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven). She was the first German [raider](/slownik/rajder) in many months that was to break through the British blockade onto the open ocean, lay mines off the coasts of Britain and France and then sink Allied ships. The British chronology of the war places her departure under 26 December, but the British official history of the war at sea, German studies and German lists of warships all give 29 December. The cruise revived German cruiser warfare on the Atlantic shipping lanes for several months.
 
 ## A banana boat in disguise
 

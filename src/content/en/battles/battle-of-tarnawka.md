@@ -11,10 +11,10 @@ sides:
     commanders: [Remus von Woyrsch]
 result: Russian victory. The Austro-Hungarian First Army had to withdraw, and soon afterwards the whole Austro-Hungarian front fell back behind the San.
 source: bitwa-pod-tarnawka
-sourceHash: 886fbb87ec5a1d00e73257f72c9368b68ecd152d
+sourceHash: 92ec82b0236b7e1617a029bae3abc7293963ec3b
 ---
 
-The Battle of Tarnawka was fought in September 1914 in the Lublin region, on the hilly fields around the villages of Tarnawka, Giełczew and Zakrzew, a dozen or so kilometres south of [Lublin](https://pl.wikipedia.org/wiki/Lublin). Here Russian troops broke the defence of the Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl) and of the German corps supporting it. It was part of the great [Battle of Galicia](/bitwy/bitwa-galicyjska), although the fighting took place not in Galicia but in the Kingdom of Poland.
+The Battle of Tarnawka was fought in September 1914 in the Lublin region, on the hilly fields around the villages of Tarnawka, Giełczew and Zakrzew, a dozen or so kilometres south of [Lublin](/miejsca/lublin). Here Russian troops broke the defence of the Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl) and of the German corps supporting it. It was part of the great [Battle of Galicia](/bitwy/bitwa-galicyjska), although the fighting took place not in Galicia but in the Kingdom of Poland.
 
 ## Dates and name
 

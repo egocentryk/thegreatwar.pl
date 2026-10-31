@@ -54,6 +54,6 @@ Brytyjska chronologia wojny i brytyjska oficjalna nomenklatura bitew przyjmują,
 
 ## Znaczenie
 
-Nad Aisne skończył się pościg po bitwie nad Marną. Niemcy, choć pobici, zatrzymali się na dogodnej pozycji i utrzymali ją. Żadna ze stron nie potrafiła przełamać obrony przeciwnika, a żadna nie zamierzała się cofnąć. Płytkie jamy strzeleckie, kopane w pośpiechu, często bez odpowiednich narzędzi, w ciągu kilku dni zamieniły się w coraz głębsze linie okopów. Na froncie zachodnim zaczynała się [wojna pozycyjna](https://pl.wikipedia.org/wiki/Wojna_pozycyjna).
+Nad Aisne skończył się pościg po bitwie nad Marną. Niemcy, choć pobici, zatrzymali się na dogodnej pozycji i utrzymali ją. Żadna ze stron nie potrafiła przełamać obrony przeciwnika, a żadna nie zamierzała się cofnąć. Płytkie jamy strzeleckie, kopane w pośpiechu, często bez odpowiednich narzędzi, w ciągu kilku dni zamieniły się w coraz głębsze linie okopów. Na froncie zachodnim zaczynała się [wojna pozycyjna](/slownik/wojna-pozycyjna).
 
 Skoro natarcia czołowe zawiodły, obie strony zaczęły szukać otwartego skrzydła przeciwnika dalej na północy. Rozpoczął się tak zwany wyścig do morza, który w październiku doprowadził linię frontu aż do wybrzeża Flandrii. Grzbiet Chemin des Dames pozostał w rękach niemieckich przez niemal trzy lata. W 1917 roku stał się celem krwawej [ofensywy Nivelle'a](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a), a w 1918 roku Niemcy przeprowadzili tędy jedno ze swoich ostatnich wielkich natarć.

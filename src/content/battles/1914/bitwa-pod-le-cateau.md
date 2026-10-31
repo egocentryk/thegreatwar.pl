@@ -41,7 +41,7 @@ Najcięższe walki toczyły się na zachód od Le Cateau, gdzie stanowiska 5 Dyw
 
 Wczesnym popołudniem Smith-Dorrien nakazał odwrót. Rozkaz nie wszędzie dotarł na czas i część oddziałów walczyła aż do okrążenia. Obsługi dział, wśród nich 37 bateria haubic, ratowały sprzęt pod ogniem. Za bohaterstwo tego dnia przyznano pięć [Krzyży Wiktorii](/slownik/krzyz-wiktorii): kapitanowi Douglasowi Reynoldsowi, kierowcom Jobowi Drainowi i Frederickowi Luke'owi, majorowi Charlesowi Yate'owi oraz starszemu szeregowemu Frederickowi Holmesowi.
 
-Lewe skrzydło brytyjskie osłaniał francuski korpus kawalerii generała André Sordeta, a dalej na zachód, w rejonie Cambrai, walczyły francuskie dywizje terytorialne. Tego samego dnia Niemcy [zajęli Cambrai](/niemcy-zajmuja-cambrai). Francuska osłona nie pozwoliła jednak przeciwnikowi obejść Brytyjczyków od zachodu. Wieczorem i w nocy II Korpus wycofał się w kierunku [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), a Niemcy, sądząc, że pokonali cały Korpus Ekspedycyjny, nie ruszyli natychmiast w pościg.
+Lewe skrzydło brytyjskie osłaniał francuski korpus kawalerii generała André Sordeta, a dalej na zachód, w rejonie Cambrai, walczyły francuskie dywizje terytorialne. Tego samego dnia Niemcy [zajęli Cambrai](/niemcy-zajmuja-cambrai). Francuska osłona nie pozwoliła jednak przeciwnikowi obejść Brytyjczyków od zachodu. Wieczorem i w nocy II Korpus wycofał się w kierunku [Saint-Quentin](/miejsca/saint-quentin), a Niemcy, sądząc, że pokonali cały Korpus Ekspedycyjny, nie ruszyli natychmiast w pościg.
 
 ## Straty
 

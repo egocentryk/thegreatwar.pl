@@ -17,7 +17,7 @@ tags: [Francja, Niemcy, Charles Lanrezac, wielki odwrót]
 milestone: false
 ---
 
-Bitwa pod Guise, stoczona 29 i 30 sierpnia 1914 roku w dolinie rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) w północnej Francji, była jedynym dużym kontratakiem francuskim w czasie wielkiego odwrotu z sierpnia 1914 roku. Francuzi nazywają ją od miasteczka [Guise](https://pl.wikipedia.org/wiki/Guise), a Niemcy od pobliskiego miasta [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). Starły się w niej francuska 5 Armia generała Charles'a Lanrezaca i niemiecka 2 Armia generała [Karla von Bülowa](/postacie/karl-von-bulow).
+Bitwa pod Guise, stoczona 29 i 30 sierpnia 1914 roku w dolinie rzeki [Oise](/miejsca/oise) w północnej Francji, była jedynym dużym kontratakiem francuskim w czasie wielkiego odwrotu z sierpnia 1914 roku. Francuzi nazywają ją od miasteczka [Guise](https://pl.wikipedia.org/wiki/Guise), a Niemcy od pobliskiego miasta [Saint-Quentin](/miejsca/saint-quentin). Starły się w niej francuska 5 Armia generała Charles'a Lanrezaca i niemiecka 2 Armia generała [Karla von Bülowa](/postacie/karl-von-bulow).
 
 ## Rozkaz Joffre'a
 

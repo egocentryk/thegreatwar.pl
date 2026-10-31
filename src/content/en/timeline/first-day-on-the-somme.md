@@ -2,7 +2,7 @@
 title: First day on the Somme
 summary: On 1 July 1916 the British and French attacked on the Somme. The French and the British right succeeded, but the British Army lost 57,000 men.
 source: pierwszy-dzien-bitwy-nad-somma
-sourceHash: 3c85431eddd22e0b7815c591c7adae2cd3585cdc
+sourceHash: 7fcbdb1c66d16555bce75c90ee3bab346f779297
 brief:
   - "At 7.30 a.m. on 1 July 1916 British infantry and the French Sixth Army attacked on the Somme. The great offensive agreed at Chantilly was above all meant to relieve the French at Verdun."
   - "The attack was preceded by seven days of bombardment, which could not reach the deep German dug-outs. The defenders got up in time and mowed down with machine guns the waves of infantry advancing at a steady walk."
@@ -21,7 +21,7 @@ The British Army, commanded [since December 1915](/haig-dowodca-wojsk-brytyjskic
 
 ## Seven days of bombardment
 
-The offensive was preceded by the most powerful bombardment the British Army had yet carried out. It began on 24 June and was to last five days, but on 28 June, because of rain, the British and French commanders postponed the attack by 48 hours, from 29 June to 1 July. In seven days the British artillery fired, according to the official history, 1,627,824 shells. The command believed that the fire would destroy the wire, the trenches, the machine-gun nests and the spirit of the defenders, and that the infantry would only have to cross [no man's land](https://pl.wikipedia.org/wiki/Ziemia_niczyja) and occupy the ruined positions. That is why the soldiers were to advance at a steady walk, in waves about 100 metres apart, and each carried, according to the official history, about 30 kilograms of equipment: ammunition, grenades, shovels, sandbags and supplies for several days.
+The offensive was preceded by the most powerful bombardment the British Army had yet carried out. It began on 24 June and was to last five days, but on 28 June, because of rain, the British and French commanders postponed the attack by 48 hours, from 29 June to 1 July. In seven days the British artillery fired, according to the official history, 1,627,824 shells. The command believed that the fire would destroy the wire, the trenches, the machine-gun nests and the spirit of the defenders, and that the infantry would only have to cross [no man's land](/slownik/ziemia-niczyja) and occupy the ruined positions. That is why the soldiers were to advance at a steady walk, in waves about 100 metres apart, and each carried, according to the official history, about 30 kilograms of equipment: ammunition, grenades, shovels, sandbags and supplies for several days.
 
 The bombardment did great damage but did not meet expectations. There were too few guns for so wide and deep a belt of defences, many shells were obsolete or faulty and did not explode, and gas shells were lacking along the whole front. Above all, however, the artillery could not reach the German dug-outs, dug into the chalk to a depth of several, and sometimes more than ten, metres, some of them two storeys deep. Their garrisons survived the week of shelling crowded, hungry and exhausted, but alive.
 

@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Erfurt (Prussia)
 deathPlace: Berlin
 source: oskar-von-hutier
-sourceHash: 910c2517ce7fb95a840f6f00dcbecf482a876788
+sourceHash: 62534cf1dc7d6396bd4cc41fa9bbfc4212d86829
 ---
 
 Oskar von Hutier is one of the few German generals of the First World War whose name passed into military language. The French, and after them the British and Americans, called the German method of breaking through the front in 1917–1918 "Hutier tactics": a short, violent bombardment with massive use of gas, and an infantry attack that did not stop at points of resistance. Hutier did indeed twice apply it with great success, at Riga in September 1917 and on the Somme in March 1918. Historians stress, however, that he was not its creator. He was, though, an efficient and demanding army commander, to whom Ludendorff entrusted tasks that called for boldness.
@@ -35,7 +35,7 @@ From the summer Hutier was only on the defensive. When the [Battle of Amiens](/b
 
 ## After the war
 
-At the beginning of 1919 he retired. From 1919 until his death he chaired the German Officers' League, an organisation of officers of the old army, and was one of the advocates of the [stab-in-the-back myth](https://pl.wikipedia.org/wiki/Legenda_o_ciosie_w_plecy), according to which the German army had not been defeated in the field but betrayed by revolution at home. He died in Berlin on 5 December 1934 (some sources give 4 December). He was buried in [Darmstadt](https://pl.wikipedia.org/wiki/Darmstadt).
+At the beginning of 1919 he retired. From 1919 until his death he chaired the German Officers' League, an organisation of officers of the old army, and was one of the advocates of the [stab-in-the-back myth](/slownik/legenda-o-ciosie-w-plecy), according to which the German army had not been defeated in the field but betrayed by revolution at home. He died in Berlin on 5 December 1934 (some sources give 4 December). He was buried in [Darmstadt](https://pl.wikipedia.org/wiki/Darmstadt).
 
 ## Assessment
 

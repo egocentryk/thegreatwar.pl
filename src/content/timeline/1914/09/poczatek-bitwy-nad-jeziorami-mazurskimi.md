@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny podaje 5 września 1914 roku jako początek bitwy nad jeziorami mazurskimi. Niecały tydzień po [zwycięstwie pod Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem) niemiecka [8 Armia](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) zwróciła się przeciw drugiej rosyjskiej armii, która wkroczyła do [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie): [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf). Walki toczyły się na ziemiach, które dziś należą do Polski, wokół jezior i przesmyków [Mazur](https://pl.wikipedia.org/wiki/Mazury).
+Brytyjska kronika wojny podaje 5 września 1914 roku jako początek bitwy nad jeziorami mazurskimi. Niecały tydzień po [zwycięstwie pod Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem) niemiecka [8 Armia](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) zwróciła się przeciw drugiej rosyjskiej armii, która wkroczyła do [Prus Wschodnich](/miejsca/prusy-wschodnie): [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf). Walki toczyły się na ziemiach, które dziś należą do Polski, wokół jezior i przesmyków [Mazur](https://pl.wikipedia.org/wiki/Mazury).
 
 ## Różne daty
 

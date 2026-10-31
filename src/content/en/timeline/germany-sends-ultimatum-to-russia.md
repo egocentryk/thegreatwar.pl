@@ -2,10 +2,10 @@
 title: Germany sends an ultimatum to Russia
 summary: On 31 July 1914 Germany demanded that Russia halt its mobilisation within 12 hours. At the same time it asked France whether it would remain neutral.
 source: niemcy-wysylaja-ultimatum-do-rosji
-sourceHash: 016167335ce55073cc1867783feb1eee56044ecc
+sourceHash: 44cdeda8695b384bbf57ae151280c0a3db14c58f
 ---
 
-At 3.30 p.m. on 31 July 1914 an urgent telegram from Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) to the ambassador in [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg), Count Friedrich von Pourtalès, left the Central Telegraph Office in Berlin. It was an ultimatum: [Russia](/kraje/rosja) was to halt its war preparations within twelve hours or face German [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja). A few hours earlier news of the [general mobilisation in Russia](/rosja-rozpoczyna-powszechna-mobilizacje) had reached Berlin.
+At 3.30 p.m. on 31 July 1914 an urgent telegram from Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) to the ambassador in [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg), Count Friedrich von Pourtalès, left the Central Telegraph Office in Berlin. It was an ultimatum: [Russia](/kraje/rosja) was to halt its war preparations within twelve hours or face German [mobilisation](/slownik/mobilizacja). A few hours earlier news of the [general mobilisation in Russia](/rosja-rozpoczyna-powszechna-mobilizacje) had reached Berlin.
 
 ## Twelve hours
 

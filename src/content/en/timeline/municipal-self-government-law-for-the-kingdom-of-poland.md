@@ -2,10 +2,10 @@
 title: Municipal self-government law for the Kingdom of Poland
 summary: In spring 1915 Tsar Nicholas II approved a law giving the towns of the Kingdom of Poland elected councils. The Russians never managed to put it into effect.
 source: ustawa-o-samorzadzie-miejskim-w-krolestwie-polskim
-sourceHash: 4d4ea616ed9a51cab5521e8e493d89f94f72f37f
+sourceHash: 0db48b8361d12ba0698e525b8f18cc6e55f9a2ba
 ---
 
-The British chronology of the war records under 3 April 1915 that a Russian imperial ukase granted municipal self-government to the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). This was a law extending to the towns of the Kingdom's governorates the Russian municipal statute of 1892, with changes provided for the Polish lands. Tsar [Nicholas II](/postacie/mikolaj-ii) approved it on 17 March 1915 by the Julian calendar, that is, 30 March by the Gregorian calendar. At the beginning of April the news spread through the press, and the Warsaw newspapers began to comment on it at length. This is probably the source of the date adopted by the British authors.
+The British chronology of the war records under 3 April 1915 that a Russian imperial ukase granted municipal self-government to the [Kingdom of Poland](/miejsca/krolestwo-polskie). This was a law extending to the towns of the Kingdom's governorates the Russian municipal statute of 1892, with changes provided for the Polish lands. Tsar [Nicholas II](/postacie/mikolaj-ii) approved it on 17 March 1915 by the Julian calendar, that is, 30 March by the Gregorian calendar. At the beginning of April the news spread through the press, and the Warsaw newspapers began to comment on it at length. This is probably the source of the date adopted by the British authors.
 
 ## Half a century without self-government
 

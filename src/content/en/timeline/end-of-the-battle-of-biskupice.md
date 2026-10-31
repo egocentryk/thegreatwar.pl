@@ -2,10 +2,10 @@
 title: End of the Battle of Biskupice
 summary: On 30 July 1915, after their defeat at Biskupice, the Russians fell back all along the front between the Vistula and the Bug. The Austro-Hungarians took Lublin.
 source: koniec-bitwy-pod-biskupicami
-sourceHash: 32d9dee6626ee183466a8b2efb33aa09d522e0dc
+sourceHash: 16b46ae1d55fd93402463d0522ce27f718474ce0
 ---
 
-At dawn on 30 July 1915 the Germans and Austro-Hungarians found the Russian trenches between the Vistula and the Bug empty almost everywhere. After the [breaking of the front at Biskupice](/poczatek-bitwy-pod-biskupicami) the previous day, the Russian command had broken off the fighting. During the night it ordered the Fourth, Third and Thirteenth Armies to retreat to a new line, from Nowa Aleksandria ([Puławy](https://pl.wikipedia.org/wiki/Puławy)) through the hills north of [Lublin](https://pl.wikipedia.org/wiki/Lublin), [Świdnik](https://pl.wikipedia.org/wiki/Świdnik) and [Rejowiec](https://pl.wikipedia.org/wiki/Rejowiec) to the Bug. The German list of battles closes the Battle of Biskupice on this day. Its best-known consequence was the loss of Lublin by the Russians.
+At dawn on 30 July 1915 the Germans and Austro-Hungarians found the Russian trenches between the Vistula and the Bug empty almost everywhere. After the [breaking of the front at Biskupice](/poczatek-bitwy-pod-biskupicami) the previous day, the Russian command had broken off the fighting. During the night it ordered the Fourth, Third and Thirteenth Armies to retreat to a new line, from Nowa Aleksandria ([Puławy](https://pl.wikipedia.org/wiki/Puławy)) through the hills north of [Lublin](/miejsca/lublin), [Świdnik](https://pl.wikipedia.org/wiki/Świdnik) and [Rejowiec](https://pl.wikipedia.org/wiki/Rejowiec) to the Bug. The German list of battles closes the Battle of Biskupice on this day. Its best-known consequence was the loss of Lublin by the Russians.
 
 According to the Austrian official history, the retreat could be seen from afar. North of the Lublin–Chełm highway villages were burning, and long columns of baggage trains moved north along the roads to [Lubartów](https://pl.wikipedia.org/wiki/Lubartów) and [Włodawa](https://pl.wikipedia.org/wiki/Włodawa). An Austro-Hungarian communiqué of that day accused the retreating Russians of destroying settlements and even burning the grain in the fields. Laying waste to the country before the enemy arrived and forcibly deporting the population were in those weeks part of the Russian retreat from the Kingdom of Poland.
 

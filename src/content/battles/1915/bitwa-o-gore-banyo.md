@@ -35,7 +35,7 @@ Cunliffe był jednak rozczarowany. Niemcy nie przyjęli bitwy pod miastem, tylko
 
 Góra Banyo wznosi się samotnie około 1200 stóp (blisko 370 m) ponad pagórkowatą okolicę. Jej strome zbocza pokrywały wielkie głazy, które Niemcy połączyli murkami z kamienia. Według brytyjskiej historii oficjalnej takich osłon (sangarów) było około trzystu, a na wszystkich wysuniętych punktach stały małe reduty. Na szczycie zbudowano cementowe zbiorniki na wodę ze źródeł, murowane domy dla Europejczyków z cementowymi podłogami i oszklonymi oknami, urządzone ciężkimi meblami z osady. Zgromadzono około 40 ton zboża, ponad dwieście sztuk bydła, setki kur i narzędzia rolnicze, by uprawiać ziemię na płaskim szczycie. Góra miała być miejscem zbiórki dla załóg Banyo, Bamendy i Dschangu, a Niemcy w tej części kolonii byli przekonani, że utrzymają ją do końca wojny.
 
-Załogą dowodził kapitan Adolf Schipper, przed wojną urzędnik kolonialny, naczelnik okręgu Ossidinge, który w czasie wojny wrócił do [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe). Według brytyjskiej historii oficjalnej na górze było około 23 Niemców i 200 afrykańskich żołnierzy.
+Załogą dowodził kapitan Adolf Schipper, przed wojną urzędnik kolonialny, naczelnik okręgu Ossidinge, który w czasie wojny wrócił do [Schutztruppe](/slownik/schutztruppe). Według brytyjskiej historii oficjalnej na górze było około 23 Niemców i 200 afrykańskich żołnierzy.
 
 ## Przebieg
 

@@ -2,7 +2,7 @@
 title: Battle of Cambrai begins
 summary: On 8 October 1918 the British Third and Fourth Armies and the Americans attacked between Sequehart and Cambrai. At Niergnies the Germans used captured tanks.
 source: poczatek-bitwy-pod-cambrai-1918
-sourceHash: f53ede5e443c83c1964557c88dc003a34f819f93
+sourceHash: a1036d7ad55ed3bf0ee9cbbd7967947dd6a0bc31
 brief:
   - "At 4.30 a.m. on 8 October 1918 General Julian Byng's British Third Army, and forty minutes later General Rawlinson's Fourth Army, attacked on a front of more than 27 kilometres from Sequehart to the outskirts of Cambrai."
   - "Five days earlier the Fourth Army had broken into the Beaurevoir Line, so only unfinished trenches and villages turned into machine-gun nests stood before the Allies. The Germans were preparing to withdraw."
@@ -15,7 +15,7 @@ At 4.30 a.m. on 8 October 1918 the British Third Army of General [Julian Byng](/
 
 ## Before the attack
 
-The attack was to be planned without haste. On 6 October Field Marshal [Douglas Haig](/postacie/douglas-haig) sent his chief of staff to Rawlinson with instructions not to begin until all the divisions were ready. The date of 8 October was then fixed. For XIII Corps alone, ammunition was brought up on six hundred lorries over two days. The same day Haig went to see Marshal [Ferdinand Foch](/postacie/ferdinand-foch), who greeted him with a newspaper in his hand. It carried the [note in which Germany asked President Wilson for an armistice](/noty-pokojowe-do-wilsona) on the basis of the [Fourteen Points](https://pl.wikipedia.org/wiki/Czternaście_punktów_Wilsona). Foch believed that before any talks could even begin, the Germans had to fall back behind the Rhine. He approved Haig's plan but did not give him the American divisions he had asked for.
+The attack was to be planned without haste. On 6 October Field Marshal [Douglas Haig](/postacie/douglas-haig) sent his chief of staff to Rawlinson with instructions not to begin until all the divisions were ready. The date of 8 October was then fixed. For XIII Corps alone, ammunition was brought up on six hundred lorries over two days. The same day Haig went to see Marshal [Ferdinand Foch](/postacie/ferdinand-foch), who greeted him with a newspaper in his hand. It carried the [note in which Germany asked President Wilson for an armistice](/noty-pokojowe-do-wilsona) on the basis of the [Fourteen Points](/slownik/czternascie-punktow). Foch believed that before any talks could even begin, the Germans had to fall back behind the Rhine. He approved Haig's plan but did not give him the American divisions he had asked for.
 
 British airmen and intelligence were gathering signs that the Germans were preparing to withdraw. The airfields west of the Saint-Quentin–Le Cateau railway stood empty, the large ammunition dumps at Fresnoy-le-Grand and Brancourt had been cleared, and British prisoners who had escaped saw columns of guns moving east and civilians being evacuated. The British official history notes, however, that the Germans had reasons to make one more stand in the centre: as long as they held on here, they could withdraw the armies on the wings, from Lens to Flanders and the area of Reims, in good order.
 

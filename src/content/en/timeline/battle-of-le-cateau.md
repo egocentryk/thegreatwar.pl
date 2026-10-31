@@ -2,7 +2,7 @@
 title: Battle of Le Cateau
 summary: On 26 August 1914 Smith-Dorrien's II Corps stood and fought at Le Cateau against the wishes of GHQ. It paid a high price but halted the German pursuit.
 source: bitwa-pod-le-cateau
-sourceHash: e1a02eff9770798bf337db0f34b3e4c9ecbabeb5
+sourceHash: ba8be1089a7442ca760d9bf95d7b667ba2d7f255
 brief:
   - "On 26 August 1914 at Le Cateau the British II Corps of General Horace Smith-Dorrien fought a day-long battle against the German 1st Army, three days after the Battle of Mons."
   - "With his exhausted corps about to be caught by the Germans, Smith-Dorrien decided to stand and deal them a heavy blow. He did so against the wishes of Field Marshal John French, who wanted the retreat to continue."
@@ -29,7 +29,7 @@ The commander-in-chief, Field Marshal [John French](/postacie/john-french), mean
 
 The British took up positions along the road from Le Cateau to [Cambrai](/miejsca/cambrai), over a stretch of about 15 kilometres. On the right wing, right by Le Cateau, stood the 5th Division; in the centre, around Caudry, the 3rd Division; and on the left wing the 4th Division. The positions were chosen in haste and at night, and there was no time to prepare trenches. On the German side, units of IV Corps under General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin), the cavalry corps of General [Georg von der Marwitz](/postacie/georg-von-der-marwitz) and other formations of the 1st Army entered the fight one after another. Kluck believed that the British were fleeing westwards, towards the Channel ports, and did not at once grasp what he was facing.
 
-At Mons the outcome had been decided by the rifle fire of the British infantry, but at Le Cateau the artillery played the most important part. The British placed many batteries in the open, only a few dozen to two hundred metres behind the infantry line, so that they could fire directly at the advancing enemy. The Germans, by contrast, used [indirect fire](https://pl.wikipedia.org/wiki/Ogień_pośredni) from concealed positions. The British guns, in full view, were smothered with shells and their crews suffered enormous losses. Even so, the gunners kept firing to the end, and [shrapnel](https://pl.wikipedia.org/wiki/Szrapnel) cut down the German infantry advancing across open ground.
+At Mons the outcome had been decided by the rifle fire of the British infantry, but at Le Cateau the artillery played the most important part. The British placed many batteries in the open, only a few dozen to two hundred metres behind the infantry line, so that they could fire directly at the advancing enemy. The Germans, by contrast, used [indirect fire](https://pl.wikipedia.org/wiki/Ogień_pośredni) from concealed positions. The British guns, in full view, were smothered with shells and their crews suffered enormous losses. Even so, the gunners kept firing to the end, and [shrapnel](/slownik/szrapnel) cut down the German infantry advancing across open ground.
 
 The heaviest fighting took place on the right wing, west of Le Cateau. The British positions there lay on an exposed slope, and the Germans, working round the town from the east, could enfilade them. A battalion of the Suffolks and a battalion of the King's Own Yorkshire Light Infantry (KOYLI), ordered to hold their positions at all costs, were almost completely destroyed. Around midday the right wing began to give way, and after it the left as well.
 
@@ -37,7 +37,7 @@ The heaviest fighting took place on the right wing, west of Le Cateau. The Briti
 
 In the early afternoon Smith-Dorrien gave the order to retreat. In many places the order did not reach the fighting units, and those that did receive it withdrew under fire. The gunners tried to save their guns by bringing horse teams right up to the gun positions. For such an action in rescuing the howitzers of 37th Battery, the [Victoria Cross](/slownik/krzyz-wiktorii) was awarded to Captain Douglas Reynolds and Drivers Job Drain and Frederick Luke. From the KOYLI the decoration went to Major Charles Yate, who led the remnants of his men in a last counter-attack and died in captivity, and to Lance Corporal Frederick Holmes, who carried a wounded comrade out of the line of fire.
 
-On the British left the French cavalry of General André Sordet and French territorial divisions fighting around Cambrai provided cover. Thanks to them the Germans were unable to outflank the British positions from the west. In the evening and during the night II Corps withdrew towards [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). The Germans, convinced that they had smashed the whole Expeditionary Force, did not at once take up a vigorous pursuit.
+On the British left the French cavalry of General André Sordet and French territorial divisions fighting around Cambrai provided cover. Thanks to them the Germans were unable to outflank the British positions from the west. In the evening and during the night II Corps withdrew towards [Saint-Quentin](/miejsca/saint-quentin). The Germans, convinced that they had smashed the whole Expeditionary Force, did not at once take up a vigorous pursuit.
 
 ## Losses
 

@@ -15,7 +15,7 @@ Według ówczesnych kronik wojny 18 sierpnia 1914 roku ze stanowiska ministra sp
 
 ## Persja między mocarstwami
 
-Persja, rządzona przez dynastię [Kadżarów](https://pl.wikipedia.org/wiki/Kadżarowie), była w 1914 roku państwem słabym i zależnym od wielkich mocarstw. Na mocy porozumienia z 1907 roku Rosja i Wielka Brytania podzieliły ją na strefy wpływów: rosyjską na północy i brytyjską na południu. Młody szach [Ahmad Szah](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) dopiero w lipcu 1914 roku, po osiągnięciu pełnoletności, został koronowany i objął pełnię władzy.
+Persja, rządzona przez dynastię [Kadżarów](https://pl.wikipedia.org/wiki/Kadżarowie), była w 1914 roku państwem słabym i zależnym od wielkich mocarstw. Na mocy porozumienia z 1907 roku Rosja i Wielka Brytania podzieliły ją na strefy wpływów: rosyjską na północy i brytyjską na południu. Młody szach [Ahmad Szah](/postacie/ahmad-szah-kadzar) dopiero w lipcu 1914 roku, po osiągnięciu pełnoletności, został koronowany i objął pełnię władzy.
 
 Wybuch wojny postawił kraj w trudnym położeniu. Po jednej stronie stały Rosja i Wielka Brytania, kontrolujące znaczną część Persji. Po drugiej Niemcy, a wkrótce także Imperium Osmańskie, które cieszyły się sympatią części perskich elit, niechętnych rosyjskiej i brytyjskiej dominacji.
 

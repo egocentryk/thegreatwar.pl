@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-4 grudnia 1918 roku z łotewskiej [Lipawy](https://pl.wikipedia.org/wiki/Lipawa) wyszła na północ brytyjska eskadra kontradmirała Edwyna Alexandra-Sinclaira: według estońskich opracowań cztery [lekkie krążowniki](https://pl.wikipedia.org/wiki/Krążowniki_lekkie_typu_C) i dziewięć niszczycieli. Płynęła do [Tallinna](https://pl.wikipedia.org/wiki/Tallinn), stolicy Estonii, na którą od tygodnia [nacierała Armia Czerwona](/bolszewicy-zdobywaja-narwe). W nocy na 5 grudnia, na otwartym morzu na zachód od wyspy [Saremy](https://pl.wikipedia.org/wiki/Sarema), krążownik Cassandra wszedł na minę z niemieckiej zapory postawionej w czasie wojny i nienaniesionej na brytyjskie mapy. Brytyjska chronologia wojny notuje zatonięcie pod 4 grudnia, z dopiskiem „w nocy z 4 na 5”, a część opracowań podaje 5 grudnia.
+4 grudnia 1918 roku z łotewskiej [Lipawy](/miejsca/lipawa) wyszła na północ brytyjska eskadra kontradmirała Edwyna Alexandra-Sinclaira: według estońskich opracowań cztery [lekkie krążowniki](https://pl.wikipedia.org/wiki/Krążowniki_lekkie_typu_C) i dziewięć niszczycieli. Płynęła do [Tallinna](https://pl.wikipedia.org/wiki/Tallinn), stolicy Estonii, na którą od tygodnia [nacierała Armia Czerwona](/bolszewicy-zdobywaja-narwe). W nocy na 5 grudnia, na otwartym morzu na zachód od wyspy [Saremy](https://pl.wikipedia.org/wiki/Sarema), krążownik Cassandra wszedł na minę z niemieckiej zapory postawionej w czasie wojny i nienaniesionej na brytyjskie mapy. Brytyjska chronologia wojny notuje zatonięcie pod 4 grudnia, z dopiskiem „w nocy z 4 na 5”, a część opracowań podaje 5 grudnia.
 
 ## Eskadra na Bałtyku
 

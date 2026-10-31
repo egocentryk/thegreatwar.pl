@@ -2,7 +2,7 @@
 title: End of the Second Battle of Krithia
 summary: On 8 May 1915 New Zealanders, Australians and French renewed the attack on Krithia. Thousands of killed and wounded bought gains measured in hundreds of metres.
 source: koniec-drugiej-bitwy-o-kritie
-sourceHash: b8f7d1962a939153bfbe8cfe8456ccba419c4772
+sourceHash: 0a1ca845985db75463b3340444b45a66f2af545a
 ---
 
 On 8 May 1915 the Second Battle of Krithia ended at Helles on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. For three days the troops of General [Ian Hamilton](/postacie/ian-hamilton) had attacked in broad daylight towards the village of Krithia and the hill of Achi Baba. On the last day the weight of the fighting fell on two brigades brought over from Anzac Cove, one from New Zealand and one from Australia. Their attacks, paid for with enormous losses, became a lasting part of the memory of Australia and New Zealand.
@@ -23,4 +23,4 @@ At about 6 p.m. the French advanced, with drums and bugles sounding the charge. 
 
 ## The toll
 
-After three days of fighting the front had moved nowhere by more than about 600 yards, or about 550 metres. According to the British official history the Allies lost about 6,500 killed, wounded and missing, nearly a third of the men who had taken part in the fighting. Turkish losses are put in some works at about 2,000 men. That same night Hamilton telegraphed Lord [Kitchener](/postacie/horatio-kitchener) that the operation had failed because the Turkish entrenchments and machine guns had proved too strong to be taken by assault, and that far more ammunition was needed to capture them. Soon afterwards he asked for reinforcements. [Trench warfare](https://pl.wikipedia.org/wiki/Wojna_pozycyjna) began at Helles, and the next attempt to take Krithia was not made until early June.
+After three days of fighting the front had moved nowhere by more than about 600 yards, or about 550 metres. According to the British official history the Allies lost about 6,500 killed, wounded and missing, nearly a third of the men who had taken part in the fighting. Turkish losses are put in some works at about 2,000 men. That same night Hamilton telegraphed Lord [Kitchener](/postacie/horatio-kitchener) that the operation had failed because the Turkish entrenchments and machine guns had proved too strong to be taken by assault, and that far more ammunition was needed to capture them. Soon afterwards he asked for reinforcements. [Trench warfare](/slownik/wojna-pozycyjna) began at Helles, and the next attempt to take Krithia was not made until early June.

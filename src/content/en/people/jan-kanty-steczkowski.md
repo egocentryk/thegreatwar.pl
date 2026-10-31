@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Dąbrowa Tarnowska (Galicia, Austria-Hungary)
 deathPlace: Kraków
 source: jan-kanty-steczkowski
-sourceHash: 1e3bacec374e0a34b9b1df41a4c9b61f6562eadc
+sourceHash: 419fb2226c037e3aca51247cd131ae6c8a340b99
 ---
 
 Jan Kanty Steczkowski was a Lviv lawyer and banker who during the war brought his financial experience to Warsaw. In the first government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)) he built the treasury ministry from scratch, and in April 1918 the [Regency Council](/powolanie-rady-regencyjnej) entrusted him with leading the whole government. He was a conservative, an Austrian subject and a member of the Viennese House of Lords. He reckoned that the Central Powers would win the war and that Poland had to come to terms with them on the best possible conditions. In a secret note of 29 April 1918 he offered them a military alliance and agreed to territorial concessions. When its content came to light in August, there was an outcry in the Kingdom, and Steczkowski had to step down. In reborn Poland he returned to finance: he was minister of the treasury in Wincenty Witos's government and president of Bank Gospodarstwa Krajowego.
@@ -19,7 +19,7 @@ In Lviv he quickly became involved with Galicia's economic institutions. He was 
 
 ## From Lviv to Warsaw
 
-After the Central Powers occupied the Kingdom in 1915, Steczkowski, as director of the Bank Krajowy, took part in founding the Landowners' Bank and the Bank of Issue in Warsaw. After the [Provisional Council of State](https://pl.wikipedia.org/wiki/Tymczasowa_Rada_Stanu) was created in December 1916 he advised it informally on organising the public finances. On 19 May 1917 Emperor Charles appointed him a hereditary member of the Austrian [House of Lords](https://pl.wikipedia.org/wiki/Izba_Panów_(Austria)).
+After the Central Powers occupied the Kingdom in 1915, Steczkowski, as director of the Bank Krajowy, took part in founding the Landowners' Bank and the Bank of Issue in Warsaw. After the [Provisional Council of State](/slownik/tymczasowa-rada-stanu) was created in December 1916 he advised it informally on organising the public finances. On 19 May 1917 Emperor Charles appointed him a hereditary member of the Austrian [House of Lords](https://pl.wikipedia.org/wiki/Izba_Panów_(Austria)).
 
 In December 1917 he joined [Jan Kucharzewski's government](/rzad-kucharzewskiego), the Kingdom's first cabinet, as minister of the treasury. He organised the ministry from scratch and divided it into five sections, including the State Central Treasury and an office dealing with the settlement of war losses. In this form the ministry functioned until October 1920. In February 1918 the whole cabinet [resigned](/dymisja-rzadu-kucharzewskiego) in protest at the [Brest-Litovsk treaty with Ukraine](/pokoj-brzeski-z-ukraina), which gave the Chełm region to the new state.
 

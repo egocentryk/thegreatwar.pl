@@ -2,10 +2,10 @@
 title: Sinking of the battleship Leonardo da Vinci
 summary: On the night of 2–3 August 1916 the Italian dreadnought Leonardo da Vinci blew up and capsized in Taranto harbour. About 250 men died. Sabotage was suspected.
 source: zatoniecie-pancernika-leonardo-da-vinci
-sourceHash: 728853d4397f9e23196c5b74d228f00021e28578
+sourceHash: 17da11442c030e193c73ff7449b8358b8dde8155
 ---
 
-Late on the evening of 2 August 1916 the [dreadnought](https://pl.wikipedia.org/wiki/Drednot) *Leonardo da Vinci* lay at her moorings in the Mar Piccolo, the inner basin of the naval port of [Taranto](https://pl.wikipedia.org/wiki/Tarent). That day she had been taking on ammunition. Shortly before 11 p.m. sailors in the after part of the ship felt a slight trembling of the hull, and smoke poured out of one of the ventilation ducts, near the ammunition hoist for the 120 mm guns. The ship's commanding officer, Captain Galeazzo Sommi Picenardi, ordered every fire-fighting measure to be taken, including the flooding of the after magazines. The fire could not be brought under control, however. According to Italian accounts, at about 11.20–11.30 p.m. the ammunition stores blew up, and the explosion tore open the hull. A quarter of an hour before midnight the ship capsized and settled upside down on the bottom of the basin, in about 11 metres of water.
+Late on the evening of 2 August 1916 the [dreadnought](/slownik/drednot) *Leonardo da Vinci* lay at her moorings in the Mar Piccolo, the inner basin of the naval port of [Taranto](https://pl.wikipedia.org/wiki/Tarent). That day she had been taking on ammunition. Shortly before 11 p.m. sailors in the after part of the ship felt a slight trembling of the hull, and smoke poured out of one of the ventilation ducts, near the ammunition hoist for the 120 mm guns. The ship's commanding officer, Captain Galeazzo Sommi Picenardi, ordered every fire-fighting measure to be taken, including the flooding of the after magazines. The fire could not be brought under control, however. According to Italian accounts, at about 11.20–11.30 p.m. the ammunition stores blew up, and the explosion tore open the hull. A quarter of an hour before midnight the ship capsized and settled upside down on the bottom of the basin, in about 11 metres of water.
 
 ## The fleet's newest ship
 

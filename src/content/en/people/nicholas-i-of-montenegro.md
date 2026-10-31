@@ -6,7 +6,7 @@ country: Montenegro
 birthPlace: Njeguši (Montenegro)
 deathPlace: Antibes (France)
 source: mikolaj-i-petrowic-niegosz
-sourceHash: 45e3669030d6337af2618bb610d848905002a820
+sourceHash: 4411d411e16baf3517ecad57d8e13500d6d91d43
 ---
 
 Nicholas I Petrović-Njegoš, in Polish Petrowić-Niegosz, ruled Montenegro for nearly sixty years, longer than most of the European monarchs of his day. He turned a small mountain principality into an independent kingdom, and through his daughters' marriages became related to the courts of Russia, Italy and Serbia. In 1914 he was the first to stand by Serbia against Austria-Hungary. The war, however, brought him defeat: in January 1916 the Austrians overran his country in a few days, and he himself went into an exile from which he never returned. Accused by the Serbs of treachery and by the Allies of disloyalty, he was deposed in November 1918, and Montenegro became part of the new Yugoslav state.
@@ -17,7 +17,7 @@ He was born on 7 October 1841 (25 September in the Julian calendar) in [Njeguši
 
 He ruled in a paternal and authoritarian manner. He granted a constitution only in 1905, and dealt harshly with the opposition, often supporters of closer ties with Serbia. He won a position in Europe, however, through his children. His daughter [Zorka](https://pl.wikipedia.org/wiki/Zorka_Czarnogórska) married [Peter Karađorđević](/postacie/piotr-i-karadziordziewic), later King of Serbia; [Elena](https://pl.wikipedia.org/wiki/Helena_Petrowić-Niegosz) became Queen of Italy as the wife of [Victor Emmanuel III](/postacie/wiktor-emanuel-iii); and Milica and Anastasia married Russian grand dukes, the latter [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz). Hence the nickname "father-in-law of Europe". For years Russia supported Montenegro with money and arms. On 28 August 1910, the fiftieth anniversary of his reign, Nicholas assumed the title of king.
 
-In 1912 he was the first to declare war on Turkey, starting the [Balkan Wars](https://pl.wikipedia.org/wiki/Wojny_bałkańskie). His greatest ambition was [Scutari](https://pl.wikipedia.org/wiki/Szkodra): after a long [siege](https://pl.wikipedia.org/wiki/Oblężenie_Szkodry_(1912–1913)) he took it in April 1913, but under threat of intervention by the Great Powers he had to hand it over to the newly created Albania. Montenegro emerged from the Balkan Wars enlarged by part of the Sanjak and Metohija, but exhausted and in debt, and in the country the conviction grew that its future lay in a common state with Serbia.
+In 1912 he was the first to declare war on Turkey, starting the [Balkan Wars](/slownik/wojny-balkanskie). His greatest ambition was [Scutari](https://pl.wikipedia.org/wiki/Szkodra): after a long [siege](https://pl.wikipedia.org/wiki/Oblężenie_Szkodry_(1912–1913)) he took it in April 1913, but under threat of intervention by the Great Powers he had to hand it over to the newly created Albania. Montenegro emerged from the Balkan Wars enlarged by part of the Sanjak and Metohija, but exhausted and in debt, and in the country the conviction grew that its future lay in a common state with Serbia.
 
 ## 1914–1915: at Serbia's side
 

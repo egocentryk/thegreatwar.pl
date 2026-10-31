@@ -2,7 +2,7 @@
 title: Venizelos resigns
 summary: On 6 March 1915 King Constantine I rejected the plan for Greek participation in the Dardanelles operation. Prime Minister Eleftherios Venizelos resigned.
 source: dymisja-wenizelosa
-sourceHash: 005586ef37e75d21ee364cdd60f2977cc6b7cd90
+sourceHash: 7323053d650f4d5b530bba8e899ccd695e7364e5
 ---
 
 On 6 March 1915 (21 February by the Julian calendar, which Greece used until 1923) King [Constantine I](/postacie/konstantyn-i) refused to approve the policy of Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos), who wanted to bring Greece into the war on the side of the Entente. Venizelos resigned. So ended his first government, which had lasted since 19 October 1910 (6 October by the Julian calendar).
@@ -17,10 +17,10 @@ Constantine I finally sided with the General Staff. He believed the expedition h
 
 Venizelos came from [Crete](https://pl.wikipedia.org/wiki/Kreta), where he had led the struggle for the island's union with Greece. He was brought to Athens in 1910 by the officers of the Military League, who a year earlier had forced reforms on the government and the court. In the autumn of 1910 King [George I](https://pl.wikipedia.org/wiki/Jerzy_I_Grecki) appointed him prime minister. Venizelos secured new elections, which at the end of the year brought his supporters a crushing victory. In the following years he carried out a revision of the constitution and administrative and financial reforms, and brought in French and British missions to modernise the army and navy.
 
-Venizelos's greatest success was the [Balkan Wars](https://pl.wikipedia.org/wiki/Wojny_bałkańskie) of 1912–1913. Greece, allied with Serbia, Bulgaria and Montenegro and then fighting Bulgaria, gained southern Macedonia with Salonika, Epirus, the Aegean islands and Crete. Its territory and population grew by more than half. The Greek forces were then commanded by Crown Prince Constantine. In March 1913, after his father's assassination in Salonika, he ascended the throne as a victorious commander enjoying great popularity.
+Venizelos's greatest success was the [Balkan Wars](/slownik/wojny-balkanskie) of 1912–1913. Greece, allied with Serbia, Bulgaria and Montenegro and then fighting Bulgaria, gained southern Macedonia with Salonika, Epirus, the Aegean islands and Crete. Its territory and population grew by more than half. The Greek forces were then commanded by Crown Prince Constantine. In March 1913, after his father's assassination in Salonika, he ascended the throne as a victorious commander enjoying great popularity.
 
 ## The beginning of the great dispute
 
 Venizelos's departure was the first open clash between the two most popular men in Greece. The king, who relied on the advice of the General Staff, wanted to maintain neutrality until participation in the war became safe. The prime minister was convinced that the Entente would win and that Greece must stand at its side to gain the lands in Asia Minor inhabited by Greeks. Both sides appealed to the constitution. Venizelos and his supporters argued that the king could not reject the policy of a government with a majority in parliament. The royal camp replied that the constitution gave the monarch the right to change the government, and that the decision on war lay with him.
 
-Constantine I entrusted the task of forming a new government to Venizelos's opponent, Dimitrios Gounaris. The dispute did not die down. In June 1915 Venizelos's Liberals won the elections, and in August he himself returned as prime minister, only to step down again in October after a conflict with the king. The rift grew into the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa), which for several years divided Greece into two hostile camps.
+Constantine I entrusted the task of forming a new government to Venizelos's opponent, Dimitrios Gounaris. The dispute did not die down. In June 1915 Venizelos's Liberals won the elections, and in August he himself returned as prime minister, only to step down again in October after a conflict with the king. The rift grew into the [National Schism](/slownik/schizma-narodowa), which for several years divided Greece into two hostile camps.

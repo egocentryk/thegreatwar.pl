@@ -29,7 +29,7 @@ Bitwa o linię Drocourt–Quéant była szturmem, w którym 2 września 1918 rok
 
 Nazwę „bitwa o linię Drocourt–Quéant” (ang. *Battle of the Drocourt–Quéant Line*) i daty 2–3 września 1918 roku ustaliła po wojnie brytyjska komisja do spraw nazewnictwa bitew. Bitwa zamyka grupę „drugich bitew pod Arras 1918” (26 sierpnia – 3 września), do której należy też bitwa nad Scarpe z 26–30 sierpnia. Tak samo datuje ją brytyjska chronologia wojny. Właściwy szturm trwał jeden dzień, 2 września; 3 września Niemcy już się wycofali i walki ograniczyły się do pościgu pod Canal du Nord. Główne źródła tej strony to brytyjska historia oficjalna (James Edmonds, *Military Operations France and Belgium 1918*, tom IV) i kanadyjska historia oficjalna (G. W. L. Nicholson, *Canadian Expeditionary Force 1914–1919*).
 
-Linia nosi nazwę od dwóch miejscowości na jej krańcach: górniczego [Drocourt](https://pl.wikipedia.org/wiki/Drocourt_(Pas-de-Calais)) na południowy wschód od [Lens](https://pl.wikipedia.org/wiki/Lens) i wsi [Quéant](https://pl.wikipedia.org/wiki/Quéant), gdzie łączyła się z Linią Hindenburga. Niemcy nazywali ją pozycją Wotan (*Wotan-Stellung*). Edmonds zauważa, że choć mówiono o niej „linia”, była to w rzeczywistości pozycja złożona z kilku linii.
+Linia nosi nazwę od dwóch miejscowości na jej krańcach: górniczego [Drocourt](https://pl.wikipedia.org/wiki/Drocourt_(Pas-de-Calais)) na południowy wschód od [Lens](/miejsca/lens) i wsi [Quéant](https://pl.wikipedia.org/wiki/Quéant), gdzie łączyła się z Linią Hindenburga. Niemcy nazywali ją pozycją Wotan (*Wotan-Stellung*). Edmonds zauważa, że choć mówiono o niej „linia”, była to w rzeczywistości pozycja złożona z kilku linii.
 
 ## Tło
 

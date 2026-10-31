@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Serbia
 summary: On 28 July 1914 Austria-Hungary declared war on Serbia by telegram. That same night Belgrade was shelled and the First World War began.
 source: austro-wegry-wypowiadaja-wojne-serbii
-sourceHash: f8f3626a2953f2099ce5a23ea7e5111a40e97742
+sourceHash: d06c2d9893f0f889048aaa1a20c1031cafe003a7
 brief:
   - "On 28 July 1914, exactly a month after the assassination in Sarajevo, Austria-Hungary declared war on Serbia. For many historians this day marks the beginning of the First World War."
   - "Leopold Berchtold sent the declaration by telegram to Prime Minister Nikola Pašić in Niš, as diplomatic relations had been broken off three days earlier. It was the first time war had been declared by telegram."
@@ -17,7 +17,7 @@ On 28 July 1914, exactly a month after the assassination in Sarajevo, [Austria-H
 
 The decision was approved by Emperor [Franz Joseph I](/postacie/franciszek-jozef-i), who was still at his summer residence in [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl). Because diplomatic relations with Serbia had been broken off three days earlier, there was no longer an Austro-Hungarian minister in Belgrade to deliver a note. Foreign Minister [Leopold Berchtold](/postacie/leopold-berchtold) therefore sent a telegram from Vienna at 11:10 a.m. to the Serbian prime minister, [Nikola Pašić](/postacie/nikola-pasic).
 
-The message, written in French, went over the ordinary telegraph network via [Bucharest](/miejsca/bukareszt) as open, unencrypted text. It reached [Niš](https://pl.wikipedia.org/wiki/Nisz), where the Serbian government had moved, at about 12:30 p.m. In it Berchtold declared that the Serbian government had not given a satisfactory reply to the note of 23 July, and that the monarchy accordingly considered itself to be in a state of war with Serbia. It was the first time in history that war had been declared by telegram. The unusual form led Pašić at first to suspect a hoax and to seek confirmation that the document was genuine.
+The message, written in French, went over the ordinary telegraph network via [Bucharest](/miejsca/bukareszt) as open, unencrypted text. It reached [Niš](/miejsca/nisz), where the Serbian government had moved, at about 12:30 p.m. In it Berchtold declared that the Serbian government had not given a satisfactory reply to the note of 23 July, and that the monarchy accordingly considered itself to be in a state of war with Serbia. It was the first time in history that war had been declared by telegram. The unusual form led Pašić at first to suspect a hoax and to seek confirmation that the document was genuine.
 
 The telegram concerned only Austria-Hungary and Serbia. It made no mention of Russia, Germany, France or Great Britain, which reflects Vienna's hope that the war would remain local. Today it is inscribed on UNESCO's [Memory of the World](https://pl.wikipedia.org/wiki/Pamięć_Świata) register as one of the most important documents of the twentieth century.
 
@@ -35,6 +35,6 @@ The actual advance of troops into Serbia had to wait for mobilisation to be comp
 
 ## From a local war to a world war
 
-Vienna had counted on the war with Serbia being short and local. It turned out otherwise, because behind Serbia stood [Russia](/kraje/rosja), and behind Austria-Hungary stood [Germany](/kraje/niemcy). Over the following days Russia announced [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja), and Germany responded by declaring war on Russia on 1 August and on [France](/kraje/francja) on 3 August. On 4 August, after the German invasion of Belgium, [Great Britain](/kraje/wielka-brytania) entered the war.
+Vienna had counted on the war with Serbia being short and local. It turned out otherwise, because behind Serbia stood [Russia](/kraje/rosja), and behind Austria-Hungary stood [Germany](/kraje/niemcy). Over the following days Russia announced [mobilisation](/slownik/mobilizacja), and Germany responded by declaring war on Russia on 1 August and on [France](/kraje/francja) on 3 August. On 4 August, after the German invasion of Belgium, [Great Britain](/kraje/wielka-brytania) entered the war.
 
 A single week was thus enough for a local conflict in the Balkans to turn into a general European war, and soon a world war. That is why 28 July 1914 is one of the most important dates in the history of Europe. The telegram sent from Vienna to Niš opened a war that lasted more than four years, claimed millions of lives and redrew the map of the continent.

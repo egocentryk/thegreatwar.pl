@@ -2,7 +2,7 @@
 title: Venizelist coup in Salonika
 summary: On 30 August 1916 Venizelos's supporters set up a Committee of National Defence in Salonika and renounced obedience to Athens. Sarrail did not stop them.
 source: przewrot-wenizelistow-w-salonikach
-sourceHash: a672205c5b0a327cda36d917b49b7a925083f8be
+sourceHash: 363e533b78c14fb9d7ee7373fd4d9c49430894dc
 ---
 
 On 30 August 1916, or 17 August by the Julian calendar then used in Greece, a revolt by supporters of [Eleftherios Venizelos](/postacie/elefterios-wenizelos) broke out in [Salonika](/miejsca/saloniki). A group of officers and politicians of the Liberal Party set up a committee, which proclaimed that Greek Macedonia was siding with the Entente and renounced obedience to the government in Athens. The movement took the name National Defence (Ethniki Amyna). At its head stood the officers Konstantinos Mazarakis and Epameinondas Zymvrakakis. The British official history of operations in Macedonia calls it the "Committee of Public Safety". The following night there was an exchange of fire with the garrison loyal to the king, and the matter was decided by the attitude of General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied forces in the city.
@@ -27,4 +27,4 @@ Sarrail did not suppress the revolt, although since [June](/stan-wojenny-w-salon
 
 ## What came next
 
-Venizelos at first hesitated to put himself at the head of a movement that was splitting the state. The revolt in Salonika, however, was the beginning of a rift that could no longer be stopped. At the end of September Venizelos left Athens and, by way of [Crete](https://pl.wikipedia.org/wiki/Kreta), arrived in Salonika in October, where together with Admiral [Pavlos Kountouriotis](https://pl.wikipedia.org/wiki/Pawlos_Kunduriotis) and General [Panagiotis Danglis](https://pl.wikipedia.org/wiki/Panajotis_Danglis) he formed a provisional government of National Defence, rivalling the royal government in Athens. The [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa) divided Greece into two states.
+Venizelos at first hesitated to put himself at the head of a movement that was splitting the state. The revolt in Salonika, however, was the beginning of a rift that could no longer be stopped. At the end of September Venizelos left Athens and, by way of [Crete](https://pl.wikipedia.org/wiki/Kreta), arrived in Salonika in October, where together with Admiral [Pavlos Kountouriotis](https://pl.wikipedia.org/wiki/Pawlos_Kunduriotis) and General [Panagiotis Danglis](https://pl.wikipedia.org/wiki/Panajotis_Danglis) he formed a provisional government of National Defence, rivalling the royal government in Athens. The [National Schism](/slownik/schizma-narodowa) divided Greece into two states.

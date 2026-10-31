@@ -2,7 +2,7 @@
 title: Battle of Hill 70 begins
 summary: At dawn on 15 August 1917 the Canadian Corps took Hill 70 above Lens and then broke a series of German counter-attacks with artillery fire.
 source: poczatek-bitwy-o-wzgorze-70
-sourceHash: 9534ace428f0c133f5f15f42957b9863301e2c7e
+sourceHash: a4c55483b087f31dba690bed4de6436c27d03c20
 brief:
   - "At 4.25 a.m. on 15 August 1917 two divisions of the Canadian Corps attacked Hill 70 above Lens. It was the corps' first battle under a Canadian commander, General Arthur Currie."
   - "The attack was meant to pin down the Germans while the Third Battle of Ypres went on in Flanders. Currie persuaded his superiors that instead of Lens they should take Hill 70, which dominated the town."
@@ -11,7 +11,7 @@ brief:
   - "By 18 August, according to Currie, the Canadians had repulsed 21 German counter-attacks, including some with flamethrowers and mustard gas. The Germans never regained Hill 70."
 ---
 
-On 15 August 1917 at 4.25 a.m., as day was beginning to break, two divisions of the Canadian Corps went into the attack on Hill 70, a treeless chalk rise on the northern outskirts of the mining town of [Lens](https://pl.wikipedia.org/wiki/Lens) in northern France. Within twenty minutes they stood on its crest, and before six in the morning they had taken almost all their objectives. For the rest of the day the Germans counter-attacked again and again, but their waves of infantry perished under the fire of the Canadian artillery, directed by observers on the captured summit. It was the corps' first battle under a Canadian commander, General [Arthur Currie](/postacie/arthur-currie), and it went exactly as Currie had planned.
+On 15 August 1917 at 4.25 a.m., as day was beginning to break, two divisions of the Canadian Corps went into the attack on Hill 70, a treeless chalk rise on the northern outskirts of the mining town of [Lens](/miejsca/lens) in northern France. Within twenty minutes they stood on its crest, and before six in the morning they had taken almost all their objectives. For the rest of the day the Germans counter-attacked again and again, but their waves of infantry perished under the fire of the Canadian artillery, directed by observers on the captured summit. It was the corps' first battle under a Canadian commander, General [Arthur Currie](/postacie/arthur-currie), and it went exactly as Currie had planned.
 
 ## A diversion for Flanders
 

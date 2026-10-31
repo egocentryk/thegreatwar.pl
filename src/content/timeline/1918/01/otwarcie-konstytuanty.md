@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-18 stycznia 1918 roku (5 stycznia według kalendarza juliańskiego) w [Pałacu Taurydzkim](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) w Piotrogrodzie zebrało się wreszcie [Wszechrosyjskie Zgromadzenie Ustawodawcze](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze). Pierwotny termin, 11 grudnia, [skończył się niczym](/niedoszle-otwarcie-konstytuanty): na miejscu było za mało posłów, a rząd Lenina uzależnił otwarcie od zarejestrowania się 400 deputowanych. Teraz kworum było, choć zgromadzenie, w którym większość mieli eserowcy, zbierało się w mieście kontrolowanym przez bolszewików. Dzień zaczął się od strzałów do pochodu obrońców Konstytuanty, a skończył po północy wyjściem z sali bolszewików i ich sojuszników.
+18 stycznia 1918 roku (5 stycznia według kalendarza juliańskiego) w [Pałacu Taurydzkim](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) w Piotrogrodzie zebrało się wreszcie [Wszechrosyjskie Zgromadzenie Ustawodawcze](/slownik/konstytuanta). Pierwotny termin, 11 grudnia, [skończył się niczym](/niedoszle-otwarcie-konstytuanty): na miejscu było za mało posłów, a rząd Lenina uzależnił otwarcie od zarejestrowania się 400 deputowanych. Teraz kworum było, choć zgromadzenie, w którym większość mieli eserowcy, zbierało się w mieście kontrolowanym przez bolszewików. Dzień zaczął się od strzałów do pochodu obrońców Konstytuanty, a skończył po północy wyjściem z sali bolszewików i ich sojuszników.
 
 ## Strzały na Litiejnym
 

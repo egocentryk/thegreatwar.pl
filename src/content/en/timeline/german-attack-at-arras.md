@@ -2,7 +2,7 @@
 title: German attack at Arras
 summary: On 28 March 1918 the Germans attacked at Arras in Operation Mars. The British defence held; in the evening Ludendorff called it off and turned to Amiens.
 source: niemiecki-atak-pod-arras
-sourceHash: 85f9cac327a0cdc23d22f03c05df48fc40bca63d
+sourceHash: 0f69d39fe358bed914df2b0888e35498a46bcf5b
 brief:
   - "On 28 March 1918 General Otto von Below's German Seventeenth Army attacked at Arras, on both sides of the Scarpe, in Operation Mars. It was to break the British Third Army, which it had failed to smash since 21 March."
   - "The British expected the attack and held the front line only with outposts, deploying their machine guns in depth. This time, unlike on 21 March, there was no fog."
@@ -14,7 +14,7 @@ On 28 March 1918, Maundy Thursday, the German spring offensive struck in a new p
 
 ## The plan
 
-The attack on Arras had from the start been the most difficult part of the German plan. The town was shielded from the north by Vimy Ridge, [taken by the Canadians](/bitwy/bitwa-o-grzbiet-vimy) in April 1917, from which the British could see the whole plain as far as Douai. Before the offensive both the Supreme Army Command and the staff of the army group of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) had judged it too difficult and postponed it. On 25 March, however, [Erich Ludendorff](/postacie/erich-ludendorff) decided that the British front on both sides of the Scarpe, as far as the coalfield of [Lens](https://pl.wikipedia.org/wiki/Lens), was to be smashed by two attacks: Mars Süd south of the river and Mars Nord north of it. A day later the Walküre attack was to follow against the Lorette heights, and then a march to the north-west. Prisoners later stated that they were to reach the sea in four days and had been given rations for six.
+The attack on Arras had from the start been the most difficult part of the German plan. The town was shielded from the north by Vimy Ridge, [taken by the Canadians](/bitwy/bitwa-o-grzbiet-vimy) in April 1917, from which the British could see the whole plain as far as Douai. Before the offensive both the Supreme Army Command and the staff of the army group of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) had judged it too difficult and postponed it. On 25 March, however, [Erich Ludendorff](/postacie/erich-ludendorff) decided that the British front on both sides of the Scarpe, as far as the coalfield of [Lens](/miejsca/lens), was to be smashed by two attacks: Mars Süd south of the river and Mars Nord north of it. A day later the Walküre attack was to follow against the Lorette heights, and then a march to the north-west. Prisoners later stated that they were to reach the sea in four days and had been given rations for six.
 
 The heavy artillery and the mortars that had opened the offensive on 21 March were moved to Arras. Nine German divisions, almost all of them fresh, were to strike four British ones: the 3rd and 15th (Scottish) south of the Scarpe and the 4th and 56th (London) north of it. The British expected the attack. First Army intelligence had noticed new batteries, marked roads and mortar positions, and a prisoner taken on 23 March even gave the date, though three days too early. The commanders, who already knew what had happened to the Fifth Army's forward zone, held the front line only with outposts and deployed their machine guns in depth.
 

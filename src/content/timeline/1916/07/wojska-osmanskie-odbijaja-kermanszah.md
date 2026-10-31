@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 lipca 1916 roku oddziały osmańskiego XIII Korpusu pułkownika Alego Ihsana Beja weszły do [Kermanszahu](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), głównego miasta zachodniej Persji. Rosjanie generała Nikołaja Baratowa opuścili je bez walki w nocy z 30 czerwca na 1 lipca. Tę datę podają zgodnie brytyjska chronologia wojny, brytyjska historia oficjalna kampanii mezopotamskiej (F.J. Moberly) oraz historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa. Generał Jewgienij Masłowski ze sztabu rosyjskiej Armii Kaukaskiej, który liczy dni według kalendarza juliańskiego, opisuje to nieco inaczej: według niego Turcy zaatakowali Rosjan pod Kermanszahem 19 czerwca (2 lipca), a korpus Baratowa zaczął odchodzić bez boju dopiero w nocy na 20 czerwca (z 2 na 3 lipca). Część nowszych opracowań podaje więc 2 lipca.
+1 lipca 1916 roku oddziały osmańskiego XIII Korpusu pułkownika Alego Ihsana Beja weszły do [Kermanszahu](/miejsca/kermanszah), głównego miasta zachodniej Persji. Rosjanie generała Nikołaja Baratowa opuścili je bez walki w nocy z 30 czerwca na 1 lipca. Tę datę podają zgodnie brytyjska chronologia wojny, brytyjska historia oficjalna kampanii mezopotamskiej (F.J. Moberly) oraz historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa. Generał Jewgienij Masłowski ze sztabu rosyjskiej Armii Kaukaskiej, który liczy dni według kalendarza juliańskiego, opisuje to nieco inaczej: według niego Turcy zaatakowali Rosjan pod Kermanszahem 19 czerwca (2 lipca), a korpus Baratowa zaczął odchodzić bez boju dopiero w nocy na 20 czerwca (z 2 na 3 lipca). Część nowszych opracowań podaje więc 2 lipca.
 
 ## Bez linii obrony
 

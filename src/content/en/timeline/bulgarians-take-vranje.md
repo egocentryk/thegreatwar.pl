@@ -2,10 +2,10 @@
 title: Bulgarians take Vranje
 summary: In mid-October 1915 the Bulgarian Second Army reached Vranje on the South Morava and cut the Niš–Salonika railway, Serbia's main route to the Allies.
 source: bulgarzy-zajmuja-vranje
-sourceHash: ecf70b57c823e458eaabc8a58a2f7be673b2e21a
+sourceHash: 86b77e7cca8412ee8cef162ce80a6de5f82627e4
 ---
 
-The British chronology of the war records under 15 October 1915 the capture by the Bulgarians of [Vranje](https://pl.wikipedia.org/wiki/Vranje), a town in the valley of the [South Morava](https://pl.wikipedia.org/wiki/Morawa_Południowa), about 100 kilometres south of [Niš](https://pl.wikipedia.org/wiki/Nisz). The date is slightly too early. According to the Austro-Hungarian official history, the Bulgarians reached the weakly held Vranje on 16 October. Bulgarian sources state that the 29th Yambol Infantry Regiment reached the area of Vranje railway station on that day, that is, on 3 October according to the Julian calendar then used in Bulgaria, and entered the town the next day. The Serbian historian Andrej Mitrović dates the capture of Vranje to 16–17 October.
+The British chronology of the war records under 15 October 1915 the capture by the Bulgarians of [Vranje](https://pl.wikipedia.org/wiki/Vranje), a town in the valley of the [South Morava](https://pl.wikipedia.org/wiki/Morawa_Południowa), about 100 kilometres south of [Niš](/miejsca/nisz). The date is slightly too early. According to the Austro-Hungarian official history, the Bulgarians reached the weakly held Vranje on 16 October. Bulgarian sources state that the 29th Yambol Infantry Regiment reached the area of Vranje railway station on that day, that is, on 3 October according to the Julian calendar then used in Bulgaria, and entered the town the next day. The Serbian historian Andrej Mitrović dates the capture of Vranje to 16–17 October.
 
 ## The blow from the east
 

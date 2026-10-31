@@ -2,10 +2,10 @@
 title: Sinking of the Glatton
 summary: On 16 September 1918 a magazine fire broke out on the monitor Glatton in Dover harbour. To save the town, the British sank the ship with their own torpedoes.
 source: zatoniecie-glattona
-sourceHash: 52d6dee5bef0e18e4665a500141b9d40081e6df9
+sourceHash: a64a513cf16949b641035ccc5c579dc5d0aedb3b
 ---
 
-On 16 September 1918, at about a quarter past six in the evening, an explosion was heard on board the British [monitor](/slownik/monitor) *Glatton*, lying in [Dover](https://pl.wikipedia.org/wiki/Dover) harbour. In the midships magazine for the 6-inch guns [cordite](https://pl.wikipedia.org/wiki/Kordyt) had caught fire, and the flames burst through the roof of one of the turrets and began to spread towards the stern. The ship, which had not yet fired a single shot at the enemy, had become a bomb threatening the whole town. Two hours later she lay capsized on the bottom of the harbour, sunk by the torpedoes of British destroyers.
+On 16 September 1918, at about a quarter past six in the evening, an explosion was heard on board the British [monitor](/slownik/monitor) *Glatton*, lying in [Dover](/miejsca/dover) harbour. In the midships magazine for the 6-inch guns [cordite](https://pl.wikipedia.org/wiki/Kordyt) had caught fire, and the flames burst through the roof of one of the turrets and began to spread towards the stern. The ship, which had not yet fired a single shot at the enemy, had become a bomb threatening the whole town. Two hours later she lay capsized on the bottom of the harbour, sunk by the torpedoes of British destroyers.
 
 ## A ship for Norway
 

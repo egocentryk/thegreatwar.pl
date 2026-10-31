@@ -2,14 +2,14 @@
 title: Secret agreement between Russia and Romania
 summary: In autumn 1914 Russia, in a secret agreement, recognised Romania's claim to Transylvania and part of Bukovina in return for Bucharest's benevolent neutrality.
 source: tajne-porozumienie-rosji-i-rumunii
-sourceHash: 2e974aa27db51997c05603887a59c75a62070b0a
+sourceHash: a71220307e2145ddc7db570fa5525e0f4f22966e
 ---
 
 The British chronology of the war records under 19 September 1914 the conclusion of a secret agreement on mutual support between the governments of Russia and [Romania](/kraje/rumunia). The agreement, known after its signatories as the Sazonov–Diamandy agreement, was sealed by an exchange of notes in Petrograd. Historians usually date it to 1 October 1914 in the Gregorian calendar, that is 18 September in the [Julian calendar](/slownik/kalendarz-julianski), which both Russia and Romania then used. The date in the British chronology therefore probably results from confusing the two calendars, or refers to an earlier stage of the negotiations.
 
 ## Romania between the blocs
 
-Since 1883 Romania had been bound by a secret alliance with Austria-Hungary and Germany. Its king, Carol I, came from the German Hohenzollern dynasty and wanted the country to stand by the Central Powers. Romanian public opinion, however, thought otherwise. About three million Romanians lived within the borders of Austria-Hungary, above all in [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród), and their fate stirred far stronger feelings in Bucharest than the obligations of the alliance.
+Since 1883 Romania had been bound by a secret alliance with Austria-Hungary and Germany. Its king, Carol I, came from the German Hohenzollern dynasty and wanted the country to stand by the Central Powers. Romanian public opinion, however, thought otherwise. About three million Romanians lived within the borders of Austria-Hungary, above all in [Transylvania](/miejsca/siedmiogrod), and their fate stirred far stronger feelings in Bucharest than the obligations of the alliance.
 
 On 3 August 1914 the Crown Council at Sinaia decided, against the King's wishes, that Romania would remain neutral. Prime Minister [Ion I.C. Brătianu](/postacie/ion-bratianu) wanted to wait until the course of the war became clear and to obtain the highest possible price for joining one of the sides. Both sides courted him.
 

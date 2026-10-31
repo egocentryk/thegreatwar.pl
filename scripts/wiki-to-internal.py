@@ -10,7 +10,8 @@ differently), or `[text](/postacie/<slug>)`, `[text](/tematy/<slug>)`,
 `[text](/kraje/<slug>)`, `[text](/miejsca/<slug>)`, `[text](/slownik/<slug>)`,
 `[text](/sily-zbrojne/<slug>)` when <Title> is in the `wikiTitles` of a
 person page, a topic guide, a country page, a place page, a glossary
-term's longer text or an armed force, or `[text](/<slug>)` when <Title> is
+term's longer text or an armed force, or is the name of a glossary term
+(src/data/glossary.json, except GLOSSARY_SKIP), or `[text](/<slug>)` when <Title> is
 in EVENTS (a timeline article about the same event). Timeline articles,
 battle pages, topic guides, country, place and person pages are edited; the
 English file of the same page gets the same edit (English bodies keep the
@@ -29,9 +30,13 @@ The workflow's link rules are kept (workflow.md §4, "Links"):
 Without --write it only reports. After --write, re-stamp the English files
 it lists: node scripts/i18n-status.mjs --stamp=<english-slug> (one per file).
 """
-import glob, os, re, sys, urllib.parse
+import glob, json, os, re, sys, urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Glossary terms whose name is also a pl.wikipedia title about something
+# else (Kryzys_lipcowy: the Russian July Days of 1917, our term is 1914).
+GLOSSARY_SKIP = {"Kryzys_lipcowy"}
 
 # pl.wikipedia title -> our battle slug, where the titles differ.
 ALIASES = {
@@ -55,6 +60,15 @@ ALIASES = {
     "Kilimandżaro": "kampania-wschodnioafrykanska",
     "Verdun_(Moza)": "bitwa-pod-verdun",
     "Thiepval": "bitwa-nad-somma",
+    # The front as a whole: the campaign overview (batch 4).
+    "Front_salonicki": "front-salonicki",
+    # pl.wiki numbers these battles with Roman numerals, our titles in words.
+    "I_bitwa_nad_Marną": "pierwsza-bitwa-nad-marna",
+    "II_bitwa_nad_Marną": "druga-bitwa-nad-marna",
+    "I_bitwa_pod_Ypres": "pierwsza-bitwa-pod-ypres",
+    "II_bitwa_pod_Ypres": "druga-bitwa-pod-ypres",
+    "II_bitwa_nad_Aisne": "druga-bitwa-nad-aisne",
+    "III_bitwa_nad_Aisne": "trzecia-bitwa-nad-aisne",
 }
 
 # pl.wikipedia title -> our timeline article about that event, for events
@@ -139,6 +153,11 @@ def main():
                 title = title.strip().strip("\"'")
                 if title:
                     targets[title] = (prefix, os.path.basename(f)[:-3])
+    # Every glossary term, by its name, where nothing above claims the title.
+    for term in json.load(open(f"{ROOT}/src/data/glossary.json", encoding="utf-8")):
+        title = term["term"].replace(" ", "_")
+        if title not in GLOSSARY_SKIP:
+            targets.setdefault(title, ("slownik", term["slug"]))
     events = {}  # slug -> date
     for f in glob.glob(f"{ROOT}/src/content/timeline/**/*.md", recursive=True):
         events[os.path.basename(f)[:-3]] = front(open(f, encoding="utf-8").read())["date"]

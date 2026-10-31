@@ -2,7 +2,7 @@
 title: Grand Duke Nicholas issues a proclamation to the Poles
 summary: On 14 August 1914 the Russian commander-in-chief urged the Poles to fight Germany, promising to unite the Polish lands under the Tsar with autonomy.
 source: odezwa-wielkiego-ksiecia-mikolaja-do-polakow
-sourceHash: 60394146d1a574c6021d5b4122f10d48e117dd32
+sourceHash: 6a952177cf7b08c777010d4b6f1d6360f6b9a332
 ---
 
 On 14 August 1914 the commander-in-chief of the Russian army, [Grand Duke Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz), issued a proclamation to the Poles. It was the first official announcement since the partitions by one of the partitioning powers that the Polish lands would be united after the war.
@@ -13,7 +13,7 @@ The proclamation began by recalling that a century and a half earlier the living
 
 ## The struggle for the Poles
 
-The proclamation was a response to a peculiar situation. The Poles lived in three partitions and served in three armies, which were now fighting one another. Each side tried to win their support. In Galicia, under Austrian rule, the Polish rifle units of [Józef Piłsudski](/postacie/jozef-pilsudski) were already active; on 6 August they had marched into the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), and on 16 August the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) was founded in Kraków, supporting the fight alongside Austria-Hungary.
+The proclamation was a response to a peculiar situation. The Poles lived in three partitions and served in three armies, which were now fighting one another. Each side tried to win their support. In Galicia, under Austrian rule, the Polish rifle units of [Józef Piłsudski](/postacie/jozef-pilsudski) were already active; on 6 August they had marched into the [Kingdom of Poland](/miejsca/krolestwo-polskie), and on 16 August the [Supreme National Committee](/slownik/nkn) was founded in Kraków, supporting the fight alongside Austria-Hungary.
 
 Russia, which for more than a hundred years had suppressed Polish national aspirations, had to offer something in return. The proclamation was meant to counter Austrian and German propaganda and to keep the rear of the front, which ran across Polish lands, quiet.
 

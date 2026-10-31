@@ -2,10 +2,10 @@
 title: Battle of Tannenberg begins
 summary: On 23 August 1914 Samsonov's Russian Second Army clashed with the Germans in southern East Prussia. Fighting began that would end in its encirclement.
 source: poczatek-bitwy-pod-tannenbergiem
-sourceHash: fe275b1f5c71e446356daab2ac00bca58c51e9d0
+sourceHash: 74fe4e0f0016707411852e3e92ac6aa46e8fb556
 ---
 
-On 23 August 1914, in the south of [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), fighting began that went down in history as the [Battle of Tannenberg](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem). That day the corps of the Russian Second Army of General [Alexander Samsonov](/postacie/aleksandr-samsonow), marching north from the Kingdom of Poland, clashed with the German XX Corps near [Neidenburg](https://pl.wikipedia.org/wiki/Nidzica).
+On 23 August 1914, in the south of [East Prussia](/miejsca/prusy-wschodnie), fighting began that went down in history as the [Battle of Tannenberg](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem). That day the corps of the Russian Second Army of General [Alexander Samsonov](/postacie/aleksandr-samsonow), marching north from the Kingdom of Poland, clashed with the German XX Corps near [Neidenburg](https://pl.wikipedia.org/wiki/Nidzica).
 
 ## First clashes
 

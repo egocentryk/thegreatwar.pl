@@ -2,7 +2,7 @@
 title: Pact of London
 summary: On 5 September 1914 in London Britain, France and Russia pledged not to make a separate peace. The Entente became a formal wartime alliance.
 source: pakt-londynski
-sourceHash: cb4083784ebbda91f9211c89e27ea137e114cb4f
+sourceHash: 73744ca5eaaefa8965776f6d7235035d5dc86e75
 ---
 
 On 5 September 1914 in London representatives of Britain, France and Russia signed a short declaration in which the three governments undertook not to conclude a separate peace with the Central Powers. This document, known as the Declaration of London or the Pact of London, turned the [Entente](/tematy/panstwa-centralne-i-ententa) into a formal wartime alliance. Some works give the date as 4 September, but the published text is dated 5 September.
@@ -25,4 +25,4 @@ The declaration was very short. The governments of Britain, France and Russia mu
 
 Other states later acceded to the declaration. Japan joined it in October 1915, and Italy at the end of November that year, having already undertaken to do so in the secret Treaty of London. The agreement became the basis of Allied cooperation until the end of the war.
 
-The pact was broken only by Russia. After the [October Revolution](https://pl.wikipedia.org/wiki/Rewolucja_październikowa) the Bolshevik government opened talks with Germany, and on 3 March 1918 it signed the [Treaty of Brest-Litovsk](https://pl.wikipedia.org/wiki/Traktat_brzeski) with the Central Powers, concluding a separate peace. The Western Allies regarded this as betrayal, which became one of the reasons for their intervention in Russia during the Civil War.
+The pact was broken only by Russia. After the [October Revolution](https://pl.wikipedia.org/wiki/Rewolucja_październikowa) the Bolshevik government opened talks with Germany, and on 3 March 1918 it signed the [Treaty of Brest-Litovsk](/slownik/traktat-brzeski) with the Central Powers, concluding a separate peace. The Western Allies regarded this as betrayal, which became one of the reasons for their intervention in Russia during the Civil War.

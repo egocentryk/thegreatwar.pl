@@ -2,10 +2,10 @@
 title: Italians land at Salonika
 summary: On 11 August 1916 General Petitti di Roreto's Italian 35th Division began disembarking at Salonika. A fifth national contingent joined Sarrail's army.
 source: wlosi-laduja-w-salonikach
-sourceHash: 57a41b3a09e3cf7381e2340ca70ea6585f5b652f
+sourceHash: ae3c199065b59b7258714b0147692055a698cdb2
 ---
 
-On 11 August 1916 the Italian 35th Infantry Division under General Carlo Petitti di Roreto, the first large formation of the Italian Army sent to the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), began disembarking at [Salonika](/miejsca/saloniki). This is the date given by the British official history of operations in Macedonia. According to Italian accounts, the first convoy sailed from [Taranto](https://pl.wikipedia.org/wiki/Tarent) on 8 August, and the first units came ashore as early as the evening of 10 August. The British chronology of the war records the Italian landing under 12 August. Further transports continued to arrive over the following days.
+On 11 August 1916 the Italian 35th Infantry Division under General Carlo Petitti di Roreto, the first large formation of the Italian Army sent to the [Salonika front](/bitwy/front-salonicki), began disembarking at [Salonika](/miejsca/saloniki). This is the date given by the British official history of operations in Macedonia. According to Italian accounts, the first convoy sailed from [Taranto](https://pl.wikipedia.org/wiki/Tarent) on 8 August, and the first units came ashore as early as the evening of 10 August. The British chronology of the war records the Italian landing under 12 August. Further transports continued to arrive over the following days.
 
 ## Long bargaining
 

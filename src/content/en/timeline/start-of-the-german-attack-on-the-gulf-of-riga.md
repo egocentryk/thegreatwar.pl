@@ -2,7 +2,7 @@
 title: Start of the German attack on the Gulf of Riga
 summary: On 8 August 1915 German minesweepers began sweeping mines in the Irbe Strait. They lost two ships, and in the afternoon Admiral Schmidt broke off the attack.
 source: poczatek-niemieckiego-ataku-na-zatoke-ryska
-sourceHash: 0de8058b7b0c975aeae412ea9a139803f28233bf
+sourceHash: 9e575edcade298c6012b56ef266a6e2f162f75f1
 ---
 
 Before dawn on 8 August 1915 (26 July by the Julian calendar) German minesweepers entered the [Irbe Strait](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), between the coast of [Courland](/miejsca/kurlandia) and the island of [Ösel](https://pl.wikipedia.org/wiki/Sarema). They began clearing a path through the Russian minefields into the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). It was the first of two attempts that went down in history as the Battle of the Gulf of Riga.
@@ -13,7 +13,7 @@ For the operation the Germans moved a large part of the [High Seas Fleet](/sily-
 
 ## Six hours for one barrage
 
-The minesweepers set off at about 4 a.m. Behind them sailed the cruiser *Bremen* and the battleships *Braunschweig* and *Elsass*. Within an hour the minesweeper *T 52* blew up, fortunately without casualties. Shortly afterwards the cruiser [*Thetis*](https://pl.wikipedia.org/wiki/SMS_Thetis_(1900)) struck a mine missed by the minesweepers, and at seven o'clock the torpedo boat *S 144*. Both had to be towed to [Libau](https://pl.wikipedia.org/wiki/Lipawa). The Russians, who had detected the Germans early from the air, threw gunboats, destroyers and seaplanes into the fight. Their attacks were beaten off by the fire of the German battleships. *Elsass* hit the gunboat *Grozyashchiy*, and one of the Russian seaplanes had to come down next to a German torpedo boat and its crew were taken prisoner. At about 10.30 a.m. the old Russian battleship [*Slava*](https://pl.wikipedia.org/wiki/Sława_(1903)) arrived, but under the fire of two German battleships at a range of about 16 kilometres she quickly withdrew.
+The minesweepers set off at about 4 a.m. Behind them sailed the cruiser *Bremen* and the battleships *Braunschweig* and *Elsass*. Within an hour the minesweeper *T 52* blew up, fortunately without casualties. Shortly afterwards the cruiser [*Thetis*](https://pl.wikipedia.org/wiki/SMS_Thetis_(1900)) struck a mine missed by the minesweepers, and at seven o'clock the torpedo boat *S 144*. Both had to be towed to [Libau](/miejsca/lipawa). The Russians, who had detected the Germans early from the air, threw gunboats, destroyers and seaplanes into the fight. Their attacks were beaten off by the fire of the German battleships. *Elsass* hit the gunboat *Grozyashchiy*, and one of the Russian seaplanes had to come down next to a German torpedo boat and its crew were taken prisoner. At about 10.30 a.m. the old Russian battleship [*Slava*](https://pl.wikipedia.org/wiki/Sława_(1903)) arrived, but under the fire of two German battleships at a range of about 16 kilometres she quickly withdrew.
 
 Despite good weather and a calm sea, the passage through the first barrage was not ready until after 11 a.m. The sweeping had taken six hours, twice as long as planned. Two miles further on the minesweepers ran into another barrage the Germans had not known about. After 1 p.m. the minesweeper *T 58* sank on it.
 

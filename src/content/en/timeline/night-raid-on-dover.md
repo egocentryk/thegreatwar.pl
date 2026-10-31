@@ -2,10 +2,10 @@
 title: Night raid on Dover
 summary: On the night of 2 September 1917 one or two German bombers struck Dover without warning. An officer was killed, and Germany began its night raids on England.
 source: nocny-nalot-na-dover
-sourceHash: 69d08de987bfcedb28b7e53f9b0b2ddc557eece7
+sourceHash: 61db4cc15d0aae39eec5c4f03004d097021e8aa8
 ---
 
-On Sunday 2 September 1917, at 11.05 p.m., low-flying German aircraft appeared over [Dover](https://pl.wikipedia.org/wiki/Dover). They dropped their bombs and vanished before the searchlights and anti-aircraft guns could go into action. The town received no warning at all. H. A. Jones's British official history of the air war regards this brief attack as the start of the German "moonlight campaign", the night raids by aeroplanes on England that replaced the daylight attacks abandoned after [22 August](/ostatni-dzienny-nalot-na-anglie).
+On Sunday 2 September 1917, at 11.05 p.m., low-flying German aircraft appeared over [Dover](/miejsca/dover). They dropped their bombs and vanished before the searchlights and anti-aircraft guns could go into action. The town received no warning at all. H. A. Jones's British official history of the air war regards this brief attack as the start of the German "moonlight campaign", the night raids by aeroplanes on England that replaced the daylight attacks abandoned after [22 August](/ostatni-dzienny-nalot-na-anglie).
 
 ## A side target
 

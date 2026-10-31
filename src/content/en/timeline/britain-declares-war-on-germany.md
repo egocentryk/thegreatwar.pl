@@ -2,7 +2,7 @@
 title: Britain declares war on Germany
 summary: At 11 p.m. London time on 4 August 1914 the ultimatum expired. Britain and its whole empire found themselves at war with Germany.
 source: wielka-brytania-wypowiada-wojne-niemcom
-sourceHash: a6a86028d57cc4be7119be01ca05a941ce7f5677
+sourceHash: 05bb0fb02c99253a8ea0086d31fe580e1ab7569f
 brief:
   - "At 11 p.m. London time on 4 August 1914 the British ultimatum expired. Berlin had given no assurance that it would respect Belgian neutrality, and Great Britain was at war with Germany."
   - "The immediate cause was Belgium, whose neutrality Britain had guaranteed since 1839. Sir Edward Grey and most of the cabinet also feared German domination of the Continent and the threat from its fleet."
@@ -20,7 +20,7 @@ The German ambassador in London, Prince [Karl Max von Lichnowsky](https://pl.wik
 
 ## The whole empire at war
 
-London's decision meant that the entire [British Empire](/kraje/wielka-brytania) entered the war. The dominions and colonies did not then conduct their own foreign policy, so the moment Britain declared war, [Canada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia), the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) and [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) were also at war. The scale of their contribution, however, was decided by the governments of the individual dominions, which almost immediately pledged their help.
+London's decision meant that the entire [British Empire](/kraje/wielka-brytania) entered the war. The dominions and colonies did not then conduct their own foreign policy, so the moment Britain declared war, [Canada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia), the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) and [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) were also at war. The scale of their contribution, however, was decided by the governments of the individual dominions, which almost immediately pledged their help.
 
 ## Why Britain fought
 

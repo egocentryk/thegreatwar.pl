@@ -2,7 +2,7 @@
 title: First Battle of Artois begins
 summary: On 27 September 1914 the Race to the Sea reached Artois. The French and Germans began fighting for Arras, Lens and the heights that shaped the front for years.
 source: poczatek-pierwszej-bitwy-w-artois
-sourceHash: dccfd16baa4bba2a094a25b54907185b7b0dd508
+sourceHash: 4ce86828b298fbfeabd1af290ad5d17e1e3c1155
 brief:
   - "On 27 September 1914 the First Battle of Artois began, another stage of the Race to the Sea. According to the British chronology it lasted until 12 October, though other studies use other names and dates."
   - "There was still no continuous front between Arras, Lens and Douai. Joffre assembled General Louis de Maud'huy's forces around Arras, while Falkenhayn sent Crown Prince Rupprecht's Sixth Army there."
@@ -10,7 +10,7 @@ brief:
   - "The French held Arras, but the Germans won Lens, the centre of the coalfield, and the Vimy and Lorette heights. Vimy Ridge was permanently recaptured only by the Canadians in April 1917."
 ---
 
-On 27 September 1914 the First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) began, another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). After the fighting in Picardy and at Albert, both sides moved their attempts to outflank the enemy further north, to the area around [Arras](/miejsca/arras) and the coalfield around [Lens](https://pl.wikipedia.org/wiki/Lens). The battle lasted until 12 October. The French held Arras, but the Germans took Lens and the heights north of the town, and the front that settled here lasted with few changes until 1917.
+On 27 September 1914 the First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) began, another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). After the fighting in Picardy and at Albert, both sides moved their attempts to outflank the enemy further north, to the area around [Arras](/miejsca/arras) and the coalfield around [Lens](/miejsca/lens). The battle lasted until 12 October. The French held Arras, but the Germans took Lens and the heights north of the town, and the front that settled here lasted with few changes until 1917.
 
 ## Name and dates
 

@@ -29,4 +29,4 @@ Nowy dowódca miał też wstydliwy sekret. Przed wojną przez spekulacje ziemią
 
 ## Znaczenie
 
-Korpusem Kanadyjskim, złożonym z czterech dywizji, dowodzili dotąd brytyjscy generałowie: od września 1915 roku Edwin Alderson, a od maja 1916 roku Byng. Sztab korpusu wciąż był w dużej części brytyjski, ale Currie bronił odtąd zasady, by kanadyjskie dywizje walczyły razem, pod jego dowództwem. Już w lipcu dostał pierwsze samodzielne zadanie: natarcie pod [Lens](https://pl.wikipedia.org/wiki/Lens), które w sierpniu doprowadziło do bitwy o wzgórze 70.
+Korpusem Kanadyjskim, złożonym z czterech dywizji, dowodzili dotąd brytyjscy generałowie: od września 1915 roku Edwin Alderson, a od maja 1916 roku Byng. Sztab korpusu wciąż był w dużej części brytyjski, ale Currie bronił odtąd zasady, by kanadyjskie dywizje walczyły razem, pod jego dowództwem. Już w lipcu dostał pierwsze samodzielne zadanie: natarcie pod [Lens](/miejsca/lens), które w sierpniu doprowadziło do bitwy o wzgórze 70.

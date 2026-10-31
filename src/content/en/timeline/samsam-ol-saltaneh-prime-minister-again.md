@@ -2,10 +2,10 @@
 title: Samsam ol-Saltaneh prime minister again
 summary: The British chronology records Samsam ol-Saltaneh reappointed Prime Minister of Persia on 20 June 1918. Persian sources see a cabinet reshuffle instead.
 source: samsam-os-saltane-ponownie-premierem
-sourceHash: 13284b632f019009ff963b16666bc0adc744b7f5
+sourceHash: 90100f1dfe20971f43ff54745b63a2130df15444
 ---
 
-According to the British chronology of the war, on 20 June 1918 [Ahmad Shah](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) once again entrusted the office of Prime Minister of Persia to the chief of the [Bakhtiari](https://pl.wikipedia.org/wiki/Bachtiarowie), Najafqoli Khan Samsam ol-Saltaneh, who according to the same chronology had [resigned on 31 May](/samsam-os-saltane-premierem-persji). Persian lists of governments, however, know nothing of this interruption. They treat Samsam's cabinet as a single government, lasting from 18 Ordibehesht to 15 Mordad 1297 in the Iranian calendar, that is, from the first ten days of May to the beginning of August 1918.
+According to the British chronology of the war, on 20 June 1918 [Ahmad Shah](/postacie/ahmad-szah-kadzar) once again entrusted the office of Prime Minister of Persia to the chief of the [Bakhtiari](https://pl.wikipedia.org/wiki/Bachtiarowie), Najafqoli Khan Samsam ol-Saltaneh, who according to the same chronology had [resigned on 31 May](/samsam-os-saltane-premierem-persji). Persian lists of governments, however, know nothing of this interruption. They treat Samsam's cabinet as a single government, lasting from 18 Ordibehesht to 15 Mordad 1297 in the Iranian calendar, that is, from the first ten days of May to the beginning of August 1918.
 
 ## A cabinet reshuffle
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 lipca 1914 roku, dzień po wypowiedzeniu wojny Serbii przez [Austro-Węgry](/kraje/austro-wegry), [Rosja](/kraje/rosja) zarządziła częściową [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja). Objęła ona cztery okręgi wojskowe: odeski, kijowski, moskiewski i kazański, czyli te, które miały działać przeciw monarchii habsburskiej, przede wszystkim na granicy z [Galicją](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). Była to pierwsza mobilizacja jednego z wielkich mocarstw skierowana przeciw innemu mocarstwu.
+29 lipca 1914 roku, dzień po wypowiedzeniu wojny Serbii przez [Austro-Węgry](/kraje/austro-wegry), [Rosja](/kraje/rosja) zarządziła częściową [mobilizację](/slownik/mobilizacja). Objęła ona cztery okręgi wojskowe: odeski, kijowski, moskiewski i kazański, czyli te, które miały działać przeciw monarchii habsburskiej, przede wszystkim na granicy z [Galicją](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). Była to pierwsza mobilizacja jednego z wielkich mocarstw skierowana przeciw innemu mocarstwu.
 
 ## Sygnał wobec Wiednia, nie Berlina
 

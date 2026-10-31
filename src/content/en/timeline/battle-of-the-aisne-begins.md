@@ -2,7 +2,7 @@
 title: Battle of the Aisne begins
 summary: On 12 September 1914 the British and French, pursuing the Germans after the Marne, reached the Aisne. The Germans dug in on the heights beyond the river.
 source: poczatek-bitwy-nad-aisne
-sourceHash: 64c91133338948c946b7fc14fd9ea648705fc99a
+sourceHash: e9d6f49b1258c98e3e0b1fdf43d4282216e51658
 brief:
   - "On 12 September 1914 the French and the British Expeditionary Force, pursuing the Germans after the Marne, reached the Aisne. The Germans had stopped retreating and held the heights on the north bank."
   - "The Germans chose a strong position: steep slopes and the Chemin des Dames ridge, which overlooked the whole valley. Joffre, however, believed they were still retreating and ordered the river to be forced."
@@ -47,6 +47,6 @@ The British chronology of the war and the British official nomenclature of battl
 
 ## Significance
 
-On the Aisne the pursuit after the Battle of the Marne came to an end. The Germans, though beaten, halted on a favourable position and held it. Neither side could break the other's defence, and neither intended to fall back. Shallow rifle pits, dug in haste and often without proper tools, turned within a few days into ever deeper lines of trenches. On the Western Front [trench warfare](https://pl.wikipedia.org/wiki/Wojna_pozycyjna) was beginning.
+On the Aisne the pursuit after the Battle of the Marne came to an end. The Germans, though beaten, halted on a favourable position and held it. Neither side could break the other's defence, and neither intended to fall back. Shallow rifle pits, dug in haste and often without proper tools, turned within a few days into ever deeper lines of trenches. On the Western Front [trench warfare](/slownik/wojna-pozycyjna) was beginning.
 
 Since frontal attacks had failed, both sides began to look for the enemy's open flank further north. Thus began the so-called Race to the Sea, which in October carried the front line all the way to the coast of Flanders. The Chemin des Dames ridge remained in German hands for almost three years. In 1917 it became the objective of the bloody [Nivelle Offensive](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a), and in 1918 the Germans launched one of their last great attacks here.

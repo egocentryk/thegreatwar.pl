@@ -2,7 +2,7 @@
 title: Allies take Yaoundé
 summary: On 1 January 1916 Col. Gorges's British column entered Yaoundé unopposed. The Germans had left the day before and were falling back south, towards Muni.
 source: alianci-zajmuja-jaunde
-sourceHash: 9cabaf6b7f61d3b160153101ecefb187dfd666b9
+sourceHash: ae8a2a45006f16ffa53a84a1117373c341ff1b55
 ---
 
 On 1 January 1916 British troops entered [Yaoundé](https://pl.wikipedia.org/wiki/Jaunde), the last seat of the German authorities in [Kamerun](/miejsca/kamerun). According to the British official history, at 11.30 a.m. the central column of Lieutenant-Colonel Haywood, part of Colonel Gorges's force, occupied the fort at Yaoundé without meeting resistance. The town was empty. The German authorities, civilians and most of the colonial troops had withdrawn south earlier. The capture of Yaoundé, the objective of two Allied offensives, did not, however, end the campaign in Kamerun.
@@ -17,7 +17,7 @@ In December Gorges's column advanced rapidly. On 17 December it took Chang Manga
 
 Gorges telegraphed Dobell that the enemy had withdrawn by the roads to the south and south-east, towards Akonolinga, Widemenge and [Ebolowa](https://pl.wikipedia.org/wiki/Ebolowa). At the Catholic mission only two Europeans were found, and a few Africans in the hospital. The buildings, storehouses, hospital, ammunition factory and fort were intact, but without any stores. "The whole place looks like a dead town," Gorges reported. At night his outposts were fired on by German stragglers from the roads leading south.
 
-The Germans had planned the retreat in advance and managed to keep it secret. According to the official history, based on later findings, Governor Karl Ebermaier called a conference of commanders at Yaoundé which, during the night of 15–16 December, decided to withdraw all units south of the [Nyong](https://pl.wikipedia.org/wiki/Nyong) river and move the administration to Ebolowa. The move was completed by 25 December, and Ebermaier left Yaoundé with the main rearguard only on the afternoon of 30 December. The colonial troops ([Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe)) commanded by Carl Zimmermann were short above all of ammunition. The German work *Der Grosse Krieg* states that it was precisely the shortage of ammunition and the wish to avoid a humiliating capitulation that decided the retreat into neutral territory, and that the supply columns crossed the Nyong as early as 1 January.
+The Germans had planned the retreat in advance and managed to keep it secret. According to the official history, based on later findings, Governor Karl Ebermaier called a conference of commanders at Yaoundé which, during the night of 15–16 December, decided to withdraw all units south of the [Nyong](https://pl.wikipedia.org/wiki/Nyong) river and move the administration to Ebolowa. The move was completed by 25 December, and Ebermaier left Yaoundé with the main rearguard only on the afternoon of 30 December. The colonial troops ([Schutztruppe](/slownik/schutztruppe)) commanded by Carl Zimmermann were short above all of ammunition. The German work *Der Grosse Krieg* states that it was precisely the shortage of ammunition and the wish to avoid a humiliating capitulation that decided the retreat into neutral territory, and that the supply columns crossed the Nyong as early as 1 January.
 
 ## What came next
 

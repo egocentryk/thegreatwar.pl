@@ -2,14 +2,14 @@
 title: Clash at Gibeon
 summary: In late April 1915 General McKenzie's mounted troops caught the retreating Germans at Gibeon. A night ambush failed, but in the morning the Germans were routed.
 source: starcie-pod-gibeonem
-sourceHash: 47712e3012cb2cfd782a39df21f1da65fbb89ab1
+sourceHash: f46fab60a2f2e543e13c4a69aa2d1bd9e48c1948
 ---
 
 The British chronology of the war records under 25–26 April 1915 a clash at Gibeon, a railway station and settlement in the southern part of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). According to the South African official account, however, the fighting began on the night of 26–27 April and was decided on the morning of 27 April. Some accounts give 28 April. The mounted brigades of Brigadier-General Sir Duncan McKenzie routed German units there that were withdrawing northwards from the south of the colony.
 
 ## The pursuit
 
-After the [occupation of Aus](/poludniowoafrykanczycy-zajmuja-aus) McKenzie was ordered to reconnoitre towards [Bethanien](https://pl.wikipedia.org/wiki/Bethanien). He set out with three mounted brigades from [Natal](https://pl.wikipedia.org/wiki/Natal_(prowincja)) and an artillery battery, about 1,500 men in all with six guns. Meanwhile other forces of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) were advancing from the south and east. The Germans could not defend the whole of the south. They abandoned [Keetmanshoop](https://pl.wikipedia.org/wiki/Keetmanshoop), and all the units from that part of the colony, some 700–800 men with two field guns and machine guns, set off northwards under Major von Kleist, along the railway to Windhuk.
+After the [occupation of Aus](/poludniowoafrykanczycy-zajmuja-aus) McKenzie was ordered to reconnoitre towards [Bethanien](https://pl.wikipedia.org/wiki/Bethanien). He set out with three mounted brigades from [Natal](https://pl.wikipedia.org/wiki/Natal_(prowincja)) and an artillery battery, about 1,500 men in all with six guns. Meanwhile other forces of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) were advancing from the south and east. The Germans could not defend the whole of the south. They abandoned [Keetmanshoop](https://pl.wikipedia.org/wiki/Keetmanshoop), and all the units from that part of the colony, some 700–800 men with two field guns and machine guns, set off northwards under Major von Kleist, along the railway to Windhuk.
 
 On 22 April McKenzie reached Berseba, and at dawn the next day his outposts spotted a German column passing the settlement. The pursuit lasted several days, across stony, waterless country. On 26 April, near Grundorns station, McKenzie's men tapped into the German telegraph line and learned that the Germans at Gibeon were to move on that night. Scouts saw a train at the station and clouds of dust above columns converging on it.
 

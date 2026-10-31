@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 listopada 1918 roku, na dzień przed końcem wojny na zachodzie, Rumunia ponownie przystąpiła do niej po stronie ententy. Tego samego dnia pierwsze oddziały francuskie przeprawiły się przez [Dunaj](https://pl.wikipedia.org/wiki/Dunaj) z Bułgarii na rumuński brzeg. Pół roku wcześniej rząd Alexandru Marghilomana podpisał z państwami centralnymi [pokój bukareszteński](/pokoj-w-bukareszcie), ale król [Ferdynand I](/postacie/ferdynand-i-rumunski) nigdy go nie zatwierdził. W Rumunii posługiwano się wtedy kalendarzem juliańskim, więc w rumuńskich dokumentach wydarzenia tego dnia noszą datę 28 października.
+10 listopada 1918 roku, na dzień przed końcem wojny na zachodzie, Rumunia ponownie przystąpiła do niej po stronie ententy. Tego samego dnia pierwsze oddziały francuskie przeprawiły się przez [Dunaj](/miejsca/dunaj) z Bułgarii na rumuński brzeg. Pół roku wcześniej rząd Alexandru Marghilomana podpisał z państwami centralnymi [pokój bukareszteński](/pokoj-w-bukareszcie), ale król [Ferdynand I](/postacie/ferdynand-i-rumunski) nigdy go nie zatwierdził. W Rumunii posługiwano się wtedy kalendarzem juliańskim, więc w rumuńskich dokumentach wydarzenia tego dnia noszą datę 28 października.
 
 ## Armia Dunaju
 

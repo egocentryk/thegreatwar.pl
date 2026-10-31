@@ -11,13 +11,13 @@ milestone: false
 draft: false
 ---
 
-20 marca 1915 roku wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) pod dowództwem premiera i naczelnego wodza [Louisa Bothy](/postacie/louis-botha) uderzyły na niemiecką linię obronną w dolinie rzeki [Swakop](https://pl.wikipedia.org/wiki/Swakop), w [Niemieckiej Afryce Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia). Brytyjska chronologia wojny nazywa to starcie potyczką pod Jakalswater, ale tego dnia walczono jednocześnie w trzech miejscach: pod Riet, Pforte i Jakalswater. Południowoafrykańscy historycy uważają ten bój za jeden z najważniejszych w całej kampanii.
+20 marca 1915 roku wojska [Związku Południowej Afryki](/kraje/zwiazek-poludniowej-afryki) pod dowództwem premiera i naczelnego wodza [Louisa Bothy](/postacie/louis-botha) uderzyły na niemiecką linię obronną w dolinie rzeki [Swakop](https://pl.wikipedia.org/wiki/Swakop), w [Niemieckiej Afryce Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia). Brytyjska chronologia wojny nazywa to starcie potyczką pod Jakalswater, ale tego dnia walczono jednocześnie w trzech miejscach: pod Riet, Pforte i Jakalswater. Południowoafrykańscy historycy uważają ten bój za jeden z najważniejszych w całej kampanii.
 
 ## Walka o wodę
 
 Pod koniec lutego Siły Północne [ruszyły ze Swakopmund](/sily-polnocne-ruszaja-na-windhuk) w górę doliny Swakopu. Dalej w głąb lądu drogę zagradzała im niemiecka linia obronna, oparta o Riet nad Swakopem, przełęcz Pforte u stóp góry Husab i stację kolejową Jakalswater. Wszystkie te miejsca miały wodę. Żeby przeprowadzić armię przez pustynię [Namib](https://pl.wikipedia.org/wiki/Namib), Botha musiał zdobywać po kolei każdą studnię i ją utrzymać.
 
-Pozycji broniła część [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), niemieckich wojsk kolonialnych, którymi od listopada 1914 roku dowodził Victor Franke. Południowoafrykański wywiad, czytający przechwycone niemieckie depesze radiowe, dość dokładnie znał ich siłę: pod Pforte stały co najmniej dwie kompanie konne z działami, pod Riet cztery kompanie i bateria, a w odwodzie pod Jakalswater i Modderfontein kolejne baterie i kompanie. 18 marca Botha wyruszył naprzód z siłami liczącymi według jednego z opracowań około 7500 ludzi, wielokrotnie liczniejszymi od Niemców. Ostatni etap marszu prowadził przez bezwodną pustynię.
+Pozycji broniła część [Schutztruppe](/slownik/schutztruppe), niemieckich wojsk kolonialnych, którymi od listopada 1914 roku dowodził Victor Franke. Południowoafrykański wywiad, czytający przechwycone niemieckie depesze radiowe, dość dokładnie znał ich siłę: pod Pforte stały co najmniej dwie kompanie konne z działami, pod Riet cztery kompanie i bateria, a w odwodzie pod Jakalswater i Modderfontein kolejne baterie i kompanie. 18 marca Botha wyruszył naprzód z siłami liczącymi według jednego z opracowań około 7500 ludzi, wielokrotnie liczniejszymi od Niemców. Ostatni etap marszu prowadził przez bezwodną pustynię.
 
 ## Trzy starcia
 

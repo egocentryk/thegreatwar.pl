@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 6 na 7 listopada 1918 roku na ulicach [Lublina](https://pl.wikipedia.org/wiki/Lublin) rozklejono afisze z manifestem nowej władzy. Ogłaszał on powstanie [Tymczasowego Rządu Ludowego Republiki Polskiej](https://pl.wikipedia.org/wiki/Rząd_Ignacego_Daszyńskiego), na którego czele stanął galicyjski socjalista [Ignacy Daszyński](/postacie/ignacy-daszynski). Rząd zajął gmach dawnego austro-węgierskiego generalnego gubernatorstwa, [pałac Lubomirskich](https://pl.wikipedia.org/wiki/Pałac_Lubomirskich_w_Lublinie) przy placu Litewskim, i ogłosił się władzą całej Polski, nie tylko jednej dzielnicy. Pierwszy raz od rozbiorów na ziemiach polskich powstał rząd, który nazwał swoje państwo republiką.
+W nocy z 6 na 7 listopada 1918 roku na ulicach [Lublina](/miejsca/lublin) rozklejono afisze z manifestem nowej władzy. Ogłaszał on powstanie [Tymczasowego Rządu Ludowego Republiki Polskiej](https://pl.wikipedia.org/wiki/Rząd_Ignacego_Daszyńskiego), na którego czele stanął galicyjski socjalista [Ignacy Daszyński](/postacie/ignacy-daszynski). Rząd zajął gmach dawnego austro-węgierskiego generalnego gubernatorstwa, [pałac Lubomirskich](https://pl.wikipedia.org/wiki/Pałac_Lubomirskich_w_Lublinie) przy placu Litewskim, i ogłosił się władzą całej Polski, nie tylko jednej dzielnicy. Pierwszy raz od rozbiorów na ziemiach polskich powstał rząd, który nazwał swoje państwo republiką.
 
 ## Dlaczego Lublin
 

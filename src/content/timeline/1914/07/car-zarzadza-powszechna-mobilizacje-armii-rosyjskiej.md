@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 lipca 1914 roku po południu car [Mikołaj II](/postacie/mikolaj-ii) zgodził się na powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) [armii rosyjskiej](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego). Zaledwie dzień wcześniej wstrzymał tę samą decyzję w ostatniej chwili, ograniczając się do mobilizacji częściowej przeciw Austro-Węgrom. Tym razem nie zmienił już zdania.
+30 lipca 1914 roku po południu car [Mikołaj II](/postacie/mikolaj-ii) zgodził się na powszechną [mobilizację](/slownik/mobilizacja) [armii rosyjskiej](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego). Zaledwie dzień wcześniej wstrzymał tę samą decyzję w ostatniej chwili, ograniczając się do mobilizacji częściowej przeciw Austro-Węgrom. Tym razem nie zmienił już zdania.
 
 ## Dlaczego częściowa mobilizacja nie wystarczyła
 

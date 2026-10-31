@@ -2,7 +2,7 @@
 title: Attack at Fromelles
 summary: On the evening of 19 July 1916 British and Australian troops attacked at Fromelles. By morning the 5th Australian Division had lost 5,533 men and held nothing.
 source: atak-pod-fromelles
-sourceHash: ac43459eb18020a22e2f5f9d18676bcbabba345f
+sourceHash: 11938ebb446451b42ebe5aaf4e68b0f8bac94aae
 brief:
   - "At 6 p.m. on 19 July 1916 the British 61st Division and the 5th Australian Division attacked the German trenches at Fromelles in French Flanders. For both divisions it was their first action on the Western Front."
   - "It was a subsidiary attack meant to keep German troops away from the Battle of the Somme, which had been going on for three weeks. In one Bavarian regiment 60 of the 75 shelters survived seven hours of bombardment."
@@ -11,7 +11,7 @@ brief:
   - "The night of 19–20 July is regarded in Australia as the blackest 24 hours in the country's history. The British official history said that this battle \"need never have been fought\"."
 ---
 
-At 6 p.m. on 19 July 1916, in the full light of a summer day, twelve battalions of the British 61st Division and the 5th Australian Division attacked the German trenches on the flat, marshy plain opposite the village of [Fromelles](https://pl.wikipedia.org/wiki/Fromelles) in French Flanders. It was a subsidiary attack: the [Battle of the Somme](/bitwy/bitwa-nad-somma) had been going on for three weeks, and the British command wanted to convince the Germans that here too, 80 kilometres further north, an offensive threatened them, and so keep their troops away from the Somme. The attack went in roughly where the British had lost the [Battle of Aubers Ridge](/bitwy/bitwa-o-grzbiet-aubers) in May 1915, and against the same Bavarian division. For both attacking divisions it was their first action on the Western Front, and for many of the men the first of their lives. The next morning the survivors were making their way back to their own trenches, and [no man's land](https://pl.wikipedia.org/wiki/Ziemia_niczyja) was strewn with dead and wounded. The night of 19–20 July is regarded in Australia as the blackest 24 hours in the country's history.
+At 6 p.m. on 19 July 1916, in the full light of a summer day, twelve battalions of the British 61st Division and the 5th Australian Division attacked the German trenches on the flat, marshy plain opposite the village of [Fromelles](https://pl.wikipedia.org/wiki/Fromelles) in French Flanders. It was a subsidiary attack: the [Battle of the Somme](/bitwy/bitwa-nad-somma) had been going on for three weeks, and the British command wanted to convince the Germans that here too, 80 kilometres further north, an offensive threatened them, and so keep their troops away from the Somme. The attack went in roughly where the British had lost the [Battle of Aubers Ridge](/bitwy/bitwa-o-grzbiet-aubers) in May 1915, and against the same Bavarian division. For both attacking divisions it was their first action on the Western Front, and for many of the men the first of their lives. The next morning the survivors were making their way back to their own trenches, and [no man's land](/slownik/ziemia-niczyja) was strewn with dead and wounded. The night of 19–20 July is regarded in Australia as the blackest 24 hours in the country's history.
 
 ## Seven hours of bombardment
 

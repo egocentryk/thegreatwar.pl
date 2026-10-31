@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 lutego 1917 roku kolumna samochodów pancernych generała brygady H. W. Hodgsona wróciła do [Marsa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) po rajdzie na oazę [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)). W ciągu tygodnia przebyła dwukrotnie ponad 300 kilometrów pustyni, [rozbiła obóz bractwa w Girbie](/walki-w-oazie-siwa) i zajęła Siwę, tracąc jedynie trzech lekko rannych oficerów i jedną ciężarówkę z połamanymi resorami. Brytyjska chronologia wojny zamyka tą datą operacje przeciw bractwu [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja), rozpoczęte w listopadzie 1915 roku. Brytyjska historia oficjalna działań w Egipcie stwierdza, że od tej chwili zachodnia granica kraju znika ze sceny działań wojennych.
+8 lutego 1917 roku kolumna samochodów pancernych generała brygady H. W. Hodgsona wróciła do [Marsa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh) po rajdzie na oazę [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)). W ciągu tygodnia przebyła dwukrotnie ponad 300 kilometrów pustyni, [rozbiła obóz bractwa w Girbie](/walki-w-oazie-siwa) i zajęła Siwę, tracąc jedynie trzech lekko rannych oficerów i jedną ciężarówkę z połamanymi resorami. Brytyjska chronologia wojny zamyka tą datą operacje przeciw bractwu [Sanusijja](/slownik/sanusijja), rozpoczęte w listopadzie 1915 roku. Brytyjska historia oficjalna działań w Egipcie stwierdza, że od tej chwili zachodnia granica kraju znika ze sceny działań wojennych.
 
 ## Sukces niepełny
 

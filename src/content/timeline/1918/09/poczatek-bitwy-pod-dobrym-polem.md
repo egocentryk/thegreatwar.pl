@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-15 września 1918 roku o 5.30 rano, w półmroku przed wschodem słońca, francuskie i serbskie dywizje wyszły z okopów na górskim grzbiecie nad kotliną [Meglena](https://pl.wikipedia.org/wiki/Meglena) i ruszyły na bułgarskie pozycje na szczytach Vetrenik, Dobro Pole i Sokol. Tak zaczęła się wielka ofensywa sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki), przygotowywana od czerwca przez generała [Louisa Francheta d’Espéreya](/postacie/louis-franchet-d-esperey). Do wieczora grań była zdobyta, a w nocy przez wyłom szły już na północ dywizje serbskie. Następnego dnia Serbowie zdobyli drugą bułgarską pozycję na masywie Kozjak. Brytyjska chronologia wojny notuje początek bitwy pod 15 września, a jej koniec pod 16 września. Za francuskimi historykami przyjmujemy jednak, że przełamanie trwało do wieczora 17 września.
+15 września 1918 roku o 5.30 rano, w półmroku przed wschodem słońca, francuskie i serbskie dywizje wyszły z okopów na górskim grzbiecie nad kotliną [Meglena](https://pl.wikipedia.org/wiki/Meglena) i ruszyły na bułgarskie pozycje na szczytach Vetrenik, Dobro Pole i Sokol. Tak zaczęła się wielka ofensywa sprzymierzonych na [froncie salonickim](/bitwy/front-salonicki), przygotowywana od czerwca przez generała [Louisa Francheta d’Espéreya](/postacie/louis-franchet-d-esperey). Do wieczora grań była zdobyta, a w nocy przez wyłom szły już na północ dywizje serbskie. Następnego dnia Serbowie zdobyli drugą bułgarską pozycję na masywie Kozjak. Brytyjska chronologia wojny notuje początek bitwy pod 15 września, a jej koniec pod 16 września. Za francuskimi historykami przyjmujemy jednak, że przełamanie trwało do wieczora 17 września.
 
 ## Przed szturmem
 

@@ -2,7 +2,7 @@
 title: Sinking of HMS Falmouth and HMS Nottingham
 summary: On 19 August 1916 Scheer's fleet sailed for Sunderland and the Grand Fleet put out to meet it. No battle followed, but U-boats torpedoed two cruisers.
 source: zatopienie-hms-falmouth-i-hms-nottingham
-sourceHash: ec1b21baededbfe383eb4672e514d0f1d3a31076
+sourceHash: 489964b1edeec7bbf412c5ec886fa75086e60ca6
 ---
 
 On 19 August 1916, less than three months after the [Battle of Jutland](/bitwy/bitwa-jutlandzka), both great fleets, the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) and the British [Grand Fleet](/sily-zbrojne/grand-fleet), were once again at sea in the North Sea. This time they did not fire a single shot at each other. The whole day was spent groping for one another, and the only victims of the operation were two British [light cruisers](https://pl.wikipedia.org/wiki/Krążownik_lekki), *Nottingham* and *Falmouth*, torpedoed by German submarines. *Nottingham* sank on the morning of 19 August. *Falmouth*, hit in the afternoon, stayed afloat until the next day and went down on the evening of 20 August. Times are given according to the British official history (Newbolt, *Naval Operations*, vol. IV).

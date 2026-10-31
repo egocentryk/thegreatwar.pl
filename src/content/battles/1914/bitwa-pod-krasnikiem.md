@@ -24,7 +24,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/13_Pułk_Piechoty_Austro-Węgier"
 ---
 
-[Bitwa pod Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) rozegrała się w dniach 23–25 sierpnia 1914 roku na południowej Lubelszczyźnie, na ziemiach należących wówczas do Królestwa Polskiego pod panowaniem rosyjskim. Austro-węgierska 1 Armia generała [Victora Dankla](/postacie/victor-dankl) zderzyła się tam z rosyjską 4 Armią generała Antona Salzy i po trzech dniach walk zmusiła ją do odwrotu w stronę [Lublina](https://pl.wikipedia.org/wiki/Lublin). Było to pierwsze starcie wielkiej [bitwy galicyjskiej](/bitwy/bitwa-galicyjska) i pierwsze zwycięstwo armii austro-węgierskiej w I wojnie światowej. Walczono na polskiej ziemi, a w szeregach obu armii służyli Polacy.
+[Bitwa pod Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) rozegrała się w dniach 23–25 sierpnia 1914 roku na południowej Lubelszczyźnie, na ziemiach należących wówczas do Królestwa Polskiego pod panowaniem rosyjskim. Austro-węgierska 1 Armia generała [Victora Dankla](/postacie/victor-dankl) zderzyła się tam z rosyjską 4 Armią generała Antona Salzy i po trzech dniach walk zmusiła ją do odwrotu w stronę [Lublina](/miejsca/lublin). Było to pierwsze starcie wielkiej [bitwy galicyjskiej](/bitwy/bitwa-galicyjska) i pierwsze zwycięstwo armii austro-węgierskiej w I wojnie światowej. Walczono na polskiej ziemi, a w szeregach obu armii służyli Polacy.
 
 ## Nazwa i daty
 

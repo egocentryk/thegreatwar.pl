@@ -2,7 +2,7 @@
 title: Battle of the Stryj begins
 summary: On 24 May 1915 the South Army began shelling Russian positions before Stryj. Linsingen massed his forces for one blow, but the infantry stuck in the wire.
 source: poczatek-bitwy-nad-stryjem
-sourceHash: f96f930fca469848392ec28d30c0c1fac0e14576
+sourceHash: 4456b675fcb82ae15ef723c16b30db1c95830ce9
 ---
 
 The British chronology of the war records under 24 May 1915 the start of the Battle of the [Stryj](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), which in its account lasted until 11 June. That day, according to the Encyclopaedia Britannica of 1922, General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) began a two-day artillery bombardment of the Russian positions in front of the towns of [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)) and [Dolina](https://pl.wikipedia.org/wiki/Dolina_(miasto)). The infantry went in to the assault on the morning of 26 May. At the same time, some tens of kilometres to the north-west, [Mackensen's army struck at Radymno](/poczatek-walk-o-odbicie-przemysla), and Austro-Hungarian troops were attacking south of Przemyśl.
@@ -15,7 +15,7 @@ The German Supreme Command attached great importance to this attack. On 23 May t
 
 ## Forces and positions
 
-On 24 May the South Army's front ran from Hruszów on the Bystrzyca, east of Drohobycz, across the approaches to Stryj and the area east of [Bolechów](https://pl.wikipedia.org/wiki/Bolechów_(miasto)) to the Dolina area. Facing it stood General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s Russian [11th Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)). Sources assess the balance of forces differently. According to the Encyclopaedia Britannica, Linsingen's eight infantry divisions and three independent brigades faced five Russian divisions. The Austrian official history, on the other hand, states that the Russians had more infantry, about 100,000 rifles against 70,000, but were weaker in artillery and short of ammunition. The Russian positions, partly hidden in woods, were covered by deep belts of wire and by positions from which the attackers could be swept with flanking fire.
+On 24 May the South Army's front ran from Hruszów on the Bystrzyca, east of Drohobycz, across the approaches to Stryj and the area east of [Bolechów](https://pl.wikipedia.org/wiki/Bolechów_(miasto)) to the Dolina area. Facing it stood General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s Russian [11th Army](/sily-zbrojne/11-armia-rosyjska). Sources assess the balance of forces differently. According to the Encyclopaedia Britannica, Linsingen's eight infantry divisions and three independent brigades faced five Russian divisions. The Austrian official history, on the other hand, states that the Russians had more infantry, about 100,000 rifles against 70,000, but were weaker in artillery and short of ammunition. The Russian positions, partly hidden in woods, were covered by deep belts of wire and by positions from which the attackers could be swept with flanking fire.
 
 ## The attack stalls
 

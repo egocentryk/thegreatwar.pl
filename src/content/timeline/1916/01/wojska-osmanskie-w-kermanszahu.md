@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 13 stycznia 1916 roku zajęcie [Kermanszahu](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) w zachodniej Persji przez wojska tureckie. Nie było to jednak zdobycie miasta. Kermanszah od kilku tygodni znajdował się w rękach perskich przeciwników Ententy, a oddziały osmańskie przyszły tu na ich prośbę, jako sojusznicy. Dostępne opracowania nie podają dnia, w którym tureccy żołnierze weszli do miasta. Z historii wojen kaukaskich Allena i Muratowa oraz pracy irańskiego historyka Iradża Nasseriego wynika, że pierwsze bataliony dotarły tam na przełomie grudnia i stycznia, a kolejne w następnych tygodniach. Zapis w chronologii najpewniej oddaje moment, w którym wiadomość o tureckim garnizonie dotarła do Londynu. Tego samego dnia Rosjanie zajęli Kangawar, w połowie drogi z Hamadanu do Kermanszahu.
+Brytyjska chronologia wojny notuje pod 13 stycznia 1916 roku zajęcie [Kermanszahu](/miejsca/kermanszah) w zachodniej Persji przez wojska tureckie. Nie było to jednak zdobycie miasta. Kermanszah od kilku tygodni znajdował się w rękach perskich przeciwników Ententy, a oddziały osmańskie przyszły tu na ich prośbę, jako sojusznicy. Dostępne opracowania nie podają dnia, w którym tureccy żołnierze weszli do miasta. Z historii wojen kaukaskich Allena i Muratowa oraz pracy irańskiego historyka Iradża Nasseriego wynika, że pierwsze bataliony dotarły tam na przełomie grudnia i stycznia, a kolejne w następnych tygodniach. Zapis w chronologii najpewniej oddaje moment, w którym wiadomość o tureckim garnizonie dotarła do Londynu. Tego samego dnia Rosjanie zajęli Kangawar, w połowie drogi z Hamadanu do Kermanszahu.
 
 ## Miasto emigrantów
 

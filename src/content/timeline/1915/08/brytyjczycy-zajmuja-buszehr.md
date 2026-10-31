@@ -21,7 +21,7 @@ Zajęcie miasta nie wymagało walki. Trzon sił stanowił garnizon rezydentury, 
 
 ## Miasto pod obcym zarządem
 
-Irańscy historycy opisują pierwsze dni okupacji jako jawne pogwałcenie perskiej neutralności. Według nich Brytyjczycy rozbroili miejscową żandarmerię, zajęli stojące w porcie perskie jednostki, w tym niewielki okręt Mozaffari, i wywiesili brytyjską flagę nad siedzibą gubernatora. Kilkunastu mieszkańców, którzy protestowali przeciw okupacji, miało zostać aresztowanych i wywiezionych do Indii. Od 15 sierpnia poczta w Buszehrze sprzedawała perskie znaczki z portretem szacha [Ahmada](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar), na których wydrukowano angielski napis „Bushire Under British Occupation”. Mało co tak dobitnie pokazywało, jak niewiele znaczyła władza Teheranu nad własnym wybrzeżem.
+Irańscy historycy opisują pierwsze dni okupacji jako jawne pogwałcenie perskiej neutralności. Według nich Brytyjczycy rozbroili miejscową żandarmerię, zajęli stojące w porcie perskie jednostki, w tym niewielki okręt Mozaffari, i wywiesili brytyjską flagę nad siedzibą gubernatora. Kilkunastu mieszkańców, którzy protestowali przeciw okupacji, miało zostać aresztowanych i wywiezionych do Indii. Od 15 sierpnia poczta w Buszehrze sprzedawała perskie znaczki z portretem szacha [Ahmada](/postacie/ahmad-szah-kadzar), na których wydrukowano angielski napis „Bushire Under British Occupation”. Mało co tak dobitnie pokazywało, jak niewiele znaczyła władza Teheranu nad własnym wybrzeżem.
 
 ## Karna wyprawa i ciąg dalszy
 

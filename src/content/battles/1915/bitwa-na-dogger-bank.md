@@ -23,7 +23,7 @@ brief:
   - "W Wielkiej Brytanii bitwę uznano za wielkie zwycięstwo, choć zaprzepaszczono szansę na większy sukces. W Niemczech zdymisjonowano admirała Ingenohla, a wielkie okręty na ponad rok niemal przestały wypływać na Morze Północne."
 ---
 
-[Bitwa na Dogger Bank](https://pl.wikipedia.org/wiki/Bitwa_na_Dogger_Bank_(1915)) rozegrała się 24 stycznia 1915 roku na środku Morza Północnego. Było to pierwsze starcie [krążowników liniowych](https://pl.wikipedia.org/wiki/Krążownik_liniowy), najszybszych i najpotężniejszych okrętów obu flot. Zespół wiceadmirała [Davida Beatty'ego](/postacie/david-beatty), uprzedzony przez brytyjski wywiad, przechwycił wypad kontradmirała [Franza von Hippera](/postacie/franz-von-hipper) i ścigał go przez kilka godzin w stronę wybrzeży Niemiec. Brytyjczycy zatopili krążownik pancerny Blücher, ale przez uszkodzenie okrętu flagowego i źle zrozumiany sygnał pozwolili uciec trzem niemieckim krążownikom liniowym.
+[Bitwa na Dogger Bank](https://pl.wikipedia.org/wiki/Bitwa_na_Dogger_Bank_(1915)) rozegrała się 24 stycznia 1915 roku na środku Morza Północnego. Było to pierwsze starcie [krążowników liniowych](/slownik/krazownik-liniowy), najszybszych i najpotężniejszych okrętów obu flot. Zespół wiceadmirała [Davida Beatty'ego](/postacie/david-beatty), uprzedzony przez brytyjski wywiad, przechwycił wypad kontradmirała [Franza von Hippera](/postacie/franz-von-hipper) i ścigał go przez kilka godzin w stronę wybrzeży Niemiec. Brytyjczycy zatopili krążownik pancerny Blücher, ale przez uszkodzenie okrętu flagowego i źle zrozumiany sygnał pozwolili uciec trzem niemieckim krążownikom liniowym.
 
 ## Nazwa i daty
 

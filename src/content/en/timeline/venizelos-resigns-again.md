@@ -2,7 +2,7 @@
 title: Venizelos resigns again
 summary: On 5 October 1915 King Constantine I refused to back Venizelos's policy, although Parliament had given him a vote of confidence. The premier resigned again.
 source: wenizelos-ponownie-podaje-sie-do-dymisji
-sourceHash: b18eaf23b310904c150ee8ad035726b28c5ade64
+sourceHash: 49bae735a15a2aa12c844de1d303ff9ba82b1254
 ---
 
 On 5 October 1915 (22 September in the Julian calendar, which Greece then used) King [Constantine I](/postacie/konstantyn-i) told Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos) that he could not support his policy. A few hours earlier Parliament had given the government a vote of confidence. Venizelos resigned, for the second time that year. In March he had [stepped down](/dymisja-wenizelosa) when the king rejected Greek participation in the Dardanelles operation. This time the issue was the alliance with Serbia, and the resignation came on the day that [Entente troops landed](/ladowanie-ententy-w-salonikach) at Salonika, brought in at the prime minister's request.
@@ -21,4 +21,4 @@ The constitution gave the king the right to dismiss the government, and Venizelo
 
 ## The Zaimis government
 
-The king entrusted the task of forming a government to [Alexandros Zaimis](/postacie/aleksandros-zaimis), a respected politician outside the main camps. His cabinet consisted mainly of Venizelos's opponents, and the new government was to maintain armed neutrality. Venizelos's Liberals, however, still had a majority in Parliament and promised Zaimis their support, so as not to complicate the country's position at so dangerous a moment. The dispute between the prime minister and the king, under way since March, was now out in the open. In the following years it grew into the conflict the Greeks called the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa).
+The king entrusted the task of forming a government to [Alexandros Zaimis](/postacie/aleksandros-zaimis), a respected politician outside the main camps. His cabinet consisted mainly of Venizelos's opponents, and the new government was to maintain armed neutrality. Venizelos's Liberals, however, still had a majority in Parliament and promised Zaimis their support, so as not to complicate the country's position at so dangerous a moment. The dispute between the prime minister and the king, under way since March, was now out in the open. In the following years it grew into the conflict the Greeks called the [National Schism](/slownik/schizma-narodowa).

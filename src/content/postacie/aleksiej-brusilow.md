@@ -60,7 +60,7 @@ Przygotowana przez niego [ofensywa Kiereńskiego](/bitwy/ofensywa-kierenskiego) 
 
 ## Po wojnie
 
-Brusiłow zamieszkał w Moskwie. Podczas walk o miasto w listopadzie 1917 roku został ciężko ranny odłamkiem pocisku, który trafił w jego dom, i do lata 1918 roku leczył się w szpitalu. Odmówił przyłączenia się do białych, a w sierpniu 1918 roku na dwa miesiące aresztowała go Czeka. Jego syn, który wstąpił do [Armii Czerwonej](https://pl.wikipedia.org/wiki/Armia_Czerwona), dostał się do niewoli białych i zginął.
+Brusiłow zamieszkał w Moskwie. Podczas walk o miasto w listopadzie 1917 roku został ciężko ranny odłamkiem pocisku, który trafił w jego dom, i do lata 1918 roku leczył się w szpitalu. Odmówił przyłączenia się do białych, a w sierpniu 1918 roku na dwa miesiące aresztowała go Czeka. Jego syn, który wstąpił do [Armii Czerwonej](/slownik/czerwona-armia), dostał się do niewoli białych i zginął.
 
 30 maja 1920 roku, w czasie [wojny polsko-bolszewickiej](https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka), po zajęciu Kijowa przez Polaków, „Prawda” opublikowała jego odezwę „Do wszystkich byłych oficerów, gdziekolwiek się znajdują”. Wzywał w niej, by zapomnieć o krzywdach i wstępować do Armii Czerwonej w obronie Rosji przed obcym najazdem. Według wielu relacji skłoniła ona tysiące dawnych oficerów carskich do służby u bolszewików. Brusiłow przewodniczył specjalnej naradzie przy naczelnym dowództwie Armii Czerwonej, a później był inspektorem kawalerii. Zmarł 17 marca 1926 roku w Moskwie i został pochowany z honorami wojskowymi na [cmentarzu Nowodziewiczym](https://pl.wikipedia.org/wiki/Cmentarz_Nowodziewiczy).
 

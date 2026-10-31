@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje pod datą 28 października 1914 roku ponowne zajęcie [Czerniowców](https://pl.wikipedia.org/wiki/Czerniowce) przez wojska rosyjskie. Stolica [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) zaledwie tydzień wcześniej wróciła w ręce austriackie. Około 20–21 października [odbiły ją improwizowane oddziały](/austriacy-odbijaja-czerniowce) pułkownika żandarmerii Eduarda Fischera, złożone z żandarmów, pospolitego ruszenia i ochotników.
+Brytyjska chronologia wojny podaje pod datą 28 października 1914 roku ponowne zajęcie [Czerniowców](/miejsca/czerniowce) przez wojska rosyjskie. Stolica [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) zaledwie tydzień wcześniej wróciła w ręce austriackie. Około 20–21 października [odbiły ją improwizowane oddziały](/austriacy-odbijaja-czerniowce) pułkownika żandarmerii Eduarda Fischera, złożone z żandarmów, pospolitego ruszenia i ochotników.
 
 ## Która data?
 

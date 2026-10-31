@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Kraków (Galicia, Austrian Empire)
 deathPlace: Lausanne
 source: adam-tarnowski
-sourceHash: 10dc90a23dd14b363fc2cd4cefd2f333cde5260e
+sourceHash: 7005e0073c4ab29288a90b15777c152a4cbcbda0
 ---
 
 Count Adam Tarnowski was one of the ablest diplomats of the Habsburg monarchy and one of the Galician aristocrats who made careers in Vienna. In 1911–1916 he was Austro-Hungarian minister in Sofia and is credited with a large share in bringing Bulgaria over to the side of the Central Powers. In the autumn of 1916 the monarchy sent him as ambassador to Washington to save relations with the United States. He arrived on the day the Americans learned of unrestricted submarine warfare, the President never received him, and after three months he had to return to Europe. The last Austro-Hungarian ambassador to the USA then turned to Polish affairs. In October 1917 the Regency Council in Warsaw appointed him prime minister of the Kingdom of Poland, but Germany would not let him take office.
@@ -15,7 +15,7 @@ Count Adam Tarnowski was one of the ablest diplomats of the Habsburg monarchy an
 
 He was born on 4 March 1866 in Kraków, the son of [Jan Dzierżysław Tarnowski](https://pl.wikipedia.org/wiki/Jan_Dzierżysław_Tarnowski), one of the leaders of the Kraków conservatives, and Zofia née Zamoyska. His elder brother [Zdzisław Tarnowski](https://pl.wikipedia.org/wiki/Zdzisław_Tarnowski) was one of the leaders of the Galician conservatives during the war. Adam studied in Vienna and in 1897 entered the Austro-Hungarian diplomatic service. In 1899–1901 he was secretary of the legation in Washington, then worked in Paris, Dresden, Brussels and Madrid, and in 1909–1911 he was counsellor of the embassy in London. In 1901 he married Princess Maria Światopełk-Czetwertyńska.
 
-On 30 April 1911 he became minister in Sofia. His time there coincided with the [Balkan Wars](https://pl.wikipedia.org/wiki/Wojny_bałkańskie), in which Bulgaria first defeated the Turks and then lost a war against its former allies, giving up most of its gains in 1913. Tarnowski worked during this period to soften its losses, and his wife organised aid for the victims of the war. As a result he gained influence over Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) and the government of [Vasil Radoslavov](/postacie/wasil-radoslawow).
+On 30 April 1911 he became minister in Sofia. His time there coincided with the [Balkan Wars](/slownik/wojny-balkanskie), in which Bulgaria first defeated the Turks and then lost a war against its former allies, giving up most of its gains in 1913. Tarnowski worked during this period to soften its losses, and his wife organised aid for the victims of the war. As a result he gained influence over Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) and the government of [Vasil Radoslavov](/postacie/wasil-radoslawow).
 
 ## In Sofia
 

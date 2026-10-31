@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 lutego 1916 roku oddziały rosyjskiego korpusu ekspedycyjnego generała Nikołaja Baratowa weszły do [Kermanszahu](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), głównego miasta zachodniej Persji. Obrońcy opuścili je bez walki. Datę 26 lutego podają brytyjska chronologia wojny, historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa oraz praca generała Jewgienija Masłowskiego, który pisze o 13 lutego według kalendarza juliańskiego. Brytyjska historia oficjalna kampanii mezopotamskiej umieszcza zajęcie miasta dzień wcześniej, a irański historyk Iradż Nasseri, opierający się na źródłach perskich, dzień później.
+26 lutego 1916 roku oddziały rosyjskiego korpusu ekspedycyjnego generała Nikołaja Baratowa weszły do [Kermanszahu](/miejsca/kermanszah), głównego miasta zachodniej Persji. Obrońcy opuścili je bez walki. Datę 26 lutego podają brytyjska chronologia wojny, historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa oraz praca generała Jewgienija Masłowskiego, który pisze o 13 lutego według kalendarza juliańskiego. Brytyjska historia oficjalna kampanii mezopotamskiej umieszcza zajęcie miasta dzień wcześniej, a irański historyk Iradż Nasseri, opierający się na źródłach perskich, dzień później.
 
 ## Linia pod Bid-e Sorch
 

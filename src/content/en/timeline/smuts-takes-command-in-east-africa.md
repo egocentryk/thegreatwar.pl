@@ -2,14 +2,14 @@
 title: Smuts takes command in East Africa
 summary: On 19 February 1916 Gen. Jan Smuts landed at Mombasa and took over the East African command from Gen. Tighe. He decided to strike before the rainy season.
 source: smuts-dowodca-w-afryce-wschodniej
-sourceHash: b0905d84b97ccde2d3362ad9a18d5cfaaa4bd290
+sourceHash: e5db10ad282dbb3ce05f9960cb246017e017f4c3
 ---
 
 On the morning of 19 February 1916 Lieutenant-General [Jan Smuts](/postacie/jan-smuts), the new commander-in-chief of the British forces in East Africa, came ashore at [Mombasa](https://pl.wikipedia.org/wiki/Mombasa). Waiting for him on the quay was General [Michael Tighe](/michael-tighe-dowodca-w-afryce-wschodniej), who had commanded the troops there since April 1915 and in recent weeks had been standing in for the seriously ill General Horace Smith-Dorrien. Tighe briefed him on the situation and handed over command. This ended an interregnum of several weeks that had begun when [Smith-Dorrien had to give up](/smith-dorrien-rezygnuje-z-dowodztwa-w-afryce-wschodniej) the post before he had even reached East Africa.
 
 ## A Boer general in British service
 
-Smuts was one of the most important figures in the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). As a young Boer general he had fought against the British in the Boer War, and afterwards, together with Prime Minister Louis Botha, he had staked everything on reconciliation with Britain. During the war he was the Union's Minister of Defence. In the autumn of 1914 he helped to put down the Boer rebellion, and in 1915 he commanded one of the forces in the campaign that ended with the [capitulation of German South West Africa](/kapitulacja-niemieckiej-afryki-poludniowo-zachodniej). According to the British official history he was appointed commander-in-chief in East Africa on 6 February 1916. The choice also had a political dimension, since the core of the new reinforcements consisted of volunteers from South Africa. According to the South African official history Smuts sailed from Durban on the evening of 12 February (other accounts mention Delagoa Bay) and after a week's voyage reached Mombasa.
+Smuts was one of the most important figures in the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki). As a young Boer general he had fought against the British in the Boer War, and afterwards, together with Prime Minister Louis Botha, he had staked everything on reconciliation with Britain. During the war he was the Union's Minister of Defence. In the autumn of 1914 he helped to put down the Boer rebellion, and in 1915 he commanded one of the forces in the campaign that ended with the [capitulation of German South West Africa](/kapitulacja-niemieckiej-afryki-poludniowo-zachodniej). According to the British official history he was appointed commander-in-chief in East Africa on 6 February 1916. The choice also had a political dimension, since the core of the new reinforcements consisted of volunteers from South Africa. According to the South African official history Smuts sailed from Durban on the evening of 12 February (other accounts mention Delagoa Bay) and after a week's voyage reached Mombasa.
 
 ## Defeat at Salaita
 

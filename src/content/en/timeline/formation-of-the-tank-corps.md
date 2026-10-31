@@ -2,10 +2,10 @@
 title: Formation of the Tank Corps
 summary: On 28 July 1917 the British tank units were separated from the Machine Gun Corps as an independent Tank Corps. It was commanded by General Hugh Elles.
 source: utworzenie-korpusu-pancernego
-sourceHash: a5aa9583bfd606e65301872b4be928c58d73164c
+sourceHash: ffd6a84c1393fb8b4d5ed644a069b0bc07e19406
 ---
 
-On 28 July 1917, by Royal Warrant, the British [tank](https://pl.wikipedia.org/wiki/Czołg) units, until then formally part of the Machine Gun Corps, became a separate arm of service: the Tank Corps. The date of 28 July is given by J. F. C. Fuller, long the tank men's chief of staff and author of their first history, and by the Tank Museum at Bovington and the National Army Museum. Some studies, for example The Long, Long Trail website, give 27 July. The change was largely a formality, but it confirmed that the tank had found a permanent home in the army.
+On 28 July 1917, by Royal Warrant, the British [tank](/slownik/czolg) units, until then formally part of the Machine Gun Corps, became a separate arm of service: the Tank Corps. The date of 28 July is given by J. F. C. Fuller, long the tank men's chief of staff and author of their first history, and by the Tank Museum at Bovington and the National Army Museum. Some studies, for example The Long, Long Trail website, give 27 July. The change was largely a formality, but it confirmed that the tank had found a permanent home in the army.
 
 From the beginning tanks were hidden under misleading names. In the spring of 1916 the first crews were organised as the Heavy Section of the Machine Gun Corps, which by June of that year consisted of six companies. Several dozen [Mark I](https://pl.wikipedia.org/wiki/Mark_I) tanks first went into action [on the Somme on 15 September 1916](/poczatek-bitwy-pod-flers-courcelette). Soon afterwards the General Staff in France proposed organising the tank men on the model of the air arm, the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), and according to the Tank Museum it recommended as early as 9 October that they be called the Tank Corps. This was not agreed to at the time. In November 1916 the companies were converted into battalions designated by letters, and the whole was named the Heavy Branch of the Machine Gun Corps. Command in France was taken by Colonel, from May 1917 Brigadier-General, Hugh Elles, with his headquarters in the village of Bermicourt near Saint-Pol.
 

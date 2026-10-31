@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 października 1915 roku po południu Niemcy przeprowadzili ostatnie wielkie natarcie w bitwie pod [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle). Chcieli odzyskać wieś i okopy, które stracili [25 września](/poczatek-bitwy-pod-loos), pierwszego dnia brytyjskiej ofensywy. Uderzyli na odcinku od hałd Double Crassier pod [Lens](https://pl.wikipedia.org/wiki/Lens) po kanał La Bassée, ale wszędzie zostali odparci z ciężkimi stratami. Na tym dniu kończy bitwę pod Loos powołana po wojnie brytyjska komisja nazewnictwa bitew. Dalsze walki, o Redutę Hohenzollernów, nazwała osobno. Brytyjska historia oficjalna Jamesa Edmondsa tego podziału nie przyjęła i uważała październikowe natarcia za ciąg dalszy tej samej bitwy.
+8 października 1915 roku po południu Niemcy przeprowadzili ostatnie wielkie natarcie w bitwie pod [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle). Chcieli odzyskać wieś i okopy, które stracili [25 września](/poczatek-bitwy-pod-loos), pierwszego dnia brytyjskiej ofensywy. Uderzyli na odcinku od hałd Double Crassier pod [Lens](/miejsca/lens) po kanał La Bassée, ale wszędzie zostali odparci z ciężkimi stratami. Na tym dniu kończy bitwę pod Loos powołana po wojnie brytyjska komisja nazewnictwa bitew. Dalsze walki, o Redutę Hohenzollernów, nazwała osobno. Brytyjska historia oficjalna Jamesa Edmondsa tego podziału nie przyjęła i uważała październikowe natarcia za ciąg dalszy tej samej bitwy.
 
 ## Przygotowania
 

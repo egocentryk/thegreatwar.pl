@@ -2,7 +2,7 @@
 title: Russians take Lviv
 summary: On 3 September 1914 Russian troops entered Lviv, the capital of Galicia, without a fight. An occupation and Russification lasting until June 1915 began.
 source: rosjanie-zdobywaja-lwow
-sourceHash: 0b9a84c601b345a64ffcfd0e3b4fb13d66576639
+sourceHash: 8c685b95c4e2b657d5126bf1eced4eb3159e9fbd
 ---
 
 On 3 September 1914 Russian troops entered [Lviv](/miejsca/lwow), the capital of Austrian Galicia. The city was not defended. The day before, the last Austro-Hungarian units had left it, retreating west after the lost [Battle of the Złota Lipa](/bitwy/bitwa-nad-zlota-lipa). For the Poles it was a shock: one of the two most important centres of Polish national life under the partitions, alongside Kraków, had come under Russian rule. The occupation lasted almost ten months.
@@ -15,7 +15,7 @@ On 2 September the last Austro-Hungarian units left the city. The municipal auth
 
 ## The Russians march in
 
-On the morning of 3 September the first [Cossack](https://pl.wikipedia.org/wiki/Kozacy) patrols appeared in the streets of Lviv, followed soon afterwards by the leading cavalry units of the Russian 3rd Army of General [Nikolai Ruzsky](/postacie/nikolaj-ruzski). Delegations of the city council, Rutowski among them, went out to the city gates to agree the terms of the occupation with the Russian command. The Russians demanded hostages to guarantee order. They were chosen from representatives of all the main groups of inhabitants: Poles, Jews and Ukrainians.
+On the morning of 3 September the first [Cossack](/slownik/kozacy) patrols appeared in the streets of Lviv, followed soon afterwards by the leading cavalry units of the Russian 3rd Army of General [Nikolai Ruzsky](/postacie/nikolaj-ruzski). Delegations of the city council, Rutowski among them, went out to the city gates to agree the terms of the occupation with the Russian command. The Russians demanded hostages to guarantee order. They were chosen from representatives of all the main groups of inhabitants: Poles, Jews and Ukrainians.
 
 Colonel Sergei Sheremetev became commandant of the city. In a proclamation of 4 September he announced severe penalties for looting and assaults, banned the sale of alcohol and fixed a compulsory exchange rate of the Austrian crown against the rouble. Lviv received the occupiers in silence. In Russia the capture of the city was celebrated as a great victory, and Ruzsky became one of the best-known Russian commanders.
 

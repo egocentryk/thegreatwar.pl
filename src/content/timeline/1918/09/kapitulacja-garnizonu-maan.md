@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 września 1918 roku przy stacji Ziza na [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska), około 30 kilometrów na południe od Ammanu, poddało się kilka tysięcy tureckich żołnierzy, którzy przez ponad rok bronili [Ma’an](https://pl.wikipedia.org/wiki/Ma’an) przed arabskimi powstańcami. Skapitulowali przed garstką australijskich jeźdźców, ale tak naprawdę bali się kogo innego: setek, a według niektórych relacji tysięcy Beduinów, którzy krążyli wokół ich obozu, czekając na łup. Scena, w której Australijczycy i Turcy spędzili noc ramię w ramię w okopach, gotowi wspólnie odpierać Arabów, należy do najdziwniejszych epizodów kampanii palestyńskiej.
+29 września 1918 roku przy stacji Ziza na [Kolei Hidżaskiej](/slownik/kolej-hidzaska), około 30 kilometrów na południe od Ammanu, poddało się kilka tysięcy tureckich żołnierzy, którzy przez ponad rok bronili [Ma’an](https://pl.wikipedia.org/wiki/Ma’an) przed arabskimi powstańcami. Skapitulowali przed garstką australijskich jeźdźców, ale tak naprawdę bali się kogo innego: setek, a według niektórych relacji tysięcy Beduinów, którzy krążyli wokół ich obozu, czekając na łup. Scena, w której Australijczycy i Turcy spędzili noc ramię w ramię w okopach, gotowi wspólnie odpierać Arabów, należy do najdziwniejszych epizodów kampanii palestyńskiej.
 
 ## Odwrót z Ma’anu
 

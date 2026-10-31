@@ -11,7 +11,7 @@ sides:
     commanders: [Hans von Beseler]
 result: German victory. The fortress capitulated on 10 October, but Belgium's field army withdrew westwards and took up the defence on the Yser.
 source: oblezenie-antwerpii
-sourceHash: 8c1eaece906b452324cb03ee50dcebee450689c5
+sourceHash: 5f05e56b5f06de9684bf0456f3c6cd7536a45aa0
 brief:
   - "From 27 September to 10 October 1914 German troops under General Hans von Beseler besieged Antwerp, the national redoubt and last fortress of Belgium, where the Belgian army had taken refuge."
   - "After the retreat from the Marne the Germans saw the Belgian army in Antwerp as a threat. The outcome was to be decided by heavy artillery, including 420 mm and 305 mm mortars."
@@ -62,7 +62,7 @@ Belgium's field army escaped the trap. The Germans tried to cut off its route by
 
 ## Losses
 
-The exact losses of the defenders are not known. According to various sources the Germans took about 30,000 Belgian soldiers prisoner, mainly from the fortress garrison. Another 30,000–40,000 or so crossed the Dutch border and were [interned](https://pl.wikipedia.org/wiki/Internowanie) in the neutral Netherlands until the end of the war. According to British figures the Royal Naval Division lost several dozen killed and over a hundred wounded. Nearly 1,000 sailors were taken prisoner by the Germans, and about 1,500 were interned in the Netherlands, mainly in the camp at [Groningen](https://pl.wikipedia.org/wiki/Groningen), which they jokingly called "HMS Timbertown". German losses are not precisely known either.
+The exact losses of the defenders are not known. According to various sources the Germans took about 30,000 Belgian soldiers prisoner, mainly from the fortress garrison. Another 30,000–40,000 or so crossed the Dutch border and were [interned](/slownik/internowanie) in the neutral Netherlands until the end of the war. According to British figures the Royal Naval Division lost several dozen killed and over a hundred wounded. Nearly 1,000 sailors were taken prisoner by the Germans, and about 1,500 were interned in the Netherlands, mainly in the camp at [Groningen](https://pl.wikipedia.org/wiki/Groningen), which they jokingly called "HMS Timbertown". German losses are not precisely known either.
 
 The siege set off a huge wave of refugees. It is estimated that in 1914 about a million civilians left Belgium, fleeing to the Netherlands, Britain and France. Many inhabitants of Antwerp returned after a few weeks, but some remained in exile until the end of the war.
 

@@ -2,10 +2,10 @@
 title: Battle of the Masurian Lakes begins
 summary: At the beginning of September 1914 Hindenburg's German Eighth Army moved against Rennenkampf's Russian First Army. The Battle of the Masurian Lakes began.
 source: poczatek-bitwy-nad-jeziorami-mazurskimi
-sourceHash: 12f698e369e49af3ec30780a417bc45435aa9bd9
+sourceHash: 15009cd4f9ab4a718b3a3432144fae1d8f2fd769
 ---
 
-The British chronicle of the war gives 5 September 1914 as the start of the Battle of the Masurian Lakes. Less than a week after the [victory at Tannenberg](/bitwy/bitwa-pod-tannenbergiem), the German [Eighth Army](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) of General [Paul von Hindenburg](/postacie/paul-von-hindenburg) turned against the second Russian army that had entered [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie): the [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) of General [Paul von Rennenkampf](/postacie/paul-von-rennenkampf). The fighting took place on land that today belongs to Poland, around the lakes and isthmuses of [Masuria](https://pl.wikipedia.org/wiki/Mazury).
+The British chronicle of the war gives 5 September 1914 as the start of the Battle of the Masurian Lakes. Less than a week after the [victory at Tannenberg](/bitwy/bitwa-pod-tannenbergiem), the German [Eighth Army](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) of General [Paul von Hindenburg](/postacie/paul-von-hindenburg) turned against the second Russian army that had entered [East Prussia](/miejsca/prusy-wschodnie): the [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) of General [Paul von Rennenkampf](/postacie/paul-von-rennenkampf). The fighting took place on land that today belongs to Poland, around the lakes and isthmuses of [Masuria](https://pl.wikipedia.org/wiki/Mazury).
 
 ## Different dates
 

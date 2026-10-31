@@ -1,0 +1,184 @@
+{
+ "slug": "kolej-hidzaska",
+ "paragraphs": [
+  {
+   "start": "Kolej Hidżaska była osmańską linią kolejową z Damas",
+   "quotes": [
+    {
+     "url": "https://gulfif.org/traveling-through-history-on-the-forgotten-hejaz-railway/",
+     "quote": "The construction of the initial stage of the project from Damascus to Medina took eight years, from 1900 until 1908."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hejaz_railway",
+     "quote": "The main purpose of the railway was to establish a connection between Istanbul , the capital of the Ottoman Empire and the seat of the Islamic Caliphate , and Hejaz in Arabia , the site of the holiest shrines of Islam and Mecca, the destination of the Hajj annual pilgrimage. Other objectives were to improve the economic and political integration of the distant Arabian provinces into the Ottoman state, and to facilitate the transportation of military forces."
+    },
+    {
+     "file": "src/content/timeline/1917/01/arabowie-zdobywaja-al-wadzh.md",
+     "quote": "która zagroziłaby tyłom Turków w Medynie i ich jedynej linii zaopatrzenia, [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska)."
+    },
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "Od tej chwili głównym celem powstańców stała się Kolej Hidżaska."
+    }
+   ]
+  },
+  {
+   "start": "Budowę zarządził w 1900 roku sułtan Abdülhamid II, ",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Hejaz_railway",
+     "quote": "The project was ordered by Sultan Abdul Hamid II in March 1900."
+    },
+    {
+     "url": "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+     "quote": "The proposed railroad offered an opportunity to consolidate his own position as Caliph, leader of all Muslims: the new line would ensure a fast, cheap way for pilgrims to travel to Mecca."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hejaz_railway",
+     "quote": "Abdul Hamid II called on all Muslims in the world to make donations to the construction of the Hejaz Railway. Despite propaganda efforts such as railway greeting cards, only about 1 in 10 donations came from Muslims outside of the Ottoman Empire."
+    },
+    {
+     "url": "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+     "quote": "under the auspices of a German engineer, Heinrich Meissner, who drove the project for eight years."
+    },
+    {
+     "url": "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+     "quote": "The scarcity of water was the worst problem faced by the builders of the line, which followed old pilgrimage trails."
+    },
+    {
+     "url": "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+     "quote": "Cholera outbreaks were not unusual and caused widespread panic, with workers fleeing the camps, which delayed progress."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hejaz_railway",
+     "quote": "was a narrow-gauge railway ( 1,050 mm / 3 ft 5 + 11 ⁄ 32 in track gauge ) that ran from Damascus to Medina"
+    },
+    {
+     "url": "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+     "quote": "The rapid conclusion of the project was partly to ensure that the line’s opening coincided with the anniversary of the Sultan’s accession to the throne on September 1, 1908."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hejaz_railway",
+     "quote": "The completed Damascus to Medina section was 1,300 kilometres (810 mi) ."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hejaz_railway",
+     "quote": "Prior to the construction of the line, it took 40 days from Damascus to Medina."
+    }
+   ]
+  },
+  {
+   "start": "Kolej służyła też wojsku: ułatwiała przerzut oddzia",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/06/poczatek-powstania-arabskiego.md",
+     "quote": "Brytyjska historia oficjalna zwraca uwagę, że szarif sprzeciwiał się przedłużeniu [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska) z Medyny do Mekki, bo rozumiał, że kolej ułatwi Turkom zaopatrywanie i wzmacnianie garnizonów, a jego samego podda ściślejszej kontroli."
+    },
+    {
+     "file": "src/content/postacie/husajn-ibn-ali.md",
+     "quote": "sprzeciwiał się przedłużeniu [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska) z Medyny do Mekki, które dałoby Turkom stałą kontrolę nad prowincją"
+    },
+    {
+     "url": "https://gulfif.org/traveling-through-history-on-the-forgotten-hejaz-railway/",
+     "quote": "Unfortunately, the railway never made it to Mecca"
+    },
+    {
+     "file": "src/content/timeline/1916/07/arabowie-zajmuja-janbu.md",
+     "quote": "Znaczenie portu podupadło, gdy w 1908 roku do Medyny doszła z Damaszku [Kolej Hidżaska](https://pl.wikipedia.org/wiki/Kolej_Hidżaska). [Thomas Edward Lawrence](/postacie/thomas-edward-lawrence), który przyjechał do Janbu kilka miesięcy później, pisał, że od otwarcia kolei miasto było w połowie miastem umarłych"
+    }
+   ]
+  },
+  {
+   "start": "Gdy w czerwcu 1916 roku wybuchło powstanie, Arabowi",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/06/atak-na-medyne.md",
+     "quote": "6 czerwca 1916 roku, nazajutrz po [wybuchu powstania](/poczatek-powstania-arabskiego), arabskie oddziały emira [Fajsala](/postacie/fajsal-i) zaatakowały umocnienia [Medyny](https://pl.wikipedia.org/wiki/Medyna_(miasto))"
+    },
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "Beduini zrywali wcześniej szyny gołymi rękami, a Turcy w kilka godzin je naprawiali. Teraz brytyjscy i francuscy oficerowie nauczyli ich używać materiałów wybuchowych i sami prowadzili rajdy, wysadzając mosty, przepusty i pociągi."
+    },
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "Wojska w Medynie Turcy połączyli w Hidżaską Siłę Ekspedycyjną i dowieźli koleją posiłki"
+    },
+    {
+     "file": "src/content/battles/1918/pierwszy-rajd-na-amman.md",
+     "quote": "jedynej linii zaopatrującej tureckie garnizony na południu, aż po Medynę"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Arab_Revolt",
+     "quote": "[ 66 ] Starting in early 1917, the Hashemite guerrillas began attacking the Hejaz railway."
+    }
+   ]
+  },
+  {
+   "start": "Wiosną 1917 roku Lawrence uznał, że Medyny nie wart",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "Wiosną 1917 roku, chory w obozie Abd Allaha, Lawrence doszedł do wniosku, że zdobywanie Medyny nie ma sensu. Przykuty do miasta garnizon więcej Turkom szkodził, niż pomagał, a kolej należało utrzymywać przy życiu, ale ledwo działającą."
+    },
+    {
+     "url": "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+     "quote": "The strategy, an early use of guerrilla tactics, was not to close the line, but rather to tie up Turkish troops in its protection."
+    },
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "Jesienią 1917 roku Lawrence wysadzał pociągi pod Mudawwarą"
+    },
+    {
+     "file": "src/content/timeline/1918/01/poczatek-dzialan-o-at-tafile.md",
+     "quote": "12 stycznia 1918 roku, według jordańskich opracowań wojskowych, arabscy powstańcy szarifa Nasira zdobyli Dżurf ad-Darawisz, stację [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska) około 50 km na północ od [Ma’an](https://pl.wikipedia.org/wiki/Ma’an)."
+    }
+   ]
+  },
+  {
+   "start": "O kolej walczyli też Brytyjczycy. Wiosną 1918 roku ",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "Wiosną 1918 roku Allenby dwa razy uderzał za Jordan, na Amman i As-Salt, i dwa razy się wycofywał."
+    },
+    {
+     "file": "src/content/battles/1918/pierwszy-rajd-na-amman.md",
+     "quote": "zniszczyć pod [Ammanem](https://pl.wikipedia.org/wiki/Amman) wiadukt i tunel [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska)"
+    },
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "Szturm na samą stację Ma’an 17 kwietnia się nie powiódł, ale tor między Ma’an a Mudawwarą, ponad sto kilometrów z siedmioma stacjami, został zniszczony tak, że do końca wojny już go nie odbudowano. Medyna została ostatecznie odcięta od północy"
+    },
+    {
+     "file": "src/content/battles/1916/powstanie-arabskie.md",
+     "quote": "16 i 17 września Arabowie wysadzili most i odcinki toru na południe, północ i zachód od [Dary](https://pl.wikipedia.org/wiki/Dara_(Syria)), węzła, w którym linia palestyńska łączyła się z Koleją Hidżaską."
+    },
+    {
+     "file": "src/content/timeline/1918/09/zajecie-ammanu.md",
+     "quote": "Po południu 25 września 1918 roku australijscy i nowozelandzcy jeźdźcy z oddziału generała majora Edwarda Chaytora wpadli do [Ammanu](https://pl.wikipedia.org/wiki/Amman)."
+    },
+    {
+     "file": "src/content/timeline/1916/06/atak-na-medyne.md",
+     "quote": "Fahreddin bronił jej aż do stycznia 1919 roku"
+    }
+   ]
+  },
+  {
+   "start": "Po wojnie linię podzieliły między siebie Wielka Bry",
+   "quotes": [
+    {
+     "url": "https://warhistory.org/%40msw/article/the-hejaz-railway-2",
+     "quote": "Following the war, and the division of the Ottoman Empire into states under British or French control, the operation of the line was split between the two European colonial powers. The Allies and the retreating Turks had destroyed much of the southern section of the railroad, but several parts remained open for traffic. The best-used sections were freight services on the branch line between Damascus and Haifa and, until the start of the Syrian conflict, there was a passenger train from Damascus to Amman"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hejaz_railway",
+     "quote": "have led to massive and ongoing destruction of abandoned tracks and stations"
+    },
+    {
+     "url": "https://gulfif.org/traveling-through-history-on-the-forgotten-hejaz-railway/",
+     "quote": "However, due to technical reasons, the station in Medina stopped operating,"
+    }
+   ]
+  }
+ ]
+}

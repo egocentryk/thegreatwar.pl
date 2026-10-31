@@ -2,10 +2,10 @@
 title: Shelling of Dover
 summary: Just after midnight on 16 February 1918 a German submarine shelled Dover. 22 shells fell in three minutes, killing a girl of 13 and wounding 7 people.
 source: ostrzal-dover
-sourceHash: 9c0970f4f954df13ad010691fbf0a84a23abf8d9
+sourceHash: e00d83428095e00441c6c5a873c900ce2ea5dfc9
 ---
 
-Just after midnight on 16 February 1918 the inhabitants of [Dover](https://pl.wikipedia.org/wiki/Dover) were woken by gunfire from the sea. The bombardment lasted three minutes at most. According to the records of the Dover Museum, 22 shells fell on the town, of which sixteen or seventeen hit houses and other buildings, mostly in their unoccupied parts. One person was killed and seven were wounded. A British chronology of the war and the British government attributed the attack to a German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny).
+Just after midnight on 16 February 1918 the inhabitants of [Dover](/miejsca/dover) were woken by gunfire from the sea. The bombardment lasted three minutes at most. According to the records of the Dover Museum, 22 shells fell on the town, of which sixteen or seventeen hit houses and other buildings, mostly in their unoccupied parts. One person was killed and seven were wounded. A British chronology of the war and the British government attributed the attack to a German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny).
 
 The worst damage was to a house on Cowgate Hill, a steep little street below the Western Heights. Ellen Surrell lived there with four children from her first marriage, while her husband served as a stoker in the battleship *King George V*. Woken by the firing, the mother ran upstairs to the children's bedroom and had just picked up her youngest son when a shell pierced the wall of the house next door and exploded in the room. Thirteen-year-old Gertrude Boorman died soon after being taken to hospital. Her fifteen-year-old brother William was seriously wounded in the leg, which was later amputated, and the younger children, eleven-year-old Amelia and nine-year-old Sydney, suffered lighter wounds. A neighbour was also slightly wounded, and one of the shells hit the roof of the infirmary of the local workhouse. The damage was estimated at a little over a thousand pounds. On the girl's grave in St Mary's cemetery it was inscribed that she was killed by a bombardment from a German submarine.
 

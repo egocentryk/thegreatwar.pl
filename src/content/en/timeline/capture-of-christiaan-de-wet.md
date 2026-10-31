@@ -2,10 +2,10 @@
 title: Capture of Christiaan de Wet
 summary: On 1 December 1914 at Waterbury farm near Vryburg a government force surrounded and captured Gen. Christiaan de Wet, one of the leaders of the Boer rebellion.
 source: schwytanie-christiaana-de-weta
-sourceHash: e6e5382fdd2ca388464e3d2992f8512740ae66ee
+sourceHash: bb365eb6083bf08060152fee56feb6689f70dc9a
 ---
 
-On 1 December 1914 at Waterbury farm, near [Vryburg](https://pl.wikipedia.org/wiki/Vryburg) in the northern Cape Province, government troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) surrounded a small band of rebels. Its leader, General [Christiaan de Wet](https://pl.wikipedia.org/wiki/Christiaan_Rudolf_de_Wet), surrendered without a fight together with about fifty companions. Some sources give the date as 30 November, and one even as 2 December. The date most commonly accepted is 1 December.
+On 1 December 1914 at Waterbury farm, near [Vryburg](https://pl.wikipedia.org/wiki/Vryburg) in the northern Cape Province, government troops of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) surrounded a small band of rebels. Its leader, General [Christiaan de Wet](https://pl.wikipedia.org/wiki/Christiaan_Rudolf_de_Wet), surrendered without a fight together with about fifty companions. Some sources give the date as 30 November, and one even as 2 December. The date most commonly accepted is 1 December.
 
 ## A legend of the Boer War
 

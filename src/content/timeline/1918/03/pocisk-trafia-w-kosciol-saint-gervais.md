@@ -18,7 +18,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Paris_Gun"
 ---
 
-W [Wielki Piątek](https://pl.wikipedia.org/wiki/Wielki_Piątek) 29 marca 1918 roku, około 16.30, pocisk niemieckiego [działa paryskiego](https://pl.wikipedia.org/wiki/Działo_paryskie) trafił w dach [kościoła św. Gerwazego i Protazego](https://pl.wikipedia.org/wiki/Kościół_św._Gerwazego_i_Protazego_w_Paryżu), stojącego za paryskim ratuszem, kilkadziesiąt metrów od Sekwany. Świątynia była pełna wiernych, którzy właśnie kończyli popołudniowe nabożeństwo wielkopiątkowe. Wybuch obalił jeden z filarów, a wsparta na nim część kamiennego sklepienia runęła na klęczących ludzi. Zginęło około dziewięćdziesięciu osób, a kilkadziesiąt zostało rannych. Był to najtragiczniejszy pojedynczy strzał w całym ostrzale Paryża.
+W [Wielki Piątek](https://pl.wikipedia.org/wiki/Wielki_Piątek) 29 marca 1918 roku, około 16.30, pocisk niemieckiego [działa paryskiego](/slownik/dzialo-paryskie) trafił w dach [kościoła św. Gerwazego i Protazego](https://pl.wikipedia.org/wiki/Kościół_św._Gerwazego_i_Protazego_w_Paryżu), stojącego za paryskim ratuszem, kilkadziesiąt metrów od Sekwany. Świątynia była pełna wiernych, którzy właśnie kończyli popołudniowe nabożeństwo wielkopiątkowe. Wybuch obalił jeden z filarów, a wsparta na nim część kamiennego sklepienia runęła na klęczących ludzi. Zginęło około dziewięćdziesięciu osób, a kilkadziesiąt zostało rannych. Był to najtragiczniejszy pojedynczy strzał w całym ostrzale Paryża.
 
 ## Cisza przed Wielkim Piątkiem
 

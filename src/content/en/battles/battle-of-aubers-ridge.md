@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Eberhard von Claer]
 result: German victory. The British and Indians held on to no part of the German trenches, and in a single day lost more than 11,600 killed, wounded and missing.
 source: bitwa-o-grzbiet-aubers
-sourceHash: c0cb010c6fe826b8ce4f9ca6b8590ceed293826e
+sourceHash: 586749a2c3ab79332fbfa2076488b0b69cc1f5d6
 brief:
   - "On 9 May 1915 General Douglas Haig's British First Army attacked Aubers Ridge to support the French offensive in Artois. The battle lasted one day."
   - "Haig wanted to repeat the Neuve-Chapelle method: two attacking groups and a short, forty-minute bombardment. The Germans, however, had learned from March and strengthened their breastworks, wire and machine-gun posts."
@@ -36,7 +36,7 @@ The preparations were disrupted by the [Second Battle of Ypres](/bitwy/druga-bit
 
 Haig wanted to repeat the Neuve-Chapelle method, but on a larger scale. Two groups were to attack on the flat, waterlogged plain, about 5.5 kilometres apart. In the south, by the road known as the Rue du Bois, on a frontage about 2.2 kilometres wide, the 1st Division of General Charles Monro's I Corps and the Indian Meerut Division of General James Willcocks's Indian Corps were to advance. In the north, astride the road from Sailly to Fromelles, towards the hamlet of Rouges Bancs, the 8th Division of General [Henry Rawlinson's](/postacie/henry-rawlinson) IV Corps was to attack, followed by the 7th Division. The two groups were to meet on the ridge near La Cliqueterie Farm, cut off the German troops around Aubers and push on towards the road from La Bassée to Lille.
 
-The British chose a short, violent bombardment intended to ensure surprise. It lasted only 40 minutes, the last ten of which were the heaviest. This came partly from the belief that the method had worked at Neuve-Chapelle and partly from a lack of heavy guns and ammunition. According to the official history the First Army had 516 field and light guns and 121 heavy ones, but many of them were obsolete, and most of the field-gun ammunition was [shrapnel](https://pl.wikipedia.org/wiki/Szrapnel), of little use against defences. On the 1st Division's front fewer howitzers per metre of front were assigned to destroying the German breastworks than at Neuve-Chapelle. The French, meanwhile, had been shelling the German positions in Artois for several days.
+The British chose a short, violent bombardment intended to ensure surprise. It lasted only 40 minutes, the last ten of which were the heaviest. This came partly from the belief that the method had worked at Neuve-Chapelle and partly from a lack of heavy guns and ammunition. According to the official history the First Army had 516 field and light guns and 121 heavy ones, but many of them were obsolete, and most of the field-gun ammunition was [shrapnel](/slownik/szrapnel), of little use against defences. On the 1st Division's front fewer howitzers per metre of front were assigned to destroying the German breastworks than at Neuve-Chapelle. The French, meanwhile, had been shelling the German positions in Artois for several days.
 
 ## German defences
 

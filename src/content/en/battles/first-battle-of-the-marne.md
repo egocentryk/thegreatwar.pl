@@ -11,7 +11,7 @@ sides:
     commanders: [Helmuth von Moltke, Alexander von Kluck, Karl von Bülow]
 result: Strategic victory for France and the United Kingdom. The Germans withdrew to the Aisne and the plan for a quick defeat of France collapsed.
 source: pierwsza-bitwa-nad-marna
-sourceHash: b9c57475b4bcea9eee27e6c7cad2699c84a78943
+sourceHash: 852ec57703d2b2dcb6ec9cef05bee259c3ffc9b3
 brief:
   - "The First Battle of the Marne, fought on 6–12 September 1914 on a front from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. Nearly two million soldiers fought in it."
   - "After two weeks of Allied retreat General Kluck turned to pass east of Paris and exposed his flank. General Joffre ordered a general counter-offensive, and Maunoury's Sixth Army struck on the Ourcq."
@@ -82,4 +82,4 @@ The French called the battle the "Miracle of the Marne". A few days earlier it h
 
 The defeat broke Moltke. On 14 September his duties were taken over by the Minister of War, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), although the change was announced to the public only several weeks later. Joffre became a national hero, and the disputes over who deserved the credit for the victory, he or Gallieni, went on long after the war.
 
-The Battle of the Marne ended the period of [manoeuvre warfare](https://pl.wikipedia.org/wiki/Wojna_manewrowa) in the west. Once the Germans had dug in on the Aisne, both sides tried to outflank each other to the north until the front reached the North Sea. By the end of 1914 an unbroken line of trenches stretched from the Belgian coast to the Swiss border. [Trench warfare](https://pl.wikipedia.org/wiki/Wojna_pozycyjna) had begun, and it was to last almost four years.
+The Battle of the Marne ended the period of [manoeuvre warfare](https://pl.wikipedia.org/wiki/Wojna_manewrowa) in the west. Once the Germans had dug in on the Aisne, both sides tried to outflank each other to the north until the front reached the North Sea. By the end of 1914 an unbroken line of trenches stretched from the Belgian coast to the Swiss border. [Trench warfare](/slownik/wojna-pozycyjna) had begun, and it was to last almost four years.

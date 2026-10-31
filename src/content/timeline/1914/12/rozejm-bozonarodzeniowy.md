@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W Wigilię i w pierwszy dzień Bożego Narodzenia 1914 roku na wielu odcinkach frontu zachodniego ucichły karabiny. Bez rozkazu, a często wbrew rozkazom, żołnierze niemieccy i brytyjscy wychodzili z okopów, spotykali się na [ziemi niczyjej](https://pl.wikipedia.org/wiki/Ziemia_niczyja), ściskali sobie dłonie, wymieniali papierosy, jedzenie i pamiątki, a przede wszystkim grzebali poległych, którzy od tygodni leżeli między liniami. Ten [rozejm bożonarodzeniowy](https://pl.wikipedia.org/wiki/Rozejm_bożonarodzeniowy) nie był jednym wydarzeniem, lecz serią lokalnych, nieuzgodnionych zawieszeń broni. Na jednych odcinkach trwał kilka godzin, na innych do drugiego dnia świąt, a gdzieniegdzie do Nowego Roku. W wielu miejscach walczono przez całe święta.
+W Wigilię i w pierwszy dzień Bożego Narodzenia 1914 roku na wielu odcinkach frontu zachodniego ucichły karabiny. Bez rozkazu, a często wbrew rozkazom, żołnierze niemieccy i brytyjscy wychodzili z okopów, spotykali się na [ziemi niczyjej](/slownik/ziemia-niczyja), ściskali sobie dłonie, wymieniali papierosy, jedzenie i pamiątki, a przede wszystkim grzebali poległych, którzy od tygodni leżeli między liniami. Ten [rozejm bożonarodzeniowy](https://pl.wikipedia.org/wiki/Rozejm_bożonarodzeniowy) nie był jednym wydarzeniem, lecz serią lokalnych, nieuzgodnionych zawieszeń broni. Na jednych odcinkach trwał kilka godzin, na innych do drugiego dnia świąt, a gdzieniegdzie do Nowego Roku. W wielu miejscach walczono przez całe święta.
 
 ## Przed świętami
 

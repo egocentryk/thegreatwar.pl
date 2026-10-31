@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Küstrin (Prussia, now Kostrzyn in Poland)
 deathPlace: Ebenhausen near Munich
 source: alfred-von-tirpitz
-sourceHash: df0d502f86ac81021ea675bf2ede9de979d3ad6d
+sourceHash: 282d317902299beb57db3e623518dd3a72fda63f
 ---
 
 For almost twenty years Alfred von Tirpitz headed the Imperial Naval Office and built the second-largest navy in the world. His battleship programme was meant to force Britain to reckon with Germany, but in reality it pushed Britain towards an understanding with France and Russia. When war broke out, it turned out that his fleet could not threaten the Royal Navy's command of the sea. Tirpitz, who as an official did not command any ships, then became the loudest advocate of ruthless submarine warfare. In March 1916 he lost this dispute with the chancellor and left office, and a year later he became leader of the nationalist German Fatherland Party, which fought against a compromise peace.
@@ -47,7 +47,7 @@ Tirpitz never returned to service, but he did not withdraw from politics. He dem
 
 ## After the war
 
-After the outbreak of the [November Revolution](https://pl.wikipedia.org/wiki/Rewolucja_listopadowa) Tirpitz hid for a time in Pomerania and finished his memoirs, published in 1919. In them he defended his policy and blamed the chancellor, the emperor and the fleet commanders for the defeat at sea. Later he published a collection of documents on the "policy of impotence" during the war. From 1924 to 1928 he sat in the Reichstag for the [German National People's Party](https://pl.wikipedia.org/wiki/Niemiecka_Narodowa_Partia_Ludowa). He hoped for the chancellorship but did not get it. In 1925 he was among those who persuaded Hindenburg to stand for President of the Reich. He died on 6 March 1930 in Ebenhausen, in the municipality of [Schäftlarn](https://pl.wikipedia.org/wiki/Schäftlarn) near Munich. His son-in-law was the diplomat [Ulrich von Hassell](https://pl.wikipedia.org/wiki/Ulrich_von_Hassell), executed in 1944 for his part in the plot against Hitler.
+After the outbreak of the [November Revolution](/slownik/rewolucja-listopadowa) Tirpitz hid for a time in Pomerania and finished his memoirs, published in 1919. In them he defended his policy and blamed the chancellor, the emperor and the fleet commanders for the defeat at sea. Later he published a collection of documents on the "policy of impotence" during the war. From 1924 to 1928 he sat in the Reichstag for the [German National People's Party](https://pl.wikipedia.org/wiki/Niemiecka_Narodowa_Partia_Ludowa). He hoped for the chancellorship but did not get it. In 1925 he was among those who persuaded Hindenburg to stand for President of the Reich. He died on 6 March 1930 in Ebenhausen, in the municipality of [Schäftlarn](https://pl.wikipedia.org/wiki/Schäftlarn) near Munich. His son-in-law was the diplomat [Ulrich von Hassell](https://pl.wikipedia.org/wiki/Ulrich_von_Hassell), executed in 1944 for his part in the plot against Hitler.
 
 ## Assessment
 

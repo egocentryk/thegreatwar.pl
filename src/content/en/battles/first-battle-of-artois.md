@@ -9,10 +9,10 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Erich von Falkenhayn]
 result: Inconclusive. The French held Arras, but the Germans took Lens, Vimy Ridge and Lorette. The fighting moved north, to La Bassée and Flanders.
 source: pierwsza-bitwa-w-artois
-sourceHash: 976c48a9d66b782e71e495f1e691a4878317039a
+sourceHash: 9a2f3e2f69483c26c2a1bbb63806a35d1b7b2cf5
 ---
 
-The First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) was another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza), the series of attempts to outflank the enemy's wing that in the autumn of 1914 pushed the Western Front ever further north. It was fought on 27 September – 12 October 1914 around [Arras](/miejsca/arras), [Lens](https://pl.wikipedia.org/wiki/Lens) and the hills north of the town. Instead of outflanking the Germans, the French group of General Louis de Maud'huy, which became the Tenth Army during the battle, had to defend itself against an attack by the German Sixth Army. Arras remained in French hands, but the Germans took Lens and the heights of Vimy and Lorette, from which they dominated the surrounding area for years to come.
+The First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) was another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza), the series of attempts to outflank the enemy's wing that in the autumn of 1914 pushed the Western Front ever further north. It was fought on 27 September – 12 October 1914 around [Arras](/miejsca/arras), [Lens](/miejsca/lens) and the hills north of the town. Instead of outflanking the Germans, the French group of General Louis de Maud'huy, which became the Tenth Army during the battle, had to defend itself against an attack by the German Sixth Army. Arras remained in French hands, but the Germans took Lens and the heights of Vimy and Lorette, from which they dominated the surrounding area for years to come.
 
 ## Name and dates of the battle
 

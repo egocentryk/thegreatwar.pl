@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W niedzielę 2 września 1917 roku, o 23.05, nad [Dover](https://pl.wikipedia.org/wiki/Dover) pojawiły się nisko lecące niemieckie samoloty. Zrzuciły bomby i zniknęły, zanim reflektory i działa przeciwlotnicze zdążyły podjąć działanie. Miasto nie dostało żadnego ostrzeżenia. Brytyjska historia oficjalna wojny powietrznej H. A. Jonesa uznaje ten krótki atak za początek niemieckiej „kampanii księżycowej”, czyli nocnych nalotów samolotów na Anglię, które zastąpiły zarzucone po [22 sierpnia](/ostatni-dzienny-nalot-na-anglie) wyprawy dzienne.
+W niedzielę 2 września 1917 roku, o 23.05, nad [Dover](/miejsca/dover) pojawiły się nisko lecące niemieckie samoloty. Zrzuciły bomby i zniknęły, zanim reflektory i działa przeciwlotnicze zdążyły podjąć działanie. Miasto nie dostało żadnego ostrzeżenia. Brytyjska historia oficjalna wojny powietrznej H. A. Jonesa uznaje ten krótki atak za początek niemieckiej „kampanii księżycowej”, czyli nocnych nalotów samolotów na Anglię, które zastąpiły zarzucone po [22 sierpnia](/ostatni-dzienny-nalot-na-anglie) wyprawy dzienne.
 
 ## Uboczny cel
 

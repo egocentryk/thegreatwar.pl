@@ -22,7 +22,7 @@ brief:
 
 Latem 1918 roku władza bolszewików wisiała na włosku. Na wschodzie [Korpus Czechosłowacki](/bunt-legionu-czechoslowackiego) i oddziały samarskiego [Komuczu](https://pl.wikipedia.org/wiki/Komucz) parły wzdłuż Wołgi, a na początku sierpnia [zajęły Kazań](/czechoslowacy-zajmuja-kazan) z rezerwą złota państwa. Na północy alianci [wylądowali w Archangielsku](/alianci-w-archangielsku). W samej Moskwie i Piotrogrodzie konspirowali oficerowie, eserowcy i agenci wywiadów Ententy. W czerwcu w Piotrogrodzie zginął z ręki eserowskiego zamachowca komisarz do spraw prasy W. Wołodarski, a 6 lipca lewicowi eserowcy [zabili posła Niemiec Mirbacha](/zabojstwo-mirbacha). Represje już trwały: Czeka, [powołana w grudniu 1917 roku](/powolanie-czeka), rozstrzeliwała coraz więcej ludzi, często bez sądu.
 
-Socjaliści-rewolucjoniści, którzy wygrali wybory do [Zgromadzenia Ustawodawczego](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze), nie wybaczyli Leninowi jego [rozpędzenia w styczniu](/rozpedzenie-konstytuanty). Część [Partii Socjalistów-Rewolucjonistów](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów) wróciła do metod, które przed rewolucją stosowała wobec carskich dygnitarzy.
+Socjaliści-rewolucjoniści, którzy wygrali wybory do [Zgromadzenia Ustawodawczego](/slownik/konstytuanta), nie wybaczyli Leninowi jego [rozpędzenia w styczniu](/rozpedzenie-konstytuanty). Część [Partii Socjalistów-Rewolucjonistów](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów) wróciła do metod, które przed rewolucją stosowała wobec carskich dygnitarzy.
 
 ## Strzał w Piotrogrodzie
 

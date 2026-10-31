@@ -54,7 +54,7 @@ Wiosną 1916 roku, po [storpedowaniu statku Sussex](/storpedowanie-statku-sussex
 
 ## Po wojnie
 
-Jagow nie wrócił już do wielkiej polityki. Według Gerarda po dymisji objął kierownictwo szpitala w [Lipawie](https://pl.wikipedia.org/wiki/Lipawa) na okupowanych ziemiach rosyjskich. Został członkiem pruskiej [Izby Panów](https://pl.wikipedia.org/wiki/Izba_Panów_(Prusy)). Po wojnie zabrał głos w sporze o odpowiedzialność za jej wybuch. W książce „Ursachen und Ausbruch des Weltkrieges” (1919) bronił polityki niemieckiej z lata 1914 roku, a w pracy „England und der Kriegsausbruch” (1925) przerzucał część winy na Wielką Brytanię. Pisał także artykuły do niemieckich czasopism politycznych. Zmarł 11 stycznia 1935 roku w [Poczdamie](https://pl.wikipedia.org/wiki/Poczdam).
+Jagow nie wrócił już do wielkiej polityki. Według Gerarda po dymisji objął kierownictwo szpitala w [Lipawie](/miejsca/lipawa) na okupowanych ziemiach rosyjskich. Został członkiem pruskiej [Izby Panów](https://pl.wikipedia.org/wiki/Izba_Panów_(Prusy)). Po wojnie zabrał głos w sporze o odpowiedzialność za jej wybuch. W książce „Ursachen und Ausbruch des Weltkrieges” (1919) bronił polityki niemieckiej z lata 1914 roku, a w pracy „England und der Kriegsausbruch” (1925) przerzucał część winy na Wielką Brytanię. Pisał także artykuły do niemieckich czasopism politycznych. Zmarł 11 stycznia 1935 roku w [Poczdamie](https://pl.wikipedia.org/wiki/Poczdam).
 
 ## Ocena
 

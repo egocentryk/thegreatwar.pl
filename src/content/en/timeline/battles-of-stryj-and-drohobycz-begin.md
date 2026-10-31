@@ -2,7 +2,7 @@
 title: Battles of Stryj and Drohobycz begin
 summary: In mid-May 1915 the South Army came down from the Carpathians to Stryj and Drohobycz. The Russians stood there on a new line and repulsed attack after attack.
 source: poczatek-bitew-pod-stryjem-i-drohobyczem
-sourceHash: a1e643ebff49d4c79fecb76453dde8c46091377c
+sourceHash: 8ca0340c280f06fe955ef2c4c8d29d20adfcb389
 ---
 
 The British chronology of the war records under 18 May 1915 the beginning of the battles of Stryj and Drohobycz. Behind this lies the fighting of the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen), which after the breakthrough at Gorlice came down from the Carpathians into the foothills and ran into a new Russian defensive line in front of [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)), [Dolina](https://pl.wikipedia.org/wiki/Dolina_(miasto)) and [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz). According to the Austrian official history, the first attacks on this line began as early as 16 May, and 18 May was the third day of attacks that brought no decision.
@@ -15,7 +15,7 @@ On the same day the German corps of General Felix von Bothmer approached Stryj, 
 
 ## The new Russian line
 
-The reports of 15 May left no doubt that the Russians had halted their retreat. Their [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) under General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow), the same army that had besieged Przemyśl in the winter and moved into the Carpathians in the spring, dug in on a line running from the area of Perehińsko through the approaches to Dolina and Stryj to the hills east and north of Drohobycz. Further west, beyond the marshes of the Wielkie Błoto, stretched the positions of the Russian Eighth Army, which covered the approaches to Przemyśl and Lviv.
+The reports of 15 May left no doubt that the Russians had halted their retreat. Their [Eleventh Army](/sily-zbrojne/11-armia-rosyjska) under General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow), the same army that had besieged Przemyśl in the winter and moved into the Carpathians in the spring, dug in on a line running from the area of Perehińsko through the approaches to Dolina and Stryj to the hills east and north of Drohobycz. Further west, beyond the marshes of the Wielkie Błoto, stretched the positions of the Russian Eighth Army, which covered the approaches to Przemyśl and Lviv.
 
 The stakes were high. Stryj was an important railway junction, through which ran the line from Hungary across the Carpathians to Lviv. The area of Drohobycz and Borysław was the most important oil field in Galicia and in the whole Habsburg monarchy. For the Russians, holding this line meant covering the flank of the armies fighting on the San and in front of Przemyśl.
 

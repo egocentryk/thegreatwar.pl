@@ -2,7 +2,7 @@
 title: Dimitrios Gounaris becomes prime minister of Greece
 summary: On 9 March 1915 King Constantine I appointed Dimitrios Gounaris prime minister of Greece. He was an opponent of Venizelos and a supporter of neutrality.
 source: dimitrios-gunaris-premierem-grecji
-sourceHash: 509c5d17163998f3d4412aebf28d3b1c40a9e7ef
+sourceHash: 95609e9eef58059d1915c78e18ee0caf8b964a21
 ---
 
 On 9 March 1915 King [Constantine I](/postacie/konstantyn-i) of Greece entrusted the office of prime minister to [Dimitrios Gounaris](/postacie/dimitrios-gunaris). The new government was sworn in on 10 March, that is 25 February according to the Julian calendar then used in Greece. This date appears in Greek lists as the start of his term. Three days earlier [Eleftherios Venizelos had resigned](/dymisja-wenizelosa) when the King rejected his plan for Greek participation in the Dardanelles operation.
@@ -19,4 +19,4 @@ The government announced that it would continue the policy adopted at the start 
 
 ## A short government
 
-The elections were held only on 13 June 1915, because electoral lists had to be prepared in the new provinces. Venizelos's Liberals won them decisively. The King's serious illness, however, delayed the convening of parliament, and Gounaris remained in power until August, when Venizelos again became prime minister. The dispute between the King's supporters and the Venizelists grew into the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa), and Gounaris became one of the leaders of the royalist camp. After the war, in 1921–1922, he once more headed the government. After Greece's defeat in the war with Turkey he was charged with high treason, sentenced to death and shot on 28 November 1922.
+The elections were held only on 13 June 1915, because electoral lists had to be prepared in the new provinces. Venizelos's Liberals won them decisively. The King's serious illness, however, delayed the convening of parliament, and Gounaris remained in power until August, when Venizelos again became prime minister. The dispute between the King's supporters and the Venizelists grew into the [National Schism](/slownik/schizma-narodowa), and Gounaris became one of the leaders of the royalist camp. After the war, in 1921–1922, he once more headed the government. After Greece's defeat in the war with Turkey he was charged with high treason, sentenced to death and shot on 28 November 1922.

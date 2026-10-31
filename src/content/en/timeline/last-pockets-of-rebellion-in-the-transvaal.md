@@ -2,10 +2,10 @@
 title: Last pockets of rebellion in the Transvaal
 summary: A British chronology records the capture of the last rebels in the Transvaal on 11 January 1915. The details of this event could not be confirmed.
 source: ostatnie-ogniska-rebelii-w-transwalu
-sourceHash: 64f47f7a9de942d8447fa92b0c311d29719e9523
+sourceHash: c2a82da89631d1cf0944389af78a3cced222b2c0
 ---
 
-A British chronology of the war records under 11 January 1915 the capture of the last rebels in the [Transvaal](https://pl.wikipedia.org/wiki/Transwal_(prowincja)), the northern province of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The entry does not say who was captured or where. We have not found this event in the official South African history of the war of 1924, in the government report on the rebellion or in more recent studies. Most probably it refers to the rounding up of the last small groups of rebels who were still in hiding after the collapse of the rising.
+A British chronology of the war records under 11 January 1915 the capture of the last rebels in the [Transvaal](https://pl.wikipedia.org/wiki/Transwal_(prowincja)), the northern province of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki). The entry does not say who was captured or where. We have not found this event in the official South African history of the war of 1924, in the government report on the rebellion or in more recent studies. Most probably it refers to the rounding up of the last small groups of rebels who were still in hiding after the collapse of the rising.
 
 ## The rebellion in the Transvaal
 

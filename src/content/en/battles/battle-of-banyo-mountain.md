@@ -9,7 +9,7 @@ sides:
     commanders: [Adolf Schipper]
 result: British victory. The Nigerians took the summit, and most of the German garrison were killed, wounded or captured while trying to break out.
 source: bitwa-o-gore-banyo
-sourceHash: 0382cc410932f91e502023619783d9c94fbaa9d6
+sourceHash: 7b84520c2c928c3f0f60621100661e11206b5b46
 ---
 
 The Battle of Banyo Mountain was the hardest fighting of the autumn offensive by British troops from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) in the northern part of [German Kamerun](/miejsca/kamerun). The Germans had turned a solitary, steep mountain near the town of [Banyo](https://pl.wikipedia.org/wiki/Banyo) into a fortress meant to hold out until the end of the war, just as the garrison on the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) had held out for more than a year. General Frederick Cunliffe attacked it on 4 November 1915 with four companies of Nigerian infantry. After two days of climbing from boulder to boulder, under fire and amid exploding dynamite charges, his soldiers stood on the summit at dawn on 6 November. The fall of Banyo opened the way south for the British, towards [Jaunde](https://pl.wikipedia.org/wiki/Jaunde).
@@ -30,7 +30,7 @@ Cunliffe was nevertheless disappointed. The Germans did not accept battle near t
 
 Banyo Mountain rises alone about 1,200 feet (nearly 370 m) above the hilly surrounding country. Its steep slopes were covered with huge boulders, which the Germans had linked with low stone walls. According to the British official history there were about three hundred such shelters (sangars), and small redoubts stood on all the projecting points. On the summit cement tanks had been built for water from the springs, along with brick houses for the Europeans with cement floors and glazed windows, furnished with heavy furniture from the settlement. About 40 tons of grain, more than two hundred head of cattle, hundreds of chickens and farming tools had been gathered so that the flat summit could be cultivated. The mountain was to be the rallying point for the garrisons of Banyo, Bamenda and Dschang, and the Germans in this part of the colony were convinced that they would hold it until the end of the war.
 
-The garrison was commanded by Captain Adolf Schipper, a colonial official before the war, head of the Ossidinge district, who had returned to the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) during the war. According to the British official history there were about 23 Germans and 200 African soldiers on the mountain.
+The garrison was commanded by Captain Adolf Schipper, a colonial official before the war, head of the Ossidinge district, who had returned to the [Schutztruppe](/slownik/schutztruppe) during the war. According to the British official history there were about 23 Germans and 200 African soldiers on the mountain.
 
 ## Course of the battle
 

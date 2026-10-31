@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Breslau (Prussia)
 deathPlace: Naples
 source: max-von-gallwitz
-sourceHash: 38d764a92e2ede460316c852e13d92980118965c
+sourceHash: 33327fa35f7b88a5b701683cf060853269db3bfe
 ---
 
 Max von Gallwitz was one of the few German generals who commanded large formations in the First World War on all of Germany's main fronts: in Belgium, in East Prussia and in Poland, in Serbia, on the Somme, at Verdun and finally against the Americans. An artilleryman by profession, in August 1914 he took the Belgian fortress of Namur with heavy guns. In July 1915 his army group broke through the Russian front at Przasnysz and on the Narew, which contributed to the Russians' loss of Warsaw and the whole of Congress Poland. In the autumn of that year he led a German army across the Danube into Serbia. From 1916 he fought in the west, and in 1918 his army group bore the first great American offensives at Saint-Mihiel and in the Argonne.
@@ -49,7 +49,7 @@ Two weeks later the Americans of General [John Pershing](/postacie/john-pershing
 
 ## After the war
 
-After the armistice he led his troops back to Germany and in December 1918 left the army. He went into politics. From 1920 to 1924 he was a member of the Reichstag for the [German National People's Party](https://pl.wikipedia.org/wiki/Niemiecka_Narodowa_Partia_Ludowa), fought the Treaty of Versailles and repeated the slogan of an army "undefeated in the field", which helped to spread the [stab-in-the-back myth](https://pl.wikipedia.org/wiki/Legenda_o_ciosie_w_plecy). In 1931 he took part in the founding meeting of the [Harzburg Front](https://pl.wikipedia.org/wiki/Front_harzburski), an alliance of the nationalist right with the NSDAP. He published two volumes of memoirs: on the years 1914–1916 and on the fighting in the west in 1916–1918. He died on 18 April 1937 in [Naples](https://pl.wikipedia.org/wiki/Neapol), during a holiday trip to Italy. He was buried in Freiburg im Breisgau.
+After the armistice he led his troops back to Germany and in December 1918 left the army. He went into politics. From 1920 to 1924 he was a member of the Reichstag for the [German National People's Party](https://pl.wikipedia.org/wiki/Niemiecka_Narodowa_Partia_Ludowa), fought the Treaty of Versailles and repeated the slogan of an army "undefeated in the field", which helped to spread the [stab-in-the-back myth](/slownik/legenda-o-ciosie-w-plecy). In 1931 he took part in the founding meeting of the [Harzburg Front](https://pl.wikipedia.org/wiki/Front_harzburski), an alliance of the nationalist right with the NSDAP. He published two volumes of memoirs: on the years 1914–1916 and on the fighting in the west in 1916–1918. He died on 18 April 1937 in [Naples](https://pl.wikipedia.org/wiki/Neapol), during a holiday trip to Italy. He was buried in Freiburg im Breisgau.
 
 ## Assessment
 

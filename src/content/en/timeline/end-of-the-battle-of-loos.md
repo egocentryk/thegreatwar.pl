@@ -2,10 +2,10 @@
 title: End of the Battle of Loos
 summary: On 8 October 1915 the Germans tried to retake Loos and their lost trenches. The Allies repulsed them, and British nomenclature ends the battle that day.
 source: koniec-bitwy-pod-loos
-sourceHash: b5b787abb347a3583c3d47f985e263119ce95ba3
+sourceHash: 6e6a1ad286014efa41bc7f2480e48aea04b6713e
 ---
 
-On the afternoon of 8 October 1915 the Germans launched their last major attack in the Battle of [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle). They wanted to recover the village and the trenches they had lost on [25 September](/poczatek-bitwy-pod-loos), the first day of the British offensive. They attacked on the sector from the Double Crassier slag heaps near [Lens](https://pl.wikipedia.org/wiki/Lens) to the La Bassée Canal, but were everywhere repulsed with heavy losses. The Battles Nomenclature Committee set up in Britain after the war ends the Battle of Loos on this day. It named the further fighting, for the Hohenzollern Redoubt, separately. James Edmonds's British official history did not accept this division and regarded the October attacks as a continuation of the same battle.
+On the afternoon of 8 October 1915 the Germans launched their last major attack in the Battle of [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle). They wanted to recover the village and the trenches they had lost on [25 September](/poczatek-bitwy-pod-loos), the first day of the British offensive. They attacked on the sector from the Double Crassier slag heaps near [Lens](/miejsca/lens) to the La Bassée Canal, but were everywhere repulsed with heavy losses. The Battles Nomenclature Committee set up in Britain after the war ends the Battle of Loos on this day. It named the further fighting, for the Hohenzollern Redoubt, separately. James Edmonds's British official history did not accept this division and regarded the October attacks as a continuation of the same battle.
 
 ## Preparations
 

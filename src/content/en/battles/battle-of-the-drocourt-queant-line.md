@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: Canadian–British victory. The Drocourt–Quéant Line was broken along the whole sector attacked, and on the night of 2/3 September the Germans withdrew behind the Sensée and the Canal du Nord. The Canadian Corps took about 6,000 prisoners and lost over 5,600 men.
 source: bitwa-o-linie-drocourt-queant
-sourceHash: 510dc448d25329d5b0c1a28323858529a5738804
+sourceHash: 4762fdae53cb3da668f1a22ed4972f485b683b9f
 brief:
   - "On 2–3 September 1918 General Arthur Currie's Canadian Corps of the British First Army broke the Drocourt–Quéant Line east of Arras, the northern extension of the Hindenburg Line, called by the Germans the Wotan position."
   - "After a week on the Scarpe Horne and Currie decided to attack only when everything was ready. Currie chose the line's most sensitive point, on both sides of the Arras–Cambrai road, with Mark V tanks and strong artillery."
@@ -24,7 +24,7 @@ The Battle of the Drocourt–Quéant Line was the assault in which, on 2 Septemb
 
 The name "Battle of the Drocourt–Quéant Line" and the dates 2–3 September 1918 were fixed after the war by the British Battles Nomenclature Committee. The battle closes the group of the "Second Battles of Arras 1918" (26 August – 3 September), which also includes the Battle of the Scarpe of 26–30 August. The British chronology of the war dates it the same way. The actual assault lasted one day, 2 September; by 3 September the Germans had already withdrawn and the fighting was limited to the pursuit to the Canal du Nord. The main sources for this page are the British official history (James Edmonds, *Military Operations France and Belgium 1918*, vol. IV) and the Canadian official history (G. W. L. Nicholson, *Canadian Expeditionary Force 1914–1919*).
 
-The line takes its name from two places at its ends: the mining town of [Drocourt](https://pl.wikipedia.org/wiki/Drocourt_(Pas-de-Calais)) south-east of [Lens](https://pl.wikipedia.org/wiki/Lens) and the village of [Quéant](https://pl.wikipedia.org/wiki/Quéant), where it joined the Hindenburg Line. The Germans called it the Wotan position (*Wotan-Stellung*). Edmonds notes that although it was spoken of as a "line", it was in reality a position made up of several lines.
+The line takes its name from two places at its ends: the mining town of [Drocourt](https://pl.wikipedia.org/wiki/Drocourt_(Pas-de-Calais)) south-east of [Lens](/miejsca/lens) and the village of [Quéant](https://pl.wikipedia.org/wiki/Quéant), where it joined the Hindenburg Line. The Germans called it the Wotan position (*Wotan-Stellung*). Edmonds notes that although it was spoken of as a "line", it was in reality a position made up of several lines.
 
 ## Background
 

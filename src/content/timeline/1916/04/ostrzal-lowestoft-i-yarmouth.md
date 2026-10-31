@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Krótko po czwartej rano 25 kwietnia 1916 roku mieszkańców [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), portu rybackiego na wybrzeżu hrabstwa [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), obudził huk ciężkich dział. Z morza, z odległości około 10–13 kilometrów, strzelały cztery niemieckie [krążowniki liniowe](https://pl.wikipedia.org/wiki/Krążownik_liniowy) kontradmirała Friedricha Bödickera. Był to pierwszy od grudnia 1914 roku ostrzał angielskiego miasta przez ciężkie okręty niemieckie. Dzień wcześniej w Dublinie [wybuchło powstanie](/wybuch-powstania-wielkanocnego), a wielu historyków uważa, że Niemcy zaplanowali swój wypad tak, by zbiegł się z jego początkiem.
+Krótko po czwartej rano 25 kwietnia 1916 roku mieszkańców [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), portu rybackiego na wybrzeżu hrabstwa [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), obudził huk ciężkich dział. Z morza, z odległości około 10–13 kilometrów, strzelały cztery niemieckie [krążowniki liniowe](/slownik/krazownik-liniowy) kontradmirała Friedricha Bödickera. Był to pierwszy od grudnia 1914 roku ostrzał angielskiego miasta przez ciężkie okręty niemieckie. Dzień wcześniej w Dublinie [wybuchło powstanie](/wybuch-powstania-wielkanocnego), a wielu historyków uważa, że Niemcy zaplanowali swój wypad tak, by zbiegł się z jego początkiem.
 
 ## Noc przed ostrzałem
 

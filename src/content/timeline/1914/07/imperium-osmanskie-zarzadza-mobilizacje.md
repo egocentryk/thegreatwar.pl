@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Wraz z mobilizacjami wielkich mocarstw także [Imperium Osmańskie](/kraje/imperium-osmanskie) zaczęło przygotowywać się do wojny. Ówczesne kroniki podają, że 31 lipca 1914 roku rząd w Konstantynopolu zarządził [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), która miała rozpocząć się 3 sierpnia. Według innych źródeł rozkaz wydano formalnie 1 sierpnia, a ogłoszono go publicznie dzień później. Pewne jest, że mobilizacja ruszyła 3 sierpnia.
+Wraz z mobilizacjami wielkich mocarstw także [Imperium Osmańskie](/kraje/imperium-osmanskie) zaczęło przygotowywać się do wojny. Ówczesne kroniki podają, że 31 lipca 1914 roku rząd w Konstantynopolu zarządził [mobilizację](/slownik/mobilizacja), która miała rozpocząć się 3 sierpnia. Według innych źródeł rozkaz wydano formalnie 1 sierpnia, a ogłoszono go publicznie dzień później. Pewne jest, że mobilizacja ruszyła 3 sierpnia.
 
 Kluczową postacią był minister wojny [Enver Pasza](/postacie/enver-pasza), jeden z przywódców rządzących krajem młodoturków. Enver od dłuższego czasu opowiadał się za sojuszem z [Niemcami](/kraje/niemcy). Już pod koniec lipca zaproponował go niemieckiemu ambasadorowi, a 2 sierpnia wąska grupa osmańskich przywódców podpisała z Niemcami tajny traktat sojuszniczy, wymierzony przede wszystkim w [Rosję](/kraje/rosja). O porozumieniu nie wiedziała większość członków rządu ani parlament.
 

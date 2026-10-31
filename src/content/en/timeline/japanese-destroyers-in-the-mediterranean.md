@@ -2,10 +2,10 @@
 title: Japanese destroyers in the Mediterranean
 summary: On 13 April 1917 Rear Admiral Satō's Japanese 2nd Special Squadron, the cruiser Akashi and eight destroyers, reached Malta to escort transports.
 source: japonskie-niszczyciele-na-morzu-srodziemnym
-sourceHash: 088383dc15934c3303c96e44291b703587b7ff3b
+sourceHash: 7f3c3d1d4e4013d366f7be26384f1bd059707a78
 ---
 
-On 13 April 1917 the Japanese 2nd Special Squadron arrived at [Malta](https://pl.wikipedia.org/wiki/Malta_(wyspa)), the main base of the British Mediterranean Fleet. It was commanded by Rear Admiral Kōzō Satō and consisted of the [protected cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy) *Akashi* and eight [destroyers](https://pl.wikipedia.org/wiki/Niszczyciel) of the 10th and 11th Destroyer Divisions: *Kaede*, *Katsura*, *Ume*, *Kusunoki*, *Sakaki*, *Kashiwa*, *Matsu* and *Sugi*. For the first time ships of the [Imperial Japanese Navy](https://pl.wikipedia.org/wiki/Dai-Nippon_Teikoku_Kaigun) were to operate in European waters. The British chronology of the war records the inclusion of the Japanese flotillas in the Allied forces under 17 April. Japanese accounts, however, state that the squadron reached Malta on 13 April, and the British official history says that Satō's ships arrived in mid-April and at once began escorting transports.
+On 13 April 1917 the Japanese 2nd Special Squadron arrived at [Malta](https://pl.wikipedia.org/wiki/Malta_(wyspa)), the main base of the British Mediterranean Fleet. It was commanded by Rear Admiral Kōzō Satō and consisted of the [protected cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy) *Akashi* and eight [destroyers](/slownik/niszczyciel) of the 10th and 11th Destroyer Divisions: *Kaede*, *Katsura*, *Ume*, *Kusunoki*, *Sakaki*, *Kashiwa*, *Matsu* and *Sugi*. For the first time ships of the [Imperial Japanese Navy](https://pl.wikipedia.org/wiki/Dai-Nippon_Teikoku_Kaigun) were to operate in European waters. The British chronology of the war records the inclusion of the Japanese flotillas in the Allied forces under 17 April. Japanese accounts, however, state that the squadron reached Malta on 13 April, and the British official history says that Satō's ships arrived in mid-April and at once began escorting transports.
 
 ## The road to the Mediterranean
 

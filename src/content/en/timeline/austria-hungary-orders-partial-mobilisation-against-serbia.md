@@ -2,10 +2,10 @@
 title: Austria-Hungary orders partial mobilisation against Serbia
 summary: On 26 July 1914 the partial mobilisation of the Austro-Hungarian army against Serbia got under way – the monarchy's first step from diplomacy to war.
 source: austro-wegry-zarzadzaja-czesciowa-mobilizacje-przeciw-serbii
-sourceHash: d69e046d70274ba5117d03c90793536a72ef187a
+sourceHash: eda6811b4bf263cabb5cc7e4920276d165a69234
 ---
 
-After breaking off diplomatic relations with Serbia, [Austria-Hungary](/kraje/austro-wegry) moved without delay from words to military preparations. On the evening of 25 July 1914 Emperor [Franz Joseph](/postacie/franciszek-jozef-i), staying at his summer residence in [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl), signed the order for partial [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja). The next day, 26 July, it was already a fact that every European capital had to reckon with.
+After breaking off diplomatic relations with Serbia, [Austria-Hungary](/kraje/austro-wegry) moved without delay from words to military preparations. On the evening of 25 July 1914 Emperor [Franz Joseph](/postacie/franciszek-jozef-i), staying at his summer residence in [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl), signed the order for partial [mobilisation](/slownik/mobilizacja). The next day, 26 July, it was already a fact that every European capital had to reckon with.
 
 The mobilisation did not cover the whole [Austro-Hungarian Army](https://pl.wikipedia.org/wiki/Armia_Austro-Węgier). The Chief of the General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), set in motion the so-called Plan B, a war plan intended solely for a fight with [Serbia](/kraje/serbia) and [Montenegro](/kraje/czarnogora). Only the units that were to fight in the Balkans were called up. The first day of mobilisation was set for 28 July, the day on which the monarchy declared war on Serbia.
 

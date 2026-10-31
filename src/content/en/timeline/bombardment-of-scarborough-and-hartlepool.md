@@ -2,7 +2,7 @@
 title: Bombardment of Scarborough and Hartlepool
 summary: On 16 December 1914 Hipper's battlecruisers shelled Scarborough, Hartlepool and Whitby. Over a hundred people died, mostly civilians, and the Germans escaped.
 source: bombardowanie-scarborough-i-hartlepool
-sourceHash: e6882f3481e6c13bddf66069f3192cad95f8ac92
+sourceHash: 630896476beaf50890ac441b5195533187c815ff
 ---
 
 On the morning of 16 December 1914 the German battlecruisers of Rear-Admiral [Franz von Hipper](/postacie/franz-von-hipper) shelled three towns on the east coast of England: [Scarborough](https://pl.wikipedia.org/wiki/Scarborough), [Hartlepool](https://pl.wikipedia.org/wiki/Hartlepool) and [Whitby](https://pl.wikipedia.org/wiki/Whitby_(North_Yorkshire)). For the first time in several centuries enemy shells fell on English towns, and the victims were above all civilians, including women and children. The [raid on Scarborough, Hartlepool and Whitby](https://pl.wikipedia.org/wiki/Bombardowanie_Scarborough,_Hartlepool_i_Whitby) caused shock and outrage in Britain. At the same time a series of chaotic encounters took place in the North Sea, in which the Royal Navy twice missed the chance to destroy part of the German fleet.
@@ -13,7 +13,7 @@ After the [raid on Yarmouth](/niemiecki-rajd-na-yarmouth) at the beginning of No
 
 The battlecruisers were to shell the coast and the light cruiser *Kolberg* was to lay mines. Behind them, halfway across the North Sea, the main body of the High Seas Fleet was to wait. If part of the British fleet set off in pursuit of Hipper, it could run straight into superior German forces. Ingenohl, however, was constrained by the Kaiser's order, issued after the [Battle of Heligoland Bight](/bitwy/bitwa-w-zatoce-helgolandzkiej), not to expose the fleet to serious losses.
 
-Early on the morning of 15 December the [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) [*Seydlitz*](https://pl.wikipedia.org/wiki/SMS_Seydlitz), [*Moltke*](https://pl.wikipedia.org/wiki/SMS_Moltke_(1910)), [*Von der Tann*](https://pl.wikipedia.org/wiki/SMS_Von_der_Tann) and [*Derfflinger*](https://pl.wikipedia.org/wiki/SMS_Derfflinger), the armoured cruiser [*Blücher*](https://pl.wikipedia.org/wiki/SMS_Blücher_(1908)), four light cruisers and some fifteen torpedo boats left the Jade estuary. Later the main body of the fleet, 22 battleships in all, also put to sea. On the same day [a German airship was sighted](/niemiecki-sterowiec-u-wybrzezy-anglii) off the mouth of the Humber, which the British linked with this expedition.
+Early on the morning of 15 December the [battlecruisers](/slownik/krazownik-liniowy) [*Seydlitz*](https://pl.wikipedia.org/wiki/SMS_Seydlitz), [*Moltke*](https://pl.wikipedia.org/wiki/SMS_Moltke_(1910)), [*Von der Tann*](https://pl.wikipedia.org/wiki/SMS_Von_der_Tann) and [*Derfflinger*](https://pl.wikipedia.org/wiki/SMS_Derfflinger), the armoured cruiser [*Blücher*](https://pl.wikipedia.org/wiki/SMS_Blücher_(1908)), four light cruisers and some fifteen torpedo boats left the Jade estuary. Later the main body of the fleet, 22 battleships in all, also put to sea. On the same day [a German airship was sighted](/niemiecki-sterowiec-u-wybrzezy-anglii) off the mouth of the Humber, which the British linked with this expedition.
 
 ## The British know, but not everything
 

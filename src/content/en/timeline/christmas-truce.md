@@ -2,10 +2,10 @@
 title: Christmas truce
 summary: At Christmas 1914, on parts of the Western Front, soldiers stopped fighting of their own accord, left the trenches, exchanged gifts and buried the dead.
 source: rozejm-bozonarodzeniowy
-sourceHash: 2772a99e63f78af9a7d83c50b12352fac3bdff7b
+sourceHash: cfead7533f1c551376017551a26a7668a2a618f1
 ---
 
-On Christmas Eve and Christmas Day 1914 the rifles fell silent along many stretches of the Western Front. Without orders, and often against orders, German and British soldiers climbed out of their trenches, met in [no man's land](https://pl.wikipedia.org/wiki/Ziemia_niczyja), shook hands, swapped cigarettes, food and souvenirs, and above all buried the dead who had lain between the lines for weeks. This [Christmas truce](https://pl.wikipedia.org/wiki/Rozejm_bożonarodzeniowy) was not a single event but a series of local, unconcerted ceasefires. On some sectors it lasted a few hours, on others until Boxing Day, and here and there until New Year. In many places the fighting went on throughout Christmas.
+On Christmas Eve and Christmas Day 1914 the rifles fell silent along many stretches of the Western Front. Without orders, and often against orders, German and British soldiers climbed out of their trenches, met in [no man's land](/slownik/ziemia-niczyja), shook hands, swapped cigarettes, food and souvenirs, and above all buried the dead who had lain between the lines for weeks. This [Christmas truce](https://pl.wikipedia.org/wiki/Rozejm_bożonarodzeniowy) was not a single event but a series of local, unconcerted ceasefires. On some sectors it lasted a few hours, on others until Boxing Day, and here and there until New Year. In many places the fighting went on throughout Christmas.
 
 ## Before Christmas
 

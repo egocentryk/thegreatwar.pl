@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny odnotowała pod datą 15 września 1914 roku zajęcie [Czerniowców](https://pl.wikipedia.org/wiki/Czerniowce) przez wojska rosyjskie. Według źródeł lokalnych Rosjanie wkroczyli do stolicy [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) blisko dwa tygodnie wcześniej. Większość z nich podaje 2 września, gdy burmistrz przekazał im miasto, a niektóre nawet koniec sierpnia.
+Brytyjska kronika wojny odnotowała pod datą 15 września 1914 roku zajęcie [Czerniowców](/miejsca/czerniowce) przez wojska rosyjskie. Według źródeł lokalnych Rosjanie wkroczyli do stolicy [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) blisko dwa tygodnie wcześniej. Większość z nich podaje 2 września, gdy burmistrz przekazał im miasto, a niektóre nawet koniec sierpnia.
 
 ## Stolica Bukowiny
 

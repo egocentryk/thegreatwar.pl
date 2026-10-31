@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 22 października 1914 roku ponowne zajęcie [Czerniowców](https://pl.wikipedia.org/wiki/Czerniowce) przez wojska austro-węgierskie. Stolica [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) była w rękach rosyjskich od początku września, gdy [Rosjanie zajęli miasto](/rosjanie-zajmuja-czerniowce) bez walki. Źródła lokalne podają nieco wcześniejszą datę jego odzyskania, 20 lub 21 października.
+Brytyjska chronologia wojny notuje pod datą 22 października 1914 roku ponowne zajęcie [Czerniowców](/miejsca/czerniowce) przez wojska austro-węgierskie. Stolica [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) była w rękach rosyjskich od początku września, gdy [Rosjanie zajęli miasto](/rosjanie-zajmuja-czerniowce) bez walki. Źródła lokalne podają nieco wcześniejszą datę jego odzyskania, 20 lub 21 października.
 
 Miasta nie odbiła regularna armia. Po wkroczeniu Rosjan w południowej, górzystej części Bukowiny zorganizował obronę komendant tamtejszej żandarmerii, pułkownik Eduard Fischer. Z żandarmów, strażników celnych, żołnierzy obrony krajowej i ochotników stworzył improwizowane oddziały, oparte o [Kimpolung](https://pl.wikipedia.org/wiki/Kimpulung_Mołdawski) i [Gura Humorului](https://pl.wikipedia.org/wiki/Gura_Humorului). Wśród ochotników było wielu miejscowych Żydów, według niektórych źródeł około 500. Sam Fischer opisał później te walki we wspomnieniach zatytułowanych „Wojna bez armii”.
 

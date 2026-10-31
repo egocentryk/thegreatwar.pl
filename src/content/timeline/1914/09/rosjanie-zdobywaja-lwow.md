@@ -22,7 +22,7 @@ Lwów przed wojną nie był twierdzą, a austro-węgierskie dowództwo nie zamie
 
 ## Wejście Rosjan
 
-Rano 3 września na ulicach Lwowa pojawiły się pierwsze patrole [kozackie](https://pl.wikipedia.org/wiki/Kozacy), a wkrótce potem czołowe oddziały kawalerii rosyjskiej 3 Armii generała [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski). Na rogatki wyszły delegacje magistratu, między innymi z Rutowskim, by uzgodnić z rosyjskim dowództwem warunki zajęcia miasta. Rosjanie zażądali zakładników, którzy mieli gwarantować spokój. Wybrano ich spośród przedstawicieli wszystkich głównych grup mieszkańców: Polaków, Żydów i Ukraińców.
+Rano 3 września na ulicach Lwowa pojawiły się pierwsze patrole [kozackie](/slownik/kozacy), a wkrótce potem czołowe oddziały kawalerii rosyjskiej 3 Armii generała [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski). Na rogatki wyszły delegacje magistratu, między innymi z Rutowskim, by uzgodnić z rosyjskim dowództwem warunki zajęcia miasta. Rosjanie zażądali zakładników, którzy mieli gwarantować spokój. Wybrano ich spośród przedstawicieli wszystkich głównych grup mieszkańców: Polaków, Żydów i Ukraińców.
 
 Komendantem miasta został pułkownik Siergiej Szeremietiew. W odezwie z 4 września zapowiedział surowe kary za rabunki i napaści, zakazał sprzedaży alkoholu i ustalił przymusowy kurs korony austriackiej wobec rubla. Lwów przyjął okupantów w milczeniu. W Rosji zdobycie miasta świętowano jako wielkie zwycięstwo, a Ruzski stał się jednym z najbardziej znanych rosyjskich dowódców.
 

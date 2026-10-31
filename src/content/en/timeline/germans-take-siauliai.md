@@ -2,7 +2,7 @@
 title: The Germans take Šiauliai
 summary: On 30 April 1915 German cavalry entered Šiauliai in Lithuania, set ablaze by the retreating Russians. The raid was to draw the Russians away from Galicia.
 source: niemcy-zajmuja-szawle
-sourceHash: d2903b3d08e832336f91eaa114e52cd28d17175c
+sourceHash: 991415bdbc3518e7a47e877f7966984ea8f3b92a
 ---
 
 On 30 April 1915 German troops occupied [Šiauliai](https://pl.wikipedia.org/wiki/Szawle) (Szawle in Polish), an important railway junction in northern Lithuania, in the Kovno Governorate of the Russian Empire. Before leaving, the retreating Russians set fire to the government buildings, and the fire spread to the town. German cavalrymen rode into burning Šiauliai after several days of rapid marching from the border of East Prussia.
@@ -21,4 +21,4 @@ The German cavalry moved on from Šiauliai northwards, towards [Mitau](https://p
 
 ## What came next
 
-On 2 May the offensive at Gorlice began in Galicia. In the north the Germans took [Libau](https://pl.wikipedia.org/wiki/Lipawa), a naval port on the Baltic, on 7 May, but they did not hold Šiauliai. In the face of approaching Russian reinforcements they left the town on the evening of 10 May and fell back to the [Dubysa](https://pl.wikipedia.org/wiki/Dubissa). The Russian command, looking for someone to blame for its defeats, accused the local Jewish population of treason and in May ordered the mass expulsion of Jews from the Kovno and Courland governorates. The Germans returned to Šiauliai in July 1915 and remained there until the end of the war.
+On 2 May the offensive at Gorlice began in Galicia. In the north the Germans took [Libau](/miejsca/lipawa), a naval port on the Baltic, on 7 May, but they did not hold Šiauliai. In the face of approaching Russian reinforcements they left the town on the evening of 10 May and fell back to the [Dubysa](https://pl.wikipedia.org/wiki/Dubissa). The Russian command, looking for someone to blame for its defeats, accused the local Jewish population of treason and in May ordered the mass expulsion of Jews from the Kovno and Courland governorates. The Germans returned to Šiauliai in July 1915 and remained there until the end of the war.

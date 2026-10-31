@@ -2,14 +2,14 @@
 title: Sinking of the cruiser Bremen
 summary: On 17 December 1915 the German light cruiser Bremen struck Russian mines off Windau and sank with the torpedo boat V 191. Some 200–250 sailors died.
 source: zatoniecie-krazownika-bremen
-sourceHash: 894f731c992b0b999cb1406e68fe3a741fa90296
+sourceHash: 41d96548ca8d22273515271680a422b90d0c556a
 ---
 
 On the evening of 17 December 1915, in the Baltic, a few nautical miles from the German-occupied port of [Windau](https://pl.wikipedia.org/wiki/Windawa_(miasto)) in [Courland](/miejsca/kurlandia), the German [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) [*Bremen*](https://pl.wikipedia.org/wiki/SMS_Bremen) sank. The torpedo boat [*V 191*](https://pl.wikipedia.org/wiki/SMS_V_191) went down with her. The British chronology of the war states that *Bremen* was sunk by a British submarine. This, however, does not agree with either German or Russian sources. Both ships ran into a [minefield](https://pl.wikipedia.org/wiki/Zagroda_minowa) that Russian destroyers had laid there only the day before. The mistake is understandable, since in the autumn British submarines operating from Russian bases had sunk two German cruisers in the Baltic: [*Prinz Adalbert*](/zatopienie-krazownika-prinz-adalbert) off Libau and [*Undine*](/zatopienie-krazownika-undine) off the coast of Rügen.
 
 ## An old cruiser in the eastern Baltic
 
-*Bremen*, launched in 1903 at the AG Weser yard in the city whose name she bore, was the first of a series of seven light cruisers. She displaced about 3,300 tons and was armed mainly with 105 mm guns. She had spent almost ten years before the war on the East American station, looking after German interests in the ports of both Americas. In the spring of 1914 she returned to Germany for a refit, which was completed only in May 1915. In the summer she was sent to the Baltic and joined the reconnaissance forces at [Libau](https://pl.wikipedia.org/wiki/Lipawa) operating against the Russian [Baltic Fleet](https://pl.wikipedia.org/wiki/Flota_Bałtycka). In August she took part in the [fighting in the Gulf of Riga](/bitwy/bitwa-w-zatoce-ryskiej), where she covered minesweepers and shelled a Russian gunboat and positions on the island of Ösel. In the autumn she patrolled the waters around Gotland and off the coast of Courland. She was commanded by Korvettenkapitän Axel Walter.
+*Bremen*, launched in 1903 at the AG Weser yard in the city whose name she bore, was the first of a series of seven light cruisers. She displaced about 3,300 tons and was armed mainly with 105 mm guns. She had spent almost ten years before the war on the East American station, looking after German interests in the ports of both Americas. In the spring of 1914 she returned to Germany for a refit, which was completed only in May 1915. In the summer she was sent to the Baltic and joined the reconnaissance forces at [Libau](/miejsca/lipawa) operating against the Russian [Baltic Fleet](https://pl.wikipedia.org/wiki/Flota_Bałtycka). In August she took part in the [fighting in the Gulf of Riga](/bitwy/bitwa-w-zatoce-ryskiej), where she covered minesweepers and shelled a Russian gunboat and positions on the island of Ösel. In the autumn she patrolled the waters around Gotland and off the coast of Courland. She was commanded by Korvettenkapitän Axel Walter.
 
 ## Mines off Windau
 

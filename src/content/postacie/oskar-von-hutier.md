@@ -48,7 +48,7 @@ Od lata Hutier tylko się bronił. Gdy 8 sierpnia ruszyła [bitwa pod Amiens](/b
 
 ## Po wojnie
 
-Na początku 1919 roku przeszedł w stan spoczynku. Od 1919 roku aż do śmierci przewodniczył Niemieckiemu Związkowi Oficerów, organizacji oficerów dawnej armii, i był jednym z rzeczników [legendy o ciosie w plecy](https://pl.wikipedia.org/wiki/Legenda_o_ciosie_w_plecy), według której armia niemiecka nie została pokonana w polu, tylko zdradzona przez rewolucję w kraju. Zmarł w Berlinie 5 grudnia 1934 roku (część źródeł podaje 4 grudnia). Pochowano go w [Darmstadcie](https://pl.wikipedia.org/wiki/Darmstadt).
+Na początku 1919 roku przeszedł w stan spoczynku. Od 1919 roku aż do śmierci przewodniczył Niemieckiemu Związkowi Oficerów, organizacji oficerów dawnej armii, i był jednym z rzeczników [legendy o ciosie w plecy](/slownik/legenda-o-ciosie-w-plecy), według której armia niemiecka nie została pokonana w polu, tylko zdradzona przez rewolucję w kraju. Zmarł w Berlinie 5 grudnia 1934 roku (część źródeł podaje 4 grudnia). Pochowano go w [Darmstadcie](https://pl.wikipedia.org/wiki/Darmstadt).
 
 ## Ocena
 

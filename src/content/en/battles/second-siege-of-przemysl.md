@@ -9,7 +9,7 @@ sides:
     commanders: [Andrei Selivanov]
 result: Russian victory. After failed relief attempts and a failed break-out, the garrison destroyed the forts and capitulated. About 117,000–120,000 soldiers were taken prisoner.
 source: drugie-oblezenie-przemysla
-sourceHash: a99bfbad8ace6cfd44caf64518c389612c92a0fe
+sourceHash: 837a59df3f7f363a49ad8f3e426909c6d716e100
 brief:
   - "The second siege of Przemyśl, from November 1914 to 22 March 1915, was the longest siege of the First World War in Europe. About 130,000 soldiers under General Hermann Kusmanek remained in the fortress."
   - "General Andrei Selivanov's Siege Army did not storm the forts. It surrounded the fortress with a ring of trenches, cut it off from supplies and waited for the garrison to run out of food."
@@ -32,7 +32,7 @@ At the beginning of the second siege the fortress held, according to Polish stud
 
 ## The besiegers
 
-The Russians did not want to tie down their best field divisions at Przemyśl. They entrusted the blockade of the fortress to a specially created Siege Army, later renamed the [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)). It was commanded by General [Andrei Selivanov](https://pl.wikipedia.org/wiki/Andriej_Sieliwanow), a general of nearly seventy who before the war had sat on the State Council and had received the command at Przemyśl in October 1914. According to Polish estimates his forces numbered about 100,000 men and 300 guns and consisted mainly of reserve divisions made up of older reservists. The strength of the siege army changed during the siege.
+The Russians did not want to tie down their best field divisions at Przemyśl. They entrusted the blockade of the fortress to a specially created Siege Army, later renamed the [Eleventh Army](/sily-zbrojne/11-armia-rosyjska). It was commanded by General [Andrei Selivanov](https://pl.wikipedia.org/wiki/Andriej_Sieliwanow), a general of nearly seventy who before the war had sat on the State Council and had received the command at Przemyśl in October 1914. According to Polish estimates his forces numbered about 100,000 men and 300 guns and consisted mainly of reserve divisions made up of older reservists. The strength of the siege army changed during the siege.
 
 Selivanov, unlike General Dimitriev in the autumn of 1914, did not throw infantry against the forts. He surrounded the fortress with a ring of trenches, cut it off from supplies and waited for the garrison to run out of food.
 

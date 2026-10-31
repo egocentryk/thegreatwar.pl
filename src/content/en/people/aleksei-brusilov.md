@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Tiflis, now Tbilisi (Russian Empire, now Georgia)
 deathPlace: Moscow
 source: aleksiej-brusilow
-sourceHash: 1034641fc4bceff96da07a4f5172766e147da14e
+sourceHash: e5636530e855535f8f57aa3a24721f1dec4c5a76
 ---
 
 General of Cavalry Aleksei Brusilov was the ablest commander of the Russian Army in the First World War and one of the few generals of the war whose name is borne by a great operation. In 1914 he led the 8th Army across Galicia into the Carpathians, in 1915 he withdrew it in good order to Volhynia, and in June 1916 his Southwestern Front broke through the Austro-Hungarian front in an offensive that went down in history as the Brusilov offensive. After the February Revolution he quickly adapted to the new order and in the summer of 1917 was commander-in-chief for less than two months. In 1920, during the war with Poland, he supported the Bolsheviks, which long marked his memory both among the White émigrés and in Poland.
@@ -47,7 +47,7 @@ The [Kerensky offensive](/bitwy/ofensywa-kierenskiego) he had prepared began on 
 
 ## After the war
 
-Brusilov settled in Moscow. During the fighting for the city in November 1917 he was badly wounded by a shell fragment that hit his house, and he was in hospital until the summer of 1918. He refused to join the Whites, and in August 1918 the Cheka arrested him for two months. His son, who had joined the [Red Army](https://pl.wikipedia.org/wiki/Armia_Czerwona), was captured by the Whites and killed.
+Brusilov settled in Moscow. During the fighting for the city in November 1917 he was badly wounded by a shell fragment that hit his house, and he was in hospital until the summer of 1918. He refused to join the Whites, and in August 1918 the Cheka arrested him for two months. His son, who had joined the [Red Army](/slownik/czerwona-armia), was captured by the Whites and killed.
 
 On 30 May 1920, during the [Polish–Soviet War](https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka), after the Poles had taken Kiev, *Pravda* published his appeal "To all former officers, wherever they may be". In it he called on them to forget their grievances and join the Red Army to defend Russia against foreign invasion. According to many accounts it persuaded thousands of former tsarist officers to serve the Bolsheviks. Brusilov chaired a special council attached to the high command of the Red Army and was later inspector of cavalry. He died in Moscow on 17 March 1926 and was buried with military honours in the [Novodevichy Cemetery](https://pl.wikipedia.org/wiki/Cmentarz_Nowodziewiczy).
 

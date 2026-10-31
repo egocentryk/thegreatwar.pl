@@ -2,7 +2,7 @@
 title: Battle of the Bzura begins
 summary: On 30 November 1914 the left wing of the German Ninth Army, reinforced from the west, moved against the Russians at Łowicz and Sanniki.
 source: poczatek-bitwy-nad-bzura
-sourceHash: 7c3778b7ba7106b684b07cbc43c18cb75ff2f207
+sourceHash: 315bd250c058c0f10eed0dbaeb13a5af4210eb5a
 ---
 
 A British chronology of the war records under 30 November 1914 the beginning of the battle of Łowicz and Sanniki. The name and date come from the official German list of battles. On that day the left wing of the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) began an attack on the positions of the Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) north and north-west of [Łowicz](https://pl.wikipedia.org/wiki/Łowicz), in the area between the Vistula and the [Bzura](https://pl.wikipedia.org/wiki/Bzura). In Polish tradition this fighting is usually called the [Battle of the Bzura](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)).
@@ -17,7 +17,7 @@ Reinforcements were already travelling east. Paul von Hindenburg, newly appointe
 
 According to the German lists of battles, on 30 November the 1st Division and the 36th Reserve Division of Morgen's corps went into action at Łowicz. The next day the 26th Division and the Hessian 25th Reserve Division were formed into Fabeck's corps, which struck in the area of [Sanniki](https://pl.wikipedia.org/wiki/Sanniki), about 25 kilometres north of Łowicz. A Russian collection of documents on the Łódź operation describes the days from 27 November to 2 December as the attack of the German Ninth Army in the Łowicz area and the battle of the Russian First Army in that area.
 
-German communiqués of 30 November and 1 December reported successful counter-attacks south of the Vistula and the capture of a total of some 14,000 Russians and 36 guns. They did not say exactly where the fighting had taken place, however, so these figures relate to the whole front in the northern part of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), not just the Łowicz area.
+German communiqués of 30 November and 1 December reported successful counter-attacks south of the Vistula and the capture of a total of some 14,000 Russians and 36 guns. They did not say exactly where the fighting had taken place, however, so these figures relate to the whole front in the northern part of the [Kingdom of Poland](/miejsca/krolestwo-polskie), not just the Łowicz area.
 
 ## Two battles side by side
 

@@ -2,10 +2,10 @@
 title: Boer rebellion begins
 summary: On 15 September 1914 General Beyers left the army of the Union of South Africa in protest against the war, and General De la Rey was killed by a police bullet.
 source: poczatek-rebelii-burskiej
-sourceHash: c14512423ba30135731feb08e5d0aece7f6551ff
+sourceHash: 04d2cffc15c8743b6f8480ff453aeebbe744b81c
 ---
 
-On 15 September 1914 a crisis began in the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) that grew into an armed revolt by part of the [Boers](https://pl.wikipedia.org/wiki/Burowie) against their own government. That day General Christiaan Beyers, commander of the Union's armed forces, resigned in protest against the planned war with Germany. In the evening General Koos de la Rey, one of the most respected heroes of the Boer War, was shot dead by the police. The rebellion, known after one of its leaders as the Maritz Rebellion, broke out openly a few weeks later.
+On 15 September 1914 a crisis began in the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) that grew into an armed revolt by part of the [Boers](https://pl.wikipedia.org/wiki/Burowie) against their own government. That day General Christiaan Beyers, commander of the Union's armed forces, resigned in protest against the planned war with Germany. In the evening General Koos de la Rey, one of the most respected heroes of the Boer War, was shot dead by the police. The rebellion, known after one of its leaders as the Maritz Rebellion, broke out openly a few weeks later.
 
 ## A war they did not want
 

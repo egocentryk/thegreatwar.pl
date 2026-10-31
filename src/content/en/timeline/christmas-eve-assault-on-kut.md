@@ -2,14 +2,14 @@
 title: Christmas Eve assault on Kut
 summary: On 24 December 1915 the Turks made their biggest assault on the Kut fort. Fighting lasted into the night; on Christmas Day the defenders held the ruined fort.
 source: wigilijny-szturm-na-al-kut
-sourceHash: 1c1007036b4eaa8bdf5e934c53423d575044e419
+sourceHash: 23bb15ae3b772b0d229ec004fabac988c7ed663a
 ---
 
 On Christmas Eve 1915 Ottoman troops launched their biggest assault on besieged [Kut](/miejsca/al-kut). They struck at the fort in the northern corner of the British defences, above a bend of the [Tigris](/miejsca/tygrys). The fighting went on intermittently from the morning of 24 December until the early hours of 25 December. The Turks made their last attack at about 2.30 a.m. Christmas Day found the defenders in the ruins of the fort, among heaps of Turkish dead. The British chronology of the war places this event under 25 December. It was the last Turkish assault on Kut. From then on the Turks relied on hunger alone.
 
 ## Against Goltz's orders
 
-After the failed attacks of the first days of the siege the German Field Marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz), commander of the Ottoman Sixth Army, [forbade further assaults on 12 December](/von-der-goltz-dowodca-w-mezopotamii) and ordered the town to be starved out. For the next ten days there was relative calm. The Turks dug saps ever closer to the fort, and the garrison strengthened its defences. According to Lieutenant-Colonel Hans von Kiesling of Goltz's German staff, Colonel [Nureddin Bey](/postacie/nureddin-pasza) attacked in the absence of the field marshal, who had left for [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) in Persia, and against his express orders. The British official history (Moberly) cites this version. For the assault Nureddin threw in the fresh 52nd Division, which had just arrived from the Caucasus.
+After the failed attacks of the first days of the siege the German Field Marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz), commander of the Ottoman Sixth Army, [forbade further assaults on 12 December](/von-der-goltz-dowodca-w-mezopotamii) and ordered the town to be starved out. For the next ten days there was relative calm. The Turks dug saps ever closer to the fort, and the garrison strengthened its defences. According to Lieutenant-Colonel Hans von Kiesling of Goltz's German staff, Colonel [Nureddin Bey](/postacie/nureddin-pasza) attacked in the absence of the field marshal, who had left for [Kermanshah](/miejsca/kermanszah) in Persia, and against his express orders. The British official history (Moberly) cites this version. For the assault Nureddin threw in the fresh 52nd Division, which had just arrived from the Caucasus.
 
 The British were expecting an attack. The fort was the weakest point of the defences. Pushed far out to the north, it had mud walls that could not withstand shelling. The Turkish infantry had approached along irrigation ditches to within a few hundred metres of the walls, and then by saps closer still. During the night of 17–18 December the defenders made a successful sortie: they killed 40 Turks, took 11 prisoners and established that the enemy was not mining under the fort. Inside, trenches, loopholes and a stockade of fodder bales were built across the neck of the threatened north-eastern bastion.
 

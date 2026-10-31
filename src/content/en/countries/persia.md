@@ -8,7 +8,7 @@ brief:
   - "German agents such as Wilhelm Wassmuss stirred up the tribes against the British, who answered by occupying Bushehr and raising the South Persia Rifles."
   - "According to most estimates, about 2 million people died in the famine and epidemics of 1917–1919."
 source: persja
-sourceHash: f81659b2726bb83be7c7455c7f06db9413e49593
+sourceHash: 67250fad0d3468823491f561b90ba7b611b8173b
 ---
 
 Persia, the state of the Qajar shahs, declared strict neutrality at the start of the war but had no strength to defend it. Its north had been occupied by the Russians for years, in the south the British guarded the oilfields, and from the west Ottoman troops marched in. For four years the country was a battlefield for Russians, Turks and British, while German agents stirred up the tribes against the Entente. The war brought Persia destruction, the collapse of central authority and the great famine of 1917–1919, and the last foreign troops left the country only in 1921.
@@ -17,7 +17,7 @@ Persia, the state of the Qajar shahs, declared strict neutrality at the start of
 
 In 1907 Britain and Russia [divided Persia](/wielka-brytania-i-rosja-podpisuja-konwencje-petersburska) into spheres of influence, although the convention avoided the word. The Russian part in the north, with Tehran, was much larger than the British one in the south-east, and the belt in between remained open to both sides. Nobody asked the Persians for their opinion. From 1909 Russian troops were stationed in northern Persia, among other places in Tabriz and Qazvin.
 
-In July 1914 the young Shah [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) came of age, and in August [Mostowfi ol-Mamalek](/zmiana-rzadu-w-persji) took over the government. On 1 November 1914 a decree of the shah declared the country's strict neutrality. When the prime minister demanded the withdrawal of Russian troops from Azerbaijan, because their presence gave the Turks a pretext for invasion, the Russian envoy merely asked who could guarantee that the Turks would not move in once the Russians had gone.
+In July 1914 the young Shah [Ahmad](/postacie/ahmad-szah-kadzar) came of age, and in August [Mostowfi ol-Mamalek](/zmiana-rzadu-w-persji) took over the government. On 1 November 1914 a decree of the shah declared the country's strict neutrality. When the prime minister demanded the withdrawal of Russian troops from Azerbaijan, because their presence gave the Turks a pretext for invasion, the Russian envoy merely asked who could guarantee that the Turks would not move in once the Russians had gone.
 
 Oil decided Persia's importance for the war. From 1908 it was extracted on the lands of the [Bakhtiari](https://pl.wikipedia.org/wiki/Bachtiarowie), and a pipeline carried it to the refinery at [Abadan](https://pl.wikipedia.org/wiki/Abadan) on the Shatt al-Arab. The Anglo-Persian Oil Company, in which the British government had held a majority stake since 1914, supplied fuel to the Royal Navy. To cover the refinery, the British [landed at Fao](/ladowanie-w-fao) on 6 November 1914, opening the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). In February 1915 Arab tribes incited by agents of the Central Powers cut the pipeline north of Ahvaz, and a year later the British [came to terms with the Bakhtiari khans](/porozumienie-z-bachtiarami) on protecting the oilfields.
 

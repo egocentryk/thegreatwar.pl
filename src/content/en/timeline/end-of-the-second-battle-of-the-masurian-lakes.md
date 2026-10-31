@@ -2,10 +2,10 @@
 title: End of the Second Battle of the Masurian Lakes
 summary: On 22 February 1915 the Germans declared the winter battle in Masuria over. The Russian 10th Army left East Prussia, but most of its corps escaped.
 source: koniec-zimowej-bitwy-na-mazurach
-sourceHash: 05fc1191866e01881d342ecfdfd3d8e74249a032
+sourceHash: ad6636dccceb21d30631e2603d46e985675fabfd
 ---
 
-On 22 February 1915 the German Supreme Army Command announced the end of the winter battle in Masuria. After two weeks of fighting in snow, frost and mud, the two German armies of Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) had driven the Russian [10th Army](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) out of [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) and pushed it back to the line of the Niemen and the Biebrza. The day before, the [encircled XX Corps had capitulated](/kapitulacja-xx-korpusu-w-puszczy-augustowskiej) in the Augustów Forest.
+On 22 February 1915 the German Supreme Army Command announced the end of the winter battle in Masuria. After two weeks of fighting in snow, frost and mud, the two German armies of Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) had driven the Russian [10th Army](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) out of [East Prussia](/miejsca/prusy-wschodnie) and pushed it back to the line of the Niemen and the Biebrza. The day before, the [encircled XX Corps had capitulated](/kapitulacja-xx-korpusu-w-puszczy-augustowskiej) in the Augustów Forest.
 
 ## A victory communiqué
 

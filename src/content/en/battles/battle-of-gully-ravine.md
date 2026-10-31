@@ -9,7 +9,7 @@ sides:
     commanders: [Otto Liman von Sanders, Erich Weber]
 result: British victory on the western flank. They took five lines of Turkish trenches on Gully Spur and beat off all counter-attacks, but were defeated on Fir Tree Spur.
 source: bitwa-o-wawoz-gully
-sourceHash: 0495f8f7a86690834467ff805d4ca9fdbe7dc4dc
+sourceHash: 4a96121587d534ba7f3321acbfb0c076862d6467
 ---
 
 The Battle of Gully Ravine was one of the few successful Allied attacks at Helles, at the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. On 28 June 1915 the British 29th Division and the 29th Indian Brigade, supported by the concentrated fire of almost all the artillery, took five lines of Turkish trenches on the coastal ridge of Gully Spur and pushed the western flank of the front a few hundred metres towards Krithia. On the other side of the ravine, on Fir Tree Spur, a Scottish Territorial brigade, deprived of howitzer support, was decimated within minutes. For the following week the Turks, having brought up reinforcements from the whole peninsula, counter-attacked again and again to recover the lost trenches. They suffered heavier losses than in any earlier battle of the campaign and recovered nothing.
@@ -38,7 +38,7 @@ Every soldier was to have a triangle cut from a tin can tied to his back, so tha
 
 ### 28 June
 
-The morning was hot and windless. At 9 a.m. the bombardment began. At 10.45 a.m. a battalion of the Border Regiment crossed open ground in three waves and took the Boomerang Redoubt, capturing a hundred dazed prisoners at small cost, much of the credit for which went to two French [trench mortars](https://pl.wikipedia.org/wiki/Moździerz_okopowy). At 11 a.m. the artillery lifted its fire deeper and the infantry advanced on both sides of the ravine.
+The morning was hot and windless. At 9 a.m. the bombardment began. At 10.45 a.m. a battalion of the Border Regiment crossed open ground in three waves and took the Boomerang Redoubt, capturing a hundred dazed prisoners at small cost, much of the credit for which went to two French [trench mortars](/slownik/mozdzierz-okopowy). At 11 a.m. the artillery lifted its fire deeper and the infantry advanced on both sides of the ravine.
 
 On Gully Spur the bombardment had been so heavy that the first two lines of Turkish trenches were already in ruins and their defenders killed or wounded. The 87th Brigade took its objectives exactly according to plan. The 86th Brigade followed it, and before noon the 2nd Battalion, Royal Fusiliers took the two farthest Turkish lines, J12 and J13. On the left flank the [Gurkhas](/sily-zbrojne/gurkhowie) of the Indian Brigade, advancing along the coastal cliffs, took a headland above the sea, later named Fusilier Bluff, which became the northernmost Allied position at Helles. According to some works the front moved forward here by about half a mile, some 800 metres.
 

@@ -57,7 +57,7 @@ Na skrzydle 1 Armii 63 Dywizja Królewskiej Marynarki, złożona częściowo z m
 
 **24 kwietnia.** O świcie okazało się, że Niemcy wycofali się w sektorze Linii Hindenburga. 33, 30 i 50 Dywizja zajęły pierwszy cel, posuwając się o około 1,4 km, a w środku nawet o 1,6 km. Dołączyły do nich odcięte poprzedniego dnia kompanie, które przez całą noc utrzymywały się w otoczeniu. 15 Dywizja podeszła prawie pod Cavalry Farm, a 3 Dywizja, która w nocy zluzowała 29, zbliżyła się do pierwszego celu pod Monchy. Pod Gavrelle Niemcy przez całe południe bombardowali wieś, a o 15.30 około trzech batalionów, w tym świeżych z 1 Gwardyjskiej Dywizji Rezerwowej, ruszyło od Mauville Farm w dziesięciu falach. Atakujący, ze słońcem w oczach, byli doskonale widoczni dla brytyjskiej artylerii. Pierwsze fale zostały zmiecione, a resztę zatrzymały karabiny maszynowe obrońców, choć pojedyncze grupy dotarły do domów Gavrelle. Artyleria samej 63 Dywizji wystrzeliła w ciągu 48 godzin 78 tysięcy pocisków. Na tym bitwa się skończyła, choć walki o Cavalry Farm i okopy pod Monchy trwały jeszcze przez dwa dni.
 
-Natarcie na północ od grzbietu Vimy, na odcinku La Coulotte i wzgórza 65 pod [Lens](https://pl.wikipedia.org/wiki/Lens), skończyło się 23 kwietnia całkowitą porażką. Zasieki nie były przecięte, a gniazda karabinów maszynowych w zabudowaniach przetrwały ostrzał. Wieczorem obie atakujące dywizje, 5 i 46, stały na pozycjach wyjściowych.
+Natarcie na północ od grzbietu Vimy, na odcinku La Coulotte i wzgórza 65 pod [Lens](/miejsca/lens), skończyło się 23 kwietnia całkowitą porażką. Zasieki nie były przecięte, a gniazda karabinów maszynowych w zabudowaniach przetrwały ostrzał. Wieczorem obie atakujące dywizje, 5 i 46, stały na pozycjach wyjściowych.
 
 ## Straty
 

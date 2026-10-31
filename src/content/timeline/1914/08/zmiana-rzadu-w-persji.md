@@ -17,7 +17,7 @@ Według ówczesnych kronik wojny 19 sierpnia 1914 roku w [Persji](/kraje/persja)
 
 Mostowfi ol-Mamalek był jednym z najbardziej szanowanych polityków perskich swojej epoki. Kilkakrotnie stał na czele rządu i cieszył się opinią człowieka uczciwego i niezależnego od obcych wpływów. Ala os-Saltane był z kolei doświadczonym dyplomatą, który przez wiele lat reprezentował Persję za granicą.
 
-Zmiana rządu nastąpiła wkrótce po koronacji młodego szacha [Ahmada](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar), który w lipcu 1914 roku osiągnął pełnoletność i przejął władzę od regenta. Nowy gabinet musiał od razu zmierzyć się z pytaniem, jaką postawę przyjąć wobec wojny w Europie.
+Zmiana rządu nastąpiła wkrótce po koronacji młodego szacha [Ahmada](/postacie/ahmad-szah-kadzar), który w lipcu 1914 roku osiągnął pełnoletność i przejął władzę od regenta. Nowy gabinet musiał od razu zmierzyć się z pytaniem, jaką postawę przyjąć wobec wojny w Europie.
 
 ## Neutralność na papierze
 

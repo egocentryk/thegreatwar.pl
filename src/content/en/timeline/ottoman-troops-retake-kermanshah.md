@@ -2,10 +2,10 @@
 title: Ottoman troops retake Kermanshah
 summary: On 1 July 1916 the Ottoman XIII Corps entered Kermanshah, abandoned overnight by Baratov's Russians. Persian nationalists returned to the city.
 source: wojska-osmanskie-odbijaja-kermanszah
-sourceHash: 3fb22b0b3a61f98f22a00a1ea2ef45416ff2cd31
+sourceHash: 08f55328959c6b20c7b369264464ab1a63d6e4dd
 ---
 
-On 1 July 1916 units of the Ottoman XIII Corps under Colonel Ali Ihsan Bey entered [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), the chief city of western Persia. General Nikolai Baratov's Russians had abandoned it without a fight during the night of 30 June/1 July. This date is given consistently by the British chronology of the war, the British official history of the Mesopotamian campaign (F. J. Moberly) and the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff. General Yevgeny Maslovsky of the staff of the Russian Caucasus Army, who counts days by the Julian calendar, describes it somewhat differently: according to him the Turks attacked the Russians near Kermanshah on 19 June (2 July), and Baratov's corps began to withdraw without a fight only on the night of 20 June (2/3 July). Some more recent studies therefore give 2 July.
+On 1 July 1916 units of the Ottoman XIII Corps under Colonel Ali Ihsan Bey entered [Kermanshah](/miejsca/kermanszah), the chief city of western Persia. General Nikolai Baratov's Russians had abandoned it without a fight during the night of 30 June/1 July. This date is given consistently by the British chronology of the war, the British official history of the Mesopotamian campaign (F. J. Moberly) and the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff. General Yevgeny Maslovsky of the staff of the Russian Caucasus Army, who counts days by the Julian calendar, describes it somewhat differently: according to him the Turks attacked the Russians near Kermanshah on 19 June (2 July), and Baratov's corps began to withdraw without a fight only on the night of 20 June (2/3 July). Some more recent studies therefore give 2 July.
 
 ## No line of defence
 

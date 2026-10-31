@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-11 października 1917 roku (28 września według kalendarza juliańskiego) rano na Bałtyku, na północ od [Lipawy](https://pl.wikipedia.org/wiki/Lipawa), połączyły się zespoły niemieckich okrętów, które od dwóch tygodni czekały na poprawę pogody. Dziesięć drednotów, krążownik liniowy, krążowniki, dziesiątki torpedowców i trałowców oraz 19 transportowców z żołnierzami ruszyło na północ, ku wyspie [Saremie](https://pl.wikipedia.org/wiki/Sarema), wówczas Ozylii (niem. Ösel). Zaczynała się operacja Albion, największy niemiecki desant morski w czasie wojny, którego celem było zdobycie wysp zamykających [Zatokę Ryską](https://pl.wikipedia.org/wiki/Zatoka_Ryska). Brytyjska chronologia wojny notuje pod tym dniem początek działań przeciw wyspom bałtyckim. Pierwsi żołnierze wyszli na brzeg nazajutrz o świcie.
+11 października 1917 roku (28 września według kalendarza juliańskiego) rano na Bałtyku, na północ od [Lipawy](/miejsca/lipawa), połączyły się zespoły niemieckich okrętów, które od dwóch tygodni czekały na poprawę pogody. Dziesięć drednotów, krążownik liniowy, krążowniki, dziesiątki torpedowców i trałowców oraz 19 transportowców z żołnierzami ruszyło na północ, ku wyspie [Saremie](https://pl.wikipedia.org/wiki/Sarema), wówczas Ozylii (niem. Ösel). Zaczynała się operacja Albion, największy niemiecki desant morski w czasie wojny, którego celem było zdobycie wysp zamykających [Zatokę Ryską](https://pl.wikipedia.org/wiki/Zatoka_Ryska). Brytyjska chronologia wojny notuje pod tym dniem początek działań przeciw wyspom bałtyckim. Pierwsi żołnierze wyszli na brzeg nazajutrz o świcie.
 
 ## Klucz do Zatoki Ryskiej
 

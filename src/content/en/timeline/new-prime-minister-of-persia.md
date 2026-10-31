@@ -2,7 +2,7 @@
 title: New prime minister of Persia
 summary: On 14 March 1915 Hassan Pirnia, Moshir od-Dowleh, succeeded Mostowfi ol-Mamalek as head of the Persian government. The country still sought to stay neutral.
 source: nowy-premier-persji
-sourceHash: 4205a5a7c120829ce6cb6f35788803db64b8b63b
+sourceHash: 5e96edf35c60c41b49c9c3d2bd61e152c7a1585b
 ---
 
 On 14 March 1915 the government of [Persia](/kraje/persja) changed. The prime minister, Mostowfi ol-Mamalek, resigned. His successor was Hassan Pirnia, known by his title of Moshir od-Dowleh. Only three weeks earlier, in February, [the foreign minister had changed](/nowy-minister-spraw-zagranicznych-persji). Now the whole government fell.
@@ -17,7 +17,7 @@ Russia had no intention of giving way. Its commanders argued that without Russia
 
 The new prime minister was one of the most respected politicians of his generation. He was born in 1871 in Nain, into the family of a senior official. His father, Mirza Nasrollah Khan, had headed the government in 1906, during the Constitutional Revolution. Hassan Pirnia was educated in Moscow, where he graduated from a military school and studied law, and was then Persian minister in St Petersburg. In 1899 he founded a school of political science in Tehran. After his father's death he took over his title of Moshir od-Dowleh and helped to draft the first Persian constitution. He had already served, among other posts, as foreign minister and minister of justice.
 
-The candidate for prime minister was nominated by the Majlis, and [Ahmad Shah](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) confirmed him. Moshir od-Dowleh enjoyed the support of the nationalists and intended to pursue a policy of genuine, not merely declared, neutrality. His government worked with parliament better than its predecessors. Together they repealed, among other things, the law that gave wide powers to the foreign treasurers, and transferred their responsibilities to the Persian finance minister.
+The candidate for prime minister was nominated by the Majlis, and [Ahmad Shah](/postacie/ahmad-szah-kadzar) confirmed him. Moshir od-Dowleh enjoyed the support of the nationalists and intended to pursue a policy of genuine, not merely declared, neutrality. His government worked with parliament better than its predecessors. Together they repealed, among other things, the law that gave wide powers to the foreign treasurers, and transferred their responsibilities to the Persian finance minister.
 
 ## A short-lived government
 

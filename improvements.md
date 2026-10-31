@@ -3003,6 +3003,80 @@ page counts, sample matches, JS-escape check, `--merge`).
 - To port to thesecondwar.pl: the `GUIDE` config shape and the dropdown
   script (`initGuide`, sharing the mobile menu's AbortController).
 
+## 58. Review fixes, glossary links, the final mixed batch (2026-10-31)
+
+- Owner: "Do 1, 2 and 3" (the §56 review items; links to targets we
+  already cover; one last mixed batch of the Wikipedia-links work).
+- **1. Review fixes:** Tyrwhitt "komodor" (`1916/08/zatopienie-hms-falmouth-…`);
+  Machado's children in the 1915 article (PL/EN) as on his person page
+  (the Museu da Presidência 17, other sources 18 or 19); `forces/armia-poludniowa`
+  (PL/EN): Bothmer's corps from March 1915 (de.wiki: renamed 23 III 1915;
+  quote and source added, 0 problems). workflow.md §8: the `Kryzys_lipcowy`
+  trap (its four uses are all 1917 and right). Crna/Bitola battle page:
+  "Dimityr Geszow" as elsewhere.
+- **2. Links to pages we have:** of the 708, ≈360 are kept on purpose
+  (date rule, own page, already linked); the rest pointed at glossary
+  terms without a longer text, which `wiki-to-internal.py` did not map.
+  It now maps every term of `glossary.json` by its name (after the
+  `wikiTitles` pages; `GLOSSARY_SKIP` = `Kryzys_lipcowy`, which on pl.wiki
+  is 1917 while our term is 1914; the report reads the same list). 301
+  files, 21,793 → 21,449. Later in the batch, ALIASES for the numbered
+  battles (pl.wiki `I_bitwa_nad_Marną`, `II_…`, `I_/II_bitwa_pod_Ypres`,
+  `II_/III_bitwa_nad_Aisne`) and `Front_salonicki`.
+- **3. The final mixed batch (24 pages, PL/EN, eight writers):**
+  - campaign overview `bitwy/front-salonicki` (`battles.md`, ≈2,300
+    words; Falls's official history; map point 41.05, 22.2 in
+    `battle-coords.json`);
+  - places (`places.md` batch 4): Dover, Saint-Quentin, Lens, Oise,
+    Lipawa, Prusy Wschodnie, Królestwo Polskie (EN "Kingdom of Poland", as
+    the edition says), Lublin, Czerniowce, Siedmiogród, Dunaj, Nisz,
+    Kermanszah (73 places);
+  - country `zwiazek-poludniowej-afryki` (Ententa, order 13);
+  - person `ahmad-szah-kadzar` with portrait; people may now have
+    `side: Państwa neutralne` (`content.config.ts`, `PeopleIndex.astro`
+    shows the group);
+  - six new glossary terms with longer texts (`batch4-a.json`,
+    `batch4-b.json`, merged: 149 terms, 37 texts): Schizma narodowa,
+    Sanusijja, Kolej Hidżaska, Rada Państwa (Austria), Wszechrosyjskie
+    Zgromadzenie Ustawodawcze (`konstytuanta`), Order Wybitnej Służby;
+  - forces: Portugalski Korpus Ekspedycyjny, the Russian 11th Army (17).
+- Code: `PlacePage.astro` STATE_EN gains Persja, Iran, "Polska i Rosja" and
+  the two Danube lists. `PeopleIndex.astro`: the phone country select
+  could push /en/people 6px wider than a 390px screen (already live);
+  it now shrinks to fit.
+- Links: 21,449 → 20,961 for the batch; 26,198 → 20,961 since the start
+  (−5,237, 20%). The top target now has 34 links (II wojna burska); the
+  pre-war wars (Boer, Franco-Prussian, Russo-Turkish) belong to A2, the
+  Russo-Japanese War and the Boxer Rising to thesecondwar.pl (Asia).
+- Checks: all content checks 0 (topics, countries, places, glossary,
+  forces, series, war numbers, year intros); i18n 0 (3,538 EN files);
+  build 8,208 pages (two fixes on the way: the shah's summary over 160,
+  the Salonika map point); Playwright 390/1280 px over 23 new and
+  changed pages: no horizontal scroll, no script errors.
+
+### Writers' notes (for the review list)
+
+- Franchet d'Espèrey: 56 files spell it with a grave accent (the French
+  form), 88 with an acute one (the person page, after pl.wiki): pick one.
+- `1916/08/portugalia-postanawia-wyslac-wojska-do-europy`: the CEP
+  "organised at Tancos on 22 VII 1916"; sources give 17 I 1917 as the
+  official founding (our 3 I 1917 article too).
+- `countries/grecja`: the Salonika government declared war on 23 XI 1916;
+  Hassiotis (1914-1918-online) says 24 XI.
+- `1917/02/koniec-operacji-przeciw-senusjom`: Sayyid Ahmad left on an
+  Austrian submarine; GlobalSecurity says German.
+- `otwarcie-konstytuanty`: the vote 237–146; en.wiki 237–136.
+- `postacie/stanislaw-szeptycki`: Lublin "od maja 1917"; archontology and
+  our Karl Kuk page: April 1917.
+- English battle pages write "Victor Dankl" in places; his person page
+  "Viktor".
+- `brytyjczycy-zajmuja-lens`: 3 X 1918; French sources often 4 X.
+- `royal-flying-corps-przelatuje-do-francji`: Harvey-Kelly left Dover at
+  6:25; doverhistorian.com 6:45.
+- `rzad-serbski-opuszcza-kraljevo` gives Vranje taken on 16 X 1915;
+  `bulgarzy-zajmuja-vranje` is dated 15 X. `bulgarzy-zajmuja-nisz`: 5 XI,
+  Serbian sources 6 XI (the Nisz page gives both).
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -3115,6 +3189,7 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links: glossary texts, batch 2 (§55)
 - [x] Wikipedia links: people, neutral states, the peace conference (§56)
 - [x] Navigation for Miejsca and Siły zbrojne: one "Przewodnik" menu item with a panel (§57; owner to judge the look)
+- [x] Wikipedia links: review fixes, glossary-term links, the final mixed batch (§58)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

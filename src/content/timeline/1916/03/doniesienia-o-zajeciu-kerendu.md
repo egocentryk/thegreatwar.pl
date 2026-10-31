@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 12 marca 1916 roku, że rosyjski oddział zajął Kerend w zachodniej Persji, i dodaje, że później się z niego wycofał. Tę samą datę podaje brytyjska historia oficjalna kampanii mezopotamskiej. Kerend, niewielkie miasto w górach [Zagros](https://pl.wikipedia.org/wiki/Zagros), leżał na głównej drodze karawanowej z [Kermanszahu](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) do Bagdadu, około 100 kilometrów na zachód od Kermanszahu, ponad połowę drogi do granicy z osmańskim Irakiem. Kto szedł z Persji na Bagdad, musiał go minąć.
+Brytyjska chronologia wojny notuje pod 12 marca 1916 roku, że rosyjski oddział zajął Kerend w zachodniej Persji, i dodaje, że później się z niego wycofał. Tę samą datę podaje brytyjska historia oficjalna kampanii mezopotamskiej. Kerend, niewielkie miasto w górach [Zagros](https://pl.wikipedia.org/wiki/Zagros), leżał na głównej drodze karawanowej z [Kermanszahu](/miejsca/kermanszah) do Bagdadu, około 100 kilometrów na zachód od Kermanszahu, ponad połowę drogi do granicy z osmańskim Irakiem. Kto szedł z Persji na Bagdad, musiał go minąć.
 
 ## Po upadku Kermanszahu
 

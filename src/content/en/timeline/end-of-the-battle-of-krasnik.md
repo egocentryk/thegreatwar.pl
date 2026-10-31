@@ -2,10 +2,10 @@
 title: End of the Battle of Kraśnik
 summary: On 25 August 1914 the Austro-Hungarian First Army took Kraśnik and the Russian Fourth Army fell back towards Lublin. It was Austria-Hungary's first victory.
 source: koniec-bitwy-pod-krasnikiem
-sourceHash: e31a78298fbf53a953f2e810ab0382f9da50f7c5
+sourceHash: b6df0829a265f39a1fcf4de315c0ba9fb5f804c7
 ---
 
-On 25 August 1914 the [Battle of Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem), the first major battle between the armies of Austria-Hungary and Russia, came to an end. The Austro-Hungarian First Army of General Viktor Dankl entered [Kraśnik](https://pl.wikipedia.org/wiki/Kraśnik), and the Russian Fourth Army of General Anton Saltza began to retreat northwards, towards [Lublin](https://pl.wikipedia.org/wiki/Lublin).
+On 25 August 1914 the [Battle of Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem), the first major battle between the armies of Austria-Hungary and Russia, came to an end. The Austro-Hungarian First Army of General Viktor Dankl entered [Kraśnik](https://pl.wikipedia.org/wiki/Kraśnik), and the Russian Fourth Army of General Anton Saltza began to retreat northwards, towards [Lublin](/miejsca/lublin).
 
 ## Three days of fighting
 

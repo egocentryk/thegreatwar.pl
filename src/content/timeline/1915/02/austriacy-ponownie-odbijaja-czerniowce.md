@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 17 lutego 1915 roku wojska austro-węgierskie zajęły [Czerniowce](https://pl.wikipedia.org/wiki/Czerniowce), stolicę [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny). Miasto po raz drugi wróciło w ręce austriackie. Pierwszy raz [odbiły je w październiku 1914 roku](/austriacy-odbijaja-czerniowce) improwizowane oddziały pułkownika Eduarda Fischera, ale pod koniec listopada [Rosjanie znów je zajęli](/rosjanie-ponownie-zajmuja-czerniowce). Teraz do miasta weszła regularna armia.
+Po południu 17 lutego 1915 roku wojska austro-węgierskie zajęły [Czerniowce](/miejsca/czerniowce), stolicę [Bukowiny](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny). Miasto po raz drugi wróciło w ręce austriackie. Pierwszy raz [odbiły je w październiku 1914 roku](/austriacy-odbijaja-czerniowce) improwizowane oddziały pułkownika Eduarda Fischera, ale pod koniec listopada [Rosjanie znów je zajęli](/rosjanie-ponownie-zajmuja-czerniowce). Teraz do miasta weszła regularna armia.
 
 ## Ofensywa w Bukowinie
 

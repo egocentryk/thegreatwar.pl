@@ -6,7 +6,7 @@ country: Union of South Africa
 birthPlace: Greytown (Natal)
 deathPlace: Pretoria
 source: louis-botha
-sourceHash: 1e4a6e8e57329906750491c27797b3213693e05e
+sourceHash: 3e243a5c752991c44a1735b036211484b29b6b5f
 ---
 
 Louis Botha was one of the most remarkable figures of the Great War. A dozen or so years earlier, as commandant-general of the Transvaal, he had fought against the British in the Boer War, and in 1914, as prime minister of a British dominion, he sided with the Empire without hesitation. He paid for it with a revolt by part of his own people. He put down the Boer rebellion personally, and then himself led the forces of the Union of South Africa across the Namib Desert and in July 1915 accepted the surrender of German South West Africa. Later he sent soldiers to East Africa and to France, and in 1919 he signed the Treaty of Versailles on behalf of his country. He died two months later.
@@ -17,7 +17,7 @@ He was born on 27 September 1862 near [Greytown](https://pl.wikipedia.org/wiki/G
 
 Fame came to him with the [Second Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska). He led the Boers in the victorious battles of [Colenso](https://pl.wikipedia.org/wiki/Bitwa_pod_Colenso) in December 1899 and [Spion Kop](https://pl.wikipedia.org/wiki/Bitwa_o_Spion_Kop) in January 1900, and in March 1900, not yet 38, he became commandant-general of the Transvaal. After the fall of Pretoria he waged a guerrilla war. According to a legend repeated by [Winston Churchill](/postacie/winston-churchill) himself, it was Botha who took the young war correspondent prisoner in November 1899; more recent research contradicts this. In 1902 he negotiated the terms of surrender with [Lord Kitchener](/postacie/horatio-kitchener) and Alfred Milner and signed the [Peace of Vereeniging](https://pl.wikipedia.org/wiki/Traktat_z_Vereeniging).
 
-From then on he staked everything on reconciliation with the British. Together with [Jan Smuts](/postacie/jan-smuts), eight years his junior, who became his closest collaborator, he won self-government for the Transvaal and in 1907 became its prime minister. After the creation of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) in 1910 he took office as its first prime minister. His programme of reconciliation among whites, Boers and British, soon split his camp, however. In 1912 he removed from the government General [Barry Hertzog](https://pl.wikipedia.org/wiki/Barry_Hertzog), who in 1914 founded the nationalist National Party. In 1913 Botha's government also passed the Natives Land Act, which forbade black inhabitants to buy land outside designated reserves.
+From then on he staked everything on reconciliation with the British. Together with [Jan Smuts](/postacie/jan-smuts), eight years his junior, who became his closest collaborator, he won self-government for the Transvaal and in 1907 became its prime minister. After the creation of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) in 1910 he took office as its first prime minister. His programme of reconciliation among whites, Boers and British, soon split his camp, however. In 1912 he removed from the government General [Barry Hertzog](https://pl.wikipedia.org/wiki/Barry_Hertzog), who in 1914 founded the nationalist National Party. In 1913 Botha's government also passed the Natives Land Act, which forbade black inhabitants to buy land outside designated reserves.
 
 ## 1914: war and rebellion
 

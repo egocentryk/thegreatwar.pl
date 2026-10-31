@@ -2,10 +2,10 @@
 title: The Constituent Assembly fails to open
 summary: The Constituent Assembly was due to meet in Petrograd on 11 December 1917. A few dozen deputies came, and that evening Lenin outlawed the Kadets.
 source: niedoszle-otwarcie-konstytuanty
-sourceHash: 56d3733b889b98e56377a699da37dfc38bfdeaea
+sourceHash: 9f03c9032452d916662b121f52f771fe46cd87ee
 ---
 
-On 11 December 1917 (28 November by the Julian calendar) the [All-Russian Constituent Assembly](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze) was due to meet in the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) in Petrograd. The date had been set back in August by the Provisional Government. But the [elections](/wybory-do-konstytuanty) went on in many districts until December, and only a small fraction of the deputies reached the capital. Instead of a ceremonial opening there was a rally outside the palace, a private meeting of a few dozen deputies and the Bolsheviks' first blow against the defenders of the Constituent Assembly. The British chronology of the war states that on 11 December the assembly met in Petrograd and that on 13 December the Bolsheviks dispersed it. The first statement is true only figuratively and the second is wrong: the real dispersal of the Constituent Assembly came only in January 1918.
+On 11 December 1917 (28 November by the Julian calendar) the [All-Russian Constituent Assembly](/slownik/konstytuanta) was due to meet in the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) in Petrograd. The date had been set back in August by the Provisional Government. But the [elections](/wybory-do-konstytuanty) went on in many districts until December, and only a small fraction of the deputies reached the capital. Instead of a ceremonial opening there was a rally outside the palace, a private meeting of a few dozen deputies and the Bolsheviks' first blow against the defenders of the Constituent Assembly. The British chronology of the war states that on 11 December the assembly met in Petrograd and that on 13 December the Bolsheviks dispersed it. The first statement is true only figuratively and the second is wrong: the real dispersal of the Constituent Assembly came only in January 1918.
 
 ## The Bolsheviks take the initiative
 

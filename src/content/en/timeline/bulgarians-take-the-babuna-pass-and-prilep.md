@@ -2,7 +2,7 @@
 title: Bulgarians take the Babuna Pass and Prilep
 summary: On 16 November 1915 the Bulgarians drove the Serbs off the Babuna Pass and took Prilep. The last hope of linking the Serbian army with the French collapsed.
 source: bulgarzy-zajmuja-przelecz-babuna-i-prilep
-sourceHash: d89c452b76978b1fb6d2af313c44e75bfb02fe31
+sourceHash: dd11f27cbf7dac05a657d41414e5a68d560a95d4
 ---
 
 The British chronology of the war records under 16 November 1915 that Bulgarian troops took the Babuna Pass and the town of [Prilep](https://pl.wikipedia.org/wiki/Prilep) in Serbian Macedonia. Sources on both sides confirm this. According to the Austrian official history, on 16 November a Bulgarian cavalry division, after several days of fighting and a wide outflanking movement from the west, drove the Serbs from around Prilep to the south. Bulgarian studies state that the town was taken that day by a battalion of the 26th Infantry Regiment of the 7th Division. The Bulgarians date the event to 3 November, because they still used the Julian calendar.
@@ -23,4 +23,4 @@ For several days the Serbs held the ridge, but the Bulgarian cavalry outflanked 
 
 The fall of Prilep sealed the fate of the Serbian army. Its main forces had by then gathered on the [Field of Kosovo](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)) and were still trying to break through south, to the French. The route through Prilep and Bitola was the last road by which part of the army could reach Greece and, by rail, Salonika. The British correspondent Gordon Gordon-Smith, who was then with Serbian headquarters at [Prizren](https://pl.wikipedia.org/wiki/Prizren), wrote that the news of the Bulgarians in Prilep and their march on Bitola extinguished the last hope. In the same days another Bulgarian detachment, advancing through Tetovo, reached [Gostivar](https://pl.wikipedia.org/wiki/Gostiwar) on 16 November and threatened Prizren from the south. A week later the Serbian high command decided to withdraw the army across the mountains of Albania and Montenegro to the Adriatic.
 
-The Bulgarians held Prilep and the Babuna Pass almost to the end of the war. They were retaken only by the Allies during the offensive on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) in September 1918.
+The Bulgarians held Prilep and the Babuna Pass almost to the end of the war. They were retaken only by the Allies during the offensive on the [Salonika front](/bitwy/front-salonicki) in September 1918.

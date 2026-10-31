@@ -2,10 +2,10 @@
 title: First German air raid on England
 summary: On 21 December 1914 a German seaplane from Zeebrugge dropped two bombs into the sea near the harbour at Dover. It was the first German air raid on England.
 source: pierwszy-niemiecki-nalot-na-anglie
-sourceHash: 91c14883230622703e20d63d897a2f887abcd2b0
+sourceHash: f2c8030e17d113d4ee7f8d521ed9afcb929fde61
 ---
 
-On 21 December 1914, at about 1 p.m., a German [seaplane](https://pl.wikipedia.org/wiki/Wodnosamolot) appeared over [Dover](https://pl.wikipedia.org/wiki/Dover). The crew dropped two bombs, which fell into the sea near the Admiralty Pier, the long breakwater sheltering the harbour. Nobody was hurt and nothing was damaged. Even so, British records of the events of the war noted the day as the first German air raid on England. Reports of air attacks on the British Isles had appeared earlier in the German press, but the British did not confirm them. This flight was the first undoubted air raid on Britain.
+On 21 December 1914, at about 1 p.m., a German [seaplane](/slownik/wodnosamolot) appeared over [Dover](/miejsca/dover). The crew dropped two bombs, which fell into the sea near the Admiralty Pier, the long breakwater sheltering the harbour. Nobody was hurt and nothing was damaged. Even so, British records of the events of the war noted the day as the first German air raid on England. Reports of air attacks on the British Isles had appeared earlier in the German press, but the British did not confirm them. This flight was the first undoubted air raid on Britain.
 
 The aircraft belonged to the 1st Naval Air Unit (Seeflieger-Abteilung 1) of the Imperial Navy, which was based in the Belgian port of [Zeebrugge](/miejsca/zeebrugge), taken by the Germans [in October](/niemcy-zajmuja-ostende-i-zeebrugge). From the Flanders coast to Dover was a little over 100 kilometres, a distance within the range of the seaplanes of the day. It was a two-seat Friedrichshafen FF 29 biplane, number 203, built at the aircraft works in Friedrichshafen on Lake Constance. It could carry only a few small bombs. According to the British historian of the raids Ian Castle, the aircraft was flown by Oberleutnant zur See Stephan von Prondzynski, with Fähnrich zur See Ludwig von Frankenberg as observer. The spelling of the pilot's name varies in the sources.
 

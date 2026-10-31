@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 marca 1915 roku niemiecki [wodnosamolot](https://pl.wikipedia.org/wiki/Wodnosamolot) zaatakował u wschodnich wybrzeży Anglii, w pobliżu przylądka North Foreland w hrabstwie Kent, niewielki brytyjski parowiec Blonde. Zrzucił pięć bomb, ale wszystkie chybiły. Brytyjska chronologia wojny odnotowuje to wydarzenie jako pierwszy atak samolotu na statek handlowy.
+15 marca 1915 roku niemiecki [wodnosamolot](/slownik/wodnosamolot) zaatakował u wschodnich wybrzeży Anglii, w pobliżu przylądka North Foreland w hrabstwie Kent, niewielki brytyjski parowiec Blonde. Zrzucił pięć bomb, ale wszystkie chybiły. Brytyjska chronologia wojny odnotowuje to wydarzenie jako pierwszy atak samolotu na statek handlowy.
 
 Blonde, parowiec o pojemności 613 ton rejestrowych brutto, płynął pod balastem, bez ładunku, z [Cowes](https://pl.wikipedia.org/wiki/Cowes) na wyspie Wight do ujścia [Tyne](https://pl.wikipedia.org/wiki/Tyne). Według brytyjskich zestawień strat i uszkodzeń statków handlowych znajdował się około trzech mil na wschód od North Foreland, gdy drugi oficer zauważył samolot nadlatujący od wschodu. Kapitan kazał dać całą naprzód, płynąć zygzakiem i włączyć syrenę. Pięć bomb spadło blisko burty, ale nie wyrządziło szkód. Wkrótce nadpłynął uzbrojony kuter z flotylli patrolowej z [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate). Według brytyjskiej monografii sztabu marynarki był to dryfter Paramount, który oddał strzał ze swojego działka, a napastnik odleciał na wschód i zniknął we mgle.
 

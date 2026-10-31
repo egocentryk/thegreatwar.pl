@@ -9,7 +9,7 @@ sides:
     commanders: [Nikolai Krylenko, Mikhail Bonch-Bruyevich]
 result: Central Powers victory. In less than two weeks they took Livonia, Estonia and much of Belarus and Ukraine, including Kiev. Soviet Russia accepted harsher terms and signed the Treaty of Brest-Litovsk on 3 March.
 source: operacja-faustschlag
-sourceHash: 62db73c5ad847d6b62e158f411304d9ca77ec506
+sourceHash: f3eb57e02b8af6d8e2f5a2060777d53d15cc35b5
 brief:
   - "Operation Faustschlag, from 18 February to 3 March 1918, was the last great offensive on the Eastern Front of the First World War."
   - "The Bolsheviks at Brest had declared the war over but refused to sign an annexationist peace. The Germans terminated the armistice, and Ludendorff demanded \"a short but strong blow\"."
@@ -18,7 +18,7 @@ brief:
   - "Lenin forced through acceptance of far harsher terms, and on 3 March Russia signed the Treaty of Brest-Litovsk. For Germany it was an illusory victory, as dozens of divisions stayed in the east."
 ---
 
-Operation Faustschlag ("Fist Punch") was the last great offensive on the Eastern Front of the First World War. After the Bolsheviks at Brest had declared the war over but refused to sign a peace, the Germans terminated the armistice and on 18 February 1918 set off eastwards. The disintegrating Russian army offered almost no resistance. Small detachments, carried by rail from station to station, took within a few days towns over which months-long battles had been fought in 1915–1917. The offensive forced [Vladimir Lenin](/postacie/wlodzimierz-lenin)'s government to accept far harsher terms than those it had rejected in January, and it ended with the signing of the [Treaty of Brest-Litovsk](https://pl.wikipedia.org/wiki/Traktat_brzeski) on 3 March 1918.
+Operation Faustschlag ("Fist Punch") was the last great offensive on the Eastern Front of the First World War. After the Bolsheviks at Brest had declared the war over but refused to sign a peace, the Germans terminated the armistice and on 18 February 1918 set off eastwards. The disintegrating Russian army offered almost no resistance. Small detachments, carried by rail from station to station, took within a few days towns over which months-long battles had been fought in 1915–1917. The offensive forced [Vladimir Lenin](/postacie/wlodzimierz-lenin)'s government to accept far harsher terms than those it had rejected in January, and it ended with the signing of the [Treaty of Brest-Litovsk](/slownik/traktat-brzeski) on 3 March 1918.
 
 ## Name and dates
 

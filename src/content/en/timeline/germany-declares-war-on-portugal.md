@@ -2,7 +2,7 @@
 title: Germany declares war on Portugal
 summary: On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal.
 source: niemcy-wypowiadaja-wojne-portugalii
-sourceHash: 382181385f3638ce52729e98f740915d8d129fca
+sourceHash: 5b498002bf0bb2797c68fa7437b81436efa122b8
 brief:
   - "On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal. The following evening Rosen left for Madrid."
   - "The immediate cause was the seizure by the Portuguese, at Britain's request, of German and Austro-Hungarian merchant ships in the Tagus on 23 February. Lisbon refused to revoke the decision."
@@ -43,4 +43,4 @@ Costa tendered his cabinet's resignation and continued to govern on an interim b
 
 ## The first months of the war
 
-A few days later Austria-Hungary followed Germany's lead. In Africa the Portuguese went into action at once: on 10 April 1916 they occupied the Kionga Triangle at the mouth of the Rovuma, a disputed scrap of land that the Germans had taken from them in 1894. Only in the summer of 1916 did Britain formally ask Portugal to take an active part in the war in Europe. A division was then formed at the Tancos training ground, from which the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) grew. Its first soldiers landed in France at the beginning of 1917. The Portuguese paid a high price for their choice: German submarines sank several dozen Portuguese ships, and on 9 April 1918 a German blow fell on the Portuguese sector of the front, opening the [Battle of the Lys](https://pl.wikipedia.org/wiki/Bitwa_nad_Lys).
+A few days later Austria-Hungary followed Germany's lead. In Africa the Portuguese went into action at once: on 10 April 1916 they occupied the Kionga Triangle at the mouth of the Rovuma, a disputed scrap of land that the Germans had taken from them in 1894. Only in the summer of 1916 did Britain formally ask Portugal to take an active part in the war in Europe. A division was then formed at the Tancos training ground, from which the [Portuguese Expeditionary Corps](/sily-zbrojne/portugalski-korpus-ekspedycyjny) grew. Its first soldiers landed in France at the beginning of 1917. The Portuguese paid a high price for their choice: German submarines sank several dozen Portuguese ships, and on 9 April 1918 a German blow fell on the Portuguese sector of the front, opening the [Battle of the Lys](https://pl.wikipedia.org/wiki/Bitwa_nad_Lys).

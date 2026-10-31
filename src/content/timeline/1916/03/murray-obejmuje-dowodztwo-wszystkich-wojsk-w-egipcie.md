@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 marca 1916 roku generał sir Archibald Murray formalnie przejął od generała porucznika sir Johna Maxwella dowództwo wszystkich wojsk brytyjskich w [Egipcie](https://pl.wikipedia.org/wiki/Egipt). Od stycznia w kraju było dwóch niezależnych dowódców: Murray, który [przejął Śródziemnomorskie Siły Ekspedycyjne](/murray-obejmuje-dowodztwo-w-egipcie) i bronił Kanału Sueskiego od wschodu, oraz Maxwell, który rządził resztą Egiptu i prowadził wojnę z bractwem [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) na zachodzie. Obaj uważali ten układ za szkodliwy. Murray w swoim pierwszym raporcie z Egiptu nazwał go systemem podwójnej kontroli, który z konieczności był niezadowalający, zwłaszcza z punktu widzenia oszczędności.
+19 marca 1916 roku generał sir Archibald Murray formalnie przejął od generała porucznika sir Johna Maxwella dowództwo wszystkich wojsk brytyjskich w [Egipcie](https://pl.wikipedia.org/wiki/Egipt). Od stycznia w kraju było dwóch niezależnych dowódców: Murray, który [przejął Śródziemnomorskie Siły Ekspedycyjne](/murray-obejmuje-dowodztwo-w-egipcie) i bronił Kanału Sueskiego od wschodu, oraz Maxwell, który rządził resztą Egiptu i prowadził wojnę z bractwem [Sanusijja](/slownik/sanusijja) na zachodzie. Obaj uważali ten układ za szkodliwy. Murray w swoim pierwszym raporcie z Egiptu nazwał go systemem podwójnej kontroli, który z konieczności był niezadowalający, zwłaszcza z punktu widzenia oszczędności.
 
 ## Decyzja z Londynu
 

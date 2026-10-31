@@ -6,14 +6,14 @@ country: Russia
 birthPlace: Moscow (Russian Empire)
 deathPlace: Moscow
 source: nikolaj-bucharin
-sourceHash: 09dcf598edf21512799fb6ef544e5d51d031bc6f
+sourceHash: 8cc689390f8fd701d32011e5317a015ea74f39ce
 ---
 
 Nikolai Bukharin was the youngest of the great Bolshevik leaders and their ablest theorist. During the war, as an émigré, he wrote works on imperialism that [Vladimir Lenin](/postacie/wlodzimierz-lenin) drew on, while at the same time arguing with him over the national question and the state. In 1917 he led the Bolsheviks in Moscow, and after the revolution he took over the editorship of *Pravda*. His role in the history of the war is concentrated in a few weeks at the turn of 1917 and 1918. When Lenin decided to accept the peace imposed by Germany, Bukharin put himself at the head of the Left Communists, who demanded a "revolutionary war" against imperialism and counted on revolution in Europe. For several weeks he had the majority of the party behind him and very nearly brought about a split. In the history of the USSR he later made his name as the theorist of the New Economic Policy, an opponent of forced collectivisation and a victim of one of the great show trials.
 
 ## Before the war
 
-He was born on 9 October 1888 (27 September in the Julian calendar) in Moscow, into a family of teachers. As a secondary-school pupil he and his friend, the future writer [Ilya Ehrenburg](https://pl.wikipedia.org/wiki/Ilja_Erenburg), took part in student rallies during the [Revolution of 1905](https://pl.wikipedia.org/wiki/Rewolucja_1905_roku), and in 1906 he joined the Social Democratic party, in its [Bolshevik](https://pl.wikipedia.org/wiki/Bolszewicy) faction. He studied economics at Moscow University and soon joined the party's Moscow committee. He was arrested several times, and in 1911 he was exiled to Onega in Arkhangelsk Governorate. In the same year he escaped from exile and went abroad, to Hanover and then to Austria-Hungary. In 1912 he met Lenin in Kraków. In emigration he studied economics diligently, including the works of the Austrian Marxists and of theorists outside the mainstream, which more than once led to disputes with Lenin.
+He was born on 9 October 1888 (27 September in the Julian calendar) in Moscow, into a family of teachers. As a secondary-school pupil he and his friend, the future writer [Ilya Ehrenburg](https://pl.wikipedia.org/wiki/Ilja_Erenburg), took part in student rallies during the [Revolution of 1905](https://pl.wikipedia.org/wiki/Rewolucja_1905_roku), and in 1906 he joined the Social Democratic party, in its [Bolshevik](/slownik/bolszewicy) faction. He studied economics at Moscow University and soon joined the party's Moscow committee. He was arrested several times, and in 1911 he was exiled to Onega in Arkhangelsk Governorate. In the same year he escaped from exile and went abroad, to Hanover and then to Austria-Hungary. In 1912 he met Lenin in Kraków. In emigration he studied economics diligently, including the works of the Austrian Marxists and of theorists outside the mainstream, which more than once led to disputes with Lenin.
 
 ## The war in emigration
 

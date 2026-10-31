@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 stycznia 1917 roku rządy Portugalii i Wielkiej Brytanii podpisały konwencję wojskową, która określała, na jakich warunkach portugalscy żołnierze pójdą walczyć do Francji. Brytyjska chronologia wojny notuje pod tą datą, że do Francji przybyły pierwsze oddziały [Portugalskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) (Corpo Expedicionário Português, CEP). Portugalskie chronologie wojny i opracowania historyków opisują ten dzień inaczej. Na początku stycznia we Francji była tylko niewielka grupa oficerów sztabu, którzy w grudniu 1916 roku wyjechali tam z szefem sztabu korpusu, majorem Robertem Baptistą, by przygotować przyjęcie wojsk. Pierwsza brygada wypłynęła z Lizbony dopiero pod koniec stycznia, a na francuskiej ziemi stanęła 2 lutego.
+3 stycznia 1917 roku rządy Portugalii i Wielkiej Brytanii podpisały konwencję wojskową, która określała, na jakich warunkach portugalscy żołnierze pójdą walczyć do Francji. Brytyjska chronologia wojny notuje pod tą datą, że do Francji przybyły pierwsze oddziały [Portugalskiego Korpusu Ekspedycyjnego](/sily-zbrojne/portugalski-korpus-ekspedycyjny) (Corpo Expedicionário Português, CEP). Portugalskie chronologie wojny i opracowania historyków opisują ten dzień inaczej. Na początku stycznia we Francji była tylko niewielka grupa oficerów sztabu, którzy w grudniu 1916 roku wyjechali tam z szefem sztabu korpusu, majorem Robertem Baptistą, by przygotować przyjęcie wojsk. Pierwsza brygada wypłynęła z Lizbony dopiero pod koniec stycznia, a na francuskiej ziemi stanęła 2 lutego.
 
 ## Co ustalono
 

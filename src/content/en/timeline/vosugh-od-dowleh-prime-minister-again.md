@@ -2,10 +2,10 @@
 title: Vosugh od-Dowleh prime minister again
 summary: In early August 1918 the Shah dismissed Samsam ol-Saltaneh's government, unfriendly to the Entente. On 7 August Vosugh od-Dowleh became prime minister.
 source: wosug-od-dole-ponownie-premierem
-sourceHash: 8c1fbf2022eab62c5fdf28183a29b0e56be43bab
+sourceHash: 15af2673c32de34dba0391a533df122199da7fbc
 ---
 
-The British chronology of the war records under 7 August 1918 that Vosugh od-Dowleh became prime minister of [Persia](/kraje/persja). Four days earlier, on 3 August, according to the same chronology, his predecessor had stepped down: the [Bakhtiari](https://pl.wikipedia.org/wiki/Bachtiarowie) chief Samsam ol-Saltaneh, who had headed the government since May and [reshuffled his cabinet in June](/samsam-os-saltane-ponownie-premierem). The date of 7 August is also given by F. J. Moberly's British official history of the Mesopotamian campaign and by the Encyclopaedia Iranica. Persian lists of governments end Samsam's cabinet and begin Vosugh's on the same day, 15 Mordad 1297 in the Iranian calendar, that is, 6 August (conversions of Iranian dates from these years often differ by a day), while English-language studies sometimes give 8 August. According to Persian accounts, Shah [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) summoned Samsam to the Golestan Palace and ordered him to resign.
+The British chronology of the war records under 7 August 1918 that Vosugh od-Dowleh became prime minister of [Persia](/kraje/persja). Four days earlier, on 3 August, according to the same chronology, his predecessor had stepped down: the [Bakhtiari](https://pl.wikipedia.org/wiki/Bachtiarowie) chief Samsam ol-Saltaneh, who had headed the government since May and [reshuffled his cabinet in June](/samsam-os-saltane-ponownie-premierem). The date of 7 August is also given by F. J. Moberly's British official history of the Mesopotamian campaign and by the Encyclopaedia Iranica. Persian lists of governments end Samsam's cabinet and begin Vosugh's on the same day, 15 Mordad 1297 in the Iranian calendar, that is, 6 August (conversions of Iranian dates from these years often differ by a day), while English-language studies sometimes give 8 August. According to Persian accounts, Shah [Ahmad](/postacie/ahmad-szah-kadzar) summoned Samsam to the Golestan Palace and ordered him to resign.
 
 ## The Shah changes sides
 

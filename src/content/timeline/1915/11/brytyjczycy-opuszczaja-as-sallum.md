@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-23 listopada 1915 roku egipski garnizon [As-Sallum](https://pl.wikipedia.org/wiki/As-Sallum), nieco ponad stu żołnierzy, wszedł na pokład kutra straży przybrzeżnej Rasheed i odpłynął na wschód, do [Marsa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh). Brytyjczycy oddali bez walki swój najdalej wysunięty na zachód posterunek w Egipcie. Tego samego dnia zaczęli przewozić morzem wojsko do Marsa Matruh, gdzie miała się zebrać nowa formacja do walki z bractwem [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja), Siły Zachodniej Granicy (Western Frontier Force).
+23 listopada 1915 roku egipski garnizon [As-Sallum](https://pl.wikipedia.org/wiki/As-Sallum), nieco ponad stu żołnierzy, wszedł na pokład kutra straży przybrzeżnej Rasheed i odpłynął na wschód, do [Marsa Matruh](https://pl.wikipedia.org/wiki/Marsa_Matruh). Brytyjczycy oddali bez walki swój najdalej wysunięty na zachód posterunek w Egipcie. Tego samego dnia zaczęli przewozić morzem wojsko do Marsa Matruh, gdzie miała się zebrać nowa formacja do walki z bractwem [Sanusijja](/slownik/sanusijja), Siły Zachodniej Granicy (Western Frontier Force).
 
 ## Napady po obu stronach granicy
 

@@ -18,7 +18,7 @@ brief:
   - "Traktat przetrwał niespełna dziewięć miesięcy. W rozejmie z Compiègne 11 listopada 1918 roku Niemcy musiały się go wyrzec, a 13 listopada władze radzieckie uznały go za nieważny."
 ---
 
-3 marca 1918 roku, w niedzielę, w Białym Pałacu [Twierdzy Brzeskiej](https://pl.wikipedia.org/wiki/Twierdza_Brzeska) delegacja Rosji Radzieckiej podpisała [traktat pokojowy](https://pl.wikipedia.org/wiki/Traktat_brzeski) z Niemcami, Austro-Węgrami, Bułgarią i Turcją. Po trzech miesiącach rokowań, przerwanych w lutym przez [„ani wojnę, ani pokój”](/ani-wojna-ani-pokoj) Trockiego i niemiecką ofensywę, Rosja wyszła z wojny na warunkach podyktowanych jej siłą. Wyrzekła się zwierzchnictwa nad Polską, Litwą i Kurlandią, zgodziła się opuścić Inflanty, Estonię, Finlandię i Ukrainę oraz oddać Turcji okręgi Karsu, Ardahanu i Batumi. Na wschodzie zakończyła się tego dnia wojna, która od sierpnia 1914 roku pochłonęła miliony ofiar.
+3 marca 1918 roku, w niedzielę, w Białym Pałacu [Twierdzy Brzeskiej](https://pl.wikipedia.org/wiki/Twierdza_Brzeska) delegacja Rosji Radzieckiej podpisała [traktat pokojowy](/slownik/traktat-brzeski) z Niemcami, Austro-Węgrami, Bułgarią i Turcją. Po trzech miesiącach rokowań, przerwanych w lutym przez [„ani wojnę, ani pokój”](/ani-wojna-ani-pokoj) Trockiego i niemiecką ofensywę, Rosja wyszła z wojny na warunkach podyktowanych jej siłą. Wyrzekła się zwierzchnictwa nad Polską, Litwą i Kurlandią, zgodziła się opuścić Inflanty, Estonię, Finlandię i Ukrainę oraz oddać Turcji okręgi Karsu, Ardahanu i Batumi. Na wschodzie zakończyła się tego dnia wojna, która od sierpnia 1914 roku pochłonęła miliony ofiar.
 
 ## Podpis bez dyskusji
 

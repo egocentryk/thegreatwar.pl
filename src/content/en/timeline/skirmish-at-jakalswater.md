@@ -2,16 +2,16 @@
 title: Skirmish at Jakalswater
 summary: On 20 March 1915 Botha's troops attacked the Germans at Riet, Pforte and Jakalswater. They took key wells on the edge of the Namib and over 200 prisoners.
 source: potyczka-pod-jakalswater
-sourceHash: 0045a91eae3b8923b6216ef986f3f1200aa30417
+sourceHash: a533d9e060e96fa120dc339dcb86e33fcacd5437
 ---
 
-On 20 March 1915 the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) under their prime minister and commander-in-chief, [Louis Botha](/postacie/louis-botha), struck at the German defensive line in the valley of the [Swakop](https://pl.wikipedia.org/wiki/Swakop) river, in [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The British chronology of the war calls this engagement the skirmish at Jakalswater, but that day fighting took place simultaneously in three places: at Riet, Pforte and Jakalswater. South African historians consider this action one of the most important of the whole campaign.
+On 20 March 1915 the troops of the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) under their prime minister and commander-in-chief, [Louis Botha](/postacie/louis-botha), struck at the German defensive line in the valley of the [Swakop](https://pl.wikipedia.org/wiki/Swakop) river, in [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The British chronology of the war calls this engagement the skirmish at Jakalswater, but that day fighting took place simultaneously in three places: at Riet, Pforte and Jakalswater. South African historians consider this action one of the most important of the whole campaign.
 
 ## The fight for water
 
 At the end of February the Northern Force [set out from Swakopmund](/sily-polnocne-ruszaja-na-windhuk) up the Swakop valley. Further inland its way was barred by a German defensive line resting on Riet on the Swakop, the Pforte pass at the foot of Husab mountain and Jakalswater railway station. All these places had water. To take an army across the [Namib](https://pl.wikipedia.org/wiki/Namib) desert, Botha had to capture every well in turn and hold it.
 
-The positions were held by part of the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), the German colonial troops, commanded since November 1914 by Victor Franke. South African intelligence, which was reading intercepted German wireless messages, knew their strength fairly accurately: at Pforte there were at least two mounted companies with guns, at Riet four companies and a battery, and in reserve at Jakalswater and Modderfontein further batteries and companies. On 18 March Botha set out with a force that, according to one account, numbered about 7,500 men, many times more than the Germans. The last stage of the march led through waterless desert.
+The positions were held by part of the [Schutztruppe](/slownik/schutztruppe), the German colonial troops, commanded since November 1914 by Victor Franke. South African intelligence, which was reading intercepted German wireless messages, knew their strength fairly accurately: at Pforte there were at least two mounted companies with guns, at Riet four companies and a battery, and in reserve at Jakalswater and Modderfontein further batteries and companies. On 18 March Botha set out with a force that, according to one account, numbered about 7,500 men, many times more than the Germans. The last stage of the march led through waterless desert.
 
 ## Three engagements
 

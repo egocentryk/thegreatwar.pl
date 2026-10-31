@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 września 1914 roku w [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) zaczął się kryzys, który przerodził się w zbrojny bunt części [Burów](https://pl.wikipedia.org/wiki/Burowie) przeciw własnemu rządowi. Tego dnia generał Christiaan Beyers, dowódca sił zbrojnych Związku, podał się do dymisji w proteście przeciw planowanej wojnie z Niemcami. Wieczorem zginął, zastrzelony przez policję, generał Koos de la Rey, jeden z najbardziej szanowanych bohaterów wojny burskiej. Rebelia, nazywana od nazwiska jednego z przywódców rebelią Maritza, wybuchła otwarcie kilka tygodni później.
+15 września 1914 roku w [Związku Południowej Afryki](/kraje/zwiazek-poludniowej-afryki) zaczął się kryzys, który przerodził się w zbrojny bunt części [Burów](https://pl.wikipedia.org/wiki/Burowie) przeciw własnemu rządowi. Tego dnia generał Christiaan Beyers, dowódca sił zbrojnych Związku, podał się do dymisji w proteście przeciw planowanej wojnie z Niemcami. Wieczorem zginął, zastrzelony przez policję, generał Koos de la Rey, jeden z najbardziej szanowanych bohaterów wojny burskiej. Rebelia, nazywana od nazwiska jednego z przywódców rebelią Maritza, wybuchła otwarcie kilka tygodni później.
 
 ## Wojna, której nie chcieli
 

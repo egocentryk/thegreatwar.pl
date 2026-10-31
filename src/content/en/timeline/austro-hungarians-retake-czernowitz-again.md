@@ -2,10 +2,10 @@
 title: Austro-Hungarians retake Czernowitz again
 summary: On 17 February 1915 Karl Pflanzer-Baltin's Austro-Hungarian troops entered Czernowitz. The second Russian occupation of the Bukovinian capital was over.
 source: austriacy-ponownie-odbijaja-czerniowce
-sourceHash: a08693ab6a5967a3d1332f696faa401bd2eb02ef
+sourceHash: 734d43092e8b1ff92a77e2f653ec1d88a87bd197
 ---
 
-On the afternoon of 17 February 1915 Austro-Hungarian troops occupied [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce), the capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny). For the second time the city returned to Austrian hands. The first time it had been [retaken in October 1914](/austriacy-odbijaja-czerniowce) by Colonel Eduard Fischer's improvised units, but at the end of November [the Russians occupied it again](/rosjanie-ponownie-zajmuja-czerniowce). Now a regular army entered the city.
+On the afternoon of 17 February 1915 Austro-Hungarian troops occupied [Czernowitz](/miejsca/czerniowce), the capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny). For the second time the city returned to Austrian hands. The first time it had been [retaken in October 1914](/austriacy-odbijaja-czerniowce) by Colonel Eduard Fischer's improvised units, but at the end of November [the Russians occupied it again](/rosjanie-ponownie-zajmuja-czerniowce). Now a regular army entered the city.
 
 ## The offensive in Bukovina
 

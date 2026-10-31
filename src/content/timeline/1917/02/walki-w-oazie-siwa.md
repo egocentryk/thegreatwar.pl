@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 lutego 1917 roku o dziewiątej rano kolumna brytyjskich samochodów pancernych zjechała z płaskowyżu Pustyni Zachodniej do oazy [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)) przy granicy z włoską Libią i zaatakowała obóz bractwa [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) w Girbie, na zachodnim skraju oazy. Była to ostatnia twierdza przywódcy bractwa, Sajjida Ahmada asz-Szarifa, w Egipcie. Walka trwała do świtu następnego dnia, po czym ludzie bractwa wymknęli się na zachód, a 5 lutego Brytyjczycy bez oporu weszli do samej Siwy. Brytyjska chronologia wojny notuje początek działań w oazie pod 3, a ich koniec pod 5 lutego.
+3 lutego 1917 roku o dziewiątej rano kolumna brytyjskich samochodów pancernych zjechała z płaskowyżu Pustyni Zachodniej do oazy [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)) przy granicy z włoską Libią i zaatakowała obóz bractwa [Sanusijja](/slownik/sanusijja) w Girbie, na zachodnim skraju oazy. Była to ostatnia twierdza przywódcy bractwa, Sajjida Ahmada asz-Szarifa, w Egipcie. Walka trwała do świtu następnego dnia, po czym ludzie bractwa wymknęli się na zachód, a 5 lutego Brytyjczycy bez oporu weszli do samej Siwy. Brytyjska chronologia wojny notuje początek działań w oazie pod 3, a ich koniec pod 5 lutego.
 
 ## Rajd samymi samochodami
 

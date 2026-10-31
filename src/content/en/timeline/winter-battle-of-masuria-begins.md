@@ -2,10 +2,10 @@
 title: Winter Battle of Masuria begins
 summary: The British chronology dates the start of the Winter Battle of Masuria to 4 February 1915. The Germans were still massing; the attack began on 7 February.
 source: poczatek-zimowej-bitwy-na-mazurach
-sourceHash: d2fa46a954fbbe302352518d73235b0599b9a346
+sourceHash: 8a6d346961c96fbc06df27bc04c333b02738cf19
 ---
 
-The British chronology of the war gives 4 February 1915 as the start of the Winter Battle of Masuria, also called the Second Battle of the Masurian Lakes. Over the next two weeks two German armies drove General Faddei Sievers's Russian [10th Army](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)), which since the autumn of 1914 had held the eastern edge of the province, out of [East Prussia](https://pl.wikipedia.org/wiki/Prusy_Wschodnie).
+The British chronology of the war gives 4 February 1915 as the start of the Winter Battle of Masuria, also called the Second Battle of the Masurian Lakes. Over the next two weeks two German armies drove General Faddei Sievers's Russian [10th Army](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)), which since the autumn of 1914 had held the eastern edge of the province, out of [East Prussia](/miejsca/prusy-wschodnie).
 
 ## The date
 

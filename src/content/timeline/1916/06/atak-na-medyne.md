@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-6 czerwca 1916 roku, nazajutrz po [wybuchu powstania](/poczatek-powstania-arabskiego), arabskie oddziały emira [Fajsala](/postacie/fajsal-i) zaatakowały umocnienia [Medyny](https://pl.wikipedia.org/wiki/Medyna_(miasto)), drugiego najświętszego miasta islamu i końcowej stacji [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska). Szturm się nie powiódł. Turecki garnizon, którym dowodził generał Fahreddin Pasza (w źródłach brytyjskich Fakhri Pasza), odparł powstańców, a ich próby przecięcia linii kolejowej do Damaszku przyniosły tylko krótką przerwę w ruchu. Datę 6 czerwca podaje brytyjska historia oficjalna kampanii w Egipcie i Palestynie; walki pod miastem trwały jednak kilka dni.
+6 czerwca 1916 roku, nazajutrz po [wybuchu powstania](/poczatek-powstania-arabskiego), arabskie oddziały emira [Fajsala](/postacie/fajsal-i) zaatakowały umocnienia [Medyny](https://pl.wikipedia.org/wiki/Medyna_(miasto)), drugiego najświętszego miasta islamu i końcowej stacji [Kolei Hidżaskiej](/slownik/kolej-hidzaska). Szturm się nie powiódł. Turecki garnizon, którym dowodził generał Fahreddin Pasza (w źródłach brytyjskich Fakhri Pasza), odparł powstańców, a ich próby przecięcia linii kolejowej do Damaszku przyniosły tylko krótką przerwę w ruchu. Datę 6 czerwca podaje brytyjska historia oficjalna kampanii w Egipcie i Palestynie; walki pod miastem trwały jednak kilka dni.
 
 ## Turcy byli ostrzeżeni
 

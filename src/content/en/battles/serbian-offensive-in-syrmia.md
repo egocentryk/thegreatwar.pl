@@ -9,10 +9,10 @@ sides:
     commanders: [Oskar Potiorek, Alfred Krauss]
 result: Serbian failure. After the defeat of the Timok Division at Mitrovica and the capture of Zemun, the Serbian troops withdrew behind the Sava to repel the second Austro-Hungarian invasion.
 source: ofensywa-w-sremie
-sourceHash: 0f5c96930ecfaf71778a7a980d74b06ada1be15e
+sourceHash: 618248370553a16c104e90f5eee40f9a55446982
 ---
 
-The offensive in Syrmia was the Serbian army's first and only attempt in 1914 to carry the war onto Austro-Hungarian territory. In September 1914 Serbian troops crossed the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and entered [Syrmia](https://pl.wikipedia.org/wiki/Srem), a fertile region between the Sava and the [Danube](https://pl.wikipedia.org/wiki/Dunaj), which then belonged to the Hungarian half of the monarchy and was largely inhabited by Serbs. The operation lasted about a week and ended in retreat, because Austria-Hungary struck at Serbia from the west.
+The offensive in Syrmia was the Serbian army's first and only attempt in 1914 to carry the war onto Austro-Hungarian territory. In September 1914 Serbian troops crossed the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and entered [Syrmia](https://pl.wikipedia.org/wiki/Srem), a fertile region between the Sava and the [Danube](/miejsca/dunaj), which then belonged to the Hungarian half of the monarchy and was largely inhabited by Serbs. The operation lasted about a week and ended in retreat, because Austria-Hungary struck at Serbia from the west.
 
 ## An unwanted offensive
 

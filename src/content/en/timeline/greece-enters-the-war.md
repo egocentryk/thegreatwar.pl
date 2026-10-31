@@ -2,7 +2,7 @@
 title: Greece enters the war
 summary: On 27 June 1917 Venizelos took power in Athens. His government broke off relations with the Central Powers, and all of Greece went to war on the Entente side.
 source: grecja-przystepuje-do-wojny
-sourceHash: e0565f0cd9aa5e975ba683b65729e337251d546b
+sourceHash: 5d8d92a4d8937b7b2d2682e4c6a486623233f91e
 brief:
   - "On 27 June 1917 Eleftherios Venizelos entered Athens under the cover of French troops and was sworn in as prime minister before King Alexander."
   - "From that day the declaration of war proclaimed on 23 November 1916 by the provisional government in Salonika was recognised as binding on the whole of Greece, which broke off relations with the Central Powers."
@@ -33,8 +33,8 @@ The new government quickly dealt with its opponents. The most prominent members 
 
 ## An army for the Salonika front
 
-For the Allies the most important thing was that the threat to the rear of their army fighting on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) had disappeared. Since the autumn of 1915 the commanders in Macedonia had feared that at the first serious attack on the Bulgarians the royal troops would strike them from behind or cut their communications. Now Greece could give them new divisions. According to Hassiotis, the National Defence forces numbered about 60,000 soldiers and officers in June 1917. On 2 July the soldiers and officers of the Athens garrison swore an oath of loyalty to the fatherland, the king and the constitution.
+For the Allies the most important thing was that the threat to the rear of their army fighting on the [Salonika front](/bitwy/front-salonicki) had disappeared. Since the autumn of 1915 the commanders in Macedonia had feared that at the first serious attack on the Bulgarians the royal troops would strike them from behind or cut their communications. Now Greece could give them new divisions. According to Hassiotis, the National Defence forces numbered about 60,000 soldiers and officers in June 1917. On 2 July the soldiers and officers of the Athens garrison swore an oath of loyalty to the fatherland, the king and the constitution.
 
 General mobilisation, however, was introduced gradually and with great difficulty. It was hampered by purges in the army, royalist propaganda, mutinies of royalist officers and soldiers, and a lack of money and equipment. Even so, a year later ten Greek divisions, some 300,000 men, were able to support the Allies in Macedonia. In May 1918 three of them won a success at Skra-di-Legen, and in September 1918 the Greeks took part in the offensive that broke the Bulgarian front.
 
-The unification of the country, however, was only formal. Falls admits that the two camps were roughly equal in numbers, and many Greeks saw Venizelos as a prime minister imposed by foreign troops, and Constantine as a victim of the Allies. The rift, which the Greeks called the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa), did not end in June 1917, and in 1920 it brought Constantine's return to the throne.
+The unification of the country, however, was only formal. Falls admits that the two camps were roughly equal in numbers, and many Greeks saw Venizelos as a prime minister imposed by foreign troops, and Constantine as a victim of the Allies. The rift, which the Greeks called the [National Schism](/slownik/schizma-narodowa), did not end in June 1917, and in 1920 it brought Constantine's return to the throne.

@@ -2,10 +2,10 @@
 title: Royal Flying Corps flies to France
 summary: On 13 August 1914 British air squadrons flew from Dover to France. They were the first units to cross the Channel by air.
 source: royal-flying-corps-przelatuje-do-francji
-sourceHash: 374d296837c2c9856aba03a83ec8cdc312fa8bed
+sourceHash: a34c9089053d9ca752391ff5a536e4d9278b0dc3
 ---
 
-On 13 August 1914 aircraft of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), the air arm of the British Army, took off from [Dover](https://pl.wikipedia.org/wiki/Dover) and flew across the English Channel to France. They were the first British military units to cross to the Continent by air. They were to support the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), which was arriving in France by ship in those days.
+On 13 August 1914 aircraft of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), the air arm of the British Army, took off from [Dover](/miejsca/dover) and flew across the English Channel to France. They were the first British military units to cross to the Continent by air. They were to support the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), which was arriving in France by ship in those days.
 
 ## First to arrive
 

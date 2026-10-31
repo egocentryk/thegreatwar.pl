@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 grudnia 1915 roku z [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven) wyszedł w morze niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) [Möwe](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)), przebrany za neutralny frachtowiec. Był to pierwszy od wielu miesięcy niemiecki [rajder](https://pl.wikipedia.org/wiki/Rajder), który miał się przedrzeć przez brytyjską blokadę na otwarty ocean, postawić miny u wybrzeży Wielkiej Brytanii i Francji, a potem topić alianckie statki. Brytyjska chronologia wojny umieszcza jego wyjście w morze pod 26 grudnia, ale brytyjska historia oficjalna wojny na morzu, niemieckie opracowania i spisy niemieckich okrętów zgodnie podają 29 grudnia. Rejs przywrócił na kilka miesięcy niemiecką wojnę krążowniczą na szlakach Atlantyku.
+29 grudnia 1915 roku z [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven) wyszedł w morze niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) [Möwe](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)), przebrany za neutralny frachtowiec. Był to pierwszy od wielu miesięcy niemiecki [rajder](/slownik/rajder), który miał się przedrzeć przez brytyjską blokadę na otwarty ocean, postawić miny u wybrzeży Wielkiej Brytanii i Francji, a potem topić alianckie statki. Brytyjska chronologia wojny umieszcza jego wyjście w morze pod 26 grudnia, ale brytyjska historia oficjalna wojny na morzu, niemieckie opracowania i spisy niemieckich okrętów zgodnie podają 29 grudnia. Rejs przywrócił na kilka miesięcy niemiecką wojnę krążowniczą na szlakach Atlantyku.
 
 ## Bananowiec w przebraniu
 

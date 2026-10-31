@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Ówczesne kroniki wojny odnotowują pod datą 8 sierpnia 1914 roku mobilizację armii [Szwajcarii](https://pl.wikipedia.org/wiki/Szwajcaria). W rzeczywistości szwajcarska Rada Federalna zarządziła powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) już 1 sierpnia, a jej pierwszym dniem był 3 sierpnia. W pierwszym tygodniu sierpnia pod broń stanęło kilkaset tysięcy żołnierzy.
+Ówczesne kroniki wojny odnotowują pod datą 8 sierpnia 1914 roku mobilizację armii [Szwajcarii](https://pl.wikipedia.org/wiki/Szwajcaria). W rzeczywistości szwajcarska Rada Federalna zarządziła powszechną [mobilizację](/slownik/mobilizacja) już 1 sierpnia, a jej pierwszym dniem był 3 sierpnia. W pierwszym tygodniu sierpnia pod broń stanęło kilkaset tysięcy żołnierzy.
 
 ## Zbrojna neutralność
 

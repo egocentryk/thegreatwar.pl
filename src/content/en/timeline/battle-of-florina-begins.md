@@ -2,10 +2,10 @@
 title: Battle of Florina begins
 summary: On 17 August 1916 the Bulgarian 1st Army attacked the Serbs in western Macedonia and took Greek Florina the same day, forestalling Sarrail's offensive.
 source: poczatek-bitwy-pod-florina
-sourceHash: 8e642b0f4a365ef81b392dd8de3bfdcf5fd96125
+sourceHash: 49846c5ff47cb73e073bbfe19191b147df5c6df9
 ---
 
-On 17 August 1916 the Bulgarian 1st Army of General [Kliment Boyadzhiev](https://pl.wikipedia.org/wiki/Kliment_Bojadżiew) went over to the attack on the western wing of the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki). The columns set off during the night of 16/17 August, and according to Bulgarian studies, at about 4.30 p.m. soldiers of the 30th Sheynovo Infantry Regiment entered the Greek town of [Florina](https://pl.wikipedia.org/wiki/Florina), which the Bulgarians called Lerin. On the same day in Bucharest Romania signed with the Entente powers a [treaty and a military convention](/traktat-rumunii-z-ententa), in which the Allies undertook to begin an offensive in Macedonia three days later. The Bulgarians forestalled them. The British official history of the operations in Macedonia, Bulgarian studies and Serbian accounts all give 17 August as the start of the attack; the Austrian official history gives 18 August.
+On 17 August 1916 the Bulgarian 1st Army of General [Kliment Boyadzhiev](https://pl.wikipedia.org/wiki/Kliment_Bojadżiew) went over to the attack on the western wing of the [Salonika front](/bitwy/front-salonicki). The columns set off during the night of 16/17 August, and according to Bulgarian studies, at about 4.30 p.m. soldiers of the 30th Sheynovo Infantry Regiment entered the Greek town of [Florina](https://pl.wikipedia.org/wiki/Florina), which the Bulgarians called Lerin. On the same day in Bucharest Romania signed with the Entente powers a [treaty and a military convention](/traktat-rumunii-z-ententa), in which the Allies undertook to begin an offensive in Macedonia three days later. The Bulgarians forestalled them. The British official history of the operations in Macedonia, Bulgarian studies and Serbian accounts all give 17 August as the start of the attack; the Austrian official history gives 18 August.
 
 ## A weak wing
 

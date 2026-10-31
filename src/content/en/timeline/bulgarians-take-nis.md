@@ -2,10 +2,10 @@
 title: Bulgarians take Niš
 summary: On 5 November 1915 the Bulgarian First Army entered Niš, Serbia's wartime capital. The Central Powers won the railway to Sofia and Constantinople.
 source: bulgarzy-zajmuja-nisz
-sourceHash: 974b441baafca2b8831eadfc5e82327b50d2de0d
+sourceHash: af0c3ca2ae488746e53e713e13ee44346b2493c9
 ---
 
-On 5 November 1915 Bulgarian troops entered [Niš](https://pl.wikipedia.org/wiki/Nisz), Serbia's wartime capital since the summer of 1914. A few days earlier [the Serbian government had left](/rzad-serbski-opuszcza-kraljevo) the town. According to the Austrian official history, Niš, abandoned by the Serbs, was occupied by the Bulgarian 9th Infantry Division and part of the 8th Division of the [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) under General [Kliment Boyadzhiev](https://pl.wikipedia.org/wiki/Kliment_Bojadżiew), which was subordinated to Field Marshal [August von Mackensen](/postacie/august-von-mackensen). Bulgarian sources, which give dates according to the Julian calendar, state 23 October, which is likewise 5 November. The Western press of the time and some studies, including the British history of the war published by Nelson and Serbian works on the history of the town, speak of 6 or 7 November.
+On 5 November 1915 Bulgarian troops entered [Niš](/miejsca/nisz), Serbia's wartime capital since the summer of 1914. A few days earlier [the Serbian government had left](/rzad-serbski-opuszcza-kraljevo) the town. According to the Austrian official history, Niš, abandoned by the Serbs, was occupied by the Bulgarian 9th Infantry Division and part of the 8th Division of the [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) under General [Kliment Boyadzhiev](https://pl.wikipedia.org/wiki/Kliment_Bojadżiew), which was subordinated to Field Marshal [August von Mackensen](/postacie/august-von-mackensen). Bulgarian sources, which give dates according to the Julian calendar, state 23 October, which is likewise 5 November. The Western press of the time and some studies, including the British history of the war published by Nelson and Serbian works on the history of the town, speak of 6 or 7 November.
 
 ## Storming the fortress
 

@@ -2,10 +2,10 @@
 title: Switzerland mobilises its army
 summary: At the beginning of August 1914 neutral Switzerland mobilised its army to guard its borders. General Ulrich Wille was placed at its head.
 source: szwajcaria-mobilizuje-armie
-sourceHash: b37b85bde6c01615bdbebf0be037b6db1b263926
+sourceHash: 5fe3d96edf5bd082dbf21d628311cd216c252552
 ---
 
-Contemporary war chronicles record the mobilisation of the army of [Switzerland](https://pl.wikipedia.org/wiki/Szwajcaria) under the date of 8 August 1914. In fact the Swiss Federal Council had ordered general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) as early as 1 August, and its first day was 3 August. In the first week of August several hundred thousand soldiers were called to arms.
+Contemporary war chronicles record the mobilisation of the army of [Switzerland](https://pl.wikipedia.org/wiki/Szwajcaria) under the date of 8 August 1914. In fact the Swiss Federal Council had ordered general [mobilisation](/slownik/mobilizacja) as early as 1 August, and its first day was 3 August. In the first week of August several hundred thousand soldiers were called to arms.
 
 ## Armed neutrality
 

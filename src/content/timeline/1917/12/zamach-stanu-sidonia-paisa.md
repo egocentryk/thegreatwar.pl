@@ -20,7 +20,7 @@ Spisek zawiązali ludzie z kręgu Unii Republikańskiej (unionistów) Manuela de
 
 ## Dlaczego wybuchł bunt
 
-Rząd Costy był coraz bardziej osamotniony. Udział w wojnie, a zwłaszcza wysyłanie [Portugalskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) do Flandrii, był w kraju niepopularny. Brakowało żywności, ceny rosły, w maju Lizbonę ogarnęły rozruchy głodowe, a rząd odpowiadał zawieszaniem swobód i cenzurą. W listopadowych wyborach samorządowych demokraci stracili większość gmin. Sprzyjała też chwila: Costa i minister spraw zagranicznych Augusto Soares przebywali za granicą, między innymi w Paryżu, gdzie pod koniec listopada obradowała [wielka konferencja międzysojusznicza](/wielka-konferencja-miedzysojusznicza-w-paryzu). Od 19 listopada rządem kierował w zastępstwie minister wojny José Norton de Matos.
+Rząd Costy był coraz bardziej osamotniony. Udział w wojnie, a zwłaszcza wysyłanie [Portugalskiego Korpusu Ekspedycyjnego](/sily-zbrojne/portugalski-korpus-ekspedycyjny) do Flandrii, był w kraju niepopularny. Brakowało żywności, ceny rosły, w maju Lizbonę ogarnęły rozruchy głodowe, a rząd odpowiadał zawieszaniem swobód i cenzurą. W listopadowych wyborach samorządowych demokraci stracili większość gmin. Sprzyjała też chwila: Costa i minister spraw zagranicznych Augusto Soares przebywali za granicą, między innymi w Paryżu, gdzie pod koniec listopada obradowała [wielka konferencja międzysojusznicza](/wielka-konferencja-miedzysojusznicza-w-paryzu). Od 19 listopada rządem kierował w zastępstwie minister wojny José Norton de Matos.
 
 ## Trzy dni walk
 

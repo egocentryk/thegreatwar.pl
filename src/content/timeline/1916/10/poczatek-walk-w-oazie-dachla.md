@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-17 października 1916 roku mała brytyjska kolumna samochodów, która dwa dni wcześniej wyjechała z [Chargi](https://pl.wikipedia.org/wiki/Charga), dotarła do oazy Dachla ([Ad-Dachila](https://pl.wikipedia.org/wiki/Ad-Dachila)), najbogatszej z oaz egipskiej [Pustyni Libijskiej](https://pl.wikipedia.org/wiki/Pustynia_Libijska). Od lutego oaza była w rękach bractwa [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja). Brytyjczycy zajęli tego dnia wieś Tinida (Tenida) na wschodnim skraju oazy, po czym samochody pojechały dalej, do Budchulu, i wzięły tam do niewoli oddział przeciwnika. Brytyjska chronologia wojny notuje pod tą datą początek działań w oazie Dachla, które trwały do 22 października.
+17 października 1916 roku mała brytyjska kolumna samochodów, która dwa dni wcześniej wyjechała z [Chargi](https://pl.wikipedia.org/wiki/Charga), dotarła do oazy Dachla ([Ad-Dachila](https://pl.wikipedia.org/wiki/Ad-Dachila)), najbogatszej z oaz egipskiej [Pustyni Libijskiej](https://pl.wikipedia.org/wiki/Pustynia_Libijska). Od lutego oaza była w rękach bractwa [Sanusijja](/slownik/sanusijja). Brytyjczycy zajęli tego dnia wieś Tinida (Tenida) na wschodnim skraju oazy, po czym samochody pojechały dalej, do Budchulu, i wzięły tam do niewoli oddział przeciwnika. Brytyjska chronologia wojny notuje pod tą datą początek działań w oazie Dachla, które trwały do 22 października.
 
 ## Bractwo w oazach
 

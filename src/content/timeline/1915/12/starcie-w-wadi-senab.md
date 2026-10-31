@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-13 grudnia 1915 roku pod Marsa Matruh zakończyła się pierwsza wyprawa brytyjskich Sił Zachodniej Granicy przeciw bractwu [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja). Brytyjska historia oficjalna działań w Egipcie nazywa ją „sprawą Wadi Senab” i obejmuje tym mianem trzy dni, od 11 do 13 grudnia, z dwiema potyczkami. Pierwsza, właściwie w Wadi Senab, rozegrała się 11 grudnia, druga, większa, 13 grudnia nad Wadi Hasheifiat, kilkanaście kilometrów dalej na zachód. Data 13 grudnia w chronologii wojny odpowiada więc ostatniemu dniu wyprawy.
+13 grudnia 1915 roku pod Marsa Matruh zakończyła się pierwsza wyprawa brytyjskich Sił Zachodniej Granicy przeciw bractwu [Sanusijja](/slownik/sanusijja). Brytyjska historia oficjalna działań w Egipcie nazywa ją „sprawą Wadi Senab” i obejmuje tym mianem trzy dni, od 11 do 13 grudnia, z dwiema potyczkami. Pierwsza, właściwie w Wadi Senab, rozegrała się 11 grudnia, druga, większa, 13 grudnia nad Wadi Hasheifiat, kilkanaście kilometrów dalej na zachód. Data 13 grudnia w chronologii wojny odpowiada więc ostatniemu dniu wyprawy.
 
 ## Pierwszy cios
 

@@ -2,10 +2,10 @@
 title: Russians lose Czernowitz for good
 summary: On 3 August 1917 Austro-Hungarian and German troops entered Czernowitz. The Russians lost the capital of Bukovina for the third and last time in the war.
 source: rosjanie-ostatecznie-traca-czerniowce
-sourceHash: 73168fc6e9130189f60f80c1545cf4df47820f30
+sourceHash: c21ef60810968e24c44548909a25630e4c2fb030
 ---
 
-Before dawn on 3 August 1917 (21 July in the Julian calendar) the advance units of the [42nd Honvéd Infantry Division](https://pl.wikipedia.org/wiki/42_Dywizja_Piechoty_Honwedu), made up of Croatian Domobrans, entered [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce), the capital of [Bukovina](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)), from the north, and units of the group of Lieutenant Field Marshal Ludwig von Fabini from the east. Before noon, along the southern bank of the [Prut](https://pl.wikipedia.org/wiki/Prut), the Austro-Hungarian 5th Infantry Division marched into the town, with the front commander, Archduke [Joseph August](/postacie/jozef-august-habsburg), riding at its head. The Austrian official history speaks of the capital of Bukovina "liberated for the third time". For the Russians the loss was final: they never returned to the town, which had changed hands many times since the beginning of the war.
+Before dawn on 3 August 1917 (21 July in the Julian calendar) the advance units of the [42nd Honvéd Infantry Division](https://pl.wikipedia.org/wiki/42_Dywizja_Piechoty_Honwedu), made up of Croatian Domobrans, entered [Czernowitz](/miejsca/czerniowce), the capital of [Bukovina](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)), from the north, and units of the group of Lieutenant Field Marshal Ludwig von Fabini from the east. Before noon, along the southern bank of the [Prut](https://pl.wikipedia.org/wiki/Prut), the Austro-Hungarian 5th Infantry Division marched into the town, with the front commander, Archduke [Joseph August](/postacie/jozef-august-habsburg), riding at its head. The Austrian official history speaks of the capital of Bukovina "liberated for the third time". For the Russians the loss was final: they never returned to the town, which had changed hands many times since the beginning of the war.
 
 ## The pursuit through Bukovina
 

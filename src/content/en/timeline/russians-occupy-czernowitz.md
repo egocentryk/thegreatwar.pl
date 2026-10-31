@@ -2,10 +2,10 @@
 title: Russians occupy Czernowitz
 summary: In September 1914 Russian troops occupied Czernowitz, capital of Austrian Bukovina. During the war the city changed hands several times.
 source: rosjanie-zajmuja-czerniowce
-sourceHash: 4f95e0a3fffa69b8b7dad1de14a10658b020d3ac
+sourceHash: 9651c4736abc498fe0c2b130506a346483f011d5
 ---
 
-The British chronicle of the war recorded under 15 September 1914 the occupation of [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce) by Russian troops. According to local sources, the Russians had entered the capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) nearly two weeks earlier. Most of them give 2 September, when the mayor handed the city over to them, and some even the end of August.
+The British chronicle of the war recorded under 15 September 1914 the occupation of [Czernowitz](/miejsca/czerniowce) by Russian troops. According to local sources, the Russians had entered the capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) nearly two weeks earlier. Most of them give 2 September, when the mayor handed the city over to them, and some even the end of August.
 
 ## The capital of Bukovina
 

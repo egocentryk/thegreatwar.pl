@@ -2,10 +2,10 @@
 title: Fighting in the Siwa Oasis
 summary: On 3 February 1917 British armoured cars attacked the Senussi camp at Girba. Sayyid Ahmad escaped, and on 5 February the British entered Siwa.
 source: walki-w-oazie-siwa
-sourceHash: 923a1fe151413d2dda62fa57e262fe365aef5044
+sourceHash: 67e051b3ce03c6f1025e203fd94f8ed124aa9417
 ---
 
-At nine in the morning of 3 February 1917 a column of British armoured cars descended from the plateau of the Western Desert into the [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)) oasis near the border with Italian Libya and attacked the camp of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order at Girba, on the western edge of the oasis. It was the last stronghold in Egypt of the order's leader, Sayyid Ahmad al-Sharif. The fighting lasted until dawn the next day, after which the Senussi slipped away westwards, and on 5 February the British entered Siwa itself without resistance. The British chronology of the war records the start of operations in the oasis under 3 February and their end under 5 February.
+At nine in the morning of 3 February 1917 a column of British armoured cars descended from the plateau of the Western Desert into the [Siwa](https://pl.wikipedia.org/wiki/Siwa_(oaza)) oasis near the border with Italian Libya and attacked the camp of the [Senussi](/slownik/sanusijja) order at Girba, on the western edge of the oasis. It was the last stronghold in Egypt of the order's leader, Sayyid Ahmad al-Sharif. The fighting lasted until dawn the next day, after which the Senussi slipped away westwards, and on 5 February the British entered Siwa itself without resistance. The British chronology of the war records the start of operations in the oasis under 3 February and their end under 5 February.
 
 ## A raid by cars alone
 

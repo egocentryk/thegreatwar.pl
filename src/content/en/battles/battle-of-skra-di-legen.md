@@ -9,10 +9,10 @@ sides:
     commanders: [Dimitar Geshov, Ivan Bonchev]
 result: Allied victory. The Greeks took the Bulgarian positions on a front about 12 km long and up to 2 km deep, destroyed the 49th Infantry Regiment and captured between 1,800 and over 2,000 prisoners.
 source: bitwa-pod-skra
-sourceHash: f099b2c0395059383d5819eacb2a83cd6cf4a390
+sourceHash: 93a2b32a32f8edaad05331fe5d948be9966b6623
 ---
 
-The Battle of Skra-di-Legen was the first large attack by the Greek army on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) and the last major engagement in Macedonia before the great Allied offensive of September 1918. At dawn on 30 May 1918 two regiments of the Archipelago Division and a regiment of the Serres Division, with units of the Crete Division on the right wing, attacked a strongly fortified Bulgarian salient on the rocky Skra-di-Legen massif. After two days of artillery preparation, in which the British took part alongside the French, they took the main heights in under an hour and a half, and the whole allotted sector by the afternoon. Bulgarian counter-attacks in the afternoon and during the night were repulsed. The success was of little military but enormous political significance: it proved that the Greek army, divided for years by the quarrel between the King and Venizelos, could fight, and it raised the morale of the whole of Greece.
+The Battle of Skra-di-Legen was the first large attack by the Greek army on the [Salonika front](/bitwy/front-salonicki) and the last major engagement in Macedonia before the great Allied offensive of September 1918. At dawn on 30 May 1918 two regiments of the Archipelago Division and a regiment of the Serres Division, with units of the Crete Division on the right wing, attacked a strongly fortified Bulgarian salient on the rocky Skra-di-Legen massif. After two days of artillery preparation, in which the British took part alongside the French, they took the main heights in under an hour and a half, and the whole allotted sector by the afternoon. Bulgarian counter-attacks in the afternoon and during the night were repulsed. The success was of little military but enormous political significance: it proved that the Greek army, divided for years by the quarrel between the King and Venizelos, could fight, and it raised the morale of the whole of Greece.
 
 ## Name and dates
 

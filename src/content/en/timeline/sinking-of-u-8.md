@@ -2,14 +2,14 @@
 title: Sinking of U-8
 summary: On 4 March 1915 British destroyers destroyed the German submarine U-8 in the Strait of Dover after it had been detected thanks to indicator nets.
 source: zatopienie-u-8
-sourceHash: 40f9fdf924c2b4e6242727fefe124a6c3c0ea431
+sourceHash: 82c73ab542fea79aace7fa25ed5927e289e20d7c
 ---
 
 On 4 March 1915 in the [Strait of Dover](/miejsca/ciesnina-kaletanska) destroyers of the British Dover Patrol hunted down and destroyed the German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny) U-8. Her entire crew of 29 men were taken prisoner. The British chronology of the war records this day as the first case in which indicator nets helped to destroy a U-boat.
 
 ## Nets in the strait
 
-Indicator nets, light nets of thin steel wire suspended from floats, were not meant to stop submarines but to betray their presence. On 7 January 1915 the Admiralty decided to allocate fishing vessels for laying them to several bases, including [Dover](https://pl.wikipedia.org/wiki/Dover), and from mid-January the nets were tested in the strait. The commander of the Dover Patrol, Rear-Admiral [Horace Hood](https://pl.wikipedia.org/wiki/Horace_Hood), based on them his defence of the passage from the North Sea to the English Channel. In February drifters also began laying such nets [in the North Channel](/zapora-sieciowa-w-kanale-polnocnym).
+Indicator nets, light nets of thin steel wire suspended from floats, were not meant to stop submarines but to betray their presence. On 7 January 1915 the Admiralty decided to allocate fishing vessels for laying them to several bases, including [Dover](/miejsca/dover), and from mid-January the nets were tested in the strait. The commander of the Dover Patrol, Rear-Admiral [Horace Hood](https://pl.wikipedia.org/wiki/Horace_Hood), based on them his defence of the passage from the North Sea to the English Channel. In February drifters also began laying such nets [in the North Channel](/zapora-sieciowa-w-kanale-polnocnym).
 
 The beginnings were difficult. The nets tore in gales, good buoys were lacking, and the drifters had no way of quickly alerting the destroyers. On 2 March a submarine probably broke and dragged away one drifter's nets, but by the time a destroyer understood the fishermen's signals it was too late for a pursuit. Admiral Hood decided to equip all the drifters with signal rockets.
 

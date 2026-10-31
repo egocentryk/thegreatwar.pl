@@ -15,7 +15,7 @@ draft: false
 
 ## Sieci w cieśninie
 
-Sieci sygnalizacyjne, lekkie sieci z cienkiego drutu stalowego zawieszone na pływakach, nie miały zatrzymywać okrętów podwodnych, lecz zdradzać ich obecność. 7 stycznia 1915 roku Admiralicja postanowiła przydzielić do kilku baz, w tym do [Dover](https://pl.wikipedia.org/wiki/Dover), rybackie kutry do ich wystawiania, a od połowy stycznia sieci testowano w cieśninie. Dowódca Dover Patrol, kontradmirał [Horace Hood](https://pl.wikipedia.org/wiki/Horace_Hood), oparł na nich obronę przejścia z Morza Północnego do kanału La Manche. W lutym kutry zaczęły wystawiać takie sieci także [w Kanale Północnym](/zapora-sieciowa-w-kanale-polnocnym).
+Sieci sygnalizacyjne, lekkie sieci z cienkiego drutu stalowego zawieszone na pływakach, nie miały zatrzymywać okrętów podwodnych, lecz zdradzać ich obecność. 7 stycznia 1915 roku Admiralicja postanowiła przydzielić do kilku baz, w tym do [Dover](/miejsca/dover), rybackie kutry do ich wystawiania, a od połowy stycznia sieci testowano w cieśninie. Dowódca Dover Patrol, kontradmirał [Horace Hood](https://pl.wikipedia.org/wiki/Horace_Hood), oparł na nich obronę przejścia z Morza Północnego do kanału La Manche. W lutym kutry zaczęły wystawiać takie sieci także [w Kanale Północnym](/zapora-sieciowa-w-kanale-polnocnym).
 
 Początki były trudne. Sieci rwały się w sztormach, brakowało dobrych boi, a kutry nie miały jak szybko zawiadomić niszczycieli. 2 marca okręt podwodny prawdopodobnie zerwał i pociągnął za sobą sieci jednego z kutrów, ale zanim niszczyciel zrozumiał sygnały rybaków, było za późno na pościg. Admirał Hood postanowił wyposażyć wszystkie kutry w rakiety sygnałowe.
 

@@ -2,12 +2,12 @@
 title: British occupy Lindi
 summary: On 17 September 1916 British warships landed the Indian 40th Pathans at Lindi. Soon the whole coast of German East Africa was in British hands.
 source: brytyjczycy-zajmuja-lindi
-sourceHash: b2e9ad1b356d7e1c0bb40903ed704302f7a03dd2
+sourceHash: 73b6c9581210d2bb49104bdf54f9743bfd228fe2
 ---
 
 On 17 September 1916 the Royal Navy landed Major Henry Tyndall's Indian 40th Pathans at [Lindi](https://pl.wikipedia.org/wiki/Lindi), the main port of the southern part of [German East Africa](/bitwy/kampania-wschodnioafrykanska). The Germans did not defend the town. According to the regimental history, they did not want to fight the ships' guns, but intended to keep their new garrisons as close to the coast as possible. In the harbour channel a sweep from the cruiser *Talbot* brought up and detonated three German sea mines, and about 40 land mines were found and made safe on the beaches. The next day a detachment of the Indian 5th Light Infantry landed at Kiswere, halfway between Lindi and Kilwa.
 
-Lindi, lying on a bay at the mouth of the Lukuledi river, was an old port of the Arab and Swahili caravans that brought ivory and slaves here from the region of Lake Nyasa. In German times the town had about 4,000 inhabitants and was a district seat, with a customs house, a post and telegraph office and a [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) garrison. Through its port were also shipped to Berlin the dinosaur bones dug up in 1909–1913 by a German expedition on the nearby hill of Tendaguru, including the remains of a giant sauropod known today as [Giraffatitan](https://pl.wikipedia.org/wiki/Giraffatitan).
+Lindi, lying on a bay at the mouth of the Lukuledi river, was an old port of the Arab and Swahili caravans that brought ivory and slaves here from the region of Lake Nyasa. In German times the town had about 4,000 inhabitants and was a district seat, with a customs house, a post and telegraph office and a [Schutztruppe](/slownik/schutztruppe) garrison. Through its port were also shipped to Berlin the dinosaur bones dug up in 1909–1913 by a German expedition on the nearby hill of Tendaguru, including the remains of a giant sauropod known today as [Giraffatitan](https://pl.wikipedia.org/wiki/Giraffatitan).
 
 ## The southern ports
 

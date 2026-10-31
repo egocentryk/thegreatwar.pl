@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Ryazan Governorate (Russian Empire)
 deathPlace: Nice (France)
 source: siergiej-sazonow
-sourceHash: 54553e32533559da1b6bace9bcc68cabde1ff766
+sourceHash: ec5a4be1845321562a7e8a350a93cdd70f941e12
 ---
 
 Sergey Dmitriyevich Sazonov directed Russian foreign policy throughout the July Crisis of 1914 and the first two years of the war. It was he who persuaded Tsar [Nicholas II](/postacie/mikolaj-ii) to order the general mobilisation that made war with Germany certain. He then became the advocate of Entente unity, negotiated the future partition of Turkey, secured for Russia the promise of Constantinople and sought an alliance with the Balkan states. In Russia he was one of the few ministers who looked for an understanding with the Duma, and on the Polish question he urged the Tsar to proclaim autonomy for the Kingdom of Poland. He paid for it with his dismissal in July 1916. To the Allies he was the guarantor of Russia's loyalty; to his opponents, especially the Germans, one of those to blame for the outbreak of the war.
@@ -15,7 +15,7 @@ Sergey Dmitriyevich Sazonov directed Russian foreign policy throughout the July 
 
 He was born on 10 August 1860 (29 July in the Julian calendar) on the family estate in Ryazan Governorate, into an old but impoverished noble family. He graduated from the elite Alexander Lyceum and in 1883 joined the Ministry of Foreign Affairs. He served at the embassy in London and for more than a decade at the mission to the Holy See, which he headed from 1906. His marriage helped him to a great career: his wife Anna was the sister of the wife of Prime Minister [Pyotr Stolypin](https://pl.wikipedia.org/wiki/Piotr_Stołypin). In 1909 Sazonov became deputy to the minister [Alexander Izvolsky](https://pl.wikipedia.org/wiki/Aleksandr_Izwolski), and in the autumn of 1910 his successor.
 
-Russia had only just suffered humiliation in the Bosnian crisis, and the new minister was cautious. He concluded an agreement with Germany on Persia and the Baghdad Railway, improved relations with Japan and supported the rapprochement with Britain. In the Balkans he sponsored the alliance of Serbia and Bulgaria from which the [Balkan League](https://pl.wikipedia.org/wiki/Liga_Bałkańska) grew, but during the [Balkan Wars](https://pl.wikipedia.org/wiki/Wojny_bałkańskie) of 1912–1913 he restrained the Serbs and the Pan-Slavists who were counting on Russian intervention. At the end of 1913 he opposed the dispatch of a German military mission under General [Otto Liman von Sanders](/postacie/otto-liman-von-sanders) to Constantinople, believing that it would give Germany control of the Straits, through which most of Russia's grain exports passed.
+Russia had only just suffered humiliation in the Bosnian crisis, and the new minister was cautious. He concluded an agreement with Germany on Persia and the Baghdad Railway, improved relations with Japan and supported the rapprochement with Britain. In the Balkans he sponsored the alliance of Serbia and Bulgaria from which the [Balkan League](https://pl.wikipedia.org/wiki/Liga_Bałkańska) grew, but during the [Balkan Wars](/slownik/wojny-balkanskie) of 1912–1913 he restrained the Serbs and the Pan-Slavists who were counting on Russian intervention. At the end of 1913 he opposed the dispatch of a German military mission under General [Otto Liman von Sanders](/postacie/otto-liman-von-sanders) to Constantinople, believing that it would give Germany control of the Straits, through which most of Russia's grain exports passed.
 
 ## The July Crisis
 

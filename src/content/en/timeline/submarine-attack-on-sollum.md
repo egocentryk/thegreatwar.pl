@@ -2,14 +2,14 @@
 title: Submarine attack on Sollum
 summary: On 6 November 1915 the German submarine U-35 sank the Egyptian coastguard cutter Abbas in the bay of Sollum and damaged the Nur al-Bahr.
 source: atak-okretu-podwodnego-na-as-sallum
-sourceHash: f3eea7a93f7e628fedd50b193e1697b9429bae68
+sourceHash: cbd3891b862d21ebeaccadbd2c41fe6bbcf3fece
 ---
 
 On 6 November 1915 the German submarine [U-35](https://pl.wikipedia.org/wiki/SM_U-35) entered the bay at [Sollum](https://pl.wikipedia.org/wiki/As-Sallum), the last Egyptian post before the border with Italian [Cyrenaica](https://pl.wikipedia.org/wiki/Cyrenajka). Two armed vessels of the Egyptian Coastguard, Abbas and Nur al-Bahr, lay at anchor there. The submarine opened fire on them. The Egyptian crews, too weakly armed to put up a fight, went ashore. Abbas sank at her moorings, and Nur al-Bahr was damaged. The date of 6 November is given by the British official history of operations in Egypt and by the British chronology of the war. German lists of sinkings, used among others by the uboat.net website, record both vessels under 5 November.
 
 ## The voyage from Bodrum
 
-The attack on Sollum was only a by-product of a far more important mission. U-35, under Kapitänleutnant Waldemar Kophamel, had been operating in the Mediterranean since the autumn, and on 23 October in the Gulf of Salonika had sunk the British transport Marquette. She was then ordered to take on board at [Bodrum](https://pl.wikipedia.org/wiki/Bodrum), on the coast of Asia Minor, a Turkish mission and a cargo of arms for the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order, which from camps on the Egyptian border had for years been waging war on the Italians. According to the British official naval history, the submarine took on board ten Turkish and German officers and stores and on 1 November left Bodrum towing two sailing vessels with a similar cargo. On the way she sank the British steamer Woolwich and unsuccessfully attacked the transport Japanese Prince, carrying troops from Alexandria to Salonika. After three days she reached Bardia, a small bay on the coast of Cyrenaica, formally Italian but in reality controlled by the Senussi.
+The attack on Sollum was only a by-product of a far more important mission. U-35, under Kapitänleutnant Waldemar Kophamel, had been operating in the Mediterranean since the autumn, and on 23 October in the Gulf of Salonika had sunk the British transport Marquette. She was then ordered to take on board at [Bodrum](https://pl.wikipedia.org/wiki/Bodrum), on the coast of Asia Minor, a Turkish mission and a cargo of arms for the [Senussi](/slownik/sanusijja) order, which from camps on the Egyptian border had for years been waging war on the Italians. According to the British official naval history, the submarine took on board ten Turkish and German officers and stores and on 1 November left Bodrum towing two sailing vessels with a similar cargo. On the way she sank the British steamer Woolwich and unsuccessfully attacked the transport Japanese Prince, carrying troops from Alexandria to Salonika. After three days she reached Bardia, a small bay on the coast of Cyrenaica, formally Italian but in reality controlled by the Senussi.
 
 ## The sinking of the Tara
 

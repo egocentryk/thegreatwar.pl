@@ -2,10 +2,10 @@
 title: Murray takes command of all troops in Egypt
 summary: On 19 March 1916 General Archibald Murray took over all troops in Egypt from General John Maxwell; they took the name Egyptian Expeditionary Force.
 source: murray-obejmuje-dowodztwo-wszystkich-wojsk-w-egipcie
-sourceHash: ec8f099b49f43a2d31280553badf1f184bd15f32
+sourceHash: 9871033fba5850667f1d5db323ff68b4ee994520
 ---
 
-On 19 March 1916 General Sir Archibald Murray formally took over from Lieutenant-General Sir John Maxwell the command of all British troops in [Egypt](https://pl.wikipedia.org/wiki/Egipt). Since January there had been two independent commanders in the country: Murray, who had [taken over the Mediterranean Expeditionary Force](/murray-obejmuje-dowodztwo-w-egipcie) and was defending the Suez Canal from the east, and Maxwell, who governed the rest of Egypt and was waging war against the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order in the west. Both regarded this arrangement as harmful. In his first despatch from Egypt Murray called it a system of dual control which was necessarily unsatisfactory, particularly from the point of view of economy.
+On 19 March 1916 General Sir Archibald Murray formally took over from Lieutenant-General Sir John Maxwell the command of all British troops in [Egypt](https://pl.wikipedia.org/wiki/Egipt). Since January there had been two independent commanders in the country: Murray, who had [taken over the Mediterranean Expeditionary Force](/murray-obejmuje-dowodztwo-w-egipcie) and was defending the Suez Canal from the east, and Maxwell, who governed the rest of Egypt and was waging war against the [Senussi](/slownik/sanusijja) order in the west. Both regarded this arrangement as harmful. In his first despatch from Egypt Murray called it a system of dual control which was necessarily unsatisfactory, particularly from the point of view of economy.
 
 ## A decision from London
 

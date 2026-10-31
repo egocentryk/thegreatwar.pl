@@ -2,10 +2,10 @@
 title: Battle of Krasnystaw begins
 summary: On 16 July 1915 the German 11th Army, led by the Prussian Guard, attacked at Krasnystaw. It took Russian trenches and 6,000 prisoners but did not break through.
 source: poczatek-bitwy-pod-krasnymstawem
-sourceHash: 3b45537b55983d955ffe9402c2cb4418d25e71c2
+sourceHash: d4d5ad8974eb67d5d9d3332a369b895e977c91bc
 ---
 
-On 16 July 1915, after a two-week pause, the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) resumed their offensive between the Vistula and the Bug. The main blow was struck by the German [11th Army](/sily-zbrojne/11-armia-niemiecka) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), towards [Krasnystaw](https://pl.wikipedia.org/wiki/Krasnystaw). At its head marched the Prussian Guards Corps. The objective was the railway from Ivangorod through [Lublin](https://pl.wikipedia.org/wiki/Lublin) to [Chełm](https://pl.wikipedia.org/wiki/Chełm), which supplied the Russian armies in the Kingdom of Poland.
+On 16 July 1915, after a two-week pause, the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) resumed their offensive between the Vistula and the Bug. The main blow was struck by the German [11th Army](/sily-zbrojne/11-armia-niemiecka) west of the [Wieprz](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), towards [Krasnystaw](https://pl.wikipedia.org/wiki/Krasnystaw). At its head marched the Prussian Guards Corps. The objective was the railway from Ivangorod through [Lublin](/miejsca/lublin) to [Chełm](https://pl.wikipedia.org/wiki/Chełm), which supplied the Russian armies in the Kingdom of Poland.
 
 The offensive was now under way along the whole Eastern Front. Three days earlier the armies of General Max von Gallwitz had launched their attack from the border of East Prussia towards the Narew, and on 15 July, on Mackensen's eastern wing, the [Bug Army](/poczatek-bitew-pod-maslomeczem-i-grabowcem) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen) attacked. On 16 July the Austro-Hungarian 4th Army on the Bystrzyca, the 11th Army at Krasnystaw and, on the other side of the Vistula, the troops of General [Remus von Woyrsch](/postacie/remus-von-woyrsch) at Sienno went over to the attack. Mackensen chose the sector west of the Wieprz for the main blow because it was the closest to the railway. A breakthrough there would also make it possible to outflank from the west the strong Russian positions on the [Wolica](https://pl.wikipedia.org/wiki/Wolica_(dopływ_Wieprza)) and Wojsławka rivers.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-26 września 1914 roku zakończyła się pierwsza bitwa w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), pierwsze duże starcie tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po pięciu dniach walk między [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) a [Sommą](/miejsca/somma) żadna ze stron nie zdołała obejść skrzydła przeciwnika. Wyczerpane wojska francuskie i niemieckie zaczęły się okopywać.
+26 września 1914 roku zakończyła się pierwsza bitwa w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), pierwsze duże starcie tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po pięciu dniach walk między [Oise](/miejsca/oise) a [Sommą](/miejsca/somma) żadna ze stron nie zdołała obejść skrzydła przeciwnika. Wyczerpane wojska francuskie i niemieckie zaczęły się okopywać.
 
 ## Natarcie, które utknęło
 

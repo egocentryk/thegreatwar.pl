@@ -24,7 +24,7 @@ Na wschód jechały już posiłki. Świeżo mianowany [feldmarszałkiem](/hinden
 
 Według niemieckich wykazów bitew 30 listopada do walki pod Łowiczem weszły 1 Dywizja i 36 Dywizja Rezerwowa z korpusu Morgena. Następnego dnia z 26 Dywizji i heskiej 25 Dywizji Rezerwowej utworzono korpus Fabecka, który uderzył w rejonie [Sannik](https://pl.wikipedia.org/wiki/Sanniki), około 25 kilometrów na północ od Łowicza. Rosyjski zbiór dokumentów operacji łódzkiej opisuje dni od 27 listopada do 2 grudnia jako natarcie 9 Armii niemieckiej w rejonie Łowicza i bitwę rosyjskiej 1 Armii w tym rejonie.
 
-Niemieckie komunikaty z 30 listopada i 1 grudnia donosiły o udanych kontratakach na południe od Wisły i o wzięciu do niewoli łącznie około 14 tysięcy Rosjan oraz zdobyciu 36 dział. Nie podawały jednak, gdzie dokładnie walczono, więc liczby te dotyczą całego frontu w północnej części [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), a nie tylko rejonu Łowicza.
+Niemieckie komunikaty z 30 listopada i 1 grudnia donosiły o udanych kontratakach na południe od Wisły i o wzięciu do niewoli łącznie około 14 tysięcy Rosjan oraz zdobyciu 36 dział. Nie podawały jednak, gdzie dokładnie walczono, więc liczby te dotyczą całego frontu w północnej części [Królestwa Polskiego](/miejsca/krolestwo-polskie), a nie tylko rejonu Łowicza.
 
 ## Dwie bitwy obok siebie
 

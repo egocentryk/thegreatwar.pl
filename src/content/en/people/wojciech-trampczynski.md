@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Dębłowo near Gniezno (Province of Posen, Prussia)
 deathPlace: Poznań
 source: wojciech-trampczynski
-sourceHash: a6ea4594832f421a3ef1ff1173cbf2e1194b7cdf
+sourceHash: c411574c921bf589ecaf4bc8b61dab391df92e3a
 ---
 
-Wojciech Trąmpczyński was one of the most respected Poles in the German Empire. A Poznań advocate and notary, a deputy to the Prussian Landtag from 1910 and also to the Reichstag from 1912, throughout the war he defended in Berlin the Polish population of the Prussian partition and of the occupied Kingdom, while discouraging his compatriots from giving active help to the Central Powers. In November 1918 he took the lead of the Polish People's Council in Poznań, joined the leadership of the [Supreme People's Council](https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa) and travelled to Warsaw for talks with [Józef Piłsudski](/postacie/jozef-pilsudski). In February 1919 he became the first Marshal of the Sejm of reborn Poland. His memoirs of the war years are among the more interesting accounts of how the Poles under Prussian rule lived through the Great War.
+Wojciech Trąmpczyński was one of the most respected Poles in the German Empire. A Poznań advocate and notary, a deputy to the Prussian Landtag from 1910 and also to the Reichstag from 1912, throughout the war he defended in Berlin the Polish population of the Prussian partition and of the occupied Kingdom, while discouraging his compatriots from giving active help to the Central Powers. In November 1918 he took the lead of the Polish People's Council in Poznań, joined the leadership of the [Supreme People's Council](/slownik/naczelna-rada-ludowa) and travelled to Warsaw for talks with [Józef Piłsudski](/postacie/jozef-pilsudski). In February 1919 he became the first Marshal of the Sejm of reborn Poland. His memoirs of the war years are among the more interesting accounts of how the Poles under Prussian rule lived through the Great War.
 
 ## Before the war
 

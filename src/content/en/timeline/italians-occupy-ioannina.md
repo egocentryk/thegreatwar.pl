@@ -2,12 +2,12 @@
 title: Italians occupy Ioannina
 summary: On 8 June 1917 Italian troops from Albania, without warning London or Paris, occupied Ioannina, capital of Greek Epirus. Two days later they entered Preveza.
 source: wlosi-zajmuja-janine
-sourceHash: ad8e05b28e13d11e0a1bf6414ca781c3f8d0bd23
+sourceHash: ed78cc1643708fdeee00efaadb6bbb83d6b6f9d0
 ---
 
 On 8 June 1917 Italian units from southern Albania crossed the Greek border and occupied, without a fight, [Ioannina](https://pl.wikipedia.org/wiki/Janina_(miasto)), the chief town of [Epirus](https://pl.wikipedia.org/wiki/Epir). This date is given by the British chronology of the war, the British official history of the Macedonian campaign (Falls) and John Buchan. According to Falls the Italians pushed on rapidly southwards and on 10 June took the port of [Preveza](https://pl.wikipedia.org/wiki/Preweza) at the entrance to the Ambracian Gulf. This happened only five days after General Giacinto Ferrero had [proclaimed at Gjirokastër](/wlochy-oglaszaja-protektorat-nad-albania) the independence of Albania under Italian protection.
 
-Ioannina was a special city for the Greeks. In March 1913, during the [Balkan Wars](https://pl.wikipedia.org/wiki/Wojny_bałkańskie), it was taken after a long siege by the Greek army commanded by the then Crown Prince, later King [Constantine I](/postacie/konstantyn-i). In the spring of 1917, however, Epirus was almost defenceless. After [accepting the December ultimatum](/grecja-przyjmuje-grudniowe-ultimatum), royalist Greece had had to move its troops from Epirus and [Thessaly](https://pl.wikipedia.org/wiki/Tesalia) to the [Peloponnese](https://pl.wikipedia.org/wiki/Peloponez), and Allied control officers had been stationed in Ioannina since the winter. The Greek soldiers and gendarmes put up no resistance.
+Ioannina was a special city for the Greeks. In March 1913, during the [Balkan Wars](/slownik/wojny-balkanskie), it was taken after a long siege by the Greek army commanded by the then Crown Prince, later King [Constantine I](/postacie/konstantyn-i). In the spring of 1917, however, Epirus was almost defenceless. After [accepting the December ultimatum](/grecja-przyjmuje-grudniowe-ultimatum), royalist Greece had had to move its troops from Epirus and [Thessaly](https://pl.wikipedia.org/wiki/Tesalia) to the [Peloponnese](https://pl.wikipedia.org/wiki/Peloponez), and Allied control officers had been stationed in Ioannina since the winter. The Greek soldiers and gendarmes put up no resistance.
 
 ## Why the Italians entered Epirus
 

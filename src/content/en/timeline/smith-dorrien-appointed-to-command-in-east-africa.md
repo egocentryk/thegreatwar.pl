@@ -2,10 +2,10 @@
 title: Smith-Dorrien appointed to command in East Africa
 summary: On 22 November 1915 London chose Gen. Horace Smith-Dorrien to lead the expedition against German East Africa. Illness prevented him from taking up the post.
 source: smith-dorrien-dowodca-w-afryce-wschodniej
-sourceHash: 0289f396af404a46cf3cc2bcd44466fbdc2da8b6
+sourceHash: 624b7073be7791f1e5b586d4bbf704471d365a32
 ---
 
-On 22 November 1915 the British government chose General Horace Smith-Dorrien to command a new expedition against [German East Africa](/bitwy/kampania-wschodnioafrykanska). The decision marked a turn in policy towards this theatre of war. Throughout 1915 the British forces in East Africa had been meant only to stand on the defensive, but now London decided to conquer the German colony as quickly as possible and to send large reinforcements there, mainly from [South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Smith-Dorrien, however, never took up the post.
+On 22 November 1915 the British government chose General Horace Smith-Dorrien to command a new expedition against [German East Africa](/bitwy/kampania-wschodnioafrykanska). The decision marked a turn in policy towards this theatre of war. Throughout 1915 the British forces in East Africa had been meant only to stand on the defensive, but now London decided to conquer the German colony as quickly as possible and to send large reinforcements there, mainly from [South Africa](/kraje/zwiazek-poludniowej-afryki). Smith-Dorrien, however, never took up the post.
 
 ## From defence to offensive
 

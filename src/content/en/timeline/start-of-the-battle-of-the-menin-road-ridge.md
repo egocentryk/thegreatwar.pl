@@ -2,7 +2,7 @@
 title: Start of the Battle of the Menin Road Ridge
 summary: On 20 September 1917 Plumer's armies advanced at Ypres behind a huge barrage. The Australians took Glencorse Wood and Nonne Bosschen and reached Polygon Wood.
 source: poczatek-bitwy-o-grzbiet-menin-road
-sourceHash: 105977a144feacdb8f132e6869f4e46cc63d68a7
+sourceHash: a513a37707fb5639be9b0371891761788c942048
 brief:
   - "At 5.40 a.m. on 20 September 1917 eleven divisions of the British Second and Fifth Armies, two of them Australian, advanced east of Ypres in the third great attack of the Third Battle of Ypres."
   - "For the first time it was directed by General Herbert Plumer, who had spent three weeks massing guns and ammunition and had set the infantry modest, shallow objectives."
@@ -39,7 +39,7 @@ At 9.53 a.m. the barrage moved off for the last few hundred metres, and by 10.15
 
 ## Along the whole front
 
-On the Australians' right the British 23rd Division forced its way through Inverness Copse, though German soldiers who emerged from hiding after the first wave had passed inflicted heavy losses on it, and took the bunkers by the Menin road at Veldhoek. On the southern flank the 19th and 39th Divisions reached their objectives. The 41st Division fared worst: it got stuck in the valley of the Bassevillebeek stream and did not take the Tower Hamlets spur. In the Fifth Army the 9th (Scottish) Division and a brigade from the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) took Hanebeek Wood, Borry Farm and the Bremen Redoubt in the valley below [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke). The Londoners of the 58th Division outflanked the fortified farms on the Gravenstafel spur and took almost 300 prisoners and 50 machine guns. The weakened 55th Division and the 20th Division on the northern flank were held up short of some of their objectives.
+On the Australians' right the British 23rd Division forced its way through Inverness Copse, though German soldiers who emerged from hiding after the first wave had passed inflicted heavy losses on it, and took the bunkers by the Menin road at Veldhoek. On the southern flank the 19th and 39th Divisions reached their objectives. The 41st Division fared worst: it got stuck in the valley of the Bassevillebeek stream and did not take the Tower Hamlets spur. In the Fifth Army the 9th (Scottish) Division and a brigade from the [Union of South Africa](/kraje/zwiazek-poludniowej-afryki) took Hanebeek Wood, Borry Farm and the Bremen Redoubt in the valley below [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke). The Londoners of the 58th Division outflanked the fortified farms on the Gravenstafel spur and took almost 300 prisoners and 50 machine guns. The weakened 55th Division and the 20th Division on the northern flank were held up short of some of their objectives.
 
 ## Counter-attacks
 

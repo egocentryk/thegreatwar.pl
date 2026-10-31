@@ -2,10 +2,10 @@
 title: Russians retake Czernowitz
 summary: The British chronicle records the Russians' return to Czernowitz on 28 October 1914. Other sources say they entered the Bukovinian capital a month later.
 source: rosjanie-ponownie-zajmuja-czerniowce
-sourceHash: d9d11f12c39aa68f2dffecb6522e97fda551099d
+sourceHash: 7f6906a1ea43948af8c3553be2546e98564d262e
 ---
 
-The British chronology of the war records under the date of 28 October 1914 the reoccupation of [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce) by Russian troops. The capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) had returned to Austrian hands only a week earlier. Around 20–21 October it had been [retaken by improvised units](/austriacy-odbijaja-czerniowce) of the gendarmerie colonel Eduard Fischer, made up of gendarmes, Landsturm and volunteers.
+The British chronology of the war records under the date of 28 October 1914 the reoccupation of [Czernowitz](/miejsca/czerniowce) by Russian troops. The capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny) had returned to Austrian hands only a week earlier. Around 20–21 October it had been [retaken by improvised units](/austriacy-odbijaja-czerniowce) of the gendarmerie colonel Eduard Fischer, made up of gendarmes, Landsturm and volunteers.
 
 ## Which date?
 

@@ -2,10 +2,10 @@
 title: Ala al-Saltaneh becomes prime minister of Persia
 summary: On 6 June 1917 the elderly diplomat Ala al-Saltaneh again became head of the Persian government, in a Tehran haunted by the secret Punishment Committee.
 source: ala-os-saltane-premierem-persji
-sourceHash: 36f73e78da6cb0c75b4f6af99d84cb25e044bd7c
+sourceHash: 7f6348e48fb659f54e04b580bdb3eba0481f8686
 ---
 
-The British chronology of the war records under 6 June 1917 that Ala al-Saltaneh became prime minister of [Persia](/kraje/persja) for the second time, taking over the foreign ministry as well. Persian lists of governments date the start of his term to 15 Khordad 1296 in the Iranian calendar, that is to 5 June. The new cabinet replaced the government of Vosugh od-Dowleh, which had [resigned at the end of May](/dymisja-wosuga-od-dole). [Ahmad Shah](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar) entrusted power to one of the oldest Persian politicians, a man who had begun his career as early as the middle of the 19th century.
+The British chronology of the war records under 6 June 1917 that Ala al-Saltaneh became prime minister of [Persia](/kraje/persja) for the second time, taking over the foreign ministry as well. Persian lists of governments date the start of his term to 15 Khordad 1296 in the Iranian calendar, that is to 5 June. The new cabinet replaced the government of Vosugh od-Dowleh, which had [resigned at the end of May](/dymisja-wosuga-od-dole). [Ahmad Shah](/postacie/ahmad-szah-kadzar) entrusted power to one of the oldest Persian politicians, a man who had begun his career as early as the middle of the 19th century.
 
 ## A diplomat from Baghdad
 

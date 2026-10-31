@@ -2,7 +2,7 @@
 title: British submarines enter the Baltic
 summary: On 17–18 October 1914 the British submarines E1 and E9 forced their way through the Sound into the Baltic. They were to support the Russian fleet.
 source: brytyjskie-okrety-podwodne-na-baltyku
-sourceHash: 7552fac6cfb976f0774367ebaa902977a42804eb
+sourceHash: d64cdc00e431f8f88e0a4abf612a4b56e2fd6bb6
 ---
 
 On the night of 17–18 October 1914 the British submarine [E1](https://pl.wikipedia.org/wiki/HMS_E1) forced its way through the [Sound](https://pl.wikipedia.org/wiki/Sund) between Denmark and Sweden and entered the [Baltic Sea](https://pl.wikipedia.org/wiki/Morze_Bałtyckie). On 18 October [E9](https://pl.wikipedia.org/wiki/HMS_E9) passed the same way. They were the first British warships sent to the Baltic to fight the German fleet together with the Russians.
@@ -17,6 +17,6 @@ Laurence went through first. In the Baltic he immediately went hunting for the G
 
 ## Under Russian command
 
-E1 and E9 sailed to [Libau](https://pl.wikipedia.org/wiki/Lipawa) in Courland. Fearing a German attack, however, the Russians had abandoned the base there, so the British moved to Reval, today's [Tallinn](https://pl.wikipedia.org/wiki/Tallinn), and later also to bases in Finland. They came under the orders of the Russian commander of the Baltic Fleet. By the end of 1914 they had achieved no great successes, but their very presence forced the Germans to be more cautious in the Baltic.
+E1 and E9 sailed to [Libau](/miejsca/lipawa) in Courland. Fearing a German attack, however, the Russians had abandoned the base there, so the British moved to Reval, today's [Tallinn](https://pl.wikipedia.org/wiki/Tallinn), and later also to bases in Finland. They came under the orders of the Russian commander of the Baltic Fleet. By the end of 1914 they had achieved no great successes, but their very presence forced the Germans to be more cautious in the Baltic.
 
 The greatest successes came in 1915. In July Horton torpedoed and badly damaged the German armoured cruiser [Prinz Adalbert](https://pl.wikipedia.org/wiki/SMS_Prinz_Adalbert_(1901)), and in August, during the [Battle of the Gulf of Riga](https://pl.wikipedia.org/wiki/Bitwa_w_Zatoce_Ryskiej), Laurence hit the battlecruiser [Moltke](https://pl.wikipedia.org/wiki/SMS_Moltke_(1910)). In 1915 they were joined by more British submarines, which sank many German ore ships. Horton, one of the most famous British submariners, commanded the defence of the Atlantic convoys against the U-boats in the Second World War. E1 and E9 never returned to England. In April 1918, after Russia had made peace with Germany, their crews scuttled them off Helsinki so that they would not fall into German hands.

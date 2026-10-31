@@ -2,10 +2,10 @@
 title: Ottoman troops in Kermanshah
 summary: In January 1916 Ottoman battalions arrived in Kermanshah. The city was not captured, but was a centre of Persian nationalists allied with Germany.
 source: wojska-osmanskie-w-kermanszahu
-sourceHash: 98b2660d6659406c42faf158e7b32657dc285855
+sourceHash: c25ee3f2303d4692690938708b4be048faffe114
 ---
 
-The British chronology of the war records under 13 January 1916 the occupation of [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) in western Persia by Turkish troops. This was not, however, the capture of the city. Kermanshah had for several weeks been in the hands of Persian opponents of the Entente, and the Ottoman units came there at their request, as allies. The available studies do not give the day on which the Turkish soldiers entered the city. The history of the Caucasian wars by Allen and Muratoff and the work of the Iranian historian Iraj Nasseri suggest that the first battalions arrived at the turn of December and January, and further ones in the following weeks. The entry in the chronology most probably reflects the moment when news of the Turkish garrison reached London. On the same day the Russians took Kangavar, halfway along the road from Hamadan to Kermanshah.
+The British chronology of the war records under 13 January 1916 the occupation of [Kermanshah](/miejsca/kermanszah) in western Persia by Turkish troops. This was not, however, the capture of the city. Kermanshah had for several weeks been in the hands of Persian opponents of the Entente, and the Ottoman units came there at their request, as allies. The available studies do not give the day on which the Turkish soldiers entered the city. The history of the Caucasian wars by Allen and Muratoff and the work of the Iranian historian Iraj Nasseri suggest that the first battalions arrived at the turn of December and January, and further ones in the following weeks. The entry in the chronology most probably reflects the moment when news of the Turkish garrison reached London. On the same day the Russians took Kangavar, halfway along the road from Hamadan to Kermanshah.
 
 ## City of emigrants
 

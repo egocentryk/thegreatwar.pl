@@ -27,7 +27,7 @@ sources:
   - "https://bazhum.muzhp.pl/media/texts/palestra/1992-tom-36-numer-3-4411-412/palestra-r1992-t36-n3_4411_412-s119-121.pdf"
 ---
 
-Wojciech Trąmpczyński był jednym z najbardziej szanowanych Polaków w Rzeszy Niemieckiej. Poznański adwokat i notariusz, od 1910 roku poseł do pruskiego Landtagu, a od 1912 roku także do Reichstagu, przez całą wojnę bronił w Berlinie polskiej ludności zaboru pruskiego i okupowanego Królestwa, jednocześnie zniechęcając rodaków do czynnej pomocy dla państw centralnych. W listopadzie 1918 roku stanął na czele polskiej Rady Ludowej w Poznaniu, wszedł do władz [Naczelnej Rady Ludowej](https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa) i jeździł do Warszawy na rozmowy z [Józefem Piłsudskim](/postacie/jozef-pilsudski). W lutym 1919 roku został pierwszym marszałkiem Sejmu odrodzonej Polski. Jego wspomnienia z lat wojny należą do ciekawszych relacji o tym, jak wielką wojnę przeżywali Polacy pod panowaniem pruskim.
+Wojciech Trąmpczyński był jednym z najbardziej szanowanych Polaków w Rzeszy Niemieckiej. Poznański adwokat i notariusz, od 1910 roku poseł do pruskiego Landtagu, a od 1912 roku także do Reichstagu, przez całą wojnę bronił w Berlinie polskiej ludności zaboru pruskiego i okupowanego Królestwa, jednocześnie zniechęcając rodaków do czynnej pomocy dla państw centralnych. W listopadzie 1918 roku stanął na czele polskiej Rady Ludowej w Poznaniu, wszedł do władz [Naczelnej Rady Ludowej](/slownik/naczelna-rada-ludowa) i jeździł do Warszawy na rozmowy z [Józefem Piłsudskim](/postacie/jozef-pilsudski). W lutym 1919 roku został pierwszym marszałkiem Sejmu odrodzonej Polski. Jego wspomnienia z lat wojny należą do ciekawszych relacji o tym, jak wielką wojnę przeżywali Polacy pod panowaniem pruskim.
 
 ## Przed wojną
 

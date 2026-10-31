@@ -2,7 +2,7 @@
 title: Battles of Masłomęcz and Grabowiec begin
 summary: On 13 July 1915 the German Army of the Bug took up positions between Hrubieszów and Grabowiec. The attack on the Russian Thirteenth Army began on 15 July.
 source: poczatek-bitew-pod-maslomeczem-i-grabowcem
-sourceHash: 2ebaa4ca2d65d5949d54e9e3addd1fc3802416ca
+sourceHash: c3c097395d529636cda593b67b163f210093cda0
 ---
 
 On 13 July 1915, when the [great offensive of the Central Powers](/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie) got under way on the Narew, the German Army of the Bug was completing its preparations for an attack northwards on the southern edge of the Kingdom of Poland, between [Hrubieszów](https://pl.wikipedia.org/wiki/Hrubieszów) and [Grabowiec](https://pl.wikipedia.org/wiki/Grabowiec_(powiat_zamojski)). The German list of battles, on which the British chronology of the war is based, dates two battles from this day: at [Masłomęcz](https://pl.wikipedia.org/wiki/Masłomęcz), a village on the [Huczwa](https://pl.wikipedia.org/wiki/Huczwa) south of Hrubieszów, and at Grabowiec, on the hills of the [Działy Grabowieckie](https://pl.wikipedia.org/wiki/Działy_Grabowieckie). The actual attack, however, began only on 15 July. 13 July was the day on which the German troops moved into their jumping-off positions.
@@ -19,6 +19,6 @@ Opposite stood the [Thirteenth Army](https://pl.wikipedia.org/wiki/13_Armia_(Imp
 
 ## The plan of attack
 
-On 11 July Mackensen received orders to attack between the Vistula and the Bug together with the Austro-Hungarian Fourth Army, the Eleventh Army and the Army of the Bug, and to reach the line Novo-Alexandria (Puławy) – [Lublin](https://pl.wikipedia.org/wiki/Lublin) – [Chełm](https://pl.wikipedia.org/wiki/Chełm). Cutting the Russians off from the railway from Chełm to Lublin and Ivangorod was to threaten the whole Russian front in the Kingdom of Poland, while Gallwitz's army advanced from the north. The Army of the Bug was to march on Chełm. Since its front was long, it was ordered to attack a day earlier than the rest, on 15 July, and on 16 July to draw level with the Eleventh Army. German reconnaissance identified the points of breakthrough: at Masłomęcz and Metelin for Gerok's corps, and at Zaborce for the Beskiden Corps.
+On 11 July Mackensen received orders to attack between the Vistula and the Bug together with the Austro-Hungarian Fourth Army, the Eleventh Army and the Army of the Bug, and to reach the line Novo-Alexandria (Puławy) – [Lublin](/miejsca/lublin) – [Chełm](https://pl.wikipedia.org/wiki/Chełm). Cutting the Russians off from the railway from Chełm to Lublin and Ivangorod was to threaten the whole Russian front in the Kingdom of Poland, while Gallwitz's army advanced from the north. The Army of the Bug was to march on Chełm. Since its front was long, it was ordered to attack a day earlier than the rest, on 15 July, and on 16 July to draw level with the Eleventh Army. German reconnaissance identified the points of breakthrough: at Masłomęcz and Metelin for Gerok's corps, and at Zaborce for the Beskiden Corps.
 
 The fighting that began two days later proved much harder for the Germans than they had expected. The Russian guardsmen and Caucasian grenadiers beat off attacks for several days, and the Army of the Bug nowhere broke through the front.

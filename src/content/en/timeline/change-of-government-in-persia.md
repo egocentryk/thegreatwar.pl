@@ -2,7 +2,7 @@
 title: Change of government in Persia
 summary: On 19 August 1914 the Persian Prime Minister Ala al-Saltaneh stepped down and took the foreign ministry. Mostowfi ol-Mamalek became head of government.
 source: zmiana-rzadu-w-persji
-sourceHash: a2c8f8578c04dcd140077934d55726d713641337
+sourceHash: facb17ba1d4fcff7732ebcd3418f5ee833cf5bb8
 ---
 
 According to contemporary chronicles of the war, on 19 August 1914 there was a change of government in [Persia](/kraje/persja). The Prime Minister, Ala al-Saltaneh, resigned and took the post of foreign minister in the new government, vacated the day before by Vosugh od-Dowleh. The new prime minister was Mostowfi ol-Mamalek. Sources differ on the exact dates of these changes, and some studies end Ala al-Saltaneh's premiership as early as August 1913.
@@ -11,7 +11,7 @@ According to contemporary chronicles of the war, on 19 August 1914 there was a c
 
 Mostowfi ol-Mamalek was one of the most respected Persian politicians of his era. He headed the government several times and had a reputation as an honest man, independent of foreign influence. Ala al-Saltaneh, for his part, was an experienced diplomat who had represented Persia abroad for many years.
 
-The change of government came soon after the coronation of the young Shah [Ahmad](https://pl.wikipedia.org/wiki/Ahmad_Szah_Kadżar), who came of age in July 1914 and took over power from the regent. The new cabinet immediately had to face the question of what stance to take towards the war in Europe.
+The change of government came soon after the coronation of the young Shah [Ahmad](/postacie/ahmad-szah-kadzar), who came of age in July 1914 and took over power from the regent. The new cabinet immediately had to face the question of what stance to take towards the war in Europe.
 
 ## Neutrality on paper
 

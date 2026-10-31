@@ -2,14 +2,14 @@
 title: Marghiloman dismissed
 summary: In early November 1918 King Ferdinand, at the Entente's demand, dismissed the Germanophile Marghiloman–Arion cabinet. General Constantin Coandă took over.
 source: dymisja-marghilomana
-sourceHash: cf1b7afff750936a3216a9b97d186826ff727845
+sourceHash: f033feb081e93583c936dd1c1c33d5966e11845f
 ---
 
 The British chronology of the war records under this day the resignation of the Romanian prime minister [Alexandru Marghiloman](/postacie/alexandru-marghiloman) and the foreign minister Constantin Arion (in the chronology "Arian"). The government, which had taken power [in March](/marghiloman-premierem-rumunii) to make peace with the Central Powers, had in fact fallen two days earlier. According to Marghiloman's own diary and Romanian lists of governments, the dismissal took place on 6 November 1918, that is 24 October by the Julian calendar then in use in Romania. A new cabinet was appointed the same day. The British chronology records it only under 1 December.
 
 ## The government's last days
 
-By the beginning of November the Central Powers had been defeated. Austria-Hungary had signed the [Armistice of Villa Giusti](/rozejm-w-villa-giusti), and the army of [August von Mackensen](/postacie/august-von-mackensen) occupying Wallachia was beginning to withdraw. Marghiloman, regarded by the Entente as "the Germans' man", still tried to exploit the new situation. At the request of the Romanian National Council in [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce), he ordered troops on the border to enter [Bukovina](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) and occupy Suceava, and then to advance as quickly as possible towards Czernowitz. King [Ferdinand I](/postacie/ferdynand-i-rumunski) approved these orders. On the evening of 5 November the prime minister reported to the monarch.
+By the beginning of November the Central Powers had been defeated. Austria-Hungary had signed the [Armistice of Villa Giusti](/rozejm-w-villa-giusti), and the army of [August von Mackensen](/postacie/august-von-mackensen) occupying Wallachia was beginning to withdraw. Marghiloman, regarded by the Entente as "the Germans' man", still tried to exploit the new situation. At the request of the Romanian National Council in [Czernowitz](/miejsca/czerniowce), he ordered troops on the border to enter [Bukovina](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) and occupy Suceava, and then to advance as quickly as possible towards Czernowitz. King [Ferdinand I](/postacie/ferdynand-i-rumunski) approved these orders. On the evening of 5 November the prime minister reported to the monarch.
 
 ## 6 November
 

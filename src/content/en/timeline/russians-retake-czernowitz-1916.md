@@ -2,10 +2,10 @@
 title: Russians retake Czernowitz
 summary: On 17 June 1916 the Russian 9th Army broke into the Czernowitz bridgehead and crossed the Prut at night. On 18 June the Austrians left the Bukovinian capital.
 source: rosjanie-odbijaja-czerniowce
-sourceHash: 1ba0d790836177ce03ccd50eb8a88d4f1888f1ad
+sourceHash: a7cfe9b949a50719b9797e13e9482e95436a2182
 ---
 
-On 17 June 1916 the decisive fight for [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce), the capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny), was fought outside the city. After several hours of shelling, Russian infantry broke into the Austro-Hungarian bridgehead on the northern bank of the [Prut](https://pl.wikipedia.org/wiki/Prut), and during the night crossed the river. The British chronology of the war and *The Times* record the Russian entry under 17 June, and the American monthly *Current History* even under 16 June. According to the Austrian official history, however, the city fell only in the early morning of 18 June, and the Vienna communiqué of that day says Czernowitz had been evacuated during the night. The same date, 5 June in the Julian calendar then in force in Russia, i.e. 18 June in the Gregorian, appears in Russian sources. The Russians took Czernowitz for the third time in this war, after [September](/rosjanie-zajmuja-czerniowce) and [November 1914](/rosjanie-ponownie-zajmuja-czerniowce).
+On 17 June 1916 the decisive fight for [Czernowitz](/miejsca/czerniowce), the capital of [Bukovina](https://pl.wikipedia.org/wiki/Księstwo_Bukowiny), was fought outside the city. After several hours of shelling, Russian infantry broke into the Austro-Hungarian bridgehead on the northern bank of the [Prut](https://pl.wikipedia.org/wiki/Prut), and during the night crossed the river. The British chronology of the war and *The Times* record the Russian entry under 17 June, and the American monthly *Current History* even under 16 June. According to the Austrian official history, however, the city fell only in the early morning of 18 June, and the Vienna communiqué of that day says Czernowitz had been evacuated during the night. The same date, 5 June in the Julian calendar then in force in Russia, i.e. 18 June in the Gregorian, appears in Russian sources. The Russians took Czernowitz for the third time in this war, after [September](/rosjanie-zajmuja-czerniowce) and [November 1914](/rosjanie-ponownie-zajmuja-czerniowce).
 
 ## A city under fire
 

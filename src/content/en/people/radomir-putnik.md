@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Kragujevac (Serbia)
 deathPlace: Nice (France)
 source: radomir-putnik
-sourceHash: b528d06901c75755d7a3761644613db59e1d74fd
+sourceHash: dfee1555f74f8d92ed33396f82bb966b7cccd6f3
 ---
 
 Radomir Putnik was the brain of the Serbian army in the two Balkan Wars and in the first years of the Great War. Formally the commander-in-chief was the regent, [Alexander](/postacie/aleksander-i-karadziordziewic), but operations were directed by the chief of staff of the Supreme Command, an ailing, taciturn old gentleman who for years had scarcely left his office. In 1914 his armies three times repulsed the Austro-Hungarian invasion and in December recaptured Belgrade. A year later, attacked simultaneously by the Germans, the Austrians and the Bulgarians, Putnik avoided encirclement and led the army through the mountains of Montenegro and Albania to the Adriatic. He made the journey himself in a litter, and soon afterwards lost his post. He died in exile, without living to see his return home.
@@ -15,7 +15,7 @@ Radomir Putnik was the brain of the Serbian army in the two Balkan Wars and in t
 
 He was born on 24 January 1847 (12 January in the Julian calendar) in [Kragujevac](https://pl.wikipedia.org/wiki/Kragujevac), the first capital of the revived Serbian principality, the son of a teacher. He graduated from the artillery school in Belgrade and fought in the wars against Turkey in 1876–1878 and in the war against Bulgaria in 1885. He then lectured at the military academy, and in 1890 became deputy chief of the general staff. Under the Obrenović dynasty he fell into disfavour, suspected of sympathy for the Radicals of [Nikola Pašić](/postacie/nikola-pasic), and in the mid-1890s had to leave the army.
 
-He was brought back only by the coup of 1903, which placed [Peter I Karađorđević](/postacie/piotr-i-karadziordziewic) on the throne. Putnik became a general and chief of the general staff, and three times also minister of war. He rejuvenated the officer corps, prepared new mobilisation plans and surrounded himself with able collaborators, among them [Živojin Mišić](/postacie/zivojin-misic) and [Stepa Stepanović](/postacie/stepa-stepanovic). In the [First Balkan War](https://pl.wikipedia.org/wiki/Wojny_bałkańskie) he directed the army that in October 1912 defeated the Turks at Kumanovo. He then received, as the first in Serbian history, the highest military rank of *vojvoda*, the equivalent of field marshal. A year later, in the war against Bulgaria, his troops repulsed the Bulgarian attack on the Bregalnica. In 1914 he was 67 years old and had long suffered from lung disease.
+He was brought back only by the coup of 1903, which placed [Peter I Karađorđević](/postacie/piotr-i-karadziordziewic) on the throne. Putnik became a general and chief of the general staff, and three times also minister of war. He rejuvenated the officer corps, prepared new mobilisation plans and surrounded himself with able collaborators, among them [Živojin Mišić](/postacie/zivojin-misic) and [Stepa Stepanović](/postacie/stepa-stepanovic). In the [First Balkan War](/slownik/wojny-balkanskie) he directed the army that in October 1912 defeated the Turks at Kumanovo. He then received, as the first in Serbian history, the highest military rank of *vojvoda*, the equivalent of field marshal. A year later, in the war against Bulgaria, his troops repulsed the Bulgarian attack on the Bregalnica. In 1914 he was 67 years old and had long suffered from lung disease.
 
 ## July 1914: return from a cure
 
