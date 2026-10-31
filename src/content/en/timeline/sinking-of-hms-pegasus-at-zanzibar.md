@@ -2,7 +2,7 @@
 title: Sinking of HMS Pegasus at Zanzibar
 summary: On 20 September 1914 the German cruiser Königsberg surprised the British cruiser Pegasus in Zanzibar harbour and sank her. Several dozen sailors were killed.
 source: zatoniecie-hms-pegasus
-sourceHash: 9c9a59419ac1c3784c1eebb912e58921416fb238
+sourceHash: 1a8a3850a9fbcb96ad9c5d72b736c0f006cbc9cb
 ---
 
 At dawn on 20 September 1914 the German light cruiser [SMS *Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)) entered the harbour of the town of [Zanzibar](https://pl.wikipedia.org/wiki/Zanzibar_(miasto)) and attacked the British cruiser HMS *Pegasus* lying at anchor. Taken by surprise, the ship was unable to defend herself and sank after a short fight.
@@ -21,6 +21,6 @@ After only a few minutes, a quarter of an hour at most, the British ship was a b
 
 ## The end of *Königsberg*
 
-The success did not change the German cruiser's position. Her engines also needed repair, and Looff had nowhere to go. He hid the ship in the backwaters of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) delta on the coast of German East Africa. At the end of October the British found her and blockaded her. For many months, however, they could not reach her in the shallow channels. Only in July 1915 did two shallow-draught [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) make their way deep into the delta and badly damage the cruiser. On 11 July the crew blew up the wreck.
+The success did not change the German cruiser's position. Her engines also needed repair, and Looff had nowhere to go. He hid the ship in the backwaters of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) delta on the coast of German East Africa. At the end of October the British found her and blockaded her. For many months, however, they could not reach her in the shallow channels. Only in July 1915 did two shallow-draught [monitors](/slownik/monitor) make their way deep into the delta and badly damage the cruiser. On 11 July the crew blew up the wreck.
 
 *Königsberg*'s war did not end there. The Germans salvaged the guns from the wreck and carried them inland. The sailors of her crew, together with the guns, joined the forces of Lieutenant Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), which for the following years waged the campaign in East Africa.

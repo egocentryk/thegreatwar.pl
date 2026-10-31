@@ -1,0 +1,172 @@
+{
+ "slug": "deklaracja-londynska",
+ "paragraphs": [
+  {
+   "start": "Deklaracja londyńska to podpisany w Londynie w 190",
+   "quotes": [
+    {
+     "url": "https://hrlibrary.umn.edu/instree/1909b.htm",
+     "quote": "Declaration concerning the Laws of Naval War, London, 26 February 1909."
+    },
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "dokładnie określała, kiedy wojujący może zatrzymać neutralny statek, co jest kontrabandą i jak prowadzić blokadę"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/London_Declaration_concerning_the_Laws_of_Naval_War",
+     "quote": "However, no state ever ratified the declaration and consequently it never came into force."
+    },
+    {
+     "file": "src/content/timeline/1914/08/francja-oglasza-nowy-dekret-o-kontrabandzie.md",
+     "quote": "Francja i Wielka Brytania coraz bardziej rozszerzały listy kontrabandy i odchodziły od deklaracji londyńskiej, co wywoływało protesty państw neutralnych."
+    }
+   ]
+  },
+  {
+   "start": "Konferencję morską zwołał brytyjski rząd, a obrad",
+   "quotes": [
+    {
+     "url": "https://hrlibrary.umn.edu/instree/1909a.htm",
+     "quote": "The London Naval Conference, called together by His Britannic Majesty's Government, assembled at the Foreign Office 4 December 1908, with the object of laying down the generally recognized principles of international law in accordance with Article 7 of the Convention signed at The Hague, 18 October 1907, for the establishment of an International Prize Court."
+    },
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "Deklarację podpisało 26 lutego 1909 roku w Londynie dziesięć państw morskich, w tym Wielka Brytania, Niemcy, Francja, Rosja i Stany Zjednoczone. Miała być kodeksem prawa, które stosowałby planowany Międzynarodowy Trybunał Pryzowy w Hadze"
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-akceptuja-deklaracje-londynska.md",
+     "quote": "Lista dokładnie powtarzała wykazy z deklaracji londyńskiej: kontrabanda bezwzględna, czyli przede wszystkim broń, amunicja i sprzęt wojskowy, odpowiadała artykułowi 22"
+    },
+    {
+     "url": "https://hrlibrary.umn.edu/instree/1909b.htm",
+     "quote": "Art. 24. The following articles, susceptible of use in war as well as for purposes of peace, may, without notice (*), be treated as contraband of war, under the name of conditional contraband: (1) Foodstuffs."
+    },
+    {
+     "url": "https://hrlibrary.umn.edu/instree/1909b.htm",
+     "quote": "Art. 28. The following may not be declared contraband of war: (1) Raw cotton, wool, silk, jute, flax, hemp, and other raw materials of the textile industries, and yarns of the same. (2) Oil seeds and nuts; copra. (3) Rubber, resins, gums, and lacs; hops. (4) Raw hides and horns, bones, and ivory. (5) Natural and artificial manures, including nitrates and phosphates for agricultural purposes. (6) Metallic ores."
+    }
+   ]
+  },
+  {
+   "start": "Najwięcej sporów budziły ograniczenia dla floty.",
+   "quotes": [
+    {
+     "url": "https://hrlibrary.umn.edu/instree/1909b.htm",
+     "quote": "Art. 35. Conditional contraband is not liable to capture, except when found on board a vessel bound for territory belonging to or occupied by the enemy, or for the armed forces of the enemy, and when it is not to be discharged in an intervening neutral port."
+    },
+    {
+     "url": "https://hrlibrary.umn.edu/instree/1909b.htm",
+     "quote": "Art. 19. Whatever may be the ulterior destination of a vessel or of her cargo, she cannot be captured for breach of blockade, if, at the moment, she is on her way to a non-blockaded port."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/London_Declaration_concerning_the_Laws_of_Naval_War",
+     "quote": "In his earlier 1907 essay 'The Capture of Private Property at Sea', he argued that the curtailment of the Royal Navy's right to seize enemy shipping would have a detrimental impact on Britain's ability to wage economic warfare against a continental enemy, economic warfare being the single most important function of the Navy, in his view."
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1911/dec/12/naval-prize-bill",
+     "quote": "NAVAL PRIZE BILL. (Hansard, 12 December 1911)"
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1911/dec/12/naval-prize-bill",
+     "quote": "Their Lordships divided: Contents, 53; Not-contents, 145."
+    }
+   ]
+  },
+  {
+   "start": "6 sierpnia 1914 roku Stany Zjednoczone zapytały w",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/francja-deklaracja-londynska-z-modyfikacjami.md",
+     "quote": "Już 6 sierpnia rząd USA zapytał walczące państwa, czy zgodzą się stosować deklarację londyńską, pod warunkiem że przyjmą ją wszystkie strony."
+    },
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "Niemcy, które we wrześniu 1914 roku zgodziły się ją stosować pod warunkiem wzajemności"
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-modyfikuje-deklaracje-londynska.md",
+     "quote": "20 sierpnia 1914 Wielka Brytania ogłosiła, że będzie stosować deklarację londyńską o prawie wojny morskiej, ale ze zmianami zaostrzającymi kontrolę handlu."
+    },
+    {
+     "file": "src/content/timeline/1914/08/francja-oglasza-nowy-dekret-o-kontrabandzie.md",
+     "quote": "25 sierpnia 1914 francuski rząd wydał dekret o stosowaniu deklaracji londyńskiej"
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-modyfikuje-deklaracje-londynska.md",
+     "quote": "Była to tak zwana zasada podróży ciągłej, znana z czasów wojen napoleońskich. Pozwalała zatrzymywać ładunki płynące do neutralnych Holandii czy Danii, jeśli można było udowodnić, że w rzeczywistości trafią do Niemiec."
+    }
+   ]
+  },
+  {
+   "start": "Przez całą jesień Amerykanie namawiali Londyn, by",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/10/nota-usa-w-sprawie-prawa-wojny-morskiej.md",
+     "quote": "Przez całą jesień Amerykanie próbowali skłonić Londyn do przyjęcia deklaracji bez zastrzeżeń."
+    },
+    {
+     "file": "src/content/timeline/1914/10/nota-usa-w-sprawie-prawa-wojny-morskiej.md",
+     "quote": "Parlament nie ratyfikował deklaracji, a jej postanowienia zakazywały uznania za kontrabandę takich towarów jak kauczuk czy ruda żelaza, które Niemcy wykorzystywały głównie do produkcji wojennej."
+    },
+    {
+     "file": "src/content/timeline/1914/10/nota-usa-w-sprawie-prawa-wojny-morskiej.md",
+     "quote": "22 października 1914 USA wycofały propozycję stosowania deklaracji londyńskiej i zapowiedziały, że będą bronić praw neutralnych na gruncie dawnych reguł."
+    },
+    {
+     "file": "src/content/timeline/1914/10/nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska.md",
+     "quote": "29 października 1914 Wielka Brytania ogłosiła nowe listy kontrabandy i nowe zarządzenie o stosowaniu deklaracji londyńskiej, zastępujące sierpniowe."
+    },
+    {
+     "file": "src/content/timeline/1914/11/holandia-protestuje-przeciw-zmianom-deklaracji-londynskiej.md",
+     "quote": "13 listopada 1914 rząd Holandii zaprotestował przeciw zmianom deklaracji londyńskiej"
+    }
+   ]
+  },
+  {
+   "start": "Na deklarację powoływali się także Niemcy. Pozwala",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/03/zatopienie-holenderskiego-parowca-medea.md",
+     "quote": "Zatopienie neutralnego statku zamiast odprowadzenia go do portu przed sąd pryzowy deklaracja dopuszczała tylko w wyjątkowych sytuacjach."
+    },
+    {
+     "file": "src/content/timeline/1915/01/zatopienie-zaglowca-william-p-frye.md",
+     "quote": "28 stycznia 1915 niemiecki krążownik pomocniczy Prinz Eitel Friedrich zatopił amerykański bark William P."
+    },
+    {
+     "file": "src/content/timeline/1915/03/zatopienie-holenderskiego-parowca-medea.md",
+     "quote": "25 marca 1915 niemiecki U-28 zatrzymał w kanale La Manche holenderski parowiec Medea z pomarańczami dla Londynu, przeszukał go i zatopił ogniem działa."
+    },
+    {
+     "file": "src/content/timeline/1915/03/zatopienie-holenderskiego-parowca-medea.md",
+     "quote": "Berlin odpowiedział, że działał zgodnie z deklaracją londyńską"
+    }
+   ]
+  },
+  {
+   "start": "Kolejne brytyjskie zarządzenia, z października 19",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "Z kolejnymi rozporządzeniami, w październiku 1914 roku, w październiku 1915 roku i w marcu 1916 roku, zmian przybywało."
+    },
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "Uważał, że utrzymywanie deklaracji przy życiu i ciągłe jej poprawianie kolejnymi rozporządzeniami najbardziej podsyca nieufność państw neutralnych"
+    },
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "Oba rządy zawiadomiły jednocześnie państwa neutralne, że odtąd będą się kierować wyłącznie uznanymi od dawna zasadami prawa narodów."
+    },
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "7 lipca 1916 Wielka Brytania i Francja przestały stosować deklarację londyńską z 1909 roku."
+    },
+    {
+     "file": "src/content/timeline/1916/07/uchylenie-deklaracji-londynskiej.md",
+     "quote": "W rzeczywistości niewiele się zmieniło, bo handel neutralnych z Niemcami kontrolowano już przede wszystkim przez umowy z kupcami w krajach neutralnych i przez czarne listy. 20 lipca rosyjski ambasador w Waszyngtonie zawiadomił Amerykanów, że Rosja również odstępuje od deklaracji. Niemcy, które we wrześniu 1914 roku zgodziły się ją stosować pod warunkiem wzajemności, w odpowiedzi zmieniły swój regulamin pryzowy"
+    }
+   ]
+  }
+ ]
+}

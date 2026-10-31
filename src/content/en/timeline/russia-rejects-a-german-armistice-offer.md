@@ -2,10 +2,10 @@
 title: Russia rejects a German armistice offer
 summary: On 9 June 1917 Petrograd published its reply to a German radio message urging Russian troops to a separate armistice. Russia rejected it.
 source: rosja-odrzuca-niemiecka-propozycje-rozejmu
-sourceHash: eb65de521c638194fa93cef770ce040d34384f09
+sourceHash: 71528bbaa1ac221388b308df06da0bbff4058e1a
 ---
 
-On 9 June 1917 (27 May by the Julian calendar) the leaders of the [Petrograd Soviet](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich) disclosed and rejected a German offer of a separate armistice on the Eastern Front. The commander-in-chief of the German forces in the east, Prince [Leopold of Bavaria](/postacie/leopold-bawarski), had sent the Russian troops a radio message in which he offered to show them the way to an "honourable peace" and to an end of the fighting without breaking with their allies. A British chronology of the war records under this date that the Provisional Government rejected a German proposal for an armistice of unlimited duration. The available contemporary sources speak above all of the Soviet's reply, but also of the refusal of Russian commanders and of the position of the government, which had already ruled out a separate peace in May.
+On 9 June 1917 (27 May by the Julian calendar) the leaders of the [Petrograd Soviet](/slownik/rada-delegatow) disclosed and rejected a German offer of a separate armistice on the Eastern Front. The commander-in-chief of the German forces in the east, Prince [Leopold of Bavaria](/postacie/leopold-bawarski), had sent the Russian troops a radio message in which he offered to show them the way to an "honourable peace" and to an end of the fighting without breaking with their allies. A British chronology of the war records under this date that the Provisional Government rejected a German proposal for an armistice of unlimited duration. The available contemporary sources speak above all of the Soviet's reply, but also of the refusal of Russian commanders and of the position of the government, which had already ruled out a separate peace in May.
 
 ## A quiet war in the east
 

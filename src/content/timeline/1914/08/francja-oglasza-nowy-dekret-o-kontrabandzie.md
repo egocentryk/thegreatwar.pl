@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku rząd Francji wydał dekret określający, jak w czasie wojny będzie stosować [deklarację londyńską](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku o prawie wojny morskiej. Dekret na nowo definiował zasady dotyczące kontrabandy wojennej, czyli towarów, które francuska marynarka mogła zatrzymywać na morzu, także na statkach państw neutralnych.
+25 sierpnia 1914 roku rząd Francji wydał dekret określający, jak w czasie wojny będzie stosować [deklarację londyńską](/slownik/deklaracja-londynska) z 1909 roku o prawie wojny morskiej. Dekret na nowo definiował zasady dotyczące kontrabandy wojennej, czyli towarów, które francuska marynarka mogła zatrzymywać na morzu, także na statkach państw neutralnych.
 
 ## Za przykładem Londynu
 

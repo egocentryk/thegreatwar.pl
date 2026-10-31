@@ -2,7 +2,7 @@
 title: Formation of the Provisional Government
 summary: On 15 March 1917 Milyukov announced the Provisional Government, led by Prince Lvov. It arose from an agreement of the Duma Committee and the Petrograd Soviet.
 source: powstanie-rzadu-tymczasowego
-sourceHash: 12ab8981b6e9061f1a7ba46c1d861468415d8a0a
+sourceHash: 19a4cb565ce15b7811124a22b8d976b1f075478e
 ---
 
 On the afternoon of 15 March 1917 (2 March in the Julian calendar), in the Catherine Hall of the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki), the Kadet leader [Pavel Milyukov](/postacie/pawiel-milukow) announced the composition of Russia's new government to a crowd of soldiers and workers. At its head stood Prince [Georgy Lvov](/postacie/gieorgij-lwow); Milyukov himself took foreign affairs, and [Alexander Guchkov](/postacie/aleksandr-guczkow) the ministry of war and the navy. The cabinet called itself the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), because it was to govern only until a Constituent Assembly elected by the whole nation decided the form of the state. A few hours later, in Pskov, Tsar [Nicholas II](/postacie/mikolaj-ii) [renounced the throne](/abdykacja-mikolaja-ii).
@@ -13,7 +13,7 @@ The British chronology of the war records the proclamation of the Provisional Go
 
 After the [fall of the Golitsyn government](/upadek-rzadu-golicyna), power in the capital was taken over on the night of 12–13 March by the [Provisional Committee of the Duma](https://pl.wikipedia.org/wiki/Komitet_Tymczasowy_Dumy), chaired by [Mikhail Rodzianko](/postacie/michail-rodzianko). Its members had a list of ministers ready. The liberal opposition had been discussing it since 1915 and had agreed it in detail at the end of 1916. The candidate for prime minister was Lvov, chairman of the All-Russian Zemstvo Union and of [Zemgor](https://pl.wikipedia.org/wiki/Ziemgor), the organisation of local governments which during the war supplied the army and cared for the wounded. Summoned from Moscow, he arrived in Petrograd on the morning of 14 March.
 
-The Committee, however, had to reckon with a second centre of power. In the same palace sat the [Petrograd Soviet of Workers' and Soldiers' Deputies](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich), which most of the mutinous garrison followed. On 14 March it issued [Order No. 1](/rozkaz-nr-1), which subordinated the soldiers to it in political matters. Without its consent no government could hold on in the capital.
+The Committee, however, had to reckon with a second centre of power. In the same palace sat the [Petrograd Soviet of Workers' and Soldiers' Deputies](/slownik/rada-delegatow), which most of the mutinous garrison followed. On 14 March it issued [Order No. 1](/rozkaz-nr-1), which subordinated the soldiers to it in political matters. Without its consent no government could hold on in the capital.
 
 ## Night negotiations
 

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Southampton (England)
 deathPlace: London
 source: john-jellicoe
-sourceHash: 543109cc94ff3ef7b2f8ec87438f9b23c11fa8e0
+sourceHash: 0a3d210a2f791af53b8a0480d20e019bf14c0857
 ---
 
 For more than two years John Rushworth Jellicoe commanded the [Grand Fleet](/sily-zbrojne/grand-fleet), the largest war fleet in the world, on which it depended whether Britain would keep command of the sea, the blockade of Germany and the supply of food from overseas. He was the only British commander to lead the whole battle fleet in an engagement with the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska). At Jutland in 1916 he did not win the victory the country expected, but he prevented a defeat and kept a superiority that the Germans never challenged again. Then, as First Sea Lord, the professional head of the Royal Navy, he fought unrestricted submarine warfare at its most dangerous. For a long time he did not believe in convoys, and at the end of 1917 the Prime Minister, who considered him a pessimist, had him removed. The dispute over his caution continues to this day.
@@ -29,7 +29,7 @@ After the German raids on the English coast, Vice-Admiral [David Beatty's](/post
 
 ## Jutland
 
-From January 1916 the High Seas Fleet was commanded by Admiral [Reinhard Scheer](/postacie/reinhard-scheer), who wanted to lure parts of the Grand Fleet out to sea and destroy them with superior forces. After the [raid on Lowestoft and Yarmouth](/bitwy/atak-na-lowestoft-i-yarmouth) in April Jellicoe was preparing his own plan to lure the Germans out, but Scheer got in first. On the evening of 30 May, forewarned by the cryptanalysts of [Room 40](https://pl.wikipedia.org/wiki/Room_40), Jellicoe took the fleet out of Scapa Flow before the Germans had even left port. At noon on 31 May, however, he received erroneous information from the Admiralty that the German flagship was still in harbour, and he did not hurry.
+From January 1916 the High Seas Fleet was commanded by Admiral [Reinhard Scheer](/postacie/reinhard-scheer), who wanted to lure parts of the Grand Fleet out to sea and destroy them with superior forces. After the [raid on Lowestoft and Yarmouth](/bitwy/atak-na-lowestoft-i-yarmouth) in April Jellicoe was preparing his own plan to lure the Germans out, but Scheer got in first. On the evening of 30 May, forewarned by the cryptanalysts of [Room 40](/slownik/room-40), Jellicoe took the fleet out of Scapa Flow before the Germans had even left port. At noon on 31 May, however, he received erroneous information from the Admiralty that the German flagship was still in harbour, and he did not hurry.
 
 At the [Battle of Jutland](/bitwy/bitwa-jutlandzka) Jellicoe steamed south for several hours without knowing exactly where the enemy was. At about 6.15 p.m., within a few minutes and on the basis of scanty reports, he had to decide in which direction to deploy 24 dreadnoughts from cruising formation into line of battle. He deployed them on the port wing, and as a result the British line emerged from the mist across the course of the German fleet. Most historians regard this decision as exemplary. Scheer twice found himself in a trap and twice escaped from it by turning the whole fleet about. The second time, at about 7.20 p.m., he threw his torpedo boats at the British, and Jellicoe, in accordance with his principles, turned his battleships away from them. No torpedo hit, but the fleets lost contact and did not regain it before dark.
 

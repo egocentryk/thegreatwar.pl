@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 7 sierpnia 1918 roku na [Atlantyku](https://pl.wikipedia.org/wiki/Ocean_Atlantycki), kilkaset mil na zachód od [Brestu](https://pl.wikipedia.org/wiki/Brest), niemiecki okręt podwodny [U-62](https://pl.wikipedia.org/wiki/SM_U-62_(1916)) kapitanlejtnanta Ernsta Hashagena storpedował francuski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Dupetit-Thouars](https://pl.wikipedia.org/wiki/Dupetit-Thouars_(1901)). Okręt zatonął w niespełna godzinę. Według większości opracowań zginęło 13 marynarzy, według części źródeł francuskich około dziesięciu.
+Wieczorem 7 sierpnia 1918 roku na [Atlantyku](https://pl.wikipedia.org/wiki/Ocean_Atlantycki), kilkaset mil na zachód od [Brestu](https://pl.wikipedia.org/wiki/Brest), niemiecki okręt podwodny [U-62](https://pl.wikipedia.org/wiki/SM_U-62_(1916)) kapitanlejtnanta Ernsta Hashagena storpedował francuski [krążownik pancerny](/slownik/krazownik-pancerny) [Dupetit-Thouars](https://pl.wikipedia.org/wiki/Dupetit-Thouars_(1901)). Okręt zatonął w niespełna godzinę. Według większości opracowań zginęło 13 marynarzy, według części źródeł francuskich około dziesięciu.
 
 Dupetit-Thouars był krążownikiem [typu Gueydon](https://pl.wikipedia.org/wiki/Krążowniki_pancerne_typu_Gueydon), zbudowanym na przełomie wieków w arsenale w Tulonie. Miał około 9,5 tysiąca ton wyporności i kilkaset ludzi załogi. W 1918 roku należał do francuskiej dywizji atlantyckiej i eskortował [konwoje](https://pl.wikipedia.org/wiki/Konwój_morski) płynące z Ameryki do Francji. Według serwisu uboat.net wypłynął z Nowego Jorku 24 lipca jako eskorta oceaniczna konwoju HB 7. Konwój, liczący według części opracowań 24 statki, zbliżał się już do wybrzeży Francji.
 

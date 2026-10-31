@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-18 maja 1917 roku (5 maja według kalendarza juliańskiego) w Rosji powstał pierwszy rząd koalicyjny. Na czele [Rządu Tymczasowego](/powstanie-rzadu-tymczasowego) pozostał książę [Gieorgij Lwow](/postacie/gieorgij-lwow), ale do gabinetu weszło sześciu socjalistów, w tym przywódcy [Rady Piotrogrodzkiej](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich). Dotychczasowy minister sprawiedliwości [Aleksander Kiereński](/postacie/aleksander-kierenski) objął ministerstwo wojny i marynarki, a dotychczasowy minister finansów Michaił Tereszczenko sprawy zagraniczne. Następnego dnia rząd ogłosił deklarację programową, w której odrzucał odrębny pokój i jako cel wojny stawiał powszechny pokój bez aneksji i kontrybucji.
+18 maja 1917 roku (5 maja według kalendarza juliańskiego) w Rosji powstał pierwszy rząd koalicyjny. Na czele [Rządu Tymczasowego](/powstanie-rzadu-tymczasowego) pozostał książę [Gieorgij Lwow](/postacie/gieorgij-lwow), ale do gabinetu weszło sześciu socjalistów, w tym przywódcy [Rady Piotrogrodzkiej](/slownik/rada-delegatow). Dotychczasowy minister sprawiedliwości [Aleksander Kiereński](/postacie/aleksander-kierenski) objął ministerstwo wojny i marynarki, a dotychczasowy minister finansów Michaił Tereszczenko sprawy zagraniczne. Następnego dnia rząd ogłosił deklarację programową, w której odrzucał odrębny pokój i jako cel wojny stawiał powszechny pokój bez aneksji i kontrybucji.
 
 Brytyjska chronologia wojny notuje nominacje Kiereńskiego i Tereszczenki pod 16 maja, a deklarację pod 19 maja. W rzeczywistości skład gabinetu uzgadniano do ostatniej chwili w dniach 15–18 maja, a ostatecznie zatwierdzono go 18 maja. Deklaracja nosi datę 6 maja st. st., czyli 19 maja.
 

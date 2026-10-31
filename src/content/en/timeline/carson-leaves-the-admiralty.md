@@ -2,10 +2,10 @@
 title: Carson leaves the Admiralty
 summary: In July 1917 Edward Carson moved from the Admiralty to the War Cabinet. The railwayman and organiser Eric Geddes became First Lord of the Admiralty.
 source: carson-opuszcza-admiralicje
-sourceHash: 35678cf9d62cb834d04e6e25784e4e8cb05d64f9
+sourceHash: f76ce367370f752201817b1ab40d0dcff614cea4
 ---
 
-In mid-July 1917 [Edward Carson](/postacie/edward-carson) ceased to head the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) and joined the War Cabinet as minister without portfolio. His successor as First Lord of the Admiralty, the political head of the navy, was [Eric Geddes](/postacie/eric-geddes). The British chronology of the war records under 19 July that Carson resigned. The changes had, however, been announced as early as 17 July, together with other government appointments: on the same day [Winston Churchill](/postacie/winston-churchill) became Minister of Munitions and Edwin Montagu Secretary of State for India. According to the *London Gazette*, Geddes was sworn in as First Lord of the Admiralty on 20 July at [Buckingham Palace](https://pl.wikipedia.org/wiki/Pałac_Buckingham). The same chronology states elsewhere that Geddes took office only on 6 September, but this date is contradicted by the entries in the *London Gazette*.
+In mid-July 1917 [Edward Carson](/postacie/edward-carson) ceased to head the [Admiralty](/slownik/admiralicja) and joined the War Cabinet as minister without portfolio. His successor as First Lord of the Admiralty, the political head of the navy, was [Eric Geddes](/postacie/eric-geddes). The British chronology of the war records under 19 July that Carson resigned. The changes had, however, been announced as early as 17 July, together with other government appointments: on the same day [Winston Churchill](/postacie/winston-churchill) became Minister of Munitions and Edwin Montagu Secretary of State for India. According to the *London Gazette*, Geddes was sworn in as First Lord of the Admiralty on 20 July at [Buckingham Palace](https://pl.wikipedia.org/wiki/Pałac_Buckingham). The same chronology states elsewhere that Geddes took office only on 6 September, but this date is contradicted by the entries in the *London Gazette*.
 
 ## Carson at the Admiralty
 

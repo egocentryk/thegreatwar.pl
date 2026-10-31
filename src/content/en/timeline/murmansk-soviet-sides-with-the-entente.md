@@ -2,10 +2,10 @@
 title: Murmansk soviet sides with the Entente
 summary: On 30 June 1918 the Murmansk soviet resolved to defy Moscow's orders to expel the Allies and invited the Entente to defend the region jointly against Germany.
 source: murmanska-rada-po-stronie-ententy
-sourceHash: 741ab1045122e6c563379aacb4c5bf3756141166
+sourceHash: 5d772cd612c6c4da6f520b69c170ea424f0b88b8
 ---
 
-On 30 June 1918 in [Murmansk](/miejsca/murmansk) the Murmansk Regional Soviet met together with the central committee of the local flotilla (Tsentromur), the railwaymen's committee and delegates from the surrounding districts. According to Russian studies, those assembled resolved not to carry out the instructions of the [Council of People's Commissars](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR) and to accept economic and military aid from the Allies. General [Frederick Poole](/postacie/frederick-poole), commander of the Allied forces in northern Russia, described it in a report as a large meeting at which it was unanimously resolved that the Murman would not carry out the order of the central Soviet government to expel the Allies from the country. The soviet was to defend Murmansk against the Germans itself and invited the Allies to co-operate. The representatives of the Entente powers agreed. The soviet did not formally cease to be a Soviet body, but in practice it broke with [Lenin](/postacie/wlodzimierz-lenin)'s government.
+On 30 June 1918 in [Murmansk](/miejsca/murmansk) the Murmansk Regional Soviet met together with the central committee of the local flotilla (Tsentromur), the railwaymen's committee and delegates from the surrounding districts. According to Russian studies, those assembled resolved not to carry out the instructions of the [Council of People's Commissars](/slownik/rada-komisarzy-ludowych) and to accept economic and military aid from the Allies. General [Frederick Poole](/postacie/frederick-poole), commander of the Allied forces in northern Russia, described it in a report as a large meeting at which it was unanimously resolved that the Murman would not carry out the order of the central Soviet government to expel the Allies from the country. The soviet was to defend Murmansk against the Germans itself and invited the Allies to co-operate. The representatives of the Entente powers agreed. The soviet did not formally cease to be a Soviet body, but in practice it broke with [Lenin](/postacie/wlodzimierz-lenin)'s government.
 
 ## Between Moscow and the Allies
 

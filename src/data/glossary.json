@@ -4557,5 +4557,277 @@
    "postacie/robert-borden",
    "postacie/arthur-currie"
   ]
+ },
+ {
+  "slug": "monitor",
+  "slugEn": "monitor",
+  "term": "Monitor",
+  "termEn": "Monitor",
+  "category": "bron",
+  "pattern": "\\bmonitor\\w*|\\bMonitor(?!ul)\\w*\\b(?! Polsk)",
+  "patternEn": "\\b[Mm]onitors?\\b(?! Polski)",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Powolny okręt o płytkim zanurzeniu, uzbrojony w nieproporcjonalnie ciężkie działa, do ostrzału wybrzeża i walki na rzekach. W tej wojnie strzelał u brzegów Belgii, w Dardanelach i na Dunaju.",
+  "shortEn": "A slow, shallow-draught warship with disproportionately heavy guns, built to bombard coasts and fight on rivers. In this war monitors fired off the Belgian coast, at the Dardanelles and on the Danube.",
+  "long": [
+   "Nazwa pochodzi od amerykańskiego okrętu Monitor z wojny secesyjnej, ale brytyjskie monitory I wojny światowej miały z nim niewiele wspólnego. Pierwsze trzy, Severn, Humber i Mersey, były kanonierkami rzecznymi budowanymi dla Brazylii. Pod koniec 1914 roku Churchill i Fisher zamówili całą flotyllę nowych, z działami zdjętymi z innych okrętów lub zamówionymi gdzie indziej, od 6 do 15 cali. Szerokie kadłuby z bąblami przeciwtorpedowymi chroniły przed torpedami, ale okręty były bardzo wolne i źle znosiły otwarte morze.",
+   "W październiku 1914 roku monitory wspierały Belgów nad Yser, a potem przez całą wojnę ostrzeliwały Ostendę i Zeebrugge. Od lata 1915 roku zastępowały pod Gallipoli stare pancerniki narażone na U-Booty, a w lipcu Severn i Mersey, kierowane z samolotów, rozbiły krążownik Königsberg w delcie Rufidżi. Austro-węgierskie monitory rzeczne ostrzelały Belgrad w nocy z 28 na 29 lipca 1914 roku, a potem walczyły z Serbami i Rumunami na Dunaju. W styczniu 1918 roku Goeben i Breslau zatopiły pod Imbros monitory Raglan i M28."
+  ],
+  "longEn": [
+   "The name comes from the American ship Monitor of the Civil War, but the British monitors of the First World War had little in common with her. The first three, Severn, Humber and Mersey, were river gunboats being built for Brazil. At the end of 1914 Churchill and Fisher ordered a whole flotilla of new ones, with guns taken from other ships or ordered elsewhere, from 6 to 15 inches. Broad hulls with anti-torpedo bulges protected them against torpedoes, but the ships were very slow and handled the open sea badly.",
+   "In October 1914 monitors supported the Belgians on the Yser, and then shelled Ostend and Zeebrugge throughout the war. From the summer of 1915 they replaced at Gallipoli the old battleships exposed to U-boats, and in July Severn and Mersey, directed from aircraft, wrecked the cruiser Königsberg in the Rufiji delta. Austro-Hungarian river monitors shelled Belgrade on the night of 28–29 July 1914, and then fought the Serbs and Romanians on the Danube. In January 1918 Goeben and Breslau sank the monitors Raglan and M28 off Imbros."
+  ],
+  "see": [
+   "bitwy/bitwa-w-delcie-rufiji",
+   "brytyjskie-okrety-ostrzeliwuja-wybrzeze-belgii",
+   "austro-wegierska-artyleria-ostrzeliwuje-belgrad",
+   "pierwsze-posiedzenie-komitetu-dardanelskiego",
+   "bitwy/bitwa-pod-imbros",
+   "zatoniecie-glattona"
+  ],
+  "sources": [
+   "https://navyhistory.au/british-monitors-east-of-malta/",
+   "https://www.historyofwar.org/articles/lists_monitor_classes_british_WWI.html",
+   "https://en.wikipedia.org/wiki/Monitor_(warship)"
+  ]
+ },
+ {
+  "slug": "krazownik-pancerny",
+  "slugEn": "armoured-cruiser",
+  "term": "Krążownik pancerny",
+  "termEn": "Armoured cruiser",
+  "category": "bron",
+  "pattern": "[Kk]rążownik\\w* pancern(?!opokład)\\w*",
+  "patternEn": "[Aa]rmou?red cruisers?",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Duży krążownik z pancernym pasem burtowym, budowany od lat 70. XIX wieku do ochrony handlu i rozpoznania. W 1914 roku przestarzały wobec krążownika liniowego, w czasie wojny poniósł ciężkie straty.",
+  "shortEn": "A large cruiser with an armoured belt along its sides, built from the 1870s to protect trade and to scout. Outclassed by the battlecruiser by 1914, it suffered heavy losses in the war.",
+  "long": [
+   "Krążownik pancerny łączył pancerz burtowy z prędkością i zasięgiem krążownika, więc mógł działać samodzielnie na odległych morzach, strzec szlaków handlowych i prowadzić rozpoznanie dla floty. Budowano je licznie na przełomie XIX i XX wieku. W 1908 roku wyparł je krążownik liniowy, szybszy i uzbrojony w działa pancernika, a po 1910 roku nie powstał już żaden nowy. W 1914 roku wiele z nich służyło jednak nadal, często z załogami złożonymi z rezerwistów.",
+   "22 września 1914 roku U-9 zatopił w ciągu godziny trzy brytyjskie krążowniki pancerne: Aboukir, Hogue i Cressy. 1 listopada pod Coronelem Scharnhorst i Gneisenau zatopiły Good Hope i Monmouth, a 8 grudnia same zginęły pod Falklandami. W styczniu 1915 roku na Dogger Bank zatonął Blücher, a pod Jutlandią Brytyjczycy stracili Defence, Warrior i Black Prince. Wiele innych poszło na dno od min i torped, w tym Hampshire z lordem Kitchenerem w czerwcu 1916 roku."
+  ],
+  "longEn": [
+   "The armoured cruiser combined side armour with a cruiser's speed and range, so it could operate on its own on distant seas, guard trade routes and scout for the fleet. They were built in large numbers around the turn of the 20th century. In 1908 the battlecruiser, faster and armed with a battleship's guns, superseded them, and no new one was built after 1910. In 1914, however, many were still in service, often with crews made up of reservists.",
+   "On 22 September 1914 U-9 sank three British armoured cruisers within an hour: Aboukir, Hogue and Cressy. On 1 November at Coronel Scharnhorst and Gneisenau sank Good Hope and Monmouth, and on 8 December they were themselves lost off the Falklands. In January 1915 Blücher went down at the Dogger Bank, and at Jutland the British lost Defence, Warrior and Black Prince. Many others were sunk by mines and torpedoes, among them Hampshire with Lord Kitchener in June 1916."
+  ],
+  "see": [
+   "zatoniecie-aboukir-hogue-i-cressy",
+   "bitwy/bitwa-pod-coronelem",
+   "bitwy/bitwa-kolo-falklandow",
+   "bitwy/bitwa-na-dogger-bank",
+   "bitwy/bitwa-jutlandzka",
+   "smierc-kitchenera"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armored_cruiser",
+   "https://www.avalanchepress.com/Armored_Cruisers_at_Jutland.php",
+   "https://www.britishbattles.com/battle-of-coronel"
+  ]
+ },
+ {
+  "slug": "konwencje-haskie",
+  "slugEn": "hague-conventions",
+  "term": "Konwencje haskie",
+  "termEn": "Hague Conventions",
+  "category": "polityka",
+  "pattern": "[Kk]onwencj\\w* hask\\w*",
+  "patternEn": "Hague Conventions?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Umowy o prawach i zwyczajach wojny przyjęte na konferencjach pokojowych w Hadze w 1899 i 1907 roku. W czasie wojny obie strony powoływały się na nie, oskarżając przeciwnika o ich łamanie.",
+  "shortEn": "Agreements on the laws and customs of war adopted at the peace conferences in The Hague in 1899 and 1907. During the war both sides invoked them, accusing the enemy of breaking them.",
+  "long": [
+   "Pierwszą konferencję pokojową zwołano do Hagi w 1899 roku z inicjatywy cara Mikołaja II. Przyjęła ona trzy konwencje, w tym o prawach i zwyczajach wojny lądowej, oraz trzy deklaracje, między innymi o zakazie pocisków rozprzestrzeniających gazy duszące. Druga konferencja, w 1907 roku, przyjęła trzynaście konwencji: odnowiła regulamin wojny lądowej i określiła prawa państw neutralnych, zasady stawiania min, ostrzału z morza i ochrony statków szpitalnych.",
+   "Regulamin zakazywał używania trucizn, atakowania niebronionych miast i zatrudniania jeńców przy pracach związanych z działaniami wojennymi, a neutralni musieli internować wojska, które schroniły się na ich terytorium. W latach 1914–1918 strony stale oskarżały się o łamanie konwencji: sprzymierzeni Niemców za Lowanium, gaz pod Ypres i zatapianie statków szpitalnych, Niemcy przeciwników za przewożenie na takich statkach żołnierzy. W 1921 roku niemiecki Sąd Rzeszy w Lipsku sądził między innymi oficerów okrętów podwodnych, które je zatopiły."
+  ],
+  "longEn": [
+   "The first peace conference was called to The Hague in 1899 on the initiative of Tsar Nicholas II. It adopted three conventions, including one on the laws and customs of war on land, and three declarations, among them a ban on projectiles spreading asphyxiating gases. The second conference, in 1907, adopted thirteen conventions: it renewed the regulations of land warfare and set out the rights of neutral states and the rules for laying mines, bombardment from the sea and the protection of hospital ships.",
+   "The regulations forbade the use of poison, attacks on undefended towns and the employment of prisoners on work connected with the operations of the war, and neutrals had to intern troops that took refuge on their territory. In 1914–1918 the belligerents constantly accused each other of breaking the conventions: the Allies blamed the Germans for Leuven, the gas at Ypres and the sinking of hospital ships, the Germans accused their enemies of carrying troops on such ships. In 1921 the German Reich Court in Leipzig tried, among others, officers of the U-boats that had sunk them."
+  ],
+  "see": [
+   "niemcy-niszcza-lowanium",
+   "poczatek-drugiej-bitwy-pod-ypres",
+   "niemiecka-nota-w-sprawie-pracy-jencow",
+   "zatopienie-llandovery-castle",
+   "internowanie-prinz-eitel-friedrich",
+   "postacie/mikolaj-ii"
+  ],
+  "sources": [
+   "https://avalon.law.yale.edu/20th_century/hague04.asp",
+   "https://avalon.law.yale.edu/19th_century/dec99-02.asp",
+   "https://avalon.law.yale.edu/20th_century/hague10.asp",
+   "https://en.wikipedia.org/wiki/Hague_Conventions_of_1899_and_1907"
+  ]
+ },
+ {
+  "slug": "deklaracja-londynska",
+  "slugEn": "declaration-of-london",
+  "term": "Deklaracja londyńska",
+  "termEn": "Declaration of London",
+  "category": "morze",
+  "pattern": "[Dd]eklaracj\\w* londyńsk\\w*",
+  "patternEn": "Declaration of London|London Declaration",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niewprowadzony w życie kodeks prawa wojny morskiej podpisany w Londynie w 1909 roku. Na początku wojny sprzymierzeni stosowali go ze zmianami, a w lipcu 1916 roku całkiem od niego odstąpili.",
+  "shortEn": "A code of the law of naval war signed in London in 1909 that never came into force. At the start of the war the Allies applied it with changes, and in July 1916 they abandoned it altogether.",
+  "long": [
+   "Deklarację przygotowała konferencja morska zwołana przez Wielką Brytanię do Londynu w 1908 roku, a 26 lutego 1909 roku podpisało ją dziesięć państw. Miała być kodeksem dla planowanego Międzynarodowego Trybunału Pryzowego: określała zasady blokady, dzieliła towary na kontrabandę bezwzględną, względną i wolną od zajęcia, a kontrabandę względną pozwalała zatrzymywać tylko w drodze do portów nieprzyjaciela. Ustawę, która miała ją wprowadzić w życie, Izba Lordów odrzuciła w 1911 roku, a żadne państwo jej nie ratyfikowało.",
+   "6 sierpnia 1914 roku Stany Zjednoczone zaproponowały walczącym, by ją stosowali. Niemcy zgodziły się pod warunkiem wzajemności, a Wielka Brytania i Francja przyjęły ją ze zmianami, z których najważniejsza wprowadzała zasadę podróży ciągłej. 22 października Amerykanie wycofali propozycję. Kolejne rozporządzenia coraz bardziej odchodziły od deklaracji, aż 7 lipca 1916 roku Londyn i Paryż ją uchyliły, zapowiadając, że odtąd będą się kierować tylko uznanymi zasadami prawa narodów."
+  ],
+  "longEn": [
+   "The declaration was prepared by a naval conference called by Britain to London in 1908, and on 26 February 1909 it was signed by ten states. It was meant to be the code for a planned International Prize Court: it set the rules of blockade, divided goods into absolute contraband, conditional contraband and goods free from capture, and allowed conditional contraband to be seized only on its way to enemy ports. The bill meant to put it into effect was rejected by the House of Lords in 1911, and no state ratified it.",
+   "On 6 August 1914 the United States proposed that the belligerents apply it. Germany agreed on condition of reciprocity, while Britain and France accepted it with changes, the most important of which introduced the doctrine of continuous voyage. On 22 October the Americans withdrew the proposal. Successive orders departed further and further from the declaration until on 7 July 1916 London and Paris revoked it, announcing that from then on they would follow only the recognised principles of the law of nations."
+  ],
+  "see": [
+   "uchylenie-deklaracji-londynskiej",
+   "wielka-brytania-modyfikuje-deklaracje-londynska",
+   "niemcy-akceptuja-deklaracje-londynska",
+   "nota-usa-w-sprawie-prawa-wojny-morskiej",
+   "postacie/robert-cecil"
+  ],
+  "sources": [
+   "https://hrlibrary.umn.edu/instree/1909b.htm",
+   "https://en.wikipedia.org/wiki/London_Declaration_concerning_the_Laws_of_Naval_War"
+  ],
+  "exclude": [
+   "pakt-londynski",
+   "postacie/edward-grey"
+  ]
+ },
+ {
+  "slug": "admiralicja",
+  "slugEn": "admiralty",
+  "term": "Admiralicja",
+  "termEn": "Admiralty",
+  "category": "morze",
+  "pattern": "(?<!Sztab )(?<!Sztabu )(?<!Sztabem )(?<!Wyspy )(?<!Wysp )(?<!Wyspami )(?<!molo )Admiralicj\\w*\\b(?! niemieck)",
+  "patternEn": "(?<!German )(?<!Austro-Hungarian )(?<!Chief of the )(?<!chief of the )Admiralty\\b(?! Staff| Islands| Pier| in Berlin)",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Brytyjski urząd kierujący Royal Navy, zarazem ministerstwo i naczelne dowództwo floty. Na jego czele stali pierwszy lord Admiralicji, polityk, i pierwszy lord morski, zawodowy szef marynarki.",
+  "shortEn": "The British department that ran the Royal Navy, at once a ministry and the fleet's high command. It was headed by the First Lord of the Admiralty, a politician, and the First Sea Lord, the navy's professional chief.",
+  "long": [
+   "Admiralicja, z gmachem przy Whitehall w Londynie, kierowała flotą od XVII wieku. Rada Admiralicji łączyła polityków i admirałów: pierwszy lord był cywilnym ministrem, który odpowiadał przed parlamentem, a pierwszy lord morski najwyższym rangą oficerem. Winston Churchill utworzył w niej przed wojną sztab wojenny marynarki, a od jesieni 1914 roku jej komórka dekryptażu, nazywana Room 40, czytała niemieckie depesze radiowe.",
+   "W czasie wojny kierownictwo zmieniało się kilka razy. Spór Churchilla i Johna Fishera o Dardanele kosztował w maju 1915 roku obu urzędy, a ich następcami zostali Arthur Balfour i Henry Jackson. W grudniu 1916 roku przyszli Edward Carson i John Jellicoe, krytykowani za zwlekanie z konwojami. W 1917 roku przebudowano sztab marynarki, w lipcu pierwszym lordem został organizator Eric Geddes, a w Wigilię odwołał on Jellicoe’a. Jego następca, admirał Rosslyn Wemyss, towarzyszył Fochowi przy podpisaniu rozejmu w Compiègne."
+  ],
+  "longEn": [
+   "The Admiralty, with its building in Whitehall in London, had run the fleet since the 17th century. The Board of Admiralty combined politicians and admirals: the First Lord was a civilian minister answerable to Parliament, and the First Sea Lord the highest-ranking officer. Before the war Winston Churchill created a naval war staff within it, and from the autumn of 1914 its code-breaking section, known as Room 40, read German wireless signals.",
+   "During the war its leadership changed several times. The quarrel between Churchill and John Fisher over the Dardanelles cost both their posts in May 1915, and they were succeeded by Arthur Balfour and Henry Jackson. In December 1916 came Edward Carson and John Jellicoe, criticised for delaying convoys. In 1917 the naval staff was rebuilt, in July the organiser Eric Geddes became First Lord, and on Christmas Eve he dismissed Jellicoe. His successor, Admiral Rosslyn Wemyss, accompanied Foch at the signing of the armistice at Compiègne."
+  ],
+  "see": [
+   "churchill-odchodzi-z-admiralicji",
+   "dymisja-lorda-fishera",
+   "jellicoe-pierwszym-lordem-morskim",
+   "dymisja-jellicoe",
+   "sily-zbrojne/royal-navy",
+   "postacie/eric-geddes"
+  ],
+  "sources": [
+   "https://www.globalsecurity.org/military/world/europe/uk-rn-first-lord-of-the-admiralty-2.htm",
+   "https://encyclopedia.1914-1918-online.net/article/geddes-eric-campbell-sir/",
+   "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-first-world-war/",
+   "https://en.wikipedia.org/wiki/Board_of_Admiralty",
+   "https://en.wikipedia.org/wiki/First_Lord_of_the_Admiralty"
+  ],
+  "exclude": [
+   "bitwy/bitwa-w-zatoce-ryskiej",
+   "bitwy/operacja-albion",
+   "niemiecka-kanonierka-panther-wplywa-do-agadiru",
+   "poczatek-niemieckiego-ataku-na-zatoke-ryska",
+   "dymisja-jagowa",
+   "niemiecka-oferta-pokojowa",
+   "rewolucja-lutowa",
+   "upadek-rzadu-golicyna",
+   "usa-wypowiadaja-wojne-niemcom",
+   "koniec-operacji-albion",
+   "poczatek-operacji-albion",
+   "druga-nota-wilsona",
+   "niemcy-oglaszaja-nieograniczona-wojne-podwodna"
+  ]
+ },
+ {
+  "slug": "izba-lordow",
+  "slugEn": "house-of-lords",
+  "term": "Izba Lordów",
+  "termEn": "House of Lords",
+  "category": "polityka",
+  "pattern": "\\bIzb\\w* Lordów",
+  "patternEn": "House of Lords",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Wyższa, niewybieralna izba brytyjskiego parlamentu, złożona głównie z dziedzicznych parów. Od 1911 roku mogła tylko opóźniać ustawy, ale w czasie wojny przemawiali w niej ministrowie i krytycy rządu.",
+  "shortEn": "The upper, unelected house of the British Parliament, made up mainly of hereditary peers. Since 1911 it could only delay bills, but in the war ministers and critics of the government spoke there.",
+  "long": [
+   "Izba Lordów obradowała w Westminsterze obok Izby Gmin. Zasiadali w niej dziedziczni parowie, biskupi anglikańscy i lordowie prawa, którzy tworzyli też najwyższy sąd apelacyjny. Ustawa parlamentarna z 1911 roku, uchwalona po sporze o budżet Lloyda George’a, odebrała lordom weto: ustawy finansowe mogli opóźnić o miesiąc, inne o dwa lata. Dlatego we wrześniu 1914 roku, mimo oporu konserwatystów, do zbioru praw weszła ustawa o home rule dla Irlandii, zawieszona do końca wojny.",
+   "W czasie wojny lordowie szybko uchwalali ustawy wojenne, od ustawy o obronie królestwa w sierpniu 1914 roku po pobór w 1916 roku. Przemawiali tu lord Kitchener, od 1916 roku Edward Grey i przywódca izby lord Curzon. W kwietniu 1916 roku izba obradowała na tajnym posiedzeniu, a w styczniu 1918 roku przyjęła prawo głosu dla kobiet. 29 listopada 1917 roku lord Lansdowne ogłosił w „Daily Telegraph” list wzywający do takiego określenia celów wojny, by umożliwić pokój z Niemcami, co wywołało burzę."
+  ],
+  "longEn": [
+   "The House of Lords sat at Westminster alongside the House of Commons. Its members were hereditary peers, Anglican bishops and the law lords, who also formed the highest court of appeal. The Parliament Act of 1911, passed after the dispute over Lloyd George's budget, took away the Lords' veto: they could delay money bills by a month and other bills by two years. That is why in September 1914, despite Conservative opposition, the Irish Home Rule Act reached the statute book, suspended until the end of the war.",
+   "During the war the Lords passed wartime laws quickly, from the Defence of the Realm Act in August 1914 to conscription in 1916. Lord Kitchener spoke there, from 1916 so did Edward Grey, and Lord Curzon led the House. In April 1916 the House held a secret session, and in January 1918 it accepted votes for women. On 29 November 1917 Lord Lansdowne published a letter in the Daily Telegraph calling for war aims to be defined so as to make peace with Germany possible, which caused an uproar."
+  ],
+  "see": [
+   "brytyjki-otrzymuja-prawo-glosu",
+   "ustawa-o-obronie-krolestwa",
+   "izba-gmin-uchwala-pobor",
+   "gabinet-wojenny",
+   "koniec-bitwy-nad-somma"
+  ],
+  "sources": [
+   "https://api.parliament.uk/historic-hansard/lords/1916/apr/25/the-secret-session",
+   "https://wshc.org.uk/lord-lansdowne-peace-letter/",
+   "https://en.wikipedia.org/wiki/Parliament_Act_1911",
+   "https://en.wikipedia.org/wiki/House_of_Lords"
+  ],
+  "exclude": [
+   "postacie/hans-von-beseler",
+   "postacie/heinrich-lammasch",
+   "postacie/jan-kanty-steczkowski",
+   "postacie/michal-bobrzynski",
+   "postacie/ottokar-czernin",
+   "zabojstwo-premiera-stuergkha",
+   "clam-martinic-premierem-austrii",
+   "czernin-ministrem-spraw-zagranicznych",
+   "dymisja-hertlinga",
+   "dymisja-jagowa",
+   "rzad-steczkowskiego",
+   "odpowiedz-wilsona-dla-austro-wegier"
+  ]
+ },
+ {
+  "slug": "room-40",
+  "slugEn": "room-40",
+  "term": "Room 40",
+  "termEn": "Room 40",
+  "category": "morze",
+  "pattern": "\\bRoom 40\\b",
+  "patternEn": "\\bRoom 40\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Komórka dekryptażu brytyjskiej Admiralicji, nazwana od numeru pokoju. Odczytywała niemieckie depesze morskie i dyplomatyczne, a w 1917 roku także telegram Zimmermanna.",
+  "shortEn": "The British Admiralty's codebreaking section, named after the number of its room. It read German naval and diplomatic messages, and in 1917 the Zimmermann telegram.",
+  "long": [
+   "Room 40 powstał jesienią 1914 roku, gdy szef wywiadu marynarki Henry Oliver powierzył przechwycone niemieckie depesze Alfredowi Ewingowi, dyrektorowi szkolnictwa marynarki. Przełom przyniosły zdobyte książki kodowe: sygnałowa z krążownika Magdeburg, przekazana przez Rosjan, kod z parowca Hobart i kod wyłowiony w skrzyni z torpedowca zatopionego koło Texel. Od listopada 1914 roku komórka pracowała w pokoju 40 starego gmachu Admiralicji, a od maja 1917 roku kierował nią bezpośrednio szef wywiadu marynarki William Reginald Hall.",
+   "Dzięki Room 40 Brytyjczycy wiedzieli zawczasu o wyjściach niemieckiej floty przed bombardowaniem Scarborough, bitwą na Dogger Bank i bitwą jutlandzką, choć Admiralicja, strzegąc tajemnicy, nie zawsze dobrze wykorzystywała te wiadomości. W styczniu 1917 roku kryptolodzy odczytali telegram Zimmermanna, którego ujawnienie przyczyniło się do przystąpienia Stanów Zjednoczonych do wojny. W 1919 roku komórkę połączono z wywiadem radiowym armii w Szkołę Kodów i Szyfrów Rządu, poprzedniczkę Bletchley Park i GCHQ."
+  ],
+  "longEn": [
+   "Room 40 was set up in the autumn of 1914, when the Director of Naval Intelligence, Henry Oliver, handed intercepted German messages to Alfred Ewing, the Director of Naval Education. The breakthrough came with captured codebooks: the signal book from the cruiser Magdeburg, passed on by the Russians, the code from the steamer Hobart and the code fished up in a chest from a torpedo boat sunk off Texel. From November 1914 the section worked in room 40 of the Admiralty Old Building, and from May 1917 it was run directly by the Director of Naval Intelligence, William Reginald Hall.",
+   "Thanks to Room 40 the British knew in advance of German fleet sorties before the bombardment of Scarborough, the Battle of Dogger Bank and the Battle of Jutland, although the Admiralty, guarding the secret, did not always make good use of the information. In January 1917 the codebreakers read the Zimmermann telegram, whose disclosure helped bring the United States into the war. In 1919 the section was merged with the army's signals intelligence into the Government Code and Cypher School, forerunner of Bletchley Park and GCHQ."
+  ],
+  "see": [
+   "telegram-zimmermanna",
+   "zatoniecie-sms-magdeburg",
+   "bitwa-kolo-texel",
+   "bitwy/bitwa-na-dogger-bank",
+   "bitwy/bitwa-jutlandzka",
+   "publikacja-telegramu-zimmermanna"
+  ],
+  "sources": [
+   "https://history.blog.gov.uk/2017/01/16/the-zimmermann-telegram-and-room-40",
+   "https://www.archives.gov/publications/prologue/2016/winter/zimmermann-telegram",
+   "https://en.wikipedia.org/wiki/Room_40"
+  ]
  }
 ]

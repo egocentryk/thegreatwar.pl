@@ -2,10 +2,10 @@
 title: Spanish flu in the Polish lands
 summary: On 24 October 1918 it was decided to close Kraków's schools because of the Spanish flu and a lack of coal. The epidemic raged in Galicia, the Kingdom and Posen.
 source: hiszpanka-na-ziemiach-polskich
-sourceHash: 75e3787ac21c9ab78c10fdf8b0698d8f7673b388
+sourceHash: ec60ea8cc51e974474c9dbf47ee09489c04535a0
 ---
 
-On 24 October 1918 the decision was taken to close all schools in [Kraków](https://pl.wikipedia.org/wiki/Kraków) for two weeks, from 27 October to 10 November. The Kraków newspapers had been demanding this for almost two weeks, because many of the sick were pupils. The reasons given were the spreading "Spanish lady" and the lack of coal to heat the classrooms. The [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki) epidemic, which at the end of August had [set off in a second wave](/druga-fala-hiszpanki) from the ports of France, America and Africa, was by then present throughout Galicia, in the Kingdom of Poland and in the Province of Posen. The Polish lands, ravaged by four years of war, requisitions and hunger, were exceptionally easy prey for it.
+On 24 October 1918 the decision was taken to close all schools in [Kraków](https://pl.wikipedia.org/wiki/Kraków) for two weeks, from 27 October to 10 November. The Kraków newspapers had been demanding this for almost two weeks, because many of the sick were pupils. The reasons given were the spreading "Spanish lady" and the lack of coal to heat the classrooms. The [Spanish flu](/slownik/grypa-hiszpanka) epidemic, which at the end of August had [set off in a second wave](/druga-fala-hiszpanki) from the ports of France, America and Africa, was by then present throughout Galicia, in the Kingdom of Poland and in the Province of Posen. The Polish lands, ravaged by four years of war, requisitions and hunger, were exceptionally easy prey for it.
 
 ## Kraków
 

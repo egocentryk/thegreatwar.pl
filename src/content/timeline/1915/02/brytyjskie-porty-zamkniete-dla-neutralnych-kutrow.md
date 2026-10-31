@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 1 lutego 1915 roku, że [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja) wydała rozkazy zabraniające neutralnym statkom rybackim korzystania z portów brytyjskich. Spośród neutralnych na łowiskach Morza Północnego obok Brytyjczyków działali przede wszystkim rybacy holenderscy, duńscy i norwescy, a ich kutry i [trawlery](https://pl.wikipedia.org/wiki/Trawler) mogły dotąd zawijać do portów brytyjskich. Zachowane relacje są skąpe i nie podają szczegółów, takich jak kary za złamanie zakazu.
+Brytyjska chronologia wojny odnotowuje pod 1 lutego 1915 roku, że [Admiralicja](/slownik/admiralicja) wydała rozkazy zabraniające neutralnym statkom rybackim korzystania z portów brytyjskich. Spośród neutralnych na łowiskach Morza Północnego obok Brytyjczyków działali przede wszystkim rybacy holenderscy, duńscy i norwescy, a ich kutry i [trawlery](https://pl.wikipedia.org/wiki/Trawler) mogły dotąd zawijać do portów brytyjskich. Zachowane relacje są skąpe i nie podają szczegółów, takich jak kary za złamanie zakazu.
 
 ## Podejrzane kutry
 

@@ -2,14 +2,14 @@
 title: Secret alliance between Germany and the Ottoman Empire
 summary: Contemporary chronicles record the secret alliance of Germany and Turkey under 4 August 1914. The treaty had in fact been signed in Constantinople on 2 August.
 source: tajny-sojusz-niemiec-i-imperium-osmanskiego
-sourceHash: 058a70adc756ced65280e3dbf0f6ecac164cb348
+sourceHash: 2ae8946cfbdbcb50bbcf265263109207ed47760c
 ---
 
 British chronicles of the war recorded the conclusion of a secret alliance between [Germany](/kraje/niemcy) and the [Ottoman Empire](/kraje/imperium-osmanskie) under the date of 4 August 1914. In fact the treaty had been signed two days earlier, on 2 August, in [Constantinople](/miejsca/konstantynopol), the day after Germany declared war on Russia. It was signed on the German side by the ambassador, Baron Hans von Wangenheim, and on the Ottoman side by the Grand Vizier, [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
 
 ## The road to the treaty
 
-The initiative came from Constantinople. The empire, weakened by the war with Italy and the Balkan Wars, was looking for an ally among the great powers, and the leaders of the ruling [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) feared Russia above all. On 22 July the Minister of War, [Enver Pasha](/postacie/enver-pasza), proposed an alliance to Wangenheim, who turned it down: many Germans regarded the empire as a military and economic liability. A few days later, however, Emperor [Wilhelm II](/postacie/wilhelm-ii) overruled his ambassador and agreed to the alliance. On 28 July the Ottoman government formally presented its proposal, and the negotiations went on while Europe moved from mobilisation to war.
+The initiative came from Constantinople. The empire, weakened by the war with Italy and the Balkan Wars, was looking for an ally among the great powers, and the leaders of the ruling [Committee of Union and Progress](/slownik/mlodoturcy) feared Russia above all. On 22 July the Minister of War, [Enver Pasha](/postacie/enver-pasza), proposed an alliance to Wangenheim, who turned it down: many Germans regarded the empire as a military and economic liability. A few days later, however, Emperor [Wilhelm II](/postacie/wilhelm-ii) overruled his ambassador and agreed to the alliance. On 28 July the Ottoman government formally presented its proposal, and the negotiations went on while Europe moved from mobilisation to war.
 
 ## The terms
 

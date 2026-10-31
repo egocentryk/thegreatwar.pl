@@ -2,7 +2,7 @@
 title: Zeebrugge raid
 summary: On St George's night, 23 April 1918, the Royal Navy attacked Zeebrugge and Ostend to seal the Germans' exits from Bruges. Two blockships were sunk at Zeebrugge.
 source: rajd-na-zeebrugge
-sourceHash: 13c614d4b908ab2b6d2e5a59e6ad9db049fb813d
+sourceHash: a5eea121c9b88b950ea5478b1d2c8e53438bf21a
 brief:
   - "Just after midnight on 23 April 1918, St George's Day, ships of the British Dover Patrol attacked the German-occupied ports of Zeebrugge and Ostend on the Belgian coast."
   - "Vice-Admiral Roger Keyes planned to sink old cruisers filled with concrete in the canal entrances, so that German submarines and torpedo boats could not put to sea from their base at Bruges."
@@ -23,7 +23,7 @@ The first two attempts failed. On 11 April a force of 74 vessels was turned back
 
 ## St George's night
 
-The ships left their anchorages throughout the afternoon of 22 April. Keyes sailed in the destroyer *Warwick*. According to accounts, before entering the battle zone he signalled "St George for England", and the commander of *Vindictive*, Commander Alfred Carpenter, replied that they would "twist the dragon's tail". To the north the expedition was covered by light cruisers and destroyers of the Harwich Force under Admiral [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt). At about 11.10 p.m. [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) began shelling the German coastal batteries. Drizzle prevented the planned bombing raid, and motor launches began laying the smoke screen. At the last moment the wind changed again and began to carry the smoke out to sea.
+The ships left their anchorages throughout the afternoon of 22 April. Keyes sailed in the destroyer *Warwick*. According to accounts, before entering the battle zone he signalled "St George for England", and the commander of *Vindictive*, Commander Alfred Carpenter, replied that they would "twist the dragon's tail". To the north the expedition was covered by light cruisers and destroyers of the Harwich Force under Admiral [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt). At about 11.10 p.m. [monitors](/slownik/monitor) began shelling the German coastal batteries. Drizzle prevented the planned bombing raid, and motor launches began laying the smoke screen. At the last moment the wind changed again and began to carry the smoke out to sea.
 
 When *Vindictive* emerged from the smoke, the Germans lit her up with star shells and opened fire at close range. Before the ship touched the mole, the commander of the naval storming party, Captain Halahan, and the commander of the marines, Lieutenant-Colonel Elliot, had been killed. Shells destroyed the howitzers, the flamethrowers and most of the gangways. Shortly after midnight *Vindictive* came alongside the mole, but about 300 metres too far along, away from the battery she was to capture. The tide was pushing her off the wall, and only *Daffodil*, which thrust her bow into her side and held her against the mole throughout the fight, allowed the storming party to go ashore by the two surviving gangways. The crew of *Iris* could not secure to the mole with grapnels. Two officers who climbed the wall to fix them were killed. On the mole the sailors and marines, under machine-gun fire and fire from a German torpedo boat lying alongside the mole, could not break through to the battery. Lieutenant-Commander Arthur Harrison, who led the attack, was killed, as was Brock, who had gone onto the mole to examine a German rangefinder.
 

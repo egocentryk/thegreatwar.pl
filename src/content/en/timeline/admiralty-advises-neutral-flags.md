@@ -2,10 +2,10 @@
 title: Admiralty advises neutral flags
 summary: At the end of January 1915 the Admiralty advised British ships to fly neutral flags, or no flag at all, in the waters around the British Isles.
 source: admiralicja-zaleca-neutralne-bandery
-sourceHash: 0db1a36577e0d98d22fee0a2dddc72f6889fe516
+sourceHash: 937c9ad9982e78baf8ad4ee9aa1cbbc07e18bdf2
 ---
 
-The British chronology of the war records under 30 January 1915 that the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) warned British merchant ships to fly the [flag](https://pl.wikipedia.org/wiki/Bandera) of a neutral state, or none at all, in the waters around the [British Isles](https://pl.wikipedia.org/wiki/Wyspy_Brytyjskie). The advice was meant to make it harder for German submarines to tell whether they were facing a British ship. In their later statements the Germans dated this decision to 31 January.
+The British chronology of the war records under 30 January 1915 that the [Admiralty](/slownik/admiralicja) warned British merchant ships to fly the [flag](https://pl.wikipedia.org/wiki/Bandera) of a neutral state, or none at all, in the waters around the [British Isles](https://pl.wikipedia.org/wiki/Wyspy_Brytyjskie). The advice was meant to make it harder for German submarines to tell whether they were facing a British ship. In their later statements the Germans dated this decision to 31 January.
 
 ## U-boats off the British coast
 

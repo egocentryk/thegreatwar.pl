@@ -2,7 +2,7 @@
 title: Nicholas II takes supreme command
 summary: On 5 September 1915 Nicholas II arrived at the Stavka in Mogilev and took command of the army. Grand Duke Nicholas left; Alekseyev became chief of staff.
 source: mikolaj-ii-obejmuje-naczelne-dowodztwo
-sourceHash: dc4bfb989cc81e7ef6bfab65ff046682bb682941
+sourceHash: adce84a188b29baed9337eef597ed4a38943b7d2
 brief:
   - "On 5 September 1915 Tsar Nicholas II arrived at the Stavka near Mogilev and himself assumed supreme command of the Russian army. He replaced Grand Duke Nicholas Nikolaevich."
   - "By the summer of 1915 the army was retreating, and Russia had lost Galicia, the Kingdom of Poland and part of Lithuania. The Tsar believed his place was with the army; historians also point to the Empress and Rasputin."
@@ -25,7 +25,7 @@ On 19 August (6 August by the Julian calendar) the Minister of War, Alexei Poliv
 
 On the evening of 2 September at [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło) the Tsar presided over a meeting of the Council of Ministers that lasted until half past eleven at night. The ministers failed to persuade him. The next day eight of them, including the Foreign Minister [Sergei Sazonov](/postacie/siergiej-sazonow), the Finance Minister Pyotr Bark, Krivoshein and the Interior Minister Prince Nikolai Shcherbatov, signed a collective letter to the monarch. In it they begged him not to change the commander-in-chief and not to leave the capital, because his decision "threatens, in our deepest conviction, Russia, you and your dynasty with grave consequences". They ended by stating that in such conditions they were losing faith that they could serve the Tsar and the fatherland usefully. The letter was not signed by the Prime Minister, [Ivan Goremykin](https://pl.wikipedia.org/wiki/Iwan_Goriemykin), who sided with the monarch.
 
-The Tsar remained unbending. On 4 September at the Winter Palace he opened the first meeting of the new Special Council for the supply of the army, and in the evening he said goodbye to his family and left for the Stavka. In his diary he wrote: "May the Lord God bless my journey and my decision!" The same day deputies of most of the factions of the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) signed the agreement from which the Progressive Bloc emerged, demanding a government that enjoyed the confidence of the public.
+The Tsar remained unbending. On 4 September at the Winter Palace he opened the first meeting of the new Special Council for the supply of the army, and in the evening he said goodbye to his family and left for the Stavka. In his diary he wrote: "May the Lord God bless my journey and my decision!" The same day deputies of most of the factions of the [State Duma](/slownik/duma) signed the agreement from which the Progressive Bloc emerged, demanding a government that enjoyed the confidence of the public.
 
 ## Alekseyev at the Stavka
 

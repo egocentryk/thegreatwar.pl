@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Nad ranem 4 listopada 1914 roku niemiecki [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Yorck](https://pl.wikipedia.org/wiki/SMS_Yorck) wszedł na dwie miny na podejściu do [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven) i zatonął. Były to miny niemieckie, z zagrody chroniącej ujście Jade przed brytyjskimi okrętami.
+Nad ranem 4 listopada 1914 roku niemiecki [krążownik pancerny](/slownik/krazownik-pancerny) [Yorck](https://pl.wikipedia.org/wiki/SMS_Yorck) wszedł na dwie miny na podejściu do [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven) i zatonął. Były to miny niemieckie, z zagrody chroniącej ujście Jade przed brytyjskimi okrętami.
 
 Yorck należał do typu Roon i wszedł do służby w 1905 roku. Przed wojną odstawiono go do rezerwy, ale po wybuchu wojny wrócił do czynnej służby w [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine). 3 listopada nie brał udziału w [wypadzie krążowników liniowych pod Yarmouth](/niemiecki-rajd-na-yarmouth), lecz wraz z innymi okrętami ubezpieczał ich drogę powrotną. Wieczorem, gdy nad ujściem Jade zaległa gęsta mgła, zakotwiczył na redzie Schillig, na zewnątrz zagród minowych.
 

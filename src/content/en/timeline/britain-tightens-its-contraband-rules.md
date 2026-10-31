@@ -2,10 +2,10 @@
 title: Britain tightens its contraband rules
 summary: On 29 October 1914 Britain issued new contraband lists and a new order on applying the Declaration of London, replacing the August one.
 source: nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska
-sourceHash: 0b374f972ee41bdf8ddb954786ea8da697f74f87
+sourceHash: 240298f4f75d936da00361b9b53bc5a13c92ffef
 ---
 
-On 29 October 1914 the British government issued two instruments that redefined the rules for controlling seaborne trade. A royal proclamation laid down new lists of contraband of war, and an Order in Council changed the way the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) of 1909 was applied. The order revoked the [order of 20 August](/wielka-brytania-modyfikuje-deklaracje-londynska), and the proclamation replaced the earlier lists of August and [of 21 September](/nowa-brytyjska-lista-kontrabandy).
+On 29 October 1914 the British government issued two instruments that redefined the rules for controlling seaborne trade. A royal proclamation laid down new lists of contraband of war, and an Order in Council changed the way the [Declaration of London](/slownik/deklaracja-londynska) of 1909 was applied. The order revoked the [order of 20 August](/wielka-brytania-modyfikuje-deklaracje-londynska), and the proclamation replaced the earlier lists of August and [of 21 September](/nowa-brytyjska-lista-kontrabandy).
 
 ## The new lists
 

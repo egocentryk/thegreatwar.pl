@@ -2,10 +2,10 @@
 title: Britain asks Japan for naval help
 summary: On 8 February 1916 the Admiralty framed a request for Japanese warships. Tokyo refused to send destroyers to Europe but stepped up patrols in the Indian Ocean.
 source: wielka-brytania-prosi-japonie-o-pomoc-morska
-sourceHash: d42d2e63e179a36a21746ac01fe60ddb2e940fff
+sourceHash: d2684186b22c6259d88cf289df3ca3ca52a954d6
 ---
 
-The British chronology of the war records under 8 February 1916 that the British government framed a request for the help of the Japanese navy. It was not a single note but a whole exchange of letters that lasted for most of February. Foreign Office documents show that the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) wrote to the Foreign Office on the matter at the beginning of the month, again on 8 February and once more on 22 February, and the Foreign Secretary, [Edward Grey](/postacie/edward-grey), sent successive instructions to the ambassador in Tokyo, Sir Conyngham Greene, among others on 4 and 9 February. Greene cabled [Japan's](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) reply to London on 16 February.
+The British chronology of the war records under 8 February 1916 that the British government framed a request for the help of the Japanese navy. It was not a single note but a whole exchange of letters that lasted for most of February. Foreign Office documents show that the [Admiralty](/slownik/admiralicja) wrote to the Foreign Office on the matter at the beginning of the month, again on 8 February and once more on 22 February, and the Foreign Secretary, [Edward Grey](/postacie/edward-grey), sent successive instructions to the ambassador in Tokyo, Sir Conyngham Greene, among others on 4 and 9 February. Greene cabled [Japan's](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) reply to London on 16 February.
 
 ## The missing destroyers
 

@@ -1,0 +1,164 @@
+{
+ "slug": "rada-delegatow",
+ "paragraphs": [
+  {
+   "start": "Rada delegatów, po rosyjsku sowiet, była zgromadzeniem",
+   "quotes": [
+    {
+     "url": "https://zpe.gov.pl/a/przeczytaj/DyefH1IAN",
+     "quote": "Rady reprezentowały interesy robotników, żołnierzy i chłopów."
+    },
+    {
+     "url": "https://zpe.gov.pl/a/przeczytaj/DyefH1IAN",
+     "quote": "Najważniejszą z nich była Piotrogrodzka Rada Delegatów Żołnierskich i Robotniczych, która obok Rządu Tymczasowego stanowiła przez kilka następnych miesięcy rzeczywistą władzę w Rosji."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Wkrótce rady powstały w całym kraju, w miastach, garnizonach i na wsi."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "A council (Russian: soviet) of deputies elected by workers and soldiers in revolutionary Russia in 1917. The Petrograd Soviet shared power with the Provisional Government; after October the Bolsheviks ruled in its name."
+    },
+    {
+     "url": "https://zpe.gov.pl/a/przeczytaj/DyQNxfI1G",
+     "quote": "Określenie „sowiecki” pochodzi od rosyjskiego słowa sowiet, czyli rada (ros. Sowietskij Sojuz – Związek Radziecki)."
+    }
+   ]
+  },
+  {
+   "start": "Pierwsze rady powstały w czasie rewolucji 1905 roku.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Pierwsze rady powstały w Rosji podczas rewolucji 1905 roku i zostały wtedy rozbite."
+    },
+    {
+     "file": "src/content/postacie/lew-trocki.md",
+     "quote": "Dwudziestosześcioletni Trocki został najpierw wiceprzewodniczącym, a po aresztowaniu przewodniczącego faktycznym przywódcą Petersburskiej Rady Delegatów Robotniczych."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "12 marca 1917 garnizon Piotrogrodu przeszedł na stronę strajkujących. Władza cara w stolicy upadła, a w Pałacu Taurydzkim powstały Komitet Dumy i Rada."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "W innym skrzydle tego samego pałacu działacze socjalistyczni, głównie mienszewicy, powołali Tymczasowy Komitet Wykonawczy Rady Delegatów Robotniczych i wezwali fabryki oraz pułki, by wybrały swoich przedstawicieli. Wieczorem, około dziewiątej, zebrało się pierwsze posiedzenie Piotrogrodzkiej Rady Delegatów Robotniczych i Żołnierskich, w której od pierwszej chwili zasiedli także żołnierze. Przewodniczącym został Czcheidze, a jednym z zastępców Kiereński, który jako jedyny należał do obu ciał."
+    },
+    {
+     "file": "src/content/postacie/irakli-cereteli.md",
+     "quote": "Wrócił do Piotrogrodu z syberyjskiego zesłania kilka tygodni po rewolucji lutowej i szybko stał się nieformalnym przywódcą Rady Piotrogrodzkiej."
+    }
+   ]
+  },
+  {
+   "start": "14 marca Rada wydała",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/rozkaz-nr-1.md",
+     "quote": "14 marca 1917 Rada Piotrogrodzka wydała rozkaz nr 1."
+    },
+    {
+     "url": "https://www.marxists.org/history/ussr/government/1917/03/01.htm",
+     "quote": "In all companies, battalions, regiments, batteries, squadrons and separate services of various military departments and on board naval ships committees shall be immediately elected from among representatives of the rankers of the foregoing units."
+    },
+    {
+     "url": "https://www.marxists.org/history/ussr/government/1917/03/01.htm",
+     "quote": "In all their political actions, units are subordinated to the Soviet of Workers' and Soldiers' Deputies and their own committees."
+    },
+    {
+     "url": "https://www.marxists.org/history/ussr/government/1917/03/01.htm",
+     "quote": "All orders issued by the Military Commission of the State Duma shall be carried out, except those which run counter to the orders and decrees issued by the Soviet of Workers' and Soldiers' Deputies."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rozkaz-nr-1.md",
+     "quote": "Formalnie dotyczył tylko garnizonu stolicy, ale wydrukowany w ogromnym nakładzie trafił szybko do oddziałów na froncie i do floty."
+    }
+   ]
+  },
+  {
+   "start": "Rząd Tymczasowy powstał z porozumienia",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/powstanie-rzadu-tymczasowego.md",
+     "quote": "Gabinet powstał z porozumienia Komitetu Dumy i Rady Piotrogrodzkiej."
+    },
+    {
+     "file": "src/content/timeline/1917/03/powstanie-rzadu-tymczasowego.md",
+     "quote": "Bez jej zgody żaden rząd nie mógłby utrzymać się w stolicy."
+    },
+    {
+     "file": "src/content/timeline/1917/03/powstanie-rzadu-tymczasowego.md",
+     "quote": "Rada ogłosiła, że będzie go popierać „o tyle, o ile” będzie on realizował uzgodniony program, i zastrzegła sobie nadzór nad jego działaniami. Ten układ nazwano dwuwładzą"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/revolutions-russian-empire/",
+     "quote": "It has been suggested that there was a form of dual power as a result of the emergence of two political forces. However, this was not the case in that the Soviet clearly recognised the PG as the government and saw itself as a pressure group, not a political alternative. As time passed, the political distinctions became blurred as Soviet-based parties were sucked into joining the PG, which evolved through a series of coalitions."
+    },
+    {
+     "url": "https://zpe.gov.pl/a/przeczytaj/DyefH1IAN",
+     "quote": "Na terenie całej Rosji spontanicznie, wskutek inicjatywy oddolnej protestującego ludu, tworzyły się rady (np. na Syberii w tym czasie powstało ich 67)."
+    }
+   ]
+  },
+  {
+   "start": "Rada prowadziła też własną politykę.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/08/laburzysci-za-konferencja-sztokholmska.md",
+     "quote": "Gorąco poparła go Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich, która domagała się pokoju bez aneksji i kontrybucji."
+    },
+    {
+     "file": "src/content/timeline/1917/03/odezwa-rady-piotrogrodzkiej-do-polakow.md",
+     "quote": "27 marca 1917 Rada Piotrogrodzka w odezwie „Do narodu polskiego” uznała prawo Polski do pełnej niepodległości. Był to pierwszy taki akt w Rosji."
+    },
+    {
+     "file": "src/content/timeline/1917/03/odezwa-rady-piotrogrodzkiej-do-polakow.md",
+     "quote": "Ogłosiła w niej, że Polska ma prawo do całkowitej niepodległości."
+    }
+   ]
+  },
+  {
+   "start": "Po upadku puczu Korniłowa, w nocy z 13 na 14",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/09/upadek-puczu-kornilowa.md",
+     "quote": "W nocy z 13 na 14 września (31 sierpnia na 1 września st. st.) Rada Piotrogrodzka po raz pierwszy przyjęła bolszewicką rezolucję"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "Po upadku buntu Korniłowa we wrześniu bolszewicy zdobyli większość w radach Piotrogrodu i Moskwy. Przewodniczącym Rady Piotrogrodzkiej został na początku października Lew Trocki."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Jesienią 1917 roku bolszewicy zdobyli większość w radach Piotrogrodu i Moskwy pod hasłem „Cała władza w ręce rad”."
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "7 listopada 1917 bolszewicy przejęli Piotrogród i obalili Rząd Tymczasowy."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/revolutions-russian-empire/",
+     "quote": "The actual seizure of power bypassed the Central Committee and was largely conducted by the Petrograd Soviet through its Military Revolutionary Committee (MRC). Originally set up to defend the city in the event of desertion by the PG or an attack by the German army, it was converted into an improvised organ for the seizure of power."
+    }
+   ]
+  },
+  {
+   "start": "II Wszechrosyjski Zjazd Rad ogłosił się",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "II Wszechrosyjski Zjazd Rad, obradujący w czasie przewrotu październikowego, ogłosił się najwyższą władzą i powołał Radę Komisarzy Ludowych. Rady stały się formalną podstawą państwa sowieckiego, choć rzeczywista władza przeszła w ręce partii bolszewickiej."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W 1918 roku rady robotnicze i żołnierskie powstały także w Austro-Węgrzech i w Niemczech."
+    },
+    {
+     "file": "src/content/timeline/1918/12/zjazd-rad-w-berlinie.md",
+     "quote": "16 grudnia 1918 w Berlinie zebrał się pierwszy ogólnoniemiecki zjazd rad robotniczych i żołnierskich."
+    }
+   ]
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 title: Flu in Spain
 summary: On 22 May 1918 the Madrid press reported a mysterious illness among garrison soldiers. Neutral Spain wrote openly about the epidemic and gave it its name.
 source: grypa-w-hiszpanii
-sourceHash: 04f3c3c520755d81a797216c5dc22c6f2b1a32f0
+sourceHash: bd9d0b6ea0d7c19dea8b23d0f5ffe9dcde220481
 ---
 
 On 22 May 1918 the Madrid press wrote about a new illness for the first time. The daily *El Sol* reported that a "fashionable" ailment, not yet diagnosed by doctors, was spreading among the soldiers of the capital's garrison. The tone was humorous and reassuring: it looked like an ordinary seasonal flu, which every year killed a few dozen, perhaps a hundred, people in Madrid. No one imagined that from this note onwards the disease, which had broken out at [Camp Funston](/pierwsze-przypadki-grypy-w-camp-funston) more than two months earlier and had passed through the armies on the Western Front, would acquire the name by which we still know it.
@@ -13,4 +13,4 @@ Why did Spain give the disease its name? The flu was by then in France, Britain 
 
 The Spaniards themselves were convinced that the disease had come from outside. Routes ran across the country by which the war reached far beyond the front: Andalusian seasonal labourers travelled by rail to France to replace mobilised Frenchmen, and Portuguese soldiers bound for Flanders also passed through Spain. Those returning brought the flu, which in Spain was called "French". This name too was misleading, for the disease had come to France from elsewhere.
 
-The spring wave in Spain soon passed, but in the autumn the epidemic returned in a far more dangerous form and engulfed the whole country, including small towns and villages. According to various estimates about 8 million Spaniards fell ill. Official statistics gave more than 147,000 deaths from influenza, while later studies speak of 200,000–260,000 victims, or as much as about 1.5 per cent of the population. The name, which the Spaniards never wanted, nevertheless stuck for good to the [pandemic](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki), which had little to do with Spain.
+The spring wave in Spain soon passed, but in the autumn the epidemic returned in a far more dangerous form and engulfed the whole country, including small towns and villages. According to various estimates about 8 million Spaniards fell ill. Official statistics gave more than 147,000 deaths from influenza, while later studies speak of 200,000–260,000 victims, or as much as about 1.5 per cent of the population. The name, which the Spaniards never wanted, nevertheless stuck for good to the [pandemic](/slownik/grypa-hiszpanka), which had little to do with Spain.

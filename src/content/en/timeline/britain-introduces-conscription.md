@@ -2,7 +2,7 @@
 title: Britain introduces conscription
 summary: On 27 January 1916 the Military Service Act received royal assent. Unmarried men in Great Britain aged 18 to 41 became liable for conscription.
 source: wielka-brytania-wprowadza-pobor
-sourceHash: 99d5dd84012902c5b63012061153e765c945e3cb
+sourceHash: c735f7c610f589d104ef9aae157abf337f87bb10
 brief:
   - "On 27 January 1916 the Military Service Act received royal assent. Britain, which had so far fought the war with an army of volunteers, introduced conscription."
   - "The Act covered single men and childless widowers aged 18 to 41 who had not come forward under the Derby Scheme. It fulfilled Asquith's promise that married men would not be called up before single men."
@@ -11,13 +11,13 @@ brief:
   - "The Act did not give the army as many men as expected, because many of those called up obtained exemptions or failed to report. As early as May 1916 conscription was extended to married men."
 ---
 
-On 27 January 1916 the Military Service Act received royal assent. Britain, the only great European power that had so far fought the war with an army made up solely of volunteers, introduced [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)). In the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów) the King's assent to seven Acts at once was announced, and immediately afterwards the King's Speech was read and Parliament was prorogued until 15 February. The Act passed through both Houses in less than a month and, as the *Annual Register* observed, with astonishing unanimity, although it represented one of the greatest changes in British opinion for many years.
+On 27 January 1916 the Military Service Act received royal assent. Britain, the only great European power that had so far fought the war with an army made up solely of volunteers, introduced [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)). In the [House of Lords](/slownik/izba-lordow) the King's assent to seven Acts at once was announced, and immediately afterwards the King's Speech was read and Parliament was prorogued until 15 February. The Act passed through both Houses in less than a month and, as the *Annual Register* observed, with astonishing unanimity, although it represented one of the greatest changes in British opinion for many years.
 
 ## Who was conscripted
 
 The Act fulfilled the promise made by the Prime Minister, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), on 2 November 1915 that married men would not be called up before single men. It therefore covered only the unmarried. Every male British subject who on 15 August 1915, [National Registration Day](/dzien-rejestracji-narodowej), was ordinarily resident in Great Britain, had reached the age of 18 but was not yet 41, and who on 2 November 1915 was a bachelor or a widower without dependent children, was to be deemed to have enlisted in the army for the duration of the war and to have been transferred at once to the reserve. All those who had not come forward under the [Derby Scheme](/lord-derby-przejmuje-werbunek) were treated in this way: as if they had attested themselves and were awaiting their call-up. Eighteen-year-olds were to be called up only on reaching 19.
 
-The Act came into force on 10 February, and the day from which the men it covered became soldiers was 2 March 1916. They were called up in classes by year of birth. Call-ups were announced by proclamation, and anyone who failed to report faced arrest and punishment as a soldier absent without leave. A man called up no longer chose his regiment or arm of service, although one who preferred to serve in the navy could say so, and the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) had first choice of him.
+The Act came into force on 10 February, and the day from which the men it covered became soldiers was 2 March 1916. They were called up in classes by year of birth. Call-ups were announced by proclamation, and anyone who failed to report faced arrest and punishment as a soldier absent without leave. A man called up no longer chose his regiment or arm of service, although one who preferred to serve in the navy could say so, and the [Admiralty](/slownik/admiralicja) had first choice of him.
 
 ## Exceptions, exemptions and tribunals
 

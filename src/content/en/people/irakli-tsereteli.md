@@ -6,10 +6,10 @@ country: Russia
 birthPlace: Gorisa near Kutaisi (Georgia, Russian Empire)
 deathPlace: New York (United States)
 source: irakli-cereteli
-sourceHash: 448489a91eceed9af91641e450d634612b17c0f0
+sourceHash: 8b5ff979493335bc4927b8d47ab54785044d1f75
 ---
 
-Irakli Tsereteli was a Georgian social democrat who for several months of 1917 was among the most influential people in Russia. He returned to Petrograd from Siberian exile a few weeks after the [February Revolution](/rewolucja-lutowa) and quickly became the informal leader of the [Petrograd Soviet](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich). He was the architect of the policy of "revolutionary defencism": Russia was to defend itself against Germany but strive for a general peace without annexations or indemnities. It was he who brought the socialists into the coalition government, and throughout the spring and summer of 1917 he tried to maintain the alliance of the soviets with the liberals. When the Bolsheviks seized power, he returned to Georgia and helped proclaim its independence. His defeat was the defeat of moderate socialism in Russia, which wanted both to continue the war and to end it with a democratic peace.
+Irakli Tsereteli was a Georgian social democrat who for several months of 1917 was among the most influential people in Russia. He returned to Petrograd from Siberian exile a few weeks after the [February Revolution](/rewolucja-lutowa) and quickly became the informal leader of the [Petrograd Soviet](/slownik/rada-delegatow). He was the architect of the policy of "revolutionary defencism": Russia was to defend itself against Germany but strive for a general peace without annexations or indemnities. It was he who brought the socialists into the coalition government, and throughout the spring and summer of 1917 he tried to maintain the alliance of the soviets with the liberals. When the Bolsheviks seized power, he returned to Georgia and helped proclaim its independence. His defeat was the defeat of moderate socialism in Russia, which wanted both to continue the war and to end it with a democratic peace.
 
 ## Before the war
 

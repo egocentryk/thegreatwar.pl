@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 26 na 27 kwietnia 1915 roku austro-węgierski okręt podwodny U-5 storpedował francuski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) Léon Gambetta, patrolujący wejście do [Morza Adriatyckiego](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). Torpedy trafiły około 0.40, a okręt zatonął w ciągu około dziesięciu minut. Zginęło 684 spośród 821 ludzi załogi, w tym dowódca dywizji krążowników kontradmirał Victor Baptistin Sénès. Brytyjska chronologia wojny umieszcza zatopienie pod datą 26 kwietnia, choć torpedy trafiły już po północy, w pierwszych minutach 27 kwietnia.
+W nocy z 26 na 27 kwietnia 1915 roku austro-węgierski okręt podwodny U-5 storpedował francuski [krążownik pancerny](/slownik/krazownik-pancerny) Léon Gambetta, patrolujący wejście do [Morza Adriatyckiego](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). Torpedy trafiły około 0.40, a okręt zatonął w ciągu około dziesięciu minut. Zginęło 684 spośród 821 ludzi załogi, w tym dowódca dywizji krążowników kontradmirał Victor Baptistin Sénès. Brytyjska chronologia wojny umieszcza zatopienie pod datą 26 kwietnia, choć torpedy trafiły już po północy, w pierwszych minutach 27 kwietnia.
 
 ## Patrol u wejścia do Adriatyku
 

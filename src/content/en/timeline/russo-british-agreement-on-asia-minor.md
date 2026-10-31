@@ -2,7 +2,7 @@
 title: Russo-British agreement on Asia Minor
 summary: On 1 September 1916 the Russian ambassador in London confirmed in a note to Grey the Anglo-Russian deal on dividing Asiatic Turkey. He raised one reservation.
 source: rosyjsko-brytyjskie-porozumienie-o-azji-mniejszej
-sourceHash: bde51309b54fe7c28b6da7db88308e50eac3e143
+sourceHash: 71bd41245fccdf18373b5eef22a2f35cba2eabc0
 ---
 
 On 1 September 1916 the Russian ambassador in London, Count Alexander Benckendorff, sent the British Foreign Secretary, Viscount [Edward Grey](/postacie/edward-grey), a note written in French. The Foreign Office received it the same day. In Russia, which still used the [Julian calendar](/slownik/kalendarz-julianski), it was 19 August. The note was a reply to a proposal Grey had made to Russia more than three months earlier, [on 23 May](/wielka-brytania-uznaje-rosyjskie-zdobycze-w-azji-mniejszej). In it Benckendorff announced that His Majesty's Government and the Imperial Government "had reached an agreement" on Russia's future acquisitions in the Asiatic part of the [Ottoman Empire](/kraje/imperium-osmanskie).
@@ -21,7 +21,7 @@ The only new element was a reservation attached to the fourth point. Benckendorf
 
 ## Changes in London and Petrograd
 
-Much had changed in the three months since Grey's proposal. In July [Sergei Sazonov was dismissed](/dymisja-sazonowa); he had conducted the negotiations on the partition of Turkey from the start, and Russian diplomacy was taken over by the Prime Minister, [Boris Stürmer](/postacie/boris-sturmer). Grey himself, to reduce his workload, accepted the title of Viscount Grey of Fallodon in July and moved from the House of Commons to the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów), and in the summer Lord [Crewe](https://pl.wikipedia.org/wiki/Robert_Crewe-Milnes) partly stood in for him. A few days before Benckendorff's note, on 25 and 30 August, the French ambassador Paul Cambon and Lord Crewe exchanged letters in which they corrected one word in the Anglo-French part of the agreement: the two states were no longer to "protect" but to "uphold" an independent Arab state.
+Much had changed in the three months since Grey's proposal. In July [Sergei Sazonov was dismissed](/dymisja-sazonowa); he had conducted the negotiations on the partition of Turkey from the start, and Russian diplomacy was taken over by the Prime Minister, [Boris Stürmer](/postacie/boris-sturmer). Grey himself, to reduce his workload, accepted the title of Viscount Grey of Fallodon in July and moved from the House of Commons to the [House of Lords](/slownik/izba-lordow), and in the summer Lord [Crewe](https://pl.wikipedia.org/wiki/Robert_Crewe-Milnes) partly stood in for him. A few days before Benckendorff's note, on 25 and 30 August, the French ambassador Paul Cambon and Lord Crewe exchanged letters in which they corrected one word in the Anglo-French part of the agreement: the two states were no longer to "protect" but to "uphold" an independent Arab state.
 
 The situation at the front had also changed. Erzurum and Trebizond remained in Russian hands, but at the beginning of August Mustafa Kemal's Ottoman XVI Corps had [retaken Bitlis and Muş](/wojska-osmanskie-odbijaja-mus-i-bitlis). The Russian counter-offensive in the second half of August stopped the Turks but did not give Bitlis back to the Russians. Some of the lands that Benckendorff listed as Russia's future acquisitions were thus again in Ottoman hands.
 

@@ -2,10 +2,10 @@
 title: United States abandons the Declaration of London
 summary: On 22 October 1914 the USA withdrew its proposal to apply the Declaration of London and said it would defend neutral rights on the basis of the old rules.
 source: nota-usa-w-sprawie-prawa-wojny-morskiej
-sourceHash: 499aedf8cd12ab94508d837e1ff46d758ada4f6c
+sourceHash: 71e03b71847474ac65e9f0de6dce4f833006f04a
 ---
 
-On 22 October 1914 the acting Secretary of State, [Robert Lansing](/postacie/robert-lansing), instructed the US ambassador in London, Walter Hines Page, to convey an important decision to the British government. The United States withdrew its proposal that the belligerents and the neutrals apply the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) of 1909 during the war as a provisional code of naval warfare.
+On 22 October 1914 the acting Secretary of State, [Robert Lansing](/postacie/robert-lansing), instructed the US ambassador in London, Walter Hines Page, to convey an important decision to the British government. The United States withdrew its proposal that the belligerents and the neutrals apply the [Declaration of London](/slownik/deklaracja-londynska) of 1909 during the war as a provisional code of naval warfare.
 
 ## The end of the talks
 

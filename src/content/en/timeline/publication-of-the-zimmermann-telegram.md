@@ -2,7 +2,7 @@
 title: Publication of the Zimmermann Telegram
 summary: On the evening of 28 February 1917 the State Department gave the AP the text of the Zimmermann Telegram. Next day Germany's offer to Mexico was front-page news.
 source: publikacja-telegramu-zimmermanna
-sourceHash: 746b57a7b869031c3e5b7f8cd56a84f95d7e02ea
+sourceHash: fdad36e237c92bc5270b7bab61d1a714377a8b9a
 ---
 
 On the evening of 28 February 1917 the State Department in Washington handed a reporter of the [Associated Press](https://pl.wikipedia.org/wiki/Associated_Press) the text of a dispatch that the German Foreign Secretary [Arthur Zimmermann](/postacie/arthur-zimmermann) had sent in January to the German minister in Mexico. The news made the morning editions. On Thursday 1 March almost all the major American dailies came out with banner headlines across the full width of the front page. "Germany seeks an alliance against us. Asks Japan and Mexico to join her", wrote the "[New York Times](https://pl.wikipedia.org/wiki/The_New_York_Times)". Americans read that Berlin, as it began unrestricted submarine warfare, had promised Mexico money and the recovery of Texas, New Mexico and Arizona if it entered the war against the United States, and that it had wanted to draw Japan in as well.
@@ -17,7 +17,7 @@ First it was necessary to check what the addressees of the German offer knew. On
 
 The timing of the publication was decided by domestic politics. On 26 February Wilson [asked Congress](/wilson-prosi-o-uzbrojenie-statkow) for authority to arm merchant ships, and in the Senate a group of opponents was threatening to drag out the debate until the end of the session on 4 March. On 28 February the president instructed Lansing to confer with other members of the cabinet on how to release the text and how to use it to have the strongest possible effect on the armed ship bill. Lansing showed the telegram to the Democratic senator Gilbert Hitchcock of Nebraska, who was managing the bill in the Senate, and in the evening the press received the text. That same evening Lansing informed Page that the telegram would be published the following day.
 
-The State Department did not reveal where it had obtained the text. The public was led to believe that it had been obtained in Mexico, and there was no mention of British intelligence or [Room 40](https://pl.wikipedia.org/wiki/Room_40). The government knew, however, that questions would be raised in Congress. On 1 March Lansing cabled London that some congressmen were trying to discredit the telegram by claiming that it had been supplied by one of the belligerents. He asked the British to allow someone from the embassy personally to decipher a copy of the dispatch that the Americans had found in the Washington telegraph office. The Department could then state that the text had been obtained by its own people.
+The State Department did not reveal where it had obtained the text. The public was led to believe that it had been obtained in Mexico, and there was no mention of British intelligence or [Room 40](/slownik/room-40). The government knew, however, that questions would be raised in Congress. On 1 March Lansing cabled London that some congressmen were trying to discredit the telegram by claiming that it had been supplied by one of the belligerents. He asked the British to allow someone from the embassy personally to decipher a copy of the dispatch that the Americans had found in the Washington telegraph office. The Department could then state that the text had been obtained by its own people.
 
 ## First reactions
 

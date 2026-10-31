@@ -2,7 +2,7 @@
 title: Battle off Texel
 summary: On 17 October 1914 the British cruiser Undaunted and four destroyers sank four German torpedo boats off Texel that were on their way to lay mines.
 source: bitwa-kolo-texel
-sourceHash: 7fd974eaef5bf7944a8f78d18f41c8f4461331e6
+sourceHash: b698fa857e93f950c2adb210bbe551f45d8c3b9f
 ---
 
 On the afternoon of 17 October 1914, in the [North Sea](/miejsca/morze-polnocne), a few dozen kilometres south-west of the Dutch island of [Texel](https://pl.wikipedia.org/wiki/Texel), the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) *Undaunted* and four destroyers caught four German [torpedo boats](https://pl.wikipedia.org/wiki/Torpedowiec). In less than three hours all the German vessels went to the bottom. More than 200 German sailors were killed, while the British had only a few wounded.
@@ -27,6 +27,6 @@ The Germans then sent the hospital ship *Ophelia* to the scene of the action to 
 
 ## A chest from the seabed
 
-The British obtained their most valuable prize only a few weeks later. Before *S119* sank, Thiele had ordered a lead-lined chest containing secret documents to be thrown overboard. On 30 November 1914 a British trawler brought it up from the seabed in its net. Inside, among other things, was the German Verkehrsbuch (VB) codebook, used for communication with warships in distant waters, naval attachés and posts abroad, as well as by senior fleet commanders. It went to the British decryption unit [Room 40](https://pl.wikipedia.org/wiki/Room_40), which had already received the [codebook from the cruiser *Magdeburg*](/zatoniecie-sms-magdeburg). British cryptologists called the find the "miraculous draught of fishes".
+The British obtained their most valuable prize only a few weeks later. Before *S119* sank, Thiele had ordered a lead-lined chest containing secret documents to be thrown overboard. On 30 November 1914 a British trawler brought it up from the seabed in its net. Inside, among other things, was the German Verkehrsbuch (VB) codebook, used for communication with warships in distant waters, naval attachés and posts abroad, as well as by senior fleet commanders. It went to the British decryption unit [Room 40](/slownik/room-40), which had already received the [codebook from the cruiser *Magdeburg*](/zatoniecie-sms-magdeburg). British cryptologists called the find the "miraculous draught of fishes".
 
 The sinking of an entire half-flotilla was a painful blow for the [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine). For a long time the Germans gave up torpedo-boat sorties towards the English Channel and from then on used them mainly for patrols off their own coasts. Georg Thiele's name was later borne by the German destroyer [Z2 *Georg Thiele*](https://pl.wikipedia.org/wiki/Z2_Georg_Thiele), sunk at Narvik in 1940.

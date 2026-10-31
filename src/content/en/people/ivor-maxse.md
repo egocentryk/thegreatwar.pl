@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Midhurst (England)
 source: ivor-maxse
-sourceHash: d8008a7b78ea5de541e5aa954aa6bef9c1c077d1
+sourceHash: 149d70b7ba6dd4362db35f6c1e454b809561690a
 ---
 
 Sir Ivor Maxse was one of those British generals who best understood what trench warfare demanded. He was not a great strategist or an army commander, but a teacher. From volunteers of Kitchener's New Armies he built the 18th Division, one of the best in the British Army, which on 1 July 1916 took all its objectives and in September captured Thiepval, considered an impregnable fortress. He then commanded a corps at Ypres and during the German offensive in the spring of 1918, and in the last months of the war, as Inspector-General of Training, he standardised the fighting methods of the army that defeated the Germans in the autumn. He was a fiery and demanding man who struck fear into lazy officers, yet he was open to new ideas and warm towards those who were not afraid of him.
@@ -29,7 +29,7 @@ Its greatest success came in September. The division was transferred to General 
 
 ## XVIII Corps
 
-In January 1917 Maxse was made a Knight Commander of the [Order of the Bath](https://pl.wikipedia.org/wiki/Order_Łaźni) and, as a temporary lieutenant-general, commander of the new XVIII Corps in Gough's Fifth Army. The experience of commanders like him shaped the army's new training instructions, which from the turn of 1916 and 1917 emphasised the platoon as the basic fighting unit, with its own rifle grenadiers and [Lewis light machine guns](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Lewis).
+In January 1917 Maxse was made a Knight Commander of the [Order of the Bath](https://pl.wikipedia.org/wiki/Order_Łaźni) and, as a temporary lieutenant-general, commander of the new XVIII Corps in Gough's Fifth Army. The experience of commanders like him shaped the army's new training instructions, which from the turn of 1916 and 1917 emphasised the platoon as the basic fighting unit, with its own rifle grenadiers and [Lewis light machine guns](/slownik/karabin-maszynowy).
 
 In the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres) XVIII Corps attacked [Pilckem Ridge](/bitwy/bitwa-o-grzbiet-pilckem) from near Sint-Juliaan on 31 July, and on 16 August took part in the [Battle of Langemarck](/bitwy/bitwa-pod-langemarck-1917). In the mud and against strong German concrete shelters progress was slight. On 19 August the corps, helped by tanks and a smoke screen, took [with minimal losses](/koniec-bitwy-pod-langemarck-1917) several fortified farms that had stopped it three days earlier. It was one of the few successful actions of that month. The corps fought on in the further attacks of the autumn. In January 1918 Maxse sat on the court of inquiry that examined the causes of the defeat after the German counter-attack [at Cambrai](/bitwy/bitwa-pod-cambrai-1917), which laid the blame mainly on the poor training of junior officers and men.
 

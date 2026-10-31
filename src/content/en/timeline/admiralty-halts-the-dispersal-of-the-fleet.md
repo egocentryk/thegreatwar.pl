@@ -2,10 +2,10 @@
 title: Admiralty halts the dispersal of the fleet
 summary: On 26 July 1914 the First Sea Lord, Prince Louis of Battenberg, kept the fleet ready for action instead of sending the ships back to their home ports.
 source: admiralicja-brytyjska-wstrzymuje-rozproszenie-floty
-sourceHash: 537a7c4fa944f23aa2ff24c2ef98bbaa3144e5d4
+sourceHash: 7311b3d4acc3fc0e63c9bcb762d669b7d8f2f17f
 ---
 
-On Sunday 26 July 1914, in the almost empty building of the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) in London, one of the most important decisions of that summer for the British navy was taken. The First Sea Lord, Admiral Prince [Louis of Battenberg](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)), ordered that the ships of the First Fleet should remain concentrated at Portland instead of dispersing to their home ports. The ships of the Second Fleet, for their part, were to wait at their bases close to their crews.
+On Sunday 26 July 1914, in the almost empty building of the [Admiralty](/slownik/admiralicja) in London, one of the most important decisions of that summer for the British navy was taken. The First Sea Lord, Admiral Prince [Louis of Battenberg](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)), ordered that the ships of the First Fleet should remain concentrated at Portland instead of dispersing to their home ports. The ships of the Second Fleet, for their part, were to wait at their bases close to their crews.
 
 The background to this decision went back several months. The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), had dropped the annual fleet manoeuvres in 1914, mainly to save money. In their place a test mobilisation was held, which made it possible to man the reserve ships fully as well. In July a great review of the fleet took place at [Spithead](https://pl.wikipedia.org/wiki/Spithead), attended by King [George V](/postacie/jerzy-v). Once it was over, the ships were due to disperse and the reservists to go home.
 

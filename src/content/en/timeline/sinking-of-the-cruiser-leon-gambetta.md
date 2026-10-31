@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Léon Gambetta
 summary: During the night of 26–27 April 1915 the Austro-Hungarian submarine U-5 sank the French cruiser Léon Gambetta at the mouth of the Adriatic. 684 men died.
 source: zatopienie-krazownika-leon-gambetta
-sourceHash: 70ca596c291d1ae1016513e67228f82018bfbdbd
+sourceHash: 67b424caa985c3ddfc169b4a32a393b00e605e57
 ---
 
-During the night of 26–27 April 1915 the Austro-Hungarian submarine U-5 torpedoed the French [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Léon Gambetta*, which was patrolling the entrance to the [Adriatic Sea](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). The torpedoes struck at about 12.40 a.m., and the ship sank within about ten minutes. 684 of her 821 crew were killed, among them the commander of the cruiser division, Rear-Admiral Victor Baptistin Sénès. The British chronology of the war places the sinking under 26 April, although the torpedoes struck after midnight, in the first minutes of 27 April.
+During the night of 26–27 April 1915 the Austro-Hungarian submarine U-5 torpedoed the French [armoured cruiser](/slownik/krazownik-pancerny) *Léon Gambetta*, which was patrolling the entrance to the [Adriatic Sea](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). The torpedoes struck at about 12.40 a.m., and the ship sank within about ten minutes. 684 of her 821 crew were killed, among them the commander of the cruiser division, Rear-Admiral Victor Baptistin Sénès. The British chronology of the war places the sinking under 26 April, although the torpedoes struck after midnight, in the first minutes of 27 April.
 
 ## Patrol at the entrance to the Adriatic
 

@@ -2,7 +2,7 @@
 title: British boats on Lake Tanganyika
 summary: On 23 December 1915 the British motor boats Mimi and Toutou, brought from England across half of Africa by rail, tractor and river, took to Lake Tanganyika.
 source: brytyjskie-lodzie-na-jeziorze-tanganika
-sourceHash: e62c61fd02c763971a686642e5d7e592d55dbc84
+sourceHash: 3d65098f6e7b5fe16a2cadabda852060ca8c69f0
 ---
 
 On 23 December 1915, in the small port of Kalemie, built by the British beside the Belgian post of Lukuga on the western shore of [Lake Tanganyika](https://pl.wikipedia.org/wiki/Tanganika_(jezioro)), two Royal Navy motor boats, *Mimi* and *Toutou*, were launched. So, according to the British official histories and the report of the High Commissioner for South Africa, ended a journey that had lasted half a year and led across most of the continent. According to the account given by Giles Foden, *Toutou* was launched a day earlier, on 22 December, and *Mimi* on 23 December. The next day the boats ran their trials and reached more than 13 knots.
@@ -11,7 +11,7 @@ On 23 December 1915, in the small port of Kalemie, built by the British beside t
 
 From the first weeks of the war the lake, more than 600 km long and separating [German East Africa](/bitwy/kampania-wschodnioafrykanska) from the [Belgian Congo](https://pl.wikipedia.org/wiki/Kongo_Belgijskie), belonged to the Germans. Their armed steamer *Hedwig von Wissmann* had [attacked Belgian posts](/niemcy-przyjmuja-propozycje-neutralizacji-konga) as early as August 1914, and in 1915 the much larger *Graf von Götzen* entered service at the port of [Kigoma](https://pl.wikipedia.org/wiki/Kigoma). The Allies had no vessel on the lake at all. In April 1915 the big-game hunter John R. Lee, who knew the region, suggested to the Admiralty that light, fast motor boats be brought there. The Admiralty accepted the idea and gave command of the expedition to Lieutenant Commander Geoffrey Spicer-Simson.
 
-Two motor boats built by Thornycroft were chosen, about 12 metres long and 2.5 metres wide, capable according to the British official history of up to 15 knots. Each received a 3-pounder Hotchkiss gun (47 mm) and a [Maxim machine gun](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Maxim). Spicer-Simson reportedly wanted to name them *Cat* and *Dog*, and when the Admiralty refused, he chose the French equivalents: *Mimi* and *Toutou*. The expedition numbered 28 officers and men, who undertook not to reveal its purpose to anyone.
+Two motor boats built by Thornycroft were chosen, about 12 metres long and 2.5 metres wide, capable according to the British official history of up to 15 knots. Each received a 3-pounder Hotchkiss gun (47 mm) and a [Maxim machine gun](/slownik/karabin-maszynowy). Spicer-Simson reportedly wanted to name them *Cat* and *Dog*, and when the Admiralty refused, he chose the French equivalents: *Mimi* and *Toutou*. The expedition numbered 28 officers and men, who undertook not to reveal its purpose to anyone.
 
 ## The journey
 

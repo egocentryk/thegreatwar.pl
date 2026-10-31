@@ -2,7 +2,7 @@
 title: House of Commons passes conscription of married men
 summary: On 16 May 1916 the Commons passed the second Military Service Bill by 250 votes to 35. Conscription was to cover married and single men aged 18 to 41.
 source: izba-gmin-uchwala-pobor-zonatych
-sourceHash: f7a0c8eb8df862e59742a6d97582cffd9233a1a5
+sourceHash: 3697f77670db62f02f8b2c2d9154bc0734774310
 ---
 
 On 16 May 1916 the British [House of Commons](/slownik/izba-gmin) passed the new Military Service Bill on third reading. 250 members voted for it and 35 against. According to the *Annual Register*, the minority consisted of 26 Liberals and 9 [Labour](https://pl.wikipedia.org/wiki/Partia_Pracy_(Wielka_Brytania)) members. Among them were the former Home Secretary John Simon, [Ramsay MacDonald](https://pl.wikipedia.org/wiki/Ramsay_MacDonald) and [Philip Snowden](https://pl.wikipedia.org/wiki/Philip_Snowden). The Act, passed only four months after the [first](/wielka-brytania-wprowadza-pobor), extended [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)) to all men in Great Britain aged 18 to 41, married and unmarried. It thus ended a year-and-a-half-long dispute over whether the British army should continue to rely on volunteers.
@@ -31,4 +31,4 @@ In committee of the whole House on 9 May the Ulster Unionists again proposed ext
 
 ## Third reading
 
-The last day in the Commons, 16 May, was taken up with disputes over details: the re-examination of men previously rejected by medical boards, and a period of protection for munitions workers who had lost their jobs. The concession to Labour on the latter point outraged the Conservative Frederick Banbury, but it was carried without a division. Immediately afterwards the House passed the bill on third reading. It went to the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów), where no further resistance was expected.
+The last day in the Commons, 16 May, was taken up with disputes over details: the re-examination of men previously rejected by medical boards, and a period of protection for munitions workers who had lost their jobs. The concession to Labour on the latter point outraged the Conservative Frederick Banbury, but it was carried without a division. Immediately afterwards the House passed the bill on third reading. It went to the [House of Lords](/slownik/izba-lordow), where no further resistance was expected.

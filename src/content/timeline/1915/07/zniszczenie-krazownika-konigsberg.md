@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-11 lipca 1915 roku w delcie rzeki [Rufidżi](https://pl.wikipedia.org/wiki/Rufidżi) na wybrzeżu [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska) zakończył się żywot niemieckiego krążownika lekkiego [Königsberg](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)). Dwa brytyjskie płaskodenne [monitory](https://pl.wikipedia.org/wiki/Monitor_(okręt)), Severn i Mersey, ostrzelały go z odległości kilku mil, a ich ogniem kierował lotnik krążący nad dżunglą. Rozbity okręt jego dowódca, komandor Max Looff, kazał wysadzić.
+11 lipca 1915 roku w delcie rzeki [Rufidżi](https://pl.wikipedia.org/wiki/Rufidżi) na wybrzeżu [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska) zakończył się żywot niemieckiego krążownika lekkiego [Königsberg](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)). Dwa brytyjskie płaskodenne [monitory](/slownik/monitor), Severn i Mersey, ostrzelały go z odległości kilku mil, a ich ogniem kierował lotnik krążący nad dżunglą. Rozbity okręt jego dowódca, komandor Max Looff, kazał wysadzić.
 
 ## Druga próba
 

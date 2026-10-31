@@ -2,7 +2,7 @@
 title: Sinking of the hospital ship Portugal
 summary: On 30 March 1916 the German U-33 torpedoed the Russian hospital ship Portugal in the Black Sea off Rize. Between 85 and 115 people died, including nurses.
 source: zatopienie-statku-szpitalnego-portugal
-sourceHash: 6ac46fe09da50970e864ec779f54d3c0368c2204
+sourceHash: d2055d082d269afa05bf792d80a0a2574f36ac06
 ---
 
 On 30 March 1916 (17 March by the Julian calendar, then in use in Russia) the German submarine [U-33](https://pl.wikipedia.org/wiki/SM_U-33) torpedoed the Russian [hospital ship](/slownik/statek-szpitalny) *Portugal* in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne), off the Anatolian coast near [Rize](https://pl.wikipedia.org/wiki/Rize). The ship broke in two and sank within one or two minutes. There were no wounded on board, but there were Red Cross doctors, nursing sisters and orderlies, as well as a Franco-Russian crew. The number of victims varies in the sources: the Russian commission of inquiry counted 85 dead, while the New York press of April 1916 and French sources give 115 dead out of 273 people on board.
@@ -21,4 +21,4 @@ The survivors were rescued by a motor launch and a trawler, and according to som
 
 ## Outrage
 
-The Russian government accused Germany of breaking the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku), which protected hospital ships, and called the sinking a crime. The press in Russia and the Entente countries wrote of piracy. The Moscow city duma resolved to erect a monument to the victims, but it was never built. *Portugal* was not the last hospital ship sunk in the Black Sea. In July 1916 another Russian hospital ship, *Vpered*, went down in the same waters.
+The Russian government accused Germany of breaking the [Hague Conventions](/slownik/konwencje-haskie), which protected hospital ships, and called the sinking a crime. The press in Russia and the Entente countries wrote of piracy. The Moscow city duma resolved to erect a monument to the victims, but it was never built. *Portugal* was not the last hospital ship sunk in the Black Sea. In July 1916 another Russian hospital ship, *Vpered*, went down in the same waters.

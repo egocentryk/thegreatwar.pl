@@ -2,7 +2,7 @@
 title: Sinking of the hospital ship Vpered
 summary: On 8 July 1916 the German U-38 torpedoed the Russian hospital ship Vpered in the Black Sea off Lazistan. Seven or eight people were killed.
 source: zatopienie-statku-szpitalnego-wpieriod
-sourceHash: a6ede695cedf8d8b2104a381c808eab3ad982c7c
+sourceHash: 9061244cec25531c37056519aa71ada6abd715fc
 ---
 
 At 9.35 a.m. on 8 July 1916 (25 June by the [Julian calendar](/slownik/kalendarz-julianski), then in use in Russia) the German submarine [U-38](https://pl.wikipedia.org/wiki/SM_U-38) torpedoed the Russian [hospital ship](/slownik/statek-szpitalny) *Vpered* ("Forward") in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne). The ship sank quickly off the coast of [Lazistan](https://pl.wikipedia.org/wiki/Lazystan), about 32 miles south-west of [Batumi](https://pl.wikipedia.org/wiki/Batumi). Seven or eight people were killed. The date and time are given in a Red Cross telegram sent that same day, and 8 July is also confirmed by a British pamphlet of 1917 on the war against hospital ships. The British chronology of the war recorded the sinking under 10 July, and the uboat.net website gives 9 July.
@@ -19,4 +19,4 @@ Sixty people were rescued. Among the dead were the ship's commandant, the retire
 
 ## Mutual accusations
 
-Russia again accused Germany of breaking the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku), which protected hospital ships. The German side, as in the case of *Portugal*, claimed that the ship had not carried visible Red Cross markings. The Turks, for their part, maintained that both Russian hospital ships had sunk on mines. In little more than three months the Russians had lost two hospital ships on the same stretch of coast. After the war Valentiner and the commander of U-33, Konrad Gansser, were on the Allied list of persons accused of war crimes, but because of attacks on British ships, not on the Russian hospital ships. Neither of them was ever brought to trial.
+Russia again accused Germany of breaking the [Hague Conventions](/slownik/konwencje-haskie), which protected hospital ships. The German side, as in the case of *Portugal*, claimed that the ship had not carried visible Red Cross markings. The Turks, for their part, maintained that both Russian hospital ships had sunk on mines. In little more than three months the Russians had lost two hospital ships on the same stretch of coast. After the war Valentiner and the commander of U-33, Konrad Gansser, were on the Allied list of persons accused of war crimes, but because of attacks on British ships, not on the Russian hospital ships. Neither of them was ever brought to trial.

@@ -14,7 +14,7 @@ draft: false
 
 ## Nie mylić z innymi „londyńskimi” dokumentami
 
-Nazwa łatwo prowadzi do pomyłek. Pakt z 1914 roku nie ma nic wspólnego z [deklaracją londyńską](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku, czyli międzynarodową umową o prawie wojny morskiej, kontrabandzie i blokadzie, której stosowanie podczas wojny brytyjski rząd ogłosił w sierpniu 1914 roku [z własnymi zmianami](/wielka-brytania-modyfikuje-deklaracje-londynska). Nie jest to też [traktat londyński](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) z 26 kwietnia 1915 roku, tajna umowa, na mocy której Włochy przystąpiły do wojny po stronie ententy w zamian za obietnice zdobyczy terytorialnych.
+Nazwa łatwo prowadzi do pomyłek. Pakt z 1914 roku nie ma nic wspólnego z [deklaracją londyńską](/slownik/deklaracja-londynska) z 1909 roku, czyli międzynarodową umową o prawie wojny morskiej, kontrabandzie i blokadzie, której stosowanie podczas wojny brytyjski rząd ogłosił w sierpniu 1914 roku [z własnymi zmianami](/wielka-brytania-modyfikuje-deklaracje-londynska). Nie jest to też [traktat londyński](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) z 26 kwietnia 1915 roku, tajna umowa, na mocy której Włochy przystąpiły do wojny po stronie ententy w zamian za obietnice zdobyczy terytorialnych.
 
 ## Od porozumienia do sojuszu
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Sprawa Lusitanii
 
-Oświadczenie było odpowiedzią na burzę, jaką wywołało zalecenie [Admiralicji](https://pl.wikipedia.org/wiki/Admiralicja) z końca stycznia, by brytyjskie statki na wodach wokół [Wysp Brytyjskich](https://pl.wikipedia.org/wiki/Wyspy_Brytyjskie) podnosiły neutralne bandery. Niemcy w [deklaracji z 4 lutego](/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich) powołali się na nie, ostrzegając, że w strefie wojennej również statki neutralne nie będą bezpieczne. Dzień przed oświadczeniem do Liverpoolu wpłynęła [Lusitania pod banderą Stanów Zjednoczonych](/lusitania-pod-amerykanska-bandera). Już 6 lutego, gdy wiadomość o rejsie dotarła do prasy, jeden z brytyjskich urzędników mówił nieoficjalnie, że skoro Wielka Brytania pozwala obcym statkom używać swojej flagi dla uniknięcia schwytania, ma prawo oczekiwać tego samego od innych.
+Oświadczenie było odpowiedzią na burzę, jaką wywołało zalecenie [Admiralicji](/slownik/admiralicja) z końca stycznia, by brytyjskie statki na wodach wokół [Wysp Brytyjskich](https://pl.wikipedia.org/wiki/Wyspy_Brytyjskie) podnosiły neutralne bandery. Niemcy w [deklaracji z 4 lutego](/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich) powołali się na nie, ostrzegając, że w strefie wojennej również statki neutralne nie będą bezpieczne. Dzień przed oświadczeniem do Liverpoolu wpłynęła [Lusitania pod banderą Stanów Zjednoczonych](/lusitania-pod-amerykanska-bandera). Już 6 lutego, gdy wiadomość o rejsie dotarła do prasy, jeden z brytyjskich urzędników mówił nieoficjalnie, że skoro Wielka Brytania pozwala obcym statkom używać swojej flagi dla uniknięcia schwytania, ma prawo oczekiwać tego samego od innych.
 
 ## Argumenty Londynu
 

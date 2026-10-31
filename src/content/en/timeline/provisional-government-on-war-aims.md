@@ -2,10 +2,10 @@
 title: Provisional Government on war aims
 summary: On 9 April 1917 the Provisional Government declared that free Russia's aim was not conquest but a lasting peace. It was a compromise with the Petrograd Soviet.
 source: rzad-tymczasowy-o-celach-wojny
-sourceHash: d0496dcbd91879dae64c4cfe541bb89f9fb080ad
+sourceHash: 0590f4fd0e6b641208e773a657aec894dd18a19d
 ---
 
-On 9 April 1917 (27 March in the Julian calendar) the Russian [Provisional Government](/powstanie-rzadu-tymczasowego) approved the text of a declaration on war aims. It was published the next day as an address to the citizens, signed by the prime minister, Prince [Georgy Lvov](/postacie/gieorgij-lwow). Its key sentence read: "the aim of free Russia is not domination over other nations, nor the seizure of their national possessions, nor the forcible occupation of foreign territories, but the establishment of a stable peace on the basis of the self-determination of peoples." The declaration was the first compromise between the government and the [Petrograd Soviet](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich) on the issue that divided them most.
+On 9 April 1917 (27 March in the Julian calendar) the Russian [Provisional Government](/powstanie-rzadu-tymczasowego) approved the text of a declaration on war aims. It was published the next day as an address to the citizens, signed by the prime minister, Prince [Georgy Lvov](/postacie/gieorgij-lwow). Its key sentence read: "the aim of free Russia is not domination over other nations, nor the seizure of their national possessions, nor the forcible occupation of foreign territories, but the establishment of a stable peace on the basis of the self-determination of peoples." The declaration was the first compromise between the government and the [Petrograd Soviet](/slownik/rada-delegatow) on the issue that divided them most.
 
 ## The dispute over Constantinople
 

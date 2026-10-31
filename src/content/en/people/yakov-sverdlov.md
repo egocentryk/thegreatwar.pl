@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Nizhny Novgorod (Russian Empire)
 deathPlace: Moscow
 source: jakow-swierdlow
-sourceHash: c98bc568030594379ad9b28aa3bcec26b744c629
+sourceHash: dd993554a58c557e39005fa11404f1912a3e187a
 ---
 
 Yakov Sverdlov was the most important organiser of the Bolshevik party in 1917 and 1918 and the man who turned a collection of resolutions into a working apparatus of power. He was neither a theorist nor a great orator, but he remembered hundreds of names and biographies of activists and knew whom to send where. From November 1917 he chaired the [All-Russian Central Executive Committee](https://pl.wikipedia.org/wiki/Wszechrosyjski_Centralny_Komitet_Wykonawczy), and was thus formally the Soviet head of state, while at the same time running the party secretariat. In this double role he opened and dispersed the Constituent Assembly, gathered a majority for the Brest peace for [Vladimir Lenin](/postacie/wlodzimierz-lenin), received the credentials of the German envoy and signed the acts that justified the murder of the imperial family and the Red Terror. He was on the side of the Entente only formally: the government he helped to build took Russia out of the war. He died in March 1919, aged 33.
@@ -41,7 +41,7 @@ After the [attempt on Lenin's life](/zamach-na-lenina) on 30 August, Sverdlov si
 
 ## Death
 
-In the winter of 1918–1919 Sverdlov prepared the founding congress of the [Communist International](https://pl.wikipedia.org/wiki/Międzynarodówka_Komunistyczna) and congresses of soviets in Belarus, Lithuania, Latvia and Ukraine. He is also credited, although historians dispute the authorship, with the secret directive of the party's Organisational Bureau of 24 January 1919 that began [de-Cossackisation](https://pl.wikipedia.org/wiki/Rozkozaczanie), the mass repression of the Don Cossacks. On the way back from Kharkov at the beginning of March he fell ill. According to the official version it was [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki) with pneumonia. There were also rumours that workers had beaten him in Oryol, but they were never confirmed. He died in Moscow on 16 March 1919 and was buried by the Kremlin wall. He was succeeded as chairman of the executive committee by [Mikhail Kalinin](https://pl.wikipedia.org/wiki/Michaił_Kalinin). In 1924 Yekaterinburg, where the imperial family had been killed, was renamed Sverdlovsk in his honour. The city regained its old name in 1991.
+In the winter of 1918–1919 Sverdlov prepared the founding congress of the [Communist International](https://pl.wikipedia.org/wiki/Międzynarodówka_Komunistyczna) and congresses of soviets in Belarus, Lithuania, Latvia and Ukraine. He is also credited, although historians dispute the authorship, with the secret directive of the party's Organisational Bureau of 24 January 1919 that began [de-Cossackisation](https://pl.wikipedia.org/wiki/Rozkozaczanie), the mass repression of the Don Cossacks. On the way back from Kharkov at the beginning of March he fell ill. According to the official version it was [Spanish flu](/slownik/grypa-hiszpanka) with pneumonia. There were also rumours that workers had beaten him in Oryol, but they were never confirmed. He died in Moscow on 16 March 1919 and was buried by the Kremlin wall. He was succeeded as chairman of the executive committee by [Mikhail Kalinin](https://pl.wikipedia.org/wiki/Michaił_Kalinin). In 1924 Yekaterinburg, where the imperial family had been killed, was renamed Sverdlovsk in his honour. The city regained its old name in 1991.
 
 ## Assessment
 

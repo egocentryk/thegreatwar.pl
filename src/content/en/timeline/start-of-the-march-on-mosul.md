@@ -2,14 +2,14 @@
 title: Start of the march on Mosul
 summary: On 23 October 1918 Cobbe's I Corps faced the Turkish position at Fat-ha on the Tigris. That night the Turks left it, and the British set off for Mosul.
 source: poczatek-marszu-na-mosul
-sourceHash: 533a4d11f04d58c5e425d8ad412e4f5772c49370
+sourceHash: 490a2227770fd0709b3e1e2f893ae499a4b571ca
 ---
 
 On the morning of 23 October 1918 the Anglo-Indian I Corps of Lieutenant-General Alexander Cobbe completed its concentration before the Turkish position at Fat-ha, where the [Tigris](/miejsca/tygrys) breaks through the Jebel Hamrin range of hills, about 55 kilometres north of [Tikrit](https://pl.wikipedia.org/wiki/Tikrit). The British chronology of the war records briefly under that date: "Beginning of British advance on Mosul". It was the last offensive of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). Its aim was to destroy the Turkish Tigris Group of the Sixth Army, which was covering [Mosul](https://pl.wikipedia.org/wiki/Mosul), before the war with Turkey ended.
 
 ## A race with the armistice
 
-The order came from London on 2 October. After the [capture of Damascus](/zajecie-damaszku) and the capitulation of Bulgaria the British government expected Turkey soon to ask for peace, and wanted the troops of General William Marshall to occupy as much ground up the Tigris as possible by then. The British were not wrong: at the beginning of October the cabinet of Talaat Pasha fell, and the new government [turned to President Wilson](/turecka-nota-pokojowa) to mediate a peace. Marshall, however, had a transport problem, because almost all his motor vehicles and pack animals were serving the road through Persia. He gathered about 200 Ford vans and a column of carts, brought troops up to the railway and for more than two weeks built up dumps ahead of the railhead at Tikrit. The troops were weakened by the [influenza epidemic](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki), and both divisions of the I Corps, the 17th and 18th, were new formations in which few units had seen battle.
+The order came from London on 2 October. After the [capture of Damascus](/zajecie-damaszku) and the capitulation of Bulgaria the British government expected Turkey soon to ask for peace, and wanted the troops of General William Marshall to occupy as much ground up the Tigris as possible by then. The British were not wrong: at the beginning of October the cabinet of Talaat Pasha fell, and the new government [turned to President Wilson](/turecka-nota-pokojowa) to mediate a peace. Marshall, however, had a transport problem, because almost all his motor vehicles and pack animals were serving the road through Persia. He gathered about 200 Ford vans and a column of carts, brought troops up to the railway and for more than two weeks built up dumps ahead of the railhead at Tikrit. The troops were weakened by the [influenza epidemic](/slownik/grypa-hiszpanka), and both divisions of the I Corps, the 17th and 18th, were new formations in which few units had seen battle.
 
 ## Cobbe's plan
 

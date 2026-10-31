@@ -2,10 +2,10 @@
 title: Conscription extended to married men
 summary: On 25 May 1916 the second Military Service Act received royal assent. Conscription in Great Britain now covered all men aged 18 to 41.
 source: pobor-obejmuje-zonatych
-sourceHash: c354dae1dc8600b81b803df45f34c96afddd7761
+sourceHash: a1f1641910980d6a5f0bce998da6da9acbed8cb7
 ---
 
-On 25 May 1916 the second British Military Service Act (Military Service Act, 1916, Session 2) received royal assent. Great Britain thus moved from the conscription of bachelors alone, introduced [in January](/wielka-brytania-wprowadza-pobor), to universal compulsory military service. The Act passed quickly through Parliament: the [House of Commons](/slownik/izba-gmin) passed it on [16 May](/izba-gmin-uchwala-pobor-zonatych), the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów) passed it without a division on the whole bill on 23 May, and on 24 May MPs agreed to the Lords' amendments. The "Annual Register" wrote that few measures of such great importance had ever passed through Parliament with so little opposition.
+On 25 May 1916 the second British Military Service Act (Military Service Act, 1916, Session 2) received royal assent. Great Britain thus moved from the conscription of bachelors alone, introduced [in January](/wielka-brytania-wprowadza-pobor), to universal compulsory military service. The Act passed quickly through Parliament: the [House of Commons](/slownik/izba-gmin) passed it on [16 May](/izba-gmin-uchwala-pobor-zonatych), the [House of Lords](/slownik/izba-lordow) passed it without a division on the whole bill on 23 May, and on 24 May MPs agreed to the Lords' amendments. The "Annual Register" wrote that few measures of such great importance had ever passed through Parliament with so little opposition.
 
 ## Who was conscripted
 

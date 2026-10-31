@@ -2,7 +2,7 @@
 title: Serbs retake Belgrade
 summary: On 15 December 1914 the last Austro-Hungarian units withdrew across the Sava and the Serbian army returned to Belgrade. The third invasion of Serbia had failed.
 source: serbowie-odbijaja-belgrad
-sourceHash: 71521c42e634172a539f64eb1fade22dd99c3008
+sourceHash: bb0779a25b9264e91fd7f92a80c8e8f208f9bb26
 ---
 
 On 15 December 1914 Serbian troops returned to [Belgrade](/miejsca/belgrad). The Austro-Hungarians, who had [taken the capital on 2 December](/austriacy-zajmuja-belgrad), held it for less than two weeks. During the night of 14–15 December their Fifth Army crossed back over the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and the Danube. Serbia had been cleared of the invader's troops.
@@ -19,7 +19,7 @@ On 14 December the corps commanders came to Frank in person to convince him that
 
 Throughout 14 December heavy fighting went on in the hills surrounding the city. The Serbian Second and Third Armies and the Belgrade defence troops attacked from the south and west. At about 4 p.m. the Serbs took the heights near the village of Kumodraž, and the Landsturm soldiers, falling back in disorder, stopped only in Laudon's old entrenchments on the edge of the city. The Serbs did not push further, however, and after dark the fighting gradually died down.
 
-During the night, in a city plunged into total darkness, columns of troops and wagons crowded at the crossings. Units crossed by the pontoon bridge, the railway bridge and the barge bridge, and some of the troops were ferried across by steamers near the village of Višnjica, east of the city. The crossing was covered by the [river monitors](https://pl.wikipedia.org/wiki/Monitor_rzeczny) of the Danube Flotilla, whose fire kept the Serbs at a distance. By 8 a.m. on 15 December most of the troops were on the far bank. The pontoon bridge was dismantled and saved, while the barge bridge had to be partly destroyed by the army's own artillery. At 11 a.m. the rearguard defending the bridgehead crossed the railway bridge, which was then blown up. The group evacuated by ferry did not dare sail upstream to Zemun in daylight and landed at [Pančevo](https://pl.wikipedia.org/wiki/Pančevo). Its commander, General Schön, went back by ship in person for about 800 soldiers who had gathered on the bank near Višnjica.
+During the night, in a city plunged into total darkness, columns of troops and wagons crowded at the crossings. Units crossed by the pontoon bridge, the railway bridge and the barge bridge, and some of the troops were ferried across by steamers near the village of Višnjica, east of the city. The crossing was covered by the [river monitors](/slownik/monitor) of the Danube Flotilla, whose fire kept the Serbs at a distance. By 8 a.m. on 15 December most of the troops were on the far bank. The pontoon bridge was dismantled and saved, while the barge bridge had to be partly destroyed by the army's own artillery. At 11 a.m. the rearguard defending the bridgehead crossed the railway bridge, which was then blown up. The group evacuated by ferry did not dare sail upstream to Zemun in daylight and landed at [Pančevo](https://pl.wikipedia.org/wiki/Pančevo). Its commander, General Schön, went back by ship in person for about 800 soldiers who had gathered on the bank near Višnjica.
 
 ## The Serbs return
 

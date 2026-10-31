@@ -2,14 +2,14 @@
 title: Mine barrage off the Belgian coast
 summary: On 24 April 1916 Admiral Bacon's ships laid a double line of mines and a belt of mine nets off Zeebrugge against the submarines from Flanders.
 source: zapora-minowa-u-wybrzezy-belgii
-sourceHash: 7fe51e4d53e723e2e8f1333a737f07258871d649
+sourceHash: 92542a96725c5a56c53797d1e00a6a517f819797
 ---
 
 On 24 April 1916, Easter Monday, British ships laid off the coast of occupied Belgium a barrage of mines and mine nets nearly 30 kilometres long. It was meant to hamper the sorties of the submarines of the German [Flanders Flotilla](https://pl.wikipedia.org/wiki/Flotylla_Flandria) from [Zeebrugge](/miejsca/zeebrugge) and [Ostend](/miejsca/ostenda), which for months had been sinking ships and laying mines on the approaches to Dover, the Thames and the French ports. The operation was planned and led by the commander of the Dover Patrol, Admiral Reginald Bacon.
 
 ## Bacon's plan
 
-Bacon took command at Dover in April 1915, when the [barrage in the Strait of Dover](/ukonczenie-zapory-w-ciesninie-kaletanskiej) had closed that route to the large U-boats from Germany. The first British [minefields off the Belgian coast](/brytyjczycy-stawiaja-miny-u-wybrzezy-belgii) had been laid as early as the autumn of 1914, but the small UB and UC-type submarines, the first of which were carried from Germany by rail and assembled in Antwerp, left the Flanders ports without much hindrance. In the spring of 1916 they became particularly dangerous. It was a boat of the Flanders Flotilla that in March [torpedoed the *Sussex*](/storpedowanie-statku-sussex). Bacon therefore proposed to fence off from the seaward side a belt of water off Zeebrugge and Ostend, in which British [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) and destroyers could patrol constantly without fear of attack from under water. The boundary of this belt was to be formed by mine nets, that is, nets with mines hung on them that exploded when a submarine became entangled, reinforced by ordinary mines laid deep.
+Bacon took command at Dover in April 1915, when the [barrage in the Strait of Dover](/ukonczenie-zapory-w-ciesninie-kaletanskiej) had closed that route to the large U-boats from Germany. The first British [minefields off the Belgian coast](/brytyjczycy-stawiaja-miny-u-wybrzezy-belgii) had been laid as early as the autumn of 1914, but the small UB and UC-type submarines, the first of which were carried from Germany by rail and assembled in Antwerp, left the Flanders ports without much hindrance. In the spring of 1916 they became particularly dangerous. It was a boat of the Flanders Flotilla that in March [torpedoed the *Sussex*](/storpedowanie-statku-sussex). Bacon therefore proposed to fence off from the seaward side a belt of water off Zeebrugge and Ostend, in which British [monitors](/slownik/monitor) and destroyers could patrol constantly without fear of attack from under water. The boundary of this belt was to be formed by mine nets, that is, nets with mines hung on them that exploded when a submarine became entangled, reinforced by ordinary mines laid deep.
 
 ## 24 April
 

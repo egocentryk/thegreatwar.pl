@@ -29,6 +29,6 @@ Pod wieczór ewakuowano resztę załogi. Około 20.45 Audacious gwałtownie się
 
 ## Wojenna tajemnica
 
-Jellicoe uznał, że utrata jednego z najnowszych pancerników jest zbyt cenną informacją dla Niemców, bo osłabiała przewagę Grand Fleet nad niemiecką [Flotą Oceaniczną](/sily-zbrojne/flota-pelnomorska). Na jego prośbę [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja) utajniła zatonięcie, a prasa brytyjska podporządkowała się zakazowi. Olympic zatrzymano w Lough Swilly do 2 listopada, a pasażerom nie pozwolono kontaktować się ze światem.
+Jellicoe uznał, że utrata jednego z najnowszych pancerników jest zbyt cenną informacją dla Niemców, bo osłabiała przewagę Grand Fleet nad niemiecką [Flotą Oceaniczną](/sily-zbrojne/flota-pelnomorska). Na jego prośbę [Admiralicja](/slownik/admiralicja) utajniła zatonięcie, a prasa brytyjska podporządkowała się zakazowi. Olympic zatrzymano w Lough Swilly do 2 listopada, a pasażerom nie pozwolono kontaktować się ze światem.
 
 Utrzymanie tajemnicy okazało się jednak niemożliwe. Wśród pasażerów Olympica byli Amerykanie, którzy fotografowali, a nawet filmowali tonący okręt. Wiadomości i zdjęcia szybko trafiły za ocean i do prasy. Brytyjska Admiralicja mimo to oficjalnie milczała przez całą wojnę. Stratę Audaciousa ogłoszono dopiero 14 listopada 1918 roku, trzy dni po zawieszeniu broni, w komunikacie opublikowanym w „The Times”.

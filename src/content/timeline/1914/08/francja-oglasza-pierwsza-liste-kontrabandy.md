@@ -16,7 +16,7 @@ draft: false
 
 Francuskie przepisy, podobnie jak brytyjskie, dzieliły towary na dwie grupy. Kontrabandę bezwzględną stanowiły przedmioty służące wyłącznie wojnie, takie jak broń, amunicja i materiały wybuchowe. Kontrabanda względna obejmowała towary mogące służyć zarówno cywilom, jak i wojsku, na przykład żywność, paliwo czy materiały do produkcji. Te można było konfiskować tylko wtedy, gdy były przeznaczone dla sił zbrojnych lub władz nieprzyjaciela.
 
-Listy opierały się na [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku, która próbowała uporządkować prawo wojny morskiej. Francja wprowadziła do nich jedną istotną zmianę: [balony](https://pl.wikipedia.org/wiki/Balon), [samoloty](https://pl.wikipedia.org/wiki/Samolot) i ich części przeniesiono z listy kontrabandy względnej na bezwzględną. Było to znakiem czasów: lotnictwo, jeszcze kilka lat wcześniej traktowane jako ciekawostka techniczna, stawało się bronią.
+Listy opierały się na [deklaracji londyńskiej](/slownik/deklaracja-londynska) z 1909 roku, która próbowała uporządkować prawo wojny morskiej. Francja wprowadziła do nich jedną istotną zmianę: [balony](https://pl.wikipedia.org/wiki/Balon), [samoloty](https://pl.wikipedia.org/wiki/Samolot) i ich części przeniesiono z listy kontrabandy względnej na bezwzględną. Było to znakiem czasów: lotnictwo, jeszcze kilka lat wcześniej traktowane jako ciekawostka techniczna, stawało się bronią.
 
 ## Wspólna polityka sojuszników
 

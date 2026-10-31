@@ -2,7 +2,7 @@
 title: Internment of the Kronprinz Wilhelm
 summary: On 26 April 1915 the German auxiliary cruiser Kronprinz Wilhelm, the last Kaiserliche Marine raider then at large on the oceans, was interned at Newport News.
 source: internowanie-kronprinz-wilhelm
-sourceHash: ae1f0e33af2930ace70942f89b271a9c6fb6a2bb
+sourceHash: c37f9d489646a7ebe78801e75fd2b658cbfa83f1
 ---
 
 On 26 April 1915 at [Newport News](https://pl.wikipedia.org/wiki/Newport_News) in Virginia the American authorities interned the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Kronprinz Wilhelm*. The ship, which since August 1914 had been hunting Entente merchant ships in the Atlantic, had entered the neutral port two weeks earlier, out of coal and with a sick crew. The British chronology calls her the last German raider on the oceans. Indeed, after her internment no German warship waged commerce war far from Europe any longer. The next raiders, such as the *Möwe*, put to sea only at the end of 1915, and from German ports.
@@ -17,7 +17,7 @@ From then on the *Kronprinz Wilhelm* cruised the Atlantic, mainly on the routes 
 
 By the spring of 1915 the ship was at the end of her strength. Her sides were dented and leaking from the constant coaling at sea, her engines needed repair and her ammunition was running out. For lack of fresh vegetables and fruit more and more sailors were falling ill with [beriberi](https://pl.wikipedia.org/wiki/Beri-beri). There were no German cruisers left on the oceans, as the last of them, the *Dresden*, had been [sunk in March off the coast of Chile](/zatopienie-krazownika-dresden). Thierfelder headed for the United States. During the night of 10–11 April he slipped past the British cruisers guarding the entrance to [Chesapeake Bay](https://pl.wikipedia.org/wiki/Chesapeake_(zatoka)), and on the morning of 11 April dropped anchor off Newport News. According to accounts, less than 25 tons of coal were left in her bunkers.
 
-Another German raider, the *Prinz Eitel Friedrich*, had been lying in the same port since March, and a few days earlier her commander, after the deadline set for him had expired, had [agreed to internment](/internowanie-prinz-eitel-friedrich). The *Kronprinz Wilhelm* was in a similar position. The [Hague Convention](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) of 1907 allowed her to stay in a neutral port only for the time needed for repairs essential to put to sea. The British were waiting outside, and many sailors needed treatment ashore. After two weeks Thierfelder gave up further fighting, and on 26 April the ship was interned.
+Another German raider, the *Prinz Eitel Friedrich*, had been lying in the same port since March, and a few days earlier her commander, after the deadline set for him had expired, had [agreed to internment](/internowanie-prinz-eitel-friedrich). The *Kronprinz Wilhelm* was in a similar position. The [Hague Convention](/slownik/konwencje-haskie) of 1907 allowed her to stay in a neutral port only for the time needed for repairs essential to put to sea. The British were waiting outside, and many sailors needed treatment ashore. After two weeks Thierfelder gave up further fighting, and on 26 April the ship was interned.
 
 ## A village in the dockyard
 

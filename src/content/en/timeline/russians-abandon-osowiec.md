@@ -2,14 +2,14 @@
 title: Russians abandon Osowiec
 summary: On 22 August 1915 the Osowiec garrison, which had held off the Germans for half a year, left on orders and sappers blew up the forts. It was never stormed.
 source: rosjanie-opuszczaja-osowiec
-sourceHash: 7173bc8a0a7e787d544379b095c0b7c57c466bc0
+sourceHash: 9debc3642e623bac2713876fa614b854602c206c
 ---
 
 On 22 August 1915 the last units of the Russian garrison left the [fortress of Osowiec](https://pl.wikipedia.org/wiki/Twierdza_Osowiec) on the [Biebrza](https://pl.wikipedia.org/wiki/Biebrza), in today's Podlaskie Voivodeship. Only sappers remained, preparing the forts for demolition. The British chronology of the war recorded under this date that the Germans had taken Osowiec by storm. That was not the case. The fortress, which since February had repulsed German attacks, bombardment by the heaviest guns and a gas attack, was abandoned on the orders of the Russian command, because after the collapse of the front in the Kingdom of Poland its further defence had become pointless.
 
 ## Half a year of siege
 
-Osowiec blocked the only passage through the Biebrza Marshes on the road from East Prussia to [Białystok](https://pl.wikipedia.org/wiki/Białystok). From mid-February it was besieged by the German 11th Landwehr Division. At the turn of February and March dozens of heavy guns shelled it, including 305 mm and 420 mm mortars, but the forts held and the infantry kept its forward positions. On 6 August, after more than ten days of waiting for a favourable wind, the Germans released onto the Russian positions a cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor), mixed with bromine according to Russian sources. Several companies of the 226th Zemlyansk Infantry Regiment were wiped out almost entirely, and the Landwehr broke into the trenches. A counter-attack by the gassed soldiers, which Russian literature later called the ["attack of the dead men"](https://pl.wikipedia.org/wiki/Atak_umarłych), nevertheless threw the Germans back to their starting positions.
+Osowiec blocked the only passage through the Biebrza Marshes on the road from East Prussia to [Białystok](https://pl.wikipedia.org/wiki/Białystok). From mid-February it was besieged by the German 11th Landwehr Division. At the turn of February and March dozens of heavy guns shelled it, including 305 mm and 420 mm mortars, but the forts held and the infantry kept its forward positions. On 6 August, after more than ten days of waiting for a favourable wind, the Germans released onto the Russian positions a cloud of [chlorine](/slownik/gaz-bojowy), mixed with bromine according to Russian sources. Several companies of the 226th Zemlyansk Infantry Regiment were wiped out almost entirely, and the Landwehr broke into the trenches. A counter-attack by the gassed soldiers, which Russian literature later called the ["attack of the dead men"](https://pl.wikipedia.org/wiki/Atak_umarłych), nevertheless threw the Germans back to their starting positions.
 
 ## The order to retreat
 

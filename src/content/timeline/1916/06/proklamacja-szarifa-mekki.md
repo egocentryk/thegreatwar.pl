@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Pod datą 25 dnia miesiąca szaban 1334 roku hidżry, czyli 26 lub 27 czerwca 1916 roku, szarif Mekki podpisał proklamację do wszystkich muzułmanów. Potępił w niej rządzący w Konstantynopolu [Komitet Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) i ogłosił niepodległość [Hidżazu](https://pl.wikipedia.org/wiki/Hidżaz). Angielskie przekłady, wydawane jeszcze w czasie wojny i w latach dwudziestych, podają datę 27 czerwca. Libański historyk George Antonius pisze, że szarif rozpowszechnił tę swoją pierwszą proklamację w lipcu. Brytyjska chronologia wojny notuje ją pod 7 czerwca, ale to niemożliwe, bo tekst opisuje wydarzenia, które w Mekce rozegrały się dopiero po 10 czerwca. Dostępne źródła nie wspominają o żadnym dokumencie szarifa z 7 czerwca.
+Pod datą 25 dnia miesiąca szaban 1334 roku hidżry, czyli 26 lub 27 czerwca 1916 roku, szarif Mekki podpisał proklamację do wszystkich muzułmanów. Potępił w niej rządzący w Konstantynopolu [Komitet Jedności i Postępu](/slownik/mlodoturcy) i ogłosił niepodległość [Hidżazu](https://pl.wikipedia.org/wiki/Hidżaz). Angielskie przekłady, wydawane jeszcze w czasie wojny i w latach dwudziestych, podają datę 27 czerwca. Libański historyk George Antonius pisze, że szarif rozpowszechnił tę swoją pierwszą proklamację w lipcu. Brytyjska chronologia wojny notuje ją pod 7 czerwca, ale to niemożliwe, bo tekst opisuje wydarzenia, które w Mekce rozegrały się dopiero po 10 czerwca. Dostępne źródła nie wspominają o żadnym dokumencie szarifa z 7 czerwca.
 
 ## Odezwa do wszystkich muzułmanów
 

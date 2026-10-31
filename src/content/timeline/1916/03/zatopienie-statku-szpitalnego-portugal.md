@@ -27,4 +27,4 @@ Rozbitków ratowały kuter motorowy i trawler, a według części relacji także
 
 ## Oburzenie
 
-Rząd rosyjski oskarżył Niemcy o złamanie [konwencji haskich](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku), które chroniły statki szpitalne, i nazwał zatopienie zbrodnią. Prasa w Rosji i państwach Ententy pisała o piractwie. Moskiewska duma miejska postanowiła wznieść pomnik ofiarom, ale nigdy go nie zbudowano. Portugal nie był ostatnim statkiem szpitalnym zatopionym na Morzu Czarnym. W lipcu 1916 roku na tych samych wodach zatonął inny rosyjski statek szpitalny, Wpieriod.
+Rząd rosyjski oskarżył Niemcy o złamanie [konwencji haskich](/slownik/konwencje-haskie), które chroniły statki szpitalne, i nazwał zatopienie zbrodnią. Prasa w Rosji i państwach Ententy pisała o piractwie. Moskiewska duma miejska postanowiła wznieść pomnik ofiarom, ale nigdy go nie zbudowano. Portugal nie był ostatnim statkiem szpitalnym zatopionym na Morzu Czarnym. W lipcu 1916 roku na tych samych wodach zatonął inny rosyjski statek szpitalny, Wpieriod.

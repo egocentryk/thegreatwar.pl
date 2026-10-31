@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Serbia
 summary: On 28 July 1914 Austria-Hungary declared war on Serbia by telegram. That same night Belgrade was shelled and the First World War began.
 source: austro-wegry-wypowiadaja-wojne-serbii
-sourceHash: 935b0f553d00f0c83429f3d80e4871c6e82661b9
+sourceHash: 552c411d0224164a10d329ff94683e3912718839
 brief:
   - "On 28 July 1914, exactly a month after the assassination in Sarajevo, Austria-Hungary declared war on Serbia. For many historians this day marks the beginning of the First World War."
   - "Leopold Berchtold sent the declaration by telegram to Prime Minister Nikola Pašić in Niš, as diplomatic relations had been broken off three days earlier. It was the first time war had been declared by telegram."
@@ -29,7 +29,7 @@ Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollw
 
 ## The first shots
 
-On the night of 28–29 July Austro-Hungarian artillery positioned in [Zemun](https://pl.wikipedia.org/wiki/Zemun) and river [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) on the Danube and the Sava shelled [Belgrade](/miejsca/belgrad). The shells struck, among other places, a school, the Grand Hotel, cafés and banks. The Serbian capital, lying right on the border, found itself on the front line from the first hours of the war. On 28 July Franz Joseph also signed the manifesto "To My Peoples", in which he explained to his subjects why the monarchy had taken up arms.
+On the night of 28–29 July Austro-Hungarian artillery positioned in [Zemun](https://pl.wikipedia.org/wiki/Zemun) and river [monitors](/slownik/monitor) on the Danube and the Sava shelled [Belgrade](/miejsca/belgrad). The shells struck, among other places, a school, the Grand Hotel, cafés and banks. The Serbian capital, lying right on the border, found itself on the front line from the first hours of the war. On 28 July Franz Joseph also signed the manifesto "To My Peoples", in which he explained to his subjects why the monarchy had taken up arms.
 
 The actual advance of troops into Serbia had to wait for mobilisation to be completed, and its first day was 28 July itself. The [Serbian campaign](https://pl.wikipedia.org/wiki/Kampania_serbska_(I_wojna_światowa)) began in earnest only in mid-August.
 

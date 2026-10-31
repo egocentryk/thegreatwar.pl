@@ -19,7 +19,7 @@ Okręt podwodny był niewiele ponad kilometr od torpedowca. Brytyjczycy ruszyli 
 
 Pojawienie się U-Boota w tym miejscu przyszło w najgorszym możliwym momencie. Do Anglii zbliżał się właśnie [wielki konwój z pierwszym kontyngentem kanadyjskim](/kanadyjczycy-wyplywaja-do-anglii): około 30 transportowców z ponad 30 tysiącami żołnierzy. Admiralicja od początku wolała skierować go do portu na zachodzie Anglii, ale Ministerstwo Wojny naciskało na Southampton, gdzie przygotowano wszystko do wyładunku i przewozu wojska koleją na Salisbury Plain. 10 października ustalono ostatecznie, że konwój zawinie do Southampton.
 
-Incydent u wyspy Wight przesądził sprawę. Według brytyjskiego historyka Juliana Corbetta w ciągu godziny [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) uznała, że bezpieczeństwo konwoju jest ważniejsze od wszelkich względów wojskowych. Wieczorem 13 października admirał Rosslyn Wemyss, dowodzący eskortą, otrzymał rozkaz skierowania statków do [Plymouth](https://pl.wikipedia.org/wiki/Plymouth). Wkrótce potem z tego samego powodu dwa inne konwoje z wojskiem, wracające do kraju z Egiptu i Indii, skierowano do Liverpoolu.
+Incydent u wyspy Wight przesądził sprawę. Według brytyjskiego historyka Juliana Corbetta w ciągu godziny [Admiralicja](/slownik/admiralicja) uznała, że bezpieczeństwo konwoju jest ważniejsze od wszelkich względów wojskowych. Wieczorem 13 października admirał Rosslyn Wemyss, dowodzący eskortą, otrzymał rozkaz skierowania statków do [Plymouth](https://pl.wikipedia.org/wiki/Plymouth). Wkrótce potem z tego samego powodu dwa inne konwoje z wojskiem, wracające do kraju z Egiptu i Indii, skierowano do Liverpoolu.
 
 ## Polowanie na konwój
 

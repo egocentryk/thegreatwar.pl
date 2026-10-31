@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-25 maja 1916 roku druga brytyjska ustawa o służbie wojskowej (Military Service Act, 1916, Session 2) otrzymała sankcję królewską. Wielka Brytania przeszła w ten sposób od poboru samych kawalerów, wprowadzonego [w styczniu](/wielka-brytania-wprowadza-pobor), do powszechnego obowiązku służby wojskowej. Ustawa szybko przeszła przez parlament: [Izba Gmin](/slownik/izba-gmin) przyjęła ją [16 maja](/izba-gmin-uchwala-pobor-zonatych), [Izba Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów) uchwaliła ją bez głosowania nad całością 23 maja, a 24 maja posłowie zgodzili się na poprawki lordów. „Annual Register” pisał, że niewiele ustaw o tak wielkim znaczeniu przeszło kiedykolwiek przez parlament przy tak słabym oporze.
+25 maja 1916 roku druga brytyjska ustawa o służbie wojskowej (Military Service Act, 1916, Session 2) otrzymała sankcję królewską. Wielka Brytania przeszła w ten sposób od poboru samych kawalerów, wprowadzonego [w styczniu](/wielka-brytania-wprowadza-pobor), do powszechnego obowiązku służby wojskowej. Ustawa szybko przeszła przez parlament: [Izba Gmin](/slownik/izba-gmin) przyjęła ją [16 maja](/izba-gmin-uchwala-pobor-zonatych), [Izba Lordów](/slownik/izba-lordow) uchwaliła ją bez głosowania nad całością 23 maja, a 24 maja posłowie zgodzili się na poprawki lordów. „Annual Register” pisał, że niewiele ustaw o tak wielkim znaczeniu przeszło kiedykolwiek przez parlament przy tak słabym oporze.
 
 ## Kogo objął pobór
 

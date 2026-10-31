@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Siedliska near Lubartów (Kingdom of Poland, Russian Empire)
 deathPlace: Bełżyce
 source: jan-stecki
-sourceHash: 6b9f1738ebfb608a5a126c06c622a04a4d191bc8
+sourceHash: 905baeac67cf2eebbb2e2ff2b2c265183b44696f
 ---
 
 Jan Stecki was a landowner from the Lublin region, an economist and one of the founders of the National Democratic camp in the Kingdom of Poland. In 1906 he sat in the first Russian State Duma, where he made his name as an expert on agricultural affairs. During the war he took a path that for many National Democrats was unthinkable: from an opponent of Germany he became an [activist](https://pl.wikipedia.org/wiki/Aktywiści), a supporter of building a Polish state alongside the Central Powers. In December 1917 he became minister of internal affairs in the first government of the Regency Council, and he held the office, with a break, almost until the end of the Kingdom of Poland. His life was described by the Lublin historian Włodzimierz Mich in the monograph "Jan Stecki (1871–1954). Portret polityka ziemiańskiego" ("Portrait of a landowner politician", 1990).
@@ -15,7 +15,7 @@ Jan Stecki was a landowner from the Lublin region, an economist and one of the f
 
 He was born on 22 March 1871 in Siedliska near [Lubartów](https://pl.wikipedia.org/wiki/Lubartów). An economist by training, he wrote a textbook of political economy and articles in "Ekonomista" and "Gazeta Rolnicza". In his youth he belonged to the [Union of Polish Youth "Zet"](https://pl.wikipedia.org/wiki/Związek_Młodzieży_Polskiej_„Zet”), and from 1893 to the secret [National League](https://pl.wikipedia.org/wiki/Liga_Narodowa). He wrote for "Głos" and "Przegląd Wszechpolski", and after the [National Democratic Party](https://pl.wikipedia.org/wiki/Stronnictwo_Narodowo-Demokratyczne) was founded he was one of its leaders in the Lublin region.
 
-In 1906 he won a seat in the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)), and in 1907 he was re-elected to the Second Duma. In the Polish Circle he dealt with agricultural affairs. His speech in the First Duma attracted attention: on behalf of the Circle he supported the motion of the [Kadets](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna) for the compulsory expropriation of part of the large landed estates in favour of the peasants. The conservatives of the [Party of Real Politics](https://pl.wikipedia.org/wiki/Stronnictwo_Polityki_Realnej_(1905–1923)) took this speech particularly badly, and it sharpened their dispute with the National Democrats. In the following years Stecki was active in agricultural and landowners' organisations in the Lublin region.
+In 1906 he won a seat in the [State Duma](/slownik/duma), and in 1907 he was re-elected to the Second Duma. In the Polish Circle he dealt with agricultural affairs. His speech in the First Duma attracted attention: on behalf of the Circle he supported the motion of the [Kadets](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna) for the compulsory expropriation of part of the large landed estates in favour of the peasants. The conservatives of the [Party of Real Politics](https://pl.wikipedia.org/wiki/Stronnictwo_Polityki_Realnej_(1905–1923)) took this speech particularly badly, and it sharpened their dispute with the National Democrats. In the following years Stecki was active in agricultural and landowners' organisations in the Lublin region.
 
 ## During the war
 

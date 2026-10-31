@@ -2,14 +2,14 @@
 title: End of the Battle of Hill 70
 summary: On 25 August 1917 the Canadians took Aloof Trench near Lens, ending the Battle of Hill 70. They held the hill, but the attacks on Lens itself failed.
 source: koniec-bitwy-o-wzgorze-70
-sourceHash: 2d27523d06d44abb5c9bd7173ba7ec42364751dd
+sourceHash: 79608daba29e08af8a1cedce5fca36631b7923d4
 ---
 
 At 2 a.m. on 25 August 1917 the 50th Battalion of the 4th Canadian Division attacked Aloof Trench on the western edge of [Lens](https://pl.wikipedia.org/wiki/Lens). Instead of the usual artillery barrage, the attack was supported by Stokes mortars and hundreds of rifle grenades. The trench fell almost without a fight, and the battalion lost only a few wounded. With this small success the Battle of Hill 70 came to an end, the first battle of the Canadian Corps under the command of General [Arthur Currie](/postacie/arthur-currie). The hill above Lens, taken on [15 August](/poczatek-bitwy-o-wzgorze-70), remained in Canadian hands, but the Germans held the town itself.
 
 ## The attack on Lens
 
-After taking the hill, the Canadians beat off German counter-attacks until 18 August, according to Currie as many as 21. The Germans used flamethrowers and shelled the Canadian batteries with a new gas, [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy), which blistered the skin and eyes and whose effects often appeared only many hours later. On 18 August Currie decided to improve his position on the southern slope of the hill, in front of Lens. At 4.35 a.m. on 21 August, while it was still dark, the 6th Brigade of the 2nd Division and the 10th Brigade of the 4th Division were to take the German trenches in the western and north-western suburbs of the town. The Germans seemed to have foreseen the attack: just before zero hour a battalion of the 4th Guard Division itself moved forward, and the two sides clashed with the bayonet in no man's land.
+After taking the hill, the Canadians beat off German counter-attacks until 18 August, according to Currie as many as 21. The Germans used flamethrowers and shelled the Canadian batteries with a new gas, [mustard gas](/slownik/gaz-bojowy), which blistered the skin and eyes and whose effects often appeared only many hours later. On 18 August Currie decided to improve his position on the southern slope of the hill, in front of Lens. At 4.35 a.m. on 21 August, while it was still dark, the 6th Brigade of the 2nd Division and the 10th Brigade of the 4th Division were to take the German trenches in the western and north-western suburbs of the town. The Germans seemed to have foreseen the attack: just before zero hour a battalion of the 4th Guard Division itself moved forward, and the two sides clashed with the bayonet in no man's land.
 
 The Canadians took only some of their objectives. The defenders sat in deep cellars, proof against everything except heavy artillery, and it was hard to dig in among the ruins. In the afternoon counter-attacks by the Guard forced two battalions of the 6th Brigade back to their starting positions. Of the 50th Battalion only three small parties reached their objective, and few of them came back. The 46th and 47th Battalions did better, taking their objectives by nightfall, the latter as far as the Lens–Arras road. This one day cost the Canadians 1,154 men.
 

@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Yorck
 summary: On 4 November 1914 the German armoured cruiser Yorck strayed in fog onto German mines at the mouth of the Jade and sank. Several hundred sailors died.
 source: zatoniecie-krazownika-yorck
-sourceHash: 713d3621a9600662f13064b4fa528485d7e65f77
+sourceHash: 7bc66f5bf90fc0f2a22a7b82ad8b9516aa02aa88
 ---
 
-In the early hours of 4 November 1914 the German [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Yorck](https://pl.wikipedia.org/wiki/SMS_Yorck) struck two mines on the approach to [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven) and sank. They were German mines, from the barrier protecting the mouth of the Jade against British ships.
+In the early hours of 4 November 1914 the German [armoured cruiser](/slownik/krazownik-pancerny) [Yorck](https://pl.wikipedia.org/wiki/SMS_Yorck) struck two mines on the approach to [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven) and sank. They were German mines, from the barrier protecting the mouth of the Jade against British ships.
 
 Yorck belonged to the Roon class and entered service in 1905. Before the war she had been placed in reserve, but on the outbreak of war she returned to active service in the [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine). On 3 November she did not take part in the [battlecruiser raid on Yarmouth](/niemiecki-rajd-na-yarmouth), but together with other ships covered their return. In the evening, when thick fog settled over the mouth of the Jade, she anchored in the Schillig Roads, outside the minefields.
 

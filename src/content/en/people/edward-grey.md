@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Fallodon (Northumberland)
 source: edward-grey
-sourceHash: 6dedcc5bd6858262bde40cb8835ddb7a21f754f0
+sourceHash: 8ce83f5c73fa94954df1865ea62e6ae3213fb4fc
 ---
 
 Sir Edward Grey directed British foreign policy for eleven years, from December 1905 to December 1916, longer without a break than anyone before or since. It was he who built the agreements with France and Russia, who in July 1914 tried to stop the war with a conference of the powers, and who on 3 August made the speech in the House of Commons that convinced Parliament and a divided government that Britain could not leave France and Belgium to their fate. During the war he conducted the secret diplomacy of the Entente: he negotiated Italy's entry, courted the Balkan states, promised Constantinople to Russia and signed the agreement partitioning Asiatic Turkey. Weary and losing his sight, he left the government together with Asquith.
@@ -41,7 +41,7 @@ Grey's second great task was to keep good relations with the United States while
 
 ## Departure
 
-Grey bore the burden of the war badly. He had suffered from eye trouble for years and was gradually losing his sight. In July 1916, to lighten his load, he accepted the title of Viscount Grey of Fallodon and moved to the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów), and in the summer Lord Crewe partly deputised for him. Critics accused him, like the Prime Minister, of lacking energy. When in December 1916 [Asquith resigned](/dymisja-asquitha), Grey left with him. His successor in [Lloyd George's government](/rzad-koalicyjny-lloyda-george-a) was [Arthur Balfour](/postacie/arthur-balfour).
+Grey bore the burden of the war badly. He had suffered from eye trouble for years and was gradually losing his sight. In July 1916, to lighten his load, he accepted the title of Viscount Grey of Fallodon and moved to the [House of Lords](/slownik/izba-lordow), and in the summer Lord Crewe partly deputised for him. Critics accused him, like the Prime Minister, of lacking energy. When in December 1916 [Asquith resigned](/dymisja-asquitha), Grey left with him. His successor in [Lloyd George's government](/rzad-koalicyjny-lloyda-george-a) was [Arthur Balfour](/postacie/arthur-balfour).
 
 ## After the war
 

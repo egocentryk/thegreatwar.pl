@@ -2,10 +2,10 @@
 title: France accepts the Declaration of London with modifications
 summary: On 3 September 1914 France told the United States that it would observe the Declaration of London, but with changes that tightened control of trade.
 source: francja-deklaracja-londynska-z-modyfikacjami
-sourceHash: 024cf6d901fc607ab4882de40f7334fd7c4efe80
+sourceHash: 5b7397489081bec69b9e0a2e3d84d4351c252c89
 ---
 
-On 3 September 1914 the French government officially informed the United States that in wartime it would observe the 1909 [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) on the law of naval warfare, but with its own additions and modifications. That day the American ambassador in Paris, Myron T. Herrick, sent the text of the French position to Washington.
+On 3 September 1914 the French government officially informed the United States that in wartime it would observe the 1909 [Declaration of London](/slownik/deklaracja-londynska) on the law of naval warfare, but with its own additions and modifications. That day the American ambassador in Paris, Myron T. Herrick, sent the text of the French position to Washington.
 
 ## An answer to Washington's question
 

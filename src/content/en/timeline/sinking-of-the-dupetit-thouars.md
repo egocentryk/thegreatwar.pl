@@ -2,10 +2,10 @@
 title: Sinking of the Dupetit-Thouars
 summary: On 7 August 1918 U-62 torpedoed the French armoured cruiser Dupetit-Thouars in the Atlantic as it escorted a convoy from New York. About a dozen sailors died.
 source: zatopienie-dupetit-thouars
-sourceHash: b51b17f59897db74baebb3718ba30eac95f8330d
+sourceHash: 5d8744ed55e768b69f2d22f38fc66fa545e0821b
 ---
 
-On the evening of 7 August 1918 in the [Atlantic](https://pl.wikipedia.org/wiki/Ocean_Atlantycki), several hundred miles west of [Brest](https://pl.wikipedia.org/wiki/Brest), the German submarine [*U-62*](https://pl.wikipedia.org/wiki/SM_U-62_(1916)), commanded by Kapitänleutnant Ernst Hashagen, torpedoed the French [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [*Dupetit-Thouars*](https://pl.wikipedia.org/wiki/Dupetit-Thouars_(1901)). The ship sank in less than an hour. According to most studies 13 sailors were killed, according to some French sources about ten.
+On the evening of 7 August 1918 in the [Atlantic](https://pl.wikipedia.org/wiki/Ocean_Atlantycki), several hundred miles west of [Brest](https://pl.wikipedia.org/wiki/Brest), the German submarine [*U-62*](https://pl.wikipedia.org/wiki/SM_U-62_(1916)), commanded by Kapitänleutnant Ernst Hashagen, torpedoed the French [armoured cruiser](/slownik/krazownik-pancerny) [*Dupetit-Thouars*](https://pl.wikipedia.org/wiki/Dupetit-Thouars_(1901)). The ship sank in less than an hour. According to most studies 13 sailors were killed, according to some French sources about ten.
 
 *Dupetit-Thouars* was a [*Gueydon*-class](https://pl.wikipedia.org/wiki/Krążowniki_pancerne_typu_Gueydon) cruiser, built at the turn of the century in the arsenal at Toulon. She displaced about 9,500 tons and had a crew of several hundred. In 1918 she belonged to the French Atlantic division and escorted [convoys](https://pl.wikipedia.org/wiki/Konwój_morski) sailing from America to France. According to uboat.net she had left New York on 24 July as ocean escort of convoy HB 7. The convoy, numbering 24 ships according to some studies, was already approaching the French coast.
 

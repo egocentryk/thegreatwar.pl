@@ -2,10 +2,10 @@
 title: British ports closed to neutral fishing vessels
 summary: On 1 February 1915 the Admiralty barred neutral fishing vessels from using British ports, fearing espionage and minelaying.
 source: brytyjskie-porty-zamkniete-dla-neutralnych-kutrow
-sourceHash: 11c192018b3397810e11dbfcfa300ae91e34dd7c
+sourceHash: 94e72633564118f5b6830cc8d81e28cae07bb4b1
 ---
 
-The British chronology of the war records under 1 February 1915 that the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) issued orders forbidding neutral fishing vessels to use British ports. Among the neutrals, it was above all Dutch, Danish and Norwegian fishermen who worked the North Sea fishing grounds alongside the British, and until then their boats and [trawlers](https://pl.wikipedia.org/wiki/Trawler) had been able to put into British ports. The surviving accounts are scanty and give no details, such as the penalties for breaking the ban.
+The British chronology of the war records under 1 February 1915 that the [Admiralty](/slownik/admiralicja) issued orders forbidding neutral fishing vessels to use British ports. Among the neutrals, it was above all Dutch, Danish and Norwegian fishermen who worked the North Sea fishing grounds alongside the British, and until then their boats and [trawlers](https://pl.wikipedia.org/wiki/Trawler) had been able to put into British ports. The surviving accounts are scanty and give no details, such as the penalties for breaking the ban.
 
 ## Suspect fishing boats
 

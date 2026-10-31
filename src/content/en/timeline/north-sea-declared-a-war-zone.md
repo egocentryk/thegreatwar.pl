@@ -2,10 +2,10 @@
 title: North Sea declared a war zone
 summary: On 2 November 1914 the Admiralty declared the whole North Sea a military area. From 5 November neutral ships were to sail through the English Channel.
 source: morze-polnocne-strefa-wojenna
-sourceHash: 1ec1b5120364ed91e7e6a41e347a459673bd3ffc
+sourceHash: 22464351030658873ae6b9d586c176bb00d28c15
 ---
 
-On 2 November 1914 the British [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) announced that the whole of the [North Sea](/miejsca/morze-polnocne) was henceforth to be regarded as a military area. The governments of neutral states were notified a day later, and in some sources, including the memoirs of Admiral John Jellicoe, the announcement is dated 3 November. The new rules were to apply from 5 November.
+On 2 November 1914 the British [Admiralty](/slownik/admiralicja) announced that the whole of the [North Sea](/miejsca/morze-polnocne) was henceforth to be regarded as a military area. The governments of neutral states were notified a day later, and in some sources, including the memoirs of Admiral John Jellicoe, the announcement is dated 3 November. The new rules were to apply from 5 November.
 
 ## A response to German mines
 

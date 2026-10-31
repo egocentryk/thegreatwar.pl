@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Prinz Adalbert
 summary: On 23 October 1915 the British submarine E8 torpedoed the armoured cruiser Prinz Adalbert off Libau. The ship blew up and three men survived.
 source: zatopienie-krazownika-prinz-adalbert
-sourceHash: ec177aad90ef06c9e864691166f811462897cd19
+sourceHash: bdceb54d440e4f48ebc7ece76c3deff1113e2a1b
 ---
 
-On the morning of 23 October 1915 the British submarine [*E8*](https://pl.wikipedia.org/wiki/HMS_E8), commanded by Lieutenant-Commander Francis Goodhart, torpedoed the German [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [*Prinz Adalbert*](https://pl.wikipedia.org/wiki/SMS_Prinz_Adalbert_(1901)) about 20 nautical miles west of [Libau](https://pl.wikipedia.org/wiki/Lipawa). The torpedo detonated the forward magazine and the ship blew up. Of a crew of about 675 men only three survived. Thirty-two officers and 640 petty officers and ratings were killed. According to the German official history, it was the heaviest loss suffered by the German forces in the [Baltic Sea](https://pl.wikipedia.org/wiki/Morze_Bałtyckie) since the beginning of the war.
+On the morning of 23 October 1915 the British submarine [*E8*](https://pl.wikipedia.org/wiki/HMS_E8), commanded by Lieutenant-Commander Francis Goodhart, torpedoed the German [armoured cruiser](/slownik/krazownik-pancerny) [*Prinz Adalbert*](https://pl.wikipedia.org/wiki/SMS_Prinz_Adalbert_(1901)) about 20 nautical miles west of [Libau](https://pl.wikipedia.org/wiki/Lipawa). The torpedo detonated the forward magazine and the ship blew up. Of a crew of about 675 men only three survived. Thirty-two officers and 640 petty officers and ratings were killed. According to the German official history, it was the heaviest loss suffered by the German forces in the [Baltic Sea](https://pl.wikipedia.org/wiki/Morze_Bałtyckie) since the beginning of the war.
 
 ## The second hit
 

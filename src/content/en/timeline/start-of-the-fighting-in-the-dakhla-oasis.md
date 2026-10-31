@@ -2,7 +2,7 @@
 title: Start of the fighting in the Dakhla Oasis
 summary: On 17 October 1916 a small British motor column from Kharga entered the Dakhla Oasis. Most of the Senussi forces had already withdrawn.
 source: poczatek-walk-w-oazie-dachla
-sourceHash: 2808c6d62d97398d2016c13e45d853f3736c389c
+sourceHash: b06b1eb720b262ac04340b3c1169726c1692cab3
 ---
 
 On 17 October 1916 a small British motor column, which had set out from [Kharga](https://pl.wikipedia.org/wiki/Charga) two days earlier, reached the Dakhla Oasis ([Dakhla](https://pl.wikipedia.org/wiki/Ad-Dachila)), the richest of the oases of Egypt's [Libyan Desert](https://pl.wikipedia.org/wiki/Pustynia_Libijska). Since February the oasis had been in the hands of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order. That day the British occupied the village of Tinida (Tenida) on the eastern edge of the oasis, after which the cars drove on to Budkhulu and took an enemy detachment prisoner there. The British chronology of the war records under this date the start of operations in the Dakhla Oasis, which lasted until 22 October.
@@ -25,6 +25,6 @@ Intelligence reported that the Dakhla garrison had also shrunk greatly and would
 
 ## The raid on Dakhla
 
-According to the British official history, the column consisted of one [Rolls-Royce armoured car](https://pl.wikipedia.org/wiki/Rolls-Royce_Armoured_Car) with a supply vehicle, six Fords and twelve motorcycles. They carried 2 officers and 58 men with two Vickers heavy machine guns and two [Lewis](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Lewis) light machine guns. On 15 October the cars and the Camel Corps detachment set out from Kharga, and on 17 October, after crossing some 110 kilometres of desert, the column occupied Tinida. It turned out that most of the enemy's forces had already gone. The official history remarks that this was perhaps just as well, because the column was very weak. The cars drove into the interior of the oasis, to Budkhulu, where according to Murray's report they took prisoner a detachment of the order, 45 men with 10 camels.
+According to the British official history, the column consisted of one [Rolls-Royce armoured car](https://pl.wikipedia.org/wiki/Rolls-Royce_Armoured_Car) with a supply vehicle, six Fords and twelve motorcycles. They carried 2 officers and 58 men with two Vickers heavy machine guns and two [Lewis](/slownik/karabin-maszynowy) light machine guns. On 15 October the cars and the Camel Corps detachment set out from Kharga, and on 17 October, after crossing some 110 kilometres of desert, the column occupied Tinida. It turned out that most of the enemy's forces had already gone. The official history remarks that this was perhaps just as well, because the column was very weak. The cars drove into the interior of the oasis, to Budkhulu, where according to Murray's report they took prisoner a detachment of the order, 45 men with 10 camels.
 
 The same day, far to the north, a Camel Corps detachment occupied the Harra wells on the edge of Bahariya. Meanwhile the company from Kharga was making a forced march across the desert to join the cars in Dakhla, an oasis inhabited by some 20,000 people.

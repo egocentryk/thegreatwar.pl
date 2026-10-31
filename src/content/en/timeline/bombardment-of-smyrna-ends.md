@@ -2,7 +2,7 @@
 title: Bombardment of Smyrna ends
 summary: On 9 March 1915 an envoy of the governor of Smyrna came to the British admiral. The shelling stopped and a truce was agreed until the morning of 11 March.
 source: koniec-bombardowania-smyrny
-sourceHash: 04c6794bd11cbf3f6d6f2ad9511c39e9ac298011
+sourceHash: e150fce16f4743c57a42f6d9744f7097febe422c
 ---
 
 On 9 March 1915 the British bombardment of the fortifications of [Smyrna](https://pl.wikipedia.org/wiki/Izmir), [begun four days earlier](/poczatek-bombardowania-smyrny), came to an end. In the afternoon a boat under a white flag came out to the ships of Vice-Admiral Richard Peirse carrying an envoy of the Turkish governor, the vali. The admiral presented his terms, and the two sides agreed a [truce](https://pl.wikipedia.org/wiki/Rozejm) until 10 a.m. on 11 March. The guns in the gulf fell silent.
@@ -17,7 +17,7 @@ On the night of 8–9 March the minesweepers made a determined attempt. The batt
 
 ## Talks under a white flag
 
-As early as the evening of 6 March the Admiralty informed Peirse that the aim of the operation might perhaps be achieved by negotiation. The vali of Smyrna was Rahmi Bey, an influential member of the [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu), known for his goodwill towards the British and French living in the city. According to British information, he openly regretted that Turkey had entered the war. In London it was hoped that, fearing destruction, he would agree to the de facto neutrality of the port.
+As early as the evening of 6 March the Admiralty informed Peirse that the aim of the operation might perhaps be achieved by negotiation. The vali of Smyrna was Rahmi Bey, an influential member of the [Committee of Union and Progress](/slownik/mlodoturcy), known for his goodwill towards the British and French living in the city. According to British information, he openly regretted that Turkey had entered the war. In London it was hoped that, fearing destruction, he would agree to the de facto neutrality of the port.
 
 On 9 March the governor's answer was awaited all day. Both battleships approached the forts with a white flag and a signal calling for talks, but soon after noon one of the batteries fired on *Triumph*. The ships were withdrawn, and after 3 p.m. they began shelling the battery that had violated the white flag. Half an hour later a boat carrying the vali's envoy came out from the direction of [Urla](https://pl.wikipedia.org/wiki/Urla). According to a report by the American ambassador in Constantinople, Henry Morgenthau, the American consul general in Smyrna, George Horton, came aboard *Euryalus* with him. The envoy explained that fire had been opened by the battery commander's mistake.
 

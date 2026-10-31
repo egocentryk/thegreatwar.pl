@@ -1,0 +1,208 @@
+{
+ "slug": "izba-lordow",
+ "paragraphs": [
+  {
+   "start": "Izba Lordów to wyższa, niewybieralna izba parlamen",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/House_of_Lords",
+     "quote": "Unlike the House of Commons, membership of the Lords is not acquired by election."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/House_of_Lords",
+     "quote": "For much of its history, hereditary peers were members of the House of Lords, and indeed made up the majority of the body's membership."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/House_of_Lords",
+     "quote": "The House of Lords also includes up to 26 archbishops and bishops of the Church of England, known as Lords Spiritual."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/House_of_Lords",
+     "quote": "the House of Lords, through the law lords, acted as the final court of appeal in the United Kingdom judicial system until the establishment of the Supreme Court in 2009."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Parliament_Act_1911",
+     "quote": "The Parliament Act 1911 (1 & 2 Geo. 5. c. 13) asserted the supremacy of the House of Commons by limiting the legislation-blocking powers of the House of Lords (the suspensory veto)."
+    }
+   ]
+  },
+  {
+   "start": "Spór o „budżet ludowy” Davida Lloyda George’a zak",
+   "quotes": [
+    {
+     "file": "src/content/postacie/david-lloyd-george.md",
+     "quote": "Jego „budżet ludowy” z 1909 roku, który podnosił podatki od najbogatszych, by sfinansować emerytury i flotę, wywołał wojnę z Izbą Lordów i kryzys konstytucyjny."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Parliament_Act_1911",
+     "quote": "The Parliament Act 1911 (1 & 2 Geo. 5. c. 13) asserted the supremacy of the House of Commons by limiting the legislation-blocking powers of the House of Lords (the suspensory veto)."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Parliament_Act_1911",
+     "quote": "If they have been sent up to the House of Lords at least one month before the end of the session, money bills can be delayed for up to one month after being sent up, and other bills can be delayed for up to one year after being sent up. The period for which bills other than money bills could be delayed was originally two years."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Parliament_Act_1911",
+     "quote": "The act abolished any power of the House of Lords to veto any public bill introduced in the House of Commons other than a bill containing any provision to extend the maximum duration of Parliament beyond five years or a bill for confirming a provisional order."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Parliament_Act_1911",
+     "quote": "It was used in relation to the Government of Ireland Act 1914, which had been under the threat of a Lords veto, now removed. Ulster Protestants had been firmly against the passing of the bill. However, the Government of Ireland Act 1914 never came into force because of the outbreak of the First World War. Amendments to the Parliament Act 1911 were made to prolong the life of the 1910 parliament following the outbreak of the First World War"
+    }
+   ]
+  },
+  {
+   "start": "Wojenne ustawy przechodziły przez izbę szybko.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/ustawa-o-obronie-krolestwa.md",
+     "quote": "8 sierpnia 1914 roku, cztery dni po tym, jak Wielka Brytania wypowiedziała wojnę Niemcom, ustawa o obronie królestwa (Defence of the Realm Act) otrzymała sankcję królewską."
+    },
+    {
+     "file": "src/content/timeline/1914/08/ustawa-o-obronie-krolestwa.md",
+     "quote": "8 sierpnia projekt trafił do Izby Lordów. Lordowie zawiesili przepis regulaminu, by przeprowadzić wszystkie czytania na jednym posiedzeniu, zrezygnowali z prac w komisji i uchwalili ustawę."
+    },
+    {
+     "file": "src/content/timeline/1915/07/ustawa-o-amunicji-wojennej.md",
+     "quote": "2 lipca 1915 roku sankcję królewską otrzymał Munitions of War Act, czyli ustawa o amunicji wojennej."
+    },
+    {
+     "file": "src/content/timeline/1915/07/ustawa-o-amunicji-wojennej.md",
+     "quote": "Izba Gmin skończyła pracę nad projektem nad ranem 2 lipca, a Izba Lordów przyjęła go jeszcze tego samego popołudnia, na jednym posiedzeniu, po czym w obu izbach ogłoszono sankcję królewską."
+    },
+    {
+     "file": "src/content/timeline/1916/01/izba-gmin-uchwala-pobor.md",
+     "quote": "24 stycznia 1916 roku brytyjska Izba Gmin przyjęła w trzecim czytaniu projekt ustawy o służbie wojskowej (Military Service Bill), która po raz pierwszy w tej wojnie wprowadzała w Wielkiej Brytanii pobór."
+    },
+    {
+     "file": "src/content/timeline/1916/01/izba-gmin-uchwala-pobor.md",
+     "quote": "Izba Lordów przyjęła projekt w kolejnych dniach, w drugim czytaniu nawet bez głosowania, a 27 stycznia ustawa otrzymała sankcję królewską."
+    }
+   ]
+  },
+  {
+   "start": "Ze swoich ław przemawiali członkowie rządu.",
+   "quotes": [
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1914/aug/25/the-war",
+     "quote": "HL Deb 25 August 1914 vol 17 cc501-4"
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1914/aug/25/the-war",
+     "quote": "My Lords, as this is the first time that I have had the honour of addressing your Lordships, I must ask for the indulgence of the House."
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1914/aug/25/the-war",
+     "quote": "my position on this Bench does not in any way imply that I belong to any political Party, for, as a soldier, I have no politics. Another point is that my occupation of the post of Secretary of State for War is a temporary one. The terms of my service are the same as those under which some of the finest portions of our manhood, now so willingly stepping forward to join the Colours, are engaging—that is to say, for the war, or, if it lasts longer than three years, then for three years."
+    },
+    {
+     "file": "src/content/postacie/edward-grey.md",
+     "quote": "W lipcu 1916 roku, by zmniejszyć swoje obciążenie, przyjął tytuł wicehrabiego Grey of Fallodon i przeszedł do Izby Lordów"
+    },
+    {
+     "file": "src/content/timeline/1916/12/gabinet-wojenny.md",
+     "quote": "Obok premiera, liberała, zasiedli w nim: konserwatysta lord Curzon, dawny wicekról Indii, jako lord przewodniczący Rady i przywódca Izby Lordów"
+    },
+    {
+     "file": "src/content/timeline/1917/12/dymisja-jellicoe.md",
+     "quote": "Około szóstej wieczorem 24 grudnia 1917 roku admirał John Jellicoe"
+    },
+    {
+     "file": "src/content/timeline/1917/12/dymisja-jellicoe.md",
+     "quote": "Jak tłumaczył, zrobił to przez wzgląd na marynarkę, która dostawała mało odznaczeń, by mieć w Izbie Lordów mównicę na wypadek błędnych decyzji wobec floty"
+    }
+   ]
+  },
+  {
+   "start": "25 kwietnia 1916 roku lordowie obradowali na tajny",
+   "quotes": [
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1916/apr/25/the-secret-session",
+     "quote": "HL Deb 25 April 1916 vol 21 cc811-8"
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1916/apr/25/the-secret-session",
+     "quote": "THE MARQUESS OF CREWE My Lords, I rise to move that the sitting of the House this day shall be secret."
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1916/apr/25/the-secret-session",
+     "quote": "they have not agreed as to the number or the kind of men who are available for service in the Navy and the Army"
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1916/apr/25/the-secret-session",
+     "quote": "My Lords, I do not rise on behalf of my friends who sit on this Bench with any desire of resisting the Motion which the noble Marquess has made, although, of course, it is one absolutely unprecedented, as I believe, in the whole course of the long history which belongs to your Lordships' House."
+    },
+    {
+     "url": "https://api.parliament.uk/historic-hansard/lords/1916/apr/25/the-secret-session",
+     "quote": "something in the nature of a protest against the assumption that the House would sanction this proceeding before they had been consulted upon it."
+    },
+    {
+     "file": "src/content/timeline/1918/02/brytyjki-otrzymuja-prawo-glosu.md",
+     "quote": "Na ich czele mógł stanąć lord George Curzon, członek gabinetu wojennego i przewodniczący Narodowej Ligi Przeciwników Prawa Wyborczego Kobiet. 10 stycznia 1918 roku Curzon oświadczył jednak, że nie zagłosuje ani za odrzuceniem artykułu, ani przeciw, bo Izba Gmin przywróciłaby go, a lordowie przegraliby spór."
+    },
+    {
+     "file": "src/content/timeline/1918/02/brytyjki-otrzymuja-prawo-glosu.md",
+     "quote": "Poprawkę lorda Loreburna, który chciał wykreślić prawa kobiet, odrzucono 134 głosami przeciw 71."
+    }
+   ]
+  },
+  {
+   "start": "Najgłośniejszy wojenny spór wywołał lord Lansdowne",
+   "quotes": [
+    {
+     "url": "https://wshc.org.uk/lord-lansdowne-peace-letter/",
+     "quote": "Back in London he was made War Secretary (1895-1900) and then Foreign Secretary (1900 – 1905). He was Leader of the Unionist peers from 1903- 1916."
+    },
+    {
+     "file": "src/content/timeline/1916/11/koniec-bitwy-nad-somma.md",
+     "quote": "13 listopada, w przeddzień ostatnich natarć, minister bez teki, lord Lansdowne, przedstawił gabinetowi memoriał, w którym pytał, czy wobec takich strat Wielka Brytania może jeszcze liczyć na zwycięstwo, i sugerował rozważenie pokoju."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lansdowne_letter",
+     "quote": "On 13 November 1916, Lansdowne circulated a paper to the Cabinet in which he argued that the war would destroy civilisation and that therefore peace should be negotiated on the basis of the status quo ante bellum."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lansdowne_letter",
+     "quote": "Dawson was \"appalled\" and decided that publication would not be in the national interest. Lansdowne also showed the text to the Foreign Office, which did not veto it. He then offered the letter to The Daily Telegraph, which accepted it."
+    },
+    {
+     "url": "https://wshc.org.uk/lord-lansdowne-peace-letter/",
+     "quote": "This time he went public, with a letter printed in the Daily Telegraph on 29 November 1917."
+    },
+    {
+     "url": "https://wshc.org.uk/lord-lansdowne-peace-letter/",
+     "quote": "“We are not going to lose this war, but its prolongation will spell ruin for the civilised world, and an infinite addition to the load of human suffering which already weighs upon it…"
+    },
+    {
+     "url": "https://wshc.org.uk/lord-lansdowne-peace-letter/",
+     "quote": "President Wilson’s ‘fourteen points’ were widely seen to be on Lansdowne lines, and he pressed on with further letters in March and July, supplemented by Lord’s speeches, calling for a careful restatement of war aims."
+    }
+   ]
+  },
+  {
+   "start": "Bonar Law i większość prasy potępili list, a gener",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Lansdowne_letter",
+     "quote": "Bonar Law publicly criticised Lansdowne's letter, although U.S. President Woodrow Wilson was said to be \"impressed\" by the letter's arguments."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lansdowne_letter",
+     "quote": "Military leaders dismissed Lansdowne's proposals."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lansdowne_letter",
+     "quote": "Most of the British press was critical of Lansdowne's proposals. The Times attacked it, as did The Morning Post and the Daily Mail. The Manchester Guardian and the Daily News welcomed the letter, as did the German press."
+    },
+    {
+     "url": "https://wshc.org.uk/lord-lansdowne-peace-letter/",
+     "quote": "He received a large mailbag of which ‘The prevailing note is, “you have had the courage to say what we have been thinking for ever so long”’, he told his daughter."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/House_of_Lords",
+     "quote": "It was not meant to be a permanent solution; more comprehensive reforms were planned. Neither party, however, pursued reforms with much enthusiasm, and the House of Lords remained primarily hereditary. The Parliament Act 1949 reduced the delaying power of the House of Lords further to two sessions or one year."
+    }
+   ]
+  }
+ ]
+}

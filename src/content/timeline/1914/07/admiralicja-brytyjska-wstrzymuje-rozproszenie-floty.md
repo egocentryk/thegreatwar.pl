@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-W niedzielę 26 lipca 1914 roku w niemal pustym gmachu [Admiralicji](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) w Londynie zapadła jedna z najważniejszych decyzji brytyjskiej marynarki wojennej tego lata. Pierwszy Lord Morski, admirał książę [Ludwik Battenberg](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)), polecił, by okręty Pierwszej Floty pozostały skoncentrowane w Portland, zamiast rozejść się do portów macierzystych. Jednostki Drugiej Floty miały z kolei czekać w swoich bazach w pobliżu załóg.
+W niedzielę 26 lipca 1914 roku w niemal pustym gmachu [Admiralicji](/slownik/admiralicja) w Londynie zapadła jedna z najważniejszych decyzji brytyjskiej marynarki wojennej tego lata. Pierwszy Lord Morski, admirał książę [Ludwik Battenberg](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)), polecił, by okręty Pierwszej Floty pozostały skoncentrowane w Portland, zamiast rozejść się do portów macierzystych. Jednostki Drugiej Floty miały z kolei czekać w swoich bazach w pobliżu załóg.
 
 Tło tej decyzji sięgało kilku miesięcy wstecz. Pierwszy Lord Admiralicji [Winston Churchill](/postacie/winston-churchill) zrezygnował w 1914 roku z corocznych manewrów floty, głównie ze względów oszczędnościowych. W ich miejsce przeprowadzono próbną mobilizację, która pozwoliła w pełni obsadzić załogami także okręty rezerwowe. W lipcu na redzie [Spithead](https://pl.wikipedia.org/wiki/Spithead) odbył się wielki przegląd floty z udziałem króla [Jerzego V](/postacie/jerzy-v). Po jego zakończeniu okręty miały się rozproszyć, a rezerwiści wrócić do domów.
 

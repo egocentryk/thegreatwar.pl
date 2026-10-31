@@ -22,7 +22,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Mikhail_Rodzianko"
 ---
 
-Michaił Władimirowicz Rodzianko był przez sześć lat przewodniczącym rosyjskiej [Dumy Państwowej](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) i jej najbardziej rozpoznawalną twarzą. Ziemianin, dawny oficer gwardii i przekonany monarchista konstytucyjny, przez całą wojnę ostrzegał [Mikołaja II](/postacie/mikolaj-ii), że rządy ludzi bez zaufania kraju i wpływy [Grigorija Rasputina](/postacie/grigorij-rasputin) prowadzą monarchię do upadku. Gdy w marcu 1917 roku zbuntował się garnizon Piotrogrodu, stanął na czele Komitetu Tymczasowego Dumy, a jego nocna rozmowa z generałem [Nikołajem Ruzskim](/postacie/nikolaj-ruzski) przesądziła o abdykacji cara. Chciał ocalić dynastię, a przyczynił się do jej końca. Po kilku dniach rewolucja odsunęła go na bok.
+Michaił Władimirowicz Rodzianko był przez sześć lat przewodniczącym rosyjskiej [Dumy Państwowej](/slownik/duma) i jej najbardziej rozpoznawalną twarzą. Ziemianin, dawny oficer gwardii i przekonany monarchista konstytucyjny, przez całą wojnę ostrzegał [Mikołaja II](/postacie/mikolaj-ii), że rządy ludzi bez zaufania kraju i wpływy [Grigorija Rasputina](/postacie/grigorij-rasputin) prowadzą monarchię do upadku. Gdy w marcu 1917 roku zbuntował się garnizon Piotrogrodu, stanął na czele Komitetu Tymczasowego Dumy, a jego nocna rozmowa z generałem [Nikołajem Ruzskim](/postacie/nikolaj-ruzski) przesądziła o abdykacji cara. Chciał ocalić dynastię, a przyczynił się do jej końca. Po kilku dniach rewolucja odsunęła go na bok.
 
 ## Przed wojną
 

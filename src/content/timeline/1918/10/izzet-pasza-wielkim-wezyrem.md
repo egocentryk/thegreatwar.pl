@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 października 1918 roku sułtan [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI) wręczył pieczęć [wielkiego wezyra](https://pl.wikipedia.org/wiki/Wielki_wezyr) generałowi [Ahmedowi İzzetowi Paszy](https://pl.wikipedia.org/wiki/Ahmed_İzzet_Pasza), awansowanemu przy tej okazji na marszałka. Skończyły się w ten sposób ponad pięcioletnie rządy [Komitetu Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu). Wręczenie pieczęci było formalnym aktem nominacji i według tureckich opracowań od tego dnia liczy się urzędowanie jego gabinetu. Brytyjska chronologia wojny podaje datę 13 października, a brytyjskie historie oficjalne piszą ogólnie, że İzzet został mianowany na tydzień przed 20 października.
+14 października 1918 roku sułtan [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI) wręczył pieczęć [wielkiego wezyra](https://pl.wikipedia.org/wiki/Wielki_wezyr) generałowi [Ahmedowi İzzetowi Paszy](https://pl.wikipedia.org/wiki/Ahmed_İzzet_Pasza), awansowanemu przy tej okazji na marszałka. Skończyły się w ten sposób ponad pięcioletnie rządy [Komitetu Jedności i Postępu](/slownik/mlodoturcy). Wręczenie pieczęci było formalnym aktem nominacji i według tureckich opracowań od tego dnia liczy się urzędowanie jego gabinetu. Brytyjska chronologia wojny podaje datę 13 października, a brytyjskie historie oficjalne piszą ogólnie, że İzzet został mianowany na tydzień przed 20 października.
 
 ## Upadek Talata
 
@@ -26,6 +26,6 @@ W nowym gabinecie İzzet sam objął ministerstwo wojny, choć prasa spodziewał
 
 ## Rząd rozejmu
 
-Najpilniejszym zadaniem nowego rządu było jak najszybsze wyjście z wojny. İzzet wypuścił z niewoli generała Charlesa Townshenda, obrońcę [Al-Kutu](/kapitulacja-al-kutu), i wysłał go do Brytyjczyków z wiadomością, że Turcja jest gotowa zawrzeć pokój. Niespełna dwa tygodnie później doprowadziło to do rokowań, w których delegacją osmańską pokierował Rauf. Sam İzzet przez większą część swojego krótkiego urzędowania chorował na [hiszpankę](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki).
+Najpilniejszym zadaniem nowego rządu było jak najszybsze wyjście z wojny. İzzet wypuścił z niewoli generała Charlesa Townshenda, obrońcę [Al-Kutu](/kapitulacja-al-kutu), i wysłał go do Brytyjczyków z wiadomością, że Turcja jest gotowa zawrzeć pokój. Niespełna dwa tygodnie później doprowadziło to do rokowań, w których delegacją osmańską pokierował Rauf. Sam İzzet przez większą część swojego krótkiego urzędowania chorował na [hiszpankę](/slownik/grypa-hiszpanka).
 
 Gabinet przetrwał niespełna cztery tygodnie. Na początku listopada Talat, Enver i Dżemal uciekli nocą z kraju na niemieckim torpedowcu, a İzzeta oskarżono, że im na to pozwolił. 8 listopada podał się do dymisji, a jego następcą został Ahmed Tevfik Pasza.

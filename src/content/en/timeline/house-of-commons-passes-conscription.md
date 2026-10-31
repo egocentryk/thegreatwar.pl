@@ -2,10 +2,10 @@
 title: House of Commons passes conscription
 summary: On 24 January 1916 the House of Commons passed the Military Service Bill on third reading by 383 votes to 36. Conscription was to apply to unmarried men.
 source: izba-gmin-uchwala-pobor
-sourceHash: b9fe23117bb00d2fb2f7a44a47af2ee8328cc273
+sourceHash: 042d7140665df6acb9e4529b9d4bcbaa26342974
 ---
 
-On 24 January 1916 the British [House of Commons](/slownik/izba-gmin) passed on third reading the Military Service Bill, which for the first time in this war introduced [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)) in Great Britain. 383 members voted for the bill and 36 against. According to the *Annual Register*, the minority consisted of thirty Liberals, five Labour members and one Independent Irish Nationalist. The same day the bill went to the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów), which gave it a first reading. The vote closed a stormy but surprisingly short parliamentary battle of less than three weeks.
+On 24 January 1916 the British [House of Commons](/slownik/izba-gmin) passed on third reading the Military Service Bill, which for the first time in this war introduced [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)) in Great Britain. 383 members voted for the bill and 36 against. According to the *Annual Register*, the minority consisted of thirty Liberals, five Labour members and one Independent Irish Nationalist. The same day the bill went to the [House of Lords](/slownik/izba-lordow), which gave it a first reading. The vote closed a stormy but surprisingly short parliamentary battle of less than three weeks.
 
 ## Redeeming the Prime Minister's pledge
 

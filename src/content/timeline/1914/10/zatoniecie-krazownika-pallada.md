@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 października 1914 roku (28 września według kalendarza juliańskiego, obowiązującego wtedy w Rosji) niemiecki okręt podwodny [U-26](https://pl.wikipedia.org/wiki/SM_U-26_(1913)) storpedował u wejścia do [Zatoki Fińskiej](https://pl.wikipedia.org/wiki/Zatoka_Fińska) rosyjski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Pałłada](https://pl.wikipedia.org/wiki/Pałłada_(1906)). Torpeda zdetonowała amunicję okrętu, a krążownik wyleciał w powietrze i zatonął w ciągu kilku chwil. Nikt z załogi nie przeżył.
+11 października 1914 roku (28 września według kalendarza juliańskiego, obowiązującego wtedy w Rosji) niemiecki okręt podwodny [U-26](https://pl.wikipedia.org/wiki/SM_U-26_(1913)) storpedował u wejścia do [Zatoki Fińskiej](https://pl.wikipedia.org/wiki/Zatoka_Fińska) rosyjski [krążownik pancerny](/slownik/krazownik-pancerny) [Pałłada](https://pl.wikipedia.org/wiki/Pałłada_(1906)). Torpeda zdetonowała amunicję okrętu, a krążownik wyleciał w powietrze i zatonął w ciągu kilku chwil. Nikt z załogi nie przeżył.
 
 ## Patrol u wejścia do zatoki
 

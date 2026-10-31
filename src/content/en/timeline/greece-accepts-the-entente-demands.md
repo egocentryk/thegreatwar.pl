@@ -2,7 +2,7 @@
 title: Greece accepts the Entente demands
 summary: On 24 November 1915 Skouloudis's government replied to the Entente note. It gave assurances that Greek troops would not disarm or intern Allied soldiers.
 source: grecja-przyjmuje-zadania-ententy
-sourceHash: 6156e76fec44620e762204286bfacdfb83c97c9e
+sourceHash: 10cb53b266daa723d21159f374e274ffd353841c
 ---
 
 On 24 November 1915, or 11 November in the Julian calendar, the Greek prime minister and foreign minister [Stefanos Skouloudis](/postacie/stefanos-skuludis) handed the ministers of France, Britain, Italy and Russia his reply to the [note they had delivered to him the day before](/nota-ententy-do-grecji). The government in Athens accepted all the powers' demands. The text of the reply, which the Italian minister Carlo De Bosdari sent to Rome on 26 November, was courteous but did not hide its resentment.
@@ -15,7 +15,7 @@ The last sentence mattered most to Athens. Since the powers had received all the
 
 ## Why Athens gave way
 
-Skouloudis did not have much choice. For two weeks he had been explaining to the ministers that Greece, which remained neutral, had to invoke the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) officially but did not intend to apply them to the Allies. As the British author G. F. Abbott, sympathetic to the king, wrote, the prime minister, alarmed by the holding up of supplies, had himself invited the Allies to state their demands and promised to meet them if possible. Four days earlier King [Constantine I](/postacie/konstantyn-i) had given Lord Kitchener his word that the retreating troops would not be interned. The reply of 24 November was thus a written confirmation of what Athens had already promised orally.
+Skouloudis did not have much choice. For two weeks he had been explaining to the ministers that Greece, which remained neutral, had to invoke the [Hague Conventions](/slownik/konwencje-haskie) officially but did not intend to apply them to the Allies. As the British author G. F. Abbott, sympathetic to the king, wrote, the prime minister, alarmed by the holding up of supplies, had himself invited the Allies to state their demands and promised to meet them if possible. Four days earlier King [Constantine I](/postacie/konstantyn-i) had given Lord Kitchener his word that the retreating troops would not be interned. The reply of 24 November was thus a written confirmation of what Athens had already promised orally.
 
 ## Not the end
 

@@ -2,7 +2,7 @@
 title: Assault on Vimy Ridge
 summary: On 9 April 1917, in a snowstorm, four Canadian divisions attacked Vimy Ridge. By evening they held almost all of it except the highest point, Hill 145.
 source: szturm-na-grzbiet-vimy
-sourceHash: 11fe2244d3a0106e3dd0062eed111742f280b72e
+sourceHash: 2cf586b155a4c69fa97c521a6be65b6daae8844a
 brief:
   - "On Easter Monday, 9 April 1917, the Canadian Corps attacked Vimy Ridge. For the first time all four Canadian divisions went into battle together."
   - "The ridge had been fought over for two and a half years, and in 1915 the French twice tried to take it. Lieutenant-General Julian Byng planned the attack to the minute, and every battalion rehearsed its task."
@@ -21,7 +21,7 @@ The Canadians had been preparing for this day all winter. The corps was commande
 
 ## The barrage
 
-At 5.30 a.m., British time, every battery from Arras to the Lorette spur opened fire, and two mines exploded under the German trenches on the left wing. The Canadians were supported by 983 guns and mortars. For three minutes the field guns pounded the first German line, and then the wall of explosions moved forward about 90 metres every three minutes. Ahead of it 150 [Vickers](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Vickers) heavy machine guns swept a belt of ground further back with bullets, while the heavy guns hit the German batteries with high-explosive and gas shells. Many horses of the German artillery teams died from the gas, and the observation posts had been destroyed, so the German artillery fired blind and its shells fell far behind the attackers. The snowstorm blew at the Canadians' backs and into the defenders' faces.
+At 5.30 a.m., British time, every battery from Arras to the Lorette spur opened fire, and two mines exploded under the German trenches on the left wing. The Canadians were supported by 983 guns and mortars. For three minutes the field guns pounded the first German line, and then the wall of explosions moved forward about 90 metres every three minutes. Ahead of it 150 [Vickers](/slownik/karabin-maszynowy) heavy machine guns swept a belt of ground further back with bullets, while the heavy guns hit the German batteries with high-explosive and gas shells. Many horses of the German artillery teams died from the gas, and the observation posts had been destroyed, so the German artillery fired blind and its shells fell far behind the attackers. The snowstorm blew at the Canadians' backs and into the defenders' faces.
 
 The infantry followed close behind the barrage. The ground was terrible: water-filled shell holes, smashed trenches, remnants of wire and huge craters from earlier mines, which had to be skirted. In many places the Canadians reached a German trench before its garrison had time to come out of the dugouts. They left sentries at the exits from the tunnels and went on, while mopping-up parties behind them pulled out the prisoners.
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-22 grudnia 1916 roku w [Izbie Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów) odczytano królewskie pełnomocnictwa zatwierdzające piętnaście ustaw, a wśród nich dwie, które zmieniały kształt brytyjskiej administracji. Ustawa o nowych ministerstwach i sekretarzach (New Ministries and Secretaries Act) powoływała Ministerstwo Pracy, Ministerstwo Żywności i Ministerstwo Żeglugi, a ustawa o Ministerstwie Emerytur (Ministry of Pensions Act) tworzyła osobny resort zajmujący się rentami i emeryturami wojennymi. Z ustawami wiąże się nominacja lorda Devonporta na kontrolera żywności, którą brytyjska chronologia wojny notuje pod 26 grudnia.
+22 grudnia 1916 roku w [Izbie Lordów](/slownik/izba-lordow) odczytano królewskie pełnomocnictwa zatwierdzające piętnaście ustaw, a wśród nich dwie, które zmieniały kształt brytyjskiej administracji. Ustawa o nowych ministerstwach i sekretarzach (New Ministries and Secretaries Act) powoływała Ministerstwo Pracy, Ministerstwo Żywności i Ministerstwo Żeglugi, a ustawa o Ministerstwie Emerytur (Ministry of Pensions Act) tworzyła osobny resort zajmujący się rentami i emeryturami wojennymi. Z ustawami wiąże się nominacja lorda Devonporta na kontrolera żywności, którą brytyjska chronologia wojny notuje pod 26 grudnia.
 
 ## Ministerstwa dla nowego rządu
 

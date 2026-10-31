@@ -16,7 +16,7 @@ Izba Gmin to niższa, wybieralna izba parlamentu Zjednoczonego Królestwa, obrad
 
 ## Izba w czasie wojny
 
-Izba wyrosła ze średniowiecznego parlamentu angielskiego. Od ustawy parlamentarnej z 1911 roku wyraźnie górowała nad [Izbą Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów), która mogła już tylko opóźniać uchwalone przez posłów ustawy. Wojnę spędziła izba wybrana w grudniu 1910 roku na pięć lat, która kolejnymi ustawami przedłużała sobie kadencję.
+Izba wyrosła ze średniowiecznego parlamentu angielskiego. Od ustawy parlamentarnej z 1911 roku wyraźnie górowała nad [Izbą Lordów](/slownik/izba-lordow), która mogła już tylko opóźniać uchwalone przez posłów ustawy. Wojnę spędziła izba wybrana w grudniu 1910 roku na pięć lat, która kolejnymi ustawami przedłużała sobie kadencję.
 
 3 sierpnia 1914 roku [Edward Grey](/postacie/edward-grey) [przekonywał w niej posłów](/wielka-brytania-zapowiada-obrone-neutralnosci-belgii), że [Wielka Brytania](/kraje/wielka-brytania) nie może pozostać obojętna wobec wojny na kontynencie. Kilka dni później izba w pośpiechu przyjęła [ustawę o obronie królestwa](/ustawa-o-obronie-krolestwa), podstawę wojennych rozporządzeń. Najwięcej sporów budził jednak pobór. 24 stycznia 1916 roku posłowie [uchwalili go](/izba-gmin-uchwala-pobor) dla nieżonatych mężczyzn stosunkiem głosów 383 do 36, w maju [objęli nim żonatych](/izba-gmin-uchwala-pobor-zonatych), a w kwietniu 1918 roku, po niemieckiej ofensywie wiosennej, [podnieśli wiek poborowy](/trzecia-ustawa-o-sluzbie-wojskowej) i zgodzili się objąć poborem Irlandię.
 

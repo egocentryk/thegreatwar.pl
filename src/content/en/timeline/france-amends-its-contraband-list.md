@@ -2,10 +2,10 @@
 title: France amends its contraband list
 summary: On 6 November 1914 France issued a new decree on contraband and applying the Declaration of London, almost identical to the British rules of 29 October.
 source: francja-zmienia-liste-kontrabandy
-sourceHash: f4b0553458aea28b000fe769ba3aab4be4a10b74
+sourceHash: ce78d01b81f8e561822f3c8ca42fa40bdd552b4a
 ---
 
-On 6 November 1914 the French government issued a decree on the application in wartime of the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) of 1909. The decree redefined which goods the French navy could treat as contraband of war and when they could be seized on board neutral ships. It tightened earlier French regulations, including the [decree of 25 August](/francja-oglasza-nowy-dekret-o-kontrabandzie).
+On 6 November 1914 the French government issued a decree on the application in wartime of the [Declaration of London](/slownik/deklaracja-londynska) of 1909. The decree redefined which goods the French navy could treat as contraband of war and when they could be seized on board neutral ships. It tightened earlier French regulations, including the [decree of 25 August](/francja-oglasza-nowy-dekret-o-kontrabandzie).
 
 It was a step agreed with London. A week earlier, on 29 October, [Britain had announced new contraband lists and a new order on the application of the Declaration of London](/nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska). France, which since the start of the war had pursued a common policy with the British on seaborne trade, adopted essentially the same rules. The official American collection of diplomatic documents from this period noted that the French decree was "in substance identical" in wording with the British acts.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Nad ranem 28 października 1915 roku, około 4.30, brytyjski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) Argyll wszedł w sztormie na podwodną skałę Bell Rock, zwaną też Inchcape Rock, u wschodnich wybrzeży Szkocji. Rafa leży na Morzu Północnym, około 18 kilometrów od portu [Arbroath](https://pl.wikipedia.org/wiki/Arbroath), naprzeciw ujścia [Firth of Tay](https://pl.wikipedia.org/wiki/Firth_of_Tay). Od ponad stu lat stała na niej [latarnia morska](https://pl.wikipedia.org/wiki/Latarnia_morska_Bell_Rock), ale tej nocy była ciemna. Okręt nie nadawał się już do ratowania, za to cała jego licząca około 600 ludzi załoga przeżyła.
+Nad ranem 28 października 1915 roku, około 4.30, brytyjski [krążownik pancerny](/slownik/krazownik-pancerny) Argyll wszedł w sztormie na podwodną skałę Bell Rock, zwaną też Inchcape Rock, u wschodnich wybrzeży Szkocji. Rafa leży na Morzu Północnym, około 18 kilometrów od portu [Arbroath](https://pl.wikipedia.org/wiki/Arbroath), naprzeciw ujścia [Firth of Tay](https://pl.wikipedia.org/wiki/Firth_of_Tay). Od ponad stu lat stała na niej [latarnia morska](https://pl.wikipedia.org/wiki/Latarnia_morska_Bell_Rock), ale tej nocy była ciemna. Okręt nie nadawał się już do ratowania, za to cała jego licząca około 600 ludzi załoga przeżyła.
 
 ## Ciemna latarnia
 

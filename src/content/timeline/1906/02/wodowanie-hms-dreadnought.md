@@ -16,7 +16,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)"
 ---
 
-10 lutego 1906 roku w stoczni marynarki wojennej w [Portsmouth](https://pl.wikipedia.org/wiki/Portsmouth) król [Edward VII](https://pl.wikipedia.org/wiki/Edward_VII) zwodował [HMS Dreadnought](https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)), najbardziej nowoczesny okręt liniowy świata. Kadłub zszedł na wodę zaledwie cztery miesiące po położeniu stępki. Nowy pancernik miał dziesięć dział kalibru 305 mm i żadnych dział średniego kalibru, a jako pierwszy pancernik miał napęd [turbinowy](https://pl.wikipedia.org/wiki/Turbina_parowa). Jego nazwa, „Nie bój się niczego”, stała się nazwą całej generacji okrętów, a wszystkie starsze pancerniki zaczęto nazywać [przeddrednotami](https://pl.wikipedia.org/wiki/Przeddrednot).
+10 lutego 1906 roku w stoczni marynarki wojennej w [Portsmouth](https://pl.wikipedia.org/wiki/Portsmouth) król [Edward VII](https://pl.wikipedia.org/wiki/Edward_VII) zwodował [HMS Dreadnought](https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)), najbardziej nowoczesny okręt liniowy świata. Kadłub zszedł na wodę zaledwie cztery miesiące po położeniu stępki. Nowy pancernik miał dziesięć dział kalibru 305 mm i żadnych dział średniego kalibru, a jako pierwszy pancernik miał napęd [turbinowy](https://pl.wikipedia.org/wiki/Turbina_parowa). Jego nazwa, „Nie bój się niczego”, stała się nazwą całej generacji okrętów, a wszystkie starsze pancerniki zaczęto nazywać [przeddrednotami](/slownik/drednot).
 
 ## Pomysł Fishera
 

@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Pallada
 summary: On 11 October 1914 the German U-26 torpedoed the Russian cruiser Pallada at the entrance to the Gulf of Finland. The ship blew up with all hands.
 source: zatoniecie-krazownika-pallada
-sourceHash: 9031b1c4615aa6566979f356ed03260d1f770bf6
+sourceHash: 5bbd01b524b989d2ad2a7c44da6c970403ae4e5d
 ---
 
-On 11 October 1914 (28 September by the Julian calendar then in use in Russia) the German submarine [U-26](https://pl.wikipedia.org/wiki/SM_U-26_(1913)) torpedoed the Russian [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [*Pallada*](https://pl.wikipedia.org/wiki/Pałłada_(1906)) at the entrance to the [Gulf of Finland](https://pl.wikipedia.org/wiki/Zatoka_Fińska). The torpedo detonated the ship's ammunition, and the cruiser blew up and sank within moments. None of the crew survived.
+On 11 October 1914 (28 September by the Julian calendar then in use in Russia) the German submarine [U-26](https://pl.wikipedia.org/wiki/SM_U-26_(1913)) torpedoed the Russian [armoured cruiser](/slownik/krazownik-pancerny) [*Pallada*](https://pl.wikipedia.org/wiki/Pałłada_(1906)) at the entrance to the [Gulf of Finland](https://pl.wikipedia.org/wiki/Zatoka_Fińska). The torpedo detonated the ship's ammunition, and the cruiser blew up and sank within moments. None of the crew survived.
 
 ## Patrol at the entrance to the gulf
 

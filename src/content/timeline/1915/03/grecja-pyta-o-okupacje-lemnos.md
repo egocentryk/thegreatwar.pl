@@ -22,7 +22,7 @@ Status Lemnos był przy tym niejasny. Grecka flota zajęła wyspę jesienią 191
 
 Na początku marca wyspa szybko zapełniała się żołnierzami. 4 marca do Mudros przybyła z Egiptu 3 Brygada australijska, a w drodze były Dywizja Marynarki (Royal Naval Division) i francuska dywizja. Według niektórych relacji brytyjskie wojska zeszły na ląd w Mudros 6 marca, właśnie w dniu dymisji Wenizelosa. Krótki pobyt kilku okrętów zamieniał się w koncentrację armii, której celem był półwysep Gallipoli.
 
-Dla obozu króla [Konstantyna I](/postacie/konstantyn-i), który chciał utrzymać ścisłą neutralność, było to trudne do przyjęcia. Zgodnie z jedną z [konwencji haskich](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) z 1907 roku terytorium państwa neutralnego było nietykalne, a wojska stron walczących nie mogły przez nie przechodzić. Sprzyjający królowi grecki autor S.P.P. Cosmetatos pisał w 1928 roku, że zajęcie Lemnos było jawnym naruszeniem tych zasad. Nawet w amerykańskim piśmie prawa międzynarodowego przyznawano w 1918 roku, że aliantów usprawiedliwiała tylko milcząca zgoda rządu Wenizelosa.
+Dla obozu króla [Konstantyna I](/postacie/konstantyn-i), który chciał utrzymać ścisłą neutralność, było to trudne do przyjęcia. Zgodnie z jedną z [konwencji haskich](/slownik/konwencje-haskie) z 1907 roku terytorium państwa neutralnego było nietykalne, a wojska stron walczących nie mogły przez nie przechodzić. Sprzyjający królowi grecki autor S.P.P. Cosmetatos pisał w 1928 roku, że zajęcie Lemnos było jawnym naruszeniem tych zasad. Nawet w amerykańskim piśmie prawa międzynarodowego przyznawano w 1918 roku, że aliantów usprawiedliwiała tylko milcząca zgoda rządu Wenizelosa.
 
 ## Kto pytał?
 

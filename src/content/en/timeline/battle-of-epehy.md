@@ -2,7 +2,7 @@
 title: Battle of Épehy
 summary: On 18 September 1918, in rain and fog, the British and Australians attacked the outposts of the Hindenburg Line. They took over 9,000 prisoners and Épehy.
 source: bitwa-pod-epehy-1918
-sourceHash: 9599b5d6d434bd962a5085fa981a3acd6acf3e12
+sourceHash: 39df60e870f585c247151599286f5c7105eea0fb
 brief:
   - "At 5.20 a.m. on 18 September 1918, in pouring rain and thick fog, General Henry Rawlinson's British Fourth Army and the right wing of the Third Army advanced against the outer Hindenburg Line between Saint-Quentin and Gouzeaucourt."
   - "Rawlinson relied on surprise, as at Amiens: there was no preliminary bombardment, and the 1,488 guns opened fire only at zero hour. There were only twenty tanks, so canvas dummies were set up as well."
@@ -17,7 +17,7 @@ On 18 September 1918 at 5.20 a.m., in pouring rain and thick fog, General [Henry
 
 Orders for the attack were issued on 13 and 14 September. For several days the British and Australians gained better jumping-off positions with small attacks, and from 15 September, when the weather cleared, aircraft photographed the whole outpost zone. Rawlinson relied on surprise, as at Amiens on 8 August. There was no preliminary bombardment, and the 1,488 guns were to open fire only at zero hour. There were only twenty tanks, because the rest were being saved for the assault on the main line, so dummies of canvas on wooden frames were set up near the jumping-off positions and dragged a little way forward before dawn.
 
-During the night of 17–18 September a storm with torrential rain and gales swept across the front, and after a short break, at about one o'clock, while the infantry were assembling in position, it began to pour again. The Germans shelled the assembly area with gas. Holnon Wood on the right flank was so saturated with gas that the brigades of the 6th Division had to go round it in the dark. The men of the 74th and 58th Divisions had already suffered considerable losses from [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy) on 17 September.
+During the night of 17–18 September a storm with torrential rain and gales swept across the front, and after a short break, at about one o'clock, while the infantry were assembling in position, it began to pour again. The Germans shelled the assembly area with gas. Holnon Wood on the right flank was so saturated with gas that the brigades of the 6th Division had to go round it in the dark. The men of the 74th and 58th Divisions had already suffered considerable losses from [mustard gas](/slownik/gaz-bojowy) on 17 September.
 
 ## Morning
 

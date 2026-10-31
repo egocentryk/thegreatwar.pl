@@ -2,10 +2,10 @@
 title: Red Terror
 summary: On 5 September 1918 the Council of People's Commissars adopted the resolution "On the Red Terror". The Cheka could shoot "class enemies" or hold them in camps.
 source: czerwony-terror
-sourceHash: 65ca815a962d998bc17cc7a0eef197d9a82cffec
+sourceHash: 73902c5a4cb8b6dba045257dad6e3a2518bd6446
 ---
 
-On 5 September 1918 the [Council of People's Commissars](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR), meeting in the Kremlin, heard a report from the chairman of the [Cheka](https://pl.wikipedia.org/wiki/Czeka), [Felix Dzerzhinsky](/postacie/feliks-dzierzynski), and adopted a short resolution "On the Red Terror". It stated that in the present situation "securing the rear by means of terror is a direct necessity". Five days after the [attempt on Lenin's life](/zamach-na-lenina) and the assassination of the head of the Petrograd Cheka, Moisei Uritsky, the mass repression that had already been going on throughout the country for several days was given a basis in a government act. 5 September is usually regarded as the official beginning of the [Red Terror](https://pl.wikipedia.org/wiki/Czerwony_terror).
+On 5 September 1918 the [Council of People's Commissars](/slownik/rada-komisarzy-ludowych), meeting in the Kremlin, heard a report from the chairman of the [Cheka](https://pl.wikipedia.org/wiki/Czeka), [Felix Dzerzhinsky](/postacie/feliks-dzierzynski), and adopted a short resolution "On the Red Terror". It stated that in the present situation "securing the rear by means of terror is a direct necessity". Five days after the [attempt on Lenin's life](/zamach-na-lenina) and the assassination of the head of the Petrograd Cheka, Moisei Uritsky, the mass repression that had already been going on throughout the country for several days was given a basis in a government act. 5 September is usually regarded as the official beginning of the [Red Terror](https://pl.wikipedia.org/wiki/Czerwony_terror).
 
 ## Content of the resolution
 

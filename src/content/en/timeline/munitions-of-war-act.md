@@ -2,10 +2,10 @@
 title: Munitions of War Act
 summary: On 2 July 1915 the British Munitions of War Act came into force. It banned strikes in the armaments industry and placed factories under state control.
 source: ustawa-o-amunicji-wojennej
-sourceHash: 8190373670d81cdc45a8a9465fc40907be0af22b
+sourceHash: d66e0f55cc49442b7f80eb74e2a1614e0cb086fd
 ---
 
-On 2 July 1915 the Munitions of War Act received royal assent. Its provisions came into force the same day. The Act placed the British armaments industry under state control, banned [strikes](https://pl.wikipedia.org/wiki/Strajk) and [lock-outs](https://pl.wikipedia.org/wiki/Lokaut) in it, and required disputes between workers and employers to be settled by compulsory [arbitration](https://pl.wikipedia.org/wiki/Arbitraż_(prawo)). Parliament passed it at express speed. The [House of Commons](/slownik/izba-gmin) finished work on the bill in the early hours of 2 July, and the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów) passed it that same afternoon, at a single sitting, after which royal assent was announced in both Houses.
+On 2 July 1915 the Munitions of War Act received royal assent. Its provisions came into force the same day. The Act placed the British armaments industry under state control, banned [strikes](https://pl.wikipedia.org/wiki/Strajk) and [lock-outs](https://pl.wikipedia.org/wiki/Lokaut) in it, and required disputes between workers and employers to be settled by compulsory [arbitration](https://pl.wikipedia.org/wiki/Arbitraż_(prawo)). Parliament passed it at express speed. The [House of Commons](/slownik/izba-gmin) finished work on the bill in the early hours of 2 July, and the [House of Lords](/slownik/izba-lordow) passed it that same afternoon, at a single sitting, after which royal assent was announced in both Houses.
 
 ## The shell crisis and the Treasury Agreement
 

@@ -2,7 +2,7 @@
 title: Internment of Prinz Eitel Friedrich
 summary: On 8 April 1915 the German auxiliary cruiser Prinz Eitel Friedrich, at Newport News since March, agreed to be interned in the United States.
 source: internowanie-prinz-eitel-friedrich
-sourceHash: e234d10b940fbfff1845982205fd4c3ea3862382
+sourceHash: 53f96e46bbbc2206a218a31aee722454af0052d7
 ---
 
 On 8 April 1915 the commander of the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Prinz Eitel Friedrich*, Lieutenant Commander Max Thierichens, informed the American authorities that his ship would not put to sea and would be interned. For nearly a month she had lain in the port of [Newport News](https://pl.wikipedia.org/wiki/Newport_News) in Virginia, and at midnight the previous day the deadline set for her had expired. Sources give different dates for the internment itself, from 7 to 9 April. So ended a raid that had begun in August 1914 in Tsingtao.
@@ -15,7 +15,7 @@ She had nowhere to land the crews of the ships she sank, so she carried them wit
 
 ## The deadline
 
-A neutral state could allow a warship of a belligerent to stay in port longer than 24 hours only for the time needed for the repairs essential for her to put to sea safely. She could also take on only as much fuel as she needed to reach the nearest port of her own country. If she did not sail when the time allowed had expired, the neutral government was to detain her until the end of the war and intern her crew. This was laid down by the [Hague Convention XIII](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) of 1907. The Americans examined the ship and concluded that the repairs would take a dozen or so working days. The deadline for putting to sea was set at midnight on 7 April.
+A neutral state could allow a warship of a belligerent to stay in port longer than 24 hours only for the time needed for the repairs essential for her to put to sea safely. She could also take on only as much fuel as she needed to reach the nearest port of her own country. If she did not sail when the time allowed had expired, the neutral government was to detain her until the end of the war and intern her crew. This was laid down by the [Hague Convention XIII](/slownik/konwencje-haskie) of 1907. The Americans examined the ship and concluded that the repairs would take a dozen or so working days. The deadline for putting to sea was set at midnight on 7 April.
 
 For a long time Thierichens did not reveal whether he would try to break out into the Atlantic. Just beyond the limit of territorial waters, at the entrance to [Chesapeake Bay](https://pl.wikipedia.org/wiki/Chesapeake_(zatoka)), British cruisers were waiting, however. The slow and worn-out liner stood no chance against them. When the deadline had passed, Thierichens therefore agreed to internment, as the commanders of the [*Cormoran* at Guam](/internowanie-cormorana-na-guamie) and of the gunboat *Geier* at Honolulu had done before him.
 

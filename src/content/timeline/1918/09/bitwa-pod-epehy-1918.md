@@ -24,7 +24,7 @@ brief:
 
 Rozkazy na natarcie wyszły 13 i 14 września. Przez kilka dni Brytyjczycy i Australijczycy małymi atakami zdobywali lepsze pozycje wyjściowe, a od 15 września, gdy się przejaśniło, lotnictwo sfotografowało całe przedpole. Rawlinson postawił na zaskoczenie, jak 8 sierpnia pod Amiens. Nie było wstępnego ostrzału, a 1488 dział miało otworzyć ogień dopiero w godzinie zero. Czołgów było tylko dwadzieścia, bo resztę oszczędzano na szturm głównej linii, więc przy pozycjach wyjściowych ustawiono atrapy z płótna na drewnianych ramach, które przed świtem przeciągnięto kawałek do przodu.
 
-Nocą z 17 na 18 września przez front przeszła burza z ulewą i wichurą, a po chwili przerwy, około pierwszej, gdy piechota zbierała się na stanowiskach, znów zaczęło lać. Niemcy ostrzeliwali rejon zbiórki gazem. Las Holnon na prawym skrzydle był tak przesycony gazem, że brygady 6 Dywizji musiały go w ciemności obchodzić. Żołnierze 74 i 58 Dywizji jeszcze 17 września ponieśli spore straty od [iperytu](https://pl.wikipedia.org/wiki/Iperyt_siarkowy).
+Nocą z 17 na 18 września przez front przeszła burza z ulewą i wichurą, a po chwili przerwy, około pierwszej, gdy piechota zbierała się na stanowiskach, znów zaczęło lać. Niemcy ostrzeliwali rejon zbiórki gazem. Las Holnon na prawym skrzydle był tak przesycony gazem, że brygady 6 Dywizji musiały go w ciemności obchodzić. Żołnierze 74 i 58 Dywizji jeszcze 17 września ponieśli spore straty od [iperytu](/slownik/gaz-bojowy).
 
 ## Rano
 

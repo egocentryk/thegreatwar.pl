@@ -6,7 +6,7 @@ country: Portugal
 birthPlace: Caminha (Portugal)
 deathPlace: Lisbon
 source: sidonio-pais
-sourceHash: 79e69ec5b9a56f9020352a615e1e5155d9ebe3a2
+sourceHash: 9db459a000191200a799c415b1bd01e4d044a553
 ---
 
 Sidónio Bernardino Cardoso da Silva Pais ruled Portugal for less than a year, from a coup d'état in December 1917 until his death at an assassin's hand in December 1918. It was the year in which Portuguese troops suffered in Flanders one of the heaviest defeats in their history, and the country, exhausted by high prices, strikes and epidemics, stood on the brink of civil war. Pais came to power as an opponent of the government that had drawn Portugal into the war on the side of the Entente, and many considered him a Germanophile. Yet he did not take Portugal out of the war. Instead he built Portugal's first presidential system, in which he was himself both head of state and head of government, and his supporters surrounded him with a cult. To some he was the saviour of the fatherland and a martyr, to others a dictator and a harbinger of Salazar's authoritarian state.
@@ -41,7 +41,7 @@ After the defeat the remnants of the corps were split up among British units and
 
 ## Fall and death
 
-From the summer of 1918 the situation in the country deteriorated rapidly. High prices, food shortages, strikes and, in the autumn, the [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki) and typhus, which killed tens of thousands of people in Portugal, eroded his support. Plots and attempted revolts multiplied, and on 13 October the government declared a state of siege and dealt harshly with the opposition. At the same time the garrison officers, mostly monarchists, formed "military juntas" that paid less and less heed to the president. The end of the war and the armistice of 11 November changed little. Portugal did not even have the ships to bring its soldiers home from France.
+From the summer of 1918 the situation in the country deteriorated rapidly. High prices, food shortages, strikes and, in the autumn, the [Spanish flu](/slownik/grypa-hiszpanka) and typhus, which killed tens of thousands of people in Portugal, eroded his support. Plots and attempted revolts multiplied, and on 13 October the government declared a state of siege and dealt harshly with the opposition. At the same time the garrison officers, mostly monarchists, formed "military juntas" that paid less and less heed to the president. The end of the war and the armistice of 11 November changed little. Portugal did not even have the ships to bring its soldiers home from France.
 
 On 5 December 1918 Pais escaped a first assassination attempt. Nine days later, [on 14 December, at Lisbon's Rossio station](/zamach-na-sidonia-paisa), as he was going to the night train to Porto, he was shot by a former sergeant, José Júlio da Costa, who was linked to the radical left. The president died in hospital the same night. He was 46. Tens of thousands of people came to his funeral. He was buried in Lisbon's [Jerónimos Monastery](https://pl.wikipedia.org/wiki/Klasztor_Hieronimitów), and in 1966 his remains were moved to the [National Pantheon](https://pl.wikipedia.org/wiki/Panteon_Narodowy_w_Lizbonie). Two days after the assassination Congress [elected as president](/canto-e-castro-prezydentem) Admiral João do Canto e Castro. Without Pais his camp quickly fell apart. In January 1919 the monarchists proclaimed the restoration of the monarchy in Porto, and after that attempt failed, the old republican parties returned to power.
 

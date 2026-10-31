@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-4 września 1914 roku, według brytyjskiej chronologii wojny, rząd Niemiec oświadczył, że będzie przestrzegać [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) o prawie wojny morskiej, jeśli inne walczące państwa zrobią to samo. Jednocześnie Niemcy przedstawiły listę towarów, które uznawały za kontrabandę wojenną.
+4 września 1914 roku, według brytyjskiej chronologii wojny, rząd Niemiec oświadczył, że będzie przestrzegać [deklaracji londyńskiej](/slownik/deklaracja-londynska) o prawie wojny morskiej, jeśli inne walczące państwa zrobią to samo. Jednocześnie Niemcy przedstawiły listę towarów, które uznawały za kontrabandę wojenną.
 
 ## Stanowisko Berlina
 

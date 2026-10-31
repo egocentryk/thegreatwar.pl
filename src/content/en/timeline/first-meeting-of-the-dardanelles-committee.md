@@ -2,7 +2,7 @@
 title: First meeting of the Dardanelles Committee
 summary: On 7 June 1915 the Dardanelles Committee met for the first time. Kitchener persuaded it to send Hamilton three New Army divisions and new warships.
 source: pierwsze-posiedzenie-komitetu-dardanelskiego
-sourceHash: 89fcc3d47e340bcced35ae20f7b9afee4fe0ab92
+sourceHash: 8bca2e6c88a759cc4504829f19d13ddce9b4997b
 ---
 
 On the afternoon of 7 June 1915 the Dardanelles Committee, the British government's new body for the conduct of the war, met for the first time in London. It replaced the War Council, which had [last met on 14 May](/ostatnie-posiedzenie-rady-wojennej). Since then the purely Liberal government had fallen and been replaced by a [coalition cabinet](/rzad-koalicyjny-asquitha) that included the Conservatives. During those three weeks nobody had decided what to do next with the expedition to [Gallipoli](/bitwy/kampania-gallipolijska), although General [Ian Hamilton](/postacie/ian-hamilton)'s request for reinforcements had been awaiting an answer since 17 May.
@@ -17,7 +17,7 @@ In the preceding days the new ministers had been familiarising themselves with s
 
 The committee took up Hamilton's telegram of 17 May. The general had written that if the situation in the Balkans did not change he would need four additional divisions in all. Kitchener came out firmly in favour of pursuing the campaign with full energy. He announced that, in addition to the Scottish 52nd (Lowland) Territorial Division, already sent earlier, he would give Hamilton three divisions of the New Army, the volunteer formations raised since August 1914. He also declared that he could not continue to be responsible for the conduct of the war if it were decided to give up the attack on the Gallipoli peninsula. According to Churchill, the members of the committee received this with relief, and the decision was unanimous.
 
-It was decided to send Hamilton the three remaining divisions of the first New Army, the 10th, 11th and 13th, so that he could strike in the second week of July. The fleet was to receive ships less vulnerable to U-boat attack than Admiral de Robeck's old battleships, three of which had gone to the bottom in May. The list included two [Edgar-class cruisers](https://pl.wikipedia.org/wiki/Krążowniki_pancernopokładowe_typu_Edgar), *Endymion* and *Theseus*, fitted with anti-torpedo bulges, fourteen [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) with guns of 6 to 14 inches, four sloops, that is, small escort vessels, and submarines. It was far more than Kitchener had been willing to give only a few weeks earlier.
+It was decided to send Hamilton the three remaining divisions of the first New Army, the 10th, 11th and 13th, so that he could strike in the second week of July. The fleet was to receive ships less vulnerable to U-boat attack than Admiral de Robeck's old battleships, three of which had gone to the bottom in May. The list included two [Edgar-class cruisers](https://pl.wikipedia.org/wiki/Krążowniki_pancernopokładowe_typu_Edgar), *Endymion* and *Theseus*, fitted with anti-torpedo bulges, fourteen [monitors](/slownik/monitor) with guns of 6 to 14 inches, four sloops, that is, small escort vessels, and submarines. It was far more than Kitchener had been willing to give only a few weeks earlier.
 
 ## Lost time
 

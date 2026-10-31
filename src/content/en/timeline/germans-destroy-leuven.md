@@ -2,7 +2,7 @@
 title: Germans destroy Leuven
 summary: On the night of 25–26 August 1914 the Germans set fire to the Belgian city of Leuven and its famous university library. About 250 civilians were killed.
 source: niemcy-niszcza-lowanium
-sourceHash: e2790b16cc15c98f7d6007c7cc570d212517b1ad
+sourceHash: fb033d3f3635e256ce94f9eb7bd04d12a8633589
 ---
 
 On the night of 25–26 August 1914 German soldiers began burning and looting [Leuven](https://pl.wikipedia.org/wiki/Leuven) (French: Louvain), a Belgian university city lying some fifteen kilometres east of Brussels. Over the following days they killed inhabitants, plundered houses and drove out the population. The library of the [Catholic University of Leuven](https://pl.wikipedia.org/wiki/Katolicki_Uniwersytet_w_Lowanium), one of the most valuable collections of books in Europe, was burned. The British chronology of the war places the destruction of the city under 26 August, although the fires and killings had begun the previous evening and went on for several more days.
@@ -31,7 +31,7 @@ The greatest cultural loss was the burning of the library. Figures for its colle
 
 The German authorities presented the destruction of the city as punishment for a treacherous attack by the inhabitants on the soldiers. The Prussian War Ministry collected statements from officers and soldiers who claimed they had been fired on from windows and roofs. However, no evidence was found of organised resistance by the population, and the inhabitants had been obliged to hand in their private weapons at the beginning of August. Modern historians, including John Horne and Alan Kramer, believe that the tragedy stemmed from the panic of inexperienced soldiers, friendly fire between their own units and a widespread belief in civilian guerrillas.
 
-The destruction of the library also violated the [Hague Convention](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) of 1907. Germany had signed it, and the convention required buildings dedicated to religion, art and science to be spared.
+The destruction of the library also violated the [Hague Convention](/slownik/konwencje-haskie) of 1907. Germany had signed it, and the convention required buildings dedicated to religion, art and science to be spared.
 
 ## World outrage
 

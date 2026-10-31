@@ -2,10 +2,10 @@
 title: Order No. 1
 summary: On 14 March 1917 the Petrograd Soviet issued Order No. 1. Soldiers were to elect committees, control weapons and obey above all the Soviet, not their officers.
 source: rozkaz-nr-1
-sourceHash: 9ce09f63fc315c139191716a5fbba129987b83f1
+sourceHash: 4c55a707b3f99d50aff4176dc7bd48e001dfc425
 ---
 
-On 14 March 1917 (1 March in the Julian calendar) the [Petrograd Soviet of Workers' and Soldiers' Deputies](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich) adopted a document that went down in history as [Order No. 1](https://pl.wikipedia.org/wiki/Rozkaz_nr_1_Rady_Piotrogrodzkiej). It was addressed to the Petrograd garrison, "all soldiers of the guard, army, artillery and fleet", for immediate execution. It ordered the election of soldiers' committees in all units, placed weapons under their control and laid down that in political matters soldiers were subordinate to the Soviet. Two days after the [victory of the rising in the capital](/rewolucja-lutowa), the order struck at the very foundation of the army: the obedience of soldiers to their officers.
+On 14 March 1917 (1 March in the Julian calendar) the [Petrograd Soviet of Workers' and Soldiers' Deputies](/slownik/rada-delegatow) adopted a document that went down in history as [Order No. 1](https://pl.wikipedia.org/wiki/Rozkaz_nr_1_Rady_Piotrogrodzkiej). It was addressed to the Petrograd garrison, "all soldiers of the guard, army, artillery and fleet", for immediate execution. It ordered the election of soldiers' committees in all units, placed weapons under their control and laid down that in political matters soldiers were subordinate to the Soviet. Two days after the [victory of the rising in the capital](/rewolucja-lutowa), the order struck at the very foundation of the army: the obedience of soldiers to their officers.
 
 ## Where it came from
 

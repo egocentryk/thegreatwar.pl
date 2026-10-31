@@ -13,7 +13,7 @@ sides:
     commanders: [Erich von Falkenhayn, "Albrecht, Duke of Württemberg", Otto von Hügel, Hugo von Kathen]
 result: Inconclusive, with the advantage to the Germans. They took the northern and eastern part of the Ypres salient and came within a few kilometres of the town, but did not break the front or take Ypres.
 source: druga-bitwa-pod-ypres
-sourceHash: 66cb915a439193db9b6fa108d3eb9cbc6f300d55
+sourceHash: abb69b9e6f7450574908e4c5a4ab931ba1427af9
 brief:
   - "The Second Battle of Ypres, fought from 22 April to 25 May 1915, was the only major German offensive on the Western Front in 1915. In it the Germans first used poison gas on a large scale in the west."
   - "Falkenhayn wanted to tie down the Allies in the west and test a new weapon. On 22 April a chlorine cloud broke two French divisions, but the Germans had no reserves to exploit the gap."
@@ -22,7 +22,7 @@ brief:
   - "The front moved several kilometres closer to Ypres, but the ruined town remained in Allied hands. The battle opened chemical warfare on the Western Front."
 ---
 
-The Second Battle of Ypres, fought from 22 April to 25 May 1915, was the only major German offensive on the Western Front in 1915. It is remembered above all as the battle in which the Germans first used poison gas on a large scale in the west. A cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor), released on 22 April from thousands of cylinders, broke two French divisions and opened a gap north of [Ypres](/miejsca/ypres). The Germans, who treated the attack as a trial of the new weapon, had no reserves to exploit it. The gap was hastily closed by Canadians, British and French, at the cost of enormous losses. Over the following weeks the Germans, supported by superior heavy artillery and further gas clouds, pushed the Allies back step by step into the salient. When the battle died down, the front stood several kilometres closer to Ypres, but the town, although reduced to ruins, remained in Allied hands.
+The Second Battle of Ypres, fought from 22 April to 25 May 1915, was the only major German offensive on the Western Front in 1915. It is remembered above all as the battle in which the Germans first used poison gas on a large scale in the west. A cloud of [chlorine](/slownik/gaz-bojowy), released on 22 April from thousands of cylinders, broke two French divisions and opened a gap north of [Ypres](/miejsca/ypres). The Germans, who treated the attack as a trial of the new weapon, had no reserves to exploit it. The gap was hastily closed by Canadians, British and French, at the cost of enormous losses. Over the following weeks the Germans, supported by superior heavy artillery and further gas clouds, pushed the Allies back step by step into the salient. When the battle died down, the front stood several kilometres closer to Ypres, but the town, although reduced to ruins, remained in Allied hands.
 
 ## Name and dates
 
@@ -64,6 +64,6 @@ After the war the Reichsarchiv put German losses at Ypres from 21 April to 30 Ma
 
 The Second Battle of Ypres was only a partial success for the Germans. They took the high ground north and east of the town, from which their observers could now see almost the whole salient, but they did not break the front or force the Allies to abandon Ypres. They themselves admitted later that the gas attack had been made without reserves and towards evening, so the greatest opportunity offered by the new weapon was not exploited. The effect of surprise could not be repeated. Within a few weeks Allied soldiers received their first masks, and in the autumn at Loos the British released a chlorine cloud on a large scale for the first time.
 
-The battle opened chemical warfare on the Western Front. The Allies regarded the attack as a violation of the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) and as barbarism, and propaganda exploited it throughout the war. The German method also foreshadowed a new way of fighting: short attacks on a limited objective, after a massed bombardment by heavy artillery, with the captured ground immediately fortified.
+The battle opened chemical warfare on the Western Front. The Allies regarded the attack as a violation of the [Hague Conventions](/slownik/konwencje-haskie) and as barbarism, and propaganda exploited it throughout the war. The German method also foreshadowed a new way of fighting: short attacks on a limited objective, after a massed bombardment by heavy artillery, with the captured ground immediately fortified.
 
 For Canada it was the first great battle of the war and a source of national pride. The Canadians paid dearly for the defence of the salient, but gained a reputation as soldiers who could be relied on. During the battle the Canadian army doctor [John McCrae](https://pl.wikipedia.org/wiki/John_McCrae) wrote the poem [In Flanders Fields](https://pl.wikipedia.org/wiki/In_Flanders_Fields), which became one of the best-known works about the war. Ypres itself, shelled by heavy guns, was already mostly in ruins by May 1915. The Ypres salient, smaller and even harder to defend, remained in Allied hands until the end of the war.

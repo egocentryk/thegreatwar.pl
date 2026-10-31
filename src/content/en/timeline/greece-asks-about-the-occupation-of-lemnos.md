@@ -2,7 +2,7 @@
 title: Greece asks about the occupation of Lemnos
 summary: On 7 March 1915, the day after Venizelos resigned, the Greek government asked London to explain the British occupation of the island of Lemnos.
 source: grecja-pyta-o-okupacje-lemnos
-sourceHash: d8e13cbdf8251e139f35f0a11604ac92e4cb76db
+sourceHash: 0559a24928020f56d782ecf840b513ae808767e0
 ---
 
 On 7 March 1915 the Greek government asked Britain to explain on what grounds its forces had occupied the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). This date is given by the British chronology of the war. According to George F. Abbott, author of a book on Greece and the Allies published in 1922, Athens declared that the British step could not be reconciled with the country's neutrality. It came just a day after Prime Minister [Eleftherios Venizelos resigned](/dymisja-wenizelosa), who had quietly consented to the occupation.
@@ -17,7 +17,7 @@ The status of Lemnos was, moreover, unclear. The Greek fleet had seized the isla
 
 At the beginning of March the island was rapidly filling with soldiers. On 4 March the 3rd Australian Brigade arrived at Mudros from Egypt, and the Royal Naval Division and a French division were on their way. According to some accounts British troops went ashore at Mudros on 6 March, the very day Venizelos resigned. A short stay by a few warships was turning into the concentration of an army whose objective was the Gallipoli peninsula.
 
-For the camp of King [Constantine I](/postacie/konstantyn-i), who wanted to maintain strict neutrality, this was hard to accept. Under one of the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) of 1907 the territory of a neutral state was inviolable, and the troops of belligerents could not pass through it. The pro-royalist Greek author S. P. P. Cosmetatos wrote in 1928 that the occupation of Lemnos was a flagrant violation of these principles. Even an American journal of international law admitted in 1918 that the Allies' only justification was the tacit consent of the Venizelos government.
+For the camp of King [Constantine I](/postacie/konstantyn-i), who wanted to maintain strict neutrality, this was hard to accept. Under one of the [Hague Conventions](/slownik/konwencje-haskie) of 1907 the territory of a neutral state was inviolable, and the troops of belligerents could not pass through it. The pro-royalist Greek author S. P. P. Cosmetatos wrote in 1928 that the occupation of Lemnos was a flagrant violation of these principles. Even an American journal of international law admitted in 1918 that the Allies' only justification was the tacit consent of the Venizelos government.
 
 ## Who asked?
 

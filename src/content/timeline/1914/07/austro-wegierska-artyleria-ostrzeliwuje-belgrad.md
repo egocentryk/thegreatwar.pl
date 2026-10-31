@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Kilka godzin po wypowiedzeniu wojny Serbii przez [Austro-Węgry](/kraje/austro-wegry) padły pierwsze strzały. Wkrótce po północy z 28 na 29 lipca 1914 roku rzeczne [monitory](https://pl.wikipedia.org/wiki/Monitor_(okręt)) austro-węgierskiej flotylli dunajskiej – Bodrog, Temes i Szamos – otworzyły ogień w kierunku [Belgradu](/miejsca/belgrad). Salwy z pokładu Bodroga uznaje się za pierwsze strzały I wojny światowej.
+Kilka godzin po wypowiedzeniu wojny Serbii przez [Austro-Węgry](/kraje/austro-wegry) padły pierwsze strzały. Wkrótce po północy z 28 na 29 lipca 1914 roku rzeczne [monitory](/slownik/monitor) austro-węgierskiej flotylli dunajskiej – Bodrog, Temes i Szamos – otworzyły ogień w kierunku [Belgradu](/miejsca/belgrad). Salwy z pokładu Bodroga uznaje się za pierwsze strzały I wojny światowej.
 
 Stolica [Serbii](/kraje/serbia) leżała bezpośrednio przy granicy, u zbiegu [Sawy](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) i [Dunaju](https://pl.wikipedia.org/wiki/Dunaj). Na drugim brzegu Sawy znajdował się austro-węgierski [Zemun](https://pl.wikipedia.org/wiki/Zemun), a oba miasta łączył most kolejowy. Serbowie spodziewali się, że nieprzyjaciel spróbuje go wykorzystać. Jeszcze w nocy oddział majora Vojislava Tankosicia wysadził most, zanim Austriacy zdołali do niego dotrzeć. Tankosić był tym samym oficerem, którego aresztowania domagało się austro-węgierskie ultimatum z 23 lipca, oskarżając go o udział w przygotowaniu zamachu w Sarajewie.
 

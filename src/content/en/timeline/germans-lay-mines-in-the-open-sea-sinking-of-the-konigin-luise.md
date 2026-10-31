@@ -2,7 +2,7 @@
 title: Germans lay mines in the open sea. The sinking of the Königin Luise
 summary: On 5 August 1914 British destroyers sank the German minelayer Königin Luise off Suffolk. A day later her mines sank HMS Amphion.
 source: niemcy-stawiaja-miny-na-otwartym-morzu-koenigin-luise-zatopiona
-sourceHash: a60f96088615924c3d40bc0bbe76e0053acab297
+sourceHash: c18dfc1bb39f80c33aa1e34bbd76af3ffb9b955c
 ---
 
 During the night of 4–5 August 1914, only a few hours after Great Britain's declaration of war, the German ship *Königin Luise* laid a minefield in the open [North Sea](/miejsca/morze-polnocne), about 30 miles off the coast of [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), east of [Southwold](https://pl.wikipedia.org/wiki/Southwold). The mines threatened the shipping lanes leading to the mouth of the [Thames](https://pl.wikipedia.org/wiki/Tamiza) and to the British ports on the east coast.
@@ -21,4 +21,4 @@ The victory soon turned bitter. On the morning of 6 August, while returning to b
 
 ## The mine war
 
-Laying mines in the open sea, far from the enemy's coasts and ports, was controversial. The [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) of 1907 restricted the use of [naval mines](/slownik/mina-morska) in order to protect neutral shipping, and the British accused Germany of breaking these rules. In the years that followed, however, both sides laid tens of thousands of mines. They became one of the most dangerous weapons of the war at sea, sinking both warships and the merchant ships of neutral countries.
+Laying mines in the open sea, far from the enemy's coasts and ports, was controversial. The [Hague Conventions](/slownik/konwencje-haskie) of 1907 restricted the use of [naval mines](/slownik/mina-morska) in order to protect neutral shipping, and the British accused Germany of breaking these rules. In the years that followed, however, both sides laid tens of thousands of mines. They became one of the most dangerous weapons of the war at sea, sinking both warships and the merchant ships of neutral countries.

@@ -2,10 +2,10 @@
 title: Launch of HMS Dreadnought
 summary: On 10 February 1906 Edward VII launched HMS Dreadnought at Portsmouth, the first battleship with only heavy guns and turbines. Older battleships were outdated.
 source: wodowanie-hms-dreadnought
-sourceHash: 8319d3c97988669902ce15a721bcab308711891d
+sourceHash: 36744512ab08b8aba6d5352abb248235000eb444
 ---
 
-On 10 February 1906 at the naval dockyard in [Portsmouth](https://pl.wikipedia.org/wiki/Portsmouth) King [Edward VII](https://pl.wikipedia.org/wiki/Edward_VII) launched [HMS Dreadnought](https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)), the most modern battleship in the world. The hull took to the water only four months after the keel had been laid. The new battleship carried ten 12-inch (305 mm) guns and no intermediate guns at all, and she was the first battleship with [turbine](https://pl.wikipedia.org/wiki/Turbina_parowa) propulsion. Her name, "Fear nothing", became the name of a whole generation of warships, and all older battleships came to be called [pre-dreadnoughts](https://pl.wikipedia.org/wiki/Przeddrednot).
+On 10 February 1906 at the naval dockyard in [Portsmouth](https://pl.wikipedia.org/wiki/Portsmouth) King [Edward VII](https://pl.wikipedia.org/wiki/Edward_VII) launched [HMS Dreadnought](https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)), the most modern battleship in the world. The hull took to the water only four months after the keel had been laid. The new battleship carried ten 12-inch (305 mm) guns and no intermediate guns at all, and she was the first battleship with [turbine](https://pl.wikipedia.org/wiki/Turbina_parowa) propulsion. Her name, "Fear nothing", became the name of a whole generation of warships, and all older battleships came to be called [pre-dreadnoughts](/slownik/drednot).
 
 ## Fisher's idea
 

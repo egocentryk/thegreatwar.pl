@@ -2,10 +2,10 @@
 title: Convoy committee
 summary: On 17 May 1917 the Admiralty set up a committee to draw up a plan for ocean convoys. The first trial convoy from Gibraltar was then under way.
 source: komitet-do-spraw-konwojow
-sourceHash: 471f72e85c177846c66a0bc2b03fd82081e510df
+sourceHash: 8f949ab4987f42ca4643b51e7dcf1da48c2c80bb
 ---
 
-On 17 May 1917 the British [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) set up a committee to draw up a general plan for sailing merchant ships in [convoys](https://pl.wikipedia.org/wiki/Konwój_morski) on the ocean routes. The British chronology of the war stresses that this followed a decision of the Cabinet and was done in cooperation with the Ministry of Shipping. Its members were four naval officers, among them Commander H. W. Longden and Fleet Paymaster H. W. E. Manisty, who later directed the organisation of convoys, as well as Norman Leslie of the Ministry of Shipping, who knew the movement of ships in British ports in detail. It was the first body charged with preparing convoys not as an experiment but as a permanent system. The same day the War Cabinet decided that British ministries were henceforth, as far as possible, to buy food and raw materials in North America, and to keep purchases in more distant markets to a minimum. The shorter routes across the North Atlantic were to save ships and make them easier to protect.
+On 17 May 1917 the British [Admiralty](/slownik/admiralicja) set up a committee to draw up a general plan for sailing merchant ships in [convoys](https://pl.wikipedia.org/wiki/Konwój_morski) on the ocean routes. The British chronology of the war stresses that this followed a decision of the Cabinet and was done in cooperation with the Ministry of Shipping. Its members were four naval officers, among them Commander H. W. Longden and Fleet Paymaster H. W. E. Manisty, who later directed the organisation of convoys, as well as Norman Leslie of the Ministry of Shipping, who knew the movement of ships in British ports in detail. It was the first body charged with preparing convoys not as an experiment but as a permanent system. The same day the War Cabinet decided that British ministries were henceforth, as far as possible, to buy food and raw materials in North America, and to keep purchases in more distant markets to a minimum. The shorter routes across the North Atlantic were to save ships and make them easier to protect.
 
 ## The April disaster and the wrong figures
 

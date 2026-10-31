@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-20 sierpnia 1914 roku brytyjski rząd wydał pierwsze zarządzenie Rady Królewskiej (Order in Council) dotyczące [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska). Wielka Brytania ogłosiła, że w czasie wojny będzie przestrzegać tej umowy, ale z własnymi uzupełnieniami i zmianami. W praktyce zmiany te znacznie rozszerzały możliwości kontroli handlu morskiego.
+20 sierpnia 1914 roku brytyjski rząd wydał pierwsze zarządzenie Rady Królewskiej (Order in Council) dotyczące [deklaracji londyńskiej](/slownik/deklaracja-londynska). Wielka Brytania ogłosiła, że w czasie wojny będzie przestrzegać tej umowy, ale z własnymi uzupełnieniami i zmianami. W praktyce zmiany te znacznie rozszerzały możliwości kontroli handlu morskiego.
 
 ## Niedoszła konwencja
 

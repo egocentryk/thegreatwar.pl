@@ -37,7 +37,7 @@ Największą stratą dla kultury był pożar biblioteki. Dane o jej zbiorach ró
 
 Władze niemieckie przedstawiły zniszczenie miasta jako karę za zdradziecki atak mieszkańców na żołnierzy. Pruskie ministerstwo wojny zebrało zeznania oficerów i żołnierzy, którzy twierdzili, że strzelano do nich z okien i dachów. Nie znaleziono jednak żadnych dowodów na zorganizowany opór ludności, a broń prywatną mieszkańcy musieli oddać już na początku sierpnia. Współcześni historycy, m.in. John Horne i Alan Kramer, uważają, że źródłem tragedii była panika niedoświadczonych żołnierzy, strzelanina między własnymi oddziałami i powszechna wiara w cywilnych partyzantów.
 
-Zniszczenie biblioteki naruszało też [konwencję haską](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) z 1907 roku. Niemcy ją podpisały, a konwencja nakazywała oszczędzać budynki służące religii, sztuce i nauce.
+Zniszczenie biblioteki naruszało też [konwencję haską](/slownik/konwencje-haskie) z 1907 roku. Niemcy ją podpisały, a konwencja nakazywała oszczędzać budynki służące religii, sztuce i nauce.
 
 ## Oburzenie świata
 

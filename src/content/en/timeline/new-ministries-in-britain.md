@@ -2,10 +2,10 @@
 title: New ministries in Britain
 summary: On 22 December 1916 the King gave assent to Acts creating British ministries of food, shipping, labour and pensions. Lord Devonport took charge of food.
 source: nowe-ministerstwa-w-wielkiej-brytanii
-sourceHash: 00c28dec13e8fb2139918e27a7ecebcf965724f3
+sourceHash: 1353cdd87113ada88afab4c7e044941a7ca4fef2
 ---
 
-On 22 December 1916 the royal commission giving assent to fifteen Acts was read in the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów), among them two that changed the shape of the British administration. The New Ministries and Secretaries Act established the Ministry of Labour, the Ministry of Food and the Ministry of Shipping, and the Ministry of Pensions Act created a separate department dealing with war pensions and allowances. Linked to the Acts is the appointment of Lord Devonport as Food Controller, which the British chronology of the war records under 26 December.
+On 22 December 1916 the royal commission giving assent to fifteen Acts was read in the [House of Lords](/slownik/izba-lordow), among them two that changed the shape of the British administration. The New Ministries and Secretaries Act established the Ministry of Labour, the Ministry of Food and the Ministry of Shipping, and the Ministry of Pensions Act created a separate department dealing with war pensions and allowances. Linked to the Acts is the appointment of Lord Devonport as Food Controller, which the British chronology of the war records under 26 December.
 
 ## Ministries for a new government
 

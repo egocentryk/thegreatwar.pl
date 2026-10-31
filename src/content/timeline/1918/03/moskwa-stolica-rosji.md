@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-12 marca 1918 roku „Izwiestija”, dziennik Wszechrosyjskiego Centralnego Komitetu Wykonawczego, opublikowały rządowy komunikat o przeniesieniu władzy radzieckiej z Piotrogrodu do [Moskwy](https://pl.wikipedia.org/wiki/Moskwa). Ogłoszono to już po fakcie. Poprzedniego wieczoru do Moskwy przyjechał specjalny pociąg z przewodniczącym [Rady Komisarzy Ludowych](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR) [Włodzimierzem Leninem](/postacie/wlodzimierz-lenin) i częścią rządu. Miasto, w którym jeszcze w listopadzie bolszewicy musieli [zdobywać władzę artylerią](/bolszewicy-zdobywaja-moskwe), po raz pierwszy od czasów [Piotra Wielkiego](https://pl.wikipedia.org/wiki/Piotr_I_Wielki), który na początku XVIII wieku przeniósł dwór nad Newę, stało się znowu stolicą Rosji. Pozostaje nią do dziś.
+12 marca 1918 roku „Izwiestija”, dziennik Wszechrosyjskiego Centralnego Komitetu Wykonawczego, opublikowały rządowy komunikat o przeniesieniu władzy radzieckiej z Piotrogrodu do [Moskwy](https://pl.wikipedia.org/wiki/Moskwa). Ogłoszono to już po fakcie. Poprzedniego wieczoru do Moskwy przyjechał specjalny pociąg z przewodniczącym [Rady Komisarzy Ludowych](/slownik/rada-komisarzy-ludowych) [Włodzimierzem Leninem](/postacie/wlodzimierz-lenin) i częścią rządu. Miasto, w którym jeszcze w listopadzie bolszewicy musieli [zdobywać władzę artylerią](/bolszewicy-zdobywaja-moskwe), po raz pierwszy od czasów [Piotra Wielkiego](https://pl.wikipedia.org/wiki/Piotr_I_Wielki), który na początku XVIII wieku przeniósł dwór nad Newę, stało się znowu stolicą Rosji. Pozostaje nią do dziś.
 
 ## Dlaczego Moskwa
 

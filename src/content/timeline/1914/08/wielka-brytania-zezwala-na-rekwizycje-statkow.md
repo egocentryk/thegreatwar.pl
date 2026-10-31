@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 sierpnia 1914 roku brytyjski rząd wydał proklamację królewską, która upoważniała do rekwizycji statków handlowych na potrzeby wojny. [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) mogła odtąd przejmować brytyjskie jednostki, zobowiązując się do wypłaty odszkodowań ich właścicielom. W formalnych pismach rekwizycyjnych w kolejnych tygodniach powoływano się właśnie na proklamację z 3 sierpnia, choć samo prawo do rekwizycji wynikało z tradycyjnych uprawnień Korony.
+3 sierpnia 1914 roku brytyjski rząd wydał proklamację królewską, która upoważniała do rekwizycji statków handlowych na potrzeby wojny. [Admiralicja](/slownik/admiralicja) mogła odtąd przejmować brytyjskie jednostki, zobowiązując się do wypłaty odszkodowań ich właścicielom. W formalnych pismach rekwizycyjnych w kolejnych tygodniach powoływano się właśnie na proklamację z 3 sierpnia, choć samo prawo do rekwizycji wynikało z tradycyjnych uprawnień Korony.
 
 Wielka Brytania dysponowała wówczas największą [flotą handlową](https://pl.wikipedia.org/wiki/Marynarka_handlowa) na świecie. Setki statków pasażerskich i towarowych mogły zostać wykorzystane do celów wojskowych. Państwo potrzebowało ich przede wszystkim do przewiezienia wojsk: [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) miał w ciągu kilku dni przeprawić się na kontynent wraz z końmi, działami i zaopatrzeniem.
 

@@ -2,14 +2,14 @@
 title: Belyaev becomes Russian Minister of War
 summary: On 16 January 1917 the Tsar dismissed War Minister Shuvayev. He was replaced by General Mikhail Belyaev, an efficient bureaucrat trusted by the Tsarina.
 source: bielajew-ministrem-wojny-rosji
-sourceHash: 6f21094d37582c398bea852aa62ed36202e9e2f1
+sourceHash: 0b0196375a1d2716ca6c5aa8b59410eef1f905bb
 ---
 
 On 16 January 1917 (3 January by the Julian calendar) Tsar [Nicholas II](/postacie/mikolaj-ii) changed his Minister of War. He relieved General [Dmitry Shuvayev](https://pl.wikipedia.org/wiki/Dmitrij_Szuwajew) of his post and made him a member of the [State Council](https://pl.wikipedia.org/wiki/Rada_Państwa_Imperium_Rosyjskiego), appointing in his place General of Infantry Mikhail Belyaev. The British chronology of the war records the change a day later, under 17 January, and the same date is given by the British military attaché in Petrograd, Alfred Knox, who wrote that on 17 January Belyaev was recalled from Romania to take over the ministry. It was another change in the government, which for a week had been headed by a new Prime Minister, [Prince Nikolai Golitsyn](/golicyn-premierem-rosji).
 
 ## Shuvayev's departure
 
-Shuvayev had headed the ministry since March 1916, when he [replaced Alexei Polivanov](/szuwajew-zastepuje-poliwanowa). The Tsar had chosen him then as an entirely loyal man who was "not at all afraid of the Duma". In time, however, the minister began to seek an understanding with the deputies. In November, during the [crisis over Prime Minister Stürmer](/dymisja-sturmera), he appeared in the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) together with the Navy Minister, Admiral Ivan Grigorovich, and assured it of his readiness to cooperate. Knox wrote that Shuvayev was dismissed not for incompetence, though he might well have been, but, as was said, for his frank, soldierly remarks about the government's reactionary tendencies.
+Shuvayev had headed the ministry since March 1916, when he [replaced Alexei Polivanov](/szuwajew-zastepuje-poliwanowa). The Tsar had chosen him then as an entirely loyal man who was "not at all afraid of the Duma". In time, however, the minister began to seek an understanding with the deputies. In November, during the [crisis over Prime Minister Stürmer](/dymisja-sturmera), he appeared in the [State Duma](/slownik/duma) together with the Navy Minister, Admiral Ivan Grigorovich, and assured it of his readiness to cooperate. Knox wrote that Shuvayev was dismissed not for incompetence, though he might well have been, but, as was said, for his frank, soldierly remarks about the government's reactionary tendencies.
 
 ## The new minister
 

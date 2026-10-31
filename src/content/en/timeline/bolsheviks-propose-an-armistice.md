@@ -2,10 +2,10 @@
 title: Bolsheviks propose an armistice
 summary: On 21 November 1917 Lenin's government told the high command to offer the enemy an armistice, and the Allied embassies got Trotsky's note. Dukhonin refused.
 source: bolszewicy-proponuja-rozejm
-sourceHash: c0c84f11032993255353317cce7ec4a5339bff7a
+sourceHash: 153fa176da22023e1d885a6ccb77c2978f8722d0
 ---
 
-On the night of 20/21 November 1917 (7/8 November in the Julian calendar) the [Council of People's Commissars](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR) sent a radiotelegram to the [Stavka](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) at [Mogilev](/miejsca/mohylew). In it the acting commander-in-chief, General [Nikolai Dukhonin](https://pl.wikipedia.org/wiki/Nikołaj_Duchonin), was ordered to approach the commands of the enemy armies with a proposal to cease all hostilities in order to open peace negotiations. That same day the Allied embassies in Petrograd received a note from the commissar for foreign affairs, [Leon Trotsky](/postacie/lew-trocki), formally proposing an immediate armistice on all fronts. The British chronology of the war records under this date that the Bolshevik government opened armistice negotiations with the Central Powers. In reality nobody was yet talking to the enemy on 21 November, but over the following day the new regime clashed with its own high command over the matter.
+On the night of 20/21 November 1917 (7/8 November in the Julian calendar) the [Council of People's Commissars](/slownik/rada-komisarzy-ludowych) sent a radiotelegram to the [Stavka](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) at [Mogilev](/miejsca/mohylew). In it the acting commander-in-chief, General [Nikolai Dukhonin](https://pl.wikipedia.org/wiki/Nikołaj_Duchonin), was ordered to approach the commands of the enemy armies with a proposal to cease all hostilities in order to open peace negotiations. That same day the Allied embassies in Petrograd received a note from the commissar for foreign affairs, [Leon Trotsky](/postacie/lew-trocki), formally proposing an immediate armistice on all fronts. The British chronology of the war records under this date that the Bolshevik government opened armistice negotiations with the Central Powers. In reality nobody was yet talking to the enemy on 21 November, but over the following day the new regime clashed with its own high command over the matter.
 
 ## The order to the Stavka
 

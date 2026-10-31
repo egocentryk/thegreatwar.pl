@@ -1,7 +1,7 @@
 ---
 term: Naval blockade
 source: blokada
-sourceHash: 09a093dfb3b28427b0522297b7a9fbdee30fad02
+sourceHash: 36865c87f84f94cae6698b43af384c55daeef287
 ---
 
 A naval blockade is the cutting off of an enemy's coasts from seaborne trade by a navy. In the First World War the word means above all the blockade of Germany, which Britain began in August 1914 and whose last restrictions were lifted only in July 1919. It did not close German ports with warships stationed off their entrances, but cut them off from a distance.
@@ -12,7 +12,7 @@ A classic blockade required warships to watch the blockaded coast at all times. 
 
 In the north this duty fell to the 10th Cruiser Squadron, at first with old warships such as [Hawke, sunk in October 1914](/zatoniecie-hms-hawke), and later with [auxiliary cruisers](/slownik/krazownik-pomocniczy).
 
-Ships were stopped because of [contraband](/slownik/kontrabanda), whose lists London [announced on 4 August 1914](/wielka-brytania-oglasza-liste-kontrabandy-wojennej). The law of naval warfare was meant to be set out by the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) of 1909. Britain had not ratified it, but agreed to apply it [with its own changes](/wielka-brytania-modyfikuje-deklaracje-londynska). The most important was the doctrine of continuous voyage: a cargo bound for the neutral Netherlands or Denmark could be seized if it was in fact destined for Germany. Successive orders widened these powers until, in July 1916, the Allies [abandoned the Declaration](/uchylenie-deklaracji-londynskiej).
+Ships were stopped because of [contraband](/slownik/kontrabanda), whose lists London [announced on 4 August 1914](/wielka-brytania-oglasza-liste-kontrabandy-wojennej). The law of naval warfare was meant to be set out by the [Declaration of London](/slownik/deklaracja-londynska) of 1909. Britain had not ratified it, but agreed to apply it [with its own changes](/wielka-brytania-modyfikuje-deklaracje-londynska). The most important was the doctrine of continuous voyage: a cargo bound for the neutral Netherlands or Denmark could be seized if it was in fact destined for Germany. Successive orders widened these powers until, in July 1916, the Allies [abandoned the Declaration](/uchylenie-deklaracji-londynskiej).
 
 On [2 November 1914](/morze-polnocne-strefa-wojenna) the Admiralty declared the whole North Sea a military area and directed neutral shipping onto set routes, where it was easier to search. When Germany declared the waters around the British Isles a war zone, the [retaliatory Order in Council of 11 March 1915](/brytyjskie-rozporzadzenie-odwetowe) allowed the seizure of all goods going to or coming from Germany. [Edward Grey](/postacie/edward-grey) now called the new measures a blockade outright.
 

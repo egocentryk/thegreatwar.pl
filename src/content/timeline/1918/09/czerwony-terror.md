@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-5 września 1918 roku [Rada Komisarzy Ludowych](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR) na posiedzeniu na Kremlu wysłuchała sprawozdania przewodniczącego [Czeki](https://pl.wikipedia.org/wiki/Czeka) [Feliksa Dzierżyńskiego](/postacie/feliks-dzierzynski) i przyjęła krótką uchwałę „O czerwonym terrorze”. Stwierdzała ona, że w obecnej sytuacji „zabezpieczenie tyłów za pomocą terroru jest bezpośrednią koniecznością”. Pięć dni po [zamachu na Lenina](/zamach-na-lenina) i zabójstwie szefa piotrogrodzkiej Czeki Moisieja Urickiego masowe represje, które od kilku dni trwały już w całym kraju, otrzymały podstawę w akcie rządu. Dzień 5 września uważa się zwykle za oficjalny początek [czerwonego terroru](https://pl.wikipedia.org/wiki/Czerwony_terror).
+5 września 1918 roku [Rada Komisarzy Ludowych](/slownik/rada-komisarzy-ludowych) na posiedzeniu na Kremlu wysłuchała sprawozdania przewodniczącego [Czeki](https://pl.wikipedia.org/wiki/Czeka) [Feliksa Dzierżyńskiego](/postacie/feliks-dzierzynski) i przyjęła krótką uchwałę „O czerwonym terrorze”. Stwierdzała ona, że w obecnej sytuacji „zabezpieczenie tyłów za pomocą terroru jest bezpośrednią koniecznością”. Pięć dni po [zamachu na Lenina](/zamach-na-lenina) i zabójstwie szefa piotrogrodzkiej Czeki Moisieja Urickiego masowe represje, które od kilku dni trwały już w całym kraju, otrzymały podstawę w akcie rządu. Dzień 5 września uważa się zwykle za oficjalny początek [czerwonego terroru](https://pl.wikipedia.org/wiki/Czerwony_terror).
 
 ## Treść uchwały
 

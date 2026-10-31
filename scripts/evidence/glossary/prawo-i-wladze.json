@@ -1,0 +1,124 @@
+[
+ {
+  "slug": "konwencje-haskie",
+  "slugEn": "hague-conventions",
+  "term": "Konwencje haskie",
+  "termEn": "Hague Conventions",
+  "category": "polityka",
+  "pattern": "[Kk]onwencj\\w* hask\\w*",
+  "patternEn": "Hague Conventions?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Umowy o prawach i zwyczajach wojny przyjęte na konferencjach pokojowych w Hadze w 1899 i 1907 roku. W czasie wojny obie strony powoływały się na nie, oskarżając przeciwnika o ich łamanie.",
+  "shortEn": "Agreements on the laws and customs of war adopted at the peace conferences in The Hague in 1899 and 1907. During the war both sides invoked them, accusing the enemy of breaking them.",
+  "long": [
+   "Pierwszą konferencję pokojową zwołano do Hagi w 1899 roku z inicjatywy cara Mikołaja II. Przyjęła ona trzy konwencje, w tym o prawach i zwyczajach wojny lądowej, oraz trzy deklaracje, między innymi o zakazie pocisków rozprzestrzeniających gazy duszące. Druga konferencja, w 1907 roku, przyjęła trzynaście konwencji: odnowiła regulamin wojny lądowej i określiła prawa państw neutralnych, zasady stawiania min, ostrzału z morza i ochrony statków szpitalnych.",
+   "Regulamin zakazywał używania trucizn, atakowania niebronionych miast i zatrudniania jeńców przy pracach związanych z działaniami wojennymi, a neutralni musieli internować wojska, które schroniły się na ich terytorium. W latach 1914–1918 strony stale oskarżały się o łamanie konwencji: sprzymierzeni Niemców za Lowanium, gaz pod Ypres i zatapianie statków szpitalnych, Niemcy przeciwników za przewożenie na takich statkach żołnierzy. W 1921 roku niemiecki Sąd Rzeszy w Lipsku sądził między innymi oficerów okrętów podwodnych, które je zatopiły."
+  ],
+  "longEn": [
+   "The first peace conference was called to The Hague in 1899 on the initiative of Tsar Nicholas II. It adopted three conventions, including one on the laws and customs of war on land, and three declarations, among them a ban on projectiles spreading asphyxiating gases. The second conference, in 1907, adopted thirteen conventions: it renewed the regulations of land warfare and set out the rights of neutral states and the rules for laying mines, bombardment from the sea and the protection of hospital ships.",
+   "The regulations forbade the use of poison, attacks on undefended towns and the employment of prisoners on work connected with the operations of the war, and neutrals had to intern troops that took refuge on their territory. In 1914–1918 the belligerents constantly accused each other of breaking the conventions: the Allies blamed the Germans for Leuven, the gas at Ypres and the sinking of hospital ships, the Germans accused their enemies of carrying troops on such ships. In 1921 the German Reich Court in Leipzig tried, among others, officers of the U-boats that had sunk them."
+  ],
+  "see": [
+   "niemcy-niszcza-lowanium",
+   "poczatek-drugiej-bitwy-pod-ypres",
+   "niemiecka-nota-w-sprawie-pracy-jencow",
+   "zatopienie-llandovery-castle",
+   "internowanie-prinz-eitel-friedrich",
+   "postacie/mikolaj-ii"
+  ],
+  "sources": [
+   "https://avalon.law.yale.edu/20th_century/hague04.asp",
+   "https://avalon.law.yale.edu/19th_century/dec99-02.asp",
+   "https://avalon.law.yale.edu/20th_century/hague10.asp",
+   "https://en.wikipedia.org/wiki/Hague_Conventions_of_1899_and_1907"
+  ]
+ },
+ {
+  "slug": "deklaracja-londynska",
+  "slugEn": "declaration-of-london",
+  "term": "Deklaracja londyńska",
+  "termEn": "Declaration of London",
+  "category": "morze",
+  "pattern": "[Dd]eklaracj\\w* londyńsk\\w*",
+  "patternEn": "Declaration of London|London Declaration",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niewprowadzony w życie kodeks prawa wojny morskiej podpisany w Londynie w 1909 roku. Na początku wojny sprzymierzeni stosowali go ze zmianami, a w lipcu 1916 roku całkiem od niego odstąpili.",
+  "shortEn": "A code of the law of naval war signed in London in 1909 that never came into force. At the start of the war the Allies applied it with changes, and in July 1916 they abandoned it altogether.",
+  "long": [
+   "Deklarację przygotowała konferencja morska zwołana przez Wielką Brytanię do Londynu w 1908 roku, a 26 lutego 1909 roku podpisało ją dziesięć państw. Miała być kodeksem dla planowanego Międzynarodowego Trybunału Pryzowego: określała zasady blokady, dzieliła towary na kontrabandę bezwzględną, względną i wolną od zajęcia, a kontrabandę względną pozwalała zatrzymywać tylko w drodze do portów nieprzyjaciela. Ustawę, która miała ją wprowadzić w życie, Izba Lordów odrzuciła w 1911 roku, a żadne państwo jej nie ratyfikowało.",
+   "6 sierpnia 1914 roku Stany Zjednoczone zaproponowały walczącym, by ją stosowali. Niemcy zgodziły się pod warunkiem wzajemności, a Wielka Brytania i Francja przyjęły ją ze zmianami, z których najważniejsza wprowadzała zasadę podróży ciągłej. 22 października Amerykanie wycofali propozycję. Kolejne rozporządzenia coraz bardziej odchodziły od deklaracji, aż 7 lipca 1916 roku Londyn i Paryż ją uchyliły, zapowiadając, że odtąd będą się kierować tylko uznanymi zasadami prawa narodów."
+  ],
+  "longEn": [
+   "The declaration was prepared by a naval conference called by Britain to London in 1908, and on 26 February 1909 it was signed by ten states. It was meant to be the code for a planned International Prize Court: it set the rules of blockade, divided goods into absolute contraband, conditional contraband and goods free from capture, and allowed conditional contraband to be seized only on its way to enemy ports. The bill meant to put it into effect was rejected by the House of Lords in 1911, and no state ratified it.",
+   "On 6 August 1914 the United States proposed that the belligerents apply it. Germany agreed on condition of reciprocity, while Britain and France accepted it with changes, the most important of which introduced the doctrine of continuous voyage. On 22 October the Americans withdrew the proposal. Successive orders departed further and further from the declaration until on 7 July 1916 London and Paris revoked it, announcing that from then on they would follow only the recognised principles of the law of nations."
+  ],
+  "see": [
+   "uchylenie-deklaracji-londynskiej",
+   "wielka-brytania-modyfikuje-deklaracje-londynska",
+   "niemcy-akceptuja-deklaracje-londynska",
+   "nota-usa-w-sprawie-prawa-wojny-morskiej",
+   "postacie/robert-cecil"
+  ],
+  "sources": [
+   "https://hrlibrary.umn.edu/instree/1909b.htm",
+   "https://en.wikipedia.org/wiki/London_Declaration_concerning_the_Laws_of_Naval_War"
+  ],
+  "exclude": [
+   "pakt-londynski",
+   "postacie/edward-grey"
+  ]
+ },
+ {
+  "slug": "admiralicja",
+  "slugEn": "admiralty",
+  "term": "Admiralicja",
+  "termEn": "Admiralty",
+  "category": "morze",
+  "pattern": "(?<!Sztab )(?<!Sztabu )(?<!Sztabem )(?<!Wyspy )(?<!Wysp )(?<!Wyspami )(?<!molo )Admiralicj\\w*\\b(?! niemieck)",
+  "patternEn": "(?<!German )(?<!Austro-Hungarian )(?<!Chief of the )(?<!chief of the )Admiralty\\b(?! Staff| Islands| Pier| in Berlin)",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Brytyjski urząd kierujący Royal Navy, zarazem ministerstwo i naczelne dowództwo floty. Na jego czele stali pierwszy lord Admiralicji, polityk, i pierwszy lord morski, zawodowy szef marynarki.",
+  "shortEn": "The British department that ran the Royal Navy, at once a ministry and the fleet's high command. It was headed by the First Lord of the Admiralty, a politician, and the First Sea Lord, the navy's professional chief.",
+  "long": [
+   "Admiralicja, z gmachem przy Whitehall w Londynie, kierowała flotą od XVII wieku. Rada Admiralicji łączyła polityków i admirałów: pierwszy lord był cywilnym ministrem, który odpowiadał przed parlamentem, a pierwszy lord morski najwyższym rangą oficerem. Winston Churchill utworzył w niej przed wojną sztab wojenny marynarki, a od jesieni 1914 roku jej komórka dekryptażu, nazywana Room 40, czytała niemieckie depesze radiowe.",
+   "W czasie wojny kierownictwo zmieniało się kilka razy. Spór Churchilla i Johna Fishera o Dardanele kosztował w maju 1915 roku obu urzędy, a ich następcami zostali Arthur Balfour i Henry Jackson. W grudniu 1916 roku przyszli Edward Carson i John Jellicoe, krytykowani za zwlekanie z konwojami. W 1917 roku przebudowano sztab marynarki, w lipcu pierwszym lordem został organizator Eric Geddes, a w Wigilię odwołał on Jellicoe’a. Jego następca, admirał Rosslyn Wemyss, towarzyszył Fochowi przy podpisaniu rozejmu w Compiègne."
+  ],
+  "longEn": [
+   "The Admiralty, with its building in Whitehall in London, had run the fleet since the 17th century. The Board of Admiralty combined politicians and admirals: the First Lord was a civilian minister answerable to Parliament, and the First Sea Lord the highest-ranking officer. Before the war Winston Churchill created a naval war staff within it, and from the autumn of 1914 its code-breaking section, known as Room 40, read German wireless signals.",
+   "During the war its leadership changed several times. The quarrel between Churchill and John Fisher over the Dardanelles cost both their posts in May 1915, and they were succeeded by Arthur Balfour and Henry Jackson. In December 1916 came Edward Carson and John Jellicoe, criticised for delaying convoys. In 1917 the naval staff was rebuilt, in July the organiser Eric Geddes became First Lord, and on Christmas Eve he dismissed Jellicoe. His successor, Admiral Rosslyn Wemyss, accompanied Foch at the signing of the armistice at Compiègne."
+  ],
+  "see": [
+   "churchill-odchodzi-z-admiralicji",
+   "dymisja-lorda-fishera",
+   "jellicoe-pierwszym-lordem-morskim",
+   "dymisja-jellicoe",
+   "sily-zbrojne/royal-navy",
+   "postacie/eric-geddes"
+  ],
+  "sources": [
+   "https://www.globalsecurity.org/military/world/europe/uk-rn-first-lord-of-the-admiralty-2.htm",
+   "https://encyclopedia.1914-1918-online.net/article/geddes-eric-campbell-sir/",
+   "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-first-world-war/",
+   "https://en.wikipedia.org/wiki/Board_of_Admiralty",
+   "https://en.wikipedia.org/wiki/First_Lord_of_the_Admiralty"
+  ],
+  "exclude": [
+   "bitwy/bitwa-w-zatoce-ryskiej",
+   "bitwy/operacja-albion",
+   "niemiecka-kanonierka-panther-wplywa-do-agadiru",
+   "poczatek-niemieckiego-ataku-na-zatoke-ryska",
+   "dymisja-jagowa",
+   "niemiecka-oferta-pokojowa",
+   "rewolucja-lutowa",
+   "upadek-rzadu-golicyna",
+   "usa-wypowiadaja-wojne-niemcom",
+   "koniec-operacji-albion",
+   "poczatek-operacji-albion",
+   "druga-nota-wilsona",
+   "niemcy-oglaszaja-nieograniczona-wojne-podwodna"
+  ]
+ }
+]

@@ -31,7 +31,7 @@ Józef Świeżyński był ostatnim prezydentem ministrów powołanym przez [Rad�
 
 Urodził się 19 kwietnia 1868 roku we Wlonicach jako syn ziemianina Władysława Gerarda Świeżyńskiego i Heleny z Jaxa-Konarskich. Uczył się w gimnazjum w Radomiu, a medycynę studiował na Cesarskim Uniwersytecie Warszawskim. Już na studiach działał w konspiracyjnym [Związku Młodzieży Polskiej „Zet”](https://pl.wikipedia.org/wiki/Związek_Młodzieży_Polskiej_„Zet”), a w 1893 roku wstąpił do Ligi Narodowej. Po studiach pracował w klinikach w Berlinie i Giessen, ożenił się z Wandą Kiniorską i wrócił do Warszawy. W 1896 roku, z powodu choroby żony, przeniósł się do majątku jej rodziny w Jeleniowie, a w 1908 roku kupił majątek [Sadłowice](https://pl.wikipedia.org/wiki/Sadłowice_(województwo_świętokrzyskie)). W obu miejscach prowadził działalność społeczną.
 
-W latach 1906–1915 trzykrotnie wybierano go z guberni radomskiej do [Dumy Państwowej](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)): do pierwszej, trzeciej i czwartej. Dzielił wtedy czas między Sadłowice a Petersburg. Należał do obozu narodowych demokratów [Romana Dmowskiego](/postacie/roman-dmowski), który w Dumie stawiał na porozumienie z Rosją przeciw Niemcom.
+W latach 1906–1915 trzykrotnie wybierano go z guberni radomskiej do [Dumy Państwowej](/slownik/duma): do pierwszej, trzeciej i czwartej. Dzielił wtedy czas między Sadłowice a Petersburg. Należał do obozu narodowych demokratów [Romana Dmowskiego](/postacie/roman-dmowski), który w Dumie stawiał na porozumienie z Rosją przeciw Niemcom.
 
 ## Na czele pasywistów
 

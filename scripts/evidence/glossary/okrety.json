@@ -1,0 +1,70 @@
+[
+ {
+  "slug": "monitor",
+  "slugEn": "monitor",
+  "term": "Monitor",
+  "termEn": "Monitor",
+  "category": "bron",
+  "pattern": "\\bmonitor\\w*|\\bMonitor(?!ul)\\w*\\b(?! Polsk)",
+  "patternEn": "\\b[Mm]onitors?\\b(?! Polski)",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Powolny okręt o płytkim zanurzeniu, uzbrojony w nieproporcjonalnie ciężkie działa, do ostrzału wybrzeża i walki na rzekach. W tej wojnie strzelał u brzegów Belgii, w Dardanelach i na Dunaju.",
+  "shortEn": "A slow, shallow-draught warship with disproportionately heavy guns, built to bombard coasts and fight on rivers. In this war monitors fired off the Belgian coast, at the Dardanelles and on the Danube.",
+  "long": [
+   "Nazwa pochodzi od amerykańskiego okrętu Monitor z wojny secesyjnej, ale brytyjskie monitory I wojny światowej miały z nim niewiele wspólnego. Pierwsze trzy, Severn, Humber i Mersey, były kanonierkami rzecznymi budowanymi dla Brazylii. Pod koniec 1914 roku Churchill i Fisher zamówili całą flotyllę nowych, z działami zdjętymi z innych okrętów lub zamówionymi gdzie indziej, od 6 do 15 cali. Szerokie kadłuby z bąblami przeciwtorpedowymi chroniły przed torpedami, ale okręty były bardzo wolne i źle znosiły otwarte morze.",
+   "W październiku 1914 roku monitory wspierały Belgów nad Yser, a potem przez całą wojnę ostrzeliwały Ostendę i Zeebrugge. Od lata 1915 roku zastępowały pod Gallipoli stare pancerniki narażone na U-Booty, a w lipcu Severn i Mersey, kierowane z samolotów, rozbiły krążownik Königsberg w delcie Rufidżi. Austro-węgierskie monitory rzeczne ostrzelały Belgrad w nocy z 28 na 29 lipca 1914 roku, a potem walczyły z Serbami i Rumunami na Dunaju. W styczniu 1918 roku Goeben i Breslau zatopiły pod Imbros monitory Raglan i M28."
+  ],
+  "longEn": [
+   "The name comes from the American ship Monitor of the Civil War, but the British monitors of the First World War had little in common with her. The first three, Severn, Humber and Mersey, were river gunboats being built for Brazil. At the end of 1914 Churchill and Fisher ordered a whole flotilla of new ones, with guns taken from other ships or ordered elsewhere, from 6 to 15 inches. Broad hulls with anti-torpedo bulges protected them against torpedoes, but the ships were very slow and handled the open sea badly.",
+   "In October 1914 monitors supported the Belgians on the Yser, and then shelled Ostend and Zeebrugge throughout the war. From the summer of 1915 they replaced at Gallipoli the old battleships exposed to U-boats, and in July Severn and Mersey, directed from aircraft, wrecked the cruiser Königsberg in the Rufiji delta. Austro-Hungarian river monitors shelled Belgrade on the night of 28–29 July 1914, and then fought the Serbs and Romanians on the Danube. In January 1918 Goeben and Breslau sank the monitors Raglan and M28 off Imbros."
+  ],
+  "see": [
+   "bitwy/bitwa-w-delcie-rufiji",
+   "brytyjskie-okrety-ostrzeliwuja-wybrzeze-belgii",
+   "austro-wegierska-artyleria-ostrzeliwuje-belgrad",
+   "pierwsze-posiedzenie-komitetu-dardanelskiego",
+   "bitwy/bitwa-pod-imbros",
+   "zatoniecie-glattona"
+  ],
+  "sources": [
+   "https://navyhistory.au/british-monitors-east-of-malta/",
+   "https://www.historyofwar.org/articles/lists_monitor_classes_british_WWI.html",
+   "https://en.wikipedia.org/wiki/Monitor_(warship)"
+  ]
+ },
+ {
+  "slug": "krazownik-pancerny",
+  "slugEn": "armoured-cruiser",
+  "term": "Krążownik pancerny",
+  "termEn": "Armoured cruiser",
+  "category": "bron",
+  "pattern": "[Kk]rążownik\\w* pancern(?!opokład)\\w*",
+  "patternEn": "[Aa]rmou?red cruisers?",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Duży krążownik z pancernym pasem burtowym, budowany od lat 70. XIX wieku do ochrony handlu i rozpoznania. W 1914 roku przestarzały wobec krążownika liniowego, w czasie wojny poniósł ciężkie straty.",
+  "shortEn": "A large cruiser with an armoured belt along its sides, built from the 1870s to protect trade and to scout. Outclassed by the battlecruiser by 1914, it suffered heavy losses in the war.",
+  "long": [
+   "Krążownik pancerny łączył pancerz burtowy z prędkością i zasięgiem krążownika, więc mógł działać samodzielnie na odległych morzach, strzec szlaków handlowych i prowadzić rozpoznanie dla floty. Budowano je licznie na przełomie XIX i XX wieku. W 1908 roku wyparł je krążownik liniowy, szybszy i uzbrojony w działa pancernika, a po 1910 roku nie powstał już żaden nowy. W 1914 roku wiele z nich służyło jednak nadal, często z załogami złożonymi z rezerwistów.",
+   "22 września 1914 roku U-9 zatopił w ciągu godziny trzy brytyjskie krążowniki pancerne: Aboukir, Hogue i Cressy. 1 listopada pod Coronelem Scharnhorst i Gneisenau zatopiły Good Hope i Monmouth, a 8 grudnia same zginęły pod Falklandami. W styczniu 1915 roku na Dogger Bank zatonął Blücher, a pod Jutlandią Brytyjczycy stracili Defence, Warrior i Black Prince. Wiele innych poszło na dno od min i torped, w tym Hampshire z lordem Kitchenerem w czerwcu 1916 roku."
+  ],
+  "longEn": [
+   "The armoured cruiser combined side armour with a cruiser's speed and range, so it could operate on its own on distant seas, guard trade routes and scout for the fleet. They were built in large numbers around the turn of the 20th century. In 1908 the battlecruiser, faster and armed with a battleship's guns, superseded them, and no new one was built after 1910. In 1914, however, many were still in service, often with crews made up of reservists.",
+   "On 22 September 1914 U-9 sank three British armoured cruisers within an hour: Aboukir, Hogue and Cressy. On 1 November at Coronel Scharnhorst and Gneisenau sank Good Hope and Monmouth, and on 8 December they were themselves lost off the Falklands. In January 1915 Blücher went down at the Dogger Bank, and at Jutland the British lost Defence, Warrior and Black Prince. Many others were sunk by mines and torpedoes, among them Hampshire with Lord Kitchener in June 1916."
+  ],
+  "see": [
+   "zatoniecie-aboukir-hogue-i-cressy",
+   "bitwy/bitwa-pod-coronelem",
+   "bitwy/bitwa-kolo-falklandow",
+   "bitwy/bitwa-na-dogger-bank",
+   "bitwy/bitwa-jutlandzka",
+   "smierc-kitchenera"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armored_cruiser",
+   "https://www.avalanchepress.com/Armored_Cruisers_at_Jutland.php",
+   "https://www.britishbattles.com/battle-of-coronel"
+  ]
+ }
+]

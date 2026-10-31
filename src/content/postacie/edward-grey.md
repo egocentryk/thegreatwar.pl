@@ -54,7 +54,7 @@ Drugim wielkim zadaniem Greya było utrzymanie dobrych stosunków ze Stanami Zje
 
 ## Odejście
 
-Grey źle znosił ciężar wojny. Od lat chorował na oczy i stopniowo tracił wzrok. W lipcu 1916 roku, by zmniejszyć swoje obciążenie, przyjął tytuł wicehrabiego Grey of Fallodon i przeszedł do [Izby Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów), a latem zastępował go częściowo lord Crewe. Krytycy zarzucali mu, podobnie jak premierowi, brak energii. Gdy w grudniu 1916 roku [Asquith podał się do dymisji](/dymisja-asquitha), Grey odszedł razem z nim. Jego następcą w [rządzie Lloyda George'a](/rzad-koalicyjny-lloyda-george-a) został [Arthur Balfour](/postacie/arthur-balfour).
+Grey źle znosił ciężar wojny. Od lat chorował na oczy i stopniowo tracił wzrok. W lipcu 1916 roku, by zmniejszyć swoje obciążenie, przyjął tytuł wicehrabiego Grey of Fallodon i przeszedł do [Izby Lordów](/slownik/izba-lordow), a latem zastępował go częściowo lord Crewe. Krytycy zarzucali mu, podobnie jak premierowi, brak energii. Gdy w grudniu 1916 roku [Asquith podał się do dymisji](/dymisja-asquitha), Grey odszedł razem z nim. Jego następcą w [rządzie Lloyda George'a](/rzad-koalicyjny-lloyda-george-a) został [Arthur Balfour](/postacie/arthur-balfour).
 
 ## Po wojnie
 

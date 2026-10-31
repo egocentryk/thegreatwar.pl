@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Obernkirchen (now Lower Saxony)
 deathPlace: Marktredwitz (Bavaria)
 source: reinhard-scheer
-sourceHash: 0d2878ec868b00871f1cbe6c2681d9594fd72cfd
+sourceHash: 3daaa135fd7a503bd490b08478331a07ed745644
 ---
 
 Reinhard Scheer commanded the German High Seas Fleet in the only great clash of battle fleets of the First World War. At Jutland in 1916 his smaller fleet inflicted heavier losses on the British than it suffered itself, and twice broke out of a trap set by the Grand Fleet. Scheer soon concluded, however, that even the most successful battle at sea would not force Britain to make peace, and he became one of the loudest advocates of unrestricted submarine warfare, which in 1917 drew the United States into the war. In the last months of the war he directed the whole German war at sea. The plan for a final battle of the fleet, prepared by him and Hipper in October 1918, provoked a mutiny of the sailors with which the revolution in Germany began.
@@ -29,7 +29,7 @@ At the same time Scheer came into conflict with the government. When, after the 
 
 ## Jutland
 
-Scheer did not know that the British codebreakers of [Room 40](https://pl.wikipedia.org/wiki/Room_40) were reading his signals and that the whole Grand Fleet had put to sea before his ships left port. On 31 May 1916 the battlecruisers of Vice Admiral [Franz von Hipper](/postacie/franz-von-hipper), according to plan, lured the battlecruisers of [David Beatty](/postacie/david-beatty) under the guns of the German battleships, and two British ships blew up. When Scheer set off in pursuit of Beatty, Beatty in turn led him straight onto the battleships of Admiral [John Jellicoe](/postacie/john-jellicoe).
+Scheer did not know that the British codebreakers of [Room 40](/slownik/room-40) were reading his signals and that the whole Grand Fleet had put to sea before his ships left port. On 31 May 1916 the battlecruisers of Vice Admiral [Franz von Hipper](/postacie/franz-von-hipper), according to plan, lured the battlecruisers of [David Beatty](/postacie/david-beatty) under the guns of the German battleships, and two British ships blew up. When Scheer set off in pursuit of Beatty, Beatty in turn led him straight onto the battleships of Admiral [John Jellicoe](/postacie/john-jellicoe).
 
 At the [Battle of Jutland](/bitwy/bitwa-jutlandzka), at about 6.30 p.m., Scheer saw a long line of British dreadnoughts firing at his ships out of the mist to the north and east. He ordered the 180-degree simultaneous turn of all ships that had been practised for years (*Gefechtskehrtwendung*), and the fleet vanished from British view. Less than half an hour later, to the enemy's surprise, he turned east again. He himself wrote that he wanted to strike a second blow and possibly rescue the crew of the disabled cruiser *Wiesbaden*, while the British official history holds that he was more likely hoping to slip past astern of the Grand Fleet. His leading ships again came under the fire of the British line. Scheer turned away for the third time and, to cover the move, threw his torpedo boats and battlecruisers at the British with orders to ram the enemy. Jellicoe turned his battleships away from the torpedoes and contact was lost. During the night Scheer, determined to break through by the shortest route whatever the cost, passed through the British destroyers behind the Grand Fleet and on the morning of 1 June was safe off the Horns Reef.
 

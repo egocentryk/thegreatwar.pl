@@ -2,7 +2,7 @@
 title: Battle of Guillemont begins
 summary: On 3 September 1916 British and Irish troops took Guillemont on the Somme in under three hours, after it had been fought for in vain since late July.
 source: poczatek-bitwy-pod-guillemont
-sourceHash: 9f0d49d0741f75c7e3e31aef6eb00cb37be4fc56
+sourceHash: 7b4020faded4bdb5d1df90e9a500ada48cf86366
 brief:
   - "On Sunday 3 September 1916 the British Fourth Army and the French Sixth Army attacked together on the Somme. The main British objective was the ruined village of Guillemont."
   - "From 23 July the British had attacked Guillemont many times in vain, as the defenders sat out bombardments in deep dugouts. Haig wanted it taken before a great offensive with tanks."
@@ -49,7 +49,7 @@ On the German side Guillemont was defended by a battalion of the 76th Infantry R
 
 ## Ginchy: in and out
 
-To the left of Guillemont the day went differently. The 7th Division of XV Corps was to take Ginchy, a village lying higher than Guillemont, from which the Germans could see the whole area. At noon the 20th Manchesters went through the southern part of the village so quickly that they disappeared from the observers' view, and began to dig in on its eastern edge. The battalion on their left, however, was stopped by fire from German trenches by Delville Wood, whose eastern corner the British had not managed to clear beforehand. The Germans, who had held the northern part of Ginchy, counter-attacked from the north and drove the Manchesters out. At about 5.15 p.m. word reached 20th Division headquarters that the 7th Division had withdrawn from Ginchy. General Douglas Smith forbade any further advance towards Leuze Wood and ordered the left flank to be covered. At 5.30 and 6.30 p.m. German counter-attacks from the direction of Ginchy broke down under the fire of rifles and [Lewis light machine guns](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Lewis). In the evening the Germans, after fierce fighting with scattered groups of British soldiers, again took the whole of Ginchy.
+To the left of Guillemont the day went differently. The 7th Division of XV Corps was to take Ginchy, a village lying higher than Guillemont, from which the Germans could see the whole area. At noon the 20th Manchesters went through the southern part of the village so quickly that they disappeared from the observers' view, and began to dig in on its eastern edge. The battalion on their left, however, was stopped by fire from German trenches by Delville Wood, whose eastern corner the British had not managed to clear beforehand. The Germans, who had held the northern part of Ginchy, counter-attacked from the north and drove the Manchesters out. At about 5.15 p.m. word reached 20th Division headquarters that the 7th Division had withdrawn from Ginchy. General Douglas Smith forbade any further advance towards Leuze Wood and ordered the left flank to be covered. At 5.30 and 6.30 p.m. German counter-attacks from the direction of Ginchy broke down under the fire of rifles and [Lewis light machine guns](/slownik/karabin-maszynowy). In the evening the Germans, after fierce fighting with scattered groups of British soldiers, again took the whole of Ginchy.
 
 ## The French and the rest of the front
 

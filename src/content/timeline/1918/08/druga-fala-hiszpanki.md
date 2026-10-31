@@ -20,7 +20,7 @@ sources:
   - "https://en.wikipedia.org/wiki/HMS_Mantua"
 ---
 
-27 sierpnia 1918 roku w izbie chorych na Commonwealth Pier w [Bostonie](https://pl.wikipedia.org/wiki/Boston) zgłosiło się dwóch lub trzech marynarzy z gorączką i objawami grypy. Następnego dnia przyszło ośmiu, a dzień później kilkudziesięciu. Tak w Stanach Zjednoczonych zaczęła się druga fala [pandemii](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki), znacznie groźniejsza od wiosennej. Niemal w tym samym czasie, w drugiej połowie sierpnia, gwałtowne epidemie wybuchły w dwóch innych portach, odległych od siebie o tysiące kilometrów: w [Breście](https://pl.wikipedia.org/wiki/Brest) we Francji i we [Freetown](https://pl.wikipedia.org/wiki/Freetown) w brytyjskiej kolonii [Sierra Leone](https://pl.wikipedia.org/wiki/Sierra_Leone).
+27 sierpnia 1918 roku w izbie chorych na Commonwealth Pier w [Bostonie](https://pl.wikipedia.org/wiki/Boston) zgłosiło się dwóch lub trzech marynarzy z gorączką i objawami grypy. Następnego dnia przyszło ośmiu, a dzień później kilkudziesięciu. Tak w Stanach Zjednoczonych zaczęła się druga fala [pandemii](/slownik/grypa-hiszpanka), znacznie groźniejsza od wiosennej. Niemal w tym samym czasie, w drugiej połowie sierpnia, gwałtowne epidemie wybuchły w dwóch innych portach, odległych od siebie o tysiące kilometrów: w [Breście](https://pl.wikipedia.org/wiki/Brest) we Francji i we [Freetown](https://pl.wikipedia.org/wiki/Freetown) w brytyjskiej kolonii [Sierra Leone](https://pl.wikipedia.org/wiki/Sierra_Leone).
 
 ## Trzy porty
 

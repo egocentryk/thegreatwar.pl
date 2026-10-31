@@ -2,10 +2,10 @@
 title: Wreck of the cruiser Argyll
 summary: On 28 October 1915 the British cruiser Argyll ran onto the Bell Rock at night in a storm, because the lighthouse was unlit. Destroyers saved the whole crew.
 source: katastrofa-krazownika-argyll
-sourceHash: be50b80521c7fa4ecc1b19834f80b20e09e0e869
+sourceHash: 1987a77759faa8bd3e91bd706352e268ff4e10a0
 ---
 
-In the early hours of 28 October 1915, at about 4.30 a.m., the British [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Argyll* ran in a storm onto the submerged Bell Rock, also known as the Inchcape Rock, off the east coast of Scotland. The reef lies in the North Sea, about 18 kilometres from the port of [Arbroath](https://pl.wikipedia.org/wiki/Arbroath), opposite the mouth of the [Firth of Tay](https://pl.wikipedia.org/wiki/Firth_of_Tay). For more than a hundred years a [lighthouse](https://pl.wikipedia.org/wiki/Latarnia_morska_Bell_Rock) had stood on it, but that night it was dark. The ship could no longer be saved, but her entire crew of about 600 men survived.
+In the early hours of 28 October 1915, at about 4.30 a.m., the British [armoured cruiser](/slownik/krazownik-pancerny) *Argyll* ran in a storm onto the submerged Bell Rock, also known as the Inchcape Rock, off the east coast of Scotland. The reef lies in the North Sea, about 18 kilometres from the port of [Arbroath](https://pl.wikipedia.org/wiki/Arbroath), opposite the mouth of the [Firth of Tay](https://pl.wikipedia.org/wiki/Firth_of_Tay). For more than a hundred years a [lighthouse](https://pl.wikipedia.org/wiki/Latarnia_morska_Bell_Rock) had stood on it, but that night it was dark. The ship could no longer be saved, but her entire crew of about 600 men survived.
 
 ## The dark lighthouse
 

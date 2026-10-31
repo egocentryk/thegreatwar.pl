@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, Georg von der Marwitz]
 result: Allied victory. In the morning the Germans took Villers-Bretonneux, but a night counter-attack by two Australian brigades and British units retook the town. By 27 April the front had almost returned to the old lines, although Hangard remained in German hands.
 source: bitwa-pod-villers-bretonneux
-sourceHash: e3a2404fbe524aa7a167c91ed0bc699305392a88
+sourceHash: e7c3fd6c1bef71ea98bf38e0c942f55cfb8b744f
 brief:
   - "On 24 April 1918 four divisions of the German Second Army with thirteen A7V tanks struck in thick fog and took Villers-Bretonneux, a hill from which Amiens and its railway junction could be seen."
   - "That same day near Cachy the first tank-versus-tank engagement in history took place: Lieutenant Frank Mitchell's British Mark IV hit the German A7V Nixe."
@@ -30,7 +30,7 @@ When [Erich Ludendorff](/postacie/erich-ludendorff) broke off Operation Michael 
 
 For the next two weeks there was no quiet on this sector. The Australians and the French fought several times for the village of [Hangard](https://pl.wikipedia.org/wiki/Hangard) and Hangard Wood at the junction of the two armies, and the British complained that the French had given up the heights south of Hangard, from which the Germans could see the rear and right flank of the position at Villers-Bretonneux. The German Second Army of General [Georg von der Marwitz](/postacie/georg-von-der-marwitz) at first planned a broad attack as far as [Gentelles](https://pl.wikipedia.org/wiki/Gentelles) and the approaches to Amiens, but for lack of troops it gradually reduced and postponed it. In the end the aim was to "round off" the projecting wedge by taking Villers-Bretonneux and the plateau up to the line Fouilloy–Gentelles–Hangard. According to Second Army documents, the attack was above all meant to pin down Allied forces on this sector and draw attention away from the great battle in Flanders, where the [offensive on the Lys](/bitwy/bitwa-nad-lys-1918) had been under way since 9 April and an assault on Mount Kemmel was being prepared. The second aim was to get close enough for the artillery to shell the great railway stations of Amiens more effectively.
 
-The British expected an attack. On 17 April the Germans drenched Villers-Bretonneux, Aquenne Wood and Cachy with [phosgene](https://pl.wikipedia.org/wiki/Fosgen) and [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy) shells and repeated the bombardment over the following days. The gas put 1,074 British and Australian soldiers out of action. Prisoners and deserters announced the attack, first for 17, then for 23 April, and finally said that it would begin early in the morning of 24 April, after a bombardment lasting two and a quarter hours, and that tanks would take part in it.
+The British expected an attack. On 17 April the Germans drenched Villers-Bretonneux, Aquenne Wood and Cachy with [phosgene](/slownik/gaz-bojowy) and [mustard gas](/slownik/gaz-bojowy) shells and repeated the bombardment over the following days. The gas put 1,074 British and Australian soldiers out of action. Prisoners and deserters announced the attack, first for 17, then for 23 April, and finally said that it would begin early in the morning of 24 April, after a bombardment lasting two and a quarter hours, and that tanks would take part in it.
 
 ## Forces
 

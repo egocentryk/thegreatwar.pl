@@ -15,7 +15,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Tomasz_Janiszewski"
 ---
 
-24 października 1918 roku zapadła decyzja o zamknięciu wszystkich szkół w [Krakowie](https://pl.wikipedia.org/wiki/Kraków) na dwa tygodnie, od 27 października do 10 listopada. Krakowskie gazety domagały się tego od prawie dwóch tygodni, bo wśród chorych było mnóstwo uczniów. Jako powód podano szerzącą się „hiszpankę” i brak węgla do ogrzania klas. Epidemia [grypy hiszpanki](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki), która pod koniec sierpnia [ruszyła drugą falą](/druga-fala-hiszpanki) z portów Francji, Ameryki i Afryki, była już wtedy w całej Galicji, w Królestwie Polskim i w Poznańskiem. Ziemie polskie, wyniszczone czterema latami wojny, rekwizycjami i głodem, były dla niej wyjątkowo łatwym łupem.
+24 października 1918 roku zapadła decyzja o zamknięciu wszystkich szkół w [Krakowie](https://pl.wikipedia.org/wiki/Kraków) na dwa tygodnie, od 27 października do 10 listopada. Krakowskie gazety domagały się tego od prawie dwóch tygodni, bo wśród chorych było mnóstwo uczniów. Jako powód podano szerzącą się „hiszpankę” i brak węgla do ogrzania klas. Epidemia [grypy hiszpanki](/slownik/grypa-hiszpanka), która pod koniec sierpnia [ruszyła drugą falą](/druga-fala-hiszpanki) z portów Francji, Ameryki i Afryki, była już wtedy w całej Galicji, w Królestwie Polskim i w Poznańskiem. Ziemie polskie, wyniszczone czterema latami wojny, rekwizycjami i głodem, były dla niej wyjątkowo łatwym łupem.
 
 ## Kraków
 

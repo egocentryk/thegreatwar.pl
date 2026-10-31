@@ -2,7 +2,7 @@
 title: Start of the Arab Revolt
 summary: On 5 June 1916 the sons of the Sharif of Mecca, Ali and Faisal, proclaimed near Medina the Arabs' independence from the Turks. Thus began the Arab Revolt.
 source: poczatek-powstania-arabskiego
-sourceHash: 7258070635637b27e4c3ea2021b31cf7a759b35f
+sourceHash: bbb273af3dc59a801ad233b6fb5492b5a32ea8fb
 brief:
   - "On 5 June 1916 Ali and Faisal, sons of Hussein bin Ali, Sharif of Mecca, proclaimed near Medina the independence of the Arabs from Turkish rule. Thus, according to George Antonius, began the Arab Revolt."
   - "The sharif had long been on bad terms with the Young Turks and from 1915 corresponded with McMahon, who promised to support Arab independence. The hanging of 21 Arab activists on 6 May in Damascus and Beirut tipped the balance."
@@ -25,7 +25,7 @@ The date of the start of the revolt is given in various ways. The British chrono
 
 ## Causes
 
-Hussein had been sharif since 1908 and from the outset was on bad terms with the [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) ruling in Constantinople. The Young Turks wanted to centralise the state and curtail the traditional autonomy of the Hejaz. The British official history points out that the sharif opposed the extension of the [Hejaz Railway](https://pl.wikipedia.org/wiki/Kolej_Hidżaska) from Medina to Mecca, because he understood that the railway would make it easier for the Turks to supply and reinforce their garrisons, and would subject him to closer control. There were also rumours that the government intended to remove him and give the dignity of sharif to his rival from another branch of the family, Ali Haidar.
+Hussein had been sharif since 1908 and from the outset was on bad terms with the [Committee of Union and Progress](/slownik/mlodoturcy) ruling in Constantinople. The Young Turks wanted to centralise the state and curtail the traditional autonomy of the Hejaz. The British official history points out that the sharif opposed the extension of the [Hejaz Railway](https://pl.wikipedia.org/wiki/Kolej_Hidżaska) from Medina to Mecca, because he understood that the railway would make it easier for the Turks to supply and reinforce their garrisons, and would subject him to closer control. There were also rumours that the government intended to remove him and give the dignity of sharif to his rival from another branch of the family, Ali Haidar.
 
 At the same time, from July 1915 the sharif had been conducting a secret correspondence with the British High Commissioner in Egypt, Sir Henry McMahon. In the [letter of 24 October 1915](/list-mcmahona-do-szarifa-mekki) the British promised, with several reservations, to recognise and support Arab independence. In the spring of 1916 they began to deliver arms, and at the sharif's request their ships [blockaded the ports of the Hejaz](/blokada-wybrzeza-hidzazu). McMahon advised delay until the Arabs were better armed. Events in Syria, however, tipped the balance. Djemal Pasha was cracking down on Arab nationalist activists there, and on 6 May 21 of them were hanged in Damascus and [Beirut](https://pl.wikipedia.org/wiki/Bejrut). Antonius writes that Faisal, when their names were read out to him, tore the headcloth from his head, trampled on it and cried "Tab al-maut ya Arab!". These words, a call to the Arabs to avenge the dead at the risk of their lives, became the battle cry of the revolt.
 

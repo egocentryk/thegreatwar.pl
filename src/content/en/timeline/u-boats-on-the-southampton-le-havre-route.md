@@ -2,7 +2,7 @@
 title: U-boats on the Southampton–Le Havre route
 summary: On 13 October 1914 a British torpedo boat came upon a German submarine off the Isle of Wight. The Admiralty diverted the Canadian convoy to Plymouth.
 source: u-booty-na-trasie-southampton-hawr
-sourceHash: 80d33c38827c27e0c59117537d5628c52df7029c
+sourceHash: 157c7806381a21a7a85ce45e2d84c4d78bbc509c
 ---
 
 On the afternoon of 13 October 1914 the British Torpedo Boat No. 116 of the Portsmouth local defence flotilla sighted a German submarine off the eastern tip of the Isle of [Wight](https://pl.wikipedia.org/wiki/Wight), near Culver Cliff. A British chronicle of the events of the war recorded this as the first appearance of a German submarine on the route from [Southampton](https://pl.wikipedia.org/wiki/Southampton) to [Le Havre](/miejsca/hawr). Southampton was the main port from which troop and supply transports sailed for France, and Le Havre was just becoming the main British base on the Continent again.
@@ -13,7 +13,7 @@ The submarine was little more than a kilometre from the torpedo boat. The Britis
 
 The appearance of a U-boat in this spot came at the worst possible moment. A [great convoy carrying the first Canadian contingent](/kanadyjczycy-wyplywaja-do-anglii) was just approaching England: some 30 transports with more than 30,000 soldiers. The Admiralty had from the start preferred to send it to a port in the west of England, but the War Office pressed for Southampton, where everything had been prepared for unloading and moving the troops by rail to Salisbury Plain. On 10 October it was finally settled that the convoy would put in at Southampton.
 
-The incident off the Isle of Wight decided the matter. According to the British historian Julian Corbett, within an hour the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) decided that the safety of the convoy outweighed all military considerations. On the evening of 13 October Admiral Rosslyn Wemyss, commanding the escort, received orders to direct the ships to [Plymouth](https://pl.wikipedia.org/wiki/Plymouth). Soon afterwards, for the same reason, two other troop convoys returning home from Egypt and India were diverted to Liverpool.
+The incident off the Isle of Wight decided the matter. According to the British historian Julian Corbett, within an hour the [Admiralty](/slownik/admiralicja) decided that the safety of the convoy outweighed all military considerations. On the evening of 13 October Admiral Rosslyn Wemyss, commanding the escort, received orders to direct the ships to [Plymouth](https://pl.wikipedia.org/wiki/Plymouth). Soon afterwards, for the same reason, two other troop convoys returning home from Egypt and India were diverted to Liverpool.
 
 ## Hunting the convoy
 

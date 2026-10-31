@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Giuseppe Garibaldi
 summary: On 18 July 1915 the Austro-Hungarian submarine U-4 sank the Italian armoured cruiser Giuseppe Garibaldi off Cavtat as it shelled the railway in Dalmatia.
 source: zatopienie-krazownika-giuseppe-garibaldi
-sourceHash: 874c18cb7279c51515077c282f64a9e8ce031292
+sourceHash: d974d9e4b7492d1efeca6d2a6b8dd7204530533e
 ---
 
-On the morning of 18 July 1915 the Austro-Hungarian submarine [*U-4*](https://pl.wikipedia.org/wiki/SM_U-4_(1908)) torpedoed the Italian [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [*Giuseppe Garibaldi*](https://pl.wikipedia.org/wiki/Giuseppe_Garibaldi_(1899)) off the Dalmatian coast near [Cavtat](https://pl.wikipedia.org/wiki/Cavtat), in Italian Ragusa Vecchia. The flagship of the cruiser division sank within a few minutes. 53 sailors were killed and more than five hundred were rescued. It was the second loss of an Italian armoured cruiser in the Adriatic in less than two weeks.
+On the morning of 18 July 1915 the Austro-Hungarian submarine [*U-4*](https://pl.wikipedia.org/wiki/SM_U-4_(1908)) torpedoed the Italian [armoured cruiser](/slownik/krazownik-pancerny) [*Giuseppe Garibaldi*](https://pl.wikipedia.org/wiki/Giuseppe_Garibaldi_(1899)) off the Dalmatian coast near [Cavtat](https://pl.wikipedia.org/wiki/Cavtat), in Italian Ragusa Vecchia. The flagship of the cruiser division sank within a few minutes. 53 sailors were killed and more than five hundred were rescued. It was the second loss of an Italian armoured cruiser in the Adriatic in less than two weeks.
 
 ## Shelling the railway
 

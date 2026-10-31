@@ -2,10 +2,10 @@
 title: Chicherin and Trotsky
 summary: On 13 March 1918 Trotsky left the Commissariat for Foreign Affairs and took over military affairs. Soviet diplomacy passed to Georgy Chicherin.
 source: cziczerin-i-trocki
-sourceHash: 5d12c813f9edecd6fec6e4c7323726fb779addc7
+sourceHash: 6bc5978b0eccdc150e72b3e700a21a02de17700a
 ---
 
-On 13 March 1918 the [Council of People's Commissars](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR) accepted the resignation of [Leon Trotsky](/postacie/lew-trocki) as People's Commissar for Foreign Affairs and entrusted him with military affairs. The running of the Commissariat for Foreign Affairs was taken over, for the time being in an acting capacity, by Trotsky's deputy until then, [Georgy Chicherin](/postacie/gieorgij-cziczerin). The British chronicle of the war records both appointments under 8 March. Biographies of both politicians and studies based on Soviet documents, however, give 13 March, and some of them give 14 March as the start of Trotsky's tenure in the new commissariat.
+On 13 March 1918 the [Council of People's Commissars](/slownik/rada-komisarzy-ludowych) accepted the resignation of [Leon Trotsky](/postacie/lew-trocki) as People's Commissar for Foreign Affairs and entrusted him with military affairs. The running of the Commissariat for Foreign Affairs was taken over, for the time being in an acting capacity, by Trotsky's deputy until then, [Georgy Chicherin](/postacie/gieorgij-cziczerin). The British chronicle of the war records both appointments under 8 March. Biographies of both politicians and studies based on Soviet documents, however, give 13 March, and some of them give 14 March as the start of Trotsky's tenure in the new commissariat.
 
 Trotsky's departure from diplomacy was the consequence of the failure of his policy at Brest-Litovsk. The formula ["neither war nor peace"](/ani-wojna-ani-pokoj), announced on 10 February, did not stop the Germans, who on 18 February went over to the offensive and forced the Bolsheviks to accept much harsher terms. Trotsky offered his resignation as early as 22 February. He explained that his departure would convince the Germans of a real change of course and that Russia genuinely wanted peace. He did not go back to Brest-Litovsk, and the [treaty](/traktat-brzeski) of 3 March was signed by Grigori Sokolnikov's delegation, which also included Chicherin. The resignation was formally accepted only after the Bolshevik party congress of 6–8 March, when the government was moving [to Moscow](/moskwa-stolica-rosji).
 

@@ -9,7 +9,7 @@ brief:
   - "The war left debts, inflation and millions of invalids, widows and orphans, but it also hastened votes for women in many countries."
   - "Communism in power in Russia, Italian fascism and the League of Nations all grew out of the war. Whether the peace of 1919 led straight to another war is still debated by historians."
 source: skutki-i-wojny-swiatowej
-sourceHash: bbc89806cb3e1d49cb9fb58ab00d60df641e25c2
+sourceHash: 6a0ed66dfd5a58c5991e86e73c706971b93f7cd7
 ---
 
 According to various tallies, the First World War killed between 8.5 and 11 million soldiers and between 5 and 13 million civilians, and right after it the Spanish flu pandemic swept the world. Four empires fell, the Russian, German, Austro-Hungarian and Ottoman, and new states rose on their ruins, among them a reborn Poland. The Paris Peace Conference imposed treaties on the defeated, of which the most important, the Treaty of Versailles, is still argued over. The war left behind debts, inflation and millions of invalids, but also votes for [women](/tematy/kobiety-w-czasie-i-wojny-swiatowej) in many countries, the League of Nations and new movements, communist and fascist, that shaped the rest of the century.
@@ -24,7 +24,7 @@ Civilian deaths are even harder to count. Estimates range from 5 to 13 million d
 
 On Polish soil the war set brother against brother, because Poles served in the armies of all three partitioning powers. Between 2.9 and 3.4 million of them were under arms, and between 385 and 530 thousand were killed, died or went missing. The front swept across Congress Poland and Galicia several times. In the summer of 1915, during the [great offensive of the Central Powers](/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie), the Russians abandoned Congress Poland and forcibly removed huge numbers of people deep into the empire. This [bezhenstvo](https://pl.wikipedia.org/wiki/Bieżeństwo), or refugee exodus, involved by various estimates between 2 and 3.5 million people of all nationalities.
 
-A separate catastrophe was the [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki) pandemic of 1918–1919. The war did not cause it, but in the United States it was first detected among military personnel, and in the last months of the fighting it ravaged armies from Palestine to East Africa. According to the American CDC, about 500 million people, a third of the world's population, were infected, and at least 50 million died. Older estimates, quoted in Polish school materials, put the toll at about 20 million. Pandemic deaths are not usually counted as war losses.
+A separate catastrophe was the [Spanish flu](/slownik/grypa-hiszpanka) pandemic of 1918–1919. The war did not cause it, but in the United States it was first detected among military personnel, and in the last months of the fighting it ravaged armies from Palestine to East Africa. According to the American CDC, about 500 million people, a third of the world's population, were infected, and at least 50 million died. Older estimates, quoted in Polish school materials, put the toll at about 20 million. Pandemic deaths are not usually counted as war losses.
 
 ## The fall of four empires
 

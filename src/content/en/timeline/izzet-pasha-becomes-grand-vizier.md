@@ -2,10 +2,10 @@
 title: İzzet Pasha becomes grand vizier
 summary: On 14 October 1918, after Talat Pasha's resignation, Marshal Ahmed İzzet Pasha became grand vizier. His task was to lead the empire out of the war.
 source: izzet-pasza-wielkim-wezyrem
-sourceHash: 4a7f8dc8c06f7d5e3dedc9ddbe5f3c53e847bd21
+sourceHash: a6a9bd440f7e37aafa75564164a820bbae1151ee
 ---
 
-On 14 October 1918 Sultan [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI) handed the seal of the [grand vizier](https://pl.wikipedia.org/wiki/Wielki_wezyr) to General [Ahmed İzzet Pasha](https://pl.wikipedia.org/wiki/Ahmed_İzzet_Pasza), who was promoted to marshal on the occasion. This brought to an end more than five years of rule by the [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu). The handing over of the seal was the formal act of appointment, and according to Turkish accounts his cabinet's term of office is counted from that day. A British chronology of the war gives the date as 13 October, while the British official histories say in general terms that İzzet was appointed a week before 20 October.
+On 14 October 1918 Sultan [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI) handed the seal of the [grand vizier](https://pl.wikipedia.org/wiki/Wielki_wezyr) to General [Ahmed İzzet Pasha](https://pl.wikipedia.org/wiki/Ahmed_İzzet_Pasza), who was promoted to marshal on the occasion. This brought to an end more than five years of rule by the [Committee of Union and Progress](/slownik/mlodoturcy). The handing over of the seal was the formal act of appointment, and according to Turkish accounts his cabinet's term of office is counted from that day. A British chronology of the war gives the date as 13 October, while the British official histories say in general terms that İzzet was appointed a week before 20 October.
 
 ## The fall of Talat
 
@@ -21,6 +21,6 @@ In the new cabinet İzzet himself took the Ministry of War, although the press h
 
 ## The armistice government
 
-The new government's most urgent task was to get out of the war as quickly as possible. İzzet released General Charles Townshend, the defender of [Kut](/kapitulacja-al-kutu), from captivity and sent him to the British with the message that Turkey was ready to make peace. Less than two weeks later this led to negotiations in which the Ottoman delegation was led by Rauf. İzzet himself was ill with [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki) for most of his short term of office.
+The new government's most urgent task was to get out of the war as quickly as possible. İzzet released General Charles Townshend, the defender of [Kut](/kapitulacja-al-kutu), from captivity and sent him to the British with the message that Turkey was ready to make peace. Less than two weeks later this led to negotiations in which the Ottoman delegation was led by Rauf. İzzet himself was ill with [Spanish flu](/slownik/grypa-hiszpanka) for most of his short term of office.
 
 The cabinet lasted less than four weeks. At the beginning of November Talat, Enver and Djemal fled the country at night on a German torpedo boat, and İzzet was accused of having let them go. On 8 November he resigned, and he was succeeded by Ahmed Tevfik Pasha.

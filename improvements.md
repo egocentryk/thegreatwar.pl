@@ -2891,6 +2891,49 @@ page counts, sample matches, JS-escape check, `--merge`).
 - Archangel: one name across the English edition ("Archangel"); the
   Polish "Archangielsk" is consistent.
 
+## 55. Longer glossary texts, batch 2: fifteen terms (2026-10-31)
+
+- Owner: "commit and go with glossary". Same form as §51, five writers.
+- Seven new terms (`glossary.py` 0 problems, merged; 143 terms):
+  `monitor` (pattern skips "Monitor Polski" and "Monitorul Oficial"),
+  `krazownik-pancerny` / `armoured-cruiser` (skips "pancernopokładowy"),
+  `konwencje-haskie` / `hague-conventions`, `deklaracja-londynska` /
+  `declaration-of-london` (excludes the 1914 pact pages), `admiralicja` /
+  `admiralty` (case-sensitive; skips the German Admiralstab, the islands,
+  the Dover pier; 13 pages excluded), `izba-lordow` / `house-of-lords`
+  (12 English pages excluded: the Austrian and Prussian upper houses),
+  `room-40`.
+- Longer texts, PL/EN, `topics.py --glossary` 0 problems: monitor (513
+  words, 20 internal links), krążownik pancerny (478, 14), drednot (438,
+  20; now with the pre-dreadnoughts), konwencje haskie (475, 13),
+  deklaracja londyńska (496, 13), Admiralicja (435, 21), Izba Lordów (522,
+  14), Duma (512, 16), Room 40 (578, 13), gaz bojowy (513, 8; takes the
+  chlorine, phosgene and mustard gas links), karabin maszynowy (459, 7;
+  Lewis, Vickers, Maxim, MG 08), grypa hiszpanka (450, 13), Rada
+  Komisarzy Ludowych (463, 17), rada delegatów (471, 16), młodoturcy (482,
+  15). 30 glossary texts in all.
+- Links: 391 now ours, 365 files, English restamped. Report: 22,349 →
+  21,958. The eight bare `Admiralicja` links checked: all the British
+  Admiralty.
+- Checks: all content checks 0; i18n 0 (3495 EN files); build 8124 pages;
+  term pages and marks checked at 390px, no script errors.
+
+### Writers' notes (for the review list)
+
+- `countries/rosja`: the tsar "rozwiązał Dumę" in 1915; he adjourned it
+  (16 IX 1915); the Provisional Government dissolved it in October 1917.
+- `1917/01/telegram-zimmermanna`: the codebreakers de Grey and Dilly Knox;
+  en.wiki and The History Press: de Grey and William Montgomery.
+- Blücher's dead at Dogger Bank: "blisko tysiąc" and "około 950" in
+  `bitwa-na-dogger-bank`, "blisko 800" in a timeline article.
+- Defence at Jutland: "około 900" and "ponad 900" in `bitwa-jutlandzka`.
+- Caporetto's gas: phosgene (our pages) vs a chlorine–arsenic agent and
+  diphosgene (en.wiki).
+- 19 XII 1915 phosgene attack: 120 dead of 1,069 gassed (ours, British
+  official history) vs 69 dead (en.wiki).
+- Rada Komisarzy Ludowych: pl.wiki has its decree dissolving the
+  Constituent Assembly; `rozpedzenie-konstytuanty` has the WCIK.
+
 ---
 
 ## Roadmap (checklist)
@@ -3002,7 +3045,8 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links: "Siły zbrojne" pilot (§52)
 - [x] Wikipedia links: "Siły zbrojne" batch 2 (§53)
 - [x] Wikipedia links: "Miejsca" batch 3, 47 places (§54)
-- [ ] Wikipedia links: glossary batch 2; people and single articles; a menu entry for Miejsca and Siły zbrojne (expansion-plan.md C)
+- [x] Wikipedia links: glossary texts, batch 2 (§55)
+- [ ] Wikipedia links: people and single articles; a menu entry for Miejsca and Siły zbrojne (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

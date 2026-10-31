@@ -2,10 +2,10 @@
 title: Proclamation of the Sharif of Mecca
 summary: On 27 June 1916 the Sharif of Mecca issued an appeal to the world's Muslims. He accused the Young Turks of godlessness and proclaimed the Hejaz independent.
 source: proklamacja-szarifa-mekki
-sourceHash: 0c1e0061a9b3d5d6658d575a74bd64b9c05f412d
+sourceHash: 0211af3c9bfa0bdd2a79c069fcbb0d9d66fac47e
 ---
 
-Under the date of the 25th day of the month of Sha'ban in the year 1334 of the Hijra, that is 26 or 27 June 1916, the Sharif of Mecca signed a proclamation to all Muslims. In it he condemned the [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) ruling in Constantinople and proclaimed the independence of the [Hejaz](https://pl.wikipedia.org/wiki/Hidżaz). English translations, published during the war and in the 1920s, give the date as 27 June. The Lebanese historian George Antonius writes that the sharif circulated this first proclamation of his in July. The British chronology of the war records it under 7 June, but that is impossible, because the text describes events that took place in Mecca only after 10 June. The available sources mention no document of the sharif's dated 7 June.
+Under the date of the 25th day of the month of Sha'ban in the year 1334 of the Hijra, that is 26 or 27 June 1916, the Sharif of Mecca signed a proclamation to all Muslims. In it he condemned the [Committee of Union and Progress](/slownik/mlodoturcy) ruling in Constantinople and proclaimed the independence of the [Hejaz](https://pl.wikipedia.org/wiki/Hidżaz). English translations, published during the war and in the 1920s, give the date as 27 June. The Lebanese historian George Antonius writes that the sharif circulated this first proclamation of his in July. The British chronology of the war records it under 7 June, but that is impossible, because the text describes events that took place in Mecca only after 10 June. The available sources mention no document of the sharif's dated 7 June.
 
 ## An appeal to all Muslims
 

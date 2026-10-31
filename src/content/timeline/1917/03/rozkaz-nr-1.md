@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 marca 1917 roku (1 marca według kalendarza juliańskiego) [Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich) uchwaliła dokument, który przeszedł do historii jako [rozkaz nr 1](https://pl.wikipedia.org/wiki/Rozkaz_nr_1_Rady_Piotrogrodzkiej). Był skierowany do garnizonu Piotrogrodu, „wszystkich żołnierzy gwardii, armii, artylerii i floty”, do natychmiastowego wykonania. Nakazywał wybór komitetów żołnierskich we wszystkich oddziałach, oddawał broń pod ich kontrolę i stanowił, że w sprawach politycznych żołnierze podlegają Radzie. Dwa dni po [zwycięstwie powstania w stolicy](/rewolucja-lutowa) rozkaz uderzył w sam fundament armii: posłuszeństwo żołnierzy wobec oficerów.
+14 marca 1917 roku (1 marca według kalendarza juliańskiego) [Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich](/slownik/rada-delegatow) uchwaliła dokument, który przeszedł do historii jako [rozkaz nr 1](https://pl.wikipedia.org/wiki/Rozkaz_nr_1_Rady_Piotrogrodzkiej). Był skierowany do garnizonu Piotrogrodu, „wszystkich żołnierzy gwardii, armii, artylerii i floty”, do natychmiastowego wykonania. Nakazywał wybór komitetów żołnierskich we wszystkich oddziałach, oddawał broń pod ich kontrolę i stanowił, że w sprawach politycznych żołnierze podlegają Radzie. Dwa dni po [zwycięstwie powstania w stolicy](/rewolucja-lutowa) rozkaz uderzył w sam fundament armii: posłuszeństwo żołnierzy wobec oficerów.
 
 ## Skąd się wziął
 

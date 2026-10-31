@@ -1,0 +1,173 @@
+{
+ "slug": "karabin-maszynowy",
+ "paragraphs": [
+  {
+   "start": "Karabin maszynowy, potocznie kaem, to broń samoczy",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Broń samoczynna strzelająca seriami, kilkaset pocisków na minutę. W I wojnie światowej ciężkie kaemy na podstawach, obsługiwane przez kilkuosobowe załogi, były podstawą obrony okopów; z czasem doszły lżejsze ręczne."
+    },
+    {
+     "url": "https://www.nam.ac.uk/explore/weapons-western-front",
+     "quote": "The machine gun was one of the deadliest weapons of the Western Front, causing thousands of casualties."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/machine-guns/",
+     "quote": "The Lewis gun substantially increased the infantry’s firepower during an attack"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Machine_gun",
+     "quote": "Aircraft-mounted machine guns were first used in combat in World War I ."
+    }
+   ]
+  },
+  {
+   "start": "Pierwszy praktyczny karabin maszynowy, który sam pr",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Machine_gun",
+     "quote": "The first practical self-powered machine gun was invented in 1884 by Sir Hiram Maxim ."
+    },
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "w 1914 roku wszystkie armie miały jego odmiany lub podobne konstrukcje: niemiecki MG 08, rosyjski Maxim, brytyjski Vickers."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Machine_gun",
+     "quote": "From rear to front: Austro-Hungarian Schwarzlose M7/12, British Lewis, German MG 08."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Machine_gun",
+     "quote": "Heavy guns based on the Maxim such as the Vickers machine gun were joined by many other machine weapons, which mostly had their start in the early 20th century such as the Hotchkiss machine gun ."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/machine-guns/",
+     "quote": "The water-cooled Vickers fired the standard .303-inch bullet (as did the Lee-Enfield rifle) from 250-round cloth ammunition belts. The Vickers could fire between 450 to 500 rounds per minute to a maximum range of 4,500 metres. It was an effective, reliable weapon but heavy and difficult to transport forward during a battle. Colt Machine-Gun"
+    }
+   ]
+  },
+  {
+   "start": "Przed wojną wiele armii wątpiło jeszcze w przydatn",
+   "quotes": [
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/machine-guns/",
+     "quote": "Machine-guns pre-dated the First World War by half a century and were in widespread use by 1914, but doubts about their role and effectiveness limited the use of machine-guns in most pre-war armies."
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/army/regiments-and-corps/machine-gun-corps-in-the-first-world-war/",
+     "quote": "By 1914, all British infantry battalions were equipped with a machine gun section of two guns, which was increased to four in February 1915."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/machine-guns/",
+     "quote": "The Canadians went overseas with only four Colt machine-guns in each infantry battalion. The Colt was a good weapon, but it tended to jam after rapid-fire. It was replaced in 1916 with the Vickers, a heavier and more dependable weapon."
+    }
+   ]
+  },
+  {
+   "start": "Najwcześniej siłę kaemu w obronie docenili Niemcy:",
+   "quotes": [
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/machine-guns/",
+     "quote": "At first, only the Germans appreciated the power of machine-guns when used on the defence from prepared positions with overlapping fields of fire. All armies would soon learn this lesson, as the machine-gun, perhaps more than any other weapon, drove soldiers from the battlefield and into relatively safe trenches, dug-outs, and fortifications."
+    },
+    {
+     "file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md",
+     "quote": "summary: 1 lipca 1916 Brytyjczycy i Francuzi uderzyli nad Sommą."
+    },
+    {
+     "file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md",
+     "quote": "Na wielu odcinkach niemieccy strzelcy wyciągnęli karabiny maszynowe na zrujnowane przedpiersia albo do lejów po pociskach przed okopami i strzelali do szeregów piechoty jak na strzelnicy."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Machine_gun",
+     "quote": "The biggest single cause of casualties in World War I was actually artillery, but combined with wire entanglements , machine guns earned a fearsome reputation."
+    }
+   ]
+  },
+  {
+   "start": "Poza Europą kaem nadal dawał przewagę wojskom kolo",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/05/starcie-pod-beringia.md",
+     "quote": "summary: 22 maja 1916 armia sułtana Darfuru Alego Dinara rzuciła się pod Beringią na czworobok Kelly'ego. Po 40 minutach walki została rozbita ogniem dział i maximów."
+    },
+    {
+     "file": "src/content/timeline/1916/03/wojska-sudanskie-wkraczaja-do-darfuru.md",
+     "quote": "Wojska Kelly'ego należały do armii egipskiej, którą jako sirdar dowodził Wingate."
+    }
+   ]
+  },
+  {
+   "start": "Z czasem ciężkie kaemy zabrano batalionom i zgrupo",
+   "quotes": [
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/machine-guns/",
+     "quote": "Heavy machine-guns were later removed from the infantry battalions and grouped into machine-gun units to centralize firepower. They often fired indirect barrages onto enemy lines or fixed positions such as crossroads or supply trenches."
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/army/regiments-and-corps/machine-gun-corps-in-the-first-world-war/",
+     "quote": "The Machine Gun Corps was created by Royal Warrant on 14 October, followed by an Army Order on 22 October 1915."
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/army/regiments-and-corps/machine-gun-corps-in-the-first-world-war/",
+     "quote": "On 2 September 1915 a proposal was made to the War Office for the formation of a single specialist Machine Gun Company for each infantry brigade, by bringing together the guns and gun teams from the four battalions of the brigade."
+    },
+    {
+     "url": "https://www.longlongtrail.co.uk/army/regiments-and-corps/machine-gun-corps-in-the-first-world-war/",
+     "quote": "A total of 170,500 officers and men served in the MGC, of which 62,049 were killed, wounded or missing."
+    },
+    {
+     "file": "src/content/timeline/1917/07/utworzenie-korpusu-pancernego.md",
+     "quote": "28 lipca 1917 roku na mocy królewskiego dekretu (Royal Warrant) brytyjskie oddziały czołgów, dotąd formalnie część Korpusu Karabinów Maszynowych (Machine Gun Corps), stały się osobnym rodzajem wojsk"
+    }
+   ]
+  },
+  {
+   "start": "Miejsce vickersów w batalionach zajął lekki Lewis,",
+   "quotes": [
+    {
+     "url": "https://www.longlongtrail.co.uk/army/regiments-and-corps/machine-gun-corps-in-the-first-world-war/",
+     "quote": "Lewis guns were supplied to the army from July 1915, initially to six selected Divisions and then to more as they were produced in increasing numbers."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/machine-guns/",
+     "quote": "Infantry units received growing numbers of the Lewis light machine-gun, which could be carried by a single soldier and fired a 47-round drum magazine."
+    },
+    {
+     "file": "src/content/timeline/1916/07/poczatek-bitwy-o-grzbiet-pozieres.md",
+     "quote": "w pierwszej linii stało kilkanaście lekkich karabinów maszynowych Lewisa, które Australijczycy tym razem śmiało wysłali do przodu razem z falami szturmowymi."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Od 1915 roku rozpowszechniały się lżejsze kaemy ręczne, jak brytyjski Lewis i francuski Chauchat, dające siłę ognia nacierającym"
+    }
+   ]
+  },
+  {
+   "start": "Kaem uzbroił też samoloty. Latem 1915 roku Niemcy",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Machine_gun",
+     "quote": "By mid 1915 , the introduction of a reliable gun synchronizer by the Imperial German Flying Corps made it possible to fire a closed-bolt machine gun forward through a spinning propeller by timing the firing of the gun to miss the blades."
+    },
+    {
+     "file": "src/content/timeline/1915/10/poczatek-plagi-fokkerow.md",
+     "quote": "summary: Jesienią 1915 niemieckie jednopłatowce Fokker z karabinem strzelającym przez śmigło dały Niemcom przewagę w powietrzu nad frontem zachodnim."
+    },
+    {
+     "file": "src/content/timeline/1916/04/koniec-plagi-fokkerow.md",
+     "quote": "Nie miały synchronizatora: karabin Lewis strzelał ponad śmigłem, z górnego płata."
+    },
+    {
+     "file": "src/content/timeline/1916/09/nalot-sterowcow-i-zestrzelenie-sl-11.md",
+     "quote": "Około 2.15 nad ranem 3 września porucznik William Leefe Robinson z 39 Dywizjonu zapalił SL 11 amunicją wybuchową z karabinu Lewis."
+    },
+    {
+     "file": "src/content/timeline/1916/09/nalot-sterowcow-i-zestrzelenie-sl-11.md",
+     "quote": "summary: W nocy z 2 na 3 września 1916 na Londyn ruszyło 16 sterowców."
+    }
+   ]
+  }
+ ]
+}

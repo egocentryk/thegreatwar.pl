@@ -2,10 +2,10 @@
 title: War Office takes over air defence
 summary: On 16 February 1916 the air defence of London passed from the Admiralty to Field Marshal John French, and soon after that of the whole country.
 source: ministerstwo-wojny-przejmuje-obrone-przeciwlotnicza
-sourceHash: 370c1e804e4ea1137745cbad2506f8d815d7e1ec
+sourceHash: 9195e3701083d1e86d5208f548a766605d768579
 ---
 
-On 16 February 1916 responsibility for the air defence of London passed from the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) to the [War Office](https://pl.wikipedia.org/wiki/War_Office), the British ministry of war. The guns, searchlights and aircraft defending the capital were placed under Field Marshal [John French](/postacie/john-french), who since December 1915 had been [Commander-in-Chief, Home Forces](/dymisja-johna-frencha). According to the British official history of the war in the air, a few days later the army took over defence against air raids in the rest of the country. The navy kept only the task of engaging enemy aircraft over the sea before they reached the coast.
+On 16 February 1916 responsibility for the air defence of London passed from the [Admiralty](/slownik/admiralicja) to the [War Office](https://pl.wikipedia.org/wiki/War_Office), the British ministry of war. The guns, searchlights and aircraft defending the capital were placed under Field Marshal [John French](/postacie/john-french), who since December 1915 had been [Commander-in-Chief, Home Forces](/dymisja-johna-frencha). According to the British official history of the war in the air, a few days later the army took over defence against air raids in the rest of the country. The navy kept only the task of engaging enemy aircraft over the sea before they reached the coast.
 
 ## A year and a half of divided responsibility
 

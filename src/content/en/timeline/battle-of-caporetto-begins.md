@@ -2,7 +2,7 @@
 title: Battle of Caporetto begins
 summary: On 24 October 1917, after a gas bombardment, Germans and Austrians struck on the upper Isonzo. By evening they had broken the Italian front and taken Caporetto.
 source: poczatek-bitwy-pod-caporetto
-sourceHash: 88bffd3f8d6ad126ae3f485a9285cd9f61eef4a6
+sourceHash: 075e7e689ec228fc9084e17ca88d3c5fa39099f3
 brief:
   - "At two in the morning on 24 October 1917 Germany and Austria-Hungary launched a joint offensive against Italy on the upper Isonzo, called the Twelfth Battle of the Isonzo and known as the Battle of Caporetto."
   - "The Austrians, exhausted by the Eleventh Battle of the Isonzo, had obtained German help. General Luigi Cadorna knew of the plan from deserters but did not believe in a major offensive in such difficult mountains."
@@ -21,7 +21,7 @@ The Italians knew that something was in preparation. On 20 and 21 October three 
 
 ## Gas and fog
 
-The weather that day was dreadful: in the night it drizzled, then came downpours, and on the peaks snowstorms. Fog filled the valleys. Punctually at 2 a.m. the Central Powers' artillery opened fire with gas shells on the Italian batteries and the front line. At Bovec, in Italian Plezzo, the German 35th Pioneer Battalion electrically fired 894 projectors buried in the ground, modelled on the British Livens projectors. Their bombs filled with [phosgene](https://pl.wikipedia.org/wiki/Fosgen) a ravine behind the Italian front line in which men of the 87th Infantry Regiment of the Friuli Brigade were sheltering. When the German pioneers entered the ravine in the morning, they found, according to their accounts, between 500 and 800 dead, only a few of whom had managed to put on their masks. The gas also silenced some of the Italian batteries that were to have shelled the crowded German and Austrian assembly positions.
+The weather that day was dreadful: in the night it drizzled, then came downpours, and on the peaks snowstorms. Fog filled the valleys. Punctually at 2 a.m. the Central Powers' artillery opened fire with gas shells on the Italian batteries and the front line. At Bovec, in Italian Plezzo, the German 35th Pioneer Battalion electrically fired 894 projectors buried in the ground, modelled on the British Livens projectors. Their bombs filled with [phosgene](/slownik/gaz-bojowy) a ravine behind the Italian front line in which men of the 87th Infantry Regiment of the Friuli Brigade were sheltering. When the German pioneers entered the ravine in the morning, they found, according to their accounts, between 500 and 800 dead, only a few of whom had managed to put on their masks. The gas also silenced some of the Italian batteries that were to have shelled the crowded German and Austrian assembly positions.
 
 After a two-hour pause, at 6.30 a.m., a violent destructive bombardment fell on the Italian trenches, command posts, depots and roads, and half an hour later the trench mortars joined in. The fog in the valleys prevented the Italians from using the machine guns and guns hidden in rock caverns on the slopes. The artillery of General [Pietro Badoglio](/postacie/pietro-badoglio)'s XXVII Corps, its telephone lines cut by the bombardment, hardly replied, which later became the subject of years of controversy.
 

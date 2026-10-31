@@ -2,7 +2,7 @@
 title: Germans take Mount Kemmel
 summary: On 25 April 1918, after a gas bombardment, the Alpenkorps took the French-held Kemmelberg in just over an hour. The British held the flank at Ypres.
 source: niemcy-zdobywaja-wzgorze-kemmel
-sourceHash: 0910a7091edb328751850292221d8d5da74fc40a
+sourceHash: f251767d4e090c1a231b0e653e5ff75524f45da4
 brief:
   - "On 25 April 1918, the seventeenth day of the offensive on the Lys, the German Alpenkorps took the Kemmelberg, the hill from which the Allies had since 1914 observed the plain south of Ypres."
   - "The hill was held by the French 28th Infantry Division. For two hours the Germans smothered the Allied batteries, roads and reserves with mustard gas, tear gas and high explosive."
@@ -21,7 +21,7 @@ The last days before the battle were restless. The German artillery pounded the 
 
 ## Gas and fog
 
-At 2.30 a.m. British time the bombardment began. For two hours the German guns smothered the Allied batteries, roads and reserves with [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy), tear gas and high-explosive shells. After a half-hour pause the fire shifted to the front-line trenches. Frenchmen who remembered Verdun said afterwards that they had not experienced such fire even there. The French batteries, crowded into a deep valley north of the hills, were almost completely gassed. Thick fog lay over the whole battlefield, and at five in the morning visibility was at most 50 metres.
+At 2.30 a.m. British time the bombardment began. For two hours the German guns smothered the Allied batteries, roads and reserves with [mustard gas](/slownik/gaz-bojowy), tear gas and high-explosive shells. After a half-hour pause the fire shifted to the front-line trenches. Frenchmen who remembered Verdun said afterwards that they had not experienced such fire even there. The French batteries, crowded into a deep valley north of the hills, were almost completely gassed. Thick fog lay over the whole battlefield, and at five in the morning visibility was at most 50 metres.
 
 At six the German infantry went in to the assault. The Alpenkorps headed straight for the Kemmelberg, and the 56th Division for the village of Kemmel. The French line on the lower slopes was broken by the first wave. At 7.10 a.m. soldiers of the Bavarian Infantry Life Guards Regiment, who besides their weapons carried supplies for four days, stood on the summit, supported by low-flying aircraft. The French reserves did not even manage to leave the dugouts cut into the slope. Half an hour later the village of Kemmel fell. A British officer present on the hill wrote that there were too many men in the trenches, who were dying under the bombardment and began to leave the hill even before the assault, and that the reserves stood too close to create a defence in depth. The French historian General Palat later admitted that no real resistance was seen in the first and second lines, even though two regiments of the 28th Division wore the shoulder cord (*fourragère*) for earlier distinction.
 

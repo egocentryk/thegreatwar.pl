@@ -2,14 +2,14 @@
 title: Sinking of the battleship Majestic
 summary: On the morning of 27 May 1915 U-21 torpedoed the British battleship Majestic off Cape Helles. It was the second battleship Hersing had sunk in three days.
 source: zatopienie-pancernika-majestic
-sourceHash: 1efd21305ce2fb4bc9eb1f6c9766eac5459d4202
+sourceHash: 8cf0336484ac6fb2928abff9fae2d9bc889892cf
 ---
 
 At about 6.45 a.m. on 27 May 1915 the German submarine [*U-21*](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) torpedoed the British battleship *Majestic*, lying at anchor off W Beach at Cape Helles, at the southern tip of the Gallipoli peninsula. The ship capsized within minutes. Most of the crew were saved, but according to various sources between about 40 and 49 men were killed. The commander of *U-21*, Kapitänleutnant Otto Hersing, had [sunk the battleship *Triumph* off Gaba Tepe](/zatopienie-pancernika-triumph) only two days earlier.
 
 ## The pride of the Channel Fleet
 
-*Majestic*, launched at Portsmouth in 1895, was the lead ship of a class which, with nine units, remained the most numerous class of battleships in the history of the [Royal Navy](/sily-zbrojne/royal-navy). She carried four 12-inch (305 mm) guns. For years she was the pride of the Channel Fleet, and by 1914 she was an obsolete [pre-dreadnought](https://pl.wikipedia.org/wiki/Przeddrednot). She arrived at the Dardanelles in February 1915. On 26 February, together with *Albion* and *Triumph*, she was among the first Allied heavy ships to enter deep into the straits, and on 18 March she took part in the [great attack by the fleet](/atak-floty-w-dardanelach-odparty). After the landings she supported the troops ashore with her guns. She was commanded by Captain Henry Talbot, and on 25 May, the day *Triumph* was sunk, *Majestic* became the flagship of Rear-Admiral Stuart Nicholson, who directed the ships supporting the troops at Cape Helles.
+*Majestic*, launched at Portsmouth in 1895, was the lead ship of a class which, with nine units, remained the most numerous class of battleships in the history of the [Royal Navy](/sily-zbrojne/royal-navy). She carried four 12-inch (305 mm) guns. For years she was the pride of the Channel Fleet, and by 1914 she was an obsolete [pre-dreadnought](/slownik/drednot). She arrived at the Dardanelles in February 1915. On 26 February, together with *Albion* and *Triumph*, she was among the first Allied heavy ships to enter deep into the straits, and on 18 March she took part in the [great attack by the fleet](/atak-floty-w-dardanelach-odparty). After the landings she supported the troops ashore with her guns. She was commanded by Captain Henry Talbot, and on 25 May, the day *Triumph* was sunk, *Majestic* became the flagship of Rear-Admiral Stuart Nicholson, who directed the ships supporting the troops at Cape Helles.
 
 ## Among the transports
 

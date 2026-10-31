@@ -1,0 +1,189 @@
+{
+ "slug": "mlodoturcy",
+ "paragraphs": [
+  {
+   "start": "Młodoturcy to ruch osmańskich reformatorów",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Nacjonalistyczny ruch reformatorski w Imperium Osmańskim, skupiony w Komitecie Jedności i Postępu. Od 1913 roku rządził państwem, wprowadził je do wojny po stronie Niemiec i zorganizował ludobójstwo Ormian."
+    },
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "Its members are referred to as unionists."
+    },
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "Latem 1908 roku poszedł z oddziałem w góry i obok Ahmeda Niyaziego stał się bohaterem rewolucji młodotureckiej, która zmusiła sułtana do przywrócenia konstytucji."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "Szybko stał się faktycznym przywódcą komitetu, którego program przesuwał się od współpracy wszystkich narodów imperium ku tureckiemu nacjonalizmowi."
+    }
+   ]
+  },
+  {
+   "start": "Ruch zaczął się od tajnego koła studentów",
+   "quotes": [
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "Its precursor was the Ottoman Union Society, a secret circle of liberal-minded students in the imperial military medical school in Constantinople (now Istanbul) who aspired to overthrow the autocratic regime of Sultan Abdülhamit II. The founders were Ibrahim Temo (Albanian); İshak Sükuti and Abdullah Cevdet (both Kurds); and Mehmet Reşid (Circassian). Despite its clandestine organization modeled along the Italian Carbonari, Abdülhamit's police discovered and suppressed the society as its cell spread among higher schools in Constantinople."
+    },
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "After 1895, the society established contact with Ottoman liberals in European exile. Its name changed to Committee for Union and Progress (CUP) under the influence of positivist Ahmet Riza"
+    },
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "After two unsuccessful coup attempts in 1896 and 1897, the domestic leadership, which now included high officials and officers, was imprisoned. In Europe, rivalries between Young Turk groups and within the branches weakened the committee."
+    },
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "After 1906, underground revolutionary activity intensified in the empire, particularly in Macedonia. Two groups, Patrie and Liberty and the Ottoman Liberty Society, merged in Salonika"
+    },
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "The administrative inexperience and social insecurity of its leaders (among them civilians Mehmet Talat, Bahattin Şakir, Midhat Şükrü; and officers Cemal Paça and Enver Paşa) kept the committee from taking charge of the government."
+    }
+   ]
+  },
+  {
+   "start": "W lipcu 1908 roku oficerowie związani",
+   "quotes": [
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "Committee army officers had ready access to arms and disaffected men, whom they led in July 1908 to rebellious acts that triggered the revolutionary wave."
+    },
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "Latem 1908 roku poszedł z oddziałem w góry"
+    },
+    {
+     "file": "src/content/timeline/1918/07/smierc-mehmeda-v.md",
+     "quote": "Mehmed Reşad, syn sułtana Abdülmecida I, przez ponad trzydzieści lat żył pod nadzorem w pałacach nad Bosforem, bo jego przyrodni brat Abdülhamid II obawiał się rywala. Na tron wyniosła go w 1909 roku armia związana z młodoturkami, która po nieudanym kontrprzewrocie zdetronizowała Abdülhamida."
+    },
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "The society exercised more direct control over government after the counterrevolutionary attempt of April 1909 by placing its men in key cabinet positions."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "którego program przesuwał się od współpracy wszystkich narodów imperium ku tureckiemu nacjonalizmowi."
+    }
+   ]
+  },
+  {
+   "start": "W 1912 roku komitet stracił władzę",
+   "quotes": [
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "It was forced to give up power to the leaders of the old regime in 1912."
+    },
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "23 stycznia 1913 roku, w czasie przegranej wojny bałkańskiej, na czele grupy unionistów wdarł się do siedziby rządu, zmusił do dymisji wielkiego wezyra Kâmila Paszę, a w zamieszaniu zastrzelono ministra wojny."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "Po zabójstwie wielkiego wezyra Mahmuda Şevketa Paszy w czerwcu tego roku komitet przejął pełnię władzy."
+    },
+    {
+     "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/committee-union-and-progress",
+     "quote": "The assassination of Mahmut Şevket later in 1913 gave the excuse to the society to crush its opposition and come to uncontested power. Wartime emergency after 1914 facilitated the establishment of single-party rule."
+    }
+   ]
+  },
+  {
+   "start": "Państwem rządził odtąd faktycznie triumwirat",
+   "quotes": [
+    {
+     "file": "src/content/countries/imperium-osmanskie.md",
+     "quote": "Państwem rządził odtąd triumwirat: minister wojny Enver Pasza, minister marynarki Dżemal Pasza i minister spraw wewnętrznych Mehmed Talat."
+    },
+    {
+     "file": "src/content/timeline/1917/02/talat-pasza-wielkim-wezyrem.md",
+     "quote": "4 lutego 1917 Mehmed Talat, minister spraw wewnętrznych i główny organizator ludobójstwa Ormian, został wielkim wezyrem po dymisji Saida Halima Paszy."
+    },
+    {
+     "file": "src/content/timeline/1917/02/talat-pasza-wielkim-wezyrem.md",
+     "quote": "który kierował rządem od czerwca 1913 roku"
+    }
+   ]
+  },
+  {
+   "start": "2 sierpnia 1914 roku kilku przywódców",
+   "quotes": [
+    {
+     "file": "src/content/topics/ludobojstwo-ormian.md",
+     "quote": "2 sierpnia 1914 roku przywódcy komitetu zawarli tajny sojusz z Niemcami"
+    },
+    {
+     "file": "src/content/timeline/1914/08/tajny-sojusz-niemiec-i-imperium-osmanskiego.md",
+     "quote": "Porozumienie było dziełem kilku ludzi."
+    },
+    {
+     "file": "src/content/timeline/1914/08/tajny-sojusz-niemiec-i-imperium-osmanskiego.md",
+     "quote": "Pozostali ministrowie, parlament i osmański ambasador w Berlinie nie zostali poinformowani"
+    },
+    {
+     "file": "src/content/timeline/1914/09/turcja-znosi-kapitulacje.md",
+     "quote": "9 września 1914 rząd osmański ogłosił zniesienie kapitulacji"
+    },
+    {
+     "file": "src/content/timeline/1914/10/turecka-flota-atakuje-rosje.md",
+     "quote": "29 października 1914 okręty osmańskie admirała Souchona bez wypowiedzenia wojny ostrzelały rosyjskie porty nad Morzem Czarnym. Turcja weszła do wojny."
+    }
+   ]
+  },
+  {
+   "start": "Enver sam poprowadził armię",
+   "quotes": [
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "Zimą 1914 roku sam poprowadził armię pod Sarykamysz, gdzie zginęła ona w śniegu."
+    },
+    {
+     "file": "src/content/postacie/dzemal-pasza.md",
+     "quote": "Dwukrotnie wysyłał wojska na Kanał Sueski"
+    },
+    {
+     "file": "src/content/postacie/dzemal-pasza.md",
+     "quote": "niemal samowładny namiestnik Syrii"
+    },
+    {
+     "file": "src/content/topics/ludobojstwo-ormian.md",
+     "quote": "Od wiosny 1915 roku rządzący Komitet Jedności i Postępu aresztował i mordował ormiańskich przywódców, a całe społeczności deportował z Anatolii na pustynie Syrii i Mezopotamii."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview",
+     "quote": "The Ottoman government, controlled by the Committee of Union and Progress (CUP; also called the Young Turks), aimed to solidify Muslim Turkish dominance in the regions of central and eastern Anatolia by eliminating the sizeable Armenian presence there."
+    }
+   ]
+  },
+  {
+   "start": "Na początku października 1918 roku, po kapitulacji",
+   "quotes": [
+    {
+     "file": "src/content/postacie/dzemal-pasza.md",
+     "quote": "Dżemal pozostał ministrem marynarki do października 1918 roku, gdy po kapitulacji Bułgarii ustąpił rząd Talata, a wielkim wezyrem został Ahmed İzzet Pasza. Dwa dni po podpisaniu rozejmu w Mudros, w nocy z 1 na 2 listopada, uciekł razem z Enverem i Talatem z Konstantynopola na niemieckim okręcie. W 1919 roku sąd wojenny w Konstantynopolu skazał go zaocznie na śmierć."
+    },
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "W 1919 roku sąd wojenny w Konstantynopolu skazał Envera zaocznie na śmierć za wciągnięcie kraju do wojny i zbrodnie na Ormianach."
+    },
+    {
+     "file": "src/content/timeline/1918/10/izzet-pasza-wielkim-wezyrem.md",
+     "quote": "14 października 1918 po dymisji Talata Paszy wielkim wezyrem został marszałek Ahmed İzzet Pasza."
+    },
+    {
+     "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+     "quote": "1 listopada Komitet Jedności i Postępu na ostatnim zjeździe postanowił się rozwiązać, a jego przywódcy, Talat, Enver i Dżemal, uciekli nocą z kraju na niemieckim okręcie."
+    },
+    {
+     "file": "src/content/topics/ludobojstwo-ormian.md",
+     "quote": "Do ruchu narodowego Mustafy Kemala przyłączyli się dawni przywódcy komitetu, także oskarżeni o zbrodnie wojenne. Wyroki na triumwirach wykonali ormiańscy zamachowcy. 15 marca 1921 roku w Berlinie zastrzelił Talata Soghomon Tehlirian, który w czasie deportacji stracił rodzinę. Był to pierwszy zamach operacji „Nemezis”, a berliński sąd uniewinnił zamachowca. Dżemal zginął w 1922 roku w Tyflisie z rąk ormiańskich zamachowców, a Enver w tym samym roku w Azji Środkowej, walcząc z bolszewikami."
+    }
+   ]
+  }
+ ]
+}

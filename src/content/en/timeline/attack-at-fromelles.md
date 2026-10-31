@@ -2,7 +2,7 @@
 title: Attack at Fromelles
 summary: On the evening of 19 July 1916 British and Australian troops attacked at Fromelles. By morning the 5th Australian Division had lost 5,533 men and held nothing.
 source: atak-pod-fromelles
-sourceHash: 0ad06c696dbc8cb72c8c09b89a59c3297eb96665
+sourceHash: ac43459eb18020a22e2f5f9d18676bcbabba345f
 brief:
   - "At 6 p.m. on 19 July 1916 the British 61st Division and the 5th Australian Division attacked the German trenches at Fromelles in French Flanders. For both divisions it was their first action on the Western Front."
   - "It was a subsidiary attack meant to keep German troops away from the Battle of the Somme, which had been going on for three weeks. In one Bavarian regiment 60 of the 75 shelters survived seven hours of bombardment."
@@ -55,7 +55,7 @@ On the left flank the 8th Brigade, helped by men of the 29th and 30th Battalions
 
 At dawn the Germans struck the 8th Brigade from the front and the left flank. The 32nd Battalion began withdrawing across no man's land, followed by the 31st. Many groups fought their way through to their own lines; others were cut off and taken prisoner. According to Bavarian accounts, by about 6 a.m. the line on this sector was already in their hands.
 
-At 5 a.m. at Sailly, General Charles Monro, commander of the First Army, was conferring with Haking and the divisional commanders about a new attack by the 61st Division. It was then that McCay learnt by telephone of the 8th Brigade's retreat. Monro called off the operation and ordered the 14th Brigade to be withdrawn. At 5.40 a.m. the artillery surrounded the sector it held with a "box" of fire so that the Germans could not enter it, but the order to retire reached Cass only at 7.50 a.m., and some groups never received it. The Germans were already deep behind the right flank, so anyone who tried to return over the top came under fire. Salvation came from the communication trench, which the engineers and pioneers had almost completed during the night. By 9 a.m. most of the remnants of the 53rd, 54th and 55th Battalions were back. Six [Vickers machine guns](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Vickers) had to be abandoned. At about 8.10 a.m. the Bavarian units counter-attacking from two directions joined hands and the whole of the old line was German again.
+At 5 a.m. at Sailly, General Charles Monro, commander of the First Army, was conferring with Haking and the divisional commanders about a new attack by the 61st Division. It was then that McCay learnt by telephone of the 8th Brigade's retreat. Monro called off the operation and ordered the 14th Brigade to be withdrawn. At 5.40 a.m. the artillery surrounded the sector it held with a "box" of fire so that the Germans could not enter it, but the order to retire reached Cass only at 7.50 a.m., and some groups never received it. The Germans were already deep behind the right flank, so anyone who tried to return over the top came under fire. Salvation came from the communication trench, which the engineers and pioneers had almost completed during the night. By 9 a.m. most of the remnants of the 53rd, 54th and 55th Battalions were back. Six [Vickers machine guns](/slownik/karabin-maszynowy) had to be abandoned. At about 8.10 a.m. the Bavarian units counter-attacking from two directions joined hands and the whole of the old line was German again.
 
 ## The night's toll
 

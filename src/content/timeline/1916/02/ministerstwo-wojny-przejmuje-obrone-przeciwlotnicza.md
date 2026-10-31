@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-16 lutego 1916 roku odpowiedzialność za obronę przeciwlotniczą Londynu przeszła z [Admiralicji](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) na [War Office](https://pl.wikipedia.org/wiki/War_Office), czyli brytyjskie ministerstwo wojny. Działa, reflektory i samoloty broniące stolicy podporządkowano marszałkowi polnemu [Johnowi Frenchowi](/postacie/john-french), który od grudnia 1915 roku był [naczelnym dowódcą wojsk w kraju](/dymisja-johna-frencha). Według brytyjskiej historii oficjalnej wojny powietrznej kilka dni później armia przejęła obronę przed nalotami w całej reszcie kraju. Marynarka zachowała tylko zadanie zwalczania nieprzyjacielskich statków powietrznych nad morzem, zanim dotrą do wybrzeża.
+16 lutego 1916 roku odpowiedzialność za obronę przeciwlotniczą Londynu przeszła z [Admiralicji](/slownik/admiralicja) na [War Office](https://pl.wikipedia.org/wiki/War_Office), czyli brytyjskie ministerstwo wojny. Działa, reflektory i samoloty broniące stolicy podporządkowano marszałkowi polnemu [Johnowi Frenchowi](/postacie/john-french), który od grudnia 1915 roku był [naczelnym dowódcą wojsk w kraju](/dymisja-johna-frencha). Według brytyjskiej historii oficjalnej wojny powietrznej kilka dni później armia przejęła obronę przed nalotami w całej reszcie kraju. Marynarka zachowała tylko zadanie zwalczania nieprzyjacielskich statków powietrznych nad morzem, zanim dotrą do wybrzeża.
 
 ## Półtora roku podzielonej odpowiedzialności
 

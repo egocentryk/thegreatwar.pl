@@ -2,10 +2,10 @@
 title: Ottoman Empire abolishes the capitulations
 summary: On 9 September 1914 the Ottoman government announced an end to the capitulations, foreign privileges, from 1 October. All the powers, Germany too, objected.
 source: turcja-znosi-kapitulacje
-sourceHash: 59e78f98c7081af3a744d77744dcf237f15bdf9a
+sourceHash: 9422897e7bb7fbc705a6604a0cc458543613fd93
 ---
 
-On 9 September 1914 the government of the [Ottoman Empire](/kraje/imperium-osmanskie) informed the ambassadors of foreign states in Constantinople that it would abolish the capitulations with effect from 1 October. This was the name of the system of privileges that for centuries had protected foreigners from Turkish courts and taxes. The decision had been taken the day before by the leadership of the ruling [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu). For the Turks it was one of the most important moments in the history of their state, and for the powers, both the Entente and the Central Powers, a challenge thrown down at a time when Europe was busy with the war.
+On 9 September 1914 the government of the [Ottoman Empire](/kraje/imperium-osmanskie) informed the ambassadors of foreign states in Constantinople that it would abolish the capitulations with effect from 1 October. This was the name of the system of privileges that for centuries had protected foreigners from Turkish courts and taxes. The decision had been taken the day before by the leadership of the ruling [Committee of Union and Progress](/slownik/mlodoturcy). For the Turks it was one of the most important moments in the history of their state, and for the powers, both the Entente and the Central Powers, a challenge thrown down at a time when Europe was busy with the war.
 
 ## What the capitulations were
 

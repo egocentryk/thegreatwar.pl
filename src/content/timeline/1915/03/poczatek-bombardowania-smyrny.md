@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 marca 1915 roku brytyjska eskadra pod dowództwem wiceadmirała Richarda Peirse'a rozpoczęła ostrzał fortów broniących [Smyrny](https://pl.wikipedia.org/wiki/Izmir), największego portu na egejskim wybrzeżu [Imperium Osmańskiego](/kraje/imperium-osmanskie). W akcji wzięły udział [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) Euryalus, okręt flagowy admirała, stare pancerniki Triumph i Swiftsure, przerobiony ze zdobycznego niemieckiego frachtowca [okręt-baza wodnosamolotów](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów) Anne Rickmers oraz grupa trałowców, przerobionych z kutrów rybackich.
+5 marca 1915 roku brytyjska eskadra pod dowództwem wiceadmirała Richarda Peirse'a rozpoczęła ostrzał fortów broniących [Smyrny](https://pl.wikipedia.org/wiki/Izmir), największego portu na egejskim wybrzeżu [Imperium Osmańskiego](/kraje/imperium-osmanskie). W akcji wzięły udział [krążownik pancerny](/slownik/krazownik-pancerny) Euryalus, okręt flagowy admirała, stare pancerniki Triumph i Swiftsure, przerobiony ze zdobycznego niemieckiego frachtowca [okręt-baza wodnosamolotów](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów) Anne Rickmers oraz grupa trałowców, przerobionych z kutrów rybackich.
 
 ## Dlaczego Smyrna
 

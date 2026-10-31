@@ -177,6 +177,75 @@ Notes:
 - Krążownik pomocniczy: armed merchant ships, German raiders and British
   cruisers of the blockade; the cases our pages tell (link them).
 
+## Batch 2 (2026-10-31)
+
+Same form and limits as batch 1 (the owner approved it). New terms first
+get a glossary entry (see "New terms" above): one JSON list per group in
+`scripts/evidence/glossary/<file the table names>.json`, checked with
+`glossary.py` without `--merge`. A new term's own slug can't be linked
+until the coordinator merges; other new terms of other groups neither.
+Quote the `term` in double quotes in the front matter if it has a colon.
+
+| grp | glossary slug (new: proposed) | wikiTitles | new-entries file | author |
+|---|---|---|---|---|
+| S | new `monitor` / `monitor` | Monitor_(okręt), Monitor_rzeczny | `okrety.json` | Łukasz Skowroń |
+| S | new `krazownik-pancerny` / `armoured-cruiser` | Krążownik_pancerny | `okrety.json` | Natalia |
+| S | `drednot` | Przeddrednot, Pancernik | | Łukasz Skowroń |
+| T | new `konwencje-haskie` / `hague-conventions` | Konwencje_haskie_z_1899_i_1907_roku, Konwencje_haskie | `prawo-i-wladze.json` | Natalia |
+| T | new `deklaracja-londynska` / `declaration-of-london` | Deklaracja_londyńska | `prawo-i-wladze.json` | Łukasz Skowroń |
+| T | new `admiralicja` / `admiralty` | Admiralicja_brytyjska, Admiralicja | `prawo-i-wladze.json` | Natalia |
+| U | new `izba-lordow` / `house-of-lords` | Izba_Lordów | `parlamenty.json` | Łukasz Skowroń |
+| U | `duma` | Duma_Państwowa_(Imperium_Rosyjskie) | | Natalia |
+| U | new `room-40` / `room-40` | Room_40 | `parlamenty.json` | Łukasz Skowroń |
+| V | `gaz-bojowy` | Iperyt_siarkowy, Chlor, Fosgen, Difosgen | | Natalia |
+| V | `karabin-maszynowy` | Karabin_maszynowy_Lewis, Karabin_maszynowy_Vickers, Karabin_maszynowy_Maxim, Karabin_maszynowy_MG08 | | Łukasz Skowroń |
+| V | `grypa-hiszpanka` | Pandemia_grypy_hiszpanki | | Natalia |
+| W | `rada-komisarzy-ludowych` | Rada_Komisarzy_Ludowych_RFSRR | | Łukasz Skowroń |
+| W | `rada-delegatow` | Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich | | Natalia |
+| W | `mlodoturcy` | Komitet_Jedności_i_Postępu, Rewolucja_młodoturecka | | Łukasz Skowroń |
+
+Notes:
+- Monitor: shallow-draught gun ships for shore bombardment: the Belgian
+  coast and the Dardanelles, the river monitors (Danube flotilla,
+  Mesopotamia, the Rufiji and Königsberg); link the battle pages.
+- Krążownik pancerny: the type before the battlecruiser; Coronel and the
+  Falklands, the Aboukir, Hogue and Cressy, Blücher at Dogger Bank, the
+  losses at Jutland (Defence, Warrior, Black Prince).
+- Drednot (existing): add the pre-dreadnoughts: the Dardanelles losses
+  (Bouvet, Irresistible, Ocean, Goliath, Triumph, Majestic), Pommern at
+  Jutland, their use as coastal and escort ships; the dreadnought itself
+  as now.
+- Konwencje haskie: 1899 and 1907, what they ruled for this war (gas,
+  bombardment, prisoners, hospital ships, neutrals) and how they were
+  broken; link the glossary texts `statek-szpitalny`, `gaz-bojowy`.
+- Deklaracja londyńska: the unratified 1909 code of naval war and
+  contraband, its use and abandonment 1914–1916 (link `/slownik/blokada`,
+  don't retell it).
+- Admiralicja: the Board of Admiralty: First Lord and First Sea Lord
+  (Churchill, Fisher, Balfour, Carson, Geddes; Jellicoe, Wemyss), its
+  quarrels and reforms, Room 40 in a sentence; link
+  `/sily-zbrojne/royal-navy`, don't retell it.
+- Izba Lordów: the Lords in the war (the 1911 Act's limits, the war
+  debates, Lansdowne's letter of November 1917); link `/slownik/izba-gmin`.
+- Duma: the Russian parliament in the war: the session of August 1914,
+  the Progressive Bloc (1915), Milyukov's "stupidity or treason" (November
+  1916), the Provisional Committee of February 1917, its end.
+- Room 40: the Admiralty's code-breakers: the captured code books
+  (Magdeburg), the Zimmermann telegram, Jutland, Hall.
+- Gaz bojowy (existing): chlorine, phosgene, mustard gas (Ypres 1915 and
+  1917), masks, casualties (ranges); link the battle pages.
+- Karabin maszynowy (existing): Maxim and its descendants (MG 08, Vickers),
+  the Lewis and other light guns, the machine-gun corps, its effect.
+- Grypa hiszpanka (existing): the three waves 1918–1919, in the armies and
+  at home, the censorship and the name, deaths (ranges).
+- Rada Komisarzy Ludowych (existing): Sovnarkom from 8 November 1917:
+  Lenin, the decrees, Brest, the move to Moscow.
+- Rada delegatów (existing): the Petrograd Soviet: February 1917, Order
+  No. 1, dual power, Trotsky and October.
+- Młodoturcy (existing): the Committee of Union and Progress: 1908, the
+  1913 coup, Enver, Talat, Djemal, the war, the genocide (link the guide,
+  don't retell), the flight of November 1918.
+
 ## Report (short)
 
 Per text: paths, words, sources, internal links, conflicts with our pages

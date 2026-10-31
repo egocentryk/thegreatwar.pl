@@ -2,10 +2,10 @@
 title: Second wave of the Spanish flu
 summary: On 27 August 1918 the first sailors fell ill in Boston. Almost simultaneously the second and deadliest wave of the Spanish flu broke out in Brest and Freetown.
 source: druga-fala-hiszpanki
-sourceHash: 3164db80ff81c4066e6b64a3f2d82b9c7822f43d
+sourceHash: 86f1a4680e19b0636ef5f559db47a360acac028a
 ---
 
-On 27 August 1918 two or three sailors with fever and flu symptoms reported to the sick bay on Commonwealth Pier in [Boston](https://pl.wikipedia.org/wiki/Boston). The next day eight came, and the day after that several dozen. This is how the second wave of the [pandemic](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki), far more dangerous than the spring one, began in the United States. At almost the same time, in the second half of August, violent epidemics broke out in two other ports, thousands of kilometres apart: in [Brest](https://pl.wikipedia.org/wiki/Brest) in France and in [Freetown](https://pl.wikipedia.org/wiki/Freetown) in the British colony of [Sierra Leone](https://pl.wikipedia.org/wiki/Sierra_Leone).
+On 27 August 1918 two or three sailors with fever and flu symptoms reported to the sick bay on Commonwealth Pier in [Boston](https://pl.wikipedia.org/wiki/Boston). The next day eight came, and the day after that several dozen. This is how the second wave of the [pandemic](/slownik/grypa-hiszpanka), far more dangerous than the spring one, began in the United States. At almost the same time, in the second half of August, violent epidemics broke out in two other ports, thousands of kilometres apart: in [Brest](https://pl.wikipedia.org/wiki/Brest) in France and in [Freetown](https://pl.wikipedia.org/wiki/Freetown) in the British colony of [Sierra Leone](https://pl.wikipedia.org/wiki/Sierra_Leone).
 
 ## Three ports
 

@@ -6,14 +6,14 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Knowsley Hall (Lancashire)
 source: lord-derby
-sourceHash: 0bf2f1eeb04e1bdb02796891e854fd70b7aa01f5
+sourceHash: ab09ce983d0626c769fa399e19916a11a237f13f
 ---
 
 Edward George Villiers Stanley, 17th Earl of Derby, was one of the richest men in England and the most influential aristocrat of its industrial north, known as the "uncrowned king of Lancashire". During the Great War he made his mark in two roles. In 1915, as Director-General of Recruiting, he gave the British voluntary system a last chance in the scheme named after him. From December 1916 to April 1918 he was Secretary of State for War in the government of [David Lloyd George](/postacie/david-lloyd-george) and stood between the prime minister and the generals the prime minister wanted to be rid of. This second role was judged harshly: he defended Field Marshal [Douglas Haig](/postacie/douglas-haig) and General William Robertson but was unable to protect them, and Haig himself compared him to a feather pillow.
 
 ## Before the war
 
-He was born on 4 April 1865 in London, the eldest son of Frederick Stanley, later 16th Earl of Derby, and grandson of the three-time prime minister, the 14th Earl of Derby. He was educated at Wellington College and served in the Grenadier Guards, and was aide-de-camp to his father when the latter was Governor General of Canada. In 1892 he entered the House of Commons as a Conservative. During the Boer War he was chief press censor on Lord Roberts's staff and then his private secretary. From 1903 to 1905 he sat in Arthur Balfour's government as Postmaster General. In 1908 he inherited the earldom and vast landed estates in [Lancashire](https://pl.wikipedia.org/wiki/Lancashire) and moved to the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów). In 1911–1912 he was Lord Mayor of [Liverpool](https://pl.wikipedia.org/wiki/Liverpool). He was famous for his hospitality, his kindness, his love of horse racing and his talent for smoothing over disputes, but also for his indecision.
+He was born on 4 April 1865 in London, the eldest son of Frederick Stanley, later 16th Earl of Derby, and grandson of the three-time prime minister, the 14th Earl of Derby. He was educated at Wellington College and served in the Grenadier Guards, and was aide-de-camp to his father when the latter was Governor General of Canada. In 1892 he entered the House of Commons as a Conservative. During the Boer War he was chief press censor on Lord Roberts's staff and then his private secretary. From 1903 to 1905 he sat in Arthur Balfour's government as Postmaster General. In 1908 he inherited the earldom and vast landed estates in [Lancashire](https://pl.wikipedia.org/wiki/Lancashire) and moved to the [House of Lords](/slownik/izba-lordow). In 1911–1912 he was Lord Mayor of [Liverpool](https://pl.wikipedia.org/wiki/Liverpool). He was famous for his hospitality, his kindness, his love of horse racing and his talent for smoothing over disputes, but also for his indecision.
 
 ## Recruiting
 

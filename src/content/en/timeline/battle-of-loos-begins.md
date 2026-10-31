@@ -2,7 +2,7 @@
 title: Battle of Loos begins
 summary: On 25 September 1915 the British attacked at Loos behind chlorine gas, taking the village, Hill 70 and the Hohenzollern Redoubt, but reserves were too far back.
 source: poczatek-bitwy-pod-loos
-sourceHash: 023c96cf04cba746cfcd1a3b2dc7f21f010f13c0
+sourceHash: 76e0ab1d82837126089e2a834e992f894f7946c0
 brief:
   - "On 25 September 1915 six divisions of General Douglas Haig's First Army attacked the German trenches at Loos, north of Lens. It was the British part of the great autumn offensive of the Allies."
   - "The British had too few guns and shells, so for the first time they used gas on a large scale. The wind, however, was very weak, and in several places the chlorine blew back onto their own trenches."
@@ -11,7 +11,7 @@ brief:
   - "According to the British official history the First Army lost 470 officers and about 15,000 men that day. Haig ordered the fresh divisions to attack the German second position on 26 September."
 ---
 
-At 5.50 a.m. on 25 September 1915 British sappers in the front-line trenches between Grenay and the La Bassée Canal turned on thousands of cylinders of [chlorine](https://pl.wikipedia.org/wiki/Chlor). Forty minutes later six divisions of General [Douglas Haig](/postacie/douglas-haig)'s First Army went over the top against the German trenches in the coalfield north of [Lens](https://pl.wikipedia.org/wiki/Lens). So began the Battle of [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle), the British part of the great autumn offensive of the Allies, which on the same day was also launched in Champagne and at Vimy. For the first time the British used poison gas on a large scale, and for the first time they sent divisions of Lord Kitchener's New Armies into a major battle. By midday they had taken Loos, Hill 70, the Hohenzollern Redoubt and the Fosse 8 colliery, but the reserves that were to go on reached the vicinity of the front only in the evening.
+At 5.50 a.m. on 25 September 1915 British sappers in the front-line trenches between Grenay and the La Bassée Canal turned on thousands of cylinders of [chlorine](/slownik/gaz-bojowy). Forty minutes later six divisions of General [Douglas Haig](/postacie/douglas-haig)'s First Army went over the top against the German trenches in the coalfield north of [Lens](https://pl.wikipedia.org/wiki/Lens). So began the Battle of [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle), the British part of the great autumn offensive of the Allies, which on the same day was also launched in Champagne and at Vimy. For the first time the British used poison gas on a large scale, and for the first time they sent divisions of Lord Kitchener's New Armies into a major battle. By midday they had taken Loos, Hill 70, the Hohenzollern Redoubt and the Fosse 8 colliery, but the reserves that were to go on reached the vicinity of the front only in the evening.
 
 ## The wind
 

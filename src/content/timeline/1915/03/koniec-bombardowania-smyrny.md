@@ -23,7 +23,7 @@ W nocy z 8 na 9 marca trałowce podjęły zdecydowaną próbę. Pancerniki raz p
 
 ## Rozmowy pod białą flagą
 
-Już wieczorem 6 marca Admiralicja zawiadomiła Peirse'a, że cel operacji być może da się osiągnąć w drodze rokowań. Walim Smyrny był Rahmi Bej, wpływowy działacz [Komitetu Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu), znany z życzliwości wobec mieszkających w mieście Brytyjczyków i Francuzów. Według brytyjskich informacji otwarcie żałował, że Turcja przystąpiła do wojny. W Londynie liczono, że w obawie przed zniszczeniami zgodzi się na faktyczną neutralność portu.
+Już wieczorem 6 marca Admiralicja zawiadomiła Peirse'a, że cel operacji być może da się osiągnąć w drodze rokowań. Walim Smyrny był Rahmi Bej, wpływowy działacz [Komitetu Jedności i Postępu](/slownik/mlodoturcy), znany z życzliwości wobec mieszkających w mieście Brytyjczyków i Francuzów. Według brytyjskich informacji otwarcie żałował, że Turcja przystąpiła do wojny. W Londynie liczono, że w obawie przed zniszczeniami zgodzi się na faktyczną neutralność portu.
 
 9 marca na odpowiedź gubernatora czekano przez cały dzień. Oba pancerniki podeszły do fortów z białą flagą i sygnałem wzywającym do rozmów, ale wkrótce po południu jedna z baterii ostrzelała Triumpha. Okręty wycofano, a po 15.00 zaczęły ostrzeliwać baterię, która złamała białą flagę. Po pół godzinie od strony [Urli](https://pl.wikipedia.org/wiki/Urla) wypłynęła łódź z wysłannikiem walego. Według raportu amerykańskiego ambasadora w Konstantynopolu, Henry'ego Morgenthaua, na pokład Euryalusa przybył wraz z nim amerykański konsul generalny w Smyrnie George Horton. Wysłannik tłumaczył, że ogień otwarto przez pomyłkę dowódcy baterii.
 

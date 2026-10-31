@@ -2,10 +2,10 @@
 title: First regular convoy
 summary: On 2 July 1917 convoy HH 6 left Hampton Roads, the first of a regular series of convoys sailing every four days from Virginia to Britain.
 source: pierwszy-regularny-konwoj
-sourceHash: b38e82f1626d0e901840cc94223648c4b1545258
+sourceHash: 20f23690a7e5e227d1c87881a995232f0739524e
 ---
 
-On 2 July 1917 a convoy designated HH 6 in British documents put to sea from [Hampton Roads](https://pl.wikipedia.org/wiki/Hampton_Roads) in Virginia. It was the first convoy of a regular series which from then on was to leave the American anchorage every four days. Both the British official history of the war at sea and C. Ernest Fayle's history of seaborne trade regard this day as the start of the permanent transatlantic [convoy](https://pl.wikipedia.org/wiki/Konwój_morski) service which the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) had [approved in mid-June](/admiralicja-zatwierdza-system-konwojow).
+On 2 July 1917 a convoy designated HH 6 in British documents put to sea from [Hampton Roads](https://pl.wikipedia.org/wiki/Hampton_Roads) in Virginia. It was the first convoy of a regular series which from then on was to leave the American anchorage every four days. Both the British official history of the war at sea and C. Ernest Fayle's history of seaborne trade regard this day as the start of the permanent transatlantic [convoy](https://pl.wikipedia.org/wiki/Konwój_morski) service which the [Admiralty](/slownik/admiralicja) had [approved in mid-June](/admiralicja-zatwierdza-system-konwojow).
 
 The convoy's number showed that it was not the first. After a successful trial with a convoy that left Hampton Roads on 24 May, four more convoys, each of about fifteen ships, were sent from there in June. All arrived safely, which according to the naval historian Henry Newbolt was the best answer to the officers who doubted the new system. These were still, however, sailings organised case by case. On 15 June the Admiralty ordered that convoys from Hampton Roads should leave every four days, alternately for ports on the east and south coasts of Britain and for western ports, as the report of the convoy committee had envisaged. Requisitioned [tankers](https://pl.wikipedia.org/wiki/Zbiornikowiec) were to join the next convoy regardless of their port of destination.
 

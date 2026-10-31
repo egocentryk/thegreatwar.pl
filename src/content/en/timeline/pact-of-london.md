@@ -2,14 +2,14 @@
 title: Pact of London
 summary: On 5 September 1914 in London Britain, France and Russia pledged not to make a separate peace. The Entente became a formal wartime alliance.
 source: pakt-londynski
-sourceHash: 083fe0287943bed01854a2b5cc19700b20d03f85
+sourceHash: cb4083784ebbda91f9211c89e27ea137e114cb4f
 ---
 
 On 5 September 1914 in London representatives of Britain, France and Russia signed a short declaration in which the three governments undertook not to conclude a separate peace with the Central Powers. This document, known as the Declaration of London or the Pact of London, turned the [Entente](/tematy/panstwa-centralne-i-ententa) into a formal wartime alliance. Some works give the date as 4 September, but the published text is dated 5 September.
 
 ## Not to be confused with other "London" documents
 
-The name easily leads to confusion. The pact of 1914 has nothing to do with the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) of 1909, the international agreement on the law of naval warfare, contraband and blockade, which the British government announced in August 1914 it would apply during the war [with its own modifications](/wielka-brytania-modyfikuje-deklaracje-londynska). Nor is it the [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) of 26 April 1915, the secret agreement under which Italy entered the war on the side of the Entente in return for promises of territorial gains.
+The name easily leads to confusion. The pact of 1914 has nothing to do with the [Declaration of London](/slownik/deklaracja-londynska) of 1909, the international agreement on the law of naval warfare, contraband and blockade, which the British government announced in August 1914 it would apply during the war [with its own modifications](/wielka-brytania-modyfikuje-deklaracje-londynska). Nor is it the [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) of 26 April 1915, the secret agreement under which Italy entered the war on the side of the Entente in return for promises of territorial gains.
 
 ## From understanding to alliance
 

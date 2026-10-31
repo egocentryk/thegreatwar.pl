@@ -2,7 +2,7 @@
 title: Death of Kitchener
 summary: On 5 June 1916 the cruiser Hampshire, carrying Lord Kitchener to Russia, struck a mine off Orkney. The war minister died with almost all the crew; 12 survived.
 source: smierc-kitchenera
-sourceHash: 59e90fc0257b5efe9baf705785710cb63113d46f
+sourceHash: 4162ba5a2f5b422d2d4ff670da946fcb1ab47502
 brief:
   - "On the evening of 5 June 1916, during a gale off the west coast of Orkney, the armoured cruiser Hampshire struck a mine and sank. On board, on his way to Russia, was the Secretary of State for War, Lord Kitchener."
   - "Kitchener was to head a military and financial mission to Russia, which was demanding arms and credits. His position in the government had been weakening for months."
@@ -11,7 +11,7 @@ brief:
   - "Kitchener's death shook the empire and gave rise to legends of plots, none of which was ever confirmed. At the beginning of July he was succeeded by David Lloyd George."
 ---
 
-On the evening of 5 June 1916, during a gale off the west coast of [Orkney](https://pl.wikipedia.org/wiki/Orkady), the British [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Hampshire](https://pl.wikipedia.org/wiki/HMS_Hampshire_(1903)) struck a mine and sank within a quarter of an hour or so. On board, on his way to Russia with his staff, was the Secretary of State for War, Field Marshal [Lord Kitchener](/postacie/horatio-kitchener). He died together with almost the entire crew of the ship. Twelve sailors were saved. The most famous soldier of the empire, the creator of the [mass volunteer army](/pierwsza-nowa-armia-kitchenera), was 65.
+On the evening of 5 June 1916, during a gale off the west coast of [Orkney](https://pl.wikipedia.org/wiki/Orkady), the British [armoured cruiser](/slownik/krazownik-pancerny) [Hampshire](https://pl.wikipedia.org/wiki/HMS_Hampshire_(1903)) struck a mine and sank within a quarter of an hour or so. On board, on his way to Russia with his staff, was the Secretary of State for War, Field Marshal [Lord Kitchener](/postacie/horatio-kitchener). He died together with almost the entire crew of the ship. Twelve sailors were saved. The most famous soldier of the empire, the creator of the [mass volunteer army](/pierwsza-nowa-armia-kitchenera), was 65.
 
 ## Mission to Russia
 

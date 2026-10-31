@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 listopada 1914 roku rząd Francji wydał dekret o stosowaniu w czasie wojny [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku. Dekret na nowo określał, jakie towary francuska marynarka może uznać za kontrabandę wojenną i kiedy wolno je zatrzymać na statkach państw neutralnych. Zaostrzał wcześniejsze francuskie przepisy, w tym [dekret z 25 sierpnia](/francja-oglasza-nowy-dekret-o-kontrabandzie).
+6 listopada 1914 roku rząd Francji wydał dekret o stosowaniu w czasie wojny [deklaracji londyńskiej](/slownik/deklaracja-londynska) z 1909 roku. Dekret na nowo określał, jakie towary francuska marynarka może uznać za kontrabandę wojenną i kiedy wolno je zatrzymać na statkach państw neutralnych. Zaostrzał wcześniejsze francuskie przepisy, w tym [dekret z 25 sierpnia](/francja-oglasza-nowy-dekret-o-kontrabandzie).
 
 Był to krok uzgodniony z Londynem. Tydzień wcześniej, 29 października, [Wielka Brytania ogłosiła nowe listy kontrabandy i nowe zarządzenie o stosowaniu deklaracji londyńskiej](/nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska). Francja, która od początku wojny prowadziła z Brytyjczykami wspólną politykę wobec handlu morskiego, przyjęła przepisy w zasadzie takie same. W oficjalnym amerykańskim zbiorze dokumentów dyplomatycznych z tego okresu odnotowano, że francuski dekret ma „w istocie identyczne brzmienie” jak akty brytyjskie.
 

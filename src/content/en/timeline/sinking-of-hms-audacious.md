@@ -2,7 +2,7 @@
 title: Sinking of HMS Audacious
 summary: On 27 October 1914 the modern British battleship Audacious struck a mine off the north coast of Ireland and sank. The Admiralty kept it secret.
 source: zatoniecie-hms-audacious
-sourceHash: 2ead7ef46a9c4320d26a3cee8a6f37a882ebbf68
+sourceHash: f2d3459dd560748d65c751826b220dd7c6dabfea
 ---
 
 On the morning of 27 October 1914 the British battleship [Audacious](https://pl.wikipedia.org/wiki/HMS_Audacious_(1912)) struck a mine off the north coast of Ireland, near [Tory Island](https://pl.wikipedia.org/wiki/Tory_(wyspa)). Despite a struggle lasting many hours to keep the ship afloat, in the evening she capsized and sank. She was the first [dreadnought](https://pl.wikipedia.org/wiki/Drednot) lost by the [Royal Navy](/sily-zbrojne/royal-navy) in this war.
@@ -23,6 +23,6 @@ Towards evening the rest of the crew were taken off. At about 8.45 p.m. Audaciou
 
 ## A wartime secret
 
-Jellicoe judged that the loss of one of the newest battleships was too valuable a piece of information for the Germans, as it weakened the Grand Fleet's superiority over the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska). At his request the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) kept the sinking secret, and the British press complied with the ban. Olympic was held in Lough Swilly until 2 November, and her passengers were not allowed to contact the outside world.
+Jellicoe judged that the loss of one of the newest battleships was too valuable a piece of information for the Germans, as it weakened the Grand Fleet's superiority over the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska). At his request the [Admiralty](/slownik/admiralicja) kept the sinking secret, and the British press complied with the ban. Olympic was held in Lough Swilly until 2 November, and her passengers were not allowed to contact the outside world.
 
 Keeping the secret, however, proved impossible. Among Olympic's passengers were Americans who had photographed and even filmed the sinking ship. News and pictures soon reached the other side of the Atlantic and the press. Nevertheless, the British Admiralty officially kept silent throughout the war. The loss of Audacious was announced only on 14 November 1918, three days after the armistice, in a statement published in "The Times".

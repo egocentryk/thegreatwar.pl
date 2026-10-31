@@ -2,14 +2,14 @@
 title: Sinking of the Llandovery Castle
 summary: On 27 June 1918 U-86 torpedoed the Canadian hospital ship Llandovery Castle and fired on the lifeboats. 234 people died, including 14 nurses.
 source: zatopienie-llandovery-castle
-sourceHash: 78d1e7aa686a735499d92fc62ed3701dec71f981
+sourceHash: 2a161ae6ac730e52bfa4fafa9a3729766b914b55
 ---
 
 On 27 June 1918, at about 9.30 p.m., the German submarine [U-86](https://pl.wikipedia.org/wiki/SM_U-86) torpedoed the Canadian [hospital ship](/slownik/statek-szpitalny) [*Llandovery Castle*](https://pl.wikipedia.org/wiki/Zatopienie_HMHS_Llandovery_Castle) in the Atlantic, about 116 nautical miles south-west of the Fastnet Rock off the coast of Ireland. The ship was returning to England from [Halifax](https://pl.wikipedia.org/wiki/Halifax_(miejscowość_w_Kanadzie)), where she had taken wounded and sick soldiers. She sank in about ten minutes. The submarine then surfaced, questioned the survivors and afterwards opened fire on the lifeboats with its gun. Of the 258 people on board only 24, all from a single boat, survived. 234 people died, among them all fourteen Canadian nurses. It was Canada's deadliest maritime disaster of the war and one of the most notorious crimes of the submarine war.
 
 ## The ship and her voyage
 
-The *Llandovery Castle* was a Union-Castle Line liner, built in 1914 in Glasgow, of over 10,000 GRT. From 1916 she served as a hospital ship assigned to the Canadian medical service, carrying wounded and sick soldiers from Europe to Canada. According to the Canadian official history she made five voyages in this service and carried over 3,200 patients. She had 622 beds and was marked as the [Hague Convention](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) required: a white hull with a green band, red crosses and lighting at night. Her name, like those of all hospital ships, had been notified to the enemy.
+The *Llandovery Castle* was a Union-Castle Line liner, built in 1914 in Glasgow, of over 10,000 GRT. From 1916 she served as a hospital ship assigned to the Canadian medical service, carrying wounded and sick soldiers from Europe to Canada. According to the Canadian official history she made five voyages in this service and carried over 3,200 patients. She had 622 beds and was marked as the [Hague Convention](/slownik/konwencje-haskie) required: a white hull with a green band, red crosses and lighting at night. Her name, like those of all hospital ships, had been notified to the enemy.
 
 On her last voyage the ship sailed from Halifax to Liverpool. There were no patients, weapons or ammunition on board. She carried 164 crew under Captain Sylvester, 80 officers and men of the Canadian Army Medical Corps and 14 nurses with their matron, Margaret Marjory Fraser, daughter of a former Lieutenant Governor of Nova Scotia. On the evening of 27 June the ship was sailing with her lights on, as the regulations required of hospital ships.
 

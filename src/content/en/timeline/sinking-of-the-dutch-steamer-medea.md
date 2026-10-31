@@ -2,7 +2,7 @@
 title: Sinking of the Dutch steamer Medea
 summary: On 25 March 1915 the German U-28 stopped the Dutch steamer Medea, carrying oranges for London, in the Channel, searched her and sank her by gunfire.
 source: zatopienie-holenderskiego-parowca-medea
-sourceHash: c3382c3e051804f1d1a6320fabfb6a560a80c0f8
+sourceHash: 33dc917608da1bf5d02a660b79190189594bb324
 ---
 
 Before noon on 25 March 1915 the German submarine U-28 stopped the Dutch steamer Medea in the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), south-east of [Beachy Head](https://pl.wikipedia.org/wiki/Beachy_Head). The Germans checked the ship's papers, ordered the crew into the boats and sank her by gunfire. No one was killed. The British chronology of the war records Medea as the first neutral ship sunk after being stopped and searched. She was also the first ship under a neutral flag that was without doubt sunk by a German submarine. It is not known whether the [Swedish steamer Hanna](/zatopienie-szwedzkiego-parowca-hanna), two weeks earlier, had been torpedoed or had struck a mine.
@@ -17,7 +17,7 @@ Kapitänleutnant Georg-Günther von Forstner's U-28 had left Ostend on 21 March.
 
 According to the Dutch press and the British naval staff monograph, U-28 was running on the surface and ordered Medea to stop. The German commander examined the ship's papers and, as Captain van Balkom later related, gave the crew only five minutes to get into the boats. The submarine then shelled the steamer with her gun until she sank. According to various accounts this happened anywhere from a few to fifteen or so miles from the shore. The Germans towed the boats for a few minutes and then cast them off, saying that another submarine would tow the survivors to Beachy Head. A second U-boat, U-37, was indeed operating nearby; she did not return from that patrol and disappeared without trace. The Dutchmen were, however, rescued by the British destroyer Teviot, which landed them at [Dover](https://pl.wikipedia.org/wiki/Dover).
 
-The German commander handed the captain a written explanation: the ship had been sunk because she was carrying food to London, an enemy port. Under the [London Declaration](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) of 1909, however, food was only conditional contraband. It could be seized if it was destined for the enemy's armed forces or authorities, but not for the civilian population. The declaration permitted the sinking of a neutral ship, instead of taking her into port before a prize court, only in exceptional circumstances.
+The German commander handed the captain a written explanation: the ship had been sunk because she was carrying food to London, an enemy port. Under the [London Declaration](/slownik/deklaracja-londynska) of 1909, however, food was only conditional contraband. It could be seized if it was destined for the enemy's armed forces or authorities, but not for the civilian population. The declaration permitted the sinking of a neutral ship, instead of taking her into port before a prize court, only in exceptional circumstances.
 
 ## The Dutch protest
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 października 1914 roku brytyjski rząd wydał dwa akty, które na nowo określiły zasady kontroli handlu morskiego. Proklamacja królewska ustaliła nowe listy kontrabandy wojennej, a zarządzenie Rady Królewskiej (Order in Council) zmieniło sposób stosowania [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku. Uchylało ono [zarządzenie z 20 sierpnia](/wielka-brytania-modyfikuje-deklaracje-londynska), a proklamacja zastępowała wcześniejsze listy z sierpnia i [z 21 września](/nowa-brytyjska-lista-kontrabandy).
+29 października 1914 roku brytyjski rząd wydał dwa akty, które na nowo określiły zasady kontroli handlu morskiego. Proklamacja królewska ustaliła nowe listy kontrabandy wojennej, a zarządzenie Rady Królewskiej (Order in Council) zmieniło sposób stosowania [deklaracji londyńskiej](/slownik/deklaracja-londynska) z 1909 roku. Uchylało ono [zarządzenie z 20 sierpnia](/wielka-brytania-modyfikuje-deklaracje-londynska), a proklamacja zastępowała wcześniejsze listy z sierpnia i [z 21 września](/nowa-brytyjska-lista-kontrabandy).
 
 ## Nowe listy
 

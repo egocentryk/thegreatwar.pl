@@ -2,7 +2,7 @@
 title: Sale of the Dacia
 summary: In early 1915 the German steamer Dacia, interned in the USA, passed under the American flag. London saw it as an attempt to get round the blockade.
 source: sprzedaz-statku-dacia
-sourceHash: 1b0838e2ced98ff8557a72ed65cb7ff7df0775f5
+sourceHash: b94df668f6fd499fa8d9fde860e0fc23d6e0c54a
 ---
 
 The British chronology of the war records under 6 January 1915 that the German steamer *Dacia*, interned in the United States, had been sold to an American citizen, Edward Breitung. The deal itself had been concluded in December, but only at the beginning of January did the ship receive American registry and the affair become widely known. Around what seemed an ordinary sale of an old freighter a diplomatic dispute flared up between Washington and London.
@@ -15,7 +15,7 @@ The opportunity was spotted by Edward N. Breitung, a businessman from Michigan, 
 
 ## London objects
 
-Britain regarded the transaction with suspicion from the start. Under Article 56 of the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska), the transfer of an enemy ship to a neutral flag after the outbreak of war was void unless it was proved that it had not been made to evade the consequences of war. In a memorandum of 2 January, which reached the State Department on 5 January, the British embassy pointed out that the ship had been bought for roughly a third of her value, that the buyer had not previously been engaged in shipping and that the *Dacia* was to sail for a German port. London reserved the right not to recognise the change of flag.
+Britain regarded the transaction with suspicion from the start. Under Article 56 of the [Declaration of London](/slownik/deklaracja-londynska), the transfer of an enemy ship to a neutral flag after the outbreak of war was void unless it was proved that it had not been made to evade the consequences of war. In a memorandum of 2 January, which reached the State Department on 5 January, the British embassy pointed out that the ship had been bought for roughly a third of her value, that the buyer had not previously been engaged in shipping and that the *Dacia* was to sail for a German port. London reserved the right not to recognise the change of flag.
 
 The Secretary of State, [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Bryan), replied that the US government recognised such transactions if they were concluded in good faith, but could not guarantee the ships protection in advance. On 13 January he asked the British to let the *Dacia*, now officially bound for Rotterdam, through as an exception, because without this voyage the cotton owners would go bankrupt. The Foreign Secretary, [Edward Grey](/postacie/edward-grey), wrote back on 21 January that Britain would buy the cargo or carry it to Rotterdam in another ship at its own expense, but would send the ship herself before a prize court. He regarded the *Dacia* as a test case. If he let her through, other interned German ships might pass under the American flag. The dispute overlapped with the growing tension over British [control of neutral trade](/londyn-broni-blokady-przed-protestem-usa) and with the debate in Congress on the government's bill to purchase merchant ships, in which the British saw a threat of a similar kind.
 

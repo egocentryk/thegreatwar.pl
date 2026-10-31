@@ -2,7 +2,7 @@
 title: Bombardment of Scarborough and Hartlepool
 summary: On 16 December 1914 Hipper's battlecruisers shelled Scarborough, Hartlepool and Whitby. Over a hundred people died, mostly civilians, and the Germans escaped.
 source: bombardowanie-scarborough-i-hartlepool
-sourceHash: 07fe2fca079117e303cec9ebf0dbb760598c6d91
+sourceHash: e6882f3481e6c13bddf66069f3192cad95f8ac92
 ---
 
 On the morning of 16 December 1914 the German battlecruisers of Rear-Admiral [Franz von Hipper](/postacie/franz-von-hipper) shelled three towns on the east coast of England: [Scarborough](https://pl.wikipedia.org/wiki/Scarborough), [Hartlepool](https://pl.wikipedia.org/wiki/Hartlepool) and [Whitby](https://pl.wikipedia.org/wiki/Whitby_(North_Yorkshire)). For the first time in several centuries enemy shells fell on English towns, and the victims were above all civilians, including women and children. The [raid on Scarborough, Hartlepool and Whitby](https://pl.wikipedia.org/wiki/Bombardowanie_Scarborough,_Hartlepool_i_Whitby) caused shock and outrage in Britain. At the same time a series of chaotic encounters took place in the North Sea, in which the Royal Navy twice missed the chance to destroy part of the German fleet.
@@ -17,7 +17,7 @@ Early on the morning of 15 December the [battlecruisers](https://pl.wikipedia.or
 
 ## The British know, but not everything
 
-The British Admiralty had managed to intercept and read German wireless signals. The cryptanalysts of [Room 40](https://pl.wikipedia.org/wiki/Room_40) established that Hipper's battlecruisers were putting to sea, but they did not know that the entire High Seas Fleet had sailed as well. The Admiralty decided to set a trap. Vice-Admiral [David Beatty](/postacie/david-beatty)'s four battlecruisers, Vice-Admiral George Warrender's six modern battleships, light cruisers and the Harwich Force were sent to intercept the Germans. This force was much weaker than the whole German fleet, but it was superior to Hipper alone.
+The British Admiralty had managed to intercept and read German wireless signals. The cryptanalysts of [Room 40](/slownik/room-40) established that Hipper's battlecruisers were putting to sea, but they did not know that the entire High Seas Fleet had sailed as well. The Admiralty decided to set a trap. Vice-Admiral [David Beatty](/postacie/david-beatty)'s four battlecruisers, Vice-Admiral George Warrender's six modern battleships, light cruisers and the Harwich Force were sent to intercept the Germans. This force was much weaker than the whole German fleet, but it was superior to Hipper alone.
 
 Before dawn on 16 December the destroyers screening Warrender ran into the torpedo boats and cruisers screening the German fleet. Several chaotic clashes took place in the darkness. Ingenohl concluded that he was facing the screen of the entire [Grand Fleet](/sily-zbrojne/grand-fleet), and at about 5.30 a.m. he turned for home with the main body, leaving Hipper without support. He did not know that only ten British capital ships were nearby, which his fleet could have crushed. Admiral [Alfred von Tirpitz](/postacie/alfred-von-tirpitz) later wrote bitterly that on that day Ingenohl had held the fate of Germany in his hands.
 

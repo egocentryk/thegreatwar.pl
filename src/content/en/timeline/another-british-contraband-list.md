@@ -2,7 +2,7 @@
 title: Another British contraband list
 summary: On 23 December 1914 Britain issued new contraband lists. Among the items added were turpentine, tungsten and ingredients of explosives.
 source: kolejna-brytyjska-lista-kontrabandy
-sourceHash: 60eaed8bcccbe51e0159d4dc56949edd3fb433a8
+sourceHash: 5e6c1b8173854e45aae4004ea153d15343171b28
 ---
 
 On 23 December 1914 the British government issued a proclamation that once again changed the lists of contraband of war. It replaced the lists published on [29 October](/nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska), only two months earlier. The American Consul General in London, Robert Skinner, sending its text to Washington the next day, wrote of a list that had been "radically altered".
@@ -19,7 +19,7 @@ The shorter list of conditional contraband, which could be detained only if dest
 
 What caused most feeling in the United States was the inclusion of turpentine and [rosin](https://pl.wikipedia.org/wiki/Kalafonia), products of the pine forests of the American South. On 22 December the British ambassador in Washington, Cecil Spring Rice, informed the Secretary of State, [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Bryan), of the decision. Bryan replied on 24 December that he received it "with deep regret". He recalled that on 1 November the ambassador himself had assured him that London did not intend to detain these goods, and that the State Department had passed this on to exporters. Some cargoes were already on their way to Europe. Bryan added that the growing restrictions on neutral trade had created "an acute situation" in the United States.
 
-Spring Rice replied on 1 January 1915 that in November he had spoken only of the absence of any present intention, and had stipulated that the British government would not answer questions about individual goods. Since then, however, it had become clear, he wrote, that turpentine and rosin were of great importance in certain branches of war production. The ambassador pointed out that the right to add to the contraband lists was granted by the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) itself, and that the Americans had used it in their own wars. For cargoes shipped before the new list was announced, Britain would pay the full value.
+Spring Rice replied on 1 January 1915 that in November he had spoken only of the absence of any present intention, and had stipulated that the British government would not answer questions about individual goods. Since then, however, it had become clear, he wrote, that turpentine and rosin were of great importance in certain branches of war production. The ambassador pointed out that the right to add to the contraband lists was granted by the [Declaration of London](/slownik/deklaracja-londynska) itself, and that the Americans had used it in their own wars. For cargoes shipped before the new list was announced, Britain would pay the full value.
 
 ## Ever longer lists
 

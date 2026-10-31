@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 czerwca 1917 roku (27 maja według kalendarza juliańskiego) przywódcy [Rady Piotrogrodzkiej](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich) ujawnili i odrzucili niemiecką ofertę odrębnego rozejmu na froncie wschodnim. Głównodowodzący wojsk niemieckich na wschodzie, książę [Leopold Bawarski](/postacie/leopold-bawarski), przesłał rosyjskim oddziałom depeszę radiową, w której proponował wskazać im drogę do „honorowego pokoju” i do zakończenia walki bez zrywania z sojusznikami. Brytyjska chronologia wojny notuje pod tą datą, że Rząd Tymczasowy odrzucił niemiecką propozycję rozejmu bez określonego terminu. Dostępne źródła z epoki mówią przede wszystkim o odpowiedzi Rady, ale także o odmowie rosyjskich dowódców i o stanowisku rządu, który już w maju wykluczył odrębny pokój.
+9 czerwca 1917 roku (27 maja według kalendarza juliańskiego) przywódcy [Rady Piotrogrodzkiej](/slownik/rada-delegatow) ujawnili i odrzucili niemiecką ofertę odrębnego rozejmu na froncie wschodnim. Głównodowodzący wojsk niemieckich na wschodzie, książę [Leopold Bawarski](/postacie/leopold-bawarski), przesłał rosyjskim oddziałom depeszę radiową, w której proponował wskazać im drogę do „honorowego pokoju” i do zakończenia walki bez zrywania z sojusznikami. Brytyjska chronologia wojny notuje pod tą datą, że Rząd Tymczasowy odrzucił niemiecką propozycję rozejmu bez określonego terminu. Dostępne źródła z epoki mówią przede wszystkim o odpowiedzi Rady, ale także o odmowie rosyjskich dowódców i o stanowisku rządu, który już w maju wykluczył odrębny pokój.
 
 ## Cicha wojna na wschodzie
 

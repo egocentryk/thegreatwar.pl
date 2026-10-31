@@ -9,7 +9,7 @@ sides:
     commanders: [Maximilian von Spee]
 result: British victory. The Germans lost two armoured cruisers and two light cruisers, and the East Asia Squadron ceased to exist. The British lost no ship.
 source: bitwa-kolo-falklandow
-sourceHash: acd9fc537e83609a9848720382902e6019cbc8be
+sourceHash: 6b19c19a8f5f3ec73f7bc47e49823b4cbd94615c
 brief:
   - "On 8 December 1914 in the South Atlantic a British force under Vice-Admiral Doveton Sturdee destroyed the German East Asia Squadron of Vice-Admiral Maximilian von Spee, five weeks after the defeat at Coronel."
   - "After Coronel Admiral John Fisher sent the battlecruisers Invincible and Inflexible to the South Atlantic. They had 12-inch guns and were clearly faster than the German armoured cruisers."
@@ -22,7 +22,7 @@ The [Battle of the Falkland Islands](https://pl.wikipedia.org/wiki/Bitwa_koło_F
 
 ## The answer to Coronel
 
-News of the sinking of Admiral Cradock's cruisers reached London on 4 November. The First Sea Lord, Admiral [John Fisher](/postacie/john-fisher), [back at the Admiralty for only a few days](/fisher-pierwszym-lordem-morskim), resolved to finish off von Spee's squadron once and for all. Two battlecruisers were detached from the Grand Fleet, HMS [*Invincible*](https://pl.wikipedia.org/wiki/HMS_Invincible_(1907)) and HMS [*Inflexible*](https://pl.wikipedia.org/wiki/HMS_Inflexible_(1907)). Each of them had eight 12-inch (305 mm) guns and was clearly faster than the German [armoured cruisers](https://pl.wikipedia.org/wiki/Krążownik_pancerny), armed with 210 mm guns. Command of the force and of the whole South Atlantic and Pacific area was given to Vice-Admiral Sturdee, until then Chief of the Admiralty War Staff.
+News of the sinking of Admiral Cradock's cruisers reached London on 4 November. The First Sea Lord, Admiral [John Fisher](/postacie/john-fisher), [back at the Admiralty for only a few days](/fisher-pierwszym-lordem-morskim), resolved to finish off von Spee's squadron once and for all. Two battlecruisers were detached from the Grand Fleet, HMS [*Invincible*](https://pl.wikipedia.org/wiki/HMS_Invincible_(1907)) and HMS [*Inflexible*](https://pl.wikipedia.org/wiki/HMS_Inflexible_(1907)). Each of them had eight 12-inch (305 mm) guns and was clearly faster than the German [armoured cruisers](/slownik/krazownik-pancerny), armed with 210 mm guns. Command of the force and of the whole South Atlantic and Pacific area was given to Vice-Admiral Sturdee, until then Chief of the Admiralty War Staff.
 
 The ships left Devonport on 11 November, in such haste that dockyard workers were still on board *Invincible*. They crossed the Atlantic at economical speed to save coal. On 26 November, off the Brazilian [Abrolhos](https://pl.wikipedia.org/wiki/Abrolhos) islands, they joined the ships of Rear-Admiral Archibald Stoddart: the armoured cruisers *Carnarvon*, *Cornwall* and *Kent* and the light cruisers *Bristol* and *Glasgow*, the latter a survivor of Coronel. On the morning of 7 December the whole force put into Port Stanley, today [Stanley](https://pl.wikipedia.org/wiki/Stanley_(Falklandy)), the capital of the [Falkland Islands](https://pl.wikipedia.org/wiki/Falklandy), to coal before setting out for Chilean waters. The old battleship *Canopus* was already there; after Coronel she had been grounded in the harbour as a floating battery.
 

@@ -2,10 +2,10 @@
 title: Destruction of the cruiser Königsberg
 summary: On 11 July 1915 the British monitors Severn and Mersey, directed from an aircraft, wrecked the cruiser Königsberg in the Rufiji delta. Her crew blew her up.
 source: zniszczenie-krazownika-konigsberg
-sourceHash: b91d6b25c4a83f623951f008d3f136a5f81376f0
+sourceHash: e45c4bc2bfce6fa303e71d84e50b0c090f35da2b
 ---
 
-On 11 July 1915, in the delta of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) river on the coast of [German East Africa](/bitwy/kampania-wschodnioafrykanska), the career of the German light cruiser [*Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)) came to an end. Two British shallow-draught [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)), *Severn* and *Mersey*, shelled her from a range of several miles, their fire directed by an airman circling over the jungle. The wrecked ship was blown up on the orders of her captain, Fregattenkapitän Max Looff.
+On 11 July 1915, in the delta of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) river on the coast of [German East Africa](/bitwy/kampania-wschodnioafrykanska), the career of the German light cruiser [*Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)) came to an end. Two British shallow-draught [monitors](/slownik/monitor), *Severn* and *Mersey*, shelled her from a range of several miles, their fire directed by an airman circling over the jungle. The wrecked ship was blown up on the orders of her captain, Fregattenkapitän Max Looff.
 
 ## The second attempt
 

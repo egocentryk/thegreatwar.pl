@@ -1,0 +1,164 @@
+{
+ "slug": "grypa-hiszpanka",
+ "paragraphs": [
+  {
+   "start": "Grypa hiszpanka to pandemia grypy wywołanej wirusem",
+   "quotes": [
+    {
+     "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html",
+     "quote": "It was caused by an H1N1 virus with genes of avian origin. Although there is not universal consensus regarding where the virus originated, it spread worldwide during 1918-1919."
+    },
+    {
+     "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/three-waves.htm",
+     "quote": "Hundreds and thousands of U.S. soldiers traveled across the Atlantic to deploy for war. The mass troop movement contributed to the global spread of flu. More people died during the 1918 pandemic than the total number of military and civilian deaths that resulted from World War I."
+    },
+    {
+     "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html",
+     "quote": "The 1918 H1N1 flu virus caused the deadliest pandemic of the 20th century."
+    }
+   ]
+  },
+  {
+   "start": "Pierwszą falę zauważono wiosną 1918 roku w wojsku a",
+   "quotes": [
+    {
+     "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html",
+     "quote": "In the United States, it was first identified in military personnel in spring 1918."
+    },
+    {
+     "file": "src/content/timeline/1918/03/pierwsze-przypadki-grypy-w-camp-funston.md",
+     "quote": "summary: 4 marca 1918 w obozie Camp Funston w Kansas na grypę zachorował kucharz Albert Gitchell. W ciągu trzech tygodni do szpitala trafiło ponad 1100 żołnierzy."
+    },
+    {
+     "file": "src/content/timeline/1918/03/pierwsze-przypadki-grypy-w-camp-funston.md",
+     "quote": "Zatłoczone transportowce, na których nie dało się odizolować chorych, zawoziły ich głównie do Brestu i Saint-Nazaire, gdzie pierwsze amerykańskie oddziały zeszły na ląd już w czerwcu 1917 roku. W kwietniu grypa szerzyła się już wśród żołnierzy na froncie zachodnim, a w maju dotarła do Hiszpanii."
+    },
+    {
+     "file": "src/content/timeline/1918/03/pierwsze-przypadki-grypy-w-camp-funston.md",
+     "quote": "Brytyjski wirusolog John Oxford wskazywał na obóz w Étaples we Francji, gdzie już w latach 1916–1917 żołnierzy dziesiątkowało „ropne zapalenie oskrzeli”. Kanadyjski historyk Mark Humphries uważa za możliwe, że chorobę przywieźli robotnicy z Chin, przewożeni przez Kanadę do Francji."
+    },
+    {
+     "file": "src/content/timeline/1918/03/pierwsze-przypadki-grypy-w-camp-funston.md",
+     "quote": "Wiosenna fala była jednak stosunkowo łagodna i mało kto się nią przejął."
+    }
+   ]
+  },
+  {
+   "start": "Druga fala wybuchła pod koniec sierpnia 1918 roku n",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/08/druga-fala-hiszpanki.md",
+     "quote": "summary: 27 sierpnia 1918 w Bostonie zachorowali pierwsi marynarze. Niemal równocześnie w Breście i Freetown wybuchła druga, najbardziej zabójcza fala hiszpanki."
+    },
+    {
+     "file": "src/content/timeline/1918/08/druga-fala-hiszpanki.md",
+     "quote": "Część chorych po kilku dniach gorączki dostawała krwotocznego zapalenia płuc i siniała z braku tlenu, a śmierć przychodziła często w ciągu kilku dni. Według amerykańskich badaczy Jeffery'ego Taubenbergera i Davida Morensa śmiertelność wśród chorych przekraczała 2,5 procent, podczas gdy w innych pandemiach grypy była niższa niż 0,1 procent. Najdziwniejsze było to, że umierali przede wszystkim ludzie młodzi i zdrowi, w wieku 20–40 lat, zwykle najodporniejsi na grypę."
+    },
+    {
+     "file": "src/content/timeline/1918/08/druga-fala-hiszpanki.md",
+     "quote": "W następnych tygodniach epidemia ogarnęła całe Stany Zjednoczone, a październik 1918 roku był najbardziej zabójczym miesiącem pandemii."
+    },
+    {
+     "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/three-waves.htm",
+     "quote": "A third wave of illness occurred during the winter and spring of 1919, adding to the pandemic death toll. The third wave of the pandemic subsided during the summer of 1919."
+    },
+    {
+     "file": "src/content/timeline/1918/10/hiszpanka-na-ziemiach-polskich.md",
+     "quote": "a epidemia wracała w kolejnych falach jeszcze do 1920 roku."
+    }
+   ]
+  },
+  {
+   "start": "Grypa osłabiała armie w rozstrzygających miesiącach",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/08/druga-fala-hiszpanki.md",
+     "quote": "według niemieckiego historyka Eckarda Michelsa w czasie drugiej bitwy nad Marną grypa wyłączyła z szeregów niemieckich blisko 400 tysięcy żołnierzy."
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "W walkach tych przerzedzone dywizje dziesiątkowała też pandemia grypy hiszpanki"
+    },
+    {
+     "file": "src/content/timeline/1918/10/zatoniecie-otranto.md",
+     "quote": "W drodze szerzyła się na statkach grypa hiszpanka."
+    },
+    {
+     "file": "src/content/timeline/1918/09/amerykanie-w-archangielsku.md",
+     "quote": "Według historii pułku spisanej przez jego oficerów w pierwszych tygodniach na grypę zmarło blisko stu żołnierzy."
+    },
+    {
+     "file": "src/content/timeline/1918/10/zajecie-damaszku.md",
+     "quote": "Wśród zwycięzców szerzyła się złośliwa malaria, którą przynieśli znad Jordanu, a wkrótce także hiszpanka."
+    }
+   ]
+  },
+  {
+   "start": "Z Hiszpanią choroba miała niewiele wspólnego. 22 ma",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/05/grypa-w-hiszpanii.md",
+     "quote": "summary: 22 maja 1918 madrycka prasa doniosła o tajemniczej chorobie wśród żołnierzy garnizonu. Neutralna Hiszpania pisała o epidemii otwarcie i dała jej nazwę."
+    },
+    {
+     "file": "src/content/timeline/1918/05/grypa-w-hiszpanii.md",
+     "quote": "28 maja „El Sol” pisał, że w Madrycie choruje 80 tysięcy ludzi, a wśród nich król Alfons XIII."
+    },
+    {
+     "file": "src/content/timeline/1918/05/grypa-w-hiszpanii.md",
+     "quote": "Grypa była wtedy we Francji, w Wielkiej Brytanii i w Niemczech, ale w krajach walczących działała cenzura, a redakcje same unikały pisania o chorobach, które mogłyby osłabić ducha wojska i ludności."
+    },
+    {
+     "file": "src/content/timeline/1918/05/grypa-w-hiszpanii.md",
+     "quote": "Na początku czerwca większość gazet europejskich pisała już o „hiszpańskiej influenzie”, a w Polsce przyjęła się nazwa „hiszpanka”. Wrażenie, że Hiszpania ucierpiała najbardziej, wzięło się z tego, że jako jedyna mówiła o tym otwarcie."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Spanish_flu",
+     "quote": "The outbreak did not originate in Spain,"
+    }
+   ]
+  },
+  {
+   "start": "Według CDC zachorowało około 500 milionów ludzi, je",
+   "quotes": [
+    {
+     "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html",
+     "quote": "It is estimated that about 500 million people or one-third of the world’s population became infected with this virus. The number of deaths was estimated to be at least 50 million worldwide"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Spanish_flu",
+     "quote": "Deaths 25–50 million (generally accepted), other estimates range from 17 to 100 million"
+    },
+    {
+     "file": "src/content/timeline/1914/08/nowozelandczycy-zajmuja-samoe.md",
+     "quote": "Najtragiczniejszy rozdział nadszedł w listopadzie 1918 roku. Statek Talune przywiózł z Auckland na Samoa grypę hiszpankę. Nowozelandzka administracja nie wprowadziła kwarantanny i nie poradziła sobie z epidemią. Zmarło według różnych szacunków od 7,5 do 8,5 tysiąca osób, czyli około jednej piątej mieszkańców wysp."
+    }
+   ]
+  },
+  {
+   "start": "Na ziemiach polskich epidemia szalała w chwili odzy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/10/hiszpanka-na-ziemiach-polskich.md",
+     "quote": "summary: 24 października 1918 z powodu hiszpanki i braku węgla postanowiono zamknąć szkoły w Krakowie. Epidemia szalała wtedy w Galicji, Królestwie i Poznańskiem."
+    },
+    {
+     "file": "src/content/timeline/1918/10/hiszpanka-na-ziemiach-polskich.md",
+     "quote": "Hiszpanka towarzyszyła narodzinom niepodległej Polski, choć w zbiorowej pamięci przesłoniły ją wydarzenia polityczne."
+    },
+    {
+     "file": "src/content/timeline/1918/10/hiszpanka-na-ziemiach-polskich.md",
+     "quote": "Historyk Łukasz Mieszkowski szacuje, że na ziemiach, które weszły w skład odrodzonej Polski, pierwsza wielka fala epidemii w Polsce, jesienią i zimą 1918/1919 roku, objęła co najmniej od 3,4 do 6,6 miliona ludzi, a zabiła od 68 do 130 tysięcy."
+    },
+    {
+     "file": "src/content/timeline/1918/11/smierc-guillaumea-apollinairea.md",
+     "quote": "Jest jedną z najbardziej znanych ofiar hiszpanki, obok Egona Schielego zmarłego dziewięć dni wcześniej w Wiedniu."
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "Ofiar pandemii nie wlicza się zwykle do strat wojennych."
+    }
+   ]
+  }
+ ]
+}

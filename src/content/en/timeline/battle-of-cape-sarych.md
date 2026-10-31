@@ -2,14 +2,14 @@
 title: Battle of Cape Sarych
 summary: On 18 November 1914, in fog off the Crimea, Russian battleships clashed with Goeben. After a quarter of an hour of fire Souchon turned away into the fog.
 source: bitwa-kolo-przyladka-sarycz
-sourceHash: 4be5b8e98c7bd73b3dee1daecf2ff7b59f09aaa4
+sourceHash: 465ea48ec00cdc3ae3fc14f9e59b557bd58b8050
 ---
 
 At noon on 18 November 1914, in fog off the southern coast of the [Crimea](https://pl.wikipedia.org/wiki/Półwysep_Krymski), the Russian [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska) ran into the battlecruiser Yavuz Sultan Selim, formerly the German [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben), and the cruiser accompanying her, Midilli, formerly [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau). The brief clash, known as the [Battle of Cape Sarych](https://pl.wikipedia.org/wiki/Bitwa_koło_przylądka_Sarycz), was the first engagement of the war in which capital ships fought on both sides. It brought no decision, but it showed that the Russians could stand up to the most powerful ship in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne).
 
 ## A trap off Sevastopol
 
-Ever since [Goeben and Breslau had broken through to the Dardanelles](/goeben-i-breslau-wplywaja-do-dardaneli), the Russian admirals had had to reckon with a ship faster and more powerful than any of their battleships. The Black Sea Fleet had five old [pre-dreadnoughts](https://pl.wikipedia.org/wiki/Przeddrednot), built at the turn of the 19th and 20th centuries. The fleet commander, Admiral Andrei Eberhardt, knew that none of them could beat Goeben on its own, so he took them to sea only together. Before the war the three newest battleships had practised firing at a single target under the direction of a gunnery officer in the centre ship.
+Ever since [Goeben and Breslau had broken through to the Dardanelles](/goeben-i-breslau-wplywaja-do-dardaneli), the Russian admirals had had to reckon with a ship faster and more powerful than any of their battleships. The Black Sea Fleet had five old [pre-dreadnoughts](/slownik/drednot), built at the turn of the 19th and 20th centuries. The fleet commander, Admiral Andrei Eberhardt, knew that none of them could beat Goeben on its own, so he took them to sea only together. Before the war the three newest battleships had practised firing at a single target under the direction of a gunnery officer in the centre ship.
 
 On 15 November Eberhardt set out with the whole fleet for the coast of Anatolia, and two days later he [bombarded Trebizond](/rosjanie-ostrzeliwuja-trapezunt). When news of this reached Constantinople, Admiral [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon), who [three weeks earlier had led the attack on the Russian ports](/turecka-flota-atakuje-rosje), decided to lie in wait for the Russians on their way back, near Sevastopol. On 17 November Yavuz and Midilli left the Bosporus and headed for the Crimea.
 

@@ -15,7 +15,7 @@ Rano 26 listopada 1914 roku brytyjski pancernik Bulwark, zakotwiczony w ujściu 
 
 ## Okręt
 
-Bulwark był [przeddrednotem](https://pl.wikipedia.org/wiki/Przeddrednot) typu London (część opracowań zalicza go do typu Formidable), zwodowanym w 1899 roku w stoczni w Devonport. Miał wyporność około 15 tysięcy ton i cztery działa kalibru 305 mm. W 1914 roku był już przestarzały. Wchodził w skład 5 Eskadry Pancerników, którą 14 listopada przeniesiono do Sheerness, u ujścia Tamizy, by strzegła wybrzeża przed ewentualną niemiecką inwazją. Dowodził nim komandor Guy Sclater.
+Bulwark był [przeddrednotem](/slownik/drednot) typu London (część opracowań zalicza go do typu Formidable), zwodowanym w 1899 roku w stoczni w Devonport. Miał wyporność około 15 tysięcy ton i cztery działa kalibru 305 mm. W 1914 roku był już przestarzały. Wchodził w skład 5 Eskadry Pancerników, którą 14 listopada przeniesiono do Sheerness, u ujścia Tamizy, by strzegła wybrzeża przed ewentualną niemiecką inwazją. Dowodził nim komandor Guy Sclater.
 
 ## Wybuch
 

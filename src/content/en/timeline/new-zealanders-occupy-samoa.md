@@ -2,7 +2,7 @@
 title: New Zealanders occupy Samoa
 summary: On 29–30 August 1914 New Zealand troops occupied German Samoa without a fight. Germany lost its second colony of the war after Togoland.
 source: nowozelandczycy-zajmuja-samoe
-sourceHash: a9108e65267f6faa5a858f74427fdb6a46effade
+sourceHash: 6fb04e016976d2d17877aae6bc84799513b39a81
 ---
 
 On 30 August 1914 in [Apia](https://pl.wikipedia.org/wiki/Apia), the capital of [German Samoa](https://pl.wikipedia.org/wiki/Samoa_Niemieckie), the German flag was lowered and the British flag raised in its place. The day before, troops of [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia) had landed on the island of [Upolu](https://pl.wikipedia.org/wiki/Upolu). The Germans offered no resistance. Samoa was the second German colony lost in this war, after [Togoland](/kapitulacja-niemcow-w-togo), and for New Zealand it was the first military operation of the First World War.
@@ -23,6 +23,6 @@ The next day, 30 August, a ceremony was held in front of the courthouse in Apia.
 
 On 14 September Admiral von Spee's armoured cruisers, Scharnhorst and Gneisenau, appeared off Apia. The admiral decided, however, that an attack on the port made no sense and sailed away without a fight. The New Zealand occupation continued peacefully until the end of the war.
 
-The most tragic chapter came in November 1918. The ship Talune brought [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki) from Auckland to Samoa. The New Zealand administration did not impose a quarantine and failed to cope with the epidemic. According to various estimates between 7,500 and 8,500 people died, about a fifth of the islands' population. Meanwhile in neighbouring [American Samoa](https://pl.wikipedia.org/wiki/Samoa_Amerykańskie), which closed its ports to arrivals, no one died of the flu. The tragedy long weighed on relations between Samoans and New Zealanders. In 2002 the Prime Minister of New Zealand apologised to the Samoans for the wrongs committed during colonial rule.
+The most tragic chapter came in November 1918. The ship Talune brought [Spanish flu](/slownik/grypa-hiszpanka) from Auckland to Samoa. The New Zealand administration did not impose a quarantine and failed to cope with the epidemic. According to various estimates between 7,500 and 8,500 people died, about a fifth of the islands' population. Meanwhile in neighbouring [American Samoa](https://pl.wikipedia.org/wiki/Samoa_Amerykańskie), which closed its ports to arrivals, no one died of the flu. The tragedy long weighed on relations between Samoans and New Zealanders. In 2002 the Prime Minister of New Zealand apologised to the Samoans for the wrongs committed during colonial rule.
 
 After the war the League of Nations entrusted Samoa to New Zealand as a mandated territory. The islands regained their independence in 1962, the first of the Polynesian states to do so.

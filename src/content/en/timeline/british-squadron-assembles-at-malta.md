@@ -2,7 +2,7 @@
 title: British squadron assembles at Malta
 summary: Four British battleships withdrawn from the Dardanelles assembled at Malta. On 26 May 1915 Rear-Admiral Cecil Thursby led them out to Italy.
 source: brytyjska-eskadra-zbiera-sie-na-malcie
-sourceHash: 68f424cf51b61a940d474a3a80331ff9cdb5c8ba
+sourceHash: a796fc7311df0207482d42acffe13599b93bbe3b
 ---
 
 The British chronology of the war records under 26 May 1915 that a British squadron, which was to join the Italian fleet in the Adriatic, assembled at [Malta](https://pl.wikipedia.org/wiki/Malta). It consisted of four old battleships, *Queen*, *London*, *Prince of Wales* and *Implacable*, under the command of Rear-Admiral Cecil Thursby, flying his flag in *Queen*. The ships had arrived at Malta a few days earlier, and on the morning of 26 May they put to sea together and headed for Taranto.
@@ -11,7 +11,7 @@ The British chronology of the war records under 26 May 1915 that a British squad
 
 On entering the war, Italy had demanded the support of the Allied fleets in the Adriatic. The details were settled in Paris, where the negotiations stalled over a dispute about command: neither the French nor the Italians wanted to place their ships under the orders of a foreign admiral. The British broke the deadlock. They offered to reinforce the Italian fleet at once with four battleships and four light cruisers taken from the Dardanelles, if the French replaced them there with ships of their own. In this form the [naval convention](/konwencja-morska-wielkiej-brytanii-francji-i-wloch) was signed on 10 May 1915. Two days later the Admiralty instructed Vice-Admiral John de Robeck, commanding the fleet at the Dardanelles, to send Thursby away with his ships as soon as the French replacements arrived.
 
-The British gave the Italians the ships that had gained the most experience of co-operation with the army at the Dardanelles. Cecil Thursby had commanded the squadron that during the night of 24–25 April brought the first Australian troops to Gaba Tepe, and *Queen*, *London* and *Prince of Wales* had then carried the troops of the ANZAC covering force on board. *Implacable* that same morning gave close support to the [landing](/alianci-laduja-na-gallipoli) at X Beach near Cape Helles. All four were [pre-dreadnoughts](https://pl.wikipedia.org/wiki/Przeddrednot) launched at the turn of the 19th and 20th centuries, armed with four 305 mm (12-inch) guns.
+The British gave the Italians the ships that had gained the most experience of co-operation with the army at the Dardanelles. Cecil Thursby had commanded the squadron that during the night of 24–25 April brought the first Australian troops to Gaba Tepe, and *Queen*, *London* and *Prince of Wales* had then carried the troops of the ANZAC covering force on board. *Implacable* that same morning gave close support to the [landing](/alianci-laduja-na-gallipoli) at X Beach near Cape Helles. All four were [pre-dreadnoughts](/slownik/drednot) launched at the turn of the 19th and 20th centuries, armed with four 305 mm (12-inch) guns.
 
 ## From Mudros via Malta
 

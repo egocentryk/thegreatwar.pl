@@ -21,7 +21,7 @@ Ostatnie zdanie było najważniejsze dla Aten. Skoro mocarstwa otrzymały wszyst
 
 ## Dlaczego Ateny ustąpiły
 
-Skuludis nie miał wielkiego wyboru. Od dwóch tygodni tłumaczył posłom, że Grecja, która pozostaje neutralna, musi oficjalnie powoływać się na [konwencje haskie](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku), ale nie zamierza ich stosować wobec sprzymierzonych. Jak pisał przychylny królowi brytyjski autor G.F. Abbott, zaniepokojony zatrzymaniem dostaw premier sam zaprosił sprzymierzonych, by przedstawili swoje żądania, i obiecał je spełnić, jeśli będzie to możliwe. Cztery dni wcześniej król [Konstantyn I](/postacie/konstantyn-i) dał słowo lordowi Kitchenerowi, że wycofujące się wojska nie zostaną internowane. Odpowiedź z 24 listopada była więc pisemnym potwierdzeniem tego, co Ateny obiecywały już ustnie.
+Skuludis nie miał wielkiego wyboru. Od dwóch tygodni tłumaczył posłom, że Grecja, która pozostaje neutralna, musi oficjalnie powoływać się na [konwencje haskie](/slownik/konwencje-haskie), ale nie zamierza ich stosować wobec sprzymierzonych. Jak pisał przychylny królowi brytyjski autor G.F. Abbott, zaniepokojony zatrzymaniem dostaw premier sam zaprosił sprzymierzonych, by przedstawili swoje żądania, i obiecał je spełnić, jeśli będzie to możliwe. Cztery dni wcześniej król [Konstantyn I](/postacie/konstantyn-i) dał słowo lordowi Kitchenerowi, że wycofujące się wojska nie zostaną internowane. Odpowiedź z 24 listopada była więc pisemnym potwierdzeniem tego, co Ateny obiecywały już ustnie.
 
 ## To nie był koniec
 

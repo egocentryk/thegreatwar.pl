@@ -14,7 +14,7 @@ draft: false
 
 ## Odejście Szuwajewa
 
-Szuwajew kierował ministerstwem od marca 1916 roku, kiedy [zastąpił Aleksieja Poliwanowa](/szuwajew-zastepuje-poliwanowa). Car wybrał go wtedy jako człowieka całkowicie lojalnego, który „wcale nie boi się Dumy”. Z czasem minister zaczął jednak szukać porozumienia z posłami. W listopadzie, w czasie [kryzysu wokół premiera Stürmera](/dymisja-sturmera), wystąpił w [Dumie Państwowej](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) razem z ministrem marynarki admirałem Iwanem Grigorowiczem i zapewnił ją o gotowości do współpracy. Knox pisał, że Szuwajewa nie zwolniono za nieudolność, choć i za nią można było, lecz, jak mówiono, za otwarte, żołnierskie wypowiedzi o reakcyjnych skłonnościach rządu.
+Szuwajew kierował ministerstwem od marca 1916 roku, kiedy [zastąpił Aleksieja Poliwanowa](/szuwajew-zastepuje-poliwanowa). Car wybrał go wtedy jako człowieka całkowicie lojalnego, który „wcale nie boi się Dumy”. Z czasem minister zaczął jednak szukać porozumienia z posłami. W listopadzie, w czasie [kryzysu wokół premiera Stürmera](/dymisja-sturmera), wystąpił w [Dumie Państwowej](/slownik/duma) razem z ministrem marynarki admirałem Iwanem Grigorowiczem i zapewnił ją o gotowości do współpracy. Knox pisał, że Szuwajewa nie zwolniono za nieudolność, choć i za nią można było, lecz, jak mówiono, za otwarte, żołnierskie wypowiedzi o reakcyjnych skłonnościach rządu.
 
 ## Nowy minister
 

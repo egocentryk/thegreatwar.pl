@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 16 marca 1917 roku na [Morzu Norweskim](https://pl.wikipedia.org/wiki/Morze_Norweskie), kilkaset kilometrów na północ od [Szetlandów](https://pl.wikipedia.org/wiki/Szetlandy), brytyjski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) Achilles i uzbrojony parowiec Dundee zatopili niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) Leopard. Rajder, przebrany za norweski frachtowiec, próbował przedrzeć się przez brytyjską blokadę na Atlantyk. Poszedł na dno z całą załogą, a razem z nim zginęło sześciu Brytyjczyków, którzy chwilę wcześniej weszli na jego pokład.
+Po południu 16 marca 1917 roku na [Morzu Norweskim](https://pl.wikipedia.org/wiki/Morze_Norweskie), kilkaset kilometrów na północ od [Szetlandów](https://pl.wikipedia.org/wiki/Szetlandy), brytyjski [krążownik pancerny](/slownik/krazownik-pancerny) Achilles i uzbrojony parowiec Dundee zatopili niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) Leopard. Rajder, przebrany za norweski frachtowiec, próbował przedrzeć się przez brytyjską blokadę na Atlantyk. Poszedł na dno z całą załogą, a razem z nim zginęło sześciu Brytyjczyków, którzy chwilę wcześniej weszli na jego pokład.
 
 ## Zdobycz Möwe
 

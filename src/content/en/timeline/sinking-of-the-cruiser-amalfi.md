@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Amalfi
 summary: On 7 July 1915 the German submarine UB-14, sailing under the Austro-Hungarian flag as U-26, sank the Italian armoured cruiser Amalfi off Venice.
 source: zatopienie-krazownika-amalfi
-sourceHash: e0d291a5413bb68210ce73daf712400ea9682605
+sourceHash: cb6585a52708a5a40bf394349213536da3d19cca
 ---
 
-At dawn on 7 July 1915 in the northern [Adriatic](https://pl.wikipedia.org/wiki/Morze_Adriatyckie), about 20 nautical miles from [Venice](https://pl.wikipedia.org/wiki/Wenecja), a submarine designated as the Austro-Hungarian *U-26* torpedoed the Italian [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Amalfi*. The ship capsized and quickly sank. In reality the attacker was the German [*UB-14*](https://pl.wikipedia.org/wiki/SM_UB-14) with a German crew. It was the first loss on this scale for the [Italian navy](https://pl.wikipedia.org/wiki/Regia_Marina) in the war.
+At dawn on 7 July 1915 in the northern [Adriatic](https://pl.wikipedia.org/wiki/Morze_Adriatyckie), about 20 nautical miles from [Venice](https://pl.wikipedia.org/wiki/Wenecja), a submarine designated as the Austro-Hungarian *U-26* torpedoed the Italian [armoured cruiser](/slownik/krazownik-pancerny) *Amalfi*. The ship capsized and quickly sank. In reality the attacker was the German [*UB-14*](https://pl.wikipedia.org/wiki/SM_UB-14) with a German crew. It was the first loss on this scale for the [Italian navy](https://pl.wikipedia.org/wiki/Regia_Marina) in the war.
 
 *Amalfi*, a ship of the Pisa class commissioned in 1909, was one of the most modern Italian armoured cruisers. At the end of June 1915, together with her sister ship *Pisa* and two other armoured cruisers, she was transferred from Taranto to Venice. After the [Austro-Hungarian raids on the Italian coast](/flota-wloska-rozpoczyna-dzialania-na-adriatyku) in May and June, the cruisers were to strengthen the defence of the northern Adriatic and deter the enemy from further raids. On the night of 6–7 July the Italian ships put to sea. *Amalfi*, commanded by Captain Giacomo Riaudo and escorted by two torpedo boats, was supporting a group of eleven destroyers and torpedo boats reconnoitring the northern Adriatic, according to some sources as far as the vicinity of the Austro-Hungarian fleet base at [Pola](https://pl.wikipedia.org/wiki/Pula).
 

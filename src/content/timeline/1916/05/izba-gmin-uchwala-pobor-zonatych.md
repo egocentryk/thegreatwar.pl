@@ -36,4 +36,4 @@ W komisji całej izby 9 maja ulsterscy unioniści znów zaproponowali objęcie p
 
 ## Trzecie czytanie
 
-Ostatni dzień w Izbie Gmin, 16 maja, wypełniły spory o szczegóły: o ponowne badania lekarskie mężczyzn odrzuconych wcześniej przez komisje i o okres ochronny dla robotników przemysłu zbrojeniowego, którzy stracili pracę. Ustępstwo wobec Partii Pracy w tej drugiej sprawie oburzyło konserwatystę Fredericka Banbury’ego, ale przeszło bez głosowania. Zaraz potem izba przyjęła ustawę w trzecim czytaniu. Projekt trafił do [Izby Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów), gdzie nie spodziewano się już oporu.
+Ostatni dzień w Izbie Gmin, 16 maja, wypełniły spory o szczegóły: o ponowne badania lekarskie mężczyzn odrzuconych wcześniej przez komisje i o okres ochronny dla robotników przemysłu zbrojeniowego, którzy stracili pracę. Ustępstwo wobec Partii Pracy w tej drugiej sprawie oburzyło konserwatystę Fredericka Banbury’ego, ale przeszło bez głosowania. Zaraz potem izba przyjęła ustawę w trzecim czytaniu. Projekt trafił do [Izby Lordów](/slownik/izba-lordow), gdzie nie spodziewano się już oporu.

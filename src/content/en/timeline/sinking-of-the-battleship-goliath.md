@@ -2,14 +2,14 @@
 title: Sinking of the battleship Goliath
 summary: On the night of 12/13 May 1915 the Turkish destroyer Muavenet-i Milliye crept into the Dardanelles and torpedoed the British battleship Goliath. About 570 died.
 source: zatopienie-pancernika-goliath
-sourceHash: bfad11ebedecea43f91f9bfeaa37b173f40c1034
+sourceHash: 096fdf94043674aba146b56d60df980ab1c77f48
 ---
 
 At about one o'clock in the morning of 13 May 1915 the Turkish destroyer *Muavenet-i Milliye* torpedoed the British battleship *Goliath* in Morto Bay, at the entrance to the [Dardanelles](/miejsca/dardanele). Three torpedoes struck the ship one after another, and within a few minutes she capsized and sank. According to the British official history, of a crew of 750 nearly 570 were killed, among them her commanding officer, Captain Thomas Shelford. The attacker vanished into the darkness and returned to her base without loss.
 
 ## Night watch off Kereves Dere
 
-*Goliath* was a Canopus-class [pre-dreadnought](https://pl.wikipedia.org/wiki/Przeddrednot), launched in 1898 at the naval dockyard in Chatham. She had four 305 mm guns, but lighter armour than earlier battleships, because she had been designed for service in Far Eastern waters. At the end of 1914 she escorted a convoy carrying Indian troops to East Africa, and then operated off the coast of German East Africa. At the end of November, together with the cruiser *Fox*, she bombarded Dar es Salaam, and in the spring of 1915 she was the flagship of Vice-Admiral Herbert King-Hall, who was watching the cruiser *Königsberg*, trapped in the Rufiji delta. At the beginning of April she sailed for the Dardanelles and [on 25 April](/alianci-laduja-na-gallipoli) supported the landing at Y Beach with her guns.
+*Goliath* was a Canopus-class [pre-dreadnought](/slownik/drednot), launched in 1898 at the naval dockyard in Chatham. She had four 305 mm guns, but lighter armour than earlier battleships, because she had been designed for service in Far Eastern waters. At the end of 1914 she escorted a convoy carrying Indian troops to East Africa, and then operated off the coast of German East Africa. At the end of November, together with the cruiser *Fox*, she bombarded Dar es Salaam, and in the spring of 1915 she was the flagship of Vice-Admiral Herbert King-Hall, who was watching the cruiser *Königsberg*, trapped in the Rufiji delta. At the beginning of April she sailed for the Dardanelles and [on 25 April](/alianci-laduja-na-gallipoli) supported the landing at Y Beach with her guns.
 
 In the first half of May the French on the right wing of the front at Cape Helles were holding with difficulty the positions above the Kereves Dere ravine, won during the [Second Battle of Krithia](/bitwy/druga-bitwa-o-kritie). The Turks tried to retake them every night, so the French commander asked for the support of the ships. From then on, every evening two British battleships went up into the straits and shelled the Turkish troops above the French flank. On the night of 12–13 May *Goliath* and *Cornwallis* were assigned to this watch. *Goliath* anchored in Morto Bay, east of the village of [Sedd el Bahr](https://pl.wikipedia.org/wiki/Sedd_el_Bahr), with *Cornwallis* astern of her. Further up the straits two pairs of destroyers were patrolling, and one more in mid-channel.
 

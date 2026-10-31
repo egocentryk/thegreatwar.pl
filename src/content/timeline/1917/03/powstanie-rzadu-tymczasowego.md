@@ -18,7 +18,7 @@ Brytyjska chronologia wojny notuje proklamowanie Rządu Tymczasowego pod 14 marc
 
 Po [upadku rządu Golicyna](/upadek-rzadu-golicyna) władzę w stolicy przejął w nocy z 12 na 13 marca [Komitet Tymczasowy Dumy](https://pl.wikipedia.org/wiki/Komitet_Tymczasowy_Dumy) pod przewodnictwem [Michaiła Rodzianki](/postacie/michail-rodzianko). Jego członkowie mieli gotową listę ministrów. Liberalna opozycja omawiała ją od 1915 roku, a pod koniec 1916 roku uzgodniła w szczegółach. Kandydatem na premiera był Lwow, przewodniczący Wszechrosyjskiego Związku Ziemskiego i [Ziemgoru](https://pl.wikipedia.org/wiki/Ziemgor), organizacji samorządów, które w czasie wojny zaopatrywały armię i opiekowały się rannymi. Wezwany z Moskwy, przyjechał do Piotrogrodu rano 14 marca.
 
-Komitet musiał się jednak liczyć z drugim ośrodkiem władzy. W tym samym pałacu obradowała [Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich), za którą szła większość zbuntowanego garnizonu. 14 marca wydała ona [rozkaz nr 1](/rozkaz-nr-1), który podporządkowywał jej żołnierzy w sprawach politycznych. Bez jej zgody żaden rząd nie mógłby utrzymać się w stolicy.
+Komitet musiał się jednak liczyć z drugim ośrodkiem władzy. W tym samym pałacu obradowała [Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich](/slownik/rada-delegatow), za którą szła większość zbuntowanego garnizonu. 14 marca wydała ona [rozkaz nr 1](/rozkaz-nr-1), który podporządkowywał jej żołnierzy w sprawach politycznych. Bez jej zgody żaden rząd nie mógłby utrzymać się w stolicy.
 
 ## Nocne rokowania
 

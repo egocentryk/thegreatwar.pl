@@ -35,7 +35,7 @@ Kanclerz [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg
 
 ## Pierwsze strzały
 
-W nocy z 28 na 29 lipca austro-węgierska artyleria ustawiona w [Zemunie](https://pl.wikipedia.org/wiki/Zemun) oraz [monitory](https://pl.wikipedia.org/wiki/Monitor_(okręt)) rzeczne na Dunaju i Sawie ostrzelały [Belgrad](/miejsca/belgrad). Pociski trafiły między innymi w szkołę, Grand Hotel, kawiarnie i banki. Stolica Serbii, leżąca tuż przy granicy, od pierwszych godzin wojny znalazła się na linii frontu. 28 lipca Franciszek Józef podpisał też manifest „Do moich ludów”, w którym tłumaczył poddanym, dlaczego monarchia sięgnęła po broń.
+W nocy z 28 na 29 lipca austro-węgierska artyleria ustawiona w [Zemunie](https://pl.wikipedia.org/wiki/Zemun) oraz [monitory](/slownik/monitor) rzeczne na Dunaju i Sawie ostrzelały [Belgrad](/miejsca/belgrad). Pociski trafiły między innymi w szkołę, Grand Hotel, kawiarnie i banki. Stolica Serbii, leżąca tuż przy granicy, od pierwszych godzin wojny znalazła się na linii frontu. 28 lipca Franciszek Józef podpisał też manifest „Do moich ludów”, w którym tłumaczył poddanym, dlaczego monarchia sięgnęła po broń.
 
 Samo wkroczenie wojsk do Serbii musiało poczekać na zakończenie mobilizacji, której pierwszym dniem był właśnie 28 lipca. [Kampania serbska](https://pl.wikipedia.org/wiki/Kampania_serbska_(I_wojna_światowa)) na dobre rozpoczęła się dopiero w połowie sierpnia.
 

@@ -2,10 +2,10 @@
 title: Sinking of HMS Drake
 summary: On 2 October 1917 the German U-79 torpedoed the armoured cruiser Drake off the coast of Ireland. The ship capsized in a bay of Rathlin Island. 18 men died.
 source: zatopienie-hms-drake
-sourceHash: 8e18ce29d7ca41f1935d296af993612b7260308e
+sourceHash: e33d7f75a46f67d23fea0ae9b616ad73e33f75c2
 ---
 
-On the morning of 2 October 1917 the British [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Drake* was returning from the Atlantic after escorting convoy HH 24, one of the regular [convoys sailing from Hampton Roads](/pierwszy-regularny-konwoj) in Virginia to Britain. Off the northern coast of Ireland the convoy split into groups bound for different ports, and the destroyers escorting it departed. *Drake* sailed on alone. A few miles from [Rathlin](https://pl.wikipedia.org/wiki/Rathlin) Island in the [North Channel](https://pl.wikipedia.org/wiki/Kanał_Północny) she was hit by a torpedo from a submarine that no one on board had seen.
+On the morning of 2 October 1917 the British [armoured cruiser](/slownik/krazownik-pancerny) *Drake* was returning from the Atlantic after escorting convoy HH 24, one of the regular [convoys sailing from Hampton Roads](/pierwszy-regularny-konwoj) in Virginia to Britain. Off the northern coast of Ireland the convoy split into groups bound for different ports, and the destroyers escorting it departed. *Drake* sailed on alone. A few miles from [Rathlin](https://pl.wikipedia.org/wiki/Rathlin) Island in the [North Channel](https://pl.wikipedia.org/wiki/Kanał_Północny) she was hit by a torpedo from a submarine that no one on board had seen.
 
 *Drake* was a distinguished but by then obsolete ship. She had been launched in 1901 at the naval dockyard in Pembroke and gave her name to a class of four large armoured cruisers. The same class included *Good Hope*, which was lost with all hands at the [Battle of Coronel](/bitwa-pod-coronelem). The ship displaced about 14,000 tons and carried two 234 mm guns and sixteen 152 mm guns. Before the war her commanders included the future commander of the Grand Fleet, John Jellicoe. In the first year of the war *Drake* served in a cruiser squadron of the Grand Fleet, and later on the North America and West Indies station. In 1916 she hunted the German raider [*Möwe*](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)) in the Atlantic. In the summer of 1917, when the regular convoy service began, she became one of the cruisers escorting convoys across the ocean.
 

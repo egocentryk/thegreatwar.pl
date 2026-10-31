@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 18 lipca 1915 roku austro-węgierski okręt podwodny [U-4](https://pl.wikipedia.org/wiki/SM_U-4_(1908)) storpedował u wybrzeży Dalmacji, koło [Cavtatu](https://pl.wikipedia.org/wiki/Cavtat), po włosku Ragusa Vecchia, włoski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Giuseppe Garibaldi](https://pl.wikipedia.org/wiki/Giuseppe_Garibaldi_(1899)). Okręt flagowy dywizji krążowników zatonął w ciągu kilku minut. Zginęło 53 marynarzy, a ponad pięciuset uratowano. Była to druga w ciągu niespełna dwóch tygodni strata włoskiego krążownika pancernego na Adriatyku.
+Rankiem 18 lipca 1915 roku austro-węgierski okręt podwodny [U-4](https://pl.wikipedia.org/wiki/SM_U-4_(1908)) storpedował u wybrzeży Dalmacji, koło [Cavtatu](https://pl.wikipedia.org/wiki/Cavtat), po włosku Ragusa Vecchia, włoski [krążownik pancerny](/slownik/krazownik-pancerny) [Giuseppe Garibaldi](https://pl.wikipedia.org/wiki/Giuseppe_Garibaldi_(1899)). Okręt flagowy dywizji krążowników zatonął w ciągu kilku minut. Zginęło 53 marynarzy, a ponad pięciuset uratowano. Była to druga w ciągu niespełna dwóch tygodni strata włoskiego krążownika pancernego na Adriatyku.
 
 ## Ostrzał kolei
 

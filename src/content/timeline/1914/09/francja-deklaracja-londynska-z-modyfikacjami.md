@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 września 1914 roku rząd francuski oficjalnie poinformował Stany Zjednoczone, że w czasie wojny będzie przestrzegać [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku o prawie wojny morskiej, ale z własnymi uzupełnieniami i zmianami. Tego dnia ambasador amerykański w Paryżu Myron T. Herrick przesłał do Waszyngtonu treść francuskiego stanowiska.
+3 września 1914 roku rząd francuski oficjalnie poinformował Stany Zjednoczone, że w czasie wojny będzie przestrzegać [deklaracji londyńskiej](/slownik/deklaracja-londynska) z 1909 roku o prawie wojny morskiej, ale z własnymi uzupełnieniami i zmianami. Tego dnia ambasador amerykański w Paryżu Myron T. Herrick przesłał do Waszyngtonu treść francuskiego stanowiska.
 
 ## Odpowiedź na pytanie Waszyngtonu
 

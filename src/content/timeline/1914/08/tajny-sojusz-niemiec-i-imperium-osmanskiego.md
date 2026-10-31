@@ -18,7 +18,7 @@ Brytyjskie kroniki wojny odnotowywały pod datą 4 sierpnia 1914 roku zawarcie t
 
 ## Droga do traktatu
 
-Inicjatywa wyszła z Konstantynopola. Imperium, osłabione wojną z Włochami i wojnami bałkańskimi, szukało sojusznika wśród mocarstw, a przywódcy rządzącego [Komitetu Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) obawiali się przede wszystkim Rosji. 22 lipca minister wojny [Enver Pasza](/postacie/enver-pasza) zaproponował sojusz Wangenheimowi, który go odrzucił: wielu Niemców uważało imperium za militarne i gospodarcze obciążenie. Kilka dni później cesarz [Wilhelm II](/postacie/wilhelm-ii) uchylił jednak zdanie swojego ambasadora i zgodził się na sojusz. 28 lipca rząd osmański formalnie przedstawił swoją propozycję, a negocjacje trwały w czasie, gdy Europa przechodziła od mobilizacji do wojny.
+Inicjatywa wyszła z Konstantynopola. Imperium, osłabione wojną z Włochami i wojnami bałkańskimi, szukało sojusznika wśród mocarstw, a przywódcy rządzącego [Komitetu Jedności i Postępu](/slownik/mlodoturcy) obawiali się przede wszystkim Rosji. 22 lipca minister wojny [Enver Pasza](/postacie/enver-pasza) zaproponował sojusz Wangenheimowi, który go odrzucił: wielu Niemców uważało imperium za militarne i gospodarcze obciążenie. Kilka dni później cesarz [Wilhelm II](/postacie/wilhelm-ii) uchylił jednak zdanie swojego ambasadora i zgodził się na sojusz. 28 lipca rząd osmański formalnie przedstawił swoją propozycję, a negocjacje trwały w czasie, gdy Europa przechodziła od mobilizacji do wojny.
 
 ## Treść porozumienia
 

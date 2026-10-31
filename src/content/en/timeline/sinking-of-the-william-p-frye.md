@@ -2,7 +2,7 @@
 title: Sinking of the sailing ship William P. Frye
 summary: On 28 January 1915 the German auxiliary cruiser Prinz Eitel Friedrich sank the American barque William P. Frye, the first US ship lost in this war.
 source: zatopienie-zaglowca-william-p-frye
-sourceHash: 1798f4d37b91774ea870460d9c2ffa8c3e928393
+sourceHash: 0bad55e6d8a9f8ccf8f76efb0ec652d648cf0ea1
 ---
 
 On 28 January 1915, in the South Atlantic off the coast of [Brazil](https://pl.wikipedia.org/wiki/Brazylia), the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Prinz Eitel Friedrich* sank the American sailing ship *William P. Frye*. It was the first United States merchant ship sunk during the war, even though the United States remained a neutral country. The case became the subject of a long legal dispute between Washington and Berlin.
@@ -15,7 +15,7 @@ On 28 January 1915, in the South Atlantic off the coast of [Brazil](https://pl.w
 
 ## Cargo overboard
 
-The Germans treated the wheat as conditional [contraband](https://pl.wikipedia.org/wiki/Przemyt). Under the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) foodstuffs could be seized if they were destined for the armed forces or authorities of the enemy, and the cargo was bound for British ports, including fortified naval bases. Thierichens at first ordered the grain to be thrown overboard. The work went slowly, however, and the raider could not stay long in one place. The next day the Germans therefore took the crew, the captain and his wife, and the ship's papers on board their own vessel, and *William P. Frye* was sunk with explosive charges.
+The Germans treated the wheat as conditional [contraband](https://pl.wikipedia.org/wiki/Przemyt). Under the [Declaration of London](/slownik/deklaracja-londynska) foodstuffs could be seized if they were destined for the armed forces or authorities of the enemy, and the cargo was bound for British ports, including fortified naval bases. Thierichens at first ordered the grain to be thrown overboard. The work went slowly, however, and the raider could not stay long in one place. The next day the Germans therefore took the crew, the captain and his wife, and the ship's papers on board their own vessel, and *William P. Frye* was sunk with explosive charges.
 
 The barque's crew joined the several hundred prisoners from sunk ships whom *Prinz Eitel Friedrich* was carrying on board. For several weeks nothing was known in the United States about the fate of the sailing ship. Only on 10 March 1915 did the worn-out raider put in at [Newport News](https://pl.wikipedia.org/wiki/Newport_News), Virginia, where she released her prisoners, and she was soon interned.
 

@@ -2,7 +2,7 @@
 title: Iceland becomes a kingdom
 summary: On 1 December 1918 the Danish–Icelandic Act of Union came into force. Iceland became a sovereign kingdom, linked to Denmark only through the person of the king.
 source: islandia-krolestwem
-sourceHash: d66501a9ca2459de1bf9a936e1c0ae3033dba102
+sourceHash: 39de43c8ab15f8271d153bb07b9777d5d22c89ee
 ---
 
 On 1 December 1918 the Danish–Icelandic Act of Union, signed the day before in Copenhagen by King [Christian X](https://pl.wikipedia.org/wiki/Chrystian_X), came into force. [Iceland](https://pl.wikipedia.org/wiki/Islandia), for centuries part of the Danish monarchy and since 1904 a country with its own government for internal affairs, became a sovereign and free state, the [Kingdom of Iceland](https://pl.wikipedia.org/wiki/Królestwo_Islandii). From then on it was linked to Denmark only by a [personal union](https://pl.wikipedia.org/wiki/Unia_personalna): the same monarch was king of both countries.
@@ -11,6 +11,6 @@ The war had cut the island off from Denmark, and the Icelanders had to secure su
 
 The act recognised Iceland as a sovereign state and stated that Denmark would notify foreign states of its perpetual neutrality. Denmark was to conduct Iceland's foreign affairs on its behalf and guard its fishing waters, and the Danish Supreme Court was to remain the highest court for Icelanders until they established their own (it was set up in 1920). Citizens of both countries retained equal rights in both states. After 1940 either party could demand renegotiation of the agreement, and if no agreement was reached within three years, it could terminate it.
 
-The celebrations in the capital were modest. At the beginning of the year the island had been hit by an exceptionally severe winter, remembered as the "great frost winter"; in October the [Katla](https://pl.wikipedia.org/wiki/Katla) volcano erupted; and in the autumn the [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki) reached the country, killing several hundred people. In front of the government building the [Icelandic flag](https://pl.wikipedia.org/wiki/Flaga_Islandii) was raised, now as a full state flag, and the Danish guard ship *Islands Falk*, lying in the harbour, fired a 21-gun salute in its honour.
+The celebrations in the capital were modest. At the beginning of the year the island had been hit by an exceptionally severe winter, remembered as the "great frost winter"; in October the [Katla](https://pl.wikipedia.org/wiki/Katla) volcano erupted; and in the autumn the [Spanish flu](/slownik/grypa-hiszpanka) reached the country, killing several hundred people. In front of the government building the [Icelandic flag](https://pl.wikipedia.org/wiki/Flaga_Islandii) was raised, now as a full state flag, and the Danish guard ship *Islands Falk*, lying in the harbour, fired a 21-gun salute in its honour.
 
 The Kingdom of Iceland lasted a quarter of a century. In April 1940 the Germans occupied Denmark, and in May the British landed on the island. On 17 June 1944, after another referendum, Iceland broke the union and proclaimed itself a republic. Icelanders still remember 1 December as the day they regained their sovereignty.

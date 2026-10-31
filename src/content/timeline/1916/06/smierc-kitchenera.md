@@ -17,7 +17,7 @@ brief:
   - "Śmierć Kitchenera wstrząsnęła imperium i obrosła legendami o spiskach, których nikt nie potwierdził. Na początku lipca zastąpił go David Lloyd George."
 ---
 
-5 czerwca 1916 roku wieczorem, w czasie sztormu u zachodnich wybrzeży [Orkadów](https://pl.wikipedia.org/wiki/Orkady), brytyjski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Hampshire](https://pl.wikipedia.org/wiki/HMS_Hampshire_(1903)) wszedł na minę i w ciągu kilkunastu minut zatonął. Na pokładzie płynął do Rosji minister wojny, marszałek polny [lord Kitchener](/postacie/horatio-kitchener), ze swoim sztabem. Zginął wraz z niemal całą załogą okrętu. Uratowało się dwunastu marynarzy. Najsłynniejszy żołnierz imperium, twórca [masowej armii ochotniczej](/pierwsza-nowa-armia-kitchenera), miał 65 lat.
+5 czerwca 1916 roku wieczorem, w czasie sztormu u zachodnich wybrzeży [Orkadów](https://pl.wikipedia.org/wiki/Orkady), brytyjski [krążownik pancerny](/slownik/krazownik-pancerny) [Hampshire](https://pl.wikipedia.org/wiki/HMS_Hampshire_(1903)) wszedł na minę i w ciągu kilkunastu minut zatonął. Na pokładzie płynął do Rosji minister wojny, marszałek polny [lord Kitchener](/postacie/horatio-kitchener), ze swoim sztabem. Zginął wraz z niemal całą załogą okrętu. Uratowało się dwunastu marynarzy. Najsłynniejszy żołnierz imperium, twórca [masowej armii ochotniczej](/pierwsza-nowa-armia-kitchenera), miał 65 lat.
 
 ## Misja do Rosji
 

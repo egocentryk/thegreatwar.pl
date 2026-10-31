@@ -2,14 +2,14 @@
 title: Sinking of the battleship Formidable
 summary: Before dawn on 1 January 1915 the German U-24 torpedoed the British battleship Formidable in the English Channel. 547 sailors were killed.
 source: zatoniecie-pancernika-formidable
-sourceHash: 96120199cf1981bf6112336ef9944fbceb3274ea
+sourceHash: e634c2ae7a77b8956e4a65b8f39db1818c2e72d7
 ---
 
 In the early hours of 1 January 1915 the German submarine [U-24](https://pl.wikipedia.org/wiki/SM_U-24_(1913)) torpedoed the British battleship Formidable in the western part of the [English Channel](https://pl.wikipedia.org/wiki/La_Manche). The ship sank before dawn, and 547 officers and men went down with her. She was the first British battleship sunk by a submarine in this war.
 
 ## A squadron without a screen
 
-Formidable was a [pre-dreadnought](https://pl.wikipedia.org/wiki/Przeddrednot) launched in 1898, the lead ship of her class. She displaced about 15,000 tons, carried four 305 mm (12-inch) guns and had a crew of about 780 men. She was commanded by Captain Noel Loxley. The ship belonged to the 5th Battle Squadron, which in November had been stationed at Sheerness at the mouth of the Thames, where [on 26 November its Bulwark blew up](/eksplozja-pancernika-bulwark). On 30 December the squadron was moved to Portland, and the next day its ships carried out gunnery practice near the [Isle of Portland](https://pl.wikipedia.org/wiki/Isle_of_Portland).
+Formidable was a [pre-dreadnought](/slownik/drednot) launched in 1898, the lead ship of her class. She displaced about 15,000 tons, carried four 305 mm (12-inch) guns and had a crew of about 780 men. She was commanded by Captain Noel Loxley. The ship belonged to the 5th Battle Squadron, which in November had been stationed at Sheerness at the mouth of the Thames, where [on 26 November its Bulwark blew up](/eksplozja-pancernika-bulwark). On 30 December the squadron was moved to Portland, and the next day its ships carried out gunnery practice near the [Isle of Portland](https://pl.wikipedia.org/wiki/Isle_of_Portland).
 
 The commander of the Channel Fleet, Vice-Admiral Lewis Bayly, had only two light cruisers at his disposal, Topaze and Diamond. There were no destroyers that could have protected the battleships against submarines. After dark the squadron steamed west in line ahead at about 10 knots, with Formidable bringing up the rear. The weather was worsening, and it was thought that in such a sea submarines would pose no danger. Meanwhile the squadron was being shadowed by U-24 under Kapitänleutnant Rudolf Schneider.
 

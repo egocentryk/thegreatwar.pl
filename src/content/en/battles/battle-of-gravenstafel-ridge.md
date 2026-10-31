@@ -11,7 +11,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Otto von Hügel, Hugo von Kathen]
 result: Inconclusive. After the gas attack the Germans took the ridge near Pilkem and Langemarck, but the Allies closed the gap in the front and prevented a breakthrough.
 source: bitwa-o-grzbiet-gravenstafel
-sourceHash: 4f792d8e7c706c6348fc7a6ba6466e0efd7ae463
+sourceHash: 407d58e442d66ac20bf12f10d0dd1c1d9568d896
 brief:
   - "The Battle of Gravenstafel Ridge, fought on 22 and 23 April 1915 north of Ypres, was the first stage of the Second Battle of Ypres. It began with the first chlorine attack on the Western Front."
   - "At about 5 p.m. on 22 April the Germans opened the cylinders on a front about 6 kilometres long. Within tens of minutes the chlorine cloud broke two French divisions and opened a gap several kilometres wide in the Allied line."
@@ -20,7 +20,7 @@ brief:
   - "For the 1st Canadian Division it was a baptism of fire that established its reputation. The next day the Germans attacked the Canadians themselves with gas, and the Battle of St. Julien began."
 ---
 
-The Battle of Gravenstafel Ridge, fought on 22 and 23 April 1915 north of [Ypres](/miejsca/ypres), was the first stage of the [Second Battle of Ypres](/bitwy/druga-bitwa-pod-ypres). It began with the first [chlorine](https://pl.wikipedia.org/wiki/Chlor) attack on the Western Front, which broke two French divisions and opened a gap several kilometres wide in the Allied line. Through the night and the following day the [1st Canadian Division](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) and British battalions brought up from reserve closed it, counter-attacking without reconnaissance and almost without artillery support. The Germans got no further, but the price was enormous, and the lost ground was never regained.
+The Battle of Gravenstafel Ridge, fought on 22 and 23 April 1915 north of [Ypres](/miejsca/ypres), was the first stage of the [Second Battle of Ypres](/bitwy/druga-bitwa-pod-ypres). It began with the first [chlorine](/slownik/gaz-bojowy) attack on the Western Front, which broke two French divisions and opened a gap several kilometres wide in the Allied line. Through the night and the following day the [1st Canadian Division](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) and British battalions brought up from reserve closed it, counter-attacking without reconnaissance and almost without artillery support. The Germans got no further, but the price was enormous, and the lost ground was never regained.
 
 ## Name and dates
 

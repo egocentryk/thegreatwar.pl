@@ -2,7 +2,7 @@
 title: Prize court upholds the seizure of the Dacia
 summary: On 5 August 1915 the French Prize Council declared the seizure of the steamer Dacia valid. The change of flag from German to American had not saved the ship.
 source: sad-pryzowy-uznaje-zajecie-dacii
-sourceHash: 1ce2d7a54e5e5b5531b840dffd6d7d4896df4ea0
+sourceHash: 0c9e62bff71c5e139d4f25795fea03ad1fc93deb
 ---
 
 At its sessions of 3 and 5 August 1915 the French Prize Council (Conseil des prises) declared lawful the seizure of the steamer *Dacia*, [stopped on 27 February](/francuzi-zajmuja-dacie) by the auxiliary cruiser *Europe* at the entrance to the English Channel. The British chronology of the war already places this ruling under 22 March 1915, but French official documents show that at the end of March the case was only just reaching the court.
@@ -11,7 +11,7 @@ At its sessions of 3 and 5 August 1915 the French Prize Council (Conseil des pri
 
 According to the published judgment, the Minister of Marine sent the Council the case file together with letters of 30 March, 29 April, and 15 and 26 July 1915, asking for the seizure to be declared valid. The official notice of the case appeared in the official journal on 10 April. The ship's owner, the American Edward N. Breitung, defended himself through an advocate at the [Council of State](https://pl.wikipedia.org/wiki/Rada_Stanu_(Francja)). At the request of the United States ambassador the Prize Council twice, on 11 May and 8 June, gave him more time to submit his explanations.
 
-Breitung demanded the release of the ship on bail, recognition of the change of flag as valid under Article 56 of the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska), and 300,000 francs in damages. He argued that he was an American conducting serious business, not a front man, that even before the war he had been thinking of founding shipping lines, and that he had bought the *Dacia* in the ordinary course of business. The file also contained affidavits sworn in New York. In one of them, of 22 March 1915, the director of the New York agency of [HAPAG](https://pl.wikipedia.org/wiki/HAPAG) stated that he had learnt of the ship's transfer to Breitung only later and had never met him.
+Breitung demanded the release of the ship on bail, recognition of the change of flag as valid under Article 56 of the [Declaration of London](/slownik/deklaracja-londynska), and 300,000 francs in damages. He argued that he was an American conducting serious business, not a front man, that even before the war he had been thinking of founding shipping lines, and that he had bought the *Dacia* in the ordinary course of business. The file also contained affidavits sworn in New York. In one of them, of 22 March 1915, the director of the New York agency of [HAPAG](https://pl.wikipedia.org/wiki/HAPAG) stated that he had learnt of the ship's transfer to Breitung only later and had never met him.
 
 ## A voyage planned in Bremen
 

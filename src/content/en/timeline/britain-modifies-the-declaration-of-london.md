@@ -2,10 +2,10 @@
 title: Britain modifies the Declaration of London
 summary: On 20 August 1914 Britain announced it would apply the Declaration of London on naval warfare, but with changes that tightened control of trade.
 source: wielka-brytania-modyfikuje-deklaracje-londynska
-sourceHash: a9821d427f61f10bc9f7c0af8acc985a924d4aae
+sourceHash: f1158116c9897de627d34be3679c1b36cfe9ee51
 ---
 
-On 20 August 1914 the British government issued its first Order in Council concerning the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska). Britain announced that in wartime it would observe this agreement, but with its own additions and modifications. In practice these changes considerably extended its ability to control maritime trade.
+On 20 August 1914 the British government issued its first Order in Council concerning the [Declaration of London](/slownik/deklaracja-londynska). Britain announced that in wartime it would observe this agreement, but with its own additions and modifications. In practice these changes considerably extended its ability to control maritime trade.
 
 ## A convention that never was
 

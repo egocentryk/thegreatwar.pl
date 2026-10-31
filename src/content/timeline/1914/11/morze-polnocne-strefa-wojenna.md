@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 listopada 1914 roku brytyjska [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja) ogłosiła, że całe [Morze Północne](/miejsca/morze-polnocne) należy odtąd uważać za obszar wojskowy. Rządy państw neutralnych zawiadomiono o tym dzień później, a w części źródeł, także we wspomnieniach admirała Johna Jellicoe, komunikat datowany jest na 3 listopada. Nowe zasady miały obowiązywać od 5 listopada.
+2 listopada 1914 roku brytyjska [Admiralicja](/slownik/admiralicja) ogłosiła, że całe [Morze Północne](/miejsca/morze-polnocne) należy odtąd uważać za obszar wojskowy. Rządy państw neutralnych zawiadomiono o tym dzień później, a w części źródeł, także we wspomnieniach admirała Johna Jellicoe, komunikat datowany jest na 3 listopada. Nowe zasady miały obowiązywać od 5 listopada.
 
 ## Odpowiedź na niemieckie miny
 

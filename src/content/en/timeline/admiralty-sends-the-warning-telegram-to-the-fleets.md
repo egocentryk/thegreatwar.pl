@@ -2,10 +2,10 @@
 title: Admiralty sends the "warning telegram" to the fleets
 summary: On 29 July 1914 the Admiralty sent the pre-arranged "warning telegram" to the ships of the Royal Navy, placing the fleet on a war footing.
 source: admiralicja-brytyjska-wysyla-telegram-ostrzegawczy-do-flot
-sourceHash: d487f1d7948d9220e0f19d84d6650670fb953f28
+sourceHash: 248295b42136b15a761fe1e7c36a79ded267d261
 ---
 
-On the morning of 29 July 1914 the British government, under pressure from the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), agreed to begin the so-called precautionary period. The signal to set it in motion was the pre-arranged "warning telegram". That same day the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) sent it to all formations of the [Royal Navy](/sily-zbrojne/royal-navy).
+On the morning of 29 July 1914 the British government, under pressure from the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), agreed to begin the so-called precautionary period. The signal to set it in motion was the pre-arranged "warning telegram". That same day the [Admiralty](/slownik/admiralicja) sent it to all formations of the [Royal Navy](/sily-zbrojne/royal-navy).
 
 The telegram was neither an order to start a war nor a proclamation of mobilisation. It was a short, coded signal that set in motion procedures prepared in advance. From the moment they received it, the commanders of fleets and squadrons, both in home waters and on the distant stations of the [British Empire](/kraje/wielka-brytania), were to treat the situation as an immediate threat of war and prepare their ships for action in accordance with the war plans.
 

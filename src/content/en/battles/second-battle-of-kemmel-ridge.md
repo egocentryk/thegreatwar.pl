@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Fritz von Loßberg]
 result: German victory. The Germans took Kemmelberg, the village of Kemmel and Dranoutre, capturing about 6,500 prisoners, mostly French. They did not, however, break the front or cut off Ypres, and the British shortened the Ypres salient.
 source: druga-bitwa-o-wzgorze-kemmel
-sourceHash: e834e449f91524ecd78ca098eff0aaf5236e6fdc
+sourceHash: 827ce2f845eb9cb98c5e33c5480adec3884c28ac
 brief:
   - "On 25–26 April 1918 the Germans stormed Kemmelberg, a hill rising to about 156 metres above the plain of Flanders and since 1914 the Allies' most important observation point south of Ypres."
   - "For a few days the hill had been held by the French, who had taken over the sector from exhausted British divisions. The Germans aimed to take Kemmel and cut off the Allied troops in the Ypres salient."
@@ -36,7 +36,7 @@ The French disliked the defences they had taken over, and the whole sector lay o
 
 On 20 April the Supreme Army Command decided that the offensive in Flanders had to be ended. It nevertheless agreed to two blows intended to improve the position of the flanks: at Festubert and Givenchy, and at Kemmel. The plan of attack was drawn up by the Fourth Army's chief of staff, General Fritz von Loßberg, in consultation with [Ludendorff](/postacie/erich-ludendorff). Two corps were to attack: General Sieger's XVIII Reserve Corps with the 7th, 13th Reserve, 19th Reserve and 56th Divisions against the British, and General von Eberhardt's X Reserve Corps with the Alpenkorps, the 4th Bavarian Division and the 22nd Reserve Division against the French. The Alpenkorps, in reality a division, was given Kemmelberg itself as its objective. Behind them stood another four divisions and one in army reserve.
 
-The first objective was a line from Dickebusch Lake along the Kemmelbeek stream to the northern edges of Dranoutre. Then the second-line divisions were to pass Kemmelberg to the north-west, towards the road from Poperinge to Vlamertinghe, and cut off all the Allied troops in the Ypres salient. The Fourth Army's artillery, which according to the British official history numbered 191 field and 129 heavy batteries, supported by guns of the Sixth Army, was to drench the Allied batteries and rear areas from 2.30 to 4.30 a.m. with [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy), tear gas and high-explosive shells, and after a half-hour pause to shell the front lines of the infantry for an hour.
+The first objective was a line from Dickebusch Lake along the Kemmelbeek stream to the northern edges of Dranoutre. Then the second-line divisions were to pass Kemmelberg to the north-west, towards the road from Poperinge to Vlamertinghe, and cut off all the Allied troops in the Ypres salient. The Fourth Army's artillery, which according to the British official history numbered 191 field and 129 heavy batteries, supported by guns of the Sixth Army, was to drench the Allied batteries and rear areas from 2.30 to 4.30 a.m. with [mustard gas](/slownik/gaz-bojowy), tear gas and high-explosive shells, and after a half-hour pause to shell the front lines of the infantry for an hour.
 
 ## Course of the battle
 

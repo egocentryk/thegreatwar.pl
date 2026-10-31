@@ -2,14 +2,14 @@
 title: First Allied conference on economic warfare
 summary: On 3 June 1915 delegates of France, Britain, Russia and Italy met in Paris to agree jointly on the struggle against contraband flowing to Germany.
 source: pierwsza-konferencja-aliantow-w-sprawie-wojny-gospodarczej
-sourceHash: 7b88afd1a1ad10775cd7c1a7fbab2bc778a5827a
+sourceHash: 02a784f679e2f7b46f9850e10cc8e8df5322756c
 ---
 
 On 3 June 1915 representatives of the four Entente powers, France, Britain, Russia and Italy, met at the French [Ministry of Foreign Affairs](https://pl.wikipedia.org/wiki/Ministerstwo_Spraw_Zagranicznych_(Francja)) on the Quai d'Orsay in [Paris](https://pl.wikipedia.org/wiki/Paryż). A British chronology of the war calls this meeting the first session of the Allied conference on economic warfare. According to the inventory of the French foreign ministry archives, the talks lasted until 8 June. The delegates were to agree on how to cut Germany and its allies off more effectively from goods from abroad.
 
 ## Each on its own
 
-Since the beginning of the war Britain and France had largely waged economic warfare separately. Each state announced its own contraband lists and its own regulations, modelled on the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) of 1909, though often stricter than it. In March 1915 both governments tightened their course: London issued the [Reprisals Order](/brytyjskie-rozporzadzenie-odwetowe) and Paris [similar decrees](/francuskie-dekrety-odwetowe), under which goods bound to and from Germany were stopped.
+Since the beginning of the war Britain and France had largely waged economic warfare separately. Each state announced its own contraband lists and its own regulations, modelled on the [Declaration of London](/slownik/deklaracja-londynska) of 1909, though often stricter than it. In March 1915 both governments tightened their course: London issued the [Reprisals Order](/brytyjskie-rozporzadzenie-odwetowe) and Paris [similar decrees](/francuskie-dekrety-odwetowe), under which goods bound to and from Germany were stopped.
 
 An informal division of roles emerged in the process. The British, who ruled the sea, controlled shipping and dealt above all with the neutral states of northern Europe. The French concentrated on [Switzerland](https://pl.wikipedia.org/wiki/Szwajcaria) and [Spain](https://pl.wikipedia.org/wiki/Hiszpania). The biggest gap was Germany's neutral neighbours: Switzerland, the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) and the three Scandinavian states. Through their ports and borders goods were still flowing to the Reich which the Allies could not stop directly. They could only restrict the trade of the neutrals themselves. The French were increasingly irritated that the British were making arrangements with the northern states on their own, and demanded a common blockade policy. The Paris conference was the result of their insistence.
 

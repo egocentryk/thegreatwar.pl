@@ -2,10 +2,10 @@
 title: Moscow becomes the capital of Russia
 summary: On 10–11 March 1918 Lenin's government secretly moved from Petrograd to Moscow, announcing it on 12 March. Moscow was the capital again after 200 years.
 source: moskwa-stolica-rosji
-sourceHash: eb84704dbcb8c7ce3225b69f2000af6265918c90
+sourceHash: 2e3674b00280445ecebded7bfae883eaf07ff694
 ---
 
-On 12 March 1918 *Izvestia*, the daily of the All-Russian Central Executive Committee, published a government communiqué on the transfer of Soviet power from Petrograd to [Moscow](https://pl.wikipedia.org/wiki/Moskwa). It was announced after the event. The previous evening a special train had arrived in Moscow carrying the chairman of the [Council of People's Commissars](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR), [Vladimir Lenin](/postacie/wlodzimierz-lenin), and part of the government. The city in which as recently as November the Bolsheviks had had to [seize power with artillery](/bolszewicy-zdobywaja-moskwe) became the capital of Russia again for the first time since [Peter the Great](https://pl.wikipedia.org/wiki/Piotr_I_Wielki), who at the beginning of the 18th century had moved the court to the Neva. It remains the capital to this day.
+On 12 March 1918 *Izvestia*, the daily of the All-Russian Central Executive Committee, published a government communiqué on the transfer of Soviet power from Petrograd to [Moscow](https://pl.wikipedia.org/wiki/Moskwa). It was announced after the event. The previous evening a special train had arrived in Moscow carrying the chairman of the [Council of People's Commissars](/slownik/rada-komisarzy-ludowych), [Vladimir Lenin](/postacie/wlodzimierz-lenin), and part of the government. The city in which as recently as November the Bolsheviks had had to [seize power with artillery](/bolszewicy-zdobywaja-moskwe) became the capital of Russia again for the first time since [Peter the Great](https://pl.wikipedia.org/wiki/Piotr_I_Wielki), who at the beginning of the 18th century had moved the court to the Neva. It remains the capital to this day.
 
 ## Why Moscow
 

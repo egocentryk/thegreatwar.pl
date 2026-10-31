@@ -8,14 +8,14 @@ brief:
   - "From the spring of 1915 the Ottoman authorities deported and murdered Armenians; between about 600,000 and over a million of them died."
   - "On 30 October 1918 the empire signed the Armistice of Mudros, and fighting ended at noon on 31 October."
 source: imperium-osmanskie
-sourceHash: 290154f9fd6695ef7401ceeaba93a57c260f0e97
+sourceHash: 7552730613dc2b4399d7928e26883b871700c68c
 ---
 
 The Ottoman Empire entered the war on 29 October 1914, when its fleet, under a German admiral and without a declaration of war, [shelled Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea. The Young Turks who ruled the state tied it to Germany, hoping to regain lost lands. The Turks fought in the Caucasus, at the Dardanelles and in Mesopotamia, and during the war the authorities destroyed the Armenians. On 30 October 1918 the empire signed the [Armistice of Mudros](/rozejm-w-mudros), and fighting ended at noon on 31 October.
 
 ## The road to war
 
-At the start of the 20th century the empire was losing one territory after another. In 1911 [Italy declared war on it](/wybucha-wojna-wlosko-turecka) to seize Tripolitania and Cyrenaica, and Turkey's weakness emboldened the Balkan states. In 1912 Montenegro, Serbia, Bulgaria and Greece [started the First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska), and the [Treaty of London](/traktat-londynski-konczy-pierwsza-wojne-balkanska) of 30 May 1913 took from Turkey its European lands west of the Enos–Midia line. In January 1913 the [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) seized full power in a coup. From then on the state was ruled by a triumvirate: the minister of war [Enver Pasha](/postacie/enver-pasza), the minister of the navy [Djemal Pasha](/postacie/dzemal-pasza) and the minister of the interior [Mehmed Talat](/postacie/mehmet-talaat).
+At the start of the 20th century the empire was losing one territory after another. In 1911 [Italy declared war on it](/wybucha-wojna-wlosko-turecka) to seize Tripolitania and Cyrenaica, and Turkey's weakness emboldened the Balkan states. In 1912 Montenegro, Serbia, Bulgaria and Greece [started the First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska), and the [Treaty of London](/traktat-londynski-konczy-pierwsza-wojne-balkanska) of 30 May 1913 took from Turkey its European lands west of the Enos–Midia line. In January 1913 the [Committee of Union and Progress](/slownik/mlodoturcy) seized full power in a coup. From then on the state was ruled by a triumvirate: the minister of war [Enver Pasha](/postacie/enver-pasza), the minister of the navy [Djemal Pasha](/postacie/dzemal-pasza) and the minister of the interior [Mehmed Talat](/postacie/mehmet-talaat).
 
 ## Entry into the war
 

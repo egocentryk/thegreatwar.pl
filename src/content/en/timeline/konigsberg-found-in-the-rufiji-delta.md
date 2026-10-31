@@ -2,7 +2,7 @@
 title: Königsberg found in the Rufiji delta
 summary: At the end of October 1914 the British found the German cruiser Königsberg hidden in the Rufiji delta in East Africa and blockaded her.
 source: konigsberg-odnaleziony-w-delcie-rufiji
-sourceHash: 093ad69eab6c90a505fa03e5813d1b905b66cb0a
+sourceHash: 35dbc6b2cc15672c884354bccf31ab591f1089e5
 ---
 
 At the end of October 1914 British cruisers found the German light cruiser [*Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), hidden in the backwaters of the delta of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) river on the coast of [German East Africa](/bitwy/kampania-wschodnioafrykanska). A British chronology records the event under 31 October, but most accounts state that the ship was spotted as early as 30 October. From then on *Königsberg* was blockaded and could not return to the ocean.
@@ -19,4 +19,4 @@ The British directed their search to that area. On 30 October *Königsberg* and 
 
 ## A long blockade
 
-The three cruisers blockaded the mouths of the river. At the beginning of November the British shelled *Somali* and destroyed her. On 10 November they scuttled the old collier *Newbridge* in the main channel of the delta to block the Germans' way to the sea, although other arms of the river still remained open. *Königsberg* did not try to break out. A siege of the ship hidden in the jungle began that lasted many months, in which the British even used aircraft. The decision came only in July 1915, with two shallow-draught [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)), *Severn* and *Mersey*.
+The three cruisers blockaded the mouths of the river. At the beginning of November the British shelled *Somali* and destroyed her. On 10 November they scuttled the old collier *Newbridge* in the main channel of the delta to block the Germans' way to the sea, although other arms of the river still remained open. *Königsberg* did not try to break out. A siege of the ship hidden in the jungle began that lasted many months, in which the British even used aircraft. The decision came only in July 1915, with two shallow-draught [monitors](/slownik/monitor), *Severn* and *Mersey*.

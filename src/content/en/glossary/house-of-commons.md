@@ -1,14 +1,14 @@
 ---
 term: House of Commons
 source: izba-gmin
-sourceHash: 75a70d6db97325589fc5b0fe649a448fb273bec0
+sourceHash: f267bc1487be3b259723d4df4fa19e8ba975deaf
 ---
 
 The House of Commons is the lower, elected house of the Parliament of the United Kingdom, sitting in the Palace of Westminster. Only it could introduce tax and money bills, and a government stayed in office as long as it had the House's confidence. During the war it was where British ministers explained one wartime decision after another, where MPs argued over conscription and where governments fell.
 
 ## The House in wartime
 
-The House grew out of the medieval English Parliament. Since the Parliament Act of 1911 it had clearly prevailed over the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów), which could now only delay bills passed by MPs. The war was spent by the House elected in December 1910 for five years, which extended its own term by successive acts.
+The House grew out of the medieval English Parliament. Since the Parliament Act of 1911 it had clearly prevailed over the [House of Lords](/slownik/izba-lordow), which could now only delay bills passed by MPs. The war was spent by the House elected in December 1910 for five years, which extended its own term by successive acts.
 
 On 3 August 1914 [Edward Grey](/postacie/edward-grey) [argued before the MPs](/wielka-brytania-zapowiada-obrone-neutralnosci-belgii) that [Britain](/kraje/wielka-brytania) could not remain indifferent to a war on the Continent. A few days later the House hurriedly passed the [Defence of the Realm Act](/ustawa-o-obronie-krolestwa), the basis of wartime regulations. Conscription, however, caused the most disputes. On 24 January 1916 MPs [passed it](/izba-gmin-uchwala-pobor) for single men by 383 votes to 36, in May they [extended it to married men](/izba-gmin-uchwala-pobor-zonatych), and in April 1918, after the German spring offensive, they [raised the age limit](/trzecia-ustawa-o-sluzbie-wojskowej) and agreed to extend conscription to Ireland.
 

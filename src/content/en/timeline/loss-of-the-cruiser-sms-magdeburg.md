@@ -2,7 +2,7 @@
 title: Loss of the cruiser SMS Magdeburg
 summary: On 26 August 1914 the German cruiser Magdeburg ran aground at the entrance to the Gulf of Finland. The Russians captured her codebooks.
 source: zatoniecie-sms-magdeburg
-sourceHash: dd90c0ba8f5e5d9ee781e4a042b7747a6c83672e
+sourceHash: 4dab46a3389c4de27d072a3e2f3f6fb0baaca88d
 ---
 
 On 26 August 1914 the German [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) [SMS Magdeburg](https://pl.wikipedia.org/wiki/SMS_Magdeburg_(1911)) ran onto rocks in fog off the islet of Odensholm, today's Estonian [Osmussaar](https://pl.wikipedia.org/wiki/Osmussaar), at the entrance to the [Gulf of Finland](https://pl.wikipedia.org/wiki/Zatoka_Fińska). The ship could not be saved, and Russian cruisers that arrived in the morning shelled her and forced the rest of the crew to surrender. The loss of the cruiser in itself was a minor episode of the war in the Baltic. Its consequences, however, proved enormous, because the Russians found German codebooks at the wreck, which later reached the British.
@@ -29,7 +29,7 @@ More than a dozen crew members were killed, and some were listed as missing. Sou
 
 What proved most important was what the Russians found on and around the wreck. The Germans had not managed to destroy all the secret documents. Russian sailors and divers found on board and in the shallow water alongside copies of the [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) codebook, known as the SKM (Signalbuch der Kaiserlichen Marine), together with the current cipher key, as well as charts and the logbook. Winston Churchill's memoirs contain a striking story that the book was found clasped in the arms of a drowned German signaller. Historians treat it rather as a legend.
 
-The Russians acted generously: they handed one copy of the book to their ally, Great Britain. It was delivered by Russian officers, and on 13 October 1914 the codebook reached the hands of the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill). It was taken over by the newly created codebreaking unit of British naval intelligence, known as [Room 40](https://pl.wikipedia.org/wiki/Room_40).
+The Russians acted generously: they handed one copy of the book to their ally, Great Britain. It was delivered by Russian officers, and on 13 October 1914 the codebook reached the hands of the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill). It was taken over by the newly created codebreaking unit of British naval intelligence, known as [Room 40](/slownik/room-40).
 
 The codebook from the Magdeburg, supplemented by other captures from those months, allowed the British to read much of the German radio traffic. The Admiralty often knew in advance when the German fleet was putting to sea. This led to the [Battle of Dogger Bank](https://pl.wikipedia.org/wiki/Bitwa_na_Dogger_Bank_(1915)) in January 1915, and in May 1916 the British Grand Fleet put to sea even before the Germans, which led to the [Battle of Jutland](https://pl.wikipedia.org/wiki/Bitwa_jutlandzka). For a long time the Germans did not realise how much their enemy knew.
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod datą 13 listopada 1914 roku protest rządu [Holandii](https://pl.wikipedia.org/wiki/Holandia) przeciw zmianom [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska). Chodziło o przepisy, którymi Wielka Brytania, a za nią Francja, zmieniły na własną rękę zasady tego kodeksu prawa wojny morskiej. Treści samej holenderskiej noty nie udało się odnaleźć w dostępnych źródłach, ale jej przedmiot i tło są dobrze znane.
+Brytyjska chronologia wojny odnotowuje pod datą 13 listopada 1914 roku protest rządu [Holandii](https://pl.wikipedia.org/wiki/Holandia) przeciw zmianom [deklaracji londyńskiej](/slownik/deklaracja-londynska). Chodziło o przepisy, którymi Wielka Brytania, a za nią Francja, zmieniły na własną rękę zasady tego kodeksu prawa wojny morskiej. Treści samej holenderskiej noty nie udało się odnaleźć w dostępnych źródłach, ale jej przedmiot i tło są dobrze znane.
 
 ## Kraj tranzytowy
 

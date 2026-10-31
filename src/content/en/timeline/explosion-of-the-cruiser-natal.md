@@ -2,10 +2,10 @@
 title: Explosion of the cruiser Natal
 summary: On 30 December 1915 the British cruiser Natal blew up in the Cromarty Firth. About 400 people died, including women and children visiting the ship.
 source: wybuch-na-krazowniku-natal
-sourceHash: 5e51e186b06a747b903c32c948782b0c395c1b82
+sourceHash: 7858b96d9abbaf20c1df99182669ad6f80ed5c23
 ---
 
-On the afternoon of 30 December 1915, in the [Cromarty Firth](https://pl.wikipedia.org/wiki/Cromarty_Firth) in northern Scotland, at the anchorage of one of the bases of the [Grand Fleet](/sily-zbrojne/grand-fleet), the British [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Natal* blew up. A series of explosions tore apart the after part of the ship, which within a few minutes capsized and settled on the bottom of the shallow firth. About 400 people were killed. Among them were also the captain's guests: women, children and nurses, invited on board for a Christmas party with a film show. It was the second loss of a Grand Fleet cruiser outside combat in two months. At the end of October *Argyll* had [been wrecked](/katastrofa-krazownika-argyll) on the rocks off the east coast of Scotland.
+On the afternoon of 30 December 1915, in the [Cromarty Firth](https://pl.wikipedia.org/wiki/Cromarty_Firth) in northern Scotland, at the anchorage of one of the bases of the [Grand Fleet](/sily-zbrojne/grand-fleet), the British [armoured cruiser](/slownik/krazownik-pancerny) *Natal* blew up. A series of explosions tore apart the after part of the ship, which within a few minutes capsized and settled on the bottom of the shallow firth. About 400 people were killed. Among them were also the captain's guests: women, children and nurses, invited on board for a Christmas party with a film show. It was the second loss of a Grand Fleet cruiser outside combat in two months. At the end of October *Argyll* had [been wrecked](/katastrofa-krazownika-argyll) on the rocks off the east coast of Scotland.
 
 ## A party on board
 

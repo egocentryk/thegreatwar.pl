@@ -2,10 +2,10 @@
 title: Sinking of the raider Leopard
 summary: On 16 March 1917 north of the Shetlands the cruiser Achilles and the steamer Dundee sank the raider Leopard, formerly Yarrowdale. None of over 300 men survived.
 source: zatopienie-rajdera-leopard
-sourceHash: 3be7127400a4d32396583f70664386cb1642715a
+sourceHash: 28b4d67b1df9640930dcf12b831641b91fb94059
 ---
 
-On the afternoon of 16 March 1917, in the [Norwegian Sea](https://pl.wikipedia.org/wiki/Morze_Norweskie), several hundred kilometres north of the [Shetlands](https://pl.wikipedia.org/wiki/Szetlandy), the British [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Achilles* and the armed boarding steamer *Dundee* sank the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Leopard*. The raider, disguised as a Norwegian freighter, was trying to break through the British blockade into the Atlantic. She went down with all hands, and with her died six Britons who had boarded her shortly before.
+On the afternoon of 16 March 1917, in the [Norwegian Sea](https://pl.wikipedia.org/wiki/Morze_Norweskie), several hundred kilometres north of the [Shetlands](https://pl.wikipedia.org/wiki/Szetlandy), the British [armoured cruiser](/slownik/krazownik-pancerny) *Achilles* and the armed boarding steamer *Dundee* sank the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) *Leopard*. The raider, disguised as a Norwegian freighter, was trying to break through the British blockade into the Atlantic. She went down with all hands, and with her died six Britons who had boarded her shortly before.
 
 ## A prize of the Möwe
 

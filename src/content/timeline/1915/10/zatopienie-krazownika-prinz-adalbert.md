@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 23 października 1915 roku brytyjski okręt podwodny [E8](https://pl.wikipedia.org/wiki/HMS_E8), dowodzony przez komandora podporucznika Francisa Goodharta, storpedował około 20 mil morskich na zachód od [Lipawy](https://pl.wikipedia.org/wiki/Lipawa) niemiecki [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Prinz Adalbert](https://pl.wikipedia.org/wiki/SMS_Prinz_Adalbert_(1901)). Torpeda zdetonowała dziobową komorę amunicyjną i okręt wyleciał w powietrze. Z załogi liczącej około 675 ludzi przeżyło tylko trzech. Zginęło 32 oficerów i 640 podoficerów i marynarzy. Według niemieckiej historii oficjalnej była to najcięższa strata, jaką niemieckie siły na [Morzu Bałtyckim](https://pl.wikipedia.org/wiki/Morze_Bałtyckie) poniosły od początku wojny.
+Rankiem 23 października 1915 roku brytyjski okręt podwodny [E8](https://pl.wikipedia.org/wiki/HMS_E8), dowodzony przez komandora podporucznika Francisa Goodharta, storpedował około 20 mil morskich na zachód od [Lipawy](https://pl.wikipedia.org/wiki/Lipawa) niemiecki [krążownik pancerny](/slownik/krazownik-pancerny) [Prinz Adalbert](https://pl.wikipedia.org/wiki/SMS_Prinz_Adalbert_(1901)). Torpeda zdetonowała dziobową komorę amunicyjną i okręt wyleciał w powietrze. Z załogi liczącej około 675 ludzi przeżyło tylko trzech. Zginęło 32 oficerów i 640 podoficerów i marynarzy. Według niemieckiej historii oficjalnej była to najcięższa strata, jaką niemieckie siły na [Morzu Bałtyckim](https://pl.wikipedia.org/wiki/Morze_Bałtyckie) poniosły od początku wojny.
 
 ## Drugie trafienie
 

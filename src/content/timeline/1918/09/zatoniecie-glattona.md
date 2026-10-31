@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 września 1918 roku około kwadransa po szóstej wieczorem na stojącym w porcie [Dover](https://pl.wikipedia.org/wiki/Dover) brytyjskim [monitorze](https://pl.wikipedia.org/wiki/Monitor_(okręt)) „Glatton” rozległ się wybuch. W środkowej komorze amunicyjnej dział 6-calowych zapalił się [kordyt](https://pl.wikipedia.org/wiki/Kordyt), a płomienie przebiły dach jednej z wież i zaczęły się rozprzestrzeniać w stronę rufy. Okręt, który nie zdążył jeszcze oddać ani jednego strzału do nieprzyjaciela, stał się bombą zagrażającą całemu miastu. Dwie godziny później spoczywał przewrócony na dnie portu, zatopiony torpedami brytyjskich niszczycieli.
+16 września 1918 roku około kwadransa po szóstej wieczorem na stojącym w porcie [Dover](https://pl.wikipedia.org/wiki/Dover) brytyjskim [monitorze](/slownik/monitor) „Glatton” rozległ się wybuch. W środkowej komorze amunicyjnej dział 6-calowych zapalił się [kordyt](https://pl.wikipedia.org/wiki/Kordyt), a płomienie przebiły dach jednej z wież i zaczęły się rozprzestrzeniać w stronę rufy. Okręt, który nie zdążył jeszcze oddać ani jednego strzału do nieprzyjaciela, stał się bombą zagrażającą całemu miastu. Dwie godziny później spoczywał przewrócony na dnie portu, zatopiony torpedami brytyjskich niszczycieli.
 
 ## Okręt dla Norwegii
 

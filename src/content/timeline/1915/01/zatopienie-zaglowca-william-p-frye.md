@@ -21,7 +21,7 @@ Prinz Eitel Friedrich, uzbrojony liniowiec pasażerski, [wypłynął w sierpniu 
 
 ## Ładunek za burtą
 
-Niemcy uznali pszenicę za [kontrabandę](https://pl.wikipedia.org/wiki/Przemyt) warunkową. W myśl [deklaracji londyńskiej](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) żywność można było zająć, jeśli była przeznaczona dla sił zbrojnych lub władz nieprzyjaciela, a ładunek płynął do brytyjskich portów, w tym ufortyfikowanych baz marynarki. Thierichens polecił początkowo wyrzucić zboże za burtę. Praca szła jednak powoli, a rajder nie mógł długo stać w jednym miejscu. Następnego dnia Niemcy zabrali więc załogę, kapitana z żoną i dokumenty statku na swój pokład, a William P. Frye został zatopiony ładunkami wybuchowymi.
+Niemcy uznali pszenicę za [kontrabandę](https://pl.wikipedia.org/wiki/Przemyt) warunkową. W myśl [deklaracji londyńskiej](/slownik/deklaracja-londynska) żywność można było zająć, jeśli była przeznaczona dla sił zbrojnych lub władz nieprzyjaciela, a ładunek płynął do brytyjskich portów, w tym ufortyfikowanych baz marynarki. Thierichens polecił początkowo wyrzucić zboże za burtę. Praca szła jednak powoli, a rajder nie mógł długo stać w jednym miejscu. Następnego dnia Niemcy zabrali więc załogę, kapitana z żoną i dokumenty statku na swój pokład, a William P. Frye został zatopiony ładunkami wybuchowymi.
 
 Załoga barku trafiła do grona kilkuset jeńców z zatopionych statków, których Prinz Eitel Friedrich wiózł na pokładzie. Przez kilka tygodni w Stanach Zjednoczonych nic nie wiedziano o losie żaglowca. Dopiero 10 marca 1915 roku wyeksploatowany rajder zawinął do [Newport News](https://pl.wikipedia.org/wiki/Newport_News) w Wirginii, gdzie wypuścił jeńców, a wkrótce został internowany.
 

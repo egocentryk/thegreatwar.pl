@@ -6,14 +6,14 @@ country: Ottoman Empire
 birthPlace: Bursa (Ottoman Empire)
 deathPlace: Istanbul (Turkey)
 source: nureddin-pasza
-sourceHash: d34580290e69c7c4e63a44b890410b40b57a878a
+sourceHash: 98071d1806652c347dde55bba39229095fcf0bad
 ---
 
 Nureddin, during the Great War still a colonel, that is Nureddin Bey, and from 1918 Nureddin Pasha, known in Turkey as "the Bearded" (Sakallı), commanded the Ottoman forces in Iraq during the most important six months of the campaign there. In September 1915 he lost to the British at Kut, but in November at Ctesiphon he stopped the march of General Townshend's division on Baghdad, and then shut it up in Kut. That siege ended in April 1916 with one of the most humiliating surrenders in the history of the British Army, although Nureddin was no longer at the town by then. After the war he was one of the leading commanders of the Turkish national movement. His name is also associated with brutal repression of Greeks and Kurds and with the lynching of the Metropolitan of Smyrna in 1922.
 
 ## Before the war
 
-He was born in 1873 in [Bursa](https://pl.wikipedia.org/wiki/Bursa_(miasto)), the son of Marshal İbrahim Pasha, a senior commander of the Ottoman army. His gravestone gives the year 1872, while Turkish biographies also give the exact date of 17 July 1873. In 1893 he graduated from the war college in Constantinople, but unlike most senior commanders of his generation he did not pass through the general staff academy. He knew Arabic, French, German and Russian. In the [war with Greece](https://pl.wikipedia.org/wiki/Wojna_grecko-turecka_(1897)) in 1897 he was aide-de-camp to the commander-in-chief Edhem Pasha, and then aide-de-camp to Sultan [Abdul Hamid II](https://pl.wikipedia.org/wiki/Abdülhamid_II). He fought guerrillas in Macedonia, and before the revolution of 1908 he joined the [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu), against his father's warnings.
+He was born in 1873 in [Bursa](https://pl.wikipedia.org/wiki/Bursa_(miasto)), the son of Marshal İbrahim Pasha, a senior commander of the Ottoman army. His gravestone gives the year 1872, while Turkish biographies also give the exact date of 17 July 1873. In 1893 he graduated from the war college in Constantinople, but unlike most senior commanders of his generation he did not pass through the general staff academy. He knew Arabic, French, German and Russian. In the [war with Greece](https://pl.wikipedia.org/wiki/Wojna_grecko-turecka_(1897)) in 1897 he was aide-de-camp to the commander-in-chief Edhem Pasha, and then aide-de-camp to Sultan [Abdul Hamid II](https://pl.wikipedia.org/wiki/Abdülhamid_II). He fought guerrillas in Macedonia, and before the revolution of 1908 he joined the [Committee of Union and Progress](/slownik/mlodoturcy), against his father's warnings.
 
 His career did not run smoothly. In 1909, during a purge of the officer corps, he was reduced from colonel to major. He rebuilt his position fighting rebels in Yemen, and in 1913 he returned from there with a regiment for the last phase of the Balkan War. He then served in the model unit formed with the help of the German military mission of General [Otto Liman von Sanders](/postacie/otto-liman-von-sanders). In the spring of 1914 he took over the 4th Division.
 

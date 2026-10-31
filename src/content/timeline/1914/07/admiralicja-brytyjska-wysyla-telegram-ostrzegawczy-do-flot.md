@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 lipca 1914 roku rano brytyjski rząd, naciskany przez Pierwszego Lorda Admiralicji [Winstona Churchilla](/postacie/winston-churchill), zgodził się rozpocząć tzw. okres przygotowawczy. Sygnałem do jego uruchomienia był uzgodniony wcześniej „telegram ostrzegawczy” (Warning Telegram). Jeszcze tego samego dnia [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) przekazała go wszystkim zespołom [Royal Navy](/sily-zbrojne/royal-navy).
+29 lipca 1914 roku rano brytyjski rząd, naciskany przez Pierwszego Lorda Admiralicji [Winstona Churchilla](/postacie/winston-churchill), zgodził się rozpocząć tzw. okres przygotowawczy. Sygnałem do jego uruchomienia był uzgodniony wcześniej „telegram ostrzegawczy” (Warning Telegram). Jeszcze tego samego dnia [Admiralicja](/slownik/admiralicja) przekazała go wszystkim zespołom [Royal Navy](/sily-zbrojne/royal-navy).
 
 Telegram nie był rozkazem rozpoczęcia wojny ani ogłoszeniem mobilizacji. Był krótkim, umownym sygnałem, który uruchamiał z góry przygotowane procedury. Od chwili jego otrzymania dowódcy flot i eskadr, zarówno w wodach macierzystych, jak i na odległych stacjach [Imperium brytyjskiego](/kraje/wielka-brytania), mieli traktować sytuację jako bezpośrednie zagrożenie wojną i przygotować swoje okręty do działań zgodnie z planami wojennymi.
 

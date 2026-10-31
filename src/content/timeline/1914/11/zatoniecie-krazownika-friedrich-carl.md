@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy 17 listopada 1914 roku niemiecki [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [Friedrich Carl](https://pl.wikipedia.org/wiki/SMS_Friedrich_Carl_(1902)) wszedł na dwie rosyjskie miny około 33 mil morskich na zachód od [Kłajpedy](https://pl.wikipedia.org/wiki/Kłajpeda), po niemiecku Memel, i po kilku godzinach zatonął w zimnych wodach [Morza Bałtyckiego](https://pl.wikipedia.org/wiki/Morze_Bałtyckie). Większość załogi zdołano uratować.
+W nocy 17 listopada 1914 roku niemiecki [krążownik pancerny](/slownik/krazownik-pancerny) [Friedrich Carl](https://pl.wikipedia.org/wiki/SMS_Friedrich_Carl_(1902)) wszedł na dwie rosyjskie miny około 33 mil morskich na zachód od [Kłajpedy](https://pl.wikipedia.org/wiki/Kłajpeda), po niemiecku Memel, i po kilku godzinach zatonął w zimnych wodach [Morza Bałtyckiego](https://pl.wikipedia.org/wiki/Morze_Bałtyckie). Większość załogi zdołano uratować.
 
 Friedrich Carl należał do [typu Prinz Adalbert](https://pl.wikipedia.org/wiki/Krążowniki_pancerne_typu_Prinz_Adalbert) i wszedł do służby w 1903 roku. Był uzbrojony w cztery działa kalibru 21 cm i dziesięć dział kalibru 15 cm, a jego załoga liczyła blisko 600 ludzi. Pod koniec sierpnia 1914 roku przywrócono go do czynnej służby i uczyniono okrętem flagowym niemieckich krążowników na Bałtyku, którymi dowodził kontradmirał Ehler Behring. Wieczorem 16 listopada krążownik wyszedł w morze, by wziąć udział w operacji przeciw rosyjskiemu portowi w Lipawie, który Niemcy chcieli zablokować, zanim zaczną z niego korzystać brytyjskie okręty podwodne.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 30 stycznia 1915 roku, że [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja) ostrzegła brytyjskie statki handlowe, by na wodach wokół [Wysp Brytyjskich](https://pl.wikipedia.org/wiki/Wyspy_Brytyjskie) podnosiły [banderę](https://pl.wikipedia.org/wiki/Bandera) państwa neutralnego albo nie podnosiły żadnej. Zalecenie miało utrudnić niemieckim okrętom podwodnym rozpoznanie, czy mają przed sobą statek brytyjski. Niemcy w swoich późniejszych oświadczeniach datowali tę decyzję na 31 stycznia.
+Brytyjska chronologia wojny odnotowuje pod 30 stycznia 1915 roku, że [Admiralicja](/slownik/admiralicja) ostrzegła brytyjskie statki handlowe, by na wodach wokół [Wysp Brytyjskich](https://pl.wikipedia.org/wiki/Wyspy_Brytyjskie) podnosiły [banderę](https://pl.wikipedia.org/wiki/Bandera) państwa neutralnego albo nie podnosiły żadnej. Zalecenie miało utrudnić niemieckim okrętom podwodnym rozpoznanie, czy mają przed sobą statek brytyjski. Niemcy w swoich późniejszych oświadczeniach datowali tę decyzję na 31 stycznia.
 
 ## U-Booty u brytyjskich wybrzeży
 

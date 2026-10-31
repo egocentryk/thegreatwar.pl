@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Kléber
 summary: On 27 June 1917 the French armoured cruiser Kléber struck a mine laid by UC-61 at the approach to Brest and sank. Between 38 and 42 sailors were killed.
 source: zatopienie-krazownika-kleber
-sourceHash: c7d9a73c0ebc988388f5fe92c8c4a5043098a150
+sourceHash: 13d0a14e044b924ae181d1d1fa1ea3e608c3bcc5
 ---
 
-On the morning of 27 June 1917 the French [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Kléber* struck a mine on the approach to [Brest](https://pl.wikipedia.org/wiki/Brest) and sank in less than an hour. The British chronology of the war states that she was sunk by a submarine. This was true only indirectly. The ship was not torpedoed but ran into a minefield laid on the approaches to the base by the German submarine minelayer [UC-61](https://pl.wikipedia.org/wiki/SM_UC-61) under Kapitänleutnant Georg Gerth.
+On the morning of 27 June 1917 the French [armoured cruiser](/slownik/krazownik-pancerny) *Kléber* struck a mine on the approach to [Brest](https://pl.wikipedia.org/wiki/Brest) and sank in less than an hour. The British chronology of the war states that she was sunk by a submarine. This was true only indirectly. The ship was not torpedoed but ran into a minefield laid on the approaches to the base by the German submarine minelayer [UC-61](https://pl.wikipedia.org/wiki/SM_UC-61) under Kapitänleutnant Georg Gerth.
 
 *Kléber*, launched in 1902 at the Forges et Chantiers de la Gironde yard near Bordeaux, was one of the three ships of the Dupleix class. She displaced about 7,700 tons and carried eight 164.7 mm guns. At the beginning of the war she guarded the English Channel, in 1915 she supported operations at the Dardanelles and [took part in a raid on the Bulgarian coast](/ostrzelanie-dedeagacz), and from the summer of 1916 she was the flagship of the division at [Dakar](https://pl.wikipedia.org/wiki/Dakar), whose task was to protect shipping from German raiders. In May 1917 the division was reduced to recover sailors for patrol vessels. The old cruiser was to return to Brest and pass into reserve. On 16 June she left Dakar, escorting the transport *Phrygie* with about 1,150 soldiers to the coast of Morocco. After a stop in the bay of [Agadir](https://pl.wikipedia.org/wiki/Agadir) she sailed on alone, far from the coast, avoiding the areas where submarines were expected.
 

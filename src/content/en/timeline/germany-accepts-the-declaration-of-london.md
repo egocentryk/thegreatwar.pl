@@ -2,10 +2,10 @@
 title: Germany accepts the Declaration of London
 summary: On 4 September 1914 Germany confirmed it would observe the Declaration of London if other states did the same, and set out its own list of contraband.
 source: niemcy-akceptuja-deklaracje-londynska
-sourceHash: 68976619e5f0a207c381a6d295ca8fb15bc03dc5
+sourceHash: c67fdc69b9a1778867ab4efc7c1098c09bf1eed2
 ---
 
-On 4 September 1914, according to the British chronology of the war, the German government declared that it would observe the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) on the law of naval warfare if the other belligerents did the same. At the same time Germany presented a list of the goods it regarded as contraband of war.
+On 4 September 1914, according to the British chronology of the war, the German government declared that it would observe the [Declaration of London](/slownik/deklaracja-londynska) on the law of naval warfare if the other belligerents did the same. At the same time Germany presented a list of the goods it regarded as contraband of war.
 
 ## Berlin's position
 

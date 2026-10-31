@@ -2,7 +2,7 @@
 title: Third Battle of Gaza begins
 summary: On 27 October 1917 the British began shelling Gaza. That day the Turks struck yeomanry outposts at El Buqqar, but did not see through Allenby's plan.
 source: poczatek-trzeciej-bitwy-o-gaze
-sourceHash: 5c0860e70cf9b2e20ad9b61a6cee55d1b3c49ba1
+sourceHash: a93d605d09d9838da527fb59f9d3d67241d65b56
 ---
 
 On 27 October 1917 the guns of the British XXI Corps opened fire on the Turkish defences of [Gaza](https://pl.wikipedia.org/wiki/Gaza_(miasto)). The front before the town had stood still for half a year, since the [defeat in April](/bitwy/druga-bitwa-o-gaze), and the bombardment signalled that the British would once again storm the same place. That was exactly what General Sir [Edmund Allenby](/postacie/edmund-allenby) intended. The shelling of Gaza was to hold the Turks' attention while most of his army marched by night several dozen kilometres to the east, towards [Beersheba](https://pl.wikipedia.org/wiki/Beer_Szewa). The same morning the Turks attacked British outposts between the two wings. According to the British official history (Cyril Falls, *Military Operations: Egypt and Palestine*, vol. II), the Third Battle of Gaza, which lasted until 7 November, is reckoned from this day.
@@ -19,7 +19,7 @@ From 21 October the concentration on the eastern wing was under way. Columns of 
 
 Bulfin had 68 heavy guns and howitzers, divided into two counter-battery groups and a bombardment group, as well as the field artillery of the 52nd, 54th and 75th Divisions. This time there was no shortage of ammunition. Three hundred rounds from a 6-inch howitzer were allotted to the destruction of each Turkish battery located, and before the day of the assault the heavy artillery fired about 15,000 shells. Two long-range 6-inch guns, directed from observation balloons, shelled the Turkish railway station at Beit Hanun from about 15 kilometres. The official history regards this as the heaviest bombardment carried out outside Europe in this war. On the sector of the coming assault there was one heavy gun to less than 60 metres of front, the same as the British had on the first day of the Battle of the Somme.
 
-From 29 October the ships of Rear-Admiral Thomas Jackson joined in the bombardment: the cruiser *Grafton*, the French coastal defence battleship *Requin*, the monitor *Raglan* with a 14-inch gun, smaller [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)), British and French destroyers and river gunboats. On 29–31 October the artillery shelled the Turkish batteries with gas shells, but without visible effect. The Turks were not even sure whether gas had been used at all. According to the commander of the Eighth Army, the Bavarian General Friedrich Kress von Kressenstein, the bombardment destroyed little, but severely tried the nerves of the Gaza garrison.
+From 29 October the ships of Rear-Admiral Thomas Jackson joined in the bombardment: the cruiser *Grafton*, the French coastal defence battleship *Requin*, the monitor *Raglan* with a 14-inch gun, smaller [monitors](/slownik/monitor), British and French destroyers and river gunboats. On 29–31 October the artillery shelled the Turkish batteries with gas shells, but without visible effect. The Turks were not even sure whether gas had been used at all. According to the commander of the Eighth Army, the Bavarian General Friedrich Kress von Kressenstein, the bombardment destroyed little, but severely tried the nerves of the Gaza garrison.
 
 ## The reconnaissance at El Buqqar
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-24 stycznia 1916 roku brytyjska [Izba Gmin](/slownik/izba-gmin) przyjęła w trzecim czytaniu projekt ustawy o służbie wojskowej (Military Service Bill), która po raz pierwszy w tej wojnie wprowadzała w Wielkiej Brytanii [pobór](https://pl.wikipedia.org/wiki/Pobór_(wojsko)). Za projektem głosowało 383 posłów, przeciw 36. Według „Annual Register” mniejszość tworzyło trzydziestu liberałów, pięciu posłów Partii Pracy i jeden niezależny nacjonalista irlandzki. Tego samego dnia projekt trafił do [Izby Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów), która przeprowadziła pierwsze czytanie. Głosowanie zamknęło niespełna trzy tygodnie burzliwej, ale zaskakująco krótkiej batalii parlamentarnej.
+24 stycznia 1916 roku brytyjska [Izba Gmin](/slownik/izba-gmin) przyjęła w trzecim czytaniu projekt ustawy o służbie wojskowej (Military Service Bill), która po raz pierwszy w tej wojnie wprowadzała w Wielkiej Brytanii [pobór](https://pl.wikipedia.org/wiki/Pobór_(wojsko)). Za projektem głosowało 383 posłów, przeciw 36. Według „Annual Register” mniejszość tworzyło trzydziestu liberałów, pięciu posłów Partii Pracy i jeden niezależny nacjonalista irlandzki. Tego samego dnia projekt trafił do [Izby Lordów](/slownik/izba-lordow), która przeprowadziła pierwsze czytanie. Głosowanie zamknęło niespełna trzy tygodnie burzliwej, ale zaskakująco krótkiej batalii parlamentarnej.
 
 ## Spłata obietnicy premiera
 
