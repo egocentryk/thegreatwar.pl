@@ -2,10 +2,10 @@
 title: Britain breaks off relations with Bulgaria
 summary: In mid-October 1915 Britain broke off diplomatic relations with Bulgaria. The Bulgarian minister left London, and the Bulgarian army moved against Serbia.
 source: wielka-brytania-zrywa-stosunki-z-bulgaria
-sourceHash: 8b88af981d0bf83d0d49b4418497720dc61563f1
+sourceHash: 6972129e5ff373bc67f97343fa05950243cb89d4
 ---
 
-According to the British chronology of the war and the British official history of naval operations, on 13 October 1915 [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) broke off diplomatic relations with [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). It was the last step before war. For a month Bulgaria had been bound by a [secret alliance with Germany](/traktat-sojuszniczy-w-sofii), its army was mobilised and stood on the Serbian border, and in London no one any longer believed that Sofia could be held back.
+According to the British chronology of the war and the British official history of naval operations, on 13 October 1915 [Great Britain](/kraje/wielka-brytania) broke off diplomatic relations with [Bulgaria](/kraje/bulgaria). It was the last step before war. For a month Bulgaria had been bound by a [secret alliance with Germany](/traktat-sojuszniczy-w-sofii), its army was mobilised and stood on the Serbian border, and in London no one any longer believed that Sofia could be held back.
 
 The breach was a process rather than a single act, and sources date it differently. The British *Annual Register* records it under 12 October. According to *The Times History of the War*, the ministers of Russia, France and Great Britain asked for their passports as early as 5 October, when the [Russian ultimatum](/ultimatum-ententy-dla-bulgarii) expired, and left Sofia a few days later. The date of 13 October therefore marks the formal ending of relations by the government in London rather than the departure of the minister himself.
 

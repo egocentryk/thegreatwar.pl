@@ -2,10 +2,10 @@
 title: General Barrett to command the expedition to Mesopotamia
 summary: On 28 September 1914 General Arthur Barrett was named commander of Indian Expeditionary Force D, intended for operations at the head of the Persian Gulf.
 source: general-barrett-dowodca-wyprawy-do-mezopotamii
-sourceHash: 230c4545efc8a7b284494680f0f1de2a2e77e1de
+sourceHash: 9526ebea01e3dca3a3dddad879a5a7baf8f6697d
 ---
 
-On 28 September 1914, according to the British chronicle of the war, Lieutenant-General Sir Arthur Barrett was designated the future commander of Indian Expeditionary Force D. This was the force that British India was preparing for operations at the head of the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska) in case the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) entered the war on Germany's side.
+On 28 September 1914, according to the British chronicle of the war, Lieutenant-General Sir Arthur Barrett was designated the future commander of Indian Expeditionary Force D. This was the force that British India was preparing for operations at the head of the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska) in case the [Ottoman Empire](/kraje/imperium-osmanskie) entered the war on Germany's side.
 
 ## Oil from Abadan
 

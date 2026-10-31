@@ -9,7 +9,7 @@ brief:
   - "In the West the Bayonne men fought first in the Foreign Legion, and from 1917 the Polish Army in France, which numbered 17,000 soldiers in November 1918."
   - "The Polish Army was built from the officers of all these formations and of the partitioning armies, though the old divisions split its officer corps for a long time."
 source: polskie-formacje-wojskowe
-sourceHash: 97388fefdb3cfa96784ceb949b74fa6d717d574d
+sourceHash: 56bb899fb58b1f1e9b0e95fbe054cc341ec76f49
 ---
 
 In the First World War Poles fought not only in the armies of the three partitioning powers but also in formations of their own, on both sides of the front. Alongside Austria-Hungary fought the Polish Legions of [Józef Piłsudski](/postacie/jozef-pilsudski), and after their break-up in 1917 the Polish Auxiliary Corps and the Polish Armed Forces. On the Russian side came the Puławy Legion, the Polish Rifle Brigade and Division and, after the revolution, three Polish corps, and in France first a company of volunteers in the Foreign Legion and then a Polish Army called the Blue Army after the colour of its uniforms. Mieczysław Wrzosek estimated the whole volunteer military effort of the Poles in 1914–1920 at about 180 to 200 thousand soldiers, and their officers became the cadres of the Polish Army.

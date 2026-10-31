@@ -9,10 +9,10 @@ sides:
     commanders: [Alexander von Kluck]
 result: German victory. The Belgian Army withdrew to Antwerp and the Germans occupied Brussels.
 source: bitwa-nad-gete
-sourceHash: 20628dc8144cf4d9bcd01e639945a7f01df22439
+sourceHash: 3c0748abc09caa38ac279a55059cda7908ffc438
 ---
 
-The Battle of the Gete was the fighting between the Belgian Army and the advancing German forces on 18 and 19 August 1914 along the Gete river in central [Belgium](https://pl.wikipedia.org/wiki/Belgia) and on the roads of retreat to [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia). It was not a single great battle but a series of fierce rearguard actions covering the withdrawal of the Belgian field army. Thanks to them King [Albert I](/postacie/albert-i) managed to save the army from encirclement.
+The Battle of the Gete was the fighting between the Belgian Army and the advancing German forces on 18 and 19 August 1914 along the Gete river in central [Belgium](/kraje/belgia) and on the roads of retreat to [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia). It was not a single great battle but a series of fierce rearguard actions covering the withdrawal of the Belgian field army. Thanks to them King [Albert I](/postacie/albert-i) managed to save the army from encirclement.
 
 ## The line of the Gete
 

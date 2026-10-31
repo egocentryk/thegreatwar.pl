@@ -2,7 +2,7 @@
 title: Ottoman troops retake Muş and Bitlis
 summary: On 6 August 1916 Mustafa Kemal's XVI Corps drove the Russians from Muş, having forced them out of Bitlis. It was the main success of the Second Army offensive.
 source: wojska-osmanskie-odbijaja-mus-i-bitlis
-sourceHash: e7e40e4ae5188bb6f07e8a2a7a1a152d10085edb
+sourceHash: 821378834a5503390c089524df2ee0649b667774
 ---
 
 On 6 August 1916 the Russian 261st Infantry Regiment left [Muş](https://pl.wikipedia.org/wiki/Muş), a town in Turkish Armenia west of [Lake Van](https://pl.wikipedia.org/wiki/Wan_(jezioro)), which the Russians had [occupied in February](/rosjanie-zajmuja-mus). Ottoman troops marched in. Some tens of kilometres to the south-east the Russians had already lost their positions at [Bitlis](https://pl.wikipedia.org/wiki/Bitlis), which they had captured [at the beginning of March](/rosjanie-zdobywaja-bitlis). According to the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, they withdrew from there during the night of 4/5 August, and the Turks occupied the town. General Evgeny Maslovsky of the Russian Caucasus Army staff, counting days by the Julian calendar, gives the departure from Muş as 24 July and from Bitlis as 25 July, that is, 6 and 7 August in the Gregorian calendar. In Turkish tradition 8 August is regarded as the day of Bitlis's liberation. The British chronology of the war records the Turkish reoccupation of both towns only under 15 August, most likely by the day on which the news became established in the West.
@@ -23,7 +23,7 @@ Allen and Muratoff stress that the 5th Division was no stronger than his brigade
 
 At Muş the fighting was harder. The 8th Division, whose morale Kemal had managed to restore after the July defeat, attacked the Russian positions on Kurtik Dağ on 2 August. Allen and Muratoff reckon that 5,000 Turkish infantry faced Potto's 3,000 men, supported by a field battery and two howitzers. For three days the Russians beat off the attacks. On 5 August the Turks broke the line at one point, and since the defence had no depth, the next day Potto had to come down from the mountain and abandon Muş, which lay at its foot. He left two howitzers and two machine guns on the positions, and his regiment lost about 30 per cent of its strength in killed and wounded. The losses of the Turkish 8th Division were heavier still: it shrank to about 3,000 men. Kemal no longer had the strength to go further than the town itself. The news of the loss of Muş also sealed the fate of Nazarbekov's brigade: in the following days it fell back to [Tatvan](https://pl.wikipedia.org/wiki/Tatvan) on the south-western shore of Lake Van, and then as far as [Ahlat](https://pl.wikipedia.org/wiki/Ahlat) on the north-western shore.
 
-Both towns the Turks recovered were largely depopulated. Their Armenian inhabitants had been massacred in 1915 during the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), and fighting and famine had also driven out many Muslims.
+Both towns the Turks recovered were largely depopulated. Their Armenian inhabitants had been massacred in 1915 during the [Armenian genocide](/tematy/ludobojstwo-ormian), and fighting and famine had also driven out many Muslims.
 
 ## Significance
 

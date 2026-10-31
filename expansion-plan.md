@@ -411,6 +411,100 @@ Add a "1918 → thesecondwar.pl" bridge on the 1918 year page and the
 
 ---
 
+## C. Our own pages instead of Wikipedia links (focus from 2026-10-31)
+
+The owner's main focus for a while: point the most repeated pl.wikipedia
+links at pages of our own. Not all of them: the site is not another
+Wikipedia, and every new page must be our own writing, never copied.
+
+### The analysis (2026-10-31)
+
+`python3 -I scripts/wiki-links-report.py [--top N] [--tsv]` counts the
+links in the Polish files (the English files keep the same targets). At the
+start: **26,198 links to 7,910 pages** in 3,390 files; each page links a
+target once (first mention), so links ≈ pages.
+
+| Targets | Count | Links | Share |
+|---|---|---|---|
+| top 50 | 50 | 2,326 | 9% |
+| linked 20+ times | 154 | 4,753 | 18% |
+| linked 10+ times | 537 | 9,747 | 37% |
+| linked once | 3,743 | | stay on Wikipedia |
+
+The aim is the ~500 targets linked 10+ times; the one-off links stay.
+
+The top 50 by kind:
+
+- **Places, 25 targets, 1,081 links:** Saloniki 94, Ieper 78, Niemiecka
+  Afryka Wschodnia 76, Tygrys 65, Al-Kut 49, Gallipoli 49, Wardar 43,
+  Dardanele 41, Arras 40, Socza 40, Kanał Sueski 39, Kras 38, Bagdad 37,
+  Gorycja 37, Moza 36, Mudros 35, Korfu 34, Kotor 33, Kamerun 33,
+  Konstantynopol 31, Triest 31, Amiens 31, Antwerpia 31, Morze Północne 30,
+  Somma 30.
+- **Armed forces, 7 targets, 359 links:** Royal Flying Corps 83, Royal Navy
+  59, BEF 51, Grand Fleet 50, Hochseeflotte 44, 9 Armia (niemiecka) 37,
+  RNAS 35.
+- **Terms and institutions, 6 targets, 396 links:** Krzyż Wiktorii 161,
+  Kalendarz juliański 66, Izba Gmin 48, Traktat wersalski 44, Liga Narodów
+  42, Pour le Mérite 35 (most have a glossary entry of ~220 characters:
+  too thin to send this many links to).
+- **Pages we already have, 8 targets, 344 links:** the country pages
+  (Imperium Osmańskie, Austro-Węgry, Cesarstwo Niemieckie, Królestwo
+  Serbii), the guides (Legiony → the formations guide, Ludobójstwo Ormian),
+  the London treaty of 1915 article, the Salonika front.
+- **Single gaps, 81 links:** Iran 43 (a country page "Persja": neutral but a
+  battlefield), Konferencja pokojowa w Paryżu 38 (a timeline article,
+  18 I 1919, "Po wojnie").
+- **Stay on Wikipedia:** II wojna burska 33, Wojna rosyjsko-japońska 32
+  (outside our scope; Asia before 1914 is thesecondwar.pl's).
+- Lower in the list: more places (Lwów, Lublin, Brześć, Czerniowce, Verdun,
+  Jerozolima…), armies (8 and 3 Armia rosyjska, 4 and 11 Armia niemiecka,
+  Armia Południowa), terms (Plan Schlieffena, iperyt, mina morska, monitor,
+  krążownik pancerny, przeddrednot, konwencje haskie), people without a
+  page (René Viviani 25, Paweł Plehwe 23, Afonso Costa 22, Remus von
+  Woyrsch 21).
+
+### Decisions (owner, 2026-10-31)
+
+1. **Two new sections:** "Miejsca" (`/miejsca/<slug>`, `/en/places/<slug>`)
+   and "Siły zbrojne" (`/sily-zbrojne/<slug>`, `/en/armed-forces/<slug>`).
+2. **Terms:** a term whose nature fits the glossary stays in the glossary,
+   with a longer text on its page for the most linked ones; a complicated
+   topic gets its own article (a guide or a timeline article) instead.
+3. **Step 1 (pages we already have) first:** done 2026-10-31, 660 links
+   (26,198 → 25,538; improvements.md §48).
+
+### The plan
+
+- **Step 1, no writing:** country pages and guides get `wikiTitles` (like
+  person pages); `scripts/wiki-to-internal.py` points those links at them
+  (no date rule: reference pages), and EVENTS maps more titles to existing
+  timeline articles (date rule kept).
+- **"Miejsca":** 400–900 words per place, from the war's point of view
+  (why it mattered, what happened there and when), not geography; generated
+  lists of our articles and nearby battles (battle-map coordinates), a map
+  pin; `wikiTitles` in the front matter. Merges with planned-improvements
+  §2 (Polish places). Where a battle or campaign page already tells a
+  place's war (Gallipoli → `kampania-gallipolijska`), link that instead of
+  writing a place page.
+- **"Siły zbrojne":** 500–900 words: formed when, commanders (person
+  pages), main battles (battle pages), fate; glossary entries such as BEF
+  link to them.
+- **Glossary:** an optional longer text (300–600 words) on the most linked
+  terms' pages; the short definition stays as the tooltip.
+- **People:** person pages through the existing process.
+- **Uniqueness:** a brief and a checker per type, like the guides: sources
+  opened and read (2+ not Wikipedia), 5+ links to our own articles, and a
+  copy check against the pl.wikipedia article of each `wikiTitles` (flags
+  long matching passages); content goes in at 0 problems.
+- **Order:** step 1; a pilot of 5 places (Saloniki, Ypres, Isonzo, Suez
+  Canal, Baghdad) for the owner to judge; a pilot of 3 forces (RFC, Grand
+  Fleet, Hochseeflotte); the six glossary terms; then batches down the
+  list, re-running the report after each, toward the 154 targets linked
+  20+ times.
+
+---
+
 ## Suggested order
 
 1. **Sources for milestones** (planned-improvements §1): trust, and it

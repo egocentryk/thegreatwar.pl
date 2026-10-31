@@ -15,7 +15,7 @@ sources:
   - "http://www.firstworldwar.com/source/belgium_germanrequest.htm"
 ---
 
-2 sierpnia 1914 roku o godzinie 19 czasu belgijskiego niemiecki poseł w [Brukseli](https://pl.wikipedia.org/wiki/Bruksela), Claus von Below-Saleske, wręczył belgijskiemu ministrowi spraw zagranicznych Julienowi Davignonowi „bardzo poufną” notę. [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) żądały, by [Belgia](https://pl.wikipedia.org/wiki/Belgia) przepuściła ich wojska przez swoje terytorium. Na odpowiedź dawały dwanaście godzin.
+2 sierpnia 1914 roku o godzinie 19 czasu belgijskiego niemiecki poseł w [Brukseli](https://pl.wikipedia.org/wiki/Bruksela), Claus von Below-Saleske, wręczył belgijskiemu ministrowi spraw zagranicznych Julienowi Davignonowi „bardzo poufną” notę. [Niemcy](/kraje/niemcy) żądały, by [Belgia](/kraje/belgia) przepuściła ich wojska przez swoje terytorium. Na odpowiedź dawały dwanaście godzin.
 
 ## Nota z zapieczętowanej koperty
 

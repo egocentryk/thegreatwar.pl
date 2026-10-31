@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 25 września 1915 roku, że rząd serbski obiecał [Grecji](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)) [Dojran](https://pl.wikipedia.org/wiki/Dojran_(miasto)) i [Gewgeliję](https://pl.wikipedia.org/wiki/Gewgelija) oraz zobowiązał się nie wysuwać roszczeń do [Strumicy](https://pl.wikipedia.org/wiki/Strumica_(miasto)). Była to odpowiedź na dramatyczną sytuację na Bałkanach. Bułgaria, od kilku tygodni tajnie związana z państwami centralnymi, właśnie [rozpoczęła mobilizację](/bulgaria-rozpoczyna-mobilizacje), a nad Dunajem gromadziły się wojska austro-węgierskie i niemieckie. Serbia potrzebowała greckiej pomocy jak nigdy wcześniej i premier [Nikola Pašić](/postacie/nikola-pasic) był gotów za nią zapłacić.
+Brytyjska chronologia wojny odnotowuje pod 25 września 1915 roku, że rząd serbski obiecał [Grecji](/kraje/grecja) [Dojran](https://pl.wikipedia.org/wiki/Dojran_(miasto)) i [Gewgeliję](https://pl.wikipedia.org/wiki/Gewgelija) oraz zobowiązał się nie wysuwać roszczeń do [Strumicy](https://pl.wikipedia.org/wiki/Strumica_(miasto)). Była to odpowiedź na dramatyczną sytuację na Bałkanach. Bułgaria, od kilku tygodni tajnie związana z państwami centralnymi, właśnie [rozpoczęła mobilizację](/bulgaria-rozpoczyna-mobilizacje), a nad Dunajem gromadziły się wojska austro-węgierskie i niemieckie. Serbia potrzebowała greckiej pomocy jak nigdy wcześniej i premier [Nikola Pašić](/postacie/nikola-pasic) był gotów za nią zapłacić.
 
 ## Stare greckie życzenie
 

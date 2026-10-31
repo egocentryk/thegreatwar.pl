@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-9 kwietnia 1917 roku (27 marca według kalendarza juliańskiego) rosyjski [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) zatwierdził tekst deklaracji o celach wojny. Ogłoszono ją następnego dnia jako odezwę do obywateli, podpisaną przez premiera, księcia [Gieorgija Lwowa](/postacie/gieorgij-lwow). Najważniejsze zdanie brzmiało: „cel wolnej Rosji – to nie panowanie nad innymi narodami, nie odbieranie im ich dobra narodowego, nie przemocą dokonany zabór cudzych ziem, lecz utrwalenie trwałego pokoju na zasadzie samostanowienia narodów”. Deklaracja była pierwszym kompromisem między rządem a [Radą Piotrogrodzką](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich) w sprawie, która dzieliła je najbardziej.
+9 kwietnia 1917 roku (27 marca według kalendarza juliańskiego) rosyjski [Rząd Tymczasowy](/powstanie-rzadu-tymczasowego) zatwierdził tekst deklaracji o celach wojny. Ogłoszono ją następnego dnia jako odezwę do obywateli, podpisaną przez premiera, księcia [Gieorgija Lwowa](/postacie/gieorgij-lwow). Najważniejsze zdanie brzmiało: „cel wolnej Rosji – to nie panowanie nad innymi narodami, nie odbieranie im ich dobra narodowego, nie przemocą dokonany zabór cudzych ziem, lecz utrwalenie trwałego pokoju na zasadzie samostanowienia narodów”. Deklaracja była pierwszym kompromisem między rządem a [Radą Piotrogrodzką](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich) w sprawie, która dzieliła je najbardziej.
 
 ## Spór o Konstantynopol
 

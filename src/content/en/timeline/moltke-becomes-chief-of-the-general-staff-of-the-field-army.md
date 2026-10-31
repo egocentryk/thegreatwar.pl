@@ -2,10 +2,10 @@
 title: Moltke becomes Chief of the General Staff of the Field Army
 summary: On 2 August 1914 General Helmuth von Moltke, Chief of the Great General Staff since 1906, took charge of the staff of Germany's field army.
 source: moltke-szefem-sztabu-generalnego-armii-polowej
-sourceHash: 4d086e0c0373a7a7df01223f228704c502afb384
+sourceHash: 114ce06600426af0ebec22663cc9d9d34614e7f2
 ---
 
-On 2 August 1914, the first day of German mobilisation, General [Helmuth von Moltke](/postacie/helmuth-von-moltke) became Chief of the General Staff of the Field Army. This meant that the man who since 1906 had directed [Germany's](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) preparations for war now took actual command of the army in wartime.
+On 2 August 1914, the first day of German mobilisation, General [Helmuth von Moltke](/postacie/helmuth-von-moltke) became Chief of the General Staff of the Field Army. This meant that the man who since 1906 had directed [Germany's](/kraje/niemcy) preparations for war now took actual command of the army in wartime.
 
 The change followed from the German system of command. In peacetime the Great General Staff dealt with planning and preparing the army. On mobilisation it became the staff of the field army, forming the Supreme Army Command (*Oberste Heeresleitung*). Formally the supreme commander was Kaiser [Wilhelm II](/postacie/wilhelm-ii), but in practice it was the Chief of Staff who issued orders in his name and directed military operations.
 

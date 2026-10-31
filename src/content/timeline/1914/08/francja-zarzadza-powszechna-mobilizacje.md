@@ -16,7 +16,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Chronologie_der_Julikrise_1914"
 ---
 
-1 sierpnia 1914 roku po południu rząd [Francji](https://pl.wikipedia.org/wiki/III_Republika_Francuska) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) armii lądowej i marynarki. Minister wojny Adolphe Messimy powiedział brytyjskiemu attaché wojskowemu, że rozkazy wydano o 15:40. Według francuskich zestawień telegram z rozkazem wysłano z Paryża o 15:55. Telegramy poszły do dowódców korpusów i pułków oraz do prefektów, a ci zawiadamiali merów. Na murach rozklejano przygotowane zawczasu afisze, do których trzeba było tylko wpisać datę. Pierwszym dniem mobilizacji był 2 sierpnia.
+1 sierpnia 1914 roku po południu rząd [Francji](/kraje/francja) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) armii lądowej i marynarki. Minister wojny Adolphe Messimy powiedział brytyjskiemu attaché wojskowemu, że rozkazy wydano o 15:40. Według francuskich zestawień telegram z rozkazem wysłano z Paryża o 15:55. Telegramy poszły do dowódców korpusów i pułków oraz do prefektów, a ci zawiadamiali merów. Na murach rozklejano przygotowane zawczasu afisze, do których trzeba było tylko wpisać datę. Pierwszym dniem mobilizacji był 2 sierpnia.
 
 ## Decyzja
 

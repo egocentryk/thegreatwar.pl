@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Ówczesne kroniki wojny odnotowują pod datą 13 sierpnia 1914 roku przekroczenie przez wojska austro-węgierskie rzeki [Driny](https://pl.wikipedia.org/wiki/Drina) i początek pierwszej inwazji na [Serbię](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Według większości współczesnych źródeł austro-węgierska 5 Armia rozpoczęła przeprawę już rano 12 sierpnia, równocześnie z forsowaniem Sawy pod Šabacem.
+Ówczesne kroniki wojny odnotowują pod datą 13 sierpnia 1914 roku przekroczenie przez wojska austro-węgierskie rzeki [Driny](https://pl.wikipedia.org/wiki/Drina) i początek pierwszej inwazji na [Serbię](/kraje/serbia). Według większości współczesnych źródeł austro-węgierska 5 Armia rozpoczęła przeprawę już rano 12 sierpnia, równocześnie z forsowaniem Sawy pod Šabacem.
 
 ## Atak od zachodu
 

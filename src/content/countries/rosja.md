@@ -13,6 +13,7 @@ entered: 1914-08-01
 left: 1917-12-15
 order: 5
 updated: 2026-10-30
+wikiTitles: ["Imperium_Rosyjskie"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/russian-empire/"

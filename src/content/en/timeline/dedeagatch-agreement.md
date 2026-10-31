@@ -2,10 +2,10 @@
 title: Dedeagatch agreement
 summary: On 22 September 1915 Sofia announced the terms of its pact with Turkey. Bulgaria got the Maritsa valley and the whole railway to the Aegean port of Dedeagatch.
 source: uklad-z-dedeagacz
-sourceHash: 20d5789c1026f018792149f58fc7935903e90eeb
+sourceHash: 64c61c9e37e1d26827b6430ab49ca06da90b82d5
 ---
 
-On 22 September 1915 the Bulgarian government announced the terms of its agreement with Turkey on a change of the border in Thrace. The British chronology of the war calls it the "Dedeagatch agreement" and records its conclusion under this date. The name came from the Aegean port of [Dedeagatch](https://pl.wikipedia.org/wiki/Aleksandropolis), today the Greek Alexandroupoli. A safe route to it was the most valuable gain from the agreement for [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). The announcement coincided with the decision to mobilise: late in the evening of the same day the tsar signed the decree of general mobilisation of the army.
+On 22 September 1915 the Bulgarian government announced the terms of its agreement with Turkey on a change of the border in Thrace. The British chronology of the war calls it the "Dedeagatch agreement" and records its conclusion under this date. The name came from the Aegean port of [Dedeagatch](https://pl.wikipedia.org/wiki/Aleksandropolis), today the Greek Alexandroupoli. A safe route to it was the most valuable gain from the agreement for [Bulgaria](/kraje/bulgaria). The announcement coincided with the decision to mobilise: late in the evening of the same day the tsar signed the decree of general mobilisation of the army.
 
 ## A border along the Maritsa
 

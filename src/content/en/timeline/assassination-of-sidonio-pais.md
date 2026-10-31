@@ -2,7 +2,7 @@
 title: Assassination of Sidónio Pais
 summary: On 14 December 1918 at Lisbon's Rossio station the former sergeant José Júlio da Costa fatally shot the President of Portugal, Sidónio Pais.
 source: zamach-na-sidonia-paisa
-sourceHash: fae46af36c6ba09fef9911664e2daf89617921e7
+sourceHash: aad7de82f4b75e1c5954fe288efda3214ca38f31
 ---
 
 Late in the evening of 14 December 1918, at [Rossio](https://pl.wikipedia.org/wiki/Estação_Rossio) station in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona), the President of Portugal, [Sidónio Pais](/postacie/sidonio-pais), was shot. At about 11 p.m. he had come onto the platform to take the night train to [Porto](https://pl.wikipedia.org/wiki/Porto). The man who fired at him was José Júlio da Costa, 25, a former army sergeant from the Alentejo. The wounded president died less than an hour later in Lisbon's São José Hospital. He was 46. He was killed almost exactly a year after the [coup of December 1917](/zamach-stanu-sidonia-paisa) that had brought him to power. The British chronology of the war records his death under the same date.
@@ -31,4 +31,4 @@ Pais's death removed the centre on which the whole system of the "New Republic" 
 
 Among conservative Catholics the dead man quickly became a martyr. Flowers and votive offerings are still left on his grave today. [Fernando Pessoa](https://pl.wikipedia.org/wiki/Fernando_Pessoa) called him the "President-King" in a poem of 1920. For the republican left he remained a dictator, and it greeted his death with relief.
 
-Without Pais his camp quickly fell apart. The dead man's republican associates and the monarchist military juntas began fighting for power. In January 1919 monarchists in Porto proclaimed the restoration of the monarchy, the so-called Monarchy of the North, which was defeated in less than a month. The parties of the old republic returned to power, but the [Portuguese First Republic](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) never regained its stability. It fell in the military coup of 28 May 1926.
+Without Pais his camp quickly fell apart. The dead man's republican associates and the monarchist military juntas began fighting for power. In January 1919 monarchists in Porto proclaimed the restoration of the monarchy, the so-called Monarchy of the North, which was defeated in less than a month. The parties of the old republic returned to power, but the [Portuguese First Republic](/kraje/portugalia) never regained its stability. It fell in the military coup of 28 May 1926.

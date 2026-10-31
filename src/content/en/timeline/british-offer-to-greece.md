@@ -2,7 +2,7 @@
 title: British offer to Greece
 summary: On 24 January 1915 London promised Greece gains in Asia Minor in return for helping Serbia. Venizelos at once proposed to the King ceding Kavala to Bulgaria.
 source: brytyjska-oferta-dla-grecji
-sourceHash: fee1c3d8510a2cda7ab71a0899e21436c09b2ab7
+sourceHash: 36670298e6be4c574e18618ba3b392eb5b1f8822
 ---
 
 On 24 January 1915 the British minister in Athens, Sir Francis Elliot, passed on to the Greek prime minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), a proposal from the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey). If Greece stood by Serbia as her ally and entered the war, France and Russia would gladly agree to her receiving "very important territorial concessions" on the coast of [Asia Minor](https://pl.wikipedia.org/wiki/Azja_Mniejsza). Grey had sent the instructions to Athens a day earlier, on 23 January, which is why some studies give the offer that date.
@@ -15,7 +15,7 @@ In December the Serbs [had routed Potiorek's armies on the Kolubara](/bitwy/bitw
 
 Grey justified the haste by arguing that while Serbia's defeat would not change the final outcome of the war, it would create accomplished facts in the Balkans after which Serbia and Greece could hardly count on favourable settlements. The immediate entry of Greece and Romania into the war, on the other hand, would seal Austria-Hungary's defeat. For such participation to be effective, Bulgaria should be given an assurance that if Serbia and Greece satisfied their aspirations elsewhere, she would receive compensation in [Macedonia](https://pl.wikipedia.org/wiki/Macedonia_(kraina_historyczna)). The condition was her entry into the war against Turkey, or at least benevolent neutrality. The concessions in Macedonia, however, were to be made chiefly by Serbia. From Venizelos Grey wanted only that he should not oppose them.
 
-The offer was vague and named no towns or borders. For the Greeks, however, it was the first clear sign that the Entente allowed for a partition of the Asian possessions of the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) and that Greece might take part in it. Hundreds of thousands of Greeks lived on the western coast of Asia Minor, especially around [Smyrna](https://pl.wikipedia.org/wiki/Izmir), and already in 1914 the Ottoman authorities had deported many of them from there.
+The offer was vague and named no towns or borders. For the Greeks, however, it was the first clear sign that the Entente allowed for a partition of the Asian possessions of the [Ottoman Empire](/kraje/imperium-osmanskie) and that Greece might take part in it. Hundreds of thousands of Greeks lived on the western coast of Asia Minor, especially around [Smyrna](https://pl.wikipedia.org/wiki/Izmir), and already in 1914 the Ottoman authorities had deported many of them from there.
 
 ## Venizelos's memorandum
 

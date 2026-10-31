@@ -2,10 +2,10 @@
 title: German government backs Austrian ultimatum to Serbia
 summary: On 24 July 1914 Berlin told the Entente powers that it approved Austria-Hungary's ultimatum and regarded the dispute with Serbia as a local matter.
 source: rzad-niemiecki-popiera-austriackie-ultimatum-wobec-serbii
-sourceHash: 218cf7bbd1a4f8aa4cf4f50026f1f130fa46ab49
+sourceHash: 47bdd2a2980c17d60543e3f93b14b1f4fc33468e
 ---
 
-On 24 July 1914, the day after Austria-Hungary's ultimatum was handed to Serbia, the [German government](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) launched a diplomatic offensive towards the other European powers. Berlin was no longer merely a silent backer of Vienna's hard-line policy. That day German diplomacy informed the governments of the [Entente](https://pl.wikipedia.org/wiki/Ententa) states that the conflict between [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) and [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) should remain a limited affair, and that the ultimatum itself should be regarded as a justified reaction by the Habsburg monarchy.
+On 24 July 1914, the day after Austria-Hungary's ultimatum was handed to Serbia, the [German government](/kraje/niemcy) launched a diplomatic offensive towards the other European powers. Berlin was no longer merely a silent backer of Vienna's hard-line policy. That day German diplomacy informed the governments of the [Entente](/tematy/panstwa-centralne-i-ententa) states that the conflict between [Austria-Hungary](/kraje/austro-wegry) and [Serbia](/kraje/serbia) should remain a limited affair, and that the ultimatum itself should be regarded as a justified reaction by the Habsburg monarchy.
 
 The core of the German position combined two elements. On the one hand, Berlin genuinely approved of Vienna's hard course and had no intention of restraining its ally. On the other, it tried to present itself to London, Paris and St Petersburg as a state that had not been involved in drafting the ultimatum and had no grounds to interfere in the Austro-Serbian dispute. This double game was of enormous importance: Germany wanted to support Austria-Hungary while avoiding the impression that it was itself pushing Europe towards war.
 

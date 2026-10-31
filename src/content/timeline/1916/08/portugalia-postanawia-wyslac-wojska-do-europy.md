@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 sierpnia 1916 roku parlament w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona), jak podają portugalskie chronologie wojny, przyjął udział Portugalii w wojnie w Europie zgodnie z formalnym zaproszeniem rządu brytyjskiego. Brytyjska chronologia wojny notuje tę decyzję dzień później, pod 8 sierpnia. Sama decyzja była od dawna przesądzona, a przygotowania szły pełną parą od wiosny. Głosowanie zamykało jednak ważny rozdział. Od wybuchu wojny rządzący [Portugalią](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) republikanie zabiegali o to, by ich żołnierze walczyli u boku Brytyjczyków nie tylko w Afryce, ale i we Francji, a Londyn długo ich zapał studził.
+7 sierpnia 1916 roku parlament w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona), jak podają portugalskie chronologie wojny, przyjął udział Portugalii w wojnie w Europie zgodnie z formalnym zaproszeniem rządu brytyjskiego. Brytyjska chronologia wojny notuje tę decyzję dzień później, pod 8 sierpnia. Sama decyzja była od dawna przesądzona, a przygotowania szły pełną parą od wiosny. Głosowanie zamykało jednak ważny rozdział. Od wybuchu wojny rządzący [Portugalią](/kraje/portugalia) republikanie zabiegali o to, by ich żołnierze walczyli u boku Brytyjczyków nie tylko w Afryce, ale i we Francji, a Londyn długo ich zapał studził.
 
 ## Zaproszenie z Londynu
 

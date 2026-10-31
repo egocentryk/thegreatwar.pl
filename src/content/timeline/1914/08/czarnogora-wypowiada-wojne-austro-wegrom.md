@@ -16,11 +16,11 @@ brief:
   - "Czarnogóra walczyła do stycznia 1916 roku, gdy po upadku Serbii skapitulowała. W listopadzie 1918 roku zgromadzenie w Podgoricy zdetronizowało Mikołaja I i ogłosiło połączenie z Serbią."
 ---
 
-5 sierpnia 1914 roku [Królestwo Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) wypowiedziało wojnę [Austro-Węgrom](https://pl.wikipedia.org/wiki/Austro-Węgry). Taką datę podają ówczesne kroniki wojny. Inne źródła wskazują na 6 lub 7 sierpnia, co wynika między innymi z tego, że Czarnogóra posługiwała się wówczas kalendarzem juliańskim, a informacje z Cetynii docierały do Europy z opóźnieniem. Wszystkie źródła zgodnie potwierdzają jednak, że mała bałkańska monarchia przystąpiła do wojny w pierwszym tygodniu sierpnia, jako pierwszy sojusznik Serbii.
+5 sierpnia 1914 roku [Królestwo Czarnogóry](/kraje/czarnogora) wypowiedziało wojnę [Austro-Węgrom](/kraje/austro-wegry). Taką datę podają ówczesne kroniki wojny. Inne źródła wskazują na 6 lub 7 sierpnia, co wynika między innymi z tego, że Czarnogóra posługiwała się wówczas kalendarzem juliańskim, a informacje z Cetynii docierały do Europy z opóźnieniem. Wszystkie źródła zgodnie potwierdzają jednak, że mała bałkańska monarchia przystąpiła do wojny w pierwszym tygodniu sierpnia, jako pierwszy sojusznik Serbii.
 
 ## U boku Serbii
 
-Decyzja króla [Mikołaja I](/postacie/mikolaj-i-petrowic-niegosz) nie była zaskoczeniem. Czarnogórę łączyły z [Serbią](https://pl.wikipedia.org/wiki/Królestwo_Serbii) wspólny język, wiara i poczucie przynależności do narodu serbskiego, a także więzy dynastyczne. Oba państwa walczyły razem w wojnach bałkańskich. Czarnogóra zarządziła mobilizację już 26 lipca, a w pierwszych dniach sierpnia uzgodniła z Serbią współpracę wojskową. Szefem sztabu jej armii został wkrótce serbski generał Božidar Janković.
+Decyzja króla [Mikołaja I](/postacie/mikolaj-i-petrowic-niegosz) nie była zaskoczeniem. Czarnogórę łączyły z [Serbią](/kraje/serbia) wspólny język, wiara i poczucie przynależności do narodu serbskiego, a także więzy dynastyczne. Oba państwa walczyły razem w wojnach bałkańskich. Czarnogóra zarządziła mobilizację już 26 lipca, a w pierwszych dniach sierpnia uzgodniła z Serbią współpracę wojskową. Szefem sztabu jej armii został wkrótce serbski generał Božidar Janković.
 
 Kilka dni później Czarnogóra wypowiedziała wojnę także Niemcom. Miało to znaczenie głównie symboliczne, bo oba kraje nie miały wspólnej granicy, ale podkreślało, że Cetynia stanęła po stronie Ententy.
 

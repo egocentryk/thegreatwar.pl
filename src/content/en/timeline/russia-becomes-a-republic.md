@@ -2,10 +2,10 @@
 title: Russia becomes a republic
 summary: On 14 September 1917 the Provisional Government, not waiting for the Constituent Assembly, proclaimed the Russian Republic under a five-man Directory.
 source: rosja-republika
-sourceHash: 5428ac1f648e4fb3780fd869d0f7c82d80aa26f0
+sourceHash: e9105d6d1d412809a5beda0002acc15bd961b422
 ---
 
-On 14 September 1917 (1 September in the Julian calendar) the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) announced that "the political order by which the Russian State is governed is a republican order", and proclaimed the [Russian Republic](https://pl.wikipedia.org/wiki/Republika_Rosyjska). By the same resolution the government handed its full power to five ministers headed by the Prime Minister [Alexander Kerensky](/postacie/aleksander-kierenski), a body called the Directory or the Council of Five. The document was signed by Kerensky as Minister-Chairman and by the Minister of Justice, Alexander Zarudny. The British chronology of the war gives the date as 15 September. The text of the resolution, however, is dated 1 September Old Style, that is, 14 September, and this is the date given by Russian sources and studies.
+On 14 September 1917 (1 September in the Julian calendar) the [Provisional Government](/powstanie-rzadu-tymczasowego) announced that "the political order by which the Russian State is governed is a republican order", and proclaimed the [Russian Republic](https://pl.wikipedia.org/wiki/Republika_Rosyjska). By the same resolution the government handed its full power to five ministers headed by the Prime Minister [Alexander Kerensky](/postacie/aleksander-kierenski), a body called the Directory or the Council of Five. The document was signed by Kerensky as Minister-Chairman and by the Minister of Justice, Alexander Zarudny. The British chronology of the war gives the date as 15 September. The text of the resolution, however, is dated 1 September Old Style, that is, 14 September, and this is the date given by Russian sources and studies.
 
 ## Half a year without a name
 

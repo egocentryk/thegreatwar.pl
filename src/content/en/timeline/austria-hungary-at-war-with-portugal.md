@@ -2,7 +2,7 @@
 title: Austria-Hungary at war with Portugal
 summary: On 15 March 1916 Austria-Hungary followed Germany and broke with Portugal. The two were now at war, though by contemporary sources with no separate declaration.
 source: austro-wegry-w-stanie-wojny-z-portugalia
-sourceHash: 590e7084f9d56cfd7ccf694a76b9f2c679a6216b
+sourceHash: 702c1b2904bec3411c5d951f40a0c7de3d52f7ab
 brief:
   - "On 15 March 1916 Austria-Hungary followed Germany and broke off diplomatic relations with Portugal. The British chronology of the war also records an Austro-Hungarian declaration of war under that date."
   - "Contemporary sources, such as the American minister's cable from Lisbon, speak only of a breach of relations. It seems Vienna handed over no separate declaration, and the state of war followed from Germany's war with Portugal."
@@ -10,7 +10,7 @@ brief:
   - "The new state of war had little practical significance, as the two countries had no common border. It did, however, give Portugal a place among the states that made peace with Austria and Hungary."
 ---
 
-On 15 March 1916 [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) found itself at war with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) as well. The British chronology of the war records two events under that date: [Vienna's breaking off of diplomatic relations with Lisbon](/austro-wegry-zrywaja-stosunki-z-portugalia) and an Austro-Hungarian declaration of war. Most later lists of the declarations of war of 1914–1918 give the same date.
+On 15 March 1916 [Portugal](/kraje/portugalia) found itself at war with [Austria-Hungary](/kraje/austro-wegry) as well. The British chronology of the war records two events under that date: [Vienna's breaking off of diplomatic relations with Lisbon](/austro-wegry-zrywaja-stosunki-z-portugalia) and an Austro-Hungarian declaration of war. Most later lists of the declarations of war of 1914–1918 give the same date.
 
 Contemporary sources, however, describe the matter more cautiously. On 16 March the American minister in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona), Thomas Birch, cabled Washington: "Diplomatic relations between Portugal and Austria-Hungary broken. No declaration of war." The compendium "The People's War Book", published in the United States in 1919, lists among the declarations of war on Portugal only Germany's step of 9 March, and counts Austria-Hungary's decision among the severances of diplomatic relations, dated 16 March. The Portuguese government, too, in its official report of 1917, speaks only of the breaking off of relations with Austria. Everything therefore suggests that Vienna handed over no separate declaration of war, and that the state of war followed from the breach of relations at a time when its closest ally was already fighting Portugal. The British yearbook "Annual Register" wrote of it as a matter of course: Germany's declaration of war "of course involved also war between Portugal and Austria-Hungary".
 

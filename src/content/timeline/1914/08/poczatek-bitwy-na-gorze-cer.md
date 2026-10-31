@@ -12,11 +12,11 @@ milestone: false
 draft: false
 ---
 
-Ówczesne kroniki wojny odnotowują 17 sierpnia 1914 roku jako początek bitwy na górze Cer i nad rzeką Jadar w zachodniej [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Pierwsze starcia na zboczach Ceru wybuchły już w nocy z 15 na 16 sierpnia, a w kolejnych dniach walki objęły cały rejon, stając się jedną z najważniejszych bitew pierwszych tygodni wojny.
+Ówczesne kroniki wojny odnotowują 17 sierpnia 1914 roku jako początek bitwy na górze Cer i nad rzeką Jadar w zachodniej [Serbii](/kraje/serbia). Pierwsze starcia na zboczach Ceru wybuchły już w nocy z 15 na 16 sierpnia, a w kolejnych dniach walki objęły cały rejon, stając się jedną z najważniejszych bitew pierwszych tygodni wojny.
 
 ## Odpowiedź na inwazję
 
-Kilka dni wcześniej wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) przekroczyły Drinę i Sawę, rozpoczynając [inwazję na Serbię](/bitwy/kampania-serbska-1914). Naczelny wódz serbski, wojewoda [Radomir Putnik](/postacie/radomir-putnik), rozpoznał, że główne uderzenie idzie od zachodu, przez dolinę Jadaru. Skierował tam 2 Armię generała [Stepy Stepanovicia](/postacie/stepa-stepanovic), która po forsownym marszu dotarła w rejon góry Cer.
+Kilka dni wcześniej wojska [Austro-Węgier](/kraje/austro-wegry) przekroczyły Drinę i Sawę, rozpoczynając [inwazję na Serbię](/bitwy/kampania-serbska-1914). Naczelny wódz serbski, wojewoda [Radomir Putnik](/postacie/radomir-putnik), rozpoznał, że główne uderzenie idzie od zachodu, przez dolinę Jadaru. Skierował tam 2 Armię generała [Stepy Stepanovicia](/postacie/stepa-stepanovic), która po forsownym marszu dotarła w rejon góry Cer.
 
 Cer to pasmo zalesionych wzgórz, górujące nad doliną Jadaru i drogami, którymi posuwały się austro-węgierskie kolumny. Kto kontrolował jego grzbiety, panował nad okolicą. Serbowie zaatakowali, zanim przeciwnik zdążył się na nich umocnić.
 

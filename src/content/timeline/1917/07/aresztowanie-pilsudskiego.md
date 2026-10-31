@@ -15,7 +15,7 @@ brief:
   - "Niemcy chcieli pozbyć się kłopotliwego przywódcy, a uczynili z niego symbol walki o niepodległość. Zwolniony w listopadzie 1918 roku, Piłsudski przyjechał do Warszawy 10 listopada."
 ---
 
-W nocy z 21 na 22 lipca 1917 roku niemieccy żandarmi aresztowali w Warszawie [Józefa Piłsudskiego](/postacie/jozef-pilsudski), twórcę [Legionów](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) i do niedawna referenta wojskowego [Tymczasowej Rady Stanu](https://pl.wikipedia.org/wiki/Tymczasowa_Rada_Stanu). Razem z nim zatrzymano jego najbliższego współpracownika i szefa sztabu, pułkownika [Kazimierza Sosnkowskiego](/postacie/kazimierz-sosnkowski). Część relacji mówi o aresztowaniu rankiem 22 lipca. Obu natychmiast wywieziono z miasta. Człowiek, który w sierpniu 1914 roku wyprowadził z Krakowa pierwszy polski oddział do walki z Rosją u boku państw centralnych, stał się więźniem Niemiec.
+W nocy z 21 na 22 lipca 1917 roku niemieccy żandarmi aresztowali w Warszawie [Józefa Piłsudskiego](/postacie/jozef-pilsudski), twórcę [Legionów](/tematy/polskie-formacje-wojskowe) i do niedawna referenta wojskowego [Tymczasowej Rady Stanu](https://pl.wikipedia.org/wiki/Tymczasowa_Rada_Stanu). Razem z nim zatrzymano jego najbliższego współpracownika i szefa sztabu, pułkownika [Kazimierza Sosnkowskiego](/postacie/kazimierz-sosnkowski). Część relacji mówi o aresztowaniu rankiem 22 lipca. Obu natychmiast wywieziono z miasta. Człowiek, który w sierpniu 1914 roku wyprowadził z Krakowa pierwszy polski oddział do walki z Rosją u boku państw centralnych, stał się więźniem Niemiec.
 
 ## Dlaczego Piłsudski
 

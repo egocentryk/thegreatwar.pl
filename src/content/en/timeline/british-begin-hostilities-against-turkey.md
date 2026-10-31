@@ -2,10 +2,10 @@
 title: British begin hostilities against Turkey
 summary: On 1 November 1914 British warships attacked the Turks in the Gulf of Smyrna and at Aqaba, although war had not yet been declared on the Ottoman Empire.
 source: poczatek-dzialan-brytyjsko-tureckich
-sourceHash: b82313ea44893e1be9ac4bf2c605a4f257f098f3
+sourceHash: 0f2b62815647c9be35bcb39a2fd9349fe6a18365
 ---
 
-On 1 November 1914 the first clashes took place between Great Britain and the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Formally the two states were not yet at war, and the British ambassador, Louis Mallet, was only leaving Constantinople that evening. Ships of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), however, had since the previous day held an [Admiralty order](/brytyjski-rozkaz-dzialan-przeciw-turcji) to begin hostilities against Turkey at once. British chronicles therefore record 1 November as the day on which Great Britain and Turkey began hostilities.
+On 1 November 1914 the first clashes took place between Great Britain and the [Ottoman Empire](/kraje/imperium-osmanskie). Formally the two states were not yet at war, and the British ambassador, Louis Mallet, was only leaving Constantinople that evening. Ships of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), however, had since the previous day held an [Admiralty order](/brytyjski-rozkaz-dzialan-przeciw-turcji) to begin hostilities against Turkey at once. British chronicles therefore record 1 November as the day on which Great Britain and Turkey began hostilities.
 
 The first blow fell in the Aegean. Two destroyers, *Wolverine* and *Scorpion*, were sent into the Gulf of Smyrna to seek out a Turkish minelayer which the British believed was hiding near [Smyrna](https://pl.wikipedia.org/wiki/Izmir). *Scorpion* was commanded by Lieutenant-Commander [Andrew Cunningham](https://pl.wikipedia.org/wiki/Andrew_Cunningham), in the Second World War one of the most famous British admirals. In the harbour of Vourla, today's [Urla](https://pl.wikipedia.org/wiki/Urla), the destroyers came upon the large armed yacht *Beyrut* and called on her to surrender. The Turkish crew, however, set the vessel on fire. The British opened fire, and the yacht sank amid several powerful explosions, which indicated that she had mines on board. A smaller supply ship sank in the same way.
 

@@ -2,10 +2,10 @@
 title: Entente ultimatum to Greece
 summary: On 21 June 1916 the ministers of France, Britain and Russia demanded that Greece demobilise, form a non-party government and hold elections. Athens gave in.
 source: ultimatum-ententy-wobec-grecji
-sourceHash: 1105390fb1e2869f09155748bdf26db767d26cb1
+sourceHash: 20fbe846c7593d519e841f8120a3f5718fd6fc29
 ---
 
-On 21 June 1916, or 8 June by the Julian calendar then used in Greece, the ministers of France, Great Britain and Russia handed the Greek government a joint note. They acted in it as representatives of the protecting powers, which in 1827–1832 had helped the Greeks win their independence and had guaranteed the existence of the [Kingdom of Greece](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)). They demanded the immediate demobilisation of the army, the replacement of the government by a cabinet without political colour, the dissolution of parliament and new elections, and the removal of certain police officials. They allowed neither discussion nor delay. The British chronology of the war records that the demands were accepted. Although the note set no deadline, in practice it was an ultimatum: behind the diplomats stood a fleet ready for action.
+On 21 June 1916, or 8 June by the Julian calendar then used in Greece, the ministers of France, Great Britain and Russia handed the Greek government a joint note. They acted in it as representatives of the protecting powers, which in 1827–1832 had helped the Greeks win their independence and had guaranteed the existence of the [Kingdom of Greece](/kraje/grecja). They demanded the immediate demobilisation of the army, the replacement of the government by a cabinet without political colour, the dissolution of parliament and new elections, and the removal of certain police officials. They allowed neither discussion nor delay. The British chronology of the war records that the demands were accepted. Although the note set no deadline, in practice it was an ultimatum: behind the diplomats stood a fleet ready for action.
 
 ## The fleet in Milos Bay
 

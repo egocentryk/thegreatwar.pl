@@ -2,10 +2,10 @@
 title: Grand Duke Nicholas becomes commander-in-chief of the Russian army
 summary: At the beginning of August 1914 Tsar Nicholas II entrusted the supreme command of the Russian army to Grand Duke Nicholas Nikolaevich.
 source: wielki-ksiaze-mikolaj-naczelnym-wodzem-armii-rosyjskiej
-sourceHash: 8d5ca1b9e23555e259d4a34f45be03ad59adcc25
+sourceHash: 8cc27156de9c06225d44e559b7098b702e344225
 ---
 
-At the beginning of August 1914 Tsar [Nicholas II](/postacie/mikolaj-ii) appointed Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz) supreme commander-in-chief of all the land and naval forces of [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie). The decree was signed on 2 August (20 July according to the Julian calendar then in use in Russia), and the chronicles of the time record the appointment under 3 August.
+At the beginning of August 1914 Tsar [Nicholas II](/postacie/mikolaj-ii) appointed Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz) supreme commander-in-chief of all the land and naval forces of [Russia](/kraje/rosja). The decree was signed on 2 August (20 July according to the Julian calendar then in use in Russia), and the chronicles of the time record the appointment under 3 August.
 
 The Tsar had at first intended to take command of the army himself. His ministers, however, advised against it, arguing that the monarch should not tie his authority to the fortunes of military operations and that his presence was needed in the capital. The choice fell on the Grand Duke, a grandson of Emperor Nicholas I and a relative of the Tsar. Nicholas Nikolaevich was a professional soldier, a general of cavalry of enormous height and stern disposition. He enjoyed great authority in the army, although he had taken no part in drawing up the war plans.
 

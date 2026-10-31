@@ -12,6 +12,7 @@ entered: 1914-10-29
 left: 1918-10-31
 order: 3
 updated: 2026-10-30
+wikiTitles: ["Imperium_Osmańskie"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/ottoman-empiremiddle-east/"

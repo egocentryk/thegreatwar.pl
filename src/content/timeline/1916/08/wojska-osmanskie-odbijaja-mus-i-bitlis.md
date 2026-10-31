@@ -29,7 +29,7 @@ Allen i Muratow podkreślają, że 5 Dywizja nie była silniejsza od jego brygad
 
 Pod Muşem walka była cięższa. 8 Dywizja, którą Kemal zdołał podnieść na duchu po lipcowej porażce, zaatakowała 2 sierpnia rosyjskie pozycje na Kurtik Dağ. Allen i Muratow liczą, że 5 tysiącom tureckiej piechoty przeciwstawiało się 3 tysiące żołnierzy Potto, wspartych baterią polową i dwiema haubicami. Przez trzy dni Rosjanie odpierali ataki. 5 sierpnia Turcy przerwali linię w jednym miejscu, a ponieważ obrona nie miała głębi, następnego dnia Potto musiał zejść z góry i opuścić leżący u jej podnóża Muş. Pozostawił na pozycjach dwie haubice i dwa karabiny maszynowe, a jego pułk stracił w zabitych i rannych około 30 procent stanu. Straty tureckiej 8 Dywizji były jeszcze cięższe: stopniała do około 3 tysięcy ludzi. Kemal nie miał już sił, by pójść dalej niż do samego miasta. Wiadomość o utracie Muşu przesądziła też o losie brygady Nazarbekowa: w następnych dniach cofnęła się ona do [Tatvanu](https://pl.wikipedia.org/wiki/Tatvan) na południowo-zachodnim brzegu jeziora Wan, a potem aż do [Ahlatu](https://pl.wikipedia.org/wiki/Ahlat) na brzegu północno-zachodnim.
 
-Oba miasta, które Turcy odzyskali, były w dużej mierze wyludnione. Ich ormiańskich mieszkańców wymordowano w 1915 roku w czasie [ludobójstwa Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), a walki i głód wygnały także wielu muzułmanów.
+Oba miasta, które Turcy odzyskali, były w dużej mierze wyludnione. Ich ormiańskich mieszkańców wymordowano w 1915 roku w czasie [ludobójstwa Ormian](/tematy/ludobojstwo-ormian), a walki i głód wygnały także wielu muzułmanów.
 
 ## Znaczenie
 

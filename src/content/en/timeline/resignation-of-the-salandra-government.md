@@ -2,14 +2,14 @@
 title: Resignation of the Salandra government
 summary: On 13 May 1915 Prime Minister Antonio Salandra and Foreign Minister Sidney Sonnino resigned. Most MPs backed the neutralist Giolitti, the streets backed war.
 source: dymisja-rzadu-salandry
-sourceHash: bc053914564a42b3ab37d1fccb38b9fac1a4b332
+sourceHash: f6ed3f640273fa9489d3950f602b8cf9117c7729
 ---
 
 On 13 May 1915 the Italian Prime Minister [Antonio Salandra](/postacie/antonio-salandra) tendered the resignation of his government to King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii). Together with him the foreign minister [Sidney Sonnino](/postacie/sidney-sonnino), who with the Prime Minister had been leading Italy towards war, also resigned. A British chronology of the war records the two steps separately, but it was a single decision: the cabinet resigned as a whole. The crisis broke out at a moment when the country was already secretly bound to the Entente and the [Triple Alliance had been renounced](/wlochy-wypowiadaja-trojprzymierze).
 
 ## Giolitti's return
 
-Salandra and Sonnino had [signed the London agreement on 26 April](/wlochy-podpisuja-pakt-londynski), which committed Italy to entering the war within a month. But they did not have parliament behind them. The majority of deputies were attached to [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), five times prime minister and the most influential politician in the country, who believed that Italy could obtain "a good deal" without war, through negotiations with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). Vienna, under pressure from Berlin, kept making new offers.
+Salandra and Sonnino had [signed the London agreement on 26 April](/wlochy-podpisuja-pakt-londynski), which committed Italy to entering the war within a month. But they did not have parliament behind them. The majority of deputies were attached to [Giovanni Giolitti](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), five times prime minister and the most influential politician in the country, who believed that Italy could obtain "a good deal" without war, through negotiations with [Austria-Hungary](/kraje/austro-wegry). Vienna, under pressure from Berlin, kept making new offers.
 
 On 9 May Giolitti arrived in Rome, greeted at the station by hostile shouts from students and nationalists. He spoke with the King and with Salandra, arguing that the war would be long, that the army was not ready for it and that it was better to continue talks with Vienna and Berlin. On 12 May his supporters showed their strength. About 300 deputies, according to some sources 320, and about a hundred senators left visiting cards at his Rome flat as a sign of support. The Chamber had 508 deputies, so this was a clear majority. The government, which was to present parliament with its consent to war, had to reckon with losing the vote.
 

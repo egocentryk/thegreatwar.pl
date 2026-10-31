@@ -2,14 +2,14 @@
 title: The Austrians cross the Sava and take Šabac
 summary: On 12 August 1914 Austro-Hungarian troops crossed the Sava and occupied the Serbian town of Šabac. The first invasion of Serbia had begun.
 source: austriacy-przekraczaja-sawe-i-zajmuja-sabac
-sourceHash: 2d3b625f5222aa3f6a5de38e11a2c43606789467
+sourceHash: 37b7ebb34f06699ddf8bb41f2a0d37324e1cf644
 ---
 
-On 12 August 1914, two weeks after declaring war on Serbia, the forces of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) began the invasion of its territory. One of the first operations was the crossing of the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) river north of the town of [Šabac](https://pl.wikipedia.org/wiki/Šabac), which the Austrians soon occupied.
+On 12 August 1914, two weeks after declaring war on Serbia, the forces of [Austria-Hungary](/kraje/austro-wegry) began the invasion of its territory. One of the first operations was the crossing of the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) river north of the town of [Šabac](https://pl.wikipedia.org/wiki/Šabac), which the Austrians soon occupied.
 
 ## A blow from the north and west
 
-The Austro-Hungarian plan called for an attack on [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) from two directions. From the west, across the border river Drina, the Fifth Army advanced, and from the north, across the Sava, part of the Second Army. Command of the whole operation was assumed by General [Oskar Potiorek](/postacie/oskar-potiorek), governor of Bosnia and Herzegovina. It was in his presence that Archduke Franz Ferdinand had been killed in Sarajevo in June, and Potiorek was eager to punish Serbia quickly.
+The Austro-Hungarian plan called for an attack on [Serbia](/kraje/serbia) from two directions. From the west, across the border river Drina, the Fifth Army advanced, and from the north, across the Sava, part of the Second Army. Command of the whole operation was assumed by General [Oskar Potiorek](/postacie/oskar-potiorek), governor of Bosnia and Herzegovina. It was in his presence that Archduke Franz Ferdinand had been killed in Sarajevo in June, and Potiorek was eager to punish Serbia quickly.
 
 The crossing of the Sava at Šabac met no strong resistance. The main Serbian forces were deeper inside the country, and the commander-in-chief, Vojvoda [Radomir Putnik](/postacie/radomir-putnik), was waiting to learn the direction of the enemy's main thrust. Šabac, an important centre in the fertile Mačva valley, fell into Austro-Hungarian hands.
 

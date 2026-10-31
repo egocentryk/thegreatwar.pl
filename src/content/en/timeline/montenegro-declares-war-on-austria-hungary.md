@@ -2,7 +2,7 @@
 title: Montenegro declares war on Austria-Hungary
 summary: On 5 August 1914 Montenegro declared war on Austria-Hungary, siding with Serbia. Guns on Mount Lovćen threatened the fleet base at Kotor.
 source: czarnogora-wypowiada-wojne-austro-wegrom
-sourceHash: e95de60d4949def7b87ebfda7418f42b23b94b67
+sourceHash: b8238144630d956ff98305bc4284d5c05df0912b
 brief:
   - "On 5 August 1914, according to contemporary chronicles, Montenegro declared war on Austria-Hungary. Other sources give 6 or 7 August, but all agree it was Serbia's first ally."
   - "King Nicholas I's Montenegro was bound to Serbia by language, faith and dynastic ties. It ordered mobilisation as early as 26 July, and the Serbian general Božidar Janković became its chief of staff."
@@ -10,11 +10,11 @@ brief:
   - "Montenegro fought on until January 1916, when it capitulated after the fall of Serbia. In November 1918 an assembly in Podgorica deposed Nicholas I and proclaimed union with Serbia."
 ---
 
-On 5 August 1914 the [Kingdom of Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) declared war on [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). This is the date given by contemporary chronicles of the war. Other sources give 6 or 7 August, partly because Montenegro was then still using the Julian calendar and news from Cetinje reached Europe with a delay. All sources agree, however, that the small Balkan monarchy entered the war in the first week of August, as Serbia's first ally.
+On 5 August 1914 the [Kingdom of Montenegro](/kraje/czarnogora) declared war on [Austria-Hungary](/kraje/austro-wegry). This is the date given by contemporary chronicles of the war. Other sources give 6 or 7 August, partly because Montenegro was then still using the Julian calendar and news from Cetinje reached Europe with a delay. All sources agree, however, that the small Balkan monarchy entered the war in the first week of August, as Serbia's first ally.
 
 ## At Serbia's side
 
-The decision of King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz) came as no surprise. Montenegro was bound to [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) by a common language, faith and sense of belonging to the Serb nation, as well as by dynastic ties. The two states had fought together in the Balkan Wars. Montenegro ordered mobilisation as early as 26 July, and in the first days of August agreed military cooperation with Serbia. The Serbian general Božidar Janković soon became chief of staff of its army.
+The decision of King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz) came as no surprise. Montenegro was bound to [Serbia](/kraje/serbia) by a common language, faith and sense of belonging to the Serb nation, as well as by dynastic ties. The two states had fought together in the Balkan Wars. Montenegro ordered mobilisation as early as 26 July, and in the first days of August agreed military cooperation with Serbia. The Serbian general Božidar Janković soon became chief of staff of its army.
 
 A few days later Montenegro also declared war on Germany. This was mainly symbolic, since the two countries had no common border, but it underlined that Cetinje had taken the side of the Entente.
 

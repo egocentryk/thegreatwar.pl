@@ -2,7 +2,7 @@
 title: Nicaragua declares war on Germany
 summary: On 8 May 1918 Nicaragua announced that Congress had declared war on Germany and Austria-Hungary. President Chamorro openly sided with the United States.
 source: nikaragua-wypowiada-wojne-niemcom
-sourceHash: 94e2e596cca3d419f1299b448350974af956841d
+sourceHash: ff99067345f7d3b365cc5b9626b0e0b1fe37ee21
 brief:
   - "On 8 May 1918 the Foreign Minister of Nicaragua informed the United States legation that Congress had passed a decree declaring a state of war with Germany and Austria-Hungary and introducing martial law."
   - "According to Current History, Congress adopted the declaration of war on 7 May, at the request of President Emiliano Chamorro, with only four votes against. Most lists give the date of 8 May."
@@ -15,7 +15,7 @@ On 8 May 1918 the Foreign Minister of [Nicaragua](https://pl.wikipedia.org/wiki/
 
 ## A decree without equivocation
 
-Two weeks earlier [Guatemala](/gwatemala-wypowiada-wojne-niemcom), the first of the Central American republics to do so, had announced that it was adopting towards Germany "the same belligerent attitude" as the United States. Its decree avoided the word "war" and did not mention Austria-Hungary. Nicaragua's was more resolute. It spoke plainly of a state of war and covered both empires, like the United States, which had been fighting the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) since April 1917 and [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) [since December](/usa-wypowiadaja-wojne-austro-wegrom).
+Two weeks earlier [Guatemala](/gwatemala-wypowiada-wojne-niemcom), the first of the Central American republics to do so, had announced that it was adopting towards Germany "the same belligerent attitude" as the United States. Its decree avoided the word "war" and did not mention Austria-Hungary. Nicaragua's was more resolute. It spoke plainly of a state of war and covered both empires, like the United States, which had been fighting the [German Empire](/kraje/niemcy) since April 1917 and [Austria-Hungary](/kraje/austro-wegry) [since December](/usa-wypowiadaja-wojne-austro-wegrom).
 
 The date of the decision varies slightly in the sources. According to the American monthly *Current History*, Congress adopted the declaration of war on 7 May, at the request of President [Emiliano Chamorro](https://pl.wikipedia.org/wiki/Emiliano_Chamorro_Vargas), with only four votes against. It also adopted a separate declaration of solidarity with the United States and the other American republics fighting Germany and Austria-Hungary. The magazine called Nicaragua the twentieth state to declare war on Germany. Most lists, like the American diplomatic documents, give the date of 8 May, when the decision was announced and notified to the Americans.
 

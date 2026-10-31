@@ -2,7 +2,7 @@
 title: New Zealanders sail for war
 summary: On 16 October 1914 about 8,500 New Zealand soldiers sailed from Wellington. They were meant to fight in Europe but ended up in Egypt.
 source: nowozelandczycy-wyplywaja-na-wojne
-sourceHash: 1793b5f2fbf53940c718ff30a1430763b4cb9e05
+sourceHash: d56ca6a4f1c4f25290933673f78e88d233eb409d
 ---
 
 On 16 October 1914 ten grey-painted transports sailed from the port of [Wellington](https://pl.wikipedia.org/wiki/Wellington). They carried the so-called Main Body of the New Zealand Expeditionary Force: about 8,500 soldiers and nearly 4,000 horses. It was the largest military force [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia) had ever sent abroad.
@@ -19,6 +19,6 @@ When the escort arrived, the convoy set out across the Tasman Sea. After a short
 
 ## To Egypt instead of France
 
-The British chronology of the war records that the New Zealanders sailed "for France". That was indeed the plan: the contingent was to reach England, complete its training there and only then go to the Western Front. The plans changed while the convoy was already under way. The camps in England were overcrowded, and the [Canadians](/kanadyjczycy-wyplywaja-do-anglii), living in tents on Salisbury Plain, were suffering from the autumn downpours. At the beginning of November the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) also entered the war, which increased the importance of Egypt and the Suez Canal. London therefore decided to land the troops from New Zealand and Australia in [Egypt](https://pl.wikipedia.org/wiki/Egipt). The convoy reached [Alexandria](https://pl.wikipedia.org/wiki/Aleksandria) at the beginning of December.
+The British chronology of the war records that the New Zealanders sailed "for France". That was indeed the plan: the contingent was to reach England, complete its training there and only then go to the Western Front. The plans changed while the convoy was already under way. The camps in England were overcrowded, and the [Canadians](/kanadyjczycy-wyplywaja-do-anglii), living in tents on Salisbury Plain, were suffering from the autumn downpours. At the beginning of November the [Ottoman Empire](/kraje/imperium-osmanskie) also entered the war, which increased the importance of Egypt and the Suez Canal. London therefore decided to land the troops from New Zealand and Australia in [Egypt](https://pl.wikipedia.org/wiki/Egipt). The convoy reached [Alexandria](https://pl.wikipedia.org/wiki/Aleksandria) at the beginning of December.
 
 The New Zealanders, equipped with woollen uniforms meant for an English winter, pitched camp near Cairo and for the following months trained in the desert. There, together with the Australians, they formed the [Australian and New Zealand Army Corps](https://pl.wikipedia.org/wiki/Australian_and_New_Zealand_Army_Corps), or ANZAC. In April 1915, instead of in France, the soldiers of the Main Body landed on the Gallipoli peninsula, where the [Gallipoli campaign](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli) began.

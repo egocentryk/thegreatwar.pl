@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 sierpnia 1914 roku rząd [Francji](https://pl.wikipedia.org/wiki/III_Republika_Francuska) opublikował w dzienniku urzędowym pierwsze listy kontrabandy wojennej. Określały one, jakie towary francuska marynarka może zatrzymywać na morzu, także na statkach państw neutralnych, jeśli są przeznaczone dla nieprzyjaciela. Tydzień wcześniej podobną proklamację wydała Wielka Brytania.
+11 sierpnia 1914 roku rząd [Francji](/kraje/francja) opublikował w dzienniku urzędowym pierwsze listy kontrabandy wojennej. Określały one, jakie towary francuska marynarka może zatrzymywać na morzu, także na statkach państw neutralnych, jeśli są przeznaczone dla nieprzyjaciela. Tydzień wcześniej podobną proklamację wydała Wielka Brytania.
 
 ## Dwie listy
 

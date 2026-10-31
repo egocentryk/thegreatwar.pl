@@ -14,6 +14,7 @@ left: 1918-11-11
 numbersAs: [Imperium Brytyjskie]
 order: 4
 updated: 2026-10-30
+wikiTitles: ["Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii", "Imperium_brytyjskie"]
 authors: [Natalia]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/great-britain-1-1/"

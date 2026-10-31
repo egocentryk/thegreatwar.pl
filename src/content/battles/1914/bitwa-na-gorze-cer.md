@@ -22,11 +22,11 @@ brief:
   - "Austro-Węgry straciły ponad 40 tysięcy zabitych, rannych i wziętych do niewoli, a Serbia około 18–20 tysięcy. Stepa Stepanović otrzymał za zwycięstwo stopień wojewody."
 ---
 
-[Bitwa na górze Cer](https://pl.wikipedia.org/wiki/Bitwa_na_górze_Cer), nazywana też bitwą nad Jadarem, rozegrała się w dniach 15–24 sierpnia 1914 roku w zachodniej [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Zakończyła się rozbiciem wojsk austro-węgierskich i była pierwszym zwycięstwem aliantów w I wojnie światowej.
+[Bitwa na górze Cer](https://pl.wikipedia.org/wiki/Bitwa_na_górze_Cer), nazywana też bitwą nad Jadarem, rozegrała się w dniach 15–24 sierpnia 1914 roku w zachodniej [Serbii](/kraje/serbia). Zakończyła się rozbiciem wojsk austro-węgierskich i była pierwszym zwycięstwem aliantów w I wojnie światowej.
 
 ## Inwazja
 
-12 sierpnia wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) rozpoczęły [inwazję na Serbię](/bitwy/kampania-serbska-1914). Główne uderzenie wyprowadziła od zachodu, przez [Drinę](https://pl.wikipedia.org/wiki/Drina), 5 Armia generała [Liboriusa von Franka](https://pl.wikipedia.org/wiki/Liborius_von_Frank), a od północy, przez Sawę pod [Šabacem](https://pl.wikipedia.org/wiki/Šabac), nacierały oddziały 2 Armii. Całością dowodził generał [Oskar Potiorek](/postacie/oskar-potiorek), który chciał jak najszybciej zadać Serbii decydujący cios.
+12 sierpnia wojska [Austro-Węgier](/kraje/austro-wegry) rozpoczęły [inwazję na Serbię](/bitwy/kampania-serbska-1914). Główne uderzenie wyprowadziła od zachodu, przez [Drinę](https://pl.wikipedia.org/wiki/Drina), 5 Armia generała [Liboriusa von Franka](https://pl.wikipedia.org/wiki/Liborius_von_Frank), a od północy, przez Sawę pod [Šabacem](https://pl.wikipedia.org/wiki/Šabac), nacierały oddziały 2 Armii. Całością dowodził generał [Oskar Potiorek](/postacie/oskar-potiorek), który chciał jak najszybciej zadać Serbii decydujący cios.
 
 Austro-węgierskie kolumny posuwały się powoli przez górzysty, zalesiony teren, w upale i przy kiepskim zaopatrzeniu. Naczelny wódz serbski, wojewoda [Radomir Putnik](/postacie/radomir-putnik), rozpoznał, że główne uderzenie idzie od zachodu, i skierował tam 2 Armię generała [Stepy Stepanovicia](/postacie/stepa-stepanovic), wzmocnioną oddziałami 3 Armii.
 

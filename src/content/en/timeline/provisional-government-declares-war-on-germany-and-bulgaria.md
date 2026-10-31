@@ -2,7 +2,7 @@
 title: Provisional government declares war on Germany and Bulgaria
 summary: On 23 November 1916 Venizelos's National Defence government in Salonika declared war on Germany and Bulgaria. Greece now had two governments, one at war.
 source: rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii
-sourceHash: b375d370948282e00eb88c4023bbc0af7d00de21
+sourceHash: b0da26baa2c021d8432df6b4809fd242eb69a158
 brief:
   - "On 23 November 1916 the provisional government of National Defence in Salonika, headed by Eleftherios Venizelos, declared war on Germany and Bulgaria. Some sources give 24 or 25 November."
   - "Venizelos had waited more than six weeks, because the Allies would not recognise his government and Briand still hoped for an understanding with King Constantine I. War was not declared on Austria-Hungary or Turkey."
@@ -25,7 +25,7 @@ By the time the Salonika government declared war, that agreement was already fal
 
 ## War on two states
 
-The provisional government declared war only on Germany and Bulgaria. Bulgaria was the obvious enemy: its troops stood in Greek Macedonia, and in Greece the memory of the Balkan Wars was still alive. Germany was Bulgaria's most important ally, and it was German troops together with the Bulgarians who had occupied Fort Rupel in May. According to Hassiotis, the Salonika government did not, however, declare war on [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) or the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). In the case of Turkey the aim was to avoid provoking reprisals against the Greeks of [Asia Minor](https://pl.wikipedia.org/wiki/Azja_Mniejsza), where a large Greek population lived exposed to persecution.
+The provisional government declared war only on Germany and Bulgaria. Bulgaria was the obvious enemy: its troops stood in Greek Macedonia, and in Greece the memory of the Balkan Wars was still alive. Germany was Bulgaria's most important ally, and it was German troops together with the Bulgarians who had occupied Fort Rupel in May. According to Hassiotis, the Salonika government did not, however, declare war on [Austria-Hungary](/kraje/austro-wegry) or the [Ottoman Empire](/kraje/imperium-osmanskie). In the case of Turkey the aim was to avoid provoking reprisals against the Greeks of [Asia Minor](https://pl.wikipedia.org/wiki/Azja_Mniejsza), where a large Greek population lived exposed to persecution.
 
 The same day, according to *Current History*, Venizelos issued a proclamation setting out the aims of the struggle. "We wish to wipe out the stain cast upon the Greek nation by the disregard of our treaty obligations towards Serbia. We wish to take part in the liberation of our lands invaded by the Bulgarians. We wish to show in a tangible way our deep conviction that Greece cannot develop, or even exist, as a free and independent state otherwise than by maintaining the closest bond with the powers that have always supported her, that rule the Mediterranean, and that are fighting at this very moment for the freedom of Europe and for the right of every small nation to live in freedom and independence," he wrote.
 

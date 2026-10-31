@@ -15,7 +15,7 @@ draft: false
 
 ## Blokada Czarnogóry
 
-Zenta, starszy krążownik pancernopokładowy, wraz z niszczycielem Ulan blokowała wybrzeże [Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) i ostrzeliwała port w Antivari. Czarnogóra od kilku dni była w stanie wojny z Austro-Węgrami, a jej wybrzeże było łatwym celem dla austro-węgierskiej floty z pobliskiej bazy w Zatoce Kotorskiej.
+Zenta, starszy krążownik pancernopokładowy, wraz z niszczycielem Ulan blokowała wybrzeże [Czarnogóry](/kraje/czarnogora) i ostrzeliwała port w Antivari. Czarnogóra od kilku dni była w stanie wojny z Austro-Węgrami, a jej wybrzeże było łatwym celem dla austro-węgierskiej floty z pobliskiej bazy w Zatoce Kotorskiej.
 
 Dzień wcześniej u wejścia do Adriatyku połączyły się eskadry francuska i brytyjska pod dowództwem francuskiego admirała Boué de Lapeyrère'a. Rano 16 sierpnia sprzymierzona flota, z nowoczesnymi pancernikami na czele, wpłynęła w głąb Adriatyku i natknęła się na oba austro-węgierskie okręty.
 

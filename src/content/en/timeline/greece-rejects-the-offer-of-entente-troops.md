@@ -2,10 +2,10 @@
 title: Greece rejects the offer of Entente troops
 summary: On 28 September 1915 Athens thanked London for its offer of troops, deeming them unnecessary for now. A day later the Greeks asked for this reply to be ignored.
 source: grecja-odrzuca-oferte-wojsk-ententy
-sourceHash: ac2c29cab2cadabeca2c6611792b89ef2ff16819
+sourceHash: 856ffa1c212ae92230c934dc142d743a22c12d9a
 ---
 
-On 28 September 1915 the British Foreign Office received from Athens a reply which the British official naval historian Julian Corbett called "staggering". The government of [Greece](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)) thanked it warmly for the offer to send troops to [Salonika](https://pl.wikipedia.org/wiki/Saloniki), but considered that there was at present no need to make use of it. It cited the declarations of the governments of Bulgaria and Serbia. The Bulgarians gave assurances that their mobilisation meant only armed neutrality, and the Serbs that they did not intend to attack first. Only the day before, Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos) had reported that [the King had agreed to the arrival of the troops](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), and had asked for them to come as quickly as possible.
+On 28 September 1915 the British Foreign Office received from Athens a reply which the British official naval historian Julian Corbett called "staggering". The government of [Greece](/kraje/grecja) thanked it warmly for the offer to send troops to [Salonika](https://pl.wikipedia.org/wiki/Saloniki), but considered that there was at present no need to make use of it. It cited the declarations of the governments of Bulgaria and Serbia. The Bulgarians gave assurances that their mobilisation meant only armed neutrality, and the Serbs that they did not intend to attack first. Only the day before, Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos) had reported that [the King had agreed to the arrival of the troops](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), and had asked for them to come as quickly as possible.
 
 ## A reply to the British conditions
 

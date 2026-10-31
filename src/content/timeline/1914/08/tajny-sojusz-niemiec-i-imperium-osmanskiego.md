@@ -14,7 +14,7 @@ sources:
   - "https://en.wikipedia.org/wiki/German–Ottoman_alliance"
 ---
 
-Brytyjskie kroniki wojny odnotowywały pod datą 4 sierpnia 1914 roku zawarcie tajnego sojuszu między [Niemcami](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) a [Imperium Osmańskim](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). W rzeczywistości traktat podpisano dwa dni wcześniej, 2 sierpnia, w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol), dzień po wypowiedzeniu przez Niemcy wojny Rosji. Ze strony niemieckiej podpisał go ambasador baron Hans von Wangenheim, a ze strony osmańskiej wielki wezyr [Said Halim Pasza](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
+Brytyjskie kroniki wojny odnotowywały pod datą 4 sierpnia 1914 roku zawarcie tajnego sojuszu między [Niemcami](/kraje/niemcy) a [Imperium Osmańskim](/kraje/imperium-osmanskie). W rzeczywistości traktat podpisano dwa dni wcześniej, 2 sierpnia, w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol), dzień po wypowiedzeniu przez Niemcy wojny Rosji. Ze strony niemieckiej podpisał go ambasador baron Hans von Wangenheim, a ze strony osmańskiej wielki wezyr [Said Halim Pasza](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
 
 ## Droga do traktatu
 
@@ -22,7 +22,7 @@ Inicjatywa wyszła z Konstantynopola. Imperium, osłabione wojną z Włochami i 
 
 ## Treść porozumienia
 
-Traktat miał osiem krótkich artykułów. Obie strony zobowiązywały się zachować ścisłą neutralność w konflikcie austriacko-serbskim. Gdyby jednak [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) interweniowała zbrojnie i tym samym zmusiła Niemcy do wypełnienia zobowiązań sojuszniczych wobec Austro-Węgier, ten sam obowiązek (casus foederis) powstawał dla Imperium Osmańskiego. Ponieważ Niemcy były już w wojnie z Rosją, zapis ten od chwili podpisania wiązał Konstantynopol.
+Traktat miał osiem krótkich artykułów. Obie strony zobowiązywały się zachować ścisłą neutralność w konflikcie austriacko-serbskim. Gdyby jednak [Rosja](/kraje/rosja) interweniowała zbrojnie i tym samym zmusiła Niemcy do wypełnienia zobowiązań sojuszniczych wobec Austro-Węgier, ten sam obowiązek (casus foederis) powstawał dla Imperium Osmańskiego. Ponieważ Niemcy były już w wojnie z Rosją, zapis ten od chwili podpisania wiązał Konstantynopol.
 
 Na wypadek wojny Niemcy oddawały do dyspozycji imperium swoją misję wojskową, kierowaną przez generała [Ottona Limana von Sandersa](/postacie/otto-liman-von-sanders), a strona osmańska zapewniała jej „skuteczny wpływ” na ogólne kierowanie armią. Wangenheim wyjaśniał Berlinowi, że Turcy chcieli takiego sformułowania, bo naczelnym wodzem był formalnie sułtan, ale Liman uzgodnił z Enverem szczegółową umowę, która w praktyce dawała misji naczelne dowództwo. Niemcy zobowiązywały się bronić osmańskiego terytorium, w razie potrzeby zbrojnie. Traktat obowiązywał do 31 grudnia 1918 roku z możliwością przedłużenia o pięć lat i miał pozostać tajny.
 

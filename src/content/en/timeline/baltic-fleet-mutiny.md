@@ -2,7 +2,7 @@
 title: Baltic Fleet mutiny
 summary: On the evening of 16 March 1917 the battleship crews mutinied at Helsingfors. Baltic Fleet sailors killed dozens of officers, and the next day its commander.
 source: bunt-floty-baltyckiej
-sourceHash: ba9afee44b701e3fb663f084c4a4699333d7e69a
+sourceHash: c0d14f366efb8f038f5666997afae52c235b0003
 ---
 
 On the evening of 16 March 1917 (3 March by the Julian calendar) the crews of the battleships of the [Baltic Fleet](https://pl.wikipedia.org/wiki/Flota_Bałtycka) mutinied at Helsingfors, present-day [Helsinki](https://pl.wikipedia.org/wiki/Helsinki). The signal was the news of [the abdication of Nicholas II](/abdykacja-mikolaja-ii). During the night and the following day the sailors killed several dozen officers, and on 17 March they shot the fleet commander, Vice-Admiral Adrian Nepenin. Three days earlier a similar massacre had taken place at [Kronstadt](https://pl.wikipedia.org/wiki/Kronsztad). No other part of the Russian armed forces went through the [February Revolution](/rewolucja-lutowa) as bloodily as the fleet in the Baltic.
@@ -21,7 +21,7 @@ The sailors saw it differently. Nepenin delayed announcing the news from the cap
 
 ## Nepenin's death
 
-Nepenin tried to bring the situation under control. He met the mutineers' delegates and assured them that he recognised the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), but they refused to release the arrested officers. On the morning of 17 March the sailors proclaimed Vice-Admiral Andrei Maksimov, regarded as the senior officer most sympathetic to the revolution, the new commander of the fleet. Nepenin refused to hand over command to him without an order from Petrograd. Soon afterwards a crowd of sailors, largely from *Imperator Pavel I*, demanded that he come with them to a meeting. According to a witness, an officer of the hydrographic corps, the admiral agreed in order to avoid worse. Outside the port gate the sailors pushed aside his two aides-de-camp, and Nepenin was shot in the back. His body was desecrated in the mortuary.
+Nepenin tried to bring the situation under control. He met the mutineers' delegates and assured them that he recognised the [Provisional Government](/powstanie-rzadu-tymczasowego), but they refused to release the arrested officers. On the morning of 17 March the sailors proclaimed Vice-Admiral Andrei Maksimov, regarded as the senior officer most sympathetic to the revolution, the new commander of the fleet. Nepenin refused to hand over command to him without an order from Petrograd. Soon afterwards a crowd of sailors, largely from *Imperator Pavel I*, demanded that he come with them to a meeting. According to a witness, an officer of the hydrographic corps, the admiral agreed in order to avoid worse. Outside the port gate the sailors pushed aside his two aides-de-camp, and Nepenin was shot in the back. His body was desecrated in the mortuary.
 
 How many officers died is not known exactly. Russian historians estimate that up to 120 naval officers were killed in Helsingfors, Kronstadt, [Reval](https://pl.wikipedia.org/wiki/Tallinn) and Petrograd, of whom 76 were murdered: 45 in Helsingfors, 24 in Kronstadt, five in Reval and two in the capital. Other researchers regard about 40 victims in Helsingfors alone as certain. By comparison, since the start of the war all the Russian fleets and flotillas had lost about 245 officers.
 

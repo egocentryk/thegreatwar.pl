@@ -2,16 +2,16 @@
 title: Grey proposes an international conference to prevent war
 summary: On 24 July 1914 Sir Edward Grey proposed that four powers jointly mediate between Vienna and St Petersburg before the crisis turned into a war.
 source: grey-proponuje-miedzynarodowa-konferencje-aby-powstrzymac-wojne
-sourceHash: cacbe953ee84ca07f60a2b6ce050ef821977cad4
+sourceHash: 8b77f8cdce7cd647fef5ddd84b8300fddd006d57
 ---
 
-On 24 July 1914, the day after the Austro-Hungarian ultimatum was handed over in Belgrade, the British Foreign Secretary, Sir [Edward Grey](/postacie/edward-grey), put forward the first proposal meant to halt the crisis before it turned into a war between the Great Powers. He proposed that four states not directly involved in the dispute over [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) – [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii), [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska), [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) and [Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) – should mediate jointly between [Vienna](https://pl.wikipedia.org/wiki/Wiedeń) and [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg). Two days later this idea grew into the formal proposal of a conference of ambassadors in London.
+On 24 July 1914, the day after the Austro-Hungarian ultimatum was handed over in Belgrade, the British Foreign Secretary, Sir [Edward Grey](/postacie/edward-grey), put forward the first proposal meant to halt the crisis before it turned into a war between the Great Powers. He proposed that four states not directly involved in the dispute over [Serbia](/kraje/serbia) – [Great Britain](/kraje/wielka-brytania), [France](/kraje/francja), [Germany](/kraje/niemcy) and [Italy](/kraje/wlochy) – should mediate jointly between [Vienna](https://pl.wikipedia.org/wiki/Wiedeń) and [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg). Two days later this idea grew into the formal proposal of a conference of ambassadors in London.
 
 ## "A document of so formidable a character"
 
 The text of the note to Serbia was given to Grey by the Austro-Hungarian Ambassador, Count Albert Mensdorff. Grey did not hide his impression. As he wrote in a telegram to the ambassador in Vienna, he had never before seen one state address to another independent state a document of so formidable a character. He regretted that Vienna had set a time limit, and such a short one, and he considered the fifth demand, which provided for Austro-Hungarian officials taking part in proceedings on Serbian territory, hard to reconcile with Serbia's sovereignty. At the same time he made clear that the merits of the Austro-Serbian dispute were no concern of the British government. He was interested solely in the peace of Europe.
 
-The same day a report arrived from the ambassador in St Petersburg, George Buchanan. The Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), had called the conduct of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) provocative and immoral and demanded that London proclaim its solidarity with [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) and France. Buchanan replied that Great Britain would not bind itself by an unconditional engagement, and suggested first persuading Vienna to extend the time limit.
+The same day a report arrived from the ambassador in St Petersburg, George Buchanan. The Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), had called the conduct of [Austria-Hungary](/kraje/austro-wegry) provocative and immoral and demanded that London proclaim its solidarity with [Russia](/kraje/rosja) and France. Buchanan replied that Great Britain would not bind itself by an unconditional engagement, and suggested first persuading Vienna to extend the time limit.
 
 ## The plan of the four powers
 

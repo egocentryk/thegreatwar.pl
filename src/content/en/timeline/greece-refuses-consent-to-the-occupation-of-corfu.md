@@ -2,7 +2,7 @@
 title: Greece refuses consent to the occupation of Corfu
 summary: On 13 January 1916 the Skouloudis government protested at the French occupation of Corfu, citing its perpetual neutrality. The Entente did not yield.
 source: grecja-odmawia-zgody-na-zajecie-korfu
-sourceHash: 31faae7b3f54898c852b458652bf730f0243fb57
+sourceHash: bec87fadc2d0fc307bceef28b7fd3caa522eff8c
 ---
 
 The British chronology of the war records under 13 January 1916 that the Greek government refused its consent to the occupation of [Corfu](https://pl.wikipedia.org/wiki/Korfu). On that day, 31 December 1915 by the Julian calendar then used in Greece, the Prime Minister and Foreign Minister, [Stefanos Skouloudis](/postacie/stefanos-skuludis), sent a note to the ministers of the Entente powers in Athens. Three days earlier [they had informed him](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu) that the remnants of the Serbian army would be transported to the island, and on 11 January [the French had landed there](/francuzi-zajmuja-korfu). The Athens newspapers had already been writing that the cabinet was preparing a protest sharper than all the previous ones.
@@ -11,7 +11,7 @@ The British chronology of the war records under 13 January 1916 that the Greek g
 
 According to reports from Athens relayed by the Paris press, the Greek government reproached the Allies above all for landing soldiers on the island before its reply to the notification had arrived. The Allies answered that they had not expected a reply to the notification, all the more so as they had given assurances in it that they had no intention of infringing Greek sovereignty over the island. Athens, however, held a weightier legal argument. In the Treaty of London of 29 March 1864, under which Greece received the [Ionian Islands](https://pl.wikipedia.org/wiki/Wyspy_Jońskie) from Britain, Britain, France and Russia, with the consent of Austria and Prussia, declared that Corfu and [Paxos](https://pl.wikipedia.org/wiki/Paksos) would enjoy "perpetual neutrality", and the King of Greece undertook to uphold it. The island had thus been occupied by one of the very powers that guaranteed that neutrality.
 
-The British publicist George F. Abbott, who was sympathetic to King Constantine, wrote after the war that the occupation of Corfu was a flagrant violation of treaties, and that the island's neutrality had been guaranteed as firmly as that of [Belgium](https://pl.wikipedia.org/wiki/Belgia). This gave the Central Powers an opportunity to accuse Britain and France of contempt for treaties whose sanctity they themselves had been proclaiming since 1914. Austria-Hungary did indeed protest on 17 January through the United States ambassador in Vienna, calling the occupation of the island a "flagrant violation" of the London treaties of 1863 and 1864.
+The British publicist George F. Abbott, who was sympathetic to King Constantine, wrote after the war that the occupation of Corfu was a flagrant violation of treaties, and that the island's neutrality had been guaranteed as firmly as that of [Belgium](/kraje/belgia). This gave the Central Powers an opportunity to accuse Britain and France of contempt for treaties whose sanctity they themselves had been proclaiming since 1914. Austria-Hungary did indeed protest on 17 January through the United States ambassador in Vienna, calling the occupation of the island a "flagrant violation" of the London treaties of 1863 and 1864.
 
 ## The king speaks to the Americans
 

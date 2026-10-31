@@ -2,10 +2,10 @@
 title: Kucharzewski government
 summary: On 26 November 1917 the Regency Council made Jan Kucharzewski president of ministers, charging him with forming the first government of the Kingdom of Poland.
 source: rzad-kucharzewskiego
-sourceHash: df9960ec0637e4d93aaf735529f18b212560fb4b
+sourceHash: 6958f13c7f48916eaf1f2b7308994b7d60439159
 ---
 
-On 26 November 1917 the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) appointed the 41-year-old historian and lawyer [Jan Kucharzewski](/postacie/jan-kucharzewski) to the post of president of ministers, that is, head of the government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)). The act of appointment charged him with submitting the composition of the Council of Ministers to the regents for approval and ended with the words: "In placing the direction of the affairs of the Reborn Fatherland in your trusted hands, we ask God's blessing on your endeavours." Zdzisław Julian Winnicki, a historian of the Regency Council, regards this date as the taking of office by the first president of ministers appointed by the regents. The cabinet itself was formed only in December.
+On 26 November 1917 the [Regency Council](/powolanie-rady-regencyjnej) appointed the 41-year-old historian and lawyer [Jan Kucharzewski](/postacie/jan-kucharzewski) to the post of president of ministers, that is, head of the government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)). The act of appointment charged him with submitting the composition of the Council of Ministers to the regents for approval and ended with the words: "In placing the direction of the affairs of the Reborn Fatherland in your trusted hands, we ask God's blessing on your endeavours." Zdzisław Julian Winnicki, a historian of the Regency Council, regards this date as the taking of office by the first president of ministers appointed by the regents. The cabinet itself was formed only in December.
 
 ## After the defeat over Tarnowski
 

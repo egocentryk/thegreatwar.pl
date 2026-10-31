@@ -2,7 +2,7 @@
 title: Last forts of Liège fall
 summary: On 16 August 1914 the last forts of Liège, wrecked by heavy artillery, capitulated. The road into the heart of Belgium lay open to the Germans.
 source: padaja-ostatnie-forty-liege
-sourceHash: 990a6128fa81f050ee810ea2bd08c3e15f8116c4
+sourceHash: 9fa22c4fa6a69805d3c18bcc76832082106a9786
 ---
 
 On 16 August 1914 the last forts defending [Liège](https://pl.wikipedia.org/wiki/Liège) capitulated. Contemporary chronicles give the dates 16 and 17 August, because the individual forts surrendered over a period of several dozen hours. Twelve days after German troops entered Belgium, the first great battle on the Western Front came to an end.
@@ -15,7 +15,7 @@ From 12 August their shells, weighing hundreds of kilograms, rained down on the 
 
 ## The end of resistance
 
-After the fall of Fort Loncin the resistance of the remaining fortifications quickly weakened. On 16 August the last forts west of the city surrendered. The German march through [Belgium](https://pl.wikipedia.org/wiki/Belgia) could get under way in full strength. Four days later German troops entered Brussels, and soon afterwards they stood before Namur and on the French border.
+After the fall of Fort Loncin the resistance of the remaining fortifications quickly weakened. On 16 August the last forts west of the city surrendered. The German march through [Belgium](/kraje/belgia) could get under way in full strength. Four days later German troops entered Brussels, and soon afterwards they stood before Namur and on the French border.
 
 ## Significance
 

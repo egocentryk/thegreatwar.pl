@@ -2,10 +2,10 @@
 title: Second Austro-Hungarian invasion of Serbia
 summary: During the night of 7/8 September 1914 Potiorek's armies crossed the Drina again. Austria-Hungary meant to draw the Serbs out of Syrmia and avenge Cer.
 source: druga-inwazja-austro-wegier-na-serbie
-sourceHash: e47b79bd84dc35c873b70ec46fd9e958d2b82302
+sourceHash: 44164a8f6b3600b2f25f7c890b77d4eb252db195
 ---
 
-On 8 September 1914 the troops of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) entered [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) for the second time. The first units tried to cross the border river, the [Drina](https://pl.wikipedia.org/wiki/Drina), as early as 7 September, and the main crossings took place during the night of 7/8 September and over the following day. Less than three weeks earlier the same army had fled from Serbia after its defeat on Mount Cer.
+On 8 September 1914 the troops of [Austria-Hungary](/kraje/austro-wegry) entered [Serbia](/kraje/serbia) for the second time. The first units tried to cross the border river, the [Drina](https://pl.wikipedia.org/wiki/Drina), as early as 7 September, and the main crossings took place during the night of 7/8 September and over the following day. Less than three weeks earlier the same army had fled from Serbia after its defeat on Mount Cer.
 
 ## Potiorek wants revenge
 

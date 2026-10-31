@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-31 października 1914 roku o godzinie 17.05 brytyjska Admiralicja wysłała do wszystkich okrętów krótki rozkaz: „Natychmiast rozpocząć działania wojenne przeciwko Turcji. Potwierdzić odbiór”. Wielka Brytania nie wypowiedziała jeszcze [Imperium Osmańskiemu](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) wojny, a jej ambasador wciąż przebywał w Konstantynopolu. Mimo to [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) dostała wolną rękę.
+31 października 1914 roku o godzinie 17.05 brytyjska Admiralicja wysłała do wszystkich okrętów krótki rozkaz: „Natychmiast rozpocząć działania wojenne przeciwko Turcji. Potwierdzić odbiór”. Wielka Brytania nie wypowiedziała jeszcze [Imperium Osmańskiemu](/kraje/imperium-osmanskie) wojny, a jej ambasador wciąż przebywał w Konstantynopolu. Mimo to [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) dostała wolną rękę.
 
 Rozkaz był odpowiedzią na [atak floty osmańskiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym i na [bezskuteczne żądania](/ultimatum-aliantow-wobec-turcji), by Turcja odesłała Niemców z Goebena i Breslau. Termin wyznaczony przez Londyn minął bez odpowiedzi, a ambasadorowie Ententy [zażądali już paszportów](/zerwanie-stosunkow-z-turcja). Za szybkim uderzeniem opowiadał się pierwszy lord Admiralicji [Winston Churchill](/postacie/winston-churchill). Na odwrocie depeszy z brytyjskim ultimatum dopisał czerwonym ołówkiem polecenie, by zbadać możliwość ostrzelania fortów nad [Dardanelami](https://pl.wikipedia.org/wiki/Dardanele), bo „dobrze jest zadać szybki cios”. Doradcy byli sceptyczni, uważali, że ostrzał przyniesie niewiele w porównaniu z ryzykiem dla okrętów.
 

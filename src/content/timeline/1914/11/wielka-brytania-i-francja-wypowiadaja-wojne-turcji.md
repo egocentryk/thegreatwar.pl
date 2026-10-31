@@ -16,7 +16,7 @@ brief:
   - "Najważniejszym skutkiem okazały się Dardanele. Zamknięcie cieśnin odcięło Rosję od sojuszników i w 1915 roku doprowadziło do ataku floty na Dardanele oraz bitwy o Gallipoli."
 ---
 
-5 listopada 1914 roku [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) i [Francja](https://pl.wikipedia.org/wiki/III_Republika_Francuska) wypowiedziały wojnę [Imperium Osmańskiemu](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Trzy dni wcześniej zrobiła to [Rosja](/rosja-wypowiada-wojne-turcji), a na morzu Brytyjczycy walczyli z Turkami już od kilku dni. Formalna deklaracja zamykała drogę, która zaczęła się tydzień wcześniej od [nalotu floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym.
+5 listopada 1914 roku [Wielka Brytania](/kraje/wielka-brytania) i [Francja](/kraje/francja) wypowiedziały wojnę [Imperium Osmańskiemu](/kraje/imperium-osmanskie). Trzy dni wcześniej zrobiła to [Rosja](/rosja-wypowiada-wojne-turcji), a na morzu Brytyjczycy walczyli z Turkami już od kilku dni. Formalna deklaracja zamykała drogę, która zaczęła się tydzień wcześniej od [nalotu floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym.
 
 ## Deklaracja
 

@@ -43,7 +43,7 @@ Odwrót przyniósł cierpienia także tym, którzy zostali. Wycofujące się woj
 
 ## Polacy w odwrocie
 
-W odwrocie brały udział polskie formacje ochotnicze. Legion Wschodni, formowany we Lwowie, ewakuowano na zachód jeszcze przed zajęciem miasta. Pod wpływem agitacji przeciwników współpracy z Austrią większość ochotników rozeszła się do domów, a 21 września w Mszanie Dolnej podjęto decyzję o rozwiązaniu [Legionu Wschodniego](https://pl.wikipedia.org/wiki/Legion_Wschodni). Tylko część żołnierzy, między innymi wokół kapitana Józefa Hallera, złożyła przysięgę i weszła do nowo tworzonego 3 Pułku [Legionów Polskich](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)).
+W odwrocie brały udział polskie formacje ochotnicze. Legion Wschodni, formowany we Lwowie, ewakuowano na zachód jeszcze przed zajęciem miasta. Pod wpływem agitacji przeciwników współpracy z Austrią większość ochotników rozeszła się do domów, a 21 września w Mszanie Dolnej podjęto decyzję o rozwiązaniu [Legionu Wschodniego](/tematy/polskie-formacje-wojskowe). Tylko część żołnierzy, między innymi wokół kapitana Józefa Hallera, złożyła przysięgę i weszła do nowo tworzonego 3 Pułku [Legionów Polskich](/tematy/polskie-formacje-wojskowe).
 
 1 Pułk Legionów pod dowództwem [Józefa Piłsudskiego](/postacie/jozef-pilsudski), działający od sierpnia na Kielecczyźnie, osłaniał w drugiej połowie września nad Wisłą, w okolicach [Nowego Korczyna](https://pl.wikipedia.org/wiki/Nowy_Korczyn), północne skrzydło cofających się armii austro-węgierskich przed rosyjską kawalerią. W październiku legioniści wzięli udział w kontrofensywie państw centralnych nad Wisłą.
 

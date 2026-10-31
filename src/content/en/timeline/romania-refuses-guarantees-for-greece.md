@@ -2,10 +2,10 @@
 title: Romania refuses guarantees for Greece
 summary: According to the British chronology, on 6 December 1914 Romania refused guarantees for Greece. Without them Athens, fearing Bulgaria, would not help Serbia.
 source: rumunia-odmawia-gwarancji-dla-grecji
-sourceHash: cbb7c80289836db952e9ab7745b50c3d1683aff9
+sourceHash: 849a87bd78560f79edcd4ecc37d790d76bd50df0
 ---
 
-The British chronology of the war records under 6 December 1914 that the government of [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) refused to guarantee the security of Greece. This was the answer to the [efforts of the Entente](/demarche-ententy-w-atenach-sofii-i-bukareszcie), which was seeking help in the Balkans for embattled Serbia. The chronology speaks of a guarantee "against a German attack", but other sources show that the threat in question was much closer to hand, namely Bulgaria.
+The British chronology of the war records under 6 December 1914 that the government of [Romania](/kraje/rumunia) refused to guarantee the security of Greece. This was the answer to the [efforts of the Entente](/demarche-ententy-w-atenach-sofii-i-bukareszcie), which was seeking help in the Balkans for embattled Serbia. The chronology speaks of a guarantee "against a German attack", but other sources show that the threat in question was much closer to hand, namely Bulgaria.
 
 ## Greece in a trap
 

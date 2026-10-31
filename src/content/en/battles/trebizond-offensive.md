@@ -9,7 +9,7 @@ sides:
     commanders: [Mahmud Kâmil Pasha, Vehip Pasha]
 result: Russian victory. The Turks withdrew from the whole Lazistan coast, and on 18 April 1916 the Russians entered the abandoned city of Trebizond without a fight.
 source: ofensywa-trapezuncka
-sourceHash: ac7d950d8a396a95521986b73b12b81c2f3b3eef
+sourceHash: 99deeef82ba52b07a168328c994275505f733a5e
 brief:
   - "The Trebizond offensive lasted from 5 February to 18 April 1916. General Vladimir Lyakhov's Coastal Detachment advanced along the steep Lazistan coast from the Russian border to Trebizond."
   - "Trebizond was the most important port of northern Anatolia, through which the Ottoman Third Army received men and supplies. Lyakhov was to pin down the Turks on the coast during Yudenich's Erzurum offensive."
@@ -68,4 +68,4 @@ Full figures for the losses are lacking. According to Allen and Muratoff, on the
 
 The Trebizond offensive showed how much command of the sea mattered in fighting on a narrow coastal strip. Fire from ships on the flank and in the rear time and again forced the Turks to abandon positions that would have been hard to take from the front, and landings from flat-bottomed coastal vessels made it possible to outflank the defenders from the sea. Allen and Muratoff compare Lyakhov's light losses with the bloody and fruitless assaults on the same mountains in 1877 and 1878. The operation, however, also exposed poor cooperation between the army and navy commands: Yudenich's dispute with Eberhardt at Rize could have cost the Russians the whole undertaking.
 
-The capture of Trebizond cut the shortest route from Constantinople to the Third Army and gave the Russians a port for the troops fighting deep in Anatolia. As early as May and June 1916 further plastun brigades were shipped here by sea and took part in the summer fighting. Trebizond remained in Russian hands until the disintegration of the Russian army after the revolution. The Turks returned to the city in February 1918. Of Trebizond's former Armenian community, estimated before the war at about 30,000 people, massacred and deported in 1915 during the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), the Russians found only a few survivors.
+The capture of Trebizond cut the shortest route from Constantinople to the Third Army and gave the Russians a port for the troops fighting deep in Anatolia. As early as May and June 1916 further plastun brigades were shipped here by sea and took part in the summer fighting. Trebizond remained in Russian hands until the disintegration of the Russian army after the revolution. The Turks returned to the city in February 1918. Of Trebizond's former Armenian community, estimated before the war at about 30,000 people, massacred and deported in 1915 during the [Armenian genocide](/tematy/ludobojstwo-ormian), the Russians found only a few survivors.

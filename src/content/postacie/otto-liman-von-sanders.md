@@ -46,7 +46,7 @@ W sierpniu sprzymierzeni spróbowali raz jeszcze, uderzając na [wzgórza Sari B
 
 ## 1916–1917: Smyrna i wybrzeże
 
-Po kampanii Liman pozostał dowódcą 5 Armii, która broniła wybrzeża Morza Egejskiego, z [Izmirem](https://pl.wikipedia.org/wiki/Izmir), dawną Smyrną. W tym okresie, według dokumentów niemieckiego MSZ i jego własnych relacji, kilka razy sprzeciwił się deportacjom ludności cywilnej. W Smyrnie, zagroziwszy władzom użyciem wojska, powstrzymał deportacje miejscowych Ormian, a w 1917 roku sprzeciwiał się wysiedleniom Greków z wybrzeża. Jego postawa nie była jednak jednoznaczna: wiosną 1917 roku sam nakazał ewakuować część Greków z Ayvalık z powodów wojskowych, choć potem złagodził ten rozkaz. W latach [ludobójstwa Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian) był jednym z niewielu wysokich niemieckich oficerów, którzy otwarcie przeciwstawiali się deportacjom tam, gdzie mieli władzę.
+Po kampanii Liman pozostał dowódcą 5 Armii, która broniła wybrzeża Morza Egejskiego, z [Izmirem](https://pl.wikipedia.org/wiki/Izmir), dawną Smyrną. W tym okresie, według dokumentów niemieckiego MSZ i jego własnych relacji, kilka razy sprzeciwił się deportacjom ludności cywilnej. W Smyrnie, zagroziwszy władzom użyciem wojska, powstrzymał deportacje miejscowych Ormian, a w 1917 roku sprzeciwiał się wysiedleniom Greków z wybrzeża. Jego postawa nie była jednak jednoznaczna: wiosną 1917 roku sam nakazał ewakuować część Greków z Ayvalık z powodów wojskowych, choć potem złagodził ten rozkaz. W latach [ludobójstwa Ormian](/tematy/ludobojstwo-ormian) był jednym z niewielu wysokich niemieckich oficerów, którzy otwarcie przeciwstawiali się deportacjom tam, gdzie mieli władzę.
 
 ## 1918: Palestyna
 

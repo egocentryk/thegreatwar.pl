@@ -9,7 +9,7 @@ brief:
   - "The naval blockade starved the country, and unrestricted submarine warfare drew the United States into the war."
   - "After the failure of its last offensives and the outbreak of revolution, Germany signed the Armistice of Compiègne on 11 November 1918."
 source: niemcy
-sourceHash: ac9b9d3cb7329f6007206009ea772e7a811a47c2
+sourceHash: ea01ef1b9c71586b3b861bd181873336d863aa57
 ---
 
 Germany entered the war on 1 August 1914, when it [mobilised and declared war on Russia](/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji), and two days later [on France](/niemcy-wypowiadaja-wojne-francji). From the first days it fought on two fronts, and after its defeat [on the Marne](/bitwy/pierwsza-bitwa-nad-marna) it could no longer decide the war quickly. In the east it was victorious and imposed the [Treaty of Brest-Litovsk](/traktat-brzeski) on Russia, but in the west it bled itself white in battles of attrition, while the naval blockade starved the country. After the failure of its last offensives and the outbreak of revolution, on 11 November 1918 it signed the [Armistice of Compiègne](/rozejm-w-compiegne).

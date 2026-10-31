@@ -22,7 +22,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Bitwa_pod_Haelen"
 ---
 
-18 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](https://pl.wikipedia.org/wiki/Belgia) armia belgijska starła się z głównymi siłami niemieckiej 1 Armii. Walki, które trwały do 19 sierpnia, zakończyły trzytygodniową próbę zatrzymania Niemców w otwartym polu. Wieczorem król [Albert I](/postacie/albert-i), który osobiście dowodził armią, nakazał odwrót do twierdzy Antwerpia.
+18 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](/kraje/belgia) armia belgijska starła się z głównymi siłami niemieckiej 1 Armii. Walki, które trwały do 19 sierpnia, zakończyły trzytygodniową próbę zatrzymania Niemców w otwartym polu. Wieczorem król [Albert I](/postacie/albert-i), który osobiście dowodził armią, nakazał odwrót do twierdzy Antwerpia.
 
 ## Czekanie nad Gete
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-4 sierpnia 1914 roku, gdy do Brukseli dotarła wiadomość, że wojska niemieckie przekroczyły granicę w [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), belgijski rząd zerwał stosunki dyplomatyczne z [Niemcami](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Minister spraw zagranicznych Julien Davignon poinformował niemieckiego posła Clausa von Below-Saleskego, że od tego dnia [Belgia](https://pl.wikipedia.org/wiki/Belgia) nie uznaje jego statusu dyplomatycznego i nie utrzymuje z nim oficjalnych stosunków.
+4 sierpnia 1914 roku, gdy do Brukseli dotarła wiadomość, że wojska niemieckie przekroczyły granicę w [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), belgijski rząd zerwał stosunki dyplomatyczne z [Niemcami](/kraje/niemcy). Minister spraw zagranicznych Julien Davignon poinformował niemieckiego posła Clausa von Below-Saleskego, że od tego dnia [Belgia](/kraje/belgia) nie uznaje jego statusu dyplomatycznego i nie utrzymuje z nim oficjalnych stosunków.
 
 Do noty dołączono paszporty potrzebne do wyjazdu posła i personelu poselstwa. Był to tradycyjny, formalny sposób zerwania stosunków między państwami. Below-Saleske potwierdził odbiór noty i powierzył opiekę nad niemieckim poselstwem w [Brukseli](https://pl.wikipedia.org/wiki/Bruksela) swojemu koledze, posłowi Stanów Zjednoczonych. Jeszcze tej samej nocy opuścił Belgię.
 

@@ -16,7 +16,7 @@ brief:
   - "Odzyskiwanie niepodległości trwało tygodnie, lecz 11 listopada przyjęto za symboliczną datę. Ustawa z 23 kwietnia 1937 roku ustanowiła Narodowe Święto Niepodległości, przywrócone w 1989 roku."
 ---
 
-11 listopada 1918 roku wieczorem w Warszawie [Rada Regencyjna](https://pl.wikipedia.org/wiki/Rada_Regencyjna) przekazała [Józefowi Piłsudskiemu](/postacie/jozef-pilsudski) władzę wojskową i naczelne dowództwo wojsk polskich. Przez cały dzień żołnierze polscy, członkowie [Polskiej Organizacji Wojskowej](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) i zwykli mieszkańcy rozbrajali w mieście niemiecki garnizon, który jeszcze kilka dni wcześniej trzymał w ręku całe Królestwo. Tego samego dnia rano w lesie pod Compiègne Niemcy [podpisały rozejm](/rozejm-w-compiegne) z Ententą. Po czterech latach wojny i ponad stu dwudziestu latach niewoli Polska po raz pierwszy od rozbiorów miała własne wojsko pod jednym dowództwem w stolicy wolnej od obcych żołnierzy. Ten dzień przyjęto później za symboliczną datę odzyskania niepodległości.
+11 listopada 1918 roku wieczorem w Warszawie [Rada Regencyjna](/powolanie-rady-regencyjnej) przekazała [Józefowi Piłsudskiemu](/postacie/jozef-pilsudski) władzę wojskową i naczelne dowództwo wojsk polskich. Przez cały dzień żołnierze polscy, członkowie [Polskiej Organizacji Wojskowej](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) i zwykli mieszkańcy rozbrajali w mieście niemiecki garnizon, który jeszcze kilka dni wcześniej trzymał w ręku całe Królestwo. Tego samego dnia rano w lesie pod Compiègne Niemcy [podpisały rozejm](/rozejm-w-compiegne) z Ententą. Po czterech latach wojny i ponad stu dwudziestu latach niewoli Polska po raz pierwszy od rozbiorów miała własne wojsko pod jednym dowództwem w stolicy wolnej od obcych żołnierzy. Ten dzień przyjęto później za symboliczną datę odzyskania niepodległości.
 
 ## Rozbrajanie Niemców
 
@@ -38,7 +38,7 @@ Postanowili oddać mu wojsko. Odezwa „Rada Regencyjna do Narodu Polskiego” b
 
 > Wobec grożącego niebezpieczeństwa zewnętrznego i wewnętrznego, dla ujednostajnienia wszelkich zarządzeń wojskowych i utrzymania porządku w kraju, Rada Regencyjna przekazuje władzę wojskową i naczelne dowództwo wojsk polskich, jej podległych, Brygadierowi Józefowi Piłsudskiemu.
 
-Druga część odezwy zapowiadała, że Rada Regencyjna złoży zwierzchnią władzę państwową w ręce przyszłego rządu narodowego. Piłsudski zobowiązał się, że temu rządowi odda także władzę wojskową, i potwierdził to swoim podpisem pod dokumentem obok podpisów trzech regentów. Odezwę ogłoszono w „Dzienniku Praw Państwa Polskiego”. Pod władzą Piłsudskiego znalazły się [Polska Siła Zbrojna](https://pl.wikipedia.org/wiki/Polska_Siła_Zbrojna), niewielkie wojsko zorganizowane jeszcze przy Niemcach, i Polska Organizacja Wojskowa, a wkrótce także tysiące żołnierzy wracających z armii zaborców. Dzień później regenci powierzyli mu misję utworzenia rządu narodowego.
+Druga część odezwy zapowiadała, że Rada Regencyjna złoży zwierzchnią władzę państwową w ręce przyszłego rządu narodowego. Piłsudski zobowiązał się, że temu rządowi odda także władzę wojskową, i potwierdził to swoim podpisem pod dokumentem obok podpisów trzech regentów. Odezwę ogłoszono w „Dzienniku Praw Państwa Polskiego”. Pod władzą Piłsudskiego znalazły się [Polska Siła Zbrojna](/tematy/polskie-formacje-wojskowe), niewielkie wojsko zorganizowane jeszcze przy Niemcach, i Polska Organizacja Wojskowa, a wkrótce także tysiące żołnierzy wracających z armii zaborców. Dzień później regenci powierzyli mu misję utworzenia rządu narodowego.
 
 ## Polska na mapie
 
@@ -46,7 +46,7 @@ Na zachodzie tego dnia o jedenastej przed południem umilkły działa. Monarchia
 
 Jędrzej Moraczewski, minister rządu lubelskiego, a wkrótce premier, wspominał radość tych dni słowami: „Niepodobna oddać tego upojenia, tego szału radości, jaki ludność polską w tym momencie ogarnął. Po 120 latach prysły kordony. Nie ma »ich«. Wolność! Niepodległość! Zjednoczenie! Własne państwo!”.
 
-Państwo, które rodziło się w Warszawie, nie miało jednak ani granic, ani uznanego rządu, ani uznania mocarstw. Ententa za reprezentację Polski uważała [Komitet Narodowy Polski](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) w Paryżu. W Krakowie rządziła [Polska Komisja Likwidacyjna](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna), we [Lwowie](/poczatek-walk-o-lwow) Polacy od dziesięciu dni walczyli z Ukraińcami, a Wielkopolska, Pomorze i Śląsk pozostawały w granicach Niemiec. Na wschodzie wciąż stały wojska niemieckiego Ober-Ostu, za którymi zbliżali się bolszewicy. Walka o granice miała trwać jeszcze kilka lat.
+Państwo, które rodziło się w Warszawie, nie miało jednak ani granic, ani uznanego rządu, ani uznania mocarstw. Ententa za reprezentację Polski uważała [Komitet Narodowy Polski](/powstanie-komitetu-narodowego-polskiego) w Paryżu. W Krakowie rządziła [Polska Komisja Likwidacyjna](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna), we [Lwowie](/poczatek-walk-o-lwow) Polacy od dziesięciu dni walczyli z Ukraińcami, a Wielkopolska, Pomorze i Śląsk pozostawały w granicach Niemiec. Na wschodzie wciąż stały wojska niemieckiego Ober-Ostu, za którymi zbliżali się bolszewicy. Walka o granice miała trwać jeszcze kilka lat.
 
 ## Dlaczego 11 listopada
 

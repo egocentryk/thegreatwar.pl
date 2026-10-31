@@ -13,6 +13,7 @@ entered: 1915-10-14
 left: 1918-09-30
 order: 4
 updated: 2026-10-30
+wikiTitles: ["Carstwo_Bułgarii", "Bułgaria"]
 authors: [Natalia]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/bulgaria/"

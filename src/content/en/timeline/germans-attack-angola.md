@@ -2,10 +2,10 @@
 title: Germans attack Angola
 summary: In late October 1914 the Germans in South West Africa resolved to avenge the Naulila incident and struck at Portuguese posts in Angola.
 source: niemcy-atakuja-angole
-sourceHash: 7ffc562a59041d9539cfd63cd0b424c8087a2d9f
+sourceHash: 0e136b82edb057fb07d68db40978195424597606
 ---
 
-A British chronology of the war records under 26 October 1914 a German attack on [Angola](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Zachodnia), a colony of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), which was not yet taking part in the war. The entry covers a series of events from the second half of October. According to Portuguese research, the German authorities in [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) decided on 25 October to respond by force to the deaths of their men at Naulila. The first blow, against the post at Cuangar, came only on 31 October, however.
+A British chronology of the war records under 26 October 1914 a German attack on [Angola](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Zachodnia), a colony of [Portugal](/kraje/portugalia), which was not yet taking part in the war. The entry covers a series of events from the second half of October. According to Portuguese research, the German authorities in [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) decided on 25 October to respond by force to the deaths of their men at Naulila. The first blow, against the post at Cuangar, came only on 31 October, however.
 
 ## Neutral, but not impartial
 

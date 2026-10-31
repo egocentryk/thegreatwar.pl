@@ -13,6 +13,7 @@ entered: 1914-08-23
 left: 1918-11-11
 order: 7
 updated: 2026-10-30
+wikiTitles: ["Cesarstwo_Japonii"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-japan/"

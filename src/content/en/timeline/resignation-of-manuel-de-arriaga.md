@@ -2,10 +2,10 @@
 title: Resignation of Manuel de Arriaga
 summary: On 29 May 1915 Manuel de Arriaga, first elected president of Portugal, resigned before Congress. The May rising's victors saw him as abetting dictatorship.
 source: dymisja-manuela-de-arriagi
-sourceHash: 7ec9a66742143410188e34cbeb498b07ec1b3dde
+sourceHash: 6e4cf3c0d1daaf377680c2d0afe0725ab340aacf
 ---
 
-On 29 May 1915 [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), the first President of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) elected under the constitution of the republic, formally resigned his office at a session of Congress. The resignation ended a process that had lasted two weeks. As early as 16 May, two days after the [overthrow of General Pimenta de Castro's government](/upadek-rzadu-pimenty-de-castro), Arriaga had sent a letter of resignation to the head of the new government. On 26 May he sent Congress an official message announcing his resignation, which is why some sources take that date as the end of his presidency. Congress accepted the resignation on 29 May and at the same session elected [his successor](/teofilo-braga-prezydentem-portugalii). That day Arriaga left the [Belém Palace](https://pl.wikipedia.org/wiki/Pałac_Belém) escorted by the National Republican Guard.
+On 29 May 1915 [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), the first President of [Portugal](/kraje/portugalia) elected under the constitution of the republic, formally resigned his office at a session of Congress. The resignation ended a process that had lasted two weeks. As early as 16 May, two days after the [overthrow of General Pimenta de Castro's government](/upadek-rzadu-pimenty-de-castro), Arriaga had sent a letter of resignation to the head of the new government. On 26 May he sent Congress an official message announcing his resignation, which is why some sources take that date as the end of his presidency. Congress accepted the resignation on 29 May and at the same session elected [his successor](/teofilo-braga-prezydentem-portugalii). That day Arriaga left the [Belém Palace](https://pl.wikipedia.org/wiki/Pałac_Belém) escorted by the National Republican Guard.
 
 ## An old-school republican
 

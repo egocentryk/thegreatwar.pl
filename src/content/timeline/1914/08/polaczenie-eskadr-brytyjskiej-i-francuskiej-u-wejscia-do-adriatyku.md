@@ -19,7 +19,7 @@ Połączenie sił było realizacją konwencji morskiej zawartej 6 sierpnia w Lon
 
 ## Blokada Adriatyku
 
-Adriatyk był morzem, na którym bazowała cała flota [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry), z głównymi portami w Poli i Zatoce Kotorskiej. Jedyne wyjście z niego na Morze Śródziemne prowadziło przez [Cieśninę Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto) między Włochami a Albanią. Kontrolując cieśninę, alianci mogli zamknąć austro-węgierską flotę w Adriatyku i zapewnić bezpieczeństwo transportów wojsk z Afryki Północnej do Francji.
+Adriatyk był morzem, na którym bazowała cała flota [Austro-Węgier](/kraje/austro-wegry), z głównymi portami w Poli i Zatoce Kotorskiej. Jedyne wyjście z niego na Morze Śródziemne prowadziło przez [Cieśninę Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto) między Włochami a Albanią. Kontrolując cieśninę, alianci mogli zamknąć austro-węgierską flotę w Adriatyku i zapewnić bezpieczeństwo transportów wojsk z Afryki Północnej do Francji.
 
 Sprzymierzeni chcieli też pomóc Czarnogórze, której wybrzeże blokowały i ostrzeliwały austro-węgierskie okręty. Już następnego dnia, 16 sierpnia, połączona flota wpłynęła w głąb Adriatyku i zatopiła austro-węgierski krążownik Zenta u wybrzeży czarnogórskich.
 

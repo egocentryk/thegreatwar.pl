@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-25 stycznia 1915 roku prezydent [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) Manuel de Arriaga powierzył kierowanie rządem generałowi Joaquimowi Pimencie de Castro. Zastąpił on Vítora Hugo de Azevedo Coutinho, którego [gabinet złożony z demokratów](/azevedo-coutinho-premierem-portugalii) przetrwał zaledwie sześć tygodni. Źródła podają różne daty objęcia władzy przez generała. Arriaga zwrócił się do niego listownie już 23 stycznia, nominacja nastąpiła 25 stycznia, a pozostali ministrowie objęli swoje teki dopiero 28 stycznia. Do tego czasu Pimenta de Castro sam kierował wszystkimi resortami.
+25 stycznia 1915 roku prezydent [Portugalii](/kraje/portugalia) Manuel de Arriaga powierzył kierowanie rządem generałowi Joaquimowi Pimencie de Castro. Zastąpił on Vítora Hugo de Azevedo Coutinho, którego [gabinet złożony z demokratów](/azevedo-coutinho-premierem-portugalii) przetrwał zaledwie sześć tygodni. Źródła podają różne daty objęcia władzy przez generała. Arriaga zwrócił się do niego listownie już 23 stycznia, nominacja nastąpiła 25 stycznia, a pozostali ministrowie objęli swoje teki dopiero 28 stycznia. Do tego czasu Pimenta de Castro sam kierował wszystkimi resortami.
 
 ## Ruch szabel
 

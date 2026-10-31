@@ -2,10 +2,10 @@
 title: Romania refuses to support Serbia
 summary: According to the British chronology, on 25 January 1915 Romania rejected an Entente idea to help Serbia with Greece. Bucharest would not act without Bulgaria.
 source: rumunia-odmawia-wsparcia-serbii
-sourceHash: 18f3c411ebd9be53c8d101624a3ec37569a2aea6
+sourceHash: 628bbfbdbdecfcf22a76c089359af1cf98f5270c
 ---
 
-The British chronology of the war records under 25 January 1915 that [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) rejected the Entente's suggestion that it come to Serbia's aid together with Greece. This was a direct consequence of the [British offer to Greece](/brytyjska-oferta-dla-grecji) made the day before. The Greek prime minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), considered that without Romania's cooperation his country could not risk war, and King Constantine I made his consent conditional on it. Athens therefore approached Bucharest with a proposal for joint action, and the Entente supported it.
+The British chronology of the war records under 25 January 1915 that [Romania](/kraje/rumunia) rejected the Entente's suggestion that it come to Serbia's aid together with Greece. This was a direct consequence of the [British offer to Greece](/brytyjska-oferta-dla-grecji) made the day before. The Greek prime minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), considered that without Romania's cooperation his country could not risk war, and King Constantine I made his consent conditional on it. Athens therefore approached Bucharest with a proposal for joint action, and the Entente supported it.
 
 The reply of the prime minister, [Ion I. C. Brătianu](/postacie/ion-bratianu), was polite but evasive. A memorandum that Venizelos submitted to the king a few days later shows that Romania did not intend to undertake joint military action with Greece unless Bulgaria joined them. Venizelos even doubted whether Bucharest would be satisfied with an official declaration of neutrality from Sofia, let alone whether such a declaration could be obtained. It was not the first such disappointment. [As early as autumn 1914](/rumunia-odmawia-gwarancji-dla-grecji) Brătianu had refused to guarantee that he would hold back the Bulgarians if Greece helped the Serbs.
 

@@ -2,10 +2,10 @@
 title: Second coalition government in Russia
 summary: On 6 August 1917, after three weeks of bargaining and Kerensky's resignation, a second coalition of socialists and Kadets was formed in Petrograd.
 source: drugi-rzad-koalicyjny-w-rosji
-sourceHash: 31a4e89c7e3f1fde62b00571a7387a5b1cea3bc3
+sourceHash: c2772f993f793051703cf40f1155114483ce6e71
 ---
 
-On 6 August 1917 (24 July by the Julian calendar) the second coalition government was constituted in Russia. [Alexander Kerensky](/postacie/aleksander-kierenski) remained at the head of the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) and also kept the Ministry of War and the Navy, and the [Kadets](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna) returned to the cabinet after three weeks' absence. The socialists had a slight numerical majority in it, but they joined it as private individuals, not as representatives of the soviets. This is the date given by Russian sources and most accounts. Some historians, among them Orlando Figes, give 25 July Old Style, that is 7 August.
+On 6 August 1917 (24 July by the Julian calendar) the second coalition government was constituted in Russia. [Alexander Kerensky](/postacie/aleksander-kierenski) remained at the head of the [Provisional Government](/powstanie-rzadu-tymczasowego) and also kept the Ministry of War and the Navy, and the [Kadets](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna) returned to the cabinet after three weeks' absence. The socialists had a slight numerical majority in it, but they joined it as private individuals, not as representatives of the soviets. This is the date given by Russian sources and most accounts. Some historians, among them Orlando Figes, give 25 July Old Style, that is 7 August.
 
 ## Three weeks of bargaining
 

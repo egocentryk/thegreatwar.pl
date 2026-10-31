@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 25 sierpnia 1914 roku koniec pierwszej austro-węgierskiej inwazji na [Serbię](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Serbowie odzyskali [Šabac](https://pl.wikipedia.org/wiki/Šabac), a ostatnie oddziały wroga wycofały się za graniczne rzeki: [Drinę](https://pl.wikipedia.org/wiki/Drina) i [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)). Większość nowszych opracowań podaje, że Serbowie weszli do Šabacu już 24 sierpnia, po tym, jak Austriacy opuścili miasto w nocy. Różnica może wynikać z tego, że chronologia odnotowuje dzień, w którym ostatnie oddziały austro-węgierskie opuściły już serbskie terytorium.
+Brytyjska chronologia wojny notuje pod datą 25 sierpnia 1914 roku koniec pierwszej austro-węgierskiej inwazji na [Serbię](/kraje/serbia). Serbowie odzyskali [Šabac](https://pl.wikipedia.org/wiki/Šabac), a ostatnie oddziały wroga wycofały się za graniczne rzeki: [Drinę](https://pl.wikipedia.org/wiki/Drina) i [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)). Większość nowszych opracowań podaje, że Serbowie weszli do Šabacu już 24 sierpnia, po tym, jak Austriacy opuścili miasto w nocy. Różnica może wynikać z tego, że chronologia odnotowuje dzień, w którym ostatnie oddziały austro-węgierskie opuściły już serbskie terytorium.
 
 ## Dwanaście dni wojny
 

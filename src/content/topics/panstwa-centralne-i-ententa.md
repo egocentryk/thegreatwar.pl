@@ -10,6 +10,7 @@ brief:
   - "Rosja i Rumunia wyszły z wojny na przełomie 1917 i 1918 roku, a jesienią 1918 roku rozejmy podpisały kolejno Bułgaria, Turcja, Austro-Węgry i Niemcy."
 order: 9
 updated: 2026-10-29
+wikiTitles: ["Ententa", "Państwa_centralne"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://pl.wikipedia.org/wiki/Ententa"

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 czerwca 1916 roku, czyli 8 czerwca według kalendarza juliańskiego, którym posługiwała się Grecja, posłowie Francji, Wielkiej Brytanii i Rosji wręczyli greckiemu rządowi wspólną notę. Występowali w niej jako przedstawiciele mocarstw opiekuńczych, które w latach 1827–1832 pomogły Grekom wywalczyć niepodległość i zagwarantowały byt [Królestwa Grecji](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)). Zażądali natychmiastowej demobilizacji armii, zastąpienia rządu gabinetem bez barw politycznych, rozwiązania parlamentu i nowych wyborów oraz usunięcia niektórych funkcjonariuszy policji. Nie dopuszczali ani dyskusji, ani zwłoki. Brytyjska chronologia wojny notuje, że żądania przyjęto. Choć nota nie wyznaczała terminu, w praktyce była ultimatum: za plecami dyplomatów stała gotowa do akcji flota.
+21 czerwca 1916 roku, czyli 8 czerwca według kalendarza juliańskiego, którym posługiwała się Grecja, posłowie Francji, Wielkiej Brytanii i Rosji wręczyli greckiemu rządowi wspólną notę. Występowali w niej jako przedstawiciele mocarstw opiekuńczych, które w latach 1827–1832 pomogły Grekom wywalczyć niepodległość i zagwarantowały byt [Królestwa Grecji](/kraje/grecja). Zażądali natychmiastowej demobilizacji armii, zastąpienia rządu gabinetem bez barw politycznych, rozwiązania parlamentu i nowych wyborów oraz usunięcia niektórych funkcjonariuszy policji. Nie dopuszczali ani dyskusji, ani zwłoki. Brytyjska chronologia wojny notuje, że żądania przyjęto. Choć nota nie wyznaczała terminu, w praktyce była ultimatum: za plecami dyplomatów stała gotowa do akcji flota.
 
 ## Flota w zatoce Milos
 

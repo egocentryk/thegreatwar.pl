@@ -2,10 +2,10 @@
 title: Antonino di San Giuliano dies
 summary: On 16 October 1914 the Italian Foreign Minister Antonino di San Giuliano, the architect of Italy's policy of neutrality, died in Rome.
 source: umiera-antonino-di-san-giuliano
-sourceHash: 296a00ec2adc245a8c2233aae88fd89842c5022a
+sourceHash: 7a8d4702fda9b21494e16885cb62870a7edfe3a1
 ---
 
-On 16 October 1914 the Marquis Antonino Paternò Castello di San Giuliano, Foreign Minister of the [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)), died in Rome. He had long suffered from [gout](https://pl.wikipedia.org/wiki/Dna_moczanowa), and in October his condition deteriorated sharply. He died in the Palazzo della Consulta, the seat of his ministry, where he lived. He was 61.
+On 16 October 1914 the Marquis Antonino Paternò Castello di San Giuliano, Foreign Minister of the [Kingdom of Italy](/kraje/wlochy), died in Rome. He had long suffered from [gout](https://pl.wikipedia.org/wiki/Dna_moczanowa), and in October his condition deteriorated sharply. He died in the Palazzo della Consulta, the seat of his ministry, where he lived. He was 61.
 
 ## A diplomat from Sicily
 

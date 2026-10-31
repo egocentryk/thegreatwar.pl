@@ -8,7 +8,7 @@ brief:
   - "From the spring of 1915 the Ottoman authorities deported and murdered Armenians; between about 600,000 and over a million of them died."
   - "On 30 October 1918 the empire signed the Armistice of Mudros, and fighting ended at noon on 31 October."
 source: imperium-osmanskie
-sourceHash: 2f43bd8d21c89e444b0d6428b73848d3b0685afe
+sourceHash: 290154f9fd6695ef7401ceeaba93a57c260f0e97
 ---
 
 The Ottoman Empire entered the war on 29 October 1914, when its fleet, under a German admiral and without a declaration of war, [shelled Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea. The Young Turks who ruled the state tied it to Germany, hoping to regain lost lands. The Turks fought in the Caucasus, at the Dardanelles and in Mesopotamia, and during the war the authorities destroyed the Armenians. On 30 October 1918 the empire signed the [Armistice of Mudros](/rozejm-w-mudros), and fighting ended at noon on 31 October.

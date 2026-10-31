@@ -2,7 +2,7 @@
 title: Germany mobilises and declares war on Russia
 summary: On 1 August 1914 Germany ordered general mobilisation and in the evening declared war on Russia. The war ceased to be a Balkan conflict.
 source: niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji
-sourceHash: 1426feefe3948b419b1e0da71e2a0b1abe93fb90
+sourceHash: 7a32f87d1e971336146e6b9d342943bb74714aca
 brief:
   - "On 1 August 1914 Kaiser Wilhelm II ordered general mobilisation, and in the evening Germany declared war on Russia. For the first time one great power had declared war on another."
   - "At noon the German ultimatum demanding that Russia halt its mobilisation expired. Ambassador Friedrich von Pourtalès asked Sazonov three times whether Russia would stop, then handed over the note."
@@ -10,11 +10,11 @@ brief:
   - "Formally Germany began the war, which allowed Italy to declare neutrality. Following the Schlieffen Plan, Germany declared war on France on 3 August and entered Belgium on 4 August."
 ---
 
-On 1 August 1914 [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) took two steps that turned a war in the Balkans into a war of the great powers. In the afternoon Kaiser [Wilhelm II](/postacie/wilhelm-ii) ordered general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja), and in the evening the German ambassador in St Petersburg handed the Russian government a [declaration of war](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). For the first time in this conflict one great power had declared war on another.
+On 1 August 1914 [Germany](/kraje/niemcy) took two steps that turned a war in the Balkans into a war of the great powers. In the afternoon Kaiser [Wilhelm II](/postacie/wilhelm-ii) ordered general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja), and in the evening the German ambassador in St Petersburg handed the Russian government a [declaration of war](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). For the first time in this conflict one great power had declared war on another.
 
 ## Mobilisation
 
-At noon on 1 August the German ultimatum demanding that [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) halt its mobilisation expired. St Petersburg did not reply. At 5 p.m. in [Berlin](https://pl.wikipedia.org/wiki/Berlin) the Kaiser signed the order mobilising the entire army. According to eyewitnesses, he did so at a table made from the timbers of Admiral Nelson's ship, HMS Victory, and those present had tears in their eyes. The first day of mobilisation was 2 August. In the streets of Berlin crowds greeted the news with enthusiasm, singing patriotic songs.
+At noon on 1 August the German ultimatum demanding that [Russia](/kraje/rosja) halt its mobilisation expired. St Petersburg did not reply. At 5 p.m. in [Berlin](https://pl.wikipedia.org/wiki/Berlin) the Kaiser signed the order mobilising the entire army. According to eyewitnesses, he did so at a table made from the timbers of Admiral Nelson's ship, HMS Victory, and those present had tears in their eyes. The first day of mobilisation was 2 August. In the streets of Berlin crowds greeted the news with enthusiasm, singing patriotic songs.
 
 ## The declaration of war in St Petersburg
 
@@ -30,6 +30,6 @@ Meanwhile German soldiers had already entered [Troisvierges](https://pl.wikipedi
 
 ## A war on two fronts
 
-Although Germany had declared war on Russia, its [war plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) assumed that the main blow would fall first on France, before Russia could fully mobilise its forces. In the east, meanwhile, a relatively small army was to defend East Prussia. That is why only two days later, on 3 August, Germany declared war on [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska), and on 4 August it entered Belgium, which settled Great Britain's entry into the war.
+Although Germany had declared war on Russia, its [war plan](https://pl.wikipedia.org/wiki/Plan_Schlieffena) assumed that the main blow would fall first on France, before Russia could fully mobilise its forces. In the east, meanwhile, a relatively small army was to defend East Prussia. That is why only two days later, on 3 August, Germany declared war on [France](/kraje/francja), and on 4 August it entered Belgium, which settled Great Britain's entry into the war.
 
 1 August 1914 was therefore the day on which a local conflict definitively became a European war. From that moment the mobilisation machinery of the great powers could no longer be stopped.

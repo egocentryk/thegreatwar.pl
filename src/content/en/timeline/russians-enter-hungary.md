@@ -2,7 +2,7 @@
 title: Russians enter Hungary
 summary: On 24 September 1914 Russian troops crossed the Carpathian passes and entered northern Hungary. At the beginning of October they were driven back.
 source: rosjanie-wkraczaja-na-wegry
-sourceHash: 0bd974d6f2154d6ae2eecfdf3553e2f51ddfe934
+sourceHash: da77b370646bdf163d43cf6249901e6aea7a347d
 ---
 
 On 24 September 1914 Russian troops for the first time crossed the crest of the [Carpathians](https://pl.wikipedia.org/wiki/Karpaty) and entered the territory of the [Kingdom of Hungary](https://pl.wikipedia.org/wiki/Królestwo_Węgier). They struck through the passes on the stretch from the [Uzsok Pass](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) to the [Tatar Pass](https://pl.wikipedia.org/wiki/Przełęcz_Jabłonicka), into lands that today belong mainly to Ukraine's [Transcarpathia](https://pl.wikipedia.org/wiki/Zakarpacie). It was the first of several Russian incursions into Hungary in 1914–1915.
@@ -17,6 +17,6 @@ The news of Russians on the Hungarian side of the Carpathians caused panic. Thou
 
 ## The Russians driven back
 
-The Russian units that had crossed the mountains were, however, too weak to venture far from the passes. The Austro-Hungarian command sent reinforcements into the Carpathians, including Hungarian Honvéd divisions. At the end of September the advance was halted, and at the beginning of October the defenders went over to the counter-attack. The Uzsok Pass was retaken by 5 October, and in the following weeks the Russians also withdrew from the other passes. Units of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), the future II Brigade, moved there at the end of September, also took part in the fighting in the eastern Carpathians.
+The Russian units that had crossed the mountains were, however, too weak to venture far from the passes. The Austro-Hungarian command sent reinforcements into the Carpathians, including Hungarian Honvéd divisions. At the end of September the advance was halted, and at the beginning of October the defenders went over to the counter-attack. The Uzsok Pass was retaken by 5 October, and in the following weeks the Russians also withdrew from the other passes. Units of the [Polish Legions](/tematy/polskie-formacje-wojskowe), the future II Brigade, moved there at the end of September, also took part in the fighting in the eastern Carpathians.
 
 The threat returned as early as November, when the Russians again crossed the Carpathians, this time also through the [Łupków Pass](https://pl.wikipedia.org/wiki/Przełęcz_Łupkowska), and at the end of November took [Humenné](https://pl.wikipedia.org/wiki/Humenné) in today's Slovakia, from which they were soon driven out. The fighting for the Carpathian passes then went on throughout the winter of 1914/1915.

@@ -2,10 +2,10 @@
 title: Bernardino Machado takes office as president
 summary: On 5 October 1915, the fifth anniversary of the republic's proclamation, Bernardino Machado was sworn in as President of Portugal, succeeding Teófilo Braga.
 source: bernardino-machado-obejmuje-urzad-prezydenta
-sourceHash: 0ea1d92d06935fc810c91a4633ec8e43f04d1cfe
+sourceHash: a0072919f9ca52e8ac5ac7e97912898c678ee1a5
 ---
 
-On 5 October 1915 [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) was sworn in as President of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). The day was not chosen by chance: it was the fifth anniversary of the [revolution](https://pl.wikipedia.org/wiki/Rewolucja_portugalska_(1910)) that had overthrown the monarchy and proclaimed the republic. Congress, that is the two chambers of parliament sitting together, had [elected Machado on 6 August](/bernardino-machado-prezydentem-portugalii) to a full four-year term. On this day [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga), who [in May](/teofilo-braga-prezydentem-portugalii) had been meant only to complete the term of the outgoing Manuel de Arriaga, ceased to hold office. The British chronology of the war records the new president as "Machado Guimarães". This is not a mistake but his full surname: Bernardino Luís Machado Guimarães.
+On 5 October 1915 [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) was sworn in as President of [Portugal](/kraje/portugalia). The day was not chosen by chance: it was the fifth anniversary of the [revolution](https://pl.wikipedia.org/wiki/Rewolucja_portugalska_(1910)) that had overthrown the monarchy and proclaimed the republic. Congress, that is the two chambers of parliament sitting together, had [elected Machado on 6 August](/bernardino-machado-prezydentem-portugalii) to a full four-year term. On this day [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga), who [in May](/teofilo-braga-prezydentem-portugalii) had been meant only to complete the term of the outgoing Manuel de Arriaga, ceased to hold office. The British chronology of the war records the new president as "Machado Guimarães". This is not a mistake but his full surname: Bernardino Luís Machado Guimarães.
 
 ## The ceremony at São Bento
 

@@ -2,7 +2,7 @@
 title: Mutiny in Singapore
 summary: On 15 February 1915 part of the Indian 5th Light Infantry mutinied in Singapore. More than 30 soldiers and civilians were killed before it was put down.
 source: bunt-w-singapurze
-sourceHash: 20f9e09f60ff7a739618c6a68a8fc3a75dc52433
+sourceHash: 01383e0b9ac5051ac3b83c1fd17e5e30c9c142ec
 ---
 
 On the afternoon of 15 February 1915, at Alexandra Barracks in [Singapore](https://pl.wikipedia.org/wiki/Singapur), roughly half the soldiers of the 5th Light Infantry of the [British Indian Army](https://pl.wikipedia.org/wiki/British_Indian_Army) mutinied. The mutineers killed several officers, attacked the camp of interned Germans and killed Europeans and local residents they met in the streets and on the roads. To put down the mutiny the British had to call for help from sailors of French, Russian and Japanese warships. According to various counts, between 36 and more than 40 soldiers and civilians were killed.
@@ -11,7 +11,7 @@ On the afternoon of 15 February 1915, at Alexandra Barracks in [Singapore](https
 
 Singapore was the capital of the British colony of the [Straits Settlements](https://pl.wikipedia.org/wiki/Straits_Settlements) and one of the most important ports of the Empire. In the autumn of 1914 the British battalion of the King's Own Yorkshire Light Infantry stationed there sailed for France. It was replaced by the 5th Light Infantry, brought over from India. The regiment numbered about 800 [sepoys](https://pl.wikipedia.org/wiki/Sipajowie) and consisted entirely of Muslims, mainly Ranghars (Muslims of Rajput descent) and Pathans. The regiment was riven by internal quarrels, and its commanding officer, Lieutenant-Colonel E. V. Martin, had no authority either among the men or among the officers.
 
-From the moment the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) entered the war and [the Sultan proclaimed jihad](/sultan-oglasza-dzihad) against the Entente, unrest grew among Muslim soldiers in the Indian Army. In Singapore it was stoked by local Muslims, above all a Gujarati merchant, Kassim Mansur, who entertained sepoys at his house, and the imam Nur Alam Shah, who had links with the Indian independence movement. Rumours circulated among the soldiers that the regiment would be sent to fight the Turks, their fellow Muslims. On 27 January 1915 it was announced that the regiment would be transferred to [Hong Kong](https://pl.wikipedia.org/wiki/Hongkong). Many sepoys, however, did not believe in this destination.
+From the moment the [Ottoman Empire](/kraje/imperium-osmanskie) entered the war and [the Sultan proclaimed jihad](/sultan-oglasza-dzihad) against the Entente, unrest grew among Muslim soldiers in the Indian Army. In Singapore it was stoked by local Muslims, above all a Gujarati merchant, Kassim Mansur, who entertained sepoys at his house, and the imam Nur Alam Shah, who had links with the Indian independence movement. Rumours circulated among the soldiers that the regiment would be sent to fight the Turks, their fellow Muslims. On 27 January 1915 it was announced that the regiment would be transferred to [Hong Kong](https://pl.wikipedia.org/wiki/Hongkong). Many sepoys, however, did not believe in this destination.
 
 ## The outbreak
 

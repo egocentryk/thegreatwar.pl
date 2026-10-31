@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 25 września 1915 roku początek mobilizacji armii [bułgarskiej](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). Według bułgarskich źródeł pierwszym dniem mobilizacji był 24 września, czyli 11 września według kalendarza juliańskiego, wyznaczony w [dekrecie podpisanym dwa dni wcześniej](/bulgaria-oglasza-powszechna-mobilizacje). W ostatnich dniach września do koszar w całym kraju ściągały setki tysięcy rezerwistów. Mobilizacja trwała 17–18 dni. Przez ten czas od Serbii oddzielała Bułgarię tylko straż graniczna.
+Brytyjska chronologia wojny notuje pod 25 września 1915 roku początek mobilizacji armii [bułgarskiej](/kraje/bulgaria). Według bułgarskich źródeł pierwszym dniem mobilizacji był 24 września, czyli 11 września według kalendarza juliańskiego, wyznaczony w [dekrecie podpisanym dwa dni wcześniej](/bulgaria-oglasza-powszechna-mobilizacje). W ostatnich dniach września do koszar w całym kraju ściągały setki tysięcy rezerwistów. Mobilizacja trwała 17–18 dni. Przez ten czas od Serbii oddzielała Bułgarię tylko straż graniczna.
 
 Rząd [Wasiła Radosławowa](/postacie/wasil-radoslawow) wciąż zapewniał sąsiadów o pokojowych zamiarach. W ostatnich dniach września premier oświadczał, że Bułgaria nie zamierza atakować Grecji, która [23 września sama ogłosiła mobilizację](/grecja-oglasza-mobilizacje). Wcześniej zapewniał, że mobilizacja nie jest wymierzona w Serbię. Większego znaczenia te słowa już nie miały, bo rozmieszczenie wojsk mówiło co innego.
 

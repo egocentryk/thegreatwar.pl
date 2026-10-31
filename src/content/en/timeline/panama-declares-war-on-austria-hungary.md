@@ -2,7 +2,7 @@
 title: Panama declares war on Austria-Hungary
 summary: On 10 December 1917 Panama's National Assembly unanimously declared a state of war with Austria-Hungary, three days after the US Congress did so.
 source: panama-wypowiada-wojne-austro-wegrom
-sourceHash: 337644c313700f12a4f16586412adf3707c1d2dc
+sourceHash: 341112f4403d856ef7c72bb9ff7fd7605a3d7f4c
 brief:
   - "On 10 December 1917 the National Assembly of Panama unanimously declared a state of war with Austria-Hungary, only three days after the United States had done so."
   - "The American minister William Jennings Price unofficially suggested the step, because the Assembly was ending its session and only it could declare war. Lansing later asked why he had acted without instructions."
@@ -11,7 +11,7 @@ brief:
   - "Belligerent status gave Panama a place at the victors' table. It signed the Treaty of Versailles and the Treaty of Saint-Germain-en-Laye with Austria and became a founding member of the League of Nations."
 ---
 
-On the afternoon of Monday 10 December 1917 the National Assembly of [Panama](https://pl.wikipedia.org/wiki/Panama) unanimously adopted a resolution declaring that the Republic of Panama was "from today, 10 December 1917" in a state of war with the [Austro-Hungarian](https://pl.wikipedia.org/wiki/Austro-Węgry) Empire. This came only three days after [the United States declared war on Austria-Hungary](/usa-wypowiadaja-wojne-austro-wegrom). The small republic, which in April had been one of the first in Latin America to [stand beside Washington against Germany](/kuba-i-panama-wypowiadaja-wojne-niemcom), once again followed its powerful protector, this time as the first state in the Americas after the United States itself.
+On the afternoon of Monday 10 December 1917 the National Assembly of [Panama](https://pl.wikipedia.org/wiki/Panama) unanimously adopted a resolution declaring that the Republic of Panama was "from today, 10 December 1917" in a state of war with the [Austro-Hungarian](/kraje/austro-wegry) Empire. This came only three days after [the United States declared war on Austria-Hungary](/usa-wypowiadaja-wojne-austro-wegrom). The small republic, which in April had been one of the first in Latin America to [stand beside Washington against Germany](/kuba-i-panama-wypowiadaja-wojne-niemcom), once again followed its powerful protector, this time as the first state in the Americas after the United States itself.
 
 ## A telegram from Washington
 
@@ -35,6 +35,6 @@ Panama could give no more. It had no army, which had been disbanded in 1904, and
 
 ## Significance
 
-The declaration of war on Austria-Hungary was above all symbolic. The year 1917 brought several such declarations: in July [Siam](https://pl.wikipedia.org/wiki/Tajlandia) declared war on Austria-Hungary, in August China, and six days after Panama [Cuba](https://pl.wikipedia.org/wiki/Kuba) did so. In Latin America only [Nicaragua](https://pl.wikipedia.org/wiki/Nikaragua) later joined this group, in May 1918. Panama, like the United States, did not declare war on the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) or [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii).
+The declaration of war on Austria-Hungary was above all symbolic. The year 1917 brought several such declarations: in July [Siam](https://pl.wikipedia.org/wiki/Tajlandia) declared war on Austria-Hungary, in August China, and six days after Panama [Cuba](https://pl.wikipedia.org/wiki/Kuba) did so. In Latin America only [Nicaragua](https://pl.wikipedia.org/wiki/Nikaragua) later joined this group, in May 1918. Panama, like the United States, did not declare war on the [Ottoman Empire](/kraje/imperium-osmanskie) or [Bulgaria](/kraje/bulgaria).
 
 President Valdés did not live to see the end of the war; he died in office on 3 June 1918. Belligerent status nevertheless gave Panama a place at the victors' table. At the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) it was represented by its minister in Spain, Antonio Burgos. Panama signed the [Treaty of Versailles](https://pl.wikipedia.org/wiki/Traktat_wersalski) with Germany and, in September 1919, the [Treaty of Saint-Germain-en-Laye](https://pl.wikipedia.org/wiki/Traktat_w_Saint-Germain-en-Laye_(1919)) with Austria, which formally ended the war declared on 10 December 1917. It also became one of the founding members of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów).

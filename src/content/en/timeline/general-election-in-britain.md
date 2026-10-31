@@ -2,10 +2,10 @@
 title: General election in Britain
 summary: On 14 December 1918 women voted for the first time in Britain. Lloyd George's coalition won a landslide, and Ireland backed Sinn Féin.
 source: wybory-w-wielkiej-brytanii
-sourceHash: 431f46db2be6eab0512b15db67a9bbed61d22824
+sourceHash: f39233542845f930a7e2e94226e38eed819cdb43
 ---
 
-On Saturday 14 December 1918, a little over a month after the [Armistice of Compiègne](/rozejm-w-compiegne), elections to the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) were held throughout the [United Kingdom](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii). It was the first general election since December 1910. The Parliament elected then for five years had extended its term during the war by special acts. Prime Minister [David Lloyd George](/postacie/david-lloyd-george) had persuaded the King to call an election even before the armistice, and on 25 November Parliament was dissolved. Everyone voted on the same day, but the votes were not counted until 28 December, so that the ballots of soldiers serving abroad could arrive. The result changed the British political scene for decades to come.
+On Saturday 14 December 1918, a little over a month after the [Armistice of Compiègne](/rozejm-w-compiegne), elections to the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) were held throughout the [United Kingdom](/kraje/wielka-brytania). It was the first general election since December 1910. The Parliament elected then for five years had extended its term during the war by special acts. Prime Minister [David Lloyd George](/postacie/david-lloyd-george) had persuaded the King to call an election even before the armistice, and on 25 November Parliament was dissolved. Everyone voted on the same day, but the votes were not counted until 28 December, so that the ballots of soldiers serving abroad could arrive. The result changed the British political scene for decades to come.
 
 ## A new franchise
 

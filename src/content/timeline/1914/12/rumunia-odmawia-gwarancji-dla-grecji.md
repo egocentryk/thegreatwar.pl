@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 6 grudnia 1914 roku, że rząd [Rumunii](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) odmówił zagwarantowania bezpieczeństwa Grecji. Była to odpowiedź na [zabiegi Ententy](/demarche-ententy-w-atenach-sofii-i-bukareszcie), która szukała na Bałkanach pomocy dla walczącej Serbii. Chronologia mówi o gwarancji „przeciwko atakowi niemieckiemu”, ale z innych źródeł wynika, że chodziło o zagrożenie znacznie bliższe, czyli Bułgarię.
+Brytyjska chronologia wojny odnotowuje pod 6 grudnia 1914 roku, że rząd [Rumunii](/kraje/rumunia) odmówił zagwarantowania bezpieczeństwa Grecji. Była to odpowiedź na [zabiegi Ententy](/demarche-ententy-w-atenach-sofii-i-bukareszcie), która szukała na Bałkanach pomocy dla walczącej Serbii. Chronologia mówi o gwarancji „przeciwko atakowi niemieckiemu”, ale z innych źródeł wynika, że chodziło o zagrożenie znacznie bliższe, czyli Bułgarię.
 
 ## Grecja w potrzasku
 

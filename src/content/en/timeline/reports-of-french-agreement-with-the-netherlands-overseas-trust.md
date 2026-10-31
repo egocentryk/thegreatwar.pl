@@ -2,10 +2,10 @@
 title: Reports of a French agreement with the Netherlands Overseas Trust
 summary: The British chronology states that on 7 December 1915 France concluded an agreement with the Netherlands Overseas Trust. Other sources do not confirm this.
 source: doniesienia-o-porozumieniu-francji-z-holenderskim-trustem-zamorskim
-sourceHash: abfc2424b722790d74b5c86148504e3d6888e8d1
+sourceHash: 8ef7a4b50e1886a9dfe11a5ca09b720b474f06d2
 ---
 
-The British chronology of the war records under 7 December 1915 the conclusion of an agreement between the government of [France](https://pl.wikipedia.org/wiki/Francja) and the [Netherlands Overseas Trust](/powstaje-holenderski-trust-zamorski) (Nederlandsche Overzee Trustmaatschappij, NOT). In the other available works and documents, however, it has not been possible to confirm that such an agreement was signed on that day, or to learn its content. It is not mentioned even in the chronological table of Archibald Bell's British official history of the blockade. The Dutch historian Charlotte van Manen, author of a multi-volume history of the trust published in 1935, wrote only that after its first agreement with the British commercial attaché the NOT concluded similar agreements with France and Italy, and later also with Russia. What is certain, on the other hand, is what Paris's cooperation with the trust looked like in 1915.
+The British chronology of the war records under 7 December 1915 the conclusion of an agreement between the government of [France](/kraje/francja) and the [Netherlands Overseas Trust](/powstaje-holenderski-trust-zamorski) (Nederlandsche Overzee Trustmaatschappij, NOT). In the other available works and documents, however, it has not been possible to confirm that such an agreement was signed on that day, or to learn its content. It is not mentioned even in the chronological table of Archibald Bell's British official history of the blockade. The Dutch historian Charlotte van Manen, author of a multi-volume history of the trust published in 1935, wrote only that after its first agreement with the British commercial attaché the NOT concluded similar agreements with France and Italy, and later also with Russia. What is certain, on the other hand, is what Paris's cooperation with the trust looked like in 1915.
 
 ## French rules
 

@@ -15,7 +15,7 @@ draft: false
 
 ## Koniec fikcji
 
-Formalnie Egipt od 1517 roku należał do [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). W XIX wieku rządzący nim chedywowie z dynastii Muhammada Alego uzyskali szeroką autonomię, ale wciąż uznawali zwierzchnictwo sułtana i płacili mu trybut. Od 1882 roku kraj okupowali Brytyjczycy, a rzeczywistą władzę sprawował brytyjski agent i konsul generalny w Kairze. Ten układ nazywano „zakamuflowanym protektoratem”: Londyn rządził, nie biorąc za Egipt formalnej odpowiedzialności.
+Formalnie Egipt od 1517 roku należał do [Imperium Osmańskiego](/kraje/imperium-osmanskie). W XIX wieku rządzący nim chedywowie z dynastii Muhammada Alego uzyskali szeroką autonomię, ale wciąż uznawali zwierzchnictwo sułtana i płacili mu trybut. Od 1882 roku kraj okupowali Brytyjczycy, a rzeczywistą władzę sprawował brytyjski agent i konsul generalny w Kairze. Ten układ nazywano „zakamuflowanym protektoratem”: Londyn rządził, nie biorąc za Egipt formalnej odpowiedzialności.
 
 Wojna z Turcją sprawiła, że takie rozwiązanie stało się nie do utrzymania. Na początku listopada generał John Maxwell [wprowadził w Egipcie stan wojenny](/stan-wojenny-w-egipcie), a kilka dni później [Wielka Brytania wypowiedziała wojnę Imperium Osmańskiemu](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji). Egipt, przez który płynęły transporty wojsk z Indii i Australii, wciąż był jednak prawnie częścią państwa wroga. Jego władca, chedyw [Abbas II Hilmi](https://pl.wikipedia.org/wiki/Abbas_II_Hilmi), od lata przebywał w Konstantynopolu i otwarcie sprzyjał Turkom.
 

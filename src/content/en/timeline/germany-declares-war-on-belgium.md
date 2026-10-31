@@ -2,7 +2,7 @@
 title: Germany declares war on Belgium
 summary: On 4 August 1914 Germany announced to Belgium that it would use force and entered its territory. The chancellor admitted he was breaking international law.
 source: niemcy-wypowiadaja-wojne-belgii
-sourceHash: 217a5b0475609e7a8747c16cd2cff5c5d5730563
+sourceHash: 5e608ea3ed9d1c567c4e666c05e0d97e926f4992
 brief:
   - "At 6 a.m. on 4 August 1914 the German minister in Brussels handed over a note announcing the use of force. It was not called a declaration of war, but two hours later German troops crossed the frontier."
   - "Neutral Belgium lay on the route of the main blow against France laid down in the Schlieffen Plan. Germany was itself a guarantor of its neutrality under the Treaty of London of 1839."
@@ -10,7 +10,7 @@ brief:
   - "The attack settled Great Britain's entry into the war that same evening and swayed world opinion. For Belgium more than four years of occupation were beginning."
 ---
 
-At 6 a.m. on 4 August 1914 the German minister in Brussels handed the Belgian foreign minister a short note. In it [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) declared that, since [Belgium](https://pl.wikipedia.org/wiki/Belgia) had rejected its "well-intentioned proposals", it was compelled to carry out, "if necessary by force of arms", the measures it had announced earlier. The note did not call this a declaration of war outright, but in practice that is what it was. Two hours later German troops crossed the frontier.
+At 6 a.m. on 4 August 1914 the German minister in Brussels handed the Belgian foreign minister a short note. In it [Germany](/kraje/niemcy) declared that, since [Belgium](/kraje/belgia) had rejected its "well-intentioned proposals", it was compelled to carry out, "if necessary by force of arms", the measures it had announced earlier. The note did not call this a declaration of war outright, but in practice that is what it was. Two hours later German troops crossed the frontier.
 
 ## War on a neutral state
 

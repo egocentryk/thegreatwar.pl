@@ -2,10 +2,10 @@
 title: Admiral Souchon takes command of the Turkish fleet
 summary: In September 1914 the German admiral Wilhelm Souchon took command of the Ottoman fleet. A few weeks later he drew Turkey into the war.
 source: souchon-dowodca-floty-tureckiej
-sourceHash: 56736e136732553ca989d890c8c8330875ed3d67
+sourceHash: 9d92c5148c8720a7df9d6f51a71d6f8fa8f43cbc
 ---
 
-A British chronology of the war records under 17 September 1914 that Rear-Admiral [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon) of the German [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) took command of the Turkish fleet. The takeover of the navy of the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) did not, however, happen in a single day. According to Turkish lists Souchon became commander of the fleet as early as 3 September, and on 23 or 24 September, depending on the source, he received the rank of Ottoman vice-admiral and formally took charge of the whole navy. The date in the British chronology coincides with the departure from Turkey of the British naval mission, which until August had directed the Ottoman fleet.
+A British chronology of the war records under 17 September 1914 that Rear-Admiral [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon) of the German [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) took command of the Turkish fleet. The takeover of the navy of the [Ottoman Empire](/kraje/imperium-osmanskie) did not, however, happen in a single day. According to Turkish lists Souchon became commander of the fleet as early as 3 September, and on 23 or 24 September, depending on the source, he received the rank of Ottoman vice-admiral and formally took charge of the whole navy. The date in the British chronology coincides with the departure from Turkey of the British naval mission, which until August had directed the Ottoman fleet.
 
 ## From fugitive to commander
 

@@ -166,6 +166,9 @@ const countries = defineCollection({
     left: z.coerce.date(),
     // Other row labels for it in data/war-numbers.json ("Imperium Brytyjskie").
     numbersAs: z.array(z.string()).default([]),
+    // pl.wikipedia titles (with underscores) whose links this page replaces
+    // (scripts/wiki-to-internal.py).
+    wikiTitles: z.array(z.string()).default([]),
     // Position on /kraje within its side (lower first).
     order: z.number().int(),
     updated: z.coerce.date(),
@@ -198,6 +201,9 @@ const topics = defineCollection({
     updated: z.coerce.date(),
     // Related reading series (data/series.ts slug).
     series: z.string().optional(),
+    // pl.wikipedia titles (with underscores) whose links this page replaces
+    // (scripts/wiki-to-internal.py).
+    wikiTitles: z.array(z.string()).default([]),
     authors: z.array(z.string()).min(1),
     sources: z.array(z.url()).default([]),
     draft: z.boolean().default(false),

@@ -2,12 +2,12 @@
 title: Ottoman Empire orders mobilisation
 summary: Around the turn of July and August 1914 the Ottoman government ordered a mobilisation that began on 3 August. It also secretly allied with Germany.
 source: imperium-osmanskie-zarzadza-mobilizacje
-sourceHash: 54ec881e3c25043fd5c024c90922080d816355a7
+sourceHash: 5a1ecb2db7d2c43f4dcb0ec35b19e11da746848c
 ---
 
-As the great powers mobilised, the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) also began preparing for war. Chronicles of the time state that on 31 July 1914 the government in Constantinople ordered a [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) that was to begin on 3 August. According to other sources, the order was formally issued on 1 August and announced publicly a day later. What is certain is that mobilisation got under way on 3 August.
+As the great powers mobilised, the [Ottoman Empire](/kraje/imperium-osmanskie) also began preparing for war. Chronicles of the time state that on 31 July 1914 the government in Constantinople ordered a [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) that was to begin on 3 August. According to other sources, the order was formally issued on 1 August and announced publicly a day later. What is certain is that mobilisation got under way on 3 August.
 
-The key figure was the War Minister, [Enver Pasha](/postacie/enver-pasza), one of the leaders of the Young Turks who ruled the country. Enver had long advocated an alliance with [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). At the end of July he proposed one to the German ambassador, and on 2 August a small group of Ottoman leaders signed a secret treaty of alliance with Germany, directed above all against [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie). Most members of the government and the parliament knew nothing of the agreement.
+The key figure was the War Minister, [Enver Pasha](/postacie/enver-pasza), one of the leaders of the Young Turks who ruled the country. Enver had long advocated an alliance with [Germany](/kraje/niemcy). At the end of July he proposed one to the German ambassador, and on 2 August a small group of Ottoman leaders signed a secret treaty of alliance with Germany, directed above all against [Russia](/kraje/rosja). Most members of the government and the parliament knew nothing of the agreement.
 
 Officially, however, the empire declared so-called armed neutrality. Mobilisation was meant to strengthen its position, but it did not mean immediate entry into the war. The Ottoman army, weakened by defeats in the Balkan Wars, needed time, and part of the elite still hoped that involvement in the conflict could be avoided.
 

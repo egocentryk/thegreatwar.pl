@@ -13,6 +13,7 @@ entered: 1914-08-03
 left: 1918-11-11
 order: 3
 updated: 2026-10-30
+wikiTitles: ["III_Republika_Francuska", "Francja"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/france/"

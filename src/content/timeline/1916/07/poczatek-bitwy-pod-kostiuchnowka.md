@@ -23,7 +23,7 @@ sources:
   - "https://ru.wikipedia.org/wiki/Наступление_на_Ковель"
 ---
 
-4 lipca 1916 roku (21 czerwca według rosyjskiego kalendarza juliańskiego) rosyjska artyleria otworzyła ogień na pozycje [Legionów Polskich](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) nad [Styrem](https://pl.wikipedia.org/wiki/Styr), pod wsią Kostiuchnówka na [Wołyniu](https://pl.wikipedia.org/wiki/Wołyń). Zaczęła się największa bitwa Legionów. Przez cały dzień I i III Brygada odpierały szturmy rosyjskiego XLVI Korpusu, ale wieczorem Rosjanie przełamali obronę słabszych sąsiadów na prawym skrzydle i zajęli Polską Górę, wzgórze [zdobyte przez legionistów](/legiony-zdobywaja-polska-gore) jesienią poprzedniego roku.
+4 lipca 1916 roku (21 czerwca według rosyjskiego kalendarza juliańskiego) rosyjska artyleria otworzyła ogień na pozycje [Legionów Polskich](/tematy/polskie-formacje-wojskowe) nad [Styrem](https://pl.wikipedia.org/wiki/Styr), pod wsią Kostiuchnówka na [Wołyniu](https://pl.wikipedia.org/wiki/Wołyń). Zaczęła się największa bitwa Legionów. Przez cały dzień I i III Brygada odpierały szturmy rosyjskiego XLVI Korpusu, ale wieczorem Rosjanie przełamali obronę słabszych sąsiadów na prawym skrzydle i zajęli Polską Górę, wzgórze [zdobyte przez legionistów](/legiony-zdobywaja-polska-gore) jesienią poprzedniego roku.
 
 ## Nowe uderzenie Brusiłowa
 

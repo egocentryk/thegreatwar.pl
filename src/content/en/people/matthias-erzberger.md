@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Buttenhausen (Württemberg)
 deathPlace: Bad Griesbach (Baden)
 source: matthias-erzberger
-sourceHash: 2f6f2ed24c69aac4b468680e6e2af14e7c06347d
+sourceHash: b45375daf531c473f8ec29a4ecadcaab509d15da
 ---
 
 Matthias Erzberger was the most energetic, the most influential and the most hated German parliamentarian of the war years. The son of a village tailor from Württemberg and a deputy of the Catholic [Centre Party](https://pl.wikipedia.org/wiki/Niemiecka_Partia_Centrum), in 1914 he drew up programmes of vast annexations, and three years later he was one of the first politicians to say publicly that Germany would not win the war. He was the author of the Reichstag's July peace resolution, helped bring down two chancellors, and on 11 November 1918, as head of the German delegation, signed the armistice in the forest of Compiègne. The right made him the symbol of the "betrayal" that had supposedly robbed Germany of victory. In 1921 he was murdered by nationalist assassins.
@@ -23,7 +23,7 @@ In August 1914 Erzberger was carried away by the general enthusiasm. In a memora
 
 Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) entrusted him with directing foreign propaganda, especially in Catholic and neutral countries. Erzberger built up an extensive network of informants, from the Vatican to Stockholm, from where news arrived from Russia. He also took part in secret intelligence operations, among them plans for sabotage in the Caucasus. He was on close terms with Pope Benedict XV and with the nuncio in Munich, Eugenio Pacelli. Between February and May 1915 he travelled to Rome three times to help Ambassador Bülow keep Italy neutral and to persuade Vienna to make territorial concessions. The government of [Antonio Salandra](/postacie/antonio-salandra), however, was already bound to the Entente, and in May Italy entered the war and [Germany broke off relations with it](/niemcy-zrywaja-stosunki-z-wlochami). In June 1915 Erzberger went to Vienna and Budapest to persuade the Hungarians to make concessions to the Romanians in Transylvania, but the prime minister, [István Tisza](/postacie/istvan-tisza), sent him away curtly.
 
-In February 1916 Erzberger came to Constantinople on the matter of the Christian missions in Turkey. On 10 February he spoke with [Enver Pasha](/postacie/enver-pasza) and Talat Pasha and, at their request, prepared a memorandum on the protection of Christians. It explicitly concerned only Catholic Armenians and went unanswered. Historians nonetheless count him among the few German politicians who tried to do something about the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian) during the war.
+In February 1916 Erzberger came to Constantinople on the matter of the Christian missions in Turkey. On 10 February he spoke with [Enver Pasha](/postacie/enver-pasza) and Talat Pasha and, at their request, prepared a memorandum on the protection of Christians. It explicitly concerned only Catholic Armenians and went unanswered. Historians nonetheless count him among the few German politicians who tried to do something about the [Armenian genocide](/tematy/ludobojstwo-ormian) during the war.
 
 ## Turn towards peace
 

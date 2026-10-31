@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 sierpnia 1914 roku [Królestwo Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) zerwało stosunki dyplomatyczne z [Niemcami](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie), a między oboma państwami zaczął się stan wojny. Taką datę podają ówczesne kroniki wojny. Inne źródła wskazują na 9 lub 12 sierpnia. Różnice wynikają między innymi z tego, że Czarnogóra posługiwała się kalendarzem juliańskim, a wiadomości z [Cetynii](https://pl.wikipedia.org/wiki/Cetynia) docierały do europejskich stolic z opóźnieniem.
+8 sierpnia 1914 roku [Królestwo Czarnogóry](/kraje/czarnogora) zerwało stosunki dyplomatyczne z [Niemcami](/kraje/niemcy), a między oboma państwami zaczął się stan wojny. Taką datę podają ówczesne kroniki wojny. Inne źródła wskazują na 9 lub 12 sierpnia. Różnice wynikają między innymi z tego, że Czarnogóra posługiwała się kalendarzem juliańskim, a wiadomości z [Cetynii](https://pl.wikipedia.org/wiki/Cetynia) docierały do europejskich stolic z opóźnieniem.
 
 Kilka dni wcześniej Czarnogóra wypowiedziała wojnę Austro-Węgrom, stając u boku Serbii. Zerwanie z Niemcami było naturalną konsekwencją tej decyzji. Niemcy były najbliższym sojusznikiem Wiednia, a od 1 sierpnia prowadziły wojnę z Rosją, tradycyjną protektorką Czarnogóry. Król [Mikołaj I](/postacie/mikolaj-i-petrowic-niegosz) jednoznacznie opowiedział się więc po stronie Ententy.
 

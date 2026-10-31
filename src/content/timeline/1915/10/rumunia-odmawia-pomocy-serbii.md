@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 15 października 1915 roku, że rząd [Rumunii](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) odmówił pomocy Serbii. Był to drugi dzień otwartej wojny bułgarsko-serbskiej. Od 6 października Serbia broniła się na północy przed [armiami niemiecką i austro-węgierską](/panstwa-centralne-atakuja-serbie), a 14 października [wojnę wypowiedziała jej Bułgaria](/bulgaria-i-serbia-wypowiadaja-sobie-wojne). Nie udało nam się dotrzeć do tekstu rumuńskiej odpowiedzi z tego dnia. Współczesne relacje i późniejsze opracowania pozwalają jednak dokładnie odtworzyć stanowisko Bukaresztu w połowie października: Rumunia zostaje neutralna i nie ruszy, dopóki Ententa nie przyśle na Bałkany wielkiej armii.
+Brytyjska chronologia wojny odnotowuje pod 15 października 1915 roku, że rząd [Rumunii](/kraje/rumunia) odmówił pomocy Serbii. Był to drugi dzień otwartej wojny bułgarsko-serbskiej. Od 6 października Serbia broniła się na północy przed [armiami niemiecką i austro-węgierską](/panstwa-centralne-atakuja-serbie), a 14 października [wojnę wypowiedziała jej Bułgaria](/bulgaria-i-serbia-wypowiadaja-sobie-wojne). Nie udało nam się dotrzeć do tekstu rumuńskiej odpowiedzi z tego dnia. Współczesne relacje i późniejsze opracowania pozwalają jednak dokładnie odtworzyć stanowisko Bukaresztu w połowie października: Rumunia zostaje neutralna i nie ruszy, dopóki Ententa nie przyśle na Bałkany wielkiej armii.
 
 ## Druga odmowa
 

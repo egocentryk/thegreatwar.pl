@@ -2,10 +2,10 @@
 title: France publishes its first contraband list
 summary: On 11 August 1914 the French government published its lists of war contraband. Aircraft and balloons were classed as absolute contraband.
 source: francja-oglasza-pierwsza-liste-kontrabandy
-sourceHash: 0e08e268b00c7a9ab7661f9208872cda38d45d2c
+sourceHash: f15841cfa8d0d9bad134d8c4a5520daff3712620
 ---
 
-On 11 August 1914 the government of [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) published in the official gazette its first lists of war contraband. They specified which goods the French navy could seize at sea, including on ships of neutral states, if they were destined for the enemy. A week earlier Britain had issued a similar proclamation.
+On 11 August 1914 the government of [France](/kraje/francja) published in the official gazette its first lists of war contraband. They specified which goods the French navy could seize at sea, including on ships of neutral states, if they were destined for the enemy. A week earlier Britain had issued a similar proclamation.
 
 ## Two lists
 

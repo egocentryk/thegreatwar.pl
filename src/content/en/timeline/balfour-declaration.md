@@ -2,7 +2,7 @@
 title: Balfour Declaration
 summary: On 2 November 1917 Arthur Balfour assured Lord Rothschild that Britain supported the establishment in Palestine of a national home for the Jewish people.
 source: deklaracja-balfoura
-sourceHash: 620f179ae5b7604693ecc98ff6957ddd105541c2
+sourceHash: 7708db67e11276227cb1aabd61fab5113c064406
 brief:
   - "On 2 November 1917 the British Foreign Secretary Arthur Balfour assured Lord Rothschild in a letter that the government viewed with favour the establishment in Palestine of a national home for the Jewish people."
   - "It was the first public support for Zionism from a great power. Chaim Weizmann and Nahum Sokolow had campaigned for it, and Lloyd George's government was thinking of partitioning the Ottoman lands."
@@ -15,7 +15,7 @@ On 2 November 1917 the British Foreign Secretary [Arthur Balfour](/postacie/arth
 
 > His Majesty's Government view with favour the establishment in Palestine of a national home for the Jewish people, and will use their best endeavours to facilitate the achievement of this object, it being clearly understood that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities in Palestine, or the rights and political status enjoyed by Jews in any other country.
 
-Balfour asked Rothschild to bring the declaration to the knowledge of the Zionist Federation of Great Britain and Ireland. It was the first public support for [Zionism](https://pl.wikipedia.org/wiki/Syjonizm) from a great power. It concerned, however, a country that still belonged to the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) and whose inhabitants nobody had asked for their opinion.
+Balfour asked Rothschild to bring the declaration to the knowledge of the Zionist Federation of Great Britain and Ireland. It was the first public support for [Zionism](https://pl.wikipedia.org/wiki/Syjonizm) from a great power. It concerned, however, a country that still belonged to the [Ottoman Empire](/kraje/imperium-osmanskie) and whose inhabitants nobody had asked for their opinion.
 
 ## The Zionists and the British government
 

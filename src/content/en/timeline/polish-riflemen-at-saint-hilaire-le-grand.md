@@ -2,10 +2,10 @@
 title: Polish riflemen at Saint-Hilaire-le-Grand
 summary: On 25 July 1918 a 1st Polish Rifle Regiment company took Bois de la Raquette in Champagne and beat off three counter-attacks. It became the regiment's day.
 source: polscy-strzelcy-pod-saint-hilaire-le-grand
-sourceHash: 64f5d9af58ca8d37e3a3a64af88bedb688472688
+sourceHash: 991707c336e7b38b4d14aa862ef6492dc0f4b39d
 ---
 
-On the night of 24–25 July 1918 the 5th Company of the 1st Polish Rifle Regiment left its trenches near [Saint-Hilaire-le-Grand](https://pl.wikipedia.org/wiki/Saint-Hilaire-le-Grand) in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](https://pl.wikipedia.org/wiki/Reims). After a short artillery bombardment it stormed the small wooded hill of Bois de la Raquette, took prisoners and machine guns, and then beat off three German counter-attacks. It paid for this with the death of all its officers. At the time it was the only regiment of the [Polish Army in France](https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji) fighting at the front, and 25 July became its regimental day.
+On the night of 24–25 July 1918 the 5th Company of the 1st Polish Rifle Regiment left its trenches near [Saint-Hilaire-le-Grand](https://pl.wikipedia.org/wiki/Saint-Hilaire-le-Grand) in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](https://pl.wikipedia.org/wiki/Reims). After a short artillery bombardment it stormed the small wooded hill of Bois de la Raquette, took prisoners and machine guns, and then beat off three German counter-attacks. It paid for this with the death of all its officers. At the time it was the only regiment of the [Polish Army in France](/tematy/polskie-formacje-wojskowe) fighting at the front, and 25 July became its regimental day.
 
 ## Before Reims
 

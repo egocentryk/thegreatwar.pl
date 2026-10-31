@@ -2,10 +2,10 @@
 title: Romania refuses to help Serbia
 summary: According to the British chronology, on 15 October 1915 Romania refused to help Serbia. Brătianu would not fight without a large Entente army in the Balkans.
 source: rumunia-odmawia-pomocy-serbii
-sourceHash: 72d84fd8d047873cb3d49de3cc1d0c51e43a893b
+sourceHash: 3db48293b06c6d4f3954af570b3f8b0910aa2eb2
 ---
 
-The British chronology of the war records under 15 October 1915 that the government of [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) refused to help Serbia. It was the second day of open war between Bulgaria and Serbia. Since 6 October Serbia had been defending itself in the north against the [German and Austro-Hungarian armies](/panstwa-centralne-atakuja-serbie), and on 14 October [Bulgaria declared war on it](/bulgaria-i-serbia-wypowiadaja-sobie-wojne). We have not been able to find the text of the Romanian reply of that day. Contemporary accounts and later studies, however, allow Bucharest's position in mid-October to be reconstructed precisely: Romania would remain neutral and would not move until the Entente sent a large army to the Balkans.
+The British chronology of the war records under 15 October 1915 that the government of [Romania](/kraje/rumunia) refused to help Serbia. It was the second day of open war between Bulgaria and Serbia. Since 6 October Serbia had been defending itself in the north against the [German and Austro-Hungarian armies](/panstwa-centralne-atakuja-serbie), and on 14 October [Bulgaria declared war on it](/bulgaria-i-serbia-wypowiadaja-sobie-wojne). We have not been able to find the text of the Romanian reply of that day. Contemporary accounts and later studies, however, allow Bucharest's position in mid-October to be reconstructed precisely: Romania would remain neutral and would not move until the Entente sent a large army to the Balkans.
 
 ## A second refusal
 

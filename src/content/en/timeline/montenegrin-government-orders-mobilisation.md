@@ -2,10 +2,10 @@
 title: Montenegrin government orders mobilisation
 summary: On 26 July 1914 Montenegro ordered the mobilisation of its army, standing alongside Serbia in its conflict with Austria-Hungary.
 source: rzad-czarnogory-zarzadza-mobilizacje
-sourceHash: c7a3e4efa321a3f9788f814ec0c9391366d80360
+sourceHash: af145cb5f65cde7f73249de632205c14f1f88002
 ---
 
-On 26 July 1914 the government of the [Kingdom of Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) ordered the [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army. The decision came a day after [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) broke off diplomatic relations with [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). In this way the small mountain state, with its capital at [Cetinje](https://pl.wikipedia.org/wiki/Cetynia), declared itself on the side of its Serbian neighbour.
+On 26 July 1914 the government of the [Kingdom of Montenegro](/kraje/czarnogora) ordered the [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja) of the army. The decision came a day after [Austria-Hungary](/kraje/austro-wegry) broke off diplomatic relations with [Serbia](/kraje/serbia). In this way the small mountain state, with its capital at [Cetinje](https://pl.wikipedia.org/wiki/Cetynia), declared itself on the side of its Serbian neighbour.
 
 Montenegro and Serbia had much in common: a shared language, Orthodoxy and a sense of belonging to the Serbian nation. The two states had fought together in the [Balkan League](https://pl.wikipedia.org/wiki/Liga_Bałkańska) during the Balkan Wars of 1912–1913. They were also bound by dynastic ties: King Peter I of Serbia was the widower of [Zorka](https://pl.wikipedia.org/wiki/Zorka_Czarnogórska), daughter of the Montenegrin ruler, and the regent Alexander was his grandson.
 

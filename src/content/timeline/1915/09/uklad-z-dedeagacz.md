@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-22 września 1915 roku bułgarski rząd ogłosił warunki porozumienia z Turcją o zmianie granicy w Tracji. Brytyjska chronologia wojny nazywa je „układem z Dedeagacz” i notuje pod tą datą jego zawarcie. Nazwa wzięła się od egejskiego portu [Dedeagacz](https://pl.wikipedia.org/wiki/Aleksandropolis), dziś greckiej Aleksandropolis. To właśnie bezpieczna droga do niego była dla [Bułgarii](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) najcenniejszym zyskiem z układu. Ogłoszenie zbiegło się z decyzją o mobilizacji: tego samego dnia późnym wieczorem car podpisał dekret o powszechnej mobilizacji armii.
+22 września 1915 roku bułgarski rząd ogłosił warunki porozumienia z Turcją o zmianie granicy w Tracji. Brytyjska chronologia wojny nazywa je „układem z Dedeagacz” i notuje pod tą datą jego zawarcie. Nazwa wzięła się od egejskiego portu [Dedeagacz](https://pl.wikipedia.org/wiki/Aleksandropolis), dziś greckiej Aleksandropolis. To właśnie bezpieczna droga do niego była dla [Bułgarii](/kraje/bulgaria) najcenniejszym zyskiem z układu. Ogłoszenie zbiegło się z decyzją o mobilizacji: tego samego dnia późnym wieczorem car podpisał dekret o powszechnej mobilizacji armii.
 
 ## Granica wzdłuż Maricy
 

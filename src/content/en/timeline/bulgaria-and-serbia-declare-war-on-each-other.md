@@ -2,7 +2,7 @@
 title: Bulgaria and Serbia declare war on each other
 summary: On 14 October 1915 Tsar Ferdinand issued a manifesto on war with Serbia. Bulgaria joined the Central Powers and struck at Serbia from the east.
 source: bulgaria-i-serbia-wypowiadaja-sobie-wojne
-sourceHash: 2733a86acd5707a0007750b8a28a4b937be1e7e9
+sourceHash: a11fad828471a895aa30f8e88bc3bab9dcff991d
 brief:
   - "On 14 October 1915 Tsar Ferdinand issued a manifesto on war with Serbia. Bulgaria entered the war on the side of the Central Powers, which had promised it the whole of Serbian Macedonia."
   - "The manifesto presented Bulgaria as the victim of Serbian aggression, but this was a pretext. According to the Austro-Hungarian official history, the Bulgarians provoked the frontier clash of 11 October."
@@ -10,7 +10,7 @@ brief:
   - "Serbia, already defending itself in the north against Mackensen's armies, had to fight on two fronts. Within a few weeks the Bulgarians, Germans and Austrians conquered it, and the Serbian army retreated through Albania."
 ---
 
-On 14 October 1915, that is 1 October according to the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) which Bulgaria then used, Tsar [Ferdinand](/postacie/ferdynand-i-koburg) issued a manifesto to the nation on war with Serbia. [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) entered the world war on the side of Germany, Austria-Hungary and Turkey. After more than a year of neutrality and bargaining between the two sides, it chose the Central Powers, which had promised it what the Entente could not give: the whole of Serbian [Macedonia](https://pl.wikipedia.org/wiki/Macedonia_(kraina_historyczna)). For a week Serbia had been defending itself in the north against the armies of Field Marshal [August von Mackensen](/postacie/august-von-mackensen). Now it was attacked from the east as well.
+On 14 October 1915, that is 1 October according to the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) which Bulgaria then used, Tsar [Ferdinand](/postacie/ferdynand-i-koburg) issued a manifesto to the nation on war with Serbia. [Bulgaria](/kraje/bulgaria) entered the world war on the side of Germany, Austria-Hungary and Turkey. After more than a year of neutrality and bargaining between the two sides, it chose the Central Powers, which had promised it what the Entente could not give: the whole of Serbian [Macedonia](https://pl.wikipedia.org/wiki/Macedonia_(kraina_historyczna)). For a week Serbia had been defending itself in the north against the armies of Field Marshal [August von Mackensen](/postacie/august-von-mackensen). Now it was attacked from the east as well.
 
 The British chronology of the war records that on this day Bulgaria and Serbia declared war on each other. The initiative, however, came from Sofia, and Serbia had already been fighting the Bulgarians on the frontier for several days. The British official history of the Macedonian campaign states that Bulgaria declared war on 13 October and marched a day later. Most sources, Bulgarian ones included, adopt the date of the manifesto: 14 October.
 

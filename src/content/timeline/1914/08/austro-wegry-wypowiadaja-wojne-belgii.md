@@ -23,7 +23,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)"
 ---
 
-Ówczesne brytyjskie kroniki wojny odnotowują pod datą 22 sierpnia 1914 roku, że [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) wypowiedziały wojnę [Belgii](https://pl.wikipedia.org/wiki/Belgia). Oba państwa nie miały ze sobą bezpośrednich sporów, a Belgia od blisko trzech tygodni broniła się przed niemiecką inwazją. Dokumenty belgijskie i współczesne opracowania pokazują jednak, że formalny krok Wiednia nastąpił kilka dni później, a samo wypowiedzenie było raczej gestem lojalności wobec Niemiec niż decyzją wojskową.
+Ówczesne brytyjskie kroniki wojny odnotowują pod datą 22 sierpnia 1914 roku, że [Austro-Węgry](/kraje/austro-wegry) wypowiedziały wojnę [Belgii](/kraje/belgia). Oba państwa nie miały ze sobą bezpośrednich sporów, a Belgia od blisko trzech tygodni broniła się przed niemiecką inwazją. Dokumenty belgijskie i współczesne opracowania pokazują jednak, że formalny krok Wiednia nastąpił kilka dni później, a samo wypowiedzenie było raczej gestem lojalności wobec Niemiec niż decyzją wojskową.
 
 ## Gwarant neutralności
 

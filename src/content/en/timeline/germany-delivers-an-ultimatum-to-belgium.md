@@ -2,10 +2,10 @@
 title: Germany delivers an ultimatum to Belgium
 summary: On the evening of 2 August 1914 Germany demanded that Belgium allow its troops to pass through, giving it 12 hours to reply.
 source: niemcy-stawiaja-belgii-ultimatum
-sourceHash: e27de12221f1f2be42ab3abf027e9f96c5a1704e
+sourceHash: 54cfdfc325306492f70f00cbc7c55989bc454347
 ---
 
-At 7 p.m. Belgian time on 2 August 1914 the German Minister in [Brussels](https://pl.wikipedia.org/wiki/Bruksela), Claus von Below-Saleske, handed the Belgian Foreign Minister, Julien Davignon, a "very confidential" note. [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) demanded that [Belgium](https://pl.wikipedia.org/wiki/Belgia) let its troops pass through Belgian territory. It gave twelve hours for a reply.
+At 7 p.m. Belgian time on 2 August 1914 the German Minister in [Brussels](https://pl.wikipedia.org/wiki/Bruksela), Claus von Below-Saleske, handed the Belgian Foreign Minister, Julien Davignon, a "very confidential" note. [Germany](/kraje/niemcy) demanded that [Belgium](/kraje/belgia) let its troops pass through Belgian territory. It gave twelve hours for a reply.
 
 ## A note from a sealed envelope
 

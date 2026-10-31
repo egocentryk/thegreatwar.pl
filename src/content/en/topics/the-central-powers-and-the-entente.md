@@ -9,7 +9,7 @@ brief:
   - "Many Latin American states only broke off relations with Germany, and eight of the twenty declared war."
   - "Russia and Romania left the war at the turn of 1917 and 1918, and in autumn 1918 Bulgaria, Turkey, Austria-Hungary and Germany signed armistices one after another."
 source: panstwa-centralne-i-ententa
-sourceHash: 5b47c4d054adfb176482eca9d2fa49097b6fd99d
+sourceHash: f8639f24e4e64006379194e5c78d4ce1d7bc0e11
 ---
 
 The First World War was fought between two coalitions. On one side stood the Central Powers: Germany and Austria-Hungary, joined by the Ottoman Empire in autumn 1914 and by Bulgaria in October 1915. On the other stood the Entente: France, Russia and Britain with its whole empire, and with them Serbia, Belgium and Japan, later Italy, Romania, Portugal and Greece, and from 1917 the United States, which fought as an "associated power" without a formal alliance. Many states of Latin America, Asia and Africa also sided with the enemies of the Central Powers, though some of them only broke off diplomatic relations. The war began with [Austria-Hungary's declaration of war on Serbia](/austro-wegry-wypowiadaja-wojne-serbii) on 28 July 1914 and ended with the armistices of autumn 1918.

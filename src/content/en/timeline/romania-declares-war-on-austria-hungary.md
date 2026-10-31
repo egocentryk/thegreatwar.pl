@@ -2,7 +2,7 @@
 title: Romania declares war on Austria-Hungary
 summary: On 27 August 1916 a crown council approved Romania's entry into the war. That evening its envoy handed a note in Vienna and troops crossed the Carpathians.
 source: rumunia-wypowiada-wojne-austro-wegrom
-sourceHash: 22c4eae5240be13cd1e8d8b335726c7f08059875
+sourceHash: 6a15f214fe60ab8bd21dab1aa8875621f981982d
 brief:
   - "On 27 August 1916 a crown council in Bucharest approved Romania's entry into the war on the side of the Entente. That evening the minister Edgar Mavrocordat handed a note in Vienna declaring war on Austria-Hungary."
   - "The treaty with the Entente, signed ten days earlier, obliged Romania to attack by 28 August at the latest. At the crown council only Petre P. Carp spoke for war alongside Germany."
@@ -11,7 +11,7 @@ brief:
   - "Germany, Turkey and Bulgaria soon declared war on Romania. In December 1916 Bucharest fell, but Romania survived the defeat and after the war annexed Transylvania, Bukovina and Bessarabia."
 ---
 
-On Sunday 27 August 1916 (14 August by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then in force in Romania), a crown council met at the [Cotroceni Palace](https://pl.wikipedia.org/wiki/Pałac_Cotroceni) in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). King [Ferdinand I](/postacie/ferdynand-i-rumunski) and Prime Minister [Ion I.C. Brătianu](/postacie/ion-bratianu) presented the country's leading politicians with a decision that had in effect already been taken: [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) was entering the war on the side of the Entente. That same evening, at about 9 p.m., the Romanian minister in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń), Edgar Mavrocordat, handed a note at the Austro-Hungarian foreign ministry in which Romania declared that from that moment it considered itself at war with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). The government proclaimed general mobilisation. According to the Austrian official history, at the same hour Romanian advance guards crossed the Carpathian passes and entered Transylvania.
+On Sunday 27 August 1916 (14 August by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then in force in Romania), a crown council met at the [Cotroceni Palace](https://pl.wikipedia.org/wiki/Pałac_Cotroceni) in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). King [Ferdinand I](/postacie/ferdynand-i-rumunski) and Prime Minister [Ion I.C. Brătianu](/postacie/ion-bratianu) presented the country's leading politicians with a decision that had in effect already been taken: [Romania](/kraje/rumunia) was entering the war on the side of the Entente. That same evening, at about 9 p.m., the Romanian minister in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń), Edgar Mavrocordat, handed a note at the Austro-Hungarian foreign ministry in which Romania declared that from that moment it considered itself at war with [Austria-Hungary](/kraje/austro-wegry). The government proclaimed general mobilisation. According to the Austrian official history, at the same hour Romanian advance guards crossed the Carpathian passes and entered Transylvania.
 
 The British chronology of the war records under this day the mobilisation order and the declaration of war on Austria-Hungary. After two years of neutrality and bargaining with both sides, Romania, which as late as 1914 had formally been an ally of the Central Powers, turned against them with an army of more than half a million men.
 

@@ -10,11 +10,11 @@ milestone: false
 draft: false
 ---
 
-29 lipca 1914 roku, dzień po wypowiedzeniu wojny Serbii przez [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry), [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) zarządziła częściową [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja). Objęła ona cztery okręgi wojskowe: odeski, kijowski, moskiewski i kazański, czyli te, które miały działać przeciw monarchii habsburskiej, przede wszystkim na granicy z [Galicją](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). Była to pierwsza mobilizacja jednego z wielkich mocarstw skierowana przeciw innemu mocarstwu.
+29 lipca 1914 roku, dzień po wypowiedzeniu wojny Serbii przez [Austro-Węgry](/kraje/austro-wegry), [Rosja](/kraje/rosja) zarządziła częściową [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja). Objęła ona cztery okręgi wojskowe: odeski, kijowski, moskiewski i kazański, czyli te, które miały działać przeciw monarchii habsburskiej, przede wszystkim na granicy z [Galicją](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). Była to pierwsza mobilizacja jednego z wielkich mocarstw skierowana przeciw innemu mocarstwu.
 
 ## Sygnał wobec Wiednia, nie Berlina
 
-Decyzję w zasadzie podjęto już 25 lipca. Minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) traktował częściową mobilizację jako środek nacisku na Wiedeń, który jednocześnie nie powinien zagrażać Niemcom. Pominięcie okręgów graniczących z [Cesarstwem Niemieckim](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) miało pokazać Berlinowi, że Rosja nie zamierza go atakować.
+Decyzję w zasadzie podjęto już 25 lipca. Minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) traktował częściową mobilizację jako środek nacisku na Wiedeń, który jednocześnie nie powinien zagrażać Niemcom. Pominięcie okręgów graniczących z [Cesarstwem Niemieckim](/kraje/niemcy) miało pokazać Berlinowi, że Rosja nie zamierza go atakować.
 
 Rosyjscy generałowie ostrzegali jednak, że takie rozwiązanie jest ryzykowne. [Armia rosyjska](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego) nie miała gotowego planu mobilizacji częściowej, a improwizowana mobilizacja kilku okręgów mogła poważnie zaburzyć ewentualną późniejszą mobilizację powszechną. Szef sztabu generalnego [Nikołaj Januszkiewicz](https://pl.wikipedia.org/wiki/Nikołaj_Januszkiewicz) i minister wojny [Władimir Suchomlinow](https://pl.wikipedia.org/wiki/Władimir_Suchomlinow) naciskali więc na mobilizację całej armii.
 

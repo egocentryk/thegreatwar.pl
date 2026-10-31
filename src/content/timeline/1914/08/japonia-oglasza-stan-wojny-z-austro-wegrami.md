@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku [Japonia](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) ogłosiła, że pozostaje w stanie wojny z [Austro-Węgrami](https://pl.wikipedia.org/wiki/Austro-Węgry). Dwa państwa położone na przeciwległych krańcach Eurazji, niemające ze sobą żadnych sporów, stały się wrogami z powodu jednego okrętu zakotwiczonego w chińskim porcie.
+25 sierpnia 1914 roku [Japonia](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) ogłosiła, że pozostaje w stanie wojny z [Austro-Węgrami](/kraje/austro-wegry). Dwa państwa położone na przeciwległych krańcach Eurazji, niemające ze sobą żadnych sporów, stały się wrogami z powodu jednego okrętu zakotwiczonego w chińskim porcie.
 
 ## Krążownik w Tsingtao
 

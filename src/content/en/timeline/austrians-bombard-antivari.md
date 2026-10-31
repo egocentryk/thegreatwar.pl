@@ -2,14 +2,14 @@
 title: Austrians bombard Antivari
 summary: On the night of 1–2 March 1915 Austro-Hungarian warships raided Antivari. They wrecked the pier and food stores and sank the King of Montenegro's yacht.
 source: austriacy-ostrzeliwuja-antivari
-sourceHash: 512d82850acfe353d0b933457b8c9f2b2c18f706
+sourceHash: adae3115b0b1de1ef0dd7b050ed4a3cf7cb0217b
 ---
 
 The British chronology of the war records under 1 March 1915 the bombardment of the Montenegrin port of Antivari, today's [Bar](https://pl.wikipedia.org/wiki/Bar_(Czarnogóra)), by an Austro-Hungarian squadron. In reality it was a night raid by destroyers and torpedo boats. The ships left their base in the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska) around midnight on 1–2 March, and the action in the port itself took place in the early hours of 2 March. It was the most serious Austro-Hungarian attack on Antivari so far.
 
 ## Montenegro's supply port
 
-Antivari was the only important port of the [Kingdom of Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry). Through it came the supplies sent by the Allies, above all grain, food and ammunition, on which the survival of the small state depended. That is why the port had been a target of the [Austro-Hungarian Navy](https://pl.wikipedia.org/wiki/Kaiserliche_und_Königliche_Kriegsmarine) from the first days of the war. It had been shelled as early as August 1914, and on 16 August the French fleet [sank the cruiser *Zenta*](/zatopienie-krazownika-zenta), which was blockading the coast, nearby. Further bombardments followed in September, October and November. In September the French landed guns at Antivari, which were then [hauled up Mount Lovćen, above the Bay of Kotor](/francuzi-ostrzeliwuja-kotor).
+Antivari was the only important port of the [Kingdom of Montenegro](/kraje/czarnogora). Through it came the supplies sent by the Allies, above all grain, food and ammunition, on which the survival of the small state depended. That is why the port had been a target of the [Austro-Hungarian Navy](https://pl.wikipedia.org/wiki/Kaiserliche_und_Königliche_Kriegsmarine) from the first days of the war. It had been shelled as early as August 1914, and on 16 August the French fleet [sank the cruiser *Zenta*](/zatopienie-krazownika-zenta), which was blockading the coast, nearby. Further bombardments followed in September, October and November. In September the French landed guns at Antivari, which were then [hauled up Mount Lovćen, above the Bay of Kotor](/francuzi-ostrzeliwuja-kotor).
 
 The Austrians were also after the royal yacht *Rumija*, a gift from Sultan Abdul Hamid II to Prince, later King, [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz). During the war the yacht carried troops and arms. According to Montenegrin historians, the Austrians had already tried to destroy it at least twice in February, without success.
 

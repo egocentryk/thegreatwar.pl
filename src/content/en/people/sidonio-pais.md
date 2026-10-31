@@ -6,7 +6,7 @@ country: Portugal
 birthPlace: Caminha (Portugal)
 deathPlace: Lisbon
 source: sidonio-pais
-sourceHash: 4fe51dea3a89155a7a1ab9dae2cd3475138aa837
+sourceHash: 79e69ec5b9a56f9020352a615e1e5155d9ebe3a2
 ---
 
 Sidónio Bernardino Cardoso da Silva Pais ruled Portugal for less than a year, from a coup d'état in December 1917 until his death at an assassin's hand in December 1918. It was the year in which Portuguese troops suffered in Flanders one of the heaviest defeats in their history, and the country, exhausted by high prices, strikes and epidemics, stood on the brink of civil war. Pais came to power as an opponent of the government that had drawn Portugal into the war on the side of the Entente, and many considered him a Germanophile. Yet he did not take Portugal out of the war. Instead he built Portugal's first presidential system, in which he was himself both head of state and head of government, and his supporters surrounded him with a cult. To some he was the saviour of the fatherland and a martyr, to others a dictator and a harbinger of Salazar's authoritarian state.
@@ -15,7 +15,7 @@ Sidónio Bernardino Cardoso da Silva Pais ruled Portugal for less than a year, f
 
 He was born on 1 May 1872 in [Caminha](https://pl.wikipedia.org/wiki/Caminha) in northern Portugal, the eldest of seven children of a notary, who died when Sidónio was eleven. He chose a military career and graduated with distinction from the artillery course of the Army School, and he studied mathematics at the [University of Coimbra](https://pl.wikipedia.org/wiki/Uniwersytet_w_Coimbrze), where he took his doctorate in 1898. He became professor of differential and integral calculus there, while remaining an officer and slowly rising in rank, up to major in 1916. Already in Coimbra he was a committed republican.
 
-After the overthrow of the monarchy in October 1910 the new authorities appointed him vice-rector of the university. In 1911 he was elected to the Constituent Assembly, which adopted the constitution of the [First Republic](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), and he was then briefly minister of public works and minister of finance in moderate republican governments. In August 1912 he went to Berlin as Portugal's envoy. It was a difficult post. Britain and Germany were then conducting confidential negotiations on dividing spheres of influence in the Portuguese colonies, Angola and Mozambique, and the republican government in Lisbon feared for its empire. Pais tried to improve the image of the young republic and to ease tensions.
+After the overthrow of the monarchy in October 1910 the new authorities appointed him vice-rector of the university. In 1911 he was elected to the Constituent Assembly, which adopted the constitution of the [First Republic](/kraje/portugalia), and he was then briefly minister of public works and minister of finance in moderate republican governments. In August 1912 he went to Berlin as Portugal's envoy. It was a difficult post. Britain and Germany were then conducting confidential negotiations on dividing spheres of influence in the Portuguese colonies, Angola and Mozambique, and the republican government in Lisbon feared for its empire. Pais tried to improve the image of the young republic and to ease tensions.
 
 ## Envoy in Berlin
 

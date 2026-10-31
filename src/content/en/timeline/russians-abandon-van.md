@@ -2,7 +2,7 @@
 title: Russians abandon Van
 summary: On 3 August 1915, after the defeat at Malazgirt, the Russians withdrew from Van. Tens of thousands of local Armenians fled with them to the Caucasus.
 source: rosjanie-opuszczaja-wan
-sourceHash: 4fc22974a298648e4944a2af341e51b964b0f114
+sourceHash: 202a1feec7db5f18f6cf8a60efb217c9153fbc5e
 ---
 
 On 3 August 1915 the last Russian ambulance columns set out from [Van](https://pl.wikipedia.org/wiki/Wan_(miasto)), followed and flanked by crowds of Armenian refugees. After only two and a half months of [Russian rule](/rosjanie-zajmuja-wan), the city, which in the spring had survived the [siege by Ottoman troops](/bitwy/obrona-wanu), was once again left undefended. According to the classic history of the wars on the Caucasian frontier by W.E.D. Allen and Paul Muratoff, the last Russian units left Van on 4 August. The British chronology of the war recorded the evacuation under 3 August, the day on which most of the inhabitants left the city.
@@ -23,4 +23,4 @@ The refugees had 160–240 kilometres ahead of them, alternately across mountain
 
 The figures are estimates. The British collection of documents on the fate of the Armenians, compiled in 1916 by James Bryce and Arnold Toynbee, speaks of a quarter of a million Armenians from Van, Alashkert and the surrounding area. According to a report from [Etchmiadzin](https://pl.wikipedia.org/wiki/Wagharszapat) quoted there, by 13 August about 203,000 refugees from Van itself and its surroundings had arrived in Russia, and Ussher wrote that in that week over 270,000 people from the vilayets of Van, Bitlis and Erzurum crossed the border. Many of them died on the way or in the first weeks after arriving in the Caucasus, mainly of dysentery and starvation.
 
-For the Armenians of Van it was the second catastrophe of the year. In the spring they had been saved by the arrival of the Russians, but at the same time the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian) was under way in almost the whole of Anatolia: deportations and massacres, from which escape with the Russian troops was for many the only chance of survival. Ottoman troops soon entered the ruined city.
+For the Armenians of Van it was the second catastrophe of the year. In the spring they had been saved by the arrival of the Russians, but at the same time the [Armenian genocide](/tematy/ludobojstwo-ormian) was under way in almost the whole of Anatolia: deportations and massacres, from which escape with the Russian troops was for many the only chance of survival. Ottoman troops soon entered the ruined city.

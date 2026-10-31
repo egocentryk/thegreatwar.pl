@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 6 sierpnia 1915 roku, że rząd [Bułgarii](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) wynegocjował z bankami niemieckimi i austro-węgierskimi nową pożyczkę w wysokości 400 milionów franków. Ówczesne źródła opisują to inaczej. Według komunikatu, który bułgarski minister finansów ogłosił właśnie 6 sierpnia, a który rozpowszechniła agencja Reutera, nie chodziło o nowy kredyt, lecz o realizację wielkiej pożyczki zawartej w Niemczech jeszcze przed wojną, i o zaliczkę na jej poczet. Kwoty 400 milionów franków nie udało nam się potwierdzić.
+Brytyjska chronologia wojny notuje pod 6 sierpnia 1915 roku, że rząd [Bułgarii](/kraje/bulgaria) wynegocjował z bankami niemieckimi i austro-węgierskimi nową pożyczkę w wysokości 400 milionów franków. Ówczesne źródła opisują to inaczej. Według komunikatu, który bułgarski minister finansów ogłosił właśnie 6 sierpnia, a który rozpowszechniła agencja Reutera, nie chodziło o nowy kredyt, lecz o realizację wielkiej pożyczki zawartej w Niemczech jeszcze przed wojną, i o zaliczkę na jej poczet. Kwoty 400 milionów franków nie udało nam się potwierdzić.
 
 ## Opcja z 1914 roku
 

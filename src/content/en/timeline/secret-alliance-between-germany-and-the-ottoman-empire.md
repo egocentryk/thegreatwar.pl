@@ -2,10 +2,10 @@
 title: Secret alliance between Germany and the Ottoman Empire
 summary: Contemporary chronicles record the secret alliance of Germany and Turkey under 4 August 1914. The treaty had in fact been signed in Constantinople on 2 August.
 source: tajny-sojusz-niemiec-i-imperium-osmanskiego
-sourceHash: 06745886d1248d424d5c012ab25fe33d433aa87a
+sourceHash: c227d6b9bea8f498dd12485065772adda5912c87
 ---
 
-British chronicles of the war recorded the conclusion of a secret alliance between [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) and the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) under the date of 4 August 1914. In fact the treaty had been signed two days earlier, on 2 August, in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol), the day after Germany declared war on Russia. It was signed on the German side by the ambassador, Baron Hans von Wangenheim, and on the Ottoman side by the Grand Vizier, [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
+British chronicles of the war recorded the conclusion of a secret alliance between [Germany](/kraje/niemcy) and the [Ottoman Empire](/kraje/imperium-osmanskie) under the date of 4 August 1914. In fact the treaty had been signed two days earlier, on 2 August, in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol), the day after Germany declared war on Russia. It was signed on the German side by the ambassador, Baron Hans von Wangenheim, and on the Ottoman side by the Grand Vizier, [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
 
 ## The road to the treaty
 
@@ -13,7 +13,7 @@ The initiative came from Constantinople. The empire, weakened by the war with It
 
 ## The terms
 
-The treaty had eight short articles. Both sides undertook to observe strict neutrality in the Austro-Serbian conflict. If, however, [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) intervened militarily and so obliged Germany to fulfil its alliance obligations towards Austria-Hungary, the same obligation (casus foederis) would arise for the Ottoman Empire. Since Germany was already at war with Russia, this clause bound Constantinople from the moment of signing.
+The treaty had eight short articles. Both sides undertook to observe strict neutrality in the Austro-Serbian conflict. If, however, [Russia](/kraje/rosja) intervened militarily and so obliged Germany to fulfil its alliance obligations towards Austria-Hungary, the same obligation (casus foederis) would arise for the Ottoman Empire. Since Germany was already at war with Russia, this clause bound Constantinople from the moment of signing.
 
 In case of war Germany placed its military mission, headed by General [Otto Liman von Sanders](/postacie/otto-liman-von-sanders), at the empire's disposal, and the Ottoman side assured it an "effective influence" on the general conduct of the army. Wangenheim explained to Berlin that the Turks wanted this wording because the sultan was formally commander-in-chief, but that Liman had agreed a detailed arrangement with Enver which in practice gave the mission the supreme command. Germany undertook to defend Ottoman territory, by force of arms if necessary. The treaty was valid until 31 December 1918, could be extended by five years, and was to remain secret.
 

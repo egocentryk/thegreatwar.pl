@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 września 1914 roku rząd [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) powiadomił ambasadorów obcych państw w Konstantynopolu, że z dniem 1 października znosi kapitulacje. Tak nazywano system przywilejów, które przez stulecia chroniły cudzoziemców przed tureckimi sądami i podatkami. Decyzję podjęło dzień wcześniej kierownictwo rządzącego [Komitetu Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu). Dla Turków była to jedna z najważniejszych chwil w dziejach ich państwa, a dla mocarstw, zarówno Ententy, jak i państw centralnych, wyzwanie rzucone w chwili, gdy Europa była zajęta wojną.
+9 września 1914 roku rząd [Imperium Osmańskiego](/kraje/imperium-osmanskie) powiadomił ambasadorów obcych państw w Konstantynopolu, że z dniem 1 października znosi kapitulacje. Tak nazywano system przywilejów, które przez stulecia chroniły cudzoziemców przed tureckimi sądami i podatkami. Decyzję podjęło dzień wcześniej kierownictwo rządzącego [Komitetu Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu). Dla Turków była to jedna z najważniejszych chwil w dziejach ich państwa, a dla mocarstw, zarówno Ententy, jak i państw centralnych, wyzwanie rzucone w chwili, gdy Europa była zajęta wojną.
 
 ## Czym były kapitulacje
 

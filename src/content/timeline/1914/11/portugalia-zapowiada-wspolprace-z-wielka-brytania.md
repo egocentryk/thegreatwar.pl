@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-23 listopada 1914 roku na nadzwyczajnym posiedzeniu zebrał się Kongres, czyli parlament [Republiki Portugalskiej](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). Premier [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) przedstawił projekt ustawy, która upoważniała rząd do interwencji zbrojnej w toczącej się wojnie, „kiedy i jak uzna to za konieczne” dla interesów i obowiązków Portugalii jako wolnego narodu i sojusznika Anglii. Kongres udzielił rządowi tego upoważnienia. Zgodził się także na przekazanie Brytyjczykom, na ich prośbę, 20 tysięcy karabinów z amunicją i 56 dział. Brytyjska chronologia wojny odnotowała to jako zapowiedź przyszłej współpracy Portugalii z Wielką Brytanią.
+23 listopada 1914 roku na nadzwyczajnym posiedzeniu zebrał się Kongres, czyli parlament [Republiki Portugalskiej](/kraje/portugalia). Premier [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) przedstawił projekt ustawy, która upoważniała rząd do interwencji zbrojnej w toczącej się wojnie, „kiedy i jak uzna to za konieczne” dla interesów i obowiązków Portugalii jako wolnego narodu i sojusznika Anglii. Kongres udzielił rządowi tego upoważnienia. Zgodził się także na przekazanie Brytyjczykom, na ich prośbę, 20 tysięcy karabinów z amunicją i 56 dział. Brytyjska chronologia wojny odnotowała to jako zapowiedź przyszłej współpracy Portugalii z Wielką Brytanią.
 
 ## Ani neutralna, ani walcząca
 

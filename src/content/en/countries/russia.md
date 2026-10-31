@@ -9,7 +9,7 @@ brief:
   - "The February Revolution overthrew the Tsar in March 1917, and the Bolsheviks, who seized power in November, signed the armistice at Brest-Litovsk on 15 December 1917."
   - "The Treaty of Brest-Litovsk of 3 March 1918 took Poland, the Baltic lands, Finland and Ukraine from Russia."
 source: rosja
-sourceHash: d1ce1a00bb42791601efbe0182bb838795a24979
+sourceHash: 303c830941a83a712c397e27796ca275fb1d9132
 ---
 
 Russia fought Germany and Austria-Hungary on the Eastern Front and Turkey in the Caucasus. Germany declared war on it on 1 August 1914. The Russian army lost at Tannenberg in 1914 and at Gorlice in 1915, but for long stretches of the war it was successful: it took Eastern Galicia, eastern Anatolia and northern Persia. The war exhausted the state and in 1917 brought about [the fall of tsarism](/tematy/rewolucje-w-rosji-1917), and the Bolsheviks took Russia out of the war: they signed an armistice with the Central Powers on 15 December 1917 and peace at Brest-Litovsk on 3 March 1918.

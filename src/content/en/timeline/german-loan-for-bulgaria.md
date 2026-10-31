@@ -2,10 +2,10 @@
 title: German loan for Bulgaria
 summary: According to the British chronology, on 3 February 1915 Bulgaria negotiated £3 million in Germany. Athens and the Entente capitals took it as a bad sign.
 source: niemiecka-pozyczka-dla-bulgarii
-sourceHash: ed9cae29d3419fb69116c6da430d8ad1018cc110
+sourceHash: f1cae7554998c02ef99487a606bfda1be93c0423
 ---
 
-The British chronology of the war records under 3 February 1915 that the government of [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) had negotiated a loan of 3 million pounds sterling in Germany, or about 75 million francs. This was not, however, the first German money for Sofia. Sources disagree as to whether it was a new loan or an advance or further tranche of the large credit that Bulgaria had taken out in Germany just before the outbreak of war. Some works mention the payment of an instalment of 150 million from that credit.
+The British chronology of the war records under 3 February 1915 that the government of [Bulgaria](/kraje/bulgaria) had negotiated a loan of 3 million pounds sterling in Germany, or about 75 million francs. This was not, however, the first German money for Sofia. Sources disagree as to whether it was a new loan or an advance or further tranche of the large credit that Bulgaria had taken out in Germany just before the outbreak of war. Some works mention the payment of an instalment of 150 million from that credit.
 
 ## The loan of July 1914
 

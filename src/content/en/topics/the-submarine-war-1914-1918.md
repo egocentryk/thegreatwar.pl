@@ -9,7 +9,7 @@ brief:
   - "In April 1917 shipping losses reached, depending on the count, from about 835,000 to more than 880,000 tons, but convoys turned the tide, and on 6 April the United States entered the war."
   - "Germany lost between 202 and 217 submarines and about 5,000 sailors, and after the armistice it had to hand over to the Allies every U-boat fit to sail."
 source: wojna-podwodna-1914-1918
-sourceHash: 0835debbe391526d75cee78e33175a919293c5fe
+sourceHash: 7622327086cf43725171acc2e45ae2ce158474a9
 ---
 
 Germany turned to unrestricted submarine warfare because it had no other way to strike at Britain. Its battle fleet could not break the British blockade, but submarines could sink the ships that brought food and raw materials to the British Isles. At the turn of 1916 and 1917 the Admiralty Staff and the Supreme Army Command convinced the Kaiser that sinking about 600,000 tons a month would force Britain to make peace before America could come to its aid. The calculation failed: the British introduced convoys, and the United States entered the war.

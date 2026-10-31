@@ -63,7 +63,7 @@ Rosjanie również stracili wielu ludzi. Najczęściej podaje się, że mieli ok
 
 Po stronie rosyjskiej walczyły ormiańskie drużyny ochotnicze, złożone w dużej części z [Ormian](https://pl.wikipedia.org/wiki/Ormianie) z Kaukazu, ale także z uciekinierów z tureckiej strony granicy. Ich udział był w skali bitwy niewielki, choć ochotnicy wyróżnili się w kilku starciach, a ormiańscy mieszkańcy pogranicza dostarczali Rosjanom informacji o ruchach wojsk osmańskich. Jednocześnie w szeregach 3 Armii służyły tysiące Ormian, obywateli osmańskich. Według relacji ormiańskich jeden z nich miał uratować Envera przed niewolą, a sam Enver po powrocie chwalił w liście do ormiańskiego biskupa Konyi postawę ormiańskich żołnierzy.
 
-Mimo to władze osmańskie szybko zrzuciły część odpowiedzialności za klęskę na Ormian, oskarżając ich o zdradę, dezercję i pomoc dla wroga. W lutym 1915 roku ministerstwo wojny nakazało rozbroić żołnierzy ormiańskich i przenieść ich do batalionów pracy, w których wielu z nich później zamordowano. Historycy są zgodni, że klęska pod Sarykamyszem i szukanie winnych wśród Ormian należały do bezpośredniego tła [ludobójstwa Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), które rozpoczęło się wiosną 1915 roku.
+Mimo to władze osmańskie szybko zrzuciły część odpowiedzialności za klęskę na Ormian, oskarżając ich o zdradę, dezercję i pomoc dla wroga. W lutym 1915 roku ministerstwo wojny nakazało rozbroić żołnierzy ormiańskich i przenieść ich do batalionów pracy, w których wielu z nich później zamordowano. Historycy są zgodni, że klęska pod Sarykamyszem i szukanie winnych wśród Ormian należały do bezpośredniego tła [ludobójstwa Ormian](/tematy/ludobojstwo-ormian), które rozpoczęło się wiosną 1915 roku.
 
 ## Znaczenie
 

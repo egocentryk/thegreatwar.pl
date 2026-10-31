@@ -2,7 +2,7 @@
 title: British fleets ordered to their war bases
 summary: On 28 July 1914 Winston Churchill ordered the First Fleet to move from Portland to its war base at Scapa Flow in the Orkney Islands.
 source: brytyjskie-floty-otrzymuja-rozkaz-przejscia-do-baz-wojennych
-sourceHash: 6cebfc78d3045bac5f5aef83c5b8c871cf735af1
+sourceHash: 2dcf3ffedacf51e823a74bf9a879bff21c3ac21b
 ---
 
 On 28 July 1914, the day Austria-Hungary declared war on Serbia, the British Admiralty took a further decision preparing the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) for war. The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), ordered the First Fleet, held in readiness at Portland for the previous two days, to sail the next day for its war base at [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in the [Orkney Islands](https://pl.wikipedia.org/wiki/Orkady).
@@ -11,4 +11,4 @@ Churchill acted with the consent of the prime minister, [H. H. Asquith](/postaci
 
 The choice of Scapa Flow was no accident. The broad anchorage in the Orkneys lay at the northern end of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), far from the German bases. From there the British fleet could bar Germany's way to the Atlantic and wait for the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) to come out, while remaining beyond the reach of a sudden attack by German torpedo boats. In 1914, however, the base did not yet have defences against submarines, which caused the Admiralty serious anxiety in the first months of the war.
 
-The order of 28 July was a natural continuation of the decision of 26 July, when the dispersal of the fleet after the test mobilisation had been halted. Thanks to it, Great Britain had its main naval forces in their war stations before it had even decided whether to enter the war at all. On 4 August command of the fleet, renamed the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), was taken over by Admiral [John Jellicoe](/postacie/john-jellicoe). That same day [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) declared war on [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie).
+The order of 28 July was a natural continuation of the decision of 26 July, when the dispersal of the fleet after the test mobilisation had been halted. Thanks to it, Great Britain had its main naval forces in their war stations before it had even decided whether to enter the war at all. On 4 August command of the fleet, renamed the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), was taken over by Admiral [John Jellicoe](/postacie/john-jellicoe). That same day [Great Britain](/kraje/wielka-brytania) declared war on [Germany](/kraje/niemcy).

@@ -2,7 +2,7 @@
 title: Haiti declares war on Germany
 summary: On 12 July 1918 Haiti's Council of State, standing in for the dissolved parliament, declared a state of war with Germany. US-occupied Haiti followed Washington.
 source: haiti-wypowiada-wojne-niemcom
-sourceHash: 58c1420e3033a97c0a115191174ea54c4a02de04
+sourceHash: b8d657c262a80846c41c061c94e3de04a85a9ed0
 brief:
   - "On 12 July 1918 the Council of State of the Republic of Haiti, at the government's request, resolved that a state of war existed with the German Empire. President Philippe Sudré Dartiguenave approved it, and it made no mention of Austria-Hungary."
   - "Haiti had been occupied by the United States since 28 July 1915. The resolution was passed by a Council of State appointed by the president, because the elected parliament had been dissolved after refusing to declare war."
@@ -11,7 +11,7 @@ brief:
   - "Taking part in the war secured Haiti a place among the victors, and it signed the Treaty of Versailles in June 1919. The American occupation, however, lasted until 1934."
 ---
 
-On 12 July 1918 the Council of State of the Republic of [Haiti](https://pl.wikipedia.org/wiki/Haiti), which at the time exercised legislative power, resolved at the government's request that from that day a state of war existed between Haiti and the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). President Philippe Sudré Dartiguenave approved the resolution, and the official gazette *Le Moniteur* published it on 13 July. More than a year after [breaking off diplomatic relations with Berlin](/haiti-zrywa-stosunki-z-niemcami), the only French-speaking republic in the Americas became a belligerent. The declaration concerned Germany alone and made no mention of Austria-Hungary.
+On 12 July 1918 the Council of State of the Republic of [Haiti](https://pl.wikipedia.org/wiki/Haiti), which at the time exercised legislative power, resolved at the government's request that from that day a state of war existed between Haiti and the [German Empire](/kraje/niemcy). President Philippe Sudré Dartiguenave approved the resolution, and the official gazette *Le Moniteur* published it on 13 July. More than a year after [breaking off diplomatic relations with Berlin](/haiti-zrywa-stosunki-z-niemcami), the only French-speaking republic in the Americas became a belligerent. The declaration concerned Germany alone and made no mention of Austria-Hungary.
 
 The same day the president addressed the nation in a proclamation whose text was later circulated by the Pan American Union. "In the mighty conflict that is drenching the whole world in blood, two principles are clashing," he wrote. One was brute force, "implacable, heartless, deaf to the lofty ideals that are the honour and the reason for being of the community of nations". The other was "Right, sacred Right", the great moral achievement of humanity. "Small nations have only one strength in international life, Right, which is the guarantee of their existence," Dartiguenave argued. Germany, "that mighty military power warring against nations", had in his view risen against Right in open revolt, and so Haiti's place was among the peoples fighting it, at the side of "our powerful and natural ally, the United States".
 

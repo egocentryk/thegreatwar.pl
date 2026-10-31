@@ -2,7 +2,7 @@
 title: German submarine blockade begins
 summary: On 18 February 1915 the German war zone around the British Isles came into force. U-boats began hunting ships bound for British ports.
 source: poczatek-niemieckiej-blokady-podwodnej
-sourceHash: 9d57a6401a03289cd4a78c58b1b81439b75a0301
+sourceHash: 71beecdb1ca0bddc638cfd76b8aaa553bbea606d
 ---
 
 On 18 February 1915 the two-week deadline set in the German declaration of 4 February expired. The waters around Great Britain and Ireland, including the English Channel, became a [war zone](/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich) in which German submarines were to sink enemy merchant ships without warning. In Britain and in Germany people spoke of the start of the submarine blockade of the British Isles.
@@ -31,4 +31,4 @@ Neutral countries were threatened not only by submarines. On 19 February in the 
 
 The campaign was only getting under way. On 23 and 24 February *U-8* sank five British ships in the English Channel near [Beachy Head](https://pl.wikipedia.org/wiki/Beachy_Head). The losses did not, however, threaten the supply of Britain, which had the largest merchant fleet in the world. The Germans could send only a few submarines into British waters at a time, and the great majority of ships still reached British ports safely.
 
-The political consequences proved more important. Sinking ships without warning, and often with their people on board, caused outrage in neutral countries, especially in the United States. The first German campaign of [submarine warfare](https://pl.wikipedia.org/wiki/Wojna_podwodna_w_latach_1914–1918) was to last until the autumn of 1915 and lead to the most serious crisis in relations between Berlin and Washington since the beginning of the war.
+The political consequences proved more important. Sinking ships without warning, and often with their people on board, caused outrage in neutral countries, especially in the United States. The first German campaign of [submarine warfare](/tematy/wojna-podwodna-1914-1918) was to last until the autumn of 1915 and lead to the most serious crisis in relations between Berlin and Washington since the beginning of the war.

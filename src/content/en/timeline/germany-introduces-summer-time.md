@@ -2,10 +2,10 @@
 title: Germany introduces summer time
 summary: At 11 p.m. on 30 April 1916 Germany and Austria-Hungary put their clocks forward an hour. The first summer time in history was meant to save coal and oil.
 source: niemcy-wprowadzaja-czas-letni
-sourceHash: c143684c0bd088622dbaa21187864e129d73457d
+sourceHash: f1e610c83665634201cd6c37c6a88ac90d9ce0b1
 ---
 
-On Sunday 30 April 1916, at 11 p.m., clocks throughout Germany were moved on to midnight. So began the first [summer time](https://pl.wikipedia.org/wiki/Czas_letni) in history introduced across a whole state. The same night the people of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) put their clocks forward. From then on the working day began an hour earlier by the sun, and it stayed light longer in the evening.
+On Sunday 30 April 1916, at 11 p.m., clocks throughout Germany were moved on to midnight. So began the first [summer time](https://pl.wikipedia.org/wiki/Czas_letni) in history introduced across a whole state. The same night the people of [Austria-Hungary](/kraje/austro-wegry) put their clocks forward. From then on the working day began an hour earlier by the sun, and it stayed light longer in the evening.
 
 The change was based on an ordinance of the Federal Council (Bundesrat) of 6 April 1916 "on putting the hours forward during the period from 1 May to 30 September 1916". The Council issued it under the law of 4 August 1914 that empowered it to take economic measures for the duration of the war. The ordinance laid down that during the summer the legal time would be the mean solar time of the 30th meridian east of Greenwich, and thus an hour later than [Central European Time](https://pl.wikipedia.org/wiki/Czas_środkowoeuropejski). The summer period began at 11 p.m. on 30 April and ended in the night of 30 September to 1 October, an hour after midnight, when the clocks were to be put back. As early as 8 April the American embassy in Berlin sent a translation of the ordinance to Washington.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 września 1914 roku, po nocnych przeprawach przez graniczną rzekę [Drinę](https://pl.wikipedia.org/wiki/Drina), wojska austro-węgierskie zaczęły walkę o wzgórza zachodniej [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Tak zaczęła się [bitwa nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną), ciąg krwawych starć w górach nad rzeką, który trwał prawie cztery tygodnie i zamienił się w wojnę okopową. Brytyjska chronologia wojny notuje jej początek pod tą datą. Pierwsze próby przeprawy austro-węgierska 5 Armia podjęła już 7 września, a polska Wikipedia liczy bitwę od 6 września, włączając do niej serbską ofensywę w Sremie.
+8 września 1914 roku, po nocnych przeprawach przez graniczną rzekę [Drinę](https://pl.wikipedia.org/wiki/Drina), wojska austro-węgierskie zaczęły walkę o wzgórza zachodniej [Serbii](/kraje/serbia). Tak zaczęła się [bitwa nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną), ciąg krwawych starć w górach nad rzeką, który trwał prawie cztery tygodnie i zamienił się w wojnę okopową. Brytyjska chronologia wojny notuje jej początek pod tą datą. Pierwsze próby przeprawy austro-węgierska 5 Armia podjęła już 7 września, a polska Wikipedia liczy bitwę od 6 września, włączając do niej serbską ofensywę w Sremie.
 
 ## Przeprawy
 

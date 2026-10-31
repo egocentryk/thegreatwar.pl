@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Serbia
 summary: On 28 July 1914 Austria-Hungary declared war on Serbia by telegram. That same night Belgrade was shelled and the First World War began.
 source: austro-wegry-wypowiadaja-wojne-serbii
-sourceHash: 6219325555e6f548f58c11589f06c29dd794628d
+sourceHash: 7ae01938399b6095ffe90e3c73d8730f9cff479a
 brief:
   - "On 28 July 1914, exactly a month after the assassination in Sarajevo, Austria-Hungary declared war on Serbia. For many historians this day marks the beginning of the First World War."
   - "Leopold Berchtold sent the declaration by telegram to Prime Minister Nikola Pašić in Niš, as diplomatic relations had been broken off three days earlier. It was the first time war had been declared by telegram."
@@ -11,7 +11,7 @@ brief:
   - "Vienna counted on a short, local war, but Russia stood behind Serbia and Germany behind Austria-Hungary. Within a week the Balkan conflict had turned into a general European war."
 ---
 
-On 28 July 1914, exactly a month after the assassination in Sarajevo, [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) declared war on [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). That same night the first shells fell on Belgrade. For many historians this day marks the beginning of the [First World War](https://pl.wikipedia.org/wiki/I_wojna_światowa). A conflict that Vienna had wanted to confine to a short reckoning with its neighbour drew all the great powers of Europe into war within a week.
+On 28 July 1914, exactly a month after the assassination in Sarajevo, [Austria-Hungary](/kraje/austro-wegry) declared war on [Serbia](/kraje/serbia). That same night the first shells fell on Belgrade. For many historians this day marks the beginning of the [First World War](https://pl.wikipedia.org/wiki/I_wojna_światowa). A conflict that Vienna had wanted to confine to a short reckoning with its neighbour drew all the great powers of Europe into war within a week.
 
 ## War declared by telegram
 
@@ -35,6 +35,6 @@ The actual advance of troops into Serbia had to wait for mobilisation to be comp
 
 ## From a local war to a world war
 
-Vienna had counted on the war with Serbia being short and local. It turned out otherwise, because behind Serbia stood [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie), and behind Austria-Hungary stood [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Over the following days Russia announced [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja), and Germany responded by declaring war on Russia on 1 August and on [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) on 3 August. On 4 August, after the German invasion of Belgium, [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) entered the war.
+Vienna had counted on the war with Serbia being short and local. It turned out otherwise, because behind Serbia stood [Russia](/kraje/rosja), and behind Austria-Hungary stood [Germany](/kraje/niemcy). Over the following days Russia announced [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja), and Germany responded by declaring war on Russia on 1 August and on [France](/kraje/francja) on 3 August. On 4 August, after the German invasion of Belgium, [Great Britain](/kraje/wielka-brytania) entered the war.
 
 A single week was thus enough for a local conflict in the Balkans to turn into a general European war, and soon a world war. That is why 28 July 1914 is one of the most important dates in the history of Europe. The telegram sent from Vienna to Niš opened a war that lasted more than four years, claimed millions of lives and redrew the map of the continent.

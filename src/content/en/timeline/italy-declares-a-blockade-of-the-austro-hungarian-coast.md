@@ -2,10 +2,10 @@
 title: Italy declares a blockade of the Austro-Hungarian coast
 summary: On 26 May 1915 Italy declared a blockade of the whole Austro-Hungarian coast and of neutral Albania. Neutral ships were given time to leave the zone.
 source: wlochy-oglaszaja-blokade-wybrzeza-austro-wegierskiego
-sourceHash: f096656d09f530690729e1197ad5b16f33476174
+sourceHash: a60ec9a30f7f1e9534931c4cb7a7dac52de51b9a
 ---
 
-On 26 May 1915, three days after declaring war on Austria-Hungary, the Italian government declared a blockade of the enemy's coasts. The declaration, circulated by the foreign ministry in Rome to the missions of foreign states, was in force from 26 May. It covered the whole Austro-Hungarian coast from the frontier with Italy in the north to the frontier with [Montenegro](https://pl.wikipedia.org/wiki/Czarnogóra) in the south, "with all its ports, islands, harbours, roadsteads and bays", and the coast of [Albania](https://pl.wikipedia.org/wiki/Księstwo_Albanii) from the Montenegrin frontier to Cape Kefali (Kephali) in the south of the country. The coast of allied Montenegro was excluded from the blockade.
+On 26 May 1915, three days after declaring war on Austria-Hungary, the Italian government declared a blockade of the enemy's coasts. The declaration, circulated by the foreign ministry in Rome to the missions of foreign states, was in force from 26 May. It covered the whole Austro-Hungarian coast from the frontier with Italy in the north to the frontier with [Montenegro](/kraje/czarnogora) in the south, "with all its ports, islands, harbours, roadsteads and bays", and the coast of [Albania](https://pl.wikipedia.org/wiki/Księstwo_Albanii) from the Montenegrin frontier to Cape Kefali (Kephali) in the south of the country. The coast of allied Montenegro was excluded from the blockade.
 
 ## Why Albania too
 

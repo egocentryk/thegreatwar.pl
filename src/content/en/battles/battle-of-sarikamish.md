@@ -9,7 +9,7 @@ sides:
     commanders: [Illarion Vorontsov-Dashkov, Alexander Myshlayevsky, Nikolai Yudenich, Georgy Berkhman]
 result: Decisive Russian victory. The Ottoman 3rd Army lost most of its soldiers, largely to frost and disease. IX Corps was captured, and the Turks long lost the capacity to attack in the Caucasus.
 source: bitwa-pod-sarykamyszem
-sourceHash: fa2728b1d5aa92cf6c1d293c53997fea71d43b6b
+sourceHash: c5075787e13f5392cc3bec2a0db5b4d3bd2f1fe4
 brief:
   - "The Battle of Sarikamish, fought from 22 December 1914 to 17 January 1915, was the first great battle on the Caucasus front and one of the greatest defeats in the history of the Ottoman army."
   - "Enver Pasha wanted to destroy the weakened Russian Caucasus Army and recover Kars, Ardahan and Batumi. When the 3rd Army's commander judged a winter offensive impracticable, Enver took command himself."
@@ -58,7 +58,7 @@ The Russians also lost many men. The most often cited figure is about 20,000–3
 
 On the Russian side fought Armenian volunteer units, made up largely of [Armenians](https://pl.wikipedia.org/wiki/Ormianie) from the Caucasus but also of refugees from the Turkish side of the border. Their part was small on the scale of the battle, although the volunteers distinguished themselves in several engagements, and the Armenian inhabitants of the borderland supplied the Russians with information about Ottoman troop movements. At the same time thousands of Armenians, Ottoman subjects, served in the ranks of the 3rd Army. According to Armenian accounts one of them saved Enver from capture, and Enver himself, after his return, praised the conduct of Armenian soldiers in a letter to the Armenian bishop of Konya.
 
-Nevertheless the Ottoman authorities quickly shifted part of the blame for the defeat onto the Armenians, accusing them of treason, desertion and aiding the enemy. In February 1915 the War Ministry ordered Armenian soldiers to be disarmed and transferred to labour battalions, in which many of them were later murdered. Historians agree that the defeat at Sarikamish and the search for scapegoats among the Armenians formed part of the immediate background to the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), which began in the spring of 1915.
+Nevertheless the Ottoman authorities quickly shifted part of the blame for the defeat onto the Armenians, accusing them of treason, desertion and aiding the enemy. In February 1915 the War Ministry ordered Armenian soldiers to be disarmed and transferred to labour battalions, in which many of them were later murdered. Historians agree that the defeat at Sarikamish and the search for scapegoats among the Armenians formed part of the immediate background to the [Armenian genocide](/tematy/ludobojstwo-ormian), which began in the spring of 1915.
 
 ## Significance
 

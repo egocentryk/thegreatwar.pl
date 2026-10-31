@@ -18,7 +18,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Julian_Jasiński"
 ---
 
-W nocy z 24 na 25 lipca 1918 roku 5 kompania 1 pułku strzelców polskich wyszła z okopów pod [Saint-Hilaire-le-Grand](https://pl.wikipedia.org/wiki/Saint-Hilaire-le-Grand) w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims). Po krótkim ostrzale artyleryjskim zdobyła szturmem niewielkie zalesione wzgórze Bois de la Raquette, wzięła jeńców i karabiny maszynowe, a potem odparła trzy niemieckie kontrataki. Zapłaciła za to śmiercią wszystkich swoich oficerów. Był to wtedy jedyny pułk [Armii Polskiej we Francji](https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji), który walczył na froncie, a 25 lipca stał się dniem jego święta.
+W nocy z 24 na 25 lipca 1918 roku 5 kompania 1 pułku strzelców polskich wyszła z okopów pod [Saint-Hilaire-le-Grand](https://pl.wikipedia.org/wiki/Saint-Hilaire-le-Grand) w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims). Po krótkim ostrzale artyleryjskim zdobyła szturmem niewielkie zalesione wzgórze Bois de la Raquette, wzięła jeńców i karabiny maszynowe, a potem odparła trzy niemieckie kontrataki. Zapłaciła za to śmiercią wszystkich swoich oficerów. Był to wtedy jedyny pułk [Armii Polskiej we Francji](/tematy/polskie-formacje-wojskowe), który walczył na froncie, a 25 lipca stał się dniem jego święta.
 
 ## Pod Reims
 

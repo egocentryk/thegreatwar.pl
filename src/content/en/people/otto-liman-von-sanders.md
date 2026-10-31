@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Stolp (Prussia)
 deathPlace: Munich
 source: otto-liman-von-sanders
-sourceHash: f9cdeb1fedc7c98601732e8cd8193f83ace1e342
+sourceHash: d1bc9c8e40b467fe7be5032208c5b1f8947a9759
 ---
 
 Otto Liman von Sanders spent the whole of the First World War in Turkish service. He came to Constantinople at the end of 1913 as head of the German military mission that was to reform the Ottoman army after its defeats in the Balkan Wars, and his very arrival set off an international crisis. In 1915 he commanded the Fifth Army, which defended the Gallipoli peninsula against the Allied landing, Turkey's greatest victory of the war. In 1918 he took over the front in Palestine and Syria, where his armies were routed by the British at Megiddo. He was the only senior German commander to lead Ottoman troops throughout the war, and his relations with the Turkish leaders and with German diplomats were almost always strained.
@@ -33,7 +33,7 @@ In August the Allies tried again, attacking the [Sari Bair heights](/bitwy/bitwa
 
 ## 1916–1917: Smyrna and the coast
 
-After the campaign Liman remained commander of the Fifth Army, which defended the Aegean coast, including [Izmir](https://pl.wikipedia.org/wiki/Izmir), the former Smyrna. During this period, according to German Foreign Office documents and his own accounts, he several times opposed deportations of the civilian population. In Smyrna, by threatening the authorities with the use of troops, he stopped the deportation of the local Armenians, and in 1917 he opposed the removal of Greeks from the coast. His stance was not, however, unambiguous: in the spring of 1917 he himself ordered part of the Greeks of Ayvalık to be evacuated for military reasons, although he later softened that order. During the years of the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian) he was one of the few senior German officers who openly opposed deportations where they had authority.
+After the campaign Liman remained commander of the Fifth Army, which defended the Aegean coast, including [Izmir](https://pl.wikipedia.org/wiki/Izmir), the former Smyrna. During this period, according to German Foreign Office documents and his own accounts, he several times opposed deportations of the civilian population. In Smyrna, by threatening the authorities with the use of troops, he stopped the deportation of the local Armenians, and in 1917 he opposed the removal of Greeks from the coast. His stance was not, however, unambiguous: in the spring of 1917 he himself ordered part of the Greeks of Ayvalık to be evacuated for military reasons, although he later softened that order. During the years of the [Armenian genocide](/tematy/ludobojstwo-ormian) he was one of the few senior German officers who openly opposed deportations where they had authority.
 
 ## 1918: Palestine
 

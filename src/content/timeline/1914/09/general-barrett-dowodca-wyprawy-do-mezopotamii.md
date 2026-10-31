@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 września 1914 roku, według brytyjskiej kroniki wojny, generał porucznik Sir Arthur Barrett został wyznaczony na przyszłego dowódcę Indyjskiego Korpusu Ekspedycyjnego D. Była to siła, którą Indie Brytyjskie przygotowywały do działań nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska) na wypadek przystąpienia [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) do wojny po stronie Niemiec.
+28 września 1914 roku, według brytyjskiej kroniki wojny, generał porucznik Sir Arthur Barrett został wyznaczony na przyszłego dowódcę Indyjskiego Korpusu Ekspedycyjnego D. Była to siła, którą Indie Brytyjskie przygotowywały do działań nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska) na wypadek przystąpienia [Imperium Osmańskiego](/kraje/imperium-osmanskie) do wojny po stronie Niemiec.
 
 ## Ropa z Abadanu
 

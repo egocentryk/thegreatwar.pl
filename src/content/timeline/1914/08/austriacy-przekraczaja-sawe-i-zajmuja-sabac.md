@@ -12,11 +12,11 @@ milestone: false
 draft: false
 ---
 
-12 sierpnia 1914 roku, dwa tygodnie po wypowiedzeniu wojny Serbii, wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) rozpoczęły inwazję na jej terytorium. Jedną z pierwszych operacji było sforsowanie rzeki [Sawy](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) na północ od miasta [Šabac](https://pl.wikipedia.org/wiki/Šabac), które Austriacy wkrótce zajęli.
+12 sierpnia 1914 roku, dwa tygodnie po wypowiedzeniu wojny Serbii, wojska [Austro-Węgier](/kraje/austro-wegry) rozpoczęły inwazję na jej terytorium. Jedną z pierwszych operacji było sforsowanie rzeki [Sawy](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) na północ od miasta [Šabac](https://pl.wikipedia.org/wiki/Šabac), które Austriacy wkrótce zajęli.
 
 ## Uderzenie od północy i zachodu
 
-Austro-węgierski plan zakładał atak na [Serbię](https://pl.wikipedia.org/wiki/Królestwo_Serbii) z dwóch kierunków. Od zachodu, przez graniczną rzekę Drinę, nacierała 5 Armia, a od północy, przez Sawę, część 2 Armii. Dowództwo nad całą operacją objął generał [Oskar Potiorek](/postacie/oskar-potiorek), gubernator Bośni i Hercegowiny. To właśnie w jego obecności w czerwcu zginął w Sarajewie arcyksiążę Franciszek Ferdynand, a Potiorek pragnął szybko ukarać Serbię.
+Austro-węgierski plan zakładał atak na [Serbię](/kraje/serbia) z dwóch kierunków. Od zachodu, przez graniczną rzekę Drinę, nacierała 5 Armia, a od północy, przez Sawę, część 2 Armii. Dowództwo nad całą operacją objął generał [Oskar Potiorek](/postacie/oskar-potiorek), gubernator Bośni i Hercegowiny. To właśnie w jego obecności w czerwcu zginął w Sarajewie arcyksiążę Franciszek Ferdynand, a Potiorek pragnął szybko ukarać Serbię.
 
 Przeprawa przez Sawę pod Šabacem nie napotkała silnego oporu. Główne siły serbskie znajdowały się głębiej w kraju, a naczelny wódz, wojewoda [Radomir Putnik](/postacie/radomir-putnik), czekał, by poznać kierunek głównego uderzenia przeciwnika. Šabac, ważny ośrodek w żyznej dolinie Mačvy, znalazł się w rękach austro-węgierskich.
 

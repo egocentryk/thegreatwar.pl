@@ -2,10 +2,10 @@
 title: HMS Gloucester attacks Goeben and Breslau off Greece
 summary: On 7 August 1914 the British cruiser Gloucester shadowed the German ships Goeben and Breslau and opened fire on Breslau off the coast of Greece.
 source: hms-gloucester-atakuje-goebena-i-breslau
-sourceHash: 8462d4c975f66d1e8d284b2ee69aea1719d7196c
+sourceHash: ad5faa29cfd8fd13348176d6f25a338a877b871d
 ---
 
-On 7 August 1914 in the [Ionian Sea](https://pl.wikipedia.org/wiki/Morze_Jońskie), off the west coast of [Greece](https://pl.wikipedia.org/wiki/Grecja), the British light cruiser HMS Gloucester fought a brief skirmish with the German ships [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) and [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau). It was an episode in the pursuit that ended with the Germans' escape to the Dardanelles.
+On 7 August 1914 in the [Ionian Sea](https://pl.wikipedia.org/wiki/Morze_Jońskie), off the west coast of [Greece](/kraje/grecja), the British light cruiser HMS Gloucester fought a brief skirmish with the German ships [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) and [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau). It was an episode in the pursuit that ended with the Germans' escape to the Dardanelles.
 
 ## A lone pursuit
 

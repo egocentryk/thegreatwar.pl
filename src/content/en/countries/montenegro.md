@@ -8,7 +8,7 @@ brief:
   - "In January 1916 Austria-Hungary took Lovćen and Cetinje, the king left for Italy, and on 25 January the terms for laying down arms were signed."
   - "The country was occupied until autumn 1918, and on 26 November 1918 the assembly at Podgorica deposed the king and proclaimed union with Serbia."
 source: czarnogora
-sourceHash: dd3f2b7e1c4cbad8b1e3d49d2afde3fcb3bca875
+sourceHash: 9da5e53c8f8b817e20aebb3773c60e66209e7f32
 ---
 
 Montenegro, a small mountain monarchy in the Balkans, entered the war in the first week of August 1914 as Serbia's ally. Its poorly armed army fought under Serbian command, threatened the Austro-Hungarian naval base at Kotor from the Lovćen massif, and in autumn 1915 covered the Serbs' retreat to Albania. In January 1916 Austria-Hungary overran the country in less than three weeks, and Montenegro became the only Entente state to lose both its entire territory and its army in this war. King Nicholas I never signed a capitulation, but he never returned to the country either. In November 1918 the assembly at Podgorica deposed him and proclaimed union with Serbia.

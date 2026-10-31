@@ -2,14 +2,14 @@
 title: Russia orders partial mobilisation against Austria-Hungary
 summary: On 29 July 1914 Russia mobilised four military districts against Austria-Hungary. That evening the Tsar halted a general mobilisation that was ready to go.
 source: rosja-zarzadza-czesciowa-mobilizacje-przeciw-austro-wegrom
-sourceHash: ad47723d6a5e07e21658f4519d50645dd9fdd199
+sourceHash: ec6ef3102b3d2249e915a8e81ab8e9b031c25418
 ---
 
-On 29 July 1914, the day after [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) declared war on Serbia, [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) ordered a partial [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja). It covered four military districts – Odessa, Kiev, Moscow and Kazan – the ones intended to act against the Habsburg monarchy, above all on the border with [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). It was the first mobilisation by one of the great powers directed against another great power.
+On 29 July 1914, the day after [Austria-Hungary](/kraje/austro-wegry) declared war on Serbia, [Russia](/kraje/rosja) ordered a partial [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja). It covered four military districts – Odessa, Kiev, Moscow and Kazan – the ones intended to act against the Habsburg monarchy, above all on the border with [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)). It was the first mobilisation by one of the great powers directed against another great power.
 
 ## A signal to Vienna, not Berlin
 
-The decision had in principle been taken as early as 25 July. The Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), saw partial mobilisation as a means of putting pressure on Vienna that would not at the same time threaten Germany. Leaving out the districts bordering the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) was meant to show Berlin that Russia had no intention of attacking it.
+The decision had in principle been taken as early as 25 July. The Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), saw partial mobilisation as a means of putting pressure on Vienna that would not at the same time threaten Germany. Leaving out the districts bordering the [German Empire](/kraje/niemcy) was meant to show Berlin that Russia had no intention of attacking it.
 
 Russian generals warned, however, that this approach was risky. The [Russian army](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego) had no ready plan for a partial mobilisation, and an improvised mobilisation of several districts could seriously disrupt any later general mobilisation. The Chief of the General Staff, [Nikolai Yanushkevich](https://pl.wikipedia.org/wiki/Nikołaj_Januszkiewicz), and the War Minister, [Vladimir Sukhomlinov](https://pl.wikipedia.org/wiki/Władimir_Suchomlinow), therefore pressed for the mobilisation of the entire army.
 

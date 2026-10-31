@@ -18,7 +18,7 @@ sources:
   - "https://en.wikipedia.org/wiki/British_Summer_Time"
 ---
 
-W niedzielę 30 kwietnia 1916 roku o godzinie 23 w całych Niemczech przestawiono zegary na północ. Tak zaczął się pierwszy w dziejach [czas letni](https://pl.wikipedia.org/wiki/Czas_letni) wprowadzony w całym państwie. Tej samej nocy zegarki przesunęli mieszkańcy [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry). Dzień pracy zaczynał się odtąd o godzinę wcześniej według słońca, a wieczorem dłużej było jasno.
+W niedzielę 30 kwietnia 1916 roku o godzinie 23 w całych Niemczech przestawiono zegary na północ. Tak zaczął się pierwszy w dziejach [czas letni](https://pl.wikipedia.org/wiki/Czas_letni) wprowadzony w całym państwie. Tej samej nocy zegarki przesunęli mieszkańcy [Austro-Węgier](/kraje/austro-wegry). Dzień pracy zaczynał się odtąd o godzinę wcześniej według słońca, a wieczorem dłużej było jasno.
 
 Podstawą zmiany było rozporządzenie Rady Związkowej (Bundesrat) z 6 kwietnia 1916 roku „o przesunięciu godzin w okresie od 1 maja do 30 września 1916 roku”. Rada wydała je na mocy ustawy z 4 sierpnia 1914 roku, która upoważniała ją do zarządzeń gospodarczych na czas wojny. Rozporządzenie stanowiło, że przez lato czasem urzędowym będzie średni czas słoneczny 30 południka na wschód od Greenwich, a więc o godzinę późniejszy od [czasu środkowoeuropejskiego](https://pl.wikipedia.org/wiki/Czas_środkowoeuropejski). Okres letni zaczynał się 30 kwietnia o 23, a kończył w nocy z 30 września na 1 października, godzinę po północy, gdy zegarki miano cofnąć. Już 8 kwietnia ambasada amerykańska w Berlinie wysłała do Waszyngtonu tłumaczenie rozporządzenia.
 

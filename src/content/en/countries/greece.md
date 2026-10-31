@@ -9,7 +9,7 @@ brief:
   - "In June 1917 the Entente forced the king to leave, on 27 June Venizelos took power in Athens, and the whole of Greece went to war."
   - "In 1918 ten Greek divisions, about 300 thousand men, fought on the Salonika front, among other places at Skra di Legen and Doiran."
 source: grecja
-sourceHash: 3891cd1c3fbee3bb1a27fb17d8a62b229d6affc0
+sourceHash: 91020211c30e59add8aa39855cf3445a4da52170
 ---
 
 For most of the First World War Greece was formally neutral, although both sides fought on its soil. The quarrel between Prime Minister Eleftherios Venizelos, who wanted war on the side of the Entente, and King Constantine I, who favoured neutrality, tore the country apart. From autumn 1916 Greece had two governments: a royal one in Athens and a revolutionary one in Salonika, which declared war on Germany and Bulgaria. In June 1917 the Entente forced the king to leave, and Greece, united under Venizelos, entered the war and in 1918 fought on the Salonika front. It came out of it enlarged but deeply divided.

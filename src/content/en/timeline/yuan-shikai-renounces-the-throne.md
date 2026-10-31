@@ -2,7 +2,7 @@
 title: Yuan Shikai renounces the throne
 summary: On 22 March 1916, after the southern provinces rebelled and his own generals refused support, Yuan Shikai cancelled the monarchy. He stayed President.
 source: yuan-shikai-zrzeka-sie-tronu
-sourceHash: a87e07febbc7c453b38122ddfedeb7c69a7b10d9
+sourceHash: e5b7b845e361419ec2646890b571bfff6d211177
 ---
 
 On 22 March 1916 the President of China, [Yuan Shikai](https://pl.wikipedia.org/wiki/Yuan_Shikai), announced that he was cancelling the restoration of the monarchy. Three months earlier he had [accepted the throne](/yuan-shikai-przyjmuje-tron) offered to him by the Council of State, but he had never been crowned. Now he ordered all the petitions urging him to take the throne to be returned to the Council, so that it could send them back to their senders to be destroyed, and preparations for the ceremony to be stopped. The next day the Hongxian era introduced on 1 January was abolished and the republican calendar restored. Counting from the acceptance of the throne on 12 December, the monarchy had lasted 102 days. Yuan kept the office of President of the Republic. The American minister in Peking, Paul Reinsch, cabled that evening that politicians who had disapproved of the imperial plans were returning to the government, and that the decree was countersigned by [Xu Shichang](https://pl.wikipedia.org/wiki/Xu_Shichang), an old associate of Yuan's who had not supported the imperial plans and had withdrawn into the background.
@@ -11,7 +11,7 @@ On 22 March 1916 the President of China, [Yuan Shikai](https://pl.wikipedia.org/
 
 Resistance began on 25 December 1915 in the province of [Yunnan](https://pl.wikipedia.org/wiki/Junnan). There General [Cai E](https://pl.wikipedia.org/wiki/Cai_E) and the governor Tang Jiyao came out in defence of the republic and formed the National Protection Army. The conflict went down in history as the National Protection War, also called the Third Revolution. Cai E's troops entered [Sichuan](https://pl.wikipedia.org/wiki/Syczuan), and on 27 January the province of [Guizhou](https://pl.wikipedia.org/wiki/Kuejczou) joined the rising. Yuan sent troops from the north against them. In February and early March they recovered some of the lost towns in Sichuan, but the fighting in the mountains dragged on. As early as January Peking postponed the formal accession to the throne, planned for 9 February, and at the end of February Yuan announced that he was postponing it indefinitely.
 
-[Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Japonii) was also against the empire. According to historians, on 7 March the cabinet of [Shigenobu Ōkuma](/postacie/shigenobu-okuma) resolved to work for Yuan's removal from power, and Japanese money was reaching his opponents. Reinsch wrote in February that rumours of Japanese help for the revolutionaries were circulating throughout China, but that there was no evidence for them.
+[Japan](/kraje/japonia) was also against the empire. According to historians, on 7 March the cabinet of [Shigenobu Ōkuma](/postacie/shigenobu-okuma) resolved to work for Yuan's removal from power, and Japanese money was reaching his opponents. Reinsch wrote in February that rumours of Japanese help for the revolutionaries were circulating throughout China, but that there was no evidence for them.
 
 ## The generals refuse
 

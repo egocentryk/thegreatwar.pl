@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 3 lutego 1915 roku, że rząd [Bułgarii](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) wynegocjował w Niemczech pożyczkę w wysokości 3 milionów funtów szterlingów, czyli około 75 milionów franków. Nie były to jednak pierwsze niemieckie pieniądze dla Sofii. Źródła nie są zgodne, czy chodziło o nową pożyczkę, czy o zaliczkę albo kolejną transzę wielkiego kredytu, który Bułgaria zaciągnęła w Niemczech tuż przed wybuchem wojny. Część opracowań wspomina o wypłacie z tego kredytu raty w wysokości 150 milionów.
+Brytyjska chronologia wojny odnotowuje pod 3 lutego 1915 roku, że rząd [Bułgarii](/kraje/bulgaria) wynegocjował w Niemczech pożyczkę w wysokości 3 milionów funtów szterlingów, czyli około 75 milionów franków. Nie były to jednak pierwsze niemieckie pieniądze dla Sofii. Źródła nie są zgodne, czy chodziło o nową pożyczkę, czy o zaliczkę albo kolejną transzę wielkiego kredytu, który Bułgaria zaciągnęła w Niemczech tuż przed wybuchem wojny. Część opracowań wspomina o wypłacie z tego kredytu raty w wysokości 150 milionów.
 
 ## Pożyczka z lipca 1914 roku
 

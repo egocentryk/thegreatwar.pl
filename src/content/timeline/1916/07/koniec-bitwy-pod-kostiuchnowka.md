@@ -19,7 +19,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Rada_Pułkowników"
 ---
 
-6 lipca 1916 roku, w trzecim dniu walk pod Kostiuchnówką, rosyjskie natarcie przełamało front na odcinku sąsiadujących z [Legionami](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) oddziałów austro-węgierskich. Po południu Komenda Legionów wydała rozkaz odwrotu znad [Styru](https://pl.wikipedia.org/wiki/Styr) za [Stochód](https://pl.wikipedia.org/wiki/Stochód). Legioniści odeszli, odpierając szarże rosyjskiej kawalerii, jako jedni z ostatnich. Trzydniowa bitwa kosztowała ich około 2 tysięcy zabitych, rannych i zaginionych.
+6 lipca 1916 roku, w trzecim dniu walk pod Kostiuchnówką, rosyjskie natarcie przełamało front na odcinku sąsiadujących z [Legionami](/tematy/polskie-formacje-wojskowe) oddziałów austro-węgierskich. Po południu Komenda Legionów wydała rozkaz odwrotu znad [Styru](https://pl.wikipedia.org/wiki/Styr) za [Stochód](https://pl.wikipedia.org/wiki/Stochód). Legioniści odeszli, odpierając szarże rosyjskiej kawalerii, jako jedni z ostatnich. Trzydniowa bitwa kosztowała ich około 2 tysięcy zabitych, rannych i zaginionych.
 
 ## Drugi dzień: walka o Polską Górę
 

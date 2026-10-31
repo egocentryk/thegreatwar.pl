@@ -2,7 +2,7 @@
 title: Goeben and Breslau enter the Dardanelles
 summary: The German warships Goeben and Breslau, pursued by the British, took refuge in the Dardanelles. Their arrival drew Turkey closer to war on Germany's side.
 source: goeben-i-breslau-wplywaja-do-dardaneli
-sourceHash: bd1197889b2c500dd862cdbcb276158d5c9ac990
+sourceHash: d6645b9df4f55aee7c04b55290959591807c5847
 ---
 
 After a week-long flight across the Mediterranean, the German warships [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) and [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau) reached the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele), the strait leading to Constantinople. Contemporary chronicles record their entry into the strait under 11 August 1914, although according to most sources the ships reached the entrance to the Dardanelles on the evening of 10 August.
@@ -11,7 +11,7 @@ After a week-long flight across the Mediterranean, the German warships [Goeben](
 
 From the start of the war Rear Admiral [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon) had led his ships across the Mediterranean, evading the British fleet. After shelling ports in Algeria and coaling at Messina he headed east. On 7 August his ships were still being pursued by the British cruiser Gloucester, but the main British forces expected the Germans to try to escape westwards. By the time it was understood where they were heading, it was too late.
 
-Entering the Dardanelles was not a foregone conclusion. The [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) was formally neutral, and the rules of neutrality forbade the warships of belligerents from staying long in its waters. Permission to let the German ships through was, however, given by the Minister of War, [Enver Pasha](/postacie/enver-pasza), a supporter of alliance with Germany. The ships passed the forts around [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) and anchored in the strait.
+Entering the Dardanelles was not a foregone conclusion. The [Ottoman Empire](/kraje/imperium-osmanskie) was formally neutral, and the rules of neutrality forbade the warships of belligerents from staying long in its waters. Permission to let the German ships through was, however, given by the Minister of War, [Enver Pasha](/postacie/enver-pasza), a supporter of alliance with Germany. The ships passed the forts around [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) and anchored in the strait.
 
 ## A fictitious sale
 

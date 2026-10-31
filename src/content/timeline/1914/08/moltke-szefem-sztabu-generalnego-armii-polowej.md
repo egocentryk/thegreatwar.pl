@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 sierpnia 1914 roku, w pierwszym dniu niemieckiej mobilizacji, generał [Helmuth von Moltke](/postacie/helmuth-von-moltke) został szefem Sztabu Generalnego Armii Polowej. Oznaczało to, że człowiek, który od 1906 roku kierował przygotowaniami [Niemiec](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) do wojny, przejmował teraz faktyczne dowództwo nad armią w czasie wojny.
+2 sierpnia 1914 roku, w pierwszym dniu niemieckiej mobilizacji, generał [Helmuth von Moltke](/postacie/helmuth-von-moltke) został szefem Sztabu Generalnego Armii Polowej. Oznaczało to, że człowiek, który od 1906 roku kierował przygotowaniami [Niemiec](/kraje/niemcy) do wojny, przejmował teraz faktyczne dowództwo nad armią w czasie wojny.
 
 Zmiana wynikała z niemieckiego systemu dowodzenia. W czasie pokoju Wielki Sztab Generalny zajmował się planowaniem i przygotowaniem armii. Z chwilą mobilizacji stawał się sztabem armii polowej, tworząc Naczelne Dowództwo Wojsk Lądowych (Oberste Heeresleitung). Formalnie najwyższym wodzem był cesarz [Wilhelm II](/postacie/wilhelm-ii), ale w praktyce to szef sztabu wydawał rozkazy w jego imieniu i kierował operacjami wojennymi.
 

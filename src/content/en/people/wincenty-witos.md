@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Wierzchosławice near Tarnów (Galicia, Austria-Hungary)
 deathPlace: Kraków
 source: wincenty-witos
-sourceHash: 68c60f43e34a5d11b53ce58eaaee5973803157f6
+sourceHash: 08c36e0de56834dcdf0cc8d08fcfb82994dbfd92
 ---
 
 Wincenty Witos was the most outstanding Polish politician of peasant origin and a symbol of the countryside's entry into high politics. A farmer and the wójt (village head) of his home village near Tarnów, a self-taught man who did not know German well, he became one of the most important Galician politicians during the war. In 1914 he and his party backed the Legions and the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy). Once convinced that Vienna would not fulfil Polish hopes, he led the populists into a break with the pro-Austrian policy. It was on his initiative that in May 1917 the Polish deputies from Galicia declared an independent and united Poland to be the nation's aim. In October 1918 he chaired the assembly which proclaimed that Galicia belonged to the Polish state, and he became head of the [Polish Liquidation Commission](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna), the first Polish authority in the former Austrian partition. He was later three times prime minister of reborn Poland.
@@ -19,7 +19,7 @@ In 1913 the People's Party split after a scandal around its leader [Jan Stapińs
 
 ## 1914–1916: with the Legions
 
-The news of war found him touring the districts before elections. In his memoirs he described how people burst into the small room where he was talking with peasants, shouting: "Good God, war!" On 16 August 1914 the Polish deputies from Galicia set up the Supreme National Committee in Kraków as the political base of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)). Witos became one of the vice-presidents of its western section. He urged the peasants with conviction to support the Legions and later claimed that his word was often an order to them, which explained the large number of peasants' sons in the Legion units.
+The news of war found him touring the districts before elections. In his memoirs he described how people burst into the small room where he was talking with peasants, shouting: "Good God, war!" On 16 August 1914 the Polish deputies from Galicia set up the Supreme National Committee in Kraków as the political base of the [Polish Legions](/tematy/polskie-formacje-wojskowe). Witos became one of the vice-presidents of its western section. He urged the peasants with conviction to support the Legions and later claimed that his word was often an order to them, which explained the large number of peasants' sons in the Legion units.
 
 The enthusiasm soon cooled. The Austrian high command rejected the Committee's demands that the legionaries swear an oath to the freedom of Poland and fight as a single body. The Eastern Legion fell apart, and in October 1914 the National Democrats and the conservatives from Lviv left the Committee. Witos, though he still supported the idea of a Polish army as such, looked with growing scepticism at [Józef Piłsudski](/postacie/jozef-pilsudski) and his camp. He wrote that Piłsudski acted on his own, without consulting the representatives of society, and that the villages did not everywhere remember the legionaries fondly: he complained of ruthless requisitions and of the Legion gendarmerie in the Kingdom of Poland.
 

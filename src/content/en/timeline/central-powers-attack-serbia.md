@@ -2,7 +2,7 @@
 title: Central Powers attack Serbia
 summary: On 6 October 1915 Mackensen's guns opened fire along the Sava, Danube and Drina, and the first Austro-Hungarian units crossed. The conquest of Serbia began.
 source: panstwa-centralne-atakuja-serbie
-sourceHash: 1e630f8f72399e9f7fce12962e80a5c6da3a4981
+sourceHash: 64c21133f276da67adb06eeaf8890ebdd0c4e5bb
 brief:
   - "On 6 October 1915 hundreds of German and Austro-Hungarian guns opened fire along the whole northern border of Serbia. Field Marshal August von Mackensen's army group began the fourth invasion of Serbia in the war."
   - "Erich von Falkenhayn wanted to open an overland route from Germany to Turkey along the railway through Belgrade and Niš. At the beginning of September Bulgaria undertook to attack Serbia together with Germany."
@@ -11,7 +11,7 @@ brief:
   - "On the night of 6–7 October the main forces crossed the rivers. By 9 October Belgrade was in the hands of the Central Powers, and on 14 October Bulgaria declared war on Serbia."
 ---
 
-On the afternoon of 6 October 1915, or 23 September by the Julian calendar then used in Serbia, hundreds of German and Austro-Hungarian guns thundered along the whole northern border of [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii), from Romanian Orsova on the Danube to [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) on the Drina. The day before, the artillery had begun ranging; now the bombardment proper began. On the same day the first Austro-Hungarian units crossed to the Serbian bank of the Drina and the Sava. The army group of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) began the fourth invasion of Serbia in this war. This time the Serbs faced not only Austria-Hungary but also Germany, and within a few days Bulgaria was to join them.
+On the afternoon of 6 October 1915, or 23 September by the Julian calendar then used in Serbia, hundreds of German and Austro-Hungarian guns thundered along the whole northern border of [Serbia](/kraje/serbia), from Romanian Orsova on the Danube to [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) on the Drina. The day before, the artillery had begun ranging; now the bombardment proper began. On the same day the first Austro-Hungarian units crossed to the Serbian bank of the Drina and the Sava. The army group of Field Marshal [August von Mackensen](/postacie/august-von-mackensen) began the fourth invasion of Serbia in this war. This time the Serbs faced not only Austria-Hungary but also Germany, and within a few days Bulgaria was to join them.
 
 ## The road to Constantinople
 

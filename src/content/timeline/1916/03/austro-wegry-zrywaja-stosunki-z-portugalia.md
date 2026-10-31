@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-15 marca 1916 roku [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) zerwały stosunki dyplomatyczne z [Portugalią](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). Stało się to sześć dni po tym, jak [Niemcy wypowiedziały Portugalii wojnę](/niemcy-wypowiadaja-wojne-portugalii). Wiedeń stanął po stronie sojusznika. Następnego dnia rano amerykański poseł w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) Thomas Birch depeszował do Waszyngtonu, że stosunki między obu państwami zostały zerwane, a poseł austro-węgierski jeszcze tego dnia wyjeżdża. Dlatego w części zestawień z epoki zerwanie stosunków datowane jest na 16 marca.
+15 marca 1916 roku [Austro-Węgry](/kraje/austro-wegry) zerwały stosunki dyplomatyczne z [Portugalią](/kraje/portugalia). Stało się to sześć dni po tym, jak [Niemcy wypowiedziały Portugalii wojnę](/niemcy-wypowiadaja-wojne-portugalii). Wiedeń stanął po stronie sojusznika. Następnego dnia rano amerykański poseł w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) Thomas Birch depeszował do Waszyngtonu, że stosunki między obu państwami zostały zerwane, a poseł austro-węgierski jeszcze tego dnia wyjeżdża. Dlatego w części zestawień z epoki zerwanie stosunków datowane jest na 16 marca.
 
 Austro-Węgry miały w sporze własny interes. Kiedy 23 lutego Portugalczycy [zajęli statki stojące na Tagu](/portugalia-zajmuje-niemieckie-statki), wśród przejętych jednostek znalazły się także statki austro-węgierskie. Według portugalskich badaczy na około 72 statki zarekwirowane w portach Portugalii i jej kolonii tylko dwa pływały pod banderą austro-węgierską, ale ich załogi, podobnie jak niemieckie, trafiły pod portugalski nadzór.
 

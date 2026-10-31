@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 lipca 1918 roku w pałacu Yıldız w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol) zmarł sułtan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V), władca [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) i zarazem [kalif](https://pl.wikipedia.org/wiki/Kalif). Miał 73 lata, a jako przyczynę śmierci tureckie źródła podają niewydolność serca. Panował od kwietnia 1909 roku. W kalendarzu osmańskim, który od 1917 roku liczył dni i miesiące tak samo jak kalendarz gregoriański, był to 3 lipca 1334 roku. Następcą został jego młodszy przyrodni brat, 57-letni następca tronu Mehmed Vahdettin, który przyjął imię [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI).
+3 lipca 1918 roku w pałacu Yıldız w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol) zmarł sułtan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V), władca [Imperium Osmańskiego](/kraje/imperium-osmanskie) i zarazem [kalif](https://pl.wikipedia.org/wiki/Kalif). Miał 73 lata, a jako przyczynę śmierci tureckie źródła podają niewydolność serca. Panował od kwietnia 1909 roku. W kalendarzu osmańskim, który od 1917 roku liczył dni i miesiące tak samo jak kalendarz gregoriański, był to 3 lipca 1334 roku. Następcą został jego młodszy przyrodni brat, 57-letni następca tronu Mehmed Vahdettin, który przyjął imię [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI).
 
 ## Sułtan bez władzy
 

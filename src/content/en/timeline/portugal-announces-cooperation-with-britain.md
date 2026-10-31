@@ -2,10 +2,10 @@
 title: Portugal announces cooperation with Britain
 summary: On 23 November 1914 the Portuguese parliament authorised the government to take part in the war at Britain's side "when and how it deems necessary".
 source: portugalia-zapowiada-wspolprace-z-wielka-brytania
-sourceHash: 5440429efc1923e28d0aa0a1d1a8afa5bd8f2167
+sourceHash: 61a9e274eb050196ce0d31d1afd515fa0bad2cf8
 ---
 
-On 23 November 1914 the Congress, the parliament of the [Portuguese Republic](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), met in an extraordinary session. Prime Minister [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) presented a bill authorising the government to intervene militarily in the ongoing war "when and how it deems necessary" for the interests and duties of Portugal as a free nation and an ally of England. Congress granted the government this authority. It also agreed to hand over to the British, at their request, 20,000 rifles with ammunition and 56 guns. A British chronology of the war recorded this as an announcement of Portugal's future cooperation with Britain.
+On 23 November 1914 the Congress, the parliament of the [Portuguese Republic](/kraje/portugalia), met in an extraordinary session. Prime Minister [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) presented a bill authorising the government to intervene militarily in the ongoing war "when and how it deems necessary" for the interests and duties of Portugal as a free nation and an ally of England. Congress granted the government this authority. It also agreed to hand over to the British, at their request, 20,000 rifles with ammunition and 56 guns. A British chronology of the war recorded this as an announcement of Portugal's future cooperation with Britain.
 
 ## Neither neutral nor belligerent
 

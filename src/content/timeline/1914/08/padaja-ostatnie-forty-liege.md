@@ -22,7 +22,7 @@ Od 12 sierpnia ich pociski, ważące setki kilogramów, spadały na forty jeden 
 
 ## Koniec oporu
 
-Po upadku fortu Loncin opór pozostałych umocnień szybko słabł. 16 sierpnia poddały się ostatnie forty na zachód od miasta. Niemiecki marsz przez [Belgię](https://pl.wikipedia.org/wiki/Belgia) mógł ruszyć pełną siłą. Cztery dni później wojska niemieckie wkroczyły do Brukseli, a wkrótce potem stanęły pod Namurem i na granicy francuskiej.
+Po upadku fortu Loncin opór pozostałych umocnień szybko słabł. 16 sierpnia poddały się ostatnie forty na zachód od miasta. Niemiecki marsz przez [Belgię](/kraje/belgia) mógł ruszyć pełną siłą. Cztery dni później wojska niemieckie wkroczyły do Brukseli, a wkrótce potem stanęły pod Namurem i na granicy francuskiej.
 
 ## Znaczenie
 

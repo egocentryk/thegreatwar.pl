@@ -38,7 +38,7 @@ Gdy po wiecu szedł przez dziedziniec do samochodu, zatrzymała go kobieta skar�
 
 ## Fanny Kapłan
 
-Na przystanku tramwajowym na ulicy Bolszaja Sierpuchowska zatrzymano kobietę, którą uznano za zamachowczynię. Była to 28-letnia Fanny (Fejga) Kapłan, nazywana też Dorą. Jako nastolatka związała się z anarchistami, a w 1906 roku po wybuchu bomby przygotowywanej na kijowskiego generała-gubernatora trafiła na dożywotnią katorgę do Akatuju za Bajkałem. Tam niemal straciła wzrok. Uwolniła ją dopiero [rewolucja lutowa](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)), a na zesłaniu zbliżyła się do eserowców.
+Na przystanku tramwajowym na ulicy Bolszaja Sierpuchowska zatrzymano kobietę, którą uznano za zamachowczynię. Była to 28-letnia Fanny (Fejga) Kapłan, nazywana też Dorą. Jako nastolatka związała się z anarchistami, a w 1906 roku po wybuchu bomby przygotowywanej na kijowskiego generała-gubernatora trafiła na dożywotnią katorgę do Akatuju za Bajkałem. Tam niemal straciła wzrok. Uwolniła ją dopiero [rewolucja lutowa](/rewolucja-lutowa), a na zesłaniu zbliżyła się do eserowców.
 
 Na przesłuchaniach przyznała, że strzelała do Lenina, bo uważała go za zdrajcę rewolucji, który oddala idee socjalizmu o dziesięciolecia. Twierdziła, że opowiada się za Zgromadzeniem Ustawodawczym, że działała sama, i odmówiła podania, skąd ma broń. Nie było ani śledztwa z prawdziwego zdarzenia, ani procesu. 3 września na ustne polecenie przewodniczącego [Wszechrosyjskiego Centralnego Komitetu Wykonawczego](https://pl.wikipedia.org/wiki/Wszechrosyjski_Centralny_Komitet_Wykonawczy) [Jakowa Swierdłowa](/postacie/jakow-swierdlow) komendant Kremla Pawieł Małkow zastrzelił ją na kremlowskim dziedzińcu przy warkocie zapalonych silników ciężarówek, a ciało spalono w beczce.
 

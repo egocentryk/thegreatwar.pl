@@ -16,7 +16,7 @@ brief:
   - "Atak przesądził o przystąpieniu do wojny Wielkiej Brytanii jeszcze tego samego wieczoru i wpłynął na opinię światową. Dla Belgii zaczynały się ponad cztery lata okupacji."
 ---
 
-4 sierpnia 1914 roku o godzinie 6 rano niemiecki poseł w Brukseli wręczył belgijskiemu ministrowi spraw zagranicznych krótką notę. [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) oświadczały w niej, że wobec odrzucenia przez [Belgię](https://pl.wikipedia.org/wiki/Belgia) ich „życzliwych propozycji” są zmuszone przeprowadzić, „w razie potrzeby siłą oręża”, zapowiadane wcześniej działania. Nota nie nazywała tego wprost wypowiedzeniem wojny, ale w praktyce nim była. Dwie godziny później wojska niemieckie przekroczyły granicę.
+4 sierpnia 1914 roku o godzinie 6 rano niemiecki poseł w Brukseli wręczył belgijskiemu ministrowi spraw zagranicznych krótką notę. [Niemcy](/kraje/niemcy) oświadczały w niej, że wobec odrzucenia przez [Belgię](/kraje/belgia) ich „życzliwych propozycji” są zmuszone przeprowadzić, „w razie potrzeby siłą oręża”, zapowiadane wcześniej działania. Nota nie nazywała tego wprost wypowiedzeniem wojny, ale w praktyce nim była. Dwie godziny później wojska niemieckie przekroczyły granicę.
 
 ## Wojna z państwem neutralnym
 

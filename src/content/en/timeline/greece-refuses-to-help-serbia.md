@@ -2,10 +2,10 @@
 title: Greece refuses to help Serbia
 summary: According to the British chronology, on 29 January 1915 Greece refused to intervene for Serbia. Without Romania, the king and the staff saw war as too risky.
 source: grecja-odmawia-pomocy-serbii
-sourceHash: b467d5bed69da04381534ae12cb445ec432afbc2
+sourceHash: 2954ddb26c1b17caeee41c398a599f4fe70994f9
 ---
 
-The British chronology of the war records under 29 January 1915 that the government of [Greece](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)) refused to intervene on behalf of Serbia. This ended, at least for the time being, the attempt to draw the Greeks into the war that London had made five days earlier by [promising them gains in Asia Minor](/brytyjska-oferta-dla-grecji). The Greek documents of those days make no mention of a single formal refusal delivered on 29 January. They suggest rather that the decision matured over several days, and that its shape was settled by [Romania's reply](/rumunia-odmawia-wsparcia-serbii).
+The British chronology of the war records under 29 January 1915 that the government of [Greece](/kraje/grecja) refused to intervene on behalf of Serbia. This ended, at least for the time being, the attempt to draw the Greeks into the war that London had made five days earlier by [promising them gains in Asia Minor](/brytyjska-oferta-dla-grecji). The Greek documents of those days make no mention of a single formal refusal delivered on 29 January. They suggest rather that the decision matured over several days, and that its shape was settled by [Romania's reply](/rumunia-odmawia-wsparcia-serbii).
 
 ## The king's condition
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-5 września 1914 roku w Londynie przedstawiciele Wielkiej Brytanii, Francji i Rosji podpisali krótką deklarację, w której trzy rządy zobowiązały się nie zawierać odrębnego pokoju z państwami centralnymi. Dokument ten, nazywany deklaracją londyńską lub paktem londyńskim, przekształcił [ententę](https://pl.wikipedia.org/wiki/Ententa) w formalny sojusz wojenny. W niektórych opracowaniach pojawia się data 4 września, ale opublikowany tekst nosi datę 5 września.
+5 września 1914 roku w Londynie przedstawiciele Wielkiej Brytanii, Francji i Rosji podpisali krótką deklarację, w której trzy rządy zobowiązały się nie zawierać odrębnego pokoju z państwami centralnymi. Dokument ten, nazywany deklaracją londyńską lub paktem londyńskim, przekształcił [ententę](/tematy/panstwa-centralne-i-ententa) w formalny sojusz wojenny. W niektórych opracowaniach pojawia się data 4 września, ale opublikowany tekst nosi datę 5 września.
 
 ## Nie mylić z innymi „londyńskimi” dokumentami
 

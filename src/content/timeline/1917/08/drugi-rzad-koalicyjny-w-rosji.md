@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 sierpnia 1917 roku (24 lipca według kalendarza juliańskiego) w Rosji ukonstytuował się drugi rząd koalicyjny. Na czele [Rządu Tymczasowego](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) pozostał [Aleksander Kiereński](/postacie/aleksander-kierenski), który zachował też ministerstwo wojny i marynarki, a do gabinetu po trzech tygodniach nieobecności wrócili [kadeci](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna). Socjaliści mieli w nim nieznaczną przewagę liczebną, ale weszli do niego jako osoby prywatne, a nie przedstawiciele rad. Taką datę podają rosyjskie źródła i większość opracowań. Część historyków, m.in. Orlando Figes, podaje 25 lipca st. st., czyli 7 sierpnia.
+6 sierpnia 1917 roku (24 lipca według kalendarza juliańskiego) w Rosji ukonstytuował się drugi rząd koalicyjny. Na czele [Rządu Tymczasowego](/powstanie-rzadu-tymczasowego) pozostał [Aleksander Kiereński](/postacie/aleksander-kierenski), który zachował też ministerstwo wojny i marynarki, a do gabinetu po trzech tygodniach nieobecności wrócili [kadeci](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna). Socjaliści mieli w nim nieznaczną przewagę liczebną, ale weszli do niego jako osoby prywatne, a nie przedstawiciele rad. Taką datę podają rosyjskie źródła i większość opracowań. Część historyków, m.in. Orlando Figes, podaje 25 lipca st. st., czyli 7 sierpnia.
 
 ## Trzy tygodnie targów
 

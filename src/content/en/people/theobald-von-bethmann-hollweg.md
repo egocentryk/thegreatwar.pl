@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Hohenfinow (Germany)
 deathPlace: Hohenfinow
 source: theobald-von-bethmann-hollweg
-sourceHash: 0c0e313bb9ebc62f12b58ddf2235989fca31a4a9
+sourceHash: 70fe2ca09be59d24fe698a57e927bf39c4b49a38
 ---
 
 Theobald von Bethmann Hollweg was Chancellor of the German Empire for eight years, from July 1909 to July 1917. It was he who directed German policy in the July Crisis of 1914, he who admitted in the Reichstag that the invasion of Belgium was a wrong, and he who called the guarantee of its neutrality "a scrap of paper". During the war he tried to steer between the advocates of sweeping annexations and the Social Democrats, held back unrestricted submarine warfare for two years and in December 1916 announced the peace offer of the Central Powers. In the end, however, he lost to the military. For a hundred years historians have argued whether he was a helpless philosopher dragged into war by the generals or a politician who knowingly risked a world war.
@@ -33,7 +33,7 @@ In September 1914, when Berlin expected a swift victory over France, the chancel
 
 From the beginning of 1915 the main field of dispute was submarine warfare. The chancellor did not believe that U-boats could decide the war and feared the entry of the United States. After the [sinking of the *Lusitania*](/zatopienie-lusitanii) and of the *Arabic* he brought about a [concession to Washington](/niemcy-ustepuja-w-sprawie-wojny-podwodnej) in September 1915, and in March 1916, threatening to resign, he forced through a postponement of unrestricted submarine warfare. [Tirpitz then resigned](/dymisja-alfreda-von-tirpitza), his most dangerous opponent. After the torpedoing of the *Sussex*, Germany in May 1916 [pledged to the United States](/nota-usa-w-sprawie-sussexa) that it would not sink merchant ships without warning.
 
-The same policy had a dark side. When German diplomats in Constantinople raised the alarm about the massacres of Armenians and the ambassador demanded intervention, the chancellor noted in December 1915 that Germany's only aim was to keep Turkey on its side until the end of the war, regardless of whether Armenians perished as a result. Germany did nothing to stop the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian).
+The same policy had a dark side. When German diplomats in Constantinople raised the alarm about the massacres of Armenians and the ambassador demanded intervention, the chancellor noted in December 1915 that Germany's only aim was to keep Turkey on its side until the end of the war, regardless of whether Armenians perished as a result. Germany did nothing to stop the [Armenian genocide](/tematy/ludobojstwo-ormian).
 
 ## Hindenburg, Poland and the peace offer
 

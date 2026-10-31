@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Greifswald (Germany)
 deathPlace: Neubabelsberg near Potsdam
 source: hans-von-beseler
-sourceHash: 09c24d84f3e8b04cf069ece0fae2bde18f291560
+sourceHash: 5e506872f4553591904659d61ac08f38a892cc27
 ---
 
 Hans Hartwig von Beseler left his mark on the history of the First World War twice. First as a fortress specialist who in 1914 took Antwerp in less than two weeks, and in 1915 Novogeorgievsk, today's Modlin, in a week. Then as the German Governor-General in Warsaw, who for more than three years ruled the occupied part of the Kingdom of Poland. It was he who on 5 November 1916 read out at the Royal Castle the manifesto announcing the creation of a Kingdom of Poland, and he who tried to build a Polish army at Germany's side. His plan failed: the Poles did not want to fight for the Central Powers, and in November 1918 Beseler had to flee Warsaw in disguise.
@@ -39,7 +39,7 @@ In memoranda of 1915–1916 Beseler argued to Berlin that a Polish state should 
 
 At noon on 5 November 1916, in the Great Hall of the Royal Castle, Beseler read out the manifesto of the two emperors, which announced the creation from the lands of the Kingdom of "an independent state with a hereditary monarchy and a constitutional system". The [Act of 5 November](/akt-5-listopada) was the first promise of a Polish state made by the great powers since the partitions. Replying to expressions of thanks, Beseler said he hoped soon to see a Polish army fighting alongside the Central Powers. Four days later, together with the Austro-Hungarian governor-general, he called on Poles to volunteer. The call to arms, before any Polish government had been formed, provoked indignation, and few volunteers came forward.
 
-In December Beseler and Kuk [established the Provisional Council of State](/dekret-o-utworzeniu-tymczasowej-rady-stanu), a Polish advisory body on which [Józef Piłsudski](/postacie/jozef-pilsudski) also sat. In April 1917 Austria-Hungary placed the Polish Auxiliary Corps, the former Legions, under Beseler's command, and the Governor-General himself became commander-in-chief of the [Polish Armed Forces](https://pl.wikipedia.org/wiki/Polska_Siła_Zbrojna) then being formed. Piłsudski, however, demanded a Polish government first, and when in July the legionnaires were to swear loyalty to both emperors, most of them refused. The [oath crisis](/kryzys-przysiegowy) wrecked Beseler's plan. On 22 July the Germans [arrested Piłsudski](/aresztowanie-pilsudskiego) and took him to Magdeburg, and the legionnaires who had refused the oath were locked up in camps.
+In December Beseler and Kuk [established the Provisional Council of State](/dekret-o-utworzeniu-tymczasowej-rady-stanu), a Polish advisory body on which [Józef Piłsudski](/postacie/jozef-pilsudski) also sat. In April 1917 Austria-Hungary placed the Polish Auxiliary Corps, the former Legions, under Beseler's command, and the Governor-General himself became commander-in-chief of the [Polish Armed Forces](/tematy/polskie-formacje-wojskowe) then being formed. Piłsudski, however, demanded a Polish government first, and when in July the legionnaires were to swear loyalty to both emperors, most of them refused. The [oath crisis](/kryzys-przysiegowy) wrecked Beseler's plan. On 22 July the Germans [arrested Piłsudski](/aresztowanie-pilsudskiego) and took him to Magdeburg, and the legionnaires who had refused the oath were locked up in camps.
 
 ## The Regency Council and the end
 

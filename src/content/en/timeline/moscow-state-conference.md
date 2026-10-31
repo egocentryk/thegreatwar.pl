@@ -2,10 +2,10 @@
 title: Moscow State Conference
 summary: On 25–28 August 1917 the State Conference met in Moscow's Bolshoi Theatre. Instead of uniting Russia around Kerensky, it laid bare the country's split.
 source: narada-panstwowa-w-moskwie
-sourceHash: 6d9ed40aef44bacc98f4d48204af39d9d3e13382
+sourceHash: a9dd1d94479211007e9f6e7006a93b72a7bd1298
 ---
 
-On the afternoon of 25 August 1917 (12 August in the Julian calendar), in the building of the [Bolshoi Theatre](https://pl.wikipedia.org/wiki/Teatr_Bolszoj) in Moscow, Prime Minister [Alexander Kerensky](/postacie/aleksander-kierenski) opened the State Conference. Called by the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), the gathering of about 2,400 representatives of all social classes, parties and organisations was meant to unite the "living forces of the country" around the government. The sessions lasted until 28 August (15 August Old Style). Some studies, among them Orlando Figes, give the dates as 12–14 August Old Style. The conference passed no resolution, and its main event was the arrival of General [Lavr Kornilov](/postacie/lawr-kornilow), commander-in-chief since [the end of July](/kornilow-naczelnym-wodzem), in whom the right saw its hero.
+On the afternoon of 25 August 1917 (12 August in the Julian calendar), in the building of the [Bolshoi Theatre](https://pl.wikipedia.org/wiki/Teatr_Bolszoj) in Moscow, Prime Minister [Alexander Kerensky](/postacie/aleksander-kierenski) opened the State Conference. Called by the [Provisional Government](/powstanie-rzadu-tymczasowego), the gathering of about 2,400 representatives of all social classes, parties and organisations was meant to unite the "living forces of the country" around the government. The sessions lasted until 28 August (15 August Old Style). Some studies, among them Orlando Figes, give the dates as 12–14 August Old Style. The conference passed no resolution, and its main event was the arrival of General [Lavr Kornilov](/postacie/lawr-kornilow), commander-in-chief since [the end of July](/kornilow-naczelnym-wodzem), in whom the right saw its hero.
 
 ## Why the conference
 

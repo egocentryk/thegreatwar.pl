@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Schönbrunn Palace (Vienna)
 deathPlace: Schönbrunn Palace (Vienna)
 source: franciszek-jozef-i
-sourceHash: 0be323370fa169b070524ca51452e96121fdee15
+sourceHash: d315bcdf124394baeb2f99a41ad1fd4722a63064
 ---
 
 In 1914 Franz Joseph I was the oldest monarch in Europe. He had reigned since 1848, and for most of his subjects he was the only ruler they had ever known. He was regarded as the embodiment of the multinational monarchy and as an emperor of peace who, after the defeats of his youth, had avoided wars for almost half a century. Yet it was he, as the supreme authority in the state, who in the summer of 1914 approved the ultimatum to Serbia and signed the mobilisation orders and the declaration of war that drew Europe into a world war. During the war, too old to command, he placed the army in the hands of Archduke Friedrich and General Conrad, and made the monarchy ever more dependent on Germany. He died in November 1916, living to see neither victory nor the fall of his state.
@@ -37,7 +37,7 @@ In 1915, after the breakthrough at Gorlice, the armies of the Central Powers rec
 
 ## The Polish question
 
-The last weeks of Franz Joseph's reign brought decisions important for the Poles. Under the monarchy's protection the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) had been fighting since 1914, with [Józef Piłsudski](/postacie/jozef-pilsudski) commanding the First Brigade. Some Polish politicians in Galicia counted on the so-called Austro-Polish solution: the union of the Kingdom of Poland with Galicia under the Habsburg sceptre. Germany, on which the monarchy was ever more dependent, would not agree to this. On 5 November 1916, in the name of both emperors, the [Act of 5 November](/akt-5-listopada) was proclaimed in Warsaw and Lublin, announcing the creation of a Kingdom of Poland from the lands taken from Russia. Almost simultaneously a letter from Franz Joseph to Koerber, dated 4 November, was published, in which he announced wider self-government for Galicia. To many Poles this was a sign that Galicia would not be joined to the new kingdom.
+The last weeks of Franz Joseph's reign brought decisions important for the Poles. Under the monarchy's protection the [Polish Legions](/tematy/polskie-formacje-wojskowe) had been fighting since 1914, with [Józef Piłsudski](/postacie/jozef-pilsudski) commanding the First Brigade. Some Polish politicians in Galicia counted on the so-called Austro-Polish solution: the union of the Kingdom of Poland with Galicia under the Habsburg sceptre. Germany, on which the monarchy was ever more dependent, would not agree to this. On 5 November 1916, in the name of both emperors, the [Act of 5 November](/akt-5-listopada) was proclaimed in Warsaw and Lublin, announcing the creation of a Kingdom of Poland from the lands taken from Russia. Almost simultaneously a letter from Franz Joseph to Koerber, dated 4 November, was published, in which he announced wider self-government for Galicia. To many Poles this was a sign that Galicia would not be joined to the new kingdom.
 
 ## Death
 

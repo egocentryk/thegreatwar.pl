@@ -2,7 +2,7 @@
 title: Patent on the Regency Council
 summary: On 12 September 1917 Germany and Austria-Hungary issued a patent giving power in the Kingdom of Poland to a three-man Regency Council, under occupiers' control.
 source: patent-o-radzie-regencyjnej
-sourceHash: dfc2e411d2c5e3e30a6fa942103f1a6c392df891
+sourceHash: 325836239f94a8e80603c12d66d3efe9ad5f5f06
 brief:
   - "On 12 September 1917 Germany and Austria-Hungary issued a patent that passed supreme authority in the Kingdom of Poland, until a king or regent assumed it, to a three-man Regency Council."
   - "The patent was the occupiers' second step, after the Act of 5th November, in building the Kingdom. It followed the fall of the Provisional Council of State, whose members resigned on 25 August."
@@ -25,7 +25,7 @@ The patent had six short articles. The Regency Council was to consist of three m
 
 The rest of the text set the limits of this authority. In fields whose administration had not yet been handed over, legislative proposals could go to the Council of State only with the occupiers' consent, and there the governor-general could issue decrees with the force of law after hearing the Council of State. "To safeguard important war interests" he could also issue the necessary orders without doing so. Every Polish law or decree that imposed rights and duties on the population had to be submitted to the governor-general of the zone concerned. They came into force only if he did not object to them within 14 days. In matters affecting the occupier's interests the governor could demand a review of the judgments and decisions of Polish courts and offices. The Polish authorities were to gain the right to represent the Kingdom abroad and to conclude international agreements only after the occupation ended. The patent came into force on the establishment of the Regency Council.
 
-One matter that had broken the Provisional Council of State remained outside the patent: the army. Supreme command over the [Polish Armed Force](https://pl.wikipedia.org/wiki/Polska_Siła_Zbrojna), being formed since the autumn of 1916, stayed with Beseler, and the appointment of the Regency Council changed nothing in this. Behind the façade of a joint act, Berlin and Vienna still differed over the future of Poland, and the patent did not settle who would become its king, or when.
+One matter that had broken the Provisional Council of State remained outside the patent: the army. Supreme command over the [Polish Armed Force](/tematy/polskie-formacje-wojskowe), being formed since the autumn of 1916, stayed with Beseler, and the appointment of the Regency Council changed nothing in this. Behind the façade of a joint act, Berlin and Vienna still differed over the future of Poland, and the patent did not settle who would become its king, or when.
 
 ## Reactions
 

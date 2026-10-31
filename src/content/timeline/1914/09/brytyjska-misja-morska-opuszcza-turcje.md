@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku wyjazd brytyjskiej misji morskiej z [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Kierował nią wiceadmirał Arthur Limpus. Według większości opracowań brytyjscy oficerowie opuścili kraj najpóźniej do 15 września, a data w chronologii mogła oznaczać chwilę, gdy wiadomość o tym dotarła do Londynu. Tak czy inaczej, był to koniec kilkuletniej obecności brytyjskich oficerów [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol).
+Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku wyjazd brytyjskiej misji morskiej z [Imperium Osmańskiego](/kraje/imperium-osmanskie). Kierował nią wiceadmirał Arthur Limpus. Według większości opracowań brytyjscy oficerowie opuścili kraj najpóźniej do 15 września, a data w chronologii mogła oznaczać chwilę, gdy wiadomość o tym dotarła do Londynu. Tak czy inaczej, był to koniec kilkuletniej obecności brytyjskich oficerów [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol).
 
 ## Brytyjczycy w tureckiej flocie
 

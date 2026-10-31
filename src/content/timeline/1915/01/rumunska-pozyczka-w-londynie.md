@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 11 stycznia 1915 roku, że rząd [Rumunii](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) wynegocjował w Wielkiej Brytanii pożyczkę w wysokości 5 milionów funtów szterlingów. Według rumuńskich historyków gospodarki pożyczkę, oprocentowaną na 5 procent rocznie, udzielił w styczniu 1915 roku [Bank Anglii](https://pl.wikipedia.org/wiki/Bank_Anglii). Kredyt był tajny, a Bukareszt miał z niego opłacić broń i materiały wojenne zamówione w Wielkiej Brytanii, Francji i Włoszech.
+Brytyjska chronologia wojny odnotowuje pod 11 stycznia 1915 roku, że rząd [Rumunii](/kraje/rumunia) wynegocjował w Wielkiej Brytanii pożyczkę w wysokości 5 milionów funtów szterlingów. Według rumuńskich historyków gospodarki pożyczkę, oprocentowaną na 5 procent rocznie, udzielił w styczniu 1915 roku [Bank Anglii](https://pl.wikipedia.org/wiki/Bank_Anglii). Kredyt był tajny, a Bukareszt miał z niego opłacić broń i materiały wojenne zamówione w Wielkiej Brytanii, Francji i Włoszech.
 
 Pożyczka przybrała formę rumuńskich bonów skarbowych, które przejął Bank Anglii. Jego wewnętrzna historia z czasów wojny wymienia w 1915 roku wśród zagranicznych papierów skarbowych w portfelu banku dokładnie 5 milionów funtów w „bonach rumuńskich”, obok znacznie większych kwot rosyjskich i włoskich. Latem 1915 roku ten dług, podobnie jak część zobowiązań rosyjskich, przejęło od banku brytyjskie ministerstwo skarbu.
 

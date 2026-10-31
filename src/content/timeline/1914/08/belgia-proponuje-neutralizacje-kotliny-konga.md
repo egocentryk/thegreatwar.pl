@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 sierpnia 1914 roku rząd [Belgii](https://pl.wikipedia.org/wiki/Belgia) sformułował propozycję neutralizacji afrykańskiej strefy wolnego handlu, czyli tzw. konwencjonalnego dorzecza Konga. Chodziło o to, by wojna toczona w Europie nie objęła kolonii położonych w Afryce Środkowej, w tym [Konga Belgijskiego](https://pl.wikipedia.org/wiki/Kongo_Belgijskie).
+9 sierpnia 1914 roku rząd [Belgii](/kraje/belgia) sformułował propozycję neutralizacji afrykańskiej strefy wolnego handlu, czyli tzw. konwencjonalnego dorzecza Konga. Chodziło o to, by wojna toczona w Europie nie objęła kolonii położonych w Afryce Środkowej, w tym [Konga Belgijskiego](https://pl.wikipedia.org/wiki/Kongo_Belgijskie).
 
 ## Akt berliński
 

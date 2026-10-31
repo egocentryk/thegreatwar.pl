@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-16 października 1914 roku zmarł w Rzymie markiz Antonino Paternò Castello di San Giuliano, minister spraw zagranicznych [Królestwa Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)). Od dawna zmagał się z [dną moczanową](https://pl.wikipedia.org/wiki/Dna_moczanowa), a w październiku jego stan gwałtownie się pogorszył. Zmarł w Palazzo della Consulta, siedzibie swojego ministerstwa, w którym mieszkał. Miał 61 lat.
+16 października 1914 roku zmarł w Rzymie markiz Antonino Paternò Castello di San Giuliano, minister spraw zagranicznych [Królestwa Włoch](/kraje/wlochy). Od dawna zmagał się z [dną moczanową](https://pl.wikipedia.org/wiki/Dna_moczanowa), a w październiku jego stan gwałtownie się pogorszył. Zmarł w Palazzo della Consulta, siedzibie swojego ministerstwa, w którym mieszkał. Miał 61 lat.
 
 ## Dyplomata z Sycylii
 

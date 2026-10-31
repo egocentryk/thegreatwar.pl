@@ -2,7 +2,7 @@
 title: Russians take Rowanduz
 summary: In mid-May 1916 a Russian detachment from Persian Azerbaijan stormed Rowanduz in Kurdistan, a few days' march from Mosul.
 source: rosjanie-zajmuja-rawanduz
-sourceHash: a99f5513fd2ea5329ad8a36485a8a9a9e4b485c6
+sourceHash: a810915c6eda15d49061899e012fa5d00ce07432
 ---
 
 In mid-May 1916 Russian cavalry captured [Rowanduz](https://pl.wikipedia.org/wiki/Rawanduz), a small Kurdish town in the mountains of northern Mesopotamia, on the road from Persia to [Mosul](https://pl.wikipedia.org/wiki/Mosul). A British chronology of the war and W. E. D. Allen and Paul Muratoff, the authors of a history of the Caucasian wars, give the date as 15 May. General Yevgeny Maslovsky, a staff officer of the Caucasus Army, writes of 30 April by the Julian calendar, that is, 13 May by the Gregorian. General Percy Lake, commander of the British forces in Mesopotamia, learned of the town's capture on 16 May.
@@ -21,6 +21,6 @@ The Turks took this conquest seriously. According to Maslovsky, the Ottoman Mini
 
 ## The town's population
 
-The war in these mountains was particularly cruel to the civilian population. In 1915 some Kurdish units had taken part in the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian) and in the massacres of Assyrians, and the Armenian and Assyrian volunteers fighting alongside the Russians later took revenge on the Muslim population. The historian Michael Reynolds cites the account of a British officer, Major Edward Noel, who wrote of the destruction of Rowanduz and the slaughter of its Muslim inhabitants by Agha Petros's forces. From the available accounts it is impossible to establish exactly when and how these crimes took place or how many people were killed. Figures of the order of 5,000–8,000 dead that appear in later publications are not documented.
+The war in these mountains was particularly cruel to the civilian population. In 1915 some Kurdish units had taken part in the [Armenian genocide](/tematy/ludobojstwo-ormian) and in the massacres of Assyrians, and the Armenian and Assyrian volunteers fighting alongside the Russians later took revenge on the Muslim population. The historian Michael Reynolds cites the account of a British officer, Major Edward Noel, who wrote of the destruction of Rowanduz and the slaughter of its Muslim inhabitants by Agha Petros's forces. From the available accounts it is impossible to establish exactly when and how these crimes took place or how many people were killed. Figures of the order of 5,000–8,000 dead that appear in later publications are not documented.
 
 The Russians held Rowanduz for two and a half months. In June they beat off attacks by the Kurds and by units of the Turkish 4th Division. At the end of July, when Baratov was already falling back into Persia and the Turks approached with two regiments and twelve guns, Yudenich ordered the town to be evacuated.

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 listopada 1914 roku, gdy japońska artyleria oblężnicza od kilku dni ostrzeliwała Tsingtao, załoga austro-węgierskiego krążownika [Kaiserin Elisabeth](https://pl.wikipedia.org/wiki/SMS_Kaiserin_Elisabeth) zatopiła swój okręt w porcie. Krążownik wystrzelał już niemal całą amunicję i nie mógł ani walczyć dalej, ani wyrwać się z blokady. Jedyny okręt [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) na Dalekim Wschodzie poszedł na dno pięć dni przed upadkiem twierdzy.
+2 listopada 1914 roku, gdy japońska artyleria oblężnicza od kilku dni ostrzeliwała Tsingtao, załoga austro-węgierskiego krążownika [Kaiserin Elisabeth](https://pl.wikipedia.org/wiki/SMS_Kaiserin_Elisabeth) zatopiła swój okręt w porcie. Krążownik wystrzelał już niemal całą amunicję i nie mógł ani walczyć dalej, ani wyrwać się z blokady. Jedyny okręt [Austro-Węgier](/kraje/austro-wegry) na Dalekim Wschodzie poszedł na dno pięć dni przed upadkiem twierdzy.
 
 Kaiserin Elisabeth był starym [krążownikiem pancernopokładowym](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy), zwodowanym w 1890 roku w [Puli](https://pl.wikipedia.org/wiki/Pula). Miał za sobą długą służbę w dalekich wodach. W latach 1892–1893 odbył na nim podróż dookoła świata arcyksiążę [Franciszek Ferdynand](https://pl.wikipedia.org/wiki/Franciszek_Ferdynand_Habsburg), a w 1900 roku jego marynarze brali udział w tłumieniu [powstania bokserów](https://pl.wikipedia.org/wiki/Powstanie_bokserów) w Chinach. Latem 1914 roku okręt przebywał w niemieckim Tsingtao i tam zastała go wojna. Po wahaniach Wiedeń zdecydował, że krążownik weźmie udział w obronie twierdzy, a 25 sierpnia [Japonia i Austro-Węgry znalazły się w stanie wojny](/japonia-oglasza-stan-wojny-z-austro-wegrami).
 

@@ -16,7 +16,7 @@ authors: [Łukasz Skowroń]
 tags: [Liège, Belgia, Niemcy, Erich Ludendorff]
 ---
 
-[Bitwa pod Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) była pierwszym wielkim starciem na froncie zachodnim. Zaczęła się 4 sierpnia 1914 roku, w dniu niemieckiej inwazji na [Belgię](https://pl.wikipedia.org/wiki/Belgia), i trwała do 16–17 sierpnia, gdy padły ostatnie belgijskie forty.
+[Bitwa pod Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) była pierwszym wielkim starciem na froncie zachodnim. Zaczęła się 4 sierpnia 1914 roku, w dniu niemieckiej inwazji na [Belgię](/kraje/belgia), i trwała do 16–17 sierpnia, gdy padły ostatnie belgijskie forty.
 
 ## Twierdza na drodze do Francji
 

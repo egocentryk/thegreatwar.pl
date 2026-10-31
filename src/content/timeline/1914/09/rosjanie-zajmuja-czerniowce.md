@@ -27,4 +27,4 @@ Na przełomie sierpnia i września 1914 roku armie austro-węgierskie przegrały
 
 Pierwsza okupacja nie trwała długo. Około 20–22 października miasto odbił niewielki austro-węgierski oddział złożony z żandarmów, pospolitego ruszenia i ochotników, dowodzony przez pułkownika żandarmerii Eduarda Fischera. Pod koniec listopada Rosjanie wrócili, a Austriacy odzyskali Czerniowce w połowie lutego 1915 roku. Po raz trzeci wojska rosyjskie zajęły miasto w czerwcu 1916 roku, w czasie [ofensywy Brusiłowa](https://pl.wikipedia.org/wiki/Ofensywa_Brusiłowa), i utrzymały je najdłużej, do sierpnia 1917 roku. Dokładne daty poszczególnych zmian źródła podają nieco różnie.
 
-Częste przejścia frontu, rekwizycje i deportacje ciężko doświadczyły mieszkańców. Po rozpadzie Austro-Węgier w 1918 roku Czerniowce i cała Bukowina znalazły się w granicach [Rumunii](https://pl.wikipedia.org/wiki/Rumunia).
+Częste przejścia frontu, rekwizycje i deportacje ciężko doświadczyły mieszkańców. Po rozpadzie Austro-Węgier w 1918 roku Czerniowce i cała Bukowina znalazły się w granicach [Rumunii](/kraje/rumunia).

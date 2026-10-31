@@ -2,10 +2,10 @@
 title: German-Turkish treaty in Berlin
 summary: On 11 January 1917 Germany and Turkey signed a package of ten legal agreements in Berlin. Based on equality, they were to replace the abolished capitulations.
 source: niemiecko-turecki-traktat-w-berlinie
-sourceHash: 08f753051f189e35dc80ccd78fa4b855b1a3f0c6
+sourceHash: 0a52272380ac75d94605fe3480e5dc7fd6f389f9
 ---
 
-On 11 January 1917 in Berlin representatives of the German Empire and the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) signed not one treaty but a whole package of them: ten agreements, later called "legal treaties" (Rechtsverträge) in the German law gazette. All were drawn up in two copies and bore the same date, and the German law gazette later published them in parallel in German and Turkish. They were to regulate anew the position of Germans in Turkey and of Turks in Germany, and on a principle that the Porte had long demanded: reciprocity and the equality of the two states.
+On 11 January 1917 in Berlin representatives of the German Empire and the [Ottoman Empire](/kraje/imperium-osmanskie) signed not one treaty but a whole package of them: ten agreements, later called "legal treaties" (Rechtsverträge) in the German law gazette. All were drawn up in two copies and bore the same date, and the German law gazette later published them in parallel in German and Turkish. They were to regulate anew the position of Germans in Turkey and of Turks in Germany, and on a principle that the Porte had long demanded: reciprocity and the equality of the two states.
 
 ## The end of privileges
 

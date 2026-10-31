@@ -2,10 +2,10 @@
 title: Germany proclaims a state of imminent danger of war
 summary: On 31 July 1914 Germany proclaimed a "state of imminent danger of war" (Kriegsgefahr), the last step before mobilisation. The chancellor admitted it meant war.
 source: niemcy-oglaszaja-stan-zagrozenia-wojennego
-sourceHash: 776cec7225ab7c81829cb408e6a86c3b861ddd9d
+sourceHash: da2140ca46bf84584a8c88b311b66a1a17e21947
 ---
 
-In the early afternoon of 31 July 1914 Emperor [Wilhelm II](/postacie/wilhelm-ii) proclaimed a "state of imminent danger of war" (Zustand drohender Kriegsgefahr) in [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). The War Minister, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), informed the Chancellor and the Secretary of State in a brief note: "Zustand der drohenden Kriegsgefahr befohlen" (state of imminent danger of war ordered). It was the response to the news that Russia had ordered [general mobilisation](/rosja-rozpoczyna-powszechna-mobilizacje). The ambassador's telegram from St Petersburg had reached Berlin before noon.
+In the early afternoon of 31 July 1914 Emperor [Wilhelm II](/postacie/wilhelm-ii) proclaimed a "state of imminent danger of war" (Zustand drohender Kriegsgefahr) in [Germany](/kraje/niemcy). The War Minister, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), informed the Chancellor and the Secretary of State in a brief note: "Zustand der drohenden Kriegsgefahr befohlen" (state of imminent danger of war ordered). It was the response to the news that Russia had ordered [general mobilisation](/rosja-rozpoczyna-powszechna-mobilizacje). The ambassador's telegram from St Petersburg had reached Berlin before noon.
 
 ## The last step before mobilisation
 
@@ -17,7 +17,7 @@ Within the government, however, nobody had any illusions. The day before, at a s
 
 At 3 p.m. the proclamation of the state of imminent danger was announced at a session of the Federal Council (Bundesrat), the body representing the states of the Reich. The Bavarian legation in Berlin reported to Munich that mobilisation would follow within 24 to 48 hours, and that the Reichstag would be summoned as soon as it was announced. Bethmann Hollweg telegraphed to the allies in Vienna that the state of imminent danger would be followed by mobilisation, and "this inevitably means war".
 
-At the same time Berlin moved on to diplomatic steps. That same afternoon an [ultimatum](/niemcy-wysylaja-ultimatum-do-rosji) went to St Petersburg, in which the Chancellor wrote that Russia's preparations had forced Germany to proclaim the state of imminent danger of war, "which does not yet mean mobilisation". Mobilisation would follow, however, unless Russia suspended every war measure against Germany and [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) within twelve hours. The ambassador in Paris was instructed to ask France whether it would remain neutral.
+At the same time Berlin moved on to diplomatic steps. That same afternoon an [ultimatum](/niemcy-wysylaja-ultimatum-do-rosji) went to St Petersburg, in which the Chancellor wrote that Russia's preparations had forced Germany to proclaim the state of imminent danger of war, "which does not yet mean mobilisation". Mobilisation would follow, however, unless Russia suspended every war measure against Germany and [Austria-Hungary](/kraje/austro-wegry) within twelve hours. The ambassador in Paris was instructed to ask France whether it would remain neutral.
 
 ## "The sword is being forced into our hand"
 

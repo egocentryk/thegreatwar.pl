@@ -31,7 +31,7 @@ Na Sanie ofensywa utknęła. Rosjanie okopali się na wschodnim brzegu rzeki i u
 
 ## Legioniści
 
-W kontrofensywie wzięły udział oddziały [Legionów Polskich](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)). Oddziały [Józefa Piłsudskiego](/postacie/jozef-pilsudski), działające u boku armii Dankla, doszły aż pod Dęblin i w dniach 22–26 października stoczyły ciężką [bitwę pod Laskami i Anielinem](https://pl.wikipedia.org/wiki/Bitwa_pod_Laskami_i_Anielinem). Druga grupa legionistów, przyszła II Brygada, walczyła w tym czasie w Karpatach Wschodnich.
+W kontrofensywie wzięły udział oddziały [Legionów Polskich](/tematy/polskie-formacje-wojskowe). Oddziały [Józefa Piłsudskiego](/postacie/jozef-pilsudski), działające u boku armii Dankla, doszły aż pod Dęblin i w dniach 22–26 października stoczyły ciężką [bitwę pod Laskami i Anielinem](https://pl.wikipedia.org/wiki/Bitwa_pod_Laskami_i_Anielinem). Druga grupa legionistów, przyszła II Brygada, walczyła w tym czasie w Karpatach Wschodnich.
 
 ## Niepowodzenie
 

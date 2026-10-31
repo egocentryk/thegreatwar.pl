@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 października 1915 roku [Królestwo Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) ogłosiło, że jest w stanie wojny z [Bułgarią](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). Taką datę podają brytyjska chronologia wojny i późniejsze zestawienia wypowiedzeń wojny, choć o samym akcie zachowało się niewiele szczegółów. W kalendarzu juliańskim, którego Czarnogóra wtedy używała, był to 2 października. Tego samego dnia stan wojny z Bułgarią [ogłosiła Wielka Brytania](/wielka-brytania-wypowiada-wojne-bulgarii), a dzień wcześniej Bułgaria wypowiedziała wojnę Serbii.
+15 października 1915 roku [Królestwo Czarnogóry](/kraje/czarnogora) ogłosiło, że jest w stanie wojny z [Bułgarią](/kraje/bulgaria). Taką datę podają brytyjska chronologia wojny i późniejsze zestawienia wypowiedzeń wojny, choć o samym akcie zachowało się niewiele szczegółów. W kalendarzu juliańskim, którego Czarnogóra wtedy używała, był to 2 października. Tego samego dnia stan wojny z Bułgarią [ogłosiła Wielka Brytania](/wielka-brytania-wypowiada-wojne-bulgarii), a dzień wcześniej Bułgaria wypowiedziała wojnę Serbii.
 
 Król [Mikołaj I](/postacie/mikolaj-i-petrowic-niegosz) od początku wojny trzymał się Serbii. W sierpniu 1914 roku, kilka dni po wybuchu wojny, [wypowiedział wojnę Austro-Węgrom](/czarnogora-wypowiada-wojne-austro-wegrom) i od tamtej pory jego niewielka armia walczyła z Austriakami w Hercegowinie, nad [Driną](https://pl.wikipedia.org/wiki/Drina) i na stokach masywu Lovćen nad Zatoką Kotorską. Wojna z Bułgarią była prostą konsekwencją tego wyboru. Skoro Bułgaria zaatakowała Serbię, sojusznik Serbii stawał się jej wrogiem.
 

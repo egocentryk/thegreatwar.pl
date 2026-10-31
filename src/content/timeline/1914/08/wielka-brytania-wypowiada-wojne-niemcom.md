@@ -15,7 +15,7 @@ brief:
   - "Wraz z przystąpieniem Wielkiej Brytanii i jej imperium konflikt nabrał wymiaru światowego. Większość ludzi spodziewała się końca wojny przed Bożym Narodzeniem, a trwała ponad cztery lata."
 ---
 
-4 sierpnia 1914 roku o godzinie 23 czasu londyńskiego, czyli o północy w Berlinie, upłynął termin brytyjskiego ultimatum wobec Niemiec. Berlin nie zapewnił, że uszanuje neutralność Belgii, a jego wojska od rana posuwały się w głąb belgijskiego terytorium. Od tej chwili [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) znajdowała się w stanie wojny z [Niemcami](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie).
+4 sierpnia 1914 roku o godzinie 23 czasu londyńskiego, czyli o północy w Berlinie, upłynął termin brytyjskiego ultimatum wobec Niemiec. Berlin nie zapewnił, że uszanuje neutralność Belgii, a jego wojska od rana posuwały się w głąb belgijskiego terytorium. Od tej chwili [Wielka Brytania](/kraje/wielka-brytania) znajdowała się w stanie wojny z [Niemcami](/kraje/niemcy).
 
 ## Ostatnie godziny pokoju
 
@@ -25,11 +25,11 @@ Niemieckiemu ambasadorowi w Londynie, księciu [Karolowi Lichnowsky'emu](https:/
 
 ## Wojna całego imperium
 
-Decyzja Londynu oznaczała, że do wojny przystąpiło całe [Imperium brytyjskie](https://pl.wikipedia.org/wiki/Imperium_brytyjskie). Dominia i kolonie nie prowadziły wówczas samodzielnej polityki zagranicznej, więc z chwilą wypowiedzenia wojny przez Wielką Brytanię w stanie wojny znalazły się także [Kanada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [Nowa Zelandia](https://pl.wikipedia.org/wiki/Nowa_Zelandia), [Związek Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) i [Indie Brytyjskie](https://pl.wikipedia.org/wiki/Indie_Brytyjskie). O wielkości ich udziału w wojnie decydowały jednak rządy poszczególnych dominiów, które niemal natychmiast zadeklarowały pomoc.
+Decyzja Londynu oznaczała, że do wojny przystąpiło całe [Imperium brytyjskie](/kraje/wielka-brytania). Dominia i kolonie nie prowadziły wówczas samodzielnej polityki zagranicznej, więc z chwilą wypowiedzenia wojny przez Wielką Brytanię w stanie wojny znalazły się także [Kanada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [Nowa Zelandia](https://pl.wikipedia.org/wiki/Nowa_Zelandia), [Związek Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) i [Indie Brytyjskie](https://pl.wikipedia.org/wiki/Indie_Brytyjskie). O wielkości ich udziału w wojnie decydowały jednak rządy poszczególnych dominiów, które niemal natychmiast zadeklarowały pomoc.
 
 ## Dlaczego Wielka Brytania walczyła
 
-Bezpośrednim powodem była sprawa [Belgii](https://pl.wikipedia.org/wiki/Belgia), której neutralność Wielka Brytania gwarantowała od 1839 roku. Minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) i większość rządu uważali jednak, że stawka jest większa. Zwycięstwo Niemiec nad Francją i Rosją dałoby im dominację na kontynencie, a niemiecka flota zagrażałaby bezpieczeństwu Wysp Brytyjskich. Dla opinii publicznej to los małej, napadniętej Belgii stał się jednak najważniejszym argumentem za wojną.
+Bezpośrednim powodem była sprawa [Belgii](/kraje/belgia), której neutralność Wielka Brytania gwarantowała od 1839 roku. Minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) i większość rządu uważali jednak, że stawka jest większa. Zwycięstwo Niemiec nad Francją i Rosją dałoby im dominację na kontynencie, a niemiecka flota zagrażałaby bezpieczeństwu Wysp Brytyjskich. Dla opinii publicznej to los małej, napadniętej Belgii stał się jednak najważniejszym argumentem za wojną.
 
 Wielka Brytania była przygotowana przede wszystkim na morzu. Jej flota od kilku dni stała na pozycjach wojennych, a dowództwo nad przemianowaną na Grand Fleet flotą główną obejmował admirał John Jellicoe. Armia lądowa, niewielka w porównaniu z armiami kontynentalnymi, rozpoczynała mobilizację i przygotowania do wysłania korpusu ekspedycyjnego do Francji.
 

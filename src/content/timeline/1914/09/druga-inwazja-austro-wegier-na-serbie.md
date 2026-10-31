@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 września 1914 roku wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) po raz drugi wkroczyły do [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Pierwsze oddziały próbowały przejść graniczną [Drinę](https://pl.wikipedia.org/wiki/Drina) już 7 września, a główne przeprawy nastąpiły w nocy z 7 na 8 września i w ciągu następnego dnia. Niespełna trzy tygodnie wcześniej ta sama armia uciekała z Serbii po klęsce na górze Cer.
+8 września 1914 roku wojska [Austro-Węgier](/kraje/austro-wegry) po raz drugi wkroczyły do [Serbii](/kraje/serbia). Pierwsze oddziały próbowały przejść graniczną [Drinę](https://pl.wikipedia.org/wiki/Drina) już 7 września, a główne przeprawy nastąpiły w nocy z 7 na 8 września i w ciągu następnego dnia. Niespełna trzy tygodnie wcześniej ta sama armia uciekała z Serbii po klęsce na górze Cer.
 
 ## Potiorek chce rewanżu
 

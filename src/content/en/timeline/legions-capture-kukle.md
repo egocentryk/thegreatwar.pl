@@ -2,10 +2,10 @@
 title: Legions capture Kukle
 summary: On 22 October 1915 Rydz-Śmigły's legionaries took the village of Kukle in Volhynia, helping to close the gap a Russian attack had torn in the Styr front.
 source: legiony-zdobywaja-kukle
-sourceHash: 49c8e61bc83e8d2bdf9fdcf98db4cd43fbb42fd9
+sourceHash: b7148f75cab2ea20a9822d138bcc07be6072d711
 ---
 
-On 22 October 1915, at about 5 p.m., legionaries from the group of Lieutenant Colonel [Edward Rydz-Śmigły](/postacie/edward-rydz-smigly) took the village of [Kukle](https://pl.wikipedia.org/wiki/Kukły_(Ukraina)) in the forests of Volhynia, west of the river [Styr](https://pl.wikipedia.org/wiki/Styr), after fierce fighting. A few days earlier the Russians had broken through the Austro-Hungarian and German front in the area. Taking the village helped to close the gap and was one of the first successes of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) in the autumn campaign in Volhynia.
+On 22 October 1915, at about 5 p.m., legionaries from the group of Lieutenant Colonel [Edward Rydz-Śmigły](/postacie/edward-rydz-smigly) took the village of [Kukle](https://pl.wikipedia.org/wiki/Kukły_(Ukraina)) in the forests of Volhynia, west of the river [Styr](https://pl.wikipedia.org/wiki/Styr), after fierce fighting. A few days earlier the Russians had broken through the Austro-Hungarian and German front in the area. Taking the village helped to close the gap and was one of the first successes of the [Polish Legions](/tematy/polskie-formacje-wojskowe) in the autumn campaign in Volhynia.
 
 ## The Legions on the Stokhid and the Styr
 

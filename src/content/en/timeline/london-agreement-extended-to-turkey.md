@@ -2,10 +2,10 @@
 title: London agreement extended to Turkey
 summary: According to the British chronology, on 26 January 1915 the Entente agreed the Pact of London's ban on a separate peace also applied to the war with Turkey.
 source: porozumienie-londynskie-obejmuje-turcje
-sourceHash: 435304b94f3eb076b16ef823725ca31700adb9d5
+sourceHash: 69db08eeeff4ac3810658f5c469685ce235d9950
 ---
 
-The British chronology of the war records under 26 January 1915 that the governments of Britain, France and Russia agreed to regard the [Pact of London](/pakt-londynski) as binding in the war with the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) as well. We have not been able to find the text of this understanding or to establish in what form it was concluded. It was probably an exchange of notes or telegrams between the three capitals rather than a new document signed with the same ceremony as the declaration of September 1914.
+The British chronology of the war records under 26 January 1915 that the governments of Britain, France and Russia agreed to regard the [Pact of London](/pakt-londynski) as binding in the war with the [Ottoman Empire](/kraje/imperium-osmanskie) as well. We have not been able to find the text of this understanding or to establish in what form it was concluded. It was probably an exchange of notes or telegrams between the three capitals rather than a new document signed with the same ceremony as the declaration of September 1914.
 
 ## A war that had not been foreseen
 

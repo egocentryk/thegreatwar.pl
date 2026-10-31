@@ -2,10 +2,10 @@
 title: Reports of Romanian–Russian talks
 summary: A British chronology records the start of Romanian–Russian talks on military aid on 22 January 1916. Other sources do not confirm that date.
 source: doniesienia-o-rozmowach-rumunii-z-rosja
-sourceHash: 08ee4a6ac0327988cad9135769114d2e61d72e10
+sourceHash: cd993ca527cac56fa25701b55021cfa43902b02e
 ---
 
-A British chronology of the war records under 22 January 1916 that the government of [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) had opened negotiations with the Russian government on military aid. We have not been able to find in the available studies, Romanian, Austrian and Western, any specific diplomatic step on that day. It is worth remembering that Russia and Romania then reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), in which 22 January corresponded to 9 January. The sources nevertheless allow us to reconstruct well why, at the turn of 1915 and 1916, the question of joint action by the two states came back onto the table, and how it stood in the winter of 1916.
+A British chronology of the war records under 22 January 1916 that the government of [Romania](/kraje/rumunia) had opened negotiations with the Russian government on military aid. We have not been able to find in the available studies, Romanian, Austrian and Western, any specific diplomatic step on that day. It is worth remembering that Russia and Romania then reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), in which 22 January corresponded to 9 January. The sources nevertheless allow us to reconstruct well why, at the turn of 1915 and 1916, the question of joint action by the two states came back onto the table, and how it stood in the winter of 1916.
 
 ## Romania in a trap
 

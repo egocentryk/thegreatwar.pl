@@ -9,7 +9,7 @@ sides:
     commanders: [Oskar Potiorek, Liborius von Frank]
 result: Serbian victory. The Austro-Hungarian forces withdrew across the Drina and the Sava.
 source: bitwa-na-gorze-cer
-sourceHash: a7a1890e59214bc635da2dbbed3ffc543501f4a8
+sourceHash: 553d10e61d19cd58d1d3d96b7e7cb556d7f5c0f7
 brief:
   - "The Battle of Cer, also known as the Battle of the Jadar, was fought on 15–24 August 1914 in western Serbia. It was the first Allied victory of the First World War."
   - "On 12 August Austria-Hungary invaded Serbia. Vojvoda Radomir Putnik recognised that the main thrust was coming from the west and sent there the Second Army under General Stepa Stepanović."
@@ -17,11 +17,11 @@ brief:
   - "Austria-Hungary lost more than 40,000 killed, wounded and taken prisoner, and Serbia some 18,000–20,000. Stepa Stepanović was promoted for the victory to the rank of vojvoda."
 ---
 
-The [Battle of Cer](https://pl.wikipedia.org/wiki/Bitwa_na_górze_Cer), also known as the Battle of the Jadar, was fought on 15–24 August 1914 in western [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). It ended in the rout of the Austro-Hungarian forces and was the first Allied victory of the First World War.
+The [Battle of Cer](https://pl.wikipedia.org/wiki/Bitwa_na_górze_Cer), also known as the Battle of the Jadar, was fought on 15–24 August 1914 in western [Serbia](/kraje/serbia). It ended in the rout of the Austro-Hungarian forces and was the first Allied victory of the First World War.
 
 ## The invasion
 
-On 12 August the troops of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) began the [invasion of Serbia](/bitwy/kampania-serbska-1914). The main thrust came from the west, across the [Drina](https://pl.wikipedia.org/wiki/Drina), by the Fifth Army under General [Liborius von Frank](https://pl.wikipedia.org/wiki/Liborius_von_Frank), while units of the Second Army attacked from the north, across the Sava at [Šabac](https://pl.wikipedia.org/wiki/Šabac). The whole operation was commanded by General [Oskar Potiorek](/postacie/oskar-potiorek), who wanted to deal Serbia a decisive blow as quickly as possible.
+On 12 August the troops of [Austria-Hungary](/kraje/austro-wegry) began the [invasion of Serbia](/bitwy/kampania-serbska-1914). The main thrust came from the west, across the [Drina](https://pl.wikipedia.org/wiki/Drina), by the Fifth Army under General [Liborius von Frank](https://pl.wikipedia.org/wiki/Liborius_von_Frank), while units of the Second Army attacked from the north, across the Sava at [Šabac](https://pl.wikipedia.org/wiki/Šabac). The whole operation was commanded by General [Oskar Potiorek](/postacie/oskar-potiorek), who wanted to deal Serbia a decisive blow as quickly as possible.
 
 The Austro-Hungarian columns advanced slowly through mountainous, wooded terrain, in the heat and with poor supplies. The Serbian Commander-in-Chief, Vojvoda [Radomir Putnik](/postacie/radomir-putnik), recognised that the main thrust was coming from the west and sent there the Second Army under General [Stepa Stepanović](/postacie/stepa-stepanovic), reinforced with units of the Third Army.
 

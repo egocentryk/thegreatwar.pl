@@ -2,10 +2,10 @@
 title: Bulgaria takes out a loan from German banks
 summary: On 6 August 1915 the Bulgarian finance minister announced that a German-Austrian consortium was taking up the first part of the 1914 loan and making an advance.
 source: bulgaria-zaciaga-pozyczke-w-niemieckich-bankach
-sourceHash: 8ee948b5cc0ece85bd35ea1712fde093c12f7a19
+sourceHash: 907b75db1076b885fed1d56a661f5ee6d19c32ba
 ---
 
-The British chronology of the war records under 6 August 1915 that the government of [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) had negotiated a new loan of 400 million francs with German and Austro-Hungarian banks. Contemporary sources describe it differently. According to a communiqué issued by the Bulgarian finance minister on that very day, 6 August, and circulated by Reuters, this was not a new credit but the implementation of a large loan concluded in Germany before the war, and an advance on account of it. We have not been able to confirm the sum of 400 million francs.
+The British chronology of the war records under 6 August 1915 that the government of [Bulgaria](/kraje/bulgaria) had negotiated a new loan of 400 million francs with German and Austro-Hungarian banks. Contemporary sources describe it differently. According to a communiqué issued by the Bulgarian finance minister on that very day, 6 August, and circulated by Reuters, this was not a new credit but the implementation of a large loan concluded in Germany before the war, and an advance on account of it. We have not been able to confirm the sum of 400 million francs.
 
 ## The 1914 option
 

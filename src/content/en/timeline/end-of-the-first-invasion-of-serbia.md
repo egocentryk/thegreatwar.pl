@@ -2,10 +2,10 @@
 title: End of the first invasion of Serbia
 summary: At the end of August 1914 the Serbs recaptured Šabac and the last Austro-Hungarian units withdrew across the Drina and Sava. The first invasion ended in defeat.
 source: koniec-pierwszej-inwazji-na-serbie
-sourceHash: b0db322314bd1f1cb46cf86cb0dc9f372c970d99
+sourceHash: 7032110b9899183e6ddb7cd8f005261739495f6a
 ---
 
-A British chronology of the war records under 25 August 1914 the end of the first Austro-Hungarian invasion of [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). The Serbs recaptured [Šabac](https://pl.wikipedia.org/wiki/Šabac), and the last enemy units withdrew across the border rivers, the [Drina](https://pl.wikipedia.org/wiki/Drina) and the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)). Most recent studies state that the Serbs entered Šabac as early as 24 August, after the Austrians had abandoned the town during the night. The difference may arise because the chronology records the day on which the last Austro-Hungarian units had already left Serbian territory.
+A British chronology of the war records under 25 August 1914 the end of the first Austro-Hungarian invasion of [Serbia](/kraje/serbia). The Serbs recaptured [Šabac](https://pl.wikipedia.org/wiki/Šabac), and the last enemy units withdrew across the border rivers, the [Drina](https://pl.wikipedia.org/wiki/Drina) and the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)). Most recent studies state that the Serbs entered Šabac as early as 24 August, after the Austrians had abandoned the town during the night. The difference may arise because the chronology records the day on which the last Austro-Hungarian units had already left Serbian territory.
 
 ## Twelve days of war
 

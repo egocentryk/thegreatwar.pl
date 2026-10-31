@@ -2,7 +2,7 @@
 title: Poland regains independence
 summary: On 11 November 1918 the Regency Council handed Piłsudski command of the army, while Warsaw disarmed the Germans. The day became Independence Day.
 source: odzyskanie-niepodleglosci-przez-polske
-sourceHash: 53af8722d84e5cfce7f936230a89685e08190cf6
+sourceHash: d9ba62f966f34400a5ee2e06ce516ba50c6ab376
 brief:
   - "On the evening of 11 November 1918 in Warsaw the Regency Council handed Józef Piłsudski military authority and supreme command of the Polish armed forces. That same morning Germany signed the armistice near Compiègne."
   - "From the evening of 10 November, the day Piłsudski returned from Magdeburg, Polish soldiers and inhabitants disarmed the German garrison. About 30,000 Germans left Warsaw over the following days."
@@ -11,7 +11,7 @@ brief:
   - "The recovery of independence took weeks, but 11 November was adopted as the symbolic date. The act of 23 April 1937 established National Independence Day, which was restored in 1989."
 ---
 
-On the evening of 11 November 1918 in Warsaw the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) handed [Józef Piłsudski](/postacie/jozef-pilsudski) military authority and supreme command of the Polish armed forces. All day Polish soldiers, members of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) and ordinary inhabitants had been disarming the German garrison in the city, which only a few days earlier had held the whole Kingdom in its grip. That same morning, in the forest near Compiègne, Germany [signed the armistice](/rozejm-w-compiegne) with the Entente. After four years of war and more than a hundred and twenty years of bondage, Poland for the first time since the partitions had its own army under a single command in a capital free of foreign soldiers. This day was later adopted as the symbolic date of the recovery of independence.
+On the evening of 11 November 1918 in Warsaw the [Regency Council](/powolanie-rady-regencyjnej) handed [Józef Piłsudski](/postacie/jozef-pilsudski) military authority and supreme command of the Polish armed forces. All day Polish soldiers, members of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) and ordinary inhabitants had been disarming the German garrison in the city, which only a few days earlier had held the whole Kingdom in its grip. That same morning, in the forest near Compiègne, Germany [signed the armistice](/rozejm-w-compiegne) with the Entente. After four years of war and more than a hundred and twenty years of bondage, Poland for the first time since the partitions had its own army under a single command in a capital free of foreign soldiers. This day was later adopted as the symbolic date of the recovery of independence.
 
 ## Disarming the Germans
 
@@ -33,7 +33,7 @@ They decided to hand him the army. The proclamation "The Regency Council to the 
 
 > In view of the threatening danger from without and within, in order to unify all military orders and to maintain order in the country, the Regency Council hands over military authority and supreme command of the Polish forces subordinate to it to Brigadier Józef Piłsudski.
 
-The second part of the proclamation announced that the Regency Council would place supreme state authority in the hands of a future national government. Piłsudski undertook to hand military authority over to that government as well, and confirmed this with his signature on the document beside those of the three regents. The proclamation was published in the *Dziennik Praw Państwa Polskiego* (Journal of Laws of the Polish State). Piłsudski's authority now extended over the [Polish Armed Force](https://pl.wikipedia.org/wiki/Polska_Siła_Zbrojna), a small army organised while the Germans were still there, and the Polish Military Organisation, and soon also over thousands of soldiers returning from the armies of the partitioning powers. A day later the regents entrusted him with the task of forming a national government.
+The second part of the proclamation announced that the Regency Council would place supreme state authority in the hands of a future national government. Piłsudski undertook to hand military authority over to that government as well, and confirmed this with his signature on the document beside those of the three regents. The proclamation was published in the *Dziennik Praw Państwa Polskiego* (Journal of Laws of the Polish State). Piłsudski's authority now extended over the [Polish Armed Force](/tematy/polskie-formacje-wojskowe), a small army organised while the Germans were still there, and the Polish Military Organisation, and soon also over thousands of soldiers returning from the armies of the partitioning powers. A day later the regents entrusted him with the task of forming a national government.
 
 ## Poland on the map
 
@@ -41,7 +41,7 @@ In the west that day the guns fell silent at eleven in the morning. The Habsburg
 
 Jędrzej Moraczewski, a minister in the Lublin government and soon prime minister, recalled the joy of those days in these words: "It is impossible to convey the intoxication, the frenzy of joy that seized the Polish population at that moment. After 120 years the cordons had burst. 'They' were gone. Freedom! Independence! Unification! A state of our own!"
 
-The state being born in Warsaw, however, had no borders, no recognised government and no recognition from the powers. The Entente regarded the [Polish National Committee](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) in Paris as Poland's representative. In Kraków the [Polish Liquidation Commission](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna) governed, in [Lviv](/poczatek-walk-o-lwow) the Poles had been fighting the Ukrainians for ten days, and Greater Poland, Pomerania and Silesia remained within Germany. In the east the troops of the German Ober Ost still stood, with the Bolsheviks approaching behind them. The struggle for the borders was to go on for several more years.
+The state being born in Warsaw, however, had no borders, no recognised government and no recognition from the powers. The Entente regarded the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego) in Paris as Poland's representative. In Kraków the [Polish Liquidation Commission](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna) governed, in [Lviv](/poczatek-walk-o-lwow) the Poles had been fighting the Ukrainians for ten days, and Greater Poland, Pomerania and Silesia remained within Germany. In the east the troops of the German Ober Ost still stood, with the Bolsheviks approaching behind them. The struggle for the borders was to go on for several more years.
 
 ## Why 11 November
 

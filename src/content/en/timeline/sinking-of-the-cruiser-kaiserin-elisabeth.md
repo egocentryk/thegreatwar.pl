@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Kaiserin Elisabeth
 summary: On 2 November 1914 the crew of the Austro-Hungarian cruiser Kaiserin Elisabeth scuttled her in the harbour of Tsingtao. The sailors fought on ashore.
 source: zatoniecie-kaiserin-elisabeth
-sourceHash: 7082845c636c39bc066607c0ac60e90b3ce8778c
+sourceHash: c2ace40d2d6735d828d9591f3306626088b3f19b
 ---
 
-On 2 November 1914, when the Japanese siege artillery had been shelling Tsingtao for several days, the crew of the Austro-Hungarian cruiser [*Kaiserin Elisabeth*](https://pl.wikipedia.org/wiki/SMS_Kaiserin_Elisabeth) scuttled their ship in the harbour. The cruiser had fired off almost all her ammunition and could neither fight on nor break out of the blockade. The only ship of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) in the Far East went to the bottom five days before the fall of the fortress.
+On 2 November 1914, when the Japanese siege artillery had been shelling Tsingtao for several days, the crew of the Austro-Hungarian cruiser [*Kaiserin Elisabeth*](https://pl.wikipedia.org/wiki/SMS_Kaiserin_Elisabeth) scuttled their ship in the harbour. The cruiser had fired off almost all her ammunition and could neither fight on nor break out of the blockade. The only ship of [Austria-Hungary](/kraje/austro-wegry) in the Far East went to the bottom five days before the fall of the fortress.
 
 *Kaiserin Elisabeth* was an old [protected cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy), launched in 1890 at [Pola](https://pl.wikipedia.org/wiki/Pula). She had a long record of service in distant waters. In 1892–1893 Archduke [Franz Ferdinand](https://pl.wikipedia.org/wiki/Franciszek_Ferdynand_Habsburg) made a voyage round the world aboard her, and in 1900 her sailors took part in suppressing the [Boxer Rebellion](https://pl.wikipedia.org/wiki/Powstanie_bokserów) in China. In the summer of 1914 the ship was at German Tsingtao, and that is where the war found her. After some hesitation Vienna decided that the cruiser would take part in the defence of the fortress, and on 25 August [Japan and Austria-Hungary found themselves at war](/japonia-oglasza-stan-wojny-z-austro-wegrami).
 

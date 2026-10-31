@@ -2,7 +2,7 @@
 title: Provisional Government proclamation to the Poles
 summary: On 30 March 1917 the Russian Provisional Government's proclamation recognised the Poles' right to an independent state, bound to Russia by a military alliance.
 source: odezwa-rzadu-tymczasowego-do-polakow
-sourceHash: 81109486dcd2b7a80a83732892caba694b4e2bf2
+sourceHash: 9bb920ce80eac2270b542318ac6f951e6933ca08
 brief:
   - "On 30 March 1917 the gazette of the Russian Provisional Government published a proclamation to the Poles, adopted the day before. Russia for the first time officially recognised the Poles' right to an independent state."
   - "The government was under pressure from the Petrograd Soviet, which on 27 March had recognised Poland's right to complete independence without conditions. Authorship is attributed to the Foreign Minister, Pavel Milyukov."
@@ -11,7 +11,7 @@ brief:
   - "The proclamation did not give the Poles a single kilometre of land, but the Polish question became a matter for the whole coalition, and the Western Allies could now speak openly of an independent Poland without offending Russia."
 ---
 
-On 30 March 1917 (17 March by the Julian calendar) the official gazette of the Russian [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) published a proclamation beginning with the word "Poles". Russia, which for a century and a half had ruled the greater part of the Polish lands, for the first time officially recognised the Poles' right to an independent state, formed "from all the lands inhabited by a majority of the Polish people". This state was, however, to be joined to Russia by a "free military alliance", and the changes to Russia's borders needed to create it were to be approved by the Russian Constituent Assembly. The proclamation was the most important act on the Polish question since the [manifesto of the two emperors](/akt-5-listopada) of November 1916, and the answer to it from the new, post-revolutionary Russia.
+On 30 March 1917 (17 March by the Julian calendar) the official gazette of the Russian [Provisional Government](/powstanie-rzadu-tymczasowego) published a proclamation beginning with the word "Poles". Russia, which for a century and a half had ruled the greater part of the Polish lands, for the first time officially recognised the Poles' right to an independent state, formed "from all the lands inhabited by a majority of the Polish people". This state was, however, to be joined to Russia by a "free military alliance", and the changes to Russia's borders needed to create it were to be approved by the Russian Constituent Assembly. The proclamation was the most important act on the Polish question since the [manifesto of the two emperors](/akt-5-listopada) of November 1916, and the answer to it from the new, post-revolutionary Russia.
 
 ## Two dates
 

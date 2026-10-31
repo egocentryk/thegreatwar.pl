@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 września 1917 roku (1 września według kalendarza juliańskiego) [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) ogłosił, że „porządek państwowy, którym rządzi się Państwo Rosyjskie, jest porządkiem republikańskim”, i proklamował [Republikę Rosyjską](https://pl.wikipedia.org/wiki/Republika_Rosyjska). Tym samym postanowieniem rząd przekazał pełnię swojej władzy pięciu ministrom z premierem [Aleksandrem Kiereńskim](/postacie/aleksander-kierenski) na czele, nazywanym Dyrektoriatem albo Radą Pięciu. Dokument podpisali Kiereński jako minister-przewodniczący i minister sprawiedliwości Aleksandr Zarudny. Brytyjska chronologia wojny podaje datę 15 września. Tekst postanowienia nosi jednak datę 1 września st. st., czyli 14 września, i taką datę podają rosyjskie źródła i opracowania.
+14 września 1917 roku (1 września według kalendarza juliańskiego) [Rząd Tymczasowy](/powstanie-rzadu-tymczasowego) ogłosił, że „porządek państwowy, którym rządzi się Państwo Rosyjskie, jest porządkiem republikańskim”, i proklamował [Republikę Rosyjską](https://pl.wikipedia.org/wiki/Republika_Rosyjska). Tym samym postanowieniem rząd przekazał pełnię swojej władzy pięciu ministrom z premierem [Aleksandrem Kiereńskim](/postacie/aleksander-kierenski) na czele, nazywanym Dyrektoriatem albo Radą Pięciu. Dokument podpisali Kiereński jako minister-przewodniczący i minister sprawiedliwości Aleksandr Zarudny. Brytyjska chronologia wojny podaje datę 15 września. Tekst postanowienia nosi jednak datę 1 września st. st., czyli 14 września, i taką datę podają rosyjskie źródła i opracowania.
 
 ## Pół roku bez nazwy
 

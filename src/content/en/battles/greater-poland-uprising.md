@@ -9,7 +9,7 @@ sides:
     commanders: []
 result: Insurgent victory. By mid-January 1919 they held most of the province, and the armistice signed at Trier on 16 February barred the Germans from attacking the Poles and drew a demarcation line. The Treaty of Versailles gave Poland almost all of Greater Poland.
 source: powstanie-wielkopolskie
-sourceHash: 72e3a0bc3dbc44d175f2653c301059070786c7e9
+sourceHash: e7e4c2841a05d4bb443fff5548e7a7e5ca2990ce
 brief:
   - "The Greater Poland uprising broke out in Poznań on 27 December 1918, during Paderewski's visit, when a German procession tore down Polish and Allied flags and shots were fired outside the Bazar hotel."
   - "The Poles of the Prussian Province of Posen had long resisted Germanisation. The Supreme People's Council counted on the peace conference, but conspirators had been stockpiling arms and preparing units for weeks."
@@ -54,7 +54,7 @@ In the second half of January the Germans, reinforced by Grenzschutz volunteers,
 
 ## Armistice of Trier
 
-The NRL Commissariat and the [Polish National Committee](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) in Paris pressed the Allies to end the fighting. It helped that the armistice with Germany had been concluded for a short term and had to be [extended every month](/przedluzenie-rozejmu). In the next extension, signed at [Trier](https://pl.wikipedia.org/wiki/Rozejm_w_Trewirze) on 16 February 1919, Marshal [Ferdinand Foch](/postacie/ferdinand-foch) added a clause about the Poles to the terms. The Germans were to cease at once all offensive operations against the Poles in Posen and in other districts, and their troops were forbidden to cross a line running from the old border with Russia, north of Szubin and Kcynia, west of Międzychód, Zbąszyń and Wolsztyn, and north of Leszno and Rawicz as far as the Silesian border. Polish tradition holds that the Allies thereby recognised the Greater Poland Army as an allied force, although the text of the agreement does not say so. It imposes obligations on the Germans alone.
+The NRL Commissariat and the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego) in Paris pressed the Allies to end the fighting. It helped that the armistice with Germany had been concluded for a short term and had to be [extended every month](/przedluzenie-rozejmu). In the next extension, signed at [Trier](https://pl.wikipedia.org/wiki/Rozejm_w_Trewirze) on 16 February 1919, Marshal [Ferdinand Foch](/postacie/ferdinand-foch) added a clause about the Poles to the terms. The Germans were to cease at once all offensive operations against the Poles in Posen and in other districts, and their troops were forbidden to cross a line running from the old border with Russia, north of Szubin and Kcynia, west of Międzychód, Zbąszyń and Wolsztyn, and north of Leszno and Rawicz as far as the Silesian border. Polish tradition holds that the Allies thereby recognised the Greater Poland Army as an allied force, although the text of the agreement does not say so. It imposes obligations on the Germans alone.
 
 ## Losses
 

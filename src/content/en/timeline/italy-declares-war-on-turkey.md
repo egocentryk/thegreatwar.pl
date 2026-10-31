@@ -2,7 +2,7 @@
 title: Italy declares war on Turkey
 summary: On 20 August 1915 the Italian ambassador handed the grand vizier a declaration of war. From 21 August Italy was at war with the Ottoman Empire.
 source: wlochy-wypowiadaja-wojne-turcji
-sourceHash: 822d4747ce32963e70fefe329558202cda3aba4c
+sourceHash: e85a339329ffb4dd901bbe803477c40e6816b2ad
 brief:
   - "On 20 August 1915 the Italian ambassador in Constantinople, the Marquis Camillo Garroni, handed the grand vizier a declaration of war. The state of war with the Ottoman Empire took effect on 21 August."
   - "In the Treaty of London of 26 April 1915 Italy had undertaken to fight all the Entente's enemies. Salandra's government long delayed, fearing among other things a revival of the rising in Libya."
@@ -11,7 +11,7 @@ brief:
   - "The declaration changed little on the fronts: Italy sent no troops to the Dardanelles, and Libya remained its main battlefield against Turkey. It declared war on Germany only at the end of August 1916."
 ---
 
-On 21 August 1915 the [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) found itself at war with the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). The declaration had been delivered a day earlier. At noon on Friday 20 August the Italian ambassador in Constantinople, the Marquis Camillo Garroni, handed the grand vizier, [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza), a note stating that from the following day Italy considered itself to be at war with Turkey. This is what Garroni's own dispatches show, later published in the collection of Italian diplomatic documents. The British chronology and most studies give the date as 21 August, the day on which the state of war took effect.
+On 21 August 1915 the [Kingdom of Italy](/kraje/wlochy) found itself at war with the [Ottoman Empire](/kraje/imperium-osmanskie). The declaration had been delivered a day earlier. At noon on Friday 20 August the Italian ambassador in Constantinople, the Marquis Camillo Garroni, handed the grand vizier, [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza), a note stating that from the following day Italy considered itself to be at war with Turkey. This is what Garroni's own dispatches show, later published in the collection of Italian diplomatic documents. The British chronology and most studies give the date as 21 August, the day on which the state of war took effect.
 
 Almost three months had passed since the [declaration of war on Austria-Hungary](/wlochy-wypowiadaja-wojne-austro-wegrom). During that time Italy was formally at war with neither Germany nor Turkey, although both powers were enemies of its new allies.
 

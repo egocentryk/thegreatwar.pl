@@ -2,7 +2,7 @@
 title: Sykes–Picot Agreement
 summary: On 26 April 1916 Russia and France exchanged secret notes. Russia accepted the Anglo-French plan to partition Asiatic Turkey and secured Armenia for itself.
 source: porozumienie-sykes-picot
-sourceHash: ec91f149ad9edc3a3bc6001b220c50e0004b2ecd
+sourceHash: 1dad8793a22cb520080bd362116fdd256dafbd84
 brief:
   - "On 26 April 1916 in Petrograd Sergei Sazonov and the French ambassador Maurice Paléologue exchanged secret letters. In them Russia accepted a plan to partition the Asian lands of the Ottoman Empire."
   - "The plan had been agreed earlier by Mark Sykes and François Georges-Picot. The matter became urgent in the autumn of 1915, when the British in Cairo were promising the Sharif of Mecca Arab independence and France feared for Syria."
@@ -11,7 +11,7 @@ brief:
   - "The agreement was strictly secret until the Bolsheviks published its texts in November 1917. The name \"Sykes-Picot\" became a symbol in the Arab world of betrayal and of arbitrary borders imposed by the great powers."
 ---
 
-On 26 April 1916 in [Petrograd](https://pl.wikipedia.org/wiki/Petersburg) the Russian foreign minister [Sergei Sazonov](/postacie/siergiej-sazonow) and the French ambassador Maurice Paléologue exchanged secret letters. In them Russia accepted a plan to partition the Asian lands of the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) that had been agreed a few months earlier by the British politician Mark Sykes and the French diplomat François Georges-Picot. In return France recognised Russian claims to eastern Anatolia. This was the first formal step in the chain of secret notes that went down in history as the [Sykes–Picot Agreement](https://pl.wikipedia.org/wiki/Umowa_Sykes-Picot). The document known by that name today, the Anglo-French partition of the Middle East, was not confirmed by London and Paris until May.
+On 26 April 1916 in [Petrograd](https://pl.wikipedia.org/wiki/Petersburg) the Russian foreign minister [Sergei Sazonov](/postacie/siergiej-sazonow) and the French ambassador Maurice Paléologue exchanged secret letters. In them Russia accepted a plan to partition the Asian lands of the [Ottoman Empire](/kraje/imperium-osmanskie) that had been agreed a few months earlier by the British politician Mark Sykes and the French diplomat François Georges-Picot. In return France recognised Russian claims to eastern Anatolia. This was the first formal step in the chain of secret notes that went down in history as the [Sykes–Picot Agreement](https://pl.wikipedia.org/wiki/Umowa_Sykes-Picot). The document known by that name today, the Anglo-French partition of the Middle East, was not confirmed by London and Paris until May.
 
 The British chronology of the war records under this date that the French and Russian governments concluded the "Sykes-Picot" agreement on the future partition of Asia Minor. Within the British government itself the whole set of arrangements was indeed called the "Asia Minor Agreement".
 

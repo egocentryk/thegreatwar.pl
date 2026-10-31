@@ -10,6 +10,7 @@ brief:
   - "Rafał Lemkin, polski prawnik, który stworzył pojęcie ludobójstwa, zainteresował się losem Ormian już na studiach. Turcja do dziś nie uznaje tej kwalifikacji."
 order: 10
 updated: 2026-10-29
+wikiTitles: ["Ludobójstwo_Ormian"]
 authors: [Natalia]
 sources:
   - "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html"
@@ -24,7 +25,7 @@ sources:
   - "https://www.mfa.gov.tr/turkish-prime-minister-mr_-recep-tayyip-erdoğan-published-a-message-on-the-events-of-1915_-23-april-2014.en.mfa"
 ---
 
-W czasie I wojny światowej władze [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) dokonały zagłady mieszkających w nim [Ormian](https://pl.wikipedia.org/wiki/Ormianie). Od wiosny 1915 roku rządzący [Komitet Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) aresztował i mordował ormiańskich przywódców, a całe społeczności deportował z Anatolii na pustynie Syrii i Mezopotamii. Ludzie ginęli z rąk eskort i bandytów, z głodu, pragnienia i chorób. Według większości szacunków historyków w latach 1915–1916 zginęło od około 600 tysięcy do ponad miliona Ormian, a strona ormiańska mówi o 1,5 miliona. Zbrodnię nazywa się dziś ludobójstwem Ormian. Turcja nie uznaje tej kwalifikacji.
+W czasie I wojny światowej władze [Imperium Osmańskiego](/kraje/imperium-osmanskie) dokonały zagłady mieszkających w nim [Ormian](https://pl.wikipedia.org/wiki/Ormianie). Od wiosny 1915 roku rządzący [Komitet Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) aresztował i mordował ormiańskich przywódców, a całe społeczności deportował z Anatolii na pustynie Syrii i Mezopotamii. Ludzie ginęli z rąk eskort i bandytów, z głodu, pragnienia i chorób. Według większości szacunków historyków w latach 1915–1916 zginęło od około 600 tysięcy do ponad miliona Ormian, a strona ormiańska mówi o 1,5 miliona. Zbrodnię nazywa się dziś ludobójstwem Ormian. Turcja nie uznaje tej kwalifikacji.
 
 ## Ormianie w Imperium Osmańskim
 

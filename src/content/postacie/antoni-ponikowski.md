@@ -26,7 +26,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Rząd_Józefa_Świeżyńskiego"
 ---
 
-Antoni Ponikowski był inżynierem melioracji i miernictwa, profesorem Politechniki Warszawskiej i jednym z najbardziej wytrwałych urzędników państwa budowanego w Królestwie Polskim pod okupacją państw centralnych. Od grudnia 1917 do listopada 1918 roku kierował resortem wyznań religijnych i oświecenia publicznego we wszystkich kolejnych gabinetach powołanych przez [Radę Regencyjną](https://pl.wikipedia.org/wiki/Rada_Regencyjna). Gdy w lutym 1918 roku rząd [Jana Kucharzewskiego](/postacie/jan-kucharzewski) ustąpił w proteście przeciw traktatowi brzeskiemu z Ukrainą, przez pięć tygodni stał na czele prowizorycznego rządu. Pod jego kierunkiem powstawały podstawy polskiej administracji szkolnej, którą odrodzone państwo przejęło w listopadzie 1918 roku. W niepodległej Polsce był dwukrotnie premierem i rektorem Politechniki Warszawskiej.
+Antoni Ponikowski był inżynierem melioracji i miernictwa, profesorem Politechniki Warszawskiej i jednym z najbardziej wytrwałych urzędników państwa budowanego w Królestwie Polskim pod okupacją państw centralnych. Od grudnia 1917 do listopada 1918 roku kierował resortem wyznań religijnych i oświecenia publicznego we wszystkich kolejnych gabinetach powołanych przez [Radę Regencyjną](/powolanie-rady-regencyjnej). Gdy w lutym 1918 roku rząd [Jana Kucharzewskiego](/postacie/jan-kucharzewski) ustąpił w proteście przeciw traktatowi brzeskiemu z Ukrainą, przez pięć tygodni stał na czele prowizorycznego rządu. Pod jego kierunkiem powstawały podstawy polskiej administracji szkolnej, którą odrodzone państwo przejęło w listopadzie 1918 roku. W niepodległej Polsce był dwukrotnie premierem i rektorem Politechniki Warszawskiej.
 
 ## Przed wojną
 

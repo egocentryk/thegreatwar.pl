@@ -2,7 +2,7 @@
 title: Turks occupy Van
 summary: In early August 1915 Ottoman troops returned to Van, abandoned by the Russians, and at Bergri Kurds attacked columns of Armenian refugees.
 source: turcy-zajmuja-wan
-sourceHash: 497f2ca40a66fb7270503a537ebe843334350860
+sourceHash: af8cb175a1d7f13cc568d662d16d2f7d6c18aa1f
 ---
 
 In the first days of August 1915 Ottoman troops entered [Van](https://pl.wikipedia.org/wiki/Wan_(miasto)). The city was almost empty: [Russian units and tens of thousands of Armenians](/rosjanie-opuszczaja-wan) had fled from it a few days earlier. The British chronology of the war gives the date 5 August. Turkish works based on Ottoman military documents write that Ottoman troops took control of Van on 4 August, just after the last Russians had marched out. The governor of the vilayet, Cevdet Bey, who had had to flee the city in May, reported by telegraph his entry into Van on 10 August.
@@ -21,4 +21,4 @@ General Trukhin, who had left Van on 3 August following the refugees, turned bac
 
 Ottoman rule in Van did not last long. On the evening of 4 August, as the troops of Abdülkerim Pasha, pursuing the Russians after their victory at [Malazgirt](https://pl.wikipedia.org/wiki/Malazgirt), were entering the Eleşkirt valley, the commander of the Russian Caucasus Army, General [Nikolai Yudenich](/postacie/nikolaj-judenicz), gave the order for a counter-stroke. From 5 to 8 August General Baratov's group struck the flank and rear of the Turks near Karakilise. Abdülkerim had to fall back, and the Russians recovered the ground they had lost, including Malazgirt. Soon afterwards, still in August or at the beginning of September depending on the source, Trukhin with Cossacks and Armenian druzhinas reoccupied Van. Surviving refugees slowly began to return to the city, but in Van, which before the war had had several tens of thousands of inhabitants, only about 6,000 people were living again in December 1915, according to reports by relief organisations.
 
-The fate of Van shows how closely the war in the Caucasus was intertwined with the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian). For the people of the province, every movement of the front meant flight or death.
+The fate of Van shows how closely the war in the Caucasus was intertwined with the [Armenian genocide](/tematy/ludobojstwo-ormian). For the people of the province, every movement of the front meant flight or death.

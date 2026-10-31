@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 maja 1915 roku, trzy dni po wypowiedzeniu wojny Austro-Węgrom, rząd włoski ogłosił blokadę wybrzeży przeciwnika. Deklaracja, rozesłana przez ministerstwo spraw zagranicznych w Rzymie do przedstawicielstw państw obcych, obowiązywała od 26 maja. Obejmowała całe wybrzeże austro-węgierskie od granicy z Włochami na północy po granicę z [Czarnogórą](https://pl.wikipedia.org/wiki/Czarnogóra) na południu, „ze wszystkimi portami, wyspami, przystaniami, redami i zatokami”, oraz wybrzeże [Albanii](https://pl.wikipedia.org/wiki/Księstwo_Albanii) od granicy czarnogórskiej aż po przylądek Kefali (Kephali) na południu kraju. Wybrzeże sprzymierzonej Czarnogóry zostało z blokady wyłączone.
+26 maja 1915 roku, trzy dni po wypowiedzeniu wojny Austro-Węgrom, rząd włoski ogłosił blokadę wybrzeży przeciwnika. Deklaracja, rozesłana przez ministerstwo spraw zagranicznych w Rzymie do przedstawicielstw państw obcych, obowiązywała od 26 maja. Obejmowała całe wybrzeże austro-węgierskie od granicy z Włochami na północy po granicę z [Czarnogórą](/kraje/czarnogora) na południu, „ze wszystkimi portami, wyspami, przystaniami, redami i zatokami”, oraz wybrzeże [Albanii](https://pl.wikipedia.org/wiki/Księstwo_Albanii) od granicy czarnogórskiej aż po przylądek Kefali (Kephali) na południu kraju. Wybrzeże sprzymierzonej Czarnogóry zostało z blokady wyłączone.
 
 ## Dlaczego także Albania
 

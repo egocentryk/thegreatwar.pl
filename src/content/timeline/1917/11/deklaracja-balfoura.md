@@ -21,7 +21,7 @@ brief:
 
 > Rząd Jego Królewskiej Mości odnosi się przychylnie do utworzenia w Palestynie siedziby narodowej dla narodu żydowskiego i dołoży wszelkich starań, by ułatwić osiągnięcie tego celu, przy czym jest wyraźnie zrozumiałe, że nie zostanie uczynione nic, co mogłoby naruszyć prawa obywatelskie i religijne istniejących w Palestynie społeczności nieżydowskich albo prawa i status polityczny, z jakich korzystają Żydzi w jakimkolwiek innym kraju.
 
-Balfour prosił Rothschilda, by podał deklarację do wiadomości Federacji Syjonistycznej Wielkiej Brytanii i Irlandii. Było to pierwsze publiczne poparcie dla [syjonizmu](https://pl.wikipedia.org/wiki/Syjonizm) ze strony wielkiego mocarstwa. Dotyczyło jednak kraju, który wciąż należał do [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) i którego mieszkańców nikt o zdanie nie pytał.
+Balfour prosił Rothschilda, by podał deklarację do wiadomości Federacji Syjonistycznej Wielkiej Brytanii i Irlandii. Było to pierwsze publiczne poparcie dla [syjonizmu](https://pl.wikipedia.org/wiki/Syjonizm) ze strony wielkiego mocarstwa. Dotyczyło jednak kraju, który wciąż należał do [Imperium Osmańskiego](/kraje/imperium-osmanskie) i którego mieszkańców nikt o zdanie nie pytał.
 
 ## Syjoniści i rząd brytyjski
 

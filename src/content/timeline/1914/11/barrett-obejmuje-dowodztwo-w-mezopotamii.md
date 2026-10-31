@@ -15,6 +15,6 @@ draft: false
 
 Z Barrettem przypłynęła druga część 6 Dywizji (Poona): 18 Brygada Indyjska generała brygady Charlesa Fry'a, złożona z 2 Batalionu pułku Norfolk i trzech batalionów indyjskich, a także 10 Brygada Królewskiej Artylerii Polowej z trzema bateriami, 48 Pułk Pionierów i dwa szwadrony 33 Pułku Lekkiej Kawalerii. Razem było to około 7 tysięcy ludzi. Delamain zachował dowództwo swojej 16 Brygady.
 
-Przybycie Barretta zmieniło też cel wyprawy. Delamain miał przede wszystkim osłaniać rafinerię Anglo-Persian Oil Company w Abadanie. Teraz, gdy Wielka Brytania była już w stanie wojny z [Imperium Osmańskim](https://pl.wikipedia.org/wiki/Imperium_Osmańskie), korpus miał zająć [Basrę](https://pl.wikipedia.org/wiki/Basra), główny port i ośrodek administracyjny osmańskiej prowincji nad Zatoką Perską.
+Przybycie Barretta zmieniło też cel wyprawy. Delamain miał przede wszystkim osłaniać rafinerię Anglo-Persian Oil Company w Abadanie. Teraz, gdy Wielka Brytania była już w stanie wojny z [Imperium Osmańskim](/kraje/imperium-osmanskie), korpus miał zająć [Basrę](https://pl.wikipedia.org/wiki/Basra), główny port i ośrodek administracyjny osmańskiej prowincji nad Zatoką Perską.
 
 Żołnierze Barretta dopiero schodzili na ląd, a zwiadowcy donosili już, że Turcy gromadzą się pod Saihan, kilka kilometrów od brytyjskiego obozu. Barrett postanowił nie czekać, aż cały korpus wyładuje się ze statków. Już 15 listopada Delamain wyruszył, by rozbić to zgrupowanie.

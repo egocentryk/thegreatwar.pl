@@ -19,4 +19,4 @@ Jules-André Peugeot, dwudziestojednoletni nauczyciel pełniący służbę wojsk
 
 Starcie w Joncherey miało także wymiar polityczny. Francja od 30 lipca trzymała swoje wojska w odległości 10 kilometrów od granicy, by nie dać Niemcom pretekstu do oskarżeń o agresję. Wkroczenie niemieckiego patrolu na francuskie terytorium pozwalało Paryżowi przedstawiać się jako strona zaatakowana. Tego samego dnia dochodziło też do innych incydentów granicznych, a Niemcy oskarżali z kolei Francuzów o naruszanie ich granicy i przeloty samolotów.
 
-Dzień później, 3 sierpnia, Niemcy wypowiedziały [Francji](https://pl.wikipedia.org/wiki/III_Republika_Francuska) wojnę. Dziś w Joncherey stoi pomnik upamiętniający kaprala Peugeota, a miejsce jego śmierci jest symbolem początku wojny na zachodzie.
+Dzień później, 3 sierpnia, Niemcy wypowiedziały [Francji](/kraje/francja) wojnę. Dziś w Joncherey stoi pomnik upamiętniający kaprala Peugeota, a miejsce jego śmierci jest symbolem początku wojny na zachodzie.

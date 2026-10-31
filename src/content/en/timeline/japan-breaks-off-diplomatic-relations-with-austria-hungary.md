@@ -2,10 +2,10 @@
 title: Japan breaks off diplomatic relations with Austria-Hungary
 summary: On 25 August 1914 Japan broke off diplomatic relations with Austria-Hungary. The ambassador, Baron Ladislaus Müller von Szentgyörgy, left Tokyo.
 source: japonia-zrywa-stosunki-z-austro-wegrami
-sourceHash: 48fb2392415198e1079fde9bd60f772a52d00e3a
+sourceHash: edc0a880bfc69a619b5fa52590566e6df8af450d
 ---
 
-On 25 August 1914 [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) broke off diplomatic relations with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). It was a response to a step by Vienna, which the day before had itself broken off relations with Tokyo (see [Austria-Hungary breaks off relations with Japan](/austro-wegry-zrywaja-stosunki-z-japonia)).
+On 25 August 1914 [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) broke off diplomatic relations with [Austria-Hungary](/kraje/austro-wegry). It was a response to a step by Vienna, which the day before had itself broken off relations with Tokyo (see [Austria-Hungary breaks off relations with Japan](/austro-wegry-zrywaja-stosunki-z-japonia)).
 
 ## Germany's ally in the Far East
 

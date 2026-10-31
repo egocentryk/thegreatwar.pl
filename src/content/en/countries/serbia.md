@@ -9,7 +9,7 @@ brief:
   - "The rebuilt army fought on the Salonika front, broke through at Dobro Pole in 1918 and returned to Belgrade on 1 November."
   - "Relative to its population, Serbia lost more in the war than any other state: between 16.1 and 27.8 per cent of its inhabitants."
 source: serbia
-sourceHash: 095db83ab66bc8d623e40fa54012355d8536877a
+sourceHash: 96c6b869b33ef95a8e7c8ab080f3b4ad1d24e77c
 ---
 
 Serbia was the first country to be attacked in the First World War. On 28 July 1914 [Austria-Hungary declared war on it](/austro-wegry-wypowiadaja-wojne-serbii), and in 1914 its army repelled three successive invasions. In autumn 1915 Germany, Austria-Hungary and Bulgaria occupied the country, and the army, with the king and the government, escaped across the mountains of Albania to the Adriatic. Rebuilt on Corfu, the army then fought on the Salonika front, broke through the Bulgarian front in September 1918 and returned to Belgrade on 1 November. Relative to its population, the war cost Serbia more than any other state, but it brought union with the South Slavs of Austria-Hungary.

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 września 1915 roku, czyli 8 września według kalendarza juliańskiego, którego Bułgaria wtedy używała, rząd [Wasiła Radosławowa](/postacie/wasil-radoslawow) postanowił zmobilizować armię. Brytyjska chronologia wojny notuje pod tą datą, że [Bułgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) zarządziła częściową mobilizację, a następnego dnia powszechną. Bułgarscy historycy nie znają jednak osobnego dekretu o częściowej mobilizacji. Według nich 21 września zapadła decyzja rządu, a dekret o mobilizacji powszechnej car podpisał następnego dnia późnym wieczorem.
+21 września 1915 roku, czyli 8 września według kalendarza juliańskiego, którego Bułgaria wtedy używała, rząd [Wasiła Radosławowa](/postacie/wasil-radoslawow) postanowił zmobilizować armię. Brytyjska chronologia wojny notuje pod tą datą, że [Bułgaria](/kraje/bulgaria) zarządziła częściową mobilizację, a następnego dnia powszechną. Bułgarscy historycy nie znają jednak osobnego dekretu o częściowej mobilizacji. Według nich 21 września zapadła decyzja rządu, a dekret o mobilizacji powszechnej car podpisał następnego dnia późnym wieczorem.
 
 Decyzja była konsekwencją układów, które Bułgaria [dwa tygodnie wcześniej zawarła w tajemnicy z Niemcami](/traktat-sojuszniczy-w-sofii). Konwencja wojskowa zobowiązywała ją do uderzenia na Serbię razem z Niemcami i Austro-Węgrami, a do tego armia musiała zostać postawiona na stopie wojennej. Mobilizacja była też warunkiem tureckich ustępstw nad [Maricą](https://pl.wikipedia.org/wiki/Marica). Sprawy toczyły się w ścisłej tajemnicy. Do ostatniej chwili o celu misji pułkownika Petyra Ganczewa w Niemczech nie wiedział nawet bułgarski sztab generalny, który musiał teraz w pośpiechu przygotować mobilizację.
 

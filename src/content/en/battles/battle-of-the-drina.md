@@ -9,10 +9,10 @@ sides:
     commanders: [Oskar Potiorek, Liborius von Frank]
 result: Inconclusive. The Serbs halted the attack, but the Austro-Hungarians held bridgeheads on the right bank of the Drina, and the front settled into positional warfare.
 source: bitwa-nad-drina
-sourceHash: afe7e92785c99859d19f1dfd1e03a963cadfce5c
+sourceHash: bb8f6457d7be5e24238e2883a775c74e7381f50a
 ---
 
-The [Battle of the Drina](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną) was a series of engagements fought in September and early October 1914 on the western border of [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Less than three weeks after their defeat on Mount Cer, the forces of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) again crossed the border river, the [Drina](https://pl.wikipedia.org/wiki/Drina). This time they were not driven back, but neither did they manage to break the Serbian defences. The fighting in the mountains above the Drina was among the first in this war in which both sides dug into trenches for a long period.
+The [Battle of the Drina](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną) was a series of engagements fought in September and early October 1914 on the western border of [Serbia](/kraje/serbia). Less than three weeks after their defeat on Mount Cer, the forces of [Austria-Hungary](/kraje/austro-wegry) again crossed the border river, the [Drina](https://pl.wikipedia.org/wiki/Drina). This time they were not driven back, but neither did they manage to break the Serbian defences. The fighting in the mountains above the Drina was among the first in this war in which both sides dug into trenches for a long period.
 
 ## Dates of the battle
 
@@ -38,7 +38,7 @@ From mid-September the Serbs counter-attacked. They managed to recover a large p
 
 ## The expedition into Bosnia
 
-At the same time the Serbs and their allies from [Montenegro](https://pl.wikipedia.org/wiki/Czarnogóra) struck further south, deep into eastern [Bosnia](https://pl.wikipedia.org/wiki/Bośnia_i_Hercegowina). On 14 September the Serbian Užice Group and the Montenegrin Sanjak Army took [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) and advanced towards the Romanija plateau, on the approaches to Sarajevo. It was, however, an expedition with forces that were too weak. At the end of September the Austro-Hungarians repulsed this attack, and in October the Serbs and Montenegrins withdrew from Bosnia.
+At the same time the Serbs and their allies from [Montenegro](/kraje/czarnogora) struck further south, deep into eastern [Bosnia](https://pl.wikipedia.org/wiki/Bośnia_i_Hercegowina). On 14 September the Serbian Užice Group and the Montenegrin Sanjak Army took [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) and advanced towards the Romanija plateau, on the approaches to Sarajevo. It was, however, an expedition with forces that were too weak. At the end of September the Austro-Hungarians repulsed this attack, and in October the Serbs and Montenegrins withdrew from Bosnia.
 
 ## War in the trenches
 

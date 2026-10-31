@@ -2,7 +2,7 @@
 title: Germany, Austria-Hungary and Italy conclude the Triple Alliance
 summary: On 20 May 1882 in Vienna Italy joined the alliance of Germany and Austria-Hungary. The secret treaty promised Italy help if France attacked it.
 source: niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze
-sourceHash: 6de51a9995c474516cb205b578e1c84ca8214314
+sourceHash: 0fd585bb2e68c185589499746ca70ce37040eb33
 ---
 
 On 20 May 1882 in Vienna the Austro-Hungarian foreign minister, Count Gustav Kálnoky, the German ambassador, Prince Henry VII Reuss, and the Italian ambassador, Count Carlo Felice Nicolis di Robilant, signed a secret treaty that came to be called the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze). The isolated Kingdom of Italy thereby bound itself to the two empires that had been joined since 1879 by the [Dual Alliance](/niemcy-i-austro-wegry-zawieraja-dwuprzymierze). The alliance was to last five years; it survived for more than thirty.
@@ -23,4 +23,4 @@ At the request of the Italians, whose long coastline was particularly exposed to
 
 ## Afterwards
 
-The Triple Alliance was renewed in 1887, 1891, 1902 and 1912. In 1883 [Romania](https://pl.wikipedia.org/wiki/Rumunia) became linked to it through a treaty with Austria-Hungary. At the first renewal the Italians won promises of support for their interests in the Balkans and North Africa, but as early as 1896 they made it known that they would not take part in a war in which France and Great Britain together were the alliance's opponents. In the summer of 1914 Rome held that the defensive alliance did not oblige it to join the war, and declared neutrality.
+The Triple Alliance was renewed in 1887, 1891, 1902 and 1912. In 1883 [Romania](/kraje/rumunia) became linked to it through a treaty with Austria-Hungary. At the first renewal the Italians won promises of support for their interests in the Balkans and North Africa, but as early as 1896 they made it known that they would not take part in a war in which France and Great Britain together were the alliance's opponents. In the summer of 1914 Rome held that the defensive alliance did not oblige it to join the war, and declared neutrality.

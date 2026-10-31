@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-21 lipca 1917 roku (8 lipca według kalendarza juliańskiego) premierem, a dokładniej ministrem-przewodniczącym [Rządu Tymczasowego](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), został [Aleksander Kiereński](/postacie/aleksander-kierenski). Dzień wcześniej do dymisji podał się książę [Gieorgij Lwow](/postacie/gieorgij-lwow), który kierował rządem od rewolucji lutowej. Kiereński zachował ministerstwo wojny i marynarki. Brytyjska chronologia wojny notuje tę zmianę pod 19 lipca. Według rosyjskich i zachodnich źródeł Lwow ustąpił 20 lipca (7 lipca st. st.), a Kiereński objął urząd nazajutrz.
+21 lipca 1917 roku (8 lipca według kalendarza juliańskiego) premierem, a dokładniej ministrem-przewodniczącym [Rządu Tymczasowego](/powstanie-rzadu-tymczasowego), został [Aleksander Kiereński](/postacie/aleksander-kierenski). Dzień wcześniej do dymisji podał się książę [Gieorgij Lwow](/postacie/gieorgij-lwow), który kierował rządem od rewolucji lutowej. Kiereński zachował ministerstwo wojny i marynarki. Brytyjska chronologia wojny notuje tę zmianę pod 19 lipca. Według rosyjskich i zachodnich źródeł Lwow ustąpił 20 lipca (7 lipca st. st.), a Kiereński objął urząd nazajutrz.
 
 ## Dymisja Lwowa
 

@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Wysokie Mazowieckie (Kingdom of Poland)
 deathPlace: New York
 source: jan-kucharzewski
-sourceHash: f90e143bdd3a88080cce9b8798ca9ef567d4e478
+sourceHash: c46a600e12db97bf41b52631f3001add5a32e911
 ---
 
-Jan Kucharzewski was a historian of Russia and a lawyer who in November 1917 became head of the first government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)). He returned to politics during the war as a declared opponent of Russia, convinced that the Poles could rebuild their state alongside Germany and Austria-Hungary. He became prime minister only after Berlin had blocked the candidate chosen by the regents. His cabinet, which held only a scrap of power, organised the first Polish ministries. In February 1918 Kucharzewski resigned in protest at the Brest-Litovsk treaty with Ukraine, and in October, as prime minister for the second time, he countersigned the manifesto of the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) announcing an independent Poland. After the war he returned to scholarship and wrote a seven-volume history of Russia from tsarism to Bolshevism.
+Jan Kucharzewski was a historian of Russia and a lawyer who in November 1917 became head of the first government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)). He returned to politics during the war as a declared opponent of Russia, convinced that the Poles could rebuild their state alongside Germany and Austria-Hungary. He became prime minister only after Berlin had blocked the candidate chosen by the regents. His cabinet, which held only a scrap of power, organised the first Polish ministries. In February 1918 Kucharzewski resigned in protest at the Brest-Litovsk treaty with Ukraine, and in October, as prime minister for the second time, he countersigned the manifesto of the [Regency Council](/powolanie-rady-regencyjnej) announcing an independent Poland. After the war he returned to scholarship and wrote a seven-volume history of Russia from tsarism to Bolshevism.
 
 ## Before the war
 

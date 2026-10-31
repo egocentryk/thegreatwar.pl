@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Belgium
 summary: Contemporary chronicles date Austria-Hungary's declaration of war on Belgium to 22 August 1914, but the Belgians received the note only on 28 August.
 source: austro-wegry-wypowiadaja-wojne-belgii
-sourceHash: dffe97db9151ed4dae834e573657651c998f7302
+sourceHash: 0745c44ff28c0e7b3aeac65ba22c3b776e094181
 brief:
   - "Contemporary British war chronicles record under 22 August 1914 that Austria-Hungary, which had no direct disputes with Belgium, declared war on her. Belgium had been resisting the German invasion for almost three weeks."
   - "Belgian documents and modern studies show that Count Clary sent the note on the state of war from The Hague only on 28 August. In it Vienna accused Belgium of military cooperation with France and Britain and of mistreating the monarchy's subjects."
@@ -10,7 +10,7 @@ brief:
   - "In 1839 Austria had been one of the guarantors of Belgian neutrality. Vienna's decision was a further step in the widening of the war: the camps of the Central Powers and the Entente were by now almost fully formed."
 ---
 
-Contemporary British war chronicles record under 22 August 1914 that [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) declared war on [Belgium](https://pl.wikipedia.org/wiki/Belgia). The two states had no direct disputes, and Belgium had been resisting the German invasion for almost three weeks. Belgian documents and modern studies show, however, that Vienna's formal step came a few days later, and that the declaration itself was more a gesture of loyalty to Germany than a military decision.
+Contemporary British war chronicles record under 22 August 1914 that [Austria-Hungary](/kraje/austro-wegry) declared war on [Belgium](/kraje/belgia). The two states had no direct disputes, and Belgium had been resisting the German invasion for almost three weeks. Belgian documents and modern studies show, however, that Vienna's formal step came a few days later, and that the declaration itself was more a gesture of loyalty to Germany than a military decision.
 
 ## A guarantor of neutrality
 

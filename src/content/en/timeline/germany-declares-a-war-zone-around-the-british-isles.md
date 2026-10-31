@@ -2,10 +2,10 @@
 title: Germany declares a war zone around the British Isles
 summary: On 4 February 1915 Germany declared the waters around the British Isles a war zone. From 18 February U-boats were to destroy enemy merchant ships there.
 source: niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich
-sourceHash: cdd16379c3158b9552197e80fcdc453182a354dc
+sourceHash: cc5d0bed3a78e65955faaae0b20c5484882b7375
 ---
 
-On 4 February 1915 it was announced in Berlin that the waters around Great Britain and Ireland, including the whole of the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), were to become a war zone. From 18 February every enemy merchant ship encountered there would be destroyed, even if, as the notice pointed out, it would not always be possible to avoid danger to the crews and passengers. The proclamation was signed by Admiral [Hugo von Pohl](https://pl.wikipedia.org/wiki/Hugo_von_Pohl), until then Chief of the Admiralstab, the German naval staff, who was just taking command of the High Seas Fleet. Germany was beginning its first campaign of [submarine warfare](https://pl.wikipedia.org/wiki/Wojna_podwodna_w_latach_1914–1918) directed against Britain's merchant shipping.
+On 4 February 1915 it was announced in Berlin that the waters around Great Britain and Ireland, including the whole of the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), were to become a war zone. From 18 February every enemy merchant ship encountered there would be destroyed, even if, as the notice pointed out, it would not always be possible to avoid danger to the crews and passengers. The proclamation was signed by Admiral [Hugo von Pohl](https://pl.wikipedia.org/wiki/Hugo_von_Pohl), until then Chief of the Admiralstab, the German naval staff, who was just taking command of the High Seas Fleet. Germany was beginning its first campaign of [submarine warfare](/tematy/wojna-podwodna-1914-1918) directed against Britain's merchant shipping.
 
 ## Three points and a memorandum
 

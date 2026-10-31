@@ -2,7 +2,7 @@
 title: Russians take Erzincan
 summary: On 25 July 1916 the Russian 39th Division entered Erzincan, abandoned by the shattered Ottoman Third Army. It was the peak of Russian gains in Anatolia.
 source: rosjanie-zdobywaja-erzincan
-sourceHash: 5171c5feed7c6ad8b87ed1d16bc53c18808621a9
+sourceHash: 01979b7244c07d89c499322dc894e4727e8e9bd1
 ---
 
 On 25 July 1916 Russian troops entered [Erzincan](https://pl.wikipedia.org/wiki/Erzincan), an old town on the upper [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) that housed the headquarters of the Ottoman Third Army. The Turks abandoned it without a fight. The date is given consistently by the British chronology of the war, by the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, and by General Yevgeny Maslovsky of the staff of the Russian Caucasus Army, who writes of 12 July in the Julian calendar. The capture of Erzincan ended the July offensive of General [Nikolai Yudenich](/postacie/nikolaj-judenicz), in which in less than four weeks he shattered the Third Army of [Vehip Pasha](/postacie/wehib-pasza).
@@ -25,4 +25,4 @@ Allen and Muratoff estimate that in the fighting at Bayburt and on Dumanlı Dağ
 
 The British chronology adds that Erzincan was the westernmost point reached by Russian troops. That is a simplification. Erzincan was the largest town occupied by the Russians in the interior of Anatolia, but their patrols and outposts reached even further: Allen and Muratoff write of a squadron of Cossacks stationed in the winter of 1916–1917 at Refahiye, several dozen kilometres west of the town. The Russians did not, however, advance further, and they held Erzincan until their army disintegrated after the revolution. The Turks recovered it in February 1918.
 
-The Russians found the town without its Armenian inhabitants. In the summer of 1915, during the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), the Ottoman authorities had deported the Armenians of Erzincan and its surroundings, and in the nearby Euphrates gorge at Kemah mass killings were carried out on the deportees, including those driven through Erzincan from other places.
+The Russians found the town without its Armenian inhabitants. In the summer of 1915, during the [Armenian genocide](/tematy/ludobojstwo-ormian), the Ottoman authorities had deported the Armenians of Erzincan and its surroundings, and in the nearby Euphrates gorge at Kemah mass killings were carried out on the deportees, including those driven through Erzincan from other places.

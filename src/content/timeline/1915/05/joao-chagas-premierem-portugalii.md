@@ -10,13 +10,13 @@ milestone: false
 draft: false
 ---
 
-15 maja 1915 roku, dzień po [upadku dyktatury generała Pimenty de Castro](/upadek-rzadu-pimenty-de-castro), prezydent [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga) powołał nowy rząd [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). Na jego czele miał stanąć [João Chagas](https://pl.wikipedia.org/wiki/João_Chagas), który objął także ministerstwo spraw wewnętrznych. Kandydata wskazała rewolucyjna Junta Konstytucyjna, która przejęła władzę w Lizbonie. Zgodnie z życzeniem jej przywódców gabinet miał być rządem narodowym, a nie partyjnym. Przywódcy republikańskich partii, w tym [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), odmówili jednak wejścia do rządu, a dwaj nominowani ministrowie, Basílio Teles i Alves da Veiga, nie przyjęli tek.
+15 maja 1915 roku, dzień po [upadku dyktatury generała Pimenty de Castro](/upadek-rzadu-pimenty-de-castro), prezydent [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga) powołał nowy rząd [Portugalii](/kraje/portugalia). Na jego czele miał stanąć [João Chagas](https://pl.wikipedia.org/wiki/João_Chagas), który objął także ministerstwo spraw wewnętrznych. Kandydata wskazała rewolucyjna Junta Konstytucyjna, która przejęła władzę w Lizbonie. Zgodnie z życzeniem jej przywódców gabinet miał być rządem narodowym, a nie partyjnym. Przywódcy republikańskich partii, w tym [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa), odmówili jednak wejścia do rządu, a dwaj nominowani ministrowie, Basílio Teles i Alves da Veiga, nie przyjęli tek.
 
 ## Dziennikarz i spiskowiec
 
 Chagas miał 51 lat. Urodził się w 1863 roku w Rio de Janeiro jako syn portugalskiego emigranta, a jako dziecko przyjechał do Portugalii. Nie stać go było na studia. Jako nastolatek przeniósł się do Porto, gdzie zaczął pisać do gazet. Należał do najbardziej znanych publicystów ruchu republikańskiego. Za udział w nieudanym powstaniu republikanów w Porto w 1891 roku został skazany na zesłanie do Angoli, skąd uciekł. Wielokrotnie trafiał do więzienia za artykuły wymierzone w monarchię. Po rewolucji 1910 roku został posłem Portugalii w Paryżu, a jesienią 1911 roku przez około dwa miesiące kierował pierwszym rządem konstytucyjnym republiki.
 
-Chagas był zdecydowanym zwolennikiem udziału Portugalii w wojnie po stronie [Francji](https://pl.wikipedia.org/wiki/Francja) i Wielkiej Brytanii. Z Paryża ostro krytykował rząd Pimenty de Castro. Wiosną 1915 roku wrócił do kraju i wydał w Porto broszury przeciw dyktaturze, w tym „Portugal perante a Guerra” („Portugalia wobec wojny”). Młodzi oficerowie, którzy przygotowali powstanie 14 maja, uważali go za swojego mentora.
+Chagas był zdecydowanym zwolennikiem udziału Portugalii w wojnie po stronie [Francji](/kraje/francja) i Wielkiej Brytanii. Z Paryża ostro krytykował rząd Pimenty de Castro. Wiosną 1915 roku wrócił do kraju i wydał w Porto broszury przeciw dyktaturze, w tym „Portugal perante a Guerra” („Portugalia wobec wojny”). Młodzi oficerowie, którzy przygotowali powstanie 14 maja, uważali go za swojego mentora.
 
 ## Strzały w pociągu
 

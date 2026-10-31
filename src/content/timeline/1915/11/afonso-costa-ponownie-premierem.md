@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 listopada 1915 roku prezydent [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) powierzył urząd przewodniczącego Ministerium, czyli premiera [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), [Afonso Coście](https://pl.wikipedia.org/wiki/Afonso_Costa), przywódcy [Partii Demokratycznej](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). Tego dnia odszedł [gabinet José de Castro](/jose-de-castro-premierem-portugalii), który rządził od czerwca. Portugalskie wykazy rządów przyjmują datę 29 listopada, choć w niektórych zestawieniach nowa kadencja zaczyna się dzień później. Costa objął urząd premiera po raz drugi. Tak jak w pierwszym rządzie, zatrzymał dla siebie także ministerstwo finansów.
+29 listopada 1915 roku prezydent [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) powierzył urząd przewodniczącego Ministerium, czyli premiera [Portugalii](/kraje/portugalia), [Afonso Coście](https://pl.wikipedia.org/wiki/Afonso_Costa), przywódcy [Partii Demokratycznej](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Portugalia)). Tego dnia odszedł [gabinet José de Castro](/jose-de-castro-premierem-portugalii), który rządził od czerwca. Portugalskie wykazy rządów przyjmują datę 29 listopada, choć w niektórych zestawieniach nowa kadencja zaczyna się dzień później. Costa objął urząd premiera po raz drugi. Tak jak w pierwszym rządzie, zatrzymał dla siebie także ministerstwo finansów.
 
 ## Dymisja Castra
 

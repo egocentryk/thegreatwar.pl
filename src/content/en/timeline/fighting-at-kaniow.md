@@ -2,7 +2,7 @@
 title: Fighting at Kaniów
 summary: In the night of 10/11 May 1918 the Germans attacked the Polish II Corps at Kaniów. The Poles held out all day, but short of ammunition they capitulated.
 source: walki-pod-kaniowem
-sourceHash: 6c1bb7eeff07be67fac5a75df27c739e69bcff82
+sourceHash: 8cb8a6d377398a5ef762c6e049a0372ec85be889
 brief:
   - "In the night of 10/11 May 1918 German infantry attacked without warning the quarters of General Józef Haller's Polish II Corps in villages west of Kaniów on the Dnieper."
   - "The Germans, ruling Ukraine after Hetman Skoropadsky's coup, did not want an independent Polish force in their rear. On 6 May General Zierold gave the Poles three hours to capitulate, then brought up more battalions."
@@ -11,7 +11,7 @@ brief:
   - "Kaniów was the end of the Polish II Corps, but Haller escaped and reached France via Moscow and Murmansk. The battle grew into a symbol, and \"Kaniów 11 V 1918\" was placed on the Tomb of the Unknown Soldier."
 ---
 
-In the night of 10/11 May 1918, in pouring rain, German infantry attacked the quarters of the [Polish II Corps](https://pl.wikipedia.org/wiki/II_Korpus_Polski_w_Rosji), spread out in villages west of [Kaniów](https://pl.wikipedia.org/wiki/Kaniów_(Ukraina)) on the Dnieper. The attack came without warning, a few days after the Poles had rejected a demand to lay down their arms. Taken by surprise in the first hours, the corps of General [Józef Haller](/postacie/jozef-haller) managed to pull itself together and throughout the day beat off attacks by superior forces. In the afternoon the ammunition ran out. Fire was halted, a capitulation was signed during the night, and the next day the Polish regiments laid down their arms. For the soldiers who in February had [crossed the front with Haller at Rarańcza](/bitwa-pod-rarancza), it was their second open fight against the Central Powers in three months, and at the same time the end of their corps.
+In the night of 10/11 May 1918, in pouring rain, German infantry attacked the quarters of the [Polish II Corps](/tematy/polskie-formacje-wojskowe), spread out in villages west of [Kaniów](https://pl.wikipedia.org/wiki/Kaniów_(Ukraina)) on the Dnieper. The attack came without warning, a few days after the Poles had rejected a demand to lay down their arms. Taken by surprise in the first hours, the corps of General [Józef Haller](/postacie/jozef-haller) managed to pull itself together and throughout the day beat off attacks by superior forces. In the afternoon the ammunition ran out. Fire was halted, a capitulation was signed during the night, and the next day the Polish regiments laid down their arms. For the soldiers who in February had [crossed the front with Haller at Rarańcza](/bitwa-pod-rarancza), it was their second open fight against the Central Powers in three months, and at the same time the end of their corps.
 
 ## Before the battle
 

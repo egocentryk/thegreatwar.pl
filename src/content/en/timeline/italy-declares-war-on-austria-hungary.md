@@ -2,7 +2,7 @@
 title: Italy declares war on Austria-Hungary
 summary: On 23 May 1915 Italy declared war on Austria-Hungary, its ally in the Triple Alliance. The state of war took effect the following day.
 source: wlochy-wypowiadaja-wojne-austro-wegrom
-sourceHash: f3f4f06d107bcd45499979182ff9ef3c1fef2c9d
+sourceHash: bc3410c04c3a2f565e8787240d0719879f1b140f
 brief:
   - "On 23 May 1915 the Italian ambassador in Vienna, Duke Giuseppe Avarna, handed over the declaration of war. Italy, for more than thirty years Austria-Hungary's ally in the Triple Alliance, joined the Entente."
   - "On 26 April Prime Minister Antonio Salandra and Sonnino had signed an agreement with the Entente in London. In return for Trentino, Trieste, Istria and part of Dalmatia, Italy undertook to enter the war within a month."
@@ -11,7 +11,7 @@ brief:
   - "On the night of 23/24 May the Italian front opened, from the Stelvio Pass to the Adriatic. The war lasted three and a half years and by various estimates cost Italy between about 600,000 and 650,000 soldiers."
 ---
 
-On Sunday 23 May 1915, at about a quarter past three in the afternoon, the Italian ambassador in Vienna, Duke Giuseppe Avarna, handed the declaration of war to the Austro-Hungarian Foreign Minister, Baron [István Burián](/postacie/istvan-burian). The [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)), which for more than thirty years had been an ally of the Habsburg monarchy in the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze), entered the fight on the side of the Entente.
+On Sunday 23 May 1915, at about a quarter past three in the afternoon, the Italian ambassador in Vienna, Duke Giuseppe Avarna, handed the declaration of war to the Austro-Hungarian Foreign Minister, Baron [István Burián](/postacie/istvan-burian). The [Kingdom of Italy](/kraje/wlochy), which for more than thirty years had been an ally of the Habsburg monarchy in the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze), entered the fight on the side of the Entente.
 
 ## The declaration
 

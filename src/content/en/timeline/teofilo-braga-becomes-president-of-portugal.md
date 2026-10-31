@@ -2,10 +2,10 @@
 title: Teófilo Braga becomes President of Portugal
 summary: At the end of May 1915 the Portuguese Congress elected the 72-year-old writer and scholar Teófilo Braga president, to complete Manuel de Arriaga's term.
 source: teofilo-braga-prezydentem-portugalii
-sourceHash: 520c16088a2229bc41cc2d00afaa1e531b82dd37
+sourceHash: 9fa23ce0ee803873e7d7203adc18685d5a0d9ec4
 ---
 
-A British chronology of the war records under 28 May 1915 that [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga) became the new President of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). According to Portuguese sources, including the official website of the presidency, Congress, that is, the two chambers of parliament sitting jointly, elected him at its session of 29 May. It had reconvened on 27 May, for the first time since the fall of General Pimenta de Castro's dictatorship, and first accepted the resignation of the outgoing President, [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), before proceeding to the vote. Braga received 98 votes. One vote went to Duarte Leite, and three ballots were blank. Under the constitution of 1911 the new president was only to complete his predecessor's term, which expired in October 1915.
+A British chronology of the war records under 28 May 1915 that [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga) became the new President of [Portugal](/kraje/portugalia). According to Portuguese sources, including the official website of the presidency, Congress, that is, the two chambers of parliament sitting jointly, elected him at its session of 29 May. It had reconvened on 27 May, for the first time since the fall of General Pimenta de Castro's dictatorship, and first accepted the resignation of the outgoing President, [Manuel de Arriaga](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), before proceeding to the vote. Braga received 98 votes. One vote went to Duarte Leite, and three ballots were blank. Under the constitution of 1911 the new president was only to complete his predecessor's term, which expired in October 1915.
 
 ## A scholar from the Azores
 

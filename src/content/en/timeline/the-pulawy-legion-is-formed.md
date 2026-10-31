@@ -2,10 +2,10 @@
 title: The Puławy Legion is formed
 summary: On 4 December 1914 the first volunteers of a Polish Legion, raised with Russian consent and National Democrat backing against Piłsudski's, reached Puławy.
 source: powstaje-legion-pulawski
-sourceHash: 62d51afd3debc9e7dd2f73866f27a609a6b6735e
+sourceHash: 35ff1092a7ef2c77a56c8549e4967f7db2115047
 ---
 
-On 4 December 1914, according to Wojciech Jerzy Muszyński, the historian of the formation, the first 70 volunteers from Brest and Chełm arrived in [Puławy](https://pl.wikipedia.org/wiki/Puławy), which the Russians called Novo-Aleksandriya. They were quartered in the buildings of the Institute of Agriculture and Forestry. So began the formation of the Polish Legion, known after the place where it was formed as the Puławy Legion: the first Polish volunteer unit on the Russian side and the answer of the [National Democrats](https://pl.wikipedia.org/wiki/Narodowa_Demokracja) to the [Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) that had been fighting Russia since August alongside Austria-Hungary under the command of [Józef Piłsudski](/postacie/jozef-pilsudski).
+On 4 December 1914, according to Wojciech Jerzy Muszyński, the historian of the formation, the first 70 volunteers from Brest and Chełm arrived in [Puławy](https://pl.wikipedia.org/wiki/Puławy), which the Russians called Novo-Aleksandriya. They were quartered in the buildings of the Institute of Agriculture and Forestry. So began the formation of the Polish Legion, known after the place where it was formed as the Puławy Legion: the first Polish volunteer unit on the Russian side and the answer of the [National Democrats](https://pl.wikipedia.org/wiki/Narodowa_Demokracja) to the [Legions](/tematy/polskie-formacje-wojskowe) that had been fighting Russia since August alongside Austria-Hungary under the command of [Józef Piłsudski](/postacie/jozef-pilsudski).
 
 ## Russian consent
 

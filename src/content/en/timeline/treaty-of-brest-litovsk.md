@@ -2,7 +2,7 @@
 title: Treaty of Brest-Litovsk
 summary: On 3 March 1918 Soviet Russia signed peace with the Central Powers at Brest. It lost Poland, Lithuania, Courland, Livonia, Estonia, Finland and Ukraine.
 source: traktat-brzeski
-sourceHash: 10cb8e2884f706ca31a79a8022315c34e345883a
+sourceHash: 3ba52578ae9645d4ee06594c060b4985007c084c
 brief:
   - "On 3 March 1918, in the White Palace of the Brest Fortress, the delegation of Soviet Russia signed a peace treaty with Germany, Austria-Hungary, Bulgaria and Turkey. Russia left the war on terms dictated by force."
   - "After the German offensive Grigori Sokolnikov's delegation came only to sign. Sokolnikov said it was a peace which Russia, \"grinding its teeth\", was compelled to accept."
@@ -33,7 +33,7 @@ The scale of the losses was enormous, although the figures differ depending on w
 
 ## Poland in the treaty
 
-The word "Poland" did not appear in the treaty. The Kingdom of Poland, which after the [Act of 5 November](/akt-5-listopada) 1916 the Central Powers had announced as an independent state, and which since the autumn of 1917 had had a [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) and its own government, lay entirely west of the new line. Under Article 3 its future was to be decided by Germany and Austria-Hungary in agreement with the population. Representatives of the Kingdom were not admitted to the negotiations, which all the parties had opposed. At the same time Russia recognised the treaty with Ukraine, which gave the new state the Chełm Land, the former [Chełm Governorate](https://pl.wikipedia.org/wiki/Gubernia_chełmska), and part of Podlasie. In February it was precisely this provision that set off a wave of protest in the Kingdom and in Galicia and the [resignation of the Kucharzewski government](/dymisja-rzadu-kucharzewskiego). The peace with Russia completed the picture. The former partitioning power renounced its rights to Polish lands, but not in favour of the Poles: in favour of Berlin and Vienna, which now decided their fate without the participation of those concerned.
+The word "Poland" did not appear in the treaty. The Kingdom of Poland, which after the [Act of 5 November](/akt-5-listopada) 1916 the Central Powers had announced as an independent state, and which since the autumn of 1917 had had a [Regency Council](/powolanie-rady-regencyjnej) and its own government, lay entirely west of the new line. Under Article 3 its future was to be decided by Germany and Austria-Hungary in agreement with the population. Representatives of the Kingdom were not admitted to the negotiations, which all the parties had opposed. At the same time Russia recognised the treaty with Ukraine, which gave the new state the Chełm Land, the former [Chełm Governorate](https://pl.wikipedia.org/wiki/Gubernia_chełmska), and part of Podlasie. In February it was precisely this provision that set off a wave of protest in the Kingdom and in Galicia and the [resignation of the Kucharzewski government](/dymisja-rzadu-kucharzewskiego). The peace with Russia completed the picture. The former partitioning power renounced its rights to Polish lands, but not in favour of the Poles: in favour of Berlin and Vienna, which now decided their fate without the participation of those concerned.
 
 ## End of the offensive
 

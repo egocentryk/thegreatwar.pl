@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-10 sierpnia 1914 roku [Francja](https://pl.wikipedia.org/wiki/III_Republika_Francuska) zerwała stosunki dyplomatyczne z [Austro-Węgrami](https://pl.wikipedia.org/wiki/Austro-Węgry). Tego dnia zakończyły się misje ambasadora Francji w [Wiedniu](https://pl.wikipedia.org/wiki/Wiedeń), Alfreda Dumaine'a, i ambasadora Austro-Węgier w [Paryżu](https://pl.wikipedia.org/wiki/Paryż), hrabiego Nikolausa Szécsena. Obaj dyplomaci opuścili placówki.
+10 sierpnia 1914 roku [Francja](/kraje/francja) zerwała stosunki dyplomatyczne z [Austro-Węgrami](/kraje/austro-wegry). Tego dnia zakończyły się misje ambasadora Francji w [Wiedniu](https://pl.wikipedia.org/wiki/Wiedeń), Alfreda Dumaine'a, i ambasadora Austro-Węgier w [Paryżu](https://pl.wikipedia.org/wiki/Paryż), hrabiego Nikolausa Szécsena. Obaj dyplomaci opuścili placówki.
 
 ## Wojna bez bezpośredniego sporu
 

@@ -13,6 +13,7 @@ entered: 1914-08-01
 left: 1918-11-11
 order: 1
 updated: 2026-10-30
+wikiTitles: ["Cesarstwo_Niemieckie"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/germany/"

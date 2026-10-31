@@ -17,7 +17,7 @@ draft: false
 
 Brygada składała się z brytyjskiego 2 Batalionu pułku Dorsetshire i trzech batalionów armii indyjskiej: 20 Pułku Pendżabskiego, 104 Pułku Strzelców Wellesleya i 117 Pułku Marathów. Towarzyszyły jej artyleria górska, saperzy i służby. Łącznie było to około 5 tysięcy żołnierzy i ponad tysiąc zwierząt.
 
-Cel wyprawy trzymano w tajemnicy. [Imperium Osmańskie](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) formalnie wciąż zachowywało neutralność i Brytyjczycy nie chcieli dać Turkom pretekstu do wojny. Brygada płynęła więc razem z konwojem wiozącym wojska indyjskie do Egiptu i dalej do Francji. Z zewnątrz wyglądało to jak kolejny transport wojsk na front europejski. Delamain miał jednak tajne rozkazy, by na morzu odłączyć się od konwoju i skierować do [Zatoki Perskiej](https://pl.wikipedia.org/wiki/Zatoka_Perska).
+Cel wyprawy trzymano w tajemnicy. [Imperium Osmańskie](/kraje/imperium-osmanskie) formalnie wciąż zachowywało neutralność i Brytyjczycy nie chcieli dać Turkom pretekstu do wojny. Brygada płynęła więc razem z konwojem wiozącym wojska indyjskie do Egiptu i dalej do Francji. Z zewnątrz wyglądało to jak kolejny transport wojsk na front europejski. Delamain miał jednak tajne rozkazy, by na morzu odłączyć się od konwoju i skierować do [Zatoki Perskiej](https://pl.wikipedia.org/wiki/Zatoka_Perska).
 
 ## Ropa z Abadanu
 

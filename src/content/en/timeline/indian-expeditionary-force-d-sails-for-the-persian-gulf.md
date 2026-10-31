@@ -2,7 +2,7 @@
 title: Indian Expeditionary Force D sails for the Persian Gulf
 summary: On 16 October 1914 General Delamain's 16th Indian Brigade sailed from Bombay. It was to protect British oil in Persia in case of war with Turkey.
 source: indyjski-korpus-ekspedycyjny-d-wyplywa-nad-zatoke-perska
-sourceHash: fa9a47be99103940594339f38473a6c8ae9c6f8e
+sourceHash: 9b25fa8e882c379bf3cacd1ad3dcb038ca83f001
 ---
 
 On 16 October 1914 the 16th Indian Brigade of Brigadier General Walter Delamain sailed from [Bombay](https://pl.wikipedia.org/wiki/Mumbaj). It was the advance part of Indian Expeditionary Force D, whose commander, General Arthur Barrett, had [been appointed at the end of September](/general-barrett-dowodca-wyprawy-do-mezopotamii). That same day [Force B](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki), intended for East Africa, also set out from Bombay.
@@ -11,7 +11,7 @@ On 16 October 1914 the 16th Indian Brigade of Brigadier General Walter Delamain 
 
 The brigade consisted of the British 2nd Battalion of the Dorsetshire Regiment and three battalions of the Indian Army: the 20th Punjabis, the 104th Wellesley's Rifles and the 117th Mahrattas. It was accompanied by mountain artillery, sappers and services. In all there were some 5,000 soldiers and more than a thousand animals.
 
-The purpose of the expedition was kept secret. The [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) was still formally neutral, and the British did not want to give the Turks a pretext for war. The brigade therefore sailed together with a convoy carrying Indian troops to Egypt and on to France. From the outside it looked like another troop transport for the European front. Delamain, however, had secret orders to detach himself from the convoy at sea and head for the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska).
+The purpose of the expedition was kept secret. The [Ottoman Empire](/kraje/imperium-osmanskie) was still formally neutral, and the British did not want to give the Turks a pretext for war. The brigade therefore sailed together with a convoy carrying Indian troops to Egypt and on to France. From the outside it looked like another troop transport for the European front. Delamain, however, had secret orders to detach himself from the convoy at sea and head for the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska).
 
 ## Oil from Abadan
 

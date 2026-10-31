@@ -2,10 +2,10 @@
 title: Bernardino Machado elected president of Portugal
 summary: On 6 August 1915 Portugal's Congress elected former prime minister Bernardino Machado president. He won only on the third ballot and took office on 5 October.
 source: bernardino-machado-prezydentem-portugalii
-sourceHash: 3031bf34e2090f1578822a624329c2013d93a5cb
+sourceHash: 75a78fb3ffe8bc1f950ff24c5120d32731222354
 ---
 
-On 6 August 1915 the Congress of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), that is, the two chambers of parliament sitting together, elected a new president of the republic. The choice fell on the 64-year-old [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado), a professor from Coimbra, former foreign minister and prime minister in 1914. The election did not go smoothly. According to the minutes of the sitting, kept in the archive of the Portuguese parliament, three ballots were needed. In the first, votes went to seven candidates and 15 ballot papers were blank. Machado received 71 votes and General António Xavier Correia Barreto 44. In the second, with five candidates, Machado collected 75 votes and Correia Barreto 45. As neither obtained the required majority, only the two of them faced each other in the third ballot. Machado won by 134 votes to 18, with 27 ballot papers declared invalid.
+On 6 August 1915 the Congress of [Portugal](/kraje/portugalia), that is, the two chambers of parliament sitting together, elected a new president of the republic. The choice fell on the 64-year-old [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado), a professor from Coimbra, former foreign minister and prime minister in 1914. The election did not go smoothly. According to the minutes of the sitting, kept in the archive of the Portuguese parliament, three ballots were needed. In the first, votes went to seven candidates and 15 ballot papers were blank. Machado received 71 votes and General António Xavier Correia Barreto 44. In the second, with five candidates, Machado collected 75 votes and Correia Barreto 45. As neither obtained the required majority, only the two of them faced each other in the third ballot. Machado won by 134 votes to 18, with 27 ballot papers declared invalid.
 
 ## The radicals' candidate
 

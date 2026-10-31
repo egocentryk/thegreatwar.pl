@@ -22,7 +22,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Julius_von_Griesinger"
 ---
 
-6 sierpnia 1914 roku [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) wypowiedziała wojnę [Niemcom](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Decyzję podjął rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic), działający w wojennej stolicy kraju, [Niszu](https://pl.wikipedia.org/wiki/Nisz). Tydzień wcześniej Serbia została zaatakowana przez [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry), a Niemcy od początku kryzysu stały za polityką Wiednia. Formalnie serbska deklaracja miała postać noty, w której rząd uznał misję niemieckiego posła za zakończoną i wręczył mu paszporty, ale w kronikach wojny i zestawieniach wypowiedzeń wojny figuruje jako wypowiedzenie wojny Niemcom.
+6 sierpnia 1914 roku [Serbia](/kraje/serbia) wypowiedziała wojnę [Niemcom](/kraje/niemcy). Decyzję podjął rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic), działający w wojennej stolicy kraju, [Niszu](https://pl.wikipedia.org/wiki/Nisz). Tydzień wcześniej Serbia została zaatakowana przez [Austro-Węgry](/kraje/austro-wegry), a Niemcy od początku kryzysu stały za polityką Wiednia. Formalnie serbska deklaracja miała postać noty, w której rząd uznał misję niemieckiego posła za zakończoną i wręczył mu paszporty, ale w kronikach wojny i zestawieniach wypowiedzeń wojny figuruje jako wypowiedzenie wojny Niemcom.
 
 ## Nota z Niszu
 
@@ -36,7 +36,7 @@ Tego samego dnia Jovanović złożył w Berlinie wizytę podsekretarzowi stanu w
 
 Serbia i Niemcy nie miały wspólnej granicy, a Niemcy nie wypowiedziały wcześniej wojny Serbii. Z militarnego punktu widzenia deklaracja niewiele zmieniała: Serbia walczyła z armią austro-węgierską na swoich granicach nad [Driną](https://pl.wikipedia.org/wiki/Drina), Sawą i Dunajem. Miała jednak wyraźną wymowę polityczną. Belgrad pokazywał, że uważa Niemcy za współodpowiedzialne za wojnę, ponieważ to niemieckie poparcie, [wyrażone już na początku lipca](/kajzer-obiecuje-austro-wegrom-pelne-poparcie), umożliwiło Austro-Węgrom twardy kurs wobec Serbii. Słowa Zimmermanna, który winę zrzucał na Petersburg, pokazywały, jak odmiennie obie strony widziały początek wojny.
 
-Wypowiedzenie wojny sytuowało też Serbię jednoznacznie po stronie [Ententy](https://pl.wikipedia.org/wiki/Ententa). Nota z Niszu wprost powoływała się na solidarność z Rosją i jej sojusznikami. W ciągu kilku dni Niemcy znalazły się w stanie wojny z Rosją, Francją i Wielką Brytanią, a Serbia dołączyła do obozu ich przeciwników jako pełnoprawny uczestnik wojny europejskiej, a nie tylko ofiara lokalnego konfliktu. Tego samego dnia Austro-Węgry wypowiedziały wojnę Rosji, a dwa dni później w stan wojny z Niemcami weszła sąsiednia Czarnogóra.
+Wypowiedzenie wojny sytuowało też Serbię jednoznacznie po stronie [Ententy](/tematy/panstwa-centralne-i-ententa). Nota z Niszu wprost powoływała się na solidarność z Rosją i jej sojusznikami. W ciągu kilku dni Niemcy znalazły się w stanie wojny z Rosją, Francją i Wielką Brytanią, a Serbia dołączyła do obozu ich przeciwników jako pełnoprawny uczestnik wojny europejskiej, a nie tylko ofiara lokalnego konfliktu. Tego samego dnia Austro-Węgry wypowiedziały wojnę Rosji, a dwa dni później w stan wojny z Niemcami weszła sąsiednia Czarnogóra.
 
 ## Pierwsze walki
 

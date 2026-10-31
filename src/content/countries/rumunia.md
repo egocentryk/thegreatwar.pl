@@ -13,6 +13,7 @@ entered: 1916-08-27
 left: 1917-12-09
 order: 10
 updated: 2026-10-30
+wikiTitles: ["Królestwo_Rumunii", "Rumunia_w_I_wojnie_światowej", "Rumunia"]
 authors: [Natalia]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/romania/"

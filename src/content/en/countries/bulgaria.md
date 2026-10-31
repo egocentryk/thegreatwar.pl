@@ -9,7 +9,7 @@ brief:
   - "For almost three years it held the front in Macedonia, until the Allies broke it at Dobro Pole on 15 September 1918."
   - "On 29 September 1918 Bulgaria signed the Armistice of Salonica and became the first of the Central Powers to leave the war."
 source: bulgaria
-sourceHash: 7f62359b69922b7237467092aa1a2c91474c2277
+sourceHash: 61b6c5e91807ea210a853043b132be25af3038bd
 ---
 
 Bulgaria was the last state to join the Central Powers, in October 1915, and the first of them to leave the war. On 14 October 1915 Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) [proclaimed a manifesto on war with Serbia](/bulgaria-i-serbia-wypowiadaja-sobie-wojne), counting on regaining the Macedonia lost in 1913. Together with Germany and Austria-Hungary the Bulgarians conquered Serbia, and then for almost three years held the front in Macedonia. On 29 September 1918, after that front collapsed, Bulgaria signed the [Armistice of Salonica](/rozejm-w-salonikach), and at noon on 30 September the fighting stopped.

@@ -11,7 +11,7 @@ sides:
     commanders: [Nikolai Ivanov, Platon Lechitsky, Alexei Evert, Radko Dimitriev]
 result: Inconclusive. The Austrians halted the Russians in the forefield of Kraków but failed to drive them away from the fortress. The Russians made no attempt to storm it.
 source: bitwa-pod-krakowem
-sourceHash: 735ee0f9c5f8ed2daa4761e85c7ac33b8d7aeb8d
+sourceHash: 80bcfee614be26d89784abf92d8e906e36749c81
 brief:
   - "The Battle of Kraków, also called the first battle for Kraków, was fought in the second half of November 1914 on the northern and eastern forefield of the fortress of Kraków."
   - "After their defeat on the Vistula the Austro-Hungarian armies fell back to Kraków, and the Russian 9th Army of General Lechitsky came up to the fortress. The Russians meant only to blockade it, not storm it."
@@ -40,7 +40,7 @@ Lechitsky did not intend to storm Kraków. The fortress had a double ring of for
 
 Kraków had been preparing for a siege for weeks. The commandant of the fortress, General [Karl Kuk](/postacie/karl-kuk), had already in September ordered visitors to leave, and residents who wished to stay to lay in food supplies for three months. At the beginning of November, as the Russians approached, compulsory evacuation was announced. About a third of the inhabitants left the city. On the forefield of the fortress villages were burnt so that the enemy would find no shelter in them, and more trenches and field fortifications were built. The first Cossack patrol appeared at the edge of the fortress as early as 9 November. In mid-November the Russian vanguards occupied the hills near Kocmyrzów, from where field artillery shelled the forts in the Krzesławice area, though without doing them much damage. On 17 November the command ordered the city tollgates to be closed and banned entry to Kraków.
 
-In those same days part of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) reached the city. After the retreat from the Vistula the 1st Legions Regiment found itself in the area of Wolbrom. [Józef Piłsudski](/postacie/jozef-pilsudski) with three battalions slipped through by night between the retreating Austrians and the advancing Russians, by way of Ulina Mała, and reached Kraków around 11 November. The two remaining battalions stayed north of the city.
+In those same days part of the [Polish Legions](/tematy/polskie-formacje-wojskowe) reached the city. After the retreat from the Vistula the 1st Legions Regiment found itself in the area of Wolbrom. [Józef Piłsudski](/postacie/jozef-pilsudski) with three battalions slipped through by night between the retreating Austrians and the advancing Russians, by way of Ulina Mała, and reached Kraków around 11 November. The two remaining battalions stayed north of the city.
 
 ## Course
 

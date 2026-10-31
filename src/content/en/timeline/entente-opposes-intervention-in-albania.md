@@ -2,10 +2,10 @@
 title: Entente opposes intervention in Albania
 summary: According to a British chronology, on 2 February 1915 the Entente advised Greece, Serbia and Montenegro not to enter Albania, mindful of Italy's interests.
 source: ententa-przeciw-interwencji-w-albanii
-sourceHash: 46c9706b2a875c06e5b85cc55cb24bd4dedcf0d1
+sourceHash: aaa89c3407e1bc1b4325c96733a3457da4a5635e
 ---
 
-A British chronology of the war records under 2 February 1915 that the Entente powers sent the governments of Greece, Serbia and [Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) a message advising them against intervention in Albania. We have not been able to find the text of this document or to establish whether it was a joint note or separate representations by the ministers in Athens, Niš and Cetinje. It is known, however, why London, Paris and Petrograd wanted to restrain their Balkan allies.
+A British chronology of the war records under 2 February 1915 that the Entente powers sent the governments of Greece, Serbia and [Montenegro](/kraje/czarnogora) a message advising them against intervention in Albania. We have not been able to find the text of this document or to establish whether it was a joint note or separate representations by the ministers in Athens, Niš and Cetinje. It is known, however, why London, Paris and Petrograd wanted to restrain their Balkan allies.
 
 ## A country without government
 

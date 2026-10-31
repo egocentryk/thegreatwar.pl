@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-26 listopada 1917 roku [Rada Regencyjna](https://pl.wikipedia.org/wiki/Rada_Regencyjna) powołała 41-letniego historyka i prawnika [Jana Kucharzewskiego](/postacie/jan-kucharzewski) na stanowisko prezydenta ministrów, czyli szefa rządu [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)). Akt nominacyjny powierzał mu przedstawienie regentom do zatwierdzenia składu Rady Ministrów i kończył się słowami: „Składając w Pańskie zaufane ręce kierownictwo spraw Odrodzonej Ojczyzny, prosimy Boga o błogosławieństwo dla Pańskich poczynań”. Badacz dziejów Rady Regencyjnej Zdzisław Julian Winnicki uznaje tę datę za objęcie urzędu przez pierwszego prezydenta ministrów powołanego przez regentów. Sam gabinet powstał dopiero w grudniu.
+26 listopada 1917 roku [Rada Regencyjna](/powolanie-rady-regencyjnej) powołała 41-letniego historyka i prawnika [Jana Kucharzewskiego](/postacie/jan-kucharzewski) na stanowisko prezydenta ministrów, czyli szefa rządu [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)). Akt nominacyjny powierzał mu przedstawienie regentom do zatwierdzenia składu Rady Ministrów i kończył się słowami: „Składając w Pańskie zaufane ręce kierownictwo spraw Odrodzonej Ojczyzny, prosimy Boga o błogosławieństwo dla Pańskich poczynań”. Badacz dziejów Rady Regencyjnej Zdzisław Julian Winnicki uznaje tę datę za objęcie urzędu przez pierwszego prezydenta ministrów powołanego przez regentów. Sam gabinet powstał dopiero w grudniu.
 
 ## Po porażce w sprawie Tarnowskiego
 

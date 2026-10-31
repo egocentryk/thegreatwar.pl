@@ -2,14 +2,14 @@
 title: Battle of Cer and the Jadar begins
 summary: In mid-August 1914 the Serbian army struck the invaders on Cer mountain and in the Jadar valley. A battle began that brought the Allies their first victory.
 source: poczatek-bitwy-na-gorze-cer
-sourceHash: b25f1bd898c2712e0ed51eaf63eaea068f84495d
+sourceHash: 9cdebdb1f201762a9e51b613197b9ffeaeee6d25
 ---
 
-Contemporary chronicles of the war record 17 August 1914 as the start of the battle on Cer mountain and on the river Jadar in western [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). The first clashes on the slopes of Cer broke out as early as the night of 15–16 August, and in the following days the fighting spread over the whole area, becoming one of the most important battles of the first weeks of the war.
+Contemporary chronicles of the war record 17 August 1914 as the start of the battle on Cer mountain and on the river Jadar in western [Serbia](/kraje/serbia). The first clashes on the slopes of Cer broke out as early as the night of 15–16 August, and in the following days the fighting spread over the whole area, becoming one of the most important battles of the first weeks of the war.
 
 ## Answer to the invasion
 
-A few days earlier the troops of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) had crossed the Drina and the Sava, beginning the [invasion of Serbia](/bitwy/kampania-serbska-1914). The Serbian commander-in-chief, Vojvoda [Radomir Putnik](/postacie/radomir-putnik), recognised that the main thrust was coming from the west, through the Jadar valley. He sent there the Second Army of General [Stepa Stepanović](/postacie/stepa-stepanovic), which after a forced march reached the Cer mountain area.
+A few days earlier the troops of [Austria-Hungary](/kraje/austro-wegry) had crossed the Drina and the Sava, beginning the [invasion of Serbia](/bitwy/kampania-serbska-1914). The Serbian commander-in-chief, Vojvoda [Radomir Putnik](/postacie/radomir-putnik), recognised that the main thrust was coming from the west, through the Jadar valley. He sent there the Second Army of General [Stepa Stepanović](/postacie/stepa-stepanovic), which after a forced march reached the Cer mountain area.
 
 Cer is a range of wooded hills overlooking the Jadar valley and the roads along which the Austro-Hungarian columns were advancing. Whoever controlled its ridges dominated the surrounding area. The Serbs attacked before the enemy had time to dig in there.
 

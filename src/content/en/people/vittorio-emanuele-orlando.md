@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Palermo (Italy)
 deathPlace: Rome
 source: vittorio-emanuele-orlando
-sourceHash: f45b2e1aee2304b04dd2c27e14232eeb2b36ff98
+sourceHash: 1552fab9a6bda8de7bc951be3fe138836e1e7655
 ---
 
 Vittorio Emanuele Orlando took over the government of Italy at the worst moment of its war, in the last days of October 1917, when the army was retreating in disorder from Caporetto. An eminent professor of public law from Palermo, until then Minister of the Interior accused by the Supreme Command of leniency towards opponents of the war, he proved to be the prime minister the country needed at that time. He changed the commander-in-chief, united parliament and public opinion around the defence on the Piave, and in October 1918 pressed the army to deal Austria-Hungary the final blow at Vittorio Veneto. As the "premier of victory" he sat in Paris in the "Big Four" alongside Wilson, Clemenceau and Lloyd George, but there he lost the dispute over Fiume and the Adriatic coast, and disappointment at the "mutilated victory" contributed to the crisis from which fascism grew.
@@ -25,7 +25,7 @@ In this post he tried to respect constitutional liberties, including towards the
 
 ## Prime minister after Caporetto
 
-On 24 October 1917 the Germans and Austrians [broke through the front at Caporetto](/bitwy/dwunasta-bitwa-nad-isonzo). A day later [Boselli's government fell](/dymisja-boselliego), and King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) entrusted Orlando with forming a cabinet. The government [took office on 29 October](/orlando-premierem-wloch), and according to some sources the ministers were sworn in a day later. Orlando kept the Ministry of the Interior for himself, and [Sidney Sonnino](/postacie/sidney-sonnino) remained Foreign Minister. There were differences between the two politicians from the start: Sonnino was the guardian of the [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)), while Orlando was more flexible.
+On 24 October 1917 the Germans and Austrians [broke through the front at Caporetto](/bitwy/dwunasta-bitwa-nad-isonzo). A day later [Boselli's government fell](/dymisja-boselliego), and King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) entrusted Orlando with forming a cabinet. The government [took office on 29 October](/orlando-premierem-wloch), and according to some sources the ministers were sworn in a day later. Orlando kept the Ministry of the Interior for himself, and [Sidney Sonnino](/postacie/sidney-sonnino) remained Foreign Minister. There were differences between the two politicians from the start: Sonnino was the guardian of the [Treaty of London](/wlochy-podpisuja-pakt-londynski), while Orlando was more flexible.
 
 From his first days the prime minister intended to change the commander-in-chief, although for appearances' sake he assured Cadorna of his confidence by telegram. The Allies settled the matter. At the [Rapallo conference](/konferencja-w-rapallo) on 5–7 November [David Lloyd George](/postacie/david-lloyd-george) and [Paul Painlevé](/postacie/paul-painleve) made the dispatch of their divisions to Italy conditional on Cadorna's removal, and at the same conference the Allied Supreme War Council was set up. On 8 November the King [dismissed Cadorna](/dymisja-cadorny), and his place was taken by General [Armando Diaz](/postacie/armando-diaz), with whom Orlando worked much better.
 

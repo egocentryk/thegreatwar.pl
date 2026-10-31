@@ -17,7 +17,7 @@ tags: [Serbia, Austro-Węgry, Radomir Putnik, Oskar Potiorek]
 milestone: false
 ---
 
-[Bitwa nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną) to seria walk stoczonych we wrześniu i na początku października 1914 roku na zachodniej granicy [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry), niespełna trzy tygodnie po klęsce na górze Cer, ponownie przekroczyły graniczną rzekę [Drinę](https://pl.wikipedia.org/wiki/Drina). Tym razem nie zostały wyparte, ale nie zdołały też przełamać serbskiej obrony. Walki w górach nad Driną były jednymi z pierwszych w tej wojnie, w których obie strony na dłużej zakopały się w okopach.
+[Bitwa nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną) to seria walk stoczonych we wrześniu i na początku października 1914 roku na zachodniej granicy [Serbii](/kraje/serbia). Wojska [Austro-Węgier](/kraje/austro-wegry), niespełna trzy tygodnie po klęsce na górze Cer, ponownie przekroczyły graniczną rzekę [Drinę](https://pl.wikipedia.org/wiki/Drina). Tym razem nie zostały wyparte, ale nie zdołały też przełamać serbskiej obrony. Walki w górach nad Driną były jednymi z pierwszych w tej wojnie, w których obie strony na dłużej zakopały się w okopach.
 
 ## Daty bitwy
 
@@ -43,7 +43,7 @@ Od połowy września Serbowie kontratakowali. Udało im się odzyskać znaczną 
 
 ## Wyprawa do Bośni
 
-Równolegle Serbowie i ich sojusznicy z [Czarnogóry](https://pl.wikipedia.org/wiki/Czarnogóra) uderzyli dalej na południe, w głąb wschodniej [Bośni](https://pl.wikipedia.org/wiki/Bośnia_i_Hercegowina). Serbska grupa Užice i czarnogórska armia sandżacka 14 września zajęły [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) i posuwały się w stronę płaskowyżu Romanija, na przedpolach Sarajewa. Była to jednak wyprawa na zbyt słabych siłach. Pod koniec września Austro-Węgrzy odparli to natarcie, a w październiku Serbowie i Czarnogórcy wycofali się z Bośni.
+Równolegle Serbowie i ich sojusznicy z [Czarnogóry](/kraje/czarnogora) uderzyli dalej na południe, w głąb wschodniej [Bośni](https://pl.wikipedia.org/wiki/Bośnia_i_Hercegowina). Serbska grupa Užice i czarnogórska armia sandżacka 14 września zajęły [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) i posuwały się w stronę płaskowyżu Romanija, na przedpolach Sarajewa. Była to jednak wyprawa na zbyt słabych siłach. Pod koniec września Austro-Węgrzy odparli to natarcie, a w październiku Serbowie i Czarnogórcy wycofali się z Bośni.
 
 ## Wojna w okopach
 

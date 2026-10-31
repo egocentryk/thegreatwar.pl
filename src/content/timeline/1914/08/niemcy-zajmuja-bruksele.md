@@ -16,7 +16,7 @@ sources:
   - "https://archive.org/details/militaryoperatio01edmouoft"
 ---
 
-20 sierpnia 1914 roku wojska niemieckie wkroczyły do [Brukseli](https://pl.wikipedia.org/wiki/Bruksela). Stolica [Belgii](https://pl.wikipedia.org/wiki/Belgia) poddała się bez walki: trzy dni wcześniej [rząd przeniósł się do Antwerpii](/rzad-belgii-przenosi-sie-do-antwerpii), a armia polowa po [walkach nad Gete](/bitwa-nad-gete) wycofywała się do tej samej twierdzy. Przez miasto zaczęła przechodzić niemiecka 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck), maszerująca na zachód i południe, w stronę Francji.
+20 sierpnia 1914 roku wojska niemieckie wkroczyły do [Brukseli](https://pl.wikipedia.org/wiki/Bruksela). Stolica [Belgii](/kraje/belgia) poddała się bez walki: trzy dni wcześniej [rząd przeniósł się do Antwerpii](/rzad-belgii-przenosi-sie-do-antwerpii), a armia polowa po [walkach nad Gete](/bitwa-nad-gete) wycofywała się do tej samej twierdzy. Przez miasto zaczęła przechodzić niemiecka 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck), maszerująca na zachód i południe, w stronę Francji.
 
 ## Miasto bez obrony
 

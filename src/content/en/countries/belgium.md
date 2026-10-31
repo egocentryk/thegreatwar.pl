@@ -9,7 +9,7 @@ brief:
   - "Troops from the Belgian Congo took the western part of German East Africa, including Tabora."
   - "In autumn 1918 the Flanders Army Group under King Albert I liberated western Belgium, and the occupation ended in November."
 source: belgia
-sourceHash: b82549a7b51f20a33cf47b2fd00dc9fc1fbdefc0
+sourceHash: f6b6e439342ee1d964813d889157b983ca33ca96
 ---
 
 Belgium did not enter the First World War by choice but because it lay in the path of the German army marching on France. On 4 August 1914 German troops crossed its border, breaking a neutrality that Germany itself had guaranteed, and it was for precisely this reason that Britain went to war. After the fall of Liège and Antwerp the Belgian army stopped the Germans on the river Yser and for four years defended the last strip of the country there, while almost all of Belgium lived under occupation. In autumn 1918, under King [Albert I](/postacie/albert-i), it liberated the western part of the country.

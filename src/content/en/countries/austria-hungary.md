@@ -9,7 +9,7 @@ brief:
   - "Hunger, strikes and the drive of its nations for states of their own broke the monarchy apart in October 1918."
   - "On 3 November 1918 Austria-Hungary signed the Armistice of Villa Giusti, and fighting ended on 4 November at 3 p.m."
 source: austro-wegry
-sourceHash: 94b80b9899cfeb917f8571e38ff0a31b9ae7c8a9
+sourceHash: cab46cf4e41129064c42ebc0ce3329272c2643c5
 ---
 
 Austria-Hungary started the First World War: on 28 July 1914, a month after the Sarajevo assassination, it [declared war on Serbia](/austro-wegry-wypowiadaja-wojne-serbii). The multinational Habsburg monarchy fought Serbia, Russia and Italy, but from the first months it suffered heavy defeats and depended more and more on Germany. Hunger, war-weariness and the drive of its nations for states of their own broke it apart in the autumn of 1918. On 3 November it signed the [Armistice of Villa Giusti](/rozejm-w-villa-giusti), and fighting ended the next day.
@@ -48,7 +48,7 @@ The nations of the monarchy increasingly sought their own way. In April 1918 in 
 
 ## Poles in the Habsburg monarchy
 
-Under Franz Joseph Galicia gained wide autonomy, and Poles held the highest offices of state. During the war the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) were formed under the monarchy's patronage, and Galicia became a scene of heavy fighting and Russian occupation. In February 1918 the Central Powers made [peace with the Ukrainian People's Republic](/pokoj-brzeski-z-ukraina) and promised it the Chełm region, which outraged the Poles. The II Brigade of the Legions under Colonel [Józef Haller](/postacie/jozef-haller) [broke through the Austrian front at Rarańcza](/bitwa-pod-rarancza), and the Polish Club [brought down the government of Ernst Seidler](/dymisja-seidlera).
+Under Franz Joseph Galicia gained wide autonomy, and Poles held the highest offices of state. During the war the [Polish Legions](/tematy/polskie-formacje-wojskowe) were formed under the monarchy's patronage, and Galicia became a scene of heavy fighting and Russian occupation. In February 1918 the Central Powers made [peace with the Ukrainian People's Republic](/pokoj-brzeski-z-ukraina) and promised it the Chełm region, which outraged the Poles. The II Brigade of the Legions under Colonel [Józef Haller](/postacie/jozef-haller) [broke through the Austrian front at Rarańcza](/bitwa-pod-rarancza), and the Polish Club [brought down the government of Ernst Seidler](/dymisja-seidlera).
 
 According to Andrzej Wrzosek's estimate more than 220,000 Poles were killed in the Austro-Hungarian army. On 31 October 1918 Polish soldiers [disarmed the Kraków garrison](/wyzwolenie-krakowa) without firing a shot, and on 1 November Polish volunteers in Lviv took up [the fight against the Ukrainians](/bitwy/obrona-lwowa-1918).
 

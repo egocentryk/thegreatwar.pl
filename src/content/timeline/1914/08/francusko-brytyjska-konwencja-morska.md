@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-6 sierpnia 1914 roku w Londynie [Francja](https://pl.wikipedia.org/wiki/III_Republika_Francuska) i [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) zawarły konwencję morską, która określała zasady współpracy obu flot w czasie wojny. Najważniejsze postanowienie dotyczyło [Morza Śródziemnego](https://pl.wikipedia.org/wiki/Morze_Śródziemne): ogólne kierownictwo operacji morskich w tym rejonie powierzono Francji, a dowódcą połączonych sił sojuszniczych został francuski admirał Augustin Boué de Lapeyrère.
+6 sierpnia 1914 roku w Londynie [Francja](/kraje/francja) i [Wielka Brytania](/kraje/wielka-brytania) zawarły konwencję morską, która określała zasady współpracy obu flot w czasie wojny. Najważniejsze postanowienie dotyczyło [Morza Śródziemnego](https://pl.wikipedia.org/wiki/Morze_Śródziemne): ogólne kierownictwo operacji morskich w tym rejonie powierzono Francji, a dowódcą połączonych sił sojuszniczych został francuski admirał Augustin Boué de Lapeyrère.
 
 ## Podział mórz
 

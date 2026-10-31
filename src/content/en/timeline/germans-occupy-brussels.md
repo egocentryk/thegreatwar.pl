@@ -2,10 +2,10 @@
 title: The Germans occupy Brussels
 summary: On 20 August 1914 German troops entered Brussels, which had been declared an open city. An occupation began that lasted until November 1918.
 source: niemcy-zajmuja-bruksele
-sourceHash: 43da419ff2fd8041b72f8b74ecdae41a9fc5f245
+sourceHash: db0a269a166d231fff55b578b9a5307aad1deb86
 ---
 
-On 20 August 1914 German troops entered [Brussels](https://pl.wikipedia.org/wiki/Bruksela). The capital of [Belgium](https://pl.wikipedia.org/wiki/Belgia) surrendered without a fight: three days earlier [the government had moved to Antwerp](/rzad-belgii-przenosi-sie-do-antwerpii), and after the [fighting on the Gete](/bitwa-nad-gete) the field army was falling back to the same fortress. General [Alexander von Kluck](/postacie/alexander-von-kluck)'s German First Army began to pass through the city, marching west and south towards France.
+On 20 August 1914 German troops entered [Brussels](https://pl.wikipedia.org/wiki/Bruksela). The capital of [Belgium](/kraje/belgia) surrendered without a fight: three days earlier [the government had moved to Antwerp](/rzad-belgii-przenosi-sie-do-antwerpii), and after the [fighting on the Gete](/bitwa-nad-gete) the field army was falling back to the same fortress. General [Alexander von Kluck](/postacie/alexander-von-kluck)'s German First Army began to pass through the city, marching west and south towards France.
 
 ## An undefended city
 

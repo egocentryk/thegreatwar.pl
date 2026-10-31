@@ -2,10 +2,10 @@
 title: End of the Battle of Kostiuchnówka
 summary: On 6 July 1916, after three days on the Styr, the Legions were ordered back behind the Stokhid. They lost about 2,000 men, Major Wyrwa-Furgalski among them.
 source: koniec-bitwy-pod-kostiuchnowka
-sourceHash: 503c7656f9863c8987c90901396cfce79633071c
+sourceHash: 9681d9bfb1e5fb02f026cd66d3d78970cf0ed49c
 ---
 
-On 6 July 1916, the third day of the fighting at Kostiuchnówka, the Russian attack broke through the front on the sector of the Austro-Hungarian units next to the [Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)). In the afternoon the Legions Command ordered a withdrawal from the [Styr](https://pl.wikipedia.org/wiki/Styr) behind the [Stokhid](https://pl.wikipedia.org/wiki/Stochód). The legionaries left among the last, beating off the charges of Russian cavalry. The three-day battle cost them about 2,000 killed, wounded and missing.
+On 6 July 1916, the third day of the fighting at Kostiuchnówka, the Russian attack broke through the front on the sector of the Austro-Hungarian units next to the [Legions](/tematy/polskie-formacje-wojskowe). In the afternoon the Legions Command ordered a withdrawal from the [Styr](https://pl.wikipedia.org/wiki/Styr) behind the [Stokhid](https://pl.wikipedia.org/wiki/Stochód). The legionaries left among the last, beating off the charges of Russian cavalry. The three-day battle cost them about 2,000 killed, wounded and missing.
 
 ## Second day: the fight for Polish Hill
 

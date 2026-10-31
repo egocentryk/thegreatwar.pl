@@ -13,7 +13,7 @@ draft: false
 
 Brytyjska chronologia wojny notuje pod 2 listopada 1914 roku wyjście z Indii Indyjskiego Korpusu Ekspedycyjnego „F”, przeznaczonego do [Egiptu](https://pl.wikipedia.org/wiki/Egipt). Tworzyły go trzy brygady piechoty, 28, 29 i 30, sformowane w październiku 1914 roku z batalionów armii indyjskiej, głównie sikhijskich, pendżabskich i gurkhijskich. Transporty wypływały w pierwszych dniach listopada. Według historii 14 Pułku Sikhów konwój z 29 Brygadą wyszedł z [Karaczi](https://pl.wikipedia.org/wiki/Karaczi) 3 listopada, w eskorcie krążownika pancernego HMS Duke of Edinburgh.
 
-Nowe brygady miały wzmocnić obronę [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski). Gdy wypływały, [Imperium Osmańskie](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) już weszło do wojny, a Brytyjczycy spodziewali się, że prędzej czy później tureckie wojska spróbują przejść przez Synaj i przeciąć kanał, najważniejszą drogę morską łączącą Wielką Brytanię z Indiami i Australią. W Egipcie stacjonowało wtedy niewiele wojsk regularnych.
+Nowe brygady miały wzmocnić obronę [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski). Gdy wypływały, [Imperium Osmańskie](/kraje/imperium-osmanskie) już weszło do wojny, a Brytyjczycy spodziewali się, że prędzej czy później tureckie wojska spróbują przejść przez Synaj i przeciąć kanał, najważniejszą drogę morską łączącą Wielką Brytanię z Indiami i Australią. W Egipcie stacjonowało wtedy niewiele wojsk regularnych.
 
 ## „E” czy „F”?
 

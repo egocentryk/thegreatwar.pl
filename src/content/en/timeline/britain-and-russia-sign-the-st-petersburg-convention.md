@@ -2,7 +2,7 @@
 title: Britain and Russia sign the St Petersburg convention
 summary: On 31 August 1907 Nicolson and Izvolsky signed a convention on Persia, Afghanistan and Tibet. It ended the Great Game and completed the Triple Entente.
 source: wielka-brytania-i-rosja-podpisuja-konwencje-petersburska
-sourceHash: 2c580453d70dd17ca97fae688d0a9359b08e60f2
+sourceHash: 2f0e6166fa922eb55ee62531eef5a41f500e91ef
 ---
 
 On 31 August 1907 (18 August in the Julian calendar) in St Petersburg the British Ambassador, [Arthur Nicolson](https://pl.wikipedia.org/wiki/Arthur_Nicolson), and the Russian Foreign Minister, [Alexander Izvolsky](https://pl.wikipedia.org/wiki/Aleksandr_Izwolski), signed a convention "relating to Persia, Afghanistan and Tibet". The [Anglo-Russian Convention](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) ended the rivalry of the two empires in Asia, which had lasted for decades and was known as the [Great Game](https://pl.wikipedia.org/wiki/Wielka_Gra). It was not an alliance, but together with the [Franco-Russian alliance](/wchodzi-w-zycie-sojusz-francusko-rosyjski) and the [Entente Cordiale](/wielka-brytania-i-francja-zawieraja-entente-cordiale) it formed the arrangement that contemporaries called the Triple Entente.
@@ -23,4 +23,4 @@ In a letter to Nicolson of 29 August, in which he authorised him to sign the con
 
 Nobody asked the Persians. The Shah's government, in a country torn since 1905 by the constitutional revolution, learnt of the agreement after it had been signed and refused to recognise the division, and Iranian nationalists, who had seen Britain as a model of freedom, felt betrayed. In practice the two powers now began to intervene jointly in Persian politics.
 
-In Europe the convention meant something else. The German historian Günther Kronenbitter writes that the agreement, although it dealt only with spheres of influence in Asia, opened the way to a general alignment of British and Russian interests and was the capstone of cooperation between France, Britain and Russia. No one knew, however, how durable this [Entente](https://pl.wikipedia.org/wiki/Ententa) would prove in a great war. In Berlin the agreements of 1904 and 1907 were increasingly seen as the encirclement of Germany, which soon served as an argument for further naval expansion.
+In Europe the convention meant something else. The German historian Günther Kronenbitter writes that the agreement, although it dealt only with spheres of influence in Asia, opened the way to a general alignment of British and Russian interests and was the capstone of cooperation between France, Britain and Russia. No one knew, however, how durable this [Entente](/tematy/panstwa-centralne-i-ententa) would prove in a great war. In Berlin the agreements of 1904 and 1907 were increasingly seen as the encirclement of Germany, which soon served as an argument for further naval expansion.

@@ -33,4 +33,4 @@ Na prośbę Włochów, których długie wybrzeże było szczególnie narażone n
 
 ## Później
 
-Trójprzymierze odnawiano w 1887, 1891, 1902 i 1912 roku. W 1883 roku za pośrednictwem traktatu z Austro-Węgrami związała się z nim [Rumunia](https://pl.wikipedia.org/wiki/Rumunia). Przy pierwszym odnowieniu Włosi wywalczyli obietnice poparcia ich interesów na Bałkanach i w Afryce Północnej, ale już w 1896 roku zastrzegli, że nie wezmą udziału w wojnie, w której przeciwnikami sojuszu byłyby jednocześnie Francja i Wielka Brytania. Latem 1914 roku Rzym uznał, że obronny sojusz nie zobowiązuje go do udziału w wojnie, i ogłosił neutralność.
+Trójprzymierze odnawiano w 1887, 1891, 1902 i 1912 roku. W 1883 roku za pośrednictwem traktatu z Austro-Węgrami związała się z nim [Rumunia](/kraje/rumunia). Przy pierwszym odnowieniu Włosi wywalczyli obietnice poparcia ich interesów na Bałkanach i w Afryce Północnej, ale już w 1896 roku zastrzegli, że nie wezmą udziału w wojnie, w której przeciwnikami sojuszu byłyby jednocześnie Francja i Wielka Brytania. Latem 1914 roku Rzym uznał, że obronny sojusz nie zobowiązuje go do udziału w wojnie, i ogłosił neutralność.

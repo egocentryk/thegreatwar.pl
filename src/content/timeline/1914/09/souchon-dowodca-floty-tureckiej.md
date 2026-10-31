@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku, że kontradmirał [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon) z niemieckiej [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) objął dowództwo floty tureckiej. Przejęcie władzy nad marynarką [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) nie nastąpiło jednak jednego dnia. Według tureckich wykazów Souchon został dowódcą floty już 3 września, a 23 lub 24 września, według różnych źródeł, otrzymał stopień osmańskiego wiceadmirała i formalnie stanął na czele całej marynarki. Data w brytyjskiej chronologii zbiega się z wyjazdem z Turcji brytyjskiej misji morskiej, która do sierpnia kierowała osmańską flotą.
+Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku, że kontradmirał [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon) z niemieckiej [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) objął dowództwo floty tureckiej. Przejęcie władzy nad marynarką [Imperium Osmańskiego](/kraje/imperium-osmanskie) nie nastąpiło jednak jednego dnia. Według tureckich wykazów Souchon został dowódcą floty już 3 września, a 23 lub 24 września, według różnych źródeł, otrzymał stopień osmańskiego wiceadmirała i formalnie stanął na czele całej marynarki. Data w brytyjskiej chronologii zbiega się z wyjazdem z Turcji brytyjskiej misji morskiej, która do sierpnia kierowała osmańską flotą.
 
 ## Od uciekiniera do dowódcy
 

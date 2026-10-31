@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 stycznia 1917 roku w Berlinie przedstawiciele Cesarstwa Niemieckiego i [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) podpisali nie jeden traktat, lecz cały ich pakiet: dziesięć umów, które w niemieckim dzienniku ustaw nazwano później „traktatami prawnymi” (Rechtsverträge). Wszystkie spisano w dwóch egzemplarzach i opatrzono tą samą datą, a niemiecki dziennik ustaw ogłosił je później równolegle po niemiecku i po turecku. Miały uregulować na nowo położenie Niemców w Turcji i Turków w Niemczech, i to na zasadzie, której Porta domagała się od dawna: wzajemności i równości obu państw.
+11 stycznia 1917 roku w Berlinie przedstawiciele Cesarstwa Niemieckiego i [Imperium Osmańskiego](/kraje/imperium-osmanskie) podpisali nie jeden traktat, lecz cały ich pakiet: dziesięć umów, które w niemieckim dzienniku ustaw nazwano później „traktatami prawnymi” (Rechtsverträge). Wszystkie spisano w dwóch egzemplarzach i opatrzono tą samą datą, a niemiecki dziennik ustaw ogłosił je później równolegle po niemiecku i po turecku. Miały uregulować na nowo położenie Niemców w Turcji i Turków w Niemczech, i to na zasadzie, której Porta domagała się od dawna: wzajemności i równości obu państw.
 
 ## Koniec przywilejów
 

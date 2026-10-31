@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 sierpnia 1914 roku na [Morzu Jońskim](https://pl.wikipedia.org/wiki/Morze_Jońskie), u zachodnich wybrzeży [Grecji](https://pl.wikipedia.org/wiki/Grecja), brytyjski krążownik lekki HMS Gloucester stoczył krótką potyczkę z niemieckimi okrętami [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) i [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau). Był to epizod pościgu, który zakończył się ucieczką Niemców do Dardaneli.
+7 sierpnia 1914 roku na [Morzu Jońskim](https://pl.wikipedia.org/wiki/Morze_Jońskie), u zachodnich wybrzeży [Grecji](/kraje/grecja), brytyjski krążownik lekki HMS Gloucester stoczył krótką potyczkę z niemieckimi okrętami [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) i [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau). Był to epizod pościgu, który zakończył się ucieczką Niemców do Dardaneli.
 
 ## Samotny pościg
 

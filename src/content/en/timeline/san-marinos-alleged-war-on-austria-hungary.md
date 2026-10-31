@@ -2,14 +2,14 @@
 title: San Marino's alleged war on Austria-Hungary
 summary: According to a British chronology, on 3 June 1915 San Marino declared war on Austria-Hungary. The republic did not do so, however, and was formally neutral.
 source: rzekoma-wojna-san-marino-z-austro-wegrami
-sourceHash: f8b8c828036f0a5e2d319205a40db2086abf8ef7
+sourceHash: 73102ecaffedb2b4fdc0587a2d6366167946ce7c
 ---
 
 A British chronology of the war records under 3 June 1915 that [San Marino](https://pl.wikipedia.org/wiki/San_Marino) declared war on Austria-Hungary. The same information is repeated by many lists of declarations of war from 1914–1918, and newspapers were already writing in June 1915 about the tiny republic that had gone into battle alongside Italy, among them "[The New York Times](https://pl.wikipedia.org/wiki/The_New_York_Times)". According to the historians of San Marino and most studies, however, there was no declaration of war. Neither the Great and General Council nor the Captains Regent at the head of the state proclaimed a state of war, and the republic remained formally neutral throughout the conflict. Something else lay behind the report: an outburst of enthusiasm for Italy's war and a volunteer enlistment in the Italian army, which Vienna took as proof that San Marino had sided with the enemy.
 
 ## An enclave beside a belligerent neighbour
 
-San Marino, lying on the slopes of [Monte Titano](https://pl.wikipedia.org/wiki/Monte_Titano) not far from [Rimini](https://pl.wikipedia.org/wiki/Rimini), then had about 10,000 inhabitants and was surrounded on all sides by the [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)). The republic's independence had been confirmed by a treaty with Italy of 1862, amended in 1872. Its economy was entirely dependent on its neighbour, which under a convention of February 1914 paid it 360,000 lire a year.
+San Marino, lying on the slopes of [Monte Titano](https://pl.wikipedia.org/wiki/Monte_Titano) not far from [Rimini](https://pl.wikipedia.org/wiki/Rimini), then had about 10,000 inhabitants and was surrounded on all sides by the [Kingdom of Italy](/kraje/wlochy). The republic's independence had been confirmed by a treaty with Italy of 1862, amended in 1872. Its economy was entirely dependent on its neighbour, which under a convention of February 1914 paid it 360,000 lire a year.
 
 As Italy prepared for war, Rome began to look at its neutral neighbour with suspicion. At the beginning of 1915 the Italian government accused the republic's authorities of operating a wireless station on the summit of Monte Titano that Austrian spies could use. According to the Sammarinese historian Verter Casali, the station had been built a year earlier for his own amusement by a local professor, Borbiconi, who dismantled it when he realised the fears it aroused. Italy also feared that deserters and draft evaders would take refuge in the republic, and that Italian peasants would begin hiding horses and carts there from military requisitioning.
 

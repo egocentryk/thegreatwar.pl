@@ -2,7 +2,7 @@
 title: United States declares war on Austria-Hungary
 summary: On 7 December 1917 Congress, at Wilson's request, declared the United States at war with Austria-Hungary. Only one congressman voted against.
 source: usa-wypowiadaja-wojne-austro-wegrom
-sourceHash: 20ea61c71e4b2aa84e4f0ffd05e5a6d5e9fc119f
+sourceHash: f701d34067a477d7e1bcf45a6427e927e85193e2
 brief:
   - "On 7 December 1917, eight months after entering the war against Germany, Congress passed a resolution declaring war with Austria-Hungary, and President Woodrow Wilson signed it the same day."
   - "The proposal came from Wilson, who in his message of 4 December called the monarchy the vassal of the German Government. He did not seek war with Turkey and Bulgaria, calling them \"mere tools\"."
@@ -15,7 +15,7 @@ On 7 December 1917, eight months after [entering the war against Germany](/usa-w
 
 ## The message of 4 December
 
-The proposal came from the president. On 4 December Wilson delivered his annual message to both houses in joint session, devoted entirely to the war. He said that Americans wanted peace, but not a compromise peace. The war would be regarded as won only when the German people, through trustworthy spokesmen, agreed to a peace based on justice and on reparation of the wrongs their rulers had done. He conceded that the formula "no annexations, no contributions, no punitive indemnities" expressed the right instincts of ordinary people, but warned that German agents had used it to lead the people of Russia astray. In Petrograd less than a month had passed since the [October Revolution](https://pl.wikipedia.org/wiki/Rewolucja_październikowa), and the Bolsheviks were just beginning armistice negotiations with the Central Powers.
+The proposal came from the president. On 4 December Wilson delivered his annual message to both houses in joint session, devoted entirely to the war. He said that Americans wanted peace, but not a compromise peace. The war would be regarded as won only when the German people, through trustworthy spokesmen, agreed to a peace based on justice and on reparation of the wrongs their rulers had done. He conceded that the formula "no annexations, no contributions, no punitive indemnities" expressed the right instincts of ordinary people, but warned that German agents had used it to lead the people of Russia astray. In Petrograd less than a month had passed since the [October Revolution](/rewolucja-pazdziernikowa), and the Bolsheviks were just beginning armistice negotiations with the Central Powers.
 
 Then he turned to specifics. "We must clear away with a thorough hand all impediments to success," he said. One of them was that the United States was at war with Germany but not with her allies. "I therefore very earnestly recommend that the Congress immediately declare the United States in a state of war with Austria-Hungary." The monarchy was, in his words, "for the time being not her own mistress but simply the vassal of the German Government", acting neither on its own initiative nor in accordance with the wishes of its peoples, but as the instrument of another state. The Central Powers therefore had to be treated as a single whole.
 

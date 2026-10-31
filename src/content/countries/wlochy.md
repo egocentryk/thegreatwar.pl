@@ -13,6 +13,7 @@ entered: 1915-05-24
 left: 1918-11-04
 order: 8
 updated: 2026-10-30
+wikiTitles: ["Królestwo_Włoch_(1861–1946)"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://en.wikipedia.org/wiki/Italy_in_World_War_I"

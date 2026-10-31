@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Wlonice (Kingdom of Poland)
 deathPlace: Sandomierz
 source: jozef-swiezynski
-sourceHash: f4d280f912ebf9be4b323c64ed3987e0a669b625
+sourceHash: cd456f84fe278fd75bb685e57e607cebcc78758a
 ---
 
-Józef Świeżyński was the last president of ministers appointed by the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna). A physician by training, a landowner from the Sandomierz region and a member of the secret [National League](https://pl.wikipedia.org/wiki/Liga_Narodowa), before the war he sat three times in the Russian Duma. During the occupation he led the [Inter-Party Political Circle](https://pl.wikipedia.org/wiki/Międzypartyjne_Koło_Polityczne), the camp of the [passivists](https://pl.wikipedia.org/wiki/Pasywiści), who distrusted the Central Powers and were counting on the Entente. In October 1918, as Germany was losing the war, he became head of the first government whose approval the regents did not seek from the occupiers. The cabinet lasted less than two weeks. On 3 November it renounced its obedience to the regents and announced the formation of a "national government", and the next day the Regency Council dismissed it. Historians regard the episode as a humiliation for the National Democrats in the decisive days of the recovery of independence.
+Józef Świeżyński was the last president of ministers appointed by the [Regency Council](/powolanie-rady-regencyjnej). A physician by training, a landowner from the Sandomierz region and a member of the secret [National League](https://pl.wikipedia.org/wiki/Liga_Narodowa), before the war he sat three times in the Russian Duma. During the occupation he led the [Inter-Party Political Circle](https://pl.wikipedia.org/wiki/Międzypartyjne_Koło_Polityczne), the camp of the [passivists](https://pl.wikipedia.org/wiki/Pasywiści), who distrusted the Central Powers and were counting on the Entente. In October 1918, as Germany was losing the war, he became head of the first government whose approval the regents did not seek from the occupiers. The cabinet lasted less than two weeks. On 3 November it renounced its obedience to the regents and announced the formation of a "national government", and the next day the Regency Council dismissed it. Historians regard the episode as a humiliation for the National Democrats in the decisive days of the recovery of independence.
 
 ## Before the war
 

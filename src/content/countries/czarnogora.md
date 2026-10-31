@@ -12,6 +12,7 @@ entered: 1914-08-05
 left: 1916-01-25
 order: 2
 updated: 2026-10-30
+wikiTitles: ["Królestwo_Czarnogóry", "Czarnogóra"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/montenegro/"

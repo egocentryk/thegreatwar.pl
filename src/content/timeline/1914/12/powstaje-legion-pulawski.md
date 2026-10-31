@@ -17,7 +17,7 @@ sources:
   - "https://ru.wikipedia.org/wiki/Пулавский_легион"
 ---
 
-4 grudnia 1914 roku do [Puław](https://pl.wikipedia.org/wiki/Puławy), które Rosjanie nazywali Nową Aleksandrią, dotarło według Wojciecha Jerzego Muszyńskiego, historyka tej formacji, pierwszych 70 ochotników z Brześcia i Chełma. Zakwaterowano ich w budynkach Instytutu Agronomicznego i Leśnego. Tak zaczął się formować Legion Polski, od miejsca formowania nazywany Legionem Puławskim: pierwszy polski oddział ochotniczy po stronie rosyjskiej i odpowiedź obozu [Narodowej Demokracji](https://pl.wikipedia.org/wiki/Narodowa_Demokracja) na [Legiony](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), które od sierpnia walczyły z Rosją u boku Austro-Węgier pod komendą [Józefa Piłsudskiego](/postacie/jozef-pilsudski).
+4 grudnia 1914 roku do [Puław](https://pl.wikipedia.org/wiki/Puławy), które Rosjanie nazywali Nową Aleksandrią, dotarło według Wojciecha Jerzego Muszyńskiego, historyka tej formacji, pierwszych 70 ochotników z Brześcia i Chełma. Zakwaterowano ich w budynkach Instytutu Agronomicznego i Leśnego. Tak zaczął się formować Legion Polski, od miejsca formowania nazywany Legionem Puławskim: pierwszy polski oddział ochotniczy po stronie rosyjskiej i odpowiedź obozu [Narodowej Demokracji](https://pl.wikipedia.org/wiki/Narodowa_Demokracja) na [Legiony](/tematy/polskie-formacje-wojskowe), które od sierpnia walczyły z Rosją u boku Austro-Węgier pod komendą [Józefa Piłsudskiego](/postacie/jozef-pilsudski).
 
 ## Zgoda Rosji
 

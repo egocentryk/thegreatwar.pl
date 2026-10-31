@@ -2,7 +2,7 @@
 title: Turks retake Muş
 summary: On 30 April 1917 Ottoman troops entered Muş, abandoned by the Russians. It was the first important town that the disintegrating Russian army gave up in Armenia.
 source: turcy-odbijaja-mus
-sourceHash: d05a3671714582967fe747d2c9234415b240bb0c
+sourceHash: feabfac3d4f76f0e4d0eb5e0ebeeabdd5ecc2d92
 ---
 
 The British chronology of the war records under 30 April 1917 that Ottoman troops occupied [Muş](https://pl.wikipedia.org/wiki/Muş), a town in Turkish Armenia west of [Lake Van](https://pl.wikipedia.org/wiki/Wan_(jezioro)). Turkish historians give the same date, for them the day of the town's final liberation from Russian occupation. The Turkish TDV Encyclopaedia of Islam gives 1 May, and the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff speaks generally of May. This time the Turks did not have to fight for Muş. The Russians withdrew from the town of their own accord, and Allen and Muratoff call it the first important point abandoned by the Russian Caucasus Army as it disintegrated after the revolution.
@@ -15,9 +15,9 @@ In the winter of 1916–1917 both armies struggled more with hunger, frost and d
 
 ## Effects of the revolution
 
-Allen and Muratoff have no doubt that only the outbreak of the [February Revolution](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)) saved the Turks from complete defeat in Asia Minor. The disintegration of the Caucasus Army proceeded more slowly and less violently than on the European front. The soldiers still obeyed orders, but committees and delegates from Tiflis and Petrograd interfered in command, and there were riots in the garrisons in the rear. Through the spring and summer the army held almost all of the previous year's gains. There were only small withdrawals, to leave as few soldiers as possible in the front line, and the first important place abandoned in this way was Muş.
+Allen and Muratoff have no doubt that only the outbreak of the [February Revolution](/rewolucja-lutowa) saved the Turks from complete defeat in Asia Minor. The disintegration of the Caucasus Army proceeded more slowly and less violently than on the European front. The soldiers still obeyed orders, but committees and delegates from Tiflis and Petrograd interfered in command, and there were riots in the garrisons in the rear. Through the spring and summer the army held almost all of the previous year's gains. There were only small withdrawals, to leave as few soldiers as possible in the front line, and the first important place abandoned in this way was Muş.
 
-The Turkish historian Haluk Selvi writes that the units that entered the town were subordinate to Mustafa Kemal as commander of the Second Army. Muş was in ruins. Its Armenian inhabitants had been massacred in 1915 during the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), and war and flight had also depopulated the Muslim part of the town. Selvi states that even in the 1927 census Muş had barely more than 4,000 inhabitants.
+The Turkish historian Haluk Selvi writes that the units that entered the town were subordinate to Mustafa Kemal as commander of the Second Army. Muş was in ruins. Its Armenian inhabitants had been massacred in 1915 during the [Armenian genocide](/tematy/ludobojstwo-ormian), and war and flight had also depopulated the Muslim part of the town. Selvi states that even in the 1927 census Muş had barely more than 4,000 inhabitants.
 
 ## Significance
 

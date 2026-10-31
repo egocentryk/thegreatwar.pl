@@ -2,10 +2,10 @@
 title: Pimenta de Castro becomes prime minister of Portugal
 summary: On 25 January 1915, after an officers' protest, President Arriaga gave the Portuguese government to General Pimenta de Castro, who ruled without parliament.
 source: pimenta-de-castro-premierem-portugalii
-sourceHash: f04e955b9da26909769600836d2ab5bfd859821e
+sourceHash: bd9c60f4ac52ebb7e5a732ef12fd59737d013d81
 ---
 
-On 25 January 1915 the President of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), Manuel de Arriaga, entrusted the leadership of the government to General Joaquim Pimenta de Castro. He replaced Vítor Hugo de Azevedo Coutinho, whose [cabinet of Democrats](/azevedo-coutinho-premierem-portugalii) had lasted only six weeks. Sources give different dates for the general's assumption of power. Arriaga approached him by letter as early as 23 January, the appointment was made on 25 January, and the other ministers took up their portfolios only on 28 January. Until then Pimenta de Castro ran all the ministries himself.
+On 25 January 1915 the President of [Portugal](/kraje/portugalia), Manuel de Arriaga, entrusted the leadership of the government to General Joaquim Pimenta de Castro. He replaced Vítor Hugo de Azevedo Coutinho, whose [cabinet of Democrats](/azevedo-coutinho-premierem-portugalii) had lasted only six weeks. Sources give different dates for the general's assumption of power. Arriaga approached him by letter as early as 23 January, the appointment was made on 25 January, and the other ministers took up their portfolios only on 28 January. Until then Pimenta de Castro ran all the ministries himself.
 
 ## The Movement of the Swords
 

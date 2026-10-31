@@ -48,7 +48,7 @@ Wilson zapowiedział w orędziu armię powiększoną o pół miliona ludzi powo�
 
 ## Państwo stowarzyszone
 
-Stany Zjednoczone nie zawarły sojuszu z [Ententą](https://pl.wikipedia.org/wiki/Ententa) i nie przystąpiły do porozumienia jej członków, że żaden z nich nie zawrze odrębnego pokoju. Wilson nazywał swój kraj „państwem stowarzyszonym”, a nie sprzymierzonym, i chciał zachować swobodę w sprawie warunków pokoju. Dla aliantów najważniejsze były na razie pieniądze i statki. Wielka Brytania i Francja wydały już większość rezerw na zakupy w Ameryce i coraz trudniej było im płacić. Teraz mogły liczyć na kredyty rządu amerykańskiego, a w kwietniu niemieckie okręty podwodne zatapiały więcej statków niż w którymkolwiek innym miesiącu wojny. Do Paryża i Londynu wiadomość z Waszyngtonu przyniosła ogromną ulgę i zapowiedź, że prędzej czy później na front przybędą miliony świeżych żołnierzy.
+Stany Zjednoczone nie zawarły sojuszu z [Ententą](/tematy/panstwa-centralne-i-ententa) i nie przystąpiły do porozumienia jej członków, że żaden z nich nie zawrze odrębnego pokoju. Wilson nazywał swój kraj „państwem stowarzyszonym”, a nie sprzymierzonym, i chciał zachować swobodę w sprawie warunków pokoju. Dla aliantów najważniejsze były na razie pieniądze i statki. Wielka Brytania i Francja wydały już większość rezerw na zakupy w Ameryce i coraz trudniej było im płacić. Teraz mogły liczyć na kredyty rządu amerykańskiego, a w kwietniu niemieckie okręty podwodne zatapiały więcej statków niż w którymkolwiek innym miesiącu wojny. Do Paryża i Londynu wiadomość z Waszyngtonu przyniosła ogromną ulgę i zapowiedź, że prędzej czy później na front przybędą miliony świeżych żołnierzy.
 
 ## Rachuba w Berlinie
 

@@ -23,7 +23,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Wehib_Pasha"
 ---
 
-Mehmed Wehib, znany jako Wehib Pasza (tur. Vehip Paşa), a po wprowadzeniu w Turcji nazwisk Mehmet Vehip Kaçı, był jednym z najzdolniejszych osmańskich generałów wielkiej wojny i zarazem jednym z najbardziej zapomnianych. Latem 1915 roku dowodził obroną południowego krańca półwyspu Gallipoli. Od wiosny 1916 roku stał na czele 3 Armii na Kaukazie, którą Rosjanie rozbili jeszcze tego samego lata, a w 1918 roku poprowadził ją w zwycięskim marszu, który przywrócił Turcji Erzurum, Kars i Batumi. Niemcy uznali go wtedy za przeszkodę i Enver Pasza odesłał go do stolicy. Po wojnie złożył zeznanie, które do dziś należy do najczęściej przytaczanych osmańskich świadectw o [ludobójstwie Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian). Resztę życia spędził głównie na wygnaniu.
+Mehmed Wehib, znany jako Wehib Pasza (tur. Vehip Paşa), a po wprowadzeniu w Turcji nazwisk Mehmet Vehip Kaçı, był jednym z najzdolniejszych osmańskich generałów wielkiej wojny i zarazem jednym z najbardziej zapomnianych. Latem 1915 roku dowodził obroną południowego krańca półwyspu Gallipoli. Od wiosny 1916 roku stał na czele 3 Armii na Kaukazie, którą Rosjanie rozbili jeszcze tego samego lata, a w 1918 roku poprowadził ją w zwycięskim marszu, który przywrócił Turcji Erzurum, Kars i Batumi. Niemcy uznali go wtedy za przeszkodę i Enver Pasza odesłał go do stolicy. Po wojnie złożył zeznanie, które do dziś należy do najczęściej przytaczanych osmańskich świadectw o [ludobójstwie Ormian](/tematy/ludobojstwo-ormian). Resztę życia spędził głównie na wygnaniu.
 
 ## Przed wojną
 

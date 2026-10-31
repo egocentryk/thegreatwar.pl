@@ -2,7 +2,7 @@
 title: Germany declares war on Romania
 summary: On 28 August 1916 Germany declared war on Romania, a day after it turned against Austria-Hungary. The surprise at Pless cost Falkenhayn his post.
 source: niemcy-wypowiadaja-wojne-rumunii
-sourceHash: 8570c007125b75bb29d0c0e1fe8d96939f1a4152
+sourceHash: 3f175bf7c13888482db31ce7952a4bfa822847ca
 brief:
   - "On 28 August 1916 Germany declared war on Romania, less than a day after Romania had declared war on Austria-Hungary and its advance guards had crossed the Carpathian passes."
   - "Since 1883 Romania had been bound by a secret alliance with Austria-Hungary and Germany, but in 1914 it declared neutrality, and on 17 August 1916 Prime Minister Ion I.C. Brătianu signed a treaty with the Entente."
@@ -11,7 +11,7 @@ brief:
   - "The campaign which in August had seemed a catastrophe at Pless became one of the greatest victories of the war: on 6 December 1916 Mackensen's troops entered Bucharest."
 ---
 
-On Monday 28 August 1916 the Wolff Agency in Berlin issued a short communiqué. Since [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii), "breaking in a shameful manner the treaties concluded with Austria-Hungary and Germany", had the previous evening [declared war](/rumunia-wypowiada-wojne-austro-wegrom) on the Reich's ally, the imperial minister in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt) had been instructed to ask for his passports and to declare to the Romanian government that the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) henceforth also considered itself at war with Romania. Thus, less than a day after the Romanian minister in Vienna had handed over the declaration of war and Romanian advance guards had crossed the Carpathian passes, Germany took its stand beside Austria-Hungary against the new enemy.
+On Monday 28 August 1916 the Wolff Agency in Berlin issued a short communiqué. Since [Romania](/kraje/rumunia), "breaking in a shameful manner the treaties concluded with Austria-Hungary and Germany", had the previous evening [declared war](/rumunia-wypowiada-wojne-austro-wegrom) on the Reich's ally, the imperial minister in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt) had been instructed to ask for his passports and to declare to the Romanian government that the [German Empire](/kraje/niemcy) henceforth also considered itself at war with Romania. Thus, less than a day after the Romanian minister in Vienna had handed over the declaration of war and Romanian advance guards had crossed the Carpathian passes, Germany took its stand beside Austria-Hungary against the new enemy.
 
 On the same day Italy, which had been fighting Austria-Hungary for more than a year but was formally still at peace with the Reich, declared war on Germany. For Berlin, however, this was a largely formal gesture. Romania's entry into the war was a far more serious blow.
 

@@ -15,7 +15,7 @@ sources:
   - "http://www.firstworldwar.com/source/scrapofpaper2.htm"
 ---
 
-4 sierpnia 1914 roku rząd [Wielkiej Brytanii](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) dwukrotnie zażądał od [Niemiec](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) zapewnienia, że uszanują neutralność [Belgii](https://pl.wikipedia.org/wiki/Belgia). Druga depesza ministra spraw zagranicznych [Edwarda Greya](/postacie/edward-grey) do ambasadora w Berlinie, sir Edwarda Goschena, była ultimatum: zadowalająca odpowiedź miała nadejść do północy, w przeciwnym razie ambasador miał zażądać paszportów.
+4 sierpnia 1914 roku rząd [Wielkiej Brytanii](/kraje/wielka-brytania) dwukrotnie zażądał od [Niemiec](/kraje/niemcy) zapewnienia, że uszanują neutralność [Belgii](/kraje/belgia). Druga depesza ministra spraw zagranicznych [Edwarda Greya](/postacie/edward-grey) do ambasadora w Berlinie, sir Edwarda Goschena, była ultimatum: zadowalająca odpowiedź miała nadejść do północy, w przeciwnym razie ambasador miał zażądać paszportów.
 
 ## Dwie depesze
 

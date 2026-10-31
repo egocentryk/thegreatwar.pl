@@ -2,10 +2,10 @@
 title: Bombardment of Funchal
 summary: On 3 December 1916 the German U-38 entered the Funchal roads on Madeira, sank three Allied ships and a barge, and then shelled the town with her deck gun.
 source: ostrzal-funchal
-sourceHash: 3dfa24e2c6adcfebd826e7867984a377fad6c65e
+sourceHash: 6df07e6aebbe32b2db3c417f886ff38eba63f618
 ---
 
-On Sunday 3 December 1916, at about 8.30 a.m., the German submarine [U-38](https://pl.wikipedia.org/wiki/SM_U-38) attacked the ships lying in the roads of [Funchal](https://pl.wikipedia.org/wiki/Funchal), capital of Portuguese [Madeira](https://pl.wikipedia.org/wiki/Madera). Within a few minutes she sank three Allied vessels and a coal barge with torpedoes, then surfaced and shelled the town for nearly two hours. It was the German navy's first attack on the territory of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), with which Germany [had been at war since March](/niemcy-wypowiadaja-wojne-portugalii).
+On Sunday 3 December 1916, at about 8.30 a.m., the German submarine [U-38](https://pl.wikipedia.org/wiki/SM_U-38) attacked the ships lying in the roads of [Funchal](https://pl.wikipedia.org/wiki/Funchal), capital of Portuguese [Madeira](https://pl.wikipedia.org/wiki/Madera). Within a few minutes she sank three Allied vessels and a coal barge with torpedoes, then surfaced and shelled the town for nearly two hours. It was the German navy's first attack on the territory of [Portugal](/kraje/portugalia), with which Germany [had been at war since March](/niemcy-wypowiadaja-wojne-portugalii).
 
 ## Why Madeira
 

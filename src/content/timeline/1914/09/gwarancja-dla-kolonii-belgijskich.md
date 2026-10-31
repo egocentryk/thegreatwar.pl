@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 września 1914 roku rządy Wielkiej Brytanii i Francji zagwarantowały [Belgii](https://pl.wikipedia.org/wiki/Belgia) nienaruszalność jej kolonii. Chodziło przede wszystkim o [Kongo Belgijskie](https://pl.wikipedia.org/wiki/Kongo_Belgijskie), ogromną posiadłość w Afryce Środkowej. Brytyjski poseł przekazał w tej sprawie notę rządowi belgijskiemu, który wobec niemieckiej okupacji większości kraju przebywał wówczas w Antwerpii.
+19 września 1914 roku rządy Wielkiej Brytanii i Francji zagwarantowały [Belgii](/kraje/belgia) nienaruszalność jej kolonii. Chodziło przede wszystkim o [Kongo Belgijskie](https://pl.wikipedia.org/wiki/Kongo_Belgijskie), ogromną posiadłość w Afryce Środkowej. Brytyjski poseł przekazał w tej sprawie notę rządowi belgijskiemu, który wobec niemieckiej okupacji większości kraju przebywał wówczas w Antwerpii.
 
 W sierpniu Belgia próbowała utrzymać Afrykę Środkową poza wojną. Jej propozycja neutralizacji tego obszaru upadła, choć ostatecznie [przyjęły ją także Niemcy](/niemcy-przyjmuja-propozycje-neutralizacji-konga). Gdy walki objęły pogranicze Konga, Bruksela uznała, że kolonia musi się bronić i współdziałać z sojusznikami. Belgowie obawiali się jednak, że przy stole rokowań pokojowych ich los będzie zależał od woli mocarstw. Gwarancja sprzymierzonych miała rozwiać te obawy: niezależnie od przebiegu wojny w Europie Belgia nie miała stracić swoich afrykańskich posiadłości.
 

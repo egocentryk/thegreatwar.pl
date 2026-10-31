@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 28 maja 1915 roku, że nowym prezydentem [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) został [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga). Według portugalskich źródeł, w tym oficjalnej strony prezydentury, Kongres, czyli połączone izby parlamentu, wybrał go na posiedzeniu 29 maja. Zebrał się on ponownie 27 maja, po raz pierwszy od upadku dyktatury generała Pimenty de Castro, i najpierw przyjął rezygnację dotychczasowego prezydenta [Manuela de Arriagi](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), a potem przystąpił do głosowania. Braga otrzymał 98 głosów. Jeden głos padł na Duartego Leitego, a trzy karty były puste. Zgodnie z konstytucją z 1911 roku nowy prezydent miał jedynie dokończyć kadencję poprzednika, która upływała w październiku 1915 roku.
+Brytyjska chronologia wojny notuje pod 28 maja 1915 roku, że nowym prezydentem [Portugalii](/kraje/portugalia) został [Teófilo Braga](https://pl.wikipedia.org/wiki/Teófilo_Braga). Według portugalskich źródeł, w tym oficjalnej strony prezydentury, Kongres, czyli połączone izby parlamentu, wybrał go na posiedzeniu 29 maja. Zebrał się on ponownie 27 maja, po raz pierwszy od upadku dyktatury generała Pimenty de Castro, i najpierw przyjął rezygnację dotychczasowego prezydenta [Manuela de Arriagi](https://pl.wikipedia.org/wiki/Manuel_José_de_Arriaga), a potem przystąpił do głosowania. Braga otrzymał 98 głosów. Jeden głos padł na Duartego Leitego, a trzy karty były puste. Zgodnie z konstytucją z 1911 roku nowy prezydent miał jedynie dokończyć kadencję poprzednika, która upływała w październiku 1915 roku.
 
 ## Uczony z Azorów
 

@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Stebnik near Drohobycz (Galicia, Austrian Empire)
 deathPlace: Kraków
 source: juliusz-leo
-sourceHash: 678ccda0361edbf8229db9a00f3c0d2d6e08c8da
+sourceHash: 7cedb2d7280f97b36c3b43fc0b10f24a95e61a67
 ---
 
-Juliusz Leo is remembered above all as the mayor who turned a cramped, overcrowded Kraków into Greater Kraków, enlarging its area several times over. He was also, however, one of the most important politicians in Galicia when the war broke out. As president of the [Polish Club](https://pl.wikipedia.org/wiki/Koło_Polskie_w_Radzie_Państwa_(Austria)) in the Vienna Imperial Council, in August 1914 he took the lead of the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy), which assumed political patronage over the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), and on his motion the city council gave the Legions a million crowns. In the autumn of 1914, when the Russians approached Kraków, he left for Vienna with the Committee, and soon gave up both the leadership of the NKN and the presidency of the Club. He returned to the town hall and governed the city until his death in February 1918, but in the high politics of the war he now played only a secondary role.
+Juliusz Leo is remembered above all as the mayor who turned a cramped, overcrowded Kraków into Greater Kraków, enlarging its area several times over. He was also, however, one of the most important politicians in Galicia when the war broke out. As president of the [Polish Club](https://pl.wikipedia.org/wiki/Koło_Polskie_w_Radzie_Państwa_(Austria)) in the Vienna Imperial Council, in August 1914 he took the lead of the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy), which assumed political patronage over the [Polish Legions](/tematy/polskie-formacje-wojskowe), and on his motion the city council gave the Legions a million crowns. In the autumn of 1914, when the Russians approached Kraków, he left for Vienna with the Committee, and soon gave up both the leadership of the NKN and the presidency of the Club. He returned to the town hall and governed the city until his death in February 1918, but in the high politics of the war he now played only a secondary role.
 
 ## Before the war
 

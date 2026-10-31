@@ -18,7 +18,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Wincenty_Żarski"
 ---
 
-22 października 1915 roku około godziny 17.00 legioniści z grupy podpułkownika [Edwarda Rydza-Śmigłego](/postacie/edward-rydz-smigly) po zaciętej walce zajęli wieś [Kukle](https://pl.wikipedia.org/wiki/Kukły_(Ukraina)) w lasach Wołynia, na zachód od rzeki [Styr](https://pl.wikipedia.org/wiki/Styr). Kilka dni wcześniej Rosjanie rozerwali w tej okolicy front wojsk austro-węgierskich i niemieckich. Zdobycie wsi pomogło zamknąć lukę i było jednym z pierwszych sukcesów [Legionów Polskich](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) w jesiennej kampanii wołyńskiej.
+22 października 1915 roku około godziny 17.00 legioniści z grupy podpułkownika [Edwarda Rydza-Śmigłego](/postacie/edward-rydz-smigly) po zaciętej walce zajęli wieś [Kukle](https://pl.wikipedia.org/wiki/Kukły_(Ukraina)) w lasach Wołynia, na zachód od rzeki [Styr](https://pl.wikipedia.org/wiki/Styr). Kilka dni wcześniej Rosjanie rozerwali w tej okolicy front wojsk austro-węgierskich i niemieckich. Zdobycie wsi pomogło zamknąć lukę i było jednym z pierwszych sukcesów [Legionów Polskich](/tematy/polskie-formacje-wojskowe) w jesiennej kampanii wołyńskiej.
 
 ## Legiony nad Stochodem i Styrem
 

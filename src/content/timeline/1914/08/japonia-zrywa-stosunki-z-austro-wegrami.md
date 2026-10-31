@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku [Japonia](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) zerwała stosunki dyplomatyczne z [Austro-Węgrami](https://pl.wikipedia.org/wiki/Austro-Węgry). Była to odpowiedź na krok Wiednia, który dzień wcześniej sam zerwał stosunki z Tokio (zob. [Austro-Węgry zrywają stosunki z Japonią](/austro-wegry-zrywaja-stosunki-z-japonia)).
+25 sierpnia 1914 roku [Japonia](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) zerwała stosunki dyplomatyczne z [Austro-Węgrami](/kraje/austro-wegry). Była to odpowiedź na krok Wiednia, który dzień wcześniej sam zerwał stosunki z Tokio (zob. [Austro-Węgry zrywają stosunki z Japonią](/austro-wegry-zrywaja-stosunki-z-japonia)).
 
 ## Sojusznik Niemiec na Dalekim Wschodzie
 

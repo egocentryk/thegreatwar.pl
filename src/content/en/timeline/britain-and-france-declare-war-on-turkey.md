@@ -2,7 +2,7 @@
 title: Britain and France declare war on Turkey
 summary: On 5 November 1914 Britain and France declared war on Turkey. London abandoned its century-old policy of defending the Ottoman Empire against Russia.
 source: wielka-brytania-i-francja-wypowiadaja-wojne-turcji
-sourceHash: 6119f3d5a6cf39800c2a8f51a48ad0e4884e423e
+sourceHash: bf93e1f2d07a082e480e539800ab7c78ff1187cb
 brief:
   - "On 5 November 1914 Britain and France declared war on the Ottoman Empire, three days after Russia. At sea the British had already been fighting the Turks for several days."
   - "The Ottoman government had not met the Allied demand to expel the German military and naval missions. On 3 November British and French warships bombarded the forts at the entrance to the Dardanelles."
@@ -11,7 +11,7 @@ brief:
   - "The most important consequence proved to be the Dardanelles. Their closure cut Russia off from its allies and in 1915 led to the naval attack on the Dardanelles and the Gallipoli campaign."
 ---
 
-On 5 November 1914 [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) and [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) declared war on the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). [Russia](/rosja-wypowiada-wojne-turcji) had done so three days earlier, and at sea the British had already been fighting the Turks for several days. The formal declaration closed a road that had begun a week earlier with the [raid by the Turco-German fleet on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea.
+On 5 November 1914 [Great Britain](/kraje/wielka-brytania) and [France](/kraje/francja) declared war on the [Ottoman Empire](/kraje/imperium-osmanskie). [Russia](/rosja-wypowiada-wojne-turcji) had done so three days earlier, and at sea the British had already been fighting the Turks for several days. The formal declaration closed a road that had begun a week earlier with the [raid by the Turco-German fleet on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea.
 
 ## The declaration
 

@@ -9,7 +9,7 @@ brief:
   - "In 1918 General Ferdinand Foch, as commander of the Allied armies, led them to victory and dictated the Armistice of Compiègne to the Germans."
   - "Between 1.36 and 1.40 million French soldiers died in the war, and with civilians France lost 4.3–4.4 per cent of its population."
 source: francja
-sourceHash: 138248e5371cfdee118ae3cbbc053563ae014710
+sourceHash: b8c8e459aea91124a271191718d2d8a328adee02
 ---
 
 France fought the First World War above all on the Western Front, which for more than four years ran across its own territory. Germany declared war on it on 3 August 1914, and the French army, although it lost the Battles of the Frontiers, stopped the Germans on the Marne. In 1918 the French general [Ferdinand Foch](/postacie/ferdinand-foch), as commander of the Allied armies, led them to victory. It cost France the lives of about 1.4 million soldiers.

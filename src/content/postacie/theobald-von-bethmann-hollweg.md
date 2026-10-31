@@ -46,7 +46,7 @@ We wrześniu 1914 roku, gdy w Berlinie spodziewano się szybkiego zwycięstwa na
 
 Od początku 1915 roku głównym polem sporu stała się wojna podwodna. Kanclerz nie wierzył, że okręty podwodne mogą rozstrzygnąć wojnę, i bał się przystąpienia Stanów Zjednoczonych. Po [zatopieniu Lusitanii](/zatopienie-lusitanii) i statku Arabic doprowadził we wrześniu 1915 roku do [ustępstwa wobec Waszyngtonu](/niemcy-ustepuja-w-sprawie-wojny-podwodnej), a w marcu 1916 roku, grożąc dymisją, przeforsował odroczenie nieograniczonej wojny podwodnej. [Odszedł wtedy Tirpitz](/dymisja-alfreda-von-tirpitza), jego najgroźniejszy przeciwnik. Po storpedowaniu Sussexa Niemcy w maju 1916 roku [zobowiązali się wobec Stanów Zjednoczonych](/nota-usa-w-sprawie-sussexa), że nie będą zatapiać statków handlowych bez ostrzeżenia.
 
-Ta sama polityka miała mroczną stronę. Gdy niemieccy dyplomaci w Konstantynopolu alarmowali o rzeziach Ormian, a ambasador domagał się interwencji, kanclerz zanotował w grudniu 1915 roku, że jedynym celem Niemiec jest utrzymanie Turcji po swojej stronie do końca wojny, bez względu na to, czy zginą przy tym Ormianie. Niemcy nie zrobiły nic, by powstrzymać [ludobójstwo Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian).
+Ta sama polityka miała mroczną stronę. Gdy niemieccy dyplomaci w Konstantynopolu alarmowali o rzeziach Ormian, a ambasador domagał się interwencji, kanclerz zanotował w grudniu 1915 roku, że jedynym celem Niemiec jest utrzymanie Turcji po swojej stronie do końca wojny, bez względu na to, czy zginą przy tym Ormianie. Niemcy nie zrobiły nic, by powstrzymać [ludobójstwo Ormian](/tematy/ludobojstwo-ormian).
 
 ## Hindenburg, Polska i oferta pokojowa
 

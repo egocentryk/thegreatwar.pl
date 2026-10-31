@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Dymokury (Bohemia)
 deathPlace: Vienna
 source: ottokar-czernin
-sourceHash: d091b5f4b3943711097324f315d9bc92b5767f79
+sourceHash: 89a99f5dec79712e45454217070c86071adaaeb7
 ---
 
 Count Ottokar Czernin directed the diplomacy of the Habsburg monarchy for sixteen months, from December 1916 to April 1918, at a time when it was being decided whether Austria-Hungary would survive the war. He believed that the state would not last another wartime winter, and throughout this time he spoke of peace, but he never dared to break with Germany, in whose alliance he saw the last guarantee of the old order. As the "minister of peace" he agreed to unrestricted submarine warfare, at Brest-Litovsk he signed the "bread peace" with Ukraine, which outraged the Poles, and in Romania he imposed the peace of Buftea. He fell over a scandal he himself had provoked, when he publicly attacked the French prime minister and brought about the disclosure of his own emperor's secret peace efforts.
@@ -17,7 +17,7 @@ He was born on 26 September 1872 at Dymokury, in German Dimokur, in central Bohe
 
 From 1903 he sat in the Bohemian Diet as a representative of the conservative German great landowners. He quickly made a name for himself as a defender of the "monarchical principle", an opponent of universal suffrage and parliamentarism, and at the same time a supporter of strong central authority against dualism, which gave Hungary almost complete autonomy. These views brought him close to the heir to the throne, Archduke [Franz Ferdinand](https://pl.wikipedia.org/wiki/Franciszek_Ferdynand_Habsburg). From 1905 Czernin was one of his closest advisers and wrote memoranda for him on the reconstruction of the monarchy, and according to many historians the archduke saw him as a future head of government. In 1912 the emperor appointed him a life member of the Austrian [House of Lords](https://pl.wikipedia.org/wiki/Izba_Panów_(Austria)).
 
-In the autumn of 1913, at the archduke's wish, Czernin returned to diplomacy as minister in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). He was regarded as an enemy of the Hungarians and his appointment met with opposition in Budapest, but in the end the prime minister, [István Tisza](/postacie/istvan-tisza), agreed to it. His task was to find out what the secret alliance with [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) was worth, and he soon concluded that it could not be relied on in the event of war. The Romanians looked to their compatriots in Hungarian Transylvania rather than to their obligations towards Vienna.
+In the autumn of 1913, at the archduke's wish, Czernin returned to diplomacy as minister in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). He was regarded as an enemy of the Hungarians and his appointment met with opposition in Budapest, but in the end the prime minister, [István Tisza](/postacie/istvan-tisza), agreed to it. His task was to find out what the secret alliance with [Romania](/kraje/rumunia) was worth, and he soon concluded that it could not be relied on in the event of war. The Romanians looked to their compatriots in Hungarian Transylvania rather than to their obligations towards Vienna.
 
 ## Bucharest 1914–1916
 

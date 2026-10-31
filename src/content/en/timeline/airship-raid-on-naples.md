@@ -2,14 +2,14 @@
 title: Airship raid on Naples
 summary: On the night of 10–11 March 1918 the German airship L 59, flying from Bulgaria, bombed Naples. Sixteen people were killed; the military targets were unharmed.
 source: nalot-sterowca-na-neapol
-sourceHash: bd7fe766a19b1127718df94ce547ed3beda876b8
+sourceHash: 440748904d5b4857380e7eddd4ecf249533bbe60
 ---
 
 At about one in the morning on 11 March 1918 the German naval [airship](https://pl.wikipedia.org/wiki/Sterowiec) L 59 appeared over [Naples](https://pl.wikipedia.org/wiki/Neapol). For roughly 40 minutes it dropped bombs on the city. It was the first air raid on Naples. Sixteen people were killed and several dozen wounded. The port, the naval base and the industrial works that were meant to be the targets of the raid were hardly damaged. The official British chronology of the war of 1922 places the raid under 25 March and states that the airship came from the coast of Dalmatia. German and Italian sources agree, however, that the raid took place on the night of 10–11 March and that L 59 took off from Bulgaria.
 
 ## From the Balkans to the Bay of Naples
 
-L 59 was the same airship that in November 1917 had [flown with supplies for Lettow-Vorbeck](/lot-sterowca-l-59) and turned back over the Sudan. After its return from Africa it was converted into a bomber and used for raids in the Mediterranean. It was still commanded by Kapitänleutnant [Ludwig Bockholt](https://pl.wikipedia.org/wiki/Ludwig_Bockholt). On the morning of 10 March the airship took off from its base near [Yambol](https://pl.wikipedia.org/wiki/Jamboł) in [Bulgaria](https://pl.wikipedia.org/wiki/Bułgaria). According to Italian studies, it flew over Serbia and Albania, crossed the [Adriatic Sea](https://pl.wikipedia.org/wiki/Morze_Adriatyckie) and the [Apennines](https://pl.wikipedia.org/wiki/Apeniny), and arrived over Naples at an altitude of about 4,800 metres. According to the same studies, it carried about 6.4 tonnes of bombs. Its targets were the port and the naval base and the industrial works west of the city: the steelworks at Bagnoli and the Armstrong works at [Pozzuoli](https://pl.wikipedia.org/wiki/Pozzuoli), which worked for the military.
+L 59 was the same airship that in November 1917 had [flown with supplies for Lettow-Vorbeck](/lot-sterowca-l-59) and turned back over the Sudan. After its return from Africa it was converted into a bomber and used for raids in the Mediterranean. It was still commanded by Kapitänleutnant [Ludwig Bockholt](https://pl.wikipedia.org/wiki/Ludwig_Bockholt). On the morning of 10 March the airship took off from its base near [Yambol](https://pl.wikipedia.org/wiki/Jamboł) in [Bulgaria](/kraje/bulgaria). According to Italian studies, it flew over Serbia and Albania, crossed the [Adriatic Sea](https://pl.wikipedia.org/wiki/Morze_Adriatyckie) and the [Apennines](https://pl.wikipedia.org/wiki/Apeniny), and arrived over Naples at an altitude of about 4,800 metres. According to the same studies, it carried about 6.4 tonnes of bombs. Its targets were the port and the naval base and the industrial works west of the city: the steelworks at Bagnoli and the Armstrong works at [Pozzuoli](https://pl.wikipedia.org/wiki/Pozzuoli), which worked for the military.
 
 ## Bombs on the city
 

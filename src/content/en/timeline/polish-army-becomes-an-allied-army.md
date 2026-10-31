@@ -2,10 +2,10 @@
 title: Polish Army becomes an allied army
 summary: On 28 September 1918 France and the Polish National Committee agreed to recognise the Polish Army as autonomous, allied and co-belligerent with the Entente.
 source: armia-polska-sprzymierzona
-sourceHash: bbdfdc6cb14a01ea38fbba3fa6b0fc61a2d7dec6
+sourceHash: 97702478b58866d18e28cb4d9071a0aca7f269a9
 ---
 
-On 28 September 1918 the French government and the [Polish National Committee](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) concluded an agreement in Paris that changed the position of the Polish troops fighting on the side of the Entente. The [Polish Army in France](https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji) ceased to be a formation of volunteers under French administration. From then on it was to be a single, autonomous Polish army, allied with the Entente powers and co-belligerent with them against the Central Powers, under a single Polish command and under the supreme political authority of the Committee. Polish editions of the documents give the French formula: *armée autonome, alliée et belligérante sous un commandement polonais unique*. The Polish state did not yet exist, but its army took its place in the ranks of the coalition as an ally, and not merely as a collection of volunteers in someone else's army.
+On 28 September 1918 the French government and the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego) concluded an agreement in Paris that changed the position of the Polish troops fighting on the side of the Entente. The [Polish Army in France](/tematy/polskie-formacje-wojskowe) ceased to be a formation of volunteers under French administration. From then on it was to be a single, autonomous Polish army, allied with the Entente powers and co-belligerent with them against the Central Powers, under a single Polish command and under the supreme political authority of the Committee. Polish editions of the documents give the French formula: *armée autonome, alliée et belligérante sous un commandement polonais unique*. The Polish state did not yet exist, but its army took its place in the ranks of the coalition as an ally, and not merely as a collection of volunteers in someone else's army.
 
 ## The road to the agreement
 

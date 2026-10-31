@@ -2,10 +2,10 @@
 title: Resignation of the Kucharzewski government
 summary: On 11 February 1918 Jan Kucharzewski's government resigned in protest against the Treaty of Brest, which gave the Chełm Land to Ukraine.
 source: dymisja-rzadu-kucharzewskiego
-sourceHash: 2222ca44fbd1820c86ea1837a37bf90d988150c8
+sourceHash: 1edb671c37bddcf2086d1e08e4df1b448fc51bd8
 ---
 
-On 11 February 1918 the president of ministers, [Jan Kucharzewski](/postacie/jan-kucharzewski), and his cabinet submitted their resignation to the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna). It was a protest against the [peace treaty](/pokoj-brzeski-z-ukraina) that the Central Powers had signed two days earlier at Brest-Litovsk with the Ukrainian People's Republic. In it Germany and Austria-Hungary promised Ukraine the Chełm Land and part of Podlasie, territories which the Poles regarded as an inseparable part of the future state. The first government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)) had been in office for barely two months.
+On 11 February 1918 the president of ministers, [Jan Kucharzewski](/postacie/jan-kucharzewski), and his cabinet submitted their resignation to the [Regency Council](/powolanie-rady-regencyjnej). It was a protest against the [peace treaty](/pokoj-brzeski-z-ukraina) that the Central Powers had signed two days earlier at Brest-Litovsk with the Ukrainian People's Republic. In it Germany and Austria-Hungary promised Ukraine the Chełm Land and part of Podlasie, territories which the Poles regarded as an inseparable part of the future state. The first government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)) had been in office for barely two months.
 
 Kucharzewski had taken office [with Berlin's consent](/rzad-kucharzewskiego) as a declared opponent of Russia, convinced that Poland could rebuild its statehood at the side of the Central Powers. He regarded as his most important tasks the building of a Polish army and the admission of the Polish government to the peace negotiations that had begun at Brest in December 1917. In neither did he achieve his aim. The occupying powers took refuge behind the patent of 12 September 1917, under which the Polish authorities could represent the Kingdom abroad and conclude international agreements only after the end of the occupation. Neither the regents nor the government were therefore invited to Brest, although the fate of Polish lands was also being negotiated there.
 

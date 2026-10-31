@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Warsaw (Kingdom of Poland)
 deathPlace: Klemensów near Szczebrzeszyn
 source: maurycy-zamoyski
-sourceHash: 7abadb96a22a879e3230d028c651eecae24ced27
+sourceHash: 96af20d5a7d69c4ff410286d7f2eb443ec196b6b
 ---
 
 Count Maurycy Zamoyski, the 15th holder of the [Zamość entail](https://pl.wikipedia.org/wiki/Ordynacja_Zamojska), was one of the richest men in the Polish lands and [Roman Dmowski](/postacie/roman-dmowski)'s closest ally among the aristocracy. He was neither a great orator nor an ideologue, but without his money, name and connections the politics of the national camp in the West during the Great War is hard to imagine. Following Dmowski, he moved from Russia to the West, and in August 1917 he became vice-president and treasurer of the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego). When Dmowski was in the United States in the autumn of 1918, Zamoyski ran the Committee in Paris. After the war he was reborn Poland's first envoy to France, and in 1922 the right's candidate for president.
@@ -27,7 +27,7 @@ After the [Act of 5 November](/akt-5-listopada) 1916 the national camp regarded 
 
 ## Vice-president of the Polish National Committee
 
-On 15 August 1917 the Polish National Committee was founded in Lausanne. Zamoyski became its vice-president and treasurer, and together with Dmowski, Piltz, Seyda and [Jan Emanuel Rozwadowski](https://pl.wikipedia.org/wiki/Jan_Emanuel_Rozwadowski) he formed the Committee's leadership in Paris. Mintzberg writes that the Committee was able to operate thanks to money from Zamoyski's Kiev account, and that the count also largely financed the creation of the [Polish Army in France](https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji), pawning family jewels, including his wife's jewellery. Zamoyski's aristocratic name and social connections were capital for the Committee no less than his money. By the autumn of 1917 the Committee had been recognised by [France](/francja-uznaje-komitet-narodowy-polski), Great Britain, Italy and the United States.
+On 15 August 1917 the Polish National Committee was founded in Lausanne. Zamoyski became its vice-president and treasurer, and together with Dmowski, Piltz, Seyda and [Jan Emanuel Rozwadowski](https://pl.wikipedia.org/wiki/Jan_Emanuel_Rozwadowski) he formed the Committee's leadership in Paris. Mintzberg writes that the Committee was able to operate thanks to money from Zamoyski's Kiev account, and that the count also largely financed the creation of the [Polish Army in France](/tematy/polskie-formacje-wojskowe), pawning family jewels, including his wife's jewellery. Zamoyski's aristocratic name and social connections were capital for the Committee no less than his money. By the autumn of 1917 the Committee had been recognised by [France](/francja-uznaje-komitet-narodowy-polski), Great Britain, Italy and the United States.
 
 In the summer of 1918 Dmowski left for the United States to seek the support of Washington and the American Polish community. Zamoyski then acted as president in Paris. During this time the Committee concluded with the French government the [agreement of 28 September 1918](/armia-polska-sprzymierzona), which recognised the Polish Army as allied and co-belligerent, and on 4 October it [appointed General Józef Haller](/haller-naczelnym-wodzem) commander-in-chief. A photograph survives in the National Digital Archive captioned as Zamoyski appointing [Haller](/postacie/jozef-haller).
 

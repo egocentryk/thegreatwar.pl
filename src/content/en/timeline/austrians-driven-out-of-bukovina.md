@@ -2,7 +2,7 @@
 title: Austrians driven out of Bukovina
 summary: By 24 June 1916 the Russians had taken Kuty and Kimpolung, and the Austrians fell back into the Carpathians, keeping only a strip of Bukovina by Jakobeny.
 source: austriacy-wyparci-z-bukowiny
-sourceHash: 3c44a1d4fc42826da130f18b78fcf88bd36df6cb
+sourceHash: 2afaf3984b1cf06d986464059957aca78307ad7d
 ---
 
 The British chronology of the war records under 24 June 1916 that the Austrian troops had been driven out of Bukovina. There is a good deal of exaggeration in this, though not much. After the [fall of Czernowitz](/rosjanie-odbijaja-czerniowce) and the [capture of Rădăuți](/rosjanie-zajmuja-radowce), the Russian cavalry crossed the whole of Bukovina to the Carpathians within a few days. On 23 June the Russians entered [Kuty](https://pl.wikipedia.org/wiki/Kuty_(obwód_iwanofrankiwski)) on the Czeremosz, and on the night of 23/24 June [Kimpolung](https://pl.wikipedia.org/wiki/Kimpulung_Mołdawski). On the morning of 24 June the Austro-Hungarian units in southern Bukovina were ordered to fall back to the mountain positions at [Jakobeny](https://pl.wikipedia.org/wiki/Iacobeni_(okręg_Suczawa)) and [Kirlibaba](https://pl.wikipedia.org/wiki/Cârlibaba). A Russian communiqué announced that the land had been cleared of the enemy. Its mountainous south-western strip, however, remained in Austrian hands.
@@ -21,6 +21,6 @@ There were hardly any troops in Transylvania, only gendarmerie and a few improvi
 
 ## Romania watches
 
-The rapid Russian advance mattered above all politically. Bukovina was being watched closely by [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii), which had long been bargaining with the Entente over the price of entering the war. Throughout June the Austrian command kept reminding Pflanzer-Baltin that Russian progress in Bukovina might prompt Bucharest to act. The Russian front commander, General [Aleksei Brusilov](/postacie/aleksiej-brusilow), was not delighted either. On 24 June he asked Lechitsky why Promtov's group had ventured so far south and exposed its rear. The main forces of the Ninth Army soon turned west, towards Kolomyia.
+The rapid Russian advance mattered above all politically. Bukovina was being watched closely by [Romania](/kraje/rumunia), which had long been bargaining with the Entente over the price of entering the war. Throughout June the Austrian command kept reminding Pflanzer-Baltin that Russian progress in Bukovina might prompt Bucharest to act. The Russian front commander, General [Aleksei Brusilov](/postacie/aleksiej-brusilow), was not delighted either. On 24 June he asked Lechitsky why Promtov's group had ventured so far south and exposed its rear. The main forces of the Ninth Army soon turned west, towards Kolomyia.
 
 At the beginning of July the Austro-Hungarian XI Corps, strengthened by reinforcements, counter-attacked in the mountains and recovered part of the lost ground in the Moldova valley. Most of Bukovina, however, remained in Russian hands until the summer of 1917.

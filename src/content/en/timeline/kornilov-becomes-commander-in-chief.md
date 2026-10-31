@@ -2,10 +2,10 @@
 title: Kornilov becomes commander-in-chief
 summary: On 31 July 1917 the Provisional Government dismissed Brusilov and gave the supreme command to General Kornilov, who at once set conditions for Kerensky.
 source: kornilow-naczelnym-wodzem
-sourceHash: de0fd3cf2d536e64d3a34b6329e7e080de25ffc5
+sourceHash: c66955fb59b60c42f1a14bc7d3033f0287f72e74
 ---
 
-On 31 July 1917 (18 July in the Julian calendar) the Russian [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) dismissed the commander-in-chief, General [Aleksei Brusilov](/postacie/aleksiej-brusilow), and appointed in his place General of Infantry [Lavr Kornilov](/postacie/lawr-kornilow), commander of the South-Western Front. The decision was pushed through by [Alexander Kerensky](/postacie/aleksander-kierenski), [prime minister](/kierenski-premierem-rosji) for ten days, who also kept the portfolio of minister of war. The dates in the sources differ slightly. Kerensky later wrote that the appointments were made on 18 July Old Style, whereas Kornilov himself in his testimony before the commission of inquiry, and after him General [Anton Denikin](/postacie/anton-denikin) and most Russian studies, give the date of the government's order as 19 July Old Style, that is 1 August.
+On 31 July 1917 (18 July in the Julian calendar) the Russian [Provisional Government](/powstanie-rzadu-tymczasowego) dismissed the commander-in-chief, General [Aleksei Brusilov](/postacie/aleksiej-brusilow), and appointed in his place General of Infantry [Lavr Kornilov](/postacie/lawr-kornilow), commander of the South-Western Front. The decision was pushed through by [Alexander Kerensky](/postacie/aleksander-kierenski), [prime minister](/kierenski-premierem-rosji) for ten days, who also kept the portfolio of minister of war. The dates in the sources differ slightly. Kerensky later wrote that the appointments were made on 18 July Old Style, whereas Kornilov himself in his testimony before the commission of inquiry, and after him General [Anton Denikin](/postacie/anton-denikin) and most Russian studies, give the date of the government's order as 19 July Old Style, that is 1 August.
 
 ## A hard-line general
 

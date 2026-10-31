@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 2 lutego 1915 roku, że państwa Ententy skierowały do rządów Grecji, Serbii i [Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) wiadomość, w której odradzały im interwencję w Albanii. Nie udało nam się dotrzeć do tekstu tego dokumentu ani ustalić, czy była to wspólna nota, czy osobne wystąpienia posłów w Atenach, Niszu i Cetynii. Wiadomo natomiast, dlaczego Londyn, Paryż i Piotrogród chciały powstrzymać swoich bałkańskich sojuszników.
+Brytyjska chronologia wojny odnotowuje pod 2 lutego 1915 roku, że państwa Ententy skierowały do rządów Grecji, Serbii i [Czarnogóry](/kraje/czarnogora) wiadomość, w której odradzały im interwencję w Albanii. Nie udało nam się dotrzeć do tekstu tego dokumentu ani ustalić, czy była to wspólna nota, czy osobne wystąpienia posłów w Atenach, Niszu i Cetynii. Wiadomo natomiast, dlaczego Londyn, Paryż i Piotrogród chciały powstrzymać swoich bałkańskich sojuszników.
 
 ## Kraj bez władzy
 

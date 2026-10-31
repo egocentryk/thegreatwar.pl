@@ -16,7 +16,7 @@ brief:
   - "4 sierpnia prezydent Raymond Poincaré wezwał do „świętego zjednoczenia”, a parlament jednogłośnie przyjął kredyty wojenne. Na froncie zachodnim miały się rozegrać najkrwawsze bitwy tej wojny."
 ---
 
-3 sierpnia 1914 roku o godzinie 18:45 niemiecki ambasador w Paryżu, baron Wilhelm von Schoen, wręczył premierowi i ministrowi spraw zagranicznych Francji [René Vivianiemu](https://pl.wikipedia.org/wiki/René_Viviani) wypowiedzenie wojny. Od tej chwili [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) prowadziły wojnę na dwa fronty: z Rosją na wschodzie i z [Francją](https://pl.wikipedia.org/wiki/III_Republika_Francuska) na zachodzie.
+3 sierpnia 1914 roku o godzinie 18:45 niemiecki ambasador w Paryżu, baron Wilhelm von Schoen, wręczył premierowi i ministrowi spraw zagranicznych Francji [René Vivianiemu](https://pl.wikipedia.org/wiki/René_Viviani) wypowiedzenie wojny. Od tej chwili [Niemcy](/kraje/niemcy) prowadziły wojnę na dwa fronty: z Rosją na wschodzie i z [Francją](/kraje/francja) na zachodzie.
 
 ## Wymyślony pretekst
 

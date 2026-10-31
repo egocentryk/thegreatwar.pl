@@ -15,7 +15,7 @@ sources:
   - "http://www.firstworldwar.com/source/belgium_germanrequest.htm"
 ---
 
-3 sierpnia 1914 roku o godzinie 7 rano, w chwili upływu terminu, minister spraw zagranicznych [Belgii](https://pl.wikipedia.org/wiki/Belgia) Julien Davignon przekazał niemieckiemu posłowi Clausowi von Below-Saleskemu odpowiedź na [ultimatum z poprzedniego wieczoru](/niemcy-stawiaja-belgii-ultimatum). Była to stanowcza odmowa. Belgia nie zgodziła się na przemarsz wojsk niemieckich i zapowiedziała, że odeprze każdy zamach na swoje prawa.
+3 sierpnia 1914 roku o godzinie 7 rano, w chwili upływu terminu, minister spraw zagranicznych [Belgii](/kraje/belgia) Julien Davignon przekazał niemieckiemu posłowi Clausowi von Below-Saleskemu odpowiedź na [ultimatum z poprzedniego wieczoru](/niemcy-stawiaja-belgii-ultimatum). Była to stanowcza odmowa. Belgia nie zgodziła się na przemarsz wojsk niemieckich i zapowiedziała, że odeprze każdy zamach na swoje prawa.
 
 ## Nocna narada
 

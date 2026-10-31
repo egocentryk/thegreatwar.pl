@@ -9,7 +9,7 @@ brief:
   - "The offensive at Vittorio Veneto shattered the Austro-Hungarian army, and the Armistice of Villa Giusti ended the war on the Italian front on 4 November 1918."
   - "Italy gained Trentino, Trieste and Istria, but its disappointed hopes for Dalmatia and Fiume gave rise to the myth of the \"mutilated victory\"."
 source: wlochy
-sourceHash: 19d5d2b5ec8366a4dc4ebda8d6fe526477e3d9ed
+sourceHash: 3d7b27ad8f49e67faff525a2471a2870319000c3
 ---
 
 Italy, linked to Germany and Austria-Hungary in the Triple Alliance since 1882, declared its neutrality in 1914, and in May 1915 entered the war on the side of the Entente in return for the promise of Trentino, Trieste and the Adriatic coast. For two and a half years it attacked on the Isonzo and in the Alps; in 1917 it suffered defeat at Caporetto but held the front on the Piave, and in the autumn of 1918 it shattered the Austro-Hungarian army at Vittorio Veneto. Depending on the method of counting, the war cost it between 460,000 and 651,000 soldiers killed and dead.

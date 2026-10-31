@@ -2,7 +2,7 @@
 title: Battle of Kostiuchnówka begins
 summary: On 4 July 1916 the Russian XLVI Corps attacked the First and Third Brigades of the Legions on the Styr. After a day of shelling it took Polish Hill.
 source: poczatek-bitwy-pod-kostiuchnowka
-sourceHash: cadd6b42a191ee8de8d027c2be48266296a4658c
+sourceHash: 48e04a59fef9b30aca4f0ea6e6f7a54c82978262
 brief:
   - "On 4 July 1916 Russian artillery opened fire on the Legions' positions on the Styr at Kostiuchnówka. The largest battle of the Legions had begun."
   - "All day the First and Third Brigades, fewer than 5,000 bayonets, beat off the attacks of the Russian XLVI Corps. By Polish estimates about 20,000 shells fell on them."
@@ -10,7 +10,7 @@ brief:
   - "Of about 500 men of Berbecki's battalion, threatened with encirclement, 160 survived, and Piłsudski's Redoubt had to be abandoned."
 ---
 
-On 4 July 1916 (21 June by the Russian Julian calendar) the Russian artillery opened fire on the positions of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) on the [Styr](https://pl.wikipedia.org/wiki/Styr), near the village of Kostiuchnówka in [Volhynia](https://pl.wikipedia.org/wiki/Wołyń). The largest battle of the Legions had begun. All day the First and Third Brigades beat off the assaults of the Russian XLVI Corps, but in the evening the Russians broke the defence of their weaker neighbours on the right wing and took Polish Hill, a height the legionaries had [captured](/legiony-zdobywaja-polska-gore) the previous autumn.
+On 4 July 1916 (21 June by the Russian Julian calendar) the Russian artillery opened fire on the positions of the [Polish Legions](/tematy/polskie-formacje-wojskowe) on the [Styr](https://pl.wikipedia.org/wiki/Styr), near the village of Kostiuchnówka in [Volhynia](https://pl.wikipedia.org/wiki/Wołyń). The largest battle of the Legions had begun. All day the First and Third Brigades beat off the assaults of the Russian XLVI Corps, but in the evening the Russians broke the defence of their weaker neighbours on the right wing and took Polish Hill, a height the legionaries had [captured](/legiony-zdobywaja-polska-gore) the previous autumn.
 
 ## Brusilov's new blow
 

@@ -2,7 +2,7 @@
 title: Wilson asks Congress to declare war
 summary: On 2 April 1917 Wilson asked Congress to recognise that Germany was in fact waging war on the USA. He said the world must be made safe for democracy.
 source: wilson-prosi-kongres-o-wypowiedzenie-wojny
-sourceHash: 046f99bc7933a4e36366defccfc6e5659d4af205
+sourceHash: cf7682d1e41e827ea1473bdfdb7e1fcc999a3214
 ---
 
 On the evening of 2 April 1917 President [Woodrow Wilson](/postacie/woodrow-wilson) stood before the joint houses of [Congress](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) and asked them to declare the conduct of the German government to be "nothing less than war" against the government and people of the United States. Washington had been waiting for this moment for two weeks, ever since the president [summoned Congress](/wilson-zwoluje-kongres) to an extraordinary session. The address lasted 36 minutes and contained a sentence that passed into history: "The world must be made safe for democracy."
@@ -23,7 +23,7 @@ He also listed what this meant in practice: the closest possible co-operation wi
 
 But he devoted most attention to aims. "We have no quarrel with the German people," he declared. He laid the blame on the government, which had started the war without consulting its subjects and since the beginning of the war had sent spies and conspirators against America. Proof of its hostile intent was the note to the German minister in Mexico, that is, the [Zimmermann telegram](/publikacja-telegramu-zimmermanna). In Wilson's view a lasting peace could be secured only by a partnership of democratic nations, a "league of honour", and a worthy partner in it had now become Russia, where [autocracy had been overthrown](/rewolucja-lutowa) a few weeks earlier. Then came the most famous words: "The world must be made safe for democracy. (…) We have no selfish ends to serve. We desire no conquest, no dominion. We seek no indemnities for ourselves."
 
-The president deliberately said nothing of Germany's allies. He merely recalled that because [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) had endorsed unrestricted submarine warfare, Washington had been unable to receive the new ambassador, Count Adam Tarnowski, but that Vienna had not so far fought the Americans at sea, and he postponed the question of relations with it. He also gave assurances that the millions of Americans of German origin would remain loyal citizens, while the few disloyal ones would meet "a firm hand of stern repression". He ended with the words that right is more precious than peace, and with a sentence usually seen as an echo of the words of [Martin Luther](https://pl.wikipedia.org/wiki/Marcin_Luter): America, "God helping her, she can do no other".
+The president deliberately said nothing of Germany's allies. He merely recalled that because [Austria-Hungary](/kraje/austro-wegry) had endorsed unrestricted submarine warfare, Washington had been unable to receive the new ambassador, Count Adam Tarnowski, but that Vienna had not so far fought the Americans at sea, and he postponed the question of relations with it. He also gave assurances that the millions of Americans of German origin would remain loyal citizens, while the few disloyal ones would meet "a firm hand of stern repression". He ended with the words that right is more precious than peace, and with a sentence usually seen as an echo of the words of [Martin Luther](https://pl.wikipedia.org/wiki/Marcin_Luter): America, "God helping her, she can do no other".
 
 ## Ovation and silence
 

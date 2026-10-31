@@ -2,7 +2,7 @@
 title: The great Austro-Hungarian retreat in Galicia
 summary: On 11 September 1914 Conrad ordered the Austro-Hungarian armies back behind the San, then the Dunajec. Russia took most of Galicia and besieged Przemyśl.
 source: odwrot-austro-wegier-w-galicji
-sourceHash: 5424502f5da1cc6d406f554d0510a2f619e94d07
+sourceHash: 9389014d2f2f3c8dfcc2581a4b62f1c1d272eca7
 ---
 
 On the evening of 11 September 1914 the chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), ordered the four armies fighting in Galicia to make a general retreat behind the river [San](https://pl.wikipedia.org/wiki/San). It was the end of the [Battle of Galicia](/bitwy/bitwa-galicyjska), the Habsburg monarchy's first great campaign against Russia. Over the following weeks the Austro-Hungarian forces fell back more than 150 kilometres, behind the Dunajec and into the Carpathians, and the Russian armies occupied most of Galicia. For the Poles, Ukrainians and Jews who lived there, the war rolled over their homes in full force for the first time.
@@ -37,7 +37,7 @@ The retreat also brought suffering to those who stayed behind. The withdrawing t
 
 ## Poles in the retreat
 
-Polish volunteer formations took part in the retreat. The Eastern Legion, formed in Lviv, had been evacuated west before the city fell. Under the influence of agitation by opponents of cooperation with Austria, most of the volunteers went home, and on 21 September at Mszana Dolna the decision was taken to dissolve the [Eastern Legion](https://pl.wikipedia.org/wiki/Legion_Wschodni). Only some of the soldiers, among them those around Captain Józef Haller, took the oath and joined the newly formed 3rd Regiment of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)).
+Polish volunteer formations took part in the retreat. The Eastern Legion, formed in Lviv, had been evacuated west before the city fell. Under the influence of agitation by opponents of cooperation with Austria, most of the volunteers went home, and on 21 September at Mszana Dolna the decision was taken to dissolve the [Eastern Legion](/tematy/polskie-formacje-wojskowe). Only some of the soldiers, among them those around Captain Józef Haller, took the oath and joined the newly formed 3rd Regiment of the [Polish Legions](/tematy/polskie-formacje-wojskowe).
 
 The 1st Regiment of the Legions under [Józef Piłsudski](/postacie/jozef-pilsudski), which had been operating in the Kielce region since August, covered the northern flank of the retreating Austro-Hungarian armies against Russian cavalry on the Vistula, near [Nowy Korczyn](https://pl.wikipedia.org/wiki/Nowy_Korczyn), in the second half of September. In October the legionaries took part in the Central Powers' counter-offensive on the Vistula.
 

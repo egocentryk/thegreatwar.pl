@@ -19,7 +19,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Krzyż_Pamiątkowy_6_pułku_piechoty_Legionów_Polskich"
 ---
 
-W nocy 27 października 1915 roku III batalion [6 pułku piechoty](https://pl.wikipedia.org/wiki/6_Pułk_Piechoty_(LP)) [Legionów Polskich](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) podszedł pod rosyjskie okopy przed wsią [Kamieniucha](https://pl.wikipedia.org/wiki/Kamienucha) na Wołyniu i razem z niemieckimi grenadierami uderzył na bagnety. Linie nieprzyjaciela zostały przerwane, a po zaciętej walce wręcz wieś znalazła się w rękach legionistów, którzy wzięli ponad 400 jeńców. Dla młodego, sformowanego latem pułku był to jeden z najkrwawszych bojów całego szlaku bojowego.
+W nocy 27 października 1915 roku III batalion [6 pułku piechoty](https://pl.wikipedia.org/wiki/6_Pułk_Piechoty_(LP)) [Legionów Polskich](/tematy/polskie-formacje-wojskowe) podszedł pod rosyjskie okopy przed wsią [Kamieniucha](https://pl.wikipedia.org/wiki/Kamienucha) na Wołyniu i razem z niemieckimi grenadierami uderzył na bagnety. Linie nieprzyjaciela zostały przerwane, a po zaciętej walce wręcz wieś znalazła się w rękach legionistów, którzy wzięli ponad 400 jeńców. Dla młodego, sformowanego latem pułku był to jeden z najkrwawszych bojów całego szlaku bojowego.
 
 ## Po zdobyciu Kukli
 

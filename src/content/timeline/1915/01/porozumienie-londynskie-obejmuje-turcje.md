@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 26 stycznia 1915 roku, że rządy Wielkiej Brytanii, Francji i Rosji zgodziły się uznać [pakt londyński](/pakt-londynski) za obowiązujący również w wojnie z [Imperium Osmańskim](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Nie udało nam się dotrzeć do tekstu tego uzgodnienia ani ustalić, w jakiej formie je zawarto. Zapewne była to wymiana not lub depesz między trzema stolicami, a nie nowy dokument podpisany z taką oprawą jak deklaracja z września 1914 roku.
+Brytyjska chronologia wojny odnotowuje pod 26 stycznia 1915 roku, że rządy Wielkiej Brytanii, Francji i Rosji zgodziły się uznać [pakt londyński](/pakt-londynski) za obowiązujący również w wojnie z [Imperium Osmańskim](/kraje/imperium-osmanskie). Nie udało nam się dotrzeć do tekstu tego uzgodnienia ani ustalić, w jakiej formie je zawarto. Zapewne była to wymiana not lub depesz między trzema stolicami, a nie nowy dokument podpisany z taką oprawą jak deklaracja z września 1914 roku.
 
 ## Wojna, której nie przewidziano
 

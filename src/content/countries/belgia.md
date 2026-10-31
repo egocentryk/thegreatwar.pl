@@ -13,6 +13,7 @@ entered: 1914-08-04
 left: 1918-11-11
 order: 6
 updated: 2026-10-30
+wikiTitles: ["Belgia"]
 authors: [Natalia]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/belgium/"

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1917 roku (12 sierpnia według kalendarza juliańskiego) po południu w gmachu [Teatru Wielkiego](https://pl.wikipedia.org/wiki/Teatr_Bolszoj) w Moskwie premier [Aleksander Kiereński](/postacie/aleksander-kierenski) otworzył Naradę Państwową. Zwołany przez [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) zjazd około 2400 przedstawicieli wszystkich warstw społecznych, partii i organizacji miał zjednoczyć wokół rządu „żywe siły kraju”. Obrady trwały do 28 sierpnia (15 sierpnia st. st.). Część opracowań, m.in. Orlando Figes, podaje daty 12–14 sierpnia st. st. Narada nie przyjęła żadnej uchwały, a jej głównym wydarzeniem stał się przyjazd generała [Ławra Korniłowa](/postacie/lawr-kornilow), od [końca lipca](/kornilow-naczelnym-wodzem) naczelnego wodza, w którym prawica zobaczyła swojego bohatera.
+25 sierpnia 1917 roku (12 sierpnia według kalendarza juliańskiego) po południu w gmachu [Teatru Wielkiego](https://pl.wikipedia.org/wiki/Teatr_Bolszoj) w Moskwie premier [Aleksander Kiereński](/postacie/aleksander-kierenski) otworzył Naradę Państwową. Zwołany przez [Rząd Tymczasowy](/powstanie-rzadu-tymczasowego) zjazd około 2400 przedstawicieli wszystkich warstw społecznych, partii i organizacji miał zjednoczyć wokół rządu „żywe siły kraju”. Obrady trwały do 28 sierpnia (15 sierpnia st. st.). Część opracowań, m.in. Orlando Figes, podaje daty 12–14 sierpnia st. st. Narada nie przyjęła żadnej uchwały, a jej głównym wydarzeniem stał się przyjazd generała [Ławra Korniłowa](/postacie/lawr-kornilow), od [końca lipca](/kornilow-naczelnym-wodzem) naczelnego wodza, w którym prawica zobaczyła swojego bohatera.
 
 ## Po co ta narada
 

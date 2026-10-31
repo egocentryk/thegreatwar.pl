@@ -2,7 +2,7 @@
 title: Germany declares war on Portugal
 summary: On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal.
 source: niemcy-wypowiadaja-wojne-portugalii
-sourceHash: 6e05059b611ceba6074ee85019f7221f45167676
+sourceHash: 6dde3188b8e3d0c6f14ace0b2386780c7d02860b
 brief:
   - "On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal. The following evening Rosen left for Madrid."
   - "The immediate cause was the seizure by the Portuguese, at Britain's request, of German and Austro-Hungarian merchant ships in the Tagus on 23 February. Lisbon refused to revoke the decision."
@@ -11,7 +11,7 @@ brief:
   - "The first soldiers of the Portuguese Expeditionary Corps landed in France at the beginning of 1917. On 9 April 1918 a German blow fell on the Portuguese sector of the front, opening the Battle of the Lys."
 ---
 
-On the afternoon of Thursday 9 March 1916 the German minister in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona), Friedrich Rosen, asked the Foreign Minister of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), Augusto Soares, for an urgent audience. The minister gave him an appointment at 6 p.m. According to the Lisbon press Rosen arrived punctually, in a black frock coat and top hat, and the conversation lasted less than twenty minutes. The minister handed over a long note from his government. It listed the German grievances against Portugal and ended with the statement that the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) henceforth considered itself to be in a state of war with Portugal. That same evening the American minister in Lisbon cabled Washington that the German government "considers itself in a state of war with Portugal" and that German interests were being taken over by the Spanish legation.
+On the afternoon of Thursday 9 March 1916 the German minister in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona), Friedrich Rosen, asked the Foreign Minister of [Portugal](/kraje/portugalia), Augusto Soares, for an urgent audience. The minister gave him an appointment at 6 p.m. According to the Lisbon press Rosen arrived punctually, in a black frock coat and top hat, and the conversation lasted less than twenty minutes. The minister handed over a long note from his government. It listed the German grievances against Portugal and ended with the statement that the [German Empire](/kraje/niemcy) henceforth considered itself to be in a state of war with Portugal. That same evening the American minister in Lisbon cabled Washington that the German government "considers itself in a state of war with Portugal" and that German interests were being taken over by the Spanish legation.
 
 The following evening Rosen, with his wife and the legation staff, left Lisbon by special train for [Madrid](https://pl.wikipedia.org/wiki/Madryt). Many members of the German colony left the country with him, although some Germans decided to stay. The Portuguese minister [Sidónio Pais](/postacie/sidonio-pais), who had represented Portugal there since 1912, had to leave Berlin.
 

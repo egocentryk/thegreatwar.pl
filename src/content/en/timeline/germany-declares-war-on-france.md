@@ -2,7 +2,7 @@
 title: Germany declares war on France
 summary: On 3 August 1914 Germany declared war on France, citing invented French air raids. The war on two fronts had begun.
 source: niemcy-wypowiadaja-wojne-francji
-sourceHash: 6df189794446e4d4b7c6aa02011a95f4cdd36851
+sourceHash: 7f2f7d16bb43afe5165eef4fe6f838147c7103e2
 brief:
   - "At 6.45 p.m. on 3 August 1914 the German ambassador, Baron Wilhelm von Schoen, handed René Viviani a declaration of war on France. Germany was now waging war on two fronts."
   - "The note accused France of \"flagrantly hostile acts\", including an alleged bombing of the railway near Karlsruhe and Nuremberg. The accusations were false: there had been no French raids."
@@ -10,7 +10,7 @@ brief:
   - "On 4 August President Raymond Poincaré called for a \"sacred union\", and parliament unanimously voted the war credits. The bloodiest battles of the war were to be fought on the Western Front."
 ---
 
-On 3 August 1914 at 6.45 p.m. the German ambassador in Paris, Baron Wilhelm von Schoen, handed a declaration of war to the French Prime Minister and Minister of Foreign Affairs, [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani). From that moment [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) was waging war on two fronts: against Russia in the east and against [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) in the west.
+On 3 August 1914 at 6.45 p.m. the German ambassador in Paris, Baron Wilhelm von Schoen, handed a declaration of war to the French Prime Minister and Minister of Foreign Affairs, [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani). From that moment [Germany](/kraje/niemcy) was waging war on two fronts: against Russia in the east and against [France](/kraje/francja) in the west.
 
 ## An invented pretext
 

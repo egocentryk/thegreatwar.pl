@@ -9,7 +9,7 @@ sides:
     commanders: [Franz Conrad von Hötzendorf, Alexander von Linsingen, Archduke Joseph Ferdinand, Eduard von Böhm-Ermolli, Felix von Bothmer, Karl von Pflanzer-Baltin]
 result: Russian victory. The Austro-Hungarian front was broken in Volhynia and Bukovina, and the Russians recovered Lutsk, Czernowitz and Bukovina. They did not reach their operational objectives, Kovel and Lviv.
 source: ofensywa-brusilowa
-sourceHash: 79267edf57c40cb3ee263dc725240e29cb962017
+sourceHash: 7cbfd6488e8bca091e0f79fc2a4738aaee8b76a1
 brief:
   - "On 4 June 1916 the four armies of General Aleksei Brusilov's South-Western Front struck simultaneously from Volhynia to Bukovina. It was the greatest victory of the Russian army in the First World War."
   - "The offensive was meant only as a subsidiary blow supporting the attack of Evert's Western Front. The Austrian offensive at Asiago brought the date forward, as the Italians begged the Russians for quick help."
@@ -62,7 +62,7 @@ Evert's Western Front, which was to deliver the main blow, postponed its attack 
 
 ## Course: the fighting for Kovel (July–September)
 
-On 4 July the Third and Eighth Armies attacked on the northern wing, on the Styr. At [Kostiuchnówka](https://pl.wikipedia.org/wiki/Kościuchnówka) the attack of the Russian XLVI Corps was held up for three days by brigades of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)). The [Battle of Kostiuchnówka](https://pl.wikipedia.org/wiki/Bitwa_pod_Kostiuchnówką) cost the legionaries about 2,000 killed and wounded and became one of the most important battles in their tradition. Linsingen's troops nevertheless had to fall back behind the [Stokhod](https://pl.wikipedia.org/wiki/Stochód), a marshy river east of Kovel, where the front came to a halt for several months.
+On 4 July the Third and Eighth Armies attacked on the northern wing, on the Styr. At [Kostiuchnówka](https://pl.wikipedia.org/wiki/Kościuchnówka) the attack of the Russian XLVI Corps was held up for three days by brigades of the [Polish Legions](/tematy/polskie-formacje-wojskowe). The [Battle of Kostiuchnówka](https://pl.wikipedia.org/wiki/Bitwa_pod_Kostiuchnówką) cost the legionaries about 2,000 killed and wounded and became one of the most important battles in their tradition. Linsingen's troops nevertheless had to fall back behind the [Stokhod](https://pl.wikipedia.org/wiki/Stochód), a marshy river east of Kovel, where the front came to a halt for several months.
 
 On 28 July Brusilov resumed the attack along the whole front. The Third Army and the new [Special Army](https://pl.wikipedia.org/wiki/Armia_Specjalna_(Imperium_Rosyjskie)) of General Vladimir Bezobrazov, formed from the Guard, the elite of the Tsar's army, struck towards Kovel. The guardsmen went into the attack through the marshes of the Stokhod under the fire of German artillery and suffered enormous losses without breaking the front. The same day the Eleventh Army took [Brody](https://pl.wikipedia.org/wiki/Brody_(obwód_lwowski)), and in the south the Ninth Army, after a battle fought between 7 and 10 August, took [Stanisławów](https://pl.wikipedia.org/wiki/Iwano-Frankiwsk). At the end of July the Central Powers changed their command organisation: the northern part of the front, as far as the Brody area, was taken over by [Paul von Hindenburg](/postacie/paul-von-hindenburg), and the southern part by Archduke Charles, heir to the throne of Austria-Hungary.
 

@@ -13,6 +13,7 @@ entered: 1916-03-09
 left: 1918-11-11
 order: 9
 updated: 2026-10-30
+wikiTitles: ["Pierwsza_Republika_Portugalska"]
 authors: [Natalia]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/portugal/"

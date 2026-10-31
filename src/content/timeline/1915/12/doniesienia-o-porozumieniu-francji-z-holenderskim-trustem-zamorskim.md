@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 7 grudnia 1915 roku zawarcie porozumienia między rządem [Francji](https://pl.wikipedia.org/wiki/Francja) a [Holenderskim Zamorskim Trustem](/powstaje-holenderski-trust-zamorski) (Nederlandsche Overzee Trustmaatschappij, NOT). W innych dostępnych opracowaniach i dokumentach nie udało się jednak potwierdzić, że w tym dniu podpisano taką umowę, ani poznać jej treści. Nie wymienia go nawet tablica chronologiczna brytyjskiej historii oficjalnej blokady Archibalda Bella. Holenderska historyczka Charlotte van Manen, autorka wydanej w 1935 roku wielotomowej historii trustu, pisała tylko, że po pierwszej umowie z brytyjskim attaché handlowym NOT zawarł podobne umowy z Francją i Włochami, a później także z Rosją. Pewne jest natomiast, jak w 1915 roku wyglądała współpraca Paryża z trustem.
+Brytyjska chronologia wojny odnotowuje pod 7 grudnia 1915 roku zawarcie porozumienia między rządem [Francji](/kraje/francja) a [Holenderskim Zamorskim Trustem](/powstaje-holenderski-trust-zamorski) (Nederlandsche Overzee Trustmaatschappij, NOT). W innych dostępnych opracowaniach i dokumentach nie udało się jednak potwierdzić, że w tym dniu podpisano taką umowę, ani poznać jej treści. Nie wymienia go nawet tablica chronologiczna brytyjskiej historii oficjalnej blokady Archibalda Bella. Holenderska historyczka Charlotte van Manen, autorka wydanej w 1935 roku wielotomowej historii trustu, pisała tylko, że po pierwszej umowie z brytyjskim attaché handlowym NOT zawarł podobne umowy z Francją i Włochami, a później także z Rosją. Pewne jest natomiast, jak w 1915 roku wyglądała współpraca Paryża z trustem.
 
 ## Francuskie zasady
 

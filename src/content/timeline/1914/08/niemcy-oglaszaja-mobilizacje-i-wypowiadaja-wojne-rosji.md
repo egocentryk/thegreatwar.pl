@@ -16,11 +16,11 @@ brief:
   - "Formalnie to Niemcy rozpoczęły wojnę, co pozwoliło Włochom ogłosić neutralność. Zgodnie z planem Schlieffena Niemcy 3 sierpnia wypowiedziały wojnę Francji, a 4 sierpnia wkroczyły do Belgii."
 ---
 
-1 sierpnia 1914 roku [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) wykonały dwa kroki, które zamieniły wojnę na Bałkanach w wojnę wielkich mocarstw. Po południu cesarz [Wilhelm II](/postacie/wilhelm-ii) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), a wieczorem niemiecki ambasador w Petersburgu wręczył rosyjskiemu rządowi [wypowiedzenie wojny](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). Po raz pierwszy w tym konflikcie jedno wielkie mocarstwo wypowiedziało wojnę drugiemu.
+1 sierpnia 1914 roku [Niemcy](/kraje/niemcy) wykonały dwa kroki, które zamieniły wojnę na Bałkanach w wojnę wielkich mocarstw. Po południu cesarz [Wilhelm II](/postacie/wilhelm-ii) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), a wieczorem niemiecki ambasador w Petersburgu wręczył rosyjskiemu rządowi [wypowiedzenie wojny](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). Po raz pierwszy w tym konflikcie jedno wielkie mocarstwo wypowiedziało wojnę drugiemu.
 
 ## Mobilizacja
 
-W południe 1 sierpnia upłynął termin niemieckiego ultimatum, które żądało od [Rosji](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) wstrzymania mobilizacji. Petersburg nie odpowiedział. O godzinie 17 w [Berlinie](https://pl.wikipedia.org/wiki/Berlin) cesarz podpisał rozkaz mobilizacji całej armii. Według relacji świadków zrobił to przy stole wykonanym z drewna okrętu admirała Nelsona, HMS Victory, a obecni przy tym ludzie mieli łzy w oczach. Pierwszym dniem mobilizacji był 2 sierpnia. Na ulicach Berlina tłumy przyjmowały wiadomość z entuzjazmem, śpiewając patriotyczne pieśni.
+W południe 1 sierpnia upłynął termin niemieckiego ultimatum, które żądało od [Rosji](/kraje/rosja) wstrzymania mobilizacji. Petersburg nie odpowiedział. O godzinie 17 w [Berlinie](https://pl.wikipedia.org/wiki/Berlin) cesarz podpisał rozkaz mobilizacji całej armii. Według relacji świadków zrobił to przy stole wykonanym z drewna okrętu admirała Nelsona, HMS Victory, a obecni przy tym ludzie mieli łzy w oczach. Pierwszym dniem mobilizacji był 2 sierpnia. Na ulicach Berlina tłumy przyjmowały wiadomość z entuzjazmem, śpiewając patriotyczne pieśni.
 
 ## Wypowiedzenie wojny w Petersburgu
 
@@ -36,6 +36,6 @@ Tymczasem niemieccy żołnierze wkroczyli już do [Troisvierges](https://pl.wiki
 
 ## Wojna na dwa fronty
 
-Choć Niemcy wypowiedziały wojnę Rosji, ich [plan wojenny](https://pl.wikipedia.org/wiki/Plan_Schlieffena) zakładał, że główne uderzenie spadnie najpierw na Francję, zanim Rosja zdąży w pełni zmobilizować swoje siły. Na wschodzie miała się tymczasem bronić stosunkowo niewielka armia w Prusach Wschodnich. Dlatego zaledwie dwa dni później, 3 sierpnia, Niemcy wypowiedziały wojnę [Francji](https://pl.wikipedia.org/wiki/III_Republika_Francuska), a 4 sierpnia wkroczyły do Belgii, co przesądziło o przystąpieniu do wojny Wielkiej Brytanii.
+Choć Niemcy wypowiedziały wojnę Rosji, ich [plan wojenny](https://pl.wikipedia.org/wiki/Plan_Schlieffena) zakładał, że główne uderzenie spadnie najpierw na Francję, zanim Rosja zdąży w pełni zmobilizować swoje siły. Na wschodzie miała się tymczasem bronić stosunkowo niewielka armia w Prusach Wschodnich. Dlatego zaledwie dwa dni później, 3 sierpnia, Niemcy wypowiedziały wojnę [Francji](/kraje/francja), a 4 sierpnia wkroczyły do Belgii, co przesądziło o przystąpieniu do wojny Wielkiej Brytanii.
 
 1 sierpnia 1914 roku był więc dniem, w którym konflikt lokalny definitywnie stał się wojną europejską. Od tej chwili machina mobilizacyjna wielkich mocarstw nie dawała się już zatrzymać.

@@ -2,10 +2,10 @@
 title: France declares war on Bulgaria
 summary: On 16 October 1915, a day after Britain, France declared a state of war with Bulgaria. Paris faced a cabinet crisis; the Army of the Orient was landing.
 source: francja-wypowiada-wojne-bulgarii
-sourceHash: c8ad909fd20ad56143b3627ea29225d8deea3d50
+sourceHash: b2ac49378867ede240a307514d52b6e60bd1e313
 ---
 
-On 16 October 1915 [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) declared that it was in a state of war with [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). According to the British *Annual Register*, the state of war applied from six in the morning. That day President [Raymond Poincaré](/postacie/raymond-poincare) noted in his diary: "Since the representatives of the Allies have left Sofia without obtaining even the shadow of a promise, and Bulgaria has declared war on Serbia, we now consider that a state of war exists between France and Bulgaria. Great Britain has anticipated us in this." Indeed, the British had [declared a state of war](/wielka-brytania-wypowiada-wojne-bulgarii) the previous evening.
+On 16 October 1915 [France](/kraje/francja) declared that it was in a state of war with [Bulgaria](/kraje/bulgaria). According to the British *Annual Register*, the state of war applied from six in the morning. That day President [Raymond Poincaré](/postacie/raymond-poincare) noted in his diary: "Since the representatives of the Allies have left Sofia without obtaining even the shadow of a promise, and Bulgaria has declared war on Serbia, we now consider that a state of war exists between France and Bulgaria. Great Britain has anticipated us in this." Indeed, the British had [declared a state of war](/wielka-brytania-wypowiada-wojne-bulgarii) the previous evening.
 
 France used the same formula as London. It did not send Sofia a separate declaration with a list of grievances, but simply declared a state of war resulting from the Bulgarian attack on Serbia, an ally of the Entente. The French minister in Sofia, Panafieu, had asked for his passports in the first days of October, after the [Russian ultimatum](/ultimatum-ententy-dla-bulgarii). According to Poincaré, the government decided at the time that it would take no steps against Bulgaria on its own, but would merely recall its minister.
 

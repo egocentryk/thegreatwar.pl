@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-4 lutego 1915 roku w Berlinie ogłoszono, że wody wokół Wielkiej Brytanii i Irlandii, łącznie z całym kanałem [La Manche](https://pl.wikipedia.org/wiki/La_Manche), stają się obszarem wojennym. Od 18 lutego każdy napotkany tam nieprzyjacielski statek handlowy miał zostać zniszczony, nawet jeśli, jak zaznaczono, nie zawsze będzie można przy tym uniknąć niebezpieczeństwa dla załóg i pasażerów. Obwieszczenie podpisał admirał [Hugo von Pohl](https://pl.wikipedia.org/wiki/Hugo_von_Pohl), dotychczasowy szef Admiralstabu, czyli sztabu niemieckiej marynarki, który właśnie obejmował dowództwo Floty Pełnomorskiej. Niemcy rozpoczynali pierwszą kampanię [wojny podwodnej](https://pl.wikipedia.org/wiki/Wojna_podwodna_w_latach_1914–1918) skierowaną przeciwko żegludze handlowej Wielkiej Brytanii.
+4 lutego 1915 roku w Berlinie ogłoszono, że wody wokół Wielkiej Brytanii i Irlandii, łącznie z całym kanałem [La Manche](https://pl.wikipedia.org/wiki/La_Manche), stają się obszarem wojennym. Od 18 lutego każdy napotkany tam nieprzyjacielski statek handlowy miał zostać zniszczony, nawet jeśli, jak zaznaczono, nie zawsze będzie można przy tym uniknąć niebezpieczeństwa dla załóg i pasażerów. Obwieszczenie podpisał admirał [Hugo von Pohl](https://pl.wikipedia.org/wiki/Hugo_von_Pohl), dotychczasowy szef Admiralstabu, czyli sztabu niemieckiej marynarki, który właśnie obejmował dowództwo Floty Pełnomorskiej. Niemcy rozpoczynali pierwszą kampanię [wojny podwodnej](/tematy/wojna-podwodna-1914-1918) skierowaną przeciwko żegludze handlowej Wielkiej Brytanii.
 
 ## Trzy punkty i memorandum
 

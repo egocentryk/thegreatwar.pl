@@ -13,6 +13,7 @@ entered: 1917-06-27
 left: 1918-11-11
 order: 11
 updated: 2026-10-30
+wikiTitles: ["Królestwo_Grecji_(1832–1924)", "Grecja"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/greece/"

@@ -2,10 +2,10 @@
 title: Battle of the Drina begins
 summary: On 8 September 1914 Austro-Hungarian troops crossed the Drina. In the mountains of western Serbia a battle began that turned into trench warfare.
 source: poczatek-bitwy-nad-drina
-sourceHash: e9766a01c84b5c391838f45349510bff7df1852a
+sourceHash: 25dc4d97c76a546250d94f4fb49c3441c2913747
 ---
 
-On 8 September 1914, after night crossings of the border river [Drina](https://pl.wikipedia.org/wiki/Drina), Austro-Hungarian troops began the fight for the hills of western [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). So began the [Battle of the Drina](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną), a series of bloody clashes in the mountains above the river which lasted almost four weeks and turned into trench warfare. The British chronology of the war records its beginning under this date. The Austro-Hungarian 5th Army made its first attempts to cross as early as 7 September, and the Polish Wikipedia dates the battle from 6 September, including in it the Serbian offensive in Syrmia.
+On 8 September 1914, after night crossings of the border river [Drina](https://pl.wikipedia.org/wiki/Drina), Austro-Hungarian troops began the fight for the hills of western [Serbia](/kraje/serbia). So began the [Battle of the Drina](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną), a series of bloody clashes in the mountains above the river which lasted almost four weeks and turned into trench warfare. The British chronology of the war records its beginning under this date. The Austro-Hungarian 5th Army made its first attempts to cross as early as 7 September, and the Polish Wikipedia dates the battle from 6 September, including in it the Serbian offensive in Syrmia.
 
 ## The crossings
 

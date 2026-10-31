@@ -15,7 +15,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Italy_in_World_War_I"
 ---
 
-3 sierpnia 1914 roku [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) ogłosiło neutralność w wojnie, która właśnie ogarniała Europę. Decyzję podjął dzień wcześniej rząd premiera [Antonia Salandry](/postacie/antonio-salandra) i ministra spraw zagranicznych markiza Antonina di San Giuliano. Był to cios dla Niemiec i [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry), z którymi Włochy od 1882 roku tworzyły [trójprzymierze](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). Tego samego dnia Niemcy [wypowiedziały wojnę Francji](/niemcy-wypowiadaja-wojne-francji), a Włochy, formalnie ich sojusznik, zostały z boku.
+3 sierpnia 1914 roku [Królestwo Włoch](/kraje/wlochy) ogłosiło neutralność w wojnie, która właśnie ogarniała Europę. Decyzję podjął dzień wcześniej rząd premiera [Antonia Salandry](/postacie/antonio-salandra) i ministra spraw zagranicznych markiza Antonina di San Giuliano. Był to cios dla Niemiec i [Austro-Węgier](/kraje/austro-wegry), z którymi Włochy od 1882 roku tworzyły [trójprzymierze](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). Tego samego dnia Niemcy [wypowiedziały wojnę Francji](/niemcy-wypowiadaja-wojne-francji), a Włochy, formalnie ich sojusznik, zostały z boku.
 
 ## Deklaracja
 

@@ -34,7 +34,7 @@ Rząd dostał kilka poleceń. Miał „całkiem samodzielnie” prowadzić do ko
 
 ## Polacy
 
-Wśród sąsiadów Ukrainy Uniwersał wymieniał Polskę, choć polskie państwo istniało wtedy tylko jako zależne od Niemiec i Austro-Węgier Królestwo Polskie z [Radą Regencyjną](https://pl.wikipedia.org/wiki/Rada_Regencyjna) w Warszawie. Liczna polska ludność prawobrzeżnej Ukrainy mogła korzystać z ustawy o autonomii narodowo-personalnej, uchwalonej przez Radę także 22 stycznia (9 stycznia st. st.), na którą powoływał się Uniwersał. Ustawa przyznawała prawo do samorządu w sprawach narodowych przede wszystkim Rosjanom, Żydom i Polakom. Zapowiedź odebrania ziemi bez wykupu wciąż jednak uderzała w polskie ziemiaństwo na Wołyniu, Podolu i Kijowszczyźnie.
+Wśród sąsiadów Ukrainy Uniwersał wymieniał Polskę, choć polskie państwo istniało wtedy tylko jako zależne od Niemiec i Austro-Węgier Królestwo Polskie z [Radą Regencyjną](/powolanie-rady-regencyjnej) w Warszawie. Liczna polska ludność prawobrzeżnej Ukrainy mogła korzystać z ustawy o autonomii narodowo-personalnej, uchwalonej przez Radę także 22 stycznia (9 stycznia st. st.), na którą powoływał się Uniwersał. Ustawa przyznawała prawo do samorządu w sprawach narodowych przede wszystkim Rosjanom, Żydom i Polakom. Zapowiedź odebrania ziemi bez wykupu wciąż jednak uderzała w polskie ziemiaństwo na Wołyniu, Podolu i Kijowszczyźnie.
 
 Groźniejsza dla polskich interesów była rozgrywka w Brześciu. Rada liczyła na [Chełmszczyznę](https://pl.wikipedia.org/wiki/Gubernia_chełmska), a austro-węgierski minister spraw zagranicznych Ottokar Czernin, który pilnie potrzebował ukraińskiego zboża, był gotów na ustępstwa kosztem Polaków. Niepodległa Ukraina mogła teraz podpisać traktat we własnym imieniu.
 

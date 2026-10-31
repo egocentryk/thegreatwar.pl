@@ -17,7 +17,7 @@ brief:
   - "Wiedeń liczył na krótką, lokalną wojnę, ale za Serbią stała Rosja, a za Austro-Węgrami Niemcy. W ciągu tygodnia konflikt na Bałkanach zamienił się w wojnę ogólnoeuropejską."
 ---
 
-28 lipca 1914 roku, dokładnie miesiąc po zamachu w Sarajewie, [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) wypowiedziały wojnę [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Tej samej nocy na Belgrad spadły pierwsze pociski. Dla wielu historyków ten dzień jest początkiem [I wojny światowej](https://pl.wikipedia.org/wiki/I_wojna_światowa). Konflikt, który Wiedeń chciał ograniczyć do krótkiej rozprawy z sąsiadem, w ciągu tygodnia wciągnął wszystkie wielkie mocarstwa Europy.
+28 lipca 1914 roku, dokładnie miesiąc po zamachu w Sarajewie, [Austro-Węgry](/kraje/austro-wegry) wypowiedziały wojnę [Serbii](/kraje/serbia). Tej samej nocy na Belgrad spadły pierwsze pociski. Dla wielu historyków ten dzień jest początkiem [I wojny światowej](https://pl.wikipedia.org/wiki/I_wojna_światowa). Konflikt, który Wiedeń chciał ograniczyć do krótkiej rozprawy z sąsiadem, w ciągu tygodnia wciągnął wszystkie wielkie mocarstwa Europy.
 
 ## Wojna wypowiedziana telegramem
 
@@ -41,6 +41,6 @@ Samo wkroczenie wojsk do Serbii musiało poczekać na zakończenie mobilizacji, 
 
 ## Od wojny lokalnej do wojny światowej
 
-Wiedeń liczył, że wojna z Serbią będzie krótka i lokalna. Stało się inaczej, bo za Serbią stała [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie), a za Austro-Węgrami [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). W kolejnych dniach Rosja ogłosiła [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), a Niemcy odpowiedziały wypowiedzeniem wojny Rosji 1 sierpnia i [Francji](https://pl.wikipedia.org/wiki/III_Republika_Francuska) 3 sierpnia. 4 sierpnia, po niemieckim wkroczeniu do Belgii, do wojny przystąpiła [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii).
+Wiedeń liczył, że wojna z Serbią będzie krótka i lokalna. Stało się inaczej, bo za Serbią stała [Rosja](/kraje/rosja), a za Austro-Węgrami [Niemcy](/kraje/niemcy). W kolejnych dniach Rosja ogłosiła [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), a Niemcy odpowiedziały wypowiedzeniem wojny Rosji 1 sierpnia i [Francji](/kraje/francja) 3 sierpnia. 4 sierpnia, po niemieckim wkroczeniu do Belgii, do wojny przystąpiła [Wielka Brytania](/kraje/wielka-brytania).
 
 Wystarczył więc tydzień, by lokalny konflikt na Bałkanach zamienił się w wojnę ogólnoeuropejską, a wkrótce światową. Właśnie dlatego 28 lipca 1914 roku jest jedną z najważniejszych dat w historii Europy. Telegram wysłany z Wiednia do Niszu otworzył wojnę, która trwała ponad cztery lata, pochłonęła miliony ofiar i zmieniła mapę kontynentu.

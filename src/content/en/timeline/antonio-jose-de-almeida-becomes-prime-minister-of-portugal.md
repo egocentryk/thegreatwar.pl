@@ -2,10 +2,10 @@
 title: António José de Almeida becomes prime minister of Portugal
 summary: On 15 March 1916 the Evolutionist António José de Almeida took charge of the wartime "Sacred Union" government. Afonso Costa became its finance minister.
 source: antonio-jose-de-almeida-premierem-portugalii
-sourceHash: 9121203049558f1de76729f716c561bd480545fb
+sourceHash: 0216b2c0786986f4a4fa54ab84b11d29e661b921
 ---
 
-On 15 March 1916 President [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) appointed a new government of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). It was headed by António José de Almeida, leader of the Evolutionist Party, the moderate wing of the republicans. The cabinet went down in history as the Ministério da União Sagrada, the "Sacred Union" government. The name echoed the French national truce of 1914: in the face of war, former opponents were to govern together. Portuguese lists of governments use the date 15 March, though in some compilations Almeida's term begins on 16 March.
+On 15 March 1916 President [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) appointed a new government of [Portugal](/kraje/portugalia). It was headed by António José de Almeida, leader of the Evolutionist Party, the moderate wing of the republicans. The cabinet went down in history as the Ministério da União Sagrada, the "Sacred Union" government. The name echoed the French national truce of 1914: in the face of war, former opponents were to govern together. Portuguese lists of governments use the date 15 March, though in some compilations Almeida's term begins on 16 March.
 
 ## A government for the war
 

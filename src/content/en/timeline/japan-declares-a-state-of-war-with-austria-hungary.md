@@ -2,10 +2,10 @@
 title: Japan declares a state of war with Austria-Hungary
 summary: On 25 August 1914 Japan and Austria-Hungary found themselves at war. The reason was the Austro-Hungarian cruiser Kaiserin Elisabeth, stationed at Tsingtao.
 source: japonia-oglasza-stan-wojny-z-austro-wegrami
-sourceHash: a8432455f1be0e7603840ffcd9c571693fedae8f
+sourceHash: b8c23aaa5b0219cec16a8924f67b6d5f8ba888d1
 ---
 
-On 25 August 1914 [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) announced that it was in a state of war with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). Two states at opposite ends of Eurasia, with no disputes between them, became enemies because of a single ship anchored in a Chinese port.
+On 25 August 1914 [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) announced that it was in a state of war with [Austria-Hungary](/kraje/austro-wegry). Two states at opposite ends of Eurasia, with no disputes between them, became enemies because of a single ship anchored in a Chinese port.
 
 ## A cruiser at Tsingtao
 

@@ -2,10 +2,10 @@
 title: Brusilov becomes commander-in-chief
 summary: On 4 June 1917 the Provisional Government dismissed General Alekseyev and made Brusilov commander-in-chief. He was to lead the army into a summer offensive.
 source: brusilow-naczelnym-wodzem
-sourceHash: 009a10edd0b34e2272e482dd080053b212c004ad
+sourceHash: fe05d3197dc91b95423682c3e5ea770578e64bdb
 ---
 
-On 4 June 1917 (22 May in the Julian calendar) the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) removed the commander-in-chief of the Russian army, General [Mikhail Alekseyev](/postacie/michail-aleksiejew), and entrusted the post to the commander of the South-Western Front, General [Aleksei Brusilov](/postacie/aleksiej-brusilow). The decision was pushed through by the new minister of war and the navy, [Alexander Kerensky](/postacie/aleksander-kierenski), who for several weeks had been preparing the army for a great offensive. He judged that for this task he needed a commander who would not be an opponent of the revolutionary order in the army. The Western press reported the change on 5 June.
+On 4 June 1917 (22 May in the Julian calendar) the [Provisional Government](/powstanie-rzadu-tymczasowego) removed the commander-in-chief of the Russian army, General [Mikhail Alekseyev](/postacie/michail-aleksiejew), and entrusted the post to the commander of the South-Western Front, General [Aleksei Brusilov](/postacie/aleksiej-brusilow). The decision was pushed through by the new minister of war and the navy, [Alexander Kerensky](/postacie/aleksander-kierenski), who for several weeks had been preparing the army for a great offensive. He judged that for this task he needed a commander who would not be an opponent of the revolutionary order in the army. The Western press reported the change on 5 June.
 
 ## Alekseyev's departure
 

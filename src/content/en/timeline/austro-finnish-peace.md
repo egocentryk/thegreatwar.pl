@@ -2,10 +2,10 @@
 title: Austro-Finnish peace
 summary: On 29 May 1918 in Vienna Finland made peace with Austria-Hungary. It was the last of its four peace treaties with the Central Powers.
 source: pokoj-austro-finski
-sourceHash: 1129c5926c57e51b32be437aae999a1ff85da641
+sourceHash: e3ea96e7dbb2bdd9e2e4c1efe51f75625075b0d2
 ---
 
-On 29 May 1918 a peace treaty between [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) and [Finland](https://pl.wikipedia.org/wiki/Finlandia) was signed in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń). The date and place are given consistently by the British chronology of the war and by Finnish chronologies of the events of 1918. Like the earlier agreements with the Central Powers, the treaty ended a formal state of war. As a Grand Duchy, Finland had belonged to the Russian Empire, with which the Habsburg monarchy had been at war since August 1914. The government in Vienna had recognised Finnish independence as early as 13 January 1918, but peace was concluded only now, a few weeks after the end of the civil war in Finland.
+On 29 May 1918 a peace treaty between [Austria-Hungary](/kraje/austro-wegry) and [Finland](https://pl.wikipedia.org/wiki/Finlandia) was signed in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń). The date and place are given consistently by the British chronology of the war and by Finnish chronologies of the events of 1918. Like the earlier agreements with the Central Powers, the treaty ended a formal state of war. As a Grand Duchy, Finland had belonged to the Russian Empire, with which the Habsburg monarchy had been at war since August 1914. The government in Vienna had recognised Finnish independence as early as 13 January 1918, but peace was concluded only now, a few weeks after the end of the civil war in Finland.
 
 The Vienna treaty closed the series of Finnish peace treaties with the four Central Powers. Finland concluded the first and most important [with Germany on 7 March](/pokoj-niemiecko-finski), which bound it politically and economically to the Reich. It was followed in May by the [treaty with Turkey](/pokoj-finsko-turecki), signed on 11 May, and the treaty with Bulgaria, concluded on 21 May. All three were signed in Berlin, where the Finnish envoy was Senator Edvard Hjelt. The agreement with Austria-Hungary was the only one concluded outside the German capital.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 września 1915 roku brytyjskie Ministerstwo Spraw Zagranicznych otrzymało z Aten odpowiedź, którą brytyjski oficjalny historyk wojny morskiej Julian Corbett nazwał „oszałamiającą”. Rząd [Grecji](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)) serdecznie dziękował za ofertę przysłania wojsk do [Salonik](https://pl.wikipedia.org/wiki/Saloniki), ale uważał, że nie ma obecnie potrzeby z niej korzystać. Powoływał się na oświadczenia rządów Bułgarii i Serbii. Bułgarzy zapewniali, że ich mobilizacja oznacza tylko zbrojną neutralność, a Serbowie, że nie zamierzają atakować pierwsi. Jeszcze dzień wcześniej premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) donosił, że [król zgodził się na przybycie wojsk](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), i prosił, by przypłynęły jak najszybciej.
+28 września 1915 roku brytyjskie Ministerstwo Spraw Zagranicznych otrzymało z Aten odpowiedź, którą brytyjski oficjalny historyk wojny morskiej Julian Corbett nazwał „oszałamiającą”. Rząd [Grecji](/kraje/grecja) serdecznie dziękował za ofertę przysłania wojsk do [Salonik](https://pl.wikipedia.org/wiki/Saloniki), ale uważał, że nie ma obecnie potrzeby z niej korzystać. Powoływał się na oświadczenia rządów Bułgarii i Serbii. Bułgarzy zapewniali, że ich mobilizacja oznacza tylko zbrojną neutralność, a Serbowie, że nie zamierzają atakować pierwsi. Jeszcze dzień wcześniej premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) donosił, że [król zgodził się na przybycie wojsk](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), i prosił, by przypłynęły jak najszybciej.
 
 ## Odpowiedź na brytyjskie warunki
 

@@ -2,10 +2,10 @@
 title: France breaks off diplomatic relations with Austria-Hungary
 summary: On 10 August 1914 France broke off diplomatic relations with Austria-Hungary. The two ambassadors left Vienna and Paris, and war soon followed.
 source: francja-zrywa-stosunki-z-austro-wegrami
-sourceHash: ece71dfd9f281f858235ed92529da36de2e06bbc
+sourceHash: 1bee1e02297c34554507f67e7ad0b1172a96843c
 ---
 
-On 10 August 1914 [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) broke off diplomatic relations with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). On that day the missions of the French ambassador in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń), Alfred Dumaine, and of the Austro-Hungarian ambassador in [Paris](https://pl.wikipedia.org/wiki/Paryż), Count Nikolaus Szécsen, came to an end. Both diplomats left their posts.
+On 10 August 1914 [France](/kraje/francja) broke off diplomatic relations with [Austria-Hungary](/kraje/austro-wegry). On that day the missions of the French ambassador in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń), Alfred Dumaine, and of the Austro-Hungarian ambassador in [Paris](https://pl.wikipedia.org/wiki/Paryż), Count Nikolaus Szécsen, came to an end. Both diplomats left their posts.
 
 ## War without a direct dispute
 

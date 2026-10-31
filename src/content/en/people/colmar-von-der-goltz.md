@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Bielkenfeld (East Prussia)
 deathPlace: Baghdad (Ottoman Empire)
 source: colmar-von-der-goltz
-sourceHash: 659f2099d9e7358dcd0d9f54548fd8c0dd7be7e9
+sourceHash: d8fb512f0119c1508951c724646ffff67ad7f96b
 ---
 
 Field Marshal Colmar von der Goltz, known to the Turks as Goltz Pasha, was in 1914 one of the oldest and best-known soldiers of the German Empire. He had made his name with the book "The Nation in Arms" of 1883, in which he foretold wars waged with the strength of entire nations, and in Turkey he was remembered as the teacher of the generation of officers who commanded the Ottoman army in the Great War. When war broke out he was 71 and retired. He first governed occupied Belgium, then returned to the Bosporus as adviser to the Sultan, and in the last months of his life commanded the Ottoman Sixth Army in Iraq, which shut up a British division in Kut. He died ten days before its surrender.
@@ -43,4 +43,4 @@ The field marshal died at his headquarters in Baghdad on 19 April (according to 
 
 In his lifetime Goltz was widely respected in Turkey, and many Ottoman commanders of the Great War considered themselves his pupils. German critics, in the embassy, the Foreign Office and at headquarters, accused him in Mesopotamia of lack of energy and of having "gone Turkish", while other observers praised his patience, authority and feel for affairs in the East. Historians acknowledge that at Kut he chose the right strategy of blockade, but note that real power over the troops on the Tigris lay in Turkish hands. After his death, as Liman von Sanders wrote, the Turks stopped listening to German advice and, instead of following up their success, sent troops to Persia.
 
-The darker side of his war was Belgium, where he announced collective punishment for the innocent, and his attitude to the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian): first approval of the deportations, then a belated and ineffective attempt to stop them. As a military thinker he remains important to this day. His vision of war waged by whole nations, exhausting and merciless, proved truer in 1914–1918 than his general staff colleagues' faith in a quick, decisive victory.
+The darker side of his war was Belgium, where he announced collective punishment for the innocent, and his attitude to the [Armenian genocide](/tematy/ludobojstwo-ormian): first approval of the deportations, then a belated and ineffective attempt to stop them. As a military thinker he remains important to this day. His vision of war waged by whole nations, exhausting and merciless, proved truer in 1914–1918 than his general staff colleagues' faith in a quick, decisive victory.

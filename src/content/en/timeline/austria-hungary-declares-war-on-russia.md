@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Russia
 summary: On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg handed over the declaration of war. The monarchy's main front shifted to Galicia.
 source: austro-wegry-wypowiadaja-wojne-rosji
-sourceHash: 16deadae0d6607b585ac6bfb5e70c22230dd6602
+sourceHash: f76e65a20e277a547a009b9bb32f6144b89b0b72
 brief:
   - "On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg, Count Friedrich Szápáry, handed Sergey Sazonov a declaration of war on Russia."
   - "Austria-Hungary was the last of the great powers in the east to declare war, as it was still mobilising and had sent part of its forces against Serbia. Germany had declared war on Russia on 1 August."
@@ -11,7 +11,7 @@ brief:
   - "For the Habsburg monarchy it meant a war on two fronts, against Serbia and Russia, for which its army was not prepared."
 ---
 
-On 6 August 1914 the ambassador of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) in [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg), Count Friedrich Szápáry, handed the Russian Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), a declaration of war. The Habsburg monarchy justified it by Russia's hostile attitude in the conflict with Serbia and by the fact that [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) was at war with Germany, Vienna's ally.
+On 6 August 1914 the ambassador of [Austria-Hungary](/kraje/austro-wegry) in [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg), Count Friedrich Szápáry, handed the Russian Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), a declaration of war. The Habsburg monarchy justified it by Russia's hostile attitude in the conflict with Serbia and by the fact that [Russia](/kraje/rosja) was at war with Germany, Vienna's ally.
 
 ## A belated declaration
 
@@ -23,7 +23,7 @@ The declaration of war meant that the main front of Austria-Hungary became [Gali
 
 ## The Polish dimension of the war
 
-For Poles the Austro-Russian war had special significance. For the first time since the partitions, two of the partitioning powers went to war against each other. On the same day, 6 August 1914, the [First Cadre Company](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) formed by [Józef Piłsudski](/postacie/jozef-pilsudski) set out from Kraków and crossed the border of the Kingdom of Poland. A few weeks later the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), fighting alongside the Austro-Hungarian army, were formed on the basis of the Riflemen's units.
+For Poles the Austro-Russian war had special significance. For the first time since the partitions, two of the partitioning powers went to war against each other. On the same day, 6 August 1914, the [First Cadre Company](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) formed by [Józef Piłsudski](/postacie/jozef-pilsudski) set out from Kraków and crossed the border of the Kingdom of Poland. A few weeks later the [Polish Legions](/tematy/polskie-formacje-wojskowe), fighting alongside the Austro-Hungarian army, were formed on the basis of the Riflemen's units.
 
 ## Significance
 

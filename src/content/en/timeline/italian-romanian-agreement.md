@@ -2,10 +2,10 @@
 title: Italian–Romanian agreement
 summary: The British chronology records on 15 January 1915 the disclosure of a secret Italian–Romanian pact. Both neutral countries had pledged to act together.
 source: wlosko-rumunskie-porozumienie
-sourceHash: 8cd8af4ab332bc0431df54d3e37986f6b005c2e8
+sourceHash: 65a4614fd7a6fc1dbbee76afe8d6351d11e3411f
 ---
 
-The British chronology of the war records under 15 January 1915 that the existence of a secret agreement on mutual support between Italy and [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) had been announced. A secret agreement between the two states did indeed exist, and had done since September 1914, though at that time it concerned not mutual assistance but a common policy of neutrality. The undertaking to support each other was made only a few weeks later, in February 1915. It has not been possible to establish exactly which announcement the chronology has in mind. Both governments undertook to keep strictly secret both the content and the very existence of the agreements. The entry for 15 January therefore probably refers to press or diplomatic reports of the rapprochement between Rome and Bucharest, which were just then beginning talks on extending their cooperation.
+The British chronology of the war records under 15 January 1915 that the existence of a secret agreement on mutual support between Italy and [Romania](/kraje/rumunia) had been announced. A secret agreement between the two states did indeed exist, and had done since September 1914, though at that time it concerned not mutual assistance but a common policy of neutrality. The undertaking to support each other was made only a few weeks later, in February 1915. It has not been possible to establish exactly which announcement the chronology has in mind. Both governments undertook to keep strictly secret both the content and the very existence of the agreements. The entry for 15 January therefore probably refers to press or diplomatic reports of the rapprochement between Rome and Bucharest, which were just then beginning talks on extending their cooperation.
 
 ## Two neutral states
 

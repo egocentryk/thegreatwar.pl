@@ -2,10 +2,10 @@
 title: First coalition government in Russia
 summary: On 18 May 1917 a coalition government with six socialists was formed in Petrograd. Kerensky took the war ministry and Tereshchenko foreign affairs.
 source: pierwszy-rzad-koalicyjny-w-rosji
-sourceHash: 06297080855de91cdce359f1db17367e9730682a
+sourceHash: ae1c66806878b783d6de49adeb19b90fb6d64de5
 ---
 
-On 18 May 1917 (5 May in the Julian calendar) the first coalition government was formed in Russia. Prince [Georgy Lvov](/postacie/gieorgij-lwow) remained at the head of the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), but six socialists entered the cabinet, among them leaders of the [Petrograd Soviet](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich). The former minister of justice, [Alexander Kerensky](/postacie/aleksander-kierenski), took over the ministry of war and the navy, and the former minister of finance, Mikhail Tereshchenko, foreign affairs. The next day the government issued a declaration of its programme, in which it rejected a separate peace and set as its war aim a general peace without annexations or indemnities.
+On 18 May 1917 (5 May in the Julian calendar) the first coalition government was formed in Russia. Prince [Georgy Lvov](/postacie/gieorgij-lwow) remained at the head of the [Provisional Government](/powstanie-rzadu-tymczasowego), but six socialists entered the cabinet, among them leaders of the [Petrograd Soviet](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich). The former minister of justice, [Alexander Kerensky](/postacie/aleksander-kierenski), took over the ministry of war and the navy, and the former minister of finance, Mikhail Tereshchenko, foreign affairs. The next day the government issued a declaration of its programme, in which it rejected a separate peace and set as its war aim a general peace without annexations or indemnities.
 
 The British chronology of the war records the appointments of Kerensky and Tereshchenko under 16 May and the declaration under 19 May. In reality the composition of the cabinet was negotiated until the last moment on 15–18 May and was finally approved on 18 May. The declaration is dated 6 May Old Style, that is, 19 May.
 

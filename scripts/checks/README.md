@@ -16,7 +16,7 @@ the briefs given to the writers who produce it are in `scripts/briefs/`.
 | `war-numbers.py` | "Wojna w liczbach": every row ≥ 2 sources, one not Wikipedia, low ≤ high; merges the parts into `src/data/war-numbers.json` | `python3 -I scripts/checks/war-numbers.py [--write]` |
 
 Other tools in `scripts/` change content rather than check it:
-`wiki-to-internal.py` (pl.wikipedia links → our battle, person and pre-war event pages),
+`wiki-to-internal.py` (pl.wikipedia links → our battle, person, guide, country and event pages), `wiki-links-report.py` (the most linked pl.wikipedia pages, expansion-plan.md C),
 `person-photos.mjs`, `person-sources.mjs`, `article-images.mjs`,
 `i18n-status.mjs` (English edition status and stamps), `wiki-langlinks.mjs`.
 

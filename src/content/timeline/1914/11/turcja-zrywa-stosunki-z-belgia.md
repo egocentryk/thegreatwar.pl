@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 listopada 1914 roku, dzień po tym, jak [Wielka Brytania i Francja wypowiedziały wojnę Turcji](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), zerwane zostały stosunki dyplomatyczne między [Imperium Osmańskim](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) a [Belgią](https://pl.wikipedia.org/wiki/Belgia). Belgia, niemal w całości zajęta przez Niemców, z rządem [przeniesionym do Hawru](/rzad-belgijski-w-hawrze), traciła kolejną placówkę dyplomatyczną w państwie sprzymierzonym z Niemcami.
+6 listopada 1914 roku, dzień po tym, jak [Wielka Brytania i Francja wypowiedziały wojnę Turcji](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), zerwane zostały stosunki dyplomatyczne między [Imperium Osmańskim](/kraje/imperium-osmanskie) a [Belgią](/kraje/belgia). Belgia, niemal w całości zajęta przez Niemców, z rządem [przeniesionym do Hawru](/rzad-belgijski-w-hawrze), traciła kolejną placówkę dyplomatyczną w państwie sprzymierzonym z Niemcami.
 
 Poselstwem Belgii w Konstantynopolu kierował baron Guillaume. Już we wrześniu pisał do swojego rządu, że niemiecki ambasador jest w Konstantynopolu „wszechmocny”, a osmańscy ministrowie dość często zbierają się na naradach w jego domu. Opisywał, jak Niemcy starają się popchnąć Turków do nierozważnego kroku, który wywołałby wojnę z Ententą. Zapowiadał też, że jeśli otrzyma paszporty, powierzy opiekę nad mieszkającymi w Turcji Belgami ambasadorowi neutralnych Stanów Zjednoczonych.
 

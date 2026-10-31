@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-15 marca 1916 roku prezydent [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) powołał nowy rząd [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). Na jego czele stanął António José de Almeida, przywódca Partii Ewolucjonistycznej, umiarkowanego skrzydła republikanów. Gabinet przeszedł do historii jako Ministério da União Sagrada, czyli rząd „Świętej Unii”. Nazwa nawiązywała do francuskiej zgody narodowej z 1914 roku: wobec wojny dawni przeciwnicy mieli rządzić razem. Portugalskie wykazy rządów przyjmują datę 15 marca, choć w części zestawień kadencja Almeidy zaczyna się 16 marca.
+15 marca 1916 roku prezydent [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) powołał nowy rząd [Portugalii](/kraje/portugalia). Na jego czele stanął António José de Almeida, przywódca Partii Ewolucjonistycznej, umiarkowanego skrzydła republikanów. Gabinet przeszedł do historii jako Ministério da União Sagrada, czyli rząd „Świętej Unii”. Nazwa nawiązywała do francuskiej zgody narodowej z 1914 roku: wobec wojny dawni przeciwnicy mieli rządzić razem. Portugalskie wykazy rządów przyjmują datę 15 marca, choć w części zestawień kadencja Almeidy zaczyna się 16 marca.
 
 ## Rząd na czas wojny
 

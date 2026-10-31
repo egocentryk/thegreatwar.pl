@@ -2566,6 +2566,38 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 48. Wikipedia links → our own pages, step 1 (2026-10-31)
+
+- New focus (expansion-plan.md C): replace the most repeated pl.wikipedia
+  links with our own pages. `scripts/wiki-links-report.py` counts them:
+  26,198 links to 7,910 pages at the start; the top 50 are 9% of the links,
+  the 537 targets linked 10+ times 37%. Analysis, owner's decisions and the
+  plan ("Miejsca", "Siły zbrojne", deeper glossary) in expansion-plan.md C.
+- Step 1, pages we already had, no new writing:
+  - country pages and guides get `wikiTitles` (schema in
+    `content.config.ts`, as person pages): the 16 states under their
+    pl.wiki names ("Cesarstwo_Niemieckie", "Królestwo_Serbii",
+    "III_Republika_Francuska"…); `ludobojstwo-ormian`;
+    `polskie-formacje-wojskowe` (Legiony, PKP, PSZ, Armia Polska we Francji,
+    the corps in Russia…); `panstwa-centralne-i-ententa` (Ententa, Państwa
+    centralne); `wojna-podwodna-1914-1918`;
+  - `wiki-to-internal.py` reads them (no date rule: reference pages), now
+    also edits the country pages, and EVENTS maps 7 more titles to existing
+    articles (Traktat londyński 1915, Rada Regencyjna, Rząd Tymczasowy
+    Rosji, KNP 1917–1919, the February and October revolutions, Bajończycy;
+    date rule kept);
+  - result: 453 Polish files and their English files edited (all
+    restamped), **660 links** now ours (26,198 → 25,538); 197 links kept
+    by the date rule, 55 on the page itself.
+- Left for later: the Salonika front (our front pages are "Front bałkański"
+  lists, not the same subject, and `/front/` isn't mapped in English); the
+  glossary terms (step 4: deeper pages first, they are ~220 characters).
+- Checks: guides and countries `topics.py` 0, series 0, year intros 0,
+  i18n 0, typecheck 0 errors, build 7953 pages; English links map to
+  `/en/countries/…` and `/en/topics/…`.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2668,6 +2700,8 @@ finished, tick it here and add its section above.
 - [x] "Po wojnie": the war after the war 1919–1923, 53 articles and 2 battle pages, PL/EN (§44)
 - [x] Reading progress, stage 1: opt-in, in the browser only; ✓ in timeline lists, year counters, article status line, settings page (§45)
 - [x] "Polskie formacje wojskowe": 6 gap articles and a topic guide, PL/EN (§47)
+- [x] Wikipedia links, step 1: country pages, guides and 7 events take 660 links (§48)
+- [ ] Wikipedia links: pilots "Miejsca" (5) and "Siły zbrojne" (3), deeper glossary terms (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

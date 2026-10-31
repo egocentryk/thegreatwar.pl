@@ -9,10 +9,10 @@ brief:
   - "In 1919 a court-martial in Constantinople sentenced Talat, Enver and Djemal to death in absentia, but none of them ever answered before a court."
   - "Raphael Lemkin, the Polish lawyer who coined the term genocide, took an interest in the fate of the Armenians as a student. Turkey still rejects that classification."
 source: ludobojstwo-ormian
-sourceHash: a22a37baf422b21b3f13b1079f8e30ad446cf85c
+sourceHash: be4d6d9508a766e1236d46c277dba976c263c1be
 ---
 
-During the First World War the authorities of the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) destroyed the [Armenians](https://pl.wikipedia.org/wiki/Ormianie) living within it. From the spring of 1915 the ruling [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) arrested and murdered Armenian leaders and deported whole communities from Anatolia to the deserts of Syria and Mesopotamia. People died at the hands of escorts and bandits, and of hunger, thirst and disease. According to most historians' estimates between about 600,000 and over a million Armenians died in 1915–1916, while the Armenian side speaks of 1.5 million. The crime is now called the Armenian genocide. Turkey rejects that classification.
+During the First World War the authorities of the [Ottoman Empire](/kraje/imperium-osmanskie) destroyed the [Armenians](https://pl.wikipedia.org/wiki/Ormianie) living within it. From the spring of 1915 the ruling [Committee of Union and Progress](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu) arrested and murdered Armenian leaders and deported whole communities from Anatolia to the deserts of Syria and Mesopotamia. People died at the hands of escorts and bandits, and of hunger, thirst and disease. According to most historians' estimates between about 600,000 and over a million Armenians died in 1915–1916, while the Armenian side speaks of 1.5 million. The crime is now called the Armenian genocide. Turkey rejects that classification.
 
 ## The Armenians in the Ottoman Empire
 

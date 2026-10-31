@@ -2,7 +2,7 @@
 title: Internment of Cormoran at Guam
 summary: On 14 December 1914 the German auxiliary cruiser Cormoran, formerly the Russian Ryazan, reached American Guam out of coal. The ship and her crew were interned.
 source: internowanie-cormorana-na-guamie
-sourceHash: 51ecc17b964d2b20ad4d7a030d8da057e9a65b50
+sourceHash: 7e79ff144ce61bef8440fee8177e9c1a3e03a43f
 ---
 
 On 14 December 1914 the German [auxiliary cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Cormoran entered Apra Harbor on [Guam](https://pl.wikipedia.org/wiki/Guam), an American island in the Mariana archipelago. She had only a few dozen tons of coal left in her bunkers. The Americans refused her the fuel she needed to continue her voyage, so the ship remained at Guam and was interned together with her crew.
@@ -15,7 +15,7 @@ Cormoran was in reality the Russian passenger ship Ryazan, built in 1909 at the 
 
 On 10 August Cormoran left Tsingtao. At the end of August she joined the squadron of Admiral [Maximilian von Spee](/postacie/maximilian-von-spee) in the Marshall Islands, which sent her, together with another auxiliary cruiser, Prinz Eitel Friedrich, to wage commerce war. Cormoran, however, did not sink a single enemy ship. For the following months she cruised the Pacific, avoiding British, Australian and Japanese warships and constantly struggling with a shortage of coal. In New Guinea she took on board German colonial officials, including the deputy governor. When she tried to operate near Yap, she found the Japanese already there; they had [occupied the island](/japonczycy-zajmuja-yap) in October.
 
-In the end Zuckschwerdt hid the ship at the remote atoll of Lamotrek in the Carolines and from there sent men to look for a neutral port and fuel. The only realistic destination was Guam, which had belonged to the [United States](https://pl.wikipedia.org/wiki/Stany_Zjednoczone) since 1898. On 14 December Cormoran, unseen by Japanese patrols, reached Apra Harbor.
+In the end Zuckschwerdt hid the ship at the remote atoll of Lamotrek in the Carolines and from there sent men to look for a neutral port and fuel. The only realistic destination was Guam, which had belonged to the [United States](/kraje/stany-zjednoczone) since 1898. On 14 December Cormoran, unseen by Japanese patrols, reached Apra Harbor.
 
 ## No coal
 

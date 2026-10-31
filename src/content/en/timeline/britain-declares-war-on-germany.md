@@ -2,7 +2,7 @@
 title: Britain declares war on Germany
 summary: At 11 p.m. London time on 4 August 1914 the ultimatum expired. Britain and its whole empire found themselves at war with Germany.
 source: wielka-brytania-wypowiada-wojne-niemcom
-sourceHash: 91871c6e65ae49fbb6a4b00e4cc5da8d31aefd70
+sourceHash: e79b0d03cc287c31d3184b28fc18a91ac4cd4359
 brief:
   - "At 11 p.m. London time on 4 August 1914 the British ultimatum expired. Berlin had given no assurance that it would respect Belgian neutrality, and Great Britain was at war with Germany."
   - "The immediate cause was Belgium, whose neutrality Britain had guaranteed since 1839. Sir Edward Grey and most of the cabinet also feared German domination of the Continent and the threat from its fleet."
@@ -10,7 +10,7 @@ brief:
   - "With Britain and its empire in the war, the conflict took on a global dimension. Most people expected it to be over by Christmas, but it lasted more than four years."
 ---
 
-On 4 August 1914 at 11 p.m. London time, that is midnight in Berlin, the British ultimatum to Germany expired. Berlin had given no assurance that it would respect Belgian neutrality, and its troops had been advancing into Belgian territory since the morning. From that moment [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) was at war with [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie).
+On 4 August 1914 at 11 p.m. London time, that is midnight in Berlin, the British ultimatum to Germany expired. Berlin had given no assurance that it would respect Belgian neutrality, and its troops had been advancing into Belgian territory since the morning. From that moment [Great Britain](/kraje/wielka-brytania) was at war with [Germany](/kraje/niemcy).
 
 ## The last hours of peace
 
@@ -20,11 +20,11 @@ The German ambassador in London, Prince [Karl Max von Lichnowsky](https://pl.wik
 
 ## The whole empire at war
 
-London's decision meant that the entire [British Empire](https://pl.wikipedia.org/wiki/Imperium_brytyjskie) entered the war. The dominions and colonies did not then conduct their own foreign policy, so the moment Britain declared war, [Canada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia), the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) and [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) were also at war. The scale of their contribution, however, was decided by the governments of the individual dominions, which almost immediately pledged their help.
+London's decision meant that the entire [British Empire](/kraje/wielka-brytania) entered the war. The dominions and colonies did not then conduct their own foreign policy, so the moment Britain declared war, [Canada](https://pl.wikipedia.org/wiki/Kanada), [Australia](https://pl.wikipedia.org/wiki/Australia), [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia), the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) and [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) were also at war. The scale of their contribution, however, was decided by the governments of the individual dominions, which almost immediately pledged their help.
 
 ## Why Britain fought
 
-The immediate cause was the question of [Belgium](https://pl.wikipedia.org/wiki/Belgia), whose neutrality Britain had guaranteed since 1839. The Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), and most of the cabinet believed, however, that more was at stake. A German victory over France and Russia would give Germany domination of the Continent, and the German fleet would threaten the security of the British Isles. For public opinion, though, it was the fate of small, invaded Belgium that became the most important argument for war.
+The immediate cause was the question of [Belgium](/kraje/belgia), whose neutrality Britain had guaranteed since 1839. The Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), and most of the cabinet believed, however, that more was at stake. A German victory over France and Russia would give Germany domination of the Continent, and the German fleet would threaten the security of the British Isles. For public opinion, though, it was the fate of small, invaded Belgium that became the most important argument for war.
 
 Britain was prepared above all at sea. Its fleet had been at its war stations for several days, and Admiral John Jellicoe was taking command of the main fleet, renamed the Grand Fleet. The army, small compared with the continental armies, was beginning mobilisation and preparations to send an expeditionary force to France.
 

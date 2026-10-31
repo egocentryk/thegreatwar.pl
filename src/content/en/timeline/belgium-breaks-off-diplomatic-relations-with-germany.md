@@ -2,10 +2,10 @@
 title: Belgium breaks off diplomatic relations with Germany
 summary: On 4 August 1914, after German troops crossed the border, Belgium broke off relations with Germany and handed the German minister his passports.
 source: belgia-zrywa-stosunki-dyplomatyczne-z-niemcami
-sourceHash: db5f9e8e7319d3301e14cd8536ea98d52471e9e0
+sourceHash: 4bef1c0516f2255c3e176a76ffba5c73f9bdc74c
 ---
 
-On 4 August 1914, when news reached Brussels that German troops had crossed the border at [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), the Belgian government broke off diplomatic relations with [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). The Foreign Minister, Julien Davignon, informed the German minister, Claus von Below-Saleske, that from that day [Belgium](https://pl.wikipedia.org/wiki/Belgia) no longer recognised his diplomatic status and would maintain no official relations with him.
+On 4 August 1914, when news reached Brussels that German troops had crossed the border at [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), the Belgian government broke off diplomatic relations with [Germany](/kraje/niemcy). The Foreign Minister, Julien Davignon, informed the German minister, Claus von Below-Saleske, that from that day [Belgium](/kraje/belgia) no longer recognised his diplomatic status and would maintain no official relations with him.
 
 The note was accompanied by the passports needed for the departure of the minister and the legation staff. This was the traditional, formal way of breaking off relations between states. Below-Saleske acknowledged receipt of the note and entrusted the protection of the German legation in [Brussels](https://pl.wikipedia.org/wiki/Bruksela) to his colleague, the United States minister. He left Belgium that same night.
 

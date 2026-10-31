@@ -2,7 +2,7 @@
 title: Battle of the Gete
 summary: On 18 August 1914 the Belgian army faced the Germans on the Gete. Threatened with encirclement, King Albert I ordered a retreat to the fortress of Antwerp.
 source: bitwa-nad-gete
-sourceHash: 495c438074ac6ac6576c13c2e8f32804885d9b2c
+sourceHash: 6f5369c8774f7b6a2a7c0bd0edd9728bbaf98d3d
 brief:
   - "On 18 August 1914, on the river Gete east of Brussels, the Belgian army clashed with the main forces of the German 1st Army. The fighting lasted until 19 August."
   - "After the fall of Liège the Belgians held a line from Tienen to Jodoigne to cover the capital and wait for French and British troops, but the overwhelming German superiority threatened them with encirclement."
@@ -10,7 +10,7 @@ brief:
   - "The King's decision saved the Belgian army, which for weeks tied down substantial German forces from Antwerp and, after the fortress fell, fought on along the Yser."
 ---
 
-On 18 August 1914, on the river Gete in central [Belgium](https://pl.wikipedia.org/wiki/Belgia), the Belgian army clashed with the main body of the German First Army. The fighting, which lasted until 19 August, ended a three-week attempt to stop the Germans in the open field. In the evening King [Albert I](/postacie/albert-i), who commanded the army in person, ordered a retreat to the fortress of Antwerp.
+On 18 August 1914, on the river Gete in central [Belgium](/kraje/belgia), the Belgian army clashed with the main body of the German First Army. The fighting, which lasted until 19 August, ended a three-week attempt to stop the Germans in the open field. In the evening King [Albert I](/postacie/albert-i), who commanded the army in person, ordered a retreat to the fortress of Antwerp.
 
 ## Waiting on the Gete
 

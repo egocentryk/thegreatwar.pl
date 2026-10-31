@@ -9,7 +9,7 @@ brief:
   - "After the Russian army fell apart, Romania signed the Armistice of Focșani on 9 December 1917 and the Peace of Bucharest on 7 May 1918."
   - "On 10 November 1918 it re-entered the war, and in 1918 it annexed Bessarabia, Bukovina and Transylvania, doubling its territory."
 source: rumunia
-sourceHash: 2ef4cbfbf9326f8face953c59fa0cd4d977fb9fe
+sourceHash: 3e767ea4325bde04d640ce64f332b03c37bc9f85
 ---
 
 Romania stayed neutral for the first two years of the war, and on 27 August 1916 it came out on the side of the Entente to win Transylvania and the other lands inhabited by Romanians in Austria-Hungary. The 1916 campaign ended in disaster: the troops of the Central Powers drove the Romanians out of Transylvania and occupied Dobruja, Wallachia and Bucharest, while the king and government took refuge in Moldavia. The rebuilt army defended it in summer 1917, but after the Russian army fell apart Romania had to conclude an armistice, and in May 1918 a peace. It re-entered the war a day before the end, and in 1918 it united with Bessarabia, Bukovina and Transylvania, becoming Greater Romania.

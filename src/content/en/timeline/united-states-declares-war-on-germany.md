@@ -2,7 +2,7 @@
 title: United States declares war on Germany
 summary: On 6 April 1917 the House of Representatives passed the war resolution and Wilson signed it. The United States was at war with Germany.
 source: usa-wypowiadaja-wojne-niemcom
-sourceHash: 6dde8b9908a7937e706dbeb7b5771d55e3f03b9c
+sourceHash: f0e0cf57ab777b3d9853692a974f5c857be8e05b
 brief:
   - "On Good Friday, 6 April 1917, the House of Representatives passed the war resolution by 373 votes to 50, and President Woodrow Wilson signed it. The United States was at war with Germany."
   - "Two days earlier the Senate had passed the resolution by 82 votes to 6. Opponents such as Robert La Follette argued that Britain had broken the law of the sea just as Germany had."
@@ -43,7 +43,7 @@ In his address Wilson had announced an army increased by half a million men rais
 
 ## An associated power
 
-The United States did not conclude an alliance with the [Entente](https://pl.wikipedia.org/wiki/Ententa) and did not join its members' agreement that none of them would make a separate peace. Wilson called his country an "associated power" rather than an allied one, and wanted to keep a free hand over the peace terms. For the Allies, what mattered most for the time being was money and ships. Britain and France had already spent most of their reserves on purchases in America and were finding it ever harder to pay. Now they could count on credits from the American government, and in April German submarines were sinking more ships than in any other month of the war. In Paris and London the news from Washington brought enormous relief and the promise that sooner or later millions of fresh soldiers would reach the front.
+The United States did not conclude an alliance with the [Entente](/tematy/panstwa-centralne-i-ententa) and did not join its members' agreement that none of them would make a separate peace. Wilson called his country an "associated power" rather than an allied one, and wanted to keep a free hand over the peace terms. For the Allies, what mattered most for the time being was money and ships. Britain and France had already spent most of their reserves on purchases in America and were finding it ever harder to pay. Now they could count on credits from the American government, and in April German submarines were sinking more ships than in any other month of the war. In Paris and London the news from Washington brought enormous relief and the promise that sooner or later millions of fresh soldiers would reach the front.
 
 ## The calculation in Berlin
 

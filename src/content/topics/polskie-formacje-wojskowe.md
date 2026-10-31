@@ -11,6 +11,7 @@ brief:
 order: 13
 updated: 2026-10-31
 series: legiony-polskie
+wikiTitles: ["Legiony_Polskie_(1914–1918)", "Polski_Korpus_Posiłkowy", "Polska_Siła_Zbrojna", "Armia_Polska_we_Francji", "Legion_Wschodni", "I_Korpus_Polski_w_Rosji", "II_Korpus_Polski_w_Rosji", "Dywizja_Strzelców_Polskich_(1917)", "Brygada_Strzelców_Polskich"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf"

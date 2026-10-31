@@ -2,7 +2,7 @@
 title: Fourth Universal
 summary: On 22 January 1918 the Central Rada issued the Fourth Universal. The Ukrainian People's Republic became independent as Bolshevik troops marched on Kiev.
 source: iv-uniwersal
-sourceHash: c59b24817a98789e2ee64622af70ea4f647d8da8
+sourceHash: 40325e04b111beae4bbcf16cd214b16298054a71
 ---
 
 The Fourth Universal of the [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada) is dated 22 January 1918 (9 January in the Julian calendar, which Ukraine still used until the middle of February). This was the day set for the Ukrainian Constituent Assembly to convene. The most important sentence of the act read: "From this day forth the Ukrainian People's Republic becomes an independent, free, sovereign state of the Ukrainian people, dependent on no one." Two months earlier the [Third Universal](/ukrainska-republika-ludowa) had proclaimed the republic as part of a future Russian federation. Now Kiev broke all ties with Russia.
@@ -29,7 +29,7 @@ The government was given several instructions. It was to conduct the negotiation
 
 ## The Poles
 
-Among Ukraine's neighbours the Universal named Poland, although at that time a Polish state existed only as the Kingdom of Poland, dependent on Germany and Austria-Hungary, with a [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) in Warsaw. The large Polish population of Right-bank Ukraine could make use of the law on national-personal autonomy, also passed by the Rada on 22 January (9 January Old Style), which the Universal invoked. The law granted the right to self-government in national matters above all to Russians, Jews and Poles. The announcement that land would be taken without compensation nevertheless still struck at the Polish landed gentry in Volhynia, Podolia and the Kiev region.
+Among Ukraine's neighbours the Universal named Poland, although at that time a Polish state existed only as the Kingdom of Poland, dependent on Germany and Austria-Hungary, with a [Regency Council](/powolanie-rady-regencyjnej) in Warsaw. The large Polish population of Right-bank Ukraine could make use of the law on national-personal autonomy, also passed by the Rada on 22 January (9 January Old Style), which the Universal invoked. The law granted the right to self-government in national matters above all to Russians, Jews and Poles. The announcement that land would be taken without compensation nevertheless still struck at the Polish landed gentry in Volhynia, Podolia and the Kiev region.
 
 More dangerous for Polish interests was the game being played at Brest. The Rada was counting on the [Chełm Land](https://pl.wikipedia.org/wiki/Gubernia_chełmska), and the Austro-Hungarian foreign minister Ottokar Czernin, who urgently needed Ukrainian grain, was ready to make concessions at the expense of the Poles. Independent Ukraine could now sign a treaty in its own name.
 

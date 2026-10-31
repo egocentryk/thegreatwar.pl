@@ -9,7 +9,7 @@ brief:
   - "Beyond the Western Front the British fought Turkey at Gallipoli, in Mesopotamia and in Palestine."
   - "The empire lost between 908,000 and more than 1.1 million dead, including about 744,000 from the British Isles alone."
 source: wielka-brytania
-sourceHash: 3cba30068004fefd6e474da5a9d24c6a20ad0ea5
+sourceHash: 2c4498e7aadf1ca0f6cd744079eee41bc40030fe
 ---
 
 Britain entered the First World War on 4 August 1914, when Germany invaded neutral Belgium, and fought until the Armistice of 11 November 1918. The whole empire went to war with it: the Dominions, India and the colonies. The British, who had no conscription, built a mass army during the war, and their fleet blockaded Germany and protected the Entente's sea lanes. Britain fought on the Western Front, at sea and against Turkey from the Dardanelles to Palestine, and emerged from the war victorious.

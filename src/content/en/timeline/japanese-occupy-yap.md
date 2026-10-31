@@ -2,7 +2,7 @@
 title: Japanese occupy Yap
 summary: On 7 October 1914 a Japanese squadron occupied the island of Yap in the Carolines, an important hub of German telegraph cables and radio links in the Pacific.
 source: japonczycy-zajmuja-yap
-sourceHash: 13c7936131863f572bc9cdc8825fb851b2a74b70
+sourceHash: 3fe446dba055af4b7a7c5314fdbbbd5ebb8f1a2e
 ---
 
 On 7 October 1914 Japanese warships occupied the island of Yap in the western part of the [Caroline Islands](https://pl.wikipedia.org/wiki/Karoliny). The German garrison offered no resistance. The crew of the German survey ship *Planet*, which was lying off the island, scuttled her so that she would not fall into Japanese hands.
@@ -19,4 +19,4 @@ The islands south of the equator were meanwhile being occupied by the Australian
 
 ## The dispute over Yap
 
-Japan treated the occupied islands as spoils of war. After the war they were awarded to it as a [League of Nations mandate](https://pl.wikipedia.org/wiki/Mandat_Południowego_Pacyfiku). The [United States](https://pl.wikipedia.org/wiki/Stany_Zjednoczone) protested against handing Yap in particular to Japan, since for the Americans the island was an important hub of the cables linking them with the Philippines and China. The dispute was settled only by a treaty signed in Washington at the beginning of 1922. The island remained under Japanese rule, but the Americans obtained free access to it and rights equal to those of the Japanese to use the cables and radio station.
+Japan treated the occupied islands as spoils of war. After the war they were awarded to it as a [League of Nations mandate](https://pl.wikipedia.org/wiki/Mandat_Południowego_Pacyfiku). The [United States](/kraje/stany-zjednoczone) protested against handing Yap in particular to Japan, since for the Americans the island was an important hub of the cables linking them with the Philippines and China. The dispute was settled only by a treaty signed in Washington at the beginning of 1922. The island remained under Japanese rule, but the Americans obtained free access to it and rights equal to those of the Japanese to use the cables and radio station.

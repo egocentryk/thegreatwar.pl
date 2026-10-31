@@ -2,10 +2,10 @@
 title: Franco-British naval convention
 summary: On 6 August 1914 France and Britain concluded a naval convention in London. A French admiral took command of the Allied forces in the Mediterranean.
 source: francusko-brytyjska-konwencja-morska
-sourceHash: c971069fb1867ba203fcd38219aa0b4efdd35e68
+sourceHash: 5026a06e5cb5498f546f55c2ed3d2b2fb244aea6
 ---
 
-On 6 August 1914 in London [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) and [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) concluded a naval convention setting out the rules of cooperation between the two fleets in wartime. The most important provision concerned the [Mediterranean](https://pl.wikipedia.org/wiki/Morze_Śródziemne): the general direction of naval operations in that area was entrusted to France, and the French admiral Augustin Boué de Lapeyrère became commander of the combined Allied forces.
+On 6 August 1914 in London [France](/kraje/francja) and [Great Britain](/kraje/wielka-brytania) concluded a naval convention setting out the rules of cooperation between the two fleets in wartime. The most important provision concerned the [Mediterranean](https://pl.wikipedia.org/wiki/Morze_Śródziemne): the general direction of naval operations in that area was entrusted to France, and the French admiral Augustin Boué de Lapeyrère became commander of the combined Allied forces.
 
 ## Dividing the seas
 

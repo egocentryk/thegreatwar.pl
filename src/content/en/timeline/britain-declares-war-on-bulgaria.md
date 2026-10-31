@@ -2,10 +2,10 @@
 title: Britain declares war on Bulgaria
 summary: On 15 October 1915 the Foreign Office announced that from 10 p.m. Britain was at war with Bulgaria, an ally of the Central Powers fighting Serbia.
 source: wielka-brytania-wypowiada-wojne-bulgarii
-sourceHash: b4ae7d78029272f608595efbe0fdf543b060d1b1
+sourceHash: 7e22a8323dea72809ee2abb91e35acda903ede9b
 ---
 
-On Friday 15 October 1915 [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) found itself at war with [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). A short Foreign Office statement, published the next day in a supplement to the official *[London Gazette](https://pl.wikipedia.org/wiki/The_London_Gazette)*, read: "Owing to the King of the Bulgarians, an ally of the Central Powers, being now at war with the King of Serbia, an ally of His Majesty King George V, His Majesty's Government have informed the Swedish Minister in London, who has charge of Bulgarian interests in this country, that a state of war exists between Great Britain and Bulgaria as from 10 p.m. today."
+On Friday 15 October 1915 [Great Britain](/kraje/wielka-brytania) found itself at war with [Bulgaria](/kraje/bulgaria). A short Foreign Office statement, published the next day in a supplement to the official *[London Gazette](https://pl.wikipedia.org/wiki/The_London_Gazette)*, read: "Owing to the King of the Bulgarians, an ally of the Central Powers, being now at war with the King of Serbia, an ally of His Majesty King George V, His Majesty's Government have informed the Swedish Minister in London, who has charge of Bulgarian interests in this country, that a state of war exists between Great Britain and Bulgaria as from 10 p.m. today."
 
 Two days earlier London had [broken off diplomatic relations with Sofia](/wielka-brytania-zrywa-stosunki-z-bulgaria), and on 14 October [Bulgaria and Serbia declared war on each other](/bulgaria-i-serbia-wypowiadaja-sobie-wojne). According to the British official history of naval operations, London had for several days been pressing its allies to turn Russia's breaking of relations into war at once. The British got ahead of both France and Russia in this. The British official history of the Macedonian campaign gives the date as 14 October, but the Foreign Office statement is dated 15 October, and that is the date given by contemporary chronicles.
 

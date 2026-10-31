@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-12 grudnia 1914 roku urząd premiera [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) objął Vítor Hugo de Azevedo Coutinho, oficer marynarki wojennej i przewodniczący Izby Deputowanych. Zastąpił Bernardina Machado, którego [ponadpartyjny rząd właśnie upadł](/dymisja-rzadu-bernardina-machado). W gabinecie znaleźli się niemal wyłącznie członkowie Partii Demokratycznej, najsilniejszego ugrupowania w parlamencie.
+12 grudnia 1914 roku urząd premiera [Portugalii](/kraje/portugalia) objął Vítor Hugo de Azevedo Coutinho, oficer marynarki wojennej i przewodniczący Izby Deputowanych. Zastąpił Bernardina Machado, którego [ponadpartyjny rząd właśnie upadł](/dymisja-rzadu-bernardina-machado). W gabinecie znaleźli się niemal wyłącznie członkowie Partii Demokratycznej, najsilniejszego ugrupowania w parlamencie.
 
 ## Szukanie premiera
 

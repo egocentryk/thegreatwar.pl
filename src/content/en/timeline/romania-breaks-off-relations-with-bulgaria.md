@@ -2,10 +2,10 @@
 title: Romania breaks off relations with Bulgaria
 summary: On the evening of 30 August 1916 the Romanian minister in Sofia asked for his passports and broke off ties. Two days later Bulgaria declared war on Romania.
 source: rumunia-zrywa-stosunki-z-bulgaria
-sourceHash: 6de5465e81cef52a3c3206eca825d930c55d9bda
+sourceHash: 549b989fe8ad9704082b053ec0a61a0f543cb500
 ---
 
-On the evening of 30 August 1916 the Romanian minister in [Sofia](https://pl.wikipedia.org/wiki/Sofia), Gheorghe Derussi, asked for his passports and notified the Bulgarian government that diplomatic relations were broken off. According to a communiqué that the Bulgarian legation in Berlin received from Sofia, relations between the two states were broken off by the Romanian side at 6 p.m. In [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii), which still used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 17 August. [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) had already gone over to the Gregorian calendar in the spring of 1916.
+On the evening of 30 August 1916 the Romanian minister in [Sofia](https://pl.wikipedia.org/wiki/Sofia), Gheorghe Derussi, asked for his passports and notified the Bulgarian government that diplomatic relations were broken off. According to a communiqué that the Bulgarian legation in Berlin received from Sofia, relations between the two states were broken off by the Romanian side at 6 p.m. In [Romania](/kraje/rumunia), which still used the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 17 August. [Bulgaria](/kraje/bulgaria) had already gone over to the Gregorian calendar in the spring of 1916.
 
 ## War without a declaration
 

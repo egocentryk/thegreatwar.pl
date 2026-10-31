@@ -2,14 +2,14 @@
 title: British protectorate over Egypt
 summary: On 18 December 1914 Britain proclaimed a protectorate over Egypt. This ended the formal suzerainty of the Ottoman sultan over the country.
 source: brytyjski-protektorat-nad-egiptem
-sourceHash: 0f461a7d6330228f421ee6d16a329fdaaa12685e
+sourceHash: ed3405349241afcaaf3f0c6ca825e16179c9770c
 ---
 
 On 18 December 1914 it was announced in Cairo that [Egypt](https://pl.wikipedia.org/wiki/Egipt) had been placed under the protection of the King of Great Britain and was becoming a British [protectorate](https://pl.wikipedia.org/wiki/Protektorat). The British Foreign Secretary's statement had already been announced in London on 17 December, and the next day the Egyptian official gazette published the proclamation in English and French. The text was short: "in view of the state of war arising out of the action of Turkey", Egypt was placed under the protection of His Majesty, and the suzerainty of Turkey over Egypt was "thus terminated". The British government announced that it would take all measures necessary for the defence of the country and the protection of its inhabitants.
 
 ## The end of a fiction
 
-Formally, Egypt had belonged to the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) since 1517. In the 19th century its rulers, the khedives of the Muhammad Ali dynasty, had won broad autonomy, but still recognised the sultan's suzerainty and paid him tribute. Since 1882 the country had been occupied by the British, and real power was exercised by the British agent and consul-general in Cairo. This arrangement was called the "veiled protectorate": London governed without taking formal responsibility for Egypt.
+Formally, Egypt had belonged to the [Ottoman Empire](/kraje/imperium-osmanskie) since 1517. In the 19th century its rulers, the khedives of the Muhammad Ali dynasty, had won broad autonomy, but still recognised the sultan's suzerainty and paid him tribute. Since 1882 the country had been occupied by the British, and real power was exercised by the British agent and consul-general in Cairo. This arrangement was called the "veiled protectorate": London governed without taking formal responsibility for Egypt.
 
 The war with Turkey made such an arrangement untenable. At the beginning of November General John Maxwell [introduced martial law in Egypt](/stan-wojenny-w-egipcie), and a few days later [Britain declared war on the Ottoman Empire](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji). Egypt, through which troop convoys from India and Australia passed, was nevertheless still legally part of an enemy state. Its ruler, Khedive [Abbas II Hilmi](https://pl.wikipedia.org/wiki/Abbas_II_Hilmi), had been in Constantinople since the summer and openly favoured the Turks.
 

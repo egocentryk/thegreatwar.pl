@@ -2,7 +2,7 @@
 title: Turkey declares war on Romania
 summary: On 30 August 1916 Turkey announced that, together with Germany and Bulgaria, it was declaring war on Romania. Enver Pasha was readying a corps for Dobruja.
 source: turcja-wypowiada-wojne-rumunii
-sourceHash: fc7de0806dfeea48a1236ae4831eff8f276f1113
+sourceHash: 268829b69df61349acc5487e85bf01ddd682d394
 brief:
   - "On 30 August 1916 the American chargé d'affaires in Constantinople reported that Turkey, together with Germany and Bulgaria, was declaring war on Romania. Other sources give 29 August or 1 September."
   - "Wallachia and Moldavia had been vassal principalities of the Ottoman Empire for several hundred years. In the first year of the war Romania closed the route across its territory to German military transports for Turkey."
@@ -10,7 +10,7 @@ brief:
   - "According to Altay Atlı, about 39,000 Turkish soldiers fought in Romania. The Turkish declaration closed the circle: within a few days all four Central Powers were at war with Romania."
 ---
 
-On 30 August 1916 at six in the evening the American chargé d'affaires in [Constantinople](https://pl.wikipedia.org/wiki/Stambuł), Hoffman Philip, sent a short dispatch to Washington. He reported that the day before the Ottoman Council of Ministers had adopted a resolution, then confirmed by decree of the Sultan, under which [Turkey](https://pl.wikipedia.org/wiki/Imperium_Osmańskie), together with Germany and Bulgaria, was declaring war on [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii). The government was headed by the Grand Vizier [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza), and the decree was signed by Sultan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V). Three days had passed since [Romania's declaration of war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom), and two since the [German declaration](/niemcy-wypowiadaja-wojne-rumunii).
+On 30 August 1916 at six in the evening the American chargé d'affaires in [Constantinople](https://pl.wikipedia.org/wiki/Stambuł), Hoffman Philip, sent a short dispatch to Washington. He reported that the day before the Ottoman Council of Ministers had adopted a resolution, then confirmed by decree of the Sultan, under which [Turkey](/kraje/imperium-osmanskie), together with Germany and Bulgaria, was declaring war on [Romania](/kraje/rumunia). The government was headed by the Grand Vizier [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza), and the decree was signed by Sultan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V). Three days had passed since [Romania's declaration of war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom), and two since the [German declaration](/niemcy-wypowiadaja-wojne-rumunii).
 
 That same day the Ottoman minister in Bucharest asked his American colleague, Charles Vopicka, for the United States to take over the protection of Turkish interests in Romania, as the German minister had done three days earlier. The Romanians did not wait for formalities. As early as 28 August notices were posted in the streets of the capital ordering all men aged 16 and over who were subjects of Germany, Austria-Hungary, Turkey and Bulgaria to report for designated trains and leave for an internment camp in the Ialomița district, near Călărași. Vopicka estimated that about 50,000 people ended up there. When the diplomats of the Central Powers left Bucharest on a special train, only two men remained in the Ottoman legation building: a clerk and a doorkeeper.
 

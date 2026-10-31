@@ -17,7 +17,7 @@ brief:
   - "Dla monarchii habsburskiej oznaczało to wojnę na dwóch frontach, z Serbią i z Rosją, do której jej armia nie była przygotowana."
 ---
 
-6 sierpnia 1914 roku ambasador [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) w [Petersburgu](https://pl.wikipedia.org/wiki/Petersburg), hrabia Friedrich Szápáry, wręczył rosyjskiemu ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](/postacie/siergiej-sazonow) wypowiedzenie wojny. Monarchia habsburska uzasadniała je wrogą postawą Rosji w konflikcie z Serbią oraz tym, że [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) znalazła się w stanie wojny z Niemcami, sojusznikiem Wiednia.
+6 sierpnia 1914 roku ambasador [Austro-Węgier](/kraje/austro-wegry) w [Petersburgu](https://pl.wikipedia.org/wiki/Petersburg), hrabia Friedrich Szápáry, wręczył rosyjskiemu ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](/postacie/siergiej-sazonow) wypowiedzenie wojny. Monarchia habsburska uzasadniała je wrogą postawą Rosji w konflikcie z Serbią oraz tym, że [Rosja](/kraje/rosja) znalazła się w stanie wojny z Niemcami, sojusznikiem Wiednia.
 
 ## Spóźniona deklaracja
 
@@ -29,7 +29,7 @@ Wypowiedzenie wojny oznaczało, że głównym frontem Austro-Węgier stała się
 
 ## Polski wymiar wojny
 
-Dla Polaków wojna austriacko-rosyjska miała szczególne znaczenie. Po raz pierwszy od rozbiorów dwa państwa zaborcze stanęły do walki przeciw sobie. Tego samego dnia, 6 sierpnia 1914 roku, [Pierwsza Kompania Kadrowa](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) utworzona przez [Józefa Piłsudskiego](/postacie/jozef-pilsudski) wyruszyła z Krakowa i przekroczyła granicę Królestwa Polskiego. Kilka tygodni później na bazie oddziałów strzeleckich powstały [Legiony Polskie](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), walczące u boku armii austro-węgierskiej.
+Dla Polaków wojna austriacko-rosyjska miała szczególne znaczenie. Po raz pierwszy od rozbiorów dwa państwa zaborcze stanęły do walki przeciw sobie. Tego samego dnia, 6 sierpnia 1914 roku, [Pierwsza Kompania Kadrowa](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) utworzona przez [Józefa Piłsudskiego](/postacie/jozef-pilsudski) wyruszyła z Krakowa i przekroczyła granicę Królestwa Polskiego. Kilka tygodni później na bazie oddziałów strzeleckich powstały [Legiony Polskie](/tematy/polskie-formacje-wojskowe), walczące u boku armii austro-węgierskiej.
 
 ## Znaczenie
 

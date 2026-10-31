@@ -2,10 +2,10 @@
 title: Balfour on the Ukrainian treaty
 summary: On 20 February 1918, says the British war chronicle, Balfour told the Polish National Committee that London rejected the Central Powers' peace with Ukraine.
 source: balfour-o-traktacie-ukrainskim
-sourceHash: 633fe95806c9b08c8c14c1c70a99bb3756c4dac3
+sourceHash: 47384f8199d8fdd479b68077d2adeda641bcef13
 ---
 
-On 20 February 1918 the British Foreign Secretary, [Arthur Balfour](/postacie/arthur-balfour), informed the [Polish National Committee](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) that Britain did not accept the treaty which the Central Powers had concluded at Brest-Litovsk with the Ukrainian People's Republic. This date and content are given by the British official chronology of the war, published in 1922. Some Polish works date this British statement to 18 February and summarise it briefly: "we do not recognise the Brest agreements". It was conveyed to representatives of the Committee, which had its seat in Paris. For the Poles it meant that Britain would also not recognise the transfer to Ukraine of lands they regarded as Polish, above all the Chełm Land.
+On 20 February 1918 the British Foreign Secretary, [Arthur Balfour](/postacie/arthur-balfour), informed the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego) that Britain did not accept the treaty which the Central Powers had concluded at Brest-Litovsk with the Ukrainian People's Republic. This date and content are given by the British official chronology of the war, published in 1922. Some Polish works date this British statement to 18 February and summarise it briefly: "we do not recognise the Brest agreements". It was conveyed to representatives of the Committee, which had its seat in Paris. For the Poles it meant that Britain would also not recognise the transfer to Ukraine of lands they regarded as Polish, above all the Chełm Land.
 
 ## The answer to the "fourth partition"
 

@@ -2,10 +2,10 @@
 title: Belgium proposes the neutralisation of the Congo Basin
 summary: On 9 August 1914 Belgium proposed that colonies in the free-trade zone of Central Africa should remain neutral. The proposal was not accepted.
 source: belgia-proponuje-neutralizacje-kotliny-konga
-sourceHash: f5622055f4e56699efcadd7420a97cfe3c7ea055
+sourceHash: 8b8c51ad17c15a54043f549de918477ae0e79056
 ---
 
-On 9 August 1914 the government of [Belgium](https://pl.wikipedia.org/wiki/Belgia) put forward a proposal to neutralise the African free-trade zone, the so-called conventional basin of the Congo. The aim was to keep the war being fought in Europe from spreading to the colonies in Central Africa, including the [Belgian Congo](https://pl.wikipedia.org/wiki/Kongo_Belgijskie).
+On 9 August 1914 the government of [Belgium](/kraje/belgia) put forward a proposal to neutralise the African free-trade zone, the so-called conventional basin of the Congo. The aim was to keep the war being fought in Europe from spreading to the colonies in Central Africa, including the [Belgian Congo](https://pl.wikipedia.org/wiki/Kongo_Belgijskie).
 
 ## The Berlin Act
 

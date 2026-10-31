@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 sierpnia 1914 roku rząd [Belgii](https://pl.wikipedia.org/wiki/Belgia), obradujący w [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), otrzymał notę, w której [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) oznajmiały, że uważają się za pozostające z Belgią w stanie wojny. Brytyjska kronika wojny datuje samo wypowiedzenie wojny na 22 sierpnia, o czym piszemy w artykule [Austro-Węgry wypowiadają wojnę Belgii](/austro-wegry-wypowiadaja-wojne-belgii). Dokumenty belgijskie wskazują jednak, że formalną notę przekazano właśnie 28 sierpnia.
+28 sierpnia 1914 roku rząd [Belgii](/kraje/belgia), obradujący w [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), otrzymał notę, w której [Austro-Węgry](/kraje/austro-wegry) oznajmiały, że uważają się za pozostające z Belgią w stanie wojny. Brytyjska kronika wojny datuje samo wypowiedzenie wojny na 22 sierpnia, o czym piszemy w artykule [Austro-Węgry wypowiadają wojnę Belgii](/austro-wegry-wypowiadaja-wojne-belgii). Dokumenty belgijskie wskazują jednak, że formalną notę przekazano właśnie 28 sierpnia.
 
 ## Telegram przez Hagę
 

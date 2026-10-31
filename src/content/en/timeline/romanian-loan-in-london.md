@@ -2,10 +2,10 @@
 title: Romanian loan in London
 summary: In January 1915 neutral Romania obtained a loan of £5 million in London. The money was to pay for weapons ordered from the Entente powers.
 source: rumunska-pozyczka-w-londynie
-sourceHash: 842257023c2e13f438a84f8cf2ac7ba75d208599
+sourceHash: 3790f13d70646ea658cc7aaaeb0fdf8b7d5815c5
 ---
 
-A British chronology of the war records under 11 January 1915 that the government of [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) had negotiated a loan of 5 million pounds sterling in Britain. According to Romanian economic historians, the loan, bearing interest at 5 per cent a year, was granted in January 1915 by the [Bank of England](https://pl.wikipedia.org/wiki/Bank_Anglii). The credit was secret, and Bucharest was to use it to pay for weapons and war materials ordered in Britain, France and Italy.
+A British chronology of the war records under 11 January 1915 that the government of [Romania](/kraje/rumunia) had negotiated a loan of 5 million pounds sterling in Britain. According to Romanian economic historians, the loan, bearing interest at 5 per cent a year, was granted in January 1915 by the [Bank of England](https://pl.wikipedia.org/wiki/Bank_Anglii). The credit was secret, and Bucharest was to use it to pay for weapons and war materials ordered in Britain, France and Italy.
 
 The loan took the form of Romanian Treasury bills, which were taken up by the Bank of England. The Bank's internal history of the war years lists in 1915, among the foreign Treasury bills in its portfolio, exactly £5 million in "Roumanian bills", alongside much larger Russian and Italian sums. In the summer of 1915 this debt, like part of the Russian obligations, was taken over from the Bank by the British Treasury.
 

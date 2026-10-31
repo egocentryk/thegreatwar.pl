@@ -6,17 +6,19 @@ Usage: python3 -I scripts/wiki-to-internal.py [--write] [--only slug,slug]
 A link `[text](https://pl.wikipedia.org/wiki/<Title>)` becomes
 `[text](/bitwy/<slug>)` when <Title> is one of our battle pages (its title
 with underscores, or an alias in ALIASES, where pl.wiki names a campaign
-differently), or `[text](/postacie/<slug>)` when <Title> is in a person
-page's `wikiTitles`, or `[text](/<slug>)` when <Title> is in EVENTS (a
-timeline article about the same event). Timeline articles, battle pages, topic guides and person
-pages are edited; the English file of the same page gets the same edit
-(English bodies keep the Polish link targets; the build maps them).
+differently), or `[text](/postacie/<slug>)`, `[text](/tematy/<slug>)`,
+`[text](/kraje/<slug>)` when <Title> is in the `wikiTitles` of a person
+page, a topic guide or a country page, or `[text](/<slug>)` when <Title> is
+in EVENTS (a timeline article about the same event). Timeline articles,
+battle pages, topic guides, country pages and person pages are edited; the
+English file of the same page gets the same edit (English bodies keep the
+Polish link targets; the build maps them).
 
 The workflow's link rules are kept (workflow.md §4, "Links"):
 - battles: only links to earlier content (a timeline article from the
   battle's start date on, a battle page whose own start is on or after the
   target's); guides and person pages are not dated and may link any battle;
-- people: no date rule (person pages are reference pages);
+- people, guides, countries: no date rule (reference pages);
 - events: only from content dated after the event (guides and person
   pages: always);
 - never the page itself, never a timeline article's own `battle`;
@@ -77,6 +79,15 @@ EVENTS = {
     "Traktat_ryski_(1921)": "pokoj-ryski",
     "Powstanie_kłajpedzkie": "powstanie-w-klajpedzie",
     "Komisja_Tymczasowa_Skonfederowanych_Stronnictw_Niepodległościowych": "powstaje-komisja-tymczasowa-skonfederowanych-stronnictw-niepodleglosciowych",
+    # The war (expansion-plan.md C, step 1): institutions and treaties whose
+    # founding or signing has an article of its own.
+    "Traktat_londyński_(1915)": "wlochy-podpisuja-pakt-londynski",
+    "Rada_Regencyjna": "powolanie-rady-regencyjnej",
+    "Rząd_Tymczasowy_Rosji": "powstanie-rzadu-tymczasowego",
+    "Komitet_Narodowy_Polski_(1917–1919)": "powstanie-komitetu-narodowego-polskiego",
+    "Rewolucja_lutowa_(1917)": "rewolucja-lutowa",
+    "Rewolucja_październikowa": "rewolucja-pazdziernikowa",
+    "Bajończycy": "polscy-ochotnicy-wstepuja-do-legii-cudzoziemskiej",
 }
 
 LINK = re.compile(r"\]\((https://pl\.wikipedia\.org/wiki/((?:[^()\s#]|\([^()\s]*\))+))\)")
@@ -106,12 +117,13 @@ def main():
     for title, slug in ALIASES.items():
         if slug in battles:
             targets[title] = ("bitwy", slug)
-    for f in glob.glob(f"{ROOT}/src/content/postacie/*.md"):
-        m = re.search(r"^wikiTitles:\s*\[(.*)\]", open(f, encoding="utf-8").read(), re.M)
-        for title in (m.group(1).split(",") if m else []):
-            title = title.strip().strip("\"'")
-            if title:
-                targets[title] = ("postacie", os.path.basename(f)[:-3])
+    for folder, prefix in (("postacie", "postacie"), ("topics", "tematy"), ("countries", "kraje")):
+        for f in glob.glob(f"{ROOT}/src/content/{folder}/*.md"):
+            m = re.search(r"^wikiTitles:\s*\[(.*)\]", open(f, encoding="utf-8").read(), re.M)
+            for title in (m.group(1).split(",") if m else []):
+                title = title.strip().strip("\"'")
+                if title:
+                    targets[title] = (prefix, os.path.basename(f)[:-3])
     events = {}  # slug -> date
     for f in glob.glob(f"{ROOT}/src/content/timeline/**/*.md", recursive=True):
         events[os.path.basename(f)[:-3]] = front(open(f, encoding="utf-8").read())["date"]
@@ -122,7 +134,7 @@ def main():
         targets = {t: v for t, v in targets.items() if v[1] in only}
 
     # Polish folder -> English folder.
-    EN_DIR = {"timeline": "timeline", "battles": "battles", "topics": "topics", "postacie": "people"}
+    EN_DIR = {"timeline": "timeline", "battles": "battles", "topics": "topics", "postacie": "people", "countries": "countries"}
     en_of = {}
     for f in glob.glob(f"{ROOT}/src/content/en/*/*.md"):
         src = front(open(f, encoding="utf-8").read()).get("source")
@@ -135,6 +147,7 @@ def main():
         + glob.glob(f"{ROOT}/src/content/battles/*/*.md")
         + glob.glob(f"{ROOT}/src/content/topics/*.md")
         + glob.glob(f"{ROOT}/src/content/postacie/*.md")
+        + glob.glob(f"{ROOT}/src/content/countries/*.md")
     )
     for f in sorted(files):
         text = open(f, encoding="utf-8").read()
@@ -149,7 +162,7 @@ def main():
                 continue
             prefix, target = targets[title]
             why = None
-            own = {"battles": "bitwy", "postacie": "postacie", "timeline": ""}.get(kind)
+            own = {"battles": "bitwy", "postacie": "postacie", "timeline": "", "topics": "tematy", "countries": "kraje"}.get(kind)
             href = f"/{prefix}/{target}" if prefix else f"/{target}"
             if own == prefix and target == slug:
                 why = "own page"

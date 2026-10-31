@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 29 stycznia 1915 roku, że rząd [Grecji](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)) odmówił interwencji na rzecz Serbii. Tak zakończyła się, przynajmniej na razie, próba wciągnięcia Greków do wojny, którą Londyn podjął pięć dni wcześniej, [obiecując im nabytki w Azji Mniejszej](/brytyjska-oferta-dla-grecji). Greckie dokumenty z tych dni nie wspominają o jednej, formalnej odmowie złożonej 29 stycznia. Wynika z nich raczej, że decyzja dojrzewała przez kilka dni, a o jej kształcie przesądziła [odpowiedź Rumunii](/rumunia-odmawia-wsparcia-serbii).
+Brytyjska chronologia wojny odnotowuje pod 29 stycznia 1915 roku, że rząd [Grecji](/kraje/grecja) odmówił interwencji na rzecz Serbii. Tak zakończyła się, przynajmniej na razie, próba wciągnięcia Greków do wojny, którą Londyn podjął pięć dni wcześniej, [obiecując im nabytki w Azji Mniejszej](/brytyjska-oferta-dla-grecji). Greckie dokumenty z tych dni nie wspominają o jednej, formalnej odmowie złożonej 29 stycznia. Wynika z nich raczej, że decyzja dojrzewała przez kilka dni, a o jej kształcie przesądziła [odpowiedź Rumunii](/rumunia-odmawia-wsparcia-serbii).
 
 ## Warunek króla
 

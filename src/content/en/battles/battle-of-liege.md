@@ -9,10 +9,10 @@ sides:
     commanders: [Gérard Leman]
 result: German victory. The last forts fell on 16 and 17 August.
 source: bitwa-pod-liege
-sourceHash: e1bba9e8d9aa3be675bef0c3ca33af17bc0b7855
+sourceHash: 59f91b865ea210e6200d5ecf24847481c8b6ac48
 ---
 
-The [Battle of Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) was the first major engagement on the Western Front. It began on 4 August 1914, the day of the German invasion of [Belgium](https://pl.wikipedia.org/wiki/Belgia), and lasted until 16–17 August, when the last Belgian forts fell.
+The [Battle of Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) was the first major engagement on the Western Front. It began on 4 August 1914, the day of the German invasion of [Belgium](/kraje/belgia), and lasted until 16–17 August, when the last Belgian forts fell.
 
 ## A fortress on the road to France
 

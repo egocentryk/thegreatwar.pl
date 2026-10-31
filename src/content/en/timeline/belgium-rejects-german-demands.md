@@ -2,10 +2,10 @@
 title: Belgium rejects German demands
 summary: On the morning of 3 August 1914 Belgium rejected the German ultimatum. It held that allowing troops to pass through would mean the loss of the nation's honour.
 source: belgia-odrzuca-niemieckie-zadania
-sourceHash: a3fb1a081928b99eeb4fe2b48f827934de9e36ae
+sourceHash: 013e39aebb6c1678604a79af62e1296e4e49ffb5
 ---
 
-At 7 a.m. on 3 August 1914, the moment the time limit expired, the Foreign Minister of [Belgium](https://pl.wikipedia.org/wiki/Belgia), Julien Davignon, handed the German Minister, Claus von Below-Saleske, the reply to the [ultimatum of the previous evening](/niemcy-stawiaja-belgii-ultimatum). It was a firm refusal. Belgium would not allow German troops to pass through and declared that it would repel every attack upon its rights.
+At 7 a.m. on 3 August 1914, the moment the time limit expired, the Foreign Minister of [Belgium](/kraje/belgia), Julien Davignon, handed the German Minister, Claus von Below-Saleske, the reply to the [ultimatum of the previous evening](/niemcy-stawiaja-belgii-ultimatum). It was a firm refusal. Belgium would not allow German troops to pass through and declared that it would repel every attack upon its rights.
 
 ## The night council
 

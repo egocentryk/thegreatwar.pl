@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-26 lipca 1914 roku rząd [Królestwa Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) zarządził [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) armii. Decyzja zapadła dzień po tym, jak [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) zerwały stosunki dyplomatyczne z [Serbią](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Małe górskie państwo ze stolicą w [Cetynii](https://pl.wikipedia.org/wiki/Cetynia) opowiedziało się w ten sposób po stronie swojego serbskiego sąsiada.
+26 lipca 1914 roku rząd [Królestwa Czarnogóry](/kraje/czarnogora) zarządził [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) armii. Decyzja zapadła dzień po tym, jak [Austro-Węgry](/kraje/austro-wegry) zerwały stosunki dyplomatyczne z [Serbią](/kraje/serbia). Małe górskie państwo ze stolicą w [Cetynii](https://pl.wikipedia.org/wiki/Cetynia) opowiedziało się w ten sposób po stronie swojego serbskiego sąsiada.
 
 Czarnogórę i Serbię łączyło wiele: wspólny język, prawosławie i poczucie przynależności do narodu serbskiego. Oba państwa walczyły razem w [Lidze Bałkańskiej](https://pl.wikipedia.org/wiki/Liga_Bałkańska) podczas wojen bałkańskich w latach 1912–1913. Łączyły je także więzy dynastyczne: król Serbii Piotr I był wdowcem po [Zorce](https://pl.wikipedia.org/wiki/Zorka_Czarnogórska), córce czarnogórskiego władcy, a regent Aleksander był jego wnukiem.
 

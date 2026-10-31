@@ -2,10 +2,10 @@
 title: April Crisis
 summary: On 3 May 1917 the papers published Milyukov's note on war to victory. Soldiers marched on the seat of government and Petrograd saw two days of demonstrations.
 source: kryzys-kwietniowy
-sourceHash: 598e6240da3915e99712abef1c6ceaaedd8ac0bb
+sourceHash: 0165e96efa85d776395762778fd71795cdcb4168
 ---
 
-On 3 May 1917 (20 April in the Julian calendar) the Petrograd newspapers printed the note that Foreign Minister [Pavel Milyukov](/postacie/pawiel-milukow) had sent to the Allied governments two days earlier. In it he gave assurances that the revolution had not weakened Russia's part in the common struggle and that the Russian people wished to carry the war on "to a decisive victory". In the barracks and factories this was read as a betrayal of the promises the government had made a month earlier. That same day armed units of the garrison marched on the seat of the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), demanding Milyukov's resignation. So began the April Crisis, named after the Julian date, the first great upheaval after the [February Revolution](/rewolucja-lutowa).
+On 3 May 1917 (20 April in the Julian calendar) the Petrograd newspapers printed the note that Foreign Minister [Pavel Milyukov](/postacie/pawiel-milukow) had sent to the Allied governments two days earlier. In it he gave assurances that the revolution had not weakened Russia's part in the common struggle and that the Russian people wished to carry the war on "to a decisive victory". In the barracks and factories this was read as a betrayal of the promises the government had made a month earlier. That same day armed units of the garrison marched on the seat of the [Provisional Government](/powstanie-rzadu-tymczasowego), demanding Milyukov's resignation. So began the April Crisis, named after the Julian date, the first great upheaval after the [February Revolution](/rewolucja-lutowa).
 
 ## The note of 1 May
 

@@ -2,10 +2,10 @@
 title: Great Britain issues an ultimatum to Germany
 summary: On 4 August 1914 London demanded that Germany respect Belgian neutrality by midnight. The chancellor called the treaty a "scrap of paper".
 source: wielka-brytania-stawia-niemcom-ultimatum
-sourceHash: f4a37e9afc29a685a05b2a5d060b10c7dee99dca
+sourceHash: 7fbfce8e11bbac6b50ebe0da9f9b2c6ceb2fa12b
 ---
 
-On 4 August 1914 the government of [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) twice demanded from [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) an assurance that it would respect the neutrality of [Belgium](https://pl.wikipedia.org/wiki/Belgia). The second telegram from the Foreign Secretary, [Edward Grey](/postacie/edward-grey), to the ambassador in Berlin, Sir Edward Goschen, was an ultimatum: a satisfactory reply was to arrive by midnight, failing which the ambassador was to ask for his passports.
+On 4 August 1914 the government of [Great Britain](/kraje/wielka-brytania) twice demanded from [Germany](/kraje/niemcy) an assurance that it would respect the neutrality of [Belgium](/kraje/belgia). The second telegram from the Foreign Secretary, [Edward Grey](/postacie/edward-grey), to the ambassador in Berlin, Sir Edward Goschen, was an ultimatum: a satisfactory reply was to arrive by midnight, failing which the ambassador was to ask for his passports.
 
 ## Two telegrams
 

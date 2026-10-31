@@ -2,10 +2,10 @@
 title: German memorandum on armed merchant ships
 summary: On 10 February 1916 Berlin told the neutrals in a memorandum that from the end of February armed enemy merchant ships would be treated as warships.
 source: niemiecka-nota-o-uzbrojonych-statkach-handlowych
-sourceHash: 215eb2e6ab561045073aff9ce6d8fc01c928af95
+sourceHash: 21fb33734ce0d7cd2156fda26aaceb2dafed870b
 ---
 
-On 10 February 1916 the German Foreign Office handed the United States embassy in Berlin a memorandum from the Reich government on the treatment of armed merchant ships. The document was dated 8 February, and its contents reached the press and the governments of other neutral states the same day. The conclusion was brief: Entente merchant ships armed with guns were no longer entitled to be treated as peaceful merchant vessels, and the German naval forces would be ordered to regard them as belligerents, in practice as warships. Berlin called on the neutral states to warn their citizens against travelling or shipping goods on such vessels. A note attached to the memorandum stipulated that, out of consideration for neutrals already sailing on armed ships, the orders would come into force only on 29 February. The British chronology of the war gives 1 March. On the same day [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) sent a similar circular note to the neutral states.
+On 10 February 1916 the German Foreign Office handed the United States embassy in Berlin a memorandum from the Reich government on the treatment of armed merchant ships. The document was dated 8 February, and its contents reached the press and the governments of other neutral states the same day. The conclusion was brief: Entente merchant ships armed with guns were no longer entitled to be treated as peaceful merchant vessels, and the German naval forces would be ordered to regard them as belligerents, in practice as warships. Berlin called on the neutral states to warn their citizens against travelling or shipping goods on such vessels. A note attached to the memorandum stipulated that, out of consideration for neutrals already sailing on armed ships, the orders would come into force only on 29 February. The British chronology of the war gives 1 March. On the same day [Austria-Hungary](/kraje/austro-wegry) sent a similar circular note to the neutral states.
 
 ## Berlin's arguments
 

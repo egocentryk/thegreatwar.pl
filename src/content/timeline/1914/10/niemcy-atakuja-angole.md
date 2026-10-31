@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 26 października 1914 roku niemiecki atak na [Angolę](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Zachodnia), kolonię [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), która nie brała jeszcze udziału w wojnie. Zapis ten obejmuje ciąg wydarzeń z drugiej połowy października. Według portugalskich badań niemieckie władze w [Niemieckiej Afryce Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) postanowiły 25 października zbrojnie odpowiedzieć na śmierć swoich ludzi pod Naulilą. Pierwsze uderzenie, na posterunek w Cuangar, nastąpiło jednak dopiero 31 października.
+Brytyjska chronologia wojny notuje pod datą 26 października 1914 roku niemiecki atak na [Angolę](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Zachodnia), kolonię [Portugalii](/kraje/portugalia), która nie brała jeszcze udziału w wojnie. Zapis ten obejmuje ciąg wydarzeń z drugiej połowy października. Według portugalskich badań niemieckie władze w [Niemieckiej Afryce Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) postanowiły 25 października zbrojnie odpowiedzieć na śmierć swoich ludzi pod Naulilą. Pierwsze uderzenie, na posterunek w Cuangar, nastąpiło jednak dopiero 31 października.
 
 ## Neutralna, ale nie bezstronna
 

@@ -2,14 +2,14 @@
 title: Austro-Hungarian cruiser Zenta sunk
 summary: On 16 August 1914 an Allied fleet surprised the Austro-Hungarian cruiser Zenta off the coast of Montenegro and sank her. 173 sailors were killed.
 source: zatopienie-krazownika-zenta
-sourceHash: 23e1b27ba690ec0be113ee05cdb554db0c22ff57
+sourceHash: 755aab1b40c91de2d9b57ac043192398ad42a706
 ---
 
 On 16 August 1914, in the southern Adriatic off the coast of Montenegro, a combined Franco-British fleet surprised the Austro-Hungarian cruiser [SMS Zenta](https://pl.wikipedia.org/wiki/SMS_Zenta) and sank her. It was the first naval battle in the Adriatic of the war, known as the action off Antivari, today's [Bar](https://pl.wikipedia.org/wiki/Bar_(Czarnogóra)).
 
 ## The blockade of Montenegro
 
-Zenta, an older protected cruiser, together with the destroyer Ulan, was blockading the coast of [Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) and shelling the port of Antivari. Montenegro had been at war with Austria-Hungary for several days, and its coast was an easy target for the Austro-Hungarian fleet from its nearby base in the Bay of Kotor.
+Zenta, an older protected cruiser, together with the destroyer Ulan, was blockading the coast of [Montenegro](/kraje/czarnogora) and shelling the port of Antivari. Montenegro had been at war with Austria-Hungary for several days, and its coast was an easy target for the Austro-Hungarian fleet from its nearby base in the Bay of Kotor.
 
 The day before, at the entrance to the Adriatic, the French and British squadrons had joined forces under the command of the French admiral Boué de Lapeyrère. On the morning of 16 August the Allied fleet, led by modern battleships, sailed deep into the Adriatic and came upon the two Austro-Hungarian ships.
 

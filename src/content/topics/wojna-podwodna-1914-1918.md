@@ -10,6 +10,7 @@ brief:
   - "Niemcy straciły od 202 do 217 okrętów podwodnych i około 5 tysięcy marynarzy, a po rozejmie musiały wydać aliantom wszystkie U-Booty zdolne do pływania."
 order: 7
 updated: 2026-10-29
+wikiTitles: ["Wojna_podwodna_w_latach_1914–1918"]
 authors: [Łukasz Skowroń]
 sources:
   - "https://archive.org/details/seabornetrade03char"

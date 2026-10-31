@@ -2,7 +2,7 @@
 title: Austria-Hungary launches a counter-offensive in Galicia
 summary: In early October 1914 the Austro-Hungarian armies advanced east from the Dunajec. They drove the Russians behind the San and relieved Przemyśl, then stalled.
 source: kontrofensywa-austro-wegier-w-galicji
-sourceHash: 96287c7a105e8482d44eeb62814d05c4eb79b4fc
+sourceHash: 31afe235d7d45e4c7cc6557c57795e8fbabc743f
 ---
 
 At the beginning of October 1914 the Austro-Hungarian armies, which after their defeat in the [Battle of Galicia](/bitwy/bitwa-galicyjska) [had halted on the Dunajec and the Biała](/koniec-odwrotu-austro-wegier-w-galicji), went over to the counter-offensive. They advanced east to recover the lost lands of Galicia and to relieve the besieged fortress of Przemyśl. The British chronology of the war gives 4 October as the start of the attack; Austrian studies say the troops set out as early as 1 October.
@@ -25,7 +25,7 @@ On the San the offensive stalled. The Russians dug in on the eastern bank of the
 
 ## The legionnaires
 
-Units of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) took part in the counter-offensive. [Józef Piłsudski's](/postacie/jozef-pilsudski) units, operating alongside Dankl's army, got as far as Dęblin and on 22–26 October fought the hard [Battle of Laski and Anielin](https://pl.wikipedia.org/wiki/Bitwa_pod_Laskami_i_Anielinem). A second group of legionnaires, the future II Brigade, was fighting at the same time in the Eastern Carpathians.
+Units of the [Polish Legions](/tematy/polskie-formacje-wojskowe) took part in the counter-offensive. [Józef Piłsudski's](/postacie/jozef-pilsudski) units, operating alongside Dankl's army, got as far as Dęblin and on 22–26 October fought the hard [Battle of Laski and Anielin](https://pl.wikipedia.org/wiki/Bitwa_pod_Laskami_i_Anielinem). A second group of legionnaires, the future II Brigade, was fighting at the same time in the Eastern Carpathians.
 
 ## Failure
 

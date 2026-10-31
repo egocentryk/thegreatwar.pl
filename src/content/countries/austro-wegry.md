@@ -13,6 +13,7 @@ entered: 1914-07-28
 left: 1918-11-04
 order: 2
 updated: 2026-10-30
+wikiTitles: ["Austro-Węgry"]
 authors: [Natalia]
 sources:
   - "https://encyclopedia.1914-1918-online.net/article/austria-hungary/"
@@ -59,7 +60,7 @@ Narody monarchii coraz wyraźniej szukały własnej drogi. W kwietniu 1918 roku 
 
 ## Polacy w monarchii Habsburgów
 
-Za panowania Franciszka Józefa Galicja uzyskała szeroką autonomię, a Polacy zajmowali najwyższe urzędy w państwie. W czasie wojny pod opieką monarchii powstały [Legiony Polskie](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), a Galicja stała się polem ciężkich walk i rosyjskiej okupacji. W lutym 1918 roku państwa centralne zawarły [pokój z Ukraińską Republiką Ludową](/pokoj-brzeski-z-ukraina) i obiecały jej Chełmszczyznę, co wzburzyło Polaków. II Brygada Legionów pułkownika [Józefa Hallera](/postacie/jozef-haller) [przebiła się pod Rarańczą](/bitwa-pod-rarancza) przez front austriacki, a Koło Polskie [obaliło rząd Ernsta Seidlera](/dymisja-seidlera).
+Za panowania Franciszka Józefa Galicja uzyskała szeroką autonomię, a Polacy zajmowali najwyższe urzędy w państwie. W czasie wojny pod opieką monarchii powstały [Legiony Polskie](/tematy/polskie-formacje-wojskowe), a Galicja stała się polem ciężkich walk i rosyjskiej okupacji. W lutym 1918 roku państwa centralne zawarły [pokój z Ukraińską Republiką Ludową](/pokoj-brzeski-z-ukraina) i obiecały jej Chełmszczyznę, co wzburzyło Polaków. II Brygada Legionów pułkownika [Józefa Hallera](/postacie/jozef-haller) [przebiła się pod Rarańczą](/bitwa-pod-rarancza) przez front austriacki, a Koło Polskie [obaliło rząd Ernsta Seidlera](/dymisja-seidlera).
 
 W armii austro-węgierskiej zginęło według szacunku Andrzeja Wrzoska ponad 220 tysięcy Polaków. 31 października 1918 roku polscy żołnierze bez jednego strzału [rozbroili garnizon Krakowa](/wyzwolenie-krakowa), a 1 listopada we Lwowie polscy ochotnicy podjęli [walkę z Ukraińcami](/bitwy/obrona-lwowa-1918).
 

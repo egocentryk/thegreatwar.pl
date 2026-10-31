@@ -2,10 +2,10 @@
 title: Allied declaration on the Armenian massacres
 summary: On 24 May 1915 France, Britain and Russia called the massacres of Armenians crimes "against humanity" and threatened Ottoman ministers with punishment.
 source: deklaracja-ententy-w-sprawie-rzezi-ormian
-sourceHash: ca91c4c8ee6b340e9ed232117c8528df786394c7
+sourceHash: 2660999543f7cde305de1ff3c7a57cadc068bbd8
 ---
 
-On 24 May 1915 the governments of France, Great Britain and Russia issued a joint declaration on the killing of Armenians in the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). In it they announced that all members of the Ottoman government and those of their agents who had taken part in the massacres would be held personally responsible for these crimes. The text was published in Paris, and that same day it was reprinted by, among others, [The New York Times](https://pl.wikipedia.org/wiki/The_New_York_Times) under the headline "Allies to punish Turks who murder". The declaration is regarded as the first official diplomatic document in which the concept of crimes against humanity appeared.
+On 24 May 1915 the governments of France, Great Britain and Russia issued a joint declaration on the killing of Armenians in the [Ottoman Empire](/kraje/imperium-osmanskie). In it they announced that all members of the Ottoman government and those of their agents who had taken part in the massacres would be held personally responsible for these crimes. The text was published in Paris, and that same day it was reprinted by, among others, [The New York Times](https://pl.wikipedia.org/wiki/The_New_York_Times) under the headline "Allies to punish Turks who murder". The declaration is regarded as the first official diplomatic document in which the concept of crimes against humanity appeared.
 
 ## The text of the declaration
 
@@ -23,4 +23,4 @@ The British Foreign Secretary, [Edward Grey](/postacie/edward-grey), and his Fre
 
 The change of a single word proved momentous. Lawyers and historians regard the declaration of 24 May 1915 as the first official international use of the concept of [crimes against humanity](https://pl.wikipedia.org/wiki/Zbrodnia_przeciwko_ludzkości). The wording was new in diplomacy, although the law of war had earlier known references to the "laws of humanity". The declaration also introduced the principle of the personal responsibility of a state's leaders for crimes against their own citizens. After the war it was invoked when the victors demanded the punishment of those responsible, and in 1945 the concept of crimes against humanity entered the charter of the Nuremberg tribunal.
 
-The warning made no impression on the rulers in Constantinople. A few days later the Ottoman authorities issued a temporary deportation law, which gave a semblance of legality to the expulsions carried out since [the beginning of April](/poczatek-deportacji-ormian). By the summer they had engulfed almost the entire Armenian population of Anatolia. The declaration did not stop the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), and the promise to punish the guilty was fulfilled only to a small extent.
+The warning made no impression on the rulers in Constantinople. A few days later the Ottoman authorities issued a temporary deportation law, which gave a semblance of legality to the expulsions carried out since [the beginning of April](/poczatek-deportacji-ormian). By the summer they had engulfed almost the entire Armenian population of Anatolia. The declaration did not stop the [Armenian genocide](/tematy/ludobojstwo-ormian), and the promise to punish the guilty was fulfilled only to a small extent.

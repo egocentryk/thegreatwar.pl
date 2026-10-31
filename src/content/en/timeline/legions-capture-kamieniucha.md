@@ -2,10 +2,10 @@
 title: Legions capture Kamieniucha
 summary: On 27 October 1915 the 6th Regiment of the Legions and German grenadiers took Kamieniucha in Volhynia in a night attack, capturing over 400 prisoners.
 source: legiony-zdobywaja-kamieniuche
-sourceHash: f5740d0e58f6f9683ee5fd6e6565967b015d482b
+sourceHash: bcf3c96e5075b24ce2c7fc502c83b36a301fff8b
 ---
 
-On the night of 27 October 1915 the 3rd Battalion of the [6th Infantry Regiment](https://pl.wikipedia.org/wiki/6_Pułk_Piechoty_(LP)) of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) crept up to the Russian trenches in front of the village of [Kamieniucha](https://pl.wikipedia.org/wiki/Kamienucha) in Volhynia and, together with German grenadiers, charged with the bayonet. The enemy lines were broken, and after fierce hand-to-hand fighting the village was in the hands of the legionaries, who took more than 400 prisoners. For the young regiment, formed that summer, it was one of the bloodiest battles of its whole combat record.
+On the night of 27 October 1915 the 3rd Battalion of the [6th Infantry Regiment](https://pl.wikipedia.org/wiki/6_Pułk_Piechoty_(LP)) of the [Polish Legions](/tematy/polskie-formacje-wojskowe) crept up to the Russian trenches in front of the village of [Kamieniucha](https://pl.wikipedia.org/wiki/Kamienucha) in Volhynia and, together with German grenadiers, charged with the bayonet. The enemy lines were broken, and after fierce hand-to-hand fighting the village was in the hands of the legionaries, who took more than 400 prisoners. For the young regiment, formed that summer, it was one of the bloodiest battles of its whole combat record.
 
 ## After the capture of Kukle
 

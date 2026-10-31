@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 15 stycznia 1915 roku, że ogłoszono istnienie tajnego porozumienia o wzajemnym wsparciu między Włochami a [Rumunią](https://pl.wikipedia.org/wiki/Królestwo_Rumunii). Tajne porozumienie obu państw rzeczywiście istniało, i to od września 1914 roku, choć dotyczyło wtedy jeszcze nie wzajemnej pomocy, lecz wspólnej polityki neutralności. Zobowiązanie do wzajemnego wsparcia zawarto dopiero kilka tygodni później, w lutym 1915 roku. Nie udało się ustalić, jakie dokładnie ogłoszenie ma na myśli chronologia. Oba rządy zobowiązały się zachować w ścisłej tajemnicy zarówno treść, jak i samo istnienie układów. Wpis z 15 stycznia odnosi się więc zapewne do prasowych lub dyplomatycznych doniesień o zbliżeniu Rzymu i Bukaresztu, które właśnie wtedy rozpoczynały rozmowy o rozszerzeniu współpracy.
+Brytyjska chronologia wojny odnotowuje pod 15 stycznia 1915 roku, że ogłoszono istnienie tajnego porozumienia o wzajemnym wsparciu między Włochami a [Rumunią](/kraje/rumunia). Tajne porozumienie obu państw rzeczywiście istniało, i to od września 1914 roku, choć dotyczyło wtedy jeszcze nie wzajemnej pomocy, lecz wspólnej polityki neutralności. Zobowiązanie do wzajemnego wsparcia zawarto dopiero kilka tygodni później, w lutym 1915 roku. Nie udało się ustalić, jakie dokładnie ogłoszenie ma na myśli chronologia. Oba rządy zobowiązały się zachować w ścisłej tajemnicy zarówno treść, jak i samo istnienie układów. Wpis z 15 stycznia odnosi się więc zapewne do prasowych lub dyplomatycznych doniesień o zbliżeniu Rzymu i Bukaresztu, które właśnie wtedy rozpoczynały rozmowy o rozszerzeniu współpracy.
 
 ## Dwa neutralne państwa
 

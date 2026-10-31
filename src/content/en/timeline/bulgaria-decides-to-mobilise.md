@@ -2,10 +2,10 @@
 title: Bulgaria decides to mobilise
 summary: On 21 September 1915 Radoslavov's government decided to mobilise the army. The British chronology speaks of partial mobilisation, but the decree was general.
 source: bulgaria-postanawia-oglosic-mobilizacje
-sourceHash: ca079c0943254d8f0365ae341070db9e2df311a5
+sourceHash: f259d8d42f20e393e9e3ad7f0a7a1601d1bd84dd
 ---
 
-On 21 September 1915, or 8 September by the Julian calendar then used in Bulgaria, the government of [Vasil Radoslavov](/postacie/wasil-radoslawow) decided to mobilise the army. The British chronology of the war records under this date that [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) ordered a partial mobilisation, and a general one the next day. Bulgarian historians, however, know of no separate decree on partial mobilisation. According to them, the government's decision was taken on 21 September, and the tsar signed the decree on general mobilisation late in the evening of the following day.
+On 21 September 1915, or 8 September by the Julian calendar then used in Bulgaria, the government of [Vasil Radoslavov](/postacie/wasil-radoslawow) decided to mobilise the army. The British chronology of the war records under this date that [Bulgaria](/kraje/bulgaria) ordered a partial mobilisation, and a general one the next day. Bulgarian historians, however, know of no separate decree on partial mobilisation. According to them, the government's decision was taken on 21 September, and the tsar signed the decree on general mobilisation late in the evening of the following day.
 
 The decision followed from the agreements that Bulgaria had [concluded in secret with Germany two weeks earlier](/traktat-sojuszniczy-w-sofii). The military convention obliged it to attack Serbia together with Germany and Austria-Hungary, and for that the army had to be put on a war footing. Mobilisation was also a condition of the Turkish concessions on the [Maritsa](https://pl.wikipedia.org/wiki/Marica). Matters proceeded in the strictest secrecy. Until the last moment not even the Bulgarian general staff knew the purpose of Colonel Petar Ganchev's mission to Germany, and it now had to prepare the mobilisation in haste.
 

@@ -2,7 +2,7 @@
 title: Britain introduces conscription
 summary: On 27 January 1916 the Military Service Act received royal assent. Unmarried men in Great Britain aged 18 to 41 became liable for conscription.
 source: wielka-brytania-wprowadza-pobor
-sourceHash: 0274f334846c829c37dd5ab4dde354b82ee6f4c3
+sourceHash: 99d5dd84012902c5b63012061153e765c945e3cb
 brief:
   - "On 27 January 1916 the Military Service Act received royal assent. Britain, which had so far fought the war with an army of volunteers, introduced conscription."
   - "The Act covered single men and childless widowers aged 18 to 41 who had not come forward under the Derby Scheme. It fulfilled Asquith's promise that married men would not be called up before single men."
@@ -31,7 +31,7 @@ Recognising conscientious objection as a ground for exemption was a novelty. Asq
 
 ## Without Ireland
 
-The Act did not cover [Ireland](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), although it was part of the [United Kingdom](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii). The government judged that an attempt to impose conscription there would cost more than it would bring, and the Irish nationalists withdrew their opposition in Parliament precisely because their country had been excluded. When in 1918 the government tried to extend conscription to Ireland, it provoked a severe crisis there.
+The Act did not cover [Ireland](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), although it was part of the [United Kingdom](/kraje/wielka-brytania). The government judged that an attempt to impose conscription there would cost more than it would bring, and the Irish nationalists withdrew their opposition in Parliament precisely because their country had been excluded. When in 1918 the government tried to extend conscription to Ireland, it provoked a severe crisis there.
 
 Resistance in Britain was weaker than had been feared. The day before royal assent, the Labour Party conference in [Bristol](https://pl.wikipedia.org/wiki/Bristol) condemned conscription and the Act itself by a large majority, but by a narrow margin decided not to demand its repeal. The party remained in the coalition government.
 

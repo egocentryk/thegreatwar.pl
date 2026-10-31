@@ -2,10 +2,10 @@
 title: Turkey breaks off relations with Belgium
 summary: On 6 November 1914 the Ottoman Empire broke off diplomatic relations with Belgium. The Belgian minister left Constantinople, but no war was declared.
 source: turcja-zrywa-stosunki-z-belgia
-sourceHash: cdd67af172474b6dac7752ae5378531a50dddc38
+sourceHash: 36d5cdef54764a9455fc75ed853d5ffb88cba303
 ---
 
-On 6 November 1914, the day after [Britain and France declared war on Turkey](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), diplomatic relations between the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) and [Belgium](https://pl.wikipedia.org/wiki/Belgia) were broken off. Belgium, almost entirely occupied by the Germans, with its government [moved to Le Havre](/rzad-belgijski-w-hawrze), was losing yet another diplomatic post in a state allied with Germany.
+On 6 November 1914, the day after [Britain and France declared war on Turkey](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), diplomatic relations between the [Ottoman Empire](/kraje/imperium-osmanskie) and [Belgium](/kraje/belgia) were broken off. Belgium, almost entirely occupied by the Germans, with its government [moved to Le Havre](/rzad-belgijski-w-hawrze), was losing yet another diplomatic post in a state allied with Germany.
 
 The Belgian legation in Constantinople was headed by Baron Guillaume. As early as September he wrote to his government that the German ambassador was "all-powerful" in Constantinople and that Ottoman ministers quite often met for consultations at his house. He described how the Germans were trying to push the Turks into a rash step that would provoke war with the Entente. He also announced that if he received his passports, he would entrust the care of Belgians living in Turkey to the ambassador of the neutral United States.
 

@@ -2,14 +2,14 @@
 title: Bernardino Machado's government resigns
 summary: In December 1914 Bernardino Machado's government fell. The non-party cabinet did not survive republican quarrels over elections and Portugal's role in the war.
 source: dymisja-rzadu-bernardina-machado
-sourceHash: 5d7dbfede47225e352a921ba924e459c87824262
+sourceHash: cf5f2c19a9285be1fdb041fcf6e6adcef5f2c6ca
 ---
 
 A British chronology of the war records under 11 December 1914 the resignation of the Portuguese prime minister, Dr Bernardino Machado Guimarães, and adds that he had been in office since 23 June. Both dates need explaining. [Bernardino Machado](https://pl.wikipedia.org/wiki/Bernardino_Machado) had headed the government since 9 February 1914, and on 23 June he merely reshuffled his cabinet, which is why some works speak of two governments of his. According to Portuguese historians he had already asked to resign on 4 December. His cabinet nevertheless remained in power until 12 December, when a new government replaced it.
 
 ## A government of conciliation
 
-Machado, a Coimbra professor and a former minister under the monarchy, had returned to Lisbon in 1914 from his post as minister in Rio de Janeiro. President Manuel de Arriaga entrusted him with the task of calming the political life of the [First Republic](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), shaken by the struggle between the radical Democratic Party of [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa) and the moderate republicans. Machado formed a non-party cabinet in which a few Democrats sat alongside non-party experts. The government proclaimed an amnesty covering more than two thousand prisoners and émigrés, mostly monarchists. In June the Democratic ministers left, and Machado filled the cabinet with people of no party affiliation.
+Machado, a Coimbra professor and a former minister under the monarchy, had returned to Lisbon in 1914 from his post as minister in Rio de Janeiro. President Manuel de Arriaga entrusted him with the task of calming the political life of the [First Republic](/kraje/portugalia), shaken by the struggle between the radical Democratic Party of [Afonso Costa](https://pl.wikipedia.org/wiki/Afonso_Costa) and the moderate republicans. Machado formed a non-party cabinet in which a few Democrats sat alongside non-party experts. The government proclaimed an amnesty covering more than two thousand prisoners and émigrés, mostly monarchists. In June the Democratic ministers left, and Machado filled the cabinet with people of no party affiliation.
 
 This conciliatory manner was mocked. The writer Raul Brandão recalled that the prime minister promised everything to everyone and that his courtesy wore out his colleagues. Guerra Junqueiro said that Machado was made not of iron but of rubber: you could run a steamroller over him and he would get straight up and raise his hat.
 

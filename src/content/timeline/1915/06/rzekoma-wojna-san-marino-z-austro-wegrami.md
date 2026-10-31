@@ -14,7 +14,7 @@ Brytyjska chronologia wojny notuje pod 3 czerwca 1915 roku, że [San Marino](htt
 
 ## Enklawa obok wojującego sąsiada
 
-San Marino, położone na stokach [Monte Titano](https://pl.wikipedia.org/wiki/Monte_Titano) niedaleko [Rimini](https://pl.wikipedia.org/wiki/Rimini), liczyło wtedy około 10 tysięcy mieszkańców i ze wszystkich stron otaczało je [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)). Niepodległość republiki potwierdził układ z Włochami z 1862 roku, zmieniony w 1872 roku. Jej gospodarka była całkowicie zależna od sąsiada, który na mocy konwencji z lutego 1914 roku wypłacał jej rocznie 360 tysięcy lirów.
+San Marino, położone na stokach [Monte Titano](https://pl.wikipedia.org/wiki/Monte_Titano) niedaleko [Rimini](https://pl.wikipedia.org/wiki/Rimini), liczyło wtedy około 10 tysięcy mieszkańców i ze wszystkich stron otaczało je [Królestwo Włoch](/kraje/wlochy). Niepodległość republiki potwierdził układ z Włochami z 1862 roku, zmieniony w 1872 roku. Jej gospodarka była całkowicie zależna od sąsiada, który na mocy konwencji z lutego 1914 roku wypłacał jej rocznie 360 tysięcy lirów.
 
 Gdy Włochy szykowały się do wojny, Rzym zaczął patrzeć na neutralnego sąsiada podejrzliwie. Na początku 1915 roku włoski rząd zarzucił władzom republiki, że na szczycie Monte Titano działa stacja radiotelegraficzna, którą mogliby wykorzystać austriaccy szpiedzy. Według sanmaryńskiego historyka Vertera Casalego stację rok wcześniej zbudował dla własnej przyjemności miejscowy profesor Borbiconi i rozebrał ją, gdy zorientował się, jakie budzi obawy. Włochy bały się też, że w republice będą się chronić dezerterzy i uchylający się od poboru, a włoscy chłopi zaczną tam ukrywać konie i wozy przed wojskowymi rekwizycjami.
 

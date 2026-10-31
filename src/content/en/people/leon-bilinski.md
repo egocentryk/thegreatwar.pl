@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Zaleszczyki (Galicia, Austrian Empire)
 deathPlace: Vienna
 source: leon-bilinski
-sourceHash: 470e0cefa956c6c9c0b2425027f523af2d95b214
+sourceHash: 593d883d5746eb8c4cf2bb301243dff4d54b970f
 ---
 
-Leon Biliński was one of the Poles who rose highest in the Habsburg monarchy. A professor of economics from Lviv, twice Austrian finance minister and governor of the Austro-Hungarian Bank, in July 1914 he sat as joint finance minister among the men who decided on war with Serbia. As head of the joint finance ministry he also exercised supreme oversight over the administration of Bosnia and Herzegovina, where the heir to the throne was killed on 28 June. During the war he returned to Polish politics: he helped create the political base of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), led the [Polish Club](https://pl.wikipedia.org/wiki/Koło_Polskie_w_Radzie_Państwa_(Austria)) in the Vienna parliament and headed the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) in the last phase of its existence. He belonged to the Austro-Polish camp to the end, and in independent Poland he spent several months of 1919 putting its finances in order.
+Leon Biliński was one of the Poles who rose highest in the Habsburg monarchy. A professor of economics from Lviv, twice Austrian finance minister and governor of the Austro-Hungarian Bank, in July 1914 he sat as joint finance minister among the men who decided on war with Serbia. As head of the joint finance ministry he also exercised supreme oversight over the administration of Bosnia and Herzegovina, where the heir to the throne was killed on 28 June. During the war he returned to Polish politics: he helped create the political base of the [Polish Legions](/tematy/polskie-formacje-wojskowe), led the [Polish Club](https://pl.wikipedia.org/wiki/Koło_Polskie_w_Radzie_Państwa_(Austria)) in the Vienna parliament and headed the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) in the last phase of its existence. He belonged to the Austro-Polish camp to the end, and in independent Poland he spent several months of 1919 putting its finances in order.
 
 ## Before the war
 

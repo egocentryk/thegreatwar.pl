@@ -9,7 +9,7 @@ brief:
   - "The war brought Japan an economic boom and soaring prices, which in the summer of 1918 set off the rice riots and brought down the Terauchi government."
   - "At the peace conference Japan sat among the victorious great powers, kept the German rights in Shandong and received the islands as a League of Nations mandate."
 source: japonia
-sourceHash: f417e693b34e822634dc0ac2f3402fad0bee7c80
+sourceHash: 7074def6c267fff6345ecaf6e763d1a89ee358d2
 ---
 
 Japan entered the war on 23 August 1914 as Britain's ally, but it fought above all for its own aims in Asia. By November 1914 it had taken the German fortress of Tsingtao in China and the German islands in the Pacific north of the equator. It sent no troops to Europe, but its warships escorted Allied convoys. It used the war to strengthen its position in China, and ended it among the victorious great powers at the peace conference in Paris.

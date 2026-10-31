@@ -9,7 +9,7 @@ brief:
   - "On 9 April 1918 the German attack on the Lys shattered the Portuguese 2nd Division, while Lettow-Vorbeck fought in Mozambique for ten months."
   - "The war divided the country: in December 1917 power was seized by Sidónio Pais, an opponent of taking part in the war, who was killed a year later."
 source: portugalia
-sourceHash: 345fa153fd143aa4b90978644d288cf99a86da99
+sourceHash: 38fe9e3218c1d6717574a3ded6ce5fb5f56e0909
 ---
 
 Portugal, England's ally since the fourteenth century, fought the Germans in its African colonies from 1914, but it was formally at war only from 9 March 1916, when, after the seizure of German ships, Germany declared war on it. The republican government sent an expeditionary corps to the Western Front, which was shattered in the Battle of the Lys on 9 April 1918, while in Mozambique the Portuguese suffered painful defeats at the hands of Lettow-Vorbeck's forces. The war, which was meant to strengthen the young republic, divided the country and greatly weakened it.

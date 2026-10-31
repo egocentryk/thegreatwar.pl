@@ -2,10 +2,10 @@
 title: Decree creating the Polish Army in France
 summary: On 4 June 1917 President Poincaré signed a decree creating in France an autonomous Polish army, fighting under the Polish flag.
 source: dekret-o-utworzeniu-armii-polskiej-we-francji
-sourceHash: 774ac086e6aa0dcfc4b276170c0b131fa00fda2f
+sourceHash: 04ce002f2f44912fbd56f72bf05e118e2884e1d8
 ---
 
-On 4 June 1917 the President of France, [Raymond Poincaré](/postacie/raymond-poincare), signed in Paris a decree whose first article read: "There is created in France, for the duration of the war, an autonomous Polish army, subordinate to the orders of the French high command and fighting under the Polish flag." The decree was countersigned by the prime minister and foreign minister, [Alexandre Ribot](/postacie/alexandre-ribot), and the minister of war, [Paul Painlevé](/postacie/paul-painleve), and the next day, 5 June, it was published in the Republic's official gazette. For the first time since the beginning of the war one of the Entente powers had agreed to the creation of a Polish army as a separate armed force, rather than a handful of volunteers scattered in foreign regiments. Thus was born the [Polish Army in France](https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji), later called the Blue Army after the colour of its uniforms, and Haller's Army after the name of its last commander.
+On 4 June 1917 the President of France, [Raymond Poincaré](/postacie/raymond-poincare), signed in Paris a decree whose first article read: "There is created in France, for the duration of the war, an autonomous Polish army, subordinate to the orders of the French high command and fighting under the Polish flag." The decree was countersigned by the prime minister and foreign minister, [Alexandre Ribot](/postacie/alexandre-ribot), and the minister of war, [Paul Painlevé](/postacie/paul-painleve), and the next day, 5 June, it was published in the Republic's official gazette. For the first time since the beginning of the war one of the Entente powers had agreed to the creation of a Polish army as a separate armed force, rather than a handful of volunteers scattered in foreign regiments. Thus was born the [Polish Army in France](/tematy/polskie-formacje-wojskowe), later called the Blue Army after the colour of its uniforms, and Haller's Army after the name of its last commander.
 
 ## The text of the decree
 

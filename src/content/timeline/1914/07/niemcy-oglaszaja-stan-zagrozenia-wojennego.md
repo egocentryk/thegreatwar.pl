@@ -17,7 +17,7 @@ sources:
   - "https://de.wikipedia.org/wiki/Chronologie_der_Julikrise_1914"
 ---
 
-31 lipca 1914 roku wczesnym popołudniem cesarz [Wilhelm II](/postacie/wilhelm-ii) ogłosił w [Niemczech](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) „stan zagrożenia wojennego” (Zustand drohender Kriegsgefahr). Minister wojny [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) zawiadomił kanclerza i sekretarza stanu krótką notatką: „Zustand der drohenden Kriegsgefahr befohlen”. Była to odpowiedź na wiadomość, że Rosja zarządziła [mobilizację powszechną](/rosja-rozpoczyna-powszechna-mobilizacje). Depesza ambasadora w Petersburgu dotarła do Berlina przed południem.
+31 lipca 1914 roku wczesnym popołudniem cesarz [Wilhelm II](/postacie/wilhelm-ii) ogłosił w [Niemczech](/kraje/niemcy) „stan zagrożenia wojennego” (Zustand drohender Kriegsgefahr). Minister wojny [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) zawiadomił kanclerza i sekretarza stanu krótką notatką: „Zustand der drohenden Kriegsgefahr befohlen”. Była to odpowiedź na wiadomość, że Rosja zarządziła [mobilizację powszechną](/rosja-rozpoczyna-powszechna-mobilizacje). Depesza ambasadora w Petersburgu dotarła do Berlina przed południem.
 
 ## Ostatni krok przed mobilizacją
 
@@ -29,7 +29,7 @@ W gronie rządu nikt nie miał jednak złudzeń. Dzień wcześniej, na posiedzen
 
 O godzinie 15 o ogłoszeniu stanu zagrożenia poinformowano na posiedzeniu Rady Związkowej (Bundesrat), czyli przedstawicieli państw Rzeszy. Bawarskie poselstwo w Berlinie donosiło do Monachium, że mobilizacja nastąpi w ciągu 24–48 godzin, a z chwilą jej ogłoszenia zostanie zwołany Reichstag. Bethmann Hollweg depeszował do sojuszników w Wiedniu, że po stanie zagrożenia przyjdzie mobilizacja, a „to nieuchronnie oznacza wojnę”.
 
-Równocześnie Berlin przeszedł do kroków dyplomatycznych. Jeszcze tego samego popołudnia do Petersburga poszło [ultimatum](/niemcy-wysylaja-ultimatum-do-rosji), w którym kanclerz pisał, że Niemcy z powodu rosyjskich przygotowań musiały ogłosić stan zagrożenia wojennego, „który nie oznacza jeszcze mobilizacji”. Mobilizacja miała jednak nastąpić, jeśli w ciągu dwunastu godzin Rosja nie wstrzyma wszelkich działań wojennych przeciw Niemcom i [Austro-Węgrom](https://pl.wikipedia.org/wiki/Austro-Węgry). Ambasador w Paryżu otrzymał polecenie, by zapytać Francję, czy zachowa neutralność.
+Równocześnie Berlin przeszedł do kroków dyplomatycznych. Jeszcze tego samego popołudnia do Petersburga poszło [ultimatum](/niemcy-wysylaja-ultimatum-do-rosji), w którym kanclerz pisał, że Niemcy z powodu rosyjskich przygotowań musiały ogłosić stan zagrożenia wojennego, „który nie oznacza jeszcze mobilizacji”. Mobilizacja miała jednak nastąpić, jeśli w ciągu dwunastu godzin Rosja nie wstrzyma wszelkich działań wojennych przeciw Niemcom i [Austro-Węgrom](/kraje/austro-wegry). Ambasador w Paryżu otrzymał polecenie, by zapytać Francję, czy zachowa neutralność.
 
 ## „Miecz zostaje nam wciśnięty do ręki”
 

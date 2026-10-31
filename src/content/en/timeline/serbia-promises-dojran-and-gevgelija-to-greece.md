@@ -2,10 +2,10 @@
 title: Serbia promises Dojran and Gevgelija to Greece
 summary: Under 25 September 1915 the British chronology records that Serbia promised Greece the Dojran and Gevgelija area. Pašić hoped to win Greek help this way.
 source: serbia-obiecuje-grecji-dojran-i-gewgelije
-sourceHash: d36a5ad9e98c8fda3392de75d8b32af7e006dd03
+sourceHash: fbaf7546dca53163812b7e32de87b377b54f478f
 ---
 
-The British chronology of the war records under 25 September 1915 that the Serbian government promised [Greece](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)) [Dojran](https://pl.wikipedia.org/wiki/Dojran_(miasto)) and [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija) and undertook not to press claims to [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)). It was a response to the dramatic situation in the Balkans. Bulgaria, secretly bound to the Central Powers for several weeks, had just [begun mobilisation](/bulgaria-rozpoczyna-mobilizacje), and Austro-Hungarian and German troops were massing on the Danube. Serbia needed Greek help as never before, and Prime Minister [Nikola Pašić](/postacie/nikola-pasic) was ready to pay for it.
+The British chronology of the war records under 25 September 1915 that the Serbian government promised [Greece](/kraje/grecja) [Dojran](https://pl.wikipedia.org/wiki/Dojran_(miasto)) and [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija) and undertook not to press claims to [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)). It was a response to the dramatic situation in the Balkans. Bulgaria, secretly bound to the Central Powers for several weeks, had just [begun mobilisation](/bulgaria-rozpoczyna-mobilizacje), and Austro-Hungarian and German troops were massing on the Danube. Serbia needed Greek help as never before, and Prime Minister [Nikola Pašić](/postacie/nikola-pasic) was ready to pay for it.
 
 ## An old Greek wish
 

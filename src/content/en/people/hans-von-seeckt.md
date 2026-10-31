@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Schleswig (Prussia)
 deathPlace: Berlin
 source: hans-von-seeckt
-sourceHash: 3f7cf6d4b6c095fb47c11ff5ee3735ceb6072706
+sourceHash: 784b7ab64e644d65acbc70f1ee26307376965952
 ---
 
 Throughout the First World War Hans von Seeckt was a staff officer, never a commander, and yet he was among the most influential German soldiers of his time. As chief of staff to [August von Mackensen](/postacie/august-von-mackensen) he helped to plan the breakthrough of the Russian front at Gorlice in 1915 and the conquest of Serbia. In the German army it was said at the time that where Mackensen was, there was Seeckt, and where Seeckt was, there was victory. In 1916–1917 he shored up the Austro-Hungarian front in the Carpathians, and in the last year of the war he was chief of staff of the Ottoman army. After the war he became head of the army of the Weimar Republic and built the 100,000-strong Reichswehr, from which came the commanders of the German army of the Second World War.
@@ -37,7 +37,7 @@ In the autumn of 1916, after Romania entered the war, his army group was also re
 
 In December 1917 Seeckt replaced General Friedrich Bronsart von Schellendorf as chief of staff of the Ottoman army, formally deputy to the Minister of War, [Enver Pasha](/postacie/enver-pasza), who was also chief of staff. In this post he often clashed with the other German general in Turkey, [Otto Liman von Sanders](/postacie/otto-liman-von-sanders), over influence and over the direction of Turkish strategy. He had hoped to direct the whole strategy of the empire, but he soon found that Enver listened to German advice only when it agreed with his own intentions. In 1918 the Turks sent their best forces to the Caucasus, towards Baku, instead of reinforcing the threatened fronts in Palestine and Mesopotamia. In June Seeckt sailed with Enver to Batum, where Turkey had just [imposed treaties](/traktaty-batumskie) on the Transcaucasian republics, to seek a compromise with the Germans, who had interests of their own in Georgia.
 
-Seeckt's attitude to the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian) is today one of the most often recalled parts of his biography. According to researchers who quote his correspondence, in the summer of 1918 he replied to Berlin that one could not be an ally of the Turks and at the same time stand up for the Armenians, and that Christian and sentimental considerations must give way to the needs of war. After the [Armistice of Mudros](/rozejm-w-mudros) he returned to Germany in November 1918.
+Seeckt's attitude to the [Armenian genocide](/tematy/ludobojstwo-ormian) is today one of the most often recalled parts of his biography. According to researchers who quote his correspondence, in the summer of 1918 he replied to Berlin that one could not be an ally of the Turks and at the same time stand up for the Armenians, and that Christian and sentimental considerations must give way to the needs of war. After the [Armistice of Mudros](/rozejm-w-mudros) he returned to Germany in November 1918.
 
 ## After the war
 

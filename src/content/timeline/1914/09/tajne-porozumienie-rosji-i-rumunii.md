@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 19 września 1914 roku zawarcie tajnego porozumienia o wzajemnym wsparciu między rządami Rosji i [Rumunii](https://pl.wikipedia.org/wiki/Królestwo_Rumunii). Układ, nazywany od nazwisk sygnatariuszy porozumieniem Sazonow–Diamandy, został przypieczętowany wymianą not w Piotrogrodzie. Historycy datują go zwykle na 1 października 1914 roku według kalendarza gregoriańskiego, czyli na 18 września według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), którym posługiwały się wówczas zarówno Rosja, jak i Rumunia. Data w brytyjskiej chronologii wynika więc zapewne z pomylenia obu kalendarzy albo odnosi się do wcześniejszego etapu rokowań.
+Brytyjska chronologia wojny odnotowuje pod 19 września 1914 roku zawarcie tajnego porozumienia o wzajemnym wsparciu między rządami Rosji i [Rumunii](/kraje/rumunia). Układ, nazywany od nazwisk sygnatariuszy porozumieniem Sazonow–Diamandy, został przypieczętowany wymianą not w Piotrogrodzie. Historycy datują go zwykle na 1 października 1914 roku według kalendarza gregoriańskiego, czyli na 18 września według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), którym posługiwały się wówczas zarówno Rosja, jak i Rumunia. Data w brytyjskiej chronologii wynika więc zapewne z pomylenia obu kalendarzy albo odnosi się do wcześniejszego etapu rokowań.
 
 ## Rumunia między blokami
 

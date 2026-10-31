@@ -2,7 +2,7 @@
 title: Kornilov affair
 summary: On 8 September 1917 Vladimir Lvov passed General Kornilov's "demands" to Kerensky, who took them for a coup and that night dismissed the commander-in-chief.
 source: pucz-kornilowa
-sourceHash: b95e174a4d43d3b7210ed3f02257df9616f80138
+sourceHash: 6138b7c421a9eef0eff1a1180692eb166c43de13
 brief:
   - "On 8 September 1917 Vladimir Lvov passed to Prime Minister Alexander Kerensky what he understood as an ultimatum from General Lavr Kornilov: martial law in Petrograd and all power to the commander-in-chief."
   - "The conflict had grown since the end of July, when Kornilov took the supreme command. After talks with Boris Savinkov a cavalry corps set off towards Petrograd, and Kornilov, against Savinkov's request, gave command to General Krymov."
@@ -11,7 +11,7 @@ brief:
   - "Historians still argue whether it was a conspiracy of the right or a misunderstanding exploited by Kerensky. Mark Steinberg called the affair \"a strange mixture of conspiracy and confusion\"."
 ---
 
-On the afternoon of 8 September 1917 (26 August by the Julian calendar), Vladimir Nikolayevich Lvov, a Duma deputy and former Chief Procurator of the Holy Synod in the first [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), came to the office of Prime Minister [Alexander Kerensky](/postacie/aleksander-kierenski) in the [Winter Palace](https://pl.wikipedia.org/wiki/Pałac_Zimowy). He had come straight from [Mogilev](https://pl.wikipedia.org/wiki/Mohylew), from the headquarters of the commander-in-chief, General [Lavr Kornilov](/postacie/lawr-kornilow). He brought something that Kerensky understood as an ultimatum: the general demanded the introduction of martial law in Petrograd, the transfer to him of all military and civil power, and the resignation of all the ministers. That same evening the premier, convinced that he was dealing with a conspiracy, had Lvov arrested, and during the night he dismissed Kornilov from his post. So began the [Kornilov affair](https://pl.wikipedia.org/wiki/Sprawa_Korniłowa), also called the Kornilov revolt or putsch, one of the turning points of the Russian Revolution.
+On the afternoon of 8 September 1917 (26 August by the Julian calendar), Vladimir Nikolayevich Lvov, a Duma deputy and former Chief Procurator of the Holy Synod in the first [Provisional Government](/powstanie-rzadu-tymczasowego), came to the office of Prime Minister [Alexander Kerensky](/postacie/aleksander-kierenski) in the [Winter Palace](https://pl.wikipedia.org/wiki/Pałac_Zimowy). He had come straight from [Mogilev](https://pl.wikipedia.org/wiki/Mohylew), from the headquarters of the commander-in-chief, General [Lavr Kornilov](/postacie/lawr-kornilow). He brought something that Kerensky understood as an ultimatum: the general demanded the introduction of martial law in Petrograd, the transfer to him of all military and civil power, and the resignation of all the ministers. That same evening the premier, convinced that he was dealing with a conspiracy, had Lvov arrested, and during the night he dismissed Kornilov from his post. So began the [Kornilov affair](https://pl.wikipedia.org/wiki/Sprawa_Korniłowa), also called the Kornilov revolt or putsch, one of the turning points of the Russian Revolution.
 
 ## The premier and the general
 

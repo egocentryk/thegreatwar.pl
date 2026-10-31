@@ -2,10 +2,10 @@
 title: Bulgaria begins mobilisation
 summary: In late September 1915 hundreds of thousands of reservists poured into Bulgarian barracks. Rifles and uniforms were short, and zeal was lower than in 1912.
 source: bulgaria-rozpoczyna-mobilizacje
-sourceHash: f658afc4fa96c3bb404d0d633332d5fd917a8fe3
+sourceHash: 8861bcda3034cb2f5f53d849b30e75de907991a7
 ---
 
-The British chronology of the war records under 25 September 1915 the beginning of the mobilisation of the [Bulgarian](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) army. According to Bulgarian sources the first day of mobilisation was 24 September, that is, 11 September by the Julian calendar, as set in the [decree signed two days earlier](/bulgaria-oglasza-powszechna-mobilizacje). In the last days of September hundreds of thousands of reservists poured into barracks all over the country. Mobilisation took 17–18 days. During that time only the border guard separated Bulgaria from Serbia.
+The British chronology of the war records under 25 September 1915 the beginning of the mobilisation of the [Bulgarian](/kraje/bulgaria) army. According to Bulgarian sources the first day of mobilisation was 24 September, that is, 11 September by the Julian calendar, as set in the [decree signed two days earlier](/bulgaria-oglasza-powszechna-mobilizacje). In the last days of September hundreds of thousands of reservists poured into barracks all over the country. Mobilisation took 17–18 days. During that time only the border guard separated Bulgaria from Serbia.
 
 The government of [Vasil Radoslavov](/postacie/wasil-radoslawow) went on assuring its neighbours of its peaceful intentions. In the last days of September the prime minister declared that Bulgaria had no intention of attacking Greece, which [had itself announced mobilisation on 23 September](/grecja-oglasza-mobilizacje). Earlier he had given assurances that the mobilisation was not directed against Serbia. These words no longer carried much weight, because the deployment of the troops told a different story.
 

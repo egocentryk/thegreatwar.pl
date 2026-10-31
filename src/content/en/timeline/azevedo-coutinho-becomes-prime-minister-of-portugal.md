@@ -2,10 +2,10 @@
 title: Azevedo Coutinho becomes Prime Minister of Portugal
 summary: On 12 December 1914 naval officer Vítor Hugo de Azevedo Coutinho became Portugal's prime minister. His almost wholly Democratic cabinet met resistance at once.
 source: azevedo-coutinho-premierem-portugalii
-sourceHash: 4536660d29beb4e5696103ec9920a712af95548e
+sourceHash: 08b618a3ce6884accb830b0690721076aed020b5
 ---
 
-On 12 December 1914 Vítor Hugo de Azevedo Coutinho, a naval officer and president of the Chamber of Deputies, became Prime Minister of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska). He replaced Bernardino Machado, whose [non-party government had just fallen](/dymisja-rzadu-bernardina-machado). The cabinet consisted almost entirely of members of the Democratic Party, the strongest group in parliament.
+On 12 December 1914 Vítor Hugo de Azevedo Coutinho, a naval officer and president of the Chamber of Deputies, became Prime Minister of [Portugal](/kraje/portugalia). He replaced Bernardino Machado, whose [non-party government had just fallen](/dymisja-rzadu-bernardina-machado). The cabinet consisted almost entirely of members of the Democratic Party, the strongest group in parliament.
 
 ## The search for a prime minister
 

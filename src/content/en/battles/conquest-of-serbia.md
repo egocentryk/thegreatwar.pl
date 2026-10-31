@@ -9,7 +9,7 @@ sides:
     commanders: [Radomir Putnik, Živojin Mišić, Stepa Stepanović, Pavle Jurišić Šturm, Janko Vukotić]
 result: Central Powers victory. Serbia was occupied and an overland route from Germany to Turkey was opened, but the Serbian army escaped encirclement and withdrew across the mountains to the Adriatic.
 source: podboj-serbii
-sourceHash: 423ff2ff2602bbb4eeab6366342e24a1cd4d2efc
+sourceHash: 68baf750c5227e4b3d63f72f8906f85af1f0cc4c
 brief:
   - "From 6 October to 4 December 1915 the forces of Germany, Austria-Hungary and Bulgaria overran Serbia. It was the swiftest and most complete campaign of the Central Powers in 1915."
   - "Germany's main aim was to open the railway from Hungary through Belgrade, Niš and Sofia to Constantinople. Bulgaria joined the attack in return for the promise of Serbian Macedonia."
@@ -18,7 +18,7 @@ brief:
   - "The Central Powers opened the route to Turkey but did not destroy the Serbian army. At the beginning of 1916 the Allies carried more than a hundred thousand of its soldiers to Corfu, and they later fought on the Salonika front."
 ---
 
-The conquest of Serbia was the swiftest and most complete campaign of the Central Powers in 1915. A year earlier the small Serbian army had three times repelled an Austro-Hungarian invasion, and in December 1914 it [routed the invaders on the Kolubara](/bitwy/bitwa-nad-kolubara). In the autumn of 1915, however, [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) faced three states at once. On 6 October the German Eleventh Army and the Austro-Hungarian Third Army, under the joint command of Field Marshal [August von Mackensen](/postacie/august-von-mackensen), struck across the Sava and the Danube, and a week later [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) attacked from the east. In less than two months the Central Powers' forces occupied the whole country. The French and British, who had landed at Salonika, were unable to break through to the north. The Serbian army, however, did not allow itself to be surrounded. Together with the king, the government and thousands of refugees, it withdrew across the snow-covered mountains of Montenegro and Albania to the Adriatic.
+The conquest of Serbia was the swiftest and most complete campaign of the Central Powers in 1915. A year earlier the small Serbian army had three times repelled an Austro-Hungarian invasion, and in December 1914 it [routed the invaders on the Kolubara](/bitwy/bitwa-nad-kolubara). In the autumn of 1915, however, [Serbia](/kraje/serbia) faced three states at once. On 6 October the German Eleventh Army and the Austro-Hungarian Third Army, under the joint command of Field Marshal [August von Mackensen](/postacie/august-von-mackensen), struck across the Sava and the Danube, and a week later [Bulgaria](/kraje/bulgaria) attacked from the east. In less than two months the Central Powers' forces occupied the whole country. The French and British, who had landed at Salonika, were unable to break through to the north. The Serbian army, however, did not allow itself to be surrounded. Together with the king, the government and thousands of refugees, it withdrew across the snow-covered mountains of Montenegro and Albania to the Adriatic.
 
 ## Name and dates
 

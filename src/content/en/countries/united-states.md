@@ -9,7 +9,7 @@ brief:
   - "The American First Army eliminated the Saint-Mihiel salient and fought the Meuse–Argonne Offensive, the largest battle in US history."
   - "On the basis of Wilson's Fourteen Points, with an independent Poland in the thirteenth, Germany asked for an armistice, but the Senate later rejected the Treaty of Versailles."
 source: stany-zjednoczone
-sourceHash: 16bafb52567796303efc4e6a9eb4e6a70b3e3c3f
+sourceHash: 614743654a9c5694a0d82ecfed07e82ef49f434d
 ---
 
 The United States entered the war against Germany on 6 April 1917, after almost three years of neutrality, when Berlin resumed unrestricted submarine warfare. A country that had almost no land army sent more than 2 million soldiers to France. In the autumn of 1918 the American army fought the Meuse–Argonne Offensive, the largest battle in the history of the United States. President Woodrow Wilson brought about the creation of the League of Nations in Paris, but his own country rejected the Treaty of Versailles.

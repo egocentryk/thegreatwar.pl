@@ -2,10 +2,10 @@
 title: Portugal decides to send troops to Europe
 summary: On 7 August 1916 the Portuguese parliament accepted a British invitation to take part in the war in Europe. A corps from Tancos was to go to the Western Front.
 source: portugalia-postanawia-wyslac-wojska-do-europy
-sourceHash: 67bf86fe7bfec7e352066a9f09f6794c5af2370b
+sourceHash: 673cee396f69e811ae5e5fb982ac8fae9b12bd81
 ---
 
-On 7 August 1916 the parliament in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona), according to Portuguese chronologies of the war, approved Portugal's participation in the war in Europe in line with a formal invitation from the British government. A British chronology of the war records the decision a day later, under 8 August. The decision itself had long been settled, and preparations had been in full swing since the spring. The vote nevertheless closed an important chapter. Since the outbreak of the war the republicans governing [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) had sought to have their soldiers fight alongside the British not only in Africa but also in France, and London had long cooled their enthusiasm.
+On 7 August 1916 the parliament in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona), according to Portuguese chronologies of the war, approved Portugal's participation in the war in Europe in line with a formal invitation from the British government. A British chronology of the war records the decision a day later, under 8 August. The decision itself had long been settled, and preparations had been in full swing since the spring. The vote nevertheless closed an important chapter. Since the outbreak of the war the republicans governing [Portugal](/kraje/portugalia) had sought to have their soldiers fight alongside the British not only in Africa but also in France, and London had long cooled their enthusiasm.
 
 ## An invitation from London
 

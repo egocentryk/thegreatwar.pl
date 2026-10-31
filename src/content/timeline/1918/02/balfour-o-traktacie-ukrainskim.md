@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-20 lutego 1918 roku brytyjski minister spraw zagranicznych [Arthur Balfour](/postacie/arthur-balfour) zawiadomił [Komitet Narodowy Polski](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)), że Wielka Brytania nie akceptuje traktatu, który państwa centralne zawarły w Brześciu Litewskim z Ukraińską Republiką Ludową. Taką datę i treść podaje brytyjska oficjalna kronika wojny, wydana w 1922 roku. Część polskich opracowań datuje to brytyjskie oświadczenie na 18 lutego i streszcza je krótko: „porozumień brzeskich nie uznajemy”. Przekazano je przedstawicielom Komitetu, który miał siedzibę w Paryżu. Dla Polaków oznaczało to, że Wielka Brytania nie uzna także przekazania Ukrainie ziem, które uważali za polskie, przede wszystkim Chełmszczyzny.
+20 lutego 1918 roku brytyjski minister spraw zagranicznych [Arthur Balfour](/postacie/arthur-balfour) zawiadomił [Komitet Narodowy Polski](/powstanie-komitetu-narodowego-polskiego), że Wielka Brytania nie akceptuje traktatu, który państwa centralne zawarły w Brześciu Litewskim z Ukraińską Republiką Ludową. Taką datę i treść podaje brytyjska oficjalna kronika wojny, wydana w 1922 roku. Część polskich opracowań datuje to brytyjskie oświadczenie na 18 lutego i streszcza je krótko: „porozumień brzeskich nie uznajemy”. Przekazano je przedstawicielom Komitetu, który miał siedzibę w Paryżu. Dla Polaków oznaczało to, że Wielka Brytania nie uzna także przekazania Ukrainie ziem, które uważali za polskie, przede wszystkim Chełmszczyzny.
 
 ## Odpowiedź na „czwarty rozbiór”
 

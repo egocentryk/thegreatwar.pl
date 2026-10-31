@@ -2,10 +2,10 @@
 title: Kerensky becomes prime minister of Russia
 summary: On 21 July 1917, after Prince Lvov's resignation, Alexander Kerensky became head of the Provisional Government. He also kept the ministry of war and the navy.
 source: kierenski-premierem-rosji
-sourceHash: 3b10ce4b0d809f62d662c7eda2e4413af292e025
+sourceHash: 0bf2840e8a0359f6321a49773b8da3816520aa0c
 ---
 
-On 21 July 1917 (8 July by the Julian calendar) [Alexander Kerensky](/postacie/aleksander-kierenski) became prime minister, or more precisely minister-chairman, of the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji). The day before, Prince [Georgy Lvov](/postacie/gieorgij-lwow), who had headed the government since the February Revolution, had resigned. Kerensky kept the ministry of war and the navy. A British chronology of the war records this change under 19 July. According to Russian and Western sources Lvov stepped down on 20 July (7 July O.S.) and Kerensky took office the following day.
+On 21 July 1917 (8 July by the Julian calendar) [Alexander Kerensky](/postacie/aleksander-kierenski) became prime minister, or more precisely minister-chairman, of the [Provisional Government](/powstanie-rzadu-tymczasowego). The day before, Prince [Georgy Lvov](/postacie/gieorgij-lwow), who had headed the government since the February Revolution, had resigned. Kerensky kept the ministry of war and the navy. A British chronology of the war records this change under 19 July. According to Russian and Western sources Lvov stepped down on 20 July (7 July O.S.) and Kerensky took office the following day.
 
 ## Lvov's resignation
 

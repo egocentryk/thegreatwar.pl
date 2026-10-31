@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W niedzielę 3 grudnia 1916 roku około 8.30 niemiecki okręt podwodny [U-38](https://pl.wikipedia.org/wiki/SM_U-38) zaatakował statki stojące na redzie [Funchal](https://pl.wikipedia.org/wiki/Funchal), stolicy portugalskiej [Madery](https://pl.wikipedia.org/wiki/Madera). W ciągu kilku minut zatopił torpedami trzy alianckie jednostki i barkę węglową, a następnie wynurzył się i przez blisko dwie godziny ostrzeliwał miasto. Był to pierwszy atak niemieckiej marynarki na terytorium [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), z którą Niemcy [były w stanie wojny od marca](/niemcy-wypowiadaja-wojne-portugalii).
+W niedzielę 3 grudnia 1916 roku około 8.30 niemiecki okręt podwodny [U-38](https://pl.wikipedia.org/wiki/SM_U-38) zaatakował statki stojące na redzie [Funchal](https://pl.wikipedia.org/wiki/Funchal), stolicy portugalskiej [Madery](https://pl.wikipedia.org/wiki/Madera). W ciągu kilku minut zatopił torpedami trzy alianckie jednostki i barkę węglową, a następnie wynurzył się i przez blisko dwie godziny ostrzeliwał miasto. Był to pierwszy atak niemieckiej marynarki na terytorium [Portugalii](/kraje/portugalia), z którą Niemcy [były w stanie wojny od marca](/niemcy-wypowiadaja-wojne-portugalii).
 
 ## Dlaczego Madera
 

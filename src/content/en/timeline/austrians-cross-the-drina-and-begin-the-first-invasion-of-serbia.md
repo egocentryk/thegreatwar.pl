@@ -2,10 +2,10 @@
 title: Austrians cross the Drina and begin the first invasion of Serbia
 summary: In mid-August 1914 the Austro-Hungarian Fifth Army crossed the Drina and struck Serbia from the west. The first invasion of Serbia had begun.
 source: austriacy-przekraczaja-drine-pierwsza-inwazja-na-serbie
-sourceHash: 986567134a769e36624ed8b1dc4393aa424ac13c
+sourceHash: ffb0f20cdfbf2ac94091dee4287a2ebc989eb394
 ---
 
-Contemporary chronicles of the war record under 13 August 1914 the crossing of the river [Drina](https://pl.wikipedia.org/wiki/Drina) by Austro-Hungarian troops and the beginning of the first invasion of [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). According to most modern sources, the Austro-Hungarian Fifth Army began crossing on the morning of 12 August, at the same time as the forcing of the Sava near Šabac.
+Contemporary chronicles of the war record under 13 August 1914 the crossing of the river [Drina](https://pl.wikipedia.org/wiki/Drina) by Austro-Hungarian troops and the beginning of the first invasion of [Serbia](/kraje/serbia). According to most modern sources, the Austro-Hungarian Fifth Army began crossing on the morning of 12 August, at the same time as the forcing of the Sava near Šabac.
 
 ## Attack from the west
 

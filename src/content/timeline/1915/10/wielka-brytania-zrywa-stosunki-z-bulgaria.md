@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Według brytyjskiej chronologii wojny i brytyjskiej historii oficjalnej działań na morzu 13 października 1915 roku [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) zerwała stosunki dyplomatyczne z [Bułgarią](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). Był to ostatni krok przed wojną. Od miesiąca Bułgarię wiązał [tajny sojusz z Niemcami](/traktat-sojuszniczy-w-sofii), jej armia była zmobilizowana i stała przy serbskiej granicy, a w Londynie nikt już nie wierzył, że Sofię da się zatrzymać.
+Według brytyjskiej chronologii wojny i brytyjskiej historii oficjalnej działań na morzu 13 października 1915 roku [Wielka Brytania](/kraje/wielka-brytania) zerwała stosunki dyplomatyczne z [Bułgarią](/kraje/bulgaria). Był to ostatni krok przed wojną. Od miesiąca Bułgarię wiązał [tajny sojusz z Niemcami](/traktat-sojuszniczy-w-sofii), jej armia była zmobilizowana i stała przy serbskiej granicy, a w Londynie nikt już nie wierzył, że Sofię da się zatrzymać.
 
 Zerwanie było raczej procesem niż jednym aktem i źródła datują je różnie. Brytyjski rocznik „Annual Register” notuje je pod 12 października. Według „The Times History of the War” posłowie Rosji, Francji i Wielkiej Brytanii poprosili o paszporty już 5 października, gdy wygasło [rosyjskie ultimatum](/ultimatum-ententy-dla-bulgarii), a z Sofii wyjechali kilka dni później. Data 13 października oznacza więc raczej formalne zakończenie stosunków przez rząd w Londynie niż wyjazd samego posła.
 

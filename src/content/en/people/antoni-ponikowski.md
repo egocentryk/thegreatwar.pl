@@ -6,10 +6,10 @@ country: Poland
 birthPlace: Siedlce (Kingdom of Poland, Russian Empire)
 deathPlace: Warsaw
 source: antoni-ponikowski
-sourceHash: 0c1f78b6297978b60287a71023c71f1ed094d217
+sourceHash: f54dabf3f61a2f3e15ed3804e71240921e32357b
 ---
 
-Antoni Ponikowski was an engineer specialising in land reclamation and surveying, a professor at the Warsaw Polytechnic and one of the most persevering officials of the state built in the Kingdom of Poland under the occupation of the Central Powers. From December 1917 to November 1918 he headed the department of religious denominations and public enlightenment in all the successive cabinets appointed by the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna). When in February 1918 the government of [Jan Kucharzewski](/postacie/jan-kucharzewski) resigned in protest against the Treaty of Brest-Litovsk with Ukraine, he led a provisional government for five weeks. Under his direction the foundations were laid of the Polish school administration that the reborn state took over in November 1918. In independent Poland he was twice prime minister and rector of the Warsaw Polytechnic.
+Antoni Ponikowski was an engineer specialising in land reclamation and surveying, a professor at the Warsaw Polytechnic and one of the most persevering officials of the state built in the Kingdom of Poland under the occupation of the Central Powers. From December 1917 to November 1918 he headed the department of religious denominations and public enlightenment in all the successive cabinets appointed by the [Regency Council](/powolanie-rady-regencyjnej). When in February 1918 the government of [Jan Kucharzewski](/postacie/jan-kucharzewski) resigned in protest against the Treaty of Brest-Litovsk with Ukraine, he led a provisional government for five weeks. Under his direction the foundations were laid of the Polish school administration that the reborn state took over in November 1918. In independent Poland he was twice prime minister and rector of the Warsaw Polytechnic.
 
 ## Before the war
 

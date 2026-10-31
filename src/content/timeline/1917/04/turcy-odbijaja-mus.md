@@ -21,9 +21,9 @@ Zimą 1916/1917 roku obie armie bardziej niż z przeciwnikiem zmagały się z g�
 
 ## Skutki rewolucji
 
-Allen i Muratow nie mają wątpliwości, że tylko wybuch [rewolucji lutowej](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)) uratował Turków przed zupełną klęską w Azji Mniejszej. Rozkład Armii Kaukaskiej postępował wolniej i mniej gwałtownie niż na froncie europejskim. Żołnierze wciąż wykonywali rozkazy, ale komitety i delegaci z Tyflisu i Piotrogrodu wtrącali się do dowodzenia, a w garnizonach na tyłach dochodziło do zamieszek. Armia utrzymała przez wiosnę i lato prawie wszystkie zdobycze z poprzedniego roku. Dochodziło tylko do niewielkich odwrotów, by w pierwszej linii zostawić jak najmniej żołnierzy, i pierwszym ważnym miejscem opuszczonym w ten sposób był właśnie Muş.
+Allen i Muratow nie mają wątpliwości, że tylko wybuch [rewolucji lutowej](/rewolucja-lutowa) uratował Turków przed zupełną klęską w Azji Mniejszej. Rozkład Armii Kaukaskiej postępował wolniej i mniej gwałtownie niż na froncie europejskim. Żołnierze wciąż wykonywali rozkazy, ale komitety i delegaci z Tyflisu i Piotrogrodu wtrącali się do dowodzenia, a w garnizonach na tyłach dochodziło do zamieszek. Armia utrzymała przez wiosnę i lato prawie wszystkie zdobycze z poprzedniego roku. Dochodziło tylko do niewielkich odwrotów, by w pierwszej linii zostawić jak najmniej żołnierzy, i pierwszym ważnym miejscem opuszczonym w ten sposób był właśnie Muş.
 
-Turecki historyk Haluk Selvi pisze, że oddziały, które weszły do miasta, podlegały Mustafie Kemalowi jako dowódcy 2 Armii. Muş był w ruinie. Jego ormiańskich mieszkańców wymordowano w 1915 roku w czasie [ludobójstwa Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), a wojna i ucieczki wyludniły także muzułmańską część miasta. Selvi podaje, że jeszcze w spisie z 1927 roku Muş liczył zaledwie nieco ponad 4 tysiące mieszkańców.
+Turecki historyk Haluk Selvi pisze, że oddziały, które weszły do miasta, podlegały Mustafie Kemalowi jako dowódcy 2 Armii. Muş był w ruinie. Jego ormiańskich mieszkańców wymordowano w 1915 roku w czasie [ludobójstwa Ormian](/tematy/ludobojstwo-ormian), a wojna i ucieczki wyludniły także muzułmańską część miasta. Selvi podaje, że jeszcze w spisie z 1927 roku Muş liczył zaledwie nieco ponad 4 tysiące mieszkańców.
 
 ## Znaczenie
 

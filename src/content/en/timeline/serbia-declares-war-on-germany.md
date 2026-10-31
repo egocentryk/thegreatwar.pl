@@ -2,7 +2,7 @@
 title: Serbia declares war on Germany
 summary: On 6 August 1914 Serbia declared war on Germany, ally of Austria-Hungary. The two states had no common border, but the declaration was a political statement.
 source: serbia-wypowiada-wojne-niemcom
-sourceHash: 9cb7a87afab842a5bd0cd1ed3bc0e944a2479c31
+sourceHash: aa2c69c866613bfbc6966a973e46b8fbcbb3a909
 brief:
   - "On 6 August 1914 Nikola Pašić's government, working in the wartime capital of Niš, declared war on Germany, although the two states had no common border."
   - "The declaration changed little militarily but carried a political message: Belgrade held Germany jointly responsible for the war, as German support had let Vienna take a hard line towards Serbia."
@@ -10,7 +10,7 @@ brief:
   - "Germany dealt with Serbia only in the autumn of 1915, when forces under August von Mackensen overran the country and the remnants of the Serbian army withdrew through the mountains of Albania to the Adriatic."
 ---
 
-On 6 August 1914 [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) declared war on [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). The decision was taken by the government of Prime Minister [Nikola Pašić](/postacie/nikola-pasic), working in the country's wartime capital, [Niš](https://pl.wikipedia.org/wiki/Nisz). A week earlier Serbia had been attacked by [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry), and Germany had stood behind Vienna's policy since the start of the crisis. Formally the Serbian declaration took the form of a note in which the government declared the German minister's mission at an end and handed him his passports, but in the chronicles of the war and in lists of declarations of war it figures as a declaration of war on Germany.
+On 6 August 1914 [Serbia](/kraje/serbia) declared war on [Germany](/kraje/niemcy). The decision was taken by the government of Prime Minister [Nikola Pašić](/postacie/nikola-pasic), working in the country's wartime capital, [Niš](https://pl.wikipedia.org/wiki/Nisz). A week earlier Serbia had been attacked by [Austria-Hungary](/kraje/austro-wegry), and Germany had stood behind Vienna's policy since the start of the crisis. Formally the Serbian declaration took the form of a note in which the government declared the German minister's mission at an end and handed him his passports, but in the chronicles of the war and in lists of declarations of war it figures as a declaration of war on Germany.
 
 ## The note from Niš
 
@@ -24,7 +24,7 @@ On the same day Jovanović called in Berlin on the Under-Secretary of State at t
 
 Serbia and Germany had no common border, and Germany had not previously declared war on Serbia. From a military point of view the declaration changed little: Serbia was fighting the Austro-Hungarian army on its borders along the [Drina](https://pl.wikipedia.org/wiki/Drina), the Sava and the Danube. It did, however, carry a clear political message. Belgrade was showing that it considered Germany jointly responsible for the war, because it was German support, [expressed as early as the beginning of July](/kajzer-obiecuje-austro-wegrom-pelne-poparcie), that had allowed Austria-Hungary to take a hard line towards Serbia. Zimmermann's words, laying the blame on St Petersburg, showed how differently the two sides saw the beginning of the war.
 
-The declaration of war also placed Serbia unambiguously on the side of the [Entente](https://pl.wikipedia.org/wiki/Ententa). The note from Niš explicitly invoked solidarity with Russia and its allies. Within a few days Germany found itself at war with Russia, France and Britain, and Serbia joined the camp of its enemies as a full participant in the European war, not merely the victim of a local conflict. On the same day Austria-Hungary declared war on Russia, and two days later neighbouring Montenegro entered a state of war with Germany.
+The declaration of war also placed Serbia unambiguously on the side of the [Entente](/tematy/panstwa-centralne-i-ententa). The note from Niš explicitly invoked solidarity with Russia and its allies. Within a few days Germany found itself at war with Russia, France and Britain, and Serbia joined the camp of its enemies as a full participant in the European war, not merely the victim of a local conflict. On the same day Austria-Hungary declared war on Russia, and two days later neighbouring Montenegro entered a state of war with Germany.
 
 ## The first fighting
 

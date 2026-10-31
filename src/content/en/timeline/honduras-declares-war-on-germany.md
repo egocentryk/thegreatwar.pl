@@ -2,7 +2,7 @@
 title: Honduras declares war on Germany
 summary: On 19 July 1918 President Francisco Bertrand declared a state of war with Germany by decree. Honduras was the last of eight Latin American states to do so.
 source: honduras-wypowiada-wojne-niemcom
-sourceHash: 0cc35825926140acbcc5b6e89247e100a04561e9
+sourceHash: 1ac0f5e1b2d46d6e31f17dd98c294144893e60f8
 brief:
   - "On 19 July 1918 in Tegucigalpa the President of Honduras, Francisco Bertrand, signed decree number 58 declaring a state of war with the German Empire. Like Haiti, Honduras made no mention of Austria-Hungary."
   - "The decree invoked \"continental solidarity\" with the United States. According to the Pan American Union, Honduras was the last of eight Latin American states to declare war on Germany."
@@ -17,7 +17,7 @@ On 19 July 1918 in [Tegucigalpa](https://pl.wikipedia.org/wiki/Tegucigalpa) the 
 
 The preamble to the decree took up two sentences. The first stated that the reasons for which Honduras had broken off diplomatic relations with the German Empire "had become more acute" and were becoming graver every day for the international life of all nations. The second declared that "continental solidarity" placed on the states of America the duty of contributing, as far as they were able, to the triumph of the cause of civilisation and right that the United States was defending together with the Allied nations, and that this required taking a firm stand in the present world conflict.
 
-Like Haiti, which had [declared war on Germany](/haiti-wypowiada-wojne-niemcom) a week earlier, Honduras made no mention of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). In this it differed from [Nicaragua](/nikaragua-wypowiada-wojne-niemcom), which in May had declared a state of war with both empires. Of the five Central American republics that had once formed a common federation, [Guatemala](/gwatemala-wypowiada-wojne-niemcom), Nicaragua and [Costa Rica](/kostaryka-wypowiada-wojne-niemcom) had already declared war on Germany. Only [El Salvador](https://pl.wikipedia.org/wiki/Salwador) remained neutral, though friendly to the Americans. According to a 1919 survey by the Pan American Union, eight of the twenty Latin American states declared war on Germany, and Honduras was the last to do so.
+Like Haiti, which had [declared war on Germany](/haiti-wypowiada-wojne-niemcom) a week earlier, Honduras made no mention of [Austria-Hungary](/kraje/austro-wegry). In this it differed from [Nicaragua](/nikaragua-wypowiada-wojne-niemcom), which in May had declared a state of war with both empires. Of the five Central American republics that had once formed a common federation, [Guatemala](/gwatemala-wypowiada-wojne-niemcom), Nicaragua and [Costa Rica](/kostaryka-wypowiada-wojne-niemcom) had already declared war on Germany. Only [El Salvador](https://pl.wikipedia.org/wiki/Salwador) remained neutral, though friendly to the Americans. According to a 1919 survey by the Pan American Union, eight of the twenty Latin American states declared war on Germany, and Honduras was the last to do so.
 
 ## A republic of banana companies
 

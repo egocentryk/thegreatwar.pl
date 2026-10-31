@@ -2,7 +2,7 @@
 title: Assassination attempt on Lenin
 summary: On 30 August 1918 Lenin was gravely wounded in Moscow; that morning Uritsky, the Petrograd Cheka chief, was killed. The Bolsheviks answered with Red Terror.
 source: zamach-na-lenina
-sourceHash: 06d5ce1194dd07f695ae4dde6f2344827b0965c3
+sourceHash: a85ba3907cd38cb069bcb6fe6d336b734427ddb7
 brief:
   - "On the evening of 30 August 1918 in Moscow, after a rally at the Michelson works, shots were fired at Vladimir Lenin. Two bullets hit him in the neck and shoulder, and for several days it was uncertain whether he would survive."
   - "That morning in Petrograd the poet Leonid Kannegisser had shot dead the chairman of the Petrograd Cheka, Moisei Uritsky. In the summer of 1918 Bolshevik power hung by a thread."
@@ -33,7 +33,7 @@ As he crossed the courtyard to his car after the rally, he was stopped by a woma
 
 ## Fanny Kaplan
 
-At a tram stop on Bolshaya Serpukhovskaya Street a woman was detained who was taken to be the assassin. She was 28-year-old Fanny (Feiga) Kaplan, also known as Dora. As a teenager she had become involved with the anarchists, and in 1906, after the explosion of a bomb being prepared for the governor-general of Kiev, she was sentenced to life at hard labour in Akatuy beyond Lake Baikal. There she almost lost her sight. She was freed only by the [February Revolution](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)), and in exile she had drawn close to the Socialist Revolutionaries.
+At a tram stop on Bolshaya Serpukhovskaya Street a woman was detained who was taken to be the assassin. She was 28-year-old Fanny (Feiga) Kaplan, also known as Dora. As a teenager she had become involved with the anarchists, and in 1906, after the explosion of a bomb being prepared for the governor-general of Kiev, she was sentenced to life at hard labour in Akatuy beyond Lake Baikal. There she almost lost her sight. She was freed only by the [February Revolution](/rewolucja-lutowa), and in exile she had drawn close to the Socialist Revolutionaries.
 
 Under interrogation she admitted shooting at Lenin because she considered him a traitor to the revolution who was setting back the ideas of socialism by decades. She said she supported the Constituent Assembly and had acted alone, and refused to say where she had got the weapon. There was neither a proper investigation nor a trial. On 3 September, on the oral order of the chairman of the [All-Russian Central Executive Committee](https://pl.wikipedia.org/wiki/Wszechrosyjski_Centralny_Komitet_Wykonawczy), [Yakov Sverdlov](/postacie/jakow-swierdlow), the commandant of the Kremlin, Pavel Malkov, shot her in a Kremlin courtyard to the roar of running lorry engines, and her body was burnt in a barrel.
 

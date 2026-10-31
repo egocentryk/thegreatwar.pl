@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-28 września 1918 roku rząd francuski i [Komitet Narodowy Polski](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) zawarli w Paryżu umowę, która zmieniła położenie polskiego wojska walczącego po stronie Ententy. [Armia Polska we Francji](https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji) przestała być formacją ochotników pod francuskim zarządem. Odtąd miała być jedną, autonomiczną armią polską, sprzymierzoną z mocarstwami Ententy i współwojującą z nimi przeciw państwom centralnym, pod jednym polskim dowództwem i pod najwyższą władzą polityczną Komitetu. Polskie wydania dokumentów podają francuską formułę: *armée autonome, alliée et belligérante sous un commandement polonais unique*. Państwa polskiego jeszcze nie było, ale jego wojsko stanęło w szeregach koalicji jako sojusznik, a nie tylko jako zbiór ochotników w cudzej armii.
+28 września 1918 roku rząd francuski i [Komitet Narodowy Polski](/powstanie-komitetu-narodowego-polskiego) zawarli w Paryżu umowę, która zmieniła położenie polskiego wojska walczącego po stronie Ententy. [Armia Polska we Francji](/tematy/polskie-formacje-wojskowe) przestała być formacją ochotników pod francuskim zarządem. Odtąd miała być jedną, autonomiczną armią polską, sprzymierzoną z mocarstwami Ententy i współwojującą z nimi przeciw państwom centralnym, pod jednym polskim dowództwem i pod najwyższą władzą polityczną Komitetu. Polskie wydania dokumentów podają francuską formułę: *armée autonome, alliée et belligérante sous un commandement polonais unique*. Państwa polskiego jeszcze nie było, ale jego wojsko stanęło w szeregach koalicji jako sojusznik, a nie tylko jako zbiór ochotników w cudzej armii.
 
 ## Droga do umowy
 
