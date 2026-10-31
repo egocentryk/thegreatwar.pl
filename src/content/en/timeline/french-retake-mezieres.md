@@ -2,10 +2,10 @@
 title: French retake Mézières
 summary: On the eve of the armistice the French recovered Mézières on the Meuse, long a key German command centre. Fighting on the river went on until 11 November.
 source: francuzi-odbijaja-mezieres
-sourceHash: 83e4f84ad5b8f0a8acac00b57a1aaaadde30bb7b
+sourceHash: 47e1734a162c39cca4aa345f3bc6451f92c2d4ff
 ---
 
-A British chronology of the war records under 10 November 1918 the recovery by the French of Mézières, an old fortress town on the [Meuse](https://pl.wikipedia.org/wiki/Moza) in the Ardennes department. Mézières and neighbouring Charleville now form a single town, [Charleville-Mézières](https://pl.wikipedia.org/wiki/Charleville-Mézières). Local accounts state that the occupation of the two towns, which began [at the end of August 1914](/niemcy-zajmuja-mezieres), ended on 9 November and lasted 2,013 days.
+A British chronology of the war records under 10 November 1918 the recovery by the French of Mézières, an old fortress town on the [Meuse](/miejsca/moza) in the Ardennes department. Mézières and neighbouring Charleville now form a single town, [Charleville-Mézières](https://pl.wikipedia.org/wiki/Charleville-Mézières). Local accounts state that the occupation of the two towns, which began [at the end of August 1914](/niemcy-zajmuja-mezieres), ended on 9 November and lasted 2,013 days.
 
 Mézières was one of the most important places in occupied France. In the autumn of 1914 the German [Great Headquarters](https://pl.wikipedia.org/wiki/Wielka_Kwatera_Główna) was moved here. Kaiser [Wilhelm II](/postacie/wilhelm-ii) lived in Charleville at the time, and the German command occupied, among other buildings, the prefecture. The town's location was even more important. Through Mézières ran the railway linking the German armies in France: east through Sedan to Metz, west through Hirson towards Belgium and northern France. As early as August 1918 Marshal [Ferdinand Foch](/postacie/ferdinand-foch) was planning a great "battle for Mézières", in which the Americans and French were to strike at the town along both banks of the Meuse. According to his memoirs, French intelligence judged in October that once the Hirson–Mézières railway was lost, the Germans would no longer be able to move troops from one side of the Ardennes to the other.
 

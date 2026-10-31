@@ -2,7 +2,7 @@
 title: Start of the Third Battle of the Isonzo
 summary: At noon on 18 October 1915 more than a thousand Italian guns opened fire along the whole Isonzo front. The infantry was to go over to the assault on 21 October.
 source: poczatek-trzeciej-bitwy-nad-isonzo
-sourceHash: 19c1a368f5950bf1215c3853450d53bf832acc10
+sourceHash: bd7765839eebabdb2236eb097bd70c4f550a0151
 ---
 
 On 18 October 1915, precisely at noon, the Italian artillery opened fire along the whole front on the [Isonzo](/bitwy/bitwy-nad-isonzo), from the snow-covered peaks of the Krn massif to the Adriatic coast. Thus began the Third Battle of the Isonzo, the first autumn offensive of General [Luigi Cadorna](/postacie/luigi-cadorna). The Austrian official history writes that when this "hurricane" of fire from guns of every calibre rolled over the valley, the defenders no longer had any doubt that the third battle had begun. It was also something new on this front. The infantry did not go over to a great assault that day. The bombardment was to last three days and destroy the Austro-Hungarian positions before the divisions went in on 21 October.
@@ -11,7 +11,7 @@ On 18 October 1915, precisely at noon, the Italian artillery opened fire along t
 
 Since the end of the [Second Battle of the Isonzo](/bitwy/druga-bitwa-nad-isonzo) in August, the Italians had been bringing their bled-white divisions back up to strength and gathering artillery. Cadorna had concluded that the earlier attacks had failed above all for lack of heavy guns and ammunition. Heavy batteries were brought in from the fortresses of Verona and Venice, from the fortifications on the Tagliamento and from the Tyrolean front, and French howitzers and naval guns arrived. According to the Italian official history, cited by the Austrian one, the Second and Third Armies and the reserve of the supreme command together had 338 battalions and 1,372 guns, including 305 heavy and medium ones. Other works give about 1,200–1,250 guns. By 17 October a million shells had been stockpiled. The infantry received more machine guns, heavy trench mortars, steel helmets and shields.
 
-Paris and London were pressing the Italians to attack as soon as possible and relieve Serbia, which the Central Powers had [attacked](/panstwa-centralne-atakuja-serbie) on 6 October. Cadorna, however, did not want to begin before he had gathered his ammunition. Domestic politics also counted. After five months of war enthusiasm had clearly waned, strikes were breaking out in the industrial districts, and public opinion was waiting for the capture of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja).
+Paris and London were pressing the Italians to attack as soon as possible and relieve Serbia, which the Central Powers had [attacked](/panstwa-centralne-atakuja-serbie) on 6 October. Cadorna, however, did not want to begin before he had gathered his ammunition. Domestic politics also counted. After five months of war enthusiasm had clearly waned, strikes were breaking out in the industrial districts, and public opinion was waiting for the capture of [Gorizia](/miejsca/gorycja).
 
 ## Plan and forces
 

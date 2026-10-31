@@ -2,10 +2,10 @@
 title: Belgian government moves to Ostend
 summary: On 7 October 1914 the Belgian government left Antwerp and moved to Ostend. The army was withdrawing across the Scheldt and residents fled the bombardment.
 source: rzad-belgijski-przenosi-sie-do-ostendy
-sourceHash: 87ba83b4f88c2c7bb94765a35862d5c6c438199b
+sourceHash: 328ae2a530702a3d75a7905669c0d77d85485d4d
 ---
 
-On 7 October 1914 the Belgian government left besieged [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia) and moved to [Ostend](https://pl.wikipedia.org/wiki/Ostenda) on the North Sea coast. On the same day King [Albert I](/postacie/albert-i) left the city, and the field army was crossing the [Scheldt](https://pl.wikipedia.org/wiki/Skalda) to the west. Antwerp, since August the refuge of the army, the King and the state authorities, was left to its own resources. Its evacuation began.
+On 7 October 1914 the Belgian government left besieged [Antwerp](/miejsca/antwerpia) and moved to [Ostend](https://pl.wikipedia.org/wiki/Ostenda) on the North Sea coast. On the same day King [Albert I](/postacie/albert-i) left the city, and the field army was crossing the [Scheldt](https://pl.wikipedia.org/wiki/Skalda) to the west. Antwerp, since August the refuge of the army, the King and the state authorities, was left to its own resources. Its evacuation began.
 
 ## The end of hopes of a defence
 

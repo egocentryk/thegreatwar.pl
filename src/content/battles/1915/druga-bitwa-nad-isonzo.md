@@ -17,7 +17,7 @@ tags: [Włochy, Austro-Węgry, Luigi Cadorna, wojna pozycyjna]
 milestone: false
 ---
 
-Druga bitwa nad Isonzo była drugą wielką ofensywą armii włoskiej nad [Soczą](https://pl.wikipedia.org/wiki/Socza). Od 18 lipca do 3 sierpnia 1915 roku 3 Armia księcia Aosty, wspierana przez 2 Armię, atakowała austro-węgierskie pozycje na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) na południe od [Gorycji](https://pl.wikipedia.org/wiki/Gorycja). Głównym celem był szczyt Monte San Michele, panujący nad dolną Soczą i nad przedmościem Gorycji. Włosi mieli dwa razy więcej batalionów i dwa razy więcej dział niż obrońcy, a ich artyleria była dużo silniejsza niż w czerwcu. Dwukrotnie wdarli się na szczyt San Michele i dwukrotnie zostali z niego zepchnięci. Po dwóch tygodniach walk na rozpalonych słońcem skałach front przesunął się o kilkaset metrów, a obie strony straciły po ponad 40 tysięcy ludzi.
+Druga bitwa nad Isonzo była drugą wielką ofensywą armii włoskiej nad [Soczą](https://pl.wikipedia.org/wiki/Socza). Od 18 lipca do 3 sierpnia 1915 roku 3 Armia księcia Aosty, wspierana przez 2 Armię, atakowała austro-węgierskie pozycje na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) na południe od [Gorycji](/miejsca/gorycja). Głównym celem był szczyt Monte San Michele, panujący nad dolną Soczą i nad przedmościem Gorycji. Włosi mieli dwa razy więcej batalionów i dwa razy więcej dział niż obrońcy, a ich artyleria była dużo silniejsza niż w czerwcu. Dwukrotnie wdarli się na szczyt San Michele i dwukrotnie zostali z niego zepchnięci. Po dwóch tygodniach walk na rozpalonych słońcem skałach front przesunął się o kilkaset metrów, a obie strony straciły po ponad 40 tysięcy ludzi.
 
 ## Nazwa i daty
 

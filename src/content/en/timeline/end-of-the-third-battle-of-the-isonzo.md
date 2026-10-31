@@ -2,10 +2,10 @@
 title: End of the Third Battle of the Isonzo
 summary: On 3 November 1915 the Italians last stormed Podgora and Monte San Michele. Next day the defenders retook their trenches and Cadorna halted the offensive.
 source: koniec-trzeciej-bitwy-nad-isonzo
-sourceHash: c644434a64d0c2556741b2a4f12acc3ba5029415
+sourceHash: 4ecbb96e2e1ef6752e05918e42409083fc95d0f0
 ---
 
-The British chronology of the war ends the Third Battle of the Isonzo on 3 November 1915. On that day the Italians launched their last great assaults on the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and Monte San Michele, which broke down. The Italian and Austro-Hungarian official histories count the battle as one day longer, to 4 November. On the morning of that day the defenders recaptured the last trenches on Podgora hill, and in the evening General [Luigi Cadorna](/postacie/luigi-cadorna) ordered the attacks to stop. Hence both dates, 3 and 4 November, appear in the literature.
+The British chronology of the war ends the Third Battle of the Isonzo on 3 November 1915. On that day the Italians launched their last great assaults on the [Gorizia](/miejsca/gorycja) bridgehead and Monte San Michele, which broke down. The Italian and Austro-Hungarian official histories count the battle as one day longer, to 4 November. On the morning of that day the defenders recaptured the last trenches on Podgora hill, and in the evening General [Luigi Cadorna](/postacie/luigi-cadorna) ordered the attacks to stop. Hence both dates, 3 and 4 November, appear in the literature.
 
 ## Oslavia and Podgora
 
@@ -15,7 +15,7 @@ The commander of the Italian VI Corps, General Luigi Capello, did not give up, h
 
 ## The last attacks on the Karst
 
-On the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau, on the night before 3 November, three Feldjäger battalions of the 6th Infantry Division began relieving the Honvéd on the northern slope of Monte San Michele. In the darkness the guides lost their way, and one of the new battalions went beyond the forward position straight into Italian fire from three sides, suffering heavy losses. The Austrians then abandoned this unfavourable salient and occupied a new line 50 paces behind it. At 2 p.m. the Italians attacked along the whole front of the Austro-Hungarian VII Corps, from Monte San Michele to the hills beyond San Martino, but the attack nowhere reached the Austrian trenches. Night attempts to break through at San Martino also failed. At Monfalcone, after a twelve-day pause, the Italian VII Corps attacked the positions of the Austrian III Corps in a storm and was driven back by artillery and machine-gun fire.
+On the [Karst](/bitwy/bitwy-nad-isonzo) plateau, on the night before 3 November, three Feldjäger battalions of the 6th Infantry Division began relieving the Honvéd on the northern slope of Monte San Michele. In the darkness the guides lost their way, and one of the new battalions went beyond the forward position straight into Italian fire from three sides, suffering heavy losses. The Austrians then abandoned this unfavourable salient and occupied a new line 50 paces behind it. At 2 p.m. the Italians attacked along the whole front of the Austro-Hungarian VII Corps, from Monte San Michele to the hills beyond San Martino, but the attack nowhere reached the Austrian trenches. Night attempts to break through at San Martino also failed. At Monfalcone, after a twelve-day pause, the Italian VII Corps attacked the positions of the Austrian III Corps in a storm and was driven back by artillery and machine-gun fire.
 
 ## 4 November
 

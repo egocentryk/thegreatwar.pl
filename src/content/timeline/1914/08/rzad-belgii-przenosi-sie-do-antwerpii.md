@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-17 sierpnia 1914 roku rząd [Belgii](/kraje/belgia) opuścił [Brukselę](https://pl.wikipedia.org/wiki/Bruksela) i przeniósł się do [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Po upadku fortów Liège armia niemiecka mogła swobodnie ruszyć w głąb kraju, a stolica znalazła się bezpośrednio na jej drodze.
+17 sierpnia 1914 roku rząd [Belgii](/kraje/belgia) opuścił [Brukselę](https://pl.wikipedia.org/wiki/Bruksela) i przeniósł się do [Antwerpii](/miejsca/antwerpia). Po upadku fortów Liège armia niemiecka mogła swobodnie ruszyć w głąb kraju, a stolica znalazła się bezpośrednio na jej drodze.
 
 ## Twierdza nad Skaldą
 

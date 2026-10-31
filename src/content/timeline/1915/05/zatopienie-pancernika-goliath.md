@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Około godziny pierwszej w nocy 13 maja 1915 roku turecki niszczyciel Muavenet-i Milliye storpedował w zatoce Morto, u wejścia do [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele), brytyjski pancernik Goliath. Trzy torpedy trafiły okręt jedna po drugiej, a ten w ciągu kilku minut przewrócił się do góry dnem i zatonął. Według brytyjskiej historii oficjalnej z liczącej 750 ludzi załogi zginęło blisko 570, wśród nich dowódca, komandor Thomas Shelford. Napastnik zniknął w ciemności i bez strat wrócił do swojej bazy.
+Około godziny pierwszej w nocy 13 maja 1915 roku turecki niszczyciel Muavenet-i Milliye storpedował w zatoce Morto, u wejścia do [Dardaneli](/miejsca/dardanele), brytyjski pancernik Goliath. Trzy torpedy trafiły okręt jedna po drugiej, a ten w ciągu kilku minut przewrócił się do góry dnem i zatonął. Według brytyjskiej historii oficjalnej z liczącej 750 ludzi załogi zginęło blisko 570, wśród nich dowódca, komandor Thomas Shelford. Napastnik zniknął w ciemności i bez strat wrócił do swojej bazy.
 
 ## Nocna warta pod Kereves Dere
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Max von Gallwitz, Georg Fuchs]
 result: Allied victory. Within two days the Americans and French eliminated the salient, took about 15,000–16,000 prisoners and some 450 guns, and recovered more than 500 km² of French territory.
 source: bitwa-pod-saint-mihiel
-sourceHash: af71fd4c0e49ba511b7659339e19e1dbd12abcd6
+sourceHash: 1e298e2e8639e3b8afc96387d8261a770bf73996
 brief:
   - "On 12 September 1918 General John Pershing's American First Army, with the French II Colonial Corps under its command, attacked the German Saint-Mihiel salient south-east of Verdun."
   - "The Germans had held the salient since 1914. It cut the railway from Verdun to Toul and Nancy, and for the Germans it shielded Metz and the iron-ore basin around Briey."
@@ -18,7 +18,7 @@ brief:
   - "The battle proved that the American Expeditionary Forces could conduct a large offensive with their own staffs. Straight afterwards the First Army moved to the offensive between the Meuse and the Argonne."
 ---
 
-The Battle of Saint-Mihiel was the first major operation carried out by an independent American army under the orders of the American commander-in-chief. On 12 September 1918 General [John Pershing](/postacie/john-pershing)'s First Army, with the French II Colonial Corps under its command, attacked the German salient around the small town of [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) on the [Meuse](https://pl.wikipedia.org/wiki/Moza), which for four years had cut into the French lines south-east of Verdun. The attack caught the Germans just as they were beginning to evacuate the salient. On the morning of 13 September troops advancing from the south and from the west met near [Vigneulles](https://pl.wikipedia.org/wiki/Vigneulles-lès-Hattonchâtel), trapping in a pocket those defenders who had not managed to withdraw. By 16 September the Allies had consolidated on a new, much shorter line in front of the German Michel position. The battle was not as bloody as the earlier American fighting on the Marne, but it was of enormous importance: it proved that the [American Expeditionary Forces](https://pl.wikipedia.org/wiki/Amerykański_Korpus_Ekspedycyjny) could conduct a large offensive with their own staffs.
+The Battle of Saint-Mihiel was the first major operation carried out by an independent American army under the orders of the American commander-in-chief. On 12 September 1918 General [John Pershing](/postacie/john-pershing)'s First Army, with the French II Colonial Corps under its command, attacked the German salient around the small town of [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) on the [Meuse](/miejsca/moza), which for four years had cut into the French lines south-east of Verdun. The attack caught the Germans just as they were beginning to evacuate the salient. On the morning of 13 September troops advancing from the south and from the west met near [Vigneulles](https://pl.wikipedia.org/wiki/Vigneulles-lès-Hattonchâtel), trapping in a pocket those defenders who had not managed to withdraw. By 16 September the Allies had consolidated on a new, much shorter line in front of the German Michel position. The battle was not as bloody as the earlier American fighting on the Marne, but it was of enormous importance: it proved that the [American Expeditionary Forces](https://pl.wikipedia.org/wiki/Amerykański_Korpus_Ekspedycyjny) could conduct a large offensive with their own staffs.
 
 ## Name and dates
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Cevat Pasha, Guido von Usedom]
 result: Ottoman victory. The Allies destroyed the forts at the entrance to the strait but did not break through the minefields. On 18 March they lost three battleships, and three others were badly damaged.
 source: morska-operacja-w-dardanelach
-sourceHash: bd6a5bb73843bd5c3c6c4c2914fb11a4c10633ae
+sourceHash: b27e577aa65f701865d43555577f6efe6c888dec
 brief:
   - "From 19 February to 18 March 1915 the British and French fleets tried to force the Dardanelles without the help of land forces. The ships were to destroy the Turkish forts, clear the strait of mines and appear off Constantinople."
   - "The chief advocate of the operation was Winston Churchill, and the plan was drawn up by Vice-Admiral Sackville Carden. Sixteen capital ships gathered under his orders, most of them old pre-dreadnought battleships."
@@ -18,7 +18,7 @@ brief:
   - "The defeat of 18 March settled that the Dardanelles would have to be fought for on land and led to the landing of 25 April 1915. In Turkey 18 March is celebrated as the day of the victory at Çanakkale."
 ---
 
-The naval operation in the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) was an attempt by the British and French fleets to force the strait without the help of land forces. The ships were to destroy the Turkish forts, clear the strait of mines, enter the [Sea of Marmara](https://pl.wikipedia.org/wiki/Morze_Marmara) and appear off [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol). The British hoped that the sight of battleships off the capital would provoke a coup in Turkey or force it out of the war, and that the straits would open a sea route to Russia. For four weeks the fleet gradually worked its way deeper into the Dardanelles, but it was stopped in front of the minefields at the narrowest point of the strait. The great attack of 18 March ended with three battleships sunk and settled that the Dardanelles would have to be fought for on land.
+The naval operation in the [Dardanelles](/miejsca/dardanele) was an attempt by the British and French fleets to force the strait without the help of land forces. The ships were to destroy the Turkish forts, clear the strait of mines, enter the [Sea of Marmara](https://pl.wikipedia.org/wiki/Morze_Marmara) and appear off [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol). The British hoped that the sight of battleships off the capital would provoke a coup in Turkey or force it out of the war, and that the straits would open a sea route to Russia. For four weeks the fleet gradually worked its way deeper into the Dardanelles, but it was stopped in front of the minefields at the narrowest point of the strait. The great attack of 18 March ended with three battleships sunk and settled that the Dardanelles would have to be fought for on land.
 
 ## Name and dates
 

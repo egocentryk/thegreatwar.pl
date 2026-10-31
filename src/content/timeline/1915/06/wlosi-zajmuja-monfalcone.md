@@ -13,7 +13,7 @@ draft: false
 
 9 czerwca 1915 roku wojska włoskiej 3 Armii zajęły [Monfalcone](https://pl.wikipedia.org/wiki/Monfalcone), austriackie miasteczko przemysłowe nad Zatoką Triesteńską, niedaleko ujścia [Soczy](https://pl.wikipedia.org/wiki/Socza). Był to ostatni łatwy sukces Włochów na tym odcinku frontu od [przekroczenia granicy](/wlosi-przekraczaja-granice-austriacka) 24 maja. Austriacy nie bronili miasta. Wycofali się na wzgórza wznoszące się tuż za nim, na krawędzi płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)), skąd ich działa przez następne miesiące ostrzeliwały ulice.
 
-Monfalcone należało do austriackiego hrabstwa Gorycji i Gradyski i mieszkała w nim głównie ludność mówiąca po włosku. Od 1908 roku działała tu stocznia Cantiere Navale Triestino, budująca parowce dla triesteńskich armatorów, a obok niej zakłady przemysłowe. Przez miasto biegła linia kolejowa z [Triestu](https://pl.wikipedia.org/wiki/Triest) do Włoch. Dla Cadorny Monfalcone było bramą do Triestu, oddalonego stąd o niespełna 30 kilometrów wzdłuż wybrzeża.
+Monfalcone należało do austriackiego hrabstwa Gorycji i Gradyski i mieszkała w nim głównie ludność mówiąca po włosku. Od 1908 roku działała tu stocznia Cantiere Navale Triestino, budująca parowce dla triesteńskich armatorów, a obok niej zakłady przemysłowe. Przez miasto biegła linia kolejowa z [Triestu](/miejsca/triest) do Włoch. Dla Cadorny Monfalcone było bramą do Triestu, oddalonego stąd o niespełna 30 kilometrów wzdłuż wybrzeża.
 
 ## Pod krawędzią Krasu
 

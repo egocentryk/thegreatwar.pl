@@ -2,10 +2,10 @@
 title: End of the Battle of Sari Bair
 summary: At dawn on 10 August 1915 the Turks under Mustafa Kemal retook Chunuk Bair and drove the British off the Sari Bair ridge. The Anzac offensive was over.
 source: koniec-bitwy-o-sari-bair
-sourceHash: 041176515124fa4bacd62dbcce954f6383c4e751
+sourceHash: 8d566ca0424ac749997cc84b8b02dc89443fb2d6
 ---
 
-At dawn on 10 August 1915 Turkish infantry poured over the summit of Chunuk Bair on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula and swept away the British battalions which the day before had relieved the shattered New Zealanders on its slope. The attack was prepared and led by Colonel [Mustafa Kemal](/postacie/mustafa-kemal), since the evening of 8 August commander of the Turkish troops north of Anzac Cove. By noon the Allies had lost everything they had gained on the Sari Bair ridge since 8 August, except the trenches on the lower Rhododendron Ridge. With this day the British official history ends the four-day Battle of Sari Bair, on which the fate of the whole campaign had hung.
+At dawn on 10 August 1915 Turkish infantry poured over the summit of Chunuk Bair on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula and swept away the British battalions which the day before had relieved the shattered New Zealanders on its slope. The attack was prepared and led by Colonel [Mustafa Kemal](/postacie/mustafa-kemal), since the evening of 8 August commander of the Turkish troops north of Anzac Cove. By noon the Allies had lost everything they had gained on the Sari Bair ridge since 8 August, except the trenches on the lower Rhododendron Ridge. With this day the British official history ends the four-day Battle of Sari Bair, on which the fate of the whole campaign had hung.
 
 ## Changing of the guard
 

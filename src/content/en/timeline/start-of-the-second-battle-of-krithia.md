@@ -2,10 +2,10 @@
 title: Start of the Second Battle of Krithia
 summary: On 6 May 1915 the Allies at Helles again advanced on Krithia and Achi Baba. Without artillery support the attack stalled after a few hundred metres.
 source: poczatek-drugiej-bitwy-o-kritie
-sourceHash: 5cb4c34812beda194428b2127157a91bfe3a2640
+sourceHash: bdee475142a7dbc9e4ae3536738ffc37d0effda1
 ---
 
-On 6 May 1915 the British and French at Helles, at the southern tip of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula, attacked the village of Krithia (today Alçıtepe) and the hill of Achi Baba for the second time. The [first attack](/pierwszy-atak-na-kritie) of 28 April had collapsed within a single day. This time General [Ian Hamilton](/postacie/ian-hamilton) had concentrated about 25,000 soldiers on this sector and hoped to take that same day the hill from which the forts in the Narrows of the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) could be seen.
+On 6 May 1915 the British and French at Helles, at the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula, attacked the village of Krithia (today Alçıtepe) and the hill of Achi Baba for the second time. The [first attack](/pierwszy-atak-na-kritie) of 28 April had collapsed within a single day. This time General [Ian Hamilton](/postacie/ian-hamilton) had concentrated about 25,000 soldiers on this sector and hoped to take that same day the hill from which the forts in the Narrows of the [Dardanelles](/miejsca/dardanele) could be seen.
 
 ## Everything that was to hand
 

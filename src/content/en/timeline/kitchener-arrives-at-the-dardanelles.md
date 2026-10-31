@@ -2,10 +2,10 @@
 title: Kitchener arrives at the Dardanelles
 summary: On 10 November 1915 Lord Kitchener held talks at Mudros on the fate of Gallipoli. After seeing the beachheads he leaned towards a partial evacuation.
 source: kitchener-przybywa-nad-dardanele
-sourceHash: b852b424d7c197960a082cbc29b49eb6d52fed61
+sourceHash: 9f9ce8a60997bb015ef51e5e39c4fb19193ee46f
 ---
 
-Aboard the cruiser *Dartmouth* the British Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), sailed from Marseilles to the port of [Mudros](https://pl.wikipedia.org/wiki/Mudros) on the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos), the main allied base off the Dardanelles. The sources differ by one day. The British official history of the Gallipoli campaign says that he arrived late in the evening of 9 November, while Charles Bean's Australian official history gives 10 November. In any case, on 10 November Kitchener sent his first report to Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith). Almost two weeks of consultations began, on which the fate of the troops on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula depended.
+Aboard the cruiser *Dartmouth* the British Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), sailed from Marseilles to the port of [Mudros](/miejsca/mudros) on the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos), the main allied base off the Dardanelles. The sources differ by one day. The British official history of the Gallipoli campaign says that he arrived late in the evening of 9 November, while Charles Bean's Australian official history gives 10 November. In any case, on 10 November Kitchener sent his first report to Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith). Almost two weeks of consultations began, on which the fate of the troops on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula depended.
 
 ## The advisers
 

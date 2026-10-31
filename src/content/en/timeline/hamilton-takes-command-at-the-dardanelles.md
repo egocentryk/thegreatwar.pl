@@ -2,10 +2,10 @@
 title: Hamilton takes command at the Dardanelles
 summary: On 17 March 1915 General Ian Hamilton reached Tenedos and conferred with Admiral de Robeck. The fleet still wanted to try to force the Straits on its own.
 source: hamilton-obejmuje-dowodztwo-nad-dardanelami
-sourceHash: 97d2bc7b6d218d8c141fe1e39964ca6636f4dc2b
+sourceHash: a29c84a0159874f2a72e91c49507bf9b0db2614b
 ---
 
-At three in the afternoon on 17 March 1915 the cruiser *Phaeton* dropped anchor off the island of Tenedos (today [Bozcaada](https://pl.wikipedia.org/wiki/Bozcaada)), among the ships of the Allied fleet attacking the Dardanelles. On board was General [Ian Hamilton](/postacie/ian-hamilton), [appointed five days earlier](/ian-hamilton-dowodca-sil-srodziemnomorskich) commander of the Mediterranean Expeditionary Force. At the same moment the French general Albert d'Amade, commander of the [Orient Expeditionary Corps](/francja-wysyla-korpus-nad-dardanele), entered the harbour. A few days earlier he had arrived with his soldiers in [Mudros](https://pl.wikipedia.org/wiki/Mudros) Bay on Lemnos, and he had been brought to the meeting with Hamilton by Rear-Admiral Rosslyn Wemyss.
+At three in the afternoon on 17 March 1915 the cruiser *Phaeton* dropped anchor off the island of Tenedos (today [Bozcaada](https://pl.wikipedia.org/wiki/Bozcaada)), among the ships of the Allied fleet attacking the Dardanelles. On board was General [Ian Hamilton](/postacie/ian-hamilton), [appointed five days earlier](/ian-hamilton-dowodca-sil-srodziemnomorskich) commander of the Mediterranean Expeditionary Force. At the same moment the French general Albert d'Amade, commander of the [Orient Expeditionary Corps](/francja-wysyla-korpus-nad-dardanele), entered the harbour. A few days earlier he had arrived with his soldiers in [Mudros](/miejsca/mudros) Bay on Lemnos, and he had been brought to the meeting with Hamilton by Rear-Admiral Rosslyn Wemyss.
 
 ## The voyage
 

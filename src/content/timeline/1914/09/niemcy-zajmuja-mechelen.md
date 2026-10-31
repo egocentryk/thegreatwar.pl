@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-28 września 1914 roku wojska niemieckie zajęły [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) (fr. Malines), miasto leżące w połowie drogi między Brukselą a Antwerpią. Tego samego dnia niemiecka artyleria oblężnicza rozpoczęła ostrzał zewnętrznych fortów [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), a Mechelen znalazło się tuż za niemiecką linią frontu.
+28 września 1914 roku wojska niemieckie zajęły [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) (fr. Malines), miasto leżące w połowie drogi między Brukselą a Antwerpią. Tego samego dnia niemiecka artyleria oblężnicza rozpoczęła ostrzał zewnętrznych fortów [Antwerpii](/miejsca/antwerpia), a Mechelen znalazło się tuż za niemiecką linią frontu.
 
 ## Miasto na przedpolu twierdzy
 

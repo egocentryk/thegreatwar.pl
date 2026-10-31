@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje, że 13 września 1914 roku wojska francuskie ponownie zajęły [Soissons](https://pl.wikipedia.org/wiki/Soissons) i [Amiens](https://pl.wikipedia.org/wiki/Amiens). Oba miasta Niemcy zajęli na przełomie sierpnia i września, w czasie marszu na Paryż, a opuścili je po klęsce nad Marną. Ich okupacja trwała niespełna dwa tygodnie.
+Brytyjska chronologia wojny podaje, że 13 września 1914 roku wojska francuskie ponownie zajęły [Soissons](https://pl.wikipedia.org/wiki/Soissons) i [Amiens](/miejsca/amiens). Oba miasta Niemcy zajęli na przełomie sierpnia i września, w czasie marszu na Paryż, a opuścili je po klęsce nad Marną. Ich okupacja trwała niespełna dwa tygodnie.
 
 ## Soissons
 

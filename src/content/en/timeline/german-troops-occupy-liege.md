@@ -2,10 +2,10 @@
 title: German troops occupy Liège
 summary: On 7 August 1914 a brigade led by Erich Ludendorff entered Liège and took the citadel. The forts surrounding the city, however, continued to resist.
 source: wojska-niemieckie-zajmuja-liege
-sourceHash: e5ba75723e8809724a43d6e5a0cc68dc9c96eb2b
+sourceHash: 5c15e8230ff02f57427817e34d7189f1226d7b86
 ---
 
-On 7 August 1914 German troops entered [Liège](https://pl.wikipedia.org/wiki/Liège). On the third day of the fighting for the Belgian fortress they took the city itself, its bridges over the [Meuse](https://pl.wikipedia.org/wiki/Moza) and the old citadel, but the ring of twelve forts around it remained in the defenders' hands. The leading part was played by an officer of whom the whole world would soon hear: [Erich Ludendorff](/postacie/erich-ludendorff).
+On 7 August 1914 German troops entered [Liège](https://pl.wikipedia.org/wiki/Liège). On the third day of the fighting for the Belgian fortress they took the city itself, its bridges over the [Meuse](/miejsca/moza) and the old citadel, but the ring of twelve forts around it remained in the defenders' hands. The leading part was played by an officer of whom the whole world would soon hear: [Erich Ludendorff](/postacie/erich-ludendorff).
 
 ## The night attack
 

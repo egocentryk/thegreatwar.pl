@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 marca 1915 roku brytyjska Admiralicja nakazała wiceadmirałowi Richardowi Peirse'owi odesłać pancerniki Triumph i Swiftsure spod [Smyrny](https://pl.wikipedia.org/wiki/Izmir) do bazy w [Mudros](https://pl.wikipedia.org/wiki/Mudros), a samemu wrócić do Egiptu. Tak zakończyła się trwająca od 5 marca operacja przeciw Smyrnie. Nie przyniosła ona ani zniszczenia fortów, ani porozumienia z tureckim gubernatorem, ale port i tak przestał być groźny dla aliantów. Brytyjska kronika wojny zapisała ten dzień jako wycofanie eskadry blokującej Smyrnę. W rzeczywistości [blokada](https://pl.wikipedia.org/wiki/Blokada_morska) trwała dalej, tyle że prowadziły ją odtąd mniejsze okręty.
+15 marca 1915 roku brytyjska Admiralicja nakazała wiceadmirałowi Richardowi Peirse'owi odesłać pancerniki Triumph i Swiftsure spod [Smyrny](https://pl.wikipedia.org/wiki/Izmir) do bazy w [Mudros](/miejsca/mudros), a samemu wrócić do Egiptu. Tak zakończyła się trwająca od 5 marca operacja przeciw Smyrnie. Nie przyniosła ona ani zniszczenia fortów, ani porozumienia z tureckim gubernatorem, ale port i tak przestał być groźny dla aliantów. Brytyjska kronika wojny zapisała ten dzień jako wycofanie eskadry blokującej Smyrnę. W rzeczywistości [blokada](https://pl.wikipedia.org/wiki/Blokada_morska) trwała dalej, tyle że prowadziły ją odtąd mniejsze okręty.
 
 ## Rozejm bez porozumienia
 

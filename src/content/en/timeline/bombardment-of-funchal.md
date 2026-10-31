@@ -2,7 +2,7 @@
 title: Bombardment of Funchal
 summary: On 3 December 1916 the German U-38 entered the Funchal roads on Madeira, sank three Allied ships and a barge, and then shelled the town with her deck gun.
 source: ostrzal-funchal
-sourceHash: 6df07e6aebbe32b2db3c417f886ff38eba63f618
+sourceHash: 49e13fbc0c04616ac57c44d6eb7840e0e43e7a01
 ---
 
 On Sunday 3 December 1916, at about 8.30 a.m., the German submarine [U-38](https://pl.wikipedia.org/wiki/SM_U-38) attacked the ships lying in the roads of [Funchal](https://pl.wikipedia.org/wiki/Funchal), capital of Portuguese [Madeira](https://pl.wikipedia.org/wiki/Madera). Within a few minutes she sank three Allied vessels and a coal barge with torpedoes, then surfaced and shelled the town for nearly two hours. It was the German navy's first attack on the territory of [Portugal](/kraje/portugalia), with which Germany [had been at war since March](/niemcy-wypowiadaja-wojne-portugalii).
@@ -11,7 +11,7 @@ On Sunday 3 December 1916, at about 8.30 a.m., the German submarine [U-38](https
 
 Funchal lay at a crossroads of Atlantic routes, and Allied warships had used it since the beginning of the war. After Portugal entered the war, the British cruisers patrolling the central Atlantic could coal there freely. The port, however, had neither anti-torpedo nets nor any real defence: the harbour authority had three armed yachts, and on land there were two batteries, at the São Tiago fort and in the Quinta da Vigia park. The British official history of the war at sea admits that when, in the autumn of 1916, German submarines of a new type began to sail as far as the coast of America, the open roadsteads of Madeira and the Cape Verde Islands ceased to be fit anchorages, and the command of the British squadron moved to Sierra Leone.
 
-U-38 was commanded by Kapitänleutnant Max Valentiner, one of the most successful German submarine commanders. It was he who a year earlier [had sunk the liner *Ancona*](/zatopienie-statku-ancona). The boat had left the Austro-Hungarian base at [Cattaro](https://pl.wikipedia.org/wiki/Kotor), slipped past [Gibraltar](https://pl.wikipedia.org/wiki/Gibraltar) into the Atlantic and headed south. A week earlier, off the coast of Portugal, another German submarine [had sunk the French battleship *Suffren*](/zatopienie-pancernika-suffren).
+U-38 was commanded by Kapitänleutnant Max Valentiner, one of the most successful German submarine commanders. It was he who a year earlier [had sunk the liner *Ancona*](/zatopienie-statku-ancona). The boat had left the Austro-Hungarian base at [Cattaro](/miejsca/kotor), slipped past [Gibraltar](https://pl.wikipedia.org/wiki/Gibraltar) into the Atlantic and headed south. A week earlier, off the coast of Portugal, another German submarine [had sunk the French battleship *Suffren*](/zatopienie-pancernika-suffren).
 
 ## Attack on the roads
 

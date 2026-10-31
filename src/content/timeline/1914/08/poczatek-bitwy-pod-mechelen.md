@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku armia belgijska wyszła z twierdzy [Antwerpia](https://pl.wikipedia.org/wiki/Antwerpia) i zaatakowała niemieckie pozycje na południe od miasta [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), po francusku zwanego Malines. Był to pierwszy z wypadów, którymi Belgowie próbowali odciągnąć siły niemieckie od frontu we Francji.
+25 sierpnia 1914 roku armia belgijska wyszła z twierdzy [Antwerpia](/miejsca/antwerpia) i zaatakowała niemieckie pozycje na południe od miasta [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), po francusku zwanego Malines. Był to pierwszy z wypadów, którymi Belgowie próbowali odciągnąć siły niemieckie od frontu we Francji.
 
 ## Decyzja króla
 

@@ -2,10 +2,10 @@
 title: British occupy Lemnos
 summary: On 23 February 1915 British marines arrived on the Greek island of Lemnos. Mudros Bay became the main base of the Allied fleet and troops at the Dardanelles.
 source: brytyjczycy-zajmuja-lemnos
-sourceHash: e94bf3baa6f910d5028651360065d5d5c95c18c2
+sourceHash: a8c650a2ccdbf32f82f0debf62077dfd868b80da
 ---
 
-On 23 February 1915 transports carrying two battalions of British marines, from Plymouth and from Chatham, sailed into [Mudros](https://pl.wikipedia.org/wiki/Mudros) Bay on the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). They were commanded by Brigadier-General C. N. Trotman. Lemnos, lying in the north of the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie), about 50 kilometres from the entrance to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele), became the advanced base of the fleet that for four days had been [attacking the forts at the entrance to the Straits](/poczatek-ataku-floty-na-dardanele).
+On 23 February 1915 transports carrying two battalions of British marines, from Plymouth and from Chatham, sailed into [Mudros](/miejsca/mudros) Bay on the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). They were commanded by Brigadier-General C. N. Trotman. Lemnos, lying in the north of the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie), about 50 kilometres from the entrance to the [Dardanelles](/miejsca/dardanele), became the advanced base of the fleet that for four days had been [attacking the forts at the entrance to the Straits](/poczatek-ataku-floty-na-dardanele).
 
 ## An island of a neutral state
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-15 sierpnia 1915 roku generał [Ian Hamilton](/postacie/ian-hamilton) odwołał generała [Fredericka Stopforda](https://pl.wikipedia.org/wiki/Frederick_Stopford) z dowództwa IX Korpusu, który dziewięć dni wcześniej [wylądował w zatoce Suvla](/ladowanie-w-zatoce-suvla) na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Tego samego popołudnia irlandzkie bataliony zdobyły najwyższy punkt grzbietu Kiretch Tepe na północnym skraju zatoki. Na tym dniu brytyjskie zestawienia kończą lądowanie pod Suvlą.
+15 sierpnia 1915 roku generał [Ian Hamilton](/postacie/ian-hamilton) odwołał generała [Fredericka Stopforda](https://pl.wikipedia.org/wiki/Frederick_Stopford) z dowództwa IX Korpusu, który dziewięć dni wcześniej [wylądował w zatoce Suvla](/ladowanie-w-zatoce-suvla) na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). Tego samego popołudnia irlandzkie bataliony zdobyły najwyższy punkt grzbietu Kiretch Tepe na północnym skraju zatoki. Na tym dniu brytyjskie zestawienia kończą lądowanie pod Suvlą.
 
 ## Stracone dni
 

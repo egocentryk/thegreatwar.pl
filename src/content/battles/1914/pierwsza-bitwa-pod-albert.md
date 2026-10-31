@@ -29,7 +29,7 @@ Większość współczesnych opracowań, zarówno francuskich, jak i anglojęzyc
 
 W drugiej połowie września 1914 roku obie strony przerzucały wojska na zachód, by obejść otwarte skrzydło przeciwnika. Pierwsza próba w Pikardii, między [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) a Sommą, utknęła w czołowych starciach pod Lassigny, Roye i Chaulnes. Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), kierował więc kolejne korpusy dalej na północ. Castelnau miał przedłużyć linię 2 Armii za Sommę i uderzyć z okolic Albert na wschód, na tyły Niemców.
 
-Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), zamierzał zrobić to samo w przeciwnym kierunku. Około 21 września postanowił skupić w rejonie [Amiens](https://pl.wikipedia.org/wiki/Amiens) 6 Armię, przewożoną z Lotaryngii, i uderzyć nią na zachód, w stronę wybrzeża. Francuskie natarcie w Pikardii zmusiło go jednak do skierowania części jej sił, XXI Korpusu i I Bawarskiego Korpusu, na południe od Sommy. Na północ od rzeki pozostały II Bawarski Korpus i XIV Korpus Rezerwowy, wsparte przez kawalerię.
+Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), zamierzał zrobić to samo w przeciwnym kierunku. Około 21 września postanowił skupić w rejonie [Amiens](/miejsca/amiens) 6 Armię, przewożoną z Lotaryngii, i uderzyć nią na zachód, w stronę wybrzeża. Francuskie natarcie w Pikardii zmusiło go jednak do skierowania części jej sił, XXI Korpusu i I Bawarskiego Korpusu, na południe od Sommy. Na północ od rzeki pozostały II Bawarski Korpus i XIV Korpus Rezerwowy, wsparte przez kawalerię.
 
 ## Przebieg walk
 

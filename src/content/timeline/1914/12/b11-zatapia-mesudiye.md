@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-13 grudnia 1914 roku brytyjski okręt podwodny [B11](https://pl.wikipedia.org/wiki/HMS_B11), dowodzony przez porucznika Normana Holbrooka, wszedł w głąb [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele), przeszedł pod pięcioma liniami min i storpedował stary turecki pancernik Mesudiye. Pancernik przewrócił się i szybko zatonął. Był to pierwszy sukces alianckiego okrętu podwodnego w cieśninie, a Holbrook otrzymał za niego pierwszy w tej wojnie [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) przyznany marynarzowi.
+13 grudnia 1914 roku brytyjski okręt podwodny [B11](https://pl.wikipedia.org/wiki/HMS_B11), dowodzony przez porucznika Normana Holbrooka, wszedł w głąb [Dardaneli](/miejsca/dardanele), przeszedł pod pięcioma liniami min i storpedował stary turecki pancernik Mesudiye. Pancernik przewrócił się i szybko zatonął. Był to pierwszy sukces alianckiego okrętu podwodnego w cieśninie, a Holbrook otrzymał za niego pierwszy w tej wojnie [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) przyznany marynarzowi.
 
 ## Stary pancernik na straży min
 

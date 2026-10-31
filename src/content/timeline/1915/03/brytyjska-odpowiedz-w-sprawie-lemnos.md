@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-9 marca 1915 roku rząd brytyjski odpowiedział na [zapytanie Grecji](/grecja-pyta-o-okupacje-lemnos) w sprawie zajęcia wyspy [Lemnos](https://pl.wikipedia.org/wiki/Limnos). Według brytyjskiej chronologii wojny Londyn powołał się na konieczność wojskową. Zatoka [Mudros](https://pl.wikipedia.org/wiki/Mudros) była najlepszym naturalnym portem w pobliżu [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele), a flota, która od trzech tygodni atakowała tureckie forty, nie mogła się bez niego obejść. Tego samego dnia król [Konstantyn I](/postacie/konstantyn-i) [powierzył urząd premiera Dimitriosowi Gunarisowi](/dimitrios-gunaris-premierem-grecji) i to jego rząd musiał zająć stanowisko wobec brytyjskich wyjaśnień.
+9 marca 1915 roku rząd brytyjski odpowiedział na [zapytanie Grecji](/grecja-pyta-o-okupacje-lemnos) w sprawie zajęcia wyspy [Lemnos](https://pl.wikipedia.org/wiki/Limnos). Według brytyjskiej chronologii wojny Londyn powołał się na konieczność wojskową. Zatoka [Mudros](/miejsca/mudros) była najlepszym naturalnym portem w pobliżu [Dardaneli](/miejsca/dardanele), a flota, która od trzech tygodni atakowała tureckie forty, nie mogła się bez niego obejść. Tego samego dnia król [Konstantyn I](/postacie/konstantyn-i) [powierzył urząd premiera Dimitriosowi Gunarisowi](/dimitrios-gunaris-premierem-grecji) i to jego rząd musiał zająć stanowisko wobec brytyjskich wyjaśnień.
 
 ## Wyspa na pół turecka
 

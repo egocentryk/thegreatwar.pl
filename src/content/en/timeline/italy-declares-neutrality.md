@@ -2,7 +2,7 @@
 title: Italy declares neutrality
 summary: On 3 August 1914 Italy declared its neutrality, holding that the Triple Alliance did not oblige it to join a war started by Austria-Hungary.
 source: wlochy-oglaszaja-neutralnosc
-sourceHash: 6aed058d1d781e68e7ebd810eddbb32dfe14f3d1
+sourceHash: 464a64cb6c3d12321a1ffa9f63afb9778d8feb8e
 ---
 
 On 3 August 1914 the [Kingdom of Italy](/kraje/wlochy) declared its neutrality in the war that was just engulfing Europe. The decision had been taken the day before by the government of Prime Minister [Antonio Salandra](/postacie/antonio-salandra) and Foreign Minister the Marquis Antonino di San Giuliano. It was a blow to Germany and [Austria-Hungary](/kraje/austro-wegry), with which Italy had formed the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze) since 1882. On the same day Germany [declared war on France](/niemcy-wypowiadaja-wojne-francji), and Italy, formally its ally, stayed on the sidelines.
@@ -19,7 +19,7 @@ The Italians had a second argument. Article VII of the treaty bound Austria-Hung
 
 ## The real reasons
 
-Behind the official arguments lay deeper reasons. Italy had long been a rival of Austria-Hungary, and many Italian circles demanded the annexation of [Trento](https://pl.wikipedia.org/wiki/Trydent) and [Trieste](https://pl.wikipedia.org/wiki/Triest), largely inhabited by Italians but belonging to the Habsburg monarchy. Salandra believed that after a victory at the side of the Central Powers Italy would at best be the empire's "first vassal". The country was also unprepared for a great war. The army, whose chief of staff since only 27 July had been General [Luigi Cadorna](/postacie/luigi-cadorna), had in August 1914 barely some 750,000 modern rifles and was short of ammunition and machine guns. Italy depended on imported raw materials, bringing in as much as 90 per cent of its coal from Britain, and its long coastline would have been defenceless against the British and French fleets.
+Behind the official arguments lay deeper reasons. Italy had long been a rival of Austria-Hungary, and many Italian circles demanded the annexation of [Trento](https://pl.wikipedia.org/wiki/Trydent) and [Trieste](/miejsca/triest), largely inhabited by Italians but belonging to the Habsburg monarchy. Salandra believed that after a victory at the side of the Central Powers Italy would at best be the empire's "first vassal". The country was also unprepared for a great war. The army, whose chief of staff since only 27 July had been General [Luigi Cadorna](/postacie/luigi-cadorna), had in August 1914 barely some 750,000 modern rifles and was short of ammunition and machine guns. Italy depended on imported raw materials, bringing in as much as 90 per cent of its coal from Britain, and its long coastline would have been defenceless against the British and French fleets.
 
 In Vienna the news was received with bitterness. The British ambassador, Maurice de Bunsen, noted that Italian neutrality was "bitterly felt" there, although the press scarcely mentioned it.
 

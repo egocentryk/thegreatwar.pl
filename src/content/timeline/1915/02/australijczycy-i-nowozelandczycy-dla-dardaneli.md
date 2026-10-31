@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-20 lutego 1915 roku minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) wysłał depeszę do [generała Johna Maxwella](/general-maxwell-dowodca-w-egipcie), dowódcy wojsk brytyjskich w Egipcie. Polecił mu uprzedzić około 30 tysięcy żołnierzy z Australii i Nowej Zelandii, pod dowództwem generała Williama Birdwooda, by przygotowali się do działań pod [Dardanelami](https://pl.wikipedia.org/wiki/Dardanele). Dzień wcześniej okręty brytyjskie i francuskie [zaczęły ostrzeliwać forty u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
+20 lutego 1915 roku minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) wysłał depeszę do [generała Johna Maxwella](/general-maxwell-dowodca-w-egipcie), dowódcy wojsk brytyjskich w Egipcie. Polecił mu uprzedzić około 30 tysięcy żołnierzy z Australii i Nowej Zelandii, pod dowództwem generała Williama Birdwooda, by przygotowali się do działań pod [Dardanelami](/miejsca/dardanele). Dzień wcześniej okręty brytyjskie i francuskie [zaczęły ostrzeliwać forty u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
 
 ## Zamiast 29 Dywizji
 
@@ -27,4 +27,4 @@ Kitchener przekonywał, że żołnierze z Egiptu znajdą się pod Dardanelami sz
 
 Wojska z Egiptu miały na razie tylko stać w pogotowiu. Nie zakładano jeszcze, że wylądują na półwyspie Gallipoli. W Londynie wciąż liczono, że flota sama przebije się przez cieśninę, a żołnierze posłużą do zajęcia jej brzegów albo do późniejszych działań pod Konstantynopolem. Pod koniec lutego Maxwell zgodził się wysłać na Lemnos 3 Brygadę australijską, która wypłynęła z Aleksandrii 2 marca. Birdwood popłynął w tym czasie pod Dardanele, by naradzić się z Cardenem i obejrzeć cieśninę z pokładu okrętu. Do Egiptu wrócił na początku marca przekonany, że sama flota nie da sobie rady i potrzebny będzie desant.
 
-Miał rację. Po nieudanym ataku floty 18 marca Brytyjczycy postanowili wysadzić wojska na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). 25 kwietnia 1915 roku żołnierze Birdwooda wylądowali na jego zachodnim wybrzeżu, w zatoczce nazwanej później Anzac Cove. W Australii i Nowej Zelandii ten dzień obchodzony jest do dziś jako Anzac Day.
+Miał rację. Po nieudanym ataku floty 18 marca Brytyjczycy postanowili wysadzić wojska na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). 25 kwietnia 1915 roku żołnierze Birdwooda wylądowali na jego zachodnim wybrzeżu, w zatoczce nazwanej później Anzac Cove. W Australii i Nowej Zelandii ten dzień obchodzony jest do dziś jako Anzac Day.

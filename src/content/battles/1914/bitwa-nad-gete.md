@@ -16,7 +16,7 @@ authors: [Natalia]
 tags: [Belgia, Niemcy, Albert I, Antwerpia]
 ---
 
-Bitwa nad Gete to walki armii belgijskiej z nacierającymi wojskami niemieckimi, stoczone 18 i 19 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](/kraje/belgia) i na drogach odwrotu do [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Nie była to jedna wielka bitwa, lecz seria zaciętych starć straży tylnych, które osłaniały wycofanie się belgijskiej armii polowej. Dzięki nim król [Albert I](/postacie/albert-i) zdołał uratować armię przed okrążeniem.
+Bitwa nad Gete to walki armii belgijskiej z nacierającymi wojskami niemieckimi, stoczone 18 i 19 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](/kraje/belgia) i na drogach odwrotu do [Antwerpii](/miejsca/antwerpia). Nie była to jedna wielka bitwa, lecz seria zaciętych starć straży tylnych, które osłaniały wycofanie się belgijskiej armii polowej. Dzięki nim król [Albert I](/postacie/albert-i) zdołał uratować armię przed okrążeniem.
 
 ## Linia nad Gete
 

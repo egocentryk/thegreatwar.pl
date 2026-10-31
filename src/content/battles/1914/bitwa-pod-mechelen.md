@@ -16,7 +16,7 @@ authors: [Łukasz Skowroń]
 tags: [Belgia, Niemcy, Antwerpia, Albert I]
 ---
 
-Bitwa pod [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), po francusku Malines, była pierwszym wypadem armii belgijskiej z twierdzy [Antwerpia](https://pl.wikipedia.org/wiki/Antwerpia). Rozegrała się w dniach 25–27 sierpnia 1914 roku na południe od Mechelen, w równinnym terenie między Antwerpią a Brukselą. Belgowie próbowali związać walką jak najwięcej wojsk niemieckich, w czasie gdy Francuzi i Brytyjczycy toczyli ciężkie bitwy na granicy francuskiej.
+Bitwa pod [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), po francusku Malines, była pierwszym wypadem armii belgijskiej z twierdzy [Antwerpia](/miejsca/antwerpia). Rozegrała się w dniach 25–27 sierpnia 1914 roku na południe od Mechelen, w równinnym terenie między Antwerpią a Brukselą. Belgowie próbowali związać walką jak najwięcej wojsk niemieckich, w czasie gdy Francuzi i Brytyjczycy toczyli ciężkie bitwy na granicy francuskiej.
 
 ## Armia w redukcie narodowej
 

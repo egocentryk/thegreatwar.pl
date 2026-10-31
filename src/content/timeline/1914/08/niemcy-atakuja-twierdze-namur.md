@@ -16,7 +16,7 @@ draft: false
 
 ## Twierdza u zbiegu rzek
 
-[Namur](https://pl.wikipedia.org/wiki/Namur) leży u ujścia [Sambry](https://pl.wikipedia.org/wiki/Sambra) do [Mozy](https://pl.wikipedia.org/wiki/Moza). Pod koniec XIX wieku otoczono je pierścieniem dziewięciu fortów, zaprojektowanych, podobnie jak forty Liège, przez generała Henriego Brialmonta. Twierdzy broniła belgijska 4 Dywizja wraz z załogą fortów, łącznie około 37 tysięcy żołnierzy pod dowództwem generała Michela.
+[Namur](https://pl.wikipedia.org/wiki/Namur) leży u ujścia [Sambry](https://pl.wikipedia.org/wiki/Sambra) do [Mozy](/miejsca/moza). Pod koniec XIX wieku otoczono je pierścieniem dziewięciu fortów, zaprojektowanych, podobnie jak forty Liège, przez generała Henriego Brialmonta. Twierdzy broniła belgijska 4 Dywizja wraz z załogą fortów, łącznie około 37 tysięcy żołnierzy pod dowództwem generała Michela.
 
 Po drugiej stronie stanęło zgrupowanie generała [Maxa von Gallwitza](/postacie/max-von-gallwitz), należące do 2 Armii Karla von Bülowa. Niemcy wyciągnęli wnioski z Liège, gdzie forty długo stawiały opór piechocie. Tym razem od razu sprowadzili najcięższą artylerię: niemieckie moździerze kalibru 420 mm, tzw. [Grube Berty](https://pl.wikipedia.org/wiki/M-Gerät), oraz baterie austro-węgierskich moździerzy Škody kalibru 305 mm.
 
@@ -28,4 +28,4 @@ Ostrzał rozpoczął się 21 sierpnia. Ciężkie pociski przebijały betonowe sk
 
 ## Znaczenie
 
-Namur padł znacznie szybciej niż Liège. Pokazało to, że twierdze budowane w XIX wieku nie są w stanie oprzeć się nowoczesnej artylerii oblężniczej. Części obrońców udało się jednak uniknąć niewoli. Około 12 tysięcy żołnierzy 4 Dywizji przedostało się przez Francję i drogą morską wróciło do Belgii, by dołączyć do armii broniącej [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia).
+Namur padł znacznie szybciej niż Liège. Pokazało to, że twierdze budowane w XIX wieku nie są w stanie oprzeć się nowoczesnej artylerii oblężniczej. Części obrońców udało się jednak uniknąć niewoli. Około 12 tysięcy żołnierzy 4 Dywizji przedostało się przez Francję i drogą morską wróciło do Belgii, by dołączyć do armii broniącej [Antwerpii](/miejsca/antwerpia).

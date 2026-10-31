@@ -20,7 +20,7 @@ Obawy nie były bezpodstawne. W sierpniu 1914 roku, gdy Ententa próbowała utrz
 
 ## Baza nie do zastąpienia
 
-Dla Brytyjczyków dobre stosunki z Atenami miały w tych dniach szczególne znaczenie. Dwa dni wcześniej [atak floty na forty w Dardanelach załamał się](/atak-floty-w-dardanelach-odparty) i coraz wyraźniej było widać, że bez wojsk lądowych cieśnin nie da się zdobyć. Zatoka [Mudros](https://pl.wikipedia.org/wiki/Mudros) była jedynym miejscem w pobliżu, gdzie mogły się zebrać dziesiątki tysięcy żołnierzy i setki statków. Otwarty spór z Grecją o wyspę mógł zagrozić całemu przedsięwzięciu.
+Dla Brytyjczyków dobre stosunki z Atenami miały w tych dniach szczególne znaczenie. Dwa dni wcześniej [atak floty na forty w Dardanelach załamał się](/atak-floty-w-dardanelach-odparty) i coraz wyraźniej było widać, że bez wojsk lądowych cieśnin nie da się zdobyć. Zatoka [Mudros](/miejsca/mudros) była jedynym miejscem w pobliżu, gdzie mogły się zebrać dziesiątki tysięcy żołnierzy i setki statków. Otwarty spór z Grecją o wyspę mógł zagrozić całemu przedsięwzięciu.
 
 Gwarancja nic Brytyjczyków nie kosztowała. Lemnos i tak od 1912 roku był w greckich rękach, a mocarstwa przyznały go Grecji już w lutym 1914 roku. Londyn zobowiązywał się tylko do tego, by po zwycięstwie Turcja wreszcie uznała ten stan rzeczy. Publicznie Brytyjczycy nadal tłumaczyli swoją obecność na wyspie tym, że sułtan nie zatwierdził decyzji mocarstw. Taki półoficjalny komunikat ogłosił 30 marca dziennik „The Times”.
 

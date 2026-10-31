@@ -2,10 +2,10 @@
 title: Decisive day of the Battle of Sari Bair
 summary: On 9 August 1915 Major Allanson's Gurkhas broke onto the Sari Bair ridge, but under fire from unknown guns they had to come down. The Anzac offensive failed.
 source: rozstrzygajacy-dzien-bitwy-o-sari-bair
-sourceHash: fdd87f299429b3157235d6e70c661ab03c759832
+sourceHash: 52f1233d84e452d9828b9c53504774a4ac10d882
 ---
 
-At dawn on 9 August 1915 the Allies tried for the third time to take the Sari Bair ridge above Anzac Cove on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. The main attack never took place, because the column that was to deliver it had lost its way in the gullies during the night. Only a single battalion of [Gurkhas](https://pl.wikipedia.org/wiki/Gurkhowie), with a handful of British soldiers, attacked. For a short while they broke onto the crest of the ridge and saw the Dardanelles below, but under fire from heavy guns, which many believed to be their own, they had to come down. The British official history later concluded that by noon that day the offensive from Anzac had already been lost.
+At dawn on 9 August 1915 the Allies tried for the third time to take the Sari Bair ridge above Anzac Cove on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. The main attack never took place, because the column that was to deliver it had lost its way in the gullies during the night. Only a single battalion of [Gurkhas](https://pl.wikipedia.org/wiki/Gurkhowie), with a handful of British soldiers, attacked. For a short while they broke onto the crest of the ridge and saw the Dardanelles below, but under fire from heavy guns, which many believed to be their own, they had to come down. The British official history later concluded that by noon that day the offensive from Anzac had already been lost.
 
 ## Two days of fighting
 

@@ -2,10 +2,10 @@
 title: German troops enter Belgium and attack Liège
 summary: At 8.02 a.m. on 4 August 1914 German troops crossed the Belgian border at Gemmenich and advanced on the fortress of Liège. The battle for Liège had begun.
 source: wojska-niemieckie-wkraczaja-do-belgii-i-atakuja-liege
-sourceHash: 2543ff1b408d26b08a09dec59182fdbb8940af56
+sourceHash: 6c91938aa1fc3a887196348d1be8df375911955b
 ---
 
-On 4 August 1914 at 8.02 a.m. German troops crossed the Belgian border at the village of [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), near the point where the borders of Belgium, Germany and the Netherlands meet. The first Belgians to encounter the invader were two border guards approached by a detachment of uhlans. At the same time German columns set off towards the [Meuse](https://pl.wikipedia.org/wiki/Moza) near [Visé](https://pl.wikipedia.org/wiki/Visé), where the Belgians had managed to blow up the bridge.
+On 4 August 1914 at 8.02 a.m. German troops crossed the Belgian border at the village of [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), near the point where the borders of Belgium, Germany and the Netherlands meet. The first Belgians to encounter the invader were two border guards approached by a detachment of uhlans. At the same time German columns set off towards the [Meuse](/miejsca/moza) near [Visé](https://pl.wikipedia.org/wiki/Visé), where the Belgians had managed to blow up the bridge.
 
 ## The fortress of Liège
 

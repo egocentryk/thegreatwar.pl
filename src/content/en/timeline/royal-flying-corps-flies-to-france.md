@@ -2,14 +2,14 @@
 title: Royal Flying Corps flies to France
 summary: On 13 August 1914 British air squadrons flew from Dover to France. They were the first units to cross the Channel by air.
 source: royal-flying-corps-przelatuje-do-francji
-sourceHash: 339d506eabb0c4bdedd7b02330360b4b64f11ab9
+sourceHash: 20228003bbbaee5cda400e689d71219a85356139
 ---
 
 On 13 August 1914 aircraft of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), the air arm of the British Army, took off from [Dover](https://pl.wikipedia.org/wiki/Dover) and flew across the English Channel to France. They were the first British military units to cross to the Continent by air. They were to support the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), which was arriving in France by ship in those days.
 
 ## First to arrive
 
-The first to take off, at 6.25 a.m., was Lieutenant Hubert Harvey-Kelly of No. 2 Squadron. After a flight of less than two hours he landed near [Amiens](https://pl.wikipedia.org/wiki/Amiens), which had been designated as the assembly point for the aircraft. His was the first British aeroplane to arrive in France in wartime. According to accounts, Harvey-Kelly took a short cut and landed ahead of his commanding officer, who had intended to be first.
+The first to take off, at 6.25 a.m., was Lieutenant Hubert Harvey-Kelly of No. 2 Squadron. After a flight of less than two hours he landed near [Amiens](/miejsca/amiens), which had been designated as the assembly point for the aircraft. His was the first British aeroplane to arrive in France in wartime. According to accounts, Harvey-Kelly took a short cut and landed ahead of his commanding officer, who had intended to be first.
 
 In the course of the day further aircraft of Nos. 2 and 3 Squadrons and part of No. 4 Squadron reached Amiens. No. 5 Squadron soon followed. There were accidents: some machines broke down, and several airmen were killed in crashes even before reaching the front.
 

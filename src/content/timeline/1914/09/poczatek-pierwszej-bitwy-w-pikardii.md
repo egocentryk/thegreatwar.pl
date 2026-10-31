@@ -27,7 +27,7 @@ Dowódcy obu stron doszli do tego samego wniosku. Skoro nie da się przełamać 
 
 ## Nowa armia Castelnau
 
-Dowództwo nowej armii Joffre powierzył Castelnau, który w sierpniu i wrześniu dowodził 2 Armią w Lotaryngii i obronił [Nancy](/bitwy/bitwa-o-grand-couronne). Castelnau przybył na północ ze swoim sztabem, zachowując numer armii. Jej trzon stanowiły korpusy przewiezione koleją z różnych odcinków frontu. IV i XIII Korpus przeszły do niej z 6 Armii, XIV i XX Korpus przyjechały ze wschodu, a lewe skrzydło osłaniał korpus kawalerii generała Louisa Conneau. Wojska wyładowywały się w okolicach [Amiens](https://pl.wikipedia.org/wiki/Amiens) i Montdidier.
+Dowództwo nowej armii Joffre powierzył Castelnau, który w sierpniu i wrześniu dowodził 2 Armią w Lotaryngii i obronił [Nancy](/bitwy/bitwa-o-grand-couronne). Castelnau przybył na północ ze swoim sztabem, zachowując numer armii. Jej trzon stanowiły korpusy przewiezione koleją z różnych odcinków frontu. IV i XIII Korpus przeszły do niej z 6 Armii, XIV i XX Korpus przyjechały ze wschodu, a lewe skrzydło osłaniał korpus kawalerii generała Louisa Conneau. Wojska wyładowywały się w okolicach [Amiens](/miejsca/amiens) i Montdidier.
 
 Francuzi mieli w tym wyścigu ważny atut. Przewozili wojska po własnych, nieuszkodzonych liniach kolejowych, biegnących łukiem za frontem. Niemcy korzystali z kolei w zajętej części Francji i w Belgii, w dużej mierze zniszczonych podczas sierpniowego pochodu i odwrotu znad Marny. Według niektórych szacunków Francuzi mogli uruchamiać do 200 pociągów wojskowych na dobę, a Niemcy tylko kilkadziesiąt.
 

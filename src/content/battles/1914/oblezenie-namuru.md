@@ -20,7 +20,7 @@ Oblężenie [twierdzy Namur](https://pl.wikipedia.org/wiki/Twierdza_Namur) trwa�
 
 ## Twierdza u zbiegu rzek
 
-[Namur](https://pl.wikipedia.org/wiki/Namur) leży w miejscu, w którym [Sambra](https://pl.wikipedia.org/wiki/Sambra) wpada do [Mozy](https://pl.wikipedia.org/wiki/Moza). Miasto zamykało dolinę Mozy, jedną z głównych dróg z Niemiec do Francji. W latach 1888–1892 otoczono je pierścieniem dziewięciu fortów według projektu generała [Henriego Brialmonta](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont), tego samego, który zaprojektował forty Liège. Na lewym brzegu Mozy stały forty Malonne, Saint-Héribert, Suarlée, Emines, Cognelée i Marchovelette, na prawym Maizeret, Andoy i Dave. Część z nich zmodernizowano przed wojną, ale żaden nie był przygotowany na pociski kalibru 305 i 420 mm.
+[Namur](https://pl.wikipedia.org/wiki/Namur) leży w miejscu, w którym [Sambra](https://pl.wikipedia.org/wiki/Sambra) wpada do [Mozy](/miejsca/moza). Miasto zamykało dolinę Mozy, jedną z głównych dróg z Niemiec do Francji. W latach 1888–1892 otoczono je pierścieniem dziewięciu fortów według projektu generała [Henriego Brialmonta](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont), tego samego, który zaprojektował forty Liège. Na lewym brzegu Mozy stały forty Malonne, Saint-Héribert, Suarlée, Emines, Cognelée i Marchovelette, na prawym Maizeret, Andoy i Dave. Część z nich zmodernizowano przed wojną, ale żaden nie był przygotowany na pociski kalibru 305 i 420 mm.
 
 Twierdzy broniła belgijska 4 Dywizja wraz z załogami fortów, łącznie około 37 tysięcy żołnierzy pod dowództwem generała Édouarda Michela. Przeciw nim niemiecka 2 Armia generała [Karla von Bülowa](/postacie/karl-von-bulow) wydzieliła zgrupowanie generała [Maxa von Gallwitza](/postacie/max-von-gallwitz), liczące około 107 tysięcy ludzi. W jego skład wchodziły Korpus Rezerwowy Gwardii, XI Korpus i część VII Korpusu Rezerwowego. Najważniejsza była jednak artyleria: niemieckie moździerze [M-Gerät](https://pl.wikipedia.org/wiki/M-Gerät) kalibru 420 mm, sprowadzone spod Liège, oraz austro-węgierskie moździerze Škody kalibru 305 mm.
 
@@ -34,7 +34,7 @@ Forty broniły się jeszcze po odejściu dywizji. 24 sierpnia padły Andoy, Malo
 
 ## Ucieczka 4 Dywizji
 
-Jedyną drogą odwrotu był region między Sambrą a Mozą, na południu. Nocą z 23 na 24 sierpnia belgijska kolumna maszerowała, nękana przez Niemców z tyłu i z boku. Jej tylna straż została otoczona pod [Ermeton-sur-Biert](https://pl.wikipedia.org/wiki/Ermeton-sur-Biert), ale około 12 tysięcy żołnierzy dotarło przez [Mariembourg](https://pl.wikipedia.org/wiki/Mariembourg) do Francji. Stamtąd przewieziono ich do Hawru, a następnie drogą morską do Ostendy, skąd dołączyli do armii belgijskiej w [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia).
+Jedyną drogą odwrotu był region między Sambrą a Mozą, na południu. Nocą z 23 na 24 sierpnia belgijska kolumna maszerowała, nękana przez Niemców z tyłu i z boku. Jej tylna straż została otoczona pod [Ermeton-sur-Biert](https://pl.wikipedia.org/wiki/Ermeton-sur-Biert), ale około 12 tysięcy żołnierzy dotarło przez [Mariembourg](https://pl.wikipedia.org/wiki/Mariembourg) do Francji. Stamtąd przewieziono ich do Hawru, a następnie drogą morską do Ostendy, skąd dołączyli do armii belgijskiej w [Antwerpii](/miejsca/antwerpia).
 
 ## Straty
 

@@ -17,7 +17,7 @@ tags: [Wielka Brytania, Imperium Osmańskie, Dardanele, Australia]
 milestone: false
 ---
 
-Bitwa o wzgórze Scimitar była ostatnią dużą ofensywą Brytyjczyków na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). 21 sierpnia 1915 roku IX Korpus, wzmocniony przerzuconą spod Helles 29 Dywizją i pieszymi pułkami [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry) z Egiptu, zaatakował wzgórza zamykające od wschodu równinę nad zatoką [Suvla](https://pl.wikipedia.org/wiki/Suvla). Jednocześnie wojska spod Anzac uderzyły na pobliskie wzgórze 60. Natarcie w zamglonym popołudniu, wśród płonących zarośli, załamało się w ogniu tureckiej artylerii i karabinów maszynowych. Brytyjczycy dwa razy zdobyli szczyt Scimitar Hill i dwa razy go stracili. Według brytyjskiej historii oficjalnej była to bitwa najbardziej kosztowna w stosunku do swojej skali i najmniej udana ze wszystkich bitew kampanii.
+Bitwa o wzgórze Scimitar była ostatnią dużą ofensywą Brytyjczyków na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). 21 sierpnia 1915 roku IX Korpus, wzmocniony przerzuconą spod Helles 29 Dywizją i pieszymi pułkami [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry) z Egiptu, zaatakował wzgórza zamykające od wschodu równinę nad zatoką [Suvla](https://pl.wikipedia.org/wiki/Suvla). Jednocześnie wojska spod Anzac uderzyły na pobliskie wzgórze 60. Natarcie w zamglonym popołudniu, wśród płonących zarośli, załamało się w ogniu tureckiej artylerii i karabinów maszynowych. Brytyjczycy dwa razy zdobyli szczyt Scimitar Hill i dwa razy go stracili. Według brytyjskiej historii oficjalnej była to bitwa najbardziej kosztowna w stosunku do swojej skali i najmniej udana ze wszystkich bitew kampanii.
 
 ## Nazwa i daty
 

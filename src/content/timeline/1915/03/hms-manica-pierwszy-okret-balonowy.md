@@ -25,6 +25,6 @@ Brytyjska chronologia wojny notuje pod 23 marca 1915 roku wcielenie do służby 
 
 ## Pod Gallipoli
 
-Pod koniec marca Manica wypłynęła z Wielkiej Brytanii na Morze Śródziemne i w połowie kwietnia dotarła do zatoki [Mudros](https://pl.wikipedia.org/wiki/Mudros) na Lemnos. Po kilku lotach próbnych jej obserwatorzy 19 kwietnia po raz pierwszy kierowali ogniem okrętów. Podczas [desantu na Gallipoli](/bitwy/kampania-gallipolijska) 25 kwietnia balon przez wiele godzin wisiał nad zatoką Anzac, a 27 kwietnia jego obserwatorzy naprowadzili ciężkie działa drednota [Queen Elizabeth](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)) na turecki transportowiec, który stał po drugiej stronie półwyspu, w cieśninie, i doprowadzili do jego zatopienia.
+Pod koniec marca Manica wypłynęła z Wielkiej Brytanii na Morze Śródziemne i w połowie kwietnia dotarła do zatoki [Mudros](/miejsca/mudros) na Lemnos. Po kilku lotach próbnych jej obserwatorzy 19 kwietnia po raz pierwszy kierowali ogniem okrętów. Podczas [desantu na Gallipoli](/bitwy/kampania-gallipolijska) 25 kwietnia balon przez wiele godzin wisiał nad zatoką Anzac, a 27 kwietnia jego obserwatorzy naprowadzili ciężkie działa drednota [Queen Elizabeth](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)) na turecki transportowiec, który stał po drugiej stronie półwyspu, w cieśninie, i doprowadzili do jego zatopienia.
 
 Sukces Maniki sprawił, że Royal Navy przebudowała na okręty balonowe kolejne statki. Sama Manica w 1916 roku wspierała działania w Afryce Wschodniej, a w 1917 roku zamieniono ją w zbiornikowiec.

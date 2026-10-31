@@ -475,7 +475,13 @@ The top 50 by kind:
    (26,198 → 25,538; improvements.md §48).
 4. **"Miejsca" pilot:** built 2026-10-31 (Saloniki, Korfu, Ypres, Kanał
    Sueski, Bagdad; Isonzo → the campaign page instead), 316 links (25,538 →
-   25,227; improvements.md §49). Waiting for the owner's verdict.
+   25,227; improvements.md §49). Approved by the owner.
+5. **"Miejsca" batch 2:** 2026-10-31, eight places (Gorycja, Triest,
+   Antwerpia, Amiens, Moza, Kotor, Dardanele, Mudros) and two more titles
+   to campaign pages (Kras, Gallipoli), 325 links (25,227 → 24,904;
+   §50). Next candidates: Al-Kut, Wardar, Tygrys, Konstantynopol,
+   Niemiecka Afryka Wschodnia, Kamerun, Morze Północne, Arras, Somma;
+   check each against an existing campaign page first.
 
 ### The plan
 

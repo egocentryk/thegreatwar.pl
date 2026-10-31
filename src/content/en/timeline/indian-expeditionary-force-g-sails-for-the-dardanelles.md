@@ -2,12 +2,12 @@
 title: Indian Expeditionary Force G sails for the Dardanelles
 summary: In early April 1915 the first Indian units sailed from Egypt for the Dardanelles. They were the gunners of two mountain batteries attached to ANZAC.
 source: indyjski-korpus-g-plynie-nad-dardanele
-sourceHash: 80d2a06580e2e09099c0a0e0c95d105542157c42
+sourceHash: f29655f5e0ff99b9860e1a34f14624cb735868ec
 ---
 
-The British chronology of the war records under 7 April 1915 that the first units of Indian Expeditionary Force G sailed from [Egypt](https://pl.wikipedia.org/wiki/Egipt) for the Dardanelles. The new force was formed from part of the Indian troops stationed in Egypt, which had recently come under the common designation of [Force E](/indyjski-korpus-f-wlaczony-do-korpusu-e). It was to take part in the landing on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula being prepared by General [Ian Hamilton](/postacie/ian-hamilton).
+The British chronology of the war records under 7 April 1915 that the first units of Indian Expeditionary Force G sailed from [Egypt](https://pl.wikipedia.org/wiki/Egipt) for the Dardanelles. The new force was formed from part of the Indian troops stationed in Egypt, which had recently come under the common designation of [Force E](/indyjski-korpus-f-wlaczony-do-korpusu-e). It was to take part in the landing on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula being prepared by General [Ian Hamilton](/postacie/ian-hamilton).
 
-The first soldiers from India to set out for the Dardanelles were the gunners of the 7th Indian Mountain Artillery Brigade. According to the history of the regiment descended from this brigade, its two batteries came by rail from the [Suez Canal](/miejsca/kanal-sueski) to [Alexandria](https://pl.wikipedia.org/wiki/Aleksandria) on 4 April and boarded a transport the same day. The ship sailed on 5 April and on 8 April dropped anchor in [Mudros](https://pl.wikipedia.org/wiki/Mudros) Bay on Lemnos. The date in the British chronology may therefore be off by a day or two.
+The first soldiers from India to set out for the Dardanelles were the gunners of the 7th Indian Mountain Artillery Brigade. According to the history of the regiment descended from this brigade, its two batteries came by rail from the [Suez Canal](/miejsca/kanal-sueski) to [Alexandria](https://pl.wikipedia.org/wiki/Aleksandria) on 4 April and boarded a transport the same day. The ship sailed on 5 April and on 8 April dropped anchor in [Mudros](/miejsca/mudros) Bay on Lemnos. The date in the British chronology may therefore be off by a day or two.
 
 ## Guns on mules
 

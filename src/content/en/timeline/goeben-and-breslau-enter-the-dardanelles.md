@@ -2,10 +2,10 @@
 title: Goeben and Breslau enter the Dardanelles
 summary: The German warships Goeben and Breslau, pursued by the British, took refuge in the Dardanelles. Their arrival drew Turkey closer to war on Germany's side.
 source: goeben-i-breslau-wplywaja-do-dardaneli
-sourceHash: d6645b9df4f55aee7c04b55290959591807c5847
+sourceHash: f94f86b85430ddc83cac464dee723af3ef45aa23
 ---
 
-After a week-long flight across the Mediterranean, the German warships [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) and [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau) reached the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele), the strait leading to Constantinople. Contemporary chronicles record their entry into the strait under 11 August 1914, although according to most sources the ships reached the entrance to the Dardanelles on the evening of 10 August.
+After a week-long flight across the Mediterranean, the German warships [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) and [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau) reached the [Dardanelles](/miejsca/dardanele), the strait leading to Constantinople. Contemporary chronicles record their entry into the strait under 11 August 1914, although according to most sources the ships reached the entrance to the Dardanelles on the evening of 10 August.
 
 ## The flight
 

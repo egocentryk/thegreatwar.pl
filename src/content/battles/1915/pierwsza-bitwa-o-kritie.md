@@ -17,7 +17,7 @@ tags: [Wielka Brytania, Francja, Imperium Osmańskie, Dardanele]
 milestone: false
 ---
 
-Pierwsza bitwa o Kritię była pierwszą próbą wyjścia sprzymierzonych z przyczółka, który zdobyli pod Helles na południowym krańcu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). 28 kwietnia 1915 roku brytyjska 29 Dywizja i francuski Korpus Ekspedycyjny Wschodu uderzyły na wieś Kritia i wzgórze Achi Baba, z którego widać było cieśninę [Dardanele](https://pl.wikipedia.org/wiki/Dardanele). Turcy mieli mniej żołnierzy, ale bronili się zaciekle i dostawali posiłki. Wyczerpane walkami na plażach wojska brytyjskie i francuskie nie dotarły do celu i wieczorem natarcie odwołano. Bitwa rozwiała nadzieje na szybkie zdobycie półwyspu.
+Pierwsza bitwa o Kritię była pierwszą próbą wyjścia sprzymierzonych z przyczółka, który zdobyli pod Helles na południowym krańcu półwyspu [Gallipoli](/bitwy/kampania-gallipolijska). 28 kwietnia 1915 roku brytyjska 29 Dywizja i francuski Korpus Ekspedycyjny Wschodu uderzyły na wieś Kritia i wzgórze Achi Baba, z którego widać było cieśninę [Dardanele](/miejsca/dardanele). Turcy mieli mniej żołnierzy, ale bronili się zaciekle i dostawali posiłki. Wyczerpane walkami na plażach wojska brytyjskie i francuskie nie dotarły do celu i wieczorem natarcie odwołano. Bitwa rozwiała nadzieje na szybkie zdobycie półwyspu.
 
 ## Nazwa i daty
 

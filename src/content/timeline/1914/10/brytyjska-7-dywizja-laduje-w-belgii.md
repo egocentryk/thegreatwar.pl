@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rano 6 października 1914 roku w belgijskim porcie [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge) zaczęły schodzić na ląd oddziały brytyjskiej 7 Dywizji Piechoty. W kolejnych dniach w Zeebrugge i [Ostendzie](https://pl.wikipedia.org/wiki/Ostenda) wylądowała także 3 Dywizja Kawalerii. Obie jednostki wysłano do Belgii, by razem z armią belgijską ratowały oblężoną [Antwerpię](https://pl.wikipedia.org/wiki/Antwerpia).
+Rano 6 października 1914 roku w belgijskim porcie [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge) zaczęły schodzić na ląd oddziały brytyjskiej 7 Dywizji Piechoty. W kolejnych dniach w Zeebrugge i [Ostendzie](https://pl.wikipedia.org/wiki/Ostenda) wylądowała także 3 Dywizja Kawalerii. Obie jednostki wysłano do Belgii, by razem z armią belgijską ratowały oblężoną [Antwerpię](/miejsca/antwerpia).
 
 ## Dywizja z zamorskich garnizonów
 

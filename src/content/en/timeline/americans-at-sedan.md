@@ -2,10 +2,10 @@
 title: Americans at Sedan
 summary: On 6–7 November 1918, racing for Sedan, the Americans reached the heights above the town and cut the German railway. But Foch sent the French into Sedan.
 source: amerykanie-pod-sedanem
-sourceHash: 626adda7317c54dfa5c9ca31b6e3751b882e84a9
+sourceHash: 32920ecfb101c750c11e3e65780f40c212fafeba
 ---
 
-The British chronology of the war records under 6 November 1918 that American troops took [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)). This did not happen. That day units of the American First Army, pursuing the retreating Germans, reached the [Meuse](https://pl.wikipedia.org/wiki/Moza) a few kilometres from the town. In the afternoon a battalion of the 77th Division took Remilly on the river, and the 42nd Division was approaching Sedan from the south. The next day the Americans took the heights overlooking the town and the Metz–Sedan–Mézières railway, the main objective of the whole offensive. They did not enter Sedan. This was decided by the Allied high command, and the march on the town itself turned into one of the most chaotic episodes in the history of the American army in this war.
+The British chronology of the war records under 6 November 1918 that American troops took [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)). This did not happen. That day units of the American First Army, pursuing the retreating Germans, reached the [Meuse](/miejsca/moza) a few kilometres from the town. In the afternoon a battalion of the 77th Division took Remilly on the river, and the 42nd Division was approaching Sedan from the south. The next day the Americans took the heights overlooking the town and the Metz–Sedan–Mézières railway, the main objective of the whole offensive. They did not enter Sedan. This was decided by the Allied high command, and the march on the town itself turned into one of the most chaotic episodes in the history of the American army in this war.
 
 ## The race for Sedan
 

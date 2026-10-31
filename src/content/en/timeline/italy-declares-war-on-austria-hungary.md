@@ -2,7 +2,7 @@
 title: Italy declares war on Austria-Hungary
 summary: On 23 May 1915 Italy declared war on Austria-Hungary, its ally in the Triple Alliance. The state of war took effect the following day.
 source: wlochy-wypowiadaja-wojne-austro-wegrom
-sourceHash: bc3410c04c3a2f565e8787240d0719879f1b140f
+sourceHash: e8220bdb2d666feed97d9ae487016927ad886ae1
 brief:
   - "On 23 May 1915 the Italian ambassador in Vienna, Duke Giuseppe Avarna, handed over the declaration of war. Italy, for more than thirty years Austria-Hungary's ally in the Triple Alliance, joined the Entente."
   - "On 26 April Prime Minister Antonio Salandra and Sonnino had signed an agreement with the Entente in London. In return for Trentino, Trieste, Istria and part of Dalmatia, Italy undertook to enter the war within a month."
@@ -17,7 +17,7 @@ On Sunday 23 May 1915, at about a quarter past three in the afternoon, the Itali
 
 The note was short. In it the Italian government recalled that on 4 May it had already informed Vienna why it considered the alliance to have been broken by Austria-Hungary, and that it had [declared it void](/wlochy-wypowiadaja-trojprzymierze), regaining full freedom of action. Now, determined to defend Italy's rights and interests by every means and to realise its "national aspirations", it declared in the name of the King that from the following day Italy considered itself to be at war with Austria-Hungary. The ambassador added that the Austro-Hungarian ambassador in Rome, Baron Karl von Macchio, was receiving his passports that same day, and asked to be given his own. The Foreign Minister, [Sidney Sonnino](/postacie/sidney-sonnino), at the same time notified Italian missions abroad and the governments of other states of the state of war.
 
-Behind the declaration lay a decision taken many weeks earlier. On 26 April Prime Minister [Antonio Salandra](/postacie/antonio-salandra) and Sonnino had [signed an agreement with the Entente in London](/wlochy-podpisuja-pakt-londynski), in which Italy undertook to enter the war within a month in return for the promise of [Trentino](https://pl.wikipedia.org/wiki/Trydent-Górna_Adyga), [Trieste](https://pl.wikipedia.org/wiki/Triest), Istria and part of Dalmatia. The government crisis of mid-May ended in [victory for the supporters of war](/salandra-pozostaje-premierem). On 20 May the Chamber of Deputies, and on 21 May the Senate, granted the government full powers for the duration of the war, and the King signed the law on 22 May.
+Behind the declaration lay a decision taken many weeks earlier. On 26 April Prime Minister [Antonio Salandra](/postacie/antonio-salandra) and Sonnino had [signed an agreement with the Entente in London](/wlochy-podpisuja-pakt-londynski), in which Italy undertook to enter the war within a month in return for the promise of [Trentino](https://pl.wikipedia.org/wiki/Trydent-Górna_Adyga), [Trieste](/miejsca/triest), Istria and part of Dalmatia. The government crisis of mid-May ended in [victory for the supporters of war](/salandra-pozostaje-premierem). On 20 May the Chamber of Deputies, and on 21 May the Senate, granted the government full powers for the duration of the war, and the King signed the law on 22 May.
 
 ## Mobilisation
 

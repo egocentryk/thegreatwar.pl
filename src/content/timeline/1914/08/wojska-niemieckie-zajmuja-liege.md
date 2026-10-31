@@ -18,7 +18,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Battle_of_Li%C3%A8ge"
 ---
 
-7 sierpnia 1914 roku wojska niemieckie wkroczyły do [Liège](https://pl.wikipedia.org/wiki/Liège). Trzeciego dnia walk o belgijską twierdzę zajęły samo miasto, jego mosty na [Mozie](https://pl.wikipedia.org/wiki/Moza) i starą cytadelę, ale otaczający je pierścień dwunastu fortów pozostał w rękach obrońców. Główną rolę odegrał w tym oficer, o którym miał wkrótce usłyszeć cały świat: [Erich Ludendorff](/postacie/erich-ludendorff).
+7 sierpnia 1914 roku wojska niemieckie wkroczyły do [Liège](https://pl.wikipedia.org/wiki/Liège). Trzeciego dnia walk o belgijską twierdzę zajęły samo miasto, jego mosty na [Mozie](/miejsca/moza) i starą cytadelę, ale otaczający je pierścień dwunastu fortów pozostał w rękach obrońców. Główną rolę odegrał w tym oficer, o którym miał wkrótce usłyszeć cały świat: [Erich Ludendorff](/postacie/erich-ludendorff).
 
 ## Nocny atak
 

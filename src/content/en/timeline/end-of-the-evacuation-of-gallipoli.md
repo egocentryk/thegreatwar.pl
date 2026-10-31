@@ -2,7 +2,7 @@
 title: End of the evacuation of Gallipoli
 summary: On the night of 8–9 January 1916 the last British troops sailed from Helles. After eight months of fighting the Gallipoli campaign ended in Allied defeat.
 source: koniec-ewakuacji-gallipoli
-sourceHash: de63a899207036e5e75600128895ff413b0bb964
+sourceHash: ec711d5dd25827586e991dc641bc5a328c7ff617
 brief:
   - "On the night of 8–9 January 1916 the last British troops sailed from Cape Helles. Not a single Allied soldier remained on the Gallipoli peninsula."
   - "On the morning of 8 January fewer than 17,000 men were still on the cape. Admiral John de Robeck judged the weather fine, but in the evening a storm got up that made embarkation difficult."
@@ -15,7 +15,7 @@ The British chronology of the war records the end of the evacuation of the [Gall
 
 ## The last day
 
-On the morning of 8 January the commander of VIII Corps, General Francis Davies, reported that fewer than 17,000 men of the 13th, 29th and 52nd Divisions and the Royal Naval Division remained on the cape, and that he was ready for the final stage. The day before, his troops had [repulsed a Turkish attack](/poczatek-ewakuacji-przyladka-helles) on Gully Spur, which lulled the enemy's vigilance. Everything now depended on the weather, and the decision had to be taken by the navy, because the ships from [Mudros](https://pl.wikipedia.org/wiki/Mudros) had to be sent off soon after midday. The day was fine and windless, and the meteorologists expected no change for twenty-four hours. Admiral John de Robeck judged that it was possible to act and issued his orders. The British official history notes that the same admiral had waited for the weather in April 1915 before the [great landing](/bitwy/ladowanie-na-gallipoli), when transports carrying 50,000 men confident of victory lay in Mudros harbour. Now it was only a matter of saving those who were left.
+On the morning of 8 January the commander of VIII Corps, General Francis Davies, reported that fewer than 17,000 men of the 13th, 29th and 52nd Divisions and the Royal Naval Division remained on the cape, and that he was ready for the final stage. The day before, his troops had [repulsed a Turkish attack](/poczatek-ewakuacji-przyladka-helles) on Gully Spur, which lulled the enemy's vigilance. Everything now depended on the weather, and the decision had to be taken by the navy, because the ships from [Mudros](/miejsca/mudros) had to be sent off soon after midday. The day was fine and windless, and the meteorologists expected no change for twenty-four hours. Admiral John de Robeck judged that it was possible to act and issued his orders. The British official history notes that the same admiral had waited for the weather in April 1915 before the [great landing](/bitwy/ladowanie-na-gallipoli), when transports carrying 50,000 men confident of victory lay in Mudros harbour. Now it was only a matter of saving those who were left.
 
 After dark two strings of ships set out for the cape from Mudros and [Imbros](https://pl.wikipedia.org/wiki/Imroz): the old battleships *Mars* and *Prince George*, six destroyers, cross-Channel passenger steamers, the cruiser *Talbot* and two hospital ships. The troops were to embark in three trips from W and V Beaches, and the last detachment of the 13th Division from Gully Beach. The front-line trenches were to be abandoned at a quarter to midnight.
 

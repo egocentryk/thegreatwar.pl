@@ -2,10 +2,10 @@
 title: Germans occupy Dendermonde
 summary: On 2 October 1914 the Germans again occupied ruined Dendermonde on the Scheldt, threatening the road by which the Belgian army could leave Antwerp.
 source: niemcy-zajmuja-dendermonde
-sourceHash: 8f9df8cfe81290731cedb438ba8d10f08ef89891
+sourceHash: 78624f9c5d0b40779099bb8675ca36efd7c7b900
 ---
 
-On 2 October 1914, during the siege of [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), German troops once again occupied [Dendermonde](https://pl.wikipedia.org/wiki/Dendermonde) (French: Termonde). The town lies on the [Scheldt](https://pl.wikipedia.org/wiki/Skalda), where the river [Dender](https://pl.wikipedia.org/wiki/Dender) flows into it, some 25–30 kilometres south-west of Antwerp. Since the beginning of September it had changed hands several times, and by the time the Germans entered it again it was already largely a burnt-out ruin.
+On 2 October 1914, during the siege of [Antwerp](/miejsca/antwerpia), German troops once again occupied [Dendermonde](https://pl.wikipedia.org/wiki/Dendermonde) (French: Termonde). The town lies on the [Scheldt](https://pl.wikipedia.org/wiki/Skalda), where the river [Dender](https://pl.wikipedia.org/wiki/Dender) flows into it, some 25–30 kilometres south-west of Antwerp. Since the beginning of September it had changed hands several times, and by the time the Germans entered it again it was already largely a burnt-out ruin.
 
 ## The key to the west bank of the Scheldt
 

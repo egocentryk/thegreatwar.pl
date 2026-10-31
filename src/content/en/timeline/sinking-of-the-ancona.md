@@ -2,7 +2,7 @@
 title: Sinking of the Ancona
 summary: On 7 November 1915 a submarine flying the Austro-Hungarian flag shelled and sank the Italian liner Ancona off Sardinia. About 200 died, Americans among them.
 source: zatopienie-statku-ancona
-sourceHash: 0bb3b8a3c009609c0e35fb0dee0b7f973cba287c
+sourceHash: ea0cacdffd7b3d5d63cd0115f884e43e152a9819
 ---
 
 On 7 November 1915 in the [Mediterranean](https://pl.wikipedia.org/wiki/Morze_Śródziemne), between [Sardinia](https://pl.wikipedia.org/wiki/Sardynia) and the coast of Tunisia, a submarine flying the Austro-Hungarian flag shelled and then torpedoed the Italian [ocean liner](https://pl.wikipedia.org/wiki/Transatlantyk) *Ancona*, bound for New York. About two hundred passengers and crew were killed, most of them emigrants, among them women and children and several citizens of the United States. In reality the attacker was the German [*U-38*](https://pl.wikipedia.org/wiki/SM_U-38) under Kapitänleutnant Max Valentiner. The sinking of the *Ancona* caused a new crisis in Washington's relations with the Central Powers, barely two months after Germany had [undertaken not to sink liners without warning](/niemcy-ustepuja-w-sprawie-wojny-podwodnej).
@@ -21,7 +21,7 @@ The course of the attack was disputed from the start. According to the survivors
 
 The Austro-Hungarian Admiralty presented the attack as the work of one of its own boats and published its version of events. According to the communiqué the submarine fired a shot across the ship's bows, and the ship began to flee, obeying the orders of the Italian authorities. It stopped only after several hits. The submarine was said to have allowed 45 minutes to abandon ship, but few lifeboats were lowered, and these were taken mainly by the crew. The torpedo was fired only when another ship was approaching. The communiqué blamed the *Ancona*'s crew for the passengers' deaths and called reports of firing on the lifeboats lies.
 
-In reality the attacker was a German boat. *U-38* was on her way from Germany through Gibraltar to [Kotor](https://pl.wikipedia.org/wiki/Kotor), from where German submarines operated in the Mediterranean. On the way she sank several ships, including French and Italian ones. Germany [was not yet at war with Italy](/niemcy-zrywaja-stosunki-z-wlochami), whereas Austria-Hungary had been fighting it [since May](/wlochy-wypowiadaja-wojne-austro-wegrom). That is why German submarines attacking ships in the western Mediterranean hoisted the Austro-Hungarian flag.
+In reality the attacker was a German boat. *U-38* was on her way from Germany through Gibraltar to [Kotor](/miejsca/kotor), from where German submarines operated in the Mediterranean. On the way she sank several ships, including French and Italian ones. Germany [was not yet at war with Italy](/niemcy-zrywaja-stosunki-z-wlochami), whereas Austria-Hungary had been fighting it [since May](/wlochy-wypowiadaja-wojne-austro-wegrom). That is why German submarines attacking ships in the western Mediterranean hoisted the Austro-Hungarian flag.
 
 ## Crisis with America
 

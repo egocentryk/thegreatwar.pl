@@ -2,7 +2,7 @@
 title: Doullens conference
 summary: On 26 March 1918, in the town hall at Doullens, the French and British entrusted General Foch with coordinating the Allied armies on the Western Front.
 source: konferencja-w-doullens
-sourceHash: ee74d5d7624827c36abbe6c1adffccd35931dd49
+sourceHash: 173e4a3846cd5bc8f21ec4e64dc22ffa05bbd959
 brief:
   - "On 26 March 1918, in the town hall at Doullens, on the sixth day of the German offensive on the Somme, Georges Clemenceau and Lord Alfred Milner signed an agreement giving General Foch the coordination of the Allied armies."
   - "Until March 1918 the British and French armies fought under separate commands. When the Germans struck on 21 March, mutual aid failed, and an open gap threatened to form between the two armies."
@@ -11,7 +11,7 @@ brief:
   - "For the first time the British and French forces in France had one man above them, though Foch could only coordinate, not issue orders. On 14 April the governments agreed to give him the title of Commander-in-Chief."
 ---
 
-On 26 March 1918 the leading politicians and soldiers of France and Great Britain gathered in the town hall at [Doullens](https://pl.wikipedia.org/wiki/Doullens), a small town north of [Amiens](https://pl.wikipedia.org/wiki/Amiens). The [great German offensive](/bitwy/operacja-michael) on the Somme had been under way for six days. The British armies were falling back, and an open gap threatened to form between them and the French. After a conference the French prime minister [Georges Clemenceau](/postacie/georges-clemenceau) and the British minister Lord [Alfred Milner](/postacie/alfred-milner) signed a short agreement. In it General [Ferdinand Foch](/postacie/ferdinand-foch) was given the task of coordinating the action of the Allied armies on the Western Front. For the first time since the beginning of the war the British and French forces in France had above them one man who could direct them jointly, although for the time being only to a limited extent.
+On 26 March 1918 the leading politicians and soldiers of France and Great Britain gathered in the town hall at [Doullens](https://pl.wikipedia.org/wiki/Doullens), a small town north of [Amiens](/miejsca/amiens). The [great German offensive](/bitwy/operacja-michael) on the Somme had been under way for six days. The British armies were falling back, and an open gap threatened to form between them and the French. After a conference the French prime minister [Georges Clemenceau](/postacie/georges-clemenceau) and the British minister Lord [Alfred Milner](/postacie/alfred-milner) signed a short agreement. In it General [Ferdinand Foch](/postacie/ferdinand-foch) was given the task of coordinating the action of the Allied armies on the Western Front. For the first time since the beginning of the war the British and French forces in France had above them one man who could direct them jointly, although for the time being only to a limited extent.
 
 ## Two armies, two strategies
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, Georg von der Marwitz]
 result: Allied victory. In the morning the Germans took Villers-Bretonneux, but a night counter-attack by two Australian brigades and British units retook the town. By 27 April the front had almost returned to the old lines, although Hangard remained in German hands.
 source: bitwa-pod-villers-bretonneux
-sourceHash: d59328b0a1b0a3c2da7d4a51cb8c31f4d898eac9
+sourceHash: 548ec9168864a04e03b6478e85860e321163d6b4
 brief:
   - "On 24 April 1918 four divisions of the German Second Army with thirteen A7V tanks struck in thick fog and took Villers-Bretonneux, a hill from which Amiens and its railway junction could be seen."
   - "That same day near Cachy the first tank-versus-tank engagement in history took place: Lieutenant Frank Mitchell's British Mark IV hit the German A7V Nixe."
@@ -18,7 +18,7 @@ brief:
   - "The recapture of the town on the third anniversary of the landing at Gallipoli, on Anzac Day, made it a symbol. In 1938 the Australian National Memorial was unveiled near the town."
 ---
 
-The Battle of Villers-Bretonneux was the last German attempt to get closer to [Amiens](https://pl.wikipedia.org/wiki/Amiens) in the spring of 1918. Three weeks after the end of [Operation Michael](/bitwy/operacja-michael), on the morning of 24 April 1918, four divisions of the German Second Army, preceded by thirteen [A7V](https://pl.wikipedia.org/wiki/A7V) tanks, struck two weakened British divisions in thick fog and took the small town of [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), which stood on a hill from which Amiens and its railway junction could be seen. That day, near the neighbouring village of [Cachy](https://pl.wikipedia.org/wiki/Cachy), the first tank-versus-tank engagement in history took place. That same night two Australian brigades, supported by the British, without artillery preparation and by moonlight, went round the town from the north and from the south. By the morning of 25 April, the third anniversary of the landing at Gallipoli, Villers-Bretonneux was again in Allied hands. For the Australians the battle became one of the most important places of remembrance of both world wars.
+The Battle of Villers-Bretonneux was the last German attempt to get closer to [Amiens](/miejsca/amiens) in the spring of 1918. Three weeks after the end of [Operation Michael](/bitwy/operacja-michael), on the morning of 24 April 1918, four divisions of the German Second Army, preceded by thirteen [A7V](https://pl.wikipedia.org/wiki/A7V) tanks, struck two weakened British divisions in thick fog and took the small town of [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), which stood on a hill from which Amiens and its railway junction could be seen. That day, near the neighbouring village of [Cachy](https://pl.wikipedia.org/wiki/Cachy), the first tank-versus-tank engagement in history took place. That same night two Australian brigades, supported by the British, without artillery preparation and by moonlight, went round the town from the north and from the south. By the morning of 25 April, the third anniversary of the landing at Gallipoli, Villers-Bretonneux was again in Allied hands. For the Australians the battle became one of the most important places of remembrance of both world wars.
 
 ## Name and dates
 

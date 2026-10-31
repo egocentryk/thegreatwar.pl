@@ -9,10 +9,10 @@ sides:
     commanders: [Otto Liman von Sanders, Mustafa Kemal]
 result: Ottoman defensive victory. The British took neither Scimitar Hill nor the W Hills, and at Anzac captured only part of Hill 60.
 source: bitwa-o-wzgorze-scimitar
-sourceHash: 7c43ba16314c3d88eb168f3ec36635d5a4445d35
+sourceHash: c6be8855abea5a0ebd2eb46577039c0f22c30cea
 ---
 
-The Battle of Scimitar Hill was the last major British offensive on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. On 21 August 1915 IX Corps, reinforced by the 29th Division brought over from Helles and by dismounted [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry) regiments from Egypt, attacked the hills closing off from the east the plain above [Suvla](https://pl.wikipedia.org/wiki/Suvla) Bay. At the same time troops from Anzac struck at nearby Hill 60. The attack, made on a misty afternoon amid burning scrub, collapsed under the fire of Turkish artillery and machine guns. Twice the British took the top of Scimitar Hill and twice they lost it. According to the British official history it was the most costly in proportion to its scale, and the least successful, of all the battles of the campaign.
+The Battle of Scimitar Hill was the last major British offensive on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. On 21 August 1915 IX Corps, reinforced by the 29th Division brought over from Helles and by dismounted [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry) regiments from Egypt, attacked the hills closing off from the east the plain above [Suvla](https://pl.wikipedia.org/wiki/Suvla) Bay. At the same time troops from Anzac struck at nearby Hill 60. The attack, made on a misty afternoon amid burning scrub, collapsed under the fire of Turkish artillery and machine guns. Twice the British took the top of Scimitar Hill and twice they lost it. According to the British official history it was the most costly in proportion to its scale, and the least successful, of all the battles of the campaign.
 
 ## Name and dates
 

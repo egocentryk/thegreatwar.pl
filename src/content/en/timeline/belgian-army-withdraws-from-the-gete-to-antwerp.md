@@ -2,10 +2,10 @@
 title: Belgian army withdraws from the Gete to Antwerp
 summary: On 19 August 1914 the Belgian army withdrew from the Gete to the fortress of Antwerp. In the towns it left, German troops committed crimes against civilians.
 source: armia-belgijska-wycofuje-sie-do-antwerpii
-sourceHash: d704b1c817fd7e1755f19cc4c7aa490bb83a13f9
+sourceHash: 7e384640771798a795a8dac8a4a4dc8fb3a3798a
 ---
 
-On 19 August 1914 the Belgian army began its retreat from the river Gete to [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia). The decision had been taken the previous evening by King [Albert I](/postacie/albert-i), when it became clear that the small army could not hold out in the open field against the main German forces.
+On 19 August 1914 the Belgian army began its retreat from the river Gete to [Antwerp](/miejsca/antwerpia). The decision had been taken the previous evening by King [Albert I](/postacie/albert-i), when it became clear that the small army could not hold out in the open field against the main German forces.
 
 ## The march to the fortress
 

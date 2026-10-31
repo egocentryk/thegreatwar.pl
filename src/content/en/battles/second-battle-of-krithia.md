@@ -9,10 +9,10 @@ sides:
     commanders: [Otto Liman von Sanders, Erich Weber]
 result: Ottoman defensive victory. The Allies advanced at most about 600 yards (550 metres) but took neither Krithia nor the hill of Achi Baba.
 source: druga-bitwa-o-kritie
-sourceHash: 38e690fa043f4dddf9d219af98554f0c9dd1fa0e
+sourceHash: 5337804fe7cd6ca4f8a4bc40f9ec31218f610229
 ---
 
-The Second Battle of Krithia was the Allies' second attempt to break out of the bridgehead at Helles on the southern tip of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. From 6 to 8 May 1915 the British 29th Division, the French, a fresh Territorial brigade from Lancashire and two brigades brought over from Anzac Cove, one Australian and one New Zealand, attacked the village of Krithia and the hill of Achi Baba three times in a row in broad daylight. Artillery ammunition was short, and nobody knew exactly where the Turkish positions were. The attacks came to a halt in front of unseen machine guns. After three days the front had moved a few hundred metres, and the Allies had lost about a third of the soldiers who took part in the fighting.
+The Second Battle of Krithia was the Allies' second attempt to break out of the bridgehead at Helles on the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. From 6 to 8 May 1915 the British 29th Division, the French, a fresh Territorial brigade from Lancashire and two brigades brought over from Anzac Cove, one Australian and one New Zealand, attacked the village of Krithia and the hill of Achi Baba three times in a row in broad daylight. Artillery ammunition was short, and nobody knew exactly where the Turkish positions were. The attacks came to a halt in front of unseen machine guns. After three days the front had moved a few hundred metres, and the Allies had lost about a third of the soldiers who took part in the fighting.
 
 ## Name and dates
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 lutego 1915 roku członkowie brytyjskiej Rady Wojennej postanowili, że pod [Dardanele](https://pl.wikipedia.org/wiki/Dardanele) pojadą wojska lądowe. Na wyspę [Lemnos](https://pl.wikipedia.org/wiki/Limnos) miała jak najszybciej, w ciągu mniej więcej dziesięciu dni, wyruszyć 29 Dywizja, ostatnia dywizja zawodowej armii brytyjskiej, jaka pozostała jeszcze w kraju. Jeszcze trzy tygodnie wcześniej Rada [zatwierdziła atak samej floty](/ostateczna-decyzja-o-ataku-na-dardanele), bez udziału żołnierzy. Teraz zaczęła się z tego wycofywać, choć jeszcze nie do końca.
+16 lutego 1915 roku członkowie brytyjskiej Rady Wojennej postanowili, że pod [Dardanele](/miejsca/dardanele) pojadą wojska lądowe. Na wyspę [Lemnos](https://pl.wikipedia.org/wiki/Limnos) miała jak najszybciej, w ciągu mniej więcej dziesięciu dni, wyruszyć 29 Dywizja, ostatnia dywizja zawodowej armii brytyjskiej, jaka pozostała jeszcze w kraju. Jeszcze trzy tygodnie wcześniej Rada [zatwierdziła atak samej floty](/ostateczna-decyzja-o-ataku-na-dardanele), bez udziału żołnierzy. Teraz zaczęła się z tego wycofywać, choć jeszcze nie do końca.
 
 ## Dlaczego wojsko
 

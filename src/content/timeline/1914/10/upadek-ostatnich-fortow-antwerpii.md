@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 października 1914 roku obrona [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia) dobiegła końca. Rano niemieccy żołnierze, którzy ostrzeliwali wewnętrzny pierścień fortów, przekonali się, że część z nich stoi pusta. W ciągu dnia pierwsze niemieckie oddziały weszły do miasta, a wieczorem jego przedstawiciele podpisali w pobliskim [Kontich](https://pl.wikipedia.org/wiki/Kontich) akt poddania twierdzy.
+9 października 1914 roku obrona [Antwerpii](/miejsca/antwerpia) dobiegła końca. Rano niemieccy żołnierze, którzy ostrzeliwali wewnętrzny pierścień fortów, przekonali się, że część z nich stoi pusta. W ciągu dnia pierwsze niemieckie oddziały weszły do miasta, a wieczorem jego przedstawiciele podpisali w pobliskim [Kontich](https://pl.wikipedia.org/wiki/Kontich) akt poddania twierdzy.
 
 ## Ostatnia noc obrony
 

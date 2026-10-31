@@ -2,10 +2,10 @@
 title: Belgian government moves from Brussels to Antwerp
 summary: On 17 August 1914, with the Germans approaching, the Belgian government left Brussels and moved to Antwerp, the country's strongest fortress.
 source: rzad-belgii-przenosi-sie-do-antwerpii
-sourceHash: 6436fd0f034b0ac691315c86f31a42916bb9768b
+sourceHash: ca565098e1c89dfc2992b1a592541127e9bf87ea
 ---
 
-On 17 August 1914 the government of [Belgium](/kraje/belgia) left [Brussels](https://pl.wikipedia.org/wiki/Bruksela) and moved to [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia). After the fall of the forts of Liège the German army was free to advance into the interior of the country, and the capital lay directly in its path.
+On 17 August 1914 the government of [Belgium](/kraje/belgia) left [Brussels](https://pl.wikipedia.org/wiki/Bruksela) and moved to [Antwerp](/miejsca/antwerpia). After the fall of the forts of Liège the German army was free to advance into the interior of the country, and the capital lay directly in its path.
 
 ## The fortress on the Scheldt
 

@@ -2,7 +2,7 @@
 title: Wilson's Fourteen Points
 summary: On 8 January 1918 Wilson laid a fourteen-point peace programme before Congress. In the thirteenth he demanded an independent Poland with access to the sea.
 source: czternascie-punktow-wilsona
-sourceHash: 68ab6acc66a05f4d8825297e012d7c8aa00d3df6
+sourceHash: 5df9a25a88e552479c81d2955b54af856126c6de
 brief:
   - "On 8 January 1918 President Woodrow Wilson read an address on war aims before a joint session of Congress. Its core was a programme of fourteen points, which he called \"the programme of the world's peace\"."
   - "The address was meant to answer the Bolsheviks, reach the German socialists and make clear to the Entente that the aims of the secret treaties had to be revised. The material was prepared by a group of scholars called the Inquiry."
@@ -44,7 +44,7 @@ The programme of the world's peace ran, in brief, as follows:
 9. A readjustment of the frontiers of Italy along clearly recognisable lines of nationality.
 10. The peoples of Austria-Hungary, whose place among the nations the United States wished to see safeguarded, should be accorded the freest opportunity of autonomous development.
 11. The evacuation of Romania, Serbia and Montenegro, the restoration of occupied territories, free and secure access to the sea for Serbia, the determination of the relations of the Balkan states to one another by friendly counsel along historically established lines of allegiance and nationality, and international guarantees of their independence and integrity.
-12. Secure sovereignty for the Turkish portions of the [Ottoman Empire](/kraje/imperium-osmanskie), but for the other nationalities under Turkish rule an undoubted security of life and an absolutely unmolested opportunity of autonomous development. The [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) were to be permanently opened to the ships and commerce of all nations under international guarantees.
+12. Secure sovereignty for the Turkish portions of the [Ottoman Empire](/kraje/imperium-osmanskie), but for the other nationalities under Turkish rule an undoubted security of life and an absolutely unmolested opportunity of autonomous development. The [Dardanelles](/miejsca/dardanele) were to be permanently opened to the ships and commerce of all nations under international guarantees.
 13. The erection of an independent Polish state on the territories inhabited by indisputably Polish populations, with free and secure access to the sea and with international guarantees of its independence and territorial integrity.
 14. The formation of a general association of nations under specific covenants, affording mutual guarantees of political independence and territorial integrity to great and small states alike.
 

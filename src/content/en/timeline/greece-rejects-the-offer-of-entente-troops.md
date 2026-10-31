@@ -2,14 +2,14 @@
 title: Greece rejects the offer of Entente troops
 summary: On 28 September 1915 Athens thanked London for its offer of troops, deeming them unnecessary for now. A day later the Greeks asked for this reply to be ignored.
 source: grecja-odrzuca-oferte-wojsk-ententy
-sourceHash: e9d069bbd1d48fb1d1018572634ebeeb2bc1c16d
+sourceHash: 419bb43ca5c213cf973353f18fdf744747bb7035
 ---
 
 On 28 September 1915 the British Foreign Office received from Athens a reply which the British official naval historian Julian Corbett called "staggering". The government of [Greece](/kraje/grecja) thanked it warmly for the offer to send troops to [Salonika](/miejsca/saloniki), but considered that there was at present no need to make use of it. It cited the declarations of the governments of Bulgaria and Serbia. The Bulgarians gave assurances that their mobilisation meant only armed neutrality, and the Serbs that they did not intend to attack first. Only the day before, Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos) had reported that [the King had agreed to the arrival of the troops](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), and had asked for them to come as quickly as possible.
 
 ## A reply to the British conditions
 
-The Greek telegram was a reply to a British telegram of the previous day. In it London gave assurances that preparations to send the troops were under way, but it did not accept the formal protest with which Greece wished to greet the landing. It demanded a clear statement that the troops would be welcome, and proposed that the Greek navy help to secure the port against submarines. Neutral Greece did not want to make such a statement. Venizelos had stipulated from the start that, as long as the country had not entered the war, the landing of foreign troops could not have the government's official consent, only its tacit acquiescence, as with the occupation of [Mudros](https://pl.wikipedia.org/wiki/Mudros) on Lemnos in February 1915.
+The Greek telegram was a reply to a British telegram of the previous day. In it London gave assurances that preparations to send the troops were under way, but it did not accept the formal protest with which Greece wished to greet the landing. It demanded a clear statement that the troops would be welcome, and proposed that the Greek navy help to secure the port against submarines. Neutral Greece did not want to make such a statement. Venizelos had stipulated from the start that, as long as the country had not entered the war, the landing of foreign troops could not have the government's official consent, only its tacit acquiescence, as with the occupation of [Mudros](/miejsca/mudros) on Lemnos in February 1915.
 
 It is not known exactly who drafted the reply of 28 September or in what circumstances. Corbett, who used the British files, wrote only of the "pirouettes" that Athens was forced into by its difficult position. Two policies clashed in the Greek government: that of the Prime Minister, who wanted to help Serbia, and that of King [Constantine I](/postacie/konstantyn-i), who intended to remain neutral unless Bulgaria attacked the Serbs.
 

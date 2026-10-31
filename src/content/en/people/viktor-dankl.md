@@ -6,14 +6,14 @@ country: Austria-Hungary
 birthPlace: Udine (Venetia)
 deathPlace: Innsbruck
 source: victor-dankl
-sourceHash: fe4ad4698d1d113d3407320fdc058e9b0dac0e3b
+sourceHash: 38a4b6ad61efdfe266c37a7f9ba18023da432868
 ---
 
 Viktor Dankl, from 1918 Count Dankl von Krasnik, was the commander who gave the Austro-Hungarian army its first victory of the First World War. On 23–25 August 1914 his First Army defeated the Russians at Kraśnik in the Lublin region, and the monarchy, just humiliated by defeat in Serbia, hailed him as a hero. The success proved short-lived, for two weeks later Dankl's army had to fall back from Lublin. In 1915, with very modest forces, he halted the Italians on the Tyrolean border, and in 1916 his Eleventh Army opened the great offensive from Tyrol. After it, amid quarrels with his superiors and because of illness, he left the front and held no further command until the end of the war.
 
 ## Before the war
 
-He was born on 18 September 1854 in [Udine](https://pl.wikipedia.org/wiki/Udine), then still in Austrian Venetia. His father, an army captain from Vienna, settled with his family on retirement in [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) and then in [Trieste](https://pl.wikipedia.org/wiki/Triest), where Viktor attended German grammar schools. At fourteen he entered the cadet school at St. Pölten, and from 1870 he studied at the Military Academy in [Wiener Neustadt](https://pl.wikipedia.org/wiki/Wiener_Neustadt). He served in the cavalry, in a dragoon regiment at Enns, and after graduating from the war school in Vienna, from 1880 on the General Staff. In the 1890s he also served in an uhlan regiment stationed in Galicia. In 1899 he became head of the central bureau of the General Staff, in 1903 a major general, and in 1907 commander of the 36th Infantry Division in Zagreb.
+He was born on 18 September 1854 in [Udine](https://pl.wikipedia.org/wiki/Udine), then still in Austrian Venetia. His father, an army captain from Vienna, settled with his family on retirement in [Gorizia](/miejsca/gorycja) and then in [Trieste](/miejsca/triest), where Viktor attended German grammar schools. At fourteen he entered the cadet school at St. Pölten, and from 1870 he studied at the Military Academy in [Wiener Neustadt](https://pl.wikipedia.org/wiki/Wiener_Neustadt). He served in the cavalry, in a dragoon regiment at Enns, and after graduating from the war school in Vienna, from 1880 on the General Staff. In the 1890s he also served in an uhlan regiment stationed in Galicia. In 1899 he became head of the central bureau of the General Staff, in 1903 a major general, and in 1907 commander of the 36th Infantry Division in Zagreb.
 
 In 1912 he took over XIV Corps in [Innsbruck](https://pl.wikipedia.org/wiki/Innsbruck), one of the best in the army, made up largely of Tyrolean mountain riflemen. He was also responsible for the defence of Tyrol and Vorarlberg. In October that year he was promoted to general of cavalry. He was regarded as a careful and well-prepared officer, but also a hot-tempered one.
 

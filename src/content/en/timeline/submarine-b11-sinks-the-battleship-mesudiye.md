@@ -2,10 +2,10 @@
 title: Submarine B11 sinks the battleship Mesudiye
 summary: On 13 December 1914 the British submarine B11 passed under the minefields deep into the Dardanelles and sank the Turkish battleship Mesudiye.
 source: b11-zatapia-mesudiye
-sourceHash: 0fe8018da1a77aeae7badbd4105dfcb191415153
+sourceHash: 993ad54f429fa8c29dca909fb93865b7d7cc63af
 ---
 
-On 13 December 1914 the British submarine [*B11*](https://pl.wikipedia.org/wiki/HMS_B11), commanded by Lieutenant Norman Holbrook, entered deep into the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele), passed under five lines of mines and torpedoed the old Turkish battleship *Mesudiye*. The battleship capsized and quickly sank. It was the first success of an Allied submarine in the straits, and for it Holbrook received the first [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) of this war awarded to a naval officer.
+On 13 December 1914 the British submarine [*B11*](https://pl.wikipedia.org/wiki/HMS_B11), commanded by Lieutenant Norman Holbrook, entered deep into the [Dardanelles](/miejsca/dardanele), passed under five lines of mines and torpedoed the old Turkish battleship *Mesudiye*. The battleship capsized and quickly sank. It was the first success of an Allied submarine in the straits, and for it Holbrook received the first [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) of this war awarded to a naval officer.
 
 ## An old battleship guarding the mines
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-10 października 1914 roku [Antwerpia](https://pl.wikipedia.org/wiki/Antwerpia), największy port Belgii i jej reduta narodowa, formalnie skapitulowała. W południe weszło w życie porozumienie, które poprzedniego dnia [podpisali w Kontich](/upadek-ostatnich-fortow-antwerpii) przedstawiciele miasta. Gubernator twierdzy, generał Victor Deguise, poddał się Niemcom w jednym z fortów na lewym brzegu [Skaldy](https://pl.wikipedia.org/wiki/Skalda). Twierdza, uważana za jedną z najsilniejszych w Europie, broniła się niespełna dwa tygodnie.
+10 października 1914 roku [Antwerpia](/miejsca/antwerpia), największy port Belgii i jej reduta narodowa, formalnie skapitulowała. W południe weszło w życie porozumienie, które poprzedniego dnia [podpisali w Kontich](/upadek-ostatnich-fortow-antwerpii) przedstawiciele miasta. Gubernator twierdzy, generał Victor Deguise, poddał się Niemcom w jednym z fortów na lewym brzegu [Skaldy](https://pl.wikipedia.org/wiki/Skalda). Twierdza, uważana za jedną z najsilniejszych w Europie, broniła się niespełna dwa tygodnie.
 
 ## Kapitulacja zawarta przez cywilów
 

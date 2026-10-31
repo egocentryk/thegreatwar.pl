@@ -2,10 +2,10 @@
 title: British reply on Lemnos
 summary: On 9 March 1915 London replied to the Greek request for an explanation of the occupation of the island of Lemnos, citing military necessity.
 source: brytyjska-odpowiedz-w-sprawie-lemnos
-sourceHash: de80f969e6299bbd126e55640a2b026980b197d3
+sourceHash: 7d0c335c7c02e8d9146ed57195f83522ce62b660
 ---
 
-On 9 March 1915 the British government replied to the [Greek inquiry](/grecja-pyta-o-okupacje-lemnos) about the occupation of the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). According to the British chronology of the war, London cited military necessity. The bay of [Mudros](https://pl.wikipedia.org/wiki/Mudros) was the best natural harbour near the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele), and the fleet, which for three weeks had been attacking the Turkish forts, could not do without it. That same day King [Constantine I](/postacie/konstantyn-i) [entrusted the premiership to Dimitrios Gounaris](/dimitrios-gunaris-premierem-grecji), and it was his government that had to take a position on the British explanations.
+On 9 March 1915 the British government replied to the [Greek inquiry](/grecja-pyta-o-okupacje-lemnos) about the occupation of the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). According to the British chronology of the war, London cited military necessity. The bay of [Mudros](/miejsca/mudros) was the best natural harbour near the [Dardanelles](/miejsca/dardanele), and the fleet, which for three weeks had been attacking the Turkish forts, could not do without it. That same day King [Constantine I](/postacie/konstantyn-i) [entrusted the premiership to Dimitrios Gounaris](/dimitrios-gunaris-premierem-grecji), and it was his government that had to take a position on the British explanations.
 
 ## A half-Turkish island
 

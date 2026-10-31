@@ -2,7 +2,7 @@
 title: First Battle of Albert begins
 summary: In September 1914 the French and Germans clashed at Albert and Bapaume. On the heights above the Somme a front formed that held until the Somme battle of 1916.
 source: poczatek-pierwszej-bitwy-pod-albert
-sourceHash: 8a991f454b6818144ecff334ef4a448fb943b371
+sourceHash: e6c46c600c3e3e0fd1d10a115b26617c9a6aa017
 brief:
   - "On 22 September 1914, according to the British chronology of the war, the First Battle of Albert began in the Somme department. Most modern historians date the battle proper to 25–29 September."
   - "After the indecisive Battle of the Aisne both sides tried to turn the enemy's open flank. General Noël de Castelnau's French Second Army and Crown Prince Rupprecht of Bavaria's German Sixth Army clashed north of the Somme."
@@ -18,7 +18,7 @@ The old British chronology of the war opens the Battle of Albert on 22 September
 
 ## The race north
 
-In the second half of September 1914, after the indecisive Battle of the Aisne, both sides were moving troops west to turn the enemy's open flank. The commander-in-chief of the French Army, General [Joseph Joffre](/postacie/joseph-joffre), sent one corps after another to Castelnau's new Second Army, assembling around [Amiens](https://pl.wikipedia.org/wiki/Amiens). When its attack south of the Somme stalled, Castelnau extended his line north of the river and decided to strike east from the Albert area.
+In the second half of September 1914, after the indecisive Battle of the Aisne, both sides were moving troops west to turn the enemy's open flank. The commander-in-chief of the French Army, General [Joseph Joffre](/postacie/joseph-joffre), sent one corps after another to Castelnau's new Second Army, assembling around [Amiens](/miejsca/amiens). When its attack south of the Somme stalled, Castelnau extended his line north of the river and decided to strike east from the Albert area.
 
 The chief of the German General Staff, General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), had the same intention, only in the opposite direction. The Sixth Army, being brought from Lorraine, was to strike west, towards Amiens and the coast. The French attack in Picardy, however, forced him to send part of its forces south of the Somme. North of the river the attack was made by II Bavarian Corps and XIV Reserve Corps, supported by cavalry.
 

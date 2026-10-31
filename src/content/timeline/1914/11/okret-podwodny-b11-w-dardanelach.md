@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 6 listopada 1914 roku, że okręt podwodny [B11](https://pl.wikipedia.org/wiki/HMS_B11) wszedł na około dwie mile w głąb [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele). Była to jedna z pierwszych, jeśli nie pierwsza, wypraw alianckiego okrętu do wnętrza cieśniny, zamkniętej przez Turków minami i bateriami nadbrzeżnymi.
+Brytyjska chronologia wojny odnotowuje pod 6 listopada 1914 roku, że okręt podwodny [B11](https://pl.wikipedia.org/wiki/HMS_B11) wszedł na około dwie mile w głąb [Dardaneli](/miejsca/dardanele). Była to jedna z pierwszych, jeśli nie pierwsza, wypraw alianckiego okrętu do wnętrza cieśniny, zamkniętej przez Turków minami i bateriami nadbrzeżnymi.
 
 Szczegóły tej akcji są słabo znane i nie udało się ich potwierdzić w dostępnych źródłach. Brytyjska historia oficjalna wojny na morzu wspomina tylko, bez podania daty, że przed połową grudnia B11 był już dwie mile w górę cieśniny, ścigając dwie tureckie kanonierki. Mogło chodzić właśnie o ten wypad.
 

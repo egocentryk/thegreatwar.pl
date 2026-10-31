@@ -2,10 +2,10 @@
 title: British 7th Division lands in Belgium
 summary: On 6 October 1914 the British 7th Division, sent to help Antwerp, began landing at Zeebrugge. It came too late, but covered the Belgian army's retreat.
 source: brytyjska-7-dywizja-laduje-w-belgii
-sourceHash: 93410f6e21a0163f66b917e8fd4ab649c3dbc42b
+sourceHash: de6f876e5792b2be65d7f036b9ef8be7ba73882f
 ---
 
-On the morning of 6 October 1914 units of the British 7th Infantry Division began to come ashore at the Belgian port of [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge). In the following days the 3rd Cavalry Division also landed at Zeebrugge and [Ostend](https://pl.wikipedia.org/wiki/Ostenda). Both formations had been sent to Belgium to save besieged [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia) together with the Belgian army.
+On the morning of 6 October 1914 units of the British 7th Infantry Division began to come ashore at the Belgian port of [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge). In the following days the 3rd Cavalry Division also landed at Zeebrugge and [Ostend](https://pl.wikipedia.org/wiki/Ostenda). Both formations had been sent to Belgium to save besieged [Antwerp](/miejsca/antwerpia) together with the Belgian army.
 
 ## A division from overseas garrisons
 

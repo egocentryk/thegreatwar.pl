@@ -2,7 +2,7 @@
 title: Hospital ship Goorkha damaged
 summary: On 17 October 1917 the British hospital ship Goorkha struck a mine off Malta. All 360-odd people on board survived and the ship was towed into port.
 source: uszkodzenie-statku-szpitalnego-goorkha
-sourceHash: 0666f197e988ee0ed11f3faf8694cf567e8f6a1e
+sourceHash: 60ca45c4d6578fc69325d3003a7acbd2237c6451
 ---
 
 On 17 October 1917 the British [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) *Goorkha* struck a [mine](https://pl.wikipedia.org/wiki/Mina_morska) off [Malta](https://pl.wikipedia.org/wiki/Malta_(wyspa)). According to lists of British hospital ships there were 362 people on board, including seventeen military nurses. Some works give the figure of 372. The evacuation went smoothly: within about 35 minutes everyone had left the ship and no one was killed.
@@ -13,4 +13,4 @@ The ship did not sink. She was towed into harbour at Malta. The very next day, 1
 
 In lists of German submarine successes the damage to *Goorkha* is attributed to mines laid by the submarine minelayer [UC-25](https://pl.wikipedia.org/wiki/SM_UC-25) of the flotilla at [Pola](https://pl.wikipedia.org/wiki/Pula), then commanded by Oberleutnant zur See Walter Lippold. The British chronology of the war and some British lists of hospital ships, however, give the date as 10 October. In February 1918 command of UC-25 was taken over by [Karl Dönitz](https://pl.wikipedia.org/wiki/Karl_Dönitz), in the Second World War the commander of the German U-boat arm.
 
-Mines did not distinguish hospital ships from other vessels, so the damage to *Goorkha* cannot be put on a par with deliberate attacks on ships carrying wounded, such as the [sinking of the *Dover Castle*](/zatopienie-statku-szpitalnego-dover-castle) in May 1917. It did, however, show how dangerous the waters around Malta had become. German submarine minelayers from Pola and [Cattaro](https://pl.wikipedia.org/wiki/Kotor) regularly mined the approaches to the island, through which passed most Allied shipping between Gibraltar and Egypt and Salonika. Hospital ships sailed that way constantly, because Malta was the main hospital base for the troops in the eastern Mediterranean.
+Mines did not distinguish hospital ships from other vessels, so the damage to *Goorkha* cannot be put on a par with deliberate attacks on ships carrying wounded, such as the [sinking of the *Dover Castle*](/zatopienie-statku-szpitalnego-dover-castle) in May 1917. It did, however, show how dangerous the waters around Malta had become. German submarine minelayers from Pola and [Cattaro](/miejsca/kotor) regularly mined the approaches to the island, through which passed most Allied shipping between Gibraltar and Egypt and Salonika. Hospital ships sailed that way constantly, because Malta was the main hospital base for the troops in the eastern Mediterranean.

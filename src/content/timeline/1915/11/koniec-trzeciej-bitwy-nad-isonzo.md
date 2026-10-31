@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny kończy trzecią bitwę nad Isonzo 3 listopada 1915 roku. Tego dnia Włosi przypuścili ostatnie wielkie szturmy na przedmoście [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i Monte San Michele, które się załamały. Włoska i austro-węgierska historia oficjalna liczą bitwę o dzień dłużej, do 4 listopada. Rano tego dnia obrońcy odzyskali ostatnie okopy na wzgórzu Podgora, a wieczorem generał [Luigi Cadorna](/postacie/luigi-cadorna) kazał wstrzymać natarcia. Stąd w opracowaniach obie daty, 3 i 4 listopada.
+Brytyjska chronologia wojny kończy trzecią bitwę nad Isonzo 3 listopada 1915 roku. Tego dnia Włosi przypuścili ostatnie wielkie szturmy na przedmoście [Gorycji](/miejsca/gorycja) i Monte San Michele, które się załamały. Włoska i austro-węgierska historia oficjalna liczą bitwę o dzień dłużej, do 4 listopada. Rano tego dnia obrońcy odzyskali ostatnie okopy na wzgórzu Podgora, a wieczorem generał [Luigi Cadorna](/postacie/luigi-cadorna) kazał wstrzymać natarcia. Stąd w opracowaniach obie daty, 3 i 4 listopada.
 
 ## Oslavia i Podgora
 
@@ -22,7 +22,7 @@ Dowódca włoskiego VI Korpusu, generał Luigi Capello, nie dał jednak za wygra
 
 ## Ostatnie natarcia na Krasie
 
-Na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) w nocy na 3 listopada trzy bataliony strzelców polowych z 6 Dywizji Piechoty zaczęły luzować honwedów na północnym stoku Monte San Michele. W ciemnościach przewodnicy się zgubili i jeden z nowych batalionów wyszedł za wysuniętą pozycję prosto pod ogień włoski z trzech stron, ponosząc ciężkie straty. Austriacy porzucili wtedy ten niekorzystny występ i zajęli nową linię 50 kroków za nim. O 14.00 Włosi uderzyli na całym froncie austro-węgierskiego VII Korpusu, od Monte San Michele po wzgórza za San Martino, ale natarcie nigdzie nie doszło do austriackich okopów. Nocne próby przełamania frontu pod San Martino też się nie powiodły. Pod Monfalcone, po dwunastu dniach przerwy, włoski VII Korpus zaatakował w burzy pozycje austriackiego III Korpusu i został odparty ogniem dział i karabinów maszynowych.
+Na płaskowyżu [Kras](/bitwy/bitwy-nad-isonzo) w nocy na 3 listopada trzy bataliony strzelców polowych z 6 Dywizji Piechoty zaczęły luzować honwedów na północnym stoku Monte San Michele. W ciemnościach przewodnicy się zgubili i jeden z nowych batalionów wyszedł za wysuniętą pozycję prosto pod ogień włoski z trzech stron, ponosząc ciężkie straty. Austriacy porzucili wtedy ten niekorzystny występ i zajęli nową linię 50 kroków za nim. O 14.00 Włosi uderzyli na całym froncie austro-węgierskiego VII Korpusu, od Monte San Michele po wzgórza za San Martino, ale natarcie nigdzie nie doszło do austriackich okopów. Nocne próby przełamania frontu pod San Martino też się nie powiodły. Pod Monfalcone, po dwunastu dniach przerwy, włoski VII Korpus zaatakował w burzy pozycje austriackiego III Korpusu i został odparty ogniem dział i karabinów maszynowych.
 
 ## 4 listopada
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-4 sierpnia 1914 roku o godzinie 8:02 wojska niemieckie przekroczyły granicę Belgii w wiosce [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), w pobliżu styku granic Belgii, Niemiec i Holandii. Pierwszymi Belgami, którzy zetknęli się z najeźdźcą, byli dwaj strażnicy graniczni, do których zbliżył się oddział ułanów. Równocześnie niemieckie kolumny ruszyły w kierunku [Mozy](https://pl.wikipedia.org/wiki/Moza) pod [Visé](https://pl.wikipedia.org/wiki/Visé), gdzie Belgowie zdążyli wysadzić most.
+4 sierpnia 1914 roku o godzinie 8:02 wojska niemieckie przekroczyły granicę Belgii w wiosce [Gemmenich](https://pl.wikipedia.org/wiki/Gemmenich), w pobliżu styku granic Belgii, Niemiec i Holandii. Pierwszymi Belgami, którzy zetknęli się z najeźdźcą, byli dwaj strażnicy graniczni, do których zbliżył się oddział ułanów. Równocześnie niemieckie kolumny ruszyły w kierunku [Mozy](/miejsca/moza) pod [Visé](https://pl.wikipedia.org/wiki/Visé), gdzie Belgowie zdążyli wysadzić most.
 
 ## Twierdza Liège
 

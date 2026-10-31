@@ -2,7 +2,7 @@
 title: Indian Expeditionary Force F merged into Force E
 summary: On 25 March 1915 Indian Expeditionary Force F in Egypt was formally merged into Force E. Its brigades were already leaving for other fronts.
 source: indyjski-korpus-f-wlaczony-do-korpusu-e
-sourceHash: 13d184c24ff410afa204d946d2016d2396ad41d0
+sourceHash: 6b3690523cca323d88752422417941149ba62a86
 ---
 
 The British chronology of the war records under 25 March 1915 that Indian Expeditionary Force F, stationed in [Egypt](https://pl.wikipedia.org/wiki/Egipt), was absorbed by Indian Expeditionary Force E. This was an organisational change that other sources hardly mention. From then on all Indian troops in Egypt appeared under a single designation. Force F ceased to exist at the moment when its brigades were beginning to leave for other fronts.
@@ -17,6 +17,6 @@ At the beginning of February 1915 the Indian brigades, supported by warships and
 
 The repulse of the Turks meant that the Indian troops in Egypt became a reserve for other fronts. It was precisely because the brigades of Force F were leaving one after another that keeping it as a separate formation no longer made sense.
 
-The first to leave was the 30th Brigade of General Charles Melliss. On 10 March the Secretary of State for India, Lord Crewe, announced that it would shortly sail from Egypt to [Mesopotamia](/bitwy/kampania-mezopotamska) to reinforce Indian Expeditionary Force D operating there. The brigade reached [Basra](https://pl.wikipedia.org/wiki/Basra) on 6 April, and a few days later, in mid-April, fought the Turks at Shaiba. The 29th Brigade sailed for the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula at the end of April. It was the only Indian infantry brigade to fight in that campaign. The 28th Brigade stayed on the canal for the time being. In July 1915 it sailed to [Aden](https://pl.wikipedia.org/wiki/Aden), where it drove back the Turks threatening the British base, and at the end of the year it too went to Mesopotamia.
+The first to leave was the 30th Brigade of General Charles Melliss. On 10 March the Secretary of State for India, Lord Crewe, announced that it would shortly sail from Egypt to [Mesopotamia](/bitwy/kampania-mezopotamska) to reinforce Indian Expeditionary Force D operating there. The brigade reached [Basra](https://pl.wikipedia.org/wiki/Basra) on 6 April, and a few days later, in mid-April, fought the Turks at Shaiba. The 29th Brigade sailed for the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula at the end of April. It was the only Indian infantry brigade to fight in that campaign. The 28th Brigade stayed on the canal for the time being. In July 1915 it sailed to [Aden](https://pl.wikipedia.org/wiki/Aden), where it drove back the Turks threatening the British base, and at the end of the year it too went to Mesopotamia.
 
 The 10th Indian Division effectively ceased to exist as a whole. It was re-formed in Egypt only in January 1916, partly with a different composition, but after only two months it was broken up again. The designation Indian Expeditionary Force E, on the other hand, survived in British returns of troops in Egypt until at least the summer of 1915.

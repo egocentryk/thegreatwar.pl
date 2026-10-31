@@ -11,7 +11,7 @@ sides:
     commanders: [Hans von Beseler]
 result: German victory. The fortress capitulated on 10 October, but Belgium's field army withdrew westwards and took up the defence on the Yser.
 source: oblezenie-antwerpii
-sourceHash: cf2e9243bb4687d7023dbb867e9ee0b0d066197b
+sourceHash: f58f1b3a769e1aea6036bf45c7bfebc3cc71aeee
 brief:
   - "From 27 September to 10 October 1914 German troops under General Hans von Beseler besieged Antwerp, the national redoubt and last fortress of Belgium, where the Belgian army had taken refuge."
   - "After the retreat from the Marne the Germans saw the Belgian army in Antwerp as a threat. The outcome was to be decided by heavy artillery, including 420 mm and 305 mm mortars."
@@ -24,7 +24,7 @@ The [siege of Antwerp](https://pl.wikipedia.org/wiki/Oblężenie_Antwerpii), whi
 
 ## The national redoubt
 
-[Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), Belgium's largest port, had been its national redoubt since the middle of the 19th century. The Belgian defence plan assumed that in the event of invasion the army, the government and the king would take refuge in this fortress and hold out there until the powers guaranteeing the country's neutrality came to their aid. The city was surrounded by two rings of fortifications. The inner one, built in the 1860s to a design by General [Henri Alexis Brialmont](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont), ran a few kilometres from the centre. The outer one, built from the 1880s and still being extended just before the war, consisted of more than a dozen forts and numerous redoubts 10–15 kilometres from the city. The defences were completed by the rivers [Nete](https://pl.wikipedia.org/wiki/Nete_(rzeka)) and Rupel and by ground that could be flooded.
+[Antwerp](/miejsca/antwerpia), Belgium's largest port, had been its national redoubt since the middle of the 19th century. The Belgian defence plan assumed that in the event of invasion the army, the government and the king would take refuge in this fortress and hold out there until the powers guaranteeing the country's neutrality came to their aid. The city was surrounded by two rings of fortifications. The inner one, built in the 1860s to a design by General [Henri Alexis Brialmont](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont), ran a few kilometres from the centre. The outer one, built from the 1880s and still being extended just before the war, consisted of more than a dozen forts and numerous redoubts 10–15 kilometres from the city. The defences were completed by the rivers [Nete](https://pl.wikipedia.org/wiki/Nete_(rzeka)) and Rupel and by ground that could be flooded.
 
 The fortress was considered one of the strongest in Europe. August 1914 showed, however, that forts built with older artillery in mind could not withstand the fire of modern siege mortars. The forts of [Liège](/bitwy/bitwa-pod-liege) and [Namur](/bitwy/oblezenie-namuru) fell within a few days. The modernisation of Antwerp had not been completed in time.
 

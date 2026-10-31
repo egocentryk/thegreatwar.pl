@@ -2,10 +2,10 @@
 title: Start of the Fifth Battle of the Isonzo
 summary: On 11 March 1916 the Italian artillery opened fire along the whole Isonzo front. Cadorna began a limited offensive to relieve Verdun at France's request.
 source: poczatek-piatej-bitwy-nad-isonzo
-sourceHash: 3dba6231bdf40d164d69f6c125cbbec94d5e943a
+sourceHash: b893ceecdc97f79685bcc8b799a5ed875699ca3f
 ---
 
-On 11 March 1916 the Italian artillery opened heavy fire of all calibres on the positions of the Austro-Hungarian Fifth Army along the [Isonzo](/bitwy/bitwy-nad-isonzo), from the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead to the coast near [Monfalcone](https://pl.wikipedia.org/wiki/Monfalcone). This bombardment opened the Fifth Battle of the Isonzo, the first Italian offensive of 1916. General [Luigi Cadorna](/postacie/luigi-cadorna) conducted it without conviction. His aim was not to break through the front but to fulfil an obligation to France, which for three weeks had been repelling the German attack [at Verdun](/bitwy/bitwa-pod-verdun).
+On 11 March 1916 the Italian artillery opened heavy fire of all calibres on the positions of the Austro-Hungarian Fifth Army along the [Isonzo](/bitwy/bitwy-nad-isonzo), from the [Gorizia](/miejsca/gorycja) bridgehead to the coast near [Monfalcone](https://pl.wikipedia.org/wiki/Monfalcone). This bombardment opened the Fifth Battle of the Isonzo, the first Italian offensive of 1916. General [Luigi Cadorna](/postacie/luigi-cadorna) conducted it without conviction. His aim was not to break through the front but to fulfil an obligation to France, which for three weeks had been repelling the German attack [at Verdun](/bitwy/bitwa-pod-verdun).
 
 ## The date
 

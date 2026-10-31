@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 sierpnia 1914 roku, według brytyjskiej kroniki wojny, wojska niemieckie zajęły Mézières, stare miasto-twierdzę nad [Mozą](https://pl.wikipedia.org/wiki/Moza) we francuskich Ardenach. Dziś Mézières wraz z sąsiednim Charleville tworzy jedno miasto, [Charleville-Mézières](https://pl.wikipedia.org/wiki/Charleville-Mézières). Francuskie źródła lokalne jako początek okupacji obu miast podają zwykle 29 sierpnia.
+27 sierpnia 1914 roku, według brytyjskiej kroniki wojny, wojska niemieckie zajęły Mézières, stare miasto-twierdzę nad [Mozą](/miejsca/moza) we francuskich Ardenach. Dziś Mézières wraz z sąsiednim Charleville tworzy jedno miasto, [Charleville-Mézières](https://pl.wikipedia.org/wiki/Charleville-Mézières). Francuskie źródła lokalne jako początek okupacji obu miast podają zwykle 29 sierpnia.
 
 Po klęsce w [bitwie w Ardenach](/bitwy/bitwa-w-ardenach) francuska 4 Armia wycofała się za Mozę i wysadziła większość mostów. Niemcy sforsowali jednak rzekę w kilku miejscach, a w rejonie Mézières toczyły się ciężkie walki. Pobliski fort des Ayvelles, osłaniający Mézières od południa, po ostrzale niemieckiej artylerii 26 i 27 sierpnia przestał się bronić, a Niemcy weszli do niego 29 sierpnia. W tym czasie Francuzi prowadzili już ogólny odwrót na południe.
 

@@ -2,10 +2,10 @@
 title: Battle of the Ardennes ends
 summary: On 24 August 1914 the French Third and Fourth Armies, beaten in the Ardennes, fell back behind the Meuse on Joffre's orders. A bloody frontier battle was over.
 source: koniec-bitwy-w-ardenach
-sourceHash: 3491c370f00e6f62e482ea45ac06f152747a2c85
+sourceHash: b4f0a22b269bf4d060e30f80ed71bb51dfe78f85
 ---
 
-On 24 August 1914 the French armies beaten in the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny) received orders to retreat behind the [Meuse](https://pl.wikipedia.org/wiki/Moza). So ended the battle that included 22 August, the bloodiest day in the history of the French army.
+On 24 August 1914 the French armies beaten in the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny) received orders to retreat behind the [Meuse](/miejsca/moza). So ended the battle that included 22 August, the bloodiest day in the history of the French army.
 
 ## After the defeat
 

@@ -1,0 +1,285 @@
+{
+ "slug": "moza",
+ "paragraphs": [
+  {
+   "start": "Moza, po francusku Meuse, a po niderlandzku Maas,",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Meuse",
+     "quote": "The Meuse rises in Pouilly-en-Bassigny, commune of Le Châtelet-sur-Meuse on the Langres plateau in France from where it flows northwards past Sedan"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Meuse",
+     "quote": "The Dutch name Maas descends from Middle Dutch Mase"
+    },
+    {
+     "file": "src/content/battles/1914/oblezenie-namuru.md",
+     "quote": "Miasto zamykało dolinę Mozy, jedną z głównych dróg z Niemiec do Francji."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-liege.md",
+     "quote": "Zaczęła się 4 sierpnia 1914 roku, w dniu niemieckiej inwazji na Belgię, i trwała do 16–17 sierpnia, gdy padły ostatnie belgijskie forty."
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "26 września – 11 listopada 1918 amerykańska 1 Armia i francuska 4 Armia nacierały między Mozą, Argonnami i Szampanią. Była to największa bitwa w dziejach USA."
+    }
+   ]
+  },
+  {
+   "start": "Pierwszym celem niemieckiej inwazji na Belgię było",
+   "quotes": [
+    {
+     "url": "https://www.lalibre.be/belgique/2014/08/04/que-sest-il-passe-le-4-aout-1914-QTV74YJWA5GBDOKJM2H3U3LV2U/",
+     "quote": "Première priorité, pour les Belges : empêcher la traversée de la Meuse. Le major Collyns, chargé de cette région, fait sauter les ponts de Visé et d'Argenteau."
+    },
+    {
+     "url": "https://www.lalibre.be/belgique/2014/08/04/que-sest-il-passe-le-4-aout-1914-QTV74YJWA5GBDOKJM2H3U3LV2U/",
+     "quote": "Mais à Visé, la cavalerie allemande est déjà occupée à rassembler des bateaux pour former un pont flottant. Les canons du fort de Pontisse vont le pulvériser aussitôt, avec une précision extraordinaire."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-liege.md",
+     "quote": "Bitwa pod Liège była pierwszym wielkim starciem na froncie zachodnim. Zaczęła się 4 sierpnia 1914 roku, w dniu niemieckiej inwazji na Belgię, i trwała do 16–17 sierpnia, gdy padły ostatnie belgijskie forty."
+    },
+    {
+     "file": "src/content/timeline/1914/08/wojska-niemieckie-zajmuja-liege.md",
+     "quote": "7 sierpnia 1914 roku wojska niemieckie wkroczyły do Liège. Trzeciego dnia walk o belgijską twierdzę zajęły samo miasto, jego mosty na Mozie i starą cytadelę, ale otaczający je pierścień dwunastu fortów pozostał w rękach obrońców."
+    },
+    {
+     "url": "https://www.lalibre.be/belgique/2014/08/04/que-sest-il-passe-le-4-aout-1914-QTV74YJWA5GBDOKJM2H3U3LV2U/",
+     "quote": "Premier objectif allemand : prendre Liège où douze forts, armés de canons, contrôlent les voies de communication vers, d'une part, Namur, Charleroi et la France; et, par ailleurs, vers Bruxelles."
+    }
+   ]
+  },
+  {
+   "start": "Dalej w górę rzeki leżał Namur, u ujścia Sambry.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/oblezenie-namuru.md",
+     "quote": "W sierpniu 1914 Niemcy ciężką artylerią zdobyli w pięć dni belgijską twierdzę Namur u zbiegu Sambry i Mozy. Ostatnie forty padły 25 sierpnia."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-graniczna.md",
+     "quote": "Na lewym skrzydle 5 Armia Lanrezaca po marszu dochodzącym do stu kilometrów zajęła od 19 sierpnia pozycje w widłach Sambry i Mozy."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-graniczna.md",
+     "quote": "15 sierpnia francuski I Korpus generała Louisa Franchet d’Espérey obronił most na Mozie w Dinant."
+    },
+    {
+     "file": "src/content/timeline/1914/08/koniec-bitwy-pod-charleroi.md",
+     "quote": "tego dnia niemiecka 3 Armia generała Maxa von Hausena sforsowała Mozę w rejonie Dinant i zagroziła prawemu skrzydłu Francuzów"
+    },
+    {
+     "url": "https://europa.blog/en/dinant-reconciliation-after-more-than-a-century/",
+     "quote": "On Sunday, 23 August 1914, the Saxon army then carried out acts of revenge."
+    }
+   ]
+  },
+  {
+   "start": "W samym Dinant Sasi, przekonani, że strzelają do",
+   "quotes": [
+    {
+     "url": "https://europa.blog/en/dinant-reconciliation-after-more-than-a-century/",
+     "quote": "Saxon units marched through the streets of Dinant and randomly attacked civilians. They regarded them as “Franctireurs”, i.e. resistance fighters in civilian clothing, and carried out executions of civilians at several locations throughout the city that day."
+    },
+    {
+     "url": "https://europa.blog/en/dinant-reconciliation-after-more-than-a-century/",
+     "quote": "The picturesque town of Dinant, situated on the Meuse, suffered one of the worst of these massacres. There, a total of 674 civilians were shot by German soldiers."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Sack_of_Dinant",
+     "quote": "The violence continued for several days, resulting in the destruction of about two-thirds of Dinant's buildings."
+    }
+   ]
+  },
+  {
+   "start": "We Francji, między Mézières a Stenay, francuska 4",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/niemcy-zajmuja-mezieres.md",
+     "quote": "Po klęsce w bitwie w Ardenach francuska 4 Armia wycofała się za Mozę i wysadziła większość mostów."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-nad-moza.md",
+     "quote": "Pod koniec sierpnia 1914 francuska 4 Armia broniła przepraw przez Mozę między Mézières a Stenay, opóźniając marsz niemieckiego centrum."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-nad-moza.md",
+     "quote": "W tym artykule przyjmujemy daty 25–28 sierpnia."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-nad-moza.md",
+     "quote": "Wieczorem 28 sierpnia do 4 Armii dotarł rozkaz odwrotu na linię rzeki Aisne."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-zajmuja-mezieres.md",
+     "quote": "Mézières pozostało w rękach niemieckich do listopada 1918 roku. Z uwagi na dogodne połączenia kolejowe i położenie w środku frontu zachodniego pod koniec września 1914 roku przeniesiono tu niemiecką Naczelną Kwaterę Główną."
+    }
+   ]
+  },
+  {
+   "start": "Po bitwie nad Marną front ułożył się tak, że przec",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-saint-mihiel.md",
+     "quote": "Po odwrocie znad Marny Niemcy nie zrezygnowali z prób odcięcia Verdun. Twierdza tworzyła wysunięty łuk frontu"
+    },
+    {
+     "file": "src/content/battles/1917/druga-ofensywna-bitwa-pod-verdun.md",
+     "quote": "uderzyło po obu brzegach Mozy na północ od Verdun"
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-saint-mihiel.md",
+     "quote": "24 września 1914 roku wojska niemieckie zajęły miasteczko Saint-Mihiel nad Mozą, w połowie drogi między twierdzami Verdun i Toul."
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-saint-mihiel.md",
+     "quote": "24 września 1914 Bawarczycy zajęli Saint-Mihiel nad Mozą, a nazajutrz fort Camp des Romains. Tak powstał występ, który Niemcy utrzymali do września 1918."
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-saint-mihiel.md",
+     "quote": "Przerwana została linia kolejowa wzdłuż Mozy, z Verdun do Commercy i Toul, a Verdun zostało związane z tyłami tylko jedną linią kolejową od zachodu i drogą do Bar-le-Duc."
+    }
+   ]
+  },
+  {
+   "start": "21 lutego 1916 roku Erich von Falkenhayn uderzył n",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Bitwa pod Verdun, toczona od 21 lutego do 18 grudnia 1916 roku o wzgórza nad Mozą, była najdłuższą bitwą I wojny światowej."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Falkenhayn ograniczył uderzenie do prawego, wschodniego brzegu Mozy"
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Celem były wzgórza nad Mozą, z których niemiecka artyleria panowałaby nad całym polem bitwy."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Ponieważ francuska artyleria z lewego brzegu raziła Niemców na prawym, Falkenhayn zgodził się rozszerzyć natarcie na zachodni brzeg Mozy."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "6 marca Niemcy zaatakowali wzgórze Mort-Homme („Martwy Człowiek”), a następnie wzgórze 304."
+    }
+   ]
+  },
+  {
+   "start": "Philippe Pétain zaopatrywał obrońców Świętą Drogą",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Pétain zatrzymał natarcie i dowoził ludzi oraz amunicję Świętą Drogą z Bar-le-Duc"
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Bitwa kosztowała obie strony łącznie około 700 tysięcy zabitych, rannych i zaginionych"
+    },
+    {
+     "file": "src/content/battles/1916/pierwsza-ofensywna-bitwa-pod-verdun.md",
+     "quote": "24 października trzy dywizje ruszyły we mgle i w kilka godzin odzyskały fort Douaumont, wieś Douaumont i umocnienia Thiaumont. 2 listopada Niemcy opuścili zniszczony fort Vaux."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "„Drugą bitwą zaczepną” nazywa natarcie z sierpnia 1917 roku, gdy Francuzi odzyskali Mort-Homme i wzgórze 304"
+    }
+   ]
+  },
+  {
+   "start": "12 września 1918 roku amerykańska 1 Armia Johna Pe",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-pod-saint-mihiel.md",
+     "quote": "12 września 1918 roku amerykańska 1 Armia generała Johna Pershinga, z francuskim II Korpusem Kolonialnym w swoim składzie, uderzyła na niemiecki występ Saint-Mihiel na południowy wschód od Verdun."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-saint-mihiel.md",
+     "quote": "który od czterech lat wcinał się w linie francuskie"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-saint-mihiel.md",
+     "quote": "W ciągu dwóch dni Amerykanie i Francuzi zlikwidowali występ"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-saint-mihiel.md",
+     "quote": "Według raportu Pershinga Amerykanie wzięli prawie 16 tysięcy jeńców i 443 działa."
+    }
+   ]
+  },
+  {
+   "start": "Dwa tygodnie później, 26 września, ta sama armia r",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "Ofensywa Moza-Argonne trwała od 26 września do 11 listopada 1918 roku. Amerykańska 1 Armia gen. Pershinga nacierała między Mozą a Argonnami, a francuska 4 Armia w Szampanii."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-saint-mihiel.md",
+     "quote": "Dwa tygodnie później, w ofensywie Moza-Argonne"
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "Celem były niemieckie linie kolejowe przez Sedan i Mézières, od których zależało zaopatrzenie większości wojsk niemieckich we Francji."
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "Na wschodzie bronił go wysoki brzeg Mozy, z którego niemiecka artyleria biła z boku w dolinę"
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "Ofensywa związała dziesiątki niemieckich dywizji, ale kosztowała 1 Armię około 117 tysięcy zabitych i rannych."
+    }
+   ]
+  },
+  {
+   "start": "Po przełamaniu z 1 listopada Niemcy cofali się na",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/amerykanie-pod-sedanem.md",
+     "quote": "Od przełamania frontu 1 listopada Niemcy cofali się na całym odcinku na zachód od Mozy."
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "4 listopada 5 Dywizja przeszła Mozę na południe od Dun-sur-Meuse"
+    },
+    {
+     "file": "src/content/timeline/1918/11/amerykanie-pod-sedanem.md",
+     "quote": "6–7 listopada 1918 Amerykanie w wyścigu do Sedanu wyszli na wzgórza nad miastem i odcięli Niemcom kolej. Do samego Sedanu Foch posłał jednak Francuzów."
+    },
+    {
+     "file": "src/content/timeline/1918/11/francuzi-odbijaja-mezieres.md",
+     "quote": "Brytyjska chronologia wojny notuje pod 10 listopada 1918 roku odzyskanie przez Francuzów Mézières"
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "Walki na wschodnim brzegu Mozy trwały do rana 11 listopada"
+    }
+   ]
+  },
+  {
+   "start": "W chwili rozejmu Niemcy trzymali jeszcze wąską dol",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/niemcy-opuszczaja-francje.md",
+     "quote": "W chwili rozejmu w niemieckich rękach została już tylko niewielka część francuskiego terytorium. Po odzyskaniu Mézières okupacja obejmowała północ departamentu Ardeny, wąską dolinę Mozy aż po Fumay i Givet przy granicy belgijskiej."
+    },
+    {
+     "file": "src/content/timeline/1918/11/niemcy-opuszczaja-francje.md",
+     "quote": "Jego drugi artykuł nakazywał natychmiastowe opuszczenie Belgii, Francji"
+    },
+    {
+     "file": "src/content/timeline/1918/11/brytyjczycy-zajmuja-namur.md",
+     "quote": "21 listopada 1918 roku, według brytyjskiej chronologii wojny, wojska brytyjskie zajęły Namur."
+    },
+    {
+     "file": "src/content/timeline/1918/11/brytyjczycy-zajmuja-namur.md",
+     "quote": "Po ponad czterech latach okupacji do miasta weszli żołnierze sprzymierzonych, tym razem bez jednego wystrzału."
+    }
+   ]
+  }
+ ]
+}

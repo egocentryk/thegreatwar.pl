@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Nad ranem 20 grudnia 1915 roku ostatni żołnierze brytyjscy, australijscy i nowozelandzcy opuścili przyczółki [Suvla](https://pl.wikipedia.org/wiki/Suvla) i [Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac) na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Po [pierwszej nocy ostatniego etapu ewakuacji](/poczatek-ewakuacji-suvli-i-anzac) na brzegu zostało około 20 tysięcy ludzi. Wszystkich zabrano w ciągu jednej nocy, a Turcy zorientowali się dopiero po świcie, gdy w okopach naprzeciw nich od kilku godzin nie było już nikogo. Przyczółki, za które od [kwietnia](/bitwy/ladowanie-na-gallipoli) i [sierpnia](/bitwy/ladowanie-w-zatoce-suvla) zapłacono życiem tysięcy żołnierzy, opuszczono prawie bez strat.
+Nad ranem 20 grudnia 1915 roku ostatni żołnierze brytyjscy, australijscy i nowozelandzcy opuścili przyczółki [Suvla](https://pl.wikipedia.org/wiki/Suvla) i [Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac) na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). Po [pierwszej nocy ostatniego etapu ewakuacji](/poczatek-ewakuacji-suvli-i-anzac) na brzegu zostało około 20 tysięcy ludzi. Wszystkich zabrano w ciągu jednej nocy, a Turcy zorientowali się dopiero po świcie, gdy w okopach naprzeciw nich od kilku godzin nie było już nikogo. Przyczółki, za które od [kwietnia](/bitwy/ladowanie-na-gallipoli) i [sierpnia](/bitwy/ladowanie-w-zatoce-suvla) zapłacono życiem tysięcy żołnierzy, opuszczono prawie bez strat.
 
 ## Ostatnia noc pod Anzac
 

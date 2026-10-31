@@ -2,7 +2,7 @@
 title: Battle of Amiens begins
 summary: On 8 August 1918, in fog, Canadians, Australians and tanks broke the front at Amiens, taking over 15,000 prisoners. Ludendorff called it the "black day".
 source: poczatek-bitwy-pod-amiens
-sourceHash: c40e0d7ce3e13f96a4021a7ebbc4b5fcafa4f3bf
+sourceHash: cac31914494242f21efc149cc064513c4c509184
 brief:
   - "At 4.20 a.m. on 8 August 1918, without a preliminary bombardment, the Canadian, Australian and British divisions of General Rawlinson's Fourth Army attacked at Amiens with more than four hundred tanks. The French First Army attacked alongside."
   - "The preparations took less than two weeks and were carried out in the utmost secrecy. The Canadian Corps was brought from Arras by night, while two of its battalions pretended in Flanders that the whole corps was heading for Ypres."
@@ -11,7 +11,7 @@ brief:
   - "Ludendorff called 8 August \"the black day of the German Army\" and concluded that the war would have to be ended. From that day the Allied armies did not stop until the armistice."
 ---
 
-On 8 August 1918, at 4.20 a.m., more than two thousand British guns opened fire along a front of over 18 kilometres, from Morlancourt on the Ancre to the road from [Amiens](https://pl.wikipedia.org/wiki/Amiens) to Roye. At the same moment, without any preliminary bombardment, the Canadian, Australian and British divisions of General [Henry Rawlinson](/postacie/henry-rawlinson)'s British Fourth Army moved off behind a creeping barrage, and with them more than four hundred tanks. Three-quarters of an hour later, on their right flank, General Marie-Eugène Debeney's French First Army attacked. The German Second Army was caught by surprise in the fog, and within a few hours its front between the Somme and the Avre had ceased to exist. By evening the Allies stood 11–13 kilometres further east, and their prisoner cages held more than 15,000 Germans. General [Erich Ludendorff](/postacie/erich-ludendorff) later wrote that 8 August was "the black day of the German Army in the history of this war".
+On 8 August 1918, at 4.20 a.m., more than two thousand British guns opened fire along a front of over 18 kilometres, from Morlancourt on the Ancre to the road from [Amiens](/miejsca/amiens) to Roye. At the same moment, without any preliminary bombardment, the Canadian, Australian and British divisions of General [Henry Rawlinson](/postacie/henry-rawlinson)'s British Fourth Army moved off behind a creeping barrage, and with them more than four hundred tanks. Three-quarters of an hour later, on their right flank, General Marie-Eugène Debeney's French First Army attacked. The German Second Army was caught by surprise in the fog, and within a few hours its front between the Somme and the Avre had ceased to exist. By evening the Allies stood 11–13 kilometres further east, and their prisoner cages held more than 15,000 Germans. General [Erich Ludendorff](/postacie/erich-ludendorff) later wrote that 8 August was "the black day of the German Army in the history of this war".
 
 In chronologies of the war this day is sometimes described as the start of the Second Battle of the Somme and of the whole Allied offensive in Picardy. In the official British nomenclature of battles, however, the attack of 8–11 August is a separate Battle of Amiens, and the "Second Battles of the Somme, 1918" begin only on 21 August, with the Third Army's attack at Albert.
 

@@ -2,10 +2,10 @@
 title: Third attack on Krithia
 summary: On 4 June 1915 the Allies at Helles attacked Krithia again. Lancashire Territorials broke the Turkish front, but defeat on the flanks wasted their success.
 source: trzeci-atak-na-kritie
-sourceHash: 0fff15c168b738e268a5224b9b04367926616f07
+sourceHash: ba7bd97487f98bd7123c92c65d70f94cf640c4d8
 ---
 
-At noon on 4 June 1915 British and French soldiers at Helles, on the southern tip of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula, left their trenches for the third attack on the village of Krithia. Less than a month had passed since the [previous attempt](/koniec-drugiej-bitwy-o-kritie). This time nobody expected to take the hill of Achi Baba in a single day. About 30,000 soldiers of General Aylmer Hunter-Weston's British VIII Corps and General Henri Gouraud's French corps were to take only the first lines of Turkish trenches, at most 800 yards, or about 730 metres, ahead.
+At noon on 4 June 1915 British and French soldiers at Helles, on the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula, left their trenches for the third attack on the village of Krithia. Less than a month had passed since the [previous attempt](/koniec-drugiej-bitwy-o-kritie). This time nobody expected to take the hill of Achi Baba in a single day. About 30,000 soldiers of General Aylmer Hunter-Weston's British VIII Corps and General Henri Gouraud's French corps were to take only the first lines of Turkish trenches, at most 800 yards, or about 730 metres, ahead.
 
 ## A false alarm
 

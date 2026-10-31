@@ -2,7 +2,7 @@
 title: The French recapture Fort Douaumont
 summary: On 24 October 1916 three French divisions attacked in fog at Verdun. The colonial regiment from Morocco retook Fort Douaumont, lost eight months earlier.
 source: francuzi-odbijaja-fort-douaumont
-sourceHash: 257e15fc98bfb042ac05f2c682a5cdf3f3c767e3
+sourceHash: 4e428b7839d0ba0e0fdade9784560680a8aa53b4
 brief:
   - "At 11.40 a.m. on 24 October 1916 three French divisions under General Charles Mangin advanced in thick fog behind a creeping barrage against the German positions at Verdun."
   - "The Germans had taken Fort Douaumont without a fight on 25 February, and a French attempt to retake it in May had failed. This time two 400 mm railway howitzers pierced its roof and the garrison left the fort."
@@ -11,7 +11,7 @@ brief:
   - "The success made heroes of Nivelle and Mangin, and a short attack behind a creeping barrage seemed a recipe for victory. In mid-December Nivelle became commander-in-chief of the French army."
 ---
 
-At 11.40 a.m. on 24 October 1916 three French divisions left their trenches on the right bank of the [Meuse](https://pl.wikipedia.org/wiki/Moza) at [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) and, in thick fog, advanced behind a creeping barrage against the German positions. In the afternoon soldiers of the Moroccan Colonial Infantry Regiment entered Fort Douaumont, the largest fort of the fortress, which the Germans had [taken without a fight on 25 February](/niemcy-zdobywaja-fort-douaumont). The same day the French recovered the ruins of the village of [Douaumont](https://pl.wikipedia.org/wiki/Douaumont), the Thiaumont works and almost all the ground between Forts Douaumont and Vaux over which the [Battle of Verdun](/bitwy/bitwa-pod-verdun) had been fought for eight months. In two days they took more than 6,000 prisoners. For France, which had been bleeding itself white in defence since February, it was one of the most joyful pieces of news of the whole war.
+At 11.40 a.m. on 24 October 1916 three French divisions left their trenches on the right bank of the [Meuse](/miejsca/moza) at [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) and, in thick fog, advanced behind a creeping barrage against the German positions. In the afternoon soldiers of the Moroccan Colonial Infantry Regiment entered Fort Douaumont, the largest fort of the fortress, which the Germans had [taken without a fight on 25 February](/niemcy-zdobywaja-fort-douaumont). The same day the French recovered the ruins of the village of [Douaumont](https://pl.wikipedia.org/wiki/Douaumont), the Thiaumont works and almost all the ground between Forts Douaumont and Vaux over which the [Battle of Verdun](/bitwy/bitwa-pod-verdun) had been fought for eight months. In two days they took more than 6,000 prisoners. For France, which had been bleeding itself white in defence since February, it was one of the most joyful pieces of news of the whole war.
 
 ## A fort under 400 mm fire
 

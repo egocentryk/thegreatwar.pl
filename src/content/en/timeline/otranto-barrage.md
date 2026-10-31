@@ -2,10 +2,10 @@
 title: The Otranto Barrage
 summary: The British chronology records on 1 October 1918 a fixed barrage of mined nets in the Strait of Otranto. It was to close the exit from the Adriatic to U-boats.
 source: zapora-w-ciesninie-otranto
-sourceHash: 38928850700de970530b46e706f1efebebdfdc5a
+sourceHash: afa52d20b3b15a42a9ff3d97ca48821b500cc606
 ---
 
-The British chronology of the war records under 1 October 1918 the establishment of an Allied net barrage across the [Strait of Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto), between the "heel" of Italy and the coast of Albania and Greece. This was the fixed barrage: a belt of anchored nets with explosive charges, which was to close to German and Austro-Hungarian submarines from [Cattaro](https://pl.wikipedia.org/wiki/Kotor) and [Pola](https://pl.wikipedia.org/wiki/Pula) the route from the Adriatic into the Mediterranean. The sources do not agree on the exact date of its completion. According to the French historian of the war in the Adriatic, Auguste Thomazi, construction was resumed in February 1918 and finished five months later. The British official naval history (Newbolt), on the other hand, writes that in September the barrage was "nearly complete".
+The British chronology of the war records under 1 October 1918 the establishment of an Allied net barrage across the [Strait of Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto), between the "heel" of Italy and the coast of Albania and Greece. This was the fixed barrage: a belt of anchored nets with explosive charges, which was to close to German and Austro-Hungarian submarines from [Cattaro](/miejsca/kotor) and [Pola](https://pl.wikipedia.org/wiki/Pula) the route from the Adriatic into the Mediterranean. The sources do not agree on the exact date of its completion. According to the French historian of the war in the Adriatic, Auguste Thomazi, construction was resumed in February 1918 and finished five months later. The British official naval history (Newbolt), on the other hand, writes that in September the barrage was "nearly complete".
 
 ## A sieve across the mouth of the Adriatic
 

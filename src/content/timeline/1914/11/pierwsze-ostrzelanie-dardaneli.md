@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wczesnym rankiem 3 listopada 1914 roku brytyjskie i francuskie okręty ostrzelały zewnętrzne forty strzegące wejścia do [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele). Ogień trwał zaledwie kilkanaście minut, ale jeden z pocisków trafił w magazyn amunicji fortu Sedd el Bahr, który wyleciał w powietrze. Był to pierwszy atak aliantów na cieśninę, o którą w 1915 roku stoczono jedną z najkrwawszych kampanii wojny.
+Wczesnym rankiem 3 listopada 1914 roku brytyjskie i francuskie okręty ostrzelały zewnętrzne forty strzegące wejścia do [Dardaneli](/miejsca/dardanele). Ogień trwał zaledwie kilkanaście minut, ale jeden z pocisków trafił w magazyn amunicji fortu Sedd el Bahr, który wyleciał w powietrze. Był to pierwszy atak aliantów na cieśninę, o którą w 1915 roku stoczono jedną z najkrwawszych kampanii wojny.
 
 ## Demonstracja Churchilla
 

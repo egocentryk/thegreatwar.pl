@@ -26,7 +26,7 @@ Włochy, od 1882 roku związane z Niemcami i Austro-Węgrami w trójprzymierzu, 
 
 ## Droga do wojny
 
-20 maja 1882 roku Włochy przystąpiły do [sojuszu z Niemcami i Austro-Węgrami](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze), który obiecywał im pomoc, gdyby zaatakowała je Francja. Z Austrią Włochy od dawna jednak rywalizowały, a wiele włoskich środowisk domagało się przyłączenia [Trydentu](https://pl.wikipedia.org/wiki/Trydent) i [Triestu](https://pl.wikipedia.org/wiki/Triest), zamieszkanych w dużej części przez Włochów, lecz należących do monarchii habsburskiej. [29 września 1911 roku](/wybucha-wojna-wlosko-turecka) Włochy wypowiedziały wojnę Imperium Osmańskiemu, by zdobyć Trypolitanię i Cyrenajkę. Wojna dała im Libię i Dodekanez, ale braków w uzbrojeniu i amunicji, które ujawniła, armia nie zdążyła uzupełnić przed wielką wojną.
+20 maja 1882 roku Włochy przystąpiły do [sojuszu z Niemcami i Austro-Węgrami](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze), który obiecywał im pomoc, gdyby zaatakowała je Francja. Z Austrią Włochy od dawna jednak rywalizowały, a wiele włoskich środowisk domagało się przyłączenia [Trydentu](https://pl.wikipedia.org/wiki/Trydent) i [Triestu](/miejsca/triest), zamieszkanych w dużej części przez Włochów, lecz należących do monarchii habsburskiej. [29 września 1911 roku](/wybucha-wojna-wlosko-turecka) Włochy wypowiedziały wojnę Imperium Osmańskiemu, by zdobyć Trypolitanię i Cyrenajkę. Wojna dała im Libię i Dodekanez, ale braków w uzbrojeniu i amunicji, które ujawniła, armia nie zdążyła uzupełnić przed wielką wojną.
 
 ## Neutralność i przystąpienie do wojny
 

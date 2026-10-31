@@ -2,7 +2,7 @@
 title: Germany declares war on Belgium
 summary: On 4 August 1914 Germany announced to Belgium that it would use force and entered its territory. The chancellor admitted he was breaking international law.
 source: niemcy-wypowiadaja-wojne-belgii
-sourceHash: 5e608ea3ed9d1c567c4e666c05e0d97e926f4992
+sourceHash: 5123afe8d48846f4e5f606da9132c03d79d9d213
 brief:
   - "At 6 a.m. on 4 August 1914 the German minister in Brussels handed over a note announcing the use of force. It was not called a declaration of war, but two hours later German troops crossed the frontier."
   - "Neutral Belgium lay on the route of the main blow against France laid down in the Schlieffen Plan. Germany was itself a guarantor of its neutrality under the Treaty of London of 1839."
@@ -22,7 +22,7 @@ Germany was one of the guarantors of Belgian neutrality, laid down in the [Treat
 
 On the same day King [Albert I](/postacie/albert-i) addressed the assembled parliament. He called on the Belgians to unite and defend their country. The government broke off diplomatic relations with Germany and appealed for help to the powers guaranteeing Belgium's neutrality: Great Britain, France and Russia.
 
-The Belgian Army, small and inadequately prepared, set about the defence. Its first point of resistance was the fortress of [Liège](https://pl.wikipedia.org/wiki/Liège), surrounded by a ring of forts on the banks of the [Meuse](https://pl.wikipedia.org/wiki/Moza). The Germans expected to take it within a few days.
+The Belgian Army, small and inadequately prepared, set about the defence. Its first point of resistance was the fortress of [Liège](https://pl.wikipedia.org/wiki/Liège), surrounded by a ring of forts on the banks of the [Meuse](/miejsca/moza). The Germans expected to take it within a few days.
 
 ## Significance
 

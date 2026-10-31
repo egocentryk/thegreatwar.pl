@@ -2,10 +2,10 @@
 title: Battle of Sari Bair begins
 summary: On 6 August 1915 Australians took the Turkish trenches at Lone Pine, and after dark columns from Anzac set off up the gullies towards the Sari Bair heights.
 source: poczatek-bitwy-o-sari-bair
-sourceHash: f8c5c863a8ba690175d5187a43f910eb3139abc2
+sourceHash: a1ebd7a085805810dc4b2a197f50cac32b619a0c
 ---
 
-On the afternoon of 6 August 1915 the great Allied August offensive began on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. Its main part was an attempt to capture the Sari Bair ridge (Turkish: Sarı Bayır), the highest hills above the bridgehead at [Anzac Cove](https://pl.wikipedia.org/wiki/Zatoka_Anzac), from which the Narrows of the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) could be seen. At 5.30 p.m. the Australians attacked the Turkish trenches at Lone Pine, to draw the enemy's reserves there. After dark on the northern flank the New Zealanders silently captured Turkish outposts, and behind them columns set off into the wild, winding gullies, meant to stand on the summits before dawn. The same night the British IX Corps [landed at Suvla Bay](/ladowanie-w-zatoce-suvla), a few kilometres further north.
+On the afternoon of 6 August 1915 the great Allied August offensive began on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. Its main part was an attempt to capture the Sari Bair ridge (Turkish: Sarı Bayır), the highest hills above the bridgehead at [Anzac Cove](https://pl.wikipedia.org/wiki/Zatoka_Anzac), from which the Narrows of the [Dardanelles](/miejsca/dardanele) could be seen. At 5.30 p.m. the Australians attacked the Turkish trenches at Lone Pine, to draw the enemy's reserves there. After dark on the northern flank the New Zealanders silently captured Turkish outposts, and behind them columns set off into the wild, winding gullies, meant to stand on the summits before dawn. The same night the British IX Corps [landed at Suvla Bay](/ladowanie-w-zatoce-suvla), a few kilometres further north.
 
 ## Birdwood's plan
 

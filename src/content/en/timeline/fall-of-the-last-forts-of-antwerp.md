@@ -2,10 +2,10 @@
 title: Fall of the last forts of Antwerp
 summary: On 9 October 1914 the Germans found the inner ring forts abandoned and entered Antwerp. The burgomaster signed the fortress's surrender at Kontich.
 source: upadek-ostatnich-fortow-antwerpii
-sourceHash: 36a016101aed3f2fe3655f43041d08e996dd43bd
+sourceHash: 3c42a5b972c34b302992b614edc96e29d457ec8d
 ---
 
-On 9 October 1914 the defence of [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia) came to an end. In the morning German soldiers who had been shelling the inner ring of forts discovered that some of them were empty. During the day the first German units entered the city, and in the evening its representatives signed the act of surrender of the fortress at nearby [Kontich](https://pl.wikipedia.org/wiki/Kontich).
+On 9 October 1914 the defence of [Antwerp](/miejsca/antwerpia) came to an end. In the morning German soldiers who had been shelling the inner ring of forts discovered that some of them were empty. During the day the first German units entered the city, and in the evening its representatives signed the act of surrender of the fortress at nearby [Kontich](https://pl.wikipedia.org/wiki/Kontich).
 
 ## The last night of the defence
 

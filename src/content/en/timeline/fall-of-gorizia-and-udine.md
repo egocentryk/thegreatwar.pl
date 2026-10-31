@@ -2,10 +2,10 @@
 title: Fall of Gorizia and Udine
 summary: On 28 October 1917 the Austrians retook Gorizia and the Germans took Udine, the Italian headquarters. The Italian army fell back behind the Tagliamento.
 source: upadek-gorycji-i-udine
-sourceHash: ffe4903a22226550aa4f57839274dc2948893263
+sourceHash: 6adb448dca3cc7be051683c52e22ae8bf43614df
 ---
 
-On 28 October 1917, four days after the [breakthrough at Caporetto](/poczatek-bitwy-pod-caporetto), the Italian army lost two towns that were symbols of its war. Shortly after midnight Austro-Hungarian soldiers entered [Gorizia](https://pl.wikipedia.org/wiki/Gorycja), taken by the Italians with enormous effort in August 1916, and before noon German infantry marched into [Udine](https://pl.wikipedia.org/wiki/Udine), where the Italian headquarters had been located since the first weeks of the war. The whole Italian front from the Carnic Alps to the Adriatic was in retreat, and the roads to the bridges over the [Tagliamento](https://pl.wikipedia.org/wiki/Tagliamento) were filled with columns of troops, trains and refugees.
+On 28 October 1917, four days after the [breakthrough at Caporetto](/poczatek-bitwy-pod-caporetto), the Italian army lost two towns that were symbols of its war. Shortly after midnight Austro-Hungarian soldiers entered [Gorizia](/miejsca/gorycja), taken by the Italians with enormous effort in August 1916, and before noon German infantry marched into [Udine](https://pl.wikipedia.org/wiki/Udine), where the Italian headquarters had been located since the first weeks of the war. The whole Italian front from the Carnic Alps to the Adriatic was in retreat, and the roads to the bridges over the [Tagliamento](https://pl.wikipedia.org/wiki/Tagliamento) were filled with columns of troops, trains and refugees.
 
 ## Gorizia
 

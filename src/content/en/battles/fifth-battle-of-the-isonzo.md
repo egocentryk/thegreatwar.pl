@@ -9,10 +9,10 @@ sides:
     commanders: [Svetozar Boroević, Franz Rohr, Archduke Eugen of Austria]
 result: Austro-Hungarian defensive victory. The Italians took no important position and did not prevent the transfer of Austro-Hungarian divisions to the Tyrol.
 source: piata-bitwa-nad-isonzo
-sourceHash: 8f147f034a17d695340f4cec5ff4dfd98f508c46
+sourceHash: d62d063265d0ad35d396602ab479e5a338b97d57
 ---
 
-The Fifth Battle of the Isonzo was the shortest and smallest of the Italian offensives on the [Isonzo](/bitwy/bitwy-nad-isonzo) so far. General [Luigi Cadorna](/postacie/luigi-cadorna) began it in March 1916 not because he was ready for it, but because the French, fighting [at Verdun](/bitwy/bitwa-pod-verdun) since 21 February, had called on their allies for relief attacks. For several days the Italian artillery shelled the Austro-Hungarian positions from [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the sea, and the infantry attacked individual stretches of trench in the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. None of these attacks succeeded, and after a few days snow, rain and fog brought the fighting to a halt. Each side lost about 2,000 men, many times fewer than in the autumn battles of 1915.
+The Fifth Battle of the Isonzo was the shortest and smallest of the Italian offensives on the [Isonzo](/bitwy/bitwy-nad-isonzo) so far. General [Luigi Cadorna](/postacie/luigi-cadorna) began it in March 1916 not because he was ready for it, but because the French, fighting [at Verdun](/bitwy/bitwa-pod-verdun) since 21 February, had called on their allies for relief attacks. For several days the Italian artillery shelled the Austro-Hungarian positions from [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the sea, and the infantry attacked individual stretches of trench in the [Gorizia](/miejsca/gorycja) bridgehead and on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. None of these attacks succeeded, and after a few days snow, rain and fog brought the fighting to a halt. Each side lost about 2,000 men, many times fewer than in the autumn battles of 1915.
 
 ## Name and dates
 

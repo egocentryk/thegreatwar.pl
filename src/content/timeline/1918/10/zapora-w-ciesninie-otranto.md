@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 1 października 1918 roku ustanowienie sojuszniczej zapory z sieci w poprzek [Cieśniny Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto), między „obcasem” Włoch a wybrzeżem Albanii i Grecji. Chodzi o zaporę stałą: pas zakotwiczonych sieci z ładunkami wybuchowymi, który miał zamknąć niemieckim i austro-węgierskim okrętom podwodnym z [Kotoru](https://pl.wikipedia.org/wiki/Kotor) i [Puli](https://pl.wikipedia.org/wiki/Pula) drogę z Adriatyku na Morze Śródziemne. Dokładnej daty jej ukończenia źródła nie podają zgodnie. Według francuskiego historyka wojny na Adriatyku, Auguste'a Thomaziego, budowę wznowiono w lutym 1918 roku i zakończono po pięciu miesiącach. Brytyjska historia oficjalna wojny na morzu (Newbolt) pisze natomiast, że we wrześniu zapora była „prawie ukończona”.
+Brytyjska chronologia wojny notuje pod 1 października 1918 roku ustanowienie sojuszniczej zapory z sieci w poprzek [Cieśniny Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto), między „obcasem” Włoch a wybrzeżem Albanii i Grecji. Chodzi o zaporę stałą: pas zakotwiczonych sieci z ładunkami wybuchowymi, który miał zamknąć niemieckim i austro-węgierskim okrętom podwodnym z [Kotoru](/miejsca/kotor) i [Puli](https://pl.wikipedia.org/wiki/Pula) drogę z Adriatyku na Morze Śródziemne. Dokładnej daty jej ukończenia źródła nie podają zgodnie. Według francuskiego historyka wojny na Adriatyku, Auguste'a Thomaziego, budowę wznowiono w lutym 1918 roku i zakończono po pięciu miesiącach. Brytyjska historia oficjalna wojny na morzu (Newbolt) pisze natomiast, że we wrześniu zapora była „prawie ukończona”.
 
 ## Sito na wyjściu z Adriatyku
 

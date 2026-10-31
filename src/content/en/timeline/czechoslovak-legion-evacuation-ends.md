@@ -2,10 +2,10 @@
 title: Czechoslovak Legion evacuation ends
 summary: On 2 September 1920 the American transport Heffron sailed from Vladivostok with the last legionaries. The evacuation of the Czechoslovaks from Siberia was over.
 source: koniec-ewakuacji-legionu-czechoslowackiego
-sourceHash: d9007488c41570bfc0b20723a98e7d3ef27612f4
+sourceHash: 16d0484204acb04ee1a145f4352ac7a1bdacaad5
 ---
 
-On 2 September 1920 the American transport *Heffron* sailed from [Vladivostok](https://pl.wikipedia.org/wiki/Władywostok) with the last soldiers of the Czechoslovak army in Russia. It was the 36th transport, which, according to Czech studies, officially ended the evacuation of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) from Siberia. According to Czech tallies the ship carried more than 1,100 people, among them some 720 legionaries. Russian studies say that the last soldiers of the corps left Vladivostok on 3 September. On 11 November the *Heffron* put in at [Trieste](https://pl.wikipedia.org/wiki/Triest). More than two years after the legionaries [rose in arms against the Bolsheviks](/bunt-legionu-czechoslowackiego) on the Trans-Siberian Railway in May 1918, their war in Russia was over.
+On 2 September 1920 the American transport *Heffron* sailed from [Vladivostok](https://pl.wikipedia.org/wiki/Władywostok) with the last soldiers of the Czechoslovak army in Russia. It was the 36th transport, which, according to Czech studies, officially ended the evacuation of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) from Siberia. According to Czech tallies the ship carried more than 1,100 people, among them some 720 legionaries. Russian studies say that the last soldiers of the corps left Vladivostok on 3 September. On 11 November the *Heffron* put in at [Trieste](/miejsca/triest). More than two years after the legionaries [rose in arms against the Bolsheviks](/bunt-legionu-czechoslowackiego) on the Trans-Siberian Railway in May 1918, their war in Russia was over.
 
 ## The order to go home
 

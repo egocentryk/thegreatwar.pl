@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 października 1914 roku, gdy [Antwerpia](https://pl.wikipedia.org/wiki/Antwerpia) była już bliska upadku, lotnicy [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) po raz drugi zaatakowali bazy niemieckich sterowców w Nadrenii. Tym razem nalot się udał: jeden z pilotów zniszczył w hangarze w [Düsseldorfie](https://pl.wikipedia.org/wiki/Düsseldorf) sterowiec Z IX. Był to pierwszy [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) zniszczony przez samolot.
+8 października 1914 roku, gdy [Antwerpia](/miejsca/antwerpia) była już bliska upadku, lotnicy [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) po raz drugi zaatakowali bazy niemieckich sterowców w Nadrenii. Tym razem nalot się udał: jeden z pilotów zniszczył w hangarze w [Düsseldorfie](https://pl.wikipedia.org/wiki/Düsseldorf) sterowiec Z IX. Był to pierwszy [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) zniszczony przez samolot.
 
 ## Druga próba
 

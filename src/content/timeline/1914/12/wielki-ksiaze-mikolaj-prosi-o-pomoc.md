@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 30 grudnia 1914 roku, że rosyjski naczelny wódz, wielki książę [Mikołaj Mikołajewicz](/postacie/mikolaj-mikolajewicz), zasugerował brytyjską wyprawę przeciw Turkom, która złagodziłaby położenie Rosjan na Kaukazie. Źródła różnie datują samą prośbę. Rosyjskie opracowania wskazują na 31 grudnia, a w Londynie telegram brytyjskiego ambasadora w Piotrogrodzie, Sir George'a Buchanana, z prośbą wielkiego księcia odczytano 2 stycznia 1915 roku. Ta krótka depesza stała się jednym z punktów wyjścia do operacji w [Dardanelach](https://pl.wikipedia.org/wiki/Dardanele).
+Brytyjska chronologia wojny odnotowuje pod 30 grudnia 1914 roku, że rosyjski naczelny wódz, wielki książę [Mikołaj Mikołajewicz](/postacie/mikolaj-mikolajewicz), zasugerował brytyjską wyprawę przeciw Turkom, która złagodziłaby położenie Rosjan na Kaukazie. Źródła różnie datują samą prośbę. Rosyjskie opracowania wskazują na 31 grudnia, a w Londynie telegram brytyjskiego ambasadora w Piotrogrodzie, Sir George'a Buchanana, z prośbą wielkiego księcia odczytano 2 stycznia 1915 roku. Ta krótka depesza stała się jednym z punktów wyjścia do operacji w [Dardanelach](/miejsca/dardanele).
 
 ## Alarm z Kaukazu
 

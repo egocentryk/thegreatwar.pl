@@ -2,10 +2,10 @@
 title: Start of the Fourth Battle of the Isonzo
 summary: On 10 November 1915, after a short, concentrated bombardment, the Italians again attacked Gorizia and Monte San Michele. By evening almost all were repulsed.
 source: poczatek-czwartej-bitwy-nad-isonzo
-sourceHash: b94833823bae1faf18982aa6099f6253bb1db32a
+sourceHash: 3f71e3b1fc56346d031c30cd3f4e66497aefdde8
 ---
 
-On 10 November 1915, only five days after [the end of the Third Battle of the Isonzo](/koniec-trzeciej-bitwy-nad-isonzo), the Italian Second and Third Armies again struck the Austro-Hungarian positions on the [Isonzo](/bitwy/bitwy-nad-isonzo). General [Luigi Cadorna](/postacie/luigi-cadorna) had no intention of giving the defenders time to rest. This time he attacked on a narrower front, from the bridgehead at [Plava](https://pl.wikipedia.org/wiki/Plave) to the Sei Busi hill, and his objectives remained the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and Monte San Michele, the key to the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. On the first day the attacks broke down almost everywhere.
+On 10 November 1915, only five days after [the end of the Third Battle of the Isonzo](/koniec-trzeciej-bitwy-nad-isonzo), the Italian Second and Third Armies again struck the Austro-Hungarian positions on the [Isonzo](/bitwy/bitwy-nad-isonzo). General [Luigi Cadorna](/postacie/luigi-cadorna) had no intention of giving the defenders time to rest. This time he attacked on a narrower front, from the bridgehead at [Plava](https://pl.wikipedia.org/wiki/Plave) to the Sei Busi hill, and his objectives remained the [Gorizia](/miejsca/gorycja) bridgehead and Monte San Michele, the key to the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. On the first day the attacks broke down almost everywhere.
 
 ## Why so soon
 

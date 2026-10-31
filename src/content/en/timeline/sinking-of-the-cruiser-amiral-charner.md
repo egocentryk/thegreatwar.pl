@@ -2,7 +2,7 @@
 title: Sinking of the cruiser Amiral Charner
 summary: On 8 February 1916 Otto Hersing's U-21 torpedoed the French cruiser Amiral Charner off Lebanon. She sank in minutes; only one sailor survived.
 source: zatoniecie-krazownika-amiral-charner
-sourceHash: bc9e31925d252849d94422db7025e37c31906a94
+sourceHash: b090025c4168310748a47d4c1b81f2e015c7a30b
 ---
 
 On the morning of 8 February 1916 the German submarine [U-21](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) of Kapitänleutnant Otto Hersing torpedoed the French armoured cruiser [*Amiral Charner*](https://pl.wikipedia.org/wiki/Amiral_Charner_(1893)) off the coast of Syria, level with present-day Lebanon. The ship was sailing from the island of [Ruad](/francuzi-zajmuja-wyspe-ruad) to [Port Said](https://pl.wikipedia.org/wiki/Port_Said). She sank within a few minutes, before the boats could be lowered. Of her entire crew only one sailor survived.
@@ -13,4 +13,4 @@ Hersing, who in 1915 had [sunk the battleship *Triumph* off Gallipoli](/zatopien
 
 The sole survivor, the gunner's mate (quartier-maître canonnier) Cariou from Clohars-Carnoët in Brittany, later told his story to journalists. After being hit the ship dug in her bow and capsized almost at once. Cariou came to the surface and clung to wreckage, and then reached a makeshift raft on which fourteen castaways had gathered, without water or food. Over the following days his companions died one after another from exhaustion or threw themselves into the sea in delirium. Cariou survived the last two days alone. On Sunday 13 February, five days after the cruiser sank, he was spotted and picked up from the raft by the French auxiliary *Laborieux* from Ruad. He was awarded the [Médaille militaire](https://pl.wikipedia.org/wiki/Médaille_militaire), and in the spring of 1916 the French illustrated press described his return home.
 
-After U-21 returned to [Kotor](https://pl.wikipedia.org/wiki/Kotor), the German naval command pointed out to the submarine commanders from Pola that they were spending too much time hunting warships. It reminded them that their main task was to sink merchant ships, because these did the most harm to Britain. The French press reported the sinking of the cruiser in mid-February. The loss of *Amiral Charner* showed that German submarines were dangerous even to the patrols guarding the distant coast of the Levant.
+After U-21 returned to [Kotor](/miejsca/kotor), the German naval command pointed out to the submarine commanders from Pola that they were spending too much time hunting warships. It reminded them that their main task was to sink merchant ships, because these did the most harm to Britain. The French press reported the sinking of the cruiser in mid-February. The loss of *Amiral Charner* showed that German submarines were dangerous even to the patrols guarding the distant coast of the Levant.

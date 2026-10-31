@@ -9,10 +9,10 @@ sides:
     commanders: [Svetozar Boroević, Archduke Eugen of Austria]
 result: Austro-Hungarian defensive victory. The Italians crossed the Isonzo at Sagrado and won small scraps of ground at the foot of the Karst, but nowhere broke the front.
 source: pierwsza-bitwa-nad-isonzo
-sourceHash: 3de5823addc1face28755cd3926c68ae7e200862
+sourceHash: d814a172e4e658e543f21b1b52300bdd2121e786
 ---
 
-The First Battle of the Isonzo was the Italian army's first great offensive of the First World War. From 23 June to 7 July 1915 the 2nd and 3rd Armies of General [Luigi Cadorna](/postacie/luigi-cadorna) attacked the Austro-Hungarian positions on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), from the mountains above [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic coast. The objective was [Gorizia](https://pl.wikipedia.org/wiki/Gorycja), and beyond it [Trieste](https://pl.wikipedia.org/wiki/Triest). The Italians had more than a two-to-one numerical superiority, but too little heavy artillery and ammunition, and the defenders had had time to dig in on the hills above the river and on the edge of the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. After two weeks of attacks that broke down on the wire and under machine-gun fire, the front had hardly moved.
+The First Battle of the Isonzo was the Italian army's first great offensive of the First World War. From 23 June to 7 July 1915 the 2nd and 3rd Armies of General [Luigi Cadorna](/postacie/luigi-cadorna) attacked the Austro-Hungarian positions on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), from the mountains above [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic coast. The objective was [Gorizia](/miejsca/gorycja), and beyond it [Trieste](/miejsca/triest). The Italians had more than a two-to-one numerical superiority, but too little heavy artillery and ammunition, and the defenders had had time to dig in on the hills above the river and on the edge of the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. After two weeks of attacks that broke down on the wire and under machine-gun fire, the front had hardly moved.
 
 ## Name and dates
 

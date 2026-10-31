@@ -2,10 +2,10 @@
 title: Grand Duke Nicholas appeals for help
 summary: At the end of December 1914 the Russian commander-in-chief asked the British to strike at Turkey to relieve the Caucasus. It spurred the Dardanelles attack.
 source: wielki-ksiaze-mikolaj-prosi-o-pomoc
-sourceHash: c053f1b4891975da22ba8a5b17fa860d214ce74b
+sourceHash: 14e68a27b13f429f587667337a929ee37519d39e
 ---
 
-A British chronology of the war records under 30 December 1914 that the Russian commander-in-chief, Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz), suggested a British expedition against the Turks that would ease the Russians' position in the Caucasus. Sources date the request itself differently. Russian works point to 31 December, and in London the telegram from the British ambassador in Petrograd, Sir George Buchanan, conveying the Grand Duke's request was read on 2 January 1915. This short dispatch became one of the starting points of the operation in the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele).
+A British chronology of the war records under 30 December 1914 that the Russian commander-in-chief, Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz), suggested a British expedition against the Turks that would ease the Russians' position in the Caucasus. Sources date the request itself differently. Russian works point to 31 December, and in London the telegram from the British ambassador in Petrograd, Sir George Buchanan, conveying the Grand Duke's request was read on 2 January 1915. This short dispatch became one of the starting points of the operation in the [Dardanelles](/miejsca/dardanele).
 
 ## Alarm from the Caucasus
 

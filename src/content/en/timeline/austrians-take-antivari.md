@@ -2,14 +2,14 @@
 title: Austrians take Antivari
 summary: On 22 January 1916 Austro-Hungarian troops took Antivari (Bar), Montenegro's only important port. The whole Montenegrin coast was now in enemy hands.
 source: austriacy-zajmuja-bar
-sourceHash: 3d5ea9b9feca5138f850a91ca8c0059ac072501a
+sourceHash: 7adbbd0a93e2b20e7a5ccf1c7b0641c0e8dd7cca
 ---
 
 A British chronology of the war records under 22 January 1916 the capture by Austro-Hungarian troops of the Montenegrin port of Antivari, today's [Bar](https://pl.wikipedia.org/wiki/Bar_(Czarnogóra)). The same date is given by chronicles based on the war communiqués of the time, which under 22 January record the capture of Bar and of [Ulcinj](https://pl.wikipedia.org/wiki/Ulcinj), further south, Dulcigno in Italian. The Western press reported it a day later. The Austrian official history does not give the day of the entry into the town. It mentions only that the units of the group of Feldmarschalleutnant Béla Sorsich, advancing along the coast, reached at about this time the valley of the [Buna](https://pl.wikipedia.org/wiki/Buna_(rzeka_w_Albanii)), the river on the border with Albania. The sources do not mention any fighting for the port itself.
 
 ## Montenegro's window on the world
 
-Bar was the only important port of the [Kingdom of Montenegro](/kraje/czarnogora). From 1908 it was linked with [Virpazar](https://pl.wikipedia.org/wiki/Virpazar) on [Lake Scutari](https://pl.wikipedia.org/wiki/Jezioro_Szkoderskie) by a narrow-gauge railway built by the Italian company Compagnia di Antivari, which also ran shipping on the lake. During the war this was the route for the supplies sent to Montenegro by its allies: grain, food and ammunition. In September 1914 the French landed guns here, which were then [hauled up Lovćen](/francuzi-ostrzeliwuja-kotor). That is why the port was a constant target of the Austro-Hungarian fleet from nearby [Kotor](https://pl.wikipedia.org/wiki/Kotor). The most damaging was a torpedo-boat raid [on the night of 1–2 March 1915](/austriacy-ostrzeliwuja-antivari), when the main pier and the warehouses were destroyed and the royal yacht *Rumija* sank in the harbour. At the end of 1915 Austro-Hungarian torpedo boats were intercepting grain ships bound for Bar, and Montenegro was starving.
+Bar was the only important port of the [Kingdom of Montenegro](/kraje/czarnogora). From 1908 it was linked with [Virpazar](https://pl.wikipedia.org/wiki/Virpazar) on [Lake Scutari](https://pl.wikipedia.org/wiki/Jezioro_Szkoderskie) by a narrow-gauge railway built by the Italian company Compagnia di Antivari, which also ran shipping on the lake. During the war this was the route for the supplies sent to Montenegro by its allies: grain, food and ammunition. In September 1914 the French landed guns here, which were then [hauled up Lovćen](/francuzi-ostrzeliwuja-kotor). That is why the port was a constant target of the Austro-Hungarian fleet from nearby [Kotor](/miejsca/kotor). The most damaging was a torpedo-boat raid [on the night of 1–2 March 1915](/austriacy-ostrzeliwuja-antivari), when the main pier and the warehouses were destroyed and the royal yacht *Rumija* sank in the harbour. At the end of 1915 Austro-Hungarian torpedo boats were intercepting grain ships bound for Bar, and Montenegro was starving.
 
 ## The fall of the country
 

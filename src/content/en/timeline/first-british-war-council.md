@@ -2,7 +2,7 @@
 title: First British war council
 summary: On 5 August 1914 Prime Minister Asquith called a war council of politicians and generals. It decided to send the Expeditionary Force to France.
 source: pierwsza-brytyjska-narada-wojenna
-sourceHash: 158cd7bf76e8cd75139f0458819f2801cfd1f3c3
+sourceHash: 83bc87c33b8cfaea9299f34569b1d8ffef66df4b
 ---
 
 On 5 August 1914, the day after Britain entered the war, Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith) called a war council at [10 Downing Street](https://pl.wikipedia.org/wiki/10_Downing_Street). For the first time the most important ministers and military commanders sat at one table to decide how Britain would wage the war on land.
@@ -13,7 +13,7 @@ Those taking part included the Foreign Secretary, Sir [Edward Grey](/postacie/ed
 
 ## Where to send the army
 
-The key question was where and when to send the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Pre-war arrangements with France provided for the British to concentrate on the left wing of the French army, around [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) near the Belgian border. French, however, considered sending the troops to [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), to operate together with the Belgians on the Germans' flank. Haig warned against hastily sending the whole of the small professional army and argued for expanding it.
+The key question was where and when to send the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Pre-war arrangements with France provided for the British to concentrate on the left wing of the French army, around [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) near the Belgian border. French, however, considered sending the troops to [Antwerp](/miejsca/antwerpia), to operate together with the Belgians on the Germans' flank. Haig warned against hastily sending the whole of the small professional army and argued for expanding it.
 
 Kitchener proved the most far-sighted. Unlike most of those at the council, he foresaw that the war would last for years and that Britain would need an army of millions. He also feared that a force concentrated at Maubeuge would find itself in the path of the main German thrust.
 

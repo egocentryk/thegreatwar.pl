@@ -2,7 +2,7 @@
 title: Start of the Battle of Verdun
 summary: On 21 February 1916 more than 1,200 German guns opened fire on the French positions at Verdun. A battle began that lasted until December 1916.
 source: poczatek-bitwy-pod-verdun
-sourceHash: 68400ea609eef3629d152148d1926b8385f74aa5
+sourceHash: 91933847d9c2c24c11f554aff9742d0a971e700d
 brief:
   - "On the morning of 21 February 1916 more than 1,200 German guns opened fire on the French positions north of Verdun. A battle began that, with pauses, lasted until December 1916."
   - "Falkenhayn wrote after the war that he meant to bleed France to death, but some historians think this version came later. Verdun lay in a salient of the front, and in 1915 most guns were removed from its forts."
@@ -11,7 +11,7 @@ brief:
   - "On 25 February the Germans entered Fort Douaumont almost without a fight, and General Pétain took over command at Verdun. The battle, meant to last a few weeks, turned into a struggle of attrition."
 ---
 
-On the morning of 21 February 1916 the German artillery opened fire on the French positions north of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), an old fortress on the [Meuse](https://pl.wikipedia.org/wiki/Moza). The bombardment from more than twelve hundred guns lasted all day, and in the afternoon the German infantry moved forward to attack. So began a battle which, with pauses, lasted until December 1916, claimed hundreds of thousands of casualties on both sides and became for the French the symbol of the whole war. The first days belonged to the Germans: within four days they broke through two French lines of defence and stood at the foot of the forts, and the French high command went through one of the gravest crises of the war.
+On the morning of 21 February 1916 the German artillery opened fire on the French positions north of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), an old fortress on the [Meuse](/miejsca/moza). The bombardment from more than twelve hundred guns lasted all day, and in the afternoon the German infantry moved forward to attack. So began a battle which, with pauses, lasted until December 1916, claimed hundreds of thousands of casualties on both sides and became for the French the symbol of the whole war. The first days belonged to the Germans: within four days they broke through two French lines of defence and stood at the foot of the forts, and the French high command went through one of the gravest crises of the war.
 
 ## Why Verdun
 

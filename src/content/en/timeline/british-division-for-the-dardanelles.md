@@ -2,10 +2,10 @@
 title: A British division for the Dardanelles
 summary: On 16 February 1915 British ministers chose to send the 29th Division to Lemnos to support the fleet at the Dardanelles. Three days later Kitchener backed out.
 source: brytyjska-dywizja-dla-dardaneli
-sourceHash: ab2a9fa28845c23346d1af9603fd2f8cb79f9938
+sourceHash: 51ced504f703361d54afd37bf8dd6ebf5f51b82f
 ---
 
-On 16 February 1915 members of the British War Council decided that land forces would go to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). The 29th Division, the last division of the British regular army still remaining at home, was to set out for the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos) as soon as possible, within about ten days. Only three weeks earlier the Council had [approved an attack by the fleet alone](/ostateczna-decyzja-o-ataku-na-dardanele), without soldiers. Now it began to retreat from that position, though not yet entirely.
+On 16 February 1915 members of the British War Council decided that land forces would go to the [Dardanelles](/miejsca/dardanele). The 29th Division, the last division of the British regular army still remaining at home, was to set out for the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos) as soon as possible, within about ten days. Only three weeks earlier the Council had [approved an attack by the fleet alone](/ostateczna-decyzja-o-ataku-na-dardanele), without soldiers. Now it began to retreat from that position, though not yet entirely.
 
 ## Why the army
 

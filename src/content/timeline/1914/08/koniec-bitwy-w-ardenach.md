@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-24 sierpnia 1914 roku francuskie armie pobite w [Ardenach](https://pl.wikipedia.org/wiki/Ardeny) otrzymały rozkaz odwrotu za [Mozę](https://pl.wikipedia.org/wiki/Moza). Zakończyła się bitwa, w której trakcie przypadł 22 sierpnia, najkrwawszy dzień w historii armii francuskiej.
+24 sierpnia 1914 roku francuskie armie pobite w [Ardenach](https://pl.wikipedia.org/wiki/Ardeny) otrzymały rozkaz odwrotu za [Mozę](/miejsca/moza). Zakończyła się bitwa, w której trakcie przypadł 22 sierpnia, najkrwawszy dzień w historii armii francuskiej.
 
 ## Po klęsce
 

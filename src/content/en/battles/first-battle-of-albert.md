@@ -9,7 +9,7 @@ sides:
     commanders: [Erich von Falkenhayn, "Rupprecht, Crown Prince of Bavaria"]
 result: Inconclusive. In fighting that lasted until the end of September the Germans took Bapaume and Thiepval, but the French held Albert. The front set on the line Maricourt–Fricourt–Thiepval.
 source: pierwsza-bitwa-pod-albert
-sourceHash: 1547eac5efea5995049a40e82b82ff54842d3a47
+sourceHash: 333d934dd36beddad7841986c1a5131339eb8669
 ---
 
 The First Battle of [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) was the second large engagement of the [Race to the Sea](/bitwy/wyscig-do-morza), after the [Battle of Picardy](/bitwy/pierwsza-bitwa-w-pikardii). The French 2nd Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) and the German 6th Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) tried to outflank each other north of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). After several days of fighting neither side had gained the upper hand, and the troops dug in on the hills between Albert and [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). On the same fields in July 1916 the British and French began the [Battle of the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
@@ -24,7 +24,7 @@ Most modern studies, both French and English-language, however, date the Battle 
 
 In the second half of September 1914 both sides were moving troops west in order to outflank the enemy's open wing. The first attempt in Picardy, between the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) and the Somme, bogged down in frontal clashes at Lassigny, Roye and Chaulnes. The commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), therefore sent further corps further north. Castelnau was to extend the line of the 2nd Army beyond the Somme and strike east from the area of Albert, into the German rear.
 
-The chief of the German General Staff, General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), intended to do the same in the opposite direction. Around 21 September he decided to concentrate the 6th Army, brought over from Lorraine, in the area of [Amiens](https://pl.wikipedia.org/wiki/Amiens) and strike with it to the west, towards the coast. The French attack in Picardy, however, forced him to send part of its forces, the XXI Corps and the I Bavarian Corps, south of the Somme. North of the river remained the II Bavarian Corps and the XIV Reserve Corps, supported by cavalry.
+The chief of the German General Staff, General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), intended to do the same in the opposite direction. Around 21 September he decided to concentrate the 6th Army, brought over from Lorraine, in the area of [Amiens](/miejsca/amiens) and strike with it to the west, towards the coast. The French attack in Picardy, however, forced him to send part of its forces, the XXI Corps and the I Bavarian Corps, south of the Somme. North of the river remained the II Bavarian Corps and the XIV Reserve Corps, supported by cavalry.
 
 ## Course of the fighting
 

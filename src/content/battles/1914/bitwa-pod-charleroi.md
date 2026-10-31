@@ -22,7 +22,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Battle_of_Charleroi"
 ---
 
-Bitwa pod [Charleroi](https://pl.wikipedia.org/wiki/Charleroi) rozegrała się w dniach 21–23 sierpnia 1914 roku w Belgii, w widłach [Sambry](https://pl.wikipedia.org/wiki/Sambra) i [Mozy](https://pl.wikipedia.org/wiki/Moza), między Namurem a francuską granicą. Francuska 5 Armia generała [Charles'a Lanrezaca](/postacie/charles-lanrezac), która miała uderzyć na Niemców przez Sambrę, sama została zaatakowana przez niemiecką 2 Armię, a na koniec zagrożona od wschodu przez 3 Armię znad Mozy. Po trzech dniach walk Lanrezac nakazał odwrót. Była to jedna z [bitew granicznych](/bitwy/bitwa-graniczna), które zadecydowały o przebiegu pierwszej fazy wojny na zachodzie.
+Bitwa pod [Charleroi](https://pl.wikipedia.org/wiki/Charleroi) rozegrała się w dniach 21–23 sierpnia 1914 roku w Belgii, w widłach [Sambry](https://pl.wikipedia.org/wiki/Sambra) i [Mozy](/miejsca/moza), między Namurem a francuską granicą. Francuska 5 Armia generała [Charles'a Lanrezaca](/postacie/charles-lanrezac), która miała uderzyć na Niemców przez Sambrę, sama została zaatakowana przez niemiecką 2 Armię, a na koniec zagrożona od wschodu przez 3 Armię znad Mozy. Po trzech dniach walk Lanrezac nakazał odwrót. Była to jedna z [bitew granicznych](/bitwy/bitwa-graniczna), które zadecydowały o przebiegu pierwszej fazy wojny na zachodzie.
 
 ## Nazwa i daty
 

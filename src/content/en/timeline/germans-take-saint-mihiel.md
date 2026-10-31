@@ -2,10 +2,10 @@
 title: Germans take Saint-Mihiel
 summary: On 24 September 1914 the Bavarians took Saint-Mihiel on the Meuse and next day Fort Camp des Romains, creating a salient held by Germany until September 1918.
 source: niemcy-zajmuja-saint-mihiel
-sourceHash: 55954bcbab33d9edbdd073f5df55aaa91997914f
+sourceHash: 261a9b9a8bd4b62bc55e59f72f9f6e5a935cb420
 ---
 
-On 24 September 1914 German troops occupied the small town of [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) on the [Meuse](https://pl.wikipedia.org/wiki/Moza), halfway between the fortresses of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) and [Toul](https://pl.wikipedia.org/wiki/Toul). The next morning Fort Camp des Romains, on the hill above the town, surrendered. Within a few days the Germans had driven a wedge into the French lines and formed a salient that they held for almost the whole war. The date of the town's capture is given consistently by an American guide to the battlefields from 1938 and by French studies. The latter also indicate that the fighting for the heights above the Meuse had begun a few days earlier.
+On 24 September 1914 German troops occupied the small town of [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) on the [Meuse](/miejsca/moza), halfway between the fortresses of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) and [Toul](https://pl.wikipedia.org/wiki/Toul). The next morning Fort Camp des Romains, on the hill above the town, surrendered. Within a few days the Germans had driven a wedge into the French lines and formed a salient that they held for almost the whole war. The date of the town's capture is given consistently by an American guide to the battlefields from 1938 and by French studies. The latter also indicate that the fighting for the heights above the Meuse had begun a few days earlier.
 
 ## The thrust from Metz
 

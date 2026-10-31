@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 września 1914 roku francuskie okręty ostrzelały umocnienia austro-węgierskiej bazy morskiej w [Kotorze](https://pl.wikipedia.org/wiki/Kotor), po włosku nazywanym Cattaro. Baza leżała w głębi [Zatoki Kotorskiej](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), na południowym krańcu austro-węgierskiego wybrzeża, tuż przy granicy z Czarnogórą.
+19 września 1914 roku francuskie okręty ostrzelały umocnienia austro-węgierskiej bazy morskiej w [Kotorze](/miejsca/kotor), po włosku nazywanym Cattaro. Baza leżała w głębi [Zatoki Kotorskiej](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), na południowym krańcu austro-węgierskiego wybrzeża, tuż przy granicy z Czarnogórą.
 
 ## Wypad na Adriatyk
 

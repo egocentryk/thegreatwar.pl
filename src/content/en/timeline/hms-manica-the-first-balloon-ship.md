@@ -2,7 +2,7 @@
 title: HMS Manica, the first balloon ship
 summary: In March 1915 the Royal Navy commissioned HMS Manica, the first ship fitted to fly an observation balloon. She was to direct gunfire at the Dardanelles.
 source: hms-manica-pierwszy-okret-balonowy
-sourceHash: 5c6344ad76f87a0618945f8978e06115179cfc30
+sourceHash: 5523a53a45970472ebac5585cf304c9f58c38b7b
 ---
 
 The British chronology of the war records under 23 March 1915 the commissioning of HMS *Manica*, the first British ship fitted to carry a tethered observation balloon. According to most accounts the White Ensign was hoisted in her a day earlier, on 22 March. The ship was produced in enormous haste, for the needs of the fleet fighting at the Dardanelles.
@@ -19,6 +19,6 @@ On 11 March the Admiralty chartered *Manica*, a freighter of about 4,100 GRT, bu
 
 ## At Gallipoli
 
-At the end of March *Manica* sailed from Britain for the Mediterranean and in mid-April reached [Mudros](https://pl.wikipedia.org/wiki/Mudros) Bay on Lemnos. After a few trial ascents her observers directed the fire of warships for the first time on 19 April. During the [landing at Gallipoli](/bitwy/kampania-gallipolijska) on 25 April the balloon hung for many hours over Anzac Cove, and on 27 April its observers directed the heavy guns of the dreadnought [*Queen Elizabeth*](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)) onto a Turkish transport lying on the other side of the peninsula, in the Straits, and brought about her sinking.
+At the end of March *Manica* sailed from Britain for the Mediterranean and in mid-April reached [Mudros](/miejsca/mudros) Bay on Lemnos. After a few trial ascents her observers directed the fire of warships for the first time on 19 April. During the [landing at Gallipoli](/bitwy/kampania-gallipolijska) on 25 April the balloon hung for many hours over Anzac Cove, and on 27 April its observers directed the heavy guns of the dreadnought [*Queen Elizabeth*](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)) onto a Turkish transport lying on the other side of the peninsula, in the Straits, and brought about her sinking.
 
 *Manica*'s success led the Royal Navy to convert further ships into balloon ships. *Manica* herself supported operations in East Africa in 1916, and in 1917 she was turned into a tanker.

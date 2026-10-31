@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rano 28 października 1915 roku generał sir Charles Monro wylądował na wyspie [Imbros](https://pl.wikipedia.org/wiki/Imroz) i objął dowództwo Śródziemnomorskich Sił Ekspedycyjnych, walczących od kwietnia na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Przez jedenaście dni, od [odjazdu generała Iana Hamiltona](/birdwood-tymczasowym-dowodca-na-gallipoli), wojskami dowodził tymczasowo generał William Birdwood. Monro przywiózł ze sobą nowego szefa sztabu, generała Arthura Lynden-Bella. Dzień wcześniej, w porcie [Mudros](https://pl.wikipedia.org/wiki/Mudros) na [Limnos](https://pl.wikipedia.org/wiki/Limnos), przeglądał brygadę australijską i był pod wrażeniem postawy jej żołnierzy.
+Rano 28 października 1915 roku generał sir Charles Monro wylądował na wyspie [Imbros](https://pl.wikipedia.org/wiki/Imroz) i objął dowództwo Śródziemnomorskich Sił Ekspedycyjnych, walczących od kwietnia na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). Przez jedenaście dni, od [odjazdu generała Iana Hamiltona](/birdwood-tymczasowym-dowodca-na-gallipoli), wojskami dowodził tymczasowo generał William Birdwood. Monro przywiózł ze sobą nowego szefa sztabu, generała Arthura Lynden-Bella. Dzień wcześniej, w porcie [Mudros](/miejsca/mudros) na [Limnos](https://pl.wikipedia.org/wiki/Limnos), przeglądał brygadę australijską i był pod wrażeniem postawy jej żołnierzy.
 
 ## Zadanie
 

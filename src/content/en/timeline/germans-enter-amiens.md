@@ -2,10 +2,10 @@
 title: Germans enter Amiens
 summary: On 31 August 1914 troops of Kluck's army entered Amiens without a fight. The occupation lasted less than two weeks and ended after the Battle of the Marne.
 source: niemcy-wkraczaja-do-amiens
-sourceHash: b42cb7b4f0e20383f52b084115426a7d4be62311
+sourceHash: e49f9ae50457bda4124e1d4485a073ba11414f49
 ---
 
-On 31 August 1914, at about 8 a.m., German troops entered [Amiens](https://pl.wikipedia.org/wiki/Amiens), the capital of the Somme department. The town, an important railway junction in northern France, lay in the path of the German right wing marching on Paris.
+On 31 August 1914, at about 8 a.m., German troops entered [Amiens](/miejsca/amiens), the capital of the Somme department. The town, an important railway junction in northern France, lay in the path of the German right wing marching on Paris.
 
 ## An undefended town
 

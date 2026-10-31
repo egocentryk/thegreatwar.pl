@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-12 września 1917 roku Włosi po raz ostatni szturmowali w pełnej sile Monte San Gabriele, górę nad [Gorycją](https://pl.wikipedia.org/wiki/Gorycja), o którą od trzech tygodni toczyła się najkrwawsza część jedenastej bitwy nad Isonzo. Po wielogodzinnych walkach wokół szczytu natarcie się załamało. Następnego dnia przyszła jeszcze jedna próba, potem ostrzał zaczął słabnąć. Największa ofensywa armii włoskiej w tej wojnie dobiegła końca. Tego samego dnia austro-węgierskie dowództwo frontu południowo-zachodniego otrzymało rozkazy przygotowania ofensywy, którą miało przeprowadzić razem z Niemcami.
+12 września 1917 roku Włosi po raz ostatni szturmowali w pełnej sile Monte San Gabriele, górę nad [Gorycją](/miejsca/gorycja), o którą od trzech tygodni toczyła się najkrwawsza część jedenastej bitwy nad Isonzo. Po wielogodzinnych walkach wokół szczytu natarcie się załamało. Następnego dnia przyszła jeszcze jedna próba, potem ostrzał zaczął słabnąć. Największa ofensywa armii włoskiej w tej wojnie dobiegła końca. Tego samego dnia austro-węgierskie dowództwo frontu południowo-zachodniego otrzymało rozkazy przygotowania ofensywy, którą miało przeprowadzić razem z Niemcami.
 
 ## Ostatnie walki o San Gabriele
 
@@ -24,7 +24,7 @@ Na płaskowyżu Bainsizza walki lokalne trwały jeszcze przez wrzesień. Włosi 
 
 ## Bilans
 
-Obie strony ogłosiły zwycięstwo. Włosi wskazywali na największą zdobycz terenową ze wszystkich bitew nad [Soczą](/bitwy/bitwy-nad-isonzo): na płaskowyżu Bainsizza posunęli się o około 10 kilometrów. Austriacka historia oficjalna przypominała jednak, że po trzydziestu miesiącach i jedenastu bitwach najdalszy postęp włoskiego frontu, mierzony od [Sagrado](https://pl.wikipedia.org/wiki/Sagrado) do [Kostanjevicy](https://pl.wikipedia.org/wiki/Kostanjevica_na_Krasu), wynosił 12 kilometrów, czyli jedną trzecią drogi do [Triestu](https://pl.wikipedia.org/wiki/Triest). W czerwcu 1915 roku Włosi zaczynali wojnę nad Soczą z 18 dywizjami i 750 działami, w sierpniu 1917 roku rzucili do natarcia 51 dywizji i około 5200 dział i moździerzy okopowych. Austro-Węgry wystawiły w 1915 roku osiem dywizji z 354 działami, a teraz 24 dywizje z 1880 działami i 300 moździerzami. We Włoszech po wielkich obietnicach przyszło rozczarowanie.
+Obie strony ogłosiły zwycięstwo. Włosi wskazywali na największą zdobycz terenową ze wszystkich bitew nad [Soczą](/bitwy/bitwy-nad-isonzo): na płaskowyżu Bainsizza posunęli się o około 10 kilometrów. Austriacka historia oficjalna przypominała jednak, że po trzydziestu miesiącach i jedenastu bitwach najdalszy postęp włoskiego frontu, mierzony od [Sagrado](https://pl.wikipedia.org/wiki/Sagrado) do [Kostanjevicy](https://pl.wikipedia.org/wiki/Kostanjevica_na_Krasu), wynosił 12 kilometrów, czyli jedną trzecią drogi do [Triestu](/miejsca/triest). W czerwcu 1915 roku Włosi zaczynali wojnę nad Soczą z 18 dywizjami i 750 działami, w sierpniu 1917 roku rzucili do natarcia 51 dywizji i około 5200 dział i moździerzy okopowych. Austro-Węgry wystawiły w 1915 roku osiem dywizji z 354 działami, a teraz 24 dywizje z 1880 działami i 300 moździerzami. We Włoszech po wielkich obietnicach przyszło rozczarowanie.
 
 Dla Austriaków było to jednak zwycięstwo pyrrusowe. Według ich historii oficjalnej około 38 procent austro-węgierskich dział nad Soczą było zużytych i niezdatnych do użytku, a uzupełnień brakowało, bo do szeregów wracali niemal wyłącznie wyleczeni ranni. Austriacy byli przekonani, że kolejnej takiej bitwy nie wytrzymają i jedynym wyjściem jest uderzenie wyprzedzające.
 

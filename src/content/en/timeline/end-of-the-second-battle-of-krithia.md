@@ -2,10 +2,10 @@
 title: End of the Second Battle of Krithia
 summary: On 8 May 1915 New Zealanders, Australians and French renewed the attack on Krithia. Thousands of killed and wounded bought gains measured in hundreds of metres.
 source: koniec-drugiej-bitwy-o-kritie
-sourceHash: c5f632bcd0501f7860c47c7d213743d8a762bf54
+sourceHash: b8f7d1962a939153bfbe8cfe8456ccba419c4772
 ---
 
-On 8 May 1915 the Second Battle of Krithia ended at Helles on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. For three days the troops of General [Ian Hamilton](/postacie/ian-hamilton) had attacked in broad daylight towards the village of Krithia and the hill of Achi Baba. On the last day the weight of the fighting fell on two brigades brought over from Anzac Cove, one from New Zealand and one from Australia. Their attacks, paid for with enormous losses, became a lasting part of the memory of Australia and New Zealand.
+On 8 May 1915 the Second Battle of Krithia ended at Helles on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. For three days the troops of General [Ian Hamilton](/postacie/ian-hamilton) had attacked in broad daylight towards the village of Krithia and the hill of Achi Baba. On the last day the weight of the fighting fell on two brigades brought over from Anzac Cove, one from New Zealand and one from Australia. Their attacks, paid for with enormous losses, became a lasting part of the memory of Australia and New Zealand.
 
 ## The day before
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Svetozar Boroević, Archduke Eugen of Austria, Archduke Joseph August of Austria]
 result: Austro-Hungarian defensive victory. The Italians reached the western edge of the Karst and took Batognica above Kobarid, but Monte San Michele and Gorizia remained in the defenders' hands.
 source: druga-bitwa-nad-isonzo
-sourceHash: 267707263855915bcc1cbcdbfaf59025c9ab97a2
+sourceHash: d26dfb98500535a9109886b93c582ea2070f7a49
 ---
 
-The Second Battle of the Isonzo was the Italian army's second great offensive on the [Isonzo](https://pl.wikipedia.org/wiki/Socza). From 18 July to 3 August 1915 the 3rd Army of the Duke of Aosta, supported by the 2nd Army, attacked the Austro-Hungarian positions on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau south of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja). The main objective was the summit of Monte San Michele, which dominated the lower Isonzo and the Gorizia bridgehead. The Italians had twice as many battalions and twice as many guns as the defenders, and their artillery was much stronger than in June. Twice they broke onto the summit of San Michele and twice they were thrown off it. After two weeks of fighting on sun-scorched rocks the front had moved a few hundred metres, and each side had lost more than 40,000 men.
+The Second Battle of the Isonzo was the Italian army's second great offensive on the [Isonzo](https://pl.wikipedia.org/wiki/Socza). From 18 July to 3 August 1915 the 3rd Army of the Duke of Aosta, supported by the 2nd Army, attacked the Austro-Hungarian positions on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau south of [Gorizia](/miejsca/gorycja). The main objective was the summit of Monte San Michele, which dominated the lower Isonzo and the Gorizia bridgehead. The Italians had twice as many battalions and twice as many guns as the defenders, and their artillery was much stronger than in June. Twice they broke onto the summit of San Michele and twice they were thrown off it. After two weeks of fighting on sun-scorched rocks the front had moved a few hundred metres, and each side had lost more than 40,000 men.
 
 ## Name and dates
 

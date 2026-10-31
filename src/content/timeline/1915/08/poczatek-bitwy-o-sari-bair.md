@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 6 sierpnia 1915 roku na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) ruszyła wielka sierpniowa ofensywa sprzymierzonych. Jej główną częścią była próba zdobycia grzbietu Sari Bair (tur. Sarı Bayır), najwyższych wzgórz nad przyczółkiem w [zatoce Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac), z których widać było Przesmyk w [Dardanelach](https://pl.wikipedia.org/wiki/Dardanele). O 17.30 Australijczycy uderzyli na tureckie okopy na Lone Pine, by ściągnąć tam odwody nieprzyjaciela. Po zmroku na północnym skrzydle Nowozelandczycy w ciszy zdobywali tureckie posterunki, a za nimi w głąb dzikich, krętych jarów weszły kolumny, które przed świtem miały stanąć na szczytach. Tej samej nocy brytyjski IX Korpus [lądował w zatoce Suvla](/ladowanie-w-zatoce-suvla), kilka kilometrów dalej na północ.
+Po południu 6 sierpnia 1915 roku na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska) ruszyła wielka sierpniowa ofensywa sprzymierzonych. Jej główną częścią była próba zdobycia grzbietu Sari Bair (tur. Sarı Bayır), najwyższych wzgórz nad przyczółkiem w [zatoce Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac), z których widać było Przesmyk w [Dardanelach](/miejsca/dardanele). O 17.30 Australijczycy uderzyli na tureckie okopy na Lone Pine, by ściągnąć tam odwody nieprzyjaciela. Po zmroku na północnym skrzydle Nowozelandczycy w ciszy zdobywali tureckie posterunki, a za nimi w głąb dzikich, krętych jarów weszły kolumny, które przed świtem miały stanąć na szczytach. Tej samej nocy brytyjski IX Korpus [lądował w zatoce Suvla](/ladowanie-w-zatoce-suvla), kilka kilometrów dalej na północ.
 
 ## Plan Birdwooda
 

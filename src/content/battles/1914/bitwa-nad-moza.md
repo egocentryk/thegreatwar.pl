@@ -16,7 +16,7 @@ authors: [Natalia]
 tags: [wielki odwrót, Francja, Niemcy, Fernand de Langle de Cary]
 ---
 
-Bitwa nad [Mozą](https://pl.wikipedia.org/wiki/Moza) rozegrała się pod koniec sierpnia 1914 roku w północno-wschodniej Francji, na odcinku rzeki od okolic Mézières przez [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) po [Stenay](https://pl.wikipedia.org/wiki/Stenay) i [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). Francuska 4 Armia, a na jej prawym skrzydle 3 Armia, broniły przepraw przed wojskami niemieckimi, które parły naprzód po zwycięstwie w Ardenach. Było to jedno z pierwszych starć, w których Francuzi, po serii klęsk w [bitwach granicznych](/bitwy/bitwa-graniczna), skutecznie się bronili.
+Bitwa nad [Mozą](/miejsca/moza) rozegrała się pod koniec sierpnia 1914 roku w północno-wschodniej Francji, na odcinku rzeki od okolic Mézières przez [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) po [Stenay](https://pl.wikipedia.org/wiki/Stenay) i [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). Francuska 4 Armia, a na jej prawym skrzydle 3 Armia, broniły przepraw przed wojskami niemieckimi, które parły naprzód po zwycięstwie w Ardenach. Było to jedno z pierwszych starć, w których Francuzi, po serii klęsk w [bitwach granicznych](/bitwy/bitwa-graniczna), skutecznie się bronili.
 
 ## Daty bitwy
 

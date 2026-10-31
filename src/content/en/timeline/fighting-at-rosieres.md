@@ -2,7 +2,7 @@
 title: Fighting at Rosières
 summary: On 27 March 1918 six exhausted divisions of British XIX Corps held off an attack by eleven German divisions before Rosières, on the road to Amiens.
 source: walki-pod-rosieres
-sourceHash: a8eb678716772d4d494555213d5813e1e0eb8944
+sourceHash: f1cfbc1a14908f999c93f91ac10d439c74fdfab3
 brief:
   - "On 27 March 1918, the seventh day of the German offensive, six divisions of General Herbert Watts's British XIX Corps held off eleven German divisions before Rosières-en-Santerre, on the road to Amiens."
   - "Watts's divisions had been fighting and retreating almost without a break since 21 March, some reduced to a single brigade. After the Doullens conference they were ordered to hold on at all costs until the French arrived."
@@ -11,7 +11,7 @@ brief:
   - "That night Foch agreed to the withdrawal of the corps' left flank, and Gough learned that he was being recalled. The British official history sees the day as proof of the Fifth Army's \"extraordinary powers of resistance\"."
 ---
 
-On 27 March 1918, the seventh day of the German spring offensive, the remnants of the British Fifth Army fought one of the most stubborn defensive battles of the war on the Santerre plateau, before the village of [Rosières-en-Santerre](https://pl.wikipedia.org/wiki/Rosières-en-Santerre). General Herbert Watts's XIX Corps had six divisions which had been fighting and retreating almost without a break since [21 March](/poczatek-operacji-michael), and facing them stood eleven German divisions. The British held their positions almost everywhere, and on several sectors counter-attacked successfully. Even so, by evening their situation was more dangerous than in the morning: the Germans had crossed the Somme behind the corps' left flank, and on its right had taken Montdidier. In front of [Amiens](https://pl.wikipedia.org/wiki/Amiens) there stood only an improvised scratch force of engineers and railwaymen, and that evening the army commander, General [Hubert Gough](/postacie/hubert-gough), learned that he was being recalled.
+On 27 March 1918, the seventh day of the German spring offensive, the remnants of the British Fifth Army fought one of the most stubborn defensive battles of the war on the Santerre plateau, before the village of [Rosières-en-Santerre](https://pl.wikipedia.org/wiki/Rosières-en-Santerre). General Herbert Watts's XIX Corps had six divisions which had been fighting and retreating almost without a break since [21 March](/poczatek-operacji-michael), and facing them stood eleven German divisions. The British held their positions almost everywhere, and on several sectors counter-attacked successfully. Even so, by evening their situation was more dangerous than in the morning: the Germans had crossed the Somme behind the corps' left flank, and on its right had taken Montdidier. In front of [Amiens](/miejsca/amiens) there stood only an improvised scratch force of engineers and railwaymen, and that evening the army commander, General [Hubert Gough](/postacie/hubert-gough), learned that he was being recalled.
 
 ## The line before Rosières
 

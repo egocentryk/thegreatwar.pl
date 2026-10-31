@@ -2,7 +2,7 @@
 title: British marines land at Ostend
 summary: On 27 August 1914 a Royal Marines brigade landed at Ostend in Belgium, accompanied by Charles Samson's Royal Naval Air Service squadron.
 source: brytyjscy-marines-laduja-w-ostendzie
-sourceHash: 33754f18986b36e4c667adb68ba193e776f97f44
+sourceHash: e016e5888ae51d9c640700a701c73abad49cb85e
 ---
 
 On 27 August 1914 a brigade of the [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines), Britain's naval infantry, began landing at the Belgian port of [Ostend](https://pl.wikipedia.org/wiki/Ostenda). On the same day a squadron of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the air arm of the Royal Navy, flew in. It was the first unit of that service to arrive on the Continent.
@@ -19,4 +19,4 @@ Together with the marines, a squadron from the Eastchurch base under the command
 
 ## A short stay
 
-The Germans did not attack Ostend, and Belgian troops arrived to take the marines' place. On 31 August the brigade re-embarked. Samson's squadron moved to [Dunkirk](https://pl.wikipedia.org/wiki/Dunkierka), where its men began patrolling the area in armed, and soon also armoured, cars. These were among the first British [armoured cars](https://pl.wikipedia.org/wiki/Samochód_pancerny). Many of the marines returned to Belgium at the beginning of October to defend [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia).
+The Germans did not attack Ostend, and Belgian troops arrived to take the marines' place. On 31 August the brigade re-embarked. Samson's squadron moved to [Dunkirk](https://pl.wikipedia.org/wiki/Dunkierka), where its men began patrolling the area in armed, and soon also armoured, cars. These were among the first British [armoured cars](https://pl.wikipedia.org/wiki/Samochód_pancerny). Many of the marines returned to Belgium at the beginning of October to defend [Antwerp](/miejsca/antwerpia).

@@ -2,7 +2,7 @@
 title: Siege of Antwerp begins
 summary: On 27 September 1914 the Germans began the siege of Antwerp, Belgium's last fortress. The next day heavy mortars began to smash the outer forts.
 source: poczatek-oblezenia-antwerpii
-sourceHash: d67d610f6dab130c58864a3bafd1d6da483e194e
+sourceHash: fd3c6c6c80431e4755ca508bdbe348f26acccad5
 brief:
   - "On 27 September 1914 General Hans von Beseler's troops began the siege of Antwerp, Belgium's last fortress and the refuge of its army. The siege lasted until 10 October."
   - "Antwerp was Belgium's National Redoubt, ringed by two lines of forts. Sorties by King Albert I's field army threatened German communications, so Erich von Falkenhayn decided to take the fortress."
@@ -11,7 +11,7 @@ brief:
   - "On 10 October Antwerp capitulated, despite the arrival of Winston Churchill and the Royal Naval Division. The Belgian army, however, withdrew behind the Yser, where it stopped the Germans."
 ---
 
-On 27 September 1914 the German troops of General [Hans von Beseler](/postacie/hans-von-beseler) began the siege of [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), Belgium's last fortress and the refuge of its army. After taking [Liège](https://pl.wikipedia.org/wiki/Liège), Namur and Maubeuge, the Germans intended to smash the fortifications of Belgium's largest port in the same way, with the fire of their heaviest artillery. The siege lasted until 10 October and ended in the fall of the city, but the Belgian army managed to slip out of it.
+On 27 September 1914 the German troops of General [Hans von Beseler](/postacie/hans-von-beseler) began the siege of [Antwerp](/miejsca/antwerpia), Belgium's last fortress and the refuge of its army. After taking [Liège](https://pl.wikipedia.org/wiki/Liège), Namur and Maubeuge, the Germans intended to smash the fortifications of Belgium's largest port in the same way, with the fire of their heaviest artillery. The siege lasted until 10 October and ended in the fall of the city, but the Belgian army managed to slip out of it.
 
 ## The National Redoubt
 

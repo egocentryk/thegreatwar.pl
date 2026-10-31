@@ -2,10 +2,10 @@
 title: Belgium receives Austria-Hungary's declaration of war
 summary: On 28 August 1914 Austria-Hungary's note on a state of war reached the Belgian government in Antwerp. Belgium firmly rejected the charges it contained.
 source: belgia-otrzymuje-wypowiedzenie-wojny-austro-wegier
-sourceHash: 6b5bd39d98897fa223c3584f6296de6615c2ed55
+sourceHash: d8af597c68825f10d887eef1a077c59076b4207f
 ---
 
-On 28 August 1914 the government of [Belgium](/kraje/belgia), sitting in [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), received a note in which [Austria-Hungary](/kraje/austro-wegry) announced that it considered itself to be at war with Belgium. The British chronology of the war dates the declaration itself to 22 August, as we describe in the article [Austria-Hungary declares war on Belgium](/austro-wegry-wypowiadaja-wojne-belgii). Belgian documents indicate, however, that the formal note was delivered on 28 August.
+On 28 August 1914 the government of [Belgium](/kraje/belgia), sitting in [Antwerp](/miejsca/antwerpia), received a note in which [Austria-Hungary](/kraje/austro-wegry) announced that it considered itself to be at war with Belgium. The British chronology of the war dates the declaration itself to 22 August, as we describe in the article [Austria-Hungary declares war on Belgium](/austro-wegry-wypowiadaja-wojne-belgii). Belgian documents indicate, however, that the formal note was delivered on 28 August.
 
 ## A telegram via The Hague
 

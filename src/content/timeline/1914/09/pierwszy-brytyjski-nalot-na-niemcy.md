@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 września 1914 roku brytyjscy lotnicy przeprowadzili pierwszy w tej wojnie nalot na terytorium Niemiec. Cztery samoloty [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), lotnictwa brytyjskiej marynarki wojennej, wystartowały z [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), by zbombardować hangary [sterowców](https://pl.wikipedia.org/wiki/Sterowiec) w [Düsseldorfie](https://pl.wikipedia.org/wiki/Düsseldorf) i [Kolonii](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)).
+22 września 1914 roku brytyjscy lotnicy przeprowadzili pierwszy w tej wojnie nalot na terytorium Niemiec. Cztery samoloty [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), lotnictwa brytyjskiej marynarki wojennej, wystartowały z [Antwerpii](/miejsca/antwerpia), by zbombardować hangary [sterowców](https://pl.wikipedia.org/wiki/Sterowiec) w [Düsseldorfie](https://pl.wikipedia.org/wiki/Düsseldorf) i [Kolonii](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)).
 
 ## Polowanie na zeppeliny
 

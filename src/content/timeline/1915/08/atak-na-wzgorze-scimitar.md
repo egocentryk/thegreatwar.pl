@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-21 sierpnia 1915 roku brytyjski IX Korpus po raz ostatni spróbował zdobyć wzgórza otaczające równinę nad zatoką [Suvla](https://pl.wikipedia.org/wiki/Suvla) na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Głównym celem były W Hills i sąsiednie Scimitar Hill, nazwane tak od zakrzywionego jak szabla grzbietu, oraz wzgórze 112. Natarcie, w którym wzięło udział około 14 tysięcy żołnierzy, skończyło się klęską.
+21 sierpnia 1915 roku brytyjski IX Korpus po raz ostatni spróbował zdobyć wzgórza otaczające równinę nad zatoką [Suvla](https://pl.wikipedia.org/wiki/Suvla) na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). Głównym celem były W Hills i sąsiednie Scimitar Hill, nazwane tak od zakrzywionego jak szabla grzbietu, oraz wzgórze 112. Natarcie, w którym wzięło udział około 14 tysięcy żołnierzy, skończyło się klęską.
 
 Od [lądowania w zatoce Suvla](/bitwy/ladowanie-w-zatoce-suvla) minęły dwa tygodnie. Turcy pod dowództwem [Mustafy Kemala](/postacie/mustafa-kemal) obsadzili wszystkie okoliczne wzgórza i z góry widzieli brytyjskie okopy i plaże. Po [odwołaniu generała Stopforda](/koniec-ladowania-w-zatoce-suvla) nowy dowódca korpusu, generał Henry de Lisle, dostał posiłki: doświadczoną 29 Dywizję, przerzuconą spod Helles, i 2 Dywizję Konną z Egiptu, czyli około 5 tysięcy żołnierzy ochotniczej kawalerii [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry), którzy walczyli pieszo. Generał [Ian Hamilton](/postacie/ian-hamilton) przypłynął z Imbros, by obserwować bitwę ze wzgórza nad kwaterą korpusu.
 

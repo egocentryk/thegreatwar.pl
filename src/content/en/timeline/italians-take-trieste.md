@@ -2,10 +2,10 @@
 title: Italians take Trieste
 summary: On the afternoon of 3 November 1918 the Italian destroyer Audace docked at Trieste. General Petitti di Roreto took possession of the city for the King of Italy.
 source: wlosi-zajmuja-triest
-sourceHash: 844df020208569d1701162d1f731b0672c474c7b
+sourceHash: b532f9f39aa567f03604dc4f77038df609e34c2e
 ---
 
-On the afternoon of 3 November 1918 the Italian destroyer *Audace* came alongside the San Carlo pier in [Trieste](https://pl.wikipedia.org/wiki/Triest). From her stepped General Carlo Petitti di Roreto, commander of XXIII Corps, appointed governor of Trieste the day before, who declared: "In the name of His Majesty the King of Italy I take possession of the city of Trieste". Crowds greeted him on the quayside. For the Italians this was the goal for which they had fought eleven battles on the Isonzo since 1915, and the troops entered the city without a single shot, on the day the [Armistice of Villa Giusti](/rozejm-w-villa-giusti) was signed.
+On the afternoon of 3 November 1918 the Italian destroyer *Audace* came alongside the San Carlo pier in [Trieste](/miejsca/triest). From her stepped General Carlo Petitti di Roreto, commander of XXIII Corps, appointed governor of Trieste the day before, who declared: "In the name of His Majesty the King of Italy I take possession of the city of Trieste". Crowds greeted him on the quayside. For the Italians this was the goal for which they had fought eleven battles on the Isonzo since 1915, and the troops entered the city without a single shot, on the day the [Armistice of Villa Giusti](/rozejm-w-villa-giusti) was signed.
 
 Trieste, the main port of the Habsburg monarchy, had stopped obeying Vienna a few days earlier. On 30 October, after street demonstrations, a Committee of Public Safety was formed, made up of twelve Italian liberal nationalists and twelve socialists, later joined by four representatives of the Slavs. The Austrian governor, Baron Alfred von Fries-Skene, after consulting Vienna, handed the offices over to the committee and left for Graz. The city was short of food, and units of the Austro-Hungarian army returning from the front were passing through the surrounding area, so on 31 October the committee sent a wireless message to the Allied fleet in [Venice](https://pl.wikipedia.org/wiki/Wenecja) asking for help. That same evening three of its representatives sailed in a torpedo boat to meet the Italians.
 

@@ -2,7 +2,7 @@
 title: Allies land at Gallipoli
 summary: On 25 April 1915 British, Australian, New Zealand and French troops landed at the Dardanelles. The Turks put up fierce resistance.
 source: alianci-laduja-na-gallipoli
-sourceHash: 810c5ee49603b6458fa034e505ab36177753d30c
+sourceHash: 4a9d3d00ef3afedc757c9d4f655d6b6c1fd90a98
 brief:
   - "At dawn on 25 April 1915 Allied troops began landing on the Gallipoli peninsula. It was the first day of the months-long Gallipoli campaign."
   - "Five weeks after Turkish mines and forts had repulsed the fleet, General Ian Hamilton tried to seize the shores of the Dardanelles with land forces. Liman von Sanders had concentrated the Turkish divisions inland."
@@ -11,7 +11,7 @@ brief:
   - "The Allies held on at several points on the coast but took none of their main objectives. In Australia and New Zealand 25 April became a national day, observed as Anzac Day."
 ---
 
-At dawn on 25 April 1915 Allied troops began landing on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. Five weeks after [Turkish mines and forts had repulsed the fleet](/atak-floty-w-dardanelach-odparty), General [Ian Hamilton](/postacie/ian-hamilton) was trying to seize the shores of the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) with land forces. The British 29th Division landed on five beaches around Cape Helles, at the southern tip of the peninsula. The Australians and New Zealanders went ashore some twenty kilometres further north, on the west coast. The French put a force ashore on the Asian side of the strait, at Kum Kale, while ships carrying the Naval Division feigned a landing at the neck of the peninsula, at Bulair. It was the first day of the months-long [Gallipoli campaign](/bitwy/kampania-gallipolijska).
+At dawn on 25 April 1915 Allied troops began landing on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. Five weeks after [Turkish mines and forts had repulsed the fleet](/atak-floty-w-dardanelach-odparty), General [Ian Hamilton](/postacie/ian-hamilton) was trying to seize the shores of the [Dardanelles](/miejsca/dardanele) with land forces. The British 29th Division landed on five beaches around Cape Helles, at the southern tip of the peninsula. The Australians and New Zealanders went ashore some twenty kilometres further north, on the west coast. The French put a force ashore on the Asian side of the strait, at Kum Kale, while ships carrying the Naval Division feigned a landing at the neck of the peninsula, at Bulair. It was the first day of the months-long [Gallipoli campaign](/bitwy/kampania-gallipolijska).
 
 ## Before dawn
 

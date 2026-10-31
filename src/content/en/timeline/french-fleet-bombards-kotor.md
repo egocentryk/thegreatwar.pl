@@ -2,10 +2,10 @@
 title: French fleet bombards Kotor
 summary: On 19 September 1914 French battleships shelled Austro-Hungarian batteries at the entrance to the Bay of Kotor, covering the withdrawal of their own cruisers.
 source: francuzi-ostrzeliwuja-kotor
-sourceHash: e7204926a9c2e39388ef78be71e8282ef6313077
+sourceHash: 38f9e48e2075dbfce1ee5bb848be29996cc83c83
 ---
 
-On 19 September 1914 French warships shelled the fortifications of the Austro-Hungarian naval base at [Kotor](https://pl.wikipedia.org/wiki/Kotor), known in Italian as Cattaro. The base lay deep inside the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), at the southern end of the Austro-Hungarian coast, right by the border with Montenegro.
+On 19 September 1914 French warships shelled the fortifications of the Austro-Hungarian naval base at [Kotor](/miejsca/kotor), known in Italian as Cattaro. The base lay deep inside the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), at the southern end of the Austro-Hungarian coast, right by the border with Montenegro.
 
 ## A sortie into the Adriatic
 

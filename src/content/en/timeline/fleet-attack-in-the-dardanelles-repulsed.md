@@ -2,10 +2,10 @@
 title: Fleet attack in the Dardanelles repulsed
 summary: On 18 March 1915 the Allies attacked the forts at the Dardanelles Narrows. Bouvet, Irresistible and Ocean sank on Turkish mines and the fleet withdrew.
 source: atak-floty-w-dardanelach-odparty
-sourceHash: 73ffb672f63d09ed05e5312d310beff0eb88ba88
+sourceHash: c0b765ac461e98040d932718e78bf502a64b10d1
 ---
 
-On 18 March 1915 the British and French fleet made its greatest attempt to break through the defences of the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). Sixteen battleships were to silence the forts at the Narrows by [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) and open a way through the minefields for the minesweepers. After several hours of bombardment that seemed to be taking effect, the ships began, one after another, to blow up on mines whose existence no one had known of. By evening three battleships had sunk and three others had been badly damaged. It was the worst day of the whole naval operation, which had begun [on 19 February with the bombardment of the forts at the entrance to the strait](/poczatek-ataku-floty-na-dardanele).
+On 18 March 1915 the British and French fleet made its greatest attempt to break through the defences of the [Dardanelles](/miejsca/dardanele). Sixteen battleships were to silence the forts at the Narrows by [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) and open a way through the minefields for the minesweepers. After several hours of bombardment that seemed to be taking effect, the ships began, one after another, to blow up on mines whose existence no one had known of. By evening three battleships had sunk and three others had been badly damaged. It was the worst day of the whole naval operation, which had begun [on 19 February with the bombardment of the forts at the entrance to the strait](/poczatek-ataku-floty-na-dardanele).
 
 ## De Robeck's plan
 

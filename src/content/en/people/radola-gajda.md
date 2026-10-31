@@ -6,14 +6,14 @@ country: Czechoslovakia
 birthPlace: Kotor (Dalmatia, Austria)
 deathPlace: Prague
 source: radola-gajda
-sourceHash: 7b52880bd2aded96fe7c970097e8e6faa41e2757
+sourceHash: dcaa796a03a27ec3b96df41253e81390b48fb4bd
 ---
 
 Radola Gajda was the most daring and the most controversial commander of the Czechoslovak forces in Russia. In 1915 he was serving as a reservist in the Austro-Hungarian army, and by September 1918, at the age of 26, he was a general. In the spring and summer of 1918 his troops seized the central section of the Trans-Siberian Railway and fought their way east beyond Lake Baikal. He later entered the service of Admiral [Alexander Kolchak](/postacie/aleksandr-kolczak), took Perm in December 1918 and commanded the Siberian Army. His life story, full of changed names, false titles and sudden reversals, ends less gloriously: in independent Czechoslovakia he became the leader of the fascist movement.
 
 ## Before the war and in the Balkans
 
-He was born on 14 February 1892 in [Kotor](https://pl.wikipedia.org/wiki/Kotor) in Dalmatia as Rudolf Geidl, the son of an Austrian non-commissioned officer and, according to his biographers, an impoverished Montenegrin noblewoman. He spent his childhood in Moravia, in Kyjov, where he attended the gymnasium but did not finish it, and trained as a druggist. In 1910–1911 he did his compulsory military service in [Mostar](https://pl.wikipedia.org/wiki/Mostar). He then went to the Balkans. In 1913 he married in [Shkodër](https://pl.wikipedia.org/wiki/Szkodra) and settled there. Some biographers believe that he took part in the Balkan Wars, but this is not certain.
+He was born on 14 February 1892 in [Kotor](/miejsca/kotor) in Dalmatia as Rudolf Geidl, the son of an Austrian non-commissioned officer and, according to his biographers, an impoverished Montenegrin noblewoman. He spent his childhood in Moravia, in Kyjov, where he attended the gymnasium but did not finish it, and trained as a druggist. In 1910–1911 he did his compulsory military service in [Mostar](https://pl.wikipedia.org/wiki/Mostar). He then went to the Balkans. In 1913 he married in [Shkodër](https://pl.wikipedia.org/wiki/Szkodra) and settled there. Some biographers believe that he took part in the Balkan Wars, but this is not certain.
 
 After the outbreak of war he was called up into the Austro-Hungarian army, in which he served in Dalmatia and Bosnia. In September 1915 he ended up on the Montenegrin side. According to some sources he was taken prisoner, according to others he went over to the enemy of his own accord. In the Montenegrin army he passed himself off as a doctor and served as one with the rank of captain, although all he knew was the druggist's trade. He also changed his first name to the Slavonic-sounding Radola. After the fall of Montenegro at the beginning of 1916 he made his way to Russia on false papers. In Odessa he became regimental doctor in one of the Serbian volunteer units, which at the end of 1916 suffered heavy losses in the fighting in [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża).
 

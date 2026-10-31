@@ -17,7 +17,7 @@ brief:
   - "Upadek Lovćenu uwolnił Kotor od zagrożenia z lądu i otworzył drogę na Cetynię. 11 stycznia Czarnogórcy poprosili o rozejm, a Wiedeń zażądał bezwarunkowej kapitulacji."
 ---
 
-10 stycznia 1916 roku, o zmierzchu, ogniska zapalone na szczycie masywu [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) dały znać, że austro-węgierska piechota dotarła na wierzchołek góry, którą Czarnogórcy nazywali świętą. Według austriackiej historii oficjalnej pierwsze weszły tam przednie oddziały grupy podpułkownika Törka z 47 Dywizji Piechoty. Tego samego dnia ostatni obrońcy przełęczy Krstac, przez którą biegła serpentyna z [Kotoru](https://pl.wikipedia.org/wiki/Kotor) do stolicy kraju, porzucili swoje stanowiska pod ogniem dział okrętowych. Brytyjska chronologia wojny notuje zajęcie Lovćenu pod 10 stycznia. Austro-węgierski komunikat ogłosił je dzień później, dlatego część opracowań podaje datę 11 stycznia.
+10 stycznia 1916 roku, o zmierzchu, ogniska zapalone na szczycie masywu [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) dały znać, że austro-węgierska piechota dotarła na wierzchołek góry, którą Czarnogórcy nazywali świętą. Według austriackiej historii oficjalnej pierwsze weszły tam przednie oddziały grupy podpułkownika Törka z 47 Dywizji Piechoty. Tego samego dnia ostatni obrońcy przełęczy Krstac, przez którą biegła serpentyna z [Kotoru](/miejsca/kotor) do stolicy kraju, porzucili swoje stanowiska pod ogniem dział okrętowych. Brytyjska chronologia wojny notuje zajęcie Lovćenu pod 10 stycznia. Austro-węgierski komunikat ogłosił je dzień później, dlatego część opracowań podaje datę 11 stycznia.
 
 ## Trzeci dzień szturmu
 

@@ -2,10 +2,10 @@
 title: End of the landing at Suvla Bay
 summary: On 15 August 1915 Hamilton removed Gen. Stopford from command of IX Corps at Suvla. That day the Irish took the summit of the Kiretch Tepe ridge.
 source: koniec-ladowania-w-zatoce-suvla
-sourceHash: 668c8278c63e262a028cbb1d50fd5b12f3135a31
+sourceHash: 933c19d7f5cb2456b79e6b34874c7515c311649b
 ---
 
-On 15 August 1915 General [Ian Hamilton](/postacie/ian-hamilton) removed General [Frederick Stopford](https://pl.wikipedia.org/wiki/Frederick_Stopford) from command of IX Corps, which nine days earlier had [landed at Suvla Bay](/ladowanie-w-zatoce-suvla) on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. That same afternoon Irish battalions took the highest point of the Kiretch Tepe ridge on the northern edge of the bay. British tabulations end the landing at Suvla on this day.
+On 15 August 1915 General [Ian Hamilton](/postacie/ian-hamilton) removed General [Frederick Stopford](https://pl.wikipedia.org/wiki/Frederick_Stopford) from command of IX Corps, which nine days earlier had [landed at Suvla Bay](/ladowanie-w-zatoce-suvla) on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. That same afternoon Irish battalions took the highest point of the Kiretch Tepe ridge on the northern edge of the bay. British tabulations end the landing at Suvla on this day.
 
 ## Lost days
 

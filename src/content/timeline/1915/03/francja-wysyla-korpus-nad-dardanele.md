@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 4 marca 1915 roku, że rząd francuski postanowił wysłać pod [Dardanele](https://pl.wikipedia.org/wiki/Dardanele) korpus ekspedycyjny. W rzeczywistości decyzję podjęto w Paryżu już w drugiej połowie lutego, a na początku marca nowa francuska dywizja była już w drodze. Według brytyjskiej historii oficjalnej pierwsze jej oddziały, razem z dowódcą, generałem Albertem d'Amade'em, i jego sztabem, weszły na statki 3 marca. Według źródeł francuskich konwoje wypływały z portów od 4 marca. Tego samego dnia [Winston Churchill](/postacie/winston-churchill) napisał do lorda Kitchenera, że francuska dywizja powinna razem z wojskami brytyjskimi stanąć w zatoce Mudros na wyspie Lemnos około 18 marca, gotowa do wyładunku pod Bulair albo do rejsu przez cieśninę do Konstantynopola.
+Brytyjska chronologia wojny notuje pod 4 marca 1915 roku, że rząd francuski postanowił wysłać pod [Dardanele](/miejsca/dardanele) korpus ekspedycyjny. W rzeczywistości decyzję podjęto w Paryżu już w drugiej połowie lutego, a na początku marca nowa francuska dywizja była już w drodze. Według brytyjskiej historii oficjalnej pierwsze jej oddziały, razem z dowódcą, generałem Albertem d'Amade'em, i jego sztabem, weszły na statki 3 marca. Według źródeł francuskich konwoje wypływały z portów od 4 marca. Tego samego dnia [Winston Churchill](/postacie/winston-churchill) napisał do lorda Kitchenera, że francuska dywizja powinna razem z wojskami brytyjskimi stanąć w zatoce Mudros na wyspie Lemnos około 18 marca, gotowa do wyładunku pod Bulair albo do rejsu przez cieśninę do Konstantynopola.
 
 ## Decyzja w Paryżu
 

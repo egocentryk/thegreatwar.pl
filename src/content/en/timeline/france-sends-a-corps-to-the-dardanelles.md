@@ -2,10 +2,10 @@
 title: France sends a corps to the Dardanelles
 summary: In early March 1915 General d'Amade's Orient Expeditionary Corps, a French division for the Dardanelles, sailed from ports in France and North Africa.
 source: francja-wysyla-korpus-nad-dardanele
-sourceHash: da820e43c2803ce4bb212a560f04a36ed1bc707c
+sourceHash: 0cbb17e328409343e2c6e5587f1e5bf15a358fe1
 ---
 
-The British chronology of the war records under 4 March 1915 that the French government decided to send an expeditionary corps to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). In fact the decision had been taken in Paris in the second half of February, and by the beginning of March the new French division was already on its way. According to the British official history, its first units, together with its commander, General Albert d'Amade, and his staff, embarked on 3 March. According to French sources the convoys left port from 4 March. That same day [Winston Churchill](/postacie/winston-churchill) wrote to Lord Kitchener that the French division should assemble with the British troops in Mudros Bay on the island of Lemnos around 18 March, ready to land at Bulair or to sail through the Straits to Constantinople.
+The British chronology of the war records under 4 March 1915 that the French government decided to send an expeditionary corps to the [Dardanelles](/miejsca/dardanele). In fact the decision had been taken in Paris in the second half of February, and by the beginning of March the new French division was already on its way. According to the British official history, its first units, together with its commander, General Albert d'Amade, and his staff, embarked on 3 March. According to French sources the convoys left port from 4 March. That same day [Winston Churchill](/postacie/winston-churchill) wrote to Lord Kitchener that the French division should assemble with the British troops in Mudros Bay on the island of Lemnos around 18 March, ready to land at Bulair or to sail through the Straits to Constantinople.
 
 ## The decision in Paris
 

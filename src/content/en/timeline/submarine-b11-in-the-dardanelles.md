@@ -2,10 +2,10 @@
 title: Submarine B11 in the Dardanelles
 summary: On 6 November 1914, says a British chronology, the submarine B11 went some 2 miles into the Dardanelles. A month later she sank a Turkish battleship there.
 source: okret-podwodny-b11-w-dardanelach
-sourceHash: 084aea4b400eaaf4274d1cbbd1a36c035a0c4179
+sourceHash: 13a8f827d23de2b3d0a91d8f2768796650433dde
 ---
 
-A British chronology of the war records under 6 November 1914 that the submarine [B11](https://pl.wikipedia.org/wiki/HMS_B11) went about two miles into the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). It was one of the first, if not the first, incursions by an Allied vessel into the interior of the strait, closed by the Turks with mines and shore batteries.
+A British chronology of the war records under 6 November 1914 that the submarine [B11](https://pl.wikipedia.org/wiki/HMS_B11) went about two miles into the [Dardanelles](/miejsca/dardanele). It was one of the first, if not the first, incursions by an Allied vessel into the interior of the strait, closed by the Turks with mines and shore batteries.
 
 The details of this action are little known and could not be confirmed in the available sources. The British official history of the war at sea mentions only, without giving a date, that before mid-December B11 had already been two miles up the strait, chasing two Turkish gunboats. This may have been that very foray.
 

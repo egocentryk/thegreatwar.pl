@@ -2,7 +2,7 @@
 title: Fighting at Villers-Bretonneux
 summary: On 24 April 1918 the Germans took Villers-Bretonneux with tanks, and at Cachy tanks fought tanks for the first time. That night the Australians retook the town.
 source: walki-pod-villers-bretonneux
-sourceHash: d6447df52bd472f7cc2e51a54e77292de3a2f378
+sourceHash: 0196008997eb41a89a09ec6187a862aec6693b27
 brief:
   - "At dawn on 24 April 1918, in thick mist, four divisions of the German Second Army with thirteen A7V tanks struck the British III Corps and within a few hours took Villers-Bretonneux."
   - "The British 8th and 58th Divisions, badly mauled in March, had nothing to defend themselves against tanks. The Germans reached the road from Cachy to Fouilloy, about 13 kilometres from Amiens, and got no further."
@@ -11,7 +11,7 @@ brief:
   - "In the night both brigades went round Villers-Bretonneux, and on 25 April, the third anniversary of the Gallipoli landing, the town was back in Allied hands. The Germans never again came so close to Amiens."
 ---
 
-On 24 April 1918 the Germans tried for the last time to approach [Amiens](https://pl.wikipedia.org/wiki/Amiens). At dawn, in thick mist, four divisions of the German Second Army, led by thirteen [A7V](https://pl.wikipedia.org/wiki/A7V) tanks, struck the British III Corps on the plateau south of the Somme and within a few hours took the small town of [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), the same one that Australians and British had defended three weeks earlier, [on 4 April](/bitwy/bitwa-nad-avre). Before noon, near the village of [Cachy](https://pl.wikipedia.org/wiki/Cachy), a British tank fought a duel with an enemy tank for the first time in history. In the evening the Allied commanders decided to retake the town that same night. Two Australian brigades advanced in the dark, without an artillery preparation, and by the morning of 25 April, the third anniversary of the landing at Gallipoli, Villers-Bretonneux was back in Allied hands.
+On 24 April 1918 the Germans tried for the last time to approach [Amiens](/miejsca/amiens). At dawn, in thick mist, four divisions of the German Second Army, led by thirteen [A7V](https://pl.wikipedia.org/wiki/A7V) tanks, struck the British III Corps on the plateau south of the Somme and within a few hours took the small town of [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), the same one that Australians and British had defended three weeks earlier, [on 4 April](/bitwy/bitwa-nad-avre). Before noon, near the village of [Cachy](https://pl.wikipedia.org/wiki/Cachy), a British tank fought a duel with an enemy tank for the first time in history. In the evening the Allied commanders decided to retake the town that same night. Two Australian brigades advanced in the dark, without an artillery preparation, and by the morning of 25 April, the third anniversary of the landing at Gallipoli, Villers-Bretonneux was back in Allied hands.
 
 ## Attack in the mist
 

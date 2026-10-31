@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-4 czerwca 1915 roku w południe brytyjscy i francuscy żołnierze pod Helles, na południowym krańcu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)), wyszli z okopów do trzeciego natarcia na wieś Kritia. Od [poprzedniej próby](/koniec-drugiej-bitwy-o-kritie) minął niespełna miesiąc. Tym razem nikt nie liczył na zdobycie wzgórza Achi Baba w jeden dzień. Około 30 tysięcy żołnierzy brytyjskiego VIII Korpusu generała Aylmera Hunter-Westona i francuskiego korpusu generała Henriego Gouraud miało zdobyć tylko pierwsze linie tureckich okopów, najwyżej 800 jardów, czyli około 730 metrów, naprzód.
+4 czerwca 1915 roku w południe brytyjscy i francuscy żołnierze pod Helles, na południowym krańcu półwyspu [Gallipoli](/bitwy/kampania-gallipolijska), wyszli z okopów do trzeciego natarcia na wieś Kritia. Od [poprzedniej próby](/koniec-drugiej-bitwy-o-kritie) minął niespełna miesiąc. Tym razem nikt nie liczył na zdobycie wzgórza Achi Baba w jeden dzień. Około 30 tysięcy żołnierzy brytyjskiego VIII Korpusu generała Aylmera Hunter-Westona i francuskiego korpusu generała Henriego Gouraud miało zdobyć tylko pierwsze linie tureckich okopów, najwyżej 800 jardów, czyli około 730 metrów, naprzód.
 
 ## Fałszywy alarm
 

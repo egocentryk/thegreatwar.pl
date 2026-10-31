@@ -57,7 +57,7 @@ Na lewym skrzydle korpusu 5 Brygada Kolonialna doszła do [Neufchâteau](https:/
 
 ## Odwrót
 
-Joffre nakazał wznowić natarcie 23 sierpnia możliwie wcześnie, bo cały jego plan zależał od powodzenia 3 i 4 Armii. Ruffey odpowiedział, że jego dywizje muszą się najpierw uporządkować. Po południu Niemcy uprzedzili go i zepchnęli V Korpus o kilka kilometrów, a reszta armii musiała się wyrównać. 5 Brygada Kolonialna opuściła Neufchâteau jeszcze przed świtem. Do wieczora resztki obu armii, poza północnym skrzydłem 4 Armii, cofnęły się na pozycje wyjściowe. Langle de Cary zarządził na 24 sierpnia odwrót na linię rzek [Chiers](https://pl.wikipedia.org/wiki/Chiers) i [Mozy](https://pl.wikipedia.org/wiki/Moza).
+Joffre nakazał wznowić natarcie 23 sierpnia możliwie wcześnie, bo cały jego plan zależał od powodzenia 3 i 4 Armii. Ruffey odpowiedział, że jego dywizje muszą się najpierw uporządkować. Po południu Niemcy uprzedzili go i zepchnęli V Korpus o kilka kilometrów, a reszta armii musiała się wyrównać. 5 Brygada Kolonialna opuściła Neufchâteau jeszcze przed świtem. Do wieczora resztki obu armii, poza północnym skrzydłem 4 Armii, cofnęły się na pozycje wyjściowe. Langle de Cary zarządził na 24 sierpnia odwrót na linię rzek [Chiers](https://pl.wikipedia.org/wiki/Chiers) i [Mozy](/miejsca/moza).
 
 24 sierpnia Joffre nakazał 4 Armii wycofać się za Mozę. 3 Armia jeszcze 24 i 25 sierpnia próbowała kontratakować prawym skrzydłem, ale odwrót jej lewego skrzydła zmusił ją do wycofania się w stronę Mozy i Verdun. Brytyjska historia oficjalna zauważała, że klęska byłaby jeszcze większa, gdyby nie przedwczesna próba okrążenia Francuzów podjęta przez następcę tronu Wilhelma.
 

@@ -131,6 +131,56 @@ Notes:
   Ctesiphon, Kut, the capture in March 1917 and Maude's proclamation, the
   railway (Bagdadbahn) in a sentence.
 
+## Batch 2 (2026-10-31)
+
+The owner approved the pilot's form: same length, tone and approach.
+
+| grp | slug / English slug | name (PL / EN) | kind | in1914 / today | front | lat, lon | radiusKm | wikiTitles | author |
+|---|---|---|---|---|---|---|---|---|---|
+| D | `gorycja` / `gorizia` | Gorycja / Gorizia | miasto | Austro-Węgry / Włochy | Front włoski | 45.94, 13.62 | 20 | Gorycja | Natalia |
+| D | `triest` / `trieste` | Triest / Trieste | miasto | Austro-Węgry / Włochy | Front włoski | 45.65, 13.78 | 25 | Triest | Łukasz Skowroń |
+| E | `antwerpia` / `antwerp` | Antwerpia / Antwerp | miasto | Belgia / Belgia | Front zachodni | 51.22, 4.40 | 25 | Antwerpia | Łukasz Skowroń |
+| E | `amiens` / `amiens` | Amiens / Amiens | miasto | Francja / Francja | Front zachodni | 49.89, 2.30 | 25 | Amiens | Natalia |
+| F | `moza` / `meuse` | Moza / Meuse | rzeka | Francja i Belgia / Francja i Belgia | Front zachodni | 49.16, 5.38 | 30 | Moza | Natalia |
+| F | `kotor` / `kotor` | Kotor / Kotor | miasto | Austro-Węgry / Czarnogóra | Wojna na morzu | 42.42, 18.77 | 25 | Kotor | Łukasz Skowroń |
+| G | `dardanele` / `dardanelles` | Dardanele / Dardanelles | akwen | Imperium Osmańskie / Turcja | Bliski Wschód | 40.2, 26.4 | 40 | Dardanele | Łukasz Skowroń |
+| G | `mudros` / `mudros` | Mudros / Mudros | akwen | Grecja / Grecja | Bliski Wschód | 39.85, 25.27 | 20 | Mudros | Natalia |
+
+Notes:
+- Gorycja: the Italian goal across eleven battles, the front line at its
+  edge, the capture in August 1916 (sixth Isonzo), the ruined town, lost
+  again after Caporetto; the Isonzo battles are one campaign page
+  (`bitwy-nad-isonzo`) plus a page per battle: link, don't retell.
+- Triest: the Austro-Hungarian port and the Italian war aim
+  (irredentism, the Treaty of London), the city under the front's guns,
+  November 1918.
+- Antwerpia: the national redoubt (August 1914), the sorties, the
+  government's seat, the siege (`oblezenie-antwerpii`: link it, don't
+  retell it), the flight of civilians to the Netherlands, the occupation.
+- Amiens: the BEF's base, the brief German occupation in 1914, the
+  objective of the 1918 spring offensive (Villers-Bretonneux), the
+  battle of 8 August 1918 (`bitwa-pod-amiens`: link it).
+- Moza: a river page across the war: the crossings of 1914 (Liège, Namur,
+  Dinant, Sedan; `bitwa-nad-moza`), Verdun, the Saint-Mihiel salient, the
+  Meuse–Argonne offensive. Link the battle pages; the page is the thread
+  that ties them.
+- Kotor: the Austro-Hungarian navy's southern base in the Bay of Kotor,
+  Lovćen above it (`bitwa-o-lovcen`), the U-boats, the sailors' mutiny of
+  February 1918. Our articles call it Kotor; the English page may say
+  "Kotor (Cattaro)" at first mention.
+- Dardanele: the strait across the war: its closing in 1914, Goeben and
+  Breslau, the naval operation of 1915 (`morska-operacja-w-dardanelach`)
+  and the Gallipoli campaign (link, don't retell), the submarines in the
+  Marmara, the Breslau and Goeben sortie of January 1918, the opening
+  after Mudros.
+- Mudros: the harbour on Lemnos: the base of the Dardanelles and
+  Gallipoli campaign, its hospitals, the armistice signed there on
+  30 October 1918 (`rozejm-w-mudros`). Verify Lemnos's status in 1914 and
+  say it in a sentence.
+
+The places `/miejsca/saloniki`, `/miejsca/korfu`, `/miejsca/ypres`,
+`/miejsca/kanal-sueski`, `/miejsca/bagdad` exist: link them where natural.
+
 ## Report (short)
 
 Per page: paths, words, sources, internal links, conflicts with our pages

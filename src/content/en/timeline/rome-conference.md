@@ -2,7 +2,7 @@
 title: Rome conference
 summary: On 5–7 January 1917 the Allies conferred in Rome. Lloyd George wanted to send Italy heavy guns for an offensive on the Isonzo, but the plan was shelved.
 source: konferencja-w-rzymie
-sourceHash: 10ec8b086157e834059ea54b125e2b112d8a2aed
+sourceHash: 9313f690a137883ca42fe90f93f053358f1232b4
 ---
 
 On 5 January 1917 the leading politicians, generals and admirals of Britain, France and Italy, together with representatives of Russia, gathered in Rome. The talks were held in the Palazzo della Consulta, the seat of the Italian foreign ministry, and lasted until 7 January. The British official history of the Macedonian campaign (Falls) gives exactly these dates. The official history volume on the Western Front dates the conference from 4 January, and some studies mention only two days of talks, 6 and 7 January. It was the first great Allied conference of the new British Prime Minister [David Lloyd George](/postacie/david-lloyd-george), who less than a month earlier had [taken office](/lloyd-george-premierem) intending to take the first word on strategy away from the generals.
@@ -15,7 +15,7 @@ Britain was represented by Lloyd George, Lord [Alfred Milner](/postacie/alfred-m
 
 ## Guns for Italy
 
-Lloyd George came with a plan of his own. For months he had believed that offensives on the Western Front cost too much and achieved too little, and that a decision had to be sought on another front. As early as November, at the [Paris conference](/konferencje-w-paryzu-i-chantilly), he had unsuccessfully proposed lending heavy guns to Italy. In Rome he proposed on behalf of the British government that the Allies support an Italian spring offensive on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau towards [Trieste](https://pl.wikipedia.org/wiki/Triest). According to the British official history, Britain was to lend 250 or 300 heavy guns and France was to do the same. Other accounts speak of as many as 400 guns. Rodd remembered that eight Allied divisions were also in question, and a blow that might reach [Ljubljana](https://pl.wikipedia.org/wiki/Lublana) and shake Austria-Hungary.
+Lloyd George came with a plan of his own. For months he had believed that offensives on the Western Front cost too much and achieved too little, and that a decision had to be sought on another front. As early as November, at the [Paris conference](/konferencje-w-paryzu-i-chantilly), he had unsuccessfully proposed lending heavy guns to Italy. In Rome he proposed on behalf of the British government that the Allies support an Italian spring offensive on the [Karst](/bitwy/bitwy-nad-isonzo) plateau towards [Trieste](/miejsca/triest). According to the British official history, Britain was to lend 250 or 300 heavy guns and France was to do the same. Other accounts speak of as many as 400 guns. Rodd remembered that eight Allied divisions were also in question, and a blow that might reach [Ljubljana](https://pl.wikipedia.org/wiki/Lublana) and shake Austria-Hungary.
 
 The Prime Minister based his arguments above all on the situation at sea. He pointed out that in the second half of 1916 the Allies had lost 256 ships in the Mediterranean, totalling over 662,000 tons, of which a third of the ships and almost two-thirds of the tonnage were British, and that German submarines were operating almost with impunity. Troops and guns travelling to Italy by rail took no space on ships. He added that 15,000 replacements were waiting in England with no means of transporting them to Salonika.
 

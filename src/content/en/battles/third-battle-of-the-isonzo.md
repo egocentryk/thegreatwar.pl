@@ -9,10 +9,10 @@ sides:
     commanders: [Svetozar Boroević, Archduke Eugen of Austria, Archduke Joseph August of Austria]
 result: Austro-Hungarian defensive victory. The Italians took only isolated stretches of trench near San Martino, on Podgora and near Plava, while Gorizia and Monte San Michele remained in the defenders' hands.
 source: trzecia-bitwa-nad-isonzo
-sourceHash: 0566026630d38ea26fd008c93e7205341e3e8194
+sourceHash: 830b04e575370e5bb3422b67bc2101411a7d275f
 ---
 
-The Third Battle of the Isonzo was the Italian army's first autumn offensive on the [Isonzo](https://pl.wikipedia.org/wiki/Socza) and the largest of its operations so far. From 18 October to 4 November 1915 the 2nd and 3rd Armies, together 338 battalions with more than 1,300 guns, attacked the Austro-Hungarian 5th Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) along the whole front, from the mountains above Bovec to the Adriatic coast. The objective was [Gorizia](https://pl.wikipedia.org/wiki/Gorycja), which the Italians meant to envelop with thrusts from the north, from Plava, and from the south, across the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The battle opened with a three-day bombardment such as this front had never yet seen. Even so, the defenders, less than half as strong, held almost all their positions. The Italians lost about 67,000 men, the Austrians nearly 42,000.
+The Third Battle of the Isonzo was the Italian army's first autumn offensive on the [Isonzo](https://pl.wikipedia.org/wiki/Socza) and the largest of its operations so far. From 18 October to 4 November 1915 the 2nd and 3rd Armies, together 338 battalions with more than 1,300 guns, attacked the Austro-Hungarian 5th Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) along the whole front, from the mountains above Bovec to the Adriatic coast. The objective was [Gorizia](/miejsca/gorycja), which the Italians meant to envelop with thrusts from the north, from Plava, and from the south, across the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The battle opened with a three-day bombardment such as this front had never yet seen. Even so, the defenders, less than half as strong, held almost all their positions. The Italians lost about 67,000 men, the Austrians nearly 42,000.
 
 ## Name and dates
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Hans von Beseler]
 result: Inconclusive. The Belgians took several villages but suffered heavy losses and returned to the fortress of Antwerp.
 source: bitwa-pod-mechelen
-sourceHash: 4d9c19c4f0f17115c465883d0e70d9911e388504
+sourceHash: 52f18dbcfa07b62555811b2a69808bfc88a98f5c
 ---
 
-The Battle of [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), Malines in French, was the Belgian army's first sortie from the fortress of [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia). It was fought on 25–27 August 1914 south of Mechelen, on the flat ground between Antwerp and Brussels. The Belgians tried to tie down as many German troops as possible while the French and British were fighting hard battles on the French frontier.
+The Battle of [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), Malines in French, was the Belgian army's first sortie from the fortress of [Antwerp](/miejsca/antwerpia). It was fought on 25–27 August 1914 south of Mechelen, on the flat ground between Antwerp and Brussels. The Belgians tried to tie down as many German troops as possible while the French and British were fighting hard battles on the French frontier.
 
 ## An army in the National Redoubt
 

@@ -9,14 +9,14 @@ sides:
     commanders: [Karl von Bülow, Max von Gallwitz]
 result: German victory. The fortress fell, but about 12,000 soldiers of the Belgian 4th Division escaped captivity.
 source: oblezenie-namuru
-sourceHash: 5eaa0cc289339347f12ced9bb368128b32924350
+sourceHash: cd489bcdcb717cc2888ab55369a04e4e48b4bf23
 ---
 
 The siege of the [fortress of Namur](https://pl.wikipedia.org/wiki/Twierdza_Namur) lasted from 20 to 25 August 1914. After Liège it was the second great Belgian fortress on the Germans' road to France. It fell even faster, smashed by the heaviest siege artillery then available to the Central Powers.
 
 ## A fortress at the confluence of rivers
 
-[Namur](https://pl.wikipedia.org/wiki/Namur) lies where the [Sambre](https://pl.wikipedia.org/wiki/Sambra) flows into the [Meuse](https://pl.wikipedia.org/wiki/Moza). The city barred the Meuse valley, one of the main routes from Germany into France. In 1888–1892 it was surrounded by a ring of nine forts designed by General [Henri Brialmont](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont), the same man who designed the forts of Liège. On the left bank of the Meuse stood the forts of Malonne, Saint-Héribert, Suarlée, Emines, Cognelée and Marchovelette, and on the right bank Maizeret, Andoy and Dave. Some of them had been modernised before the war, but none was prepared for 305 mm and 420 mm shells.
+[Namur](https://pl.wikipedia.org/wiki/Namur) lies where the [Sambre](https://pl.wikipedia.org/wiki/Sambra) flows into the [Meuse](/miejsca/moza). The city barred the Meuse valley, one of the main routes from Germany into France. In 1888–1892 it was surrounded by a ring of nine forts designed by General [Henri Brialmont](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont), the same man who designed the forts of Liège. On the left bank of the Meuse stood the forts of Malonne, Saint-Héribert, Suarlée, Emines, Cognelée and Marchovelette, and on the right bank Maizeret, Andoy and Dave. Some of them had been modernised before the war, but none was prepared for 305 mm and 420 mm shells.
 
 The fortress was defended by the Belgian 4th Division together with the fort garrisons, about 37,000 soldiers in all under General Édouard Michel. Against them the German Second Army of General [Karl von Bülow](/postacie/karl-von-bulow) detached the group of General [Max von Gallwitz](/postacie/max-von-gallwitz), numbering about 107,000 men. It comprised the Guard Reserve Corps, the XI Corps and part of the VII Reserve Corps. Most important of all, however, was the artillery: German 420 mm [M-Gerät](https://pl.wikipedia.org/wiki/M-Gerät) mortars brought from Liège, and Austro-Hungarian 305 mm Škoda mortars.
 
@@ -30,7 +30,7 @@ The forts held out after the division had gone. On 24 August Andoy, Malonne, tak
 
 ## Escape of the 4th Division
 
-The only line of retreat was the region between the Sambre and the Meuse, to the south. On the night of 23–24 August the Belgian column marched on, harassed by the Germans from the rear and the flank. Its rearguard was surrounded at [Ermeton-sur-Biert](https://pl.wikipedia.org/wiki/Ermeton-sur-Biert), but about 12,000 soldiers reached France via [Mariembourg](https://pl.wikipedia.org/wiki/Mariembourg). From there they were taken to Le Havre and then by sea to Ostend, from where they rejoined the Belgian army in [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia).
+The only line of retreat was the region between the Sambre and the Meuse, to the south. On the night of 23–24 August the Belgian column marched on, harassed by the Germans from the rear and the flank. Its rearguard was surrounded at [Ermeton-sur-Biert](https://pl.wikipedia.org/wiki/Ermeton-sur-Biert), but about 12,000 soldiers reached France via [Mariembourg](https://pl.wikipedia.org/wiki/Mariembourg). From there they were taken to Le Havre and then by sea to Ostend, from where they rejoined the Belgian army in [Antwerp](/miejsca/antwerpia).
 
 ## Losses
 

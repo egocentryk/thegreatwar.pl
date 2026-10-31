@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-23 lutego 1915 roku do zatoki [Mudros](https://pl.wikipedia.org/wiki/Mudros) na wyspie [Lemnos](https://pl.wikipedia.org/wiki/Limnos) przypłynęły transportowce z dwoma batalionami brytyjskiej piechoty morskiej, z Plymouth i z Chatham. Dowodził nimi generał brygady C.N. Trotman. Lemnos, położony na północy [Morza Egejskiego](https://pl.wikipedia.org/wiki/Morze_Egejskie), około 50 kilometrów od wejścia do [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele), stał się wysuniętą bazą floty, która od czterech dni [atakowała forty u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
+23 lutego 1915 roku do zatoki [Mudros](/miejsca/mudros) na wyspie [Lemnos](https://pl.wikipedia.org/wiki/Limnos) przypłynęły transportowce z dwoma batalionami brytyjskiej piechoty morskiej, z Plymouth i z Chatham. Dowodził nimi generał brygady C.N. Trotman. Lemnos, położony na północy [Morza Egejskiego](https://pl.wikipedia.org/wiki/Morze_Egejskie), około 50 kilometrów od wejścia do [Dardaneli](/miejsca/dardanele), stał się wysuniętą bazą floty, która od czterech dni [atakowała forty u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
 
 ## Wyspa neutralnego państwa
 

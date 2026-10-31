@@ -2,14 +2,14 @@
 title: Austro-Hungarian raid on Durrës
 summary: On 29 December 1915 the cruiser Helgoland and five destroyers raided Durrës. Two destroyers sank on mines and the rest barely escaped pursuit.
 source: austro-wegierski-rajd-na-durres
-sourceHash: 53b07d7edbe99bbd870ea0a873b28ae012f00986
+sourceHash: 068dfae3af9e0d3f08fda2a5773b34e2d5236dc0
 ---
 
 On 29 December 1915 the Austro-Hungarian light cruiser [SMS *Helgoland*](https://pl.wikipedia.org/wiki/SMS_Helgoland_(1912)) and five [*Tátra*-class](https://pl.wikipedia.org/wiki/Niszczyciele_typu_Tátra) destroyers again raided the Albanian port of [Durrës](https://pl.wikipedia.org/wiki/Durrës). The [previous raid](/austro-wegierska-eskadra-ostrzeliwuje-durres), on 6 December, had cost the Entente only a few sailing vessels. This time the Italians, who had [occupied the town a few days earlier](/wlosi-obsadzaja-durres), already had batteries on the hills and a minefield off the port. The Austrians sank a steamer and two sailing vessels in the roadstead, and during the night on their way the French submarine *Monge*, but two of their destroyers, *Lika* and *Triglav*, ran onto mines. *Lika* sank at once. The damaged *Triglav* had to be abandoned after several hours under tow. The rest of the force was chased until dusk by British and Italian cruisers from [Brindisi](https://pl.wikipedia.org/wiki/Brindisi).
 
 ## A slow alarm
 
-The British official history describes in detail how Brindisi reacted to the news of the raid. The first report was inaccurate. An Italian officer who came aboard the British cruiser HMS *Dartmouth* in the morning spoke of Austrian destroyers off Vlorë. Only just before putting to sea did *Dartmouth*'s commander, Captain Addison, learn that Durrës was meant. He did not wait for the French destroyers, which did not yet have steam up, but sailed with the Italian cruiser [*Quarto*](https://pl.wikipedia.org/wiki/Quarto_(1911)) and decided to place himself between the Austrians and their base at [Kotor](https://pl.wikipedia.org/wiki/Kotor).
+The British official history describes in detail how Brindisi reacted to the news of the raid. The first report was inaccurate. An Italian officer who came aboard the British cruiser HMS *Dartmouth* in the morning spoke of Austrian destroyers off Vlorë. Only just before putting to sea did *Dartmouth*'s commander, Captain Addison, learn that Durrës was meant. He did not wait for the French destroyers, which did not yet have steam up, but sailed with the Italian cruiser [*Quarto*](https://pl.wikipedia.org/wiki/Quarto_(1911)) and decided to place himself between the Austrians and their base at [Kotor](/miejsca/kotor).
 
 The second force sailed later. The Italian vice-admiral commanding at Brindisi, Emanuele Cutinelli Rendina, preferred to wait for more reliable news. Captain D. B. Crampton of the cruiser HMS *Weymouth* went across to his flagship and asked for permission to sail. Only after 9 a.m., when a report came in that the Austrians were still off Durrës, did the admiral send Rear-Admiral Belleni to sea with the cruiser *Nino Bixio*, *Weymouth* and four destroyers. The British believed afterwards that had Belleni turned at once towards the coast, as Addison had, the action would have begun at least two hours earlier.
 

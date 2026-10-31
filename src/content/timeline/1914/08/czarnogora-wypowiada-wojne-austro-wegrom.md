@@ -26,7 +26,7 @@ Kilka dni później Czarnogóra wypowiedziała wojnę także Niemcom. Miało to 
 
 ## Działa nad Zatoką Kotorską
 
-Choć czarnogórska armia liczyła zaledwie kilkadziesiąt tysięcy ludzi i była słabo uzbrojona, kraj miał jeden ważny atut: położenie. Góra Lovćen wznosiła się bezpośrednio nad [Zatoką Kotorską](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), gdzie mieściła się najważniejsza baza austro-węgierskiej floty na południowym Adriatyku. Czarnogórska artyleria ustawiona na zboczach Lovćenu mogła ostrzeliwać port w [Kotorze](https://pl.wikipedia.org/wiki/Kotor) i umocnienia wokół zatoki.
+Choć czarnogórska armia liczyła zaledwie kilkadziesiąt tysięcy ludzi i była słabo uzbrojona, kraj miał jeden ważny atut: położenie. Góra Lovćen wznosiła się bezpośrednio nad [Zatoką Kotorską](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), gdzie mieściła się najważniejsza baza austro-węgierskiej floty na południowym Adriatyku. Czarnogórska artyleria ustawiona na zboczach Lovćenu mogła ostrzeliwać port w [Kotorze](/miejsca/kotor) i umocnienia wokół zatoki.
 
 Austro-Węgry odpowiedziały ostrzałem czarnogórskiego wybrzeża, w tym portu w [Barze](https://pl.wikipedia.org/wiki/Bar_(Czarnogóra)), nazywanym wówczas Antivari. 16 sierpnia w pobliżu tego portu francuska flota zatopiła austro-węgierski krążownik [SMS Zenta](https://pl.wikipedia.org/wiki/SMS_Zenta). Jesienią 1914 roku oddziały czarnogórskie, dowodzone między innymi przez generała [Janka Vukoticia](https://pl.wikipedia.org/wiki/Janko_Vukotić), wspólnie z Serbami wkroczyły do wschodniej [Hercegowiny](https://pl.wikipedia.org/wiki/Hercegowina) i Bośni.
 

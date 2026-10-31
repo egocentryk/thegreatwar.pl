@@ -28,7 +28,7 @@ Niemcy były jednym z gwarantów belgijskiej neutralności, zapisanej w [traktac
 
 Tego samego dnia król [Albert I](/postacie/albert-i) przemówił do zgromadzonego parlamentu. Wezwał Belgów do jedności i obrony kraju. Rząd zerwał stosunki dyplomatyczne z Niemcami i zwrócił się o pomoc do mocarstw gwarantujących neutralność Belgii: Wielkiej Brytanii, Francji i Rosji.
 
-Belgijska armia, niewielka i niedostatecznie przygotowana, przystąpiła do obrony. Jej pierwszym punktem oporu stała się twierdza [Liège](https://pl.wikipedia.org/wiki/Liège), otoczona pierścieniem fortów na brzegach [Mozy](https://pl.wikipedia.org/wiki/Moza). Niemcy spodziewali się, że zdobędą ją w ciągu kilku dni.
+Belgijska armia, niewielka i niedostatecznie przygotowana, przystąpiła do obrony. Jej pierwszym punktem oporu stała się twierdza [Liège](https://pl.wikipedia.org/wiki/Liège), otoczona pierścieniem fortów na brzegach [Mozy](/miejsca/moza). Niemcy spodziewali się, że zdobędą ją w ciągu kilku dni.
 
 ## Znaczenie
 

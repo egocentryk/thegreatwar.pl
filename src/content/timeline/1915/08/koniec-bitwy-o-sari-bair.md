@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-O świcie 10 sierpnia 1915 roku turecka piechota przelała się przez szczyt Chunuk Bair na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) i zmiotła brytyjskie bataliony, które dzień wcześniej zluzowały na jego zboczu wyniszczonych Nowozelandczyków. Natarcie przygotował i poprowadził pułkownik [Mustafa Kemal](/postacie/mustafa-kemal), od wieczora 8 sierpnia dowódca tureckich wojsk na północ od zatoki Anzac. Do południa sprzymierzeni stracili wszystko, co zdobyli na grzbiecie Sari Bair od 8 sierpnia, poza okopami na niższym grzbiecie Rhododendron. Na tym dniu brytyjska historia oficjalna kończy czterodniową bitwę o Sari Bair, w której ważyły się losy całej kampanii.
+O świcie 10 sierpnia 1915 roku turecka piechota przelała się przez szczyt Chunuk Bair na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska) i zmiotła brytyjskie bataliony, które dzień wcześniej zluzowały na jego zboczu wyniszczonych Nowozelandczyków. Natarcie przygotował i poprowadził pułkownik [Mustafa Kemal](/postacie/mustafa-kemal), od wieczora 8 sierpnia dowódca tureckich wojsk na północ od zatoki Anzac. Do południa sprzymierzeni stracili wszystko, co zdobyli na grzbiecie Sari Bair od 8 sierpnia, poza okopami na niższym grzbiecie Rhododendron. Na tym dniu brytyjska historia oficjalna kończy czterodniową bitwę o Sari Bair, w której ważyły się losy całej kampanii.
 
 ## Zmiana warty
 

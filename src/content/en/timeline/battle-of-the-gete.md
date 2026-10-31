@@ -2,7 +2,7 @@
 title: Battle of the Gete
 summary: On 18 August 1914 the Belgian army faced the Germans on the Gete. Threatened with encirclement, King Albert I ordered a retreat to the fortress of Antwerp.
 source: bitwa-nad-gete
-sourceHash: 6f5369c8774f7b6a2a7c0bd0edd9728bbaf98d3d
+sourceHash: b00e1f1265a9a54a8bac59b109ff51701a80084f
 brief:
   - "On 18 August 1914, on the river Gete east of Brussels, the Belgian army clashed with the main forces of the German 1st Army. The fighting lasted until 19 August."
   - "After the fall of Liège the Belgians held a line from Tienen to Jodoigne to cover the capital and wait for French and British troops, but the overwhelming German superiority threatened them with encirclement."
@@ -34,4 +34,4 @@ The decision meant giving up Brussels without a fight. The King judged, however,
 
 ## What came next
 
-At dawn on 19 August the rearguard of the 3rd Division fought a hard action at Aarschot against the German II Corps. It became clear that the Germans were outflanking the Belgian left, the line of the Dyle became untenable, and the army made straight for [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia). It reached the fortress on 20 August without being seriously troubled by the enemy. That same day the Germans entered Brussels. From the fortress the Belgian army threatened the flank and rear of the Germans marching on France, tying down considerable forces that they later lacked on the Marne. Antwerp held out until October, and after its fall the Belgian army fought on along the Yser.
+At dawn on 19 August the rearguard of the 3rd Division fought a hard action at Aarschot against the German II Corps. It became clear that the Germans were outflanking the Belgian left, the line of the Dyle became untenable, and the army made straight for [Antwerp](/miejsca/antwerpia). It reached the fortress on 20 August without being seriously troubled by the enemy. That same day the Germans entered Brussels. From the fortress the Belgian army threatened the flank and rear of the Germans marching on France, tying down considerable forces that they later lacked on the Marne. Antwerp held out until October, and after its fall the Belgian army fought on along the Yser.

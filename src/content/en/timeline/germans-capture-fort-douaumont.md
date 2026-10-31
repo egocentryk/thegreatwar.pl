@@ -2,10 +2,10 @@
 title: Germans capture Fort Douaumont
 summary: On 25 February 1916 a few dozen Brandenburgers walked without a shot into Fort Douaumont, the largest fort of Verdun, held by a handful of Frenchmen.
 source: niemcy-zdobywaja-fort-douaumont
-sourceHash: 788ec2181658e679e3beec4712edad1f878d4f3b
+sourceHash: 4500e318b19cefa5fde6e8643ab5a0f7b5b0c451
 ---
 
-On 25 February 1916, the fifth day of the [battle of Verdun](/poczatek-bitwy-pod-verdun), soldiers of the Brandenburg 24th Infantry Regiment entered Fort Douaumont, the largest and highest-lying fort in the ring of fortifications around [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). The stronghold, which the Germans regarded as one of the strongest in the world, fell without a single shot, because it was defended by only about sixty French soldiers, sheltering from the bombardment in its underground galleries. In Germany the news was received as a great victory, in France as a shock. That same day, however, the French command decided to defend the right bank of the [Meuse](https://pl.wikipedia.org/wiki/Moza), and that night General [Philippe Pétain](/postacie/philippe-petain) took over the defence of Verdun.
+On 25 February 1916, the fifth day of the [battle of Verdun](/poczatek-bitwy-pod-verdun), soldiers of the Brandenburg 24th Infantry Regiment entered Fort Douaumont, the largest and highest-lying fort in the ring of fortifications around [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). The stronghold, which the Germans regarded as one of the strongest in the world, fell without a single shot, because it was defended by only about sixty French soldiers, sheltering from the bombardment in its underground galleries. In Germany the news was received as a great victory, in France as a shock. That same day, however, the French command decided to defend the right bank of the [Meuse](/miejsca/moza), and that night General [Philippe Pétain](/postacie/philippe-petain) took over the defence of Verdun.
 
 ## A fort without guns
 

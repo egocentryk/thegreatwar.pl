@@ -2,14 +2,14 @@
 title: Last meeting of the War Council
 summary: On 14 May 1915 the British War Council discussed the deadlock at Gallipoli. Kitchener blamed the navy and Fisher snapped. It was the council's last meeting.
 source: ostatnie-posiedzenie-rady-wojennej
-sourceHash: 675831ec52320b9ccf7d617847af9f22ab49169f
+sourceHash: 82c060ff7b50f603a6d4394b64b2854d90db0d8b
 ---
 
 On 14 May 1915 the British War Council met in London. This cabinet committee had since November 1914 taken the most important strategic decisions, including those on the [attack on the Dardanelles](/rada-wojenna-decyduje-o-ataku-na-dardanele). Its members had not met since 19 March, the day after the fleet's failed attempt to force the straits. In those eight weeks the war at the Dardanelles had changed its character, yet no one had discussed this in the council. The meeting of 14 May turned out to be its last.
 
 ## Deadlock
 
-The situation was grim. The troops of General [Ian Hamilton](/postacie/ian-hamilton), landed on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula on 25 April, were stuck. At Cape Helles the [Second Battle of Krithia](/koniec-drugiej-bitwy-o-kritie) had ended with a few hundred metres of ground gained, and the Australians and New Zealanders were pinned in a cramped bridgehead at Anzac Cove. On 10 May Hamilton reported that with two additional divisions he could push forward with good prospects of success. The Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), thought this too little. Meanwhile the Admiralty forbade Admiral de Robeck to make another attempt to force the straits with ships alone until the army had taken the heights above the Narrows.
+The situation was grim. The troops of General [Ian Hamilton](/postacie/ian-hamilton), landed on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula on 25 April, were stuck. At Cape Helles the [Second Battle of Krithia](/koniec-drugiej-bitwy-o-kritie) had ended with a few hundred metres of ground gained, and the Australians and New Zealanders were pinned in a cramped bridgehead at Anzac Cove. On 10 May Hamilton reported that with two additional divisions he could push forward with good prospects of success. The Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), thought this too little. Meanwhile the Admiralty forbade Admiral de Robeck to make another attempt to force the straits with ships alone until the army had taken the heights above the Narrows.
 
 On 12 May the Admiralty also sent an order recalling home the strongest ship of the expedition, the super-dreadnought [*Queen Elizabeth*](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)). During the night of 12–13 May a Turkish destroyer [sank the battleship *Goliath* at the entrance to the straits](/zatopienie-pancernika-goliath), and German U-boats were on their way to the Mediterranean. On the Western Front the [attack at Aubers](/brytyjczycy-atakuja-grzbiet-aubers) had ended on 9 May in a bloody defeat, and on the morning of 14 May [*The Times*](https://pl.wikipedia.org/wiki/The_Times) wrote that the British had run short of high-explosive shells. From Russia, which was retreating in Galicia after its [defeat at Gorlice](/koniec-bitwy-pod-gorlicami), came on 12 May a request from the Russian headquarters for a quick decision at the Dardanelles.
 

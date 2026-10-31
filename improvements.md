@@ -2640,6 +2640,46 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 50. "Miejsca", batch 2: eight places (2026-10-31)
+
+- Owner approved the pilot (text, layout, "Wspomniane w kronice" as is).
+- Eight place pages, PL/EN, `topics.py --places` 0 problems (copy check
+  included), four writers: Gorycja (656 words, 16 internal links), Triest
+  (653, 19), Antwerpia (730, 17), Amiens (685, 22), Moza (669, 20; the
+  first river page), Kotor (672, 14), Dardanele (763, 22), Mudros (667, 20).
+  13 places in all.
+- No page where a campaign page tells the place's war (the rule of §49):
+  ALIASES `Kras_(płaskowyż)` → `bitwy-nad-isonzo` (most of its articles
+  already linked the campaign) and `Gallipoli_(półwysep)` →
+  `kampania-gallipolijska` (date rule: links before 19 II 1915 keep
+  pl.wiki).
+- Links: 325 now ours (Dardanele 41, Gallipoli 40, Gorycja 37, Moza 36,
+  Mudros 35, Kotor 33, Triest 31, Antwerpia 31, Amiens 31, Isonzo 10);
+  267 files, English restamped. Report: 25,227 → 24,904.
+- `PlacePage.astro`: English names for "Czarnogóra" and "Francja i Belgia".
+- Checks: places, guides, countries, series, year intros 0; i18n 0;
+  typecheck 0 errors; build 7981 pages; pages checked at 390px.
+
+### Writers' notes (for the review list)
+
+- `1917/10/upadek-gorycji-i-udine`: "włoski VIII Korps" → "Korpus" (the
+  Gorycja evidence quotes the sentence: fix both together).
+- Amiens 1914: `niemcy-wkraczaja-do-amiens` (free on 11 IX) vs
+  `francuzi-odzyskuja-soissons-i-amiens` (garrison left 11 IX, French in
+  12 IX, British chronology 13 IX); the place page gives the three steps.
+- Lemnos: `brytyjczycy-zajmuja-lemnos` and `kitchener-przybywa-nad-dardanele`
+  call Mudros the main base; Stanley: Imbros was the army's main base,
+  Mudros the fleet's and the rear base (the place page says so).
+- Belgian civilians killed in 1914: ~6,500 (`armia-belgijska-wycofuje-sie-do-antwerpii`)
+  vs ~5,500 (europa.blog); Antwerp's interned soldiers 30,000 (`belgia`)
+  vs 40,000 (1914-1918-online), the page says 30–40 thousand.
+- Sources differing from our articles, our date kept: German troops into
+  Antwerp 9 X (blog: 10 X); Gorizia taken 9 VIII (Edmonds: by 8 VIII);
+  shelling of Gorizia from 18 XI 1915 (town guide: 17 XI); U-21 to Cattaro
+  (uboat.net: Pola).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2744,7 +2784,8 @@ finished, tick it here and add its section above.
 - [x] "Polskie formacje wojskowe": 6 gap articles and a topic guide, PL/EN (§47)
 - [x] Wikipedia links, step 1: country pages, guides and 7 events take 660 links (§48)
 - [x] Wikipedia links: "Miejsca" section and pilot of 5 places, 316 links (§49)
-- [ ] Wikipedia links: owner's verdict on the places pilot, then batches; "Siły zbrojne" pilot (3); deeper glossary terms (expansion-plan.md C)
+- [x] Wikipedia links: "Miejsca" batch 2, eight places, 325 links (§50)
+- [ ] Wikipedia links: more place batches; "Siły zbrojne" pilot (3); deeper glossary terms (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

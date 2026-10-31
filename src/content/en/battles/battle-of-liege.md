@@ -9,14 +9,14 @@ sides:
     commanders: [Gérard Leman]
 result: German victory. The last forts fell on 16 and 17 August.
 source: bitwa-pod-liege
-sourceHash: 59f91b865ea210e6200d5ecf24847481c8b6ac48
+sourceHash: 3ac108287b4e409e2d2a0a1bcdb1f72b30dd0b21
 ---
 
 The [Battle of Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) was the first major engagement on the Western Front. It began on 4 August 1914, the day of the German invasion of [Belgium](/kraje/belgia), and lasted until 16–17 August, when the last Belgian forts fell.
 
 ## A fortress on the road to France
 
-[Liège](https://pl.wikipedia.org/wiki/Liège) lay in the valley of the [Meuse](https://pl.wikipedia.org/wiki/Moza), on the main road leading from Germany into the heart of Belgium, in a narrow corridor between the Dutch border and the Ardennes. This was the way the right, strongest part of the German army had to pass, which under the Schlieffen Plan was to encircle the French army. The city was protected by a ring of twelve forts designed at the end of the 19th century by the Belgian engineer [Henri Brialmont](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont). They were concrete, partly underground fortifications placed a few kilometres from the city centre. The [fortress of Liège](https://pl.wikipedia.org/wiki/Twierdza_Liège) was considered one of the most modern in Europe.
+[Liège](https://pl.wikipedia.org/wiki/Liège) lay in the valley of the [Meuse](/miejsca/moza), on the main road leading from Germany into the heart of Belgium, in a narrow corridor between the Dutch border and the Ardennes. This was the way the right, strongest part of the German army had to pass, which under the Schlieffen Plan was to encircle the French army. The city was protected by a ring of twelve forts designed at the end of the 19th century by the Belgian engineer [Henri Brialmont](https://pl.wikipedia.org/wiki/Henri_Alexis_Brialmont). They were concrete, partly underground fortifications placed a few kilometres from the city centre. The [fortress of Liège](https://pl.wikipedia.org/wiki/Twierdza_Liège) was considered one of the most modern in Europe.
 
 The Germans did not intend to conduct a long siege. A special force of six brigades under General [Otto von Emmich](https://pl.wikipedia.org/wiki/Otto_von_Emmich) was to take the city with a swift blow before the Belgians could prepare it for defence. The defence was directed by General Gérard Leman.
 

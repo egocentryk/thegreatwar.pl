@@ -46,4 +46,4 @@ Tego dnia na całym froncie bitew granicznych, w Ardenach, nad Sambrą i w Lotar
 
 ## Co dalej
 
-Joffre nakazał wznowić natarcie następnego dnia, ale armie nie były do tego zdolne. 23 sierpnia Niemcy uprzedzili Francuzów i do wieczora resztki 3 i 4 Armii cofnęły się na pozycje wyjściowe, a wkrótce zaczęły wycofywać się za [Mozę](https://pl.wikipedia.org/wiki/Moza). Brytyjska historia oficjalna zauważała, że klęska byłaby jeszcze większa, gdyby nie przedwczesna próba okrążenia podjęta przez następcę tronu. Porażka w Ardenach, razem z klęskami pod Charleroi i Mons, zmusiła wojska sprzymierzone do wielkiego odwrotu.
+Joffre nakazał wznowić natarcie następnego dnia, ale armie nie były do tego zdolne. 23 sierpnia Niemcy uprzedzili Francuzów i do wieczora resztki 3 i 4 Armii cofnęły się na pozycje wyjściowe, a wkrótce zaczęły wycofywać się za [Mozę](/miejsca/moza). Brytyjska historia oficjalna zauważała, że klęska byłaby jeszcze większa, gdyby nie przedwczesna próba okrążenia podjęta przez następcę tronu. Porażka w Ardenach, razem z klęskami pod Charleroi i Mons, zmusiła wojska sprzymierzone do wielkiego odwrotu.

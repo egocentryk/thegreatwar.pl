@@ -2,10 +2,10 @@
 title: Order to evacuate Cape Helles
 summary: On 28 December 1915 the order to evacuate Cape Helles, the last British bridgehead on the Gallipoli peninsula, reached the Dardanelles.
 source: rozkaz-ewakuacji-przyladka-helles
-sourceHash: 19b06222b6f2dfbec6cd008bacf1963c4d6246fd
+sourceHash: 47b3c5a407ba1d61f6a3dc63c97ba065995a0a2a
 ---
 
-On 28 December 1915 a telegram from London reached General Charles Monro's headquarters at Mudros on [Lemnos](https://pl.wikipedia.org/wiki/Limnos), one the troops at the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) had been awaiting for a week: "The Government have decided that the Helles position may now be evacuated. The withdrawal is to be carried out as soon as possible, but entirely at your discretion." The Cabinet had decided by 27 December at the latest, because on that day the First Lord of the Admiralty, [Arthur Balfour](/postacie/arthur-balfour), confidentially informed the fleet commander, Admiral John de Robeck. After the [evacuation of Suvla and Anzac](/koniec-ewakuacji-suvli-i-anzac), the cape at the southern tip of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula was the last patch of ground the British and French held there.
+On 28 December 1915 a telegram from London reached General Charles Monro's headquarters at Mudros on [Lemnos](https://pl.wikipedia.org/wiki/Limnos), one the troops at the [Dardanelles](/miejsca/dardanele) had been awaiting for a week: "The Government have decided that the Helles position may now be evacuated. The withdrawal is to be carried out as soon as possible, but entirely at your discretion." The Cabinet had decided by 27 December at the latest, because on that day the First Lord of the Admiralty, [Arthur Balfour](/postacie/arthur-balfour), confidentially informed the fleet commander, Admiral John de Robeck. After the [evacuation of Suvla and Anzac](/koniec-ewakuacji-suvli-i-anzac), the cape at the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula was the last patch of ground the British and French held there.
 
 ## "For the present"
 

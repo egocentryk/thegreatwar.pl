@@ -25,7 +25,7 @@ Stara brytyjska chronologia wojny otwiera bitwę pod Albert 22 września, tego s
 
 ## Wyścig na północ
 
-W drugiej połowie września 1914 roku, po nierozstrzygniętej bitwie nad Aisne, obie strony przerzucały wojska na zachód, by obejść otwarte skrzydło przeciwnika. Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), kierował kolejne korpusy do nowej 2 Armii Castelnau, zbierającej się w okolicach [Amiens](https://pl.wikipedia.org/wiki/Amiens). Gdy jej natarcie na południe od Sommy utknęło, Castelnau przedłużył linię na północ od rzeki i postanowił uderzyć z okolic Albert na wschód.
+W drugiej połowie września 1914 roku, po nierozstrzygniętej bitwie nad Aisne, obie strony przerzucały wojska na zachód, by obejść otwarte skrzydło przeciwnika. Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), kierował kolejne korpusy do nowej 2 Armii Castelnau, zbierającej się w okolicach [Amiens](/miejsca/amiens). Gdy jej natarcie na południe od Sommy utknęło, Castelnau przedłużył linię na północ od rzeki i postanowił uderzyć z okolic Albert na wschód.
 
 Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), miał ten sam zamiar, tylko w przeciwnym kierunku. 6 Armia, przewożona z Lotaryngii, miała uderzyć na zachód, w stronę Amiens i wybrzeża. Francuskie natarcie w Pikardii zmusiło go jednak do skierowania części jej sił na południe od Sommy. Na północ od rzeki nacierały II Bawarski Korpus i XIV Korpus Rezerwowy, wsparte przez kawalerię.
 

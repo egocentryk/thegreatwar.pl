@@ -2,7 +2,7 @@
 title: Britain promises Lemnos to Greece
 summary: On 20 March 1915 London guaranteed that after the war Turkey would cede to Greece the island of Lemnos, where the Allies had set up their Dardanelles base.
 source: wielka-brytania-obiecuje-grecji-lemnos
-sourceHash: 44af860aee0dcb90f48198d93a445e0d6de51c1c
+sourceHash: c2ce96b2b61bb8b2ca85c012dad652101c99a2e1
 ---
 
 On 20 March 1915 the British government guaranteed Greece that in the future peace treaty Turkey would cede to it the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). According to the British Naval Staff monograph, this was a secret guarantee given to the new government of [Dimitrios Gounaris](/postacie/dimitrios-gunaris). It was meant to reassure Athens, which was uneasy that the British had set up the base of the expedition against the Dardanelles on a Greek island, and had [replied on 9 March](/brytyjska-odpowiedz-w-sprawie-lemnos) to Greek questions that military necessity required it.
@@ -15,7 +15,7 @@ The fears were not groundless. In August 1914, when the Entente was trying to ke
 
 ## An irreplaceable base
 
-For the British, good relations with Athens were of particular importance in those days. Two days earlier [the fleet's attack on the Dardanelles forts had broken down](/atak-floty-w-dardanelach-odparty), and it was becoming ever clearer that the Straits could not be taken without land forces. [Mudros](https://pl.wikipedia.org/wiki/Mudros) Bay was the only place nearby where tens of thousands of soldiers and hundreds of ships could assemble. An open dispute with Greece over the island could endanger the whole undertaking.
+For the British, good relations with Athens were of particular importance in those days. Two days earlier [the fleet's attack on the Dardanelles forts had broken down](/atak-floty-w-dardanelach-odparty), and it was becoming ever clearer that the Straits could not be taken without land forces. [Mudros](/miejsca/mudros) Bay was the only place nearby where tens of thousands of soldiers and hundreds of ships could assemble. An open dispute with Greece over the island could endanger the whole undertaking.
 
 The guarantee cost the British nothing. Lemnos had in any case been in Greek hands since 1912, and the Powers had already awarded it to Greece in February 1914. London undertook only that after victory Turkey would finally recognise this state of affairs. In public the British continued to explain their presence on the island by the fact that the Sultan had not ratified the decision of the Powers. *The Times* published a semi-official statement to that effect on 30 March.
 

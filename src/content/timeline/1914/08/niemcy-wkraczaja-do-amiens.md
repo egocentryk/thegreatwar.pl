@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-31 sierpnia 1914 roku, około godziny 8 rano, do [Amiens](https://pl.wikipedia.org/wiki/Amiens), stolicy departamentu Somma, wkroczyły wojska niemieckie. Miasto, ważny węzeł kolejowy północnej Francji, znalazło się na drodze niemieckiego prawego skrzydła maszerującego na Paryż.
+31 sierpnia 1914 roku, około godziny 8 rano, do [Amiens](/miejsca/amiens), stolicy departamentu Somma, wkroczyły wojska niemieckie. Miasto, ważny węzeł kolejowy północnej Francji, znalazło się na drodze niemieckiego prawego skrzydła maszerującego na Paryż.
 
 ## Miasto bez obrony
 

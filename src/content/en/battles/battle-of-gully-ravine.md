@@ -9,10 +9,10 @@ sides:
     commanders: [Otto Liman von Sanders, Erich Weber]
 result: British victory on the western flank. They took five lines of Turkish trenches on Gully Spur and beat off all counter-attacks, but were defeated on Fir Tree Spur.
 source: bitwa-o-wawoz-gully
-sourceHash: 31146efe94a2b8e7907d9edd0cf7791f7621c8a5
+sourceHash: 500291edbd3f6aa0848406412b71ae4587417a1d
 ---
 
-The Battle of Gully Ravine was one of the few successful Allied attacks at Helles, at the southern tip of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. On 28 June 1915 the British 29th Division and the 29th Indian Brigade, supported by the concentrated fire of almost all the artillery, took five lines of Turkish trenches on the coastal ridge of Gully Spur and pushed the western flank of the front a few hundred metres towards Krithia. On the other side of the ravine, on Fir Tree Spur, a Scottish Territorial brigade, deprived of howitzer support, was decimated within minutes. For the following week the Turks, having brought up reinforcements from the whole peninsula, counter-attacked again and again to recover the lost trenches. They suffered heavier losses than in any earlier battle of the campaign and recovered nothing.
+The Battle of Gully Ravine was one of the few successful Allied attacks at Helles, at the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. On 28 June 1915 the British 29th Division and the 29th Indian Brigade, supported by the concentrated fire of almost all the artillery, took five lines of Turkish trenches on the coastal ridge of Gully Spur and pushed the western flank of the front a few hundred metres towards Krithia. On the other side of the ravine, on Fir Tree Spur, a Scottish Territorial brigade, deprived of howitzer support, was decimated within minutes. For the following week the Turks, having brought up reinforcements from the whole peninsula, counter-attacked again and again to recover the lost trenches. They suffered heavier losses than in any earlier battle of the campaign and recovered nothing.
 
 ## Name and dates
 

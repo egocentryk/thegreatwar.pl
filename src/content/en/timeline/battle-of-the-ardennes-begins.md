@@ -2,7 +2,7 @@
 title: Battle of the Ardennes begins
 summary: On 22 August 1914 French armies advancing through the Ardennes ran into strong German forces. It was the bloodiest day in the history of the French army.
 source: poczatek-bitwy-w-ardenach
-sourceHash: 77588d1b82b3ee504af3dc57848684a35788ffd1
+sourceHash: 91085c55e4746d9f2cbd85d4383d5c7121a1b639
 brief:
   - "On 22 August 1914, in the forests of the Ardennes, a battle between two French and two German armies flared up in earnest. The day went down as the bloodiest in the history of the French army."
   - "Joffre believed the German centre in the Ardennes was weak and sent in General Ruffey's Third Army and General de Langle de Cary's Fourth Army. Reconnaissance failed: two strong German armies were advancing."
@@ -32,4 +32,4 @@ That day, along the whole front of the Battles of the Frontiers, in the Ardennes
 
 ## What came next
 
-Joffre ordered the attack to be resumed the next day, but the armies were not capable of it. On 23 August the Germans forestalled the French, and by evening the remnants of the Third and Fourth Armies had fallen back to their starting positions, and soon began withdrawing behind the [Meuse](https://pl.wikipedia.org/wiki/Moza). The British official history observed that the defeat would have been even greater but for the premature attempt at envelopment made by the Crown Prince. The defeat in the Ardennes, together with the defeats at Charleroi and Mons, forced the Allied armies into the Great Retreat.
+Joffre ordered the attack to be resumed the next day, but the armies were not capable of it. On 23 August the Germans forestalled the French, and by evening the remnants of the Third and Fourth Armies had fallen back to their starting positions, and soon began withdrawing behind the [Meuse](/miejsca/moza). The British official history observed that the defeat would have been even greater but for the premature attempt at envelopment made by the Crown Prince. The defeat in the Ardennes, together with the defeats at Charleroi and Mons, forced the Allied armies into the Great Retreat.

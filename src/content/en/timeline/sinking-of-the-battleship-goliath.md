@@ -2,10 +2,10 @@
 title: Sinking of the battleship Goliath
 summary: On the night of 12/13 May 1915 the Turkish destroyer Muavenet-i Milliye crept into the Dardanelles and torpedoed the British battleship Goliath. About 570 died.
 source: zatopienie-pancernika-goliath
-sourceHash: 28c9167610d757142678572f66c5c18e0c8ded70
+sourceHash: bfad11ebedecea43f91f9bfeaa37b173f40c1034
 ---
 
-At about one o'clock in the morning of 13 May 1915 the Turkish destroyer *Muavenet-i Milliye* torpedoed the British battleship *Goliath* in Morto Bay, at the entrance to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). Three torpedoes struck the ship one after another, and within a few minutes she capsized and sank. According to the British official history, of a crew of 750 nearly 570 were killed, among them her commanding officer, Captain Thomas Shelford. The attacker vanished into the darkness and returned to her base without loss.
+At about one o'clock in the morning of 13 May 1915 the Turkish destroyer *Muavenet-i Milliye* torpedoed the British battleship *Goliath* in Morto Bay, at the entrance to the [Dardanelles](/miejsca/dardanele). Three torpedoes struck the ship one after another, and within a few minutes she capsized and sank. According to the British official history, of a crew of 750 nearly 570 were killed, among them her commanding officer, Captain Thomas Shelford. The attacker vanished into the darkness and returned to her base without loss.
 
 ## Night watch off Kereves Dere
 

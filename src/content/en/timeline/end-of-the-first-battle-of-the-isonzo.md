@@ -2,10 +2,10 @@
 title: End of the First Battle of the Isonzo
 summary: On 7 July 1915 Cadorna halted the attacks on the Isonzo. After two weeks the Italians had won only a strip of the Karst at Sagrado, losing some 15,000 men.
 source: koniec-pierwszej-bitwy-nad-isonzo
-sourceHash: b655aa101356da092660f909981cd32ee7b2a188
+sourceHash: 1f08d48e93049c37d699823af0f1bbac415ac09f
 ---
 
-On the evening of 7 July 1915 General [Luigi Cadorna](/postacie/luigi-cadorna) halted all attacks on the [Isonzo](/bitwy/bitwy-nad-isonzo). So ended the First Battle of the Isonzo, which the Italian 2nd and 3rd Armies had [begun](/poczatek-pierwszej-bitwy-nad-isonzo) on 23 June. In reality its outcome had been decided two days earlier. On 5 July both the last great attack on Podgora hill in front of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) and the day-long assaults on the edge of the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau between Polazzo and Redipuglia had collapsed. According to the Austro-Hungarian official history, with the failure of the attack of 5 July the battle was essentially over.
+On the evening of 7 July 1915 General [Luigi Cadorna](/postacie/luigi-cadorna) halted all attacks on the [Isonzo](/bitwy/bitwy-nad-isonzo). So ended the First Battle of the Isonzo, which the Italian 2nd and 3rd Armies had [begun](/poczatek-pierwszej-bitwy-nad-isonzo) on 23 June. In reality its outcome had been decided two days earlier. On 5 July both the last great attack on Podgora hill in front of [Gorizia](/miejsca/gorycja) and the day-long assaults on the edge of the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau between Polazzo and Redipuglia had collapsed. According to the Austro-Hungarian official history, with the failure of the attack of 5 July the battle was essentially over.
 
 ## The last two days
 

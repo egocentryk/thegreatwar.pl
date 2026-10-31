@@ -9,7 +9,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Crown Prince Wilhelm]
 result: German victory. The French suffered very heavy losses and withdrew behind the Meuse.
 source: bitwa-w-ardenach
-sourceHash: 02658b2bf4de701d4ca67d179cdfe4ebd1d8e87a
+sourceHash: c16ab8a2d28730a12c6e540f35b19cce89fb4b26
 ---
 
 The Battle of the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny), fought on 21–24 August 1914, was one of the bloodiest episodes of the [Battle of the Frontiers](/bitwy/bitwa-graniczna). Two French armies, sent through the forests of the [Belgian province of Luxembourg](https://pl.wikipedia.org/wiki/Luksemburg_(prowincja)) to split the German centre, collided with two German armies that were stronger and better prepared. The battle included 22 August, the day on which the French army suffered the heaviest losses in its entire history.
@@ -44,7 +44,7 @@ On the corps' left wing the 5th Colonial Brigade reached [Neufchâteau](https://
 
 ## Retreat
 
-Joffre ordered the attack to be resumed as early as possible on 23 August, since his whole plan depended on the success of the Third and Fourth Armies. Ruffey replied that his divisions first had to reorganise. In the afternoon the Germans forestalled him and pushed the V Corps back several kilometres, and the rest of the army had to fall back level with it. The 5th Colonial Brigade left Neufchâteau before dawn. By evening the remnants of both armies, except the northern wing of the Fourth Army, had fallen back to their starting positions. Langle de Cary ordered a retreat on 24 August to the line of the rivers [Chiers](https://pl.wikipedia.org/wiki/Chiers) and [Meuse](https://pl.wikipedia.org/wiki/Moza).
+Joffre ordered the attack to be resumed as early as possible on 23 August, since his whole plan depended on the success of the Third and Fourth Armies. Ruffey replied that his divisions first had to reorganise. In the afternoon the Germans forestalled him and pushed the V Corps back several kilometres, and the rest of the army had to fall back level with it. The 5th Colonial Brigade left Neufchâteau before dawn. By evening the remnants of both armies, except the northern wing of the Fourth Army, had fallen back to their starting positions. Langle de Cary ordered a retreat on 24 August to the line of the rivers [Chiers](https://pl.wikipedia.org/wiki/Chiers) and [Meuse](/miejsca/moza).
 
 On 24 August Joffre ordered the Fourth Army to withdraw behind the Meuse. The Third Army still tried to counter-attack with its right wing on 24 and 25 August, but the retreat of its left wing forced it to fall back towards the Meuse and Verdun. The British official history observed that the defeat would have been even greater but for the premature attempt to envelop the French made by Crown Prince Wilhelm.
 

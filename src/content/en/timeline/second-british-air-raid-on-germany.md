@@ -2,10 +2,10 @@
 title: Second British air raid on Germany
 summary: On 8 October 1914 RNAS pilot Reginald Marix bombed a shed in Düsseldorf and destroyed the airship Z IX. Spenser Grey failed to find his target at Cologne.
 source: drugi-brytyjski-nalot-na-niemcy
-sourceHash: 4a4c87d7e627cf5b513eafdc578e732e3b5a68d1
+sourceHash: fcae3061c1d23417f982dc41acfd81adbe3f8682
 ---
 
-On 8 October 1914, when [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia) was already close to falling, airmen of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) attacked the German airship bases in the Rhineland for the second time. This time the raid succeeded: one of the pilots destroyed the airship Z IX in its shed at [Düsseldorf](https://pl.wikipedia.org/wiki/Düsseldorf). It was the first [airship](https://pl.wikipedia.org/wiki/Sterowiec) destroyed by an aeroplane.
+On 8 October 1914, when [Antwerp](/miejsca/antwerpia) was already close to falling, airmen of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service) attacked the German airship bases in the Rhineland for the second time. This time the raid succeeded: one of the pilots destroyed the airship Z IX in its shed at [Düsseldorf](https://pl.wikipedia.org/wiki/Düsseldorf). It was the first [airship](https://pl.wikipedia.org/wiki/Sterowiec) destroyed by an aeroplane.
 
 ## A second attempt
 

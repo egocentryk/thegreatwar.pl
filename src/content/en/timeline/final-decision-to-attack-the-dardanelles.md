@@ -2,10 +2,10 @@
 title: Final decision to attack the Dardanelles
 summary: On 28 January 1915 the British War Council finally approved a naval attack on the Dardanelles. Admiral Fisher tried to walk out but gave way.
 source: ostateczna-decyzja-o-ataku-na-dardanele
-sourceHash: c792cbd4a3f2bdd830654f287864b1768f3cec82
+sourceHash: 26fb68199797519dc1af35ec7b3400e655f2ce02
 ---
 
-On 28 January 1915 the British War Council finally resolved that the fleet would attack the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). Two weeks earlier the [Council had instructed the Admiralty to prepare an expedition](/rada-wojenna-decyduje-o-ataku-na-dardanele), but had postponed the decision to launch it. Now that decision was taken. The ships were to force the Straits on their own, without land forces, and reach [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol).
+On 28 January 1915 the British War Council finally resolved that the fleet would attack the [Dardanelles](/miejsca/dardanele). Two weeks earlier the [Council had instructed the Admiralty to prepare an expedition](/rada-wojenna-decyduje-o-ataku-na-dardanele), but had postponed the decision to launch it. Now that decision was taken. The ships were to force the Straits on their own, without land forces, and reach [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol).
 
 ## Fisher's opposition
 

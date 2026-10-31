@@ -2,10 +2,10 @@
 title: Kitchener leaves for the Dardanelles
 summary: On the night of 4/5 November 1915 Lord Kitchener left London to decide the fate of Gallipoli on the spot. Asquith took charge of the War Office.
 source: kitchener-wyjezdza-nad-dardanele
-sourceHash: adf2ba7090479c56e2e2e49b8c57faf8cd329276
+sourceHash: 4812baf652620d2049a38cc7637079417f7fc490
 ---
 
-On the night of 4/5 November 1915 the British Secretary of State for War, Lord [Herbert Kitchener](/postacie/horatio-kitchener), left London for Paris, the first stage of his journey to the Mediterranean. The day before, the new [War Committee](/pierwsze-posiedzenie-komitetu-wojennego) had decided that it could not yet accept the advice of General Charles Monro, who [on 31 October had recommended the evacuation](/charles-monro-obejmuje-dowodztwo-na-gallipoli) of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. The ministers asked Kitchener to go out himself and assess the whole situation in the Near East, including the defence of [Egypt](https://pl.wikipedia.org/wiki/Egipt). The British official history of the naval campaign points out that the matter called for a broader view than one general's purely military assessment, because evacuation was just as much a political problem.
+On the night of 4/5 November 1915 the British Secretary of State for War, Lord [Herbert Kitchener](/postacie/horatio-kitchener), left London for Paris, the first stage of his journey to the Mediterranean. The day before, the new [War Committee](/pierwsze-posiedzenie-komitetu-wojennego) had decided that it could not yet accept the advice of General Charles Monro, who [on 31 October had recommended the evacuation](/charles-monro-obejmuje-dowodztwo-na-gallipoli) of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. The ministers asked Kitchener to go out himself and assess the whole situation in the Near East, including the defence of [Egypt](https://pl.wikipedia.org/wiki/Egipt). The British official history of the naval campaign points out that the matter called for a broader view than one general's purely military assessment, because evacuation was just as much a political problem.
 
 ## A minister who feared evacuation
 

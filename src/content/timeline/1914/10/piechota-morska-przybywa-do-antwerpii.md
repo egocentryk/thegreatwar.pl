@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-3 października 1914 roku do oblężonej [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia) przyjechał pierwszy lord Admiralicji [Winston Churchill](/postacie/winston-churchill), a w nocy z 3 na 4 października dotarły tam pierwsze brytyjskie posiłki. Była to Brygada Piechoty Morskiej, złożona z żołnierzy [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines). Jej przybycie miało przekonać Belgów, że warto bronić twierdzy jeszcze kilka dni.
+3 października 1914 roku do oblężonej [Antwerpii](/miejsca/antwerpia) przyjechał pierwszy lord Admiralicji [Winston Churchill](/postacie/winston-churchill), a w nocy z 3 na 4 października dotarły tam pierwsze brytyjskie posiłki. Była to Brygada Piechoty Morskiej, złożona z żołnierzy [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines). Jej przybycie miało przekonać Belgów, że warto bronić twierdzy jeszcze kilka dni.
 
 ## Belgowie szykują się do ewakuacji
 

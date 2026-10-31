@@ -18,7 +18,7 @@ draft: false
 
 Od zakończenia [drugiej bitwy nad Isonzo](/bitwy/druga-bitwa-nad-isonzo) w sierpniu Włosi uzupełniali wykrwawione dywizje i gromadzili artylerię. Cadorna uznał, że wcześniejsze natarcia załamały się przede wszystkim z braku ciężkich dział i amunicji. Z twierdz w Weronie i Wenecji, z umocnień nad Tagliamento i z frontu tyrolskiego ściągnięto ciężkie baterie, nadeszły francuskie haubice i działa okrętowe. Według włoskiej historii oficjalnej, na którą powołuje się austriacka, 2 i 3 Armia oraz odwód naczelnego dowództwa miały razem 338 batalionów i 1372 działa, w tym 305 ciężkich i średnich. Inne opracowania podają około 1200–1250 dział. Do 17 października zgromadzono milion pocisków. Piechota dostała więcej karabinów maszynowych, ciężkie moździerze okopowe, stalowe hełmy i tarcze.
 
-Paryż i Londyn naciskały na Włochów, by jak najszybciej zaatakowali i odciążyli Serbię, na którą 6 października [uderzyły państwa centralne](/panstwa-centralne-atakuja-serbie). Cadorna nie chciał jednak zaczynać, zanim zgromadzi amunicję. Liczyła się też polityka w kraju. Po pięciu miesiącach wojny zapał wyraźnie opadł, w okręgach przemysłowych wybuchały strajki, a opinia publiczna czekała na zdobycie [Gorycji](https://pl.wikipedia.org/wiki/Gorycja).
+Paryż i Londyn naciskały na Włochów, by jak najszybciej zaatakowali i odciążyli Serbię, na którą 6 października [uderzyły państwa centralne](/panstwa-centralne-atakuja-serbie). Cadorna nie chciał jednak zaczynać, zanim zgromadzi amunicję. Liczyła się też polityka w kraju. Po pięciu miesiącach wojny zapał wyraźnie opadł, w okręgach przemysłowych wybuchały strajki, a opinia publiczna czekała na zdobycie [Gorycji](/miejsca/gorycja).
 
 ## Plan i siły
 

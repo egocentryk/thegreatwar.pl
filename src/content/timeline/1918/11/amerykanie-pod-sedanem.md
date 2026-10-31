@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje pod 6 listopada 1918 roku, że wojska amerykańskie zdobyły [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)). Tak się nie stało. Tego dnia oddziały amerykańskiej 1 Armii, ścigając cofających się Niemców, doszły nad [Mozę](https://pl.wikipedia.org/wiki/Moza) kilka kilometrów od miasta. Po południu batalion 77 Dywizji zajął leżące nad rzeką Remilly, a 42 Dywizja podchodziła do Sedanu od południa. Nazajutrz Amerykanie zdobyli wzgórza górujące nad miastem i linią kolejową Metz–Sedan–Mézières, główny cel całej ofensywy. Do Sedanu nie weszli. Zdecydowało o tym naczelne dowództwo sprzymierzonych, a sam marsz na miasto zamienił się w jeden z najbardziej chaotycznych epizodów w dziejach armii amerykańskiej w tej wojnie.
+Brytyjska chronologia wojny podaje pod 6 listopada 1918 roku, że wojska amerykańskie zdobyły [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)). Tak się nie stało. Tego dnia oddziały amerykańskiej 1 Armii, ścigając cofających się Niemców, doszły nad [Mozę](/miejsca/moza) kilka kilometrów od miasta. Po południu batalion 77 Dywizji zajął leżące nad rzeką Remilly, a 42 Dywizja podchodziła do Sedanu od południa. Nazajutrz Amerykanie zdobyli wzgórza górujące nad miastem i linią kolejową Metz–Sedan–Mézières, główny cel całej ofensywy. Do Sedanu nie weszli. Zdecydowało o tym naczelne dowództwo sprzymierzonych, a sam marsz na miasto zamienił się w jeden z najbardziej chaotycznych epizodów w dziejach armii amerykańskiej w tej wojnie.
 
 ## Wyścig do Sedanu
 

@@ -2,10 +2,10 @@
 title: Liman von Sanders takes command at the Dardanelles
 summary: At the end of March 1915 Enver Pasha gave General Otto Liman von Sanders the new 5th Army, tasked with defending the Dardanelles and the Gallipoli peninsula.
 source: liman-von-sanders-dowodca-nad-dardanelami
-sourceHash: 232c2b110fc610f09431c54d497ed698d714dded
+sourceHash: b686de5edafa781bfd5710c0d9af4a7e461144f8
 ---
 
-A British chronology of the war records under 25 March 1915 that General [Otto Liman von Sanders](/postacie/otto-liman-von-sanders) took command of the Turkish-German forces at the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). The Turks gathered all the units defending the straits into a single army, the 5th Army, and entrusted it to the German general. The dates in the sources differ slightly. According to Liman's memoirs, the War Minister [Enver Pasha](/postacie/enver-pasza) came to him late in the afternoon of 24 March and asked whether he would take over the new army. Liman agreed at once. Elsewhere in the same memoirs, however, he gives 25 March as the day of Enver's decision. Turkish sources hold that the 5th Army was formed on 24 March. On the evening of 25 March Liman sailed from Constantinople, and on the morning of 26 March he landed at the port of [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(miasto_w_Turcji)).
+A British chronology of the war records under 25 March 1915 that General [Otto Liman von Sanders](/postacie/otto-liman-von-sanders) took command of the Turkish-German forces at the [Dardanelles](/miejsca/dardanele). The Turks gathered all the units defending the straits into a single army, the 5th Army, and entrusted it to the German general. The dates in the sources differ slightly. According to Liman's memoirs, the War Minister [Enver Pasha](/postacie/enver-pasza) came to him late in the afternoon of 24 March and asked whether he would take over the new army. Liman agreed at once. Elsewhere in the same memoirs, however, he gives 25 March as the day of Enver's decision. Turkish sources hold that the 5th Army was formed on 24 March. On the evening of 25 March Liman sailed from Constantinople, and on the morning of 26 March he landed at the port of [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(miasto_w_Turcji)).
 
 ## A German general in the Turkish army
 

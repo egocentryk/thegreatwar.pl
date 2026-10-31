@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 października 1914 roku, w czasie oblężenia [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), wojska niemieckie ponownie zajęły [Dendermonde](https://pl.wikipedia.org/wiki/Dendermonde) (fr. Termonde). Miasto leży nad [Skaldą](https://pl.wikipedia.org/wiki/Skalda), w miejscu, gdzie wpada do niej rzeka [Dender](https://pl.wikipedia.org/wiki/Dender), około 25–30 kilometrów na południowy zachód od Antwerpii. Od początku września przechodziło z rąk do rąk, a w chwili ponownego wkroczenia Niemców było już w dużej części spaloną ruiną.
+2 października 1914 roku, w czasie oblężenia [Antwerpii](/miejsca/antwerpia), wojska niemieckie ponownie zajęły [Dendermonde](https://pl.wikipedia.org/wiki/Dendermonde) (fr. Termonde). Miasto leży nad [Skaldą](https://pl.wikipedia.org/wiki/Skalda), w miejscu, gdzie wpada do niej rzeka [Dender](https://pl.wikipedia.org/wiki/Dender), około 25–30 kilometrów na południowy zachód od Antwerpii. Od początku września przechodziło z rąk do rąk, a w chwili ponownego wkroczenia Niemców było już w dużej części spaloną ruiną.
 
 ## Klucz do zachodniego brzegu Skaldy
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-28 października 1917 roku, cztery dni po [przełamaniu pod Caporetto](/poczatek-bitwy-pod-caporetto), armia włoska straciła dwa miasta, które były symbolami jej wojny. Krótko po północy austro-węgierscy żołnierze weszli do [Gorycji](https://pl.wikipedia.org/wiki/Gorycja), zdobytej przez Włochów z ogromnym trudem w sierpniu 1916 roku, a przed południem niemiecka piechota wkroczyła do [Udine](https://pl.wikipedia.org/wiki/Udine), gdzie od pierwszych tygodni wojny mieściła się włoska kwatera główna. Cały włoski front od Alp Karnickich po Adriatyk był w odwrocie, a drogi do mostów na rzece [Tagliamento](https://pl.wikipedia.org/wiki/Tagliamento) zapełniły kolumny wojska, taborów i uciekinierów.
+28 października 1917 roku, cztery dni po [przełamaniu pod Caporetto](/poczatek-bitwy-pod-caporetto), armia włoska straciła dwa miasta, które były symbolami jej wojny. Krótko po północy austro-węgierscy żołnierze weszli do [Gorycji](/miejsca/gorycja), zdobytej przez Włochów z ogromnym trudem w sierpniu 1916 roku, a przed południem niemiecka piechota wkroczyła do [Udine](https://pl.wikipedia.org/wiki/Udine), gdzie od pierwszych tygodni wojny mieściła się włoska kwatera główna. Cały włoski front od Alp Karnickich po Adriatyk był w odwrocie, a drogi do mostów na rzece [Tagliamento](https://pl.wikipedia.org/wiki/Tagliamento) zapełniły kolumny wojska, taborów i uciekinierów.
 
 ## Gorycja
 

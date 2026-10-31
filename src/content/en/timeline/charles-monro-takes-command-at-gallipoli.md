@@ -2,10 +2,10 @@
 title: Charles Monro takes command at Gallipoli
 summary: On 28 October 1915 General Charles Monro took command of the Gallipoli forces on Imbros. Three days later he advised London to evacuate the peninsula.
 source: charles-monro-obejmuje-dowodztwo-na-gallipoli
-sourceHash: 0dfdb8020f6b157e22c2de55cd22438e76166ac2
+sourceHash: fbefd5778e31dc8a7e00a55fb923d0de737c62a4
 ---
 
-On the morning of 28 October 1915 General Sir Charles Monro landed on the island of [Imbros](https://pl.wikipedia.org/wiki/Imroz) and took command of the Mediterranean Expeditionary Force, which had been fighting since April on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. For eleven days, since the [departure of General Ian Hamilton](/birdwood-tymczasowym-dowodca-na-gallipoli), the troops had been commanded temporarily by General William Birdwood. Monro brought with him a new chief of staff, General Arthur Lynden-Bell. The day before, in the harbour of [Mudros](https://pl.wikipedia.org/wiki/Mudros) on [Lemnos](https://pl.wikipedia.org/wiki/Limnos), he had inspected an Australian brigade and had been impressed by the bearing of its soldiers.
+On the morning of 28 October 1915 General Sir Charles Monro landed on the island of [Imbros](https://pl.wikipedia.org/wiki/Imroz) and took command of the Mediterranean Expeditionary Force, which had been fighting since April on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. For eleven days, since the [departure of General Ian Hamilton](/birdwood-tymczasowym-dowodca-na-gallipoli), the troops had been commanded temporarily by General William Birdwood. Monro brought with him a new chief of staff, General Arthur Lynden-Bell. The day before, in the harbour of [Mudros](/miejsca/mudros) on [Lemnos](https://pl.wikipedia.org/wiki/Limnos), he had inspected an Australian brigade and had been impressed by the bearing of its soldiers.
 
 ## The task
 

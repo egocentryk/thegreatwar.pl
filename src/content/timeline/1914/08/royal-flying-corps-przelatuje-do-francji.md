@@ -15,7 +15,7 @@ draft: false
 
 ## Pierwszy na miejscu
 
-Jako pierwszy wystartował o 6:25 rano porucznik Hubert Harvey-Kelly z 2 Eskadry. Po niespełna dwóch godzinach lotu wylądował w pobliżu [Amiens](https://pl.wikipedia.org/wiki/Amiens), gdzie wyznaczono miejsce koncentracji lotnictwa. Był to pierwszy brytyjski samolot, który przybył do Francji w czasie wojny. Według relacji Harvey-Kelly skrócił sobie drogę i wylądował przed swoim dowódcą, który zamierzał być pierwszy.
+Jako pierwszy wystartował o 6:25 rano porucznik Hubert Harvey-Kelly z 2 Eskadry. Po niespełna dwóch godzinach lotu wylądował w pobliżu [Amiens](/miejsca/amiens), gdzie wyznaczono miejsce koncentracji lotnictwa. Był to pierwszy brytyjski samolot, który przybył do Francji w czasie wojny. Według relacji Harvey-Kelly skrócił sobie drogę i wylądował przed swoim dowódcą, który zamierzał być pierwszy.
 
 W ciągu dnia do Amiens dotarły kolejne samoloty 2 i 3 Eskadry oraz części 4 Eskadry. Wkrótce dołączyła 5 Eskadra. Nie obyło się bez wypadków: część maszyn uległa awariom, a kilku lotników zginęło w katastrofach jeszcze przed dotarciem na front.
 

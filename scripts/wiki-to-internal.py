@@ -43,6 +43,9 @@ ALIASES = {
     "Bitwy_nad_Isonzo": "bitwy-nad-isonzo",
     # The river: its war is the twelve battles (expansion-plan.md C).
     "Socza": "bitwy-nad-isonzo",
+    "Kras_(płaskowyż)": "bitwy-nad-isonzo",
+    # The peninsula: its war is the campaign (links before it keep pl.wiki).
+    "Gallipoli_(półwysep)": "kampania-gallipolijska",
 }
 
 # pl.wikipedia title -> our timeline article about that event, for events

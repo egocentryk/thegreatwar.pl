@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-13 stycznia 1915 roku brytyjska Rada Wojenna, komitet gabinetu kierujący prowadzeniem wojny, postanowiła, że Admiralicja przygotuje na luty wyprawę morską przeciw [Dardanelom](https://pl.wikipedia.org/wiki/Dardanele). Decyzja zapadła niespełna dwa tygodnie po tym, jak [wielki książę Mikołaj poprosił Brytyjczyków](/wielki-ksiaze-mikolaj-prosi-o-pomoc) o uderzenie na Turcję, które odciążyłoby Rosjan na Kaukazie. Z luźnego pomysłu „demonstracji” wyrósł w tym czasie konkretny plan sforsowania cieśniny samymi okrętami.
+13 stycznia 1915 roku brytyjska Rada Wojenna, komitet gabinetu kierujący prowadzeniem wojny, postanowiła, że Admiralicja przygotuje na luty wyprawę morską przeciw [Dardanelom](/miejsca/dardanele). Decyzja zapadła niespełna dwa tygodnie po tym, jak [wielki książę Mikołaj poprosił Brytyjczyków](/wielki-ksiaze-mikolaj-prosi-o-pomoc) o uderzenie na Turcję, które odciążyłoby Rosjan na Kaukazie. Z luźnego pomysłu „demonstracji” wyrósł w tym czasie konkretny plan sforsowania cieśniny samymi okrętami.
 
 ## Plan Cardena
 

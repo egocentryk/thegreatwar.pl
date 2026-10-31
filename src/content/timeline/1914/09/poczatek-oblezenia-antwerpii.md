@@ -18,7 +18,7 @@ brief:
   - "10 października Antwerpia skapitulowała, mimo przybycia Winstona Churchilla i brytyjskiej Dywizji Marynarki. Armia belgijska zdążyła jednak wycofać się za Yser, gdzie zatrzymała Niemców."
 ---
 
-27 września 1914 roku wojska niemieckie generała [Hansa von Beselera](/postacie/hans-von-beseler) rozpoczęły oblężenie [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), ostatniej twierdzy Belgii i schronienia jej armii. Po zdobyciu [Liège](https://pl.wikipedia.org/wiki/Liège), Namuru i Maubeuge Niemcy zamierzali w ten sam sposób, ogniem najcięższej artylerii, rozbić fortyfikacje największego portu Belgii. Oblężenie trwało do 10 października i zakończyło się upadkiem miasta, ale armia belgijska zdołała się z niego wymknąć.
+27 września 1914 roku wojska niemieckie generała [Hansa von Beselera](/postacie/hans-von-beseler) rozpoczęły oblężenie [Antwerpii](/miejsca/antwerpia), ostatniej twierdzy Belgii i schronienia jej armii. Po zdobyciu [Liège](https://pl.wikipedia.org/wiki/Liège), Namuru i Maubeuge Niemcy zamierzali w ten sam sposób, ogniem najcięższej artylerii, rozbić fortyfikacje największego portu Belgii. Oblężenie trwało do 10 października i zakończyło się upadkiem miasta, ale armia belgijska zdołała się z niego wymknąć.
 
 ## Reduta narodowa
 

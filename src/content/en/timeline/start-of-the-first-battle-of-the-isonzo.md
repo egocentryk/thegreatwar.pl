@@ -2,14 +2,14 @@
 title: Start of the First Battle of the Isonzo
 summary: The British chronology dates the start of the First Battle of the Isonzo to 29 June 1915. Yet the Italians had been attacking on the Soča since 23 June.
 source: poczatek-pierwszej-bitwy-nad-isonzo
-sourceHash: 21651d05ba1515dad358362aa82aaa29c7483627
+sourceHash: 1cf3bd069ede56e2b6d6f9a328b1b6f33ed81e85
 ---
 
 The British chronology of the war records under 29 June 1915 the start of the First Battle of the Isonzo. The Italian official history and most historians, however, date its beginning to 23 June. At dawn that day the Italian artillery opened fire along the whole front on the [Soča](/bitwy/bitwy-nad-isonzo), from the mountains above [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic coast, and the infantry went into its first attacks. By 29 June, therefore, the battle had already been going on for a week, and its first stage was drawing to a close without a decision. We have not been able to establish where the date in the British list came from.
 
 ## Cadorna's plan
 
-In the month since [crossing the frontier](/wlosi-przekraczaja-granice-austriacka) the Italian army had advanced slowly. It had occupied the land between the old frontier and the Soča, [Monfalcone](/wlosi-zajmuja-monfalcone) and the summit of Krn, but had not managed to take the strong positions on the river. In the meantime General [Svetozar Boroević](/postacie/svetozar-boroevic)'s Fifth Army had manned the hills of the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and the edge of the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau and surrounded its trenches with barbed wire. General [Luigi Cadorna](/postacie/luigi-cadorna) decided to break this line with a single great offensive. In the north General Pietro Frugoni's Second Army was to attack at Plava and the Gorizia bridgehead, and in the south the Duke of Aosta's Third Army was to cross the Soča and break onto the Karst. The Italians had more than a twofold numerical superiority, but little heavy artillery and ammunition.
+In the month since [crossing the frontier](/wlosi-przekraczaja-granice-austriacka) the Italian army had advanced slowly. It had occupied the land between the old frontier and the Soča, [Monfalcone](/wlosi-zajmuja-monfalcone) and the summit of Krn, but had not managed to take the strong positions on the river. In the meantime General [Svetozar Boroević](/postacie/svetozar-boroevic)'s Fifth Army had manned the hills of the [Gorizia](/miejsca/gorycja) bridgehead and the edge of the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau and surrounded its trenches with barbed wire. General [Luigi Cadorna](/postacie/luigi-cadorna) decided to break this line with a single great offensive. In the north General Pietro Frugoni's Second Army was to attack at Plava and the Gorizia bridgehead, and in the south the Duke of Aosta's Third Army was to cross the Soča and break onto the Karst. The Italians had more than a twofold numerical superiority, but little heavy artillery and ammunition.
 
 ## The first week
 

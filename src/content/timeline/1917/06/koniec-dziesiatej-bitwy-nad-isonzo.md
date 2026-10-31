@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-5 czerwca 1917 roku na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) dogasały ostatnie walki dziesiątej bitwy nad Isonzo. Dzień wcześniej austro-węgierski kontratak pod Hermadą odebrał Włochom linię Flondaru i zepchnął prawe skrzydło ich 3 Armii prawie na pozycje, z których [12 maja ruszyła ofensywa](/poczatek-dziesiatej-bitwy-nad-isonzo). Austriacka historia oficjalna kończy bitwę właśnie tego dnia: „gdy 5 czerwca zaszło słońce”, zakończyła się jej ostatnia faza, tym razem zaczęta nie przez Włochów. Brytyjska chronologia wojny podaje jako dzień zakończenia bitwy 8 czerwca. Taką datę przyjmują też niektóre opracowania anglojęzyczne, choć po 6 czerwca nad Soczą nie toczyły się już większe walki.
+5 czerwca 1917 roku na płaskowyżu [Kras](/bitwy/bitwy-nad-isonzo) dogasały ostatnie walki dziesiątej bitwy nad Isonzo. Dzień wcześniej austro-węgierski kontratak pod Hermadą odebrał Włochom linię Flondaru i zepchnął prawe skrzydło ich 3 Armii prawie na pozycje, z których [12 maja ruszyła ofensywa](/poczatek-dziesiatej-bitwy-nad-isonzo). Austriacka historia oficjalna kończy bitwę właśnie tego dnia: „gdy 5 czerwca zaszło słońce”, zakończyła się jej ostatnia faza, tym razem zaczęta nie przez Włochów. Brytyjska chronologia wojny podaje jako dzień zakończenia bitwy 8 czerwca. Taką datę przyjmują też niektóre opracowania anglojęzyczne, choć po 6 czerwca nad Soczą nie toczyły się już większe walki.
 
 ## Ostatnie starcia
 

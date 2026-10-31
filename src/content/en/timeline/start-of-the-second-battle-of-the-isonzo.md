@@ -2,10 +2,10 @@
 title: Start of the Second Battle of the Isonzo
 summary: On 18 July 1915 the Italians struck on the Isonzo for the second time. With much stronger artillery they attacked Monte San Michele and Sei Busi on the Karst.
 source: poczatek-drugiej-bitwy-nad-isonzo
-sourceHash: 5089d2ca271fb391c6b090ae0d9d90cbf0a2dbf5
+sourceHash: 5a6babcf664adb0ab449faa0b8621265b1aef7d3
 ---
 
-On 18 July 1915, a mere eleven days after the [end of the first](/koniec-pierwszej-bitwy-nad-isonzo), the Italian army began the Second Battle of the Isonzo. General [Luigi Cadorna](/postacie/luigi-cadorna) again directed his main blow at the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau south of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja). This time he had far more heavy guns at his disposal than in June.
+On 18 July 1915, a mere eleven days after the [end of the first](/koniec-pierwszej-bitwy-nad-isonzo), the Italian army began the Second Battle of the Isonzo. General [Luigi Cadorna](/postacie/luigi-cadorna) again directed his main blow at the [Karst](/bitwy/bitwy-nad-isonzo) plateau south of [Gorizia](/miejsca/gorycja). This time he had far more heavy guns at his disposal than in June.
 
 ## The plan
 

@@ -2,10 +2,10 @@
 title: First bombardment of the Dardanelles
 summary: On 3 November 1914 British and French ships shelled the forts at the mouth of the Dardanelles. A magazine blast wrecked Sedd el Bahr but warned the Turks.
 source: pierwsze-ostrzelanie-dardaneli
-sourceHash: 4fd5b6ac2e382ff1d77d5b1c76f9368e484cc0db
+sourceHash: c9ca4cc4dab2b0f22bb962727213ac191e8da488
 ---
 
-Early in the morning of 3 November 1914 British and French ships shelled the outer forts guarding the entrance to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). The fire lasted only a dozen or so minutes, but one of the shells hit the magazine of the fort of Sedd el Bahr, which blew up. It was the first Allied attack on the strait, for which one of the bloodiest campaigns of the war was fought in 1915.
+Early in the morning of 3 November 1914 British and French ships shelled the outer forts guarding the entrance to the [Dardanelles](/miejsca/dardanele). The fire lasted only a dozen or so minutes, but one of the shells hit the magazine of the fort of Sedd el Bahr, which blew up. It was the first Allied attack on the strait, for which one of the bloodiest campaigns of the war was fought in 1915.
 
 ## Churchill's demonstration
 

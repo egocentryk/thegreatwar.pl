@@ -2,10 +2,10 @@
 title: End of the Tenth Battle of the Isonzo
 summary: On 5 June 1917 the Austro-Hungarian counter-attack on the Karst died down. The Italians lost most of their gains at Hermada; the Tenth Isonzo battle ended.
 source: koniec-dziesiatej-bitwy-nad-isonzo
-sourceHash: 7b30cdcfb350ed38e895a1fd311541857c703ec0
+sourceHash: 212aa4287d5bc81236cff4c1b5b9c265ce133b66
 ---
 
-On 5 June 1917 the last fighting of the Tenth Battle of the Isonzo was dying down on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The day before, an Austro-Hungarian counter-attack at Hermada had taken the Flondar line back from the Italians and pushed the right wing of their 3rd Army almost back to the positions from which [the offensive had started on 12 May](/poczatek-dziesiatej-bitwy-nad-isonzo). The Austrian official history ends the battle on precisely this day: "when the sun set on 5 June" its last phase came to an end, a phase begun this time not by the Italians. The British chronology of the war gives 8 June as the day the battle ended. Some English-language accounts also adopt this date, although after 6 June there was no more major fighting on the Isonzo.
+On 5 June 1917 the last fighting of the Tenth Battle of the Isonzo was dying down on the [Karst](/bitwy/bitwy-nad-isonzo) plateau. The day before, an Austro-Hungarian counter-attack at Hermada had taken the Flondar line back from the Italians and pushed the right wing of their 3rd Army almost back to the positions from which [the offensive had started on 12 May](/poczatek-dziesiatej-bitwy-nad-isonzo). The Austrian official history ends the battle on precisely this day: "when the sun set on 5 June" its last phase came to an end, a phase begun this time not by the Italians. The British chronology of the war gives 8 June as the day the battle ended. Some English-language accounts also adopt this date, although after 6 June there was no more major fighting on the Isonzo.
 
 ## The last clashes
 

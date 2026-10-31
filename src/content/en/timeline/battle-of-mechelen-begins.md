@@ -2,10 +2,10 @@
 title: Battle of Mechelen begins
 summary: On 25 August 1914 the Belgian army sallied out of the fortress of Antwerp and attacked the Germans near Mechelen. It was the first Belgian sortie from Antwerp.
 source: poczatek-bitwy-pod-mechelen
-sourceHash: 854100e468b790b2b1096adbf759181e956f971a
+sourceHash: 0cdc85f6e23fb943855b76229e2e3a9f9a2eb7ad
 ---
 
-On 25 August 1914 the Belgian army came out of the fortress of [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia) and attacked the German positions south of the town of [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), known in French as Malines. It was the first of the sorties with which the Belgians tried to draw German forces away from the front in France.
+On 25 August 1914 the Belgian army came out of the fortress of [Antwerp](/miejsca/antwerpia) and attacked the German positions south of the town of [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), known in French as Malines. It was the first of the sorties with which the Belgians tried to draw German forces away from the front in France.
 
 ## The King's decision
 

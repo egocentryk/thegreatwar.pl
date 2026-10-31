@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 stycznia 1915 roku brytyjska Rada Wojenna ostatecznie postanowiła, że flota zaatakuje [Dardanele](https://pl.wikipedia.org/wiki/Dardanele). Dwa tygodnie wcześniej [Rada poleciła Admiralicji przygotować wyprawę](/rada-wojenna-decyduje-o-ataku-na-dardanele), ale decyzję o jej rozpoczęciu odłożyła. Teraz zapadła. Okręty miały same, bez udziału wojsk lądowych, sforsować cieśninę i dotrzeć do [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol).
+28 stycznia 1915 roku brytyjska Rada Wojenna ostatecznie postanowiła, że flota zaatakuje [Dardanele](/miejsca/dardanele). Dwa tygodnie wcześniej [Rada poleciła Admiralicji przygotować wyprawę](/rada-wojenna-decyduje-o-ataku-na-dardanele), ale decyzję o jej rozpoczęciu odłożyła. Teraz zapadła. Okręty miały same, bez udziału wojsk lądowych, sforsować cieśninę i dotrzeć do [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol).
 
 ## Opór Fishera
 

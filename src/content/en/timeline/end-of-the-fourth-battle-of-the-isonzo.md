@@ -2,14 +2,14 @@
 title: End of the Fourth Battle of the Isonzo
 summary: The British chronology ends the Fourth Battle of the Isonzo on 10 December 1915. A day earlier the last major Italian attack on Monte San Michele had collapsed.
 source: koniec-czwartej-bitwy-nad-isonzo
-sourceHash: f164c75b6ec30a5c6641231d94719244c8a58aeb
+sourceHash: 3d4c5475b994bf4df53f0044b27b5486aa3608fb
 ---
 
 The British chronology of the war records under 10 December 1915 the end of the fourth battle on the [Isonzo](/bitwy/bitwy-nad-isonzo). This Italian autumn offensive did not, however, end on a single day; it petered out gradually over two weeks, so works give different dates. The most common is 2 December, and this is the date we adopt on the [battle](/bitwy/czwarta-bitwa-nad-isonzo) page. The Austro-Hungarian official history regards 1 December, when the last great attacks collapsed, as the last day of the battle, but adds that the Italians went on attacking at individual points until 14 December. Some Italian works give 5 December, some German-language ones 15 December. The date in the British chronology most probably falls on the day after the last major attack, fought for Monte San Michele from 7 to 9 December.
 
 ## The last attacks
 
-After the great assaults of late November, General [Luigi Cadorna](/postacie/luigi-cadorna) did not break off the offensive at once. On 2 December the Italian artillery shelled [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) with unprecedented force and did great damage in the town. According to the Austrian official history, from 3 to 6 December there were heavy artillery duels and several attacks on the Gorizia bridgehead and on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The Italians attacked the area around the church at San Martino del Carso without success, on 4 December again shelled Gorizia heavily, and several times tried to break through the front at Oslavia. All these attempts failed.
+After the great assaults of late November, General [Luigi Cadorna](/postacie/luigi-cadorna) did not break off the offensive at once. On 2 December the Italian artillery shelled [Gorizia](/miejsca/gorycja) with unprecedented force and did great damage in the town. According to the Austrian official history, from 3 to 6 December there were heavy artillery duels and several attacks on the Gorizia bridgehead and on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The Italians attacked the area around the church at San Martino del Carso without success, on 4 December again shelled Gorizia heavily, and several times tried to break through the front at Oslavia. All these attempts failed.
 
 On 7 December units of the Italian 22nd and 29th Divisions struck the positions on both sides of Monte San Michele, and the fighting spread beyond San Martino. At one point, on the northern slope of the mountain, the Italians broke into the trenches, but the Hungarian 1st Honvéd Infantry Regiment threw them out with a counter-attack. On 8 December they broke in there again and were again driven back. On 9 December, at night, their last assault on the northern slope collapsed and the fighting began to die down. On the coast an Italian torpedo-boat flotilla began shelling the Austrian positions near Sistiana, but under fire from heavy batteries it soon withdrew.
 

@@ -2,10 +2,10 @@
 title: British squadron leaves Smyrna
 summary: On 15 March 1915 the Admiralty recalled Admiral Peirse's squadron from Smyrna. The battleships went to the Dardanelles; smaller ships now blockaded the port.
 source: brytyjska-eskadra-odplywa-spod-smyrny
-sourceHash: cff5a5e68f93409c9d9028e6021ba045b31dc4bf
+sourceHash: 0dcce5e53b8aff42b82925b2b673a2c6475aa574
 ---
 
-On 15 March 1915 the British Admiralty ordered Vice-Admiral Richard Peirse to send the battleships *Triumph* and *Swiftsure* from [Smyrna](https://pl.wikipedia.org/wiki/Izmir) to the base at [Mudros](https://pl.wikipedia.org/wiki/Mudros) and to return to Egypt himself. So ended the operation against Smyrna that had been under way since 5 March. It had brought neither the destruction of the forts nor an agreement with the Turkish governor, but the port had nonetheless ceased to be a danger to the Allies. The British chronicle of the war recorded the day as the withdrawal of the squadron blockading Smyrna. In reality the [blockade](https://pl.wikipedia.org/wiki/Blokada_morska) continued, only it was now conducted by smaller ships.
+On 15 March 1915 the British Admiralty ordered Vice-Admiral Richard Peirse to send the battleships *Triumph* and *Swiftsure* from [Smyrna](https://pl.wikipedia.org/wiki/Izmir) to the base at [Mudros](/miejsca/mudros) and to return to Egypt himself. So ended the operation against Smyrna that had been under way since 5 March. It had brought neither the destruction of the forts nor an agreement with the Turkish governor, but the port had nonetheless ceased to be a danger to the Allies. The British chronicle of the war recorded the day as the withdrawal of the squadron blockading Smyrna. In reality the [blockade](https://pl.wikipedia.org/wiki/Blokada_morska) continued, only it was now conducted by smaller ships.
 
 ## A truce without agreement
 

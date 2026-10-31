@@ -2,12 +2,12 @@
 title: Italians take Monfalcone
 summary: On 9 June 1915 Third Army brigades entered Monfalcone on the Adriatic. The Austrians gave up the town without a fight and fell back to the nearby Karst hills.
 source: wlosi-zajmuja-monfalcone
-sourceHash: 5e3be5ac0d9bc6f18a3b5aef1eee041fa3c89bba
+sourceHash: 5702e3ee242fbeb40b117a4b5dd037191aaefb89
 ---
 
 On 9 June 1915 troops of the Italian Third Army took [Monfalcone](https://pl.wikipedia.org/wiki/Monfalcone), an Austrian industrial town on the Gulf of Trieste, not far from the mouth of the [Isonzo](https://pl.wikipedia.org/wiki/Socza). It was the last easy success of the Italians on this sector of the front since they [crossed the frontier](/wlosi-przekraczaja-granice-austriacka) on 24 May. The Austrians did not defend the town. They withdrew to the hills rising just behind it, on the edge of the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau, from where their guns shelled the streets for the following months.
 
-Monfalcone belonged to the Austrian County of Gorizia and Gradisca and was inhabited mainly by an Italian-speaking population. Since 1908 it had been home to the Cantiere Navale Triestino shipyard, which built steamers for Trieste shipowners, and to industrial works beside it. The railway line from [Trieste](https://pl.wikipedia.org/wiki/Triest) to Italy ran through the town. For Cadorna, Monfalcone was the gateway to Trieste, less than 30 kilometres away along the coast.
+Monfalcone belonged to the Austrian County of Gorizia and Gradisca and was inhabited mainly by an Italian-speaking population. Since 1908 it had been home to the Cantiere Navale Triestino shipyard, which built steamers for Trieste shipowners, and to industrial works beside it. The railway line from [Trieste](/miejsca/triest) to Italy ran through the town. For Cadorna, Monfalcone was the gateway to Trieste, less than 30 kilometres away along the coast.
 
 ## Below the edge of the Karst
 

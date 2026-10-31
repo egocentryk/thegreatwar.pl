@@ -9,10 +9,10 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Crown Prince Wilhelm, Max von Hausen]
 result: Tactical success for the French defence, strategically indecisive. The French delayed the Germans but, on Joffre's orders, withdrew to the Aisne.
 source: bitwa-nad-moza
-sourceHash: f39b7fef7a3aa54b1837f8237edd52e931075e43
+sourceHash: 33c0c13f90ed26d67dfc292a5a4abeb94aaa4470
 ---
 
-The Battle of the [Meuse](https://pl.wikipedia.org/wiki/Moza) was fought at the end of August 1914 in north-eastern France, on the stretch of the river from around Mézières through [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) to [Stenay](https://pl.wikipedia.org/wiki/Stenay) and [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). The French 4th Army, with the 3rd Army on its right wing, defended the crossings against German troops pressing forward after their victory in the Ardennes. It was one of the first engagements in which the French, after a series of defeats in the [Battle of the Frontiers](/bitwy/bitwa-graniczna), defended themselves successfully.
+The Battle of the [Meuse](/miejsca/moza) was fought at the end of August 1914 in north-eastern France, on the stretch of the river from around Mézières through [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) to [Stenay](https://pl.wikipedia.org/wiki/Stenay) and [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). The French 4th Army, with the 3rd Army on its right wing, defended the crossings against German troops pressing forward after their victory in the Ardennes. It was one of the first engagements in which the French, after a series of defeats in the [Battle of the Frontiers](/bitwy/bitwa-graniczna), defended themselves successfully.
 
 ## Dates of the battle
 

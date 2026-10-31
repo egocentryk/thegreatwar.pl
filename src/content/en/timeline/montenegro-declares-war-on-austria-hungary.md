@@ -2,7 +2,7 @@
 title: Montenegro declares war on Austria-Hungary
 summary: On 5 August 1914 Montenegro declared war on Austria-Hungary, siding with Serbia. Guns on Mount Lovćen threatened the fleet base at Kotor.
 source: czarnogora-wypowiada-wojne-austro-wegrom
-sourceHash: b8238144630d956ff98305bc4284d5c05df0912b
+sourceHash: 4d53dc9bd19e495c3c562036baf3a486a32ff786
 brief:
   - "On 5 August 1914, according to contemporary chronicles, Montenegro declared war on Austria-Hungary. Other sources give 6 or 7 August, but all agree it was Serbia's first ally."
   - "King Nicholas I's Montenegro was bound to Serbia by language, faith and dynastic ties. It ordered mobilisation as early as 26 July, and the Serbian general Božidar Janković became its chief of staff."
@@ -20,7 +20,7 @@ A few days later Montenegro also declared war on Germany. This was mainly symbol
 
 ## Guns above the Bay of Kotor
 
-Although the Montenegrin army numbered only a few tens of thousands of men and was poorly armed, the country had one important asset: its position. Mount Lovćen rose directly above the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), home to the most important Austro-Hungarian fleet base in the southern Adriatic. Montenegrin artillery placed on the slopes of Lovćen could shell the port of [Kotor](https://pl.wikipedia.org/wiki/Kotor) and the fortifications around the bay.
+Although the Montenegrin army numbered only a few tens of thousands of men and was poorly armed, the country had one important asset: its position. Mount Lovćen rose directly above the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), home to the most important Austro-Hungarian fleet base in the southern Adriatic. Montenegrin artillery placed on the slopes of Lovćen could shell the port of [Kotor](/miejsca/kotor) and the fortifications around the bay.
 
 Austria-Hungary responded by shelling the Montenegrin coast, including the port of [Bar](https://pl.wikipedia.org/wiki/Bar_(Czarnogóra)), then known as Antivari. On 16 August, near that port, the French fleet sank the Austro-Hungarian cruiser [SMS *Zenta*](https://pl.wikipedia.org/wiki/SMS_Zenta). In autumn 1914 Montenegrin troops, commanded among others by General [Janko Vukotić](https://pl.wikipedia.org/wiki/Janko_Vukotić), advanced together with the Serbs into eastern [Herzegovina](https://pl.wikipedia.org/wiki/Hercegowina) and Bosnia.
 

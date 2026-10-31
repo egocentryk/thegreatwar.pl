@@ -2,7 +2,7 @@
 title: First Battle of Picardy begins
 summary: On 22 September 1914 General de Castelnau's new French Second Army attacked north of the Oise. The Race to the Sea had begun.
 source: poczatek-pierwszej-bitwy-w-pikardii
-sourceHash: 2fc0093020be9441a8875125093c9c5428e0b196
+sourceHash: 57bb9fdf2ca418f38484042cf4f7ffe6133d31f3
 brief:
   - "On 22 September 1914, north of the Oise, General Noël de Castelnau's newly formed French Second Army attacked to turn the German flank. It was the first major battle of the Race to the Sea and lasted until 26 September."
   - "After the deadlock on the Aisne the front ran from Switzerland to near Compiègne, with no line further west. The French moved troops over their own undamaged railways, while the German railways could not keep up."
@@ -20,7 +20,7 @@ The commanders on both sides came to the same conclusion. If the front could not
 
 ## Castelnau's new army
 
-Joffre gave command of the new army to Castelnau, who in August and September had commanded the Second Army in Lorraine and saved [Nancy](/bitwy/bitwa-o-grand-couronne). Castelnau came north with his staff, keeping the army's number. Its core consisted of corps brought by rail from various sectors of the front. IV and XIII Corps came to it from the Sixth Army, XIV and XX Corps arrived from the east, and the left flank was covered by General Louis Conneau's cavalry corps. The troops detrained around [Amiens](https://pl.wikipedia.org/wiki/Amiens) and Montdidier.
+Joffre gave command of the new army to Castelnau, who in August and September had commanded the Second Army in Lorraine and saved [Nancy](/bitwy/bitwa-o-grand-couronne). Castelnau came north with his staff, keeping the army's number. Its core consisted of corps brought by rail from various sectors of the front. IV and XIII Corps came to it from the Sixth Army, XIV and XX Corps arrived from the east, and the left flank was covered by General Louis Conneau's cavalry corps. The troops detrained around [Amiens](/miejsca/amiens) and Montdidier.
 
 The French had an important advantage in this race. They moved their troops over their own undamaged railway lines, which ran in an arc behind the front. The Germans used the railways in occupied France and Belgium, which had been largely destroyed during the August advance and the retreat from the Marne. According to some estimates the French could run up to 200 military trains a day, the Germans only a few dozen.
 

@@ -2,10 +2,10 @@
 title: French retake Soissons and Amiens
 summary: In mid-September 1914 the Germans, retreating after the Battle of the Marne, left Soissons and Amiens. French troops returned to both cities.
 source: francuzi-odzyskuja-soissons-i-amiens
-sourceHash: a64153552495089ebe8ede5c1e6152c32d80eb37
+sourceHash: 748978fbf91366e6fb6fad41a63be531c68c9693
 ---
 
-The British chronology of the war records that on 13 September 1914 French troops reoccupied [Soissons](https://pl.wikipedia.org/wiki/Soissons) and [Amiens](https://pl.wikipedia.org/wiki/Amiens). The Germans had taken both cities at the turn of August and September, during their march on Paris, and left them after their defeat on the Marne. Their occupation lasted less than two weeks.
+The British chronology of the war records that on 13 September 1914 French troops reoccupied [Soissons](https://pl.wikipedia.org/wiki/Soissons) and [Amiens](/miejsca/amiens). The Germans had taken both cities at the turn of August and September, during their march on Paris, and left them after their defeat on the Marne. Their occupation lasted less than two weeks.
 
 ## Soissons
 

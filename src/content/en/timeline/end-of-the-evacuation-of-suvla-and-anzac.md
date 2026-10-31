@@ -2,10 +2,10 @@
 title: End of the evacuation of Suvla and Anzac
 summary: In the early hours of 20 December 1915 the last troops left Suvla and Anzac. The Turks discovered the withdrawal only after dawn; Allied losses were negligible.
 source: koniec-ewakuacji-suvli-i-anzac
-sourceHash: 1c4b28c17dabc096a39d21912e0fefa4733b4d9b
+sourceHash: 48e54e8d6dd0385916e1ef8da82aae1424e55442
 ---
 
-In the early hours of 20 December 1915 the last British, Australian and New Zealand soldiers left the [Suvla](https://pl.wikipedia.org/wiki/Suvla) and [Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac) bridgeheads on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. After [the first night of the final stage of the evacuation](/poczatek-ewakuacji-suvli-i-anzac) about 20,000 men remained ashore. All of them were taken off in a single night, and the Turks realised what had happened only after dawn, when the trenches opposite them had been empty for several hours. The bridgeheads, paid for with the lives of thousands of soldiers since [April](/bitwy/ladowanie-na-gallipoli) and [August](/bitwy/ladowanie-w-zatoce-suvla), were abandoned almost without loss.
+In the early hours of 20 December 1915 the last British, Australian and New Zealand soldiers left the [Suvla](https://pl.wikipedia.org/wiki/Suvla) and [Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac) bridgeheads on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. After [the first night of the final stage of the evacuation](/poczatek-ewakuacji-suvli-i-anzac) about 20,000 men remained ashore. All of them were taken off in a single night, and the Turks realised what had happened only after dawn, when the trenches opposite them had been empty for several hours. The bridgeheads, paid for with the lives of thousands of soldiers since [April](/bitwy/ladowanie-na-gallipoli) and [August](/bitwy/ladowanie-w-zatoce-suvla), were abandoned almost without loss.
 
 ## The last night at Anzac
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Otto Liman von Sanders, Erich Weber]
 result: Ottoman defensive victory. The Allies gained about 250 to 500 yards (230–460 metres) on a front a mile long, but did not take Krithia.
 source: trzecia-bitwa-o-kritie
-sourceHash: 672a7a2386647108d340813d0fc849ba73fe9ce4
+sourceHash: 4b24f78fb978d578de19dfd67954eeb87af69f45
 ---
 
-The Third Battle of Krithia was the last great attack in which the Allies tried to break out of the bridgehead at Helles, at the southern tip of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula, by a frontal assault across the whole width of the peninsula. On 4 June 1915 the British VIII Corps and the French expeditionary corps, about 30,000 men in all, attacked what was by now a continuous line of Turkish trenches. This time the objective was more modest than in April and May: not Achi Baba, but the capture of the first lines of trenches, at most 800 yards forward. In the centre Lancashire Territorials broke through the Turkish defences almost to Krithia itself. On both flanks, however, the attack collapsed, the reserves were thrown in where the attack had failed rather than where it had succeeded, and by the evening most of the ground won had to be given up.
+The Third Battle of Krithia was the last great attack in which the Allies tried to break out of the bridgehead at Helles, at the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula, by a frontal assault across the whole width of the peninsula. On 4 June 1915 the British VIII Corps and the French expeditionary corps, about 30,000 men in all, attacked what was by now a continuous line of Turkish trenches. This time the objective was more modest than in April and May: not Achi Baba, but the capture of the first lines of trenches, at most 800 yards forward. In the centre Lancashire Territorials broke through the Turkish defences almost to Krithia itself. On both flanks, however, the attack collapsed, the reserves were thrown in where the attack had failed rather than where it had succeeded, and by the evening most of the ground won had to be given up.
 
 ## Name and dates
 

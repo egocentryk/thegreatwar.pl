@@ -2,10 +2,10 @@
 title: Ian Hamilton to command the Mediterranean force
 summary: On 12 March 1915 Kitchener gave General Ian Hamilton command of the land forces that were to support the fleet attacking the Dardanelles.
 source: ian-hamilton-dowodca-sil-srodziemnomorskich
-sourceHash: 1149853d01a66661728d1fe9c2ea657cea3e1322
+sourceHash: d812c6f6812cba0bd0698176c7f30c1eeab1d6b0
 ---
 
-At about ten in the morning of 12 March 1915 the Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), summoned General [Ian Hamilton](/postacie/ian-hamilton) to his office. As Hamilton recorded in his diary, Kitchener wrote something at his desk for a moment, then raised his head and announced in a matter-of-fact tone: "We are sending a military force to support the fleet now at the Dardanelles, and you are to have command." So was born the Mediterranean Expeditionary Force, which six weeks later landed on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula.
+At about ten in the morning of 12 March 1915 the Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), summoned General [Ian Hamilton](/postacie/ian-hamilton) to his office. As Hamilton recorded in his diary, Kitchener wrote something at his desk for a moment, then raised his head and announced in a matter-of-fact tone: "We are sending a military force to support the fleet now at the Dardanelles, and you are to have command." So was born the Mediterranean Expeditionary Force, which six weeks later landed on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula.
 
 ## Choosing a commander
 

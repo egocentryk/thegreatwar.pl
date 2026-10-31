@@ -9,10 +9,10 @@ sides:
     commanders: [Otto Liman von Sanders, Halil Sami]
 result: Ottoman defensive victory. The Allies took neither Krithia nor the hill of Achi Baba, and the front moved only slightly.
 source: pierwsza-bitwa-o-kritie
-sourceHash: d982d3b634e3e60d65c13ff0205cfd56fb11fd22
+sourceHash: 8a3be2446c43e5c2efe5672e56cedebcea590767
 ---
 
-The First Battle of Krithia was the Allies' first attempt to break out of the bridgehead they had won at Helles on the southern tip of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. On 28 April 1915 the British 29th Division and the French Expeditionary Corps of the Orient attacked the village of Krithia and the hill of Achi Baba, from which the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) strait could be seen. The Turks had fewer men, but they defended themselves fiercely and were receiving reinforcements. The British and French troops, exhausted by the fighting on the beaches, did not reach their objective, and in the evening the attack was called off. The battle dispelled hopes of a quick capture of the peninsula.
+The First Battle of Krithia was the Allies' first attempt to break out of the bridgehead they had won at Helles on the southern tip of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. On 28 April 1915 the British 29th Division and the French Expeditionary Corps of the Orient attacked the village of Krithia and the hill of Achi Baba, from which the [Dardanelles](/miejsca/dardanele) strait could be seen. The Turks had fewer men, but they defended themselves fiercely and were receiving reinforcements. The British and French troops, exhausted by the fighting on the beaches, did not reach their objective, and in the evening the attack was called off. The battle dispelled hopes of a quick capture of the peninsula.
 
 ## Name and dates
 

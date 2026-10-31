@@ -2,10 +2,10 @@
 title: Landing at Suvla Bay
 summary: On the evening of 6 August 1915 British IX Corps began landing at Suvla Bay on Gallipoli. The Turks had only three battalions there and were caught unawares.
 source: ladowanie-w-zatoce-suvla
-sourceHash: d56d2642d2943d903033f23c008ab2052b38144b
+sourceHash: b5fd1c2123f091dcd88201630e7b5ce352cfc4e2
 ---
 
-On the evening of 6 August 1915 General [Frederick Stopford](https://pl.wikipedia.org/wiki/Frederick_Stopford)'s British IX Corps began going ashore at [Suvla](https://pl.wikipedia.org/wiki/Suvla) Bay on the west coast of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula, a few kilometres north of Anzac Cove. It was a new landing, the first since the [April landing](/bitwy/ladowanie-na-gallipoli), and part of the great August offensive with which General [Ian Hamilton](/postacie/ian-hamilton) hoped to decide the campaign. That same evening the Australians stormed the Turkish trenches at Lone Pine, and assault columns from Anzac Cove set off by night for the Sari Bair ridge.
+On the evening of 6 August 1915 General [Frederick Stopford](https://pl.wikipedia.org/wiki/Frederick_Stopford)'s British IX Corps began going ashore at [Suvla](https://pl.wikipedia.org/wiki/Suvla) Bay on the west coast of the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula, a few kilometres north of Anzac Cove. It was a new landing, the first since the [April landing](/bitwy/ladowanie-na-gallipoli), and part of the great August offensive with which General [Ian Hamilton](/postacie/ian-hamilton) hoped to decide the campaign. That same evening the Australians stormed the Turkish trenches at Lone Pine, and assault columns from Anzac Cove set off by night for the Sari Bair ridge.
 
 ## Plan
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Nicholas I of Montenegro, Prince Peter of Montenegro]
 result: Austro-Hungarian victory. The Montenegrins lost Lovćen and all their heavy artillery, and their troops in the west of the country began to melt away. The government asked for an armistice, and on 13 January the Austrians entered Cetinje.
 source: bitwa-o-lovcen
-sourceHash: 0ca1ef9c3911b9ccca407a580829db837418ab5a
+sourceHash: 26885299a759c87c0a8b662f5ce9f72b8305c12b
 brief:
   - "On 8–11 January 1916 Ignaz Trollmann's Austro-Hungarian XIX Corps took the Lovćen massif above the Bay of Kotor, the Montenegrins' sacred mountain and a natural fortress shielding Cetinje."
   - "From Lovćen Montenegrin batteries could shell the naval base at Kotor, so Conrad decided to strike at the mountain. The defenders, about 9,000 men, were hungry, poorly clothed and short of ammunition."
@@ -18,7 +18,7 @@ brief:
   - "The fall of Lovćen sealed Montenegro's fate: on 13 January the Austrians entered Cetinje without a fight, and a dozen or so days later the Montenegrin army laid down its arms. Kotor became a safe submarine base."
 ---
 
-The Battle of Lovćen was the most important engagement of the Austro-Hungarian [conquest of Montenegro](/bitwy/podboj-czarnogory). The [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) massif, rising almost two kilometres above the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), was for the Montenegrins a sacred mountain and a natural fortress shielding the country's capital, [Cetinje](https://pl.wikipedia.org/wiki/Cetynia). For Austria-Hungary it was a threat to its southernmost naval base at [Kotor](https://pl.wikipedia.org/wiki/Kotor). On 8 January 1916 the XIX Corps of Feldmarschalleutnant Ignaz Trollmann, after a massive bombardment by hundreds of land guns and by warships, began to climb the rocky slopes. After three days of fighting in rain and snow the defence collapsed: on the evening of 10 January the Austrians stood on the summit, and on 11 January their forward units reached the edge of the plateau, from which it was only a few kilometres to Cetinje.
+The Battle of Lovćen was the most important engagement of the Austro-Hungarian [conquest of Montenegro](/bitwy/podboj-czarnogory). The [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) massif, rising almost two kilometres above the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), was for the Montenegrins a sacred mountain and a natural fortress shielding the country's capital, [Cetinje](https://pl.wikipedia.org/wiki/Cetynia). For Austria-Hungary it was a threat to its southernmost naval base at [Kotor](/miejsca/kotor). On 8 January 1916 the XIX Corps of Feldmarschalleutnant Ignaz Trollmann, after a massive bombardment by hundreds of land guns and by warships, began to climb the rocky slopes. After three days of fighting in rain and snow the defence collapsed: on the evening of 10 January the Austrians stood on the summit, and on 11 January their forward units reached the edge of the plateau, from which it was only a few kilometres to Cetinje.
 
 ## Name and dates
 

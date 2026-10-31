@@ -2,10 +2,10 @@
 title: Germans occupy Mechelen
 summary: On 28 September 1914, in the first days of the siege of Antwerp, the Germans took Mechelen, the city of Belgium's archbishops, shelled since August.
 source: niemcy-zajmuja-mechelen
-sourceHash: f52e663ba26fc5128add3cff4c0e9f535b3822f8
+sourceHash: f381b07930ede0283f647a92c3e62ca28124806d
 ---
 
-On 28 September 1914 German troops occupied [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) (French: Malines), a city lying halfway between Brussels and Antwerp. On the same day German siege artillery began shelling the outer forts of [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), and Mechelen found itself just behind the German front line.
+On 28 September 1914 German troops occupied [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) (French: Malines), a city lying halfway between Brussels and Antwerp. On the same day German siege artillery began shelling the outer forts of [Antwerp](/miejsca/antwerpia), and Mechelen found itself just behind the German front line.
 
 ## A city in front of the fortress
 

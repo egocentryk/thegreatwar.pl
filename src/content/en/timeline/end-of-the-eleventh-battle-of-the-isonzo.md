@@ -2,10 +2,10 @@
 title: End of the Eleventh Battle of the Isonzo
 summary: On 12 September 1917 the last great Italian assault on Monte San Gabriele failed. That day the Austrians got orders for a joint offensive with the Germans.
 source: koniec-jedenastej-bitwy-nad-isonzo
-sourceHash: 5e63fcd707fba8ad7a96a7a076e58b290923b46e
+sourceHash: aaddeac0df368aef68a50c549080a7b21bcbb843
 ---
 
-On 12 September 1917 the Italians stormed Monte San Gabriele in full strength for the last time. For three weeks this mountain above [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) had been the scene of the bloodiest part of the Eleventh Battle of the Isonzo. After many hours of fighting around the summit, the attack collapsed. The next day there was one more attempt, and then the bombardment began to slacken. The greatest offensive of the Italian army in this war had come to an end. That same day the Austro-Hungarian command of the South-Western Front received orders to prepare an offensive that it was to carry out together with the Germans.
+On 12 September 1917 the Italians stormed Monte San Gabriele in full strength for the last time. For three weeks this mountain above [Gorizia](/miejsca/gorycja) had been the scene of the bloodiest part of the Eleventh Battle of the Isonzo. After many hours of fighting around the summit, the attack collapsed. The next day there was one more attempt, and then the bombardment began to slacken. The greatest offensive of the Italian army in this war had come to an end. That same day the Austro-Hungarian command of the South-Western Front received orders to prepare an offensive that it was to carry out together with the Germans.
 
 ## The last fighting for San Gabriele
 
@@ -17,7 +17,7 @@ On the Bainsizza plateau local fighting continued through September. The Italian
 
 ## The balance
 
-Both sides claimed victory. The Italians pointed to the largest territorial gain of all the battles on the [Isonzo](/bitwy/bitwy-nad-isonzo): on the Bainsizza plateau they had advanced about 10 kilometres. The Austrian official history recalled, however, that after thirty months and eleven battles the furthest advance of the Italian front, measured from [Sagrado](https://pl.wikipedia.org/wiki/Sagrado) to [Kostanjevica](https://pl.wikipedia.org/wiki/Kostanjevica_na_Krasu), amounted to 12 kilometres, a third of the way to [Trieste](https://pl.wikipedia.org/wiki/Triest). In June 1915 the Italians had begun the war on the Isonzo with 18 divisions and 750 guns; in August 1917 they threw 51 divisions and about 5,200 guns and trench mortars into the attack. Austria-Hungary had fielded eight divisions with 354 guns in 1915, and now 24 divisions with 1,880 guns and 300 mortars. In Italy great promises were followed by disappointment.
+Both sides claimed victory. The Italians pointed to the largest territorial gain of all the battles on the [Isonzo](/bitwy/bitwy-nad-isonzo): on the Bainsizza plateau they had advanced about 10 kilometres. The Austrian official history recalled, however, that after thirty months and eleven battles the furthest advance of the Italian front, measured from [Sagrado](https://pl.wikipedia.org/wiki/Sagrado) to [Kostanjevica](https://pl.wikipedia.org/wiki/Kostanjevica_na_Krasu), amounted to 12 kilometres, a third of the way to [Trieste](/miejsca/triest). In June 1915 the Italians had begun the war on the Isonzo with 18 divisions and 750 guns; in August 1917 they threw 51 divisions and about 5,200 guns and trench mortars into the attack. Austria-Hungary had fielded eight divisions with 354 guns in 1915, and now 24 divisions with 1,880 guns and 300 mortars. In Italy great promises were followed by disappointment.
 
 For the Austrians, however, it was a Pyrrhic victory. According to their official history, about 38 per cent of the Austro-Hungarian guns on the Isonzo were worn out and unfit for use, and replacements were lacking, because almost the only men returning to the ranks were recovered wounded. The Austrians were convinced that they would not survive another such battle and that the only way out was a pre-emptive strike.
 

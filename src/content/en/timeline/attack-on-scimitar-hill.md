@@ -2,10 +2,10 @@
 title: Attack on Scimitar Hill
 summary: On 21 August 1915 the British attacked the hills above Suvla Bay. Twice they took the top of Scimitar Hill, but lost 5,300 men and returned to their positions.
 source: atak-na-wzgorze-scimitar
-sourceHash: 328946ab680488e5af8927b18f249ce0e338626d
+sourceHash: 6ff32c171e14d3708e76afbf2b601af91f3d2437
 ---
 
-On 21 August 1915 the British IX Corps made its last attempt to capture the hills surrounding the plain above [Suvla](https://pl.wikipedia.org/wiki/Suvla) Bay on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. The main objectives were the W Hills and the neighbouring Scimitar Hill, named after its ridge curved like a sabre, as well as Hill 112. The attack, in which about 14,000 soldiers took part, ended in defeat.
+On 21 August 1915 the British IX Corps made its last attempt to capture the hills surrounding the plain above [Suvla](https://pl.wikipedia.org/wiki/Suvla) Bay on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. The main objectives were the W Hills and the neighbouring Scimitar Hill, named after its ridge curved like a sabre, as well as Hill 112. The attack, in which about 14,000 soldiers took part, ended in defeat.
 
 Two weeks had passed since the [landing at Suvla Bay](/bitwy/ladowanie-w-zatoce-suvla). The Turks under [Mustafa Kemal](/postacie/mustafa-kemal) had occupied all the surrounding hills and looked down on the British trenches and beaches. After [General Stopford was recalled](/koniec-ladowania-w-zatoce-suvla), the new corps commander, General Henry de Lisle, received reinforcements: the experienced 29th Division, brought over from Helles, and the 2nd Mounted Division from Egypt, that is, about 5,000 men of the volunteer [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry) cavalry, who fought on foot. General [Ian Hamilton](/postacie/ian-hamilton) came over from Imbros to watch the battle from a hill above corps headquarters.
 

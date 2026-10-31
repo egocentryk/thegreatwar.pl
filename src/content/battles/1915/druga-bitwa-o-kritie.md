@@ -17,7 +17,7 @@ tags: [Wielka Brytania, Australia, Nowa Zelandia, Dardanele]
 milestone: false
 ---
 
-Druga bitwa o Kritię była drugą próbą wyrwania się sprzymierzonych z przyczółka pod Helles na południowym krańcu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Od 6 do 8 maja 1915 roku brytyjska 29 Dywizja, Francuzi, świeża brygada terytorialna z Lancashire i dwie brygady przerzucone z zatoki Anzac, australijska i nowozelandzka, trzy razy z rzędu nacierały w biały dzień na wieś Kritia i wzgórze Achi Baba. Brakowało amunicji artyleryjskiej, a tureckich stanowisk nikt dokładnie nie znał. Natarcia zatrzymywały się przed niewidocznymi karabinami maszynowymi. Po trzech dniach front przesunął się o kilkaset metrów, a alianci stracili około jednej trzeciej żołnierzy, którzy wzięli udział w walce.
+Druga bitwa o Kritię była drugą próbą wyrwania się sprzymierzonych z przyczółka pod Helles na południowym krańcu półwyspu [Gallipoli](/bitwy/kampania-gallipolijska). Od 6 do 8 maja 1915 roku brytyjska 29 Dywizja, Francuzi, świeża brygada terytorialna z Lancashire i dwie brygady przerzucone z zatoki Anzac, australijska i nowozelandzka, trzy razy z rzędu nacierały w biały dzień na wieś Kritia i wzgórze Achi Baba. Brakowało amunicji artyleryjskiej, a tureckich stanowisk nikt dokładnie nie znał. Natarcia zatrzymywały się przed niewidocznymi karabinami maszynowymi. Po trzech dniach front przesunął się o kilkaset metrów, a alianci stracili około jednej trzeciej żołnierzy, którzy wzięli udział w walce.
 
 ## Nazwa i daty
 

@@ -2,10 +2,10 @@
 title: British marines arrive in Antwerp
 summary: On 3 October 1914 Winston Churchill arrived in Antwerp. That night the Royal Marine Brigade arrived and took up positions on the Nete near Lier.
 source: piechota-morska-przybywa-do-antwerpii
-sourceHash: 8dc1e59bfd3ba35136619524ac6095d9f211bc55
+sourceHash: 33083c580fa1bcee2d100d8b038548ef2e23f91f
 ---
 
-On 3 October 1914 the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), arrived in besieged [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), and during the night of 3–4 October the first British reinforcements reached the city. This was the Royal Marine Brigade, made up of men of the [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines). Its arrival was meant to convince the Belgians that it was worth defending the fortress for a few more days.
+On 3 October 1914 the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), arrived in besieged [Antwerp](/miejsca/antwerpia), and during the night of 3–4 October the first British reinforcements reached the city. This was the Royal Marine Brigade, made up of men of the [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines). Its arrival was meant to convince the Belgians that it was worth defending the fortress for a few more days.
 
 ## The Belgians prepare to evacuate
 

@@ -2,10 +2,10 @@
 title: Start of the fighting for Gully Ravine
 summary: On 28 June 1915 British troops and Gurkhas at Helles took five lines of Turkish trenches by Gully Ravine. A Scottish brigade alongside lost half its men.
 source: poczatek-walk-o-wawoz-gully
-sourceHash: 34fb83ceb1c394e6b24b6550b563b036c8a36513
+sourceHash: 3eb4d513baf4c3413c27d619a2bc695bb32d7040
 ---
 
-At 11 a.m. on 28 June 1915 British infantry went into the attack on the western flank of the Helles front on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. The objectives were the Turkish trenches on both sides of Gully Ravine, a deep gully running along the Aegean coast: on Gully Spur between the ravine and the sea, and on Fir Tree Spur on the other side of the gully. It was the second of a series of limited attacks with which the commanders at Helles hoped to approach Krithia step by step, after [the third attack on the village](/trzeci-atak-na-kritie) on 4 June had gained only a few hundred metres of ground.
+At 11 a.m. on 28 June 1915 British infantry went into the attack on the western flank of the Helles front on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. The objectives were the Turkish trenches on both sides of Gully Ravine, a deep gully running along the Aegean coast: on Gully Spur between the ravine and the sea, and on Fir Tree Spur on the other side of the gully. It was the second of a series of limited attacks with which the commanders at Helles hoped to approach Krithia step by step, after [the third attack on the village](/trzeci-atak-na-kritie) on 4 June had gained only a few hundred metres of ground.
 
 ## The lesson of 4 June
 

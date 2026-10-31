@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po tygodniu ucieczki przez Morze Śródziemne niemieckie okręty [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) i [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau) dotarły do [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele), cieśniny prowadzącej do Konstantynopola. Ówczesne kroniki odnotowują ich wejście do cieśniny pod datą 11 sierpnia 1914 roku, choć według większości źródeł okręty dotarły do wejścia do Dardaneli już wieczorem 10 sierpnia.
+Po tygodniu ucieczki przez Morze Śródziemne niemieckie okręty [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben) i [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau) dotarły do [Dardaneli](/miejsca/dardanele), cieśniny prowadzącej do Konstantynopola. Ówczesne kroniki odnotowują ich wejście do cieśniny pod datą 11 sierpnia 1914 roku, choć według większości źródeł okręty dotarły do wejścia do Dardaneli już wieczorem 10 sierpnia.
 
 ## Ucieczka
 

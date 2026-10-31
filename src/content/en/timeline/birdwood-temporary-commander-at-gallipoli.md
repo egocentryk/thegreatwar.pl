@@ -2,10 +2,10 @@
 title: Birdwood temporary commander at Gallipoli
 summary: On 17 October 1915 General Ian Hamilton sailed from Imbros. Until General Monro arrived, the Gallipoli forces were commanded by General William Birdwood.
 source: birdwood-tymczasowym-dowodca-na-gallipoli
-sourceHash: 65a5e5716114b6916dfec76354a4c74ea22b7b5f
+sourceHash: 8036674a154d0b0e99b3b840eefe6837565dd498
 ---
 
-On 17 October 1915 General [Ian Hamilton](/postacie/ian-hamilton) took leave of the army he had commanded since the spring on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. [Recalled two days earlier](/charles-monro-nastepca-hamiltona) by the government in London, he handed over command of the Mediterranean Expeditionary Force to General William Birdwood, commander of the Australian and New Zealand Army Corps. Birdwood was to hold it temporarily, until General Charles Monro arrived from France.
+On 17 October 1915 General [Ian Hamilton](/postacie/ian-hamilton) took leave of the army he had commanded since the spring on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula. [Recalled two days earlier](/charles-monro-nastepca-hamiltona) by the government in London, he handed over command of the Mediterranean Expeditionary Force to General William Birdwood, commander of the Australian and New Zealand Army Corps. Birdwood was to hold it temporarily, until General Charles Monro arrived from France.
 
 The day was cold and drizzly. In the morning the French commander, General Brulard, and Generals [Julian Byng](/postacie/julian-byng) and Francis Davies, the corps commanders at Suvla and Helles, came to the island of [Imbros](https://pl.wikipedia.org/wiki/Imroz). Hamilton said goodbye to them and then went to the new General Headquarters at Kephalos to part with his staff. As he noted in his diary, that was the very day he was to have moved into the stone hut built there for the winter. In the afternoon he boarded the cruiser *Chatham*. As the ship threaded her way between the anchored vessels of the fleet, the crews came out on deck and cheered him. His chief of staff, General Walter Braithwaite, sailed with him. In his farewell order Hamilton thanked the soldiers of all ranks and wrote that no risk had been too desperate for them and no sacrifice too great.
 

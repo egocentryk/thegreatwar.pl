@@ -2,7 +2,7 @@
 title: Sinking of the battleship Majestic
 summary: On the morning of 27 May 1915 U-21 torpedoed the British battleship Majestic off Cape Helles. It was the second battleship Hersing had sunk in three days.
 source: zatopienie-pancernika-majestic
-sourceHash: bc802d3357a30b8efdc27f57a8e4b5241fa621f7
+sourceHash: db110dff27597ceebdcfb2e3b0390ed54d4e3048
 ---
 
 At about 6.45 a.m. on 27 May 1915 the German submarine [*U-21*](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) torpedoed the British battleship *Majestic*, lying at anchor off W Beach at Cape Helles, at the southern tip of the Gallipoli peninsula. The ship capsized within minutes. Most of the crew were saved, but according to various sources between about 40 and 49 men were killed. The commander of *U-21*, Kapitänleutnant Otto Hersing, had [sunk the battleship *Triumph* off Gaba Tepe](/zatopienie-pancernika-triumph) only two days earlier.
@@ -13,7 +13,7 @@ At about 6.45 a.m. on 27 May 1915 the German submarine [*U-21*](https://pl.wikip
 
 ## Among the transports
 
-After the sinking of *Triumph* the British sent most of the battleships to the sheltered anchorages at [Imbros](https://pl.wikipedia.org/wiki/Imroz) and [Mudros](https://pl.wikipedia.org/wiki/Mudros). The army, however, could not do entirely without their heavy guns. It was decided that a battleship would be safest among the ships unloading supplies. *Majestic* was therefore anchored with her anti-torpedo nets out right by the shore, near W Beach, surrounded by transports. Further out destroyers patrolled, and a cordon of trawlers guarded the entrance to the straits.
+After the sinking of *Triumph* the British sent most of the battleships to the sheltered anchorages at [Imbros](https://pl.wikipedia.org/wiki/Imroz) and [Mudros](/miejsca/mudros). The army, however, could not do entirely without their heavy guns. It was decided that a battleship would be safest among the ships unloading supplies. *Majestic* was therefore anchored with her anti-torpedo nets out right by the shore, near W Beach, surrounded by transports. Further out destroyers patrolled, and a cordon of trawlers guarded the entrance to the straits.
 
 The precautions proved inadequate. On the morning of 27 May the periscope of *U-21* appeared less than 400 metres off the battleship's port side. *Majestic* opened fire at once, but the torpedo passed through one of the few gaps between the transports, pierced the net and struck amidships. According to some accounts a second torpedo also hit. The ship heeled over and capsized after a few minutes. The British official history speaks of seven minutes, other sources of four or nine. Discipline on board meant that all the officers and most of the sailors were saved. Those who died were mainly men killed by the explosions or caught in the nets.
 

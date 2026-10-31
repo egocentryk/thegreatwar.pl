@@ -2,10 +2,10 @@
 title: The Second Offensive Battle of Verdun begins
 summary: At dawn on 20 August 1917 the French attacked on both banks of the Meuse at Verdun, retook Mort-Homme, Talou and Hill 344 and took thousands of prisoners.
 source: poczatek-drugiej-ofensywnej-bitwy-pod-verdun
-sourceHash: afb8f91837df0eb7fb5746e8439d6627c7c07fca
+sourceHash: a0819b8217e4c1428b461659afc889a563acbc8e
 ---
 
-At 4.40 a.m. on 20 August 1917, at dawn, the French Second Army of General [Adolphe Guillaumat](/postacie/adolphe-guillaumat) attacked the German positions on both banks of the [Meuse](https://pl.wikipedia.org/wiki/Moza) north of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Eight divisions went into the attack on a front that, according to various sources, was about 18–25 km wide, from Avocourt Wood in the west to the vicinity of Bezonvaux in the east. The objectives were the heights from which the Germans had been observing the French rear since 1916: Mort-Homme and Hill 304 on the left bank, and Talou hill and Hill 344 on the right. It was the French army's first major attack since the April defeat on the Aisne and since the [mutinies](/poczatek-buntow-w-armii-francuskiej) that had engulfed dozens of divisions in May and June.
+At 4.40 a.m. on 20 August 1917, at dawn, the French Second Army of General [Adolphe Guillaumat](/postacie/adolphe-guillaumat) attacked the German positions on both banks of the [Meuse](/miejsca/moza) north of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Eight divisions went into the attack on a front that, according to various sources, was about 18–25 km wide, from Avocourt Wood in the west to the vicinity of Bezonvaux in the east. The objectives were the heights from which the Germans had been observing the French rear since 1916: Mort-Homme and Hill 304 on the left bank, and Talou hill and Hill 344 on the right. It was the French army's first major attack since the April defeat on the Aisne and since the [mutinies](/poczatek-buntow-w-armii-francuskiej) that had engulfed dozens of divisions in May and June.
 
 ## Pétain's attack
 

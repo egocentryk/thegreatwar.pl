@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku Niemcy zdobyli ostatnie forty [twierdzy Namur](https://pl.wikipedia.org/wiki/Twierdza_Namur). Tego dnia poddały się forty Emines, Dave i Suarlée. Belgijska twierdza u zbiegu [Sambry](https://pl.wikipedia.org/wiki/Sambra) i [Mozy](https://pl.wikipedia.org/wiki/Moza), którą [zaatakowano 21 sierpnia](/niemcy-atakuja-twierdze-namur), padła szybciej, niż ktokolwiek się spodziewał.
+25 sierpnia 1914 roku Niemcy zdobyli ostatnie forty [twierdzy Namur](https://pl.wikipedia.org/wiki/Twierdza_Namur). Tego dnia poddały się forty Emines, Dave i Suarlée. Belgijska twierdza u zbiegu [Sambry](https://pl.wikipedia.org/wiki/Sambra) i [Mozy](/miejsca/moza), którą [zaatakowano 21 sierpnia](/niemcy-atakuja-twierdze-namur), padła szybciej, niż ktokolwiek się spodziewał.
 
 ## Pięć dni oblężenia
 
@@ -24,7 +24,7 @@ Ostrzał, rozpoczęty 21 sierpnia, rozbijał betonowe sklepienia i pancerne wie�
 
 Belgowie stracili pod Namurem, według różnych szacunków, około 15 tysięcy żołnierzy: poległych, rannych i wziętych do niewoli. Do niewoli trafiło ponad 5 tysięcy żołnierzy belgijskich oraz francuskich z nielicznych oddziałów, które zdążyły przybyć twierdzy z pomocą. Straty niemieckie były wielokrotnie mniejsze i wyniosły około 900 ludzi. W dniach zajęcia miasta spłonęła część centrum Namuru, w tym ratusz przy placu d'Armes.
 
-Części obrońców udało się jednak ujść. Kolumna 4 Dywizji przebiła się przez region między Sambrą a Mozą do [Mariembourga](https://pl.wikipedia.org/wiki/Mariembourg) i dalej do Francji, choć jej tylna straż została otoczona pod [Ermeton-sur-Biert](https://pl.wikipedia.org/wiki/Ermeton-sur-Biert). Około 12 tysięcy żołnierzy dotarło do Francji, a stamtąd drogą morską wróciło do Belgii, by dołączyć do armii broniącej [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia).
+Części obrońców udało się jednak ujść. Kolumna 4 Dywizji przebiła się przez region między Sambrą a Mozą do [Mariembourga](https://pl.wikipedia.org/wiki/Mariembourg) i dalej do Francji, choć jej tylna straż została otoczona pod [Ermeton-sur-Biert](https://pl.wikipedia.org/wiki/Ermeton-sur-Biert). Około 12 tysięcy żołnierzy dotarło do Francji, a stamtąd drogą morską wróciło do Belgii, by dołączyć do armii broniącej [Antwerpii](/miejsca/antwerpia).
 
 ## Znaczenie
 

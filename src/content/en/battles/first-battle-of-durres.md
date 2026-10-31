@@ -9,10 +9,10 @@ sides:
     commanders: [Heinrich Seitz]
 result: Entente success. The Austro-Hungarians sank the French submarine Monge and a steamer and two sailing vessels in the harbour, but lost two modern destroyers on mines, and the rest of the squadron barely escaped pursuit.
 source: pierwsza-bitwa-pod-durres
-sourceHash: dbc9b61bb11f5bed5044552802eb195a6163d0b8
+sourceHash: 946f2243d632b5c91d3a6943bdd009e86ae5dcf8
 ---
 
-The First Battle of Durrës was the first cruiser action in the [Adriatic](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). On the night of 28–29 December 1915 the Austro-Hungarian cruiser [SMS Helgoland](https://pl.wikipedia.org/wiki/SMS_Helgoland_(1912)) and five destroyers sailed from [Kotor](https://pl.wikipedia.org/wiki/Kotor) to attack shipping in the Albanian port of [Durrës](https://pl.wikipedia.org/wiki/Durrës) (Italian: Durazzo). Through this port the Entente was supplying the remnants of the Serbian army, which were reaching the sea after their retreat across the mountains. On the way the Austrians sank a French submarine, and at dawn a steamer and two sailing vessels in the harbour. As they withdrew, however, they ran into a freshly laid Italian minefield and lost two destroyers. All afternoon the squadron was pursued by British and Italian cruisers. *Helgoland*, hit several times, escaped only after dark.
+The First Battle of Durrës was the first cruiser action in the [Adriatic](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). On the night of 28–29 December 1915 the Austro-Hungarian cruiser [SMS Helgoland](https://pl.wikipedia.org/wiki/SMS_Helgoland_(1912)) and five destroyers sailed from [Kotor](/miejsca/kotor) to attack shipping in the Albanian port of [Durrës](https://pl.wikipedia.org/wiki/Durrës) (Italian: Durazzo). Through this port the Entente was supplying the remnants of the Serbian army, which were reaching the sea after their retreat across the mountains. On the way the Austrians sank a French submarine, and at dawn a steamer and two sailing vessels in the harbour. As they withdrew, however, they ran into a freshly laid Italian minefield and lost two destroyers. All afternoon the squadron was pursued by British and Italian cruisers. *Helgoland*, hit several times, escaped only after dark.
 
 ## Name and dates
 

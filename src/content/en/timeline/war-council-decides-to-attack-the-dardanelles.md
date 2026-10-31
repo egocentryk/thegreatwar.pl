@@ -2,10 +2,10 @@
 title: War Council decides to attack the Dardanelles
 summary: On 13 January 1915 the British War Council told the Admiralty to prepare a February naval expedition to the Dardanelles, aimed at Constantinople.
 source: rada-wojenna-decyduje-o-ataku-na-dardanele
-sourceHash: 60140ab341a6a1ebfdba5b683e5124abaff1c054
+sourceHash: 596f1df1116c0458fe71688432d26dbcf17ebf48
 ---
 
-On 13 January 1915 the British War Council, the cabinet committee directing the conduct of the war, decided that the Admiralty would prepare a naval expedition against the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) for February. The decision came less than two weeks after [Grand Duke Nicholas asked the British](/wielki-ksiaze-mikolaj-prosi-o-pomoc) to strike at Turkey to relieve the Russians in the Caucasus. In that time a loose idea of a "demonstration" had grown into a concrete plan to force the strait with ships alone.
+On 13 January 1915 the British War Council, the cabinet committee directing the conduct of the war, decided that the Admiralty would prepare a naval expedition against the [Dardanelles](/miejsca/dardanele) for February. The decision came less than two weeks after [Grand Duke Nicholas asked the British](/wielki-ksiaze-mikolaj-prosi-o-pomoc) to strike at Turkey to relieve the Russians in the Caucasus. In that time a loose idea of a "demonstration" had grown into a concrete plan to force the strait with ships alone.
 
 ## Carden's plan
 

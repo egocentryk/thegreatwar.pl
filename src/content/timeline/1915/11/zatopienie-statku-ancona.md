@@ -27,7 +27,7 @@ Przebieg ataku od początku był sporny. Według ocalałych i rządu włoskiego 
 
 Austro-węgierska admiralicja przedstawiła atak jako akcję własnego okrętu i ogłosiła swoją wersję wydarzeń. Według komunikatu okręt oddał strzał przed dziobem statku, a ten zaczął uciekać, wykonując rozkaz włoskich władz. Zatrzymał się dopiero po kilku trafieniach. Okręt podwodny miał dać 45 minut na opuszczenie statku, ale spuszczono niewiele szalup, które zajęła głównie załoga. Torpedę odpalono dopiero, gdy zbliżał się inny statek. Winę za śmierć pasażerów komunikat zrzucał na załogę Ancony, a doniesienia o strzelaniu do szalup nazwał kłamstwami.
 
-W rzeczywistości atakował okręt niemiecki. U-38 płynął z Niemiec przez Gibraltar do [Kotoru](https://pl.wikipedia.org/wiki/Kotor), skąd niemieckie okręty podwodne działały na Morzu Śródziemnym. Po drodze zatopił kilka statków, w tym francuskie i włoskie. Niemcy [nie były jeszcze w stanie wojny z Włochami](/niemcy-zrywaja-stosunki-z-wlochami), podczas gdy Austro-Węgry walczyły z nimi [od maja](/wlochy-wypowiadaja-wojne-austro-wegrom). Dlatego niemieckie okręty, atakując statki na zachodzie Morza Śródziemnego, podnosiły banderę austro-węgierską.
+W rzeczywistości atakował okręt niemiecki. U-38 płynął z Niemiec przez Gibraltar do [Kotoru](/miejsca/kotor), skąd niemieckie okręty podwodne działały na Morzu Śródziemnym. Po drodze zatopił kilka statków, w tym francuskie i włoskie. Niemcy [nie były jeszcze w stanie wojny z Włochami](/niemcy-zrywaja-stosunki-z-wlochami), podczas gdy Austro-Węgry walczyły z nimi [od maja](/wlochy-wypowiadaja-wojne-austro-wegrom). Dlatego niemieckie okręty, atakując statki na zachodzie Morza Śródziemnego, podnosiły banderę austro-węgierską.
 
 ## Kryzys z Ameryką
 

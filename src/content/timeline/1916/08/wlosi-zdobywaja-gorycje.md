@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 sierpnia 1916 roku wojska włoskie wkroczyły do [Gorycji](https://pl.wikipedia.org/wiki/Gorycja), miasta nad [Soczą](/bitwy/bitwy-nad-isonzo), o które od czerwca 1915 roku stoczyły pięć krwawych i bezowocnych bitew. Austro-węgierscy obrońcy opuścili je w nocy, wycofując się na wzgórza na wschód od miasta. Gorycja była pierwszym dużym miastem Austro-Węgier, które zdobyli Włosi. We Włoszech wiadomość o jej zajęciu wywołała prawdziwy wybuch radości.
+9 sierpnia 1916 roku wojska włoskie wkroczyły do [Gorycji](/miejsca/gorycja), miasta nad [Soczą](/bitwy/bitwy-nad-isonzo), o które od czerwca 1915 roku stoczyły pięć krwawych i bezowocnych bitew. Austro-węgierscy obrońcy opuścili je w nocy, wycofując się na wzgórza na wschód od miasta. Gorycja była pierwszym dużym miastem Austro-Węgier, które zdobyli Włosi. We Włoszech wiadomość o jej zajęciu wywołała prawdziwy wybuch radości.
 
 ## Upadek przedmościa
 

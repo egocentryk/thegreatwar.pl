@@ -2,14 +2,14 @@
 title: Greece asks about the occupation of Lemnos
 summary: On 7 March 1915, the day after Venizelos resigned, the Greek government asked London to explain the British occupation of the island of Lemnos.
 source: grecja-pyta-o-okupacje-lemnos
-sourceHash: 5c9802be52aa2656d4d9d17b1b16f6cd6b9e379a
+sourceHash: d8e13cbdf8251e139f35f0a11604ac92e4cb76db
 ---
 
 On 7 March 1915 the Greek government asked Britain to explain on what grounds its forces had occupied the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). This date is given by the British chronology of the war. According to George F. Abbott, author of a book on Greece and the Allies published in 1922, Athens declared that the British step could not be reconciled with the country's neutrality. It came just a day after Prime Minister [Eleftherios Venizelos resigned](/dymisja-wenizelosa), who had quietly consented to the occupation.
 
 ## Tacit consent
 
-British marines [landed on Lemnos on 23 February](/brytyjczycy-zajmuja-lemnos), and [Mudros](https://pl.wikipedia.org/wiki/Mudros) Bay became the base of the fleet attacking the Dardanelles. Venizelos, well disposed towards the Entente, did not want to break neutrality openly, so the Greek garrison simply withdrew from the island. According to the British Naval Staff monograph, the Prime Minister gave it to be understood that the batteries would be left in place for the British to look after. The Foreign Secretary, [Edward Grey](/postacie/edward-grey), was then urging Athens that Greece should not lodge even a formal protest, since British ships would use the island only briefly and only for the purposes of the operation in the Straits.
+British marines [landed on Lemnos on 23 February](/brytyjczycy-zajmuja-lemnos), and [Mudros](/miejsca/mudros) Bay became the base of the fleet attacking the Dardanelles. Venizelos, well disposed towards the Entente, did not want to break neutrality openly, so the Greek garrison simply withdrew from the island. According to the British Naval Staff monograph, the Prime Minister gave it to be understood that the batteries would be left in place for the British to look after. The Foreign Secretary, [Edward Grey](/postacie/edward-grey), was then urging Athens that Greece should not lodge even a formal protest, since British ships would use the island only briefly and only for the purposes of the operation in the Straits.
 
 The status of Lemnos was, moreover, unclear. The Greek fleet had seized the island in the autumn of 1912, during the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska). In February 1914 the great powers awarded it to Greece, together with Chios, Lesbos and other islands, but the Ottoman Empire never recognised this decision. This allowed London to treat Lemnos as disputed Turkish territory rather than as part of a neutral state.
 

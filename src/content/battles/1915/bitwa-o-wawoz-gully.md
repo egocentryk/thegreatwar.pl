@@ -17,7 +17,7 @@ tags: [Wielka Brytania, Indie Brytyjskie, Imperium Osmańskie, Dardanele]
 milestone: false
 ---
 
-Bitwa o wąwóz Gully była jednym z niewielu udanych natarć sprzymierzonych pod Helles, na południowym krańcu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). 28 czerwca 1915 roku brytyjska 29 Dywizja i 29 Brygada Indyjska, wsparte skoncentrowanym ogniem prawie całej artylerii, zdobyły pięć linii tureckich okopów na nadmorskim grzbiecie Gully Spur i przesunęły zachodnie skrzydło frontu o kilkaset metrów w stronę Kritii. Po drugiej stronie wąwozu, na grzbiecie Fir Tree Spur, szkocka brygada terytorialna, pozbawiona wsparcia haubic, została zdziesiątkowana w kilka minut. Przez następny tydzień Turcy, ściągnąwszy posiłki z całego półwyspu, raz za razem kontratakowali, aby odzyskać utracone okopy. Ponieśli straty większe niż w jakiejkolwiek wcześniejszej bitwie kampanii i nie odzyskali niczego.
+Bitwa o wąwóz Gully była jednym z niewielu udanych natarć sprzymierzonych pod Helles, na południowym krańcu półwyspu [Gallipoli](/bitwy/kampania-gallipolijska). 28 czerwca 1915 roku brytyjska 29 Dywizja i 29 Brygada Indyjska, wsparte skoncentrowanym ogniem prawie całej artylerii, zdobyły pięć linii tureckich okopów na nadmorskim grzbiecie Gully Spur i przesunęły zachodnie skrzydło frontu o kilkaset metrów w stronę Kritii. Po drugiej stronie wąwozu, na grzbiecie Fir Tree Spur, szkocka brygada terytorialna, pozbawiona wsparcia haubic, została zdziesiątkowana w kilka minut. Przez następny tydzień Turcy, ściągnąwszy posiłki z całego półwyspu, raz za razem kontratakowali, aby odzyskać utracone okopy. Ponieśli straty większe niż w jakiejkolwiek wcześniejszej bitwie kampanii i nie odzyskali niczego.
 
 ## Nazwa i daty
 

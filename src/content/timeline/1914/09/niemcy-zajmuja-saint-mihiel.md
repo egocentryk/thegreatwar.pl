@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 września 1914 roku wojska niemieckie zajęły miasteczko [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) nad [Mozą](https://pl.wikipedia.org/wiki/Moza), w połowie drogi między twierdzami [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) i [Toul](https://pl.wikipedia.org/wiki/Toul). Następnego dnia rano skapitulował fort Camp des Romains na wzgórzu nad miastem. W kilka dni Niemcy wbili się klinem w linie francuskie i utworzyli występ, który utrzymali niemal przez całą wojnę. Datę zajęcia miasta podają zgodnie amerykański przewodnik po polach bitew z 1938 roku i francuskie opracowania. Te ostatnie wskazują też, że walki o wzgórza nad Mozą zaczęły się kilka dni wcześniej.
+24 września 1914 roku wojska niemieckie zajęły miasteczko [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) nad [Mozą](/miejsca/moza), w połowie drogi między twierdzami [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) i [Toul](https://pl.wikipedia.org/wiki/Toul). Następnego dnia rano skapitulował fort Camp des Romains na wzgórzu nad miastem. W kilka dni Niemcy wbili się klinem w linie francuskie i utworzyli występ, który utrzymali niemal przez całą wojnę. Datę zajęcia miasta podają zgodnie amerykański przewodnik po polach bitew z 1938 roku i francuskie opracowania. Te ostatnie wskazują też, że walki o wzgórza nad Mozą zaczęły się kilka dni wcześniej.
 
 ## Uderzenie spod Metz
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-28 czerwca 1915 roku o 11 przed południem brytyjska piechota ruszyła do natarcia na zachodnim skrzydle frontu pod Helles, na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Celem były tureckie okopy po obu stronach wąwozu Gully Ravine, głębokiego jaru biegnącego wzdłuż wybrzeża Morza Egejskiego, na grzbiecie Gully Spur między wąwozem a morzem i na grzbiecie Fir Tree Spur po drugiej stronie jaru. Było to drugie z serii ograniczonych natarć, którymi dowódcy pod Helles chcieli krok po kroku zbliżyć się do Kritii po tym, jak [trzeci atak na wieś](/trzeci-atak-na-kritie) 4 czerwca przyniósł tylko kilkaset metrów terenu.
+28 czerwca 1915 roku o 11 przed południem brytyjska piechota ruszyła do natarcia na zachodnim skrzydle frontu pod Helles, na półwyspie [Gallipoli](/bitwy/kampania-gallipolijska). Celem były tureckie okopy po obu stronach wąwozu Gully Ravine, głębokiego jaru biegnącego wzdłuż wybrzeża Morza Egejskiego, na grzbiecie Gully Spur między wąwozem a morzem i na grzbiecie Fir Tree Spur po drugiej stronie jaru. Było to drugie z serii ograniczonych natarć, którymi dowódcy pod Helles chcieli krok po kroku zbliżyć się do Kritii po tym, jak [trzeci atak na wieś](/trzeci-atak-na-kritie) 4 czerwca przyniósł tylko kilkaset metrów terenu.
 
 ## Lekcja z 4 czerwca
 

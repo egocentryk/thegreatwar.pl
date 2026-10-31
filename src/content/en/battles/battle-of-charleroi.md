@@ -9,10 +9,10 @@ sides:
     commanders: [Karl von Bülow, Max von Hausen]
 result: German victory. The French Fifth Army withdrew, exposing the right flank of the British at Mons.
 source: bitwa-pod-charleroi
-sourceHash: 69463444c627c355b9cf75668f080ad04d5b3acb
+sourceHash: 2251af872dc369f0f94742b09c33798d93aba968
 ---
 
-The Battle of [Charleroi](https://pl.wikipedia.org/wiki/Charleroi) was fought on 21–23 August 1914 in Belgium, in the angle between the [Sambre](https://pl.wikipedia.org/wiki/Sambra) and the [Meuse](https://pl.wikipedia.org/wiki/Moza), between Namur and the French border. The French Fifth Army under General [Charles Lanrezac](/postacie/charles-lanrezac), which was to strike at the Germans across the Sambre, was itself attacked by the German Second Army and in the end threatened from the east by the Third Army coming from the Meuse. After three days of fighting Lanrezac ordered a retreat. It was one of the [Battles of the Frontiers](/bitwy/bitwa-graniczna), which decided the course of the first phase of the war in the west.
+The Battle of [Charleroi](https://pl.wikipedia.org/wiki/Charleroi) was fought on 21–23 August 1914 in Belgium, in the angle between the [Sambre](https://pl.wikipedia.org/wiki/Sambra) and the [Meuse](/miejsca/moza), between Namur and the French border. The French Fifth Army under General [Charles Lanrezac](/postacie/charles-lanrezac), which was to strike at the Germans across the Sambre, was itself attacked by the German Second Army and in the end threatened from the east by the Third Army coming from the Meuse. After three days of fighting Lanrezac ordered a retreat. It was one of the [Battles of the Frontiers](/bitwy/bitwa-graniczna), which decided the course of the first phase of the war in the west.
 
 ## Name and dates
 

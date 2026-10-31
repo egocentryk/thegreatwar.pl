@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 marca 1915 roku brytyjska i francuska flota podjęła największą próbę przełamania obrony [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele). Szesnaście okrętów liniowych miało uciszyć forty w Przesmyku pod [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) i otworzyć trałowcom drogę przez pola minowe. Po kilku godzinach ostrzału, który zdawał się przynosić skutek, okręty jeden po drugim zaczęły wylatywać w powietrze na minach, o których istnieniu nikt nie wiedział. Do wieczora zatonęły trzy pancerniki, a trzy inne zostały ciężko uszkodzone. Był to najcięższy dzień całej morskiej operacji, która zaczęła się [19 lutego od ostrzału fortów u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
+18 marca 1915 roku brytyjska i francuska flota podjęła największą próbę przełamania obrony [Dardaneli](/miejsca/dardanele). Szesnaście okrętów liniowych miało uciszyć forty w Przesmyku pod [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) i otworzyć trałowcom drogę przez pola minowe. Po kilku godzinach ostrzału, który zdawał się przynosić skutek, okręty jeden po drugim zaczęły wylatywać w powietrze na minach, o których istnieniu nikt nie wiedział. Do wieczora zatonęły trzy pancerniki, a trzy inne zostały ciężko uszkodzone. Był to najcięższy dzień całej morskiej operacji, która zaczęła się [19 lutego od ostrzału fortów u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
 
 ## Plan de Robecka
 

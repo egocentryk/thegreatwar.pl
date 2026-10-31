@@ -2,14 +2,14 @@
 title: Sinking of the cruiser Giuseppe Garibaldi
 summary: On 18 July 1915 the Austro-Hungarian submarine U-4 sank the Italian armoured cruiser Giuseppe Garibaldi off Cavtat as it shelled the railway in Dalmatia.
 source: zatopienie-krazownika-giuseppe-garibaldi
-sourceHash: bf2b9a39638a3022c2aab3d621eb870bee3736d0
+sourceHash: 29ca0d82a2fd541ca66f7d5a637d82139ca53e51
 ---
 
 On the morning of 18 July 1915 the Austro-Hungarian submarine [*U-4*](https://pl.wikipedia.org/wiki/SM_U-4_(1908)) torpedoed the Italian [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) [*Giuseppe Garibaldi*](https://pl.wikipedia.org/wiki/Giuseppe_Garibaldi_(1899)) off the Dalmatian coast near [Cavtat](https://pl.wikipedia.org/wiki/Cavtat), in Italian Ragusa Vecchia. The flagship of the cruiser division sank within a few minutes. 53 sailors were killed and more than five hundred were rescued. It was the second loss of an Italian armoured cruiser in the Adriatic in less than two weeks.
 
 ## Shelling the railway
 
-*Giuseppe Garibaldi*, launched in 1899, was the flagship of Rear Admiral Eugenio Trifari's 5th Cruiser Division, based at [Brindisi](https://pl.wikipedia.org/wiki/Brindisi). The division also included two sister cruisers, *Varese* and *Francesco Ferruccio*. A week earlier *Garibaldi* and *Varese* had [covered the landing on Pelagosa](/wlosi-zajmuja-pelagose). The Italians wanted to hamper Austrian supply of the troops in southern Dalmatia and the Bay of Kotor, and so from time to time they shelled from the sea the railway line that ran along the narrow coastal strip from [Dubrovnik](https://pl.wikipedia.org/wiki/Dubrownik) towards [Kotor](https://pl.wikipedia.org/wiki/Kotor). Trifari had carried out the first such raid at the beginning of June.
+*Giuseppe Garibaldi*, launched in 1899, was the flagship of Rear Admiral Eugenio Trifari's 5th Cruiser Division, based at [Brindisi](https://pl.wikipedia.org/wiki/Brindisi). The division also included two sister cruisers, *Varese* and *Francesco Ferruccio*. A week earlier *Garibaldi* and *Varese* had [covered the landing on Pelagosa](/wlosi-zajmuja-pelagose). The Italians wanted to hamper Austrian supply of the troops in southern Dalmatia and the Bay of Kotor, and so from time to time they shelled from the sea the railway line that ran along the narrow coastal strip from [Dubrovnik](https://pl.wikipedia.org/wiki/Dubrownik) towards [Kotor](/miejsca/kotor). Trifari had carried out the first such raid at the beginning of June.
 
 On the evening of 17 July the three cruisers, escorted by destroyers and torpedo boats, left Brindisi. At 4 a.m. on 18 July, off Cavtat, they opened fire on bridges, tracks and railway buildings visible from the sea. After about twenty minutes a submarine periscope was spotted from *Varese*. The bombardment was broken off and the cruisers began to turn away.
 

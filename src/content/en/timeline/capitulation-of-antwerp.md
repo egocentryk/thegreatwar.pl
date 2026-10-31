@@ -2,10 +2,10 @@
 title: Capitulation of Antwerp
 summary: On 10 October 1914 Antwerp formally capitulated. Governor Deguise surrendered at Fort Sainte-Marie, and thousands of soldiers were interned in the Netherlands.
 source: kapitulacja-antwerpii
-sourceHash: acef2b89feea39c108ae417f6783bdb1821cd555
+sourceHash: 7f7c6fb0a1aff29142736288f27f63d512ffdbdd
 ---
 
-On 10 October 1914 [Antwerp](https://pl.wikipedia.org/wiki/Antwerpia), Belgium's largest port and its national redoubt, formally capitulated. At noon the agreement that the city's representatives had [signed at Kontich](/upadek-ostatnich-fortow-antwerpii) the previous day came into force. The governor of the fortress, General Victor Deguise, surrendered to the Germans in one of the forts on the left bank of the [Scheldt](https://pl.wikipedia.org/wiki/Skalda). The fortress, regarded as one of the strongest in Europe, had held out for less than two weeks.
+On 10 October 1914 [Antwerp](/miejsca/antwerpia), Belgium's largest port and its national redoubt, formally capitulated. At noon the agreement that the city's representatives had [signed at Kontich](/upadek-ostatnich-fortow-antwerpii) the previous day came into force. The governor of the fortress, General Victor Deguise, surrendered to the Germans in one of the forts on the left bank of the [Scheldt](https://pl.wikipedia.org/wiki/Skalda). The fortress, regarded as one of the strongest in Europe, had held out for less than two weeks.
 
 ## A capitulation concluded by civilians
 
