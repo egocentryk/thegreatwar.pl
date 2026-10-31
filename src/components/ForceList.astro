@@ -1,0 +1,74 @@
+---
+// The index of "Siły zbrojne" pages (/sily-zbrojne, /en/armed-forces): every
+// force with its state and lead.
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import type { Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { localCountries } from "@/utils/countries"
+import { localForces } from "@/utils/forces"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const en = lang === "en"
+const forces = await localForces(lang)
+const countries = new Map([...(await localCountries("pl")), ...(await localCountries(lang))].map((c) => [c.id, c.name]))
+const t = {
+  pl: {
+    title: "Siły zbrojne I wojny światowej",
+    eyebrow: "Siły zbrojne",
+    lead: "Armie, floty i lotnictwo, które prowadziły tę wojnę.",
+    text: "Kiedy powstały, kto nimi dowodził, gdzie walczyły i co z nich zostało. Pod tekstem ich bitwy i wszystkie wydarzenia z kroniki, które się z nimi wiążą.",
+    description:
+      "Siły zbrojne I wojny światowej, każda na jednej stronie: kiedy powstała, kto nią dowodził, jej bitwy w latach 1914–1918 i wydarzenia z kroniki.",
+  },
+  en: {
+    title: "Armed forces of the First World War",
+    eyebrow: "Armed forces",
+    lead: "The armies, fleets and air services that fought this war.",
+    text: "When they were formed, who commanded them, where they fought and what became of them. Below the text, their battles and every event of the chronicle connected with them.",
+    description:
+      "Armed forces of the First World War, each on one page: when it was formed, who commanded it, its battles in 1914–1918 and the events of the chronicle.",
+  },
+}[lang]
+const jsonLd = listPageLd(Astro.site!, {
+  lang,
+  path: paths(lang).forces,
+  name: t.eyebrow,
+  description: t.description,
+  items: forces.map((force) => force.href),
+})
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.description}
+  lang={lang}
+  alternates={en ? { pl: paths("pl").forces } : { en: paths("en").forces }}
+  jsonLd={jsonLd}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow={t.eyebrow} count={forces.length} level={1} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">{t.lead}</p>
+    <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">{t.text}</p>
+    <ul class="border-line mt-10 grid gap-px border-t sm:grid-cols-2 lg:grid-cols-3">
+      {
+        forces.map((force) => (
+          <li class="border-line border-b py-5 sm:pr-8">
+            <a href={force.href} class="group block">
+              <span class="text-ink-soft block font-mono text-[10px] tracking-[0.2em] uppercase">
+                {countries.get(force.source.data.country.id)}
+              </span>
+              <span class="font-display text-ink group-hover:text-signal mt-1 block text-2xl transition-colors">{force.name}</span>
+              <span class="text-ink-soft mt-2 block text-sm leading-6">{force.summary}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</BaseLayout>

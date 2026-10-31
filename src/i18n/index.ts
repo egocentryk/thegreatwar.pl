@@ -52,6 +52,7 @@ export const enPath = {
   topics: (slug: string) => `/en/topics/${slug}`,
   countries: (slug: string) => `/en/countries/${slug}`,
   places: (slug: string) => `/en/places/${slug}`,
+  forces: (slug: string) => `/en/armed-forces/${slug}`,
   glossary: (slug: string) => `/en/glossary/${slug}`,
 }
 
@@ -62,6 +63,7 @@ export const plPath = {
   topics: (id: string) => `/tematy/${id}`,
   countries: (id: string) => `/kraje/${id}`,
   places: (id: string) => `/miejsca/${id}`,
+  forces: (id: string) => `/sily-zbrojne/${id}`,
   glossary: (id: string) => `/slownik/${id}`,
 }
 
@@ -71,13 +73,14 @@ type Kind = keyof typeof enPath
 let mapsPromise: Promise<Record<Kind, Map<string, string>>> | undefined
 export function enSlugMaps() {
   mapsPromise ??= (async () => {
-    const [t, b, p, g, c, m] = await Promise.all([
+    const [t, b, p, g, c, m, f] = await Promise.all([
       getCollection("timelineEn", ({ data }) => !data.draft),
       getCollection("battlesEn", ({ data }) => !data.draft),
       getCollection("peopleEn", ({ data }) => !data.draft),
       getCollection("topicsEn", ({ data }) => !data.draft),
       getCollection("countriesEn", ({ data }) => !data.draft),
       getCollection("placesEn", ({ data }) => !data.draft),
+      getCollection("forcesEn", ({ data }) => !data.draft),
     ])
     return {
       timeline: new Map(t.map((e) => [e.data.source.id, e.id])),
@@ -86,6 +89,7 @@ export function enSlugMaps() {
       topics: new Map(g.map((e) => [e.data.source.id, e.id])),
       countries: new Map(c.map((e) => [e.data.source.id, e.id])),
       places: new Map(m.map((e) => [e.data.source.id, e.id])),
+      forces: new Map(f.map((e) => [e.data.source.id, e.id])),
       // Every glossary term has an English page.
       glossary: new Map(glossaryData.map((e) => [e.slug, e.slugEn])),
     }
@@ -122,7 +126,7 @@ const PL_MARK = ' <span class="lang-mark" title="W języku polskim / in Polish">
 
 // Rewrites the links of a rendered English article:
 //   /slug, /bitwy/slug, /postacie/slug, /tematy/slug, /kraje/slug,
-//   /miejsca/slug, /slownik/slug -> English
+//   /miejsca/slug, /sily-zbrojne/slug, /slownik/slug -> English
 //     page if translated,
 //     otherwise kept and marked (PL);
 //   pl.wikipedia -> en.wikipedia if there is a counterpart,
@@ -140,7 +144,7 @@ export async function rewriteEnHtml(html: string) {
         if (url) return `<a href="${url}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`
       }
-      const internal = href.match(/^\/(?:(bitwy|postacie|tematy|kraje|miejsca|slownik)\/)?([a-z0-9-]+)(#[^"]*)?$/)
+      const internal = href.match(/^\/(?:(bitwy|postacie|tematy|kraje|miejsca|sily-zbrojne|slownik)\/)?([a-z0-9-]+)(#[^"]*)?$/)
       if (internal) {
         const kind: Kind =
           internal[1] === "bitwy"
@@ -153,9 +157,11 @@ export async function rewriteEnHtml(html: string) {
                   ? "countries"
                   : internal[1] === "miejsca"
                     ? "places"
-                    : internal[1] === "slownik"
-                      ? "glossary"
-                      : "timeline"
+                    : internal[1] === "sily-zbrojne"
+                      ? "forces"
+                      : internal[1] === "slownik"
+                        ? "glossary"
+                        : "timeline"
         const slug = maps[kind].get(internal[2])
         if (slug) return `<a href="${enPath[kind](slug)}${internal[3] ?? ""}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`

@@ -2,10 +2,10 @@
 title: Mutiny in the German fleet
 summary: On 2 August 1917 about 600 sailors of the battleship Prinzregent Luitpold went ashore without leave at Wilhelmshaven, demanding the release of arrested men.
 source: bunt-w-niemieckiej-flocie
-sourceHash: ef53af082d696e10c43ec659b45a87b666eb8f9b
+sourceHash: faccf0762e9dc85ae95f35bcb2bd447ddbfd378c
 ---
 
-On 2 August 1917 [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven), the main base of the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte), saw the largest sailors' protest since the beginning of the war. About 600 seamen and stokers of the battleship *Prinzregent Luitpold* went ashore without leave and marched to Rüstersiel on the outskirts of the town to speak up for comrades arrested the day before. The protest was peaceful, but the command treated it as a mutiny and a conspiracy aimed at the fleet's fighting readiness. The British chronology of the war records the outbreak of the mutiny in the German fleet under 3 August, although German studies consistently date the march out to 2 August.
+On 2 August 1917 [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven), the main base of the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska), saw the largest sailors' protest since the beginning of the war. About 600 seamen and stokers of the battleship *Prinzregent Luitpold* went ashore without leave and marched to Rüstersiel on the outskirts of the town to speak up for comrades arrested the day before. The protest was peaceful, but the command treated it as a mutiny and a conspiracy aimed at the fleet's fighting readiness. The British chronology of the war records the outbreak of the mutiny in the German fleet under 3 August, although German studies consistently date the march out to 2 August.
 
 ## An idle fleet
 

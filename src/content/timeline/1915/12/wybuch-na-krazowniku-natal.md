@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 30 grudnia 1915 roku w zatoce [Cromarty Firth](https://pl.wikipedia.org/wiki/Cromarty_Firth) w północnej Szkocji, na kotwicowisku jednej z baz [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), wyleciał w powietrze brytyjski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) Natal. Seria wybuchów rozerwała rufową część okrętu, który w ciągu kilku minut przewrócił się i osiadł na dnie płytkiej zatoki. Zginęło około 400 ludzi. Wśród nich byli także goście dowódcy: kobiety, dzieci i pielęgniarki, zaproszeni na pokład na świąteczne przyjęcie z pokazem filmowym. Była to druga w ciągu dwóch miesięcy strata krążownika Grand Fleet poza walką. Pod koniec października na skałach u wschodnich wybrzeży Szkocji [rozbił się Argyll](/katastrofa-krazownika-argyll).
+Po południu 30 grudnia 1915 roku w zatoce [Cromarty Firth](https://pl.wikipedia.org/wiki/Cromarty_Firth) w północnej Szkocji, na kotwicowisku jednej z baz [Grand Fleet](/sily-zbrojne/grand-fleet), wyleciał w powietrze brytyjski [krążownik pancerny](https://pl.wikipedia.org/wiki/Krążownik_pancerny) Natal. Seria wybuchów rozerwała rufową część okrętu, który w ciągu kilku minut przewrócił się i osiadł na dnie płytkiej zatoki. Zginęło około 400 ludzi. Wśród nich byli także goście dowódcy: kobiety, dzieci i pielęgniarki, zaproszeni na pokład na świąteczne przyjęcie z pokazem filmowym. Była to druga w ciągu dwóch miesięcy strata krążownika Grand Fleet poza walką. Pod koniec października na skałach u wschodnich wybrzeży Szkocji [rozbił się Argyll](/katastrofa-krazownika-argyll).
 
 ## Przyjęcie na pokładzie
 

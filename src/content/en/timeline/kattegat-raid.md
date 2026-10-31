@@ -2,10 +2,10 @@
 title: Kattegat raid
 summary: On 2 November 1917 British destroyers broke into the Kattegat and sank the German Q-ship K and the eight or nine trawlers it was escorting.
 source: rajd-na-kattegat
-sourceHash: dad2d16998a034299af53f719237d5f040a13281
+sourceHash: 58582711db524c01ac5c60ce6b55ecf8d17b4e82
 ---
 
-On 2 November 1917 British ships of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) attacked German forces in the [Kattegat](https://pl.wikipedia.org/wiki/Kattegat), the strait between Denmark and Sweden. Destroyers of the 15th Flotilla, led by the flotilla leader *Parker*, sank the German armed ship *K* and the German fishing trawlers it was escorting. The British official history (Newbolt) writes that the commander of the Grand Fleet had sent "a very considerable force" of light cruisers and destroyers into the Kattegat as early as 31 October. The action recorded in the British chronology of the war took place two days later.
+On 2 November 1917 British ships of the [Grand Fleet](/sily-zbrojne/grand-fleet) attacked German forces in the [Kattegat](https://pl.wikipedia.org/wiki/Kattegat), the strait between Denmark and Sweden. Destroyers of the 15th Flotilla, led by the flotilla leader *Parker*, sank the German armed ship *K* and the German fishing trawlers it was escorting. The British official history (Newbolt) writes that the commander of the Grand Fleet had sent "a very considerable force" of light cruisers and destroyers into the Kattegat as early as 31 October. The action recorded in the British chronology of the war took place two days later.
 
 ## Why the British went into the Kattegat
 

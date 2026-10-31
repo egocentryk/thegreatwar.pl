@@ -36,7 +36,7 @@ Jesienią 1915 roku ochotników było coraz mniej, a w rządzie [Herberta Henry'
 
 Raport Derby'ego, ogłoszony na początku stycznia 1916 roku, pokazał, że ponad dwa miliony mężczyzn w wieku poborowym, w tym ponad milion kawalerów, ani się nie zapisało, ani nie zostało odrzuconych. Był to najmocniejszy argument zwolenników przymusu i jeszcze w tym samym miesiącu [Wielka Brytania wprowadziła pobór](/wielka-brytania-wprowadza-pobor) kawalerów, a wiosną [także żonatych](/izba-gmin-uchwala-pobor-zonatych). Derby zarzucał później, że zbyt wielu młodych mężczyzn chroni przed wojskiem praca w zawodach uznanych za niezbędne.
 
-W lutym 1916 roku Asquith powierzył mu też przewodnictwo [Wspólnego Wojennego Komitetu Lotniczego](/powstaje-rada-lotnicza), który miał koordynować zaopatrzenie [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) i lotnictwa marynarki. Komitet nie miał żadnej władzy wykonawczej i 3 kwietnia Derby zrezygnował, pisząc premierowi, że oba lotnictwa da się zbliżyć dopiero wtedy, gdy zostaną połączone w jedną służbę.
+W lutym 1916 roku Asquith powierzył mu też przewodnictwo [Wspólnego Wojennego Komitetu Lotniczego](/powstaje-rada-lotnicza), który miał koordynować zaopatrzenie [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) i lotnictwa marynarki. Komitet nie miał żadnej władzy wykonawczej i 3 kwietnia Derby zrezygnował, pisząc premierowi, że oba lotnictwa da się zbliżyć dopiero wtedy, gdy zostaną połączone w jedną służbę.
 
 ## W War Office
 

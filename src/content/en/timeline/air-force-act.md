@@ -2,10 +2,10 @@
 title: The Air Force Act
 summary: On 29 November 1917 the British Air Force Act received royal assent. It paved the way for merging the army and navy air services into the RAF.
 source: ustawa-o-silach-powietrznych
-sourceHash: 0a75ca9d8c506382f267be0aa594e66dd7b08055
+sourceHash: 84a4246fa831c8e7907f46aa04d6bfb5c363b296
 ---
 
-On 29 November 1917 it was announced in the House of Lords that two acts had received royal assent. One of them was the act on the air force, known by its full title as the Air Force (Constitution) Act 1917. According to its title it was "to make provision for the establishment, administration and discipline of an Air Force" and to set up an Air Council. This was the legal birth of a third branch of the British armed forces, alongside the army and the navy. Until then Britain had had two air services: the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), subordinate to the army, and the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), belonging to the navy. The act did not merge them at once, but it created the basis for doing so.
+On 29 November 1917 it was announced in the House of Lords that two acts had received royal assent. One of them was the act on the air force, known by its full title as the Air Force (Constitution) Act 1917. According to its title it was "to make provision for the establishment, administration and discipline of an Air Force" and to set up an Air Council. This was the legal birth of a third branch of the British armed forces, alongside the army and the navy. Until then Britain had had two air services: the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), subordinate to the army, and the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), belonging to the navy. The act did not merge them at once, but it created the basis for doing so.
 
 ## From the Gothas to the Smuts report
 

@@ -2,10 +2,10 @@
 title: First air patrol over the British retreat
 summary: On 25 August 1914 British airmen patrolled the skies over the retreating army and forced a German aircraft to land. It was one of the first air combats.
 source: pierwszy-lotniczy-patrol-nad-odwrotem-brytyjczykow
-sourceHash: 5a5c9f4efe33c6e4f57ac21b3ee2e40e236debba
+sourceHash: b5066c87b9b2a8b5333768c162899c51172ddd72
 ---
 
-On 25 August 1914, the second day of the retreat from Mons, aircraft of the British [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) carried out patrol duties over the withdrawing troops for the first time. The British chronology of the war records this day as the first use of aircraft for patrolling. That same day British airmen forced a German aircraft to land.
+On 25 August 1914, the second day of the retreat from Mons, aircraft of the British [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) carried out patrol duties over the withdrawing troops for the first time. The British chronology of the war records this day as the first use of aircraft for patrolling. That same day British airmen forced a German aircraft to land.
 
 ## Aircraft in the retreat
 

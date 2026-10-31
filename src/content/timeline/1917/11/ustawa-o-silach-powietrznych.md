@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 listopada 1917 roku w Izbie Lordów ogłoszono, że sankcję królewską otrzymały dwie ustawy. Jedną z nich była ustawa o siłach powietrznych, znana pod pełną nazwą Air Force (Constitution) Act 1917. Według jej tytułu miała „zapewnić utworzenie, administrację i dyscyplinę sił powietrznych” oraz powołać Radę Sił Powietrznych (Air Council). Były to prawne narodziny trzeciego, obok armii i floty, rodzaju brytyjskich sił zbrojnych. Dotąd Wielka Brytania miała dwa lotnictwa: [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), podległy armii, i [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), należący do marynarki. Ustawa nie łączyła ich od razu, ale stwarzała do tego podstawę.
+29 listopada 1917 roku w Izbie Lordów ogłoszono, że sankcję królewską otrzymały dwie ustawy. Jedną z nich była ustawa o siłach powietrznych, znana pod pełną nazwą Air Force (Constitution) Act 1917. Według jej tytułu miała „zapewnić utworzenie, administrację i dyscyplinę sił powietrznych” oraz powołać Radę Sił Powietrznych (Air Council). Były to prawne narodziny trzeciego, obok armii i floty, rodzaju brytyjskich sił zbrojnych. Dotąd Wielka Brytania miała dwa lotnictwa: [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), podległy armii, i [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), należący do marynarki. Ustawa nie łączyła ich od razu, ale stwarzała do tego podstawę.
 
 ## Od Gothów do raportu Smutsa
 

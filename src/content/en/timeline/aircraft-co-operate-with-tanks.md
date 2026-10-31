@@ -2,10 +2,10 @@
 title: Aircraft co-operate with tanks
 summary: On 15 September 1916 RFC airmen followed the first tanks in battle on the Somme. They sent the famous report of a tank driving up the main street of Flers.
 source: wspolpraca-lotnictwa-z-czolgami
-sourceHash: 99b93dce25e02a0bcac4ee9dd461fecf798bdc40
+sourceHash: 3c1f7f08c330fe1acc5c8ba9e7535a8c203df961
 ---
 
-15 September 1916, the day on which the British Army [sent tanks into battle for the first time](/poczatek-bitwy-pod-flers-courcelette), was also an exceptional day for the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps). According to the British official history of the air war, H. A. Jones's *The War in the Air*, RFC airmen spent more hours in the air that day and fought more combats than at any time since the start of the war. Forty-nine [Mark I](https://pl.wikipedia.org/wiki/Mark_I) tanks were prepared for the attack, of which 42 were allotted to the Fourth Army and the rest to the Reserve Army, whose Canadian Corps was attacking [Courcelette](https://pl.wikipedia.org/wiki/Courcelette). What they did in battle was to be reported by the observers of contact patrols from the corps squadrons. The British [had been using this method of following the infantry from the air on a large scale since 1 July](/pierwsze-patrole-kontaktowe-rfc); now for the first time it also covered the new weapon.
+15 September 1916, the day on which the British Army [sent tanks into battle for the first time](/poczatek-bitwy-pod-flers-courcelette), was also an exceptional day for the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps). According to the British official history of the air war, H. A. Jones's *The War in the Air*, RFC airmen spent more hours in the air that day and fought more combats than at any time since the start of the war. Forty-nine [Mark I](https://pl.wikipedia.org/wiki/Mark_I) tanks were prepared for the attack, of which 42 were allotted to the Fourth Army and the rest to the Reserve Army, whose Canadian Corps was attacking [Courcelette](https://pl.wikipedia.org/wiki/Courcelette). What they did in battle was to be reported by the observers of contact patrols from the corps squadrons. The British [had been using this method of following the infantry from the air on a large scale since 1 July](/pierwsze-patrole-kontaktowe-rfc); now for the first time it also covered the new weapon.
 
 ## The night before the attack
 

@@ -2,10 +2,10 @@
 title: End of the Battle of Jutland
 summary: On 1 June 1916 the High Seas Fleet slipped home past Horns Reef, and Jellicoe turned back after a fruitless search. Both sides claimed victory.
 source: koniec-bitwy-jutlandzkiej
-sourceHash: c3d4928c060cd9f994feb543050fc5b8b773e8f1
+sourceHash: 2ef34f17e0da5aa081993f5b79c66436758c02ef
 ---
 
-On 1 June 1916, after a night of chaotic clashes in the North Sea, the [Battle of Jutland](/poczatek-bitwy-jutlandzkiej) came to an end. Admiral [Reinhard Scheer](/postacie/reinhard-scheer)'s German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) had crossed the track of the British [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) in the darkness and at dawn was already off the [Horns Reef](https://pl.wikipedia.org/wiki/Horns_Rev), from where a safe route led home. Admiral [John Jellicoe](/postacie/john-jellicoe) spent the whole morning combing the sea for damaged German ships, and before noon turned back to his bases. Both fleets returned to port, and over the next few days both sides announced that they had won. Times are given, as in the British official history, in Greenwich Mean Time.
+On 1 June 1916, after a night of chaotic clashes in the North Sea, the [Battle of Jutland](/poczatek-bitwy-jutlandzkiej) came to an end. Admiral [Reinhard Scheer](/postacie/reinhard-scheer)'s German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) had crossed the track of the British [Grand Fleet](/sily-zbrojne/grand-fleet) in the darkness and at dawn was already off the [Horns Reef](https://pl.wikipedia.org/wiki/Horns_Rev), from where a safe route led home. Admiral [John Jellicoe](/postacie/john-jellicoe) spent the whole morning combing the sea for damaged German ships, and before noon turned back to his bases. Both fleets returned to port, and over the next few days both sides announced that they had won. Times are given, as in the British official history, in Greenwich Mean Time.
 
 ## Escape past Horns Reef
 

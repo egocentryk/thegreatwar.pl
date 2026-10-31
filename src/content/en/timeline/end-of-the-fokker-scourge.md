@@ -2,7 +2,7 @@
 title: End of the "Fokker Scourge"
 summary: In spring 1916 new Allied fighters and flying in formation robbed the Fokkers of their superiority over the Western Front. The date of 1 April is notional.
 source: koniec-plagi-fokkerow
-sourceHash: 6b510599e67d0e939c17435def798dd467beff94
+sourceHash: 466fbb9930ba0b73316ab84ea937142954ff956c
 ---
 
 A British chronology of the war closes under 1 April 1916 the period of German mastery of the air over the Western Front that it opened under 1 October 1915, when [the "Fokker Scourge" began](/poczatek-plagi-fokkerow). Like the beginning, the end of this period has a notional date. Nothing decisive happened that day, and German superiority melted away gradually throughout the spring. According to the British official history of the air war, *The War in the Air*, the Fokkers kept it until about May. Some historians consider that the "scourge" proper ended as early as February, because after that the monoplane pilots claimed fewer and fewer victories.
@@ -15,7 +15,7 @@ They flew mainly [Nieuport 11s](https://pl.wikipedia.org/wiki/Nieuport_11), smal
 
 ## The British "pushers"
 
-The [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), which over the winter had had to send several escort aircraft with every reconnaissance machine, received at this time two new types of aircraft with a pusher propeller mounted behind the cockpit. As a result the gun in front could fire freely, without any synchroniser. On 23 January 1916 the first complete squadron of two-seat [F.E.2bs](https://pl.wikipedia.org/wiki/Royal_Aircraft_Factory_F.E.2) arrived in France, and a second on 20 February. Their crews found that in close formation they could beat off Fokker attacks. On 8 February Major [Lanoe Hawker](https://pl.wikipedia.org/wiki/Lanoe_Hawker)'s No. 24 Squadron arrived, the first squadron of single-seat [Airco DH.2](https://pl.wikipedia.org/wiki/Airco_DH.2) fighters. For several weeks its pilots trained on patrols north of the Somme. In March the first Nieuports also reached two British squadrons, and on 25 March the first British aircraft with a synchroniser, the single-seat [Bristol Scout](https://pl.wikipedia.org/wiki/Bristol_Scout).
+The [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), which over the winter had had to send several escort aircraft with every reconnaissance machine, received at this time two new types of aircraft with a pusher propeller mounted behind the cockpit. As a result the gun in front could fire freely, without any synchroniser. On 23 January 1916 the first complete squadron of two-seat [F.E.2bs](https://pl.wikipedia.org/wiki/Royal_Aircraft_Factory_F.E.2) arrived in France, and a second on 20 February. Their crews found that in close formation they could beat off Fokker attacks. On 8 February Major [Lanoe Hawker](https://pl.wikipedia.org/wiki/Lanoe_Hawker)'s No. 24 Squadron arrived, the first squadron of single-seat [Airco DH.2](https://pl.wikipedia.org/wiki/Airco_DH.2) fighters. For several weeks its pilots trained on patrols north of the Somme. In March the first Nieuports also reached two British squadrons, and on 25 March the first British aircraft with a synchroniser, the single-seat [Bristol Scout](https://pl.wikipedia.org/wiki/Bristol_Scout).
 
 ## A Fokker in British hands
 

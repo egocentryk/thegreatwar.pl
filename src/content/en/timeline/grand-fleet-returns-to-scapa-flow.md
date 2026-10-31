@@ -2,10 +2,10 @@
 title: Grand Fleet returns to Scapa Flow
 summary: On 3 November 1914 the Admiralty ordered the Grand Fleet back to Scapa Flow from Ireland. The battleships arrived on 7–9 November, though the base had no booms.
 source: grand-fleet-wraca-do-scapa-flow
-sourceHash: 795755f06766e61a2f04688ecf8bced22b181405
+sourceHash: 94ab16ef53150a9fe9e4ef4eb667035933afa4bb
 ---
 
-The British chronicle of the events of the war recorded under 3 November 1914 the order for the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) to return to [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in the [Orkneys](https://pl.wikipedia.org/wiki/Orkady). For two weeks the fleet's main forces had been stationed in [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) in the north of Ireland and in Loch na Keal on the island of Mull, where Admiral [John Jellicoe](/postacie/john-jellicoe) had [moved them for fear of U-boats](/grand-fleet-opuszcza-scapa-flow).
+The British chronicle of the events of the war recorded under 3 November 1914 the order for the [Grand Fleet](/sily-zbrojne/grand-fleet) to return to [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in the [Orkneys](https://pl.wikipedia.org/wiki/Orkady). For two weeks the fleet's main forces had been stationed in [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) in the north of Ireland and in Loch na Keal on the island of Mull, where Admiral [John Jellicoe](/postacie/john-jellicoe) had [moved them for fear of U-boats](/grand-fleet-opuszcza-scapa-flow).
 
 Jellicoe spent 2 November at a conference at the Admiralty with the First Lord of the Admiralty, Winston Churchill, and the new First Sea Lord, John Fisher. Among other things they discussed the defence of the fleet's bases and the number of trawlers needed to patrol the waters around the Orkneys and Shetlands. When he returned to Lough Swilly at noon on 3 November, he found the fleet under an Admiralty order to sail at once for Scapa Flow. The order was most probably issued in response to news of the [German raid on Yarmouth](/niemiecki-rajd-na-yarmouth). After Jellicoe's arrival it was cancelled, and the decision on the fleet's movements was left to him.
 

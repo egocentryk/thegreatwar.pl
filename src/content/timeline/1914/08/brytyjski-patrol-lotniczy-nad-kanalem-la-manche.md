@@ -25,4 +25,4 @@ Przerzut korpusu ekspedycyjnego przebiegał głównie między 12 a 18 sierpnia. 
 
 ## Znaczenie
 
-Patrole nad kanałem La Manche zapowiadały nową rolę lotnictwa w wojnie morskiej. W kolejnych latach samoloty i sterowce stały się ważnym narzędziem w walce z niemieckimi okrętami podwodnymi, osłaniając konwoje i wypatrując nieprzyjaciela. Równolegle rozwijało się lotnictwo armii lądowej, [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), którego pierwsze eskadry przeleciały do Francji w połowie sierpnia 1914 roku.
+Patrole nad kanałem La Manche zapowiadały nową rolę lotnictwa w wojnie morskiej. W kolejnych latach samoloty i sterowce stały się ważnym narzędziem w walce z niemieckimi okrętami podwodnymi, osłaniając konwoje i wypatrując nieprzyjaciela. Równolegle rozwijało się lotnictwo armii lądowej, [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), którego pierwsze eskadry przeleciały do Francji w połowie sierpnia 1914 roku.

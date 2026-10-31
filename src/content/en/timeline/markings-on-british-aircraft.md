@@ -2,10 +2,10 @@
 title: Markings on British aircraft
 summary: On 12 November 1914 an order required all Royal Flying Corps aircraft to carry identification marks. The Union flag gave way to a French-style roundel.
 source: oznaczenia-na-brytyjskich-samolotach
-sourceHash: 65295bd6f5546576b55948bcbbe4a15d1d8eeb15
+sourceHash: df169ad72bb741500f695341875c7d290462038c
 ---
 
-On 12 November 1914, according to the British chronicle of the war, an order was issued that all aircraft of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) were to carry identification marks. This is the date of the routine order which, according to some studies, introduced on British aircraft a roundel of concentric circles modelled on the marking of the French air service. Other sources regard its formal adoption as dating only from 11 December 1914, with the new marks being painted on in the squadrons from 12 December.
+On 12 November 1914, according to the British chronicle of the war, an order was issued that all aircraft of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) were to carry identification marks. This is the date of the routine order which, according to some studies, introduced on British aircraft a roundel of concentric circles modelled on the marking of the French air service. Other sources regard its formal adoption as dating only from 11 December 1914, with the new marks being painted on in the squadrons from 12 December.
 
 The problem was the same one that a few weeks earlier had led the Germans to [paint black crosses](/oznaczenia-na-niemieckich-samolotach). Soldiers on the ground, unable to tell their own aircraft from the enemy's, fired at all of them. So in the very first weeks of the war, according to some sources under an order from the end of August, the British began to paint the [Union flag](https://pl.wikipedia.org/wiki/Flaga_Wielkiej_Brytanii) under the lower wings and later also on the fuselages. Close up it was clearly visible, but from greater height and distance what stood out most was the red cross of St George, which was easily mistaken for the German cross. Attempts were also made to place the flag on a shield, but that did not help either.
 

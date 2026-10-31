@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 listopada 1917 roku brytyjskie okręty z [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) zaatakowały niemieckie siły w [Kattegacie](https://pl.wikipedia.org/wiki/Kattegat), cieśninie między Danią a Szwecją. Niszczyciele 15 Flotylli, prowadzone przez okręt flagowy flotylli Parker, zatopiły niemiecki uzbrojony statek K i osłaniane przez niego niemieckie trawlery rybackie. Brytyjska historia oficjalna (Newbolt) pisze, że dowódca Grand Fleet wysłał do Kattegatu „bardzo znaczne siły” lekkich krążowników i niszczycieli już 31 października. Starcie, o którym mówi brytyjska chronologia wojny, rozegrało się dwa dni później.
+2 listopada 1917 roku brytyjskie okręty z [Grand Fleet](/sily-zbrojne/grand-fleet) zaatakowały niemieckie siły w [Kattegacie](https://pl.wikipedia.org/wiki/Kattegat), cieśninie między Danią a Szwecją. Niszczyciele 15 Flotylli, prowadzone przez okręt flagowy flotylli Parker, zatopiły niemiecki uzbrojony statek K i osłaniane przez niego niemieckie trawlery rybackie. Brytyjska historia oficjalna (Newbolt) pisze, że dowódca Grand Fleet wysłał do Kattegatu „bardzo znaczne siły” lekkich krążowników i niszczycieli już 31 października. Starcie, o którym mówi brytyjska chronologia wojny, rozegrało się dwa dni później.
 
 ## Po co Brytyjczycy weszli w Kattegat
 

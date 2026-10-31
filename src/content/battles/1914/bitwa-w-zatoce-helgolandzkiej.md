@@ -21,7 +21,7 @@ milestone: false
 
 ## Wojna bez bitwy
 
-Przed wojną obie strony spodziewały się, że o panowaniu na morzu rozstrzygnie wielka bitwa flot liniowych na Morzu Północnym. Tak się nie stało. Brytyjska [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) zamknęła wyjścia z Morza Północnego i prowadziła blokadę na odległość, a niemiecka [Flota Pełnomorska](https://pl.wikipedia.org/wiki/Hochseeflotte) pozostawała w bazach, czekając na okazję do osłabienia przeciwnika. Wody przed niemieckimi portami, [Zatokę Helgolandzką](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), patrolowały torpedowce, wspierane przez lekkie krążowniki. Ufortyfikowana wyspa [Helgoland](https://pl.wikipedia.org/wiki/Helgoland) strzegła podejść do ujść Łaby, Wezery i Jade, gdzie stały główne siły floty.
+Przed wojną obie strony spodziewały się, że o panowaniu na morzu rozstrzygnie wielka bitwa flot liniowych na Morzu Północnym. Tak się nie stało. Brytyjska [Grand Fleet](/sily-zbrojne/grand-fleet) zamknęła wyjścia z Morza Północnego i prowadziła blokadę na odległość, a niemiecka [Flota Pełnomorska](/sily-zbrojne/flota-pelnomorska) pozostawała w bazach, czekając na okazję do osłabienia przeciwnika. Wody przed niemieckimi portami, [Zatokę Helgolandzką](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), patrolowały torpedowce, wspierane przez lekkie krążowniki. Ufortyfikowana wyspa [Helgoland](https://pl.wikipedia.org/wiki/Helgoland) strzegła podejść do ujść Łaby, Wezery i Jade, gdzie stały główne siły floty.
 
 ## Plan
 

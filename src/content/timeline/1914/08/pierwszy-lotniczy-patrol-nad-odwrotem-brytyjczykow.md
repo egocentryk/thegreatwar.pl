@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku, drugiego dnia odwrotu spod Mons, samoloty brytyjskiego [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) po raz pierwszy wykonywały zadania patrolowe nad wycofującymi się wojskami. Brytyjska chronologia wojny odnotowuje ten dzień jako pierwsze użycie lotnictwa do patrolowania. Tego samego dnia brytyjscy lotnicy zmusili do lądowania niemiecki samolot.
+25 sierpnia 1914 roku, drugiego dnia odwrotu spod Mons, samoloty brytyjskiego [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) po raz pierwszy wykonywały zadania patrolowe nad wycofującymi się wojskami. Brytyjska chronologia wojny odnotowuje ten dzień jako pierwsze użycie lotnictwa do patrolowania. Tego samego dnia brytyjscy lotnicy zmusili do lądowania niemiecki samolot.
 
 ## Lotnictwo w odwrocie
 

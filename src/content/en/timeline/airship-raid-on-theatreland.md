@@ -2,7 +2,7 @@
 title: Airship raid on Theatreland
 summary: On the evening of 13 October 1915 the airship L 15 bombed London's Theatreland. The raid by five airships killed 71 people and injured 128.
 source: nalot-sterowcow-na-dzielnice-teatrow
-sourceHash: 9a00aed65ad1bd9042538c130efbf3dc9a8233ca
+sourceHash: 5acf11610172dcb0fb72ddf57af0bd5aa23e94d2
 ---
 
 On the evening of 13 October 1915 the German naval [airship](/slownik/sterowiec) L 15 of Kapitänleutnant Joachim Breithaupt flew over the very centre of London. At about 9.35 p.m. it began dropping bombs around [Covent Garden](https://pl.wikipedia.org/wiki/Covent_Garden) and the [Strand](https://pl.wikipedia.org/wiki/Strand_(Londyn)), in the heart of the theatre district. One bomb fell at the junction of Wellington Street and Exeter Street, in front of the Lyceum Theatre, and killed 17 people. It was the deadliest airship raid on Britain in 1915. In England it went down in history as the "Theatreland raid".
@@ -17,7 +17,7 @@ London's defences were already stronger than in the spring. In September, after 
 
 L 15, for which this was the first flight over England, attacked most effectively. Breithaupt skirted the city to the west so as to cross it with the wind, and, finding his bearings by [Hyde Park](https://pl.wikipedia.org/wiki/Hyde_Park) and the [Thames](https://pl.wikipedia.org/wiki/Tamiza), began bombing near [Charing Cross](https://pl.wikipedia.org/wiki/Charing_Cross). Bombs fell in turn on the Strand, Aldwych, the seats of two of London's Inns of Court, Lincoln's Inn and Gray's Inn, Chancery Lane, Hatton Garden, Farringdon Road, and further on Finsbury Pavement, Aldgate and the Minories. In Aldwych three or four people were killed and 15 injured. The historic stained glass of Lincoln's Inn chapel was damaged. The British counted 30 bombs from L 15 in London. They killed 28 people and injured 70.
 
-Breithaupt later described how over the City the searchlights lit up the airship "as bright as day", while shrapnel burst all around it. He also saw aeroplanes trying to close in on him and dropped all his ballast to climb out of their reach. In reality, because of the fog, only five [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) pilots took off. One of them, Second Lieutenant [John Slessor](https://pl.wikipedia.org/wiki/John_Slessor), spotted the airship in a searchlight beam but lost it in the clouds. Three pilots crashed their machines on landing in the fog.
+Breithaupt later described how over the City the searchlights lit up the airship "as bright as day", while shrapnel burst all around it. He also saw aeroplanes trying to close in on him and dropped all his ballast to climb out of their reach. In reality, because of the fog, only five [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) pilots took off. One of them, Second Lieutenant [John Slessor](https://pl.wikipedia.org/wiki/John_Slessor), spotted the airship in a searchlight beam but lost it in the clouds. Three pilots crashed their machines on landing in the fog.
 
 ## Woolwich, Croydon and Hertford
 

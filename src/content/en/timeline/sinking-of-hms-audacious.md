@@ -2,14 +2,14 @@
 title: Sinking of HMS Audacious
 summary: On 27 October 1914 the modern British battleship Audacious struck a mine off the north coast of Ireland and sank. The Admiralty kept it secret.
 source: zatoniecie-hms-audacious
-sourceHash: 1efd1a35444ba0591b4db014893694ac13acbf9c
+sourceHash: ad0faf9ec0f0e98e3df467026ca78ddf255161ad
 ---
 
 On the morning of 27 October 1914 the British battleship [Audacious](https://pl.wikipedia.org/wiki/HMS_Audacious_(1912)) struck a mine off the north coast of Ireland, near [Tory Island](https://pl.wikipedia.org/wiki/Tory_(wyspa)). Despite a struggle lasting many hours to keep the ship afloat, in the evening she capsized and sank. She was the first [dreadnought](https://pl.wikipedia.org/wiki/Drednot) lost by the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) in this war.
 
 ## A mine on the route to Lough Swilly
 
-Audacious belonged to the King George V class and had entered service only a year earlier, in October 1913. She served in the 2nd Battle Squadron of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet). After the [fleet moved away from Scapa Flow](/grand-fleet-opuszcza-scapa-flow), the squadron was based in [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) in the north of Ireland. On 27 October the ships put to sea for gunnery practice.
+Audacious belonged to the King George V class and had entered service only a year earlier, in October 1913. She served in the 2nd Battle Squadron of the [Grand Fleet](/sily-zbrojne/grand-fleet). After the [fleet moved away from Scapa Flow](/grand-fleet-opuszcza-scapa-flow), the squadron was based in [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) in the north of Ireland. On 27 October the ships put to sea for gunnery practice.
 
 No one knew that a few days earlier the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) Berlin, converted from a passenger liner, had laid about 200 mines in these waters. The Germans, for their part, did not know that the British fleet had moved to Ireland. The mines were meant to threaten merchant shipping leaving British ports for the Atlantic by the northern route.
 
@@ -23,6 +23,6 @@ Towards evening the rest of the crew were taken off. At about 8.45 p.m. Audaciou
 
 ## A wartime secret
 
-Jellicoe judged that the loss of one of the newest battleships was too valuable a piece of information for the Germans, as it weakened the Grand Fleet's superiority over the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte). At his request the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) kept the sinking secret, and the British press complied with the ban. Olympic was held in Lough Swilly until 2 November, and her passengers were not allowed to contact the outside world.
+Jellicoe judged that the loss of one of the newest battleships was too valuable a piece of information for the Germans, as it weakened the Grand Fleet's superiority over the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska). At his request the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) kept the sinking secret, and the British press complied with the ban. Olympic was held in Lough Swilly until 2 November, and her passengers were not allowed to contact the outside world.
 
 Keeping the secret, however, proved impossible. Among Olympic's passengers were Americans who had photographed and even filmed the sinking ship. News and pictures soon reached the other side of the Atlantic and the press. Nevertheless, the British Admiralty officially kept silent throughout the war. The loss of Audacious was announced only on 14 November 1918, three days after the armistice, in a statement published in "The Times".

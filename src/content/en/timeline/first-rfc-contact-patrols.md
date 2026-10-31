@@ -2,10 +2,10 @@
 title: First RFC contact patrols
 summary: On 1 July 1916 over the Somme, RFC airmen closely followed the infantry's advance, watching for flares and flashing mirrors. Such trials dated from 1915.
 source: pierwsze-patrole-kontaktowe-rfc
-sourceHash: c4a60d8df5942dc4cee7966e5aa902b488bbf15a
+sourceHash: 299cf5257c5869417af419d32e659789946b5877
 ---
 
-The British chronology of the war records under 1 July 1916, the first day of the Battle of the Somme, that contact patrols, that is, liaison between airmen and the attacking infantry, were "first introduced" in the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), the British Army's air arm. That day aircraft circled over each attacking corps with the sole task of following how far the troops had got and reporting it to headquarters as quickly as possible. Until then generals had often lost touch with the infantry for hours once it left the trenches: telephone cables broke under shellfire and runners were killed on the way. The words "first time" need a qualification, however. According to the British official air history, H. A. Jones's *The War in the Air*, 1 July 1916 was the first large-scale use in battle of a system that the British and French had been trying out for more than a year.
+The British chronology of the war records under 1 July 1916, the first day of the Battle of the Somme, that contact patrols, that is, liaison between airmen and the attacking infantry, were "first introduced" in the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), the British Army's air arm. That day aircraft circled over each attacking corps with the sole task of following how far the troops had got and reporting it to headquarters as quickly as possible. Until then generals had often lost touch with the infantry for hours once it left the trenches: telephone cables broke under shellfire and runners were killed on the way. The words "first time" need a qualification, however. According to the British official air history, H. A. Jones's *The War in the Air*, 1 July 1916 was the first large-scale use in battle of a system that the British and French had been trying out for more than a year.
 
 ## From white strips to mirrors
 

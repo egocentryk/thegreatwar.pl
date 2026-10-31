@@ -2,7 +2,7 @@
 title: The Battle of Neuve Chapelle begins
 summary: On 10 March 1915, after a 35-minute bombardment, the British First Army attacked at Neuve Chapelle. It took the village in hours but could go no further.
 source: poczatek-bitwy-pod-neuve-chapelle
-sourceHash: 4a3dd5bacf8c03caac98a1abf2b59c648ac0e6da
+sourceHash: cfcd592cf8b9efd02632bd8311752b2a4434e2a3
 brief:
   - "On 10 March 1915 General Douglas Haig's First Army attacked at Neuve Chapelle in French Flanders. It was the first offensive the British had planned and carried out on their own since the front congealed into trenches."
   - "Haig wanted to eliminate the German salient, take the village and push on to the Aubers Ridge. Preparations were thorough: maps from aerial photographs and more than 340 concealed guns with a timetable to the minute."
@@ -23,7 +23,7 @@ Two corps were assigned to the attack. IV Corps under General [Henry Rawlinson](
 
 ## New methods
 
-The preparations were more thorough than for any previous British attack. Airmen of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) photographed the German positions from the air, and on the basis of the [aerial photographs](https://pl.wikipedia.org/wiki/Aerofotografia) accurate maps of the German trenches were drawn for the first time and then issued to officers. More than 340 guns and howitzers were brought up to their positions by night and concealed, and every battery received a list of targets and a fire timetable down to the minute. The troops moved into their assembly positions at night, and by 4.30 a.m. everyone was in place. The Germans expected nothing.
+The preparations were more thorough than for any previous British attack. Airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) photographed the German positions from the air, and on the basis of the [aerial photographs](https://pl.wikipedia.org/wiki/Aerofotografia) accurate maps of the German trenches were drawn for the first time and then issued to officers. More than 340 guns and howitzers were brought up to their positions by night and concealed, and every battery received a list of targets and a fire timetable down to the minute. The troops moved into their assembly positions at night, and by 4.30 a.m. everyone was in place. The Germans expected nothing.
 
 ## Bombardment and assault
 

@@ -2,7 +2,7 @@
 title: Battle of Cambrai
 summary: On 20 November 1917 hundreds of British tanks, with no preliminary bombardment, broke the Hindenburg Line at Cambrai. Over 4,000 prisoners were taken.
 source: poczatek-bitwy-pod-cambrai
-sourceHash: d7e2562d5b4a63a085961d6999ace5766774d9a7
+sourceHash: b138d97dfe517dadc4cacfa6553e521db581e989
 brief:
   - "On 20 November 1917 General Julian Byng's British Third Army attacked the Hindenburg Line at Cambrai without artillery preparation. Several hundred Mark IV tanks drove ahead of the infantry."
   - "The new method was the work of, among others, General Hugh Elles and J. F. C. Fuller, who wanted to use tanks in mass on dry ground. More than a thousand guns opened fire only at the moment of the attack."
@@ -27,7 +27,7 @@ At 6.20, as the tanks and the infantry following them crossed the British line, 
 
 On the right of III Corps the 12th Division broke through the German lines along the Péronne–Cambrai road, took Lateau Wood and Bonavis Farm and advanced almost four and a half kilometres. Beside it the 20th Division took the village of La Vacquerie and reached the second line of defences. The 6th Division within a few hours captured both lines and the village of [Ribécourt](https://pl.wikipedia.org/wiki/Ribécourt-la-Tour), where it took several hundred prisoners. Its losses were little more than 450 men, which the division attributed to close co-operation between infantry and tanks. On the left of IV Corps the 62nd Division, made up of Yorkshiremen, after sharp fighting took the village and château park of [Havrincourt](https://pl.wikipedia.org/wiki/Havrincourt), while west of the Canal du Nord the Irishmen of the 36th Division stormed the great spoil heap from the canal excavations and pushed north along the German trenches. By about 11.30 the British held the Hindenburg Line along almost the whole front of attack and had begun to overrun the German artillery positions. In most battalions losses did not exceed eighty men.
 
-British aviation, the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), supported the attack despite mist that made observation impossible. Fighters dropped out of the clouds to bomb and machine-gun German troops, batteries and columns from low altitude. According to the history of British aviation they heightened the panic caused by the tanks, but paid a high price: about a third of the aircraft used in this way failed to return, crashed or were badly damaged.
+British aviation, the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), supported the attack despite mist that made observation impossible. Fighters dropped out of the clouds to bomb and machine-gun German troops, batteries and columns from low altitude. According to the history of British aviation they heightened the panic caused by the tanks, but paid a high price: about a third of the aircraft used in this way failed to return, crashed or were badly damaged.
 
 ## Flesquières
 

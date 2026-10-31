@@ -2,7 +2,7 @@
 title: Giants raid London
 summary: On the night of 7 March 1918 German giant bombers attacked London without moonlight. A bomb weighing a ton destroyed houses in Warrington Crescent.
 source: nalot-gigantow-na-londyn
-sourceHash: c3e6fb4ff477a2fb53a73449ff3dc2801c49a368
+sourceHash: 5e3623a9f3f574e44c813aae024cd36142cfe91d
 ---
 
 On the night of 7–8 March 1918 German bombers again attacked [London](https://pl.wikipedia.org/wiki/Londyn). This time only the so-called Giants (Riesenflugzeuge) came, the largest aircraft to fly over England during the war. The night was moonless. Since the autumn of 1917, when the German bombers [had switched to night attacks](/pierwszy-nocny-nalot-gothow-na-londyn), they had flown over England almost exclusively on bright nights, around the full moon, because moonlight helped the airmen find their way. That night the sky was lit only by the aurora borealis. In London 21 people were killed, and the most victims were claimed by a single bomb weighing a ton, which fell on a quiet residential street in [Maida Vale](https://pl.wikipedia.org/wiki/Maida_Vale).
@@ -21,6 +21,6 @@ The other two Giants dropped smaller bombs on northern and southern districts of
 
 ## Defence in the dark
 
-The lack of a moon made the task harder for the Germans themselves, who found it difficult to navigate, but the defence gained nothing from it. Forty-two pilots of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) went up, and none of them saw a bomber. Two were killed: according to Castle, Captains A. B. Kynoch of No. 37 Squadron and H. C. Stroud of No. 61 Squadron collided in the dark over Essex. The anti-aircraft guns fired nearly ten thousand rounds. Searchlights from time to time caught the Giants, and the barrage forced them to change course, but none was hit. Two of the giants nevertheless crashed on landing after their return, for unexplained reasons, and were badly damaged.
+The lack of a moon made the task harder for the Germans themselves, who found it difficult to navigate, but the defence gained nothing from it. Forty-two pilots of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) went up, and none of them saw a bomber. Two were killed: according to Castle, Captains A. B. Kynoch of No. 37 Squadron and H. C. Stroud of No. 61 Squadron collided in the dark over Essex. The anti-aircraft guns fired nearly ten thousand rounds. Searchlights from time to time caught the Giants, and the barrage forced them to change course, but none was hit. Two of the giants nevertheless crashed on landing after their return, for unexplained reasons, and were badly damaged.
 
 The raid of 7–8 March was the last raid on London by Giants alone. A few days later German airships returned over England. Aeroplanes attacked the capital only once more, on the night of 19–20 May 1918, when Gothas and Giants carried out the largest raid of the campaign. After that the German bomber squadrons devoted themselves almost exclusively to supporting the troops on the Western Front.

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Knowsley Hall (Lancashire)
 source: lord-derby
-sourceHash: 3ed5f93b52ec64e2f5f744c5d46fc3e7a8549b8e
+sourceHash: 0bf2f1eeb04e1bdb02796891e854fd70b7aa01f5
 ---
 
 Edward George Villiers Stanley, 17th Earl of Derby, was one of the richest men in England and the most influential aristocrat of its industrial north, known as the "uncrowned king of Lancashire". During the Great War he made his mark in two roles. In 1915, as Director-General of Recruiting, he gave the British voluntary system a last chance in the scheme named after him. From December 1916 to April 1918 he was Secretary of State for War in the government of [David Lloyd George](/postacie/david-lloyd-george) and stood between the prime minister and the generals the prime minister wanted to be rid of. This second role was judged harshly: he defended Field Marshal [Douglas Haig](/postacie/douglas-haig) and General William Robertson but was unable to protect them, and Haig himself compared him to a feather pillow.
@@ -23,7 +23,7 @@ In the autumn of 1915 volunteers were becoming ever fewer, and in the government
 
 Derby's report, published at the beginning of January 1916, showed that over two million men of military age, including over a million single men, had neither attested nor been rejected. It was the strongest argument of the supporters of compulsion, and that same month [Britain introduced conscription](/wielka-brytania-wprowadza-pobor) of single men, and in the spring [of married men as well](/izba-gmin-uchwala-pobor-zonatych). Derby later complained that too many young men were shielded from the army by work in occupations deemed essential.
 
-In February 1916 Asquith also entrusted him with the chairmanship of the [Joint War Air Committee](/powstaje-rada-lotnicza), which was to coordinate the supply of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) and the naval air service. The committee had no executive power, and on 3 April Derby resigned, writing to the prime minister that the two air services could be brought together only when they were merged into a single service.
+In February 1916 Asquith also entrusted him with the chairmanship of the [Joint War Air Committee](/powstaje-rada-lotnicza), which was to coordinate the supply of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) and the naval air service. The committee had no executive power, and on 3 April Derby resigned, writing to the prime minister that the two air services could be brought together only when they were merged into a single service.
 
 ## At the War Office
 

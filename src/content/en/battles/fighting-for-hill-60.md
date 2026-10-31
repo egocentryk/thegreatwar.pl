@@ -9,7 +9,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Berthold von Deimling]
 result: German victory. The British took the hill on 17 April and beat off counter-attacks, but on 5 May the Germans, using gas, recovered the summit.
 source: walki-o-wzgorze-60
-sourceHash: 6d89bac1bebb9eff8345b6e2ef84680ebc5d749f
+sourceHash: e822b46e7ad778ced24334ab9fb04c707ac6e67a
 brief:
   - "On the evening of 17 April 1915 British sappers blew mines under the German trenches on Hill 60 near Zillebeke, at the southern edge of the Ypres salient. The 5th Division's infantry took the summit within minutes, almost without loss."
   - "Hill 60 was an artificial mound of spoil from the building of a railway, but it gave a view over Zillebeke and Ypres. The mines were laid in tunnels by professional miners of the new Royal Engineers tunnelling companies."
@@ -36,7 +36,7 @@ The German 30th Division took the hill in November 1914, towards the end of the 
 
 At the beginning of March sappers of one of the new tunnelling companies of the Royal Engineers began work under the hill. These had been formed since February 1915 from professional miners, often from the collieries of Wales and Northumberland, on the initiative of the businessman and MP John Norton-Griffiths. Most works attribute the operation to the 173rd Tunnelling Company, although some sources also mention the 171st Company, which was working in the vicinity of Hill 60 at the same time. The British were about 50 metres from the German line. From a shaft about 5 metres deep the sappers drove three galleries, each eventually more than 90 metres long.
 
-By 10 April the mine chambers had been prepared. According to the British official history, the two charges under the northern part of the German positions held about 900 kilograms of explosive each, the two under the central part about 1,200 kilograms each, and one in the south a little under a quarter of a ton of guncotton. Work on this last one was stopped because the gallery had come close to a German tunnel. Sources speak of five or six mines. The charges were ready on 15 April. Aircraft of No. 1 Squadron of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) photographed the area and on 16 April helped the artillery to register on the approaches to the hill.
+By 10 April the mine chambers had been prepared. According to the British official history, the two charges under the northern part of the German positions held about 900 kilograms of explosive each, the two under the central part about 1,200 kilograms each, and one in the south a little under a quarter of a ton of guncotton. Work on this last one was stopped because the gallery had come close to a German tunnel. Sources speak of five or six mines. The charges were ready on 15 April. Aircraft of No. 1 Squadron of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) photographed the area and on 16 April helped the artillery to register on the approaches to the hill.
 
 The Germans also had their own plans here. Since February, cylinders of chlorine prepared for a gas attack had lain buried in the trenches on the XV Corps sector, including under Hill 60. Since the south wind that was needed refused to blow, at the end of March the German command decided to prepare a second sector, north of Ypres.
 

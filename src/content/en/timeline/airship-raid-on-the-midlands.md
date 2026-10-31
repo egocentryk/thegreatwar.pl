@@ -2,7 +2,7 @@
 title: Airship raid on the Midlands
 summary: On the night of 31 January–1 February 1916 nine naval airships sent against Liverpool bombed the Midlands instead. 70 people were killed and 113 injured.
 source: nalot-sterowcow-na-midlands
-sourceHash: e8aedf0cb5616e11129496abfc7fa04a6df5c7a4
+sourceHash: 881525e0f89bc28390fd390884d7904216430d9f
 ---
 
 On the evening of 31 January 1916 nine German naval [airships](/slownik/sterowiec) appeared over England. Their target was [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) on the west coast, but in the fog and cloud none of them got there. The bombs fell on the industrial towns of the [Midlands](https://pl.wikipedia.org/wiki/Midlands_(Anglia)), which had until then been considered out of range of air raids and were not blacked out. According to the British official history of the war in the air, 70 people were killed and 113 injured. It was the first airship raid on England since the [raid on London in October 1915](/nalot-sterowcow-na-dzielnice-teatrow).
@@ -21,6 +21,6 @@ Three airships attacked [Burton upon Trent](https://pl.wikipedia.org/wiki/Burton
 
 ## The defenceless Midlands
 
-The defences practically did not exist. Only a few dozen shots were fired at the airships, and a dozen or so pilots of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) and the naval air service took off from airfields in the fog. None saw the enemy, several aircraft crashed on landing, and two RFC majors died of their injuries. The raid caused outrage and fear in the Midlands. Many towns had not been subject to the blackout regulations, and the warnings did not arrive in time because the telephone lines were jammed by private calls. On 8 February the government extended lighting restrictions to almost the whole of England, and the authorities began organising a warning system for the industrial districts.
+The defences practically did not exist. Only a few dozen shots were fired at the airships, and a dozen or so pilots of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) and the naval air service took off from airfields in the fog. None saw the enemy, several aircraft crashed on landing, and two RFC majors died of their injuries. The raid caused outrage and fear in the Midlands. Many towns had not been subject to the blackout regulations, and the warnings did not arrive in time because the telephone lines were jammed by private calls. On 8 February the government extended lighting restrictions to almost the whole of England, and the authorities began organising a warning system for the industrial districts.
 
 One of the airships did not return. L 19 of Kapitänleutnant Odo Loewe, which had circled over England the longest, lost more engines on the way back and was fired on over the Netherlands. On 2 February its wreck, drifting on the North Sea, was found by the British trawler *King Stephen*. The skipper refused to take the Germans aboard, fearing that his small crew would not be able to cope with the more numerous prisoners. All the airmen of L 19 died.

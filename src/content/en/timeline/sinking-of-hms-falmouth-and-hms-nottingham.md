@@ -2,10 +2,10 @@
 title: Sinking of HMS Falmouth and HMS Nottingham
 summary: On 19 August 1916 Scheer's fleet sailed for Sunderland and the Grand Fleet put out to meet it. No battle followed, but U-boats torpedoed two cruisers.
 source: zatopienie-hms-falmouth-i-hms-nottingham
-sourceHash: e1b874beeef6144ad1c35b5b5e096fced6759c30
+sourceHash: 38d5ca4693712769015a4c145234138d3fc9f31a
 ---
 
-On 19 August 1916, less than three months after the [Battle of Jutland](/bitwy/bitwa-jutlandzka), both great fleets, the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) and the British [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), were once again at sea in the North Sea. This time they did not fire a single shot at each other. The whole day was spent groping for one another, and the only victims of the operation were two British [light cruisers](https://pl.wikipedia.org/wiki/Krążownik_lekki), *Nottingham* and *Falmouth*, torpedoed by German submarines. *Nottingham* sank on the morning of 19 August. *Falmouth*, hit in the afternoon, stayed afloat until the next day and went down on the evening of 20 August. Times are given according to the British official history (Newbolt, *Naval Operations*, vol. IV).
+On 19 August 1916, less than three months after the [Battle of Jutland](/bitwy/bitwa-jutlandzka), both great fleets, the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) and the British [Grand Fleet](/sily-zbrojne/grand-fleet), were once again at sea in the North Sea. This time they did not fire a single shot at each other. The whole day was spent groping for one another, and the only victims of the operation were two British [light cruisers](https://pl.wikipedia.org/wiki/Krążownik_lekki), *Nottingham* and *Falmouth*, torpedoed by German submarines. *Nottingham* sank on the morning of 19 August. *Falmouth*, hit in the afternoon, stayed afloat until the next day and went down on the evening of 20 August. Times are given according to the British official history (Newbolt, *Naval Operations*, vol. IV).
 
 ## Scheer's plan
 

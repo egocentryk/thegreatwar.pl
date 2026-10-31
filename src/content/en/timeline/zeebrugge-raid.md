@@ -2,7 +2,7 @@
 title: Zeebrugge raid
 summary: On St George's night, 23 April 1918, the Royal Navy attacked Zeebrugge and Ostend to seal the Germans' exits from Bruges. Two blockships were sunk at Zeebrugge.
 source: rajd-na-zeebrugge
-sourceHash: 2560a578a4b9091dd40a8d24974aabed419cbce1
+sourceHash: 6296fe0f0efafe9320b129076d6e49250f93ea67
 brief:
   - "Just after midnight on 23 April 1918, St George's Day, ships of the British Dover Patrol attacked the German-occupied ports of Zeebrugge and Ostend on the Belgian coast."
   - "Vice-Admiral Roger Keyes planned to sink old cruisers filled with concrete in the canal entrances, so that German submarines and torpedo boats could not put to sea from their base at Bruges."
@@ -31,7 +31,7 @@ About a quarter of an hour after midnight Lieutenant [Richard Sandford](https://
 
 The German gunners concentrated their fire on the blockships. *Thetis*, badly hit, fouled her propellers in a net barrier and sank before the canal entrance, but showed the way to the others. *Intrepid* and *Iphigenia* entered the canal and sank at its narrowest point. Their crews were taken off under fire by the motor launches *ML 526* and *ML 282*. Lieutenant Percy Dean's *ML 282*, together with the boat she was towing, carried 101 men. When the blockships had sunk, *Daffodil*'s siren gave the signal to withdraw. *Vindictive* waited more than twenty minutes for stragglers and at about 1.10 a.m. cast off from the mole after roughly an hour's fighting. During the withdrawal shells struck *Iris*, mortally wounding her commander and killing many men on board. A German battery also sank the destroyer *North Star*.
 
-Off Ostend, where Commodore Hubert Lynes was in command, the wind also carried away the smoke, and the buoy at the Stroom Bank, from which the blockships were to take their course for the harbour, had been moved about a mile to the east. *Brilliant* and *Sirius* ran aground east of the entrance and sank under fire from the batteries, and their crews were taken off by motor launches. A few hours later the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) sailed north from the Heligoland Bight to strike at the British convoys to Norway. This sortie, however, had nothing to do with the action in Flanders.
+Off Ostend, where Commodore Hubert Lynes was in command, the wind also carried away the smoke, and the buoy at the Stroom Bank, from which the blockships were to take their course for the harbour, had been moved about a mile to the east. *Brilliant* and *Sirius* ran aground east of the entrance and sank under fire from the batteries, and their crews were taken off by motor launches. A few hours later the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) sailed north from the Heligoland Bight to strike at the British convoys to Norway. This sortie, however, had nothing to do with the action in Flanders.
 
 ## Losses
 

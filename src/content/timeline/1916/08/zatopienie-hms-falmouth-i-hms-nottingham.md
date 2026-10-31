@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 sierpnia 1916 roku, niespełna trzy miesiące po [bitwie jutlandzkiej](/bitwy/bitwa-jutlandzka), na Morzu Północnym znowu znalazły się obie wielkie floty, niemiecka [Flota Pełnomorska](https://pl.wikipedia.org/wiki/Hochseeflotte) i brytyjska [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet). Tym razem nie oddały do siebie ani jednego strzału. Cały dzień upłynął na wzajemnym szukaniu się po omacku, a jedynymi ofiarami operacji były dwa brytyjskie [krążowniki lekkie](https://pl.wikipedia.org/wiki/Krążownik_lekki), Nottingham i Falmouth, storpedowane przez niemieckie okręty podwodne. Nottingham zatonął rano 19 sierpnia. Falmouth, trafiony po południu, utrzymał się na wodzie do następnego dnia i poszedł na dno wieczorem 20 sierpnia. Godziny podajemy za brytyjską historią oficjalną (Newbolt, *Naval Operations*, t. IV).
+19 sierpnia 1916 roku, niespełna trzy miesiące po [bitwie jutlandzkiej](/bitwy/bitwa-jutlandzka), na Morzu Północnym znowu znalazły się obie wielkie floty, niemiecka [Flota Pełnomorska](/sily-zbrojne/flota-pelnomorska) i brytyjska [Grand Fleet](/sily-zbrojne/grand-fleet). Tym razem nie oddały do siebie ani jednego strzału. Cały dzień upłynął na wzajemnym szukaniu się po omacku, a jedynymi ofiarami operacji były dwa brytyjskie [krążowniki lekkie](https://pl.wikipedia.org/wiki/Krążownik_lekki), Nottingham i Falmouth, storpedowane przez niemieckie okręty podwodne. Nottingham zatonął rano 19 sierpnia. Falmouth, trafiony po południu, utrzymał się na wodzie do następnego dnia i poszedł na dno wieczorem 20 sierpnia. Godziny podajemy za brytyjską historią oficjalną (Newbolt, *Naval Operations*, t. IV).
 
 ## Plan Scheera
 

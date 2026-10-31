@@ -2,7 +2,7 @@
 title: The Silent Raid
 summary: On the night of 19 October 1917 eleven airships set out for England. A bomb fell on Piccadilly Circus, and a gale carried four of them over France.
 source: cichy-nalot
-sourceHash: fd0cd5a6f9fea3fd151379ce8ec6a545ad670b89
+sourceHash: 2d9fb3c591291b7e46cceeb1847e733a251793e1
 ---
 
 On 19 October 1917 eleven German naval [airships](/slownik/sterowiec) took off from their bases in northern Germany to raid the industrial towns of the Midlands and the north of England. They were L 41, L 44, L 45, L 46, L 47, L 49, L 50, L 52, L 53, L 54 and L 55. Two more could not be taken out of their sheds at Nordholz because of a crosswind. It was one of the largest airship raids of the war and also the last airship raid in which bombs fell on London. The English called it the "Silent Raid".
@@ -13,7 +13,7 @@ Most of them were so-called height-climbers, lightened so that they could fly at
 
 The gale pushed the airships southwards, and their crews, suffering from the cold and from [altitude sickness](https://pl.wikipedia.org/wiki/Choroba_wysokościowa), usually did not know where they were. Most of the bombs fell in open country. The most damage was done by Kapitänleutnant Waldemar Kölle's L 45. At about 10.50 p.m. it dropped bombs on [Northampton](https://pl.wikipedia.org/wiki/Northampton), killing a woman and two children. The crew were sure they were bombing Oxford. The wind then carried it over London, which, as one of its helmsmen recalled, surprised the crew themselves. Before midnight L 45 dropped seven bombs on the capital. One exploded in [Piccadilly Circus](https://pl.wikipedia.org/wiki/Piccadilly_Circus), in front of the Swan & Edgar department store. A long time had passed since the warning had been given and people had already come out into the streets, and nobody had seen or heard the airship. Seven people were killed there and eighteen injured. 300 kg bombs also killed ten people in [Camberwell](https://pl.wikipedia.org/wiki/Camberwell) and fourteen in Hither Green. It was the first airship raid on London for more than a year, since the [September raids of 1916](/nalot-sterowcow-i-zestrzelenie-l-32-i-l-33). According to Jones, 36 people were killed and 55 injured in the raid as a whole.
 
-The British defences were helpless. Seventy-three aircraft went up, but none could reach the airships flying at that height. Only over the mouth of the Medway did a [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) pilot, T. B. Pritchard, fire at L 45 from below. The airship escaped upwards and turned south, and this, in Jones's view, sealed its fate.
+The British defences were helpless. Seventy-three aircraft went up, but none could reach the airships flying at that height. Only over the mouth of the Medway did a [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) pilot, T. B. Pritchard, fire at L 45 from below. The airship escaped upwards and turned south, and this, in Jones's view, sealed its fate.
 
 ## Four airships over France
 

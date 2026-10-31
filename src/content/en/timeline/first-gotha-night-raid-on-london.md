@@ -2,7 +2,7 @@
 title: First Gotha night raid on London
 summary: On the night of 4 September 1917 Gothas bombed London after dark for the first time. A bomb hit a tram by Cleopatra's Needle. In the capital 16 people died.
 source: pierwszy-nocny-nalot-gothow-na-londyn
-sourceHash: 29547932ea645e14844e7b67be30659df575034f
+sourceHash: c5ef2ce52854f8d5e1fdc14aa1b53c4289ce0dc9
 ---
 
 On the night of 4–5 September 1917 German Gotha bombers attacked [London](https://pl.wikipedia.org/wiki/Londyn) after dark for the first time. For nearly two hours, from 11 p.m. until almost 1 a.m., single aircraft appeared over various districts of the capital and dropped bombs. Sixteen people were killed and 56 injured. The defences, which over the summer had learnt to fight formations of bombers by day, were almost helpless at night. A new stage in the bombing of Britain had begun: from then on aeroplanes attacked London as the airships had done before them, under cover of darkness.
@@ -25,7 +25,7 @@ At about 12.30 and 12.50 a.m. more bombers arrived. Bombs fell on [Islington](ht
 
 ## Helpless defences
 
-The anti-aircraft guns fired about 800 shells. The gunners saw the Gothas in the moonlight, but only for a moment, and the searchlights rarely held a target. The fire did, however, force the bombers to change course, and once turned back an aircraft flying up the Thames from the east. The crew of a gun at Borstal on the [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)) were sure they had shot down a Gotha. No wreckage was found, but according to German documents one bomber did indeed fail to return from the raid, for unknown reasons. Eighteen pilots of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) took to the air. Only two briefly sighted a bomber and fired a few shots. Three pilots of [Sopwith Camel](https://pl.wikipedia.org/wiki/Sopwith_Camel) fighters, which had flown at night for the first time the day before, patrolled over London but saw no Gotha.
+The anti-aircraft guns fired about 800 shells. The gunners saw the Gothas in the moonlight, but only for a moment, and the searchlights rarely held a target. The fire did, however, force the bombers to change course, and once turned back an aircraft flying up the Thames from the east. The crew of a gun at Borstal on the [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)) were sure they had shot down a Gotha. No wreckage was found, but according to German documents one bomber did indeed fail to return from the raid, for unknown reasons. Eighteen pilots of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) took to the air. Only two briefly sighted a bomber and fired a few shots. Three pilots of [Sopwith Camel](https://pl.wikipedia.org/wiki/Sopwith_Camel) fighters, which had flown at night for the first time the day before, patrolled over London but saw no Gotha.
 
 ## Smuts and balloons
 

@@ -2,14 +2,14 @@
 title: Wreck of the cruiser Argyll
 summary: On 28 October 1915 the British cruiser Argyll ran onto the Bell Rock at night in a storm, because the lighthouse was unlit. Destroyers saved the whole crew.
 source: katastrofa-krazownika-argyll
-sourceHash: 79f34b7db70865891bfb5acd850313eed53d8494
+sourceHash: be50b80521c7fa4ecc1b19834f80b20e09e0e869
 ---
 
 In the early hours of 28 October 1915, at about 4.30 a.m., the British [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Argyll* ran in a storm onto the submerged Bell Rock, also known as the Inchcape Rock, off the east coast of Scotland. The reef lies in the North Sea, about 18 kilometres from the port of [Arbroath](https://pl.wikipedia.org/wiki/Arbroath), opposite the mouth of the [Firth of Tay](https://pl.wikipedia.org/wiki/Firth_of_Tay). For more than a hundred years a [lighthouse](https://pl.wikipedia.org/wiki/Latarnia_morska_Bell_Rock) had stood on it, but that night it was dark. The ship could no longer be saved, but her entire crew of about 600 men survived.
 
 ## The dark lighthouse
 
-*Argyll*, a Devonshire-class ship launched in 1904, belonged to a cruiser squadron of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet). She was returning from a refit at the [Devonport](https://pl.wikipedia.org/wiki/HMNB_Devonport) dockyard and, according to the British official history, was bound for the base at [Rosyth](https://pl.wikipedia.org/wiki/Rosyth) on the Firth of Forth. The first edition of that history stated that she was bound for Scapa Flow; the revised edition of 1940 speaks of Rosyth. She was commanded by Captain James Tancred.
+*Argyll*, a Devonshire-class ship launched in 1904, belonged to a cruiser squadron of the [Grand Fleet](/sily-zbrojne/grand-fleet). She was returning from a refit at the [Devonport](https://pl.wikipedia.org/wiki/HMNB_Devonport) dockyard and, according to the British official history, was bound for the base at [Rosyth](https://pl.wikipedia.org/wiki/Rosyth) on the Firth of Forth. The first edition of that history stated that she was bound for Scapa Flow; the revised edition of 1940 speaks of Rosyth. She was commanded by Captain James Tancred.
 
 During the war the lighthouses on the east coast of Britain were extinguished so as not to help German submarines navigate. They were lit only on special orders from the navy, when the navy's own ships were due to pass nearby. On 27 October a request was sent for the light on the Bell Rock to be lit, because *Argyll* was to pass that way that night. The lighthouse, however, had no radio. It communicated with the shore only by visual signals from the signal station at Arbroath, or by boat. The attempts to pass on the message failed, and the night was stormy, with a strong south-easterly wind and poor visibility. No one informed the ship, whose crew expected to see the light. *Argyll* ran onto the reef, tore open her bottom over a considerable length and caught fire.
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Ludwig von Falkenhausen, Otto von Below, Fritz von Loßberg]
 result: Inconclusive. On the first day the British advanced further than at any time since the start of trench warfare and the Canadians took Vimy Ridge, but the front was not broken. In five weeks a few kilometres were gained at a cost of about 150,000 men.
 source: bitwa-pod-arras-1917
-sourceHash: 4a00299c11e60d5236825c311edf34ea559fa92b
+sourceHash: 27e7ac53ad74e689fc8745631f0d94d607e85327
 brief:
   - "The Battle of Arras, fought from 9 April to mid-May 1917, was the great British offensive of the spring of 1917, in which three armies of the British Expeditionary Force attacked."
   - "The attack was above all meant to draw in the German reserves ahead of General Nivelle's main French offensive on the Aisne. It was prepared with huge artillery superiority and the underground of Arras."
@@ -56,7 +56,7 @@ On 16 April the French offensive on the Aisne began. When it quickly became clea
 
 ## Bloody April
 
-The Battle of Arras was also one of the hardest trials of British air power. The [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) carried out reconnaissance, photographed positions and directed artillery fire, and from 5 April also an air offensive meant to drive German aircraft away from the battlefield. The German fighter squadrons, flying the new [Albatros D.III](https://pl.wikipedia.org/wiki/Albatros_D.III) fighters, nevertheless had technical superiority and better-trained pilots. The most dangerous was [Jasta 11](https://pl.wikipedia.org/wiki/Jagdstaffel_11) of [Manfred von Richthofen](/postacie/manfred-von-richthofen), based near Douai. According to various studies, in April 1917 the British lost 245–275 aircraft and more than two hundred airmen killed or missing, and the Germans about 66 aircraft. British airmen called the month "Bloody April". Despite the losses the air arm carried out its tasks and supplied the artillery with photographs and reports.
+The Battle of Arras was also one of the hardest trials of British air power. The [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) carried out reconnaissance, photographed positions and directed artillery fire, and from 5 April also an air offensive meant to drive German aircraft away from the battlefield. The German fighter squadrons, flying the new [Albatros D.III](https://pl.wikipedia.org/wiki/Albatros_D.III) fighters, nevertheless had technical superiority and better-trained pilots. The most dangerous was [Jasta 11](https://pl.wikipedia.org/wiki/Jagdstaffel_11) of [Manfred von Richthofen](/postacie/manfred-von-richthofen), based near Douai. According to various studies, in April 1917 the British lost 245–275 aircraft and more than two hundred airmen killed or missing, and the Germans about 66 aircraft. British airmen called the month "Bloody April". Despite the losses the air arm carried out its tasks and supplied the artillery with photographs and reports.
 
 ## Losses
 

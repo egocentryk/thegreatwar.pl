@@ -2,7 +2,7 @@
 title: Battle of Polygon Wood begins
 summary: On 26 September 1917 the Australians took Polygon Wood and the Butte near Ypres, and the British entered Zonnebeke. Artillery broke the German counter-attacks.
 source: poczatek-bitwy-o-polygon-wood
-sourceHash: 3e761926381986003641705c0165aaf743413a55
+sourceHash: 8bea3b81413ee93a5b04ea24b79f9c1aa39b050c
 brief:
   - "At 5.50 a.m. on 26 September 1917 seven divisions, five British and two Australian, advanced near Ypres in General Herbert Plumer's second step, six days after the attack along the Menin Road."
   - "The day before, a German attack on the southern edge of Polygon Wood and shelling of the 15th Australian Brigade's rear nearly wrecked the attack. Plumer and Birdwood nevertheless decided it would go ahead."
@@ -43,7 +43,7 @@ The British 3rd Division entered Zonnebeke but failed to take the railway statio
 
 ## Counter-attacks
 
-When the mist lifted before noon, airmen of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) began warning by wireless of German columns approaching the front. Australian airmen circled low over the infantry, which showed them its positions with red flares. At about 2.30 p.m. the lines of the German 236th Division came out onto the Broodseinde ridge and at once ran into artillery fire. At 3.25 p.m. Captain Albert Jacka of the 14th Battalion, the first Australian to be awarded the Victoria Cross in this war, fired the flares calling for a [barrage](https://pl.wikipedia.org/wiki/Ogień_zaporowy). The artillery responded immediately and the Germans did not reach the Australian trenches. From the south the 17th Division advanced on Polygon Wood through Holle Bosch wood and over Reutel hill, straight into British shellfire, and further north the 4th Bavarian Division lost more than 1,300 men struggling through the mud along the Paddebeek stream. At about five o'clock observers on the Butte watched German troops gathering by a road and trying to get through gaps in the hedges, but machine guns and two 6-inch howitzers dispersed them every time. The only success of the German counter-attacks was the repulse of the British 3rd Division's evening attack on Hill 40. After 8.15 p.m. the front fell quiet.
+When the mist lifted before noon, airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) began warning by wireless of German columns approaching the front. Australian airmen circled low over the infantry, which showed them its positions with red flares. At about 2.30 p.m. the lines of the German 236th Division came out onto the Broodseinde ridge and at once ran into artillery fire. At 3.25 p.m. Captain Albert Jacka of the 14th Battalion, the first Australian to be awarded the Victoria Cross in this war, fired the flares calling for a [barrage](https://pl.wikipedia.org/wiki/Ogień_zaporowy). The artillery responded immediately and the Germans did not reach the Australian trenches. From the south the 17th Division advanced on Polygon Wood through Holle Bosch wood and over Reutel hill, straight into British shellfire, and further north the 4th Bavarian Division lost more than 1,300 men struggling through the mud along the Paddebeek stream. At about five o'clock observers on the Butte watched German troops gathering by a road and trying to get through gaps in the hedges, but machine guns and two 6-inch howitzers dispersed them every time. The only success of the German counter-attacks was the repulse of the British 3rd Division's evening attack on Hill 40. After 8.15 p.m. the front fell quiet.
 
 ## Evening
 

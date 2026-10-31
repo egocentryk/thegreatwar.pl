@@ -1,0 +1,311 @@
+{
+ "slug": "flota-pelnomorska",
+ "paragraphs": [
+  {
+   "start": "Flota Pełnomorska (Hochseeflotte) była główną siłą liniową",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Flotę Pełnomorską, nazwaną tak w 1907 roku, budowali cesarz Wilhelm II i admirał Alfred von Tirpitz, by rzucić wyzwanie Royal Navy. Słabsza liczebnie, próbowała wciągać w pułapkę części floty brytyjskiej, czego skutkiem były bitwa na Dogger Bank i bitwa jutlandzka. Potem rzadko wychodziła w morze, a jesienią 1918 roku bunt jej marynarzy zapoczątkował rewolucję w Niemczech. Po rozejmie internowano ją w Scapa Flow, gdzie w czerwcu 1919 roku załogi zatopiły okręty."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-jutlandzka.md",
+     "quote": "W dłuższej perspektywie bitwa nie zmieniła jednak nic w położeniu strategicznym."
+    },
+    {
+     "file": "src/content/postacie/alfred-von-tirpitz.md",
+     "quote": "Gdy wybuchła wojna, okazało się, że jego flota nie może zagrozić panowaniu Royal Navy na morzu."
+    }
+   ]
+  },
+  {
+   "start": "Nazwę Hochseeflotte otrzymała 16 lutego 1907 roku",
+   "quotes": [
+    {
+     "url": "https://de.wikipedia.org/wiki/Hochseeflotte",
+     "quote": "Am 16. Februar 1907 wurde die Aktive Schlachtflotte in „Hochseeflotte“ umbenannt."
+    },
+    {
+     "file": "src/content/postacie/alfred-von-tirpitz.md",
+     "quote": "Tirpitz w ciągu kilku miesięcy przygotował pierwszą ustawę o flocie, uchwaloną wiosną 1898 roku, a w 1900 roku drugą, która podwajała liczbę pancerników."
+    },
+    {
+     "file": "src/content/postacie/alfred-von-tirpitz.md",
+     "quote": "Program opierał się na tak zwanej teorii ryzyka. Niemiecka flota nie musiała dorównać brytyjskiej. Miała być na tyle silna, by bitwa z nią zagroziła panowaniu Wielkiej Brytanii na morzach"
+    },
+    {
+     "file": "src/content/postacie/alfred-von-tirpitz.md",
+     "quote": "Sprowadziła okręty z odległych stacji na Morze Północne, zbliżyła się do Japonii, Francji i Rosji, a w 1906 roku zbudowała pancernik Dreadnought, który zdewaluował wszystkie starsze okręty liniowe."
+    },
+    {
+     "file": "src/content/postacie/alfred-von-tirpitz.md",
+     "quote": "a wyścig zbrojeń morskich był jedną z głównych przyczyn wrogości między oboma krajami"
+    }
+   ]
+  },
+  {
+   "start": "W lipcu 1914 roku flota admirała Friedricha von Ingenohla",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/07/niemiecka-flota-oceaniczna-odwolana-z-norwegii.md",
+     "quote": "14 lipca 1914 roku główne siły niemieckiej marynarki wojennej, Flota Oceaniczna (Hochseeflotte), wyruszyły w coroczny letni rejs do Norwegii. Dowodzone przez admirała Friedricha von Ingenohla okręty"
+    },
+    {
+     "file": "src/content/timeline/1914/07/niemiecka-flota-oceaniczna-odwolana-z-norwegii.md",
+     "quote": "Cesarz Wilhelm II, sam przerywając podróż, polecił flocie wrócić do kraju."
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/Hochseeflotte",
+     "quote": "Die schweren Einheiten der Flotte lagen vor Wilhelmshaven auf Reede."
+    },
+    {
+     "file": "src/content/timeline/1914/07/niemiecka-flota-oceaniczna-odwolana-z-norwegii.md",
+     "quote": "Wilhelmshaven nad Morzem Północnym oraz Kilonia nad Bałtykiem, połączone Kanałem Kilońskim"
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/Hochseeflotte",
+     "quote": "Allein in der Nordsee verfügte die Royal Navy über 26 Großkampfschiffe, denen die Kaiserliche Marine nur 18 vergleichbare Einheiten entgegenzusetzen hatte."
+    }
+   ]
+  },
+  {
+   "start": "Brytyjczycy nie podeszli pod niemieckie porty",
+   "quotes": [
+    {
+     "file": "src/content/postacie/alfred-von-tirpitz.md",
+     "quote": "nie zamierza blokować niemieckich portów z bliska, gdzie Flota Pełnomorska mogłaby ją zaatakować. Wybrała blokadę odległą, zamykając wyjścia z Morza Północnego."
+    },
+    {
+     "url": "https://de.wikipedia.org/wiki/Hochseeflotte",
+     "quote": "dass die Flotte primär als „fleet in being“ agierte"
+    },
+    {
+     "file": "src/content/postacie/alfred-von-tirpitz.md",
+     "quote": "Po klęsce w bitwie w Zatoce Helgolandzkiej 28 sierpnia 1914 roku, w której do niewoli trafił jego syn Wolfgang, cesarz zabronił jednak narażania floty bez swojej zgody."
+    },
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "a krążowniki liniowe stały się jedyną siłą, którą dowództwo gotowe było wysyłać pod brytyjskie wybrzeże."
+    }
+   ]
+  },
+  {
+   "start": "Pierwszy taki wypad, na Yarmouth 3 listopada",
+   "quotes": [
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "Hipper sam zaproponował pierwszy taki wypad. 3 listopada jego zespół ostrzelał wybrzeże pod Yarmouth i postawił miny, a w drodze powrotnej krążownik pancerny Yorck wszedł we mgle na niemieckie pole minowe i zatonął z większością załogi."
+    },
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "16 grudnia krążowniki Hippera ostrzelały Scarborough, Hartlepool i Whitby. Zginęło ponad sto osób, w większości cywilów, a w Wielkiej Brytanii zawrzało. Za Hipperem szły tym razem główne siły floty, ale dowódca floty admirał Friedrich von Ingenohl, przekonany, że trafił na całą Grand Fleet, zawrócił do domu"
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "krytykował admirała Friedricha von Ingenohla, który zawrócił do portu, choć miał szansę zniszczyć odosobnioną część Grand Fleet."
+    }
+   ]
+  },
+  {
+   "start": "W styczniu 1915 roku Hipper wyszedł ku ławicy Dogger Bank",
+   "quotes": [
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "23 stycznia 1915 roku Hipper wyszedł w morze, by rozbić brytyjskie patrole i kutry rybackie na ławicy Dogger Bank. Brytyjscy kryptolodzy z Room 40 odczytali niemieckie depesze i rankiem 24 stycznia czekały na niego krążowniki liniowe wiceadmirała Davida Beatty'ego."
+    },
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "Gdy ciężko trafiony Blücher został w tyle, Hipper uznał, że ratowanie go narazi resztę zespołu, i zostawił go własnemu losowi. Krążownik zatonął z większością załogi."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-na-dogger-bank.md",
+     "quote": "Cesarz zdymisjonował 2 lutego 1915 roku Ingenohla, a nowym dowódcą Floty Pełnomorskiej został admirał Hugo von Pohl, który jeszcze ostrożniej unikał ryzyka."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-na-dogger-bank.md",
+     "quote": "Na ponad rok wielkie okręty nawodne niemal przestały wypływać na Morze Północne"
+    },
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "W sierpniu tego roku jego krążowniki liniowe i drednoty osłaniały od strony otwartego morza niemiecki atak na Zatokę Ryską"
+    }
+   ]
+  },
+  {
+   "start": "W styczniu 1916 roku ciężko chorego Pohla zastąpił",
+   "quotes": [
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Na początku stycznia 1916 roku Pohl ciężko zachorował i Scheer, jako najstarszy stopniem dowódca eskadry, zastąpił go, a 24 stycznia formalnie objął dowództwo floty."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Flota nie miała szukać bitwy z całą Grand Fleet, ale za pomocą wypadów, nalotów sterowców, min i okrętów podwodnych wywabiać na morze jej części i niszczyć je przewagą sił."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "a 24–25 kwietnia krążowniki liniowe ostrzelały Lowestoft i Yarmouth"
+    }
+   ]
+  },
+  {
+   "start": "Pod koniec maja Scheer ruszył w stronę Skagerraku",
+   "quotes": [
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Scheer nie wiedział, że brytyjscy kryptolodzy z Room 40 czytają jego depesze i że cała Grand Fleet wyszła w morze, zanim jego okręty opuściły porty."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-jutlandzka.md",
+     "quote": "Bitwa jutlandzka, stoczona 31 maja – 1 czerwca 1916 roku na Morzu Północnym"
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-jutlandzka.md",
+     "quote": "Niemcy zatopili 14 okrętów brytyjskich, tracąc 11 własnych, i wymknęli się Grand Fleet, ale nie przełamali brytyjskiej przewagi na Morzu Północnym ani blokady."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Pod Jutlandią w 1916 roku jego mniejsza flota zadała Brytyjczykom większe straty, niż sama poniosła, i dwa razy wyrwała się z pułapki zastawionej przez Grand Fleet."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "W raporcie dla cesarza z 4 lipca napisał jednak, że nawet najbardziej udana bitwa nie zmusi Wielkiej Brytanii do pokoju i że może to zrobić tylko wojna podwodna przeciw jej handlowi, prowadzona bez ograniczeń."
+    }
+   ]
+  },
+  {
+   "start": "19 sierpnia 1916 roku flota wyszła jeszcze w stronę Sunderlandu",
+   "quotes": [
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "19 sierpnia 1916 roku znów wyszedł w stronę Sunderlandu, ale gdy sterowiec zameldował o brytyjskich okrętach na południu, skręcił ku nim, oddalając się od Grand Fleet, a w końcu zawrócił do domu. Obie floty nie oddały do siebie ani jednego strzału."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/High_Seas_Fleet",
+     "quote": "The primary responsibility of the High Seas Fleet in 1917 and 1918 was to secure the German naval bases"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Od 1 lutego 1917 roku U-Booty atakowały bez ostrzeżenia wszystkie statki"
+    },
+    {
+     "file": "src/content/timeline/1917/08/bunt-w-niemieckiej-flocie.md",
+     "quote": "Najlepszych młodych oficerów przenoszono na okręty podwodne, a ich miejsce zajmowali niedoświadczeni porucznicy, którzy według wielu relacji nadrabiali brak autorytetu surowością i szykanami."
+    }
+   ]
+  },
+  {
+   "start": "Bezczynność, złe wyżywienie i przepaść między oficerami",
+   "quotes": [
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Bezczynność pancerników, złe wyżywienie i przepaść między oficerami a marynarzami doprowadziły latem 1917 roku do buntu we flocie."
+    },
+    {
+     "file": "src/content/timeline/1917/08/bunt-w-niemieckiej-flocie.md",
+     "quote": "2 sierpnia 1917 roku w Wilhelmshaven, głównej bazie niemieckiej Floty Pełnomorskiej, doszło do największego od początku wojny protestu marynarzy. Około 600 marynarzy i palaczy z pancernika Prinzregent Luitpold samowolnie zeszło na ląd i pomaszerowało do Rüstersiel na przedmieściach miasta, by upomnieć się o kolegów aresztowanych dzień wcześniej."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Scheer zatwierdził wyroki śmierci na dwóch przywódców, Maxa Reichpietscha i Albina Köbisa, a trzy inne zamienił na długoletnie więzienie. Obaj zostali rozstrzelani we wrześniu."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Jesienią część floty wzięła udział w operacji Albion, zdobyciu wysp w Zatoce Ryskiej. Na Morzu Północnym Scheer sięgnął po nową metodę: jego krążowniki i niszczyciele rozbiły w październiku i w grudniu 1917 roku konwoje płynące do Norwegii."
+    }
+   ]
+  },
+  {
+   "start": "W sierpniu 1918 roku Scheer stanął na czele kierownictwa",
+   "quotes": [
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "W sierpniu 1918 roku Scheer stanął na czele nowego kierownictwa wojny morskiej, a Hipper objął po nim Flotę Pełnomorską i awansował na admirała."
+    },
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "Pod koniec października Scheer i Hipper przygotowali rozkaz operacyjny nr 19: flota miała uderzyć na żeglugę u wybrzeży Flandrii i w ujściu Tamizy, a potem stoczyć bitwę z Grand Fleet."
+    },
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "Rząd księcia Maksa Badeńskiego, który zabiegał właśnie o rozejm, nie został o planie poinformowany."
+    },
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "Marynarze nie zamierzali ginąć na kilka dni przed końcem wojny. W nocy z 29 na 30 października na kilku pancernikach doszło do odmowy wykonania rozkazów i Hipper odwołał operację."
+    }
+   ]
+  },
+  {
+   "start": "Dowództwo rozdzieliło eskadry, by uspokoić załogi",
+   "quotes": [
+    {
+     "file": "src/content/postacie/franz-von-hipper.md",
+     "quote": "Eskadry floty rozdzielono, by uspokoić sytuację, ale III Eskadra, która wróciła do Kilonii, stała się zarzewiem buntu, który zapoczątkował rewolucję w Niemczech."
+    },
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "3 listopada 1918 roku, w niedzielę wieczorem, w Kilonii, głównej bazie niemieckiej floty na Bałtyku, kilka tysięcy marynarzy, żołnierzy i robotników ruszyło w stronę wojskowego aresztu przy Feldstraße, by uwolnić uwięzionych kolegów z okrętów liniowych."
+    },
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "Wieczorem 4 listopada Kilonia była w rękach około 40 tysięcy zbuntowanych marynarzy, żołnierzy i robotników."
+    },
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "Plan ostatniej bitwy, który miał ocalić honor floty, doprowadził do rewolucji listopadowej i upadku cesarstwa. Sama Flota Pełnomorska już nigdy nie wypłynęła do walki."
+    }
+   ]
+  },
+  {
+   "start": "Rozejm z Compiègne nakazał oddać najnowsze okręty",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "Rozejm z Compiègne nakazywał Niemcom w ciągu siedmiu dni rozbroić i oddać do internowania 10 pancerników, 6 krążowników liniowych, 8 lekkich krążowników i 50 najnowszych niszczycieli."
+    },
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "W nocy na 21 listopada 1918 roku z zatoki Firth of Forth wyszła na Morze Północne cała brytyjska Grand Fleet"
+    },
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "Około ósmej na horyzoncie pojawiły się niemieckie okręty: 9 pancerników, 5 krążowników liniowych, 7 lekkich krążowników i 49 niszczycieli, płynących pod dowództwem kontradmirała Ludwiga von Reutera. Przed południem wszystkie stały na kotwicach w Firth of Forth jako okręty internowane."
+    },
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "Od 22 listopada niemieckie okręty płynęły grupami do Scapa Flow."
+    },
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "Na okrętach zostało niecałe pięć tysięcy ludzi, bez prawa zejścia na ląd. Ich los miała rozstrzygnąć konferencja pokojowa."
+    }
+   ]
+  },
+  {
+   "start": "21 czerwca 1919 roku, gdy alianci mieli przejąć okręty",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "21 czerwca 1919 roku, gdy alianci mieli przejąć okręty na mocy traktatu wersalskiego, Reuter rozkazał je zatopić."
+    },
+    {
+     "url": "https://blog.nrscotland.gov.uk/2020/07/21/from-the-nrs-archives-scuttling-of-the-german-fleet-1919",
+     "quote": "In total, 52 of the 74 vessels sank."
+    },
+    {
+     "url": "https://naval-encyclopedia.com/battles/ww1/scuttling-hochseeflotte.php",
+     "quote": "In all, nine Germans sailors were killed, sixteen wounded"
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/scuttling-of-the-german-fleet-in-scapa-flow-june-21-1919",
+     "quote": "Crew members opened seacocks, hatches, locks and torpedo tubes and then abandoned the sinking ships on lifeboats."
+    },
+    {
+     "file": "src/content/timeline/1918/11/internowanie-floty-pelnomorskiej.md",
+     "quote": "Był to koniec floty, którą cesarz Wilhelm II i admirał Alfred von Tirpitz budowali przez dwadzieścia lat"
+    }
+   ]
+  }
+ ]
+}

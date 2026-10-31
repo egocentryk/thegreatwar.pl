@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Na początku grudnia 1916 roku admirał [John Jellicoe](/postacie/john-jellicoe), do niedawna dowódca [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), objął urząd pierwszego lorda morskiego, czyli zawodowego szefa [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Zmianę [ogłoszono w Izbie Gmin już 29 listopada](/beatty-dowodca-grand-fleet). Brytyjska chronologia wojny podaje, że jego poprzednik, admirał [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), ustąpił 3 grudnia, a Jellicoe został mianowany 4 grudnia. Tę samą datę przyjmuje brytyjska monografia sztabu marynarki. Sam Jellicoe napisał jednak w swoich wspomnieniach, że choć przyjechał do Londynu 29 listopada, z powodu grypy przejął obowiązki od Jacksona dopiero 5 grudnia, w dniu swoich 57. urodzin.
+Na początku grudnia 1916 roku admirał [John Jellicoe](/postacie/john-jellicoe), do niedawna dowódca [Grand Fleet](/sily-zbrojne/grand-fleet), objął urząd pierwszego lorda morskiego, czyli zawodowego szefa [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Zmianę [ogłoszono w Izbie Gmin już 29 listopada](/beatty-dowodca-grand-fleet). Brytyjska chronologia wojny podaje, że jego poprzednik, admirał [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), ustąpił 3 grudnia, a Jellicoe został mianowany 4 grudnia. Tę samą datę przyjmuje brytyjska monografia sztabu marynarki. Sam Jellicoe napisał jednak w swoich wspomnieniach, że choć przyjechał do Londynu 29 listopada, z powodu grypy przejął obowiązki od Jacksona dopiero 5 grudnia, w dniu swoich 57. urodzin.
 
 ## Odejście Jacksona
 

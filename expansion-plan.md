@@ -489,6 +489,11 @@ The top 50 by kind:
    szpitalny, krążownik pomocniczy), 607 links (24,904 → 24,297; §51).
    Next: Izba Lordów, monitor, krążownik pancerny, przeddrednot, konwencje
    haskie, deklaracja londyńska, iperyt, karabin Lewis, hiszpanka.
+7. **"Siły zbrojne" pilot:** 2026-10-31, Royal Flying Corps, Grand Fleet,
+   Flota Pełnomorska, 177 links (24,297 → 24,120; §52). Waiting for the
+   owner's verdict. Next: Royal Navy, RNAS, RAF, BEF (the glossary entry
+   points to it), Korpus Czechosłowacki, the German 9th, 11th, 4th armies
+   and Armia Południowa, the Russian 3rd and 8th armies, Gurkhowie.
 
 ### The plan
 

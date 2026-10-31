@@ -14,7 +14,7 @@ draft: false
 
 ## Poprawki do składu Rady
 
-Rozporządzenie z 2 stycznia nie tylko ustalało datę. Poprawiało też akt z 21 grudnia, który określił skład i podział pracy w [Radzie Sił Powietrznych](/utworzenie-rady-sil-powietrznych). Przewodniczący Rady, czyli Rothermere, mógł teraz mianować jednego z dwóch członków dodatkowych jej wiceprzewodniczącym. Stanowisko to przypadło generałowi Davidowi Hendersonowi, pierwszemu dowódcy [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps). Z listy członków odpowiedzialnych za organizację i zaopatrzenie skreślono natomiast generalnego inspektora sił powietrznych. Sprawami tymi mieli się zajmować tylko szef sztabu lotnictwa, generalny mistrz personelu i generalny kontroler wyposażenia.
+Rozporządzenie z 2 stycznia nie tylko ustalało datę. Poprawiało też akt z 21 grudnia, który określił skład i podział pracy w [Radzie Sił Powietrznych](/utworzenie-rady-sil-powietrznych). Przewodniczący Rady, czyli Rothermere, mógł teraz mianować jednego z dwóch członków dodatkowych jej wiceprzewodniczącym. Stanowisko to przypadło generałowi Davidowi Hendersonowi, pierwszemu dowódcy [Royal Flying Corps](/sily-zbrojne/royal-flying-corps). Z listy członków odpowiedzialnych za organizację i zaopatrzenie skreślono natomiast generalnego inspektora sił powietrznych. Sprawami tymi mieli się zajmować tylko szef sztabu lotnictwa, generalny mistrz personelu i generalny kontroler wyposażenia.
 
 ## Koniec Rady Lotniczej
 

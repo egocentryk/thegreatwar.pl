@@ -9,7 +9,7 @@ sides:
     commanders: [Erich von Falkenhayn, Fevzi Pasha, Ali Fuad Bey]
 result: British victory. The Turks withdrew across the Jordan, and the British took Jericho and secured the right flank of the front in Palestine. They took 144 prisoners and lost 510 men.
 source: zdobycie-jerycha
-sourceHash: 667af235a5cc1e50825e3863d4e10fe9227a4097
+sourceHash: 315734c2fcf12bc2946169e8bf35391b7e40c151
 ---
 
 The capture of Jericho was a small, three-day operation which General [Edmund Allenby](/postacie/edmund-allenby) carried out two months after the taking of [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima). Its object was not the little town itself but the security of the right flank of the British front. Major-General John Shea's 60th (London) Division crossed the wild, ravine-cut hills of the [Judaean Desert](https://pl.wikipedia.org/wiki/Pustynia_Judzka) as far as the edge of the escarpment falling towards the [Jordan](https://pl.wikipedia.org/wiki/Jordan_(rzeka)), and two brigades of Major-General Edward Chaytor's Anzac Mounted Division came down on its right flank to the [Dead Sea](https://pl.wikipedia.org/wiki/Morze_Martwe). The Turks, threatened with encirclement, gave up one hill after another and on 21 February 1918 withdrew across the Jordan. On the morning of that day Australian horsemen rode into [Jericho](https://pl.wikipedia.org/wiki/Jerycho). For the first time the British stood in the Jordan Valley, from which a month later they set out on the first raid to the east bank of the river.
@@ -52,7 +52,7 @@ On the west bank of the Jordan, between the Dead Sea and the Wadi el Auja stream
 
 ## Losses
 
-According to the official history Chetwode's force lost 510 men during the operation: 27 officers (5 killed and 22 wounded) and 483 other ranks, most of them wounded and four missing. The British took 144 prisoners and eight machine guns. British sources do not give Turkish losses in killed and wounded. The participants agreed that it was the most difficult terrain they had yet attacked across. What helped was command of the air. Airmen of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) and of the Australian No. 1 Squadron chased off Turkish aircraft, bombed the enemy's positions and reported every withdrawal as it happened. Because relatively few troops took part in the attack, supply from the depot at Bethany (today [al-Eizariya](https://pl.wikipedia.org/wiki/Al-Ajzarijja)) by camel convoys caused less trouble than in earlier operations. There was enough water at Nebi Musa and in the valley.
+According to the official history Chetwode's force lost 510 men during the operation: 27 officers (5 killed and 22 wounded) and 483 other ranks, most of them wounded and four missing. The British took 144 prisoners and eight machine guns. British sources do not give Turkish losses in killed and wounded. The participants agreed that it was the most difficult terrain they had yet attacked across. What helped was command of the air. Airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) and of the Australian No. 1 Squadron chased off Turkish aircraft, bombed the enemy's positions and reported every withdrawal as it happened. Because relatively few troops took part in the attack, supply from the depot at Bethany (today [al-Eizariya](https://pl.wikipedia.org/wiki/Al-Ajzarijja)) by camel convoys caused less trouble than in earlier operations. There was enough water at Nebi Musa and in the valley.
 
 ## Significance
 

@@ -2,10 +2,10 @@
 title: Jellicoe becomes First Sea Lord
 summary: In early December 1916 John Jellicoe replaced Henry Jackson at the head of the Royal Navy and set up an anti-submarine division at the Admiralty.
 source: jellicoe-pierwszym-lordem-morskim
-sourceHash: d5e8ac9949631ccae5bcaffb6393159847806590
+sourceHash: d72d1e6545744a573693b61cac7ac6f260fab4d8
 ---
 
-At the beginning of December 1916 Admiral [John Jellicoe](/postacie/john-jellicoe), until recently commander of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), took up the post of First Sea Lord, the professional head of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). The change had been [announced in the House of Commons as early as 29 November](/beatty-dowodca-grand-fleet). The British chronology of the war states that his predecessor, Admiral [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), stepped down on 3 December and Jellicoe was appointed on 4 December. The British Naval Staff monograph gives the same date. Jellicoe himself, however, wrote in his memoirs that although he arrived in London on 29 November, because of influenza he took over from Jackson only on 5 December, his 57th birthday.
+At the beginning of December 1916 Admiral [John Jellicoe](/postacie/john-jellicoe), until recently commander of the [Grand Fleet](/sily-zbrojne/grand-fleet), took up the post of First Sea Lord, the professional head of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). The change had been [announced in the House of Commons as early as 29 November](/beatty-dowodca-grand-fleet). The British chronology of the war states that his predecessor, Admiral [Henry Jackson](/henry-jackson-pierwszym-lordem-morskim), stepped down on 3 December and Jellicoe was appointed on 4 December. The British Naval Staff monograph gives the same date. Jellicoe himself, however, wrote in his memoirs that although he arrived in London on 29 November, because of influenza he took over from Jackson only on 5 December, his 57th birthday.
 
 ## Jackson's departure
 

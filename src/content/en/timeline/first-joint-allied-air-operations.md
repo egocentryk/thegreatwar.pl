@@ -2,7 +2,7 @@
 title: First joint Allied air operations
 summary: On 30 July 1916 No. 3 Wing RNAS aircraft from Luxeuil first flew with the French against Germany. The targets were petrol stores at Müllheim in Baden.
 source: pierwsze-wspolne-operacje-lotnictwa-aliantow
-sourceHash: dc815c3935845a03beda98a85762e549fe7e7473
+sourceHash: 8353a4a66fb1b536c548606b32290ff3ba1fdc99
 ---
 
 The British chronology of the war records under 30 July 1916 "the first air operations carried out jointly by the French and British air services on the French western front". This means the sector of the front held by the French army, not the area where the British were fighting. Early that morning French aircraft and three machines of the new No. 3 Wing of the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the British navy's air arm, took off together from the airfield at [Luxeuil-les-Bains](https://pl.wikipedia.org/wiki/Luxeuil-les-Bains), at the foot of the [Vosges](https://pl.wikipedia.org/wiki/Wogezy). They flew across the [Rhine](https://pl.wikipedia.org/wiki/Ren) to bomb petrol stores in Baden. It was the first combat flight of the wing, which the British had created for joint raids with the French on German industry.
@@ -11,7 +11,7 @@ The British chronology of the war records under 30 July 1916 "the first air oper
 
 From the beginning of the war the Admiralty had wanted to attack industrial centres deep in Germany from the air. In the spring of 1916, when [Sopwith 1½ Strutter](https://pl.wikipedia.org/wiki/Sopwith_1½_Strutter) aircraft began to reach the naval air service, [a squadron was formed for this task](/brytyjski-dywizjon-do-bombardowania-niemieckiego-przemyslu). In May Captain William Elder went to France to prepare for its arrival. It was agreed that the British bombers would operate together with the French from Luxeuil, which was relatively close to the factories of Baden, Württemberg and the Saar basin. The French had their own bomber groups there, commanded by Captain Maurice Happe, one of the pioneers of French bomber aviation. His airmen had been bombing targets across the Rhine since 1915.
 
-According to the British official air history, H. A. Jones's *The War in the Air*, the Admiralty expected the wing to have 35 bombers and 20 fighters by 1 July. Then, however, the army's air arm called for help. Before the Battle of the Somme the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) was short of as many as twelve squadrons, and the navy had to hand over its Sopwiths to it, as many as 62 machines by mid-September. At the end of August No. 3 Wing had only 22 serviceable aircraft at Luxeuil. It could not afford larger raids until the autumn.
+According to the British official air history, H. A. Jones's *The War in the Air*, the Admiralty expected the wing to have 35 bombers and 20 fighters by 1 July. Then, however, the army's air arm called for help. Before the Battle of the Somme the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) was short of as many as twelve squadrons, and the navy had to hand over its Sopwiths to it, as many as 62 machines by mid-September. At the end of August No. 3 Wing had only 22 serviceable aircraft at Luxeuil. It could not afford larger raids until the autumn.
 
 ## The raid on Müllheim
 

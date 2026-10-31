@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-13 sierpnia 1914 roku samoloty [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), lotnictwa brytyjskiej armii lądowej, wystartowały z [Dover](https://pl.wikipedia.org/wiki/Dover) i przeleciały nad kanałem La Manche do Francji. Były to pierwsze brytyjskie jednostki wojskowe, które przeprawiły się na kontynent drogą powietrzną. Miały wspierać [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), który w tych dniach docierał do Francji statkami.
+13 sierpnia 1914 roku samoloty [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), lotnictwa brytyjskiej armii lądowej, wystartowały z [Dover](https://pl.wikipedia.org/wiki/Dover) i przeleciały nad kanałem La Manche do Francji. Były to pierwsze brytyjskie jednostki wojskowe, które przeprawiły się na kontynent drogą powietrzną. Miały wspierać [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), który w tych dniach docierał do Francji statkami.
 
 ## Pierwszy na miejscu
 

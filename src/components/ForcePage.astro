@@ -1,0 +1,287 @@
+---
+// One "Siły zbrojne" page (utils/forces.ts): title and lead, what the force
+// was, whose and when, "W skrócie", the text with a contents list and its
+// people, then what the site has on it: the battle pages and the articles
+// that link it ("Wspomniane w kronice"), by year. Used by /sily-zbrojne/<id>
+// and /en/armed-forces/<slug>.
+import { render } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import GlossaryMarks from "@/components/GlossaryMarks.astro"
+import InBrief from "@/components/InBrief.astro"
+import PersonPreviews from "@/components/PersonPreviews.astro"
+import ReportError from "@/components/ReportError.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import SidebarSupport from "@/components/SidebarSupport.astro"
+import Sources from "@/components/Sources.astro"
+import SupportCard from "@/components/SupportCard.astro"
+import { locale, rewriteEnHtml, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { formatDate, formatDateRange } from "@/utils/formatDate"
+import { termsIn } from "@/utils/glossary"
+import { breadcrumbLd, topicLd } from "@/utils/jsonLd"
+import { pageEntities } from "@/utils/pageEntities"
+import { localCountries } from "@/utils/countries"
+import { forceFacts, type LocalForce } from "@/utils/forces"
+import { slugify } from "@/utils/slugify"
+
+interface Props {
+  force: LocalForce
+  lang?: Lang
+}
+
+const { force, lang = "pl" } = Astro.props
+const en = lang === "en"
+const to = paths(lang)
+const loc = locale(lang)
+const { source } = force
+const { Content, headings } = await render(force.entry)
+const html = en ? await rewriteEnHtml(force.entry.rendered?.html ?? "") : undefined
+const contents = headings.filter((h) => h.depth === 2)
+const facts = await forceFacts(force, lang)
+const glossaryTerms = termsIn(force.entry.body ?? "", lang, source.id)
+const updated = formatDate(source.data.updated, "long", undefined, loc)
+const years = [...new Set(facts.articles.map((e) => e.data.date.getUTCFullYear()))]
+
+const KIND = {
+  armia: ["Armia", "Army"],
+  flota: ["Flota", "Fleet"],
+  lotnictwo: ["Lotnictwo", "Air service"],
+  korpus: ["Korpus", "Corps"],
+  formacja: ["Formacja", "Formation"],
+} as const
+const countryOf = async (l: Lang) => (await localCountries(l)).find((c) => c.id === source.data.country.id)
+const country = (await countryOf(lang)) ?? (await countryOf("pl"))
+const period = source.data.disbanded
+  ? formatDateRange(source.data.formed, source.data.disbanded, loc)
+  : `${en ? "from" : "od"} ${formatDate(source.data.formed, "long", undefined, loc)}`
+const t = {
+  pl: {
+    back: "← Wszystkie siły zbrojne",
+    eyebrow: "Siły zbrojne",
+    kind: "Rodzaj",
+    country: "Państwo",
+    period: "Okres",
+    people: "Dowódcy i ludzie",
+    contents: "W tym tekście",
+    battles: "Bitwy",
+    articles: "Wspomniane w kronice",
+    updated: "Aktualizacja",
+    authors: (n: number) => (n > 1 ? "Autorzy" : "Autor"),
+    forces: "Siły zbrojne",
+  },
+  en: {
+    back: "← All armed forces",
+    eyebrow: "Armed forces",
+    kind: "Type",
+    country: "State",
+    period: "Period",
+    people: "Commanders and people",
+    contents: "On this page",
+    battles: "Battles",
+    articles: "In the chronicle",
+    updated: "Updated",
+    authors: (n: number) => (n > 1 ? "Authors" : "Author"),
+    forces: "Armed forces",
+  },
+}[lang]
+const entities = await pageEntities(Astro.site!, lang, { body: source.body ?? "" })
+const jsonLd = [
+  topicLd(Astro.site!, {
+    ...entities,
+    lang,
+    path: force.href,
+    title: force.title,
+    summary: force.summary,
+    updated: source.data.updated,
+    authors: source.data.authors,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: en ? "Home" : "Strona główna", path: to.home },
+    { name: t.forces, path: to.forces },
+    { name: force.title, path: force.href },
+  ]),
+]
+---
+
+<BaseLayout
+  jsonLd={jsonLd}
+  title={force.title}
+  description={force.summary}
+  lang={lang}
+  alternates={force.alternate ? (en ? { pl: force.alternate } : { en: force.alternate }) : {}}
+>
+  <article class="pt-16 pb-24 sm:pt-24">
+    <div class="mx-auto max-w-6xl px-6">
+      <a href={to.forces} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors print:hidden">{t.back}</a>
+
+      <p class="text-signal mt-6 font-mono text-[10px] tracking-[0.2em] uppercase">{t.eyebrow}</p>
+      <h1 class="font-display text-ink mt-3 max-w-3xl text-3xl font-medium text-balance sm:text-4xl">{force.title}</h1>
+      <p class="text-ink mt-4 max-w-2xl text-lg leading-8">{force.summary}</p>
+
+      <dl class="border-line text-ink-soft mt-6 flex flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs">
+        <div><dt class="inline">{t.kind}: </dt><dd class="text-ink inline">{KIND[source.data.kind][en ? 1 : 0]}</dd></div>
+        {
+          country && (
+            <div>
+              <dt class="inline">{t.country}: </dt>
+              <dd class="inline">
+                <a href={country.href} class="text-ink hover:text-signal transition-colors">{country.name}</a>
+              </dd>
+            </div>
+          )
+        }
+        <div><dt class="inline">{t.period}: </dt><dd class="text-ink inline">{period}</dd></div>
+        <div>
+          <dt class="inline">{t.authors(source.data.authors.length)}: </dt>
+          <dd class="inline">
+            {
+              source.data.authors.map((name, index) => (
+                <>
+                  {index > 0 && ", "}
+                  <a href={`/${en ? "en/author" : "autor"}/${slugify(name)}`} class="text-ink hover:text-signal transition-colors">
+                    {name}
+                  </a>
+                </>
+              ))
+            }
+          </dd>
+        </div>
+        <div><dt class="inline">{t.updated}: </dt><dd class="inline">{updated}</dd></div>
+      </dl>
+
+      <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+        <div class="min-w-0">
+          <InBrief points={force.brief} lang={lang} />
+
+          {
+            facts.people.length > 0 && (
+              <div class="mt-8 lg:hidden">
+                <nav aria-label={t.people}>
+                  <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.people}</p>
+                  <ul class="mt-3 space-y-3 text-sm">
+                    {facts.people.map((p) => (
+                      <li>
+                        <a href={p.href} hreflang={p.pl ? "pl" : undefined} class="text-ink hover:text-signal leading-snug transition-colors">
+                          {p.data.name} {p.pl && <span class="lang-mark">(PL)</span>}
+                        </a>
+                        <span class="text-ink-soft block text-xs leading-5">{p.data.role}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </nav>
+              </div>
+            )
+          }
+
+          {
+            contents.length > 2 && (
+              <nav class="border-line mt-8 max-w-2xl border-l-2 pl-5 lg:hidden" aria-label={t.contents}>
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.contents}</p>
+                <ol class="mt-2 space-y-1 text-sm">
+                  {contents.map((h) => (
+                    <li>
+                      <a href={`#${h.slug}`} class="text-ink hover:text-signal transition-colors">{h.text}</a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
+            )
+          }
+
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
+            {en ? <Fragment set:html={html} /> : <Content />}
+            <GlossaryMarks terms={glossaryTerms} lang={lang} />
+            <PersonPreviews body={force.entry.body ?? ""} lang={lang} />
+          </div>
+
+          <Sources sources={source.data.sources} lang={lang} />
+          <ReportError title={force.title} lang={lang} />
+          <div class="lg:hidden">
+            <SupportCard lang={lang} />
+          </div>
+        </div>
+
+        <aside class="hidden space-y-8 pt-10 lg:block print:hidden">
+          {facts.people.length > 0 && (
+            <nav aria-label={t.people}>
+              <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.people}</p>
+              <ul class="mt-3 space-y-3 text-sm">
+                {facts.people.map((p) => (
+                  <li>
+                    <a href={p.href} hreflang={p.pl ? "pl" : undefined} class="text-ink hover:text-signal leading-snug transition-colors">
+                      {p.data.name} {p.pl && <span class="lang-mark">(PL)</span>}
+                    </a>
+                    <span class="text-ink-soft block text-xs leading-5">{p.data.role}</span>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
+          {
+            contents.length > 2 && (
+              <nav aria-label={t.contents}>
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.contents}</p>
+                <ol class="mt-3 space-y-2 text-sm">
+                  {contents.map((h) => (
+                    <li>
+                      <a href={`#${h.slug}`} class="text-ink hover:text-signal leading-snug transition-colors">{h.text}</a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
+            )
+          }
+          <SidebarSupport lang={lang} />
+        </aside>
+      </div>
+
+      {
+        facts.battles.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow={t.battles} count={facts.battles.length} />
+            <ol class="border-line border-t">
+              {facts.battles.map((b) => (
+                <li class="border-line border-b">
+                  <a href={b.href} class="group grid gap-x-4 py-3 sm:grid-cols-[13rem_1fr]">
+                    <span class="text-ink-soft font-mono text-xs leading-6">{formatDateRange(b.data.startDate, b.data.endDate, loc)}</span>
+                    <span class="min-w-0">
+                      <span class="text-ink group-hover:text-signal block transition-colors">{b.data.title}</span>
+                      <span class="text-ink-soft mt-0.5 block text-sm leading-6">{b.data.summary}</span>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )
+      }
+
+      {
+        facts.articles.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow={t.articles} count={facts.articles.length} />
+            <div class="space-y-8">
+              {years.map((year) => (
+                <div class="grid gap-x-6 sm:grid-cols-[5rem_1fr]">
+                  <h3 class="font-display text-ink text-2xl leading-none font-medium">{year}</h3>
+                  <ol class="border-line mt-3 border-t sm:mt-0">
+                    {facts.articles
+                      .filter((e) => e.data.date.getUTCFullYear() === year)
+                      .map((e) => (
+                        <li class="border-line border-b">
+                          <a href={e.href} data-read-id={e.id} class="group grid gap-x-4 py-2.5 sm:grid-cols-[11.5rem_1fr]">
+                            <span class="text-ink-soft font-mono text-xs leading-6">{formatDate(e.data.date, "long", undefined, loc)}</span>
+                            <span class:list={["min-w-0 transition-colors", e.data.milestone ? "tl-title-key" : "tl-title"]}>{e.data.title}</span>
+                          </a>
+                        </li>
+                      ))}
+                  </ol>
+                </div>
+              ))}
+            </div>
+          </section>
+        )
+      }
+    </div>
+  </article>
+</BaseLayout>

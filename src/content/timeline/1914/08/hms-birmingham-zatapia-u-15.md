@@ -15,7 +15,7 @@ draft: false
 
 ## Polowanie na Grand Fleet
 
-6 sierpnia z bazy na Helgolandzie wypłynęło dziesięć niemieckich okrętów podwodnych. Miały odnaleźć i zaatakować okręty brytyjskiej [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) na Morzu Północnym. Było to pierwsze zorganizowane użycie U-Bootów w wojnie. Okręty podwodne były wówczas bronią nową i niesprawdzoną w walce, a obie strony nie wiedziały jeszcze, jak bardzo zmienią one wojnę na morzu.
+6 sierpnia z bazy na Helgolandzie wypłynęło dziesięć niemieckich okrętów podwodnych. Miały odnaleźć i zaatakować okręty brytyjskiej [Grand Fleet](/sily-zbrojne/grand-fleet) na Morzu Północnym. Było to pierwsze zorganizowane użycie U-Bootów w wojnie. Okręty podwodne były wówczas bronią nową i niesprawdzoną w walce, a obie strony nie wiedziały jeszcze, jak bardzo zmienią one wojnę na morzu.
 
 8 sierpnia U-15 wystrzelił torpedę w kierunku brytyjskiego pancernika HMS Monarch, ale chybił. Był to jeden z pierwszych ataków torpedowych okrętu podwodnego w tej wojnie.
 

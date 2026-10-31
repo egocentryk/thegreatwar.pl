@@ -9,14 +9,14 @@ sides:
     commanders: [Leberecht Maass, Franz von Hipper]
 result: British victory. The Germans lost three light cruisers and a torpedo boat, the British not a single ship.
 source: bitwa-w-zatoce-helgolandzkiej
-sourceHash: 0b3d8e5a9f32ec1df60bff712640d8394232cb44
+sourceHash: 47de3347ff36da2f96016149cf55a92c63bf3e53
 ---
 
 The [Battle of Heligoland Bight](https://pl.wikipedia.org/wiki/Bitwa_koło_Helgolandu_(1914)), also called the First Battle of Heligoland, was fought on 28 August 1914 off the north-west coast of Germany. It was the first major clash of the British [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) and the German [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) in the First World War. The British sank three German light cruisers and a torpedo boat without losing a single ship themselves.
 
 ## A war without a battle
 
-Before the war both sides expected command of the sea to be decided by a great battle of the battle fleets in the North Sea. That did not happen. The British [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) closed the exits from the North Sea and maintained a distant blockade, while the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) stayed in its bases, waiting for a chance to wear down its opponent. The waters off the German ports, the [Heligoland Bight](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), were patrolled by torpedo boats supported by light cruisers. The fortified island of [Heligoland](https://pl.wikipedia.org/wiki/Helgoland) guarded the approaches to the mouths of the Elbe, the Weser and the Jade, where the main body of the fleet lay.
+Before the war both sides expected command of the sea to be decided by a great battle of the battle fleets in the North Sea. That did not happen. The British [Grand Fleet](/sily-zbrojne/grand-fleet) closed the exits from the North Sea and maintained a distant blockade, while the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) stayed in its bases, waiting for a chance to wear down its opponent. The waters off the German ports, the [Heligoland Bight](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), were patrolled by torpedo boats supported by light cruisers. The fortified island of [Heligoland](https://pl.wikipedia.org/wiki/Helgoland) guarded the approaches to the mouths of the Elbe, the Weser and the Jade, where the main body of the fleet lay.
 
 ## The plan
 

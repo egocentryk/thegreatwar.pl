@@ -2,7 +2,7 @@
 title: Start of the Battle of the Transloy Ridges
 summary: On 1 October 1916 the British Fourth Army attacked on the Somme at Eaucourt l’Abbaye and the Flers Line, aided by tanks and New Zealanders. Next day it rained.
 source: poczatek-bitwy-o-grzbiety-transloy
-sourceHash: 3fb6df341893d5e6457028f972acf7bfe013b03d
+sourceHash: fcc995959e68a1ac73bc1dff4723cd4e94807a30
 brief:
   - "At 3.15 p.m. on 1 October 1916 General Henry Rawlinson's British Fourth Army attacked on the Somme at Eaucourt l’Abbaye and the Flers Line, part of the German third position."
   - "Haig was preparing a great attack towards Le Transloy, and Rawlinson first wanted to straighten the army's left wing. The attack was made by exhausted divisions of III Corps and the New Zealand Division."
@@ -39,7 +39,7 @@ On the brigade's left wing things went worse. The 1/17th London was stopped by u
 
 In the centre of the attack the 151st Brigade of the 50th Division advanced. Its right-hand battalion, the 1/6th Battalion, Durham Light Infantry, had its flank exposed after the Londoners' failure and under German machine-gun fire managed to seize only a scrap of Flers Trench. Its commander had been wounded even before the attack. Then the commander of the neighbouring 1/9th Battalion, which was in reserve, came over under heavy fire: the 24-year-old Lieutenant-Colonel Roland Bradford. He took command of both battalions, rallied the men and led them in a new attack, which took Flers Trench at about 9.30 p.m. By dawn he had also driven the Germans out of the second trench of the line, barricaded the exposed right flank and repulsed successive attacks with bombs and [Stokes mortar](https://pl.wikipedia.org/wiki/Moździerz_Stokesa) fire. For his courage and skilful leadership he received the Victoria Cross. A year later, as a 25-year-old brigadier-general, the youngest general in the British Army, he was killed in the [Battle of Cambrai](https://pl.wikipedia.org/wiki/Bitwa_pod_Cambrai_(1917)).
 
-The other battalions of the 151st Brigade took the Flers Line in the centre and on the left without much difficulty, because the Germans had not had time to organise effective resistance. An observer from No. 3 Squadron of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) described the British barrage seen from the air as "a rigid wall of fire", and in his account the infantry of the 50th Division advanced in perfect order only fifty metres behind it. On the corps' left wing the 23rd Division took both trenches of the Flers Line and, after hard fighting beyond the Bapaume road, linked up with the Canadians. Its patrols, which tried to enter Le Sars, were driven back by fire from the houses of the village.
+The other battalions of the 151st Brigade took the Flers Line in the centre and on the left without much difficulty, because the Germans had not had time to organise effective resistance. An observer from No. 3 Squadron of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) described the British barrage seen from the air as "a rigid wall of fire", and in his account the infantry of the 50th Division advanced in perfect order only fifty metres behind it. On the corps' left wing the 23rd Division took both trenches of the Flers Line and, after hard fighting beyond the Bapaume road, linked up with the Canadians. Its patrols, which tried to enter Le Sars, were driven back by fire from the houses of the village.
 
 ## The rest of the front
 

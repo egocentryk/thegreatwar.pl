@@ -2745,6 +2745,57 @@ page counts, sample matches, JS-escape check, `--merge`).
 - The Izba Gmin writer flagged `1917/12/wybory-w-kanadzie` as linking the
   British house: checked, it links `Izba_Gmin_Kanady` already (no change).
 
+## 52. "Siły zbrojne", pilot of three (2026-10-31)
+
+- Owner: "commit and go with next" (after §51). The second new section of
+  expansion-plan.md C: `/sily-zbrojne/<slug>`, `/en/armed-forces/<slug>`.
+- Collection `forces` (`src/content/forces/*.md`: `name, title, summary,
+  brief, kind` (armia | flota | lotnictwo | korpus | formacja), `country`
+  (reference to a country page), `formed`, optional `disbanded`, `people`
+  (references to person pages), `wikiTitles, updated, authors, sources,
+  draft`) and `forcesEn` (`name, source`).
+- `utils/forces.ts` (`localForces`, `forceFacts`: articles and battle pages
+  that link the force, its people), `ForcePage.astro` (from
+  `PlacePage.astro`: header kind, state linked to its country page, period;
+  "Dowódcy i ludzie" beside the text instead of the map; "Bitwy" and
+  "Wspomniane w kronice" below), `ForceList.astro`, routes
+  `sily-zbrojne/` and `en/armed-forces/`; `paths.forces`/`forcePage`;
+  `rewriteEnHtml` maps `/sily-zbrojne/` (kind `forces`).
+- Glossary: `see` may name `sily-zbrojne/<id>`, shown as a "Siły zbrojne"
+  card (like "Temat"); `grand-fleet` (both fleets) now points to both
+  pages; `glossary.py` accepts the refs.
+- Scripts: `wiki-to-internal.py`, `wiki-links-report.py`, `i18n-status.mjs`
+  know `forces`; `topics.py --forces` (500–900 words, 5+ internal links,
+  2+ sources outside Wikipedia, copy check). New in `topics.py`, all modes:
+  `summary` at most 160 characters (the schema's limit, which a writer hit).
+  Brief `scripts/briefs/forces.md`.
+- Pages, PL/EN, 0 problems: Royal Flying Corps (798 words, 27 internal
+  links; 13 V 1912 – 1 IV 1918), Grand Fleet (886, 31; 4 VIII 1914 –
+  7 IV 1919), Flota Pełnomorska / High Seas Fleet (891, 28; 16 II 1907 –
+  21 VI 1919).
+- Build fix: an unquoted colon in a front-matter `summary` broke the YAML;
+  quoted (the writers can't build: remember it in the review of new files).
+- Links: 177 now ours (RFC 83, Grand Fleet 50, Hochseeflotte 44), 153
+  files, English restamped. Report: 24,297 → 24,120.
+- Checks: forces, glossary texts, places, guides, countries, series, year
+  intros 0; i18n 0 (3421 EN files); typecheck 0 errors; build 7992 pages;
+  pages checked at 390 and 1280px, no script errors.
+
+### Writers' notes (for the review list)
+
+- The Grand Fleet's origin: `1914/07/admiralicja-brytyjska-wstrzymuje-rozproszenie-floty`
+  (from the First Fleet) vs the glossary and `admiral-jellicoe-obejmuje-dowodztwo-grand-fleet`
+  (the renamed Home Fleet); the page: the First Fleet and part of the
+  Second of the Home Fleets.
+- `1914/07/niemiecka-flota-oceaniczna-odwolana-z-norwegii` calls it "Flota
+  Oceaniczna", a third name besides "High Seas Fleet" and "Flota
+  Pełnomorska" (one name across the site?).
+- en.wiki: the High Seas Fleet "formally disbanded" 10 I 1919, unconfirmed
+  (likely the treaty's entry into force, 10 I 1920); the page ends it with
+  the scuttling.
+- RFC: "Royal Flying Corps" neuter in some articles, masculine in others;
+  the page uses neuter. Trenchard, Henderson, Salmond have no person pages.
+
 ---
 
 ## Roadmap (checklist)
@@ -2853,7 +2904,8 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links: "Miejsca" section and pilot of 5 places, 316 links (§49)
 - [x] Wikipedia links: "Miejsca" batch 2, eight places, 325 links (§50)
 - [x] Wikipedia links: longer glossary texts, batch 1 (§51)
-- [ ] Wikipedia links: more place batches; "Siły zbrojne" pilot (3); glossary batch 2 (expansion-plan.md C)
+- [x] Wikipedia links: "Siły zbrojne" pilot (§52)
+- [ ] Wikipedia links: more place batches; "Siły zbrojne" batches; glossary batch 2 (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

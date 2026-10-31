@@ -2,10 +2,10 @@
 title: Alarm at Scapa Flow
 summary: On 16–17 October 1914 an alarm over a supposed U-boat was raised at the Grand Fleet base, Scapa Flow. The fleet put to sea, though no submarine was ever found.
 source: alarm-w-scapa-flow
-sourceHash: 3f8d1d7601efdcdf42f4dd41461f07e6d00922bb
+sourceHash: eac36ee5f0ef7bc7b095f75bdc6b057d3f17bb8a
 ---
 
-The British chronicle of the events of the war recorded under 17 October 1914 an attempt by German submarines to break into [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow), the main base of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) in the [Orkney Islands](https://pl.wikipedia.org/wiki/Orkady). In reality no U-boat entered the base at that time. The British nevertheless lived through two days of alarm, which decided the fate of the fleet for the following weeks.
+The British chronicle of the events of the war recorded under 17 October 1914 an attempt by German submarines to break into [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow), the main base of the [Grand Fleet](/sily-zbrojne/grand-fleet) in the [Orkney Islands](https://pl.wikipedia.org/wiki/Orkady). In reality no U-boat entered the base at that time. The British nevertheless lived through two days of alarm, which decided the fate of the fleet for the following weeks.
 
 The nervousness had its grounds. On 15 October the German [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) [sank the cruiser Hawke](/zatoniecie-hms-hawke) off the coast of Scotland. The next day, 16 October, in the afternoon, destroyers patrolling the eastern entrance to the [Pentland Firth](https://pl.wikipedia.org/wiki/Pentland_Firth), the strait separating Orkney from Scotland, reported that they had been attacked by a submarine. A torpedo missed the destroyers Nymphe and Alarm, and Nymphe tried to ram the attacker. It was most probably U-9 itself, which managed to escape.
 

@@ -2,7 +2,7 @@
 title: British capture Hill 60
 summary: On 17 April 1915 the British blew mines under Hill 60 south of Ypres and took it within minutes. Over the following days they beat off counter-attacks.
 source: brytyjczycy-zdobywaja-wzgorze-60
-sourceHash: 9fc6a0c2324c6e6b5af5137ccdcb073f4b6b1da5
+sourceHash: e93201d80e880295a8395f02173669a637813883
 brief:
   - "At 7.05 p.m. on 17 April 1915 British sappers fired mines under the German trenches on Hill 60 near Zillebeke, south-east of Ypres. It was the first large British mining operation on the Western Front."
   - "The hill, piled up from earth dug out for a railway, overlooked Zillebeke and Ypres. From March miners of the Royal Engineers' tunnelling companies drove galleries more than 90 metres long beneath it."
@@ -23,7 +23,7 @@ The hill gave the Germans a view into the British lines on the southern edge of 
 
 At the beginning of March sappers of one of the new tunnelling companies of the Royal Engineers, formed from professional miners, often from the pits of Wales and northern England, set to work. Most accounts attribute the operation to the 173rd Tunnelling Company, although some sources also link the work under the hill with the 171st Company. The British were about 50 metres from the German line. From a shaft about 5 metres deep the sappers drove three galleries, each of which eventually exceeded 90 metres in length. They worked in silence, in cramped and damp conditions, listening for the Germans digging nearby.
 
-By 10 April the mine chambers were ready. According to the British official history two charges of about 900 kilograms of explosive each were placed under the northern part of the German positions, two of about 1,200 kilograms each under the central part, and in the south one smaller charge of just under a quarter of a ton of guncotton. There the work was stopped, because the gallery had come close to a German tunnel. Sources differ on the number of mines: there is talk of five or of six. On 16 April aircraft of the British [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) helped the artillery register on the approaches to the hill.
+By 10 April the mine chambers were ready. According to the British official history two charges of about 900 kilograms of explosive each were placed under the northern part of the German positions, two of about 1,200 kilograms each under the central part, and in the south one smaller charge of just under a quarter of a ton of guncotton. There the work was stopped, because the gallery had come close to a German tunnel. Sources differ on the number of mines: there is talk of five or of six. On 16 April aircraft of the British [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) helped the artillery register on the approaches to the hill.
 
 ## Explosion and assault
 

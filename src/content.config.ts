@@ -294,6 +294,38 @@ const places = defineCollection({
   }),
 })
 
+// "Siły zbrojne" (src/content/forces/*.md, /sily-zbrojne/<id>): an army,
+// a fleet or an air service told across the war: formed when, under whom,
+// its battles, its fate (expansion-plan.md C). Reference pages: they may
+// link any article. The page lists by itself its people (`people`) and the
+// articles and battle pages that link it.
+const forces = defineCollection({
+  loader: glob({ base: "./src/content/forces", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({
+    // The force as articles name it: "Grand Fleet", "Royal Flying Corps".
+    name: z.string(),
+    title: z.string(),
+    summary: z.string().max(160),
+    brief: z.array(z.string()).max(5).default([]),
+    kind: z.enum(["armia", "flota", "lotnictwo", "korpus", "formacja"]),
+    // The country page of the state it served.
+    country: reference("countries"),
+    // Formed and disbanded (or merged) on; no `disbanded` if it outlived 1918
+    // as the same force.
+    formed: z.coerce.date(),
+    disbanded: z.coerce.date().optional(),
+    // Person pages of its commanders and people, in order.
+    people: z.array(reference("people")).default([]),
+    // pl.wikipedia titles (with underscores) whose links this page replaces
+    // (scripts/wiki-to-internal.py).
+    wikiTitles: z.array(z.string()).default([]),
+    updated: z.coerce.date(),
+    authors: z.array(z.string()).min(1),
+    sources: z.array(z.url()).default([]),
+    draft: z.boolean().default(false),
+  }),
+})
+
 // Longer texts for the most linked glossary terms (expansion-plan.md C):
 // src/content/glossary/<glossary slug>.md, shown on /slownik/<slug> in place
 // of the two short paragraphs of data/glossary.json, which stays the
@@ -322,6 +354,11 @@ const placesEn = defineCollection({
   schema: z.object({ ...enBase, name: z.string(), source: reference("places") }),
 })
 
+const forcesEn = defineCollection({
+  loader: glob({ base: "./src/content/en/forces", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({ ...enBase, name: z.string(), source: reference("forces") }),
+})
+
 const glossaryEn = defineCollection({
   loader: glob({ base: "./src/content/en/glossary", pattern: "**/*.md", generateId: idFromFilename }),
   schema: z.object({ term: z.string(), sourceHash: z.string().optional(), draft: z.boolean().default(false), source: reference("glossary") }),
@@ -334,6 +371,7 @@ export const collections = {
   topics,
   countries,
   places,
+  forces,
   glossary,
   timelineEn,
   battlesEn,
@@ -341,5 +379,6 @@ export const collections = {
   topicsEn,
   countriesEn,
   placesEn,
+  forcesEn,
   glossaryEn,
 }

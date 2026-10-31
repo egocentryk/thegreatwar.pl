@@ -30,7 +30,7 @@ Do natarcia wyznaczono dwa korpusy. IV Korpus generała [Henry'ego Rawlinsona](/
 
 ## Nowe metody
 
-Przygotowania były staranniejsze niż przy jakimkolwiek wcześniejszym natarciu brytyjskim. Lotnicy [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) sfotografowali z powietrza niemieckie pozycje i na podstawie [zdjęć lotniczych](https://pl.wikipedia.org/wiki/Aerofotografia) po raz pierwszy sporządzono dokładne mapy niemieckich okopów, rozdane potem oficerom. Ponad 340 dział i haubic podciągnięto nocami na stanowiska i ukryto, a każda bateria otrzymała listę celów i rozkład ognia co do minuty. Wojska zajęły pozycje wyjściowe w nocy, a do 4.30 nad ranem wszyscy byli na miejscach. Niemcy niczego się nie spodziewali.
+Przygotowania były staranniejsze niż przy jakimkolwiek wcześniejszym natarciu brytyjskim. Lotnicy [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) sfotografowali z powietrza niemieckie pozycje i na podstawie [zdjęć lotniczych](https://pl.wikipedia.org/wiki/Aerofotografia) po raz pierwszy sporządzono dokładne mapy niemieckich okopów, rozdane potem oficerom. Ponad 340 dział i haubic podciągnięto nocami na stanowiska i ukryto, a każda bateria otrzymała listę celów i rozkład ognia co do minuty. Wojska zajęły pozycje wyjściowe w nocy, a do 4.30 nad ranem wszyscy byli na miejscach. Niemcy niczego się nie spodziewali.
 
 ## Ostrzał i szturm
 

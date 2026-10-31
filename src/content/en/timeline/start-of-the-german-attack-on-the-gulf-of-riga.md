@@ -2,14 +2,14 @@
 title: Start of the German attack on the Gulf of Riga
 summary: On 8 August 1915 German minesweepers began sweeping mines in the Irbe Strait. They lost two ships, and in the afternoon Admiral Schmidt broke off the attack.
 source: poczatek-niemieckiego-ataku-na-zatoke-ryska
-sourceHash: 45cba46a09c5b20b2ba09259dc6788b7e754a219
+sourceHash: 5a411a09f0f126b05d91cd8a63742b4c6802651f
 ---
 
 Before dawn on 8 August 1915 (26 July by the Julian calendar) German minesweepers entered the [Irbe Strait](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), between the coast of [Courland](https://pl.wikipedia.org/wiki/Kurlandia) and the island of [Ösel](https://pl.wikipedia.org/wiki/Sarema). They began clearing a path through the Russian minefields into the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). It was the first of two attempts that went down in history as the Battle of the Gulf of Riga.
 
 ## A fleet from the North Sea
 
-For the operation the Germans moved a large part of the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) to the Baltic. Vice-Admiral Ehrhard Schmidt was to force his way into the gulf with the IV Squadron of older battleships, cruisers, torpedo boats, minesweepers and the minelayer *Deutschland*. On the open-sea side he was covered by Vice-Admiral [Franz von Hipper](/postacie/franz-von-hipper) with dreadnoughts and battlecruisers, ready to fight should the Russian fleet come out of the [Gulf of Finland](https://pl.wikipedia.org/wiki/Zatoka_Fińska). The plan allowed two days: to destroy the Russian ships in the gulf, lay mines in the Moon Sound, the strait linking the gulf with the Gulf of Finland, block the port of [Pernau](https://pl.wikipedia.org/wiki/Parnawa) with sunken ships, and carry out a demonstrative bombardment of the fortifications at the mouth of the Dvina. For several weeks the German army had stood on the shore of the gulf, and Russian ships had been shelling its flank. In July the Germans had lost the [action off Gotland](/bitwa-morska-kolo-gotlandii) and now wanted to demonstrate their superiority in the Baltic.
+For the operation the Germans moved a large part of the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) to the Baltic. Vice-Admiral Ehrhard Schmidt was to force his way into the gulf with the IV Squadron of older battleships, cruisers, torpedo boats, minesweepers and the minelayer *Deutschland*. On the open-sea side he was covered by Vice-Admiral [Franz von Hipper](/postacie/franz-von-hipper) with dreadnoughts and battlecruisers, ready to fight should the Russian fleet come out of the [Gulf of Finland](https://pl.wikipedia.org/wiki/Zatoka_Fińska). The plan allowed two days: to destroy the Russian ships in the gulf, lay mines in the Moon Sound, the strait linking the gulf with the Gulf of Finland, block the port of [Pernau](https://pl.wikipedia.org/wiki/Parnawa) with sunken ships, and carry out a demonstrative bombardment of the fortifications at the mouth of the Dvina. For several weeks the German army had stood on the shore of the gulf, and Russian ships had been shelling its flank. In July the Germans had lost the [action off Gotland](/bitwa-morska-kolo-gotlandii) and now wanted to demonstrate their superiority in the Baltic.
 
 ## Six hours for one barrage
 

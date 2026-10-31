@@ -2,7 +2,7 @@
 title: Fighting at Khan al-Baghdadi
 summary: On 26 March 1918 the 15th Division's infantry took the Turkish trenches at Khan al-Baghdadi on the Euphrates; cavalry and armoured cars cut off the retreat.
 source: walki-pod-chan-al-baghdadi
-sourceHash: bebcde479b7bc0a16977813f648adee9e5012258
+sourceHash: 492068c399c29051624991a8f70823908d5dac10
 ---
 
 On 26 March 1918 General Harry Brooking's Anglo-Indian 15th Division attacked the Turkish 50th Division at Khan al-Baghdadi, an old caravanserai on the road to Aleppo, about 35 kilometres up the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) from [Hit, occupied two weeks earlier](/brytyjczycy-zajmuja-hit). At Hit the Turks had slipped away without a fight. This time the new divisional commander, Nazim Bey (in some accounts Nazmi Bey), decided to make a stand. This was exactly what the British had been counting on. All day the infantry pushed the Turks from one position after another, while the 11th Cavalry Brigade with armoured cars went round them through the desert. By the evening the Turks were surrounded.
@@ -15,7 +15,7 @@ After dawn an aircraft flew over the position and before seven dropped a message
 
 ## The trap closes
 
-Meanwhile the cavalry was making its way through one ravine after another, guided by contact aircraft which, according to F.J. Moberly's British official history, rendered it invaluable service. At 1.50 p.m. it reached the Wadi Hauran, and at about five in the afternoon it cut the Turkish telegraph and took up a position astride the Aleppo road, about ten kilometres north-west of the caravanserai. The airmen of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) bombed and machine-gunned the Turks all day. They also spotted Turkish guns firing from barges on the Euphrates. The barges managed to get away upstream, but one of them ran aground and sank.
+Meanwhile the cavalry was making its way through one ravine after another, guided by contact aircraft which, according to F.J. Moberly's British official history, rendered it invaluable service. At 1.50 p.m. it reached the Wadi Hauran, and at about five in the afternoon it cut the Turkish telegraph and took up a position astride the Aleppo road, about ten kilometres north-west of the caravanserai. The airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) bombed and machine-gunned the Turks all day. They also spotted Turkish guns firing from barges on the Euphrates. The barges managed to get away upstream, but one of them ran aground and sank.
 
 At 5.30 p.m., under cover of half an hour of artillery fire, the infantry of the 42nd and 50th Brigades went into the attack. Candler wrote that the clouds of dust thrown up by the shells must have blinded the Turks like a smoke screen. The British crossed the ravine with almost no losses. A company of the 6th Jats captured four machine guns and took a whole Turkish battalion prisoner, twelve officers and 250 men. At about six the main line fell, and with it four guns and many prisoners. In the evening the airmen estimated that the British had already taken more than a thousand men. At 10.15 p.m. Brooking ordered the cavalry to close the road and the river tightly, and the tired infantry to give the Turks no respite. Just before midnight the Turks tried to break through Cassels's line. After three quarters of an hour of fighting they began to surrender.
 

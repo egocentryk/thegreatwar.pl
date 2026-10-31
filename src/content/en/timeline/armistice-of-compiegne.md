@@ -2,7 +2,7 @@
 title: Armistice of Compiègne
 summary: At dawn on 11 November 1918 Germany signed an armistice with the Entente in Foch's railway carriage in the Forest of Compiègne. At 11 a.m. the guns fell silent.
 source: rozejm-w-compiegne
-sourceHash: 6e8d3fb6a3cef6e1e045d82b1178560311b11ac5
+sourceHash: 414b565f490c4b5fe68b345873a2592409b08574
 brief:
   - "On 11 November 1918, a few minutes after five in the morning, in Marshal Foch's carriage in the Forest of Compiègne, Matthias Erzberger and three other German delegates signed an armistice with the Entente and the United States."
   - "The delegation arrived on 8 November and was read the terms, and Foch refused to extend the 72-hour deadline. Meanwhile revolution broke out in Berlin, and the government's consent to sign came on the evening of 10 November."
@@ -33,7 +33,7 @@ The agreement had 34 articles. On the Western Front, hostilities on land and in 
 
 In the east, Germany had to withdraw its troops from the territories that before the war had belonged to Austria-Hungary, Romania and Turkey, and from Russian lands at a moment to be indicated by the Allies. It renounced the [Treaty of Brest-Litovsk](https://pl.wikipedia.org/wiki/Traktat_brzeski) and the [Treaty of Bucharest](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1918)), and the Allies obtained free access to the evacuated lands through [Danzig](https://pl.wikipedia.org/wiki/Gdańsk) or by the Vistula, in order to supply their populations and maintain order. The German forces in East Africa were to withdraw within a period set by the Allies. Germany also had to hand over to the Allies in trust the gold received from or taken from Russia and Romania, and return the cash taken from the National Bank of Belgium.
 
-At sea, Germany was to surrender all its submarines within 14 days, and to disarm and intern in neutral or Allied ports 6 battlecruisers, 10 battleships, 8 light cruisers and 50 of the newest destroyers of the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte). It also had to open the way into the Baltic to the Allies and evacuate the Black Sea ports. The naval blockade of Germany remained in force, although the Allies announced that they would see to the country's supplies to the extent necessary. The armistice was concluded for 36 days with the possibility of extension. The agreement did not settle borders or reparations, but it deprived Germany of the ability to resume the war. That was exactly what Foch wanted.
+At sea, Germany was to surrender all its submarines within 14 days, and to disarm and intern in neutral or Allied ports 6 battlecruisers, 10 battleships, 8 light cruisers and 50 of the newest destroyers of the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska). It also had to open the way into the Baltic to the Allies and evacuate the Black Sea ports. The naval blockade of Germany remained in force, although the Allies announced that they would see to the country's supplies to the extent necessary. The armistice was concluded for 36 days with the possibility of extension. The agreement did not settle borders or reparations, but it deprived Germany of the ability to resume the war. That was exactly what Foch wanted.
 
 ## The eleventh hour of the eleventh day of the eleventh month
 

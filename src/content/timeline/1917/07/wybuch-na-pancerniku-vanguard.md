@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 lipca 1917 roku o 23.20 w głównym kotwicowisku [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) w [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady) wyleciał w powietrze pancernik Vanguard. Seria wybuchów rozerwała środkową część okrętu, który zatonął niemal natychmiast. Zginęło 843 z 845 ludzi, którzy byli wtedy na pokładzie. Była to najkrwawsza z serii wewnętrznych eksplozji, które w czasie tej wojny niszczyły brytyjskie okręty w ich własnych portach.
+9 lipca 1917 roku o 23.20 w głównym kotwicowisku [Grand Fleet](/sily-zbrojne/grand-fleet) w [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady) wyleciał w powietrze pancernik Vanguard. Seria wybuchów rozerwała środkową część okrętu, który zatonął niemal natychmiast. Zginęło 843 z 845 ludzi, którzy byli wtedy na pokładzie. Była to najkrwawsza z serii wewnętrznych eksplozji, które w czasie tej wojny niszczyły brytyjskie okręty w ich własnych portach.
 
 Vanguard był [drednotem](https://pl.wikipedia.org/wiki/Drednot) typu St. Vincent, zwodowanym w 1909 roku w stoczni Vickersa w Barrow-in-Furness i wcielonym do służby w marcu 1910 roku. Uzbrojony w dziesięć dział kalibru 305 mm, w 1917 roku nie należał już do najnowocześniejszych okrętów floty. Od początku wojny służył w Grand Fleet, a w [bitwie jutlandzkiej](/poczatek-bitwy-jutlandzkiej) w maju 1916 roku płynął w linii bojowej 4 Eskadry Pancerników i strzelał między innymi do unieruchomionego niemieckiego krążownika Wiesbaden, sam nie odnosząc uszkodzeń. Dowodził nim komandor James Dick.
 

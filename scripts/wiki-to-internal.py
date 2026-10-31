@@ -7,9 +7,10 @@ A link `[text](https://pl.wikipedia.org/wiki/<Title>)` becomes
 `[text](/bitwy/<slug>)` when <Title> is one of our battle pages (its title
 with underscores, or an alias in ALIASES, where pl.wiki names a campaign
 differently), or `[text](/postacie/<slug>)`, `[text](/tematy/<slug>)`,
-`[text](/kraje/<slug>)`, `[text](/miejsca/<slug>)`, `[text](/slownik/<slug>)`
-when <Title> is in the `wikiTitles` of a person page, a topic guide, a
-country page, a place page or a glossary term's longer text, or `[text](/<slug>)` when <Title> is
+`[text](/kraje/<slug>)`, `[text](/miejsca/<slug>)`, `[text](/slownik/<slug>)`,
+`[text](/sily-zbrojne/<slug>)` when <Title> is in the `wikiTitles` of a
+person page, a topic guide, a country page, a place page, a glossary
+term's longer text or an armed force, or `[text](/<slug>)` when <Title> is
 in EVENTS (a timeline article about the same event). Timeline articles,
 battle pages, topic guides, country, place and person pages are edited; the
 English file of the same page gets the same edit (English bodies keep the
@@ -19,7 +20,7 @@ The workflow's link rules are kept (workflow.md §4, "Links"):
 - battles: only links to earlier content (a timeline article from the
   battle's start date on, a battle page whose own start is on or after the
   target's); guides and person pages are not dated and may link any battle;
-- people, guides, countries, places, glossary: no date rule (reference pages);
+- people, guides, countries, places, glossary, forces: no date rule (reference pages);
 - events: only from content dated after the event (guides and person
   pages: always);
 - never the page itself, never a timeline article's own `battle`;
@@ -123,7 +124,7 @@ def main():
     for title, slug in ALIASES.items():
         if slug in battles:
             targets[title] = ("bitwy", slug)
-    for folder, prefix in (("postacie", "postacie"), ("topics", "tematy"), ("countries", "kraje"), ("places", "miejsca"), ("glossary", "slownik")):
+    for folder, prefix in (("postacie", "postacie"), ("topics", "tematy"), ("countries", "kraje"), ("places", "miejsca"), ("glossary", "slownik"), ("forces", "sily-zbrojne")):
         for f in glob.glob(f"{ROOT}/src/content/{folder}/*.md"):
             m = re.search(r"^wikiTitles:\s*\[(.*)\]", open(f, encoding="utf-8").read(), re.M)
             for title in (m.group(1).split(",") if m else []):
@@ -140,7 +141,7 @@ def main():
         targets = {t: v for t, v in targets.items() if v[1] in only}
 
     # Polish folder -> English folder.
-    EN_DIR = {"timeline": "timeline", "battles": "battles", "topics": "topics", "postacie": "people", "countries": "countries", "places": "places", "glossary": "glossary"}
+    EN_DIR = {"timeline": "timeline", "battles": "battles", "topics": "topics", "postacie": "people", "countries": "countries", "places": "places", "glossary": "glossary", "forces": "forces"}
     en_of = {}
     for f in glob.glob(f"{ROOT}/src/content/en/*/*.md"):
         src = front(open(f, encoding="utf-8").read()).get("source")
@@ -156,6 +157,7 @@ def main():
         + glob.glob(f"{ROOT}/src/content/countries/*.md")
         + glob.glob(f"{ROOT}/src/content/places/*.md")
         + glob.glob(f"{ROOT}/src/content/glossary/*.md")
+        + glob.glob(f"{ROOT}/src/content/forces/*.md")
     )
     for f in sorted(files):
         text = open(f, encoding="utf-8").read()
@@ -170,7 +172,7 @@ def main():
                 continue
             prefix, target = targets[title]
             why = None
-            own = {"battles": "bitwy", "postacie": "postacie", "timeline": "", "topics": "tematy", "countries": "kraje", "places": "miejsca", "glossary": "slownik"}.get(kind)
+            own = {"battles": "bitwy", "postacie": "postacie", "timeline": "", "topics": "tematy", "countries": "kraje", "places": "miejsca", "glossary": "slownik", "forces": "sily-zbrojne"}.get(kind)
             href = f"/{prefix}/{target}" if prefix else f"/{target}"
             if own == prefix and target == slug:
                 why = "own page"

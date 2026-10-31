@@ -2,10 +2,10 @@
 title: Sinking of HMS Campania
 summary: On 5 November 1918 Campania, a former liner converted into a seaplane carrier, sank in the Firth of Forth. Torn from her anchorage, she rammed two warships.
 source: zatoniecie-campanii
-sourceHash: ea1c228e8aa021f0aaee7a6ac3e2f56b9aed50fa
+sourceHash: e21bae7773172f9d5ea5fa0ef987b14c7ba4edbf
 ---
 
-On the morning of 5 November 1918 the British [seaplane carrier](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów) HMS *Campania* sank in the [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth). She lay at anchor in the roads off [Burntisland](https://pl.wikipedia.org/wiki/Burntisland), on the northern shore of the firth, among the ships of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), which had been based at nearby [Rosyth](https://pl.wikipedia.org/wiki/Rosyth) since April 1918. A sudden, very violent [squall](https://pl.wikipedia.org/wiki/Szkwał) tore the ship from her position and her anchor began to drag along the bottom. *Campania* struck the bow of the battleship [*Royal Oak*](https://pl.wikipedia.org/wiki/HMS_Royal_Oak_(1914)), and then scraped along the side of the battlecruiser [*Glorious*](https://pl.wikipedia.org/wiki/HMS_Glorious).
+On the morning of 5 November 1918 the British [seaplane carrier](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów) HMS *Campania* sank in the [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth). She lay at anchor in the roads off [Burntisland](https://pl.wikipedia.org/wiki/Burntisland), on the northern shore of the firth, among the ships of the [Grand Fleet](/sily-zbrojne/grand-fleet), which had been based at nearby [Rosyth](https://pl.wikipedia.org/wiki/Rosyth) since April 1918. A sudden, very violent [squall](https://pl.wikipedia.org/wiki/Szkwał) tore the ship from her position and her anchor began to drag along the bottom. *Campania* struck the bow of the battleship [*Royal Oak*](https://pl.wikipedia.org/wiki/HMS_Royal_Oak_(1914)), and then scraped along the side of the battlecruiser [*Glorious*](https://pl.wikipedia.org/wiki/HMS_Glorious).
 
 The collision with *Royal Oak* tore open the hull. Water flooded the engine room and the ship lost electrical power. *Campania* began to settle by the stern and sank after about five hours. The whole crew was taken off by nearby vessels; no one was killed. An Admiralty inquiry found the officer of the watch chiefly to blame, for failing to order the second anchor dropped when the ship began to drift.
 

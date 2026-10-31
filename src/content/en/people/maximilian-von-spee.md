@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Copenhagen (Denmark)
 deathPlace: South Atlantic, off the Falkland Islands
 source: maximilian-von-spee
-sourceHash: e54595d5e775498002b71fecc9d07d8bade681c2
+sourceHash: 54a31da9b08c11766361e25cef7efc3dd2c2a521
 ---
 
 Maximilian Graf von Spee commanded the only permanent formation of the German navy outside Europe, the East Asia Squadron. When war broke out his ships were at the other end of the world, without a base and without assured coal supplies. Spee led them across the whole Pacific Ocean, on 1 November 1914 off the coast of Chile he inflicted on the Royal Navy its first defeat in a naval battle in more than a hundred years, and five weeks later he was killed together with most of the squadron and both his sons in the Battle of the Falkland Islands. His campaign lasted only four months, but during that time it tied down dozens of Allied ships on every ocean.
@@ -15,7 +15,7 @@ Maximilian Graf von Spee commanded the only permanent formation of the German na
 
 He was born on 22 June 1861 in [Copenhagen](https://pl.wikipedia.org/wiki/Kopenhaga), into a Catholic Rhineland family of counts. He went to school in, among other places, Lucerne in Switzerland. In 1878 he joined the [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine). As a young officer he sailed off the coast of West Africa in the years when Germany was founding colonies in Togo and Kamerun, and in 1887 he became port commandant at [Douala](https://pl.wikipedia.org/wiki/Duala_(miasto)). There he fell ill with rheumatic fever and had to return home. Rheumatism troubled him for the rest of his life. In 1889 he married Baroness Margaretha von der Osten-Sacken. They had two sons, Otto and Heinrich, and a daughter, Huberta.
 
-At the end of 1897, just after Germany had seized Kiautschou Bay with the port of [Qingdao](https://pl.wikipedia.org/wiki/Qingdao), then called Tsingtao, he joined the staff of the East Asia Squadron. Later he commanded several ships in turn, including from 1905 the battleship *Wittelsbach*, was chief of staff of the North Sea naval station, and in 1910, as a rear-admiral, became deputy commander of the scouting forces of the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte).
+At the end of 1897, just after Germany had seized Kiautschou Bay with the port of [Qingdao](https://pl.wikipedia.org/wiki/Qingdao), then called Tsingtao, he joined the staff of the East Asia Squadron. Later he commanded several ships in turn, including from 1905 the battleship *Wittelsbach*, was chief of staff of the North Sea naval station, and in 1910, as a rear-admiral, became deputy commander of the scouting forces of the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska).
 
 On 4 December 1912 he took command of the East Asia Squadron, and in November 1913 he was promoted to vice-admiral. The core of the squadron consisted of two armoured cruisers, the flagship *Scharnhorst* and *Gneisenau*, whose crews were renowned for their gunnery. Spee made cruises around East Asia and the Pacific: in 1913 he visited Emperor Taishō in Japan, then Siam, and in May 1914 in Peking he spoke with the President of China, [Yuan Shikai](https://pl.wikipedia.org/wiki/Yuan_Shikai). On 20 June 1914 he sailed from Tsingtao on a cruise of the German islands in the Pacific. The news of the assassination in Sarajevo reached him on the way, and from 17 July he lay with the armoured cruisers in the Carolines, in the harbour on the island of Pohnpei, from where he followed the mounting crisis in Europe by radio.
 

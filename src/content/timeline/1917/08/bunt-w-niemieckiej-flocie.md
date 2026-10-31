@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 sierpnia 1917 roku w [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven), głównej bazie niemieckiej [Floty Pełnomorskiej](https://pl.wikipedia.org/wiki/Hochseeflotte), doszło do największego od początku wojny protestu marynarzy. Około 600 marynarzy i palaczy z pancernika Prinzregent Luitpold samowolnie zeszło na ląd i pomaszerowało do Rüstersiel na przedmieściach miasta, by upomnieć się o kolegów aresztowanych dzień wcześniej. Protest był pokojowy, ale dowództwo uznało go za bunt i spisek wymierzony w gotowość bojową floty. Brytyjska chronologia wojny notuje wybuch buntu w niemieckiej flocie pod 3 sierpnia, choć niemieckie opracowania zgodnie datują wymarsz na 2 sierpnia.
+2 sierpnia 1917 roku w [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven), głównej bazie niemieckiej [Floty Pełnomorskiej](/sily-zbrojne/flota-pelnomorska), doszło do największego od początku wojny protestu marynarzy. Około 600 marynarzy i palaczy z pancernika Prinzregent Luitpold samowolnie zeszło na ląd i pomaszerowało do Rüstersiel na przedmieściach miasta, by upomnieć się o kolegów aresztowanych dzień wcześniej. Protest był pokojowy, ale dowództwo uznało go za bunt i spisek wymierzony w gotowość bojową floty. Brytyjska chronologia wojny notuje wybuch buntu w niemieckiej flocie pod 3 sierpnia, choć niemieckie opracowania zgodnie datują wymarsz na 2 sierpnia.
 
 ## Bezczynna flota
 

@@ -10,6 +10,7 @@ import Sources from "@/components/Sources.astro"
 import { locale, plural, rewriteEnHtml, type Lang } from "@/i18n"
 import { curated, localPeople } from "@/i18n/local"
 import { listPageLd } from "@/utils/jsonLd"
+import { localForces } from "@/utils/forces"
 import { localTopics } from "@/utils/topics"
 import { formatDate } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
@@ -35,16 +36,19 @@ const { Content } = text ? await render(text) : { Content: undefined }
 const html = text && en ? await rewriteEnHtml(text.rendered?.html ?? "") : undefined
 const sources = note && text ? note.data.sources : entry.sources
 
-// Topic guides named in `see` ("tematy/<id>"), shown first as "Temat".
+// Topic guides and armed forces named in `see` ("tematy/<id>",
+// "sily-zbrojne/<id>"), shown first as "Temat" and "Siły zbrojne".
 const topicIds = entry.see.filter((ref) => ref.startsWith("tematy/")).map((ref) => ref.slice(7))
 const topics = (await localTopics(lang)).filter((topic) => topicIds.includes(topic.id))
+const forceIds = entry.see.filter((ref) => ref.startsWith("sily-zbrojne/")).map((ref) => ref.slice(13))
+const forces = (await localForces(lang)).filter((force) => forceIds.includes(force.id))
 
 // Related pages: timeline slugs, "bitwy/<id>" and "postacie/<id>".
 const people = new Map((await localPeople(lang)).map((p) => [p.id, p]))
 const plPeople = new Map((await localPeople("pl")).map((p) => [p.id, p]))
 const see = (
   await Promise.all(
-    entry.see.filter((ref) => !ref.startsWith("tematy/")).map(async (ref) => {
+    entry.see.filter((ref) => !ref.startsWith("tematy/") && !ref.startsWith("sily-zbrojne/")).map(async (ref) => {
       if (ref.startsWith("postacie/")) {
         const id = ref.slice(9)
         const p = people.get(id) ?? plPeople.get(id)
@@ -66,6 +70,7 @@ const t = {
     back: "← Słownik",
     see: "Zobacz też",
     topic: "Temat",
+    force: "Siły zbrojne",
     used: "W kronice",
     usedLead: (n: number) => `${n} ${plural("pl", n, ["tekst używa", "teksty używają", "tekstów używa"], ["", ""])} tego pojęcia.`,
     others: "Inne hasła",
@@ -76,6 +81,7 @@ const t = {
     back: "← Glossary",
     see: "See also",
     topic: "Topic",
+    force: "Armed forces",
     used: "In the chronicle",
     usedLead: (n: number) => `${n} ${plural("en", n, ["", "", ""], ["article uses", "articles use"])} this term.`,
     others: "Other terms",
@@ -146,6 +152,15 @@ const jsonLd = listPageLd(Astro.site!, {
               {topic.title} →
             </a>
             <p class="text-ink-soft mt-1 text-sm leading-6">{topic.question}</p>
+          </div>
+        ))}
+        {forces.map((force) => (
+          <div class="border-line border-t pt-5">
+            <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.force}</p>
+            <a href={force.href} class="font-display text-ink hover:text-signal mt-2 block text-lg leading-snug transition-colors">
+              {force.name} →
+            </a>
+            <p class="text-ink-soft mt-1 text-sm leading-6">{force.summary}</p>
           </div>
         ))}
         {

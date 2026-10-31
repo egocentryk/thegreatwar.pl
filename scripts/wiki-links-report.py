@@ -8,7 +8,7 @@ battle pages, person pages, topic guides, country pages; the English files
 keep the same targets, so they are not counted twice). For each target:
 the number of links, the number of pages linking it, the split by kind of
 page, and whether we already have a page of our own for it (a battle page,
-the `wikiTitles` of a person page, a guide, a country or a place page, a glossary term's longer text, an EVENTS
+the `wikiTitles` of a person page, a guide, a country or a place page, a glossary term's longer text, an armed force, an EVENTS
 entry in wiki-to-internal.py, or a glossary term of the same name). Links to a target we already cover are
 the ones wiki-to-internal.py keeps for the date rule (workflow.md §4).
 """
@@ -16,7 +16,7 @@ import collections, glob, json, os, re, sys, urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LINK = re.compile(r"\]\(https://pl\.wikipedia\.org/wiki/((?:[^()\s#]|\([^()\s]*\))+)(?:#[^)\s]*)?\)")
-KINDS = {"timeline": "art", "battles": "bitwy", "postacie": "postacie", "topics": "tematy", "countries": "kraje", "places": "miejsca", "glossary": "slownik"}
+KINDS = {"timeline": "art", "battles": "bitwy", "postacie": "postacie", "topics": "tematy", "countries": "kraje", "places": "miejsca", "glossary": "slownik", "forces": "sily-zbrojne"}
 
 
 def front(text):
@@ -31,7 +31,7 @@ def ours():
         t = re.search(r"^title:\s*\"?(.*?)\"?$", front(open(f, encoding="utf-8").read()), re.M)
         if t:
             have[t.group(1).replace(" ", "_")] = "bitwy/" + os.path.basename(f)[:-3]
-    for folder, prefix in (("postacie", "postacie"), ("topics", "tematy"), ("countries", "kraje"), ("places", "miejsca"), ("glossary", "slownik")):
+    for folder, prefix in (("postacie", "postacie"), ("topics", "tematy"), ("countries", "kraje"), ("places", "miejsca"), ("glossary", "slownik"), ("forces", "sily-zbrojne")):
         for f in glob.glob(f"{ROOT}/src/content/{folder}/*.md"):
             m = re.search(r"^wikiTitles:\s*\[(.*)\]", open(f, encoding="utf-8").read(), re.M)
             for t in (m.group(1).split(",") if m else []):

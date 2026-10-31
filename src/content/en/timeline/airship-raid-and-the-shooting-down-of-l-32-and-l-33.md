@@ -2,10 +2,10 @@
 title: Airship raid and the shooting down of L 32 and L 33
 summary: On the night of 23/24 September 1916 naval airships bombed London and Nottingham. L 32 fell in flames near Billericay, and L 33 came down in Essex.
 source: nalot-sterowcow-i-zestrzelenie-l-32-i-l-33
-sourceHash: e7f96fe715e89d3ed5e096a6508ba365f84ab56f
+sourceHash: 16c7670207fc7892efa219b276a7a660a8ac71b8
 ---
 
-On the afternoon of 23 September 1916 German naval airships took off from their North Sea bases to attack London and the Midlands. According to the British official history of the air war, H. A. Jones's *The War in the Air*, there were eleven of them, and nine crossed the coast. Other studies speak of twelve. The raid was a bloody one: according to the British chronology of the war, about 170 people were killed and wounded, most of them civilians. That night, however, the German navy lost two of its newest airships. L 32 fell in flames near [Billericay](https://pl.wikipedia.org/wiki/Billericay), shot down by a [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) pilot, while L 33, damaged by anti-aircraft fire, was forced to land in [Essex](https://pl.wikipedia.org/wiki/Essex). Three weeks earlier the London defences had [shot down the army airship SL 11](/nalot-sterowcow-i-zestrzelenie-sl-11), and this night showed that it had been no fluke.
+On the afternoon of 23 September 1916 German naval airships took off from their North Sea bases to attack London and the Midlands. According to the British official history of the air war, H. A. Jones's *The War in the Air*, there were eleven of them, and nine crossed the coast. Other studies speak of twelve. The raid was a bloody one: according to the British chronology of the war, about 170 people were killed and wounded, most of them civilians. That night, however, the German navy lost two of its newest airships. L 32 fell in flames near [Billericay](https://pl.wikipedia.org/wiki/Billericay), shot down by a [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) pilot, while L 33, damaged by anti-aircraft fire, was forced to land in [Essex](https://pl.wikipedia.org/wiki/Essex). Three weeks earlier the London defences had [shot down the army airship SL 11](/nalot-sterowcow-i-zestrzelenie-sl-11), and this night showed that it had been no fluke.
 
 ## L 33 over the East End
 

@@ -2,7 +2,7 @@
 title: British air patrol over the English Channel
 summary: On 9 August 1914 the British began air patrols over the English Channel to protect the troop transports sailing to France.
 source: brytyjski-patrol-lotniczy-nad-kanalem-la-manche
-sourceHash: 25a2143e9c31895f805ba0cfc383911c7e7c70e6
+sourceHash: 72f5edc4d2bcb69ed624a486f0c446831c5bde42
 ---
 
 Contemporary chronicles of the war record under 9 August 1914 the start of British air patrols over the [English Channel](https://pl.wikipedia.org/wiki/La_Manche). Their task was to protect the ships carrying the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) to France. It was one of the first instances of aircraft being used to cover a naval operation on such a large scale.
@@ -19,4 +19,4 @@ The transfer of the Expeditionary Force took place mainly between 12 and 18 Augu
 
 ## Significance
 
-The patrols over the English Channel heralded a new role for aviation in naval warfare. In the following years aircraft and airships became an important weapon in the struggle against German submarines, escorting convoys and watching for the enemy. Alongside this the army's air arm, the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), developed; its first squadrons flew to France in mid-August 1914.
+The patrols over the English Channel heralded a new role for aviation in naval warfare. In the following years aircraft and airships became an important weapon in the struggle against German submarines, escorting convoys and watching for the enemy. Alongside this the army's air arm, the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), developed; its first squadrons flew to France in mid-August 1914.

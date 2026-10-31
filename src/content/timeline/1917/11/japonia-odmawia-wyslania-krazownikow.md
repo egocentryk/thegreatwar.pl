@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 listopada 1917 roku rząd [Japonii](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) odpowiedział Londynowi, że nie może spełnić prośby, by dwa japońskie [krążowniki liniowe](https://pl.wikipedia.org/wiki/Krążownik_liniowy) z japońskimi załogami dołączyły na czas wojny do brytyjskiej [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) na Morzu Północnym. Była to już druga odmowa w tej sprawie. Kilka tygodni wcześniej Tokio nie zgodziło się sprzedać tych okrętów Wielkiej Brytanii.
+15 listopada 1917 roku rząd [Japonii](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) odpowiedział Londynowi, że nie może spełnić prośby, by dwa japońskie [krążowniki liniowe](https://pl.wikipedia.org/wiki/Krążownik_liniowy) z japońskimi załogami dołączyły na czas wojny do brytyjskiej [Grand Fleet](/sily-zbrojne/grand-fleet) na Morzu Północnym. Była to już druga odmowa w tej sprawie. Kilka tygodni wcześniej Tokio nie zgodziło się sprzedać tych okrętów Wielkiej Brytanii.
 
 ## Brytyjskie obawy
 

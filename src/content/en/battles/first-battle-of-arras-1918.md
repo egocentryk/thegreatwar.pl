@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: British victory. The Seventeenth Army's attack at Arras took only the forward zone of the British defences and collapsed with heavy losses. Ludendorff abandoned Operations Mars and Walküre and turned his effort towards Amiens and the Lys.
 source: pierwsza-bitwa-pod-arras-1918
-sourceHash: f02fb1e0e1a0902e6649a0442faf175541003587
+sourceHash: 8b4f07313225ea783e7f38bcff73c474914e8bff
 brief:
   - "The First Battle of Arras was fought on 28 March 1918, the seventh day of Operation Michael. Otto von Below's German Seventeenth Army struck on both sides of the Scarpe in Operation Mars."
   - "The attack was meant to smash the bastion of Arras, open the way to the north-west and give fresh impetus to an offensive that was clearly flagging on this wing."
@@ -52,7 +52,7 @@ The commanders of the 4th and 56th Divisions withdrew their brigades to the fron
 
 ## Losses
 
-The British official history states that the Germans suffered very heavy losses, the total of which was never disclosed. Nor does it give a separate figure for British losses on that day, which it included in the overall toll of Operation Michael. Some front-line battalions suffered severely, such as the 2nd Essex or the 1/5th Battalion, London Regiment, which after reorganisation was left with 4 officers and 64 men out of 23 officers and 564 men. In the twenty-four hours from the morning of 28 March the British field artillery fired about 750 rounds per 18-pounder gun and 650 per field howitzer, one of the highest rates of ammunition expenditure of the whole war. Participants agreed, however, that the main part in stopping the Germans was played by skilfully sited machine guns. The [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) lost that day, over the whole front of the Third and Fifth Armies, 17 aircraft missing and more than 40 wrecked or abandoned, almost entirely to ground fire.
+The British official history states that the Germans suffered very heavy losses, the total of which was never disclosed. Nor does it give a separate figure for British losses on that day, which it included in the overall toll of Operation Michael. Some front-line battalions suffered severely, such as the 2nd Essex or the 1/5th Battalion, London Regiment, which after reorganisation was left with 4 officers and 64 men out of 23 officers and 564 men. In the twenty-four hours from the morning of 28 March the British field artillery fired about 750 rounds per 18-pounder gun and 650 per field howitzer, one of the highest rates of ammunition expenditure of the whole war. Participants agreed, however, that the main part in stopping the Germans was played by skilfully sited machine guns. The [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) lost that day, over the whole front of the Third and Fifth Armies, 17 aircraft missing and more than 40 wrecked or abandoned, almost entirely to ground fire.
 
 ## Significance
 

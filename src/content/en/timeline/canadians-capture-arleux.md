@@ -2,7 +2,7 @@
 title: Canadians capture Arleux
 summary: On 28 April 1917 the Canadian 2nd Brigade took Arleux-en-Gohelle, the day's only success, as British attacks at Rœux, Gavrelle and Oppy failed.
 source: kanadyjczycy-zdobywaja-arleux
-sourceHash: 26e1f8ddcee849a6c39b470f46cc0e8547343229
+sourceHash: d9cbe4fa0d77a46f816caacc1e2dbadfb28a85c5
 brief:
   - "On 28 April 1917 six British and Canadian divisions attacked near Arras on a front about 10 km long. Almost everywhere the attack broke down."
   - "It was a subsidiary attack: Douglas Haig kept the Battle of Arras going to help Nivelle, whose offensive on the Aisne had failed. The British divisions, in action for three weeks, were greatly weakened."
@@ -21,7 +21,7 @@ So the decision was taken to make a subsidiary attack on 28 April, ahead of the 
 
 ## The Arleux Loop
 
-North of Gavrelle the Germans still held their old third position. In front of the village of Arleux it formed a large loop, which the British called the Arleux Loop and the Germans "the Nose". Behind it, in front of the village of [Fresnoy-en-Gohelle](https://pl.wikipedia.org/wiki/Fresnoy-en-Gohelle), ran the next line of defence. The loop was held by battalions of the 73rd Fusilier Regiment and the 76th Infantry Regiment of the German 111th Division. The Canadians, who had taken Vimy Ridge on [9 April](/szturm-na-grzbiet-vimy), knew the task would not be easy. On 27 April patrols reported that the wire was only partly cut, that the defenders had an unusually large number of machine guns and that they were digging a new line behind the loop. It was also known from recent fighting that the Germans counter-attacked in strength soon after the attackers reached their objective. The artillery therefore prepared barrages against such counter-attacks, the 1st Brigade in reserve reconnoitred covered approaches, and the airmen of No. 16 Squadron, [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), were to watch for Germans assembling.
+North of Gavrelle the Germans still held their old third position. In front of the village of Arleux it formed a large loop, which the British called the Arleux Loop and the Germans "the Nose". Behind it, in front of the village of [Fresnoy-en-Gohelle](https://pl.wikipedia.org/wiki/Fresnoy-en-Gohelle), ran the next line of defence. The loop was held by battalions of the 73rd Fusilier Regiment and the 76th Infantry Regiment of the German 111th Division. The Canadians, who had taken Vimy Ridge on [9 April](/szturm-na-grzbiet-vimy), knew the task would not be easy. On 27 April patrols reported that the wire was only partly cut, that the defenders had an unusually large number of machine guns and that they were digging a new line behind the loop. It was also known from recent fighting that the Germans counter-attacked in strength soon after the attackers reached their objective. The artillery therefore prepared barrages against such counter-attacks, the 1st Brigade in reserve reconnoitred covered approaches, and the airmen of No. 16 Squadron, [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), were to watch for Germans assembling.
 
 ## The assault
 

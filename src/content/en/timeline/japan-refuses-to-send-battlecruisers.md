@@ -2,10 +2,10 @@
 title: Japan refuses to send battlecruisers
 summary: On 15 November 1917 Tokyo rejected a British request for two Japanese Kongō-class battlecruisers to join the Grand Fleet in the North Sea.
 source: japonia-odmawia-wyslania-krazownikow
-sourceHash: e289c6fe22be871e05c5921fc8bbf6d50a379edd
+sourceHash: 71a4ae53bdd0ab695cb7a5dcfc6af04753bb4c79
 ---
 
-On 15 November 1917 the government of [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) replied to London that it could not grant the request for two Japanese [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) with Japanese crews to join the British [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) in the North Sea for the duration of the war. It was the second refusal in this matter. A few weeks earlier Tokyo had declined to sell these ships to Britain.
+On 15 November 1917 the government of [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) replied to London that it could not grant the request for two Japanese [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) with Japanese crews to join the British [Grand Fleet](/sily-zbrojne/grand-fleet) in the North Sea for the duration of the war. It was the second refusal in this matter. A few weeks earlier Tokyo had declined to sell these ships to Britain.
 
 ## British fears
 

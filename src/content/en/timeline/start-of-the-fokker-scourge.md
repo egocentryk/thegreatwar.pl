@@ -2,10 +2,10 @@
 title: Start of the "Fokker Scourge"
 summary: In autumn 1915 German Fokker monoplanes with a machine gun firing through the propeller gave Germany air superiority over the Western Front.
 source: poczatek-plagi-fokkerow
-sourceHash: 941c6ca5f8f8a2d1258e38a0bb9c2211eaab8927
+sourceHash: bdf1f35ecc8406b7929b1632425897bf7829e512
 ---
 
-In early October 1915, as the [British autumn offensive](/bitwy/bitwa-pod-loos) was dying down at Loos, airmen of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) increasingly met a new opponent over the German lines: the small single-seat monoplane fighter [Fokker E.I](https://pl.wikipedia.org/wiki/Fokker_E.I), which the Germans called the Eindecker, the "monoplane". The British official history of the air war, *The War in the Air*, writes that the influence of these machines began to be felt "towards the end of the battle of Loos, in October 1915", and that they kept their ascendancy until roughly May 1916. The period went down in history as the "Fokker Scourge", in Polish literature also called the "bicz Fokkera" (the Fokker whip). The date of 1 October is conventional. No single event on that day started the German ascendancy, which had been building gradually since the summer, and the term itself was coined by the British press only in 1916.
+In early October 1915, as the [British autumn offensive](/bitwy/bitwa-pod-loos) was dying down at Loos, airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) increasingly met a new opponent over the German lines: the small single-seat monoplane fighter [Fokker E.I](https://pl.wikipedia.org/wiki/Fokker_E.I), which the Germans called the Eindecker, the "monoplane". The British official history of the air war, *The War in the Air*, writes that the influence of these machines began to be felt "towards the end of the battle of Loos, in October 1915", and that they kept their ascendancy until roughly May 1916. The period went down in history as the "Fokker Scourge", in Polish literature also called the "bicz Fokkera" (the Fokker whip). The date of 1 October is conventional. No single event on that day started the German ascendancy, which had been building gradually since the summer, and the term itself was coined by the British press only in 1916.
 
 ## A machine gun that fired through the propeller
 

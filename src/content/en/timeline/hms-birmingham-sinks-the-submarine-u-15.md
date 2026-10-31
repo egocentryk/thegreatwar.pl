@@ -2,14 +2,14 @@
 title: HMS Birmingham sinks the submarine U-15
 summary: On 9 August 1914 the British cruiser Birmingham rammed and sank U-15 off Fair Isle. It was the first U-boat sunk by a warship.
 source: hms-birmingham-zatapia-u-15
-sourceHash: ad8f4bff34821c4164575298e78f56fa022f4b00
+sourceHash: c80830d5b96bd2e7ba7b40a37f6aa0a8000714f6
 ---
 
 On 9 August 1914 in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), near the island of [Fair Isle](https://pl.wikipedia.org/wiki/Fair_Isle) between Orkney and [Shetland](https://pl.wikipedia.org/wiki/Szetlandy), the British light cruiser HMS *Birmingham* rammed and sank the German submarine [U-15](https://pl.wikipedia.org/wiki/SM_U-15_(1911)). It was the first German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny) sunk by an enemy warship.
 
 ## Hunting the Grand Fleet
 
-On 6 August ten German submarines sailed from their base at Heligoland. They were to find and attack the ships of the British [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) in the North Sea. It was the first organised use of U-boats in the war. Submarines were then a new weapon, untested in combat, and neither side yet knew how greatly they would change the war at sea.
+On 6 August ten German submarines sailed from their base at Heligoland. They were to find and attack the ships of the British [Grand Fleet](/sily-zbrojne/grand-fleet) in the North Sea. It was the first organised use of U-boats in the war. Submarines were then a new weapon, untested in combat, and neither side yet knew how greatly they would change the war at sea.
 
 On 8 August U-15 fired a torpedo at the British battleship HMS *Monarch*, but missed. It was one of the first torpedo attacks by a submarine in this war.
 

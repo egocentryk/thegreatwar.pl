@@ -2,7 +2,7 @@
 title: Attack at Fromelles
 summary: On the evening of 19 July 1916 British and Australian troops attacked at Fromelles. By morning the 5th Australian Division had lost 5,533 men and held nothing.
 source: atak-pod-fromelles
-sourceHash: eece3e1aac53d70b12ab25e129b9dea2f8127935
+sourceHash: 0ad06c696dbc8cb72c8c09b89a59c3297eb96665
 brief:
   - "At 6 p.m. on 19 July 1916 the British 61st Division and the 5th Australian Division attacked the German trenches at Fromelles in French Flanders. For both divisions it was their first action on the Western Front."
   - "It was a subsidiary attack meant to keep German troops away from the Battle of the Somme, which had been going on for three weeks. In one Bavarian regiment 60 of the 75 shelters survived seven hours of bombardment."
@@ -41,7 +41,7 @@ At about 7 p.m. the commander of the 61st Division, General Colin Mackenzie, kne
 
 The 15th Australian Brigade was to co-operate in the 9 p.m. assault and, with the consent of General [James McCay](https://pl.wikipedia.org/wiki/James_McCay), commander of the 5th Australian Division, threw its 58th Battalion into an attack east of the Sugarloaf. The news that the British attack had been cancelled reached brigade headquarters too late. The battalion, led by the young Major A.J.S. Hutchinson, a graduate of the military college at Duntroon, went on alone, carried part of the 59th Battalion with it and was shattered by fire from the salient. Hutchinson was killed while trying to urge the last wave forward. During the night the remnants of Elliott's three battalions drifted back to the Australian trenches.
 
-At 9 p.m. Haking received a report from an observation aircraft of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), which had seen signal rockets at the Sugarloaf. These were taken to be from British soldiers, although they were most probably fired by the Germans. Haking therefore changed his decision: at 10 p.m. his chief of staff agreed with McCay that the Australians would hold the captured trenches and the 61st Division would attack the salient once more before dawn. At 3 a.m. the commander of the 184th Brigade reported that his trenches were under heavy fire and he would not be ready before dawn. The last assault was cancelled.
+At 9 p.m. Haking received a report from an observation aircraft of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), which had seen signal rockets at the Sugarloaf. These were taken to be from British soldiers, although they were most probably fired by the Germans. Haking therefore changed his decision: at 10 p.m. his chief of staff agreed with McCay that the Australians would hold the captured trenches and the 61st Division would attack the salient once more before dawn. At 3 a.m. the commander of the 184th Brigade reported that his trenches were under heavy fire and he would not be ready before dawn. The last assault was cancelled.
 
 ## Night in the German trenches
 

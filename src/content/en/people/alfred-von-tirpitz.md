@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Küstrin (Prussia, now Kostrzyn in Poland)
 deathPlace: Ebenhausen near Munich
 source: alfred-von-tirpitz
-sourceHash: a9cdddde70a7d65ea5157b4bb408d858a9a9b2fe
+sourceHash: 68052ec9a6f55615a24614be3fde8ff57e8b90ba
 ---
 
 For almost twenty years Alfred von Tirpitz headed the Imperial Naval Office and built the second-largest navy in the world. His battleship programme was meant to force Britain to reckon with Germany, but in reality it pushed Britain towards an understanding with France and Russia. When war broke out, it turned out that his fleet could not threaten the Royal Navy's command of the sea. Tirpitz, who as an official did not command any ships, then became the loudest advocate of ruthless submarine warfare. In March 1916 he lost this dispute with the chancellor and left office, and a year later he became leader of the nationalist German Fatherland Party, which fought against a compromise peace.
@@ -23,7 +23,7 @@ The programme rested on the so-called risk theory. The German fleet did not need
 
 ## 1914: the fleet in harbour
 
-In July 1914 Tirpitz was on leave, and in Berlin he was represented by his colleague Admiral Eduard von Capelle. The admiral himself believed that the war had come too early, because the naval programme had been planned to run for years. It also quickly became clear that the British [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) had no intention of blockading German ports at close range, where the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) could attack it. It chose a distant blockade, closing the exits from the North Sea.
+In July 1914 Tirpitz was on leave, and in Berlin he was represented by his colleague Admiral Eduard von Capelle. The admiral himself believed that the war had come too early, because the naval programme had been planned to run for years. It also quickly became clear that the British [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) had no intention of blockading German ports at close range, where the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) could attack it. It chose a distant blockade, closing the exits from the North Sea.
 
 Tirpitz had no power of command. The Imperial Naval Office was responsible for shipbuilding, the budget and legislation, while the use of the fleet was decided by the emperor, the Admiralty Staff and the fleet commander. The admiral pressed in vain for a unified command of the whole navy. He demanded active use of the fleet before the British could build up superiority. After the defeat in the [Battle of Heligoland Bight](/bitwy/bitwa-w-zatoce-helgolandzkiej) on 28 August 1914, in which his son Wolfgang was taken prisoner, the emperor nevertheless forbade exposing the fleet to risk without his consent. Tirpitz called this putting a muzzle on the fleet. After the [bombardment of Scarborough and Hartlepool](/bombardowanie-scarborough-i-hartlepool) in December 1914 he wrote bitterly that the fleet commander, Admiral [Friedrich von Ingenohl](https://pl.wikipedia.org/wiki/Friedrich_von_Ingenohl), had held Germany's fate in his hands that day, because he had turned back without knowing that only part of the British forces stood before him.
 

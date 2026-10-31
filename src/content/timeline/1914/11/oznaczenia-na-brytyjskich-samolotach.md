@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-12 listopada 1914 roku, według brytyjskiej kroniki wojny, wydano rozkaz, by wszystkie samoloty [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) nosiły znaki rozpoznawcze. Tą datą opatrzony jest rozkaz dzienny, który według części opracowań wprowadził na brytyjskich samolotach kokardę z koncentrycznych kół, wzorowaną na znaku lotnictwa francuskiego. Inne źródła za datę jej formalnego przyjęcia uznają dopiero 11 grudnia 1914 roku, a malowanie nowych znaków w eskadrach od 12 grudnia.
+12 listopada 1914 roku, według brytyjskiej kroniki wojny, wydano rozkaz, by wszystkie samoloty [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) nosiły znaki rozpoznawcze. Tą datą opatrzony jest rozkaz dzienny, który według części opracowań wprowadził na brytyjskich samolotach kokardę z koncentrycznych kół, wzorowaną na znaku lotnictwa francuskiego. Inne źródła za datę jej formalnego przyjęcia uznają dopiero 11 grudnia 1914 roku, a malowanie nowych znaków w eskadrach od 12 grudnia.
 
 Problem był ten sam, który kilka tygodni wcześniej skłonił Niemców do [malowania czarnych krzyży](/oznaczenia-na-niemieckich-samolotach). Żołnierze na ziemi, nie umiejąc odróżnić swoich samolotów od nieprzyjacielskich, strzelali do wszystkich. Brytyjczycy zaczęli więc już w pierwszych tygodniach wojny, według części źródeł na mocy rozkazu z końca sierpnia, malować pod dolnymi skrzydłami, a później także na kadłubach [flagę brytyjską](https://pl.wikipedia.org/wiki/Flaga_Wielkiej_Brytanii). Z bliska była dobrze widoczna, ale z większej wysokości i odległości najbardziej rzucał się w oczy czerwony krzyż św. Jerzego, który łatwo było wziąć za niemiecki krzyż. Próbowano jeszcze umieszczać flagę na tarczy, ale i to nie pomogło.
 

@@ -2,10 +2,10 @@
 title: Bloody April
 summary: In April 1917 over Arras German fighter squadrons shot down more than 240 British aircraft. RFC airmen called the month "Bloody April".
 source: krwawy-kwiecien
-sourceHash: 68933f0694482bb0d5b9579ddaabb49568e1da38
+sourceHash: 332b55c1f65f358abb5ba0839d51c86093bc0a88
 ---
 
-30 April 1917 brought to an end the hardest month in the history of British military aviation. During the battle of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) German fighter squadrons shot down, according to various tallies, between 245 and 275 aircraft of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps). Some 211 British airmen were killed or missing, and 108 were taken prisoner. The Germans lost about 66 aircraft in the same period. The British official history of the air war, *The War in the Air*, states that in no other month of the war was the RFC so hard pressed, nor were its casualties so heavy. The airmen themselves called the month "Bloody April". The date of 30 April closes this period only by convention, but on that day the Germans tried out over Arras a new way of fighting that heralded the next stage of the war in the air.
+30 April 1917 brought to an end the hardest month in the history of British military aviation. During the battle of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) German fighter squadrons shot down, according to various tallies, between 245 and 275 aircraft of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps). Some 211 British airmen were killed or missing, and 108 were taken prisoner. The Germans lost about 66 aircraft in the same period. The British official history of the air war, *The War in the Air*, states that in no other month of the war was the RFC so hard pressed, nor were its casualties so heavy. The airmen themselves called the month "Bloody April". The date of 30 April closes this period only by convention, but on that day the Germans tried out over Arras a new way of fighting that heralded the next stage of the war in the air.
 
 ## German ascendancy
 

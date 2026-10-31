@@ -2,7 +2,7 @@
 title: Start of the Battle of Morval
 summary: On 25 September 1916 the British Fourth Army attacked on the Somme at noon and took Morval and Lesbœufs in three hours. At Gueudecourt the attack failed.
 source: poczatek-bitwy-pod-morval
-sourceHash: e6d833ed68f33c390d6bd6de68ea203370b92088
+sourceHash: 924296d80d91ed8007d3291c52dde0a9801023a8
 brief:
   - "On 25 September 1916 at 12.35 p.m. General Henry Rawlinson's British Fourth Army attacked on the Somme towards the villages of Morval, Lesbœufs and Gueudecourt."
   - "The villages were to have fallen on 15 September, but that attack stalled, and rain and French delays put off the new attack three times. Foch and Haig agreed that both armies would attack together, no earlier than noon."
@@ -19,7 +19,7 @@ Morval, Lesbœufs and Gueudecourt were to have fallen as early as 15 September, 
 
 The plan was more modest than on 15 September. The Fourth Army was to advance 1,100–1,400 metres in three stages, with hour-long pauses, and to stand beyond the villages before three in the afternoon. The XIV Corps of General Lord Cavan was to take Morval and Lesbœufs, the XV Corps of General Henry Horne Gueudecourt, and III Corps on the left wing was only to improve its line by the road to [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). There were few [Mark I](https://pl.wikipedia.org/wiki/Mark_I) tanks and they were kept in reserve, because Rawlinson judged that they could not be hidden in the assembly positions from dawn until noon. In the rear, near Mametz, two brigades of the 1st Indian Cavalry Division waited, ready to move into open country if both villages fell before 6.30 p.m.
 
-The bombardment began at seven in the morning on 24 September, in a thick autumn mist that made counter-battery fire against the German guns difficult. Airmen of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) bombed villages behind the front and railway lines around Lille and Douai, to hinder the Germans in bringing up reinforcements. The postponements also had a good side: for several nights the divisions dug new jumping-off trenches, often closer to the enemy. On the morning of 25 September, however, the soldiers in the crowded trenches had to wait more than six and a half hours from dawn to the attack, with almost no chance to move. The German artillery fired a great deal during the night, but before noon it hardly shelled the British lines at all.
+The bombardment began at seven in the morning on 24 September, in a thick autumn mist that made counter-battery fire against the German guns difficult. Airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) bombed villages behind the front and railway lines around Lille and Douai, to hinder the Germans in bringing up reinforcements. The postponements also had a good side: for several nights the divisions dug new jumping-off trenches, often closer to the enemy. On the morning of 25 September, however, the soldiers in the crowded trenches had to wait more than six and a half hours from dawn to the attack, with almost no chance to move. The German artillery fired a great deal during the night, but before noon it hardly shelled the British lines at all.
 
 ## Noon
 

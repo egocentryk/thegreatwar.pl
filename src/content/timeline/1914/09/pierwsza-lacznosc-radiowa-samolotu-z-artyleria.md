@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje 22 września 1914 roku jako datę pierwszego użycia [radiotelegrafu](https://pl.wikipedia.org/wiki/Telegrafia) do łączności między samolotem a [artylerią](https://pl.wikipedia.org/wiki/Artyleria). Dokonali tego lotnicy [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), lotnictwa armii brytyjskiej, w czasie walk nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)).
+Brytyjska chronologia wojny podaje 22 września 1914 roku jako datę pierwszego użycia [radiotelegrafu](https://pl.wikipedia.org/wiki/Telegrafia) do łączności między samolotem a [artylerią](https://pl.wikipedia.org/wiki/Artyleria). Dokonali tego lotnicy [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), lotnictwa armii brytyjskiej, w czasie walk nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)).
 
 Od pierwszych tygodni wojny brytyjscy lotnicy prowadzili rozpoznanie i, jak w czasie [odwrotu spod Mons](/pierwszy-lotniczy-patrol-nad-odwrotem-brytyjczykow), dostarczali dowództwu cennych informacji o ruchach nieprzyjaciela. Meldunki trzeba było jednak dostarczać po wylądowaniu albo zrzucać na ziemię w woreczkach. Nad Aisne, gdzie front zastygł w okopach, a artyleria obu stron ostrzeliwała niewidoczne cele za wzgórzami, potrzebna była szybka łączność z powietrza.
 

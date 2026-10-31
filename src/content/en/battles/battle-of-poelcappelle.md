@@ -11,7 +11,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: Inconclusive. On the Passchendaele ridge and the Bellevue spur the attack was repulsed, but in the north the British and French advanced 2–2.5 km, to Houthulst Forest.
 source: bitwa-pod-poelcappelle
-sourceHash: f4a05e279107000f66a9870c46f6584a980afb90
+sourceHash: d490f2548090b2273bb4a0389fd6051bbbff6805
 brief:
   - "The Battle of Poelcappelle, fought on 9 October 1917, was the first October attack of the Third Battle of Ypres and the first serious failure since September of General Herbert Plumer's method."
   - "Haig, convinced that the Germans were weakening, brought the attack forward to five days after Broodseinde. After five days of rain the artillery was stuck in the mud, and the infantry marched all night to the start line."
@@ -58,7 +58,7 @@ On paper the artillery was as strong as in the previous attacks, but in practice
 
 **The French.** The French artillery shelled the German positions east and south-east of [Houthulst](https://pl.wikipedia.org/wiki/Houthulst) Forest for three days. At 5.30 a.m. the barrage moved off very slowly across a "sea" of mud. The 2nd Division crossed the flooded valley at the mouth of the Broembeek, took the hamlets of Veldhoek and Mangelare on the edge of the forest as well as several fortified farms and pillboxes, and before ten o'clock reached its objectives, advancing on average about two kilometres. According to the available data it lost fewer than 500 men, and I Corps took about 300 prisoners. Despite low cloud and strong wind, French airmen machine-gunned the German infantry from low altitude.
 
-**In the air and on the German side.** Despite the bad weather, airmen of the British [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) flew fifteen contact patrols and seventeen patrols watching for counter-attacks. They called down artillery on targets 354 times by wireless. The crews of No. 9 Squadron, flying over XIV Corps through the line of their own barrage, lost five airmen. On the German side, at noon the command threw the 240th counter-attack Division at the breach near Poelcappelle. Its units advanced under "tremendous" shellfire and recaptured some ground. The fighting died down late in the evening, and on the main sector night counter-attacks pushed the British almost back to their start lines. That same day [Erich Ludendorff](/postacie/erich-ludendorff) circulated a memorandum to the divisions in the west, accusing them of wasting the counter-attack divisions in hasty, badly organised counter-attacks.
+**In the air and on the German side.** Despite the bad weather, airmen of the British [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) flew fifteen contact patrols and seventeen patrols watching for counter-attacks. They called down artillery on targets 354 times by wireless. The crews of No. 9 Squadron, flying over XIV Corps through the line of their own barrage, lost five airmen. On the German side, at noon the command threw the 240th counter-attack Division at the breach near Poelcappelle. Its units advanced under "tremendous" shellfire and recaptured some ground. The fighting died down late in the evening, and on the main sector night counter-attacks pushed the British almost back to their start lines. That same day [Erich Ludendorff](/postacie/erich-ludendorff) circulated a memorandum to the divisions in the west, accusing them of wasting the counter-attack divisions in hasty, badly organised counter-attacks.
 
 ## Losses
 

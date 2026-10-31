@@ -2,14 +2,14 @@
 title: Bombardment of Scarborough and Hartlepool
 summary: On 16 December 1914 Hipper's battlecruisers shelled Scarborough, Hartlepool and Whitby. Over a hundred people died, mostly civilians, and the Germans escaped.
 source: bombardowanie-scarborough-i-hartlepool
-sourceHash: 5d29a3843e08b26530bdc14cff32330a7bc12200
+sourceHash: 07fe2fca079117e303cec9ebf0dbb760598c6d91
 ---
 
 On the morning of 16 December 1914 the German battlecruisers of Rear-Admiral [Franz von Hipper](/postacie/franz-von-hipper) shelled three towns on the east coast of England: [Scarborough](https://pl.wikipedia.org/wiki/Scarborough), [Hartlepool](https://pl.wikipedia.org/wiki/Hartlepool) and [Whitby](https://pl.wikipedia.org/wiki/Whitby_(North_Yorkshire)). For the first time in several centuries enemy shells fell on English towns, and the victims were above all civilians, including women and children. The [raid on Scarborough, Hartlepool and Whitby](https://pl.wikipedia.org/wiki/Bombardowanie_Scarborough,_Hartlepool_i_Whitby) caused shock and outrage in Britain. At the same time a series of chaotic encounters took place in the North Sea, in which the Royal Navy twice missed the chance to destroy part of the German fleet.
 
 ## Hipper's plan
 
-After the [raid on Yarmouth](/niemiecki-rajd-na-yarmouth) at the beginning of November, Hipper argued that another sortie against the English coast might lure part of the British fleet out to sea. The commander of the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte), Admiral [Friedrich von Ingenohl](https://pl.wikipedia.org/wiki/Friedrich_von_Ingenohl), agreed to the operation. The Germans knew that two British battlecruisers had been sent to the South Atlantic, where on 8 December they [destroyed Admiral von Spee's squadron](/bitwa-kolo-falklandow). They therefore judged that the balance of forces in the North Sea was exceptionally favourable to them.
+After the [raid on Yarmouth](/niemiecki-rajd-na-yarmouth) at the beginning of November, Hipper argued that another sortie against the English coast might lure part of the British fleet out to sea. The commander of the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska), Admiral [Friedrich von Ingenohl](https://pl.wikipedia.org/wiki/Friedrich_von_Ingenohl), agreed to the operation. The Germans knew that two British battlecruisers had been sent to the South Atlantic, where on 8 December they [destroyed Admiral von Spee's squadron](/bitwa-kolo-falklandow). They therefore judged that the balance of forces in the North Sea was exceptionally favourable to them.
 
 The battlecruisers were to shell the coast and the light cruiser *Kolberg* was to lay mines. Behind them, halfway across the North Sea, the main body of the High Seas Fleet was to wait. If part of the British fleet set off in pursuit of Hipper, it could run straight into superior German forces. Ingenohl, however, was constrained by the Kaiser's order, issued after the [Battle of Heligoland Bight](/bitwy/bitwa-w-zatoce-helgolandzkiej), not to expose the fleet to serious losses.
 
@@ -19,7 +19,7 @@ Early on the morning of 15 December the [battlecruisers](https://pl.wikipedia.or
 
 The British Admiralty had managed to intercept and read German wireless signals. The cryptanalysts of [Room 40](https://pl.wikipedia.org/wiki/Room_40) established that Hipper's battlecruisers were putting to sea, but they did not know that the entire High Seas Fleet had sailed as well. The Admiralty decided to set a trap. Vice-Admiral [David Beatty](/postacie/david-beatty)'s four battlecruisers, Vice-Admiral George Warrender's six modern battleships, light cruisers and the Harwich Force were sent to intercept the Germans. This force was much weaker than the whole German fleet, but it was superior to Hipper alone.
 
-Before dawn on 16 December the destroyers screening Warrender ran into the torpedo boats and cruisers screening the German fleet. Several chaotic clashes took place in the darkness. Ingenohl concluded that he was facing the screen of the entire [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), and at about 5.30 a.m. he turned for home with the main body, leaving Hipper without support. He did not know that only ten British capital ships were nearby, which his fleet could have crushed. Admiral [Alfred von Tirpitz](/postacie/alfred-von-tirpitz) later wrote bitterly that on that day Ingenohl had held the fate of Germany in his hands.
+Before dawn on 16 December the destroyers screening Warrender ran into the torpedo boats and cruisers screening the German fleet. Several chaotic clashes took place in the darkness. Ingenohl concluded that he was facing the screen of the entire [Grand Fleet](/sily-zbrojne/grand-fleet), and at about 5.30 a.m. he turned for home with the main body, leaving Hipper without support. He did not know that only ten British capital ships were nearby, which his fleet could have crushed. Admiral [Alfred von Tirpitz](/postacie/alfred-von-tirpitz) later wrote bitterly that on that day Ingenohl had held the fate of Germany in his hands.
 
 ## The shelling of the towns
 

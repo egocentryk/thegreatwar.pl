@@ -15,7 +15,7 @@ Rankiem 27 października 1914 roku brytyjski pancernik [Audacious](https://pl.wi
 
 ## Mina na szlaku do Lough Swilly
 
-Audacious należał do typu King George V i wszedł do służby zaledwie rok wcześniej, w październiku 1913 roku. Służył w 2 Eskadrze Pancerników [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet). Po [przenosinach floty ze Scapa Flow](/grand-fleet-opuszcza-scapa-flow) eskadra stacjonowała w zatoce [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) na północy Irlandii. 27 października okręty wyszły w morze na ćwiczenia artyleryjskie.
+Audacious należał do typu King George V i wszedł do służby zaledwie rok wcześniej, w październiku 1913 roku. Służył w 2 Eskadrze Pancerników [Grand Fleet](/sily-zbrojne/grand-fleet). Po [przenosinach floty ze Scapa Flow](/grand-fleet-opuszcza-scapa-flow) eskadra stacjonowała w zatoce [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) na północy Irlandii. 27 października okręty wyszły w morze na ćwiczenia artyleryjskie.
 
 Nikt nie wiedział, że kilka dni wcześniej niemiecki [krążownik pomocniczy](/slownik/krazownik-pomocniczy) Berlin, przebudowany z liniowca pasażerskiego, postawił na tych wodach około 200 min. Niemcy nie wiedzieli zresztą, że flota brytyjska przeniosła się do Irlandii. Miny miały zagrozić żegludze handlowej, która północnym szlakiem wychodziła z brytyjskich portów na Atlantyk.
 
@@ -29,6 +29,6 @@ Pod wieczór ewakuowano resztę załogi. Około 20.45 Audacious gwałtownie się
 
 ## Wojenna tajemnica
 
-Jellicoe uznał, że utrata jednego z najnowszych pancerników jest zbyt cenną informacją dla Niemców, bo osłabiała przewagę Grand Fleet nad niemiecką [Flotą Oceaniczną](https://pl.wikipedia.org/wiki/Hochseeflotte). Na jego prośbę [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja) utajniła zatonięcie, a prasa brytyjska podporządkowała się zakazowi. Olympic zatrzymano w Lough Swilly do 2 listopada, a pasażerom nie pozwolono kontaktować się ze światem.
+Jellicoe uznał, że utrata jednego z najnowszych pancerników jest zbyt cenną informacją dla Niemców, bo osłabiała przewagę Grand Fleet nad niemiecką [Flotą Oceaniczną](/sily-zbrojne/flota-pelnomorska). Na jego prośbę [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja) utajniła zatonięcie, a prasa brytyjska podporządkowała się zakazowi. Olympic zatrzymano w Lough Swilly do 2 listopada, a pasażerom nie pozwolono kontaktować się ze światem.
 
 Utrzymanie tajemnicy okazało się jednak niemożliwe. Wśród pasażerów Olympica byli Amerykanie, którzy fotografowali, a nawet filmowali tonący okręt. Wiadomości i zdjęcia szybko trafiły za ocean i do prasy. Brytyjska Admiralicja mimo to oficjalnie milczała przez całą wojnę. Stratę Audaciousa ogłoszono dopiero 14 listopada 1918 roku, trzy dni po zawieszeniu broni, w komunikacie opublikowanym w „The Times”.

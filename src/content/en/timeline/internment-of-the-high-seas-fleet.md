@@ -2,10 +2,10 @@
 title: Internment of the High Seas Fleet
 summary: On 21 November 1918 the Grand Fleet met the High Seas Fleet and escorted 70 German warships into the Firth of Forth, from where they went on to Scapa Flow.
 source: internowanie-floty-pelnomorskiej
-sourceHash: b5e426ddaedc56735b2a4e5bdf5b275d91e0694f
+sourceHash: b3b7a5c0d66cadf8d1d5ac22b96a688533d5d54d
 ---
 
-During the night before 21 November 1918 the whole British [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), together with American and French ships, sailed out of the [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth) into the North Sea. It was not going into battle. It was to receive the surrender of the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte), which it had failed to destroy in four years of war. At about eight o'clock the German ships appeared on the horizon: 9 battleships, 5 battlecruisers, 7 light cruisers and 49 destroyers, sailing under the command of Rear-Admiral [Ludwig von Reuter](https://pl.wikipedia.org/wiki/Ludwig_von_Reuter). Before noon all of them lay at anchor in the Firth of Forth as interned ships. It was the end of the fleet that Kaiser Wilhelm II and Admiral Alfred von Tirpitz had spent twenty years building to challenge Britain at sea.
+During the night before 21 November 1918 the whole British [Grand Fleet](/sily-zbrojne/grand-fleet), together with American and French ships, sailed out of the [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth) into the North Sea. It was not going into battle. It was to receive the surrender of the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska), which it had failed to destroy in four years of war. At about eight o'clock the German ships appeared on the horizon: 9 battleships, 5 battlecruisers, 7 light cruisers and 49 destroyers, sailing under the command of Rear-Admiral [Ludwig von Reuter](https://pl.wikipedia.org/wiki/Ludwig_von_Reuter). Before noon all of them lay at anchor in the Firth of Forth as interned ships. It was the end of the fleet that Kaiser Wilhelm II and Admiral Alfred von Tirpitz had spent twenty years building to challenge Britain at sea.
 
 ## Terms of the armistice
 

@@ -2,10 +2,10 @@
 title: Execution of Reichpietsch and Köbis
 summary: On 5 September 1917 at the Wahn range near Cologne the sailors Max Reichpietsch and Albin Köbis, leaders of the peace movement in the fleet, were shot.
 source: egzekucja-reichpietscha-i-kobisa
-sourceHash: eb21a7f51dd2e16e0a5bfa2a01b018dd36a86b81
+sourceHash: dd813eefbf790cd56537cb137981c8b8ceca486a
 ---
 
-On the morning of 5 September 1917, at the Wahn artillery range near [Cologne](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)), a firing squad from a Landsturm unit, commanded by a major, shot two sailors of the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte): 22-year-old Max Reichpietsch of the battleship *Friedrich der Grosse* and 24-year-old stoker Albin Köbis of the battleship *Prinzregent Luitpold*. They had been leaders of a movement that in the summer of 1917 collected signatures in the fleet for a peace without annexations and protested against the poor treatment and food of the crews. A court martial sentenced five sailors to death, but the sentences were carried out only on these two. The execution closed an investigation that had begun after the [protest by the crew of *Prinzregent Luitpold*](/bunt-w-niemieckiej-flocie) at the beginning of August.
+On the morning of 5 September 1917, at the Wahn artillery range near [Cologne](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)), a firing squad from a Landsturm unit, commanded by a major, shot two sailors of the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska): 22-year-old Max Reichpietsch of the battleship *Friedrich der Grosse* and 24-year-old stoker Albin Köbis of the battleship *Prinzregent Luitpold*. They had been leaders of a movement that in the summer of 1917 collected signatures in the fleet for a peace without annexations and protested against the poor treatment and food of the crews. A court martial sentenced five sailors to death, but the sentences were carried out only on these two. The execution closed an investigation that had begun after the [protest by the crew of *Prinzregent Luitpold*](/bunt-w-niemieckiej-flocie) at the beginning of August.
 
 ## The verdict
 

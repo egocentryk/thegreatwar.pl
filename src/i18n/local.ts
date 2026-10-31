@@ -105,6 +105,8 @@ export function paths(lang: Lang) {
     countryPage: (slug: string) => (en ? `/en/countries/${slug}` : `/kraje/${slug}`),
     places: en ? "/en/places" : "/miejsca",
     placePage: (slug: string) => (en ? `/en/places/${slug}` : `/miejsca/${slug}`),
+    forces: en ? "/en/armed-forces" : "/sily-zbrojne",
+    forcePage: (slug: string) => (en ? `/en/armed-forces/${slug}` : `/sily-zbrojne/${slug}`),
     series: en ? "/en/series" : "/serie",
     seriesPage: (slug: string) => (en ? `/en/series/${slug}` : `/serie/${slug}`),
     search: en ? "/en/search" : "/szukaj",

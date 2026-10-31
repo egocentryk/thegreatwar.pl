@@ -2,14 +2,14 @@
 title: The Air Ministry is created
 summary: On 2 January 1918 Lord Rothermere became Secretary of State for Air, and on 3 January the Air Council took over the duties of the Air Board.
 source: utworzenie-ministerstwa-lotnictwa
-sourceHash: 13554efc4a2e746768fe89b7d640e38db7baf297
+sourceHash: 38696c707c370c78486d8cb862caff9b823f9183
 ---
 
 On 2 January 1918, at a meeting of the Privy Council at Buckingham Palace, Lord Rothermere, the press magnate and brother of Lord [Northcliffe](https://pl.wikipedia.org/wiki/Alfred_Harmsworth), took the oath as one of His Majesty's Principal Secretaries of State. Thus the first air minister appeared in the British government. The same day the King issued a second order in council under the [Air Force Act](/ustawa-o-silach-powietrznych). It fixed the day on which the Air Council would begin to operate as 3 January 1918. Both instruments were published in the *London Gazette* of 4 January.
 
 ## Amendments to the Council's composition
 
-The order of 2 January did more than set the date. It also amended the order of 21 December, which had laid down the composition and division of work of the [Air Council](/utworzenie-rady-sil-powietrznych). The President of the Council, that is Rothermere, could now appoint one of its two additional members as vice-president. The post went to General David Henderson, the first commander of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps). On the other hand, the Inspector-General of the air forces was struck off the list of members responsible for organisation and supply. These matters were to be dealt with only by the Chief of the Air Staff, the Master-General of Personnel and the Controller-General of Equipment.
+The order of 2 January did more than set the date. It also amended the order of 21 December, which had laid down the composition and division of work of the [Air Council](/utworzenie-rady-sil-powietrznych). The President of the Council, that is Rothermere, could now appoint one of its two additional members as vice-president. The post went to General David Henderson, the first commander of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps). On the other hand, the Inspector-General of the air forces was struck off the list of members responsible for organisation and supply. These matters were to be dealt with only by the Chief of the Air Staff, the Master-General of Personnel and the Controller-General of Equipment.
 
 ## The end of the Air Board
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Rano 5 września 1917 roku na poligonie artyleryjskim Wahn pod [Kolonią](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)) pluton egzekucyjny z oddziału pospolitego ruszenia (Landsturmu), dowodzony przez majora, rozstrzelał dwóch marynarzy niemieckiej [Floty Pełnomorskiej](https://pl.wikipedia.org/wiki/Hochseeflotte): 22-letniego Maxa Reichpietscha z pancernika Friedrich der Große i 24-letniego palacza Albina Köbisa z pancernika Prinzregent Luitpold. Byli przywódcami ruchu, który latem 1917 roku zbierał we flocie podpisy za pokojem bez aneksji i protestował przeciw złemu traktowaniu i wyżywieniu załóg. Sąd wojenny skazał na śmierć pięciu marynarzy, ale wyroki wykonano tylko na tych dwóch. Egzekucja zamykała śledztwo, które zaczęło się po [proteście załogi Prinzregent Luitpold](/bunt-w-niemieckiej-flocie) na początku sierpnia.
+Rano 5 września 1917 roku na poligonie artyleryjskim Wahn pod [Kolonią](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)) pluton egzekucyjny z oddziału pospolitego ruszenia (Landsturmu), dowodzony przez majora, rozstrzelał dwóch marynarzy niemieckiej [Floty Pełnomorskiej](/sily-zbrojne/flota-pelnomorska): 22-letniego Maxa Reichpietscha z pancernika Friedrich der Große i 24-letniego palacza Albina Köbisa z pancernika Prinzregent Luitpold. Byli przywódcami ruchu, który latem 1917 roku zbierał we flocie podpisy za pokojem bez aneksji i protestował przeciw złemu traktowaniu i wyżywieniu załóg. Sąd wojenny skazał na śmierć pięciu marynarzy, ale wyroki wykonano tylko na tych dwóch. Egzekucja zamykała śledztwo, które zaczęło się po [proteście załogi Prinzregent Luitpold](/bunt-w-niemieckiej-flocie) na początku sierpnia.
 
 ## Wyrok
 

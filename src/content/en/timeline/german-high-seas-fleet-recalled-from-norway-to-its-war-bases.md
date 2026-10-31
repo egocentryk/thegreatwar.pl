@@ -2,10 +2,10 @@
 title: German High Seas Fleet recalled from Norway to its war bases
 summary: On 27 July 1914 the German High Seas Fleet assembled off the coast of Norway, broke off its summer cruise and set course for its war bases.
 source: niemiecka-flota-oceaniczna-odwolana-z-norwegii
-sourceHash: 870e9be58a742feda5eb66a77b7acbff219fcdda
+sourceHash: d1628197374d43be5870750f2c3135fb59c21ec1
 ---
 
-On 14 July 1914 the main force of the German navy, the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) (Hochseeflotte), set out on its annual summer cruise to [Norway](https://pl.wikipedia.org/wiki/Norwegia). Commanded by Admiral [Friedrich von Ingenohl](https://pl.wikipedia.org/wiki/Friedrich_von_Ingenohl), the ships first carried out exercises near the [Skagerrak](https://pl.wikipedia.org/wiki/Skagerrak), and on 25 July they entered the Norwegian fjords. Like the Kaiser's cruise, the voyage was meant to give the impression that an ordinary, quiet summer was under way in [Germany](/kraje/niemcy).
+On 14 July 1914 the main force of the German navy, the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) (Hochseeflotte), set out on its annual summer cruise to [Norway](https://pl.wikipedia.org/wiki/Norwegia). Commanded by Admiral [Friedrich von Ingenohl](https://pl.wikipedia.org/wiki/Friedrich_von_Ingenohl), the ships first carried out exercises near the [Skagerrak](https://pl.wikipedia.org/wiki/Skagerrak), and on 25 July they entered the Norwegian fjords. Like the Kaiser's cruise, the voyage was meant to give the impression that an ordinary, quiet summer was under way in [Germany](/kraje/niemcy).
 
 News of the ultimatum to Serbia and of the breach of relations between Vienna and Belgrade changed the situation. Kaiser [Wilhelm II](/postacie/wilhelm-ii), who was himself cutting short his voyage, ordered the fleet to return home. He did so against the wishes of Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg), who feared that a sudden return of the ships would alarm the British. On 26 July the fleet began its homeward journey, and on 27 July all its squadrons assembled off the south-west coast of Norway and set course for their bases.
 

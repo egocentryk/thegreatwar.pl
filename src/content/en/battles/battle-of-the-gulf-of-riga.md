@@ -9,10 +9,10 @@ sides:
     commanders: [Ehrhard Schmidt, Franz von Hipper]
 result: Russian defensive victory. The Germans broke through the mine barrages and briefly entered the gulf, but did not destroy the battleship Slava or mine the Moon Sound. They lost two torpedo boats and three minesweepers to mines.
 source: bitwa-w-zatoce-ryskiej
-sourceHash: 7741a4d2b72f08cd0f321d5d218a746507394c4e
+sourceHash: 7ab05528309ae611252d515a3fd74fcb6f967a80
 ---
 
-The [Battle of the Gulf of Riga](https://pl.wikipedia.org/wiki/Bitwa_w_Zatoce_Ryskiej) was the largest operation of the German fleet in the [Baltic Sea](https://pl.wikipedia.org/wiki/Morze_Bałtyckie) in 1915. In August the Germans brought over from the North Sea a large part of the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) and twice tried to break through the Russian mine barrages in the [Irben Strait](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), at the entrance to the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). The first attempt, on 8 August, stalled on the mines. The second, begun on 16 August, succeeded: on 19 August two German dreadnoughts entered the gulf and sank a Russian gunboat. The same day a British submarine torpedoed the battlecruiser *Moltke* in the open sea. The Germans did not achieve their main aims, the destruction of the Russian ships in the gulf and the mining of the passage to the north. On 21 August they left the gulf, and the Russians kept control of it.
+The [Battle of the Gulf of Riga](https://pl.wikipedia.org/wiki/Bitwa_w_Zatoce_Ryskiej) was the largest operation of the German fleet in the [Baltic Sea](https://pl.wikipedia.org/wiki/Morze_Bałtyckie) in 1915. In August the Germans brought over from the North Sea a large part of the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) and twice tried to break through the Russian mine barrages in the [Irben Strait](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), at the entrance to the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). The first attempt, on 8 August, stalled on the mines. The second, begun on 16 August, succeeded: on 19 August two German dreadnoughts entered the gulf and sank a Russian gunboat. The same day a British submarine torpedoed the battlecruiser *Moltke* in the open sea. The Germans did not achieve their main aims, the destruction of the Russian ships in the gulf and the mining of the passage to the north. On 21 August they left the gulf, and the Russians kept control of it.
 
 ## Name and dates
 

@@ -2,7 +2,7 @@
 title: Start of the Battle of the Menin Road Ridge
 summary: On 20 September 1917 Plumer's armies advanced at Ypres behind a huge barrage. The Australians took Glencorse Wood and Nonne Bosschen and reached Polygon Wood.
 source: poczatek-bitwy-o-grzbiet-menin-road
-sourceHash: d9c6ec094908764e2eea1bdd3d178238f789daba
+sourceHash: 105977a144feacdb8f132e6869f4e46cc63d68a7
 brief:
   - "At 5.40 a.m. on 20 September 1917 eleven divisions of the British Second and Fifth Armies, two of them Australian, advanced east of Ypres in the third great attack of the Third Battle of Ypres."
   - "For the first time it was directed by General Herbert Plumer, who had spent three weeks massing guns and ammunition and had set the infantry modest, shallow objectives."
@@ -43,7 +43,7 @@ On the Australians' right the British 23rd Division forced its way through Inver
 
 ## Counter-attacks
 
-The German defence in Flanders relied on counter-attack divisions, which were to strike the attackers once they had advanced far and become dispersed. That day they had been standing ready since morning: the 16th Bavarian at Gheluwe, the 236th at Moorslede and the 234th at Oostnieuwkerke. The mist, however, lifted at about eight o'clock, and at noon the British and Australians had the sun behind them and could see the whole plateau. The airmen of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) sent 394 wireless reports that day, and roughly one in three immediately brought down artillery fire. The German columns had to deploy for the attack far from their objective and spent many hours struggling from shell hole to shell hole under constant fire.
+The German defence in Flanders relied on counter-attack divisions, which were to strike the attackers once they had advanced far and become dispersed. That day they had been standing ready since morning: the 16th Bavarian at Gheluwe, the 236th at Moorslede and the 234th at Oostnieuwkerke. The mist, however, lifted at about eight o'clock, and at noon the British and Australians had the sun behind them and could see the whole plateau. The airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps) sent 394 wireless reports that day, and roughly one in three immediately brought down artillery fire. The German columns had to deploy for the attack far from their objective and spent many hours struggling from shell hole to shell hole under constant fire.
 
 After 3 p.m. observers saw a column of infantry with batteries coming down from Zonnebeke and Broodseinde, and troops assembling in the valley of the Reutelbeek stream. The artillery smothered them with fire before they came within rifle range. At about 6 p.m., and again after 7 p.m., when German movement was spotted once more, bombardments lasting forty minutes and an hour came down at the signal of three coloured flares. One officer of the 8th Battalion recalled that his men sat and laughed, knowing that the Germans would not get through such fire. According to German accounts, the soldiers of the 236th Division could not even find their way across the field of shell holes, and German commanders took the British shelling for the herald of another attack. Only in the north did a counter-attack from the Poelkapelle spur push back the flank of the 51st Division a little, and a regiment of the 236th Division that attacked from Gravenstafel towards Hill 37 was stopped by flanking fire. By nightfall all the counter-attacks had been repulsed.
 

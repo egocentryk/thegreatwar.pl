@@ -1,0 +1,16 @@
+---
+import ForcePage from "@/components/ForcePage.astro"
+import { localForces, type LocalForce } from "@/utils/forces"
+
+export async function getStaticPaths() {
+  return (await localForces("pl")).map((force) => ({ params: { slug: force.slug }, props: { force } }))
+}
+
+interface Props {
+  force: LocalForce
+}
+
+const { force } = Astro.props
+---
+
+<ForcePage force={force} />

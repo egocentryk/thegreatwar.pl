@@ -13,7 +13,8 @@ Checks per entry:
 - short / shortEn 120–220 characters; long / longEn exactly 2 paragraphs,
   600–1,150 characters together;
 - 2–6 sources, at least one not on wikipedia.org, no duplicates;
-- `see`: 1–6 refs that exist (a timeline slug, bitwy/, postacie/, tematy/);
+- `see`: 1–6 refs that exist (a timeline slug, bitwy/, postacie/, tematy/,
+  sily-zbrojne/);
   the pattern matches the main page (see[0]) unless it is a person or guide;
 - both patterns compile (also as JavaScript `u` regexes: no escapes of
   ordinary characters); the Polish one matches at least 3 Polish pages
@@ -53,6 +54,7 @@ for kind, prefix in (("timeline", ""), ("battles", "bitwy/"), ("people", "postac
     for f in glob.glob(f"{ROOT}/src/content/en/{kind}/*.md"):
         en[prefix + source_of(f)] = body(f)
 topics = {"tematy/" + os.path.basename(f)[:-3] for f in glob.glob(f"{ROOT}/src/content/topics/*.md")}
+topics |= {"sily-zbrojne/" + os.path.basename(f)[:-3] for f in glob.glob(f"{ROOT}/src/content/forces/*.md")}
 
 existing = json.load(open(f"{ROOT}/src/data/glossary.json", encoding="utf-8"))
 taken = {e["slug"] for e in existing} | {e["slugEn"] for e in existing}

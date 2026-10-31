@@ -2,7 +2,7 @@
 title: Möwe sails on her second cruise
 summary: On 23 November 1916 the raider Möwe set out on her second cruise, to break through the British blockade into the Atlantic again. It was her most successful.
 source: mowe-wyplywa-w-drugi-rejs
-sourceHash: f5a567132b3c749438b97afd78f6b3355d135a60
+sourceHash: 7127b289bf38d78ebf4665d1b40f37b8648b36cd
 ---
 
 On 23 November 1916 the German [auxiliary cruiser](/slownik/krazownik-pomocniczy) [*Möwe*](https://pl.wikipedia.org/wiki/SMS_Möwe_(1914)) set out on her second cruise into the Atlantic. She was again commanded by Korvettenkapitän [Nikolaus zu Dohna-Schlodien](https://pl.wikipedia.org/wiki/Nikolaus_zu_Dohna-Schlodien), the hero of the [first expedition at the turn of 1915 and 1916](/mowe-wraca-z-pierwszego-rejsu). The date of 23 November is given by most lists. The British official history of the war at sea and German studies, however, write that *Möwe* slipped out into the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) as early as 22 November, while the British chronology of the war places her departure from [Kiel](https://pl.wikipedia.org/wiki/Kilonia) only under 26 November. For many days the British did not know that the ship was already at sea.
@@ -15,7 +15,7 @@ After returning from her first cruise *Möwe* underwent a refit at [Wilhelmshave
 
 ## Through the blockade
 
-The British expected such attempts. The Admiralty and the commander of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), [John Jellicoe](/postacie/john-jellicoe), had prepared standing orders under which cruisers were to occupy all the exits from the North Sea as soon as word came that a raider was at sea. Newbolt admits, however, that the British never knew the date of departure of any of the raiders to within a week, and it was precisely this that saved them.
+The British expected such attempts. The Admiralty and the commander of the [Grand Fleet](/sily-zbrojne/grand-fleet), [John Jellicoe](/postacie/john-jellicoe), had prepared standing orders under which cruisers were to occupy all the exits from the North Sea as soon as word came that a raider was at sea. Newbolt admits, however, that the British never knew the date of departure of any of the raiders to within a week, and it was precisely this that saved them.
 
 *Möwe*'s route across the North Sea cannot be reconstructed exactly. According to the British official history the raider sailed in very bad weather along the eastern side of the sea, off the coast of Norway, and turned west roughly in the latitude of the [Faroe Islands](https://pl.wikipedia.org/wiki/Wyspy_Owcze). The long winter nights and the storms helped her to evade the British patrols, just as a year earlier, when she [set out on her first cruise](/mowe-wyplywa-w-pierwszy-rejs). By 30 November she was already in the open Atlantic, heading south.
 

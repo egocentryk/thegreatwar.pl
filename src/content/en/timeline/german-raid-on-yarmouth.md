@@ -2,14 +2,14 @@
 title: German raid on Yarmouth
 summary: On 3 November 1914 Hipper's German battlecruisers shelled the coast near Yarmouth and laid mines. The British submarine D5 sank on one of them.
 source: niemiecki-rajd-na-yarmouth
-sourceHash: ebf1d82b79d19314c6cf711dcdf1d252c6f0a052
+sourceHash: 5d9a77c60809fa2fd98668f73301b9ff39b0a561
 ---
 
 On the morning of 3 November 1914 German battlecruisers appeared off the coast of Norfolk and shelled the area around [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). It was the first sortie by large German warships to the English coast since the beginning of the war. The [raid on Yarmouth](https://pl.wikipedia.org/wiki/Bombardowanie_Yarmouth) did little damage, but it showed that the German fleet could approach the British coast with impunity.
 
 ## Hipper's sortie
 
-After the defeat in the [Battle of Heligoland Bight](/bitwy/bitwa-w-zatoce-helgolandzkiej) in August, the German command looked for a way to raise morale in the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte). Rear-Admiral [Franz Hipper](/postacie/franz-von-hipper), commander of the battlecruisers, proposed an expedition to the east coast of England. Light cruisers were to lay mines on the shipping lanes off Yarmouth and [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), while the heavy ships covered them and shelled the coast.
+After the defeat in the [Battle of Heligoland Bight](/bitwy/bitwa-w-zatoce-helgolandzkiej) in August, the German command looked for a way to raise morale in the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska). Rear-Admiral [Franz Hipper](/postacie/franz-von-hipper), commander of the battlecruisers, proposed an expedition to the east coast of England. Light cruisers were to lay mines on the shipping lanes off Yarmouth and [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), while the heavy ships covered them and shelled the coast.
 
 Hipper's squadron left the Jade estuary on the afternoon of 2 November. It consisted of the [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) *Seydlitz*, *Moltke* and *Von der Tann*, the armoured cruiser *Blücher* and four light cruisers: *Strassburg*, *Graudenz*, *Kolberg* and *Stralsund*. Other German ships covered the return route. After a night crossing of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) the Germans reached the British coast at dawn.
 

@@ -2,7 +2,7 @@
 title: Action between Alcantara and Greif
 summary: On 29 February 1916 the armed merchant cruiser Alcantara fought the German raider Greif off Shetland. Both ships sank and more than 200 sailors died.
 source: starcie-alcantary-z-greifem
-sourceHash: 1224f9a6a451b46a9c0d428aecd70b3096a801b2
+sourceHash: f8d0878e6f9c60f91f1fc082783870cbb316851c
 ---
 
 Before noon on 29 February 1916, in the North Sea north-east of [Shetland](https://pl.wikipedia.org/wiki/Szetlandy), the British [armed merchant cruiser](/slownik/krazownik-pomocniczy) *Alcantara* stopped a freighter flying the Norwegian flag for inspection. The ship turned out to be the disguised German raider [*Greif*](https://pl.wikipedia.org/wiki/SMS_Greif_(1914)), which was trying to break out into the Atlantic. In a fight at short range both ships sank. The duel between two armed merchant ships recalled the action between [*Carmania* and *Cap Trafalgar*](/carmania-zatapia-cap-trafalgar) in September 1914.
@@ -11,7 +11,7 @@ Before noon on 29 February 1916, in the North Sea north-east of [Shetland](https
 
 *Greif* was the new freighter *Guben*, built in 1914 for a Hamburg line serving Australia. The German navy converted her into a raider at Kiel and commissioned her on 23 January 1916. Behind drop-down bulwarks and false superstructures she concealed four 150 mm guns, one 105 mm gun and two torpedo tubes. She was commanded by Fregattenkapitän Rudolf Tietze. On 27 February the ship put to sea. She was to round Iceland to the north, attack shipping in the Atlantic and, if she could not return home, make for [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The crew repainted her to resemble the Norwegian ship *Rena*. A few weeks earlier a similar raider, *Möwe*, had [sent the captured liner *Appam* to America](/appam-zawija-do-norfolk), and the British had no intention of letting another one through.
 
-The Admiralty learned of *Greif*'s departure in good time. At noon on 28 February it warned the Commander-in-Chief of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), Admiral [John Jellicoe](/postacie/john-jellicoe), that a trap ship was leaving Germany. After midnight British direction-finding stations located the German ship off the south-west coast of Norway, near [Egersund](https://pl.wikipedia.org/wiki/Egersund). Jellicoe sent light cruisers from Rosyth and [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) to search for her, and placed the armed merchant cruisers of the 10th Cruiser Squadron, which enforced the [blockade](/slownik/blokada) in the waters north of Scotland, across her probable route.
+The Admiralty learned of *Greif*'s departure in good time. At noon on 28 February it warned the Commander-in-Chief of the [Grand Fleet](/sily-zbrojne/grand-fleet), Admiral [John Jellicoe](/postacie/john-jellicoe), that a trap ship was leaving Germany. After midnight British direction-finding stations located the German ship off the south-west coast of Norway, near [Egersund](https://pl.wikipedia.org/wiki/Egersund). Jellicoe sent light cruisers from Rosyth and [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) to search for her, and placed the armed merchant cruisers of the 10th Cruiser Squadron, which enforced the [blockade](/slownik/blokada) in the waters north of Scotland, across her probable route.
 
 ## The duel
 
