@@ -2,7 +2,7 @@
 title: Serbian retreat through Albania begins
 summary: In late November 1915 the beaten Serbian army, with the king, government and crowds of refugees, set off across the snowy mountains of Montenegro and Albania.
 source: poczatek-odwrotu-serbow-przez-albanie
-sourceHash: 7e87925b14928f8957ccc6af47bb96e34f22193d
+sourceHash: 7896b579dd245d178f5a6a2f572ef46a1c2203fb
 ---
 
 The British chronology of the war records the beginning of the Serbian army's retreat through Albania under 30 November 1915. The retreat, however, did not begin on a single day. The orders were issued between 23 and 25 November, the first columns, and with them the government and the king, set out from [Prizren](https://pl.wikipedia.org/wiki/Prizren) in the last days of November, and the main forces left Kosovo for the mountains only at the beginning of December. By the end of November every road already led in one direction. On 29 November, or 1 December according to the British chronology, the Bulgarians took Prizren, and the last Serbian units in its neighbourhood were falling back under their pressure across the Albanian border. The [Albanian Golgotha](https://pl.wikipedia.org/wiki/Albańska_Golgota), as the Serbs still call this retreat, was beginning.
@@ -39,4 +39,4 @@ The losses cannot be counted exactly, and the figures given in different sources
 
 Salvation did not await the Serbs on the coast. The small port of San Giovanni di Medua, today's [Shëngjin](https://pl.wikipedia.org/wiki/Shëngjin), [taken by the Montenegrins in the summer](/czarnogorcy-zajmuja-san-giovanni-di-medua), lay too close to the Austro-Hungarian base at [Kotor](https://pl.wikipedia.org/wiki/Kotor). On 5 December Austro-Hungarian warships sank most of the ships in the harbour there. The British and French decided that the army had to be taken off further south, from Durrës and from [Vlorë](https://pl.wikipedia.org/wiki/Wlora), where the Italians were. The emaciated soldiers therefore had to march on through the Albanian marshes and rivers. They were helped by [Essad Pasha Toptani](/postacie/esad-pasza-toptani), who ruled in Durrës and [had sided with the Entente](/esad-pasza-tworzy-rzad-w-durres).
 
-In the winter of 1916 Italian, French and British ships carried more than a hundred thousand Serbian soldiers from the Albanian coast to the Greek island of [Corfu](https://pl.wikipedia.org/wiki/Korfu), where they rested and were rearmed. The Serbian government also settled on Corfu. The rebuilt army returned to the fighting in the summer of 1916 on the Salonika front.
+In the winter of 1916 Italian, French and British ships carried more than a hundred thousand Serbian soldiers from the Albanian coast to the Greek island of [Corfu](/miejsca/korfu), where they rested and were rearmed. The Serbian government also settled on Corfu. The rebuilt army returned to the fighting in the summer of 1916 on the Salonika front.

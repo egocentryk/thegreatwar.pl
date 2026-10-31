@@ -15,7 +15,7 @@ draft: false
 
 ## Kraj o dwóch zwierzchnikach
 
-Położenie Egiptu było w 1914 roku niezwykłe. Formalnie kraj pozostawał częścią [Imperium Osmańskiego](/kraje/imperium-osmanskie), rządzoną przez dziedzicznego chedywa, który uznawał zwierzchnictwo sułtana w Konstantynopolu. Od 1882 roku Egipt był jednak okupowany przez Wielką Brytanię, a faktyczną władzę sprawował brytyjski agent i konsul generalny. Dla Brytyjczyków kraj miał ogromne znaczenie ze względu na [Kanał Sueski](https://pl.wikipedia.org/wiki/Kanał_Sueski), najkrótszą drogę morską do Indii i Australii.
+Położenie Egiptu było w 1914 roku niezwykłe. Formalnie kraj pozostawał częścią [Imperium Osmańskiego](/kraje/imperium-osmanskie), rządzoną przez dziedzicznego chedywa, który uznawał zwierzchnictwo sułtana w Konstantynopolu. Od 1882 roku Egipt był jednak okupowany przez Wielką Brytanię, a faktyczną władzę sprawował brytyjski agent i konsul generalny. Dla Brytyjczyków kraj miał ogromne znaczenie ze względu na [Kanał Sueski](/miejsca/kanal-sueski), najkrótszą drogę morską do Indii i Australii.
 
 Gdy wybuchła wojna, chedyw [Abbas II Hilmi](https://pl.wikipedia.org/wiki/Abbas_II_Hilmi), niechętny Brytyjczykom, przebywał w Konstantynopolu. Rząd w Kairze, działający pod brytyjskim nadzorem, już w sierpniu podjął decyzję, która w praktyce stawiała Egipt po stronie Wielkiej Brytanii w wojnie z Niemcami. Imperium Osmańskie pozostawało wtedy formalnie neutralne, choć coraz wyraźniej zbliżało się do Niemiec. W takiej sytuacji obecność niemieckich i austro-węgierskich konsulów w kraju, przez który płynęły już transporty wojsk z Indii, była dla Brytyjczyków nie do przyjęcia.
 

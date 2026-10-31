@@ -2,12 +2,12 @@
 title: Indian Expeditionary Force "F" sails for Egypt
 summary: At the beginning of November 1914 three new Indian brigades sailed from India for Egypt. They were to defend the Suez Canal against the Turks.
 source: indyjski-korpus-ekspedycyjny-f-wyplywa-do-egiptu
-sourceHash: cd4b4185d8d617028c775ad44e8e3b78ca2ed26f
+sourceHash: f971769e3952fcc028272a6f73e291a817307f18
 ---
 
 The British chronology of the war records under 2 November 1914 the departure from India of Indian Expeditionary Force "F", destined for [Egypt](https://pl.wikipedia.org/wiki/Egipt). It consisted of three infantry brigades, the 28th, 29th and 30th, formed in October 1914 from battalions of the Indian Army, mainly Sikh, Punjabi and Gurkha. The transports sailed in the first days of November. According to the history of the 14th Sikhs, the convoy carrying the 29th Brigade left [Karachi](https://pl.wikipedia.org/wiki/Karaczi) on 3 November, escorted by the armoured cruiser HMS *Duke of Edinburgh*.
 
-The new brigades were to strengthen the defence of the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski). When they sailed, the [Ottoman Empire](/kraje/imperium-osmanskie) had already entered the war, and the British expected that sooner or later Turkish troops would try to cross Sinai and cut the canal, the most important sea route linking Great Britain with India and Australia. At that time there were few regular troops stationed in Egypt.
+The new brigades were to strengthen the defence of the [Suez Canal](/miejsca/kanal-sueski). When they sailed, the [Ottoman Empire](/kraje/imperium-osmanskie) had already entered the war, and the British expected that sooner or later Turkish troops would try to cross Sinai and cut the canal, the most important sea route linking Great Britain with India and Australia. At that time there were few regular troops stationed in Egypt.
 
 ## "E" or "F"?
 

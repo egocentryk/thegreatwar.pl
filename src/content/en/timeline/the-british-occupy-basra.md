@@ -2,7 +2,7 @@
 title: The British occupy Basra
 summary: On 22 November 1914 British and Indian troops entered Basra, abandoned by the Turks. The next day the occupation of the city was formally proclaimed.
 source: brytyjczycy-zajmuja-basre
-sourceHash: f06ac0c52a56a4c52b013fdb0404c0b17e4b0005
+sourceHash: aaf594af0682568175648aa2191110c2029eac5d
 ---
 
 On 22 November 1914 the main body of Lieutenant-General Arthur Barrett's Indian Expeditionary Force "D" entered [Basra](https://pl.wikipedia.org/wiki/Basra), the chief city and port of the Ottoman province on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska). The Turks gave it up without a fight. Only two weeks earlier the British had [landed at Fao](/ladowanie-w-fao) at the mouth of the [Shatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab), and now they held the most important point in lower Mesopotamia. The formal occupation of the city was proclaimed the following day, 23 November.
@@ -23,4 +23,4 @@ On 23 November a ceremony took place which the British chronology records as the
 
 The occupation of Basra closed the first stage of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). The British had secured the refinery and pipeline of the Anglo-Persian Oil Company at [Abadan](https://pl.wikipedia.org/wiki/Abadan), controlled the mouth of the Shatt al-Arab and gained a port through which they could supply further operations. It was one of the first clear British successes of the war. The London "Daily Mail" announced it under the headline "Another red spot on the map", a reference to the colour in which the possessions of the empire were marked.
 
-The easy victory, however, whetted appetites. As early as December the British moved upriver against Qurna, and in India there was more and more talk of a march on [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). That temptation led in 1916 to the surrender of a British division in besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut). Basra, by contrast, remained in British hands until the end of the war and became the main base of the forces fighting in Mesopotamia.
+The easy victory, however, whetted appetites. As early as December the British moved upriver against Qurna, and in India there was more and more talk of a march on [Baghdad](/miejsca/bagdad). That temptation led in 1916 to the surrender of a British division in besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut). Basra, by contrast, remained in British hands until the end of the war and became the main base of the forces fighting in Mesopotamia.

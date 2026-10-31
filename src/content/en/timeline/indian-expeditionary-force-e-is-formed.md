@@ -2,10 +2,10 @@
 title: Indian Expeditionary Force "E" is formed
 summary: On 2 October 1914 Indian Expeditionary Force "E" was formed in Egypt. Indian troops were to defend the Suez Canal against the Turks.
 source: powstaje-indyjski-korpus-ekspedycyjny-e
-sourceHash: c3a9e05cf6aaac3dacc4d896207a6b4b112ed21f
+sourceHash: 40a2ee7a52915a7430919ebe2796aea67c586674
 ---
 
-A British chronology of the war records under 2 October 1914 the formation of Indian Expeditionary Force "E" in [Egypt](https://pl.wikipedia.org/wiki/Egipt). The new force was based on units of Force "A" that had not sailed on to France but had remained on the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski). The designation "E" later also covered further troops sent from India to defend Egypt.
+A British chronology of the war records under 2 October 1914 the formation of Indian Expeditionary Force "E" in [Egypt](https://pl.wikipedia.org/wiki/Egipt). The new force was based on units of Force "A" that had not sailed on to France but had remained on the [Suez Canal](/miejsca/kanal-sueski). The designation "E" later also covered further troops sent from India to defend Egypt.
 
 The Indian troops were originally to replace the British garrison in Egypt entirely. When, however, London sent the main body of Force "A" to the Western Front, only the Sirhind Brigade of the Lahore Division, which [had arrived at Suez in September](/korpus-indyjski-przybywa-do-suezu), remained in the country. Meanwhile [General John Maxwell](/general-maxwell-dowodca-w-egipcie), commanding the troops in Egypt, needed more and more soldiers. The [Ottoman Empire](/kraje/imperium-osmanskie) was formally neutral, but it was drawing ever closer to Germany, and its troops could threaten the canal from the Sinai.
 

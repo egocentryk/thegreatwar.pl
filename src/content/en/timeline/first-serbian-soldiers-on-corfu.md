@@ -2,10 +2,10 @@
 title: First Serbian soldiers on Corfu
 summary: In mid-January 1916 the first Serbian soldiers from Albania began to arrive on Corfu. Many were so exhausted that they died soon after coming ashore.
 source: pierwsi-serbscy-zolnierze-na-korfu
-sourceHash: e7180ffe8ee00a263aa442ada466afa6cfad20f1
+sourceHash: 2d62ad9d79c8b03d31316ebfdbdef9ecb7658530
 ---
 
-The British chronology of the war records under 15 January 1916 the landing of the first Serbian soldiers on [Corfu](https://pl.wikipedia.org/wiki/Korfu). Four days earlier [the French had landed there](/francuzi-zajmuja-korfu) to prepare the island to receive the remnants of the army from Albania, and two days earlier [Greece had protested](/grecja-odmawia-zgody-na-zajecie-korfu) against this plan. The details of the first transport could not be established. According to Serbian studies, regular transports to Corfu began on 18 January, and the main place of disembarkation was Gouvia bay, about 6 kilometres north of the town of Corfu. The correspondent of the London "Daily Chronicle" reported from the island on 21 January that large detachments of Serbs were arriving every day and that their condition was terrible.
+The British chronology of the war records under 15 January 1916 the landing of the first Serbian soldiers on [Corfu](/miejsca/korfu). Four days earlier [the French had landed there](/francuzi-zajmuja-korfu) to prepare the island to receive the remnants of the army from Albania, and two days earlier [Greece had protested](/grecja-odmawia-zgody-na-zajecie-korfu) against this plan. The details of the first transport could not be established. According to Serbian studies, regular transports to Corfu began on 18 January, and the main place of disembarkation was Gouvia bay, about 6 kilometres north of the town of Corfu. The correspondent of the London "Daily Chronicle" reported from the island on 21 January that large detachments of Serbs were arriving every day and that their condition was terrible.
 
 ## The road to the ports
 

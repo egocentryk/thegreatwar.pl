@@ -2,7 +2,7 @@
 title: Essad Pasha forms a government in Durrës
 summary: In early October 1914 Essad Pasha Toptani returned to Albania, took Durrës and became head of the government. He was backed by Serbia and Italy.
 source: esad-pasza-tworzy-rzad-w-durres
-sourceHash: b5342a0e93c4149d8fa19e1e9baf5a4f33db2c43
+sourceHash: b70dfab3c338ee050714912c59176422b8caf707
 ---
 
 At the beginning of October 1914 [Essad Pasha Toptani](/postacie/esad-pasza-toptani) entered [Durrës](https://pl.wikipedia.org/wiki/Durrës), the provisional capital of Albania. Barely a month after [Prince Wilhelm of Wied had left the country](/wilhelm-wied-opuszcza-albanie), the former Minister of War returned from exile and became head of a new government. The British chronology of the war records the formation of this government under 4 October. According to other sources Essad had taken Durrës by 3 October and exercised power as prime minister from 5 October.
@@ -17,4 +17,4 @@ With Serbian help Essad gathered several thousand armed men around Dibra and mar
 
 Essad's government was dependent on foreign powers from the start. Serbia and Italy supported him because each hoped for influence in Albania. At the end of October the Italians occupied the island of Sazan, and in December they landed at [Vlorë](https://pl.wikipedia.org/wiki/Wlora). Among the Albanians Essad had many opponents. The Muslim rebels who had earlier fought Wied soon turned against him too. In 1915 they reduced his authority almost to Durrës alone, and their revolt was suppressed only by Serbian intervention in June.
 
-In 1915 Essad finally threw in his lot with the Entente. According to some sources he declared war on Austria-Hungary at the end of that year. When in the winter of 1915 the shattered Serbian army retreated through Albania towards the coast, his men helped it. In February 1916, as Austro-Hungarian troops approached Durrës, Essad left the country. He spent the rest of the war mainly in [Salonika](https://pl.wikipedia.org/wiki/Saloniki), where he maintained a semblance of a government in exile. In 1920 he was shot dead in Paris by a young Albanian nationalist, [Avni Rustemi](https://pl.wikipedia.org/wiki/Avni_Rustemi).
+In 1915 Essad finally threw in his lot with the Entente. According to some sources he declared war on Austria-Hungary at the end of that year. When in the winter of 1915 the shattered Serbian army retreated through Albania towards the coast, his men helped it. In February 1916, as Austro-Hungarian troops approached Durrës, Essad left the country. He spent the rest of the war mainly in [Salonika](/miejsca/saloniki), where he maintained a semblance of a government in exile. In 1920 he was shot dead in Paris by a young Albanian nationalist, [Avni Rustemi](https://pl.wikipedia.org/wiki/Avni_Rustemi).

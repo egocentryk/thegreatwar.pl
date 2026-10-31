@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 2 października 1914 roku utworzenie w [Egipcie](https://pl.wikipedia.org/wiki/Egipt) Indyjskiego Korpusu Ekspedycyjnego „E”. Podstawą nowego zgrupowania stały się oddziały Korpusu „A”, które nie popłynęły dalej do Francji, lecz zostały nad [Kanałem Sueskim](https://pl.wikipedia.org/wiki/Kanał_Sueski). Oznaczenie „E” objęło potem także kolejne wojska przysyłane z Indii do obrony Egiptu.
+Brytyjska chronologia wojny notuje pod 2 października 1914 roku utworzenie w [Egipcie](https://pl.wikipedia.org/wiki/Egipt) Indyjskiego Korpusu Ekspedycyjnego „E”. Podstawą nowego zgrupowania stały się oddziały Korpusu „A”, które nie popłynęły dalej do Francji, lecz zostały nad [Kanałem Sueskim](/miejsca/kanal-sueski). Oznaczenie „E” objęło potem także kolejne wojska przysyłane z Indii do obrony Egiptu.
 
 Wojska indyjskie miały pierwotnie w całości zastąpić brytyjski garnizon w Egipcie. Gdy jednak Londyn skierował główne siły Korpusu „A” na front zachodni, w kraju została tylko brygada Sirhind z dywizji Lahore, która [we wrześniu przybyła do Suezu](/korpus-indyjski-przybywa-do-suezu). Dowodzący wojskami w Egipcie [generał John Maxwell](/general-maxwell-dowodca-w-egipcie) potrzebował tymczasem coraz więcej żołnierzy. [Imperium Osmańskie](/kraje/imperium-osmanskie) było formalnie neutralne, ale coraz wyraźniej zbliżało się do Niemiec, a jego wojska mogły zagrozić kanałowi od strony Synaju.
 

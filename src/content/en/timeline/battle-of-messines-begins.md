@@ -2,7 +2,7 @@
 title: Battle of Messines begins
 summary: On 12 October 1914 Allenby's British cavalry took the Mont des Cats in Flanders. The battle for the Messines ridge south of Ypres had begun.
 source: poczatek-bitwy-pod-messines
-sourceHash: 6e8ead0da13a4aab876098c407ffadbdec3d18fa
+sourceHash: b0235356d03cdb01a50c9c8ca6fde55fb49ff89e
 brief:
   - "On 12 October 1914 General Edmund Allenby's British Cavalry Corps took the Mont des Cats in French Flanders. British nomenclature dates the start of the Battle of Messines from this day."
   - "Field Marshal French and General Foch had agreed on a joint advance eastwards. Allenby's cavalry was to cover the left flank of III Corps, facing General von Hollen's German IV Cavalry Corps."
@@ -10,7 +10,7 @@ brief:
   - "After the Germans fell back behind the Lys, the British took Kemmel, Messines and Wytschaete, and for the first time an unbroken Allied line ran from Switzerland to the North Sea. It was, however, the last moment of Allied advantage."
 ---
 
-On 12 October 1914 the British Cavalry Corps of General [Edmund Allenby](/postacie/edmund-allenby) moved east through French Flanders towards the Belgian border. Towards evening, after fierce fighting, its regiments took the Mont des Cats, a hill held by German cavalry. British nomenclature dates the start of the Battle of Messines from this day. At stake was the low ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](https://pl.wikipedia.org/wiki/Ieper), for which the cavalrymen were to fight for the next three weeks.
+On 12 October 1914 the British Cavalry Corps of General [Edmund Allenby](/postacie/edmund-allenby) moved east through French Flanders towards the Belgian border. Towards evening, after fierce fighting, its regiments took the Mont des Cats, a hill held by German cavalry. British nomenclature dates the start of the Battle of Messines from this day. At stake was the low ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](/miejsca/ypres), for which the cavalrymen were to fight for the next three weeks.
 
 ## Cavalry on the left flank
 

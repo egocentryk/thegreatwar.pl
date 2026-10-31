@@ -2,10 +2,10 @@
 title: Russians halt before Khanaqin
 summary: In mid-May 1916 Baratov stood before Khanaqin but did not take it. The Turks were bringing reinforcements from Kut and the Russians were told not to attack.
 source: rosjanie-zatrzymuja-sie-przed-chanakinem
-sourceHash: 98e7becaa0a95c86daf667afc581dc8bc81e7b2e
+sourceHash: 1eb5474adebb2e4159ccce60534a5438e31ed67e
 ---
 
-The British chronology of the war records under 15 May 1916 that Russian troops occupied [Khanaqin](https://pl.wikipedia.org/wiki/Chanakin), a town in Ottoman Iraq just beyond the Persian border, about 130 kilometres by road north-east of [Baghdad](https://pl.wikipedia.org/wiki/Bagdad), and that they left it on 5 June. Other sources do not confirm this. The British official history of the Mesopotamian campaign, W. E. D. Allen and Paul Muratoff's history of the Caucasian wars, the work of General Evgeny Maslovsky of the Caucasus Army staff and the memoirs of the British political officer Arnold Wilson all agree in showing that in May 1916 Khanaqin was in Turkish hands. The Russians stood before it but did not capture it.
+The British chronology of the war records under 15 May 1916 that Russian troops occupied [Khanaqin](https://pl.wikipedia.org/wiki/Chanakin), a town in Ottoman Iraq just beyond the Persian border, about 130 kilometres by road north-east of [Baghdad](/miejsca/bagdad), and that they left it on 5 June. Other sources do not confirm this. The British official history of the Mesopotamian campaign, W. E. D. Allen and Paul Muratoff's history of the Caucasian wars, the work of General Evgeny Maslovsky of the Caucasus Army staff and the memoirs of the British political officer Arnold Wilson all agree in showing that in May 1916 Khanaqin was in Turkish hands. The Russians stood before it but did not capture it.
 
 ## A Turkish base
 

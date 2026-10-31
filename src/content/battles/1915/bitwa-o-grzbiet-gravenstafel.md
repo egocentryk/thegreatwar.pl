@@ -25,7 +25,7 @@ brief:
   - "Dla 1 Dywizji Kanadyjskiej był to chrzest ognia, który ugruntował jej opinię. Nazajutrz Niemcy zaatakowali gazem samych Kanadyjczyków i zaczęła się bitwa pod St. Julien."
 ---
 
-Bitwa o grzbiet Gravenstafel, stoczona 22 i 23 kwietnia 1915 roku na północ od [Ypres](https://pl.wikipedia.org/wiki/Ieper), była pierwszym etapem [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Zaczęła się od pierwszego na froncie zachodnim ataku [chlorem](https://pl.wikipedia.org/wiki/Chlor), który rozbił dwie francuskie dywizje i otworzył w alianckim froncie wyrwę szeroką na kilka kilometrów. Przez noc i następny dzień [1 Dywizja Kanadyjska](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) i ściągane z odwodów bataliony brytyjskie zamykały ją, kontratakując bez rozpoznania i niemal bez wsparcia artylerii. Niemcy nie przeszli dalej, ale cena była ogromna, a utraconego terenu nie odzyskano.
+Bitwa o grzbiet Gravenstafel, stoczona 22 i 23 kwietnia 1915 roku na północ od [Ypres](/miejsca/ypres), była pierwszym etapem [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Zaczęła się od pierwszego na froncie zachodnim ataku [chlorem](https://pl.wikipedia.org/wiki/Chlor), który rozbił dwie francuskie dywizje i otworzył w alianckim froncie wyrwę szeroką na kilka kilometrów. Przez noc i następny dzień [1 Dywizja Kanadyjska](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) i ściągane z odwodów bataliony brytyjskie zamykały ją, kontratakując bez rozpoznania i niemal bez wsparcia artylerii. Niemcy nie przeszli dalej, ale cena była ogromna, a utraconego terenu nie odzyskano.
 
 ## Nazwa i daty
 

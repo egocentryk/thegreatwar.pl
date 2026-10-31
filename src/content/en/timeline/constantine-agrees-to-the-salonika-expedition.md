@@ -2,10 +2,10 @@
 title: Constantine agrees to the Salonika expedition
 summary: On 27 September 1915 Venizelos told the British that the King had agreed to Entente troops at Salonika. Officially, Constantine I was to know nothing.
 source: konstantyn-godzi-sie-na-ekspedycje-do-salonik
-sourceHash: 4d3b39e27dc98af8db97023cf8c1c092b220e7e0
+sourceHash: 94385c8a42f6dfb9039fdf1fabfdbdd7d4228336
 ---
 
-On 27 September 1915 a telegram reached London from Athens that seemed to end a week of uncertainty. The Prime Minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), informed the British through the British minister, Francis Elliot, that he had obtained the consent of King [Constantine I](/postacie/konstantyn-i) to the dispatch of British and French troops to [Salonika](https://pl.wikipedia.org/wiki/Saloniki). He asked for them to arrive as quickly as possible, before the Greek divisions, which were to concentrate in Macedonia from 30 September, took over the only railway line. The message, however, had a second part. Officially the King was to know nothing until the troops were at the entrance to the harbour. Greece would then lodge a formal protest.
+On 27 September 1915 a telegram reached London from Athens that seemed to end a week of uncertainty. The Prime Minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), informed the British through the British minister, Francis Elliot, that he had obtained the consent of King [Constantine I](/postacie/konstantyn-i) to the dispatch of British and French troops to [Salonika](/miejsca/saloniki). He asked for them to arrive as quickly as possible, before the Greek divisions, which were to concentrate in Macedonia from 30 September, took over the only railway line. The message, however, had a second part. Officially the King was to know nothing until the troops were at the entrance to the harbour. Greece would then lodge a formal protest.
 
 ## A week of conflicting signals
 

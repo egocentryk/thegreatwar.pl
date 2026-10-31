@@ -28,4 +28,4 @@ Nowy rząd był niemal wiernym odtworzeniem gabinetu, który odszedł w marcu. W
 
 ## Półtora miesiąca
 
-Drugi rząd Wenizelosa przetrwał niespełna siedem tygodni. We wrześniu Bułgaria ogłosiła mobilizację, a Wenizelos, powołując się na sojusz z Serbią z 1913 roku, doprowadził do mobilizacji greckiej armii i zgodził się na lądowanie wojsk Ententy w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki). Król uznał, że premier posunął się za daleko, i na początku października po raz drugi w ciągu roku zmusił go do dymisji. Konflikt dwóch najsilniejszych osobowości greckiej polityki znów się zaostrzył.
+Drugi rząd Wenizelosa przetrwał niespełna siedem tygodni. We wrześniu Bułgaria ogłosiła mobilizację, a Wenizelos, powołując się na sojusz z Serbią z 1913 roku, doprowadził do mobilizacji greckiej armii i zgodził się na lądowanie wojsk Ententy w [Salonikach](/miejsca/saloniki). Król uznał, że premier posunął się za daleko, i na początku października po raz drugi w ciągu roku zmusił go do dymisji. Konflikt dwóch najsilniejszych osobowości greckiej polityki znów się zaostrzył.

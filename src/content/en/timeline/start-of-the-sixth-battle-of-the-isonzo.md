@@ -2,10 +2,10 @@
 title: Start of the Sixth Battle of the Isonzo
 summary: On 6 August 1916 the Italians attacked the Gorizia bridgehead and Monte San Michele. That same day they took Monte Sabotino and the summits of San Michele.
 source: poczatek-szostej-bitwy-nad-isonzo
-sourceHash: 8676972c6dd5c7b3c71e7216dcef14874894bd64
+sourceHash: e8cf3b3e362b7fec1f4a5481688d63f222af902d
 ---
 
-On the fine Sunday morning of 6 August 1916 the Italian artillery opened fire along the whole front on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), from Tolmino to the sea. So began the main attack of the Sixth Battle of the Isonzo. General [Luigi Cadorna](/postacie/luigi-cadorna) had concentrated against the bridgehead of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) and Monte San Michele on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau more guns and trench mortars than he had ever had in this war. By evening the Italian infantry stood on the summits for which it had been fighting in vain since June 1915.
+On the fine Sunday morning of 6 August 1916 the Italian artillery opened fire along the whole front on the [Isonzo](/bitwy/bitwy-nad-isonzo), from Tolmino to the sea. So began the main attack of the Sixth Battle of the Isonzo. General [Luigi Cadorna](/postacie/luigi-cadorna) had concentrated against the bridgehead of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) and Monte San Michele on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau more guns and trench mortars than he had ever had in this war. By evening the Italian infantry stood on the summits for which it had been fighting in vain since June 1915.
 
 ## Surprise
 

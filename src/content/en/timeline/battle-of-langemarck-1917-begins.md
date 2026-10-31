@@ -2,7 +2,7 @@
 title: Battle of Langemarck (1917) begins
 summary: On 16 August 1917 the British took the ruins of Langemarck near Ypres, but the Irish divisions bled at Frezenberg and the Gheluvelt plateau held out again.
 source: poczatek-bitwy-pod-langemarck-1917
-sourceHash: 305aafbbf0922d9075e965f94d95b4bb9c253eb8
+sourceHash: 2ca2526ec648a829d52a1736b4da47da0438f012
 brief:
   - "On 16 August 1917, after two weeks of rain and several postponements, the British Fifth Army and the French I Corps launched the second great attack of the Third Battle of Ypres."
   - "In the north the 20th (Light) Division took the ruins of Langemarck, and the French the Drie Grachten bridgehead. The Newfoundlanders of the 29th Division reached their final objective."
@@ -11,7 +11,7 @@ brief:
   - "Robin Prior and Trevor Wilson put the Fifth Army's losses that day at about 15,000 men. The French lost only a few hundred, and in the Fifth Army the search for culprits began."
 ---
 
-At 4.45 a.m. on 16 August 1917, after two weeks of rain and several postponements, the British Fifth Army and the French I Corps launched the second great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). On a front from the [Ypres](https://pl.wikipedia.org/wiki/Ieper)–Menin road to the flooded meadows along the Yser, eight British and two French divisions advanced behind a creeping barrage through mud in which guns had still been sinking two days earlier. By evening the balance sheet was twofold. In the north the British had taken the ruins of the village of [Langemarck](https://pl.wikipedia.org/wiki/Langemark), and the French the Drie Grachten bridgehead. In the centre and the south German counter-attacks had pushed the attackers back almost to where they had started, and two Irish divisions had lost thousands of men in a few hours.
+At 4.45 a.m. on 16 August 1917, after two weeks of rain and several postponements, the British Fifth Army and the French I Corps launched the second great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). On a front from the [Ypres](/miejsca/ypres)–Menin road to the flooded meadows along the Yser, eight British and two French divisions advanced behind a creeping barrage through mud in which guns had still been sinking two days earlier. By evening the balance sheet was twofold. In the north the British had taken the ruins of the village of [Langemarck](https://pl.wikipedia.org/wiki/Langemark), and the French the Drie Grachten bridgehead. In the centre and the south German counter-attacks had pushed the attackers back almost to where they had started, and two Irish divisions had lost thousands of men in a few hours.
 
 ## Two weeks in the mud
 

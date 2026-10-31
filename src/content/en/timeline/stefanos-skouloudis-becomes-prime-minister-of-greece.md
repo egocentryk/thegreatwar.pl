@@ -2,7 +2,7 @@
 title: Stefanos Skouloudis becomes prime minister of Greece
 summary: After the fall of the Zaimis government King Constantine gave power to the 76-year-old banker Stefanos Skouloudis. A few days later he dissolved parliament.
 source: stefanos-skuludis-premierem-grecji
-sourceHash: c08f0c6c6b5ca93a33a0add8aa542fdb9651df94
+sourceHash: 7e4e75fb6dd255748f828c5d06523aee449de8fa
 ---
 
 Two days after the Chamber of Deputies [brought down the government of Alexandros Zaimis](/dymisja-rzadu-zaimisa), King [Constantine I](/postacie/konstantyn-i) found a new prime minister. The British chronology of the war and some authors, including the British writer G. F. Abbott in a book published in 1917, give 6 November 1915 as the date of the appointment. Greek lists of governments, the New York monthly "Current History" and the Italian minister in Athens, Carlo De Bosdari, who cabled Rome on 7 November that the "crisis is resolved", point to 7 November, that is 25 October by the Julian calendar. Most likely [Stefanos Skouloudis](/postacie/stefanos-skuludis) was given the task on 6 November and the government took office the next day.
@@ -15,7 +15,7 @@ Skouloudis was 76 and one of the oldest men in Greek politics. He was born in 18
 
 The change in fact concerned only one person. Skouloudis also took the foreign ministry, and Zaimis's other ministers kept their portfolios: the former prime ministers [Dimitrios Gounaris](/postacie/dimitrios-gunaris) (interior), [Georgios Theotokis](https://pl.wikipedia.org/wiki/Jeorjos_Teotokis), [Dimitrios Rallis](https://pl.wikipedia.org/wiki/Dimitrios_Ralis) and [Stefanos Dragoumis](https://pl.wikipedia.org/wiki/Stefanos_Dragumis), Admiral [Pavlos Kountouriotis](https://pl.wikipedia.org/wiki/Pawlos_Kunduriotis) at the navy, and even General Ioannis Yannakitsas, whose clash with Liberal deputies had caused the crisis. The Venizelist newspaper "Phos" later called his policy "the colourless policy of old men".
 
-The new prime minister at once assured the Allies of his intentions. In a circular of 9 November, delivered in Petrograd, Paris and other capitals, he declared that the cabinet was pursuing the same policy as the Zaimis government: armed neutrality marked by sincere goodwill towards the Entente powers. He adopted as his own his predecessor's assurances of a friendly attitude towards the Allied troops at [Salonika](https://pl.wikipedia.org/wiki/Saloniki) and asked the powers not to believe "tendentious and malicious" rumours. The Russian foreign minister, Sergei Sazonov, took note of these words, and in Paris, as the Russian ambassador reported, they were received with satisfaction.
+The new prime minister at once assured the Allies of his intentions. In a circular of 9 November, delivered in Petrograd, Paris and other capitals, he declared that the cabinet was pursuing the same policy as the Zaimis government: armed neutrality marked by sincere goodwill towards the Entente powers. He adopted as his own his predecessor's assurances of a friendly attitude towards the Allied troops at [Salonika](/miejsca/saloniki) and asked the powers not to believe "tendentious and malicious" rumours. The Russian foreign minister, Sergei Sazonov, took note of these words, and in Paris, as the Russian ambassador reported, they were received with satisfaction.
 
 ## Dissolution of the Chamber
 

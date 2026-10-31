@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 11 lutego 1916 roku, że na [Korfu](https://pl.wikipedia.org/wiki/Korfu) przybył włoski oddział. Od miesiąca wyspę trzymali [Francuzi](/francuzi-zajmuja-korfu), a na jej brzegi schodziły dziesiątki tysięcy żołnierzy [ewakuowanej z Albanii armii serbskiej](/armia-serbska-zebrana-na-korfu). Włoska obecność była skromna, ale wywołała w Grecji szczególne oburzenie.
+Brytyjska chronologia wojny notuje pod 11 lutego 1916 roku, że na [Korfu](/miejsca/korfu) przybył włoski oddział. Od miesiąca wyspę trzymali [Francuzi](/francuzi-zajmuja-korfu), a na jej brzegi schodziły dziesiątki tysięcy żołnierzy [ewakuowanej z Albanii armii serbskiej](/armia-serbska-zebrana-na-korfu). Włoska obecność była skromna, ale wywołała w Grecji szczególne oburzenie.
 
 ## Garstka karabinierów
 

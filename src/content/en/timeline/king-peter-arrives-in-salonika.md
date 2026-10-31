@@ -2,10 +2,10 @@
 title: King Peter arrives in Salonika
 summary: On 1 January 1916 the ailing King Peter I of Serbia reached Salonika. After the retreat through Albania and a stay in Brindisi he chose the Entente base.
 source: krol-piotr-przybywa-do-salonik
-sourceHash: 518631dfc2c9956b0ed219289dcd204630361e90
+sourceHash: fa96e7e311b8ce8599645d970f800afa09c6422b
 ---
 
-On 1 January 1916 Reuters' correspondent in [Salonika](https://pl.wikipedia.org/wiki/Saloniki) reported that King [Peter I](/postacie/piotr-i-karadziordziewic) of Serbia had arrived in the city. According to *The Illustrated London News* he came aboard a French destroyer. The seventy-one-year-old monarch was exhausted and in poor health. Reuters wrote that he was still "somewhat indisposed as a result of his recent severe exertions". Since June 1914 power had been exercised in his name by the heir to the throne, [Alexander](/postacie/aleksander-i-karadziordziewic), as regent, but for the Serbs and for the allies the old king remained a living symbol of a state whose entire territory was by now occupied by the enemy.
+On 1 January 1916 Reuters' correspondent in [Salonika](/miejsca/saloniki) reported that King [Peter I](/postacie/piotr-i-karadziordziewic) of Serbia had arrived in the city. According to *The Illustrated London News* he came aboard a French destroyer. The seventy-one-year-old monarch was exhausted and in poor health. Reuters wrote that he was still "somewhat indisposed as a result of his recent severe exertions". Since June 1914 power had been exercised in his name by the heir to the throne, [Alexander](/postacie/aleksander-i-karadziordziewic), as regent, but for the Serbs and for the allies the old king remained a living symbol of a state whose entire territory was by now occupied by the enemy.
 
 ## From Albania to Italy
 

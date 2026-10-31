@@ -2,10 +2,10 @@
 title: Sarrail arrests the Central Powers' consuls
 summary: After an air raid on Salonika on 30 December 1915, Gen. Sarrail had the consuls of Germany, Austria-Hungary, Bulgaria and Turkey arrested and expelled.
 source: sarrail-aresztuje-konsulow-panstw-centralnych
-sourceHash: 7c31688f8277fba5d5704e93454663cd682f7fb8
+sourceHash: 03e632d5914f11788a13ce8d2b10f007b03a65c1
 ---
 
-On 30 December 1915 aircraft of the Central Powers appeared over [Salonika](https://pl.wikipedia.org/wiki/Saloniki) and dropped bombs on the city. That same day the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), ordered the arrest of the consuls of Germany, Austria-Hungary, Bulgaria and Turkey, who were still at their posts in the city. Together with their families and staff they were taken aboard a warship and removed from Greece. Salonika formally belonged to a neutral state, but for the past two weeks, since [the Entente forces had withdrawn from Serbian Macedonia](/ostatnie-wojska-ententy-opuszczaja-macedonie), it had been above all their fortified base.
+On 30 December 1915 aircraft of the Central Powers appeared over [Salonika](/miejsca/saloniki) and dropped bombs on the city. That same day the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), ordered the arrest of the consuls of Germany, Austria-Hungary, Bulgaria and Turkey, who were still at their posts in the city. Together with their families and staff they were taken aboard a warship and removed from Greece. Salonika formally belonged to a neutral state, but for the past two weeks, since [the Entente forces had withdrawn from Serbian Macedonia](/ostatnie-wojska-ententy-opuszczaja-macedonie), it had been above all their fortified base.
 
 ## Enemies in the city
 

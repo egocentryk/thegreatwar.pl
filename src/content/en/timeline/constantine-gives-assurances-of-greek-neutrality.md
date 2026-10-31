@@ -2,10 +2,10 @@
 title: Constantine gives assurances of Greek neutrality
 summary: In early October 1915 King Constantine I assured the British minister that Greece would stay neutral. Mobilisation and the Entente landing were to go on.
 source: konstantyn-zapewnia-o-neutralnosci-grecji
-sourceHash: 4e7a05522c5f4ca745e4f92d430d4b09d863cd44
+sourceHash: 627d3d2cdfa4e9865afdcdb12cd1d2375b650162
 ---
 
-The British chronology of the war records under 6 October 1915 that King [Constantine I](/postacie/konstantyn-i) of Greece assured the British minister in Athens, Sir Francis Elliot, that his country would remain neutral. The Greek mobilisation and the landing of Entente troops at [Salonika](https://pl.wikipedia.org/wiki/Saloniki) were, however, to continue. This was one of the first indications of the king's intentions after the fall of Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos), who had resigned the day before when Constantine refused to back his policy. A new government was only just being formed under [Alexandros Zaimis](/aleksandros-zaimis-premierem-grecji).
+The British chronology of the war records under 6 October 1915 that King [Constantine I](/postacie/konstantyn-i) of Greece assured the British minister in Athens, Sir Francis Elliot, that his country would remain neutral. The Greek mobilisation and the landing of Entente troops at [Salonika](/miejsca/saloniki) were, however, to continue. This was one of the first indications of the king's intentions after the fall of Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos), who had resigned the day before when Constantine refused to back his policy. A new government was only just being formed under [Alexandros Zaimis](/aleksandros-zaimis-premierem-grecji).
 
 ## An evasive answer
 

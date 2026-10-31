@@ -2,10 +2,10 @@
 title: End of the Battle of Langemarck (1917)
 summary: On 18 August 1917 the Battle of Langemarck ended. The British broke into Inverness Copse, and Gough sought culprits for the failure, the Irish among them.
 source: koniec-bitwy-pod-langemarck-1917
-sourceHash: 640781a4b63dfc40373b83b5d67774c764e7a768
+sourceHash: 9a6cc7b336a60c011f5f61d85dae519c65788709
 ---
 
-On 18 August 1917 a brigade of the British 14th (Light) Division attacked along the road from [Ypres](https://pl.wikipedia.org/wiki/Ieper) to Menin towards Inverness Copse, on which every attack on the Gheluvelt plateau had foundered since 31 July. It broke into the shattered wood, but a German counter-attack pushed it back to the middle of it. There, supported by two tanks on the road, it held on, repulsing three more attacks. This was the last act of the Battle of Langemarck, the second great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). After two days of fighting for individual pillboxes and farms the front came to a standstill, and both sides began to fortify what they had managed to hold.
+On 18 August 1917 a brigade of the British 14th (Light) Division attacked along the road from [Ypres](/miejsca/ypres) to Menin towards Inverness Copse, on which every attack on the Gheluvelt plateau had foundered since 31 July. It broke into the shattered wood, but a German counter-attack pushed it back to the middle of it. There, supported by two tanks on the road, it held on, repulsing three more attacks. This was the last act of the Battle of Langemarck, the second great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). After two days of fighting for individual pillboxes and farms the front came to a standstill, and both sides began to fortify what they had managed to hold.
 
 ## The last days of fighting
 

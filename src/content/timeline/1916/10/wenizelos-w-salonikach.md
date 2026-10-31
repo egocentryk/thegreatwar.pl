@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 października 1916 roku, czyli 26 września według kalendarza juliańskiego, którym posługiwała się Grecja, do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) przybył [Elefterios Wenizelos](/postacie/elefterios-wenizelos). Tę datę podają dwaj brytyjscy dziennikarze, którzy byli wtedy w mieście lub blisko wydarzeń: G. Ward Price, oficjalny korespondent prasy brytyjskiej przy armii w Salonikach, i Crawfurd Price, gorący zwolennik Wenizelosa, a także brytyjska chronologia wojny. Część współczesnych opracowań, powołując się na grecką encyklopedię wojskową z 1929 roku, podaje 7 października. Tymczasem w depeszy z Aten, którą londyński „The Times” ogłosił dopiero 9 października, czytamy, że Wenizelos popłynął z Krety na Samos i stamtąd ma się udać na Chios i Lesbos.
+9 października 1916 roku, czyli 26 września według kalendarza juliańskiego, którym posługiwała się Grecja, do [Salonik](/miejsca/saloniki) przybył [Elefterios Wenizelos](/postacie/elefterios-wenizelos). Tę datę podają dwaj brytyjscy dziennikarze, którzy byli wtedy w mieście lub blisko wydarzeń: G. Ward Price, oficjalny korespondent prasy brytyjskiej przy armii w Salonikach, i Crawfurd Price, gorący zwolennik Wenizelosa, a także brytyjska chronologia wojny. Część współczesnych opracowań, powołując się na grecką encyklopedię wojskową z 1929 roku, podaje 7 października. Tymczasem w depeszy z Aten, którą londyński „The Times” ogłosił dopiero 9 października, czytamy, że Wenizelos popłynął z Krety na Samos i stamtąd ma się udać na Chios i Lesbos.
 
 ## Przez wyspy do Macedonii
 

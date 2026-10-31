@@ -2,7 +2,7 @@
 title: Nixon takes over command in Mesopotamia
 summary: On 9 April 1915 Gen. John Nixon arrived in Basra and took over command in Mesopotamia from the ailing Gen. Arthur Barrett, on the eve of a Turkish attack.
 source: nixon-obejmuje-dowodztwo-w-mezopotamii
-sourceHash: c256725a5c134d8c5bd92164cc8c33e42962ecbb
+sourceHash: d246a878da52e9289066edf16d7ff4a8a38fd307
 ---
 
 On 9 April 1915 General Sir John Nixon arrived in [Basra](https://pl.wikipedia.org/wiki/Basra) and took over command of the British and Indian troops in [Mesopotamia](/bitwy/kampania-mezopotamska). The Government of India had [appointed him to the post on 18 March](/john-nixon-dowodca-w-mezopotamii). The previous commander of Indian Expeditionary Force "D", Lieutenant-General Arthur Barrett, had been ill for some time. He formally retained command of the 6th (Poona) Division, but three days later left for India, and his division was taken over temporarily by the senior brigade commander, General Charles Fry. At the end of April General Charles Townshend took it over permanently.
@@ -11,7 +11,7 @@ With Nixon came the staff of an army corps, which took over the work hitherto do
 
 ## Orders and the voyage
 
-The instructions Nixon received at Army Headquarters in India provided for the occupation of the whole vilayet of Basra and the preparation of a plan for a march on [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). On 30 March he received additional instructions: he was to assess whether a light railway, armoured cars, aircraft and more river steamers were needed on the Tigris and Euphrates. A day later the General Staff in India telegraphed him that the Turkish forces were divided into two widely separated wings and that, thanks to the river flotilla, they could be beaten one after the other. Later, before the commission investigating the conduct of the campaign, Nixon testified that he had understood these orders as heralding a move to the offensive.
+The instructions Nixon received at Army Headquarters in India provided for the occupation of the whole vilayet of Basra and the preparation of a plan for a march on [Baghdad](/miejsca/bagdad). On 30 March he received additional instructions: he was to assess whether a light railway, armoured cars, aircraft and more river steamers were needed on the Tigris and Euphrates. A day later the General Staff in India telegraphed him that the Turkish forces were divided into two widely separated wings and that, thanks to the river flotilla, they could be beaten one after the other. Later, before the commission investigating the conduct of the campaign, Nixon testified that he had understood these orders as heralding a move to the offensive.
 
 On the way, on 5 April, he stopped at [Bushehr](https://pl.wikipedia.org/wiki/Buszehr) on the Persian Gulf. German agents were active in southern Persia at the time, stirring up the local tribes against the British. The Government of India reminded Nixon that at Bushehr he was to do nothing beyond what was necessary to protect the lives and property of British subjects.
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Svetozar Boroević, Wenzel von Wurm, Archduke Joseph August of Austria, Erwin Zeidler]
 result: Italian victory. The Italians took the Gorizia bridgehead with Monte Sabotino, Monte San Michele, the town of Gorizia and the Doberdò plateau, but did not break the new Austro-Hungarian defensive line east of the town.
 source: szosta-bitwa-nad-isonzo
-sourceHash: d458e4c66d12bb455aa072da92deb646085e2e74
+sourceHash: f2f80eb116f295246aff25e0f102b633d78db592
 brief:
   - "The Sixth Battle of the Isonzo, fought on 6–17 August 1916, was the Italian army's first great victory of the First World War."
   - "General Luigi Cadorna secretly moved more than a dozen divisions and hundreds of heavy guns from the Trentino to the lower Isonzo. The Austro-Hungarian 5th Army had been weakened by sending troops to the Eastern Front."
@@ -18,7 +18,7 @@ brief:
   - "The victory aroused enormous enthusiasm in Italy and strengthened Cadorna's position, but militarily it was limited: the hills above Gorizia stayed in Austrian hands and Trieste was still far away."
 ---
 
-The Sixth Battle of the Isonzo was the Italian army's first great victory of the First World War. After fifteen months of bloody and fruitless attacks on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), General [Luigi Cadorna](/postacie/luigi-cadorna) secretly moved more than a dozen divisions and hundreds of heavy guns from the Trentino to the lower Isonzo, and on 6 August 1916 he struck at the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and at Monte San Michele on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The Austro-Hungarian 5th Army, weakened by sending troops to the Eastern Front, could not repel the blow. On the very first day the Italians took Monte Sabotino, held by the Austrians since the start of the war, and the summit of San Michele, and on 8 August the defenders gave up the whole bridgehead on the western bank of the Isonzo. On 9 August the first Italian units entered Gorizia, and the Austrians abandoned the Doberdò plateau. On the new defensive line, on the hills east of the town, the Italians were stuck just as they had been before the bridgehead. On 17 August Cadorna halted the attack.
+The Sixth Battle of the Isonzo was the Italian army's first great victory of the First World War. After fifteen months of bloody and fruitless attacks on the [Isonzo](/bitwy/bitwy-nad-isonzo), General [Luigi Cadorna](/postacie/luigi-cadorna) secretly moved more than a dozen divisions and hundreds of heavy guns from the Trentino to the lower Isonzo, and on 6 August 1916 he struck at the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and at Monte San Michele on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The Austro-Hungarian 5th Army, weakened by sending troops to the Eastern Front, could not repel the blow. On the very first day the Italians took Monte Sabotino, held by the Austrians since the start of the war, and the summit of San Michele, and on 8 August the defenders gave up the whole bridgehead on the western bank of the Isonzo. On 9 August the first Italian units entered Gorizia, and the Austrians abandoned the Doberdò plateau. On the new defensive line, on the hills east of the town, the Italians were stuck just as they had been before the bridgehead. On 17 August Cadorna halted the attack.
 
 ## Name and dates
 

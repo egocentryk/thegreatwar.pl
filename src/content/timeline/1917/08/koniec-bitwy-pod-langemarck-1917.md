@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 sierpnia 1917 roku brygada brytyjskiej 14 (Lekkiej) Dywizji uderzyła wzdłuż drogi z [Ypres](https://pl.wikipedia.org/wiki/Ieper) do Menin na las Inverness Copse, o który od 31 lipca rozbijało się każde natarcie na płaskowyżu Gheluvelt. Wdarła się do zniszczonego lasu, ale niemiecki kontratak zepchnął ją do jego połowy. Tam, wspierana przez dwa czołgi na drodze, utrzymała się, odpierając jeszcze trzy ataki. Był to ostatni akt bitwy pod Langemarck, drugiego wielkiego natarcia [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). Po dwóch dniach walk o pojedyncze schrony i farmy front znieruchomiał, a obie strony zaczęły umacniać to, co zdołały utrzymać.
+18 sierpnia 1917 roku brygada brytyjskiej 14 (Lekkiej) Dywizji uderzyła wzdłuż drogi z [Ypres](/miejsca/ypres) do Menin na las Inverness Copse, o który od 31 lipca rozbijało się każde natarcie na płaskowyżu Gheluvelt. Wdarła się do zniszczonego lasu, ale niemiecki kontratak zepchnął ją do jego połowy. Tam, wspierana przez dwa czołgi na drodze, utrzymała się, odpierając jeszcze trzy ataki. Był to ostatni akt bitwy pod Langemarck, drugiego wielkiego natarcia [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). Po dwóch dniach walk o pojedyncze schrony i farmy front znieruchomiał, a obie strony zaczęły umacniać to, co zdołały utrzymać.
 
 ## Ostatnie dni walk
 

@@ -2,7 +2,7 @@
 title: Battle of Broodseinde
 summary: On 4 October 1917 the Anzacs took the Broodseinde ridge near Ypres, colliding in no man's land with attacking Germans. They took thousands of prisoners.
 source: poczatek-bitwy-pod-broodseinde
-sourceHash: e68666e9853c06d023ef134b013943a282ee3105
+sourceHash: 0ee3338da47b6483c1df0b2b22a7edf53973f0d3
 brief:
   - "On 4 October 1917 twelve British and Dominion divisions attacked the Broodseinde ridge near Ypres. It was General Herbert Plumer's third step in the Third Battle of Ypres."
   - "The main burden fell on four Anzac divisions, attacking side by side for the first time. The Germans had prepared their own attack for the same dawn, so the Australians collided with them in no man's land."
@@ -11,7 +11,7 @@ brief:
   - "The British counted 4,759 prisoners, and the German official history wrote of the \"black day of 4 October\". Haig was sure the enemy was close to collapse, but from noon it rained."
 ---
 
-At six in the morning on 4 October 1917, in drizzle and a gusty wind, twelve British and Dominion divisions attacked east of [Ypres](https://pl.wikipedia.org/wiki/Ieper) against the Broodseinde ridge, from which the Germans had overlooked the whole Ypres salient since 1915. It was General [Herbert Plumer](/postacie/herbert-plumer)'s third step in the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), eight days after the [Battle of Polygon Wood](/bitwy/bitwa-o-polygon-wood). The main burden was borne by four Anzac divisions, three Australian and the New Zealand Division, attacking side by side for the first time in this war. For the same dawn the German 4th Guard Division and a regiment of the 45th Reserve Division had prepared an attack of their own, so the Australians collided with the advancing Germans in no man's land. Before nine the ridge had been taken, several thousand Germans had been captured, and their counter-attacks broke down under artillery fire. At noon it began to rain.
+At six in the morning on 4 October 1917, in drizzle and a gusty wind, twelve British and Dominion divisions attacked east of [Ypres](/miejsca/ypres) against the Broodseinde ridge, from which the Germans had overlooked the whole Ypres salient since 1915. It was General [Herbert Plumer](/postacie/herbert-plumer)'s third step in the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), eight days after the [Battle of Polygon Wood](/bitwy/bitwa-o-polygon-wood). The main burden was borne by four Anzac divisions, three Australian and the New Zealand Division, attacking side by side for the first time in this war. For the same dawn the German 4th Guard Division and a regiment of the 45th Reserve Division had prepared an attack of their own, so the Australians collided with the advancing Germans in no man's land. Before nine the ridge had been taken, several thousand Germans had been captured, and their counter-attacks broke down under artillery fire. At noon it began to rain.
 
 ## A night on the tapes
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 15 maja 1916 roku, że wojska rosyjskie zajęły [Chanakin](https://pl.wikipedia.org/wiki/Chanakin), miasto w osmańskim Iraku tuż za granicą perską, około 130 kilometrów drogą na północny wschód od [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad), a 5 czerwca je opuściły. Inne źródła tego nie potwierdzają. Brytyjska historia oficjalna kampanii mezopotamskiej, historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa, praca generała Jewgienija Masłowskiego ze sztabu Armii Kaukaskiej oraz wspomnienia brytyjskiego oficera politycznego Arnolda Wilsona zgodnie pokazują, że w maju 1916 roku Chanakin był w rękach Turków. Rosjanie stanęli przed nim, ale go nie zdobyli.
+Brytyjska chronologia wojny notuje pod 15 maja 1916 roku, że wojska rosyjskie zajęły [Chanakin](https://pl.wikipedia.org/wiki/Chanakin), miasto w osmańskim Iraku tuż za granicą perską, około 130 kilometrów drogą na północny wschód od [Bagdadu](/miejsca/bagdad), a 5 czerwca je opuściły. Inne źródła tego nie potwierdzają. Brytyjska historia oficjalna kampanii mezopotamskiej, historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa, praca generała Jewgienija Masłowskiego ze sztabu Armii Kaukaskiej oraz wspomnienia brytyjskiego oficera politycznego Arnolda Wilsona zgodnie pokazują, że w maju 1916 roku Chanakin był w rękach Turków. Rosjanie stanęli przed nim, ale go nie zdobyli.
 
 ## Turecka baza
 

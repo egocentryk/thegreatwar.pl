@@ -2,10 +2,10 @@
 title: Start of the tenth battle of the Isonzo
 summary: At dawn on 12 May 1917 the Italian artillery opened fire from Tolmin to the Adriatic. The Tenth Battle of the Isonzo, Cadorna's largest offensive, had begun.
 source: poczatek-dziesiatej-bitwy-nad-isonzo
-sourceHash: e98222e8e0d2383a85b8a85ba7a61ac42f64b369
+sourceHash: 09458da93257b62525af45544ec8c5843dc80c4c
 ---
 
-On 12 May 1917, as soon as day began to break, the Italian guns opened up along the whole front on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), from [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic. The fire soon grew to a strength this front had never yet known. General [Luigi Cadorna](/postacie/luigi-cadorna) was opening the Tenth Battle of the Isonzo, the first for half a year and the largest of all so far. This time he did not want merely to bite into the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau on the road to [Trieste](https://pl.wikipedia.org/wiki/Triest), as in the three autumn battles of 1916. He intended first to take the mountains north of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja), and only then to deliver the decisive blow on the Karst.
+On 12 May 1917, as soon as day began to break, the Italian guns opened up along the whole front on the [Isonzo](/bitwy/bitwy-nad-isonzo), from [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic. The fire soon grew to a strength this front had never yet known. General [Luigi Cadorna](/postacie/luigi-cadorna) was opening the Tenth Battle of the Isonzo, the first for half a year and the largest of all so far. This time he did not want merely to bite into the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau on the road to [Trieste](https://pl.wikipedia.org/wiki/Triest), as in the three autumn battles of 1916. He intended first to take the mountains north of [Gorizia](https://pl.wikipedia.org/wiki/Gorycja), and only then to deliver the decisive blow on the Karst.
 
 ## Cadorna's plan
 

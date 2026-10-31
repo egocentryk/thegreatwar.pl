@@ -2,10 +2,10 @@
 title: Serbian army begins moving to Salonika
 summary: In mid-April 1916 the rebuilt Serbian army began to be shipped from Corfu to Salonika. The high command moved there gradually, until the summer.
 source: poczatek-przewozu-armii-serbskiej-do-salonik
-sourceHash: f5aa8f86c406c315e53b8d4e7e99c83bf87289db
+sourceHash: a756dc77c596aeeb146e24d3f15953f35cde2744
 ---
 
-The British chronology of the war records under 15 April 1916 that the headquarters of the Serbian army landed at [Salonika](https://pl.wikipedia.org/wiki/Saloniki), arriving from [Corfu](https://pl.wikipedia.org/wiki/Korfu). This date could not be confirmed in other sources. They do agree, however, that in mid-April the shipment of the rebuilt Serbian army from the island to the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) began. The British official history of the operations in Macedonia states that it started on 11 April; Serbian works speak of 12 or 13 April. According to Serbian accounts, the chief of staff of the high command, General [Petar Bojović](/postacie/petar-bojovic), arrived at Salonika with part of his staff only at the end of May, when the shipment was nearing its end. The chronology may be recording the arrival of the first officers who were to prepare for the troops' reception, but the transfer of the whole command took weeks.
+The British chronology of the war records under 15 April 1916 that the headquarters of the Serbian army landed at [Salonika](/miejsca/saloniki), arriving from [Corfu](/miejsca/korfu). This date could not be confirmed in other sources. They do agree, however, that in mid-April the shipment of the rebuilt Serbian army from the island to the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) began. The British official history of the operations in Macedonia states that it started on 11 April; Serbian works speak of 12 or 13 April. According to Serbian accounts, the chief of staff of the high command, General [Petar Bojović](/postacie/petar-bojovic), arrived at Salonika with part of his staff only at the end of May, when the shipment was nearing its end. The chronology may be recording the arrival of the first officers who were to prepare for the troops' reception, but the transfer of the whole command took weeks.
 
 ## An army ready to move
 

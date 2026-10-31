@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 29 czerwca 1915 roku początek pierwszej bitwy nad Isonzo. Włoska historia oficjalna i większość historyków datują jednak jej początek na 23 czerwca. Tego dnia o świcie włoska artyleria otworzyła ogień na całym froncie nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od gór nad [Tolminem](https://pl.wikipedia.org/wiki/Tolmin) po wybrzeże Adriatyku, a piechota ruszyła do pierwszych natarć. 29 czerwca bitwa trwała więc już od tygodnia, a jej pierwszy etap dobiegał końca bez rozstrzygnięcia. Nie udało nam się ustalić, skąd wzięła się data w brytyjskim zestawieniu.
+Brytyjska chronologia wojny notuje pod 29 czerwca 1915 roku początek pierwszej bitwy nad Isonzo. Włoska historia oficjalna i większość historyków datują jednak jej początek na 23 czerwca. Tego dnia o świcie włoska artyleria otworzyła ogień na całym froncie nad [Soczą](/bitwy/bitwy-nad-isonzo), od gór nad [Tolminem](https://pl.wikipedia.org/wiki/Tolmin) po wybrzeże Adriatyku, a piechota ruszyła do pierwszych natarć. 29 czerwca bitwa trwała więc już od tygodnia, a jej pierwszy etap dobiegał końca bez rozstrzygnięcia. Nie udało nam się ustalić, skąd wzięła się data w brytyjskim zestawieniu.
 
 ## Plan Cadorny
 

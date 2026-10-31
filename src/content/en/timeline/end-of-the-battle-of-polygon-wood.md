@@ -2,10 +2,10 @@
 title: End of the Battle of Polygon Wood
 summary: On 3 October 1917 near Ypres the last German attempt to retake ground at Polygon Wood failed. Plumer was finishing preparations for the attack on Broodseinde.
 source: koniec-bitwy-o-polygon-wood
-sourceHash: 06eeeb452d7753fb9261e49c76810beea17dc1cc
+sourceHash: 60073e3da48232b9fdf8dfa825b2e29e401493c5
 ---
 
-On 3 October 1917 a week of fighting came to an end which the British Battles Nomenclature Committee after the war included in the Battle of Polygon Wood. At dawn German infantry attacked once more near the road from [Ypres](https://pl.wikipedia.org/wiki/Ieper) to Menin and, as Field Marshal [Douglas Haig](/postacie/douglas-haig) wrote in his dispatch, "broke down before our positions". The ground taken on 26 September by the Australians and British [in General Plumer's second step](/poczatek-bitwy-o-polygon-wood) remained in their hands. That same evening four Anzac divisions set off by night for the jumping-off tapes in front of the Broodseinde ridge, from which the next attack was to start the following day.
+On 3 October 1917 a week of fighting came to an end which the British Battles Nomenclature Committee after the war included in the Battle of Polygon Wood. At dawn German infantry attacked once more near the road from [Ypres](/miejsca/ypres) to Menin and, as Field Marshal [Douglas Haig](/postacie/douglas-haig) wrote in his dispatch, "broke down before our positions". The ground taken on 26 September by the Australians and British [in General Plumer's second step](/poczatek-bitwy-o-polygon-wood) remained in their hands. That same evening four Anzac divisions set off by night for the jumping-off tapes in front of the Broodseinde ridge, from which the next attack was to start the following day.
 
 ## A week of counter-attacks
 

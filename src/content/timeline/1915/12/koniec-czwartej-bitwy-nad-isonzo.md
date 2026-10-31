@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 10 grudnia 1915 roku koniec czwartej bitwy nad [Soczą](https://pl.wikipedia.org/wiki/Socza). Ta jesienna ofensywa Włochów nie skończyła się jednak jednego dnia, tylko stopniowo wygasała przez dwa tygodnie, więc opracowania podają różne daty. Najczęściej spotyka się 2 grudnia i tę datę przyjmujemy na stronie [bitwy](/bitwy/czwarta-bitwa-nad-isonzo). Austro-węgierska historia oficjalna uważa za ostatni dzień bitwy 1 grudnia, gdy załamały się ostatnie wielkie natarcia, ale dodaje, że Włosi atakowali jeszcze w pojedynczych miejscach do 14 grudnia. Część włoskich opracowań podaje 5 grudnia, część niemieckojęzycznych 15 grudnia. Data z brytyjskiej chronologii przypada najpewniej na dzień po ostatnim większym natarciu, które od 7 do 9 grudnia toczyło się o Monte San Michele.
+Brytyjska chronologia wojny notuje pod 10 grudnia 1915 roku koniec czwartej bitwy nad [Soczą](/bitwy/bitwy-nad-isonzo). Ta jesienna ofensywa Włochów nie skończyła się jednak jednego dnia, tylko stopniowo wygasała przez dwa tygodnie, więc opracowania podają różne daty. Najczęściej spotyka się 2 grudnia i tę datę przyjmujemy na stronie [bitwy](/bitwy/czwarta-bitwa-nad-isonzo). Austro-węgierska historia oficjalna uważa za ostatni dzień bitwy 1 grudnia, gdy załamały się ostatnie wielkie natarcia, ale dodaje, że Włosi atakowali jeszcze w pojedynczych miejscach do 14 grudnia. Część włoskich opracowań podaje 5 grudnia, część niemieckojęzycznych 15 grudnia. Data z brytyjskiej chronologii przypada najpewniej na dzień po ostatnim większym natarciu, które od 7 do 9 grudnia toczyło się o Monte San Michele.
 
 ## Ostatnie natarcia
 

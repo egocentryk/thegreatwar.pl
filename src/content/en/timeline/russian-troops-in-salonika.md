@@ -2,10 +2,10 @@
 title: Russian troops in Salonika
 summary: On 30 July 1916 General Diterikhs's 2nd Special Infantry Brigade began landing at Salonika. Crowds welcomed the Russians on the quays and in the streets.
 source: rosyjskie-wojska-w-salonikach
-sourceHash: b97c63195cb3757681df647216ebffff4cd0db42
+sourceHash: 208edb505ea419342a501ee0908286dda633e2ef
 ---
 
-On 30 July 1916 the first soldiers of the Russian 2nd Special Infantry Brigade, sent by the tsar to the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), arrived in [Salonika](https://pl.wikipedia.org/wiki/Saloniki). The British journalist Gordon Gordon-Smith, who was in the city at the time, wrote that the arrival of the Russians caused a sensation and that the whole of Salonika turned out to greet them. The soldiers, tall and well built, marched along the quay and through Liberty Square, lined with cafés, while thousands of people standing along the streets cheered them. The date of 30 July is also given by the British chronology of the war and by French studies. The British official history of operations in Macedonia says that the brigade landed on 1 August. The discrepancy probably arises from the fact that the Russians arrived in successive echelons: according to Russian studies, the plan provided for the arrival of three transports, on 27 July and on 8 and 10 August, and according to some sources the last units reached Salonika only in mid-September.
+On 30 July 1916 the first soldiers of the Russian 2nd Special Infantry Brigade, sent by the tsar to the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), arrived in [Salonika](/miejsca/saloniki). The British journalist Gordon Gordon-Smith, who was in the city at the time, wrote that the arrival of the Russians caused a sensation and that the whole of Salonika turned out to greet them. The soldiers, tall and well built, marched along the quay and through Liberty Square, lined with cafés, while thousands of people standing along the streets cheered them. The date of 30 July is also given by the British chronology of the war and by French studies. The British official history of operations in Macedonia says that the brigade landed on 1 August. The discrepancy probably arises from the fact that the Russians arrived in successive echelons: according to Russian studies, the plan provided for the arrival of three transports, on 27 July and on 8 and 10 August, and according to some sources the last units reached Salonika only in mid-September.
 
 ## A brigade for the Balkans
 

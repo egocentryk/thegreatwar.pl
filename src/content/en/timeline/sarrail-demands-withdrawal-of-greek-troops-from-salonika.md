@@ -2,10 +2,10 @@
 title: Sarrail demands the withdrawal of Greek troops from Salonika
 summary: On 9 December 1915 General Sarrail put the Entente's demands to a Greek envoy. He wanted to fortify Salonika, remove the Greeks and take over Fort Karaburun.
 source: sarrail-zada-wycofania-wojsk-greckich-z-salonik
-sourceHash: 744a5866cd812fe61c2c15c44eacd35f9ab9f2aa
+sourceHash: b24a7a99d8d59c2f2e0f868da60d6d74629c524a
 ---
 
-On 9 December 1915, or 26 November by the Julian calendar, the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), and the commander of the British troops, General Bryan Mahon, received a Greek staff officer, Lieutenant-Colonel Pallis, at [Salonika](https://pl.wikipedia.org/wiki/Saloniki). He had been sent from Athens to settle with the Allied military how the Entente's demands were to be met in practice. Sarrail set them out to him bluntly. The most important of them was that the Greek troops must leave Salonika.
+On 9 December 1915, or 26 November by the Julian calendar, the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), and the commander of the British troops, General Bryan Mahon, received a Greek staff officer, Lieutenant-Colonel Pallis, at [Salonika](/miejsca/saloniki). He had been sent from Athens to settle with the Allied military how the Entente's demands were to be met in practice. Sarrail set them out to him bluntly. The most important of them was that the Greek troops must leave Salonika.
 
 ## An army in someone else's city
 

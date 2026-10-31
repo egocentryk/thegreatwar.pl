@@ -40,7 +40,7 @@ Francja w zamian powiększała swoją część. Poza wybrzeżem Syrii i prowincj
 Rosyjska zgoda otwierała drogę do zatwierdzenia brytyjsko-francuskiego planu. Dzielił on ziemie osmańskie poza Półwyspem Arabskim na strefy oznaczone na mapie kolorami i literami:
 
 - **strefa niebieska**, pod bezpośrednią władzą Francji: wybrzeże Syrii i Libanu, Cylicja i część południowo-wschodniej Anatolii;
-- **strefa czerwona**, pod bezpośrednią władzą Wielkiej Brytanii: dolna [Mezopotamia](https://pl.wikipedia.org/wiki/Mezopotamia) z [Bagdadem](https://pl.wikipedia.org/wiki/Bagdad) i [Basrą](https://pl.wikipedia.org/wiki/Basra);
+- **strefa czerwona**, pod bezpośrednią władzą Wielkiej Brytanii: dolna [Mezopotamia](https://pl.wikipedia.org/wiki/Mezopotamia) z [Bagdadem](/miejsca/bagdad) i [Basrą](https://pl.wikipedia.org/wiki/Basra);
 - **strefy A i B**, gdzie miało powstać niepodległe państwo arabskie lub konfederacja państw pod zwierzchnictwem arabskiego władcy. W strefie A, obejmującej wnętrze Syrii z [Damaszkiem](https://pl.wikipedia.org/wiki/Damaszek), [Hims](https://pl.wikipedia.org/wiki/Hims), [Hamą](https://pl.wikipedia.org/wiki/Hama) i [Aleppo](https://pl.wikipedia.org/wiki/Aleppo) oraz [Mosul](https://pl.wikipedia.org/wiki/Mosul), pierwszeństwo w inwestycjach i jedyne prawo do dostarczania doradców miała Francja. W strefie B, od Negewu i Zajordanii po [Kirkuk](https://pl.wikipedia.org/wiki/Kirkuk), te same prawa miała Wielka Brytania. Granica między nimi przecinała wilajet Mosulu wzdłuż rzeki [Mały Zab](https://pl.wikipedia.org/wiki/Mały_Zab);
 - **strefa brązowa**, czyli [Palestyna](https://pl.wikipedia.org/wiki/Palestyna) z Jerozolimą, która miała dostać zarząd międzynarodowy, uzgodniony z Rosją, pozostałymi sojusznikami i przedstawicielami szarifa Mekki.
 

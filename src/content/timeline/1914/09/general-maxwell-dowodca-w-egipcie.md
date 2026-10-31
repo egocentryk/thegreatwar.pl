@@ -19,7 +19,7 @@ Wybór Maxwella nie był przypadkowy. Znał Egipt jak mało kto w armii brytyjsk
 
 ## Kanał i niepewny sąsiad
 
-Egipt formalnie wciąż należał do [Imperium Osmańskiego](/kraje/imperium-osmanskie), choć od 1882 roku faktycznie rządzili nim Brytyjczycy. Najważniejszym zadaniem Maxwella była obrona [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski), którym płynęły transporty wojsk z Indii i Australii. We wrześniu 1914 roku Turcja była jeszcze neutralna, ale coraz bardziej zbliżała się do Niemiec. Maxwell musiał się liczyć z tym, że wkrótce zagrozi Egiptowi od strony Synaju.
+Egipt formalnie wciąż należał do [Imperium Osmańskiego](/kraje/imperium-osmanskie), choć od 1882 roku faktycznie rządzili nim Brytyjczycy. Najważniejszym zadaniem Maxwella była obrona [Kanału Sueskiego](/miejsca/kanal-sueski), którym płynęły transporty wojsk z Indii i Australii. We wrześniu 1914 roku Turcja była jeszcze neutralna, ale coraz bardziej zbliżała się do Niemiec. Maxwell musiał się liczyć z tym, że wkrótce zagrozi Egiptowi od strony Synaju.
 
 Gdy na początku listopada Imperium Osmańskie przystąpiło do wojny, Maxwell wprowadził w Egipcie stan wojenny i cenzurę prasy. W grudniu Wielka Brytania ogłosiła nad Egiptem protektorat, a proosmańskiego chedywa [Abbasa II Hilmiego](https://pl.wikipedia.org/wiki/Abbas_II_Hilmi) zastąpił jako sułtan [Husajn Kamil](https://pl.wikipedia.org/wiki/Husajn_Kamil). W lutym 1915 roku wojska Maxwella odparły tureckie natarcie na Kanał Sueski.
 

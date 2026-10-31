@@ -50,7 +50,7 @@ Gdy wojsko zgromadziło się w Kosowie, a łączność z rządem i naczelnym dow
 
 ## 1916: Bitola
 
-Kilka miesięcy spędził we Włoszech i we Francji. W kwietniu był gościem [Joffre'a](/postacie/joseph-joffre) w kwaterze głównej w Chantilly, gdzie przyjmowano go jako zwycięzcę spod Kolubary, „serbskiej Marny”. Potem wrócił na [Korfu](https://pl.wikipedia.org/wiki/Korfu), gdzie przez kilka miesięcy czekał na przydział. Gdy armia serbska [wróciła na front](/odtworzona-armia-serbska-wraca-na-front) w Macedonii, a we wrześniu 1916 roku ruszyła ofensywa generała [Maurice'a Sarraila](/postacie/maurice-sarrail), wezwano go do Salonik i znów oddano mu 1 Armię, a Vasić objął 3 Armię.
+Kilka miesięcy spędził we Włoszech i we Francji. W kwietniu był gościem [Joffre'a](/postacie/joseph-joffre) w kwaterze głównej w Chantilly, gdzie przyjmowano go jako zwycięzcę spod Kolubary, „serbskiej Marny”. Potem wrócił na [Korfu](/miejsca/korfu), gdzie przez kilka miesięcy czekał na przydział. Gdy armia serbska [wróciła na front](/odtworzona-armia-serbska-wraca-na-front) w Macedonii, a we wrześniu 1916 roku ruszyła ofensywa generała [Maurice'a Sarraila](/postacie/maurice-sarrail), wezwano go do Salonik i znów oddano mu 1 Armię, a Vasić objął 3 Armię.
 
 Jesienią jego armia walczyła w górskim zakolu Czarnej Rzeki. W [bitwie nad Czarną Rzeką i o Bitolę](/bitwy/bitwa-nad-czarna-rzeka-i-o-bitole) Serbowie krok po kroku spychali Bułgarów i przysłane im z pomocą bataliony niemieckie, w śniegu, błocie i pod ciągłym ogniem. 18 listopada serbska Dywizja Dunajska zajęła wzgórze 1378, najwyższy punkt zakola, a następnego dnia sprzymierzeni weszli do [Bitoli](https://pl.wikipedia.org/wiki/Bitola). Był to pierwszy kawałek Serbii odzyskany po roku tułaczki.
 

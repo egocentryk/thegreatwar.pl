@@ -2,7 +2,7 @@
 title: Montenegro starts the First Balkan War
 summary: On 8 October 1912 Montenegro declared war on Turkey. Ten days later Serbia, Bulgaria and Greece, its allies in the Balkan League, joined in.
 source: czarnogora-rozpoczyna-pierwsza-wojne-balkanska
-sourceHash: bfe7ae2828de5159ffd794fd461af52da7175ef8
+sourceHash: eeeb292712a0f58caa1145375064ae5e54ef23e9
 ---
 
 On 8 October 1912 the Montenegrin chargé d'affaires in Constantinople handed the Turkish government a declaration of war. The American ambassador reported to Washington that day that the Turks had at once ordered offensive action. In the Julian calendar, then in use in the Balkans, it was 25 September. The 1914 report of the Carnegie Endowment's commission gives 9 October, probably the day of the first fighting. The smallest Balkan state, with some 250,000 inhabitants according to the American diplomat Jacob Schurman, thus began the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska). Within days it was to be joined by far stronger allies.
@@ -23,4 +23,4 @@ The other allies still held back. On 10 October the ambassadors of the powers de
 
 ## The collapse of European Turkey
 
-The powers' assurances soon lost all meaning. The Serbs routed the Turks at Kumanovo, the Bulgarians at Kırk Kilise and Lüleburgaz, and on 8 November the Greeks entered [Salonika](https://pl.wikipedia.org/wiki/Saloniki). According to Schurman, within a few weeks Turkey lost almost all its lands in Europe except Constantinople and the besieged fortresses of Adrianople, Janina and Scutari, before which the troops of Nicholas I had arrived at the end of October.
+The powers' assurances soon lost all meaning. The Serbs routed the Turks at Kumanovo, the Bulgarians at Kırk Kilise and Lüleburgaz, and on 8 November the Greeks entered [Salonika](/miejsca/saloniki). According to Schurman, within a few weeks Turkey lost almost all its lands in Europe except Constantinople and the besieged fortresses of Adrianople, Janina and Scutari, before which the troops of Nicholas I had arrived at the end of October.

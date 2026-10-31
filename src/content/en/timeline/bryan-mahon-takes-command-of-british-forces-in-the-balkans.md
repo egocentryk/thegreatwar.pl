@@ -2,10 +2,10 @@
 title: Bryan Mahon takes command of British forces in the Balkans
 summary: On 28 October 1915 Gen. Bryan Mahon became commander of the British forces in the Balkans. His Irishmen in Salonika were only preparing to move into Serbia.
 source: bryan-mahon-dowodca-wojsk-brytyjskich-na-balkanach
-sourceHash: de9462eeefb79d4ec9c7deeb71fa5b5e5972e035
+sourceHash: ee70d443588eff0096beea694492dfe3724780cc
 ---
 
-The British chronology of the war records that on 28 October 1915 Lieutenant-General Sir Bryan Mahon was appointed commander of the British forces in the Balkans. In practice he had already been commanding them for three weeks. On 8 October he had arrived at [Salonika](https://pl.wikipedia.org/wiki/Saloniki) after his 10th (Irish) Division, which had [landed there together with the French](/ladowanie-ententy-w-salonikach). The appointment coincided with a change of command at Gallipoli, where on the same day General Charles Monro, [named as Ian Hamilton's successor](/charles-monro-nastepca-hamiltona), was taking over command of the Mediterranean Expeditionary Force. The troops at Salonika now had a separate commander, independent of Gallipoli, although in administrative matters they remained subordinate to the headquarters at the Dardanelles until January 1916. The British official history of the Macedonian campaign does not mention the appointment itself, but describes in detail how difficult Mahon's position was at the time.
+The British chronology of the war records that on 28 October 1915 Lieutenant-General Sir Bryan Mahon was appointed commander of the British forces in the Balkans. In practice he had already been commanding them for three weeks. On 8 October he had arrived at [Salonika](/miejsca/saloniki) after his 10th (Irish) Division, which had [landed there together with the French](/ladowanie-ententy-w-salonikach). The appointment coincided with a change of command at Gallipoli, where on the same day General Charles Monro, [named as Ian Hamilton's successor](/charles-monro-nastepca-hamiltona), was taking over command of the Mediterranean Expeditionary Force. The troops at Salonika now had a separate commander, independent of Gallipoli, although in administrative matters they remained subordinate to the headquarters at the Dardanelles until January 1916. The British official history of the Macedonian campaign does not mention the appointment itself, but describes in detail how difficult Mahon's position was at the time.
 
 ## The cavalryman of Mafeking
 

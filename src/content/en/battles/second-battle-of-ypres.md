@@ -13,7 +13,7 @@ sides:
     commanders: [Erich von Falkenhayn, "Albrecht, Duke of Württemberg", Otto von Hügel, Hugo von Kathen]
 result: Inconclusive, with the advantage to the Germans. They took the northern and eastern part of the Ypres salient and came within a few kilometres of the town, but did not break the front or take Ypres.
 source: druga-bitwa-pod-ypres
-sourceHash: 0833da18ca728137de372ec19a7354f8b332b016
+sourceHash: d6da5ff755ba97362cb378bd79c097675d1afc7c
 brief:
   - "The Second Battle of Ypres, fought from 22 April to 25 May 1915, was the only major German offensive on the Western Front in 1915. In it the Germans first used poison gas on a large scale in the west."
   - "Falkenhayn wanted to tie down the Allies in the west and test a new weapon. On 22 April a chlorine cloud broke two French divisions, but the Germans had no reserves to exploit the gap."
@@ -22,7 +22,7 @@ brief:
   - "The front moved several kilometres closer to Ypres, but the ruined town remained in Allied hands. The battle opened chemical warfare on the Western Front."
 ---
 
-The Second Battle of Ypres, fought from 22 April to 25 May 1915, was the only major German offensive on the Western Front in 1915. It is remembered above all as the battle in which the Germans first used poison gas on a large scale in the west. A cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor), released on 22 April from thousands of cylinders, broke two French divisions and opened a gap north of [Ypres](https://pl.wikipedia.org/wiki/Ieper). The Germans, who treated the attack as a trial of the new weapon, had no reserves to exploit it. The gap was hastily closed by Canadians, British and French, at the cost of enormous losses. Over the following weeks the Germans, supported by superior heavy artillery and further gas clouds, pushed the Allies back step by step into the salient. When the battle died down, the front stood several kilometres closer to Ypres, but the town, although reduced to ruins, remained in Allied hands.
+The Second Battle of Ypres, fought from 22 April to 25 May 1915, was the only major German offensive on the Western Front in 1915. It is remembered above all as the battle in which the Germans first used poison gas on a large scale in the west. A cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor), released on 22 April from thousands of cylinders, broke two French divisions and opened a gap north of [Ypres](/miejsca/ypres). The Germans, who treated the attack as a trial of the new weapon, had no reserves to exploit it. The gap was hastily closed by Canadians, British and French, at the cost of enormous losses. Over the following weeks the Germans, supported by superior heavy artillery and further gas clouds, pushed the Allies back step by step into the salient. When the battle died down, the front stood several kilometres closer to Ypres, but the town, although reduced to ruins, remained in Allied hands.
 
 ## Name and dates
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 25 listopada 1915 roku generał Charles Townshend wycofał swoją dywizję z pola bitwy pod [Ktezyfonem](https://pl.wikipedia.org/wiki/Ktezyfon). Około 19.30, pod osłoną ciemności, wojsko odeszło spod ruin nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i o pierwszej w nocy, niepokojone tylko przez Arabów, dotarło do obozu i statków w Lajj, kilkanaście kilometrów w dół rzeki. Trzy dni wcześniej Townshend [zdobył pierwszą linię tureckich okopów](/poczatek-bitwy-pod-ktezyfonem), ale stracił przy tym blisko 4,5 tysiąca ludzi. Marsz na [Bagdad](https://pl.wikipedia.org/wiki/Bagdad) się skończył.
+Wieczorem 25 listopada 1915 roku generał Charles Townshend wycofał swoją dywizję z pola bitwy pod [Ktezyfonem](https://pl.wikipedia.org/wiki/Ktezyfon). Około 19.30, pod osłoną ciemności, wojsko odeszło spod ruin nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i o pierwszej w nocy, niepokojone tylko przez Arabów, dotarło do obozu i statków w Lajj, kilkanaście kilometrów w dół rzeki. Trzy dni wcześniej Townshend [zdobył pierwszą linię tureckich okopów](/poczatek-bitwy-pod-ktezyfonem), ale stracił przy tym blisko 4,5 tysiąca ludzi. Marsz na [Bagdad](/miejsca/bagdad) się skończył.
 
 ## Dwie armie w niepewności
 

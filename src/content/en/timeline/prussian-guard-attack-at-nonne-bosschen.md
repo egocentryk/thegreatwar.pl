@@ -2,7 +2,7 @@
 title: Prussian Guard attack at Nonne Bosschen
 summary: On 11 November 1914 the Prussian Guard broke into the British line at Ypres. Gunners and an Oxfordshire counter-attack stopped the last great German attack.
 source: atak-gwardii-pod-nonne-bosschen
-sourceHash: f32bf31d55b0615e28250a7c801cdf75e8da3494
+sourceHash: 63feb42797c1e77487676d6c30695da609fda1ba
 brief:
   - "On 11 November 1914 the Germans launched their last great attack of the First Battle of Ypres. They were repulsed almost everywhere, but by the Menin road the Prussian Guard broke the British line and pushed through Nonne Bosschen wood."
   - "After the heaviest bombardment yet, 25 battalions attacked a sector held by at most 7,850 men. The 1st Guard Infantry Brigade overwhelmed FitzClarence's three Scottish battalions, but their resistance broke up its formations."
@@ -11,7 +11,7 @@ brief:
   - "It was the last great German attack at Ypres in 1914. The Germans suffered heavy losses and gained only a stretch of the old British front line between the Menin road and Polygon Wood."
 ---
 
-On 11 November 1914 the Germans launched their last great attack in the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). After the heaviest bombardment since the fighting began, more than a dozen divisions advanced on a front from Messines to Polygon Wood. Almost everywhere they were repulsed. Only by the road from Menin to [Ypres](https://pl.wikipedia.org/wiki/Ieper) did the elite regiments of the Prussian Guard break through the British line and push through Nonne Bosschen wood almost to the positions of the British artillery. They were stopped by gunners, cooks and sappers with rifles in their hands, and in the afternoon the 2nd Battalion, Oxfordshire and Buckinghamshire Light Infantry drove them out of the wood. The British Battles Nomenclature Committee singled out this day as a separate battle, the Battle of Nonne Bosschen.
+On 11 November 1914 the Germans launched their last great attack in the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). After the heaviest bombardment since the fighting began, more than a dozen divisions advanced on a front from Messines to Polygon Wood. Almost everywhere they were repulsed. Only by the road from Menin to [Ypres](/miejsca/ypres) did the elite regiments of the Prussian Guard break through the British line and push through Nonne Bosschen wood almost to the positions of the British artillery. They were stopped by gunners, cooks and sappers with rifles in their hands, and in the afternoon the 2nd Battalion, Oxfordshire and Buckinghamshire Light Infantry drove them out of the wood. The British Battles Nomenclature Committee singled out this day as a separate battle, the Battle of Nonne Bosschen.
 
 ## The Guard arrives at Ypres
 

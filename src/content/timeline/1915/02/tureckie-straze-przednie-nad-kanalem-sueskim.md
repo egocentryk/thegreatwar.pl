@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 lutego 1915 roku straże przednie armii osmańskiej, która od połowy stycznia [szła przez pustynię Synaj](/turecki-marsz-na-kanal-sueski), dotarły w pobliże [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski) na wysokości [Ismailii](https://pl.wikipedia.org/wiki/Ismailia). Po kilku dniach drobnych potyczek na północy i południu kanału stało się jasne, że główne uderzenie spadnie na jego środkowy odcinek, między [Jeziorem Krokodyli](https://pl.wikipedia.org/wiki/Jezioro_Krokodyli) (Timsah) a [Wielkim Jeziorem Gorzkim](https://pl.wikipedia.org/wiki/Wielkie_Jezioro_Gorzkie).
+2 lutego 1915 roku straże przednie armii osmańskiej, która od połowy stycznia [szła przez pustynię Synaj](/turecki-marsz-na-kanal-sueski), dotarły w pobliże [Kanału Sueskiego](/miejsca/kanal-sueski) na wysokości [Ismailii](https://pl.wikipedia.org/wiki/Ismailia). Po kilku dniach drobnych potyczek na północy i południu kanału stało się jasne, że główne uderzenie spadnie na jego środkowy odcinek, między [Jeziorem Krokodyli](https://pl.wikipedia.org/wiki/Jezioro_Krokodyli) (Timsah) a [Wielkim Jeziorem Gorzkim](https://pl.wikipedia.org/wiki/Wielkie_Jezioro_Gorzkie).
 
 ## Burza piaskowa
 

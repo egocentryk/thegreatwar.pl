@@ -2,10 +2,10 @@
 title: Battle of Messines (1917) ends
 summary: On 14 June 1917 the British 2nd Army closed up to the German Warneton Line, ending the Battle of Messines. Gough took over the main offensive from Ypres.
 source: koniec-bitwy-pod-messines-1917
-sourceHash: 77b2dcc55dccf31073d050d5eea51ac3a19c8f8e
+sourceHash: 59ae9ee553b689abb89189a6d2f83d3845b8198e
 ---
 
-On the evening of 14 June 1917, at 7.30 p.m., the British artillery opened fire south and east of [Messines](https://pl.wikipedia.org/wiki/Mesen) and on both sides of the canal from [Ypres](https://pl.wikipedia.org/wiki/Ieper) to Comines. It was the last attack of General [Herbert Plumer](/postacie/herbert-plumer)'s 2nd Army in the Battle of Messines. The New Zealanders took the fortified Au Chasseur inn on the road to Warneton, the British 25th Division the village of Gapaard, and in the north the defences on the spoil heap by the canal, which the Germans had held for a week, at last fell into British hands. Along the whole front from the Warnave stream to Klein Zillebeke the British closed up to the German Warneton Line. Seven days after the [mines were blown](/poczatek-bitwy-pod-messines-1917), the battle for the Messines–Wytschaete ridge came to an end. That is also how it was dated after the war by the British Battles Nomenclature Committee.
+On the evening of 14 June 1917, at 7.30 p.m., the British artillery opened fire south and east of [Messines](https://pl.wikipedia.org/wiki/Mesen) and on both sides of the canal from [Ypres](/miejsca/ypres) to Comines. It was the last attack of General [Herbert Plumer](/postacie/herbert-plumer)'s 2nd Army in the Battle of Messines. The New Zealanders took the fortified Au Chasseur inn on the road to Warneton, the British 25th Division the village of Gapaard, and in the north the defences on the spoil heap by the canal, which the Germans had held for a week, at last fell into British hands. Along the whole front from the Warnave stream to Klein Zillebeke the British closed up to the German Warneton Line. Seven days after the [mines were blown](/poczatek-bitwy-pod-messines-1917), the battle for the Messines–Wytschaete ridge came to an end. That is also how it was dated after the war by the British Battles Nomenclature Committee.
 
 ## A week after the mines
 

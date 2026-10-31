@@ -2,10 +2,10 @@
 title: Start of the march on Baghdad
 summary: On 11 November 1915 Townshend's advanced guard moved up the Tigris from Aziziyah. The British marched on Baghdad not knowing how many Turks awaited them.
 source: poczatek-marszu-na-bagdad
-sourceHash: cff8428047d769def05b1d4cbc024e228903cfb5
+sourceHash: 662bf4671cbbdbbb3273039d281eae6696cdb32c
 ---
 
-On 11 November 1915 General Charles Townshend began the march on [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). From the camp at Aziziyah on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) his advanced guard set out under General Hamilton: a cavalry brigade, a field artillery battery and the 18th Infantry Brigade, supported from the river by the armed tug *Sumana*. It was to take the village of Kutuniyah and reconnoitre the Turkish positions at Zor. From Aziziyah to Baghdad was about 77 kilometres by land. On the way, at Ctesiphon, waited the Ottoman army of Colonel [Nureddin Bey](/postacie/nureddin-pasza), defeated in September [at Kut](/bitwy/pierwsza-bitwa-pod-al-kutem) but not destroyed.
+On 11 November 1915 General Charles Townshend began the march on [Baghdad](/miejsca/bagdad). From the camp at Aziziyah on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) his advanced guard set out under General Hamilton: a cavalry brigade, a field artillery battery and the 18th Infantry Brigade, supported from the river by the armed tug *Sumana*. It was to take the village of Kutuniyah and reconnoitre the Turkish positions at Zor. From Aziziyah to Baghdad was about 77 kilometres by land. On the way, at Ctesiphon, waited the Ottoman army of Colonel [Nureddin Bey](/postacie/nureddin-pasza), defeated in September [at Kut](/bitwy/pierwsza-bitwa-pod-al-kutem) but not destroyed.
 
 ## The decision
 

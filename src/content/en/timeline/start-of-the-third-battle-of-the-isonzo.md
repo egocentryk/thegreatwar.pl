@@ -2,10 +2,10 @@
 title: Start of the Third Battle of the Isonzo
 summary: At noon on 18 October 1915 more than a thousand Italian guns opened fire along the whole Isonzo front. The infantry was to go over to the assault on 21 October.
 source: poczatek-trzeciej-bitwy-nad-isonzo
-sourceHash: 96c77d2708f90990b3af1a27f50ac82bbba86ba8
+sourceHash: 19c1a368f5950bf1215c3853450d53bf832acc10
 ---
 
-On 18 October 1915, precisely at noon, the Italian artillery opened fire along the whole front on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), from the snow-covered peaks of the Krn massif to the Adriatic coast. Thus began the Third Battle of the Isonzo, the first autumn offensive of General [Luigi Cadorna](/postacie/luigi-cadorna). The Austrian official history writes that when this "hurricane" of fire from guns of every calibre rolled over the valley, the defenders no longer had any doubt that the third battle had begun. It was also something new on this front. The infantry did not go over to a great assault that day. The bombardment was to last three days and destroy the Austro-Hungarian positions before the divisions went in on 21 October.
+On 18 October 1915, precisely at noon, the Italian artillery opened fire along the whole front on the [Isonzo](/bitwy/bitwy-nad-isonzo), from the snow-covered peaks of the Krn massif to the Adriatic coast. Thus began the Third Battle of the Isonzo, the first autumn offensive of General [Luigi Cadorna](/postacie/luigi-cadorna). The Austrian official history writes that when this "hurricane" of fire from guns of every calibre rolled over the valley, the defenders no longer had any doubt that the third battle had begun. It was also something new on this front. The infantry did not go over to a great assault that day. The bombardment was to last three days and destroy the Austro-Hungarian positions before the divisions went in on 21 October.
 
 ## Eleven weeks of preparation
 

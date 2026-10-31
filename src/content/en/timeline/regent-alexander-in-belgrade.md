@@ -2,14 +2,14 @@
 title: Regent Alexander in Belgrade
 summary: In early November 1918 Regent Alexander came to liberated Belgrade with General Franchet d'Espèrey. The old King Peter I returned to the capital only in 1919.
 source: regent-aleksander-w-belgradzie
-sourceHash: b7b327772f3ef83d75f9cc7f7bb26ebc75eed6e1
+sourceHash: 79aae53d1c9b2ddf33bf4a17620a97f47112b88f
 ---
 
 A British chronology of the war states under 6 November 1918 that King [Peter I](/postacie/piotr-i-karadziordziewic) of Serbia returned to Belgrade, [recaptured](/serbowie-ponownie-odbijaja-belgrad) five days earlier by the Serbian First Army. This, however, did not happen. The king's biographers agree that the 74-year-old, ailing Peter I remained abroad until July 1919 and only then returned to Belgrade. What did happen in those days was that his son, the regent and commander-in-chief of the Serbian army, [Alexander](/postacie/aleksander-i-karadziordziewic), came to the capital. The chronology may have attributed the regent's arrival to the king by mistake.
 
 ## A king without power
 
-Peter I had not ruled since June 1914. Because of his poor health he had then handed over his royal powers to his son, who from that time governed as regent. The old king crossed the mountains of Albania with the army during the [retreat in the winter of 1915](/poczatek-odwrotu-serbow-przez-albanie), and afterwards lived in Greece, where the Serbian government in exile sat on [Corfu](https://pl.wikipedia.org/wiki/Korfu). He took no part in the great decisions at the end of the war. It was Regent Alexander who accompanied the army during the offensive on the Salonica front, and it was he who directed the country's policy together with Prime Minister [Nikola Pašić](/postacie/nikola-pasic). Peter I nevertheless remained a symbol of the national struggle, and the Serbs called him King Peter the Liberator.
+Peter I had not ruled since June 1914. Because of his poor health he had then handed over his royal powers to his son, who from that time governed as regent. The old king crossed the mountains of Albania with the army during the [retreat in the winter of 1915](/poczatek-odwrotu-serbow-przez-albanie), and afterwards lived in Greece, where the Serbian government in exile sat on [Corfu](/miejsca/korfu). He took no part in the great decisions at the end of the war. It was Regent Alexander who accompanied the army during the offensive on the Salonica front, and it was he who directed the country's policy together with Prime Minister [Nikola Pašić](/postacie/nikola-pasic). Peter I nevertheless remained a symbol of the national struggle, and the Serbs called him King Peter the Liberator.
 
 ## The regent and the general
 

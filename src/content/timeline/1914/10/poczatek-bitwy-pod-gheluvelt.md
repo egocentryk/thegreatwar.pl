@@ -18,7 +18,7 @@ brief:
   - "30 października grupa Fabecka zdobyła Zandvoorde, wybijając dwa szwadrony Life Guards, i zepchnęła kawalerię spod Hollebeke. Niemcy stanęli około pięciu kilometrów od Ypres, a natarcie na samo Gheluvelt się nie powiodło."
 ---
 
-29 października 1914 roku o świcie, w gęstej mgle, niemiecka piechota uderzyła na brytyjskie pozycje przy skrzyżowaniu dróg pod wsią [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld), na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Gheluvelt, drugi i najbardziej krytyczny etap [pierwszej bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Niemcy zdobyli skrzyżowanie i zadali ciężkie straty najlepszym batalionom brytyjskiej gwardii. Była to jednak tylko przygrywka. Za ich linią kończyło właśnie koncentrację nowe zgrupowanie uderzeniowe generała Maxa von Fabecka, które 30 października ruszyło do natarcia na południowy wschód od Ypres.
+29 października 1914 roku o świcie, w gęstej mgle, niemiecka piechota uderzyła na brytyjskie pozycje przy skrzyżowaniu dróg pod wsią [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld), na wschód od [Ypres](/miejsca/ypres). Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Gheluvelt, drugi i najbardziej krytyczny etap [pierwszej bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Niemcy zdobyli skrzyżowanie i zadali ciężkie straty najlepszym batalionom brytyjskiej gwardii. Była to jednak tylko przygrywka. Za ich linią kończyło właśnie koncentrację nowe zgrupowanie uderzeniowe generała Maxa von Fabecka, które 30 października ruszyło do natarcia na południowy wschód od Ypres.
 
 ## Grupa Fabecka
 

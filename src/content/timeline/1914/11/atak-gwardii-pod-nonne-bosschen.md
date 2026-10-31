@@ -18,7 +18,7 @@ brief:
   - "Był to ostatni wielki atak niemiecki pod Ypres w 1914 roku. Niemcy ponieśli ciężkie straty, a zdobyli tylko odcinek dawnej pierwszej linii brytyjskiej między drogą z Menin a lasem Polygon."
 ---
 
-11 listopada 1914 roku Niemcy przypuścili ostatnie wielkie natarcie w [pierwszej bitwie pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Po najcięższym od początku walk ostrzale ruszyło kilkanaście dywizji na froncie od Messines po las Polygon. Prawie wszędzie zostały odparte. Tylko przy drodze z Menin do [Ypres](https://pl.wikipedia.org/wiki/Ieper) doborowe pułki gwardii pruskiej przerwały linię brytyjską i przez lasek Nonne Bosschen dotarły niemal pod stanowiska brytyjskiej artylerii. Zatrzymali je kanonierzy, kucharze i saperzy z karabinami w rękach, a po południu 2 Batalion Oxfordshire and Buckinghamshire Light Infantry wyparł je z lasu. Brytyjska komisja nazewnictwa bitew wyróżniła ten dzień jako osobną bitwę pod Nonne Bosschen.
+11 listopada 1914 roku Niemcy przypuścili ostatnie wielkie natarcie w [pierwszej bitwie pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Po najcięższym od początku walk ostrzale ruszyło kilkanaście dywizji na froncie od Messines po las Polygon. Prawie wszędzie zostały odparte. Tylko przy drodze z Menin do [Ypres](/miejsca/ypres) doborowe pułki gwardii pruskiej przerwały linię brytyjską i przez lasek Nonne Bosschen dotarły niemal pod stanowiska brytyjskiej artylerii. Zatrzymali je kanonierzy, kucharze i saperzy z karabinami w rękach, a po południu 2 Batalion Oxfordshire and Buckinghamshire Light Infantry wyparł je z lasu. Brytyjska komisja nazewnictwa bitew wyróżniła ten dzień jako osobną bitwę pod Nonne Bosschen.
 
 ## Gwardia przybywa pod Ypres
 

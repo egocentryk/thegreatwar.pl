@@ -2,10 +2,10 @@
 title: German cavalry in Ypres
 summary: The British chronology records the capture of Ypres by German cavalry on 3 October 1914. Its main body entered the town several days later.
 source: niemiecka-kawaleria-w-ypres
-sourceHash: f3bf8f346599e3e074b541cf656c90a2617a7a4b
+sourceHash: 30436b2254469d0bffeccf545ebec3e0a1c0d8c7
 ---
 
-The British chronology of the war records under the date of 3 October 1914 the capture of [Ypres](https://pl.wikipedia.org/wiki/Ieper) (in Flemish, Ieper) by German cavalry. The old Flemish cloth town, lying in western Belgium near the French border, then found itself in the path of the German cavalry corps that were trying to turn the Allies from the north and reach the coast.
+The British chronology of the war records under the date of 3 October 1914 the capture of [Ypres](/miejsca/ypres) (in Flemish, Ieper) by German cavalry. The old Flemish cloth town, lying in western Belgium near the French border, then found itself in the path of the German cavalry corps that were trying to turn the Allies from the north and reach the coast.
 
 ## Patrols and the main body
 

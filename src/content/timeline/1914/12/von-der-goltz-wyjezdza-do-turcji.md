@@ -27,4 +27,4 @@ Formalnie armią osmańską dowodził sułtan, który nie miał jednak realnej w
 
 ## Dalsze losy
 
-Wiosną 1915 roku Goltz objął dowództwo osmańskiej 1 Armii w rejonie Konstantynopola, a jesienią tego roku 6 Armii w Mezopotamii. Walczył w niej z tym samym Indyjskim Korpusem Ekspedycyjnym „D”, który w listopadzie i grudniu 1914 roku zajął Basrę i Al-Kurnę. Zmarł w [Bagdadzie](https://pl.wikipedia.org/wiki/Bagdad) 19 kwietnia 1916 roku, oficjalnie na tyfus, dziesięć dni przed kapitulacją oblężonej przez Turków brytyjskiej dywizji w [Al-Kucie](https://pl.wikipedia.org/wiki/Al-Kut).
+Wiosną 1915 roku Goltz objął dowództwo osmańskiej 1 Armii w rejonie Konstantynopola, a jesienią tego roku 6 Armii w Mezopotamii. Walczył w niej z tym samym Indyjskim Korpusem Ekspedycyjnym „D”, który w listopadzie i grudniu 1914 roku zajął Basrę i Al-Kurnę. Zmarł w [Bagdadzie](/miejsca/bagdad) 19 kwietnia 1916 roku, oficjalnie na tyfus, dziesięć dni przed kapitulacją oblężonej przez Turków brytyjskiej dywizji w [Al-Kucie](https://pl.wikipedia.org/wiki/Al-Kut).

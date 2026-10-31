@@ -2,7 +2,7 @@
 title: Reports of Essad Pasha's government in Naples
 summary: A British chronology records the move of Essad Pasha's government to Naples on 28 February 1916. Sources show that Rome was only proposing the city to him.
 source: doniesienia-o-rzadzie-esada-paszy-w-neapolu
-sourceHash: a2a61754a7fc553e944fba64227249103f256c80
+sourceHash: 9423a1ea66651aaacf8a7d319835b5bb9aa27aa9
 ---
 
 A British chronology of the war records under 28 February 1916 that the Albanian provisional government of [Essad Pasha Toptani](/postacie/esad-pasza-toptani) had established its seat in [Naples](https://pl.wikipedia.org/wiki/Neapol). Four days earlier Essad had [left Durrës](/rzad-esada-paszy-opuszcza-durres) aboard an Italian destroyer, and on 27 February the town was [taken by the Austrians](/austriacy-zajmuja-durres). The available sources, however, describe no formal act of 28 February. They rather show a government without a country, whose head travelled between Italy and France over the following weeks.
@@ -13,4 +13,4 @@ The pasha did not stay long in Rome. According to Reuters, as early as Tuesday 2
 
 Documents of the Italian Ministry of Foreign Affairs show that the question of Essad's seat was still unsettled at the end of April. On 26 April the Foreign Minister, [Sidney Sonnino](/postacie/sidney-sonnino), set out the conditions on which Italy would receive the pasha if he stayed in the country until the end of the war. The Italian government was to communicate with him through a special representative, Baron Aliotti, and other states could not have official representatives accredited to him. Essad could live wherever he wished, but Rome advised him to choose Naples. He was to receive 50,000 lire a month for himself and as much again for the upkeep of his officials, officers and soldiers. The soldiers were to remain for the time being on the island of [Ponza](https://pl.wikipedia.org/wiki/Ponza).
 
-In the end Essad relied on France and Serbia. According to the British chronology, in September 1916 his government was set up again, this time in [Salonika](https://pl.wikipedia.org/wiki/Saloniki), where the Entente troops were stationed.
+In the end Essad relied on France and Serbia. According to the British chronology, in September 1916 his government was set up again, this time in [Salonika](/miejsca/saloniki), where the Entente troops were stationed.

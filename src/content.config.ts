@@ -261,9 +261,47 @@ const topicsEn = defineCollection({
   schema: z.object({ ...enBase, question: z.string(), source: reference("topics") }),
 })
 
+// "places" live in src/content/places/*.md and are served at /miejsca/<id>:
+// a city, river, strait or region told from the war's point of view
+// (expansion-plan.md C). Reference pages, like the guides: they may link any
+// article. The page lists by itself the articles and battle pages that link
+// it, and the battles within `radiusKm` of its point.
+const places = defineCollection({
+  loader: glob({ base: "./src/content/places", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({
+    // The place as articles name it: "Saloniki", "Isonzo".
+    name: z.string(),
+    title: z.string(),
+    summary: z.string().max(160),
+    brief: z.array(z.string()).max(5).default([]),
+    kind: z.enum(["miasto", "rzeka", "region", "wyspa", "akwen", "kanał"]),
+    // The state it belonged to in 1914, and today.
+    in1914: z.string(),
+    today: z.string(),
+    // The front its war belongs to (FRONT_STYLE in utils/battleMap.ts).
+    front: z.string(),
+    // A point for the locator map and the nearby battles.
+    lat: z.number(),
+    lon: z.number(),
+    radiusKm: z.number().default(40),
+    // pl.wikipedia titles (with underscores) whose links this page replaces
+    // (scripts/wiki-to-internal.py).
+    wikiTitles: z.array(z.string()).default([]),
+    updated: z.coerce.date(),
+    authors: z.array(z.string()).min(1),
+    sources: z.array(z.url()).default([]),
+    draft: z.boolean().default(false),
+  }),
+})
+
 const countriesEn = defineCollection({
   loader: glob({ base: "./src/content/en/countries", pattern: "**/*.md", generateId: idFromFilename }),
   schema: z.object({ ...enBase, name: z.string(), source: reference("countries") }),
+})
+
+const placesEn = defineCollection({
+  loader: glob({ base: "./src/content/en/places", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({ ...enBase, name: z.string(), source: reference("places") }),
 })
 
 export const collections = {
@@ -272,9 +310,11 @@ export const collections = {
   people,
   topics,
   countries,
+  places,
   timelineEn,
   battlesEn,
   peopleEn,
   topicsEn,
   countriesEn,
+  placesEn,
 }

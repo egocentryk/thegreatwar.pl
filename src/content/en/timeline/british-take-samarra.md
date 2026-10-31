@@ -2,10 +2,10 @@
 title: British take Samarra
 summary: On 23–24 April 1917 the British took the station and town of Samarra, railhead of the line from Baghdad. Heat ended Maude's spring campaign in Mesopotamia.
 source: brytyjczycy-zajmuja-samarre
-sourceHash: 9036db713c5c3333877fa6f8d26f5ddee769fe51
+sourceHash: 3e938d5e07aeeade76f7e627a9766089eefc97c0
 ---
 
-On 24 April 1917 General Alexander Cobbe's troops occupied [Samarra](https://pl.wikipedia.org/wiki/Samarra), a town on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) about 125 kilometres north of [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). The Turkish XVIII Corps, defeated two days earlier [at Istabulat](/bitwa-pod-istabulat), no longer tried to defend it. The British chronology of the war records the capture of Samarra under 24 April, with a note that it took two days, 23 and 24 April. F. J. Moberly's British official history of the Mesopotamian campaign explains the entry: on 23 April the British reached the railway station, and the town itself, which lies opposite the station on the left, eastern bank of the river, a day later. Arnold Wilson, a British official and historian of the campaign, says briefly that Samarra was occupied without a fight on the morning of 23 April.
+On 24 April 1917 General Alexander Cobbe's troops occupied [Samarra](https://pl.wikipedia.org/wiki/Samarra), a town on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) about 125 kilometres north of [Baghdad](/miejsca/bagdad). The Turkish XVIII Corps, defeated two days earlier [at Istabulat](/bitwa-pod-istabulat), no longer tried to defend it. The British chronology of the war records the capture of Samarra under 24 April, with a note that it took two days, 23 and 24 April. F. J. Moberly's British official history of the Mesopotamian campaign explains the entry: on 23 April the British reached the railway station, and the town itself, which lies opposite the station on the left, eastern bank of the river, a day later. Arnold Wilson, a British official and historian of the campaign, says briefly that Samarra was occupied without a fight on the morning of 23 April.
 
 ## The station and the locomotives
 

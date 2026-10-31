@@ -2,10 +2,10 @@
 title: French occupy Corfu
 summary: On 11 January 1916 a French detachment landed on the Greek island of Corfu to prepare a refuge for the remnants of the Serbian army evacuated from Albania.
 source: francuzi-zajmuja-korfu
-sourceHash: 73723a64f264408e7df63f0222fcbe7ef09a872d
+sourceHash: 5e1e139edc151aafbd9955b6afbbe85c55eb3516
 ---
 
-On the evening of 11 January 1916 a French warship landed a detachment of soldiers on [Corfu](https://pl.wikipedia.org/wiki/Korfu). That is how the Italian Stefani agency reported it, and the date of 11 January is also given by the British chronology of the war, *The Times History of the War* and American yearbooks of the period. Some later studies give 12 January, which may be because the press reported the landing a day later. The day before, the Entente ministers in Athens had [notified the Greek government](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu) that the island would receive the remnants of the Serbian army from Albania. The French were to prepare it for the arrival of tens of thousands of starving and sick men.
+On the evening of 11 January 1916 a French warship landed a detachment of soldiers on [Corfu](/miejsca/korfu). That is how the Italian Stefani agency reported it, and the date of 11 January is also given by the British chronology of the war, *The Times History of the War* and American yearbooks of the period. Some later studies give 12 January, which may be because the press reported the landing a day later. The day before, the Entente ministers in Athens had [notified the Greek government](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu) that the island would receive the remnants of the Serbian army from Albania. The French were to prepare it for the arrival of tens of thousands of starving and sick men.
 
 ## A flag over the Achilleion
 

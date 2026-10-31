@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 3 kwietnia 1916 roku, że rząd grecki odmówił zgody na przewiezienie armii serbskiej z [Korfu](https://pl.wikipedia.org/wiki/Korfu) do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) drogą lądową. Tę samą datę podaje brytyjska historia oficjalna działań w Macedonii: 3 kwietnia Francja i Wielka Brytania spotkały się z „oburzoną odmową” Aten. W Grecji, która posługiwała się kalendarzem juliańskim, był to 21 marca. Przychylny królowi Konstantynowi brytyjski publicysta George F. Abbott opisuje rozmowę, w której padła odmowa, pod 5 kwietnia. Wszystkie źródła zgadzają się, że do pierwszych dni kwietnia sprawa była już przesądzona.
+Brytyjska chronologia wojny notuje pod 3 kwietnia 1916 roku, że rząd grecki odmówił zgody na przewiezienie armii serbskiej z [Korfu](/miejsca/korfu) do [Salonik](/miejsca/saloniki) drogą lądową. Tę samą datę podaje brytyjska historia oficjalna działań w Macedonii: 3 kwietnia Francja i Wielka Brytania spotkały się z „oburzoną odmową” Aten. W Grecji, która posługiwała się kalendarzem juliańskim, był to 21 marca. Przychylny królowi Konstantynowi brytyjski publicysta George F. Abbott opisuje rozmowę, w której padła odmowa, pod 5 kwietnia. Wszystkie źródła zgadzają się, że do pierwszych dni kwietnia sprawa była już przesądzona.
 
 ## Kolej zamiast morza
 

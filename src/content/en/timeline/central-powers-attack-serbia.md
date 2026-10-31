@@ -2,7 +2,7 @@
 title: Central Powers attack Serbia
 summary: On 6 October 1915 Mackensen's guns opened fire along the Sava, Danube and Drina, and the first Austro-Hungarian units crossed. The conquest of Serbia began.
 source: panstwa-centralne-atakuja-serbie
-sourceHash: 64c21133f276da67adb06eeaf8890ebdd0c4e5bb
+sourceHash: dab671cf879ef05d990e28a849fb3be8545188e8
 brief:
   - "On 6 October 1915 hundreds of German and Austro-Hungarian guns opened fire along the whole northern border of Serbia. Field Marshal August von Mackensen's army group began the fourth invasion of Serbia in the war."
   - "Erich von Falkenhayn wanted to open an overland route from Germany to Turkey along the railway through Belgrade and Niš. At the beginning of September Bulgaria undertook to attack Serbia together with Germany."
@@ -19,7 +19,7 @@ After three failed expeditions in 1914, which ended in [defeat on the Kolubara](
 
 Command of the whole expedition was taken by Mackensen, the victor of Gorlice. On 20 September he arrived in [Temesvár](https://pl.wikipedia.org/wiki/Timișoara) in southern Hungary. The plan envisaged an advance from two directions. From the north, across the Sava and the Danube, the German Eleventh Army of General [Max von Gallwitz](/postacie/max-von-gallwitz) was to strike opposite Smederevo and Ram, together with the Austro-Hungarian Third Army of General [Hermann Kövess](/postacie/hermann-kovess), with its main forces at Belgrade. A few days later the Bulgarian First Army was to advance from the east, and the Bulgarian Second Army was to enter Macedonia and cut the Serbs' railway to Salonika. According to the Austrian official history, Mackensen's group and the Bulgarian Second Army together numbered 350 battalions and 1,400 guns against 275 Serbian battalions and 654 guns.
 
-Mackensen did not want to wait. The Bulgarian mobilisation was dragging on, some Austro-Hungarian units were still on their way, and the Eleventh Army was asking for more bridging equipment. But autumn was approaching, and with it the košava, a violent east wind that could tear away the pontoon bridges on the Danube. Entente troops [were beginning to arrive](/ladowanie-ententy-w-salonikach) at [Salonika](https://pl.wikipedia.org/wiki/Saloniki), and Greece could still side with Serbia until the king [dismissed Venizelos](/wenizelos-ponownie-podaje-sie-do-dymisji). On 4 October Mackensen set the start of the offensive for 6 October, and the crossing of the main forces for the night of 6–7 October.
+Mackensen did not want to wait. The Bulgarian mobilisation was dragging on, some Austro-Hungarian units were still on their way, and the Eleventh Army was asking for more bridging equipment. But autumn was approaching, and with it the košava, a violent east wind that could tear away the pontoon bridges on the Danube. Entente troops [were beginning to arrive](/ladowanie-ententy-w-salonikach) at [Salonika](/miejsca/saloniki), and Greece could still side with Serbia until the king [dismissed Venizelos](/wenizelos-ponownie-podaje-sie-do-dymisji). On 4 October Mackensen set the start of the offensive for 6 October, and the crossing of the main forces for the night of 6–7 October.
 
 ## Serbia in a vice
 

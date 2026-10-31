@@ -2,14 +2,14 @@
 title: Turkish attack on Perim
 summary: On the night of 14–15 June 1915 Turks from Sheikh Said tried to land on the British island of Perim in the Bab-el-Mandeb strait. The garrison drove them off.
 source: turecki-atak-na-perim
-sourceHash: 9c02f745b6b127a0db28de61ef626ff14c5f7858
+sourceHash: acb940abfdeff15326a6d2fff7e048097d9efd87
 ---
 
 On the night of 14–15 June 1915, according to the British chronology of the war, Ottoman troops tried to land on the British island of [Perim](https://pl.wikipedia.org/wiki/Perim) in the [Bab-el-Mandeb](https://pl.wikipedia.org/wiki/Bab_al-Mandab) strait, at the entrance to the [Red Sea](https://pl.wikipedia.org/wiki/Morze_Czerwone). They came in Arab [dhows](https://pl.wikipedia.org/wiki/Dau) from the Sheikh Said peninsula on the coast of [Yemen](https://pl.wikipedia.org/wiki/Jemen), separated from the island by a narrow strait a few kilometres wide. Some of the attackers got ashore, but the defenders drove them off. The log of the British armed merchant cruiser *Empress of Japan*, which was guarding the island, recorded shelling and a landing at 2.40 a.m. on 15 June. Some accounts based on the documents of the island's garrison, however, place the landing attempt on the night immediately after the first bombardment, that is 13–14 June.
 
 ## An island on the route to India
 
-Perim is a small, rocky island which from the mid-19th century belonged to the British and came under their base at [Aden](https://pl.wikipedia.org/wiki/Aden). It had a coaling station, where ships sailing from the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) to India took on fuel, and a lighthouse lighting the strait. In 1915 a detachment of the 23rd Sikh Pioneers of the Indian Army was stationed there under Captain A.G.C. Hutchinson, supported by a field gun placed on a hill known as Gun Hill. [In November 1914](/brytyjczycy-zdobywaja-szejk-said) a British landing party had destroyed the Turkish fort at Sheikh Said, but had left no garrison there. By June 1915 the Turks had returned to the peninsula and set up guns there whose range covered the island. Since February they had also been [violating the borders](/turcy-wkraczaja-do-protektoratu-adenu) of the British sphere of influence in the hinterland of Aden.
+Perim is a small, rocky island which from the mid-19th century belonged to the British and came under their base at [Aden](https://pl.wikipedia.org/wiki/Aden). It had a coaling station, where ships sailing from the [Suez Canal](/miejsca/kanal-sueski) to India took on fuel, and a lighthouse lighting the strait. In 1915 a detachment of the 23rd Sikh Pioneers of the Indian Army was stationed there under Captain A.G.C. Hutchinson, supported by a field gun placed on a hill known as Gun Hill. [In November 1914](/brytyjczycy-zdobywaja-szejk-said) a British landing party had destroyed the Turkish fort at Sheikh Said, but had left no garrison there. By June 1915 the Turks had returned to the peninsula and set up guns there whose range covered the island. Since February they had also been [violating the borders](/turcy-wkraczaja-do-protektoratu-adenu) of the British sphere of influence in the hinterland of Aden.
 
 ## Bombardment and landing attempt
 

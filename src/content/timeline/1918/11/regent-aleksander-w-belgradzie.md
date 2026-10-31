@@ -15,7 +15,7 @@ Brytyjska chronologia wojny podaje pod 6 listopada 1918 roku, że król Serbii [
 
 ## Król bez władzy
 
-Piotr I od czerwca 1914 roku nie sprawował już rządów. Ze względu na zły stan zdrowia przekazał wtedy uprawnienia królewskie synowi, który odtąd rządził jako regent. Stary król przeszedł z armią przez góry Albanii w czasie [odwrotu zimą 1915 roku](/poczatek-odwrotu-serbow-przez-albanie), a potem przebywał w Grecji, gdzie na [Korfu](https://pl.wikipedia.org/wiki/Korfu) urzędował rząd serbski na wygnaniu. W wielkich decyzjach końca wojny nie uczestniczył. To regent Aleksander towarzyszył wojsku podczas ofensywy na froncie salonickim i to on kierował polityką kraju razem z premierem [Nikolą Pašiciem](/postacie/nikola-pasic). Piotr I pozostał jednak symbolem narodowej walki, a Serbowie nazywali go królem Oswobodzicielem.
+Piotr I od czerwca 1914 roku nie sprawował już rządów. Ze względu na zły stan zdrowia przekazał wtedy uprawnienia królewskie synowi, który odtąd rządził jako regent. Stary król przeszedł z armią przez góry Albanii w czasie [odwrotu zimą 1915 roku](/poczatek-odwrotu-serbow-przez-albanie), a potem przebywał w Grecji, gdzie na [Korfu](/miejsca/korfu) urzędował rząd serbski na wygnaniu. W wielkich decyzjach końca wojny nie uczestniczył. To regent Aleksander towarzyszył wojsku podczas ofensywy na froncie salonickim i to on kierował polityką kraju razem z premierem [Nikolą Pašiciem](/postacie/nikola-pasic). Piotr I pozostał jednak symbolem narodowej walki, a Serbowie nazywali go królem Oswobodzicielem.
 
 ## Regent i generał
 

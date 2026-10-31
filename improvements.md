@@ -2598,6 +2598,48 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 49. "Miejsca": the place pages, pilot of 5 (2026-10-31)
+
+- Owner approved the section (expansion-plan.md C). New collection
+  `places` / `placesEn` (`content.config.ts`): `name`, `kind` (miasto,
+  rzeka, region, wyspa, akwen, kanał), `in1914`, `today`, `front`,
+  `lat`/`lon`, `radiusKm`, `wikiTitles`. Pages `/miejsca`,
+  `/miejsca/<id>`, `/en/places`, `/en/places/<slug>` (`PlacePage.astro`,
+  `PlaceList.astro`, `utils/places.ts`); not in the menu during the pilot.
+- A place page: title, lead, kind / in 1914 / today, "W skrócie", the text
+  (400–900 words, the place's war, not geography), a locator map
+  (`BattleLocator.astro` now takes a point and renders without a link), then
+  generated lists: battle pages that link it or were fought within
+  `radiusKm` (`battle-coords.json`), and "Wspomniane w kronice", every
+  article that links it, by year (with reading-progress marks).
+- Paths, English link mapping (`/miejsca/` → `/en/places/`), `i18n-status`,
+  `wiki-to-internal.py` and `wiki-links-report.py` know places.
+- Checker: `topics.py --places` (evidence as for guides; 2+ sources outside
+  Wikipedia, 400–900 words, 5+ internal links) with a **copy check**: the
+  pl.wikipedia text of every `wikiTitles` entry (cached in
+  `$TMPDIR/tgw-wiki`) is compared with the page, and any shared run of 8+
+  words is a problem (tested: a lifted sentence is caught, our own text
+  passes). Brief `scripts/briefs/places.md`.
+- The pilot, PL/EN, 0 problems: Saloniki (730 words, 25 internal links),
+  Korfu (636, 18), Ypres (806, 19), Kanał Sueski (849, 16), Bagdad (825,
+  23). Isonzo was swapped for Korfu: the river's war is the campaign page
+  `bitwy-nad-isonzo`, so "Socza" maps there (ALIASES) instead of a place page.
+- Links: 316 now ours (Saloniki 94, Ypres 78, Kanał Sueski 39, Bagdad 37,
+  Korfu 34, Isonzo campaign 34); 307 files, English restamped. Report:
+  25,538 → 25,227 pl.wikipedia links.
+- Writers' notes: Ypres follows our articles where sources differ (German
+  cavalry left 8 X, Second Ypres ended 25 V, Cloth Hall fire 22 XI); Menin
+  Gate (1927) left out. Saloniki: homeless after the 1917 fire 60,000–80,000
+  by source (Falls's figure, attributed). Korfu: the Serbian army's move to
+  Salonika 8 IV–5 VI (Gordon-Smith) vs 11 IV–end of May (our articles), the
+  page says "spring 1916". Suez and Baghdad: some figures written in words
+  ("około trzynastu tysięcy", "od dwóch do dziesięciu dni") are quoted in
+  the evidence (checked).
+- Follow-ups: search index has no places (nor countries or guides); the
+  menu once there are 20+ places.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2701,7 +2743,8 @@ finished, tick it here and add its section above.
 - [x] Reading progress, stage 1: opt-in, in the browser only; ✓ in timeline lists, year counters, article status line, settings page (§45)
 - [x] "Polskie formacje wojskowe": 6 gap articles and a topic guide, PL/EN (§47)
 - [x] Wikipedia links, step 1: country pages, guides and 7 events take 660 links (§48)
-- [ ] Wikipedia links: pilots "Miejsca" (5) and "Siły zbrojne" (3), deeper glossary terms (expansion-plan.md C)
+- [x] Wikipedia links: "Miejsca" section and pilot of 5 places, 316 links (§49)
+- [ ] Wikipedia links: owner's verdict on the places pilot, then batches; "Siły zbrojne" pilot (3); deeper glossary terms (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

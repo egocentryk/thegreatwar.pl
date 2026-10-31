@@ -18,7 +18,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/In_Flanders_Fields"
 ---
 
-3 maja 1915 roku, w drugim tygodniu walk o łuk [Ypres](https://pl.wikipedia.org/wiki/Ieper), major [John McCrae](https://pl.wikipedia.org/wiki/John_McCrae), lekarz 1 Brygady Kanadyjskiej Artylerii Polowej, napisał krótki wiersz [In Flanders Fields](https://pl.wikipedia.org/wiki/In_Flanders_Fields) („Na polach Flandrii”). Miał wtedy 42 lata i za sobą prawie dwa tygodnie opatrywania rannych w ziemiance wykopanej w wale nad kanałem na północ od Ypres, w miejscu nazywanym później Essex Farm. Kanadyjczycy, których od [24 kwietnia](/poczatek-bitwy-pod-st-julien) ostrzeliwano gazem i ciężką artylerią, ponosili tu ogromne straty.
+3 maja 1915 roku, w drugim tygodniu walk o łuk [Ypres](/miejsca/ypres), major [John McCrae](https://pl.wikipedia.org/wiki/John_McCrae), lekarz 1 Brygady Kanadyjskiej Artylerii Polowej, napisał krótki wiersz [In Flanders Fields](https://pl.wikipedia.org/wiki/In_Flanders_Fields) („Na polach Flandrii”). Miał wtedy 42 lata i za sobą prawie dwa tygodnie opatrywania rannych w ziemiance wykopanej w wale nad kanałem na północ od Ypres, w miejscu nazywanym później Essex Farm. Kanadyjczycy, których od [24 kwietnia](/poczatek-bitwy-pod-st-julien) ostrzeliwano gazem i ciężką artylerią, ponosili tu ogromne straty.
 
 McCrae urodził się w 1872 roku w [Guelph](https://pl.wikipedia.org/wiki/Guelph) w Ontario. Był lekarzem, weteranem wojny burskiej, w której służył jako oficer artylerii, i autorem wierszy drukowanych w kanadyjskich pismach. W 1914 roku, mając 41 lat, zgłosił się na ochotnika i jako lekarz z rangą majora popłynął z 1 Dywizją Kanadyjską do Europy.
 

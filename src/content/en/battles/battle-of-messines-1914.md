@@ -11,7 +11,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Max von Fabeck, Erich von Falkenhayn]
 result: German success without a breakthrough. The Germans took Messines, Wytschaete and the whole ridge, but the Allies held the front before Mount Kemmel.
 source: bitwa-pod-messines
-sourceHash: 050d3bd395922b524f8c2bed6afd79b631f423c1
+sourceHash: e4292eceb999b87d195b6e8fa0d91eadb42dd500
 brief:
   - "The Battle of Messines, fought from 12 October to 2 November 1914 in Flanders, was one of the last stages of the Race to the Sea. It was fought mainly by the cavalry corps of General Edmund Allenby."
   - "In mid-October the British cavalrymen pushed the German cavalry off the hills of French Flanders and occupied a low ridge between Messines and Wytschaete, south of Ypres."
@@ -20,7 +20,7 @@ brief:
   - "The cavalry gained time for the French to arrive, and the Germans did not break through to Mount Kemmel. From the lost ridge, however, they watched the British positions for two and a half years."
 ---
 
-The Battle of Messines, fought from 12 October to 2 November 1914, was one of the last stages of the [Race to the Sea](/bitwy/wyscig-do-morza) and part of the great fighting in Flanders that brought it to an end on the North Sea coast. Its main participant on the British side was the cavalry corps of General [Edmund Allenby](/postacie/edmund-allenby). In mid-October the cavalrymen pushed the German cavalry off the hills of French Flanders and occupied a low ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](https://pl.wikipedia.org/wiki/Ieper). For the next two weeks, fighting dismounted like infantry, they defended it against an ever stronger enemy. At the turn of October and November, after heavy fighting in which Indian soldiers, the first volunteer battalion of the Territorial Force and the French also took part, the Germans took the ridge but failed to break through the front.
+The Battle of Messines, fought from 12 October to 2 November 1914, was one of the last stages of the [Race to the Sea](/bitwy/wyscig-do-morza) and part of the great fighting in Flanders that brought it to an end on the North Sea coast. Its main participant on the British side was the cavalry corps of General [Edmund Allenby](/postacie/edmund-allenby). In mid-October the cavalrymen pushed the German cavalry off the hills of French Flanders and occupied a low ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](/miejsca/ypres). For the next two weeks, fighting dismounted like infantry, they defended it against an ever stronger enemy. At the turn of October and November, after heavy fighting in which Indian soldiers, the first volunteer battalion of the Territorial Force and the French also took part, the Germans took the ridge but failed to break through the front.
 
 ## Name and dates
 

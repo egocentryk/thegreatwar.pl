@@ -2,7 +2,7 @@
 title: Foch becomes Allied commander-in-chief
 summary: On 14 April 1918 Foch became commander-in-chief of the Allied armies in France. That day at Abbeville he refused to relieve Haig's British divisions.
 source: foch-naczelnym-wodzem
-sourceHash: 46b9771037d504dbf20d02ceb44e474cd56f47ad
+sourceHash: af426245e2fee67960bdcb18ed9bd0d047afd9ab
 brief:
   - "On 14 April 1918 General Ferdinand Foch received the title of commander-in-chief of the Allied armies in France, agreed by the French and British governments in an exchange of letters. The title gave him no new powers."
   - "The road to it began on 26 March at Doullens, where Foch was given the coordination of the armies, and on 3 April at Beauvais he was given strategic direction. The commanders-in-chief kept tactical control."
@@ -23,7 +23,7 @@ The British had long resisted the idea of a common commander. As late as Novembe
 
 According to the British official history, a suitable title for Foch was agreed by correspondence, and from 14 April he bore the style "Général en chef des Armées alliées en France". In English it was usually rendered as "General-in-Chief", because the term "Commander-in-Chief" was used by Haig himself as commander-in-chief of the British forces in France. The next day Haig learned from London that Foch's new title "in no way alters your mutual relations" as previously laid down. Pétain remained commander-in-chief of the French army, and Pershing of the American.
 
-Foch's authority did not extend to the Belgian army. King [Albert I](/postacie/albert-i) personally commanded his troops and under the Belgian constitution could not place them under the orders of a foreign general. Foch could only make requests of the Belgians. That same day he asked the chief of staff of the Belgian army, General Gillain, to prepare to extend the Belgian front southwards, as far as [Ypres](https://pl.wikipedia.org/wiki/Ieper), when General [Herbert Plumer](/postacie/herbert-plumer)'s British Second Army withdrew from its forward positions east of the town. The Belgians agreed to cooperate with the British. The Italian front also remained outside Foch's authority for the time being.
+Foch's authority did not extend to the Belgian army. King [Albert I](/postacie/albert-i) personally commanded his troops and under the Belgian constitution could not place them under the orders of a foreign general. Foch could only make requests of the Belgians. That same day he asked the chief of staff of the Belgian army, General Gillain, to prepare to extend the Belgian front southwards, as far as [Ypres](/miejsca/ypres), when General [Herbert Plumer](/postacie/herbert-plumer)'s British Second Army withdrew from its forward positions east of the town. The Belgians agreed to cooperate with the British. The Italian front also remained outside Foch's authority for the time being.
 
 ## The Abbeville meeting
 

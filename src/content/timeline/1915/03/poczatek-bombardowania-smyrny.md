@@ -17,7 +17,7 @@ draft: false
 
 Brytyjskie okręty działały w [Zatoce Izmirskiej](https://pl.wikipedia.org/wiki/Zatoka_Izmirska) już [na samym początku wojny z Turcją](/poczatek-dzialan-brytyjsko-tureckich), a potem próbowały odcinać port od dostaw. Teraz chodziło o coś więcej. Od 19 lutego flota brytyjska i francuska [atakowała Dardanele](/poczatek-ataku-floty-na-dardanele), a w Londynie coraz poważniej obawiano się, że Niemcy przyślą na Morze Egejskie okręty podwodne, na przykład z [Adriatyku](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). Rozległa zatoka z dobrze wyposażonym portem mogła stać się dla nich wygodną bazą. Admiralicja postanowiła temu zapobiec. Okręty miały zniszczyć forty, oczyścić wejście do zatoki z min i umożliwić ścisłą blokadę portu. Lądowania zakazano, nie było też mowy o zajęciu miasta.
 
-Zadanie powierzono Peirse'owi, dowódcy Stacji Wschodnioindyjskiej, który od grudnia 1914 roku odpowiadał za obronę Egiptu, a w lutym kierował okrętami broniącymi [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski). 2 marca otrzymał rozkaz, by przypłynąć z Egiptu na Euryalusie i spotkać się u wejścia do zatoki z pancernikami Triumph i Swiftsure, odesłanymi spod Dardaneli.
+Zadanie powierzono Peirse'owi, dowódcy Stacji Wschodnioindyjskiej, który od grudnia 1914 roku odpowiadał za obronę Egiptu, a w lutym kierował okrętami broniącymi [Kanału Sueskiego](/miejsca/kanal-sueski). 2 marca otrzymał rozkaz, by przypłynąć z Egiptu na Euryalusie i spotkać się u wejścia do zatoki z pancernikami Triumph i Swiftsure, odesłanymi spod Dardaneli.
 
 ## Forty nad przesmykiem
 

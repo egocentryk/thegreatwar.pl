@@ -2,7 +2,7 @@
 title: Fifth Battle of Ypres begins
 summary: On 28 September 1918 the Belgians and British under King Albert I attacked from Ypres. In one day they retook Passchendaele, Gheluvelt and Houthulst Forest.
 source: poczatek-piatej-bitwy-pod-ypres
-sourceHash: b225b3ee6cb278ef6ab9db4088c14102eef72154
+sourceHash: be4c83fee0f2af41f9dc30dd17c377ad6d994952
 brief:
   - "At 5.30 a.m. on 28 September 1918, in pouring rain, the Belgian Army and the British Second Army attacked from Ypres. They were commanded by King Albert I of the Belgians at the head of the newly formed Flanders Army Group."
   - "It was the third of the great blows Marshal Foch dealt day after day. The attack was prepared in secrecy: the Belgians fired for three hours, while General Plumer's Second Army attacked without preparation."
@@ -11,7 +11,7 @@ brief:
   - "The news from Flanders reached Spa together with reports of the crisis in Bulgaria. That evening General Erich Ludendorff concluded that Germany must ask for an armistice."
 ---
 
-On 28 September 1918, at 5.30 a.m., in pouring rain, the Belgian Army and the British Second Army went into the attack from [Ypres](https://pl.wikipedia.org/wiki/Ieper). They were commanded by the King of the Belgians, [Albert I](/postacie/albert-i), at the head of the newly formed Flanders Army Group. By evening the Allies had taken the Passchendaele ridge, the Gheluvelt plateau and Houthulst Forest, that is almost all the ground the British had fought for from July to November 1917, and had advanced in places by 8–10 kilometres. The German Fourth Army, which for four years had defended these heights with great tenacity, gave way that day almost without a fight. It was the third of the great blows that Marshal [Ferdinand Foch](/postacie/ferdinand-foch) dealt the Germans day after day: on [26 September](/poczatek-ofensywy-moza-argonne) the Americans and French attacked between the Meuse and the Argonne, on [27 September](/poczatek-bitwy-o-kanal-du-nord) the British forced the Canal du Nord, and now it was Flanders' turn.
+On 28 September 1918, at 5.30 a.m., in pouring rain, the Belgian Army and the British Second Army went into the attack from [Ypres](/miejsca/ypres). They were commanded by the King of the Belgians, [Albert I](/postacie/albert-i), at the head of the newly formed Flanders Army Group. By evening the Allies had taken the Passchendaele ridge, the Gheluvelt plateau and Houthulst Forest, that is almost all the ground the British had fought for from July to November 1917, and had advanced in places by 8–10 kilometres. The German Fourth Army, which for four years had defended these heights with great tenacity, gave way that day almost without a fight. It was the third of the great blows that Marshal [Ferdinand Foch](/postacie/ferdinand-foch) dealt the Germans day after day: on [26 September](/poczatek-ofensywy-moza-argonne) the Americans and French attacked between the Meuse and the Argonne, on [27 September](/poczatek-bitwy-o-kanal-du-nord) the British forced the Canal du Nord, and now it was Flanders' turn.
 
 ## Before dawn
 

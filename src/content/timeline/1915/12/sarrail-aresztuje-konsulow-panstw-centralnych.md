@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-30 grudnia 1915 roku nad [Salonikami](https://pl.wikipedia.org/wiki/Saloniki) pojawiły się samoloty państw centralnych i zrzuciły bomby na miasto. Jeszcze tego samego dnia dowódca francuskiej Armii Wschodu, generał [Maurice Sarrail](/postacie/maurice-sarrail), kazał aresztować konsulów Niemiec, Austro-Węgier, Bułgarii i Turcji, którzy wciąż urzędowali w mieście. Razem z rodzinami i personelem odstawiono ich na okręt wojenny i wywieziono z Grecji. Saloniki należały formalnie do neutralnego państwa, ale od dwóch tygodni, odkąd [wojska Ententy wycofały się z serbskiej Macedonii](/ostatnie-wojska-ententy-opuszczaja-macedonie), były już przede wszystkim ich umocnioną bazą.
+30 grudnia 1915 roku nad [Salonikami](/miejsca/saloniki) pojawiły się samoloty państw centralnych i zrzuciły bomby na miasto. Jeszcze tego samego dnia dowódca francuskiej Armii Wschodu, generał [Maurice Sarrail](/postacie/maurice-sarrail), kazał aresztować konsulów Niemiec, Austro-Węgier, Bułgarii i Turcji, którzy wciąż urzędowali w mieście. Razem z rodzinami i personelem odstawiono ich na okręt wojenny i wywieziono z Grecji. Saloniki należały formalnie do neutralnego państwa, ale od dwóch tygodni, odkąd [wojska Ententy wycofały się z serbskiej Macedonii](/ostatnie-wojska-ententy-opuszczaja-macedonie), były już przede wszystkim ich umocnioną bazą.
 
 ## Wrogowie w mieście
 

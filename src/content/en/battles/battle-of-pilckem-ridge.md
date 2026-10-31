@@ -11,7 +11,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Hermann von Stein]
 result: Partial Allied success. In the north Pilckem Ridge and the Steenbeek line were taken, but on the Gheluvelt plateau the attack stalled, and German counter-attacks retook part of the gains in the centre.
 source: bitwa-o-grzbiet-pilckem
-sourceHash: 5cf2d8c9c611a5f472b3f322733b5150a5801726
+sourceHash: 5593f60b9fd95b42767082fdf12b58873f43ab04
 brief:
   - "The Battle of Pilckem Ridge was the opening attack of the Third Battle of Ypres. At 3.50 a.m. on 31 July 1917 nine divisions of General Hubert Gough's Fifth Army went forward, covered by the Second Army and the French."
   - "Gough set very deep objectives for the first day, despite warnings that this would disperse the artillery. The key to the battlefield was the Gheluvelt plateau, where the Germans had concentrated the most guns."
@@ -20,7 +20,7 @@ brief:
   - "The attack was a greater success than the first day on the Somme, but the plateau stayed in German hands, and the rain and a wet August turned the battlefield into swamps and cost the offensive its momentum."
 ---
 
-The Battle of Pilckem Ridge was the opening attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). At 3.50 a.m. on 31 July 1917, after roughly two weeks of bombardment, nine divisions of General [Hubert Gough's](/postacie/hubert-gough) British Fifth Army went forward from the salient around [Ypres](https://pl.wikipedia.org/wiki/Ieper), covered in the south by the Second Army and in the north by two divisions of the French First Army. On the northern flank the Allies took the low Pilckem Ridge within a few hours, from which the Germans had been watching the canal at [Boezinge](https://pl.wikipedia.org/wiki/Boezinge) since 1915, and came up to the Steenbeek stream. In the centre some brigades broke in to a depth of more than three kilometres, but in the afternoon, as the rain began, German counter-attack divisions drove them back. On the most important sector, the Gheluvelt plateau by the road from Ypres to Menin, the British advanced only a few hundred metres. The rain then fell for four days and turned the battlefield into mud.
+The Battle of Pilckem Ridge was the opening attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). At 3.50 a.m. on 31 July 1917, after roughly two weeks of bombardment, nine divisions of General [Hubert Gough's](/postacie/hubert-gough) British Fifth Army went forward from the salient around [Ypres](/miejsca/ypres), covered in the south by the Second Army and in the north by two divisions of the French First Army. On the northern flank the Allies took the low Pilckem Ridge within a few hours, from which the Germans had been watching the canal at [Boezinge](https://pl.wikipedia.org/wiki/Boezinge) since 1915, and came up to the Steenbeek stream. In the centre some brigades broke in to a depth of more than three kilometres, but in the afternoon, as the rain began, German counter-attack divisions drove them back. On the most important sector, the Gheluvelt plateau by the road from Ypres to Menin, the British advanced only a few hundred metres. The rain then fell for four days and turned the battlefield into mud.
 
 ## Name and dates
 

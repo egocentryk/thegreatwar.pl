@@ -2,7 +2,7 @@
 title: First Battle of Passchendaele
 summary: On 12 October 1917 Anzacs advanced in the rain on Passchendaele. By evening they were back on their old lines, and 845 New Zealanders were dead.
 source: poczatek-pierwszej-bitwy-pod-passchendaele
-sourceHash: cea679308300db43891ca01ae4c1df3adb9bd3bb
+sourceHash: 00f37161ae82a089f456865bd2224dfd2d83798b
 brief:
   - "At 5.25 a.m. on 12 October 1917, in rain and mud, two divisions of II Anzac Corps advanced on the ridge above Passchendaele: the 3rd Australian Division on the village, the New Zealand Division on the Bellevue spur."
   - "Douglas Haig still believed the Germans were close to collapse. The attack was prepared within three days of the failed attack at Poelcappelle, and the artillery was stuck in the mud far to the rear."
@@ -11,7 +11,7 @@ brief:
   - "It was the day with the greatest number of casualties in New Zealand's history. On 13 October attacks were suspended, and Haig entrusted the capture of Passchendaele to the Canadian Corps."
 ---
 
-On 12 October 1917 at 5.25 a.m., in rain and mud, two divisions of II Anzac Corps advanced on the ridge above the village of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), the last high ground before the plain east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). The 3rd Australian Division of General [John Monash](/postacie/john-monash) was to take the village itself, and the New Zealand Division the Bellevue spur north of it. The attack, prepared within three days of the [failed attack at Poelcappelle](/poczatek-bitwy-pod-poelcappelle), broke down in front of uncut wire and concrete pillboxes. A handful of Australians reached the church in Passchendaele and turned back without meeting anyone, and in the afternoon both divisions fell back almost to their start line. For [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia) it was the day with the greatest number of casualties in its entire history.
+On 12 October 1917 at 5.25 a.m., in rain and mud, two divisions of II Anzac Corps advanced on the ridge above the village of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), the last high ground before the plain east of [Ypres](/miejsca/ypres). The 3rd Australian Division of General [John Monash](/postacie/john-monash) was to take the village itself, and the New Zealand Division the Bellevue spur north of it. The attack, prepared within three days of the [failed attack at Poelcappelle](/poczatek-bitwy-pod-poelcappelle), broke down in front of uncut wire and concrete pillboxes. A handful of Australians reached the church in Passchendaele and turned back without meeting anyone, and in the afternoon both divisions fell back almost to their start line. For [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia) it was the day with the greatest number of casualties in its entire history.
 
 ## The night before the attack
 

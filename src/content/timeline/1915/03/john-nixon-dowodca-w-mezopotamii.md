@@ -23,7 +23,7 @@ Rząd Indii, który odpowiadał za wyprawę mezopotamską, postanowił wysłać 
 
 John Eccles Nixon miał 57 lat i był jednym z najbardziej doświadczonych generałów armii indyjskiej. Urodził się w 1857 roku w Anglii, ukończył akademię wojskową w Sandhurst i od 1875 roku był oficerem, a większość służby spędził w Indiach. Walczył w drugiej wojnie z Afganistanem i na pograniczu północno-zachodnim, a w czasie wojny burskiej dowodził brygadą kawalerii. Później był inspektorem kawalerii i dowódcą dywizji, od 1912 roku dowodził Armią Południową w Indiach, a w lutym 1915 roku przejął Armię Północną.
 
-Przed wyjazdem otrzymał od naczelnego wodza w Indiach, generała Sir Beauchampa Duffa, instrukcje. Miał zapewnić Brytyjczykom pełną kontrolę nad dolną Mezopotamią, czyli całym osmańskim wilajetem Basry, i bezpieczeństwo pól naftowych i rurociągu w Persji. Duff polecił mu też przygotować plan ewentualnego marszu na [Bagdad](https://pl.wikipedia.org/wiki/Bagdad). Strategię wyprawy kształtowano w Indiach, w dużej mierze bez konsultacji z Londynem, zajętym wówczas Dardanelami.
+Przed wyjazdem otrzymał od naczelnego wodza w Indiach, generała Sir Beauchampa Duffa, instrukcje. Miał zapewnić Brytyjczykom pełną kontrolę nad dolną Mezopotamią, czyli całym osmańskim wilajetem Basry, i bezpieczeństwo pól naftowych i rurociągu w Persji. Duff polecił mu też przygotować plan ewentualnego marszu na [Bagdad](/miejsca/bagdad). Strategię wyprawy kształtowano w Indiach, w dużej mierze bez konsultacji z Londynem, zajętym wówczas Dardanelami.
 
 ## Co dalej
 

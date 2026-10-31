@@ -2,10 +2,10 @@
 title: End of the Battle of Langemarck
 summary: On 24 October 1914 the British drove the Germans from Polygon Wood near Ypres and the French took over north of the town. The Battle of Langemarck ended.
 source: koniec-bitwy-pod-langemarck
-sourceHash: 5dae3b5994e71c093fbcb43451f3256392c9557a
+sourceHash: 58e3dab76327a90b43cdc1b257371dfae5172d51
 ---
 
-On 24 October 1914, according to British nomenclature, the Battle of Langemarck came to an end, the first stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Three days earlier General [Douglas Haig](/postacie/douglas-haig)'s British I Corps had [set off towards Bruges](/poczatek-bitwy-pod-langemarck), but ran into new German reserve corps and went over to the defensive. From 22 to 24 October the Germans attacked almost without pause along the whole arc around [Ypres](https://pl.wikipedia.org/wiki/Ieper), from the Ypres–Yser canal to Zandvoorde. The British held the front, although on the last day the Germans broke through it in Polygon Wood. North of the town the British were relieved by the French.
+On 24 October 1914, according to British nomenclature, the Battle of Langemarck came to an end, the first stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Three days earlier General [Douglas Haig](/postacie/douglas-haig)'s British I Corps had [set off towards Bruges](/poczatek-bitwy-pod-langemarck), but ran into new German reserve corps and went over to the defensive. From 22 to 24 October the Germans attacked almost without pause along the whole arc around [Ypres](/miejsca/ypres), from the Ypres–Yser canal to Zandvoorde. The British held the front, although on the last day the Germans broke through it in Polygon Wood. North of the town the British were relieved by the French.
 
 ## The Kortekeer inn
 

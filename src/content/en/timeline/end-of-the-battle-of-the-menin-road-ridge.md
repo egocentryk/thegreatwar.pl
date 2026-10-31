@@ -2,10 +2,10 @@
 title: End of the Battle of the Menin Road Ridge
 summary: On 25 September 1917 the Germans attacked at Ypres south of Polygon Wood and pushed back the 33rd Division. Plumer still kept the attack set for the morning.
 source: koniec-bitwy-o-grzbiet-menin-road
-sourceHash: 563f82538c3352fc3f8bb3015fc7abf0e4513c93
+sourceHash: 8a60d4e274029eec9dfd54162f8d38c615a8bbec
 ---
 
-On 25 September 1917 at 5.15 a.m. the heaviest German bombardment since the beginning of September fell on the sector of the front at [Ypres](https://pl.wikipedia.org/wiki/Ieper) between the road to [Menin](https://pl.wikipedia.org/wiki/Menen) and Polygon Wood. British Second Army intelligence later judged it the greatest concentration of artillery on the sector of a single German division ever recorded: 44 field and 20 heavy batteries, almost four times the usual number. Half an hour later two regiments of the 50th Reserve Division advanced in the morning mist on both sides of the Reutelbeek stream to take back from the British part of the ground won [on 20 September](/poczatek-bitwy-o-grzbiet-menin-road). It was the last act of the Battle of the Menin Road Ridge. The blow came at the worst possible moment for the British: the next step of General [Herbert Plumer](/postacie/herbert-plumer)'s offensive was set for the following morning, and it was on precisely this sector that the assault battalions were to form up.
+On 25 September 1917 at 5.15 a.m. the heaviest German bombardment since the beginning of September fell on the sector of the front at [Ypres](/miejsca/ypres) between the road to [Menin](https://pl.wikipedia.org/wiki/Menen) and Polygon Wood. British Second Army intelligence later judged it the greatest concentration of artillery on the sector of a single German division ever recorded: 44 field and 20 heavy batteries, almost four times the usual number. Half an hour later two regiments of the 50th Reserve Division advanced in the morning mist on both sides of the Reutelbeek stream to take back from the British part of the ground won [on 20 September](/poczatek-bitwy-o-grzbiet-menin-road). It was the last act of the Battle of the Menin Road Ridge. The blow came at the worst possible moment for the British: the next step of General [Herbert Plumer](/postacie/herbert-plumer)'s offensive was set for the following morning, and it was on precisely this sector that the assault battalions were to form up.
 
 ## Five days after the victory
 

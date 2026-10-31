@@ -9,10 +9,10 @@ sides:
     commanders: [Halil Pasha]
 result: British victory. The Turks lost all their positions on the Tigris from Sannaiyat to Shumran, abandoned Kut on 24 February 1917 and fell back towards Baghdad.
 source: druga-bitwa-pod-al-kutem
-sourceHash: 8fe959d6e8f93e465e04fb6a5c2946bc3fe9b26c
+sourceHash: 8a10f915b9c7c5f14acd4c12cc286dee3f7e9c0e
 ---
 
-The Second Battle of Kut was revenge for the heaviest British defeat in the Middle East. Eight months after the [surrender of Kut](/kapitulacja-al-kutu), on the night of 13/14 December 1916, General [Frederick Stanley Maude](/postacie/frederick-maude) moved against the Turks on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). He did not storm head-on the positions against which three relief attempts had broken in the spring. He went out onto the right bank, cut across the Shatt al-Hai canal and for two months, trench by trench, pushed the Turks out of every bridgehead they held south of the river. The Ottoman troops defended themselves with great courage, but their lines grew thinner. On 22 February 1917 the British broke into the Sannaiyat position, on 23 February they crossed the Tigris at Shumran, upstream of Kut, and on 24 February the Turks abandoned the town and began a retreat towards [Baghdad](https://pl.wikipedia.org/wiki/Bagdad).
+The Second Battle of Kut was revenge for the heaviest British defeat in the Middle East. Eight months after the [surrender of Kut](/kapitulacja-al-kutu), on the night of 13/14 December 1916, General [Frederick Stanley Maude](/postacie/frederick-maude) moved against the Turks on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). He did not storm head-on the positions against which three relief attempts had broken in the spring. He went out onto the right bank, cut across the Shatt al-Hai canal and for two months, trench by trench, pushed the Turks out of every bridgehead they held south of the river. The Ottoman troops defended themselves with great courage, but their lines grew thinner. On 22 February 1917 the British broke into the Sannaiyat position, on 23 February they crossed the Tigris at Shumran, upstream of Kut, and on 24 February the Turks abandoned the town and began a retreat towards [Baghdad](/miejsca/bagdad).
 
 ## Name and dates
 

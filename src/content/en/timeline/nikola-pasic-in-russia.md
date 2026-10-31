@@ -2,10 +2,10 @@
 title: Nikola Pašić in Russia
 summary: In early May 1916 Serbian prime minister Nikola Pašić was the Tsar's guest in Petrograd. Contrary to the British chronology, the government stayed on Corfu.
 source: nikola-pasic-w-rosji
-sourceHash: 1b7f1a92635920c5098695602f73b6c3ca267927
+sourceHash: 8c2e774cfd786813b8c39fd0eaa03f6b494dccee
 ---
 
-The British chronology of the war records under 7 May 1916 the establishment of the Serbian government at [Salonika](https://pl.wikipedia.org/wiki/Saloniki). No other source confirms this entry. The British official history of the operations in Macedonia states that only in July did the Regent Alexander and the Serbian war ministry move to Salonika, while the prime minister and most of the cabinet [remained on Corfu](/rzad-serbski-na-korfu), which was the seat of government until the end of the war. The chief of staff of the Supreme Command, General [Petar Bojović](/postacie/petar-bojovic), according to Serbian studies arrived at Salonika with part of his staff at the end of May, when the [transport of the army from the island](/poczatek-przewozu-armii-serbskiej-do-salonik) was nearing completion. In the first days of May, moreover, the head of government was neither on Corfu nor in Macedonia, but in Russia.
+The British chronology of the war records under 7 May 1916 the establishment of the Serbian government at [Salonika](/miejsca/saloniki). No other source confirms this entry. The British official history of the operations in Macedonia states that only in July did the Regent Alexander and the Serbian war ministry move to Salonika, while the prime minister and most of the cabinet [remained on Corfu](/rzad-serbski-na-korfu), which was the seat of government until the end of the war. The chief of staff of the Supreme Command, General [Petar Bojović](/postacie/petar-bojovic), according to Serbian studies arrived at Salonika with part of his staff at the end of May, when the [transport of the army from the island](/poczatek-przewozu-armii-serbskiej-do-salonik) was nearing completion. In the first days of May, moreover, the head of government was neither on Corfu nor in Macedonia, but in Russia.
 
 ## With the Tsar and Sazonov
 

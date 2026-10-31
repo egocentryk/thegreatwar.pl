@@ -2,7 +2,7 @@
 title: British capture Hill 60
 summary: On 17 April 1915 the British blew mines under Hill 60 south of Ypres and took it within minutes. Over the following days they beat off counter-attacks.
 source: brytyjczycy-zdobywaja-wzgorze-60
-sourceHash: 16239db09fea3ae193185d7e34367551a72f2848
+sourceHash: 7ad5eacf126604acbfce37aa5edb8abda860a1aa
 brief:
   - "At 7.05 p.m. on 17 April 1915 British sappers fired mines under the German trenches on Hill 60 near Zillebeke, south-east of Ypres. It was the first large British mining operation on the Western Front."
   - "The hill, piled up from earth dug out for a railway, overlooked Zillebeke and Ypres. From March miners of the Royal Engineers' tunnelling companies drove galleries more than 90 metres long beneath it."
@@ -11,7 +11,7 @@ brief:
   - "The hill became a costly salient for the British. On 5 May the Germans recovered the summit in an attack using gas, and for two years an underground war went on beneath it."
 ---
 
-On 17 April 1915 at 7.05 p.m. the ground south-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper) shook with several powerful explosions. British sappers had fired mines laid in tunnels under the German trenches on Hill 60, a small rise near the village of [Zillebeke](https://pl.wikipedia.org/wiki/Zillebeke). Immediately afterwards infantry of the British 5th Division rushed into the craters and within a few minutes seized the summit, losing only a handful of men. It was the first large British mining operation on the Western Front. Holding the captured hill, however, cost far more than taking it.
+On 17 April 1915 at 7.05 p.m. the ground south-east of [Ypres](/miejsca/ypres) shook with several powerful explosions. British sappers had fired mines laid in tunnels under the German trenches on Hill 60, a small rise near the village of [Zillebeke](https://pl.wikipedia.org/wiki/Zillebeke). Immediately afterwards infantry of the British 5th Division rushed into the craters and within a few minutes seized the summit, losing only a handful of men. It was the first large British mining operation on the Western Front. Holding the captured hill, however, cost far more than taking it.
 
 ## A spoil heap overlooking Ypres
 

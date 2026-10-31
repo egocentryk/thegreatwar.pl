@@ -6,10 +6,10 @@ country: Austria-Hungary
 birthPlace: Umetić (Croatia)
 deathPlace: Klagenfurt
 source: svetozar-boroevic
-sourceHash: 1662ad823db8b853fc16d119e1f29baf9014388a
+sourceHash: 8c653023cf36351f12e3cb0de1a85234450cb2d1
 ---
 
-Svetozar Boroević von Bojna was the most effective defender the Austro-Hungarian army had. From June 1915 to August 1917 his Fifth Army repulsed eleven Italian offensives on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), although it almost always had fewer men and guns than its enemy. Earlier, in 1914 and 1915, he led the Third Army in Galicia and the Carpathians, and in 1918 he commanded an army group on the Piave. In the monarchy he was called the "Lion of the Isonzo". The son of an officer from the Military Frontier, an Orthodox Slav from Croatia, he was the only field marshal of the imperial army of South Slav origin. After the collapse of the monarchy the new Yugoslav state would not take him in, and he died in poverty in Austria.
+Svetozar Boroević von Bojna was the most effective defender the Austro-Hungarian army had. From June 1915 to August 1917 his Fifth Army repulsed eleven Italian offensives on the [Isonzo](/bitwy/bitwy-nad-isonzo), although it almost always had fewer men and guns than its enemy. Earlier, in 1914 and 1915, he led the Third Army in Galicia and the Carpathians, and in 1918 he commanded an army group on the Piave. In the monarchy he was called the "Lion of the Isonzo". The son of an officer from the Military Frontier, an Orthodox Slav from Croatia, he was the only field marshal of the imperial army of South Slav origin. After the collapse of the monarchy the new Yugoslav state would not take him in, and he died in poverty in Austria.
 
 ## Before the war
 

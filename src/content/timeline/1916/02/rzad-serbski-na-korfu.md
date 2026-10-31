@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 9 lutego 1916 roku ustanowienie rządu serbskiego na [Korfu](https://pl.wikipedia.org/wiki/Korfu). Ministrowie nie przyjechali jednak na wyspę tego dnia. Premier [Nikola Pašić](/postacie/nikola-pasic) i część gabinetu [przypłynęli tu z Brindisi](/rzad-serbski-przenosi-sie-do-brindisi) już około 18 stycznia, a dwa dni później odbyli pierwsze posiedzenie. Nie udało się ustalić, jaki akt chronologia wiąże właśnie z 9 lutego. Wiadomo natomiast, że w pierwszych dniach lutego na Korfu zebrało się całe kierownictwo państwa: rząd, naczelne dowództwo i następca tronu. Dopiero wtedy wyspa stała się w pełni siedzibą Serbii na wygnaniu.
+Brytyjska chronologia wojny notuje pod 9 lutego 1916 roku ustanowienie rządu serbskiego na [Korfu](/miejsca/korfu). Ministrowie nie przyjechali jednak na wyspę tego dnia. Premier [Nikola Pašić](/postacie/nikola-pasic) i część gabinetu [przypłynęli tu z Brindisi](/rzad-serbski-przenosi-sie-do-brindisi) już około 18 stycznia, a dwa dni później odbyli pierwsze posiedzenie. Nie udało się ustalić, jaki akt chronologia wiąże właśnie z 9 lutego. Wiadomo natomiast, że w pierwszych dniach lutego na Korfu zebrało się całe kierownictwo państwa: rząd, naczelne dowództwo i następca tronu. Dopiero wtedy wyspa stała się w pełni siedzibą Serbii na wygnaniu.
 
 ## Przyjazd regenta
 

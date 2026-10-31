@@ -2,7 +2,7 @@
 title: Battle of Messines (1917) begins
 summary: On 7 June 1917 at 3.10 a.m. 19 great mines blew up under German trenches on Messines Ridge. By evening Plumer's 2nd Army held the ridge and Oosttaverne Line.
 source: poczatek-bitwy-pod-messines-1917
-sourceHash: 55497df03eea95dc0798756c85e2dcded1a5d55d
+sourceHash: 89c271728a1cfa13582c1b29ffd35a5f61ff5712
 brief:
   - "At 3.10 a.m. on 7 June 1917, 19 great mines blew up under the German trenches on Messines Ridge, south of Ypres. Immediately afterwards nine divisions of General Herbert Plumer's 2nd Army went into the assault."
   - "The tunnelling companies had been preparing the mines since early 1916. The most powerful each contained more than 40 tons of ammonal and were the largest mines blown in this war."
@@ -11,7 +11,7 @@ brief:
   - "The ridge from which the Germans had looked down on the British for two and a half years was taken in under twelve hours. It was the British army's best day on the Western Front since the beginning of the war."
 ---
 
-At 3.10 a.m. on 7 June 1917, when the sky in the east was barely turning grey, the ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](https://pl.wikipedia.org/wiki/Ieper), rose into the air. Within a few seconds 19 great mines, containing between them hundreds of tons of explosives, went off under the German trenches. Immediately afterwards more than two thousand British guns opened fire, and nine divisions of General [Herbert Plumer](/postacie/herbert-plumer)'s 2nd Army went into the assault. The ridge, which the Germans had [taken in November 1914](/bitwy/bitwa-pod-messines) and from which for two and a half years they had looked down on the British positions, was before noon in the hands of British, Australian, New Zealand and Irish troops. In the evening reserve units descended its eastern slopes and occupied most of the German Oosttaverne Line. It was the British army's best day on the Western Front since the beginning of the war.
+At 3.10 a.m. on 7 June 1917, when the sky in the east was barely turning grey, the ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](/miejsca/ypres), rose into the air. Within a few seconds 19 great mines, containing between them hundreds of tons of explosives, went off under the German trenches. Immediately afterwards more than two thousand British guns opened fire, and nine divisions of General [Herbert Plumer](/postacie/herbert-plumer)'s 2nd Army went into the assault. The ridge, which the Germans had [taken in November 1914](/bitwy/bitwa-pod-messines) and from which for two and a half years they had looked down on the British positions, was before noon in the hands of British, Australian, New Zealand and Irish troops. In the evening reserve units descended its eastern slopes and occupied most of the German Oosttaverne Line. It was the British army's best day on the Western Front since the beginning of the war.
 
 ## The night before the battle
 

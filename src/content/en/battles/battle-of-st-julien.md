@@ -11,7 +11,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Otto von Hügel]
 result: Inconclusive. The Germans took St. Julien and forced the Allies to shorten their front, but did not break through the defence or take Ypres.
 source: bitwa-pod-st-julien
-sourceHash: 9f2c1d58b74ace49418403e16dfb694384a62046
+sourceHash: c985882b8bfc337e9c63a7ac5a6283f1fce81b13
 brief:
   - "The Battle of St. Julien, fought from 24 April to 4 May 1915, was the second stage of the Second Battle of Ypres. It began at dawn with a German chlorine attack on the trenches of the 1st Canadian Division."
   - "The Canadians had no masks and covered their faces with wet handkerchiefs. They fell back, and in the afternoon of 24 April the Germans took the village of Sint-Juliaan, called St. Julien by the British."
@@ -20,7 +20,7 @@ brief:
   - "For the Canadians it was their first great test on the Western Front and earned them a reputation as troops who would not give way. These battles gave rise to John McCrae's poem In Flanders Fields."
 ---
 
-The Battle of St. Julien was the second stage of the [Second Battle of Ypres](https://pl.wikipedia.org/wiki/II_bitwa_pod_Ypres). It began at dawn on 24 April 1915, when the Germans released a cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor) on the trenches of the [1st Canadian Division](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) at the apex of the salient north-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). The Canadians fell back, and in the afternoon they lost the village of Sint-Juliaan, called St. Julien by the British. Over the following days the British, Indians and French counter-attacked again and again to recover the lost ground. The attacks, made in haste, across open fields and with weak artillery support, broke down with heavy losses. At the beginning of May the Allies withdrew to a shorter line, closer to Ypres. The Germans, however, did not break through, and the town remained in Allied hands.
+The Battle of St. Julien was the second stage of the [Second Battle of Ypres](https://pl.wikipedia.org/wiki/II_bitwa_pod_Ypres). It began at dawn on 24 April 1915, when the Germans released a cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor) on the trenches of the [1st Canadian Division](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) at the apex of the salient north-east of [Ypres](/miejsca/ypres). The Canadians fell back, and in the afternoon they lost the village of Sint-Juliaan, called St. Julien by the British. Over the following days the British, Indians and French counter-attacked again and again to recover the lost ground. The attacks, made in haste, across open fields and with weak artillery support, broke down with heavy losses. At the beginning of May the Allies withdrew to a shorter line, closer to Ypres. The Germans, however, did not break through, and the town remained in Allied hands.
 
 ## Name and dates
 

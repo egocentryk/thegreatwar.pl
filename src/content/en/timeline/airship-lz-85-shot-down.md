@@ -2,10 +2,10 @@
 title: Airship LZ 85 shot down
 summary: On 5 May 1916 HMS Agamemnon shot down the German airship LZ 85 over Salonika. It fell into the Vardar marshes and the crew were captured.
 source: zestrzelenie-sterowca-lz-85
-sourceHash: 3e051a3e7c63d6f6d6723dcd3d768fad8b295860
+sourceHash: cd77db9e06aef15dd1026a8d85386c6c10063ee3
 ---
 
-In the early hours of 5 May 1916 the German army airship LZ 85 flew over [Salonika](https://pl.wikipedia.org/wiki/Saloniki), the main base of the Entente forces on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), for the third time. This time Allied warships were waiting for it in the harbour. The searchlight of the British battleship *Agamemnon* picked the airship out of the darkness, and the ship's guns soon hit it. LZ 85 came down in the marshes at the mouth of the [Vardar](https://pl.wikipedia.org/wiki/Wardar), and its crew, after a brief flight through the swamps, were taken prisoner. That was the end of airship raids on Salonika.
+In the early hours of 5 May 1916 the German army airship LZ 85 flew over [Salonika](/miejsca/saloniki), the main base of the Entente forces on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), for the third time. This time Allied warships were waiting for it in the harbour. The searchlight of the British battleship *Agamemnon* picked the airship out of the darkness, and the ship's guns soon hit it. LZ 85 came down in the marshes at the mouth of the [Vardar](https://pl.wikipedia.org/wiki/Wardar), and its crew, after a brief flight through the swamps, were taken prisoner. That was the end of airship raids on Salonika.
 
 ## Airships over Salonika
 

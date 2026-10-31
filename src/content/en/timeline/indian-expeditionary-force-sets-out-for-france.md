@@ -2,14 +2,14 @@
 title: Indian Expeditionary Force sets out for France
 summary: On 24 August 1914 the first units of Indian Expeditionary Force A sailed from India. They were sent first to Egypt and then on to France.
 source: indyjski-korpus-ekspedycyjny-wyrusza-do-francji
-sourceHash: c0782bce531632c008e7e143ebce4e2255514f44
+sourceHash: 91c36657e5af90b5f1345f27a26be6ad9ae630b3
 ---
 
 On 24 August 1914 the first transports of Indian Expeditionary Force A sailed from the ports of [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie). These were the first units of the Indian Army sent to Europe in this war. At first they were to go to Egypt, but in the end they were sent to the Western Front, in France.
 
 ## From Egypt to France
 
-Immediately after the outbreak of war, London asked the Government of India to send two infantry divisions to Egypt. They were to replace the British garrison there and guard the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski), the empire's key sea route. Mobilisation began on 8 August. The force comprised the Lahore and Meerut Divisions and two cavalry brigades.
+Immediately after the outbreak of war, London asked the Government of India to send two infantry divisions to Egypt. They were to replace the British garrison there and guard the [Suez Canal](/miejsca/kanal-sueski), the empire's key sea route. Mobilisation began on 8 August. The force comprised the Lahore and Meerut Divisions and two cavalry brigades.
 
 Events in France quickly changed the plans. The British Expeditionary Force was small, and after the first battles it urgently needed reinforcements. It was soon decided that the trained professional soldiers from India would be more useful in Europe. Egypt became merely a stage on their journey.
 

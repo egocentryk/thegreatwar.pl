@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny podaje pod datą 3 października 1914 roku zajęcie [Ypres](https://pl.wikipedia.org/wiki/Ieper) (po flamandzku Ieper) przez niemiecką kawalerię. Stare flandryjskie miasto sukienników, leżące w zachodniej Belgii niedaleko granicy z Francją, znalazło się wtedy na drodze niemieckich korpusów kawalerii, które próbowały obejść aliantów od północy i dotrzeć do wybrzeża.
+Brytyjska kronika wojny podaje pod datą 3 października 1914 roku zajęcie [Ypres](/miejsca/ypres) (po flamandzku Ieper) przez niemiecką kawalerię. Stare flandryjskie miasto sukienników, leżące w zachodniej Belgii niedaleko granicy z Francją, znalazło się wtedy na drodze niemieckich korpusów kawalerii, które próbowały obejść aliantów od północy i dotrzeć do wybrzeża.
 
 ## Patrole i główne siły
 

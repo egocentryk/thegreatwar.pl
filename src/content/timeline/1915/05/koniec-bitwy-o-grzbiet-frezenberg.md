@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-13 maja 1915 roku Niemcy po raz ostatni w bitwie o grzbiet Frezenberg spróbowali przełamać brytyjską obronę na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Od 3.30 rano do 13 ich artyleria ostrzeliwała okopy i tyły, a dziennik brytyjskiego V Korpusu określił ten ostrzał jako najcięższy od początku walk. Przez cały dzień padał deszcz i płytkie okopy zamieniły się w błoto. Niemcy wdarli się w linię w kilku miejscach, ale nie przeszli dalej. Wieczorem front się ustalił, a bitwa, która zaczęła się [8 maja](/poczatek-bitwy-o-grzbiet-frezenberg) od wyłomu pod Frezenberg, dobiegła końca.
+13 maja 1915 roku Niemcy po raz ostatni w bitwie o grzbiet Frezenberg spróbowali przełamać brytyjską obronę na wschód od [Ypres](/miejsca/ypres). Od 3.30 rano do 13 ich artyleria ostrzeliwała okopy i tyły, a dziennik brytyjskiego V Korpusu określił ten ostrzał jako najcięższy od początku walk. Przez cały dzień padał deszcz i płytkie okopy zamieniły się w błoto. Niemcy wdarli się w linię w kilku miejscach, ale nie przeszli dalej. Wieczorem front się ustalił, a bitwa, która zaczęła się [8 maja](/poczatek-bitwy-o-grzbiet-frezenberg) od wyłomu pod Frezenberg, dobiegła końca.
 
 ## Kawaleria w okopach
 

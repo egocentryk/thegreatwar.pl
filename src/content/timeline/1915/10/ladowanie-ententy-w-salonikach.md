@@ -17,7 +17,7 @@ brief:
   - "Wojska Ententy zostały w Salonikach jako nieproszeni goście w neutralnym kraju. Tak zaczął się front salonicki, który trwał do końca wojny."
 ---
 
-5 października 1915 roku w porcie w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) zaczęły schodzić na ląd pierwsze wojska Francji i Wielkiej Brytanii. Przypłynęły spod Dardaneli, by przez neutralną Grecję przyjść z pomocą Serbii, na którą lada dzień miały uderzyć Austro-Węgry i Niemcy, a wkrótce także Bułgaria. Lądowanie, poprzedzone tygodniem dyplomatycznych zwrotów, odbyło się przy formalnym proteście greckiego rządu, ale za [zgodą premiera Elefteriosa Wenizelosa](/wenizelos-prosi-o-wyladowanie-w-salonikach). Zanim żołnierze rozbili namioty, Wenizelos przestał być premierem. Tak zaczęła się obecność wojsk Ententy w Macedonii, z której wyrósł [front salonicki](https://pl.wikipedia.org/wiki/Front_salonicki), trwający do końca wojny.
+5 października 1915 roku w porcie w [Salonikach](/miejsca/saloniki) zaczęły schodzić na ląd pierwsze wojska Francji i Wielkiej Brytanii. Przypłynęły spod Dardaneli, by przez neutralną Grecję przyjść z pomocą Serbii, na którą lada dzień miały uderzyć Austro-Węgry i Niemcy, a wkrótce także Bułgaria. Lądowanie, poprzedzone tygodniem dyplomatycznych zwrotów, odbyło się przy formalnym proteście greckiego rządu, ale za [zgodą premiera Elefteriosa Wenizelosa](/wenizelos-prosi-o-wyladowanie-w-salonikach). Zanim żołnierze rozbili namioty, Wenizelos przestał być premierem. Tak zaczęła się obecność wojsk Ententy w Macedonii, z której wyrósł [front salonicki](https://pl.wikipedia.org/wiki/Front_salonicki), trwający do końca wojny.
 
 ## Pierwsi na lądzie
 

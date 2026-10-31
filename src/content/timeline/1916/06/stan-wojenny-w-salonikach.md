@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 czerwca 1916 roku, czyli 21 maja według kalendarza juliańskiego, którym posługiwała się Grecja, generał [Maurice Sarrail](/postacie/maurice-sarrail), naczelny wódz wojsk sprzymierzonych w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki), ogłosił stan oblężenia. Francuskie *état de siège* oznaczało w praktyce stan wojenny: władzę nad miastem przejmowało wojsko sprzymierzonych, a grecka administracja traciła swoje uprawnienia. Brytyjska chronologia wojny notuje, że naczelny dowódca ogłosił stan wojenny „w mieście Saloniki”, ale pismo, które Sarrail wręczył tego dnia dowódcy greckiego III Korpusu generałowi Konstandinosowi Moschopulosowi i prefektowi Salonik, mówiło o stanie oblężenia „w całej Macedonii”. Był to pierwszy wyraźny skutek oddania Bułgarom i Niemcom [Fortu Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel).
+3 czerwca 1916 roku, czyli 21 maja według kalendarza juliańskiego, którym posługiwała się Grecja, generał [Maurice Sarrail](/postacie/maurice-sarrail), naczelny wódz wojsk sprzymierzonych w [Salonikach](/miejsca/saloniki), ogłosił stan oblężenia. Francuskie *état de siège* oznaczało w praktyce stan wojenny: władzę nad miastem przejmowało wojsko sprzymierzonych, a grecka administracja traciła swoje uprawnienia. Brytyjska chronologia wojny notuje, że naczelny dowódca ogłosił stan wojenny „w mieście Saloniki”, ale pismo, które Sarrail wręczył tego dnia dowódcy greckiego III Korpusu generałowi Konstandinosowi Moschopulosowi i prefektowi Salonik, mówiło o stanie oblężenia „w całej Macedonii”. Był to pierwszy wyraźny skutek oddania Bułgarom i Niemcom [Fortu Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel).
 
 ## Zgoda z Paryża
 

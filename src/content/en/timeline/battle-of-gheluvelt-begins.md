@@ -2,7 +2,7 @@
 title: Battle of Gheluvelt begins
 summary: On 29 October 1914 the Germans attacked the crossroads at Gheluvelt on the Menin–Ypres road in fog. The next day Fabeck's group began its great offensive.
 source: poczatek-bitwy-pod-gheluvelt
-sourceHash: 32bd79bb8cdcc397809e196391eb5f4271dec914
+sourceHash: 2ec21e4db08a60070a60e6373d786644fec9e046
 brief:
   - "At dawn on 29 October 1914, in thick fog, German infantry struck the British positions at the crossroads by Gheluvelt, east of Ypres. British nomenclature dates the Battle of Gheluvelt from this day."
   - "After the failure at Langemarck, Falkenhayn decided to strike between Gheluvelt and Messines. General Max von Fabeck's new army group received some 260 heavy guns, and its five fresh divisions moved up at night unnoticed."
@@ -11,7 +11,7 @@ brief:
   - "On 30 October Fabeck's group took Zandvoorde, wiping out two Life Guards squadrons, and drove the cavalry from Hollebeke. The Germans stood some five kilometres from Ypres, but the attack on Gheluvelt itself failed."
 ---
 
-At dawn on 29 October 1914, in thick fog, German infantry struck the British positions at the crossroads by the village of [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld), east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). British nomenclature dates the Battle of Gheluvelt, the second and most critical stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres), from this day. The Germans took the crossroads and inflicted heavy losses on the best battalions of the British Guards. This was, however, only a prelude. Behind their line a new strike group under General Max von Fabeck was just completing its concentration, and on 30 October it went over to the attack south-east of Ypres.
+At dawn on 29 October 1914, in thick fog, German infantry struck the British positions at the crossroads by the village of [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld), east of [Ypres](/miejsca/ypres). British nomenclature dates the Battle of Gheluvelt, the second and most critical stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres), from this day. The Germans took the crossroads and inflicted heavy losses on the best battalions of the British Guards. This was, however, only a prelude. Behind their line a new strike group under General Max von Fabeck was just completing its concentration, and on 30 October it went over to the attack south-east of Ypres.
 
 ## Fabeck's group
 

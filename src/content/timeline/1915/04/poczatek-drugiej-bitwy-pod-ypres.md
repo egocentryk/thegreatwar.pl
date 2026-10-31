@@ -18,7 +18,7 @@ brief:
   - "Współcześni historycy szacują liczbę zabitych przez gaz na 800–1400. Dla aliantów atak był szokiem i złamaniem prawa wojennego, a wkrótce zaczęto szyć pierwsze prowizoryczne maski."
 ---
 
-22 kwietnia 1915 roku, pod wieczór, na północnym skraju łuku frontu wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper) niemieccy saperzy odkręcili zawory kilku tysięcy stalowych butli. Nad ziemią niczyją uniosła się zielonkawożółta chmura [chloru](https://pl.wikipedia.org/wiki/Chlor), którą lekki wiatr zepchnął na okopy dwóch francuskich dywizji. W ciągu godziny ich obrona przestała istnieć, a w alianckim froncie otworzyła się wyrwa szeroka na kilka kilometrów. Był to pierwszy na froncie zachodnim atak gazem bojowym, który miał zabijać, i zarazem początek drugiej bitwy pod Ypres, trwającej do 25 maja.
+22 kwietnia 1915 roku, pod wieczór, na północnym skraju łuku frontu wokół [Ypres](/miejsca/ypres) niemieccy saperzy odkręcili zawory kilku tysięcy stalowych butli. Nad ziemią niczyją uniosła się zielonkawożółta chmura [chloru](https://pl.wikipedia.org/wiki/Chlor), którą lekki wiatr zepchnął na okopy dwóch francuskich dywizji. W ciągu godziny ich obrona przestała istnieć, a w alianckim froncie otworzyła się wyrwa szeroka na kilka kilometrów. Był to pierwszy na froncie zachodnim atak gazem bojowym, który miał zabijać, i zarazem początek drugiej bitwy pod Ypres, trwającej do 25 maja.
 
 ## Gaz zamiast pocisków
 

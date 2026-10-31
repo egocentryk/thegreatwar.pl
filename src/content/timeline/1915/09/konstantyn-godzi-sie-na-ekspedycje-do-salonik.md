@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 września 1915 roku do Londynu dotarł z Aten telegram, który zdawał się kończyć tydzień niejasności. Premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) zawiadamiał przez brytyjskiego posła Francisa Elliota, że uzyskał zgodę króla [Konstantyna I](/postacie/konstantyn-i) na przysłanie do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) wojsk brytyjskich i francuskich. Prosił, by przybyły jak najszybciej, zanim greckie dywizje, które od 30 września miały się koncentrować w Macedonii, zajmą jedyną linię kolejową. Wiadomość miała jednak drugą część. Król miał oficjalnie o niczym nie wiedzieć aż do chwili, gdy wojska będą u wejścia do portu. Wtedy Grecja złoży formalny protest.
+27 września 1915 roku do Londynu dotarł z Aten telegram, który zdawał się kończyć tydzień niejasności. Premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) zawiadamiał przez brytyjskiego posła Francisa Elliota, że uzyskał zgodę króla [Konstantyna I](/postacie/konstantyn-i) na przysłanie do [Salonik](/miejsca/saloniki) wojsk brytyjskich i francuskich. Prosił, by przybyły jak najszybciej, zanim greckie dywizje, które od 30 września miały się koncentrować w Macedonii, zajmą jedyną linię kolejową. Wiadomość miała jednak drugą część. Król miał oficjalnie o niczym nie wiedzieć aż do chwili, gdy wojska będą u wejścia do portu. Wtedy Grecja złoży formalny protest.
 
 ## Tydzień sprzecznych sygnałów
 

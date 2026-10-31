@@ -49,6 +49,12 @@ export function battlePoint(id: string): Point | undefined {
   return { map, ...project(map, c.lat, c.lon) }
 }
 
+// Where any point is drawn (place pages): as for battles.
+export function pointAt(lat: number, lon: number): Point {
+  const map: MapName = inside("europa", lat, lon) ? "europa" : "swiat"
+  return { map, ...project(map, lat, lon) }
+}
+
 // Campaigns and operations made of several battles: drawn as rings.
 const parents = new Set(Object.values(BATTLE_PARENTS))
 export const isCampaign = (id: string) => parents.has(id)

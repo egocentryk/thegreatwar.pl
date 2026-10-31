@@ -2,10 +2,10 @@
 title: Sarrail takes command of all Entente troops at Salonika
 summary: On 16 January 1916 General Maurice Sarrail took command of all Allied troops at Salonika. General Mahon's British army also came under his orders.
 source: sarrail-dowodca-wszystkich-wojsk-ententy-w-salonikach
-sourceHash: c39aaefb1635a9b1c72aa61c781c65a028c47910
+sourceHash: 38abe3bad17ee67e15c56db84ec5336a06606256
 ---
 
-On 16 January 1916 the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), took command of all Allied troops at [Salonika](https://pl.wikipedia.org/wiki/Saloniki). The British official history of the Macedonian campaign states that from then on he had under him not only the French divisions but also Lieutenant-General Bryan Mahon's British Salonika Army and a Serbian detachment, numbering at that time about 3,000 men. Thus a unified command in French hands came into being, and on this front it lasted until the end of the war.
+On 16 January 1916 the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), took command of all Allied troops at [Salonika](/miejsca/saloniki). The British official history of the Macedonian campaign states that from then on he had under him not only the French divisions but also Lieutenant-General Bryan Mahon's British Salonika Army and a Serbian detachment, numbering at that time about 3,000 men. Thus a unified command in French hands came into being, and on this front it lasted until the end of the war.
 
 ## Two armies, two commanders
 

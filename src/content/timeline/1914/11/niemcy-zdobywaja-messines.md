@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-1 listopada 1914 roku Niemcy zdobyli grzbiet między [Messines](https://pl.wikipedia.org/wiki/Mesen) a [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Wytschaete padło w nocy, a o 9 rano brytyjska kawaleria bez walki opuściła Messines, do którego Wirtemberczycy wdarli się poprzedniego dnia. Był to największy niemiecki sukces w [bitwie pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres) od początku natarcia grupy armijnej generała Maxa von Fabecka. Niemcy nie zdołali jednak pójść dalej, bo zachodnie stoki grzbietu obsadzili Francuzi.
+1 listopada 1914 roku Niemcy zdobyli grzbiet między [Messines](https://pl.wikipedia.org/wiki/Mesen) a [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), na południe od [Ypres](/miejsca/ypres). Wytschaete padło w nocy, a o 9 rano brytyjska kawaleria bez walki opuściła Messines, do którego Wirtemberczycy wdarli się poprzedniego dnia. Był to największy niemiecki sukces w [bitwie pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres) od początku natarcia grupy armijnej generała Maxa von Fabecka. Niemcy nie zdołali jednak pójść dalej, bo zachodnie stoki grzbietu obsadzili Francuzi.
 
 ## Noc London Scottish
 

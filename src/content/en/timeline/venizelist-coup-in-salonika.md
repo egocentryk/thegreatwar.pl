@@ -2,10 +2,10 @@
 title: Venizelist coup in Salonika
 summary: On 30 August 1916 Venizelos's supporters set up a Committee of National Defence in Salonika and renounced obedience to Athens. Sarrail did not stop them.
 source: przewrot-wenizelistow-w-salonikach
-sourceHash: 5831e6508e67d54c1801e19be235f2db9f5b9e4c
+sourceHash: cd5d06abbe19cd214b4e77a7f3b3ec903cbbb3e7
 ---
 
-On 30 August 1916, or 17 August by the Julian calendar then used in Greece, a revolt by supporters of [Eleftherios Venizelos](/postacie/elefterios-wenizelos) broke out in [Salonika](https://pl.wikipedia.org/wiki/Saloniki). A group of officers and politicians of the Liberal Party set up a committee, which proclaimed that Greek Macedonia was siding with the Entente and renounced obedience to the government in Athens. The movement took the name National Defence (Ethniki Amyna). At its head stood the officers Konstantinos Mazarakis and Epameinondas Zymvrakakis. The British official history of operations in Macedonia calls it the "Committee of Public Safety". The following night there was an exchange of fire with the garrison loyal to the king, and the matter was decided by the attitude of General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied forces in the city.
+On 30 August 1916, or 17 August by the Julian calendar then used in Greece, a revolt by supporters of [Eleftherios Venizelos](/postacie/elefterios-wenizelos) broke out in [Salonika](/miejsca/saloniki). A group of officers and politicians of the Liberal Party set up a committee, which proclaimed that Greek Macedonia was siding with the Entente and renounced obedience to the government in Athens. The movement took the name National Defence (Ethniki Amyna). At its head stood the officers Konstantinos Mazarakis and Epameinondas Zymvrakakis. The British official history of operations in Macedonia calls it the "Committee of Public Safety". The following night there was an exchange of fire with the garrison loyal to the king, and the matter was decided by the attitude of General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied forces in the city.
 
 ## The Bulgarians in Macedonia
 

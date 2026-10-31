@@ -2,10 +2,10 @@
 title: Franchet d'Espèrey takes command at Salonika
 summary: On 18 June 1918 General Franchet d'Espèrey took command of the Allied armies at Salonika. Guillaumat returned to France as Military Governor of Paris.
 source: franchet-desperey-dowodca-w-salonikach
-sourceHash: df370459b815469bce431740f1874b0492229b06
+sourceHash: ba68b144e07b86295a01b43ba738c6fdec62cb26
 ---
 
-On the morning of 18 June 1918 General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey) took over command of the Allied armies on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) in [Salonika](https://pl.wikipedia.org/wiki/Saloniki). He had arrived the day before, and the post had been vacant for a week: his predecessor, General [Adolphe Guillaumat](/postacie/adolphe-guillaumat), had left for France before his successor reached the scene. This is how the change is described in Cyril Falls's British official history of the Macedonian campaign. The British chronology of the war records Guillaumat's recall under 6 June, his appointment as Governor of Paris under 15 June, and Franchet d'Espèrey's appointment under 18 June. The cause of the whole change was the defeat the French had suffered on the Western Front at the turn of May and June.
+On the morning of 18 June 1918 General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey) took over command of the Allied armies on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) in [Salonika](/miejsca/saloniki). He had arrived the day before, and the post had been vacant for a week: his predecessor, General [Adolphe Guillaumat](/postacie/adolphe-guillaumat), had left for France before his successor reached the scene. This is how the change is described in Cyril Falls's British official history of the Macedonian campaign. The British chronology of the war records Guillaumat's recall under 6 June, his appointment as Governor of Paris under 15 June, and Franchet d'Espèrey's appointment under 18 June. The cause of the whole change was the defeat the French had suffered on the Western Front at the turn of May and June.
 
 ## Guillaumat returns to Paris
 

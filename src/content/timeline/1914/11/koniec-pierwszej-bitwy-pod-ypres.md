@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-22 listopada 1914 roku zakończyła się, według ustalonej po wojnie brytyjskiej nomenklatury, pierwsza bitwa pod [Ypres](https://pl.wikipedia.org/wiki/Ieper). Data jest w dużej mierze umowna. Ostatnie wielkie natarcie Niemcy przypuścili jedenaście dni wcześniej, a w kolejnych dniach walki stopniowo wygasały. Tego dnia kończyło się luzowanie wyczerpanych dywizji brytyjskich przez Francuzów, a niemiecka artyleria podpaliła średniowieczne [Sukiennice](https://pl.wikipedia.org/wiki/Sukiennice_w_Ieper) w centrum miasta. Po pięciu tygodniach walk, które [zaczęły się 19 października](/poczatek-pierwszej-bitwy-pod-ypres), Ypres pozostało w rękach aliantów.
+22 listopada 1914 roku zakończyła się, według ustalonej po wojnie brytyjskiej nomenklatury, pierwsza bitwa pod [Ypres](/miejsca/ypres). Data jest w dużej mierze umowna. Ostatnie wielkie natarcie Niemcy przypuścili jedenaście dni wcześniej, a w kolejnych dniach walki stopniowo wygasały. Tego dnia kończyło się luzowanie wyczerpanych dywizji brytyjskich przez Francuzów, a niemiecka artyleria podpaliła średniowieczne [Sukiennice](https://pl.wikipedia.org/wiki/Sukiennice_w_Ieper) w centrum miasta. Po pięciu tygodniach walk, które [zaczęły się 19 października](/poczatek-pierwszej-bitwy-pod-ypres), Ypres pozostało w rękach aliantów.
 
 ## Ostatnie walki
 

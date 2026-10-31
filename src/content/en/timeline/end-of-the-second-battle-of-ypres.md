@@ -2,10 +2,10 @@
 title: End of the Second Battle of Ypres
 summary: On 25 May 1915 the Second Battle of Ypres died down. After five weeks of fighting and gas attacks the Germans had shrunk the salient but not taken Ypres.
 source: koniec-drugiej-bitwy-pod-ypres
-sourceHash: 59f3d15ae4c9cbb6fc9e2bfa1c41b106de0693fc
+sourceHash: 88cf4d27482aaf6d05e15645f6f9d8f87cd03e49
 ---
 
-On 25 May 1915, for the first time in five weeks, there was no German attack at [Ypres](https://pl.wikipedia.org/wiki/Ieper). The day before, the Germans had [struck with chlorine](/niemiecki-atak-gazowy-pod-bellewaarde) at the British positions from Hooge to Turco Farm and taken Mouse Trap Farm and part of Bellewaarde Ridge, and British night counter-attacks had failed to recover the lost trenches. During the night of 24/25 May the British 4th Division gave up, without interference, the over-exposed wedge of the front at Mouse Trap Farm and manned a rear line between Wieltje and Turco Farm. By morning the front was quiet and the shelling lighter than on previous days. After the war the British Battles Nomenclature Committee ended the Second Battle of Ypres on this day.
+On 25 May 1915, for the first time in five weeks, there was no German attack at [Ypres](/miejsca/ypres). The day before, the Germans had [struck with chlorine](/niemiecki-atak-gazowy-pod-bellewaarde) at the British positions from Hooge to Turco Farm and taken Mouse Trap Farm and part of Bellewaarde Ridge, and British night counter-attacks had failed to recover the lost trenches. During the night of 24/25 May the British 4th Division gave up, without interference, the over-exposed wedge of the front at Mouse Trap Farm and manned a rear line between Wieltje and Turco Farm. By morning the front was quiet and the shelling lighter than on previous days. After the war the British Battles Nomenclature Committee ended the Second Battle of Ypres on this day.
 
 ## Why the fighting stopped
 

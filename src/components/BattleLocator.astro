@@ -1,22 +1,26 @@
 ---
 // Small locator map on a battle page: the region around the battle with a
-// dot, and a link to the battle on the big map. The land is the cached
+// dot, and a link to the battle on the big map. Place pages pass a point
+// (`lat`, `lon`) instead of a battle, and no link. The land is the cached
 // /mapa/<name>.svg used as a CSS mask, so the page carries no map data and the
 // colours follow the theme. Data: src/utils/battleMap.ts.
 import type { Lang } from "@/i18n"
-import { BASEMAP, battlePoint, FRONT_STYLE } from "@/utils/battleMap"
+import { BASEMAP, battlePoint, FRONT_STYLE, pointAt } from "@/utils/battleMap"
 
 interface Props {
   // Polish battle id.
-  id: string
+  id?: string
+  // Or a point of its own (place pages).
+  lat?: number
+  lon?: number
   frontKey: string
   lang?: Lang
   // Fill the container's width (sidebars) instead of the 16rem default.
   full?: boolean
 }
 
-const { id, frontKey, lang = "pl", full = false } = Astro.props
-const point = battlePoint(id)
+const { id, lat, lon, frontKey, lang = "pl", full = false } = Astro.props
+const point = lat !== undefined && lon !== undefined ? pointAt(lat, lon) : id ? battlePoint(id) : undefined
 // Window around the battle in map units (3:2), kept inside the map.
 const view = point && (point.map === "europa" ? { w: 260, h: 173 } : { w: 300, h: 200 })
 let style: Record<string, string> | undefined
@@ -38,11 +42,21 @@ if (point && view) {
   }
 }
 const sea = FRONT_STYLE[frontKey]?.sea
-const href = `${lang === "en" ? "/en/battles/map" : "/bitwy/mapa"}#b-${id}`
+const href = id ? `${lang === "en" ? "/en/battles/map" : "/bitwy/mapa"}#b-${id}` : undefined
 ---
 
 {
-  style && (
+  style && !href && (
+    <span class:list={["block", full ? "" : "mt-3 max-w-[16rem]"]} role="img" aria-label={lang === "en" ? "Location map" : "Mapa położenia"}>
+      <span class="locator border-line relative block aspect-[3/2] overflow-hidden rounded-sm border">
+        <span class="locator-land absolute inset-0" style={style.land} />
+        <span class:list={["locator-dot", sea && "is-sea"]} style={style.dot} />
+      </span>
+    </span>
+  )
+}
+{
+  style && href && (
     <a href={href} class:list={["group block", full ? "" : "mt-3 max-w-[16rem]"]} aria-label={lang === "en" ? "Show on the battle map" : "Pokaż na mapie bitew"}>
       <span class="locator border-line relative block aspect-[3/2] overflow-hidden rounded-sm border">
         <span class="locator-land absolute inset-0" style={style.land} />

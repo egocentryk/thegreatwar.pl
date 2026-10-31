@@ -2,10 +2,10 @@
 title: Serbian army assembled on Corfu
 summary: In February 1916 most of the surviving Serbian army assembled on Corfu. The French fed and clothed the soldiers, and the staff formed them into new divisions.
 source: armia-serbska-zebrana-na-korfu
-sourceHash: 30214450bf55a46245fc83bf2b5030ddb26c9b37
+sourceHash: c338cdae506c042a46d38c261d88d6ec497f43f3
 ---
 
-A British chronology of the war records under 10 February 1916 that the remnants of the Serbian army had been assembled on [Corfu](https://pl.wikipedia.org/wiki/Korfu). The date is a conventional one, because the transports from Albania had been going on [since mid-January](/pierwsi-serbscy-zolnierze-na-korfu) and were not yet over. According to the British official naval history, by 9 February all the Serbian soldiers had been taken off from the area of [Durrës](https://pl.wikipedia.org/wiki/Durrës). From then on the port was covered only by an Italian brigade, about 8,500 men with 36 guns. Some units sailed from Durrës straight to Corfu; others made their way on foot or in small vessels to [Vlorë](https://pl.wikipedia.org/wiki/Wlora) and there transferred to large transports. According to Serbian accounts the shipment from Vlorë lasted from 28 January to 19 February.
+A British chronology of the war records under 10 February 1916 that the remnants of the Serbian army had been assembled on [Corfu](/miejsca/korfu). The date is a conventional one, because the transports from Albania had been going on [since mid-January](/pierwsi-serbscy-zolnierze-na-korfu) and were not yet over. According to the British official naval history, by 9 February all the Serbian soldiers had been taken off from the area of [Durrës](https://pl.wikipedia.org/wiki/Durrës). From then on the port was covered only by an Italian brigade, about 8,500 men with 36 guns. Some units sailed from Durrës straight to Corfu; others made their way on foot or in small vessels to [Vlorë](https://pl.wikipedia.org/wiki/Wlora) and there transferred to large transports. According to Serbian accounts the shipment from Vlorë lasted from 28 January to 19 February.
 
 The numbers grew by the day. On 9 February the correspondent of the Paris *Petit Parisien* estimated that there were already about 75,000 Serbs on the island. On 18 February the London weekly *The Near East* wrote that an army of not much fewer than 100,000 well-equipped soldiers was taking shape on Corfu. According to figures from the French mission, by 19 February almost 139,000 soldiers and civilians had been brought to the island.
 

@@ -2,10 +2,10 @@
 title: End of the battles of Messines and Armentières
 summary: On 2 November 1914 the Germans took Wytschaete from the French, who relieved the British cavalry. The battles of Messines and Armentières end.
 source: koniec-bitew-pod-messines-i-armentieres
-sourceHash: 8a8d86d5da1b9829992649b982c0e3310720998b
+sourceHash: d0b23968e3d51ff1f80f66cb69dcd4461b7db164
 ---
 
-On 2 November 1914, according to the British nomenclature of battles settled after the war, two parallel battles in Flanders came to an end: Messines, in which the cavalry corps of General [Edmund Allenby](/postacie/edmund-allenby) defended the ridge south of [Ypres](https://pl.wikipedia.org/wiki/Ieper), and [Armentières](/bitwy/bitwa-pod-armentieres), where the British III Corps of General William Pulteney held the front in the valley of the [Lys](https://pl.wikipedia.org/wiki/Leie). The date is a convention. The fighting on both sectors went on, but from then on British historiography counts it as part of the First Battle of Ypres.
+On 2 November 1914, according to the British nomenclature of battles settled after the war, two parallel battles in Flanders came to an end: Messines, in which the cavalry corps of General [Edmund Allenby](/postacie/edmund-allenby) defended the ridge south of [Ypres](/miejsca/ypres), and [Armentières](/bitwy/bitwa-pod-armentieres), where the British III Corps of General William Pulteney held the front in the valley of the [Lys](https://pl.wikipedia.org/wiki/Leie). The date is a convention. The fighting on both sectors went on, but from then on British historiography counts it as part of the First Battle of Ypres.
 
 ## Wytschaete in German hands
 

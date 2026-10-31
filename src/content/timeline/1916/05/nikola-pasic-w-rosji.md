@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 7 maja 1916 roku ustanowienie rządu serbskiego w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki). Tego zapisu nie potwierdza żadne inne źródło. Brytyjska historia oficjalna działań w Macedonii podaje, że do Salonik przeniosły się dopiero w lipcu regent Aleksander i serbskie ministerstwo wojny, a premier i większość gabinetu [zostali na Korfu](/rzad-serbski-na-korfu), które było siedzibą rządu do końca wojny. Szef sztabu naczelnego dowództwa, generał [Petar Bojović](/postacie/petar-bojovic), według serbskich opracowań przybył do Salonik z częścią sztabu pod koniec maja, gdy [przewóz armii z wyspy](/poczatek-przewozu-armii-serbskiej-do-salonik) dobiegał końca. W pierwszych dniach maja szef rządu nie przebywał zresztą ani na Korfu, ani w Macedonii, tylko w Rosji.
+Brytyjska chronologia wojny notuje pod 7 maja 1916 roku ustanowienie rządu serbskiego w [Salonikach](/miejsca/saloniki). Tego zapisu nie potwierdza żadne inne źródło. Brytyjska historia oficjalna działań w Macedonii podaje, że do Salonik przeniosły się dopiero w lipcu regent Aleksander i serbskie ministerstwo wojny, a premier i większość gabinetu [zostali na Korfu](/rzad-serbski-na-korfu), które było siedzibą rządu do końca wojny. Szef sztabu naczelnego dowództwa, generał [Petar Bojović](/postacie/petar-bojovic), według serbskich opracowań przybył do Salonik z częścią sztabu pod koniec maja, gdy [przewóz armii z wyspy](/poczatek-przewozu-armii-serbskiej-do-salonik) dobiegał końca. W pierwszych dniach maja szef rządu nie przebywał zresztą ani na Korfu, ani w Macedonii, tylko w Rosji.
 
 ## U cara i Sazonowa
 

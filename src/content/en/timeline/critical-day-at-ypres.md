@@ -2,7 +2,7 @@
 title: Critical day at Ypres
 summary: On 31 October 1914 the Germans broke the British line at Gheluvelt. A counter-attack by the 2nd Worcestershire closed the gap, ending the Battle of Gheluvelt.
 source: koniec-bitwy-pod-gheluvelt
-sourceHash: 50e4ae97f22406cc79d85a43911d5181105ad71d
+sourceHash: 380178d3edc62a6c0d0b163478c7b2383f51e4ac
 brief:
   - "31 October 1914 was the most critical day of the First Battle of Ypres. Around midday the Germans took Gheluvelt, on the road from Menin to Ypres, and broke the line of the British 1st Division."
   - "General Max von Fabeck's army group planned a decisive blow, to be watched by Kaiser Wilhelm II. Gheluvelt was held by depleted battalions of, by British estimates, no more than 2,000 men."
@@ -11,7 +11,7 @@ brief:
   - "That day the Germans came closer than at any other time in 1914 to breaking through at Ypres. The counter-attack passed into British Army legend, but for the 1st and 7th Divisions it marked the end of the old regular army."
 ---
 
-31 October 1914 was the most critical day of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Around midday the Germans took the village of [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld) on the road from Menin to [Ypres](https://pl.wikipedia.org/wiki/Ieper) and broke the line of the British 1st Division. German shells killed several staff officers of two British divisions and severely wounded the commander of one of them. For a few hours it seemed that the road to Ypres, and beyond it to the Channel ports, lay open. The gap was closed by the counter-attack of a single battalion, the 2nd Battalion, Worcestershire Regiment. The British chronology of the war describes the day in these words: British line broken and restored. According to British nomenclature, the Battle of Gheluvelt ends on this day.
+31 October 1914 was the most critical day of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Around midday the Germans took the village of [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld) on the road from Menin to [Ypres](/miejsca/ypres) and broke the line of the British 1st Division. German shells killed several staff officers of two British divisions and severely wounded the commander of one of them. For a few hours it seemed that the road to Ypres, and beyond it to the Channel ports, lay open. The gap was closed by the counter-attack of a single battalion, the 2nd Battalion, Worcestershire Regiment. The British chronology of the war describes the day in these words: British line broken and restored. According to British nomenclature, the Battle of Gheluvelt ends on this day.
 
 ## The Kaiser at the front
 

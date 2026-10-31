@@ -2,10 +2,10 @@
 title: Turkish advance guards on the Suez Canal
 summary: On 2 February 1915 the leading Turkish units approached Ismailia. In a sandstorm they clashed with Indian troops and dug in a few kilometres from the canal.
 source: tureckie-straze-przednie-nad-kanalem-sueskim
-sourceHash: c5cc2f0b386da682f55acfa6f12da4a0dcccb2a6
+sourceHash: 365645145ff83b930c5296f885bff145affd16ac
 ---
 
-On 2 February 1915 the advance guards of the Ottoman army, which since mid-January [had been marching across the Sinai desert](/turecki-marsz-na-kanal-sueski), arrived near the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) opposite [Ismailia](https://pl.wikipedia.org/wiki/Ismailia). After several days of minor skirmishes in the north and south of the canal, it had become clear that the main blow would fall on its central section, between [Lake Timsah](https://pl.wikipedia.org/wiki/Jezioro_Krokodyli) (the Lake of Crocodiles) and the [Great Bitter Lake](https://pl.wikipedia.org/wiki/Wielkie_Jezioro_Gorzkie).
+On 2 February 1915 the advance guards of the Ottoman army, which since mid-January [had been marching across the Sinai desert](/turecki-marsz-na-kanal-sueski), arrived near the [Suez Canal](/miejsca/kanal-sueski) opposite [Ismailia](https://pl.wikipedia.org/wiki/Ismailia). After several days of minor skirmishes in the north and south of the canal, it had become clear that the main blow would fall on its central section, between [Lake Timsah](https://pl.wikipedia.org/wiki/Jezioro_Krokodyli) (the Lake of Crocodiles) and the [Great Bitter Lake](https://pl.wikipedia.org/wiki/Wielkie_Jezioro_Gorzkie).
 
 ## Sandstorm
 

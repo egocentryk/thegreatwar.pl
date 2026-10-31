@@ -2,10 +2,10 @@
 title: Serbian government on Corfu
 summary: At the beginning of February 1916 the whole leadership of Serbia in exile gathered on Corfu. On 6 February the regent Alexander arrived there from Albania.
 source: rzad-serbski-na-korfu
-sourceHash: 0311170b11612be187e14c7d951f85a2bfbc0d3e
+sourceHash: dbc756193749c46281d21486cfebbb00a2e1ac8c
 ---
 
-The British chronology of the war records under 9 February 1916 the establishment of the Serbian government on [Corfu](https://pl.wikipedia.org/wiki/Korfu). The ministers did not, however, arrive on the island that day. The prime minister, [Nikola Pašić](/postacie/nikola-pasic), and part of the cabinet [had sailed there from Brindisi](/rzad-serbski-przenosi-sie-do-brindisi) as early as about 18 January, and two days later held their first meeting. It has not been possible to establish what act the chronology associates with 9 February in particular. What is known is that in the first days of February the whole leadership of the state gathered on Corfu: the government, the high command and the heir to the throne. Only then did the island fully become the seat of Serbia in exile.
+The British chronology of the war records under 9 February 1916 the establishment of the Serbian government on [Corfu](/miejsca/korfu). The ministers did not, however, arrive on the island that day. The prime minister, [Nikola Pašić](/postacie/nikola-pasic), and part of the cabinet [had sailed there from Brindisi](/rzad-serbski-przenosi-sie-do-brindisi) as early as about 18 January, and two days later held their first meeting. It has not been possible to establish what act the chronology associates with 9 February in particular. What is known is that in the first days of February the whole leadership of the state gathered on Corfu: the government, the high command and the heir to the throne. Only then did the island fully become the seat of Serbia in exile.
 
 ## The regent's arrival
 

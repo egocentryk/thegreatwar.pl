@@ -9,10 +9,10 @@ sides:
     commanders: [Friedrich Kress von Kressenstein]
 result: British victory. The attack on Romani collapsed and nearly 4,000 soldiers were taken prisoner. Kress nevertheless managed to withdraw his main force and almost all his artillery to Bir el Abd and then to El Arish.
 source: bitwa-o-romani
-sourceHash: 2eb830cbb65c9f930f34dbd412729b482ff51a6f
+sourceHash: efb6712267b9c3682b38bac9f3b2906ce0e98c16
 ---
 
-The Battle of Romani was the second and last serious attempt by the Ottoman army to threaten the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski). On the night of 3/4 August 1916 about 16,000 Ottoman soldiers, supported by German and Austro-Hungarian special units, attacked the fortified British position at Romani in northern [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)) under the command of the Bavarian colonel Friedrich Kress von Kressenstein. Two brigades of the [Australian Light Horse](https://pl.wikipedia.org/wiki/Australian_Light_Horse) held up the attack in the dunes south of the camp throughout the night and the morning, and in the afternoon New Zealanders and British yeomanry drove the Turks from their furthest-advanced flank. On the morning of 5 August more than one and a half thousand exhausted Ottoman soldiers surrendered on Wellington Ridge, and the rest of the expedition began to fall back eastwards.
+The Battle of Romani was the second and last serious attempt by the Ottoman army to threaten the [Suez Canal](/miejsca/kanal-sueski). On the night of 3/4 August 1916 about 16,000 Ottoman soldiers, supported by German and Austro-Hungarian special units, attacked the fortified British position at Romani in northern [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)) under the command of the Bavarian colonel Friedrich Kress von Kressenstein. Two brigades of the [Australian Light Horse](https://pl.wikipedia.org/wiki/Australian_Light_Horse) held up the attack in the dunes south of the camp throughout the night and the morning, and in the afternoon New Zealanders and British yeomanry drove the Turks from their furthest-advanced flank. On the morning of 5 August more than one and a half thousand exhausted Ottoman soldiers surrendered on Wellington Ridge, and the rest of the expedition began to fall back eastwards.
 
 ## Name and dates
 

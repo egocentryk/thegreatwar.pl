@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: Allied victory. In two days the Flanders Army Group retook all the heights around Ypres, Diksmuide and Messines, taking some 10,000 prisoners and 300 guns, but on 2 October it stalled before the second German position.
 source: piata-bitwa-pod-ypres
-sourceHash: 962565c8dfc566989ce3211c98786aa992b3860b
+sourceHash: 3256d8e0039e52495fe09bb71188bb0e91d34ac7
 brief:
   - "The Fifth Battle of Ypres was fought from 28 September to 2 October 1918. It was the first attack of the Flanders Army Group under the King of the Belgians, Albert I."
   - "The group, made up of the Belgian Army, the British Second Army and French divisions, was the northern wing of Marshal Foch's series of attacks from the Meuse to the sea."
@@ -18,7 +18,7 @@ brief:
   - "The Flanders Army Group took about 10,000 prisoners and 300 guns. The defeat in Flanders was one of the reasons why Ludendorff concluded that Germany had to ask for an armistice."
 ---
 
-The Fifth Battle of Ypres was the first attack of the newly formed Flanders Army Group, made up of the Belgian Army, the British Second Army and several French divisions under the command of the King of the Belgians, [Albert I](/postacie/albert-i). At 5.30 a.m. on 28 September 1918, in pouring rain, it struck the weak German [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). On that single day the Allies took Passchendaele Ridge, Houthulst Forest and the Gheluvelt plateau, almost all the ground the British had fought over for more than three months in 1917 and had given up without a fight in April 1918. The next day the Belgians recovered Diksmuide and the British Messines and Wytschaete. Then the attack bogged down in the mud of the shell-torn battlefield: the roads became choked, the artillery could not keep up, food for the Belgian and French divisions had to be dropped from aircraft, and the Germans had time to bring up fresh divisions. On the evening of 2 October General Herbert Plumer halted the Second Army's attack.
+The Fifth Battle of Ypres was the first attack of the newly formed Flanders Army Group, made up of the Belgian Army, the British Second Army and several French divisions under the command of the King of the Belgians, [Albert I](/postacie/albert-i). At 5.30 a.m. on 28 September 1918, in pouring rain, it struck the weak German [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) east of [Ypres](/miejsca/ypres). On that single day the Allies took Passchendaele Ridge, Houthulst Forest and the Gheluvelt plateau, almost all the ground the British had fought over for more than three months in 1917 and had given up without a fight in April 1918. The next day the Belgians recovered Diksmuide and the British Messines and Wytschaete. Then the attack bogged down in the mud of the shell-torn battlefield: the roads became choked, the artillery could not keep up, food for the Belgian and French divisions had to be dropped from aircraft, and the Germans had time to bring up fresh divisions. On the evening of 2 October General Herbert Plumer halted the Second Army's attack.
 
 ## Name and dates
 

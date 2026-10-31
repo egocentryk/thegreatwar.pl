@@ -2,7 +2,7 @@
 title: Armistice of Salonica
 summary: On 29 September 1918 Bulgaria signed an armistice at Salonica. The fighting stopped at noon on 30 September, the first Central Power out of the war.
 source: rozejm-w-salonikach
-sourceHash: 5e2e1959f0758f2aca3da6fbc1bfea22c03d765f
+sourceHash: 0f63e9ca43141d7763ccef49aff1680f3f702ff3
 brief:
   - "Late in the evening of 29 September 1918 in Salonica General Louis Franchet d'Espérey and delegates of the Bulgarian government signed a convention suspending hostilities. The fighting stopped at noon on 30 September."
   - "Bulgaria was forced into it by defeat: in two weeks the Vardar offensive had shattered its front in Macedonia, and the retreating regiments had begun to mutiny. Malinov's government, with the Tsar's consent, asked for an armistice."
@@ -11,7 +11,7 @@ brief:
   - "Bulgaria was the first of the Central Powers to leave the war, cutting the Ottoman Empire off from Germany and exposing Austria-Hungary. On 3 October Tsar Ferdinand abdicated in favour of his son Boris III."
 ---
 
-At noon on 30 September 1918 the guns fell silent on the Macedonian front. Late in the evening of the previous day, at the headquarters of the Allied armies in [Salonica](https://pl.wikipedia.org/wiki/Saloniki), General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey) and delegates of the Bulgarian government had signed a military convention for the suspension of hostilities. The [Tsardom of Bulgaria](/kraje/bulgaria), which less than three years earlier had [entered the war](/bulgaria-i-serbia-wypowiadaja-sobie-wojne) on the side of Germany, Austria-Hungary and Turkey, was the first of the [Central Powers](/tematy/panstwa-centralne-i-ententa) to lay down its arms. It was forced into the decision by defeat: in two weeks the [Vardar offensive](/bitwy/ofensywa-nad-wardarem) had shattered the Bulgarian front in Macedonia, and the retreating regiments had begun to mutiny.
+At noon on 30 September 1918 the guns fell silent on the Macedonian front. Late in the evening of the previous day, at the headquarters of the Allied armies in [Salonica](/miejsca/saloniki), General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey) and delegates of the Bulgarian government had signed a military convention for the suspension of hostilities. The [Tsardom of Bulgaria](/kraje/bulgaria), which less than three years earlier had [entered the war](/bulgaria-i-serbia-wypowiadaja-sobie-wojne) on the side of Germany, Austria-Hungary and Turkey, was the first of the [Central Powers](/tematy/panstwa-centralne-i-ententa) to lay down its arms. It was forced into the decision by defeat: in two weeks the [Vardar offensive](/bitwy/ofensywa-nad-wardarem) had shattered the Bulgarian front in Macedonia, and the retreating regiments had begun to mutiny.
 
 ## The request for an armistice
 

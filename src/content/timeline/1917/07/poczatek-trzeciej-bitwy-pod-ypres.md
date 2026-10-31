@@ -18,7 +18,7 @@ brief:
   - "Haig ocenił pierwszy dzień jako sukces, ale niemieckiej obrony nigdzie nie przełamano. Ofensywa trwała ponad trzy miesiące i przeszła do historii jako synonim walki w błocie."
 ---
 
-31 lipca 1917 roku o 3.50 nad ranem, w ciemności pod niskimi chmurami, tysiące dział otworzyły ogień zaporowy na froncie od rzeki Lys po zalane łąki pod Steenstraat, a za nim ruszyła do ataku piechota brytyjskiej 5 i 2 Armii oraz francuskiej 1 Armii. Tak zaczęła się [trzecia bitwa pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), wielka ofensywa, którą feldmarszałek [Douglas Haig](/postacie/douglas-haig) szykował od półtora roku i która miała wyprzeć Niemców z wzgórz wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper), a potem z wybrzeża belgijskiego. Pierwszy dzień przyniósł sukces na północy, gdzie alianci zdobyli grzbiet Pilckem, i rozczarowanie na najważniejszym odcinku, płaskowyżu Gheluvelt. Po południu zaczął się deszcz, który miał przesądzić o losie całej kampanii.
+31 lipca 1917 roku o 3.50 nad ranem, w ciemności pod niskimi chmurami, tysiące dział otworzyły ogień zaporowy na froncie od rzeki Lys po zalane łąki pod Steenstraat, a za nim ruszyła do ataku piechota brytyjskiej 5 i 2 Armii oraz francuskiej 1 Armii. Tak zaczęła się [trzecia bitwa pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), wielka ofensywa, którą feldmarszałek [Douglas Haig](/postacie/douglas-haig) szykował od półtora roku i która miała wyprzeć Niemców z wzgórz wokół [Ypres](/miejsca/ypres), a potem z wybrzeża belgijskiego. Pierwszy dzień przyniósł sukces na północy, gdzie alianci zdobyli grzbiet Pilckem, i rozczarowanie na najważniejszym odcinku, płaskowyżu Gheluvelt. Po południu zaczął się deszcz, który miał przesądzić o losie całej kampanii.
 
 ## Siedem tygodni czekania
 

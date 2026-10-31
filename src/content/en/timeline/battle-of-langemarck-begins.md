@@ -2,7 +2,7 @@
 title: Battle of Langemarck begins
 summary: On 21 October 1914 the British I Corps advanced from Ypres towards Bruges. It ran into new German reserve corps and went over to the defensive that same day.
 source: poczatek-bitwy-pod-langemarck
-sourceHash: baa02a9c4f2e8da8f3919e98ad1b2cdb0e8325f2
+sourceHash: 1d51ed39914048a6a501bff02ed0b7dda6e72779
 brief:
   - "On 21 October 1914 General Douglas Haig's British I Corps advanced from Ypres towards Langemarck and Poelkapelle, ordered to march as far as Bruges. British nomenclature dates the Battle of Langemarck from this day."
   - "Field Marshal Sir John French believed only one German corps faced him. In fact Albrecht of Württemberg's new 4th Army was approaching, and according to the British official history the Germans had five divisions against Haig's two."
@@ -11,7 +11,7 @@ brief:
   - "That evening French ordered all corps to hold and entrench their positions until reinforcements arrived. The plan to outflank the German wing in Flanders was dead, and a long defensive battle began at Ypres."
 ---
 
-On 21 October 1914 General [Douglas Haig](/postacie/douglas-haig)'s British I Corps went into the attack north-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper), towards the villages of [Langemarck](https://pl.wikipedia.org/wiki/Langemark) and Poelkapelle. It was to cross Flanders all the way to Bruges. Instead of a weak German screen, it ran into several divisions of new German reserve corps, which were themselves advancing on Ypres. After a few hours of fighting Haig halted the attack, and in the evening the whole British army at Ypres went over to the defensive. British nomenclature dates the Battle of Langemarck, the first stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres), from this day.
+On 21 October 1914 General [Douglas Haig](/postacie/douglas-haig)'s British I Corps went into the attack north-east of [Ypres](/miejsca/ypres), towards the villages of [Langemarck](https://pl.wikipedia.org/wiki/Langemark) and Poelkapelle. It was to cross Flanders all the way to Bruges. Instead of a weak German screen, it ran into several divisions of new German reserve corps, which were themselves advancing on Ypres. After a few hours of fighting Haig halted the attack, and in the evening the whole British army at Ypres went over to the defensive. British nomenclature dates the Battle of Langemarck, the first stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres), from this day.
 
 ## The order to march on Bruges
 

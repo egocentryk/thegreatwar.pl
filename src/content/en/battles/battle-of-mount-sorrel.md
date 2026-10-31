@@ -9,10 +9,10 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Theodor von Watter]
 result: Canadian victory. On 2 June the Germans took Mount Sorrel and Hill 62, but on 13 June the Canadians regained almost the whole of the lost line. The Germans held only the trenches at Hooge.
 source: bitwa-o-mount-sorrel
-sourceHash: f6a892323591f9fe8f4c791499cd91a2a5f690c8
+sourceHash: 688874f5dcfe616020d8822686e6aae28f274097
 ---
 
-The Battle of Mount Sorrel was the largest engagement on the British sector of the Western Front in the months before the [Battle of the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą). It was fought on the eastern edge of the salient around [Ypres](https://pl.wikipedia.org/wiki/Ieper), where the Canadians held the last piece of ridge from which the German rear could be seen. On 2 June 1916, after several hours of devastating bombardment, the Württemberg XIII Corps took the knoll of Mount Sorrel and the neighbouring Hills 61 and 62, killed the commander of the 3rd Canadian Division and broke several hundred metres into the Canadian positions. A hasty counter-attack the next morning failed. Only on 13 June, after a carefully prepared bombardment by more than two hundred guns, did the Canadian infantry in a night attack regain almost the whole of the lost line. It was the first battle won by the Canadian Corps and the first trial of the method that its commander, Lieutenant-General [Julian Byng](/postacie/julian-byng), was later to develop at Vimy.
+The Battle of Mount Sorrel was the largest engagement on the British sector of the Western Front in the months before the [Battle of the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą). It was fought on the eastern edge of the salient around [Ypres](/miejsca/ypres), where the Canadians held the last piece of ridge from which the German rear could be seen. On 2 June 1916, after several hours of devastating bombardment, the Württemberg XIII Corps took the knoll of Mount Sorrel and the neighbouring Hills 61 and 62, killed the commander of the 3rd Canadian Division and broke several hundred metres into the Canadian positions. A hasty counter-attack the next morning failed. Only on 13 June, after a carefully prepared bombardment by more than two hundred guns, did the Canadian infantry in a night attack regain almost the whole of the lost line. It was the first battle won by the Canadian Corps and the first trial of the method that its commander, Lieutenant-General [Julian Byng](/postacie/julian-byng), was later to develop at Vimy.
 
 ## Name and dates
 

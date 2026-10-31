@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Struganik near Mionica (Serbia)
 deathPlace: Belgrade
 source: zivojin-misic
-sourceHash: 561b3827912c0223ba1221af883816178fff6e5d
+sourceHash: 020b04016c0ffb48853fa3b2e8a19cf3169df35c
 ---
 
 Živojin Mišić was the most offensive-minded of the Serbian commanders of the Great War and the only one whose name is linked to both of Serbia's great victories. In November 1914 he took over the shattered First Army, withdrew it deeper into the country against the wishes of the Supreme Command, and a few days later led the counter-attack that began the Austro-Hungarian defeat [on the Kolubara](/bitwy/bitwa-nad-kolubara). In 1918, as chief of staff of the Serbian army, he was co-author and the most ardent advocate of the plan for the [breakthrough at Dobro Pole](/bitwy/bitwa-pod-dobrym-polem). Between those dates he was a commander who, in the worst moments of the retreat through Albania, preferred to keep fighting rather than give way, and who, after a quarrel over posts, found himself outside the army for several months.
@@ -37,7 +37,7 @@ The First Army marched through Montenegro and at the beginning of January 1916 r
 
 ## 1916: Bitola
 
-He spent several months in Italy and France. In April he was the guest of [Joffre](/postacie/joseph-joffre) at headquarters in Chantilly, where he was received as the victor of the Kolubara, the "Serbian Marne". He then returned to [Corfu](https://pl.wikipedia.org/wiki/Korfu), where he waited several months for a posting. When the Serbian army [returned to the front](/odtworzona-armia-serbska-wraca-na-front) in Macedonia and in September 1916 the offensive of General [Maurice Sarrail](/postacie/maurice-sarrail) began, he was summoned to Salonika and again given the First Army, while Vasić took over the Third Army.
+He spent several months in Italy and France. In April he was the guest of [Joffre](/postacie/joseph-joffre) at headquarters in Chantilly, where he was received as the victor of the Kolubara, the "Serbian Marne". He then returned to [Corfu](/miejsca/korfu), where he waited several months for a posting. When the Serbian army [returned to the front](/odtworzona-armia-serbska-wraca-na-front) in Macedonia and in September 1916 the offensive of General [Maurice Sarrail](/postacie/maurice-sarrail) began, he was summoned to Salonika and again given the First Army, while Vasić took over the Third Army.
 
 In the autumn his army fought in the mountainous bend of the Crna. In the [Battle of the Crna and Bitola](/bitwy/bitwa-nad-czarna-rzeka-i-o-bitole) the Serbs pushed back the Bulgarians, and the German battalions sent to help them, step by step, in snow, mud and under constant fire. On 18 November the Serbian Danube Division took Hill 1378, the highest point of the bend, and the next day the Allies entered [Bitola](https://pl.wikipedia.org/wiki/Bitola). It was the first piece of Serbia recovered after a year of exile.
 

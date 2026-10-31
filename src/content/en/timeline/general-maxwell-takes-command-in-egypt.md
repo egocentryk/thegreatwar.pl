@@ -2,7 +2,7 @@
 title: General Maxwell takes command in Egypt
 summary: On 8 September 1914 General Sir John Maxwell took command of the British troops in Egypt. His main task was the defence of the Suez Canal.
 source: general-maxwell-dowodca-w-egipcie
-sourceHash: d9a6e69e993018f49f022f5e139d5e5fcc4ca90c
+sourceHash: faa94f928ab55d3a3536779dfea4440060b9463e
 ---
 
 On 8 September 1914 Lieutenant-General Sir John Maxwell took command of the British troops in [Egypt](https://pl.wikipedia.org/wiki/Egipt). He replaced General [Julian Byng](/postacie/julian-byng), who had been recalled to Europe, where he soon took command of a cavalry division.
@@ -13,7 +13,7 @@ The choice of Maxwell was no accident. He knew Egypt as few in the British Army 
 
 ## The canal and an uncertain neighbour
 
-Egypt formally still belonged to the [Ottoman Empire](/kraje/imperium-osmanskie), although since 1882 it had in fact been ruled by the British. Maxwell's most important task was the defence of the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski), through which troop transports from India and Australia passed. In September 1914 Turkey was still neutral, but it was drawing ever closer to Germany. Maxwell had to reckon with the possibility that it would soon threaten Egypt from the direction of Sinai.
+Egypt formally still belonged to the [Ottoman Empire](/kraje/imperium-osmanskie), although since 1882 it had in fact been ruled by the British. Maxwell's most important task was the defence of the [Suez Canal](/miejsca/kanal-sueski), through which troop transports from India and Australia passed. In September 1914 Turkey was still neutral, but it was drawing ever closer to Germany. Maxwell had to reckon with the possibility that it would soon threaten Egypt from the direction of Sinai.
 
 When the Ottoman Empire entered the war at the beginning of November, Maxwell imposed martial law and press censorship in Egypt. In December Britain proclaimed a protectorate over Egypt, and the pro-Ottoman Khedive [Abbas II Hilmi](https://pl.wikipedia.org/wiki/Abbas_II_Hilmi) was replaced by [Hussein Kamel](https://pl.wikipedia.org/wiki/Husajn_Kamil) as sultan. In February 1915 Maxwell's troops repelled the Turkish attack on the Suez Canal.
 

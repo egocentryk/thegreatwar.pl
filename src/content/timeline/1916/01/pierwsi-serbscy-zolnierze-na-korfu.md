@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 15 stycznia 1916 roku lądowanie pierwszych żołnierzy serbskich na [Korfu](https://pl.wikipedia.org/wiki/Korfu). Cztery dni wcześniej [wylądowali tam Francuzi](/francuzi-zajmuja-korfu), którzy mieli przygotować wyspę na przyjęcie resztek armii z Albanii, a dwa dni wcześniej [Grecja zaprotestowała](/grecja-odmawia-zgody-na-zajecie-korfu) przeciw temu planowi. Szczegółów pierwszego transportu nie udało się ustalić. Według serbskich opracowań regularne przewozy na Korfu zaczęły się 18 stycznia, a głównym miejscem wyładunku była zatoka Gouvia, około 6 kilometrów na północ od miasta Korfu. Korespondent londyńskiego „Daily Chronicle” donosił 21 stycznia z wyspy, że duże oddziały Serbów przypływają codziennie, a ich stan jest straszny.
+Brytyjska chronologia wojny notuje pod 15 stycznia 1916 roku lądowanie pierwszych żołnierzy serbskich na [Korfu](/miejsca/korfu). Cztery dni wcześniej [wylądowali tam Francuzi](/francuzi-zajmuja-korfu), którzy mieli przygotować wyspę na przyjęcie resztek armii z Albanii, a dwa dni wcześniej [Grecja zaprotestowała](/grecja-odmawia-zgody-na-zajecie-korfu) przeciw temu planowi. Szczegółów pierwszego transportu nie udało się ustalić. Według serbskich opracowań regularne przewozy na Korfu zaczęły się 18 stycznia, a głównym miejscem wyładunku była zatoka Gouvia, około 6 kilometrów na północ od miasta Korfu. Korespondent londyńskiego „Daily Chronicle” donosił 21 stycznia z wyspy, że duże oddziały Serbów przypływają codziennie, a ich stan jest straszny.
 
 ## Droga do portów
 

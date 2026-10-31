@@ -2,10 +2,10 @@
 title: Entente urges Greece to help Serbia
 summary: On 15 February 1915 the British and French ministers urged Greece to help Serbia, promising divisions at Salonika. Venizelos refused at once.
 source: ententa-namawia-grecje-do-pomocy-serbii
-sourceHash: 4f9c28671fa124b2f52c45d168c230883b390ac8
+sourceHash: 218a23229181ff0874c0b37a8f52ab3755b8bc3c
 ---
 
-On 15 February 1915 the British minister in Athens, Sir Francis Elliot, and his French colleague presented the Greek prime minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), with a joint démarche from the Entente. Greece was to come to Serbia's aid, and Britain, France and Russia undertook to send one division each to [Salonika](https://pl.wikipedia.org/wiki/Saloniki) to secure the Greek rear and lines of communication. Venizelos rejected the proposal the same day, without even consulting the King.
+On 15 February 1915 the British minister in Athens, Sir Francis Elliot, and his French colleague presented the Greek prime minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), with a joint démarche from the Entente. Greece was to come to Serbia's aid, and Britain, France and Russia undertook to send one division each to [Salonika](/miejsca/saloniki) to secure the Greek rear and lines of communication. Venizelos rejected the proposal the same day, without even consulting the King.
 
 ## A plan from London
 

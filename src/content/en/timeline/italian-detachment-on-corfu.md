@@ -2,10 +2,10 @@
 title: Italian detachment on Corfu
 summary: In February 1916 Italian Carabinieri landed on Corfu. Greece, suspecting Rome of designs on the island, protested and a diplomatic dispute broke out.
 source: wloski-oddzial-na-korfu
-sourceHash: 9ec701df6c9409ddc1737f84f23c297cb32a0acf
+sourceHash: a9b73430415527d975c4d98d6e1f2bc889559af4
 ---
 
-The British chronology of the war records under 11 February 1916 that an Italian detachment arrived on [Corfu](https://pl.wikipedia.org/wiki/Korfu). The island had been held for a month by [the French](/francuzi-zajmuja-korfu), and tens of thousands of soldiers of the [Serbian army evacuated from Albania](/armia-serbska-zebrana-na-korfu) were coming ashore there. The Italian presence was modest, but it caused particular indignation in Greece.
+The British chronology of the war records under 11 February 1916 that an Italian detachment arrived on [Corfu](/miejsca/korfu). The island had been held for a month by [the French](/francuzi-zajmuja-korfu), and tens of thousands of soldiers of the [Serbian army evacuated from Albania](/armia-serbska-zebrana-na-korfu) were coming ashore there. The Italian presence was modest, but it caused particular indignation in Greece.
 
 ## A handful of Carabinieri
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 11 grudnia 1915 roku, czyli 28 listopada według kalendarza juliańskiego, że rząd grecki odrzucił żądanie Ententy, by wycofać wojska greckie z [Salonik](https://pl.wikipedia.org/wiki/Saloniki). To prawda, ale tylko połowiczna. Odpowiedź, którą tego dnia generał [Maurice Sarrail](/postacie/maurice-sarrail) otrzymał za pośrednictwem greckiego wysłannika, podpułkownika Pallisa, była kompromisem wynegocjowanym poprzedniego wieczoru w Atenach. Grecja nie oddała miasta, ale zobowiązała się, że nie będzie przeszkadzać sprzymierzonym w jego obronie.
+Brytyjska chronologia wojny notuje pod 11 grudnia 1915 roku, czyli 28 listopada według kalendarza juliańskiego, że rząd grecki odrzucił żądanie Ententy, by wycofać wojska greckie z [Salonik](/miejsca/saloniki). To prawda, ale tylko połowiczna. Odpowiedź, którą tego dnia generał [Maurice Sarrail](/postacie/maurice-sarrail) otrzymał za pośrednictwem greckiego wysłannika, podpułkownika Pallisa, była kompromisem wynegocjowanym poprzedniego wieczoru w Atenach. Grecja nie oddała miasta, ale zobowiązała się, że nie będzie przeszkadzać sprzymierzonym w jego obronie.
 
 ## Wieczór 10 grudnia
 

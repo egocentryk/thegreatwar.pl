@@ -2,7 +2,7 @@
 title: Resignation of Archibald Murray
 summary: On 22 December 1915 Gen. Archibald Murray stepped down as Chief of the Imperial General Staff. He left behind a plan to concentrate forces in France.
 source: dymisja-archibalda-murraya
-sourceHash: f2e7737f979760d1ead4c37715d269fa4cdc63c0
+sourceHash: 8b4718bb0774a5bae35e480c32d7cf2d8accd025
 ---
 
 The British chronology of the war records under 22 December 1915 that Lieutenant-General Sir Archibald Murray resigned as Chief of the Imperial General Staff. The next day he was succeeded by General William Robertson. Some studies give 23 December, the day his successor took office, as the date of Murray's departure. Murray had headed the general staff in London [since 26 September 1915](/archibald-murray-szefem-sztabu-imperialnego), that is, for less than three months. He did not leave because of a failure. He fell victim to the great reshuffle at the top of the army that the Prime Minister, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), had prepared in the autumn.
@@ -17,4 +17,4 @@ After his return, on 16 December, Murray submitted to the government's [War Comm
 
 ## A new assignment
 
-Murray was not left without a post. He was appointed to succeed General Charles Monro as Commander-in-Chief of the [Mediterranean Expeditionary Force](/monro-naczelnym-dowodca-na-morzu-srodziemnym). After the evacuation of Gallipoli, this force was to assemble and refit in Egypt. According to the British official history, Murray received instructions from Kitchener to establish his headquarters in Egypt, to command the troops gathering there and to be responsible for the defence of the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski), while the British troops on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) were to come under his general supervision. He arrived in Egypt on 9 January 1916 and took over command from Monro the next day. In March 1916 he also took over the troops defending Egypt itself and became head of all British forces in that country.
+Murray was not left without a post. He was appointed to succeed General Charles Monro as Commander-in-Chief of the [Mediterranean Expeditionary Force](/monro-naczelnym-dowodca-na-morzu-srodziemnym). After the evacuation of Gallipoli, this force was to assemble and refit in Egypt. According to the British official history, Murray received instructions from Kitchener to establish his headquarters in Egypt, to command the troops gathering there and to be responsible for the defence of the [Suez Canal](/miejsca/kanal-sueski), while the British troops on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki) were to come under his general supervision. He arrived in Egypt on 9 January 1916 and took over command from Monro the next day. In March 1916 he also took over the troops defending Egypt itself and became head of all British forces in that country.

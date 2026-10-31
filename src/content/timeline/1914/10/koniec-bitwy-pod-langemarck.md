@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-24 października 1914 roku zakończyła się według brytyjskiej nomenklatury bitwa pod Langemarck, pierwszy etap [pierwszej bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Trzy dni wcześniej brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) [ruszył na Brugię](/poczatek-bitwy-pod-langemarck), ale natrafił na nowe niemieckie korpusy rezerwowe i przeszedł do obrony. Od 22 do 24 października Niemcy atakowali niemal bez przerwy na całym łuku wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper), od kanału Ypres–Yser po Zandvoorde. Brytyjczycy utrzymali front, choć ostatniego dnia Niemcy przerwali go w lesie Polygon. Na północ od miasta Brytyjczyków zluzowali Francuzi.
+24 października 1914 roku zakończyła się według brytyjskiej nomenklatury bitwa pod Langemarck, pierwszy etap [pierwszej bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Trzy dni wcześniej brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) [ruszył na Brugię](/poczatek-bitwy-pod-langemarck), ale natrafił na nowe niemieckie korpusy rezerwowe i przeszedł do obrony. Od 22 do 24 października Niemcy atakowali niemal bez przerwy na całym łuku wokół [Ypres](/miejsca/ypres), od kanału Ypres–Yser po Zandvoorde. Brytyjczycy utrzymali front, choć ostatniego dnia Niemcy przerwali go w lesie Polygon. Na północ od miasta Brytyjczyków zluzowali Francuzi.
 
 ## Karczma Kortekeer
 

@@ -2,10 +2,10 @@
 title: Start of the First Battle of the Isonzo
 summary: The British chronology dates the start of the First Battle of the Isonzo to 29 June 1915. Yet the Italians had been attacking on the Soča since 23 June.
 source: poczatek-pierwszej-bitwy-nad-isonzo
-sourceHash: cecb6a2a974658eac875ddbb63d1ab1e4409a0da
+sourceHash: 21651d05ba1515dad358362aa82aaa29c7483627
 ---
 
-The British chronology of the war records under 29 June 1915 the start of the First Battle of the Isonzo. The Italian official history and most historians, however, date its beginning to 23 June. At dawn that day the Italian artillery opened fire along the whole front on the [Soča](https://pl.wikipedia.org/wiki/Socza), from the mountains above [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic coast, and the infantry went into its first attacks. By 29 June, therefore, the battle had already been going on for a week, and its first stage was drawing to a close without a decision. We have not been able to establish where the date in the British list came from.
+The British chronology of the war records under 29 June 1915 the start of the First Battle of the Isonzo. The Italian official history and most historians, however, date its beginning to 23 June. At dawn that day the Italian artillery opened fire along the whole front on the [Soča](/bitwy/bitwy-nad-isonzo), from the mountains above [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic coast, and the infantry went into its first attacks. By 29 June, therefore, the battle had already been going on for a week, and its first stage was drawing to a close without a decision. We have not been able to establish where the date in the British list came from.
 
 ## Cadorna's plan
 

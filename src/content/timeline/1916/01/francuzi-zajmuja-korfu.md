@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 11 stycznia 1916 roku francuski okręt wojenny wysadził na [Korfu](https://pl.wikipedia.org/wiki/Korfu) oddział żołnierzy. Tak relacjonowała to włoska agencja Stefani, a datę 11 stycznia podają też brytyjska chronologia wojny, „The Times History of the War” i amerykańskie roczniki z epoki. Część późniejszych opracowań mówi o 12 stycznia, co może wynikać z tego, że prasa doniosła o lądowaniu dzień później. Dzień wcześniej posłowie Ententy w Atenach [zawiadomili rząd grecki](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu), że wyspa przyjmie resztki armii serbskiej z Albanii. Francuzi mieli przygotować ją na przybycie dziesiątków tysięcy wygłodzonych i chorych ludzi.
+Wieczorem 11 stycznia 1916 roku francuski okręt wojenny wysadził na [Korfu](/miejsca/korfu) oddział żołnierzy. Tak relacjonowała to włoska agencja Stefani, a datę 11 stycznia podają też brytyjska chronologia wojny, „The Times History of the War” i amerykańskie roczniki z epoki. Część późniejszych opracowań mówi o 12 stycznia, co może wynikać z tego, że prasa doniosła o lądowaniu dzień później. Dzień wcześniej posłowie Ententy w Atenach [zawiadomili rząd grecki](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu), że wyspa przyjmie resztki armii serbskiej z Albanii. Francuzi mieli przygotować ją na przybycie dziesiątków tysięcy wygłodzonych i chorych ludzi.
 
 ## Flaga nad Achilleionem
 

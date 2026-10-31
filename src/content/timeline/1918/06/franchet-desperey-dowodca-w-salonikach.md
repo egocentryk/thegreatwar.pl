@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-18 czerwca 1918 roku rano generał [Louis Franchet d'Espérey](/postacie/louis-franchet-d-esperey) przejął w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) dowództwo armii sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). Przybył dzień wcześniej, a stanowisko było od tygodnia nieobsadzone: jego poprzednik, generał [Adolphe Guillaumat](/postacie/adolphe-guillaumat), wyjechał do Francji, zanim następca dotarł na miejsce. Tak przebieg zmiany opisuje brytyjska historia oficjalna kampanii macedońskiej Cyrila Fallsa. Brytyjska chronologia wojny notuje odwołanie Guillaumata pod 6 czerwca, jego nominację na gubernatora Paryża pod 15 czerwca, a nominację Franchet d'Espéreya pod 18 czerwca. Przyczyną całej zmiany była klęska, jaką Francuzi ponieśli na przełomie maja i czerwca na froncie zachodnim.
+18 czerwca 1918 roku rano generał [Louis Franchet d'Espérey](/postacie/louis-franchet-d-esperey) przejął w [Salonikach](/miejsca/saloniki) dowództwo armii sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). Przybył dzień wcześniej, a stanowisko było od tygodnia nieobsadzone: jego poprzednik, generał [Adolphe Guillaumat](/postacie/adolphe-guillaumat), wyjechał do Francji, zanim następca dotarł na miejsce. Tak przebieg zmiany opisuje brytyjska historia oficjalna kampanii macedońskiej Cyrila Fallsa. Brytyjska chronologia wojny notuje odwołanie Guillaumata pod 6 czerwca, jego nominację na gubernatora Paryża pod 15 czerwca, a nominację Franchet d'Espéreya pod 18 czerwca. Przyczyną całej zmiany była klęska, jaką Francuzi ponieśli na przełomie maja i czerwca na froncie zachodnim.
 
 ## Guillaumat wraca do Paryża
 

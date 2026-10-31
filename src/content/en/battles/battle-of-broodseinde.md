@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: British victory. Australians, New Zealanders and British took the Broodseinde ridge and the Gravenstafel spur, broke two German divisions and took nearly 5,000 prisoners.
 source: bitwa-pod-broodseinde
-sourceHash: bcecf84bd6ac56ea905f1337b99ac63fb0922736
+sourceHash: e2628173d1004f034c7e3cf993d7c041f01f1489
 brief:
   - "The Battle of Broodseinde, fought on 4 October 1917, was the third and most important of General Herbert Plumer's \"bites\" in the Third Battle of Ypres. Twelve divisions of the Second and Fifth Armies attacked."
   - "The main blow was struck by the two Anzac corps, fighting side by side with four divisions for the first time. Their objective was the Broodseinde ridge, since 1915 the mainstay of the German defence east of Ypres."
@@ -18,7 +18,7 @@ brief:
   - "Broodseinde remained the most successful attack of the Third Battle of Ypres, but the rain that began that day turned the battlefield into a swamp, and Plumer's method ceased to work."
 ---
 
-The Battle of Broodseinde was the third and most important of General [Herbert Plumer's](/postacie/herbert-plumer) September–October "bites" in the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). At 6 a.m. on 4 October 1917 twelve British divisions of the [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Wielka_Brytania)) and the Fifth Army went forward on a front of about 13 kilometres, from the [Ypres](https://pl.wikipedia.org/wiki/Ieper)–Menin road to the Staden railway. The main blow was struck by the two Anzac corps, which for the first time in the war fought side by side with four divisions: three Australian and the New Zealand Division. Their objective was the Broodseinde ridge, since 1915 the mainstay of the German defence east of Ypres. By chance the Germans had prepared an attack of their own for the same dawn, and the advancing Australians collided with them in no man's land. Before nine o'clock the whole ridge was in Anzac hands, and the German counter-attacks broke down under artillery fire. The German official history called the day "the black day of 4 October". That same day, however, the rains returned, and in the following weeks they dashed the hopes the victory had raised.
+The Battle of Broodseinde was the third and most important of General [Herbert Plumer's](/postacie/herbert-plumer) September–October "bites" in the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). At 6 a.m. on 4 October 1917 twelve British divisions of the [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Wielka_Brytania)) and the Fifth Army went forward on a front of about 13 kilometres, from the [Ypres](/miejsca/ypres)–Menin road to the Staden railway. The main blow was struck by the two Anzac corps, which for the first time in the war fought side by side with four divisions: three Australian and the New Zealand Division. Their objective was the Broodseinde ridge, since 1915 the mainstay of the German defence east of Ypres. By chance the Germans had prepared an attack of their own for the same dawn, and the advancing Australians collided with them in no man's land. Before nine o'clock the whole ridge was in Anzac hands, and the German counter-attacks broke down under artillery fire. The German official history called the day "the black day of 4 October". That same day, however, the rains returned, and in the following weeks they dashed the hopes the victory had raised.
 
 ## Name and dates
 

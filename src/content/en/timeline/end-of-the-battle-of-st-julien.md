@@ -2,10 +2,10 @@
 title: End of the Battle of St. Julien
 summary: During the night of 3–4 May 1915 the British secretly left the tip of the Ypres salient. In the morning the Germans were still shelling empty trenches.
 source: koniec-bitwy-pod-st-julien
-sourceHash: 1fcb7a99af25ba074c2494a029b20362e19d54f7
+sourceHash: a7cfb92443f55534b712fd3853ab265b55fd868e
 ---
 
-On the morning of 4 May 1915 the German artillery, as every day, rained shells on the British trenches on the eastern edge of the salient at [Ypres](https://pl.wikipedia.org/wiki/Ieper). The trenches, however, were empty. During the night the infantry of the British 27th, 28th and 4th Divisions had left the projecting tip of the salient and occupied a new, shorter line, on average about 3.5 kilometres closer to the town. The withdrawal, which the Germans noticed only after several hours, ended the fighting the British later named the Battle of St. Julien, after the village of Sint-Juliaan, lost by the Canadians [on 24 April](/poczatek-bitwy-pod-st-julien).
+On the morning of 4 May 1915 the German artillery, as every day, rained shells on the British trenches on the eastern edge of the salient at [Ypres](/miejsca/ypres). The trenches, however, were empty. During the night the infantry of the British 27th, 28th and 4th Divisions had left the projecting tip of the salient and occupied a new, shorter line, on average about 3.5 kilometres closer to the town. The withdrawal, which the Germans noticed only after several hours, ended the fighting the British later named the Battle of St. Julien, after the village of Sint-Juliaan, lost by the Canadians [on 24 April](/poczatek-bitwy-pod-st-julien).
 
 Field Marshal [John French](/postacie/john-french) took the decision to withdraw on 1 May, when yet another announced French counter-attack north of Ypres failed to materialise. That same day General [Ferdinand Foch](/postacie/ferdinand-foch) handed him a note from General [Joseph Joffre](/postacie/joseph-joffre): the Allies' main aim was now to be an offensive between Arras and Neuve-Chapelle, and at Ypres they were only to stand on the defensive. General [Herbert Plumer](/postacie/herbert-plumer), who had commanded the troops in the salient since 27 April, had a plan ready. Over two nights guns, transport, reserves and wounded were withdrawn across the canal, and on the last night, 3–4 May, the front-line infantry was to leave.
 

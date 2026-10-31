@@ -2,10 +2,10 @@
 title: End of the Sixth Battle of the Isonzo
 summary: On 17 August 1916 Cadorna halted the offensive on the Isonzo. After taking Gorizia the Italians spent a week vainly storming the new Austrian defence line.
 source: koniec-szostej-bitwy-nad-isonzo
-sourceHash: 250f18f419f5b6fe99ca1733b4e04e2e50855047
+sourceHash: 31db681746979970c4c721d716bd9eb247cf6a9b
 ---
 
-On 17 August 1916 General [Luigi Cadorna](/postacie/luigi-cadorna) halted the offensive on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), which had begun eleven days earlier with the storming of the Gorizia bridgehead. In the first three days of the battle the Italians won their greatest victory of this war: they took Monte Sabotino, Monte San Michele and [Gorizia itself](/wlosi-zdobywaja-gorycje), and the Austrians abandoned the Doberdò plateau. The attacks on the new line of defence, to which the Austro-Hungarian 5th Army had fallen back on the night of 8–9 August, brought almost nothing, however.
+On 17 August 1916 General [Luigi Cadorna](/postacie/luigi-cadorna) halted the offensive on the [Isonzo](/bitwy/bitwy-nad-isonzo), which had begun eleven days earlier with the storming of the Gorizia bridgehead. In the first three days of the battle the Italians won their greatest victory of this war: they took Monte Sabotino, Monte San Michele and [Gorizia itself](/wlosi-zdobywaja-gorycje), and the Austrians abandoned the Doberdò plateau. The attacks on the new line of defence, to which the Austro-Hungarian 5th Army had fallen back on the night of 8–9 August, brought almost nothing, however.
 
 This line ran from Monte San Gabriele through Santa Caterina hill and the low hills east of Gorizia to the [Vipava](https://pl.wikipedia.org/wiki/Vipava_(rzeka)) valley, and further south along the eastern edge of the Vallone valley on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. From 10 August the Italians stormed it with ever larger forces. The heaviest fighting was for Santa Caterina, for hills 171 and 174 by the road east from Gorizia and for San Pietro, and on the Karst for Nad Logem hill and the trenches at Lokvica and Oppacchiasella. On 14 August both Italian armies on the Isonzo attacked along the whole front from Plava to Oppacchiasella, supported even by armoured cars, and on 15 August the last great assault was launched at Gorizia on an eight-kilometre sector. Each time the defenders, strengthened by reinforcements arriving from the Tyrol and from the Eastern Front, retook the lost trenches in hand-to-hand fighting.
 

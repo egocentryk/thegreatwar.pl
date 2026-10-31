@@ -18,7 +18,7 @@ brief:
   - "Planowana ofensywa aliantów zamieniła się w bój obronny, który trwał ponad miesiąc. Alianci utrzymali Ypres kosztem ogromnych strat, a pod Ypres wykrwawiła się zawodowa armia brytyjska."
 ---
 
-19 października 1914 roku rozpoczęła się [pierwsza bitwa pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), ostatnia i najkrwawsza bitwa [wyścigu do morza](/bitwy/wyscig-do-morza). Tę datę przyjęła po wojnie brytyjska komisja do spraw nazewnictwa bitew. Tego dnia brytyjska 7 Dywizja ruszyła na Menin, by obejść niemieckie skrzydło, ale zamiast słabych osłon natrafiła na czoło nowej niemieckiej armii, która nadciągała przez Belgię w stronę [Ypres](https://pl.wikipedia.org/wiki/Ieper). Natarcie odwołano, a w kolejnych tygodniach to Niemcy atakowali, próbując przełamać front i dotrzeć do portów nad kanałem La Manche.
+19 października 1914 roku rozpoczęła się [pierwsza bitwa pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), ostatnia i najkrwawsza bitwa [wyścigu do morza](/bitwy/wyscig-do-morza). Tę datę przyjęła po wojnie brytyjska komisja do spraw nazewnictwa bitew. Tego dnia brytyjska 7 Dywizja ruszyła na Menin, by obejść niemieckie skrzydło, ale zamiast słabych osłon natrafiła na czoło nowej niemieckiej armii, która nadciągała przez Belgię w stronę [Ypres](/miejsca/ypres). Natarcie odwołano, a w kolejnych tygodniach to Niemcy atakowali, próbując przełamać front i dotrzeć do portów nad kanałem La Manche.
 
 ## Dwie ofensywy
 

@@ -2,7 +2,7 @@
 title: Internment of Mackensen
 summary: On 16 December 1918 Field Marshal Mackensen's train from Romania was stopped in Budapest. At French insistence the Hungarians interned him at Fót.
 source: internowanie-mackensena
-sourceHash: 218e3ab259ea34c1089b969aba2641c9f055833d
+sourceHash: 21834894abb7cdc81101989f1322a9d54ce1d4e5
 ---
 
 On 16 December 1918, at Budapest's Ferencváros station, the special train of Field Marshal [August von Mackensen](/postacie/august-von-mackensen), returning to Germany from occupied Romania, was stopped. The victor of Gorlice and conqueror of Bucharest, until recently one of the most respected commanders of the Central Powers, had to accept the conditions of the Hungarian government, which was acting under French pressure. According to the Hungarian military history, two days later Mackensen was already interned in the Károlyi counts' palace at [Fót](https://pl.wikipedia.org/wiki/Fót) near Budapest.
@@ -21,4 +21,4 @@ Hungarian public opinion was divided. The Social Democrats and Communists welcom
 
 ## A prisoner of the French
 
-The stay at Fót did not last long. On 31 December the palace was surrounded by French [spahis](https://pl.wikipedia.org/wiki/Spahisi_(Francja)), and according to Bánlaky, on 4 January 1919 the French, despite the protests of the Hungarian government, took Mackensen south via [Gödöllő](https://pl.wikipedia.org/wiki/Gödöllő). Some Hungarian sources state that Károlyi handed him over to the Entente only in March 1919. The field marshal was then held as a prisoner at [Futog](https://pl.wikipedia.org/wiki/Futog) near Novi Sad and later in [Salonika](https://pl.wikipedia.org/wiki/Saloniki). He was released at the end of November 1919 and returned to Germany in December.
+The stay at Fót did not last long. On 31 December the palace was surrounded by French [spahis](https://pl.wikipedia.org/wiki/Spahisi_(Francja)), and according to Bánlaky, on 4 January 1919 the French, despite the protests of the Hungarian government, took Mackensen south via [Gödöllő](https://pl.wikipedia.org/wiki/Gödöllő). Some Hungarian sources state that Károlyi handed him over to the Entente only in March 1919. The field marshal was then held as a prisoner at [Futog](https://pl.wikipedia.org/wiki/Futog) near Novi Sad and later in [Salonika](/miejsca/saloniki). He was released at the end of November 1919 and returned to Germany in December.

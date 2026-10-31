@@ -2,10 +2,10 @@
 title: Venizelos asks for an Allied landing at Salonika
 summary: On 2 October 1915 Venizelos asked France and Britain to send troops to Salonika at once. A day earlier he had ordered the ships bound there to turn back.
 source: wenizelos-prosi-o-wyladowanie-w-salonikach
-sourceHash: 6501f2ae56d2a4fae727b5df18d8b34bdf0f3bf7
+sourceHash: 87701a26aa2630e701d19e90c60ed07db6e44b47
 ---
 
-On 2 October 1915 (19 September by the Julian calendar, which Greece then used) Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos) asked the French and British ministers in [Athens](https://pl.wikipedia.org/wiki/Ateny) for their troops to come to [Salonika](https://pl.wikipedia.org/wiki/Saloniki) as quickly as possible. The request was surprising, because only a day earlier the same prime minister had halted the whole expedition. After a week of conflicting signals, in which Athens one moment [accepted](/konstantyn-godzi-sie-na-ekspedycje-do-salonik) and the next [rejected](/grecja-odrzuca-oferte-wojsk-ententy) Entente help, the road to Salonika was open again.
+On 2 October 1915 (19 September by the Julian calendar, which Greece then used) Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos) asked the French and British ministers in [Athens](https://pl.wikipedia.org/wiki/Ateny) for their troops to come to [Salonika](/miejsca/saloniki) as quickly as possible. The request was surprising, because only a day earlier the same prime minister had halted the whole expedition. After a week of conflicting signals, in which Athens one moment [accepted](/konstantyn-godzi-sie-na-ekspedycje-do-salonik) and the next [rejected](/grecja-odrzuca-oferte-wojsk-ententy) Entente help, the road to Salonika was open again.
 
 ## The alarm of 1 October
 

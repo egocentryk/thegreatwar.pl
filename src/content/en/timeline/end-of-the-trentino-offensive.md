@@ -2,7 +2,7 @@
 title: End of the Trentino offensive
 summary: On 3 June 1916 the Austrians took Monte Cengio, but Cadorna said he would stop them in the mountains. The attack faded, though assaults went on two more weeks.
 source: koniec-ofensywy-w-trydencie
-sourceHash: cabf96192ad466b3820149fd70b1e9b7a1239984
+sourceHash: 62c86b62762b3cbd8b2122f67e698e8e7f052162
 ---
 
 The British chronology of the war records under 3 June 1916 the end of the main Austro-Hungarian offensive in the Trentino, which [had begun in mid-May](/poczatek-ofensywy-w-trydencie). It is a conventional date. On that day Austro-Hungarian mountain riflemen took the main summit of Monte Cengio, the last mountain on the south-western edge of the [Asiago](https://pl.wikipedia.org/wiki/Asiago) plateau, and the Italian Supreme Command announced in its war bulletin that the enemy would not pass the barrier of the mountains. The Austrians, however, went on attacking. According to their official history, the last attacks on the plateaux took place between 12 and 16 June, and the order to go over to the defensive reached the Army Group headquarters in Bolzano only on the evening of 16 June.
@@ -17,7 +17,7 @@ The success, however, did not bring a breakthrough. On the same day the Austro-H
 
 ## Why the attack stalled
 
-On the western wing the offensive had slowed down even earlier. The Italians held the main ridge of the [Pasubio](https://pl.wikipedia.org/wiki/Monte_Pasubio) massif and the Coni Zugna mountain above the Adige valley, and they had repulsed the heaviest attacks on the Buole pass at the end of May. The Austrians had to haul heavy guns over ruined roads, and every few days rain and fog immobilised the artillery on which each new attack depended. Meanwhile the Italians already had a new army behind them. On 2 June five corps of the 5th Army, formed on 21 May from troops brought from the [Isonzo](https://pl.wikipedia.org/wiki/Socza), assembled on the plain near [Vicenza](https://pl.wikipedia.org/wiki/Vicenza). From it Cadorna had already sent the whole of XXIV Corps into the mountains.
+On the western wing the offensive had slowed down even earlier. The Italians held the main ridge of the [Pasubio](https://pl.wikipedia.org/wiki/Monte_Pasubio) massif and the Coni Zugna mountain above the Adige valley, and they had repulsed the heaviest attacks on the Buole pass at the end of May. The Austrians had to haul heavy guns over ruined roads, and every few days rain and fog immobilised the artillery on which each new attack depended. Meanwhile the Italians already had a new army behind them. On 2 June five corps of the 5th Army, formed on 21 May from troops brought from the [Isonzo](/bitwy/bitwy-nad-isonzo), assembled on the plain near [Vicenza](https://pl.wikipedia.org/wiki/Vicenza). From it Cadorna had already sent the whole of XXIV Corps into the mountains.
 
 [Luigi Cadorna](/postacie/luigi-cadorna) wrote after the war that it was on 2 June that he became certain the enemy would not come down into the plain. On that day he ordered the 1st Army to seize the initiative: first to consolidate the front on the Asiago plateau, and then to strike the flanks of the Austro-Hungarian wedge. On 3 June he ordered the recapture of Col Santo north of the Pasubio, and the war bulletin of that day announced to the Italians that the offensive had been halted. Even the loss of Monte Cengio on the same day did not change this assessment.
 

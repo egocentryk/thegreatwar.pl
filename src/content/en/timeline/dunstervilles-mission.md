@@ -2,10 +2,10 @@
 title: Dunsterville's mission
 summary: On 27 January 1918 General Lionel Dunsterville left Baghdad with 41 Fords across Persia for the Caspian to organise a defence of the Caucasus against the Turks.
 source: misja-dunsterville
-sourceHash: 13cc440b686a4532bb13c9647ceaa808494a6b65
+sourceHash: bddf55da3bbb8e6de4f81969921a46e1ef2bd6cf
 ---
 
-At seven in the morning of 27 January 1918 a column of 41 [Model T Ford](https://pl.wikipedia.org/wiki/Ford_Model_T) cars lined up beneath the walls of [Baghdad](https://pl.wikipedia.org/wiki/Bagdad): four cars and several dozen light vans. They carried a dozen or so officers, a handful of NCOs and orderlies, drivers, stores, medicines and boxes of Persian silver and English gold. At their head rode Major-General Lionel Dunsterville, appointed head of the British military mission to the Caucasus and British representative in [Tiflis](https://pl.wikipedia.org/wiki/Tbilisi). So began the expedition that went down in history as [Dunsterforce](https://pl.wikipedia.org/wiki/Dunsterforce). F.J. Moberly's British official history of the Mesopotamian campaign counts 11 officers, four NCOs and four orderlies in the first party. Dunsterville himself lists twelve officers and two clerk sergeants in his memoirs. For fighting he had the drivers' 41 rifles and one Lewis gun.
+At seven in the morning of 27 January 1918 a column of 41 [Model T Ford](https://pl.wikipedia.org/wiki/Ford_Model_T) cars lined up beneath the walls of [Baghdad](/miejsca/bagdad): four cars and several dozen light vans. They carried a dozen or so officers, a handful of NCOs and orderlies, drivers, stores, medicines and boxes of Persian silver and English gold. At their head rode Major-General Lionel Dunsterville, appointed head of the British military mission to the Caucasus and British representative in [Tiflis](https://pl.wikipedia.org/wiki/Tbilisi). So began the expedition that went down in history as [Dunsterforce](https://pl.wikipedia.org/wiki/Dunsterforce). F.J. Moberly's British official history of the Mesopotamian campaign counts 11 officers, four NCOs and four orderlies in the first party. Dunsterville himself lists twelve officers and two clerk sergeants in his memoirs. For fighting he had the drivers' 41 rifles and one Lewis gun.
 
 ## The gap left by the Russians
 

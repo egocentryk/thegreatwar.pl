@@ -2,14 +2,14 @@
 title: Second clash at Krivolak
 summary: At the end of October 1915 the Bulgarians attacked the French bridgehead on the Kara Hodjali heights above the Vardar. After a grenade fight they were repulsed.
 source: druga-potyczka-pod-krivolakiem
-sourceHash: 16c210a905f6d0fef23796df387f47064e482aad
+sourceHash: 9f457bd24dee8c317dbf460c69080022e415c631
 ---
 
 The British chronology of the war records under 30 October 1915 a second action at Krivolak on the [Vardar](https://pl.wikipedia.org/wiki/Wardar). The French 57th Infantry Division, which in the last days of October had [reached Krivolak](/poczatek-walk-pod-krivolakiem), had already crossed the river and occupied the heights on its eastern bank that dominated the valley. The Bulgarians tried to push it off them. The British and Austrian official histories do not describe this fight separately, and its date has to be reconstructed from more general accounts. It is known, however, that it was the beginning of increasingly heavy Bulgarian attacks on the French bridgehead, which in the first days of November cost the attackers bloody losses.
 
 ## The bridgehead on Kara Hodjali
 
-East of Krivolak, on the other side of the Vardar, rises the steep massif of Kara Hodjali. The British writer John Buchan, who described this fighting while the war was still going on, pointed out that the heights dominated the whole of this stretch of the valley. If the Bulgarians took them, the railway from [Salonika](https://pl.wikipedia.org/wiki/Saloniki), the only supply route of the French, would become useless. It was therefore decided to occupy them at all costs. The Vardar was swollen after the rains, there was no bridge, and the pontoons had not been brought up in time. The French crossed by an old ferry and climbed the slopes, from which they pushed back the Bulgarian advanced guards without much difficulty.
+East of Krivolak, on the other side of the Vardar, rises the steep massif of Kara Hodjali. The British writer John Buchan, who described this fighting while the war was still going on, pointed out that the heights dominated the whole of this stretch of the valley. If the Bulgarians took them, the railway from [Salonika](/miejsca/saloniki), the only supply route of the French, would become useless. It was therefore decided to occupy them at all costs. The Vardar was swollen after the rains, there was no bridge, and the pontoons had not been brought up in time. The French crossed by an old ferry and climbed the slopes, from which they pushed back the Bulgarian advanced guards without much difficulty.
 
 According to Buchan, two days later the Bulgarians, realising what they had lost, attacked in greater strength. They were repulsed only after a grenade fight at close quarters on the crest of the heights. As Buchan dates the capture of Krivolak itself to 27 October, this attack would fall precisely at the end of the month, on the days in which the British chronology places the second action.
 

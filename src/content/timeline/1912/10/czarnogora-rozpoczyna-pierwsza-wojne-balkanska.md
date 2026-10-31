@@ -36,4 +36,4 @@ Pozostali sojusznicy jeszcze się wstrzymywali. 10 października ambasadorowie m
 
 ## Upadek europejskiej Turcji
 
-Zapewnienia mocarstw szybko straciły znaczenie. Serbowie rozbili Turków pod Kumanowem, Bułgarzy pod Kırk Kilise i Lüleburgazem, a 8 listopada Grecy wkroczyli do [Salonik](https://pl.wikipedia.org/wiki/Saloniki). Według Schurmana w ciągu kilku tygodni Turcja straciła prawie wszystkie ziemie w Europie poza Konstantynopolem i oblężonymi twierdzami Adrianopolem, Janiną i Szkodrą, przed którą wojska Mikołaja I stanęły pod koniec października.
+Zapewnienia mocarstw szybko straciły znaczenie. Serbowie rozbili Turków pod Kumanowem, Bułgarzy pod Kırk Kilise i Lüleburgazem, a 8 listopada Grecy wkroczyli do [Salonik](/miejsca/saloniki). Według Schurmana w ciągu kilku tygodni Turcja straciła prawie wszystkie ziemie w Europie poza Konstantynopolem i oblężonymi twierdzami Adrianopolem, Janiną i Szkodrą, przed którą wojska Mikołaja I stanęły pod koniec października.

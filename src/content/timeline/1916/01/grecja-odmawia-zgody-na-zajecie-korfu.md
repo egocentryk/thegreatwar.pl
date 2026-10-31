@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 13 stycznia 1916 roku, że rząd grecki odmówił zgody na zajęcie [Korfu](https://pl.wikipedia.org/wiki/Korfu). Tego dnia, 31 grudnia 1915 roku według kalendarza juliańskiego, którym posługiwała się Grecja, premier i minister spraw zagranicznych [Stefanos Skuludis](/postacie/stefanos-skuludis) skierował notę do posłów państw Ententy w Atenach. Trzy dni wcześniej [zawiadomili go oni](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu), że na wyspę zostaną przewiezione resztki armii serbskiej, a 11 stycznia [wylądowali tam Francuzi](/francuzi-zajmuja-korfu). Ateńskie gazety pisały już wcześniej, że gabinet przygotowuje protest ostrzejszy od wszystkich poprzednich.
+Brytyjska chronologia wojny notuje pod 13 stycznia 1916 roku, że rząd grecki odmówił zgody na zajęcie [Korfu](/miejsca/korfu). Tego dnia, 31 grudnia 1915 roku według kalendarza juliańskiego, którym posługiwała się Grecja, premier i minister spraw zagranicznych [Stefanos Skuludis](/postacie/stefanos-skuludis) skierował notę do posłów państw Ententy w Atenach. Trzy dni wcześniej [zawiadomili go oni](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu), że na wyspę zostaną przewiezione resztki armii serbskiej, a 11 stycznia [wylądowali tam Francuzi](/francuzi-zajmuja-korfu). Ateńskie gazety pisały już wcześniej, że gabinet przygotowuje protest ostrzejszy od wszystkich poprzednich.
 
 ## Argumenty Aten
 

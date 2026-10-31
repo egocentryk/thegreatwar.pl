@@ -9,10 +9,10 @@ sides:
     commanders: [Maurice Sarrail, Petar Bojović, Pavle Jurišić Šturm]
 result: Partial Bulgarian victory. The 1st Army took Florina and a strip of Greek Macedonia up to 25 km deep, but did not break the Serbian defence at Lake Ostrovo. The attack was halted on 27 August.
 source: bitwa-pod-florina
-sourceHash: 942f95ae65c2b0d43a7ba407c1812d795d16d3d2
+sourceHash: 4d104fd309c6f74eea65f056969cc2eef2eda123
 ---
 
-The Battle of Florina was the first great clash between the rebuilt Serbian army and the Bulgarians, ten months after the defeat of autumn 1915. In mid-August 1916 General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied forces at [Salonika](https://pl.wikipedia.org/wiki/Saloniki), was completing preparations for an offensive intended to pin down the Bulgarians when [Romania](/kraje/rumunia) entered the war. The Bulgarians forestalled him. During the night of 16/17 August their 1st Army advanced on the western wing of the front, took the Greek town of [Florina](https://pl.wikipedia.org/wiki/Florina) that same day, and in the following days pushed the weak Serbian detachments back as far as Lake Ostrovo. There, however, on a fortified line of hills, the Serbs stood firm. The Bulgarian attacks went on for more than another week but brought no breakthrough, and on 27 August the Bulgarian staff called them off.
+The Battle of Florina was the first great clash between the rebuilt Serbian army and the Bulgarians, ten months after the defeat of autumn 1915. In mid-August 1916 General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied forces at [Salonika](/miejsca/saloniki), was completing preparations for an offensive intended to pin down the Bulgarians when [Romania](/kraje/rumunia) entered the war. The Bulgarians forestalled him. During the night of 16/17 August their 1st Army advanced on the western wing of the front, took the Greek town of [Florina](https://pl.wikipedia.org/wiki/Florina) that same day, and in the following days pushed the weak Serbian detachments back as far as Lake Ostrovo. There, however, on a fortified line of hills, the Serbs stood firm. The Bulgarian attacks went on for more than another week but brought no breakthrough, and on 27 August the Bulgarian staff called them off.
 
 ## Name and dates
 

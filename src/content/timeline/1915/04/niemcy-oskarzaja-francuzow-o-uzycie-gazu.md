@@ -15,7 +15,7 @@ draft: false
 
 ## Seria komunikatów
 
-Nie było to pierwsze takie oskarżenie. Już 1 marca 1915 roku niemiecki komunikat podawał, że Francuzi „znowu, jak już przed kilkoma miesiącami”, strzelali pociskami wydzielającymi przy wybuchu cuchnące gazy, które zresztą nie wyrządziły szkody. 13 kwietnia, dzień przed omawianą wzmianką, mowa była o pociskach z gazem „oszałamiającym” na północny wschód od [Suippes](https://pl.wikipedia.org/wiki/Suippes) w Szampanii. Po 14 kwietnia oskarżenia przybrały na sile. 16 kwietnia komunikat stwierdzał, że Francuzi coraz częściej używają bomb z gazem o działaniu duszącym, a 17 kwietnia, że takie granaty i bomby zastosowali również Brytyjczycy na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper).
+Nie było to pierwsze takie oskarżenie. Już 1 marca 1915 roku niemiecki komunikat podawał, że Francuzi „znowu, jak już przed kilkoma miesiącami”, strzelali pociskami wydzielającymi przy wybuchu cuchnące gazy, które zresztą nie wyrządziły szkody. 13 kwietnia, dzień przed omawianą wzmianką, mowa była o pociskach z gazem „oszałamiającym” na północny wschód od [Suippes](https://pl.wikipedia.org/wiki/Suippes) w Szampanii. Po 14 kwietnia oskarżenia przybrały na sile. 16 kwietnia komunikat stwierdzał, że Francuzi coraz częściej używają bomb z gazem o działaniu duszącym, a 17 kwietnia, że takie granaty i bomby zastosowali również Brytyjczycy na wschód od [Ypres](/miejsca/ypres).
 
 Żadnej z tych relacji nie da się dziś zweryfikować w szczegółach. Nie wiadomo, co dokładnie spadło 13 kwietnia na niemieckie okopy pod Verdun. Mogły to być francuskie granaty z gazem łzawiącym, ale równie dobrze zwykłe pociski, których dym niemieccy żołnierze wzięli za gaz.
 

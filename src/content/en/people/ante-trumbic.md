@@ -6,7 +6,7 @@ country: State of Slovenes, Croats and Serbs
 birthPlace: Split (Dalmatia, Austria)
 deathPlace: Zagreb
 source: ante-trumbic
-sourceHash: f1c4d87313317b5902dbc150714288edceb6eae5
+sourceHash: a8e9be6bf1467d5c868848d905bef1756b6456d7
 ---
 
 Ante Trumbić was the most important spokesman of the South Slavs of the Habsburg Monarchy in the Allied camp. A lawyer and former mayor of Split, an Austrian subject, he went into exile after the outbreak of war and from 1915 presided over the [Yugoslav Committee](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański) in London. For four years he fought on two fronts: against Italy, to which the Allies had promised the eastern coast of the Adriatic, and against the Serbian prime minister [Nikola Pašić](/postacie/nikola-pasic), who wanted unification on Serbian terms. He signed the [Corfu Declaration](/deklaracja-z-korfu) with Pašić, and in November 1918 in Geneva he forced him for a few days to accept an equal partnership. The state that finally came into being, however, was not the one he had worked for.
@@ -29,7 +29,7 @@ Within the committee it was Supilo who quarrelled most sharply with Pašić; he 
 
 ## Corfu
 
-In the spring of 1917 Serbia's position changed. After the February Revolution it lost its Russian protector, the Allies were seeking a separate peace with Emperor Karl, and in Vienna the South Slav deputies led by [Anton Korošec](/postacie/anton-korosec) proclaimed the May Declaration, which envisaged unification within the borders of the monarchy. Pašić needed an agreement with the émigrés and invited them to [Corfu](https://pl.wikipedia.org/wiki/Korfu). The talks lasted from mid-June to 20 July 1917. Trumbić defended the autonomy of the historic lands and a federal system, but had weak support in his own delegation, and Pašić threatened that if they resisted, Serbia would abandon unification and content itself with its own enlargement.
+In the spring of 1917 Serbia's position changed. After the February Revolution it lost its Russian protector, the Allies were seeking a separate peace with Emperor Karl, and in Vienna the South Slav deputies led by [Anton Korošec](/postacie/anton-korosec) proclaimed the May Declaration, which envisaged unification within the borders of the monarchy. Pašić needed an agreement with the émigrés and invited them to [Corfu](/miejsca/korfu). The talks lasted from mid-June to 20 July 1917. Trumbić defended the autonomy of the historic lands and a federal system, but had weak support in his own delegation, and Pašić threatened that if they resisted, Serbia would abandon unification and content itself with its own enlargement.
 
 The Corfu Declaration, which both men signed on 20 July, announced a Kingdom of Serbs, Croats and Slovenes, a constitutional and parliamentary monarchy under the Karađorđević dynasty, with equal status for the three national names, two alphabets and three religions. The dispute over centralism versus federation was put off to a future constituent assembly. Trumbić read the declaration as an agreement between two equal partners, Pašić as a propaganda document that could be set aside if necessary. This difference weighed on the whole of the following year.
 

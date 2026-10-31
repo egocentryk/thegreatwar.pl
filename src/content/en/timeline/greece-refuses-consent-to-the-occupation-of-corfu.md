@@ -2,10 +2,10 @@
 title: Greece refuses consent to the occupation of Corfu
 summary: On 13 January 1916 the Skouloudis government protested at the French occupation of Corfu, citing its perpetual neutrality. The Entente did not yield.
 source: grecja-odmawia-zgody-na-zajecie-korfu
-sourceHash: bec87fadc2d0fc307bceef28b7fd3caa522eff8c
+sourceHash: 7e1ad45a3a85e1b0a0a22164f064a4a87ee39d88
 ---
 
-The British chronology of the war records under 13 January 1916 that the Greek government refused its consent to the occupation of [Corfu](https://pl.wikipedia.org/wiki/Korfu). On that day, 31 December 1915 by the Julian calendar then used in Greece, the Prime Minister and Foreign Minister, [Stefanos Skouloudis](/postacie/stefanos-skuludis), sent a note to the ministers of the Entente powers in Athens. Three days earlier [they had informed him](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu) that the remnants of the Serbian army would be transported to the island, and on 11 January [the French had landed there](/francuzi-zajmuja-korfu). The Athens newspapers had already been writing that the cabinet was preparing a protest sharper than all the previous ones.
+The British chronology of the war records under 13 January 1916 that the Greek government refused its consent to the occupation of [Corfu](/miejsca/korfu). On that day, 31 December 1915 by the Julian calendar then used in Greece, the Prime Minister and Foreign Minister, [Stefanos Skouloudis](/postacie/stefanos-skuludis), sent a note to the ministers of the Entente powers in Athens. Three days earlier [they had informed him](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu) that the remnants of the Serbian army would be transported to the island, and on 11 January [the French had landed there](/francuzi-zajmuja-korfu). The Athens newspapers had already been writing that the cabinet was preparing a protest sharper than all the previous ones.
 
 ## The arguments of Athens
 

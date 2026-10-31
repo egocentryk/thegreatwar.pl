@@ -2,10 +2,10 @@
 title: Germans take Messines
 summary: In the night and early morning of 1 November 1914 the Germans took Wytschaete and the Messines ridge. British cavalry left the town and fell back to Wulverghem.
 source: niemcy-zdobywaja-messines
-sourceHash: 355b28d24cdf84fb69d213cec8ad785239231559
+sourceHash: e3b6ce76b9efd5c5ac3df8f9a69efa6475afc90b
 ---
 
-On 1 November 1914 the Germans took the ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](https://pl.wikipedia.org/wiki/Ieper). Wytschaete fell during the night, and at 9 a.m. the British cavalry abandoned Messines without a fight; the Württembergers had broken into the town the previous day. It was the greatest German success in the [Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres) since the start of the offensive by General Max von Fabeck's army group. The Germans could not go any further, however, because the French had occupied the western slopes of the ridge.
+On 1 November 1914 the Germans took the ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](/miejsca/ypres). Wytschaete fell during the night, and at 9 a.m. the British cavalry abandoned Messines without a fight; the Württembergers had broken into the town the previous day. It was the greatest German success in the [Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres) since the start of the offensive by General Max von Fabeck's army group. The Germans could not go any further, however, because the French had occupied the western slopes of the ridge.
 
 ## The London Scottish's night
 

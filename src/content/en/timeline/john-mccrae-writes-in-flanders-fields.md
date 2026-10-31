@@ -2,10 +2,10 @@
 title: John McCrae writes "In Flanders Fields"
 summary: On 3 May 1915 near Ypres the Canadian doctor John McCrae, a day after a friend's burial, wrote "In Flanders Fields", the poem behind the remembrance poppy.
 source: in-flanders-fields
-sourceHash: 880a544ec5e25c0a2894051e6039d5f8435a9888
+sourceHash: 2a892c5578c6fc2ef6d59894d3e827eeac91a033
 ---
 
-On 3 May 1915, in the second week of the fighting for the [Ypres](https://pl.wikipedia.org/wiki/Ieper) salient, Major [John McCrae](https://pl.wikipedia.org/wiki/John_McCrae), the medical officer of the 1st Brigade, Canadian Field Artillery, wrote a short poem, [In Flanders Fields](https://pl.wikipedia.org/wiki/In_Flanders_Fields). He was 42 and had spent almost two weeks treating the wounded in a dugout cut into the canal bank north of Ypres, at a spot later known as Essex Farm. The Canadians, under gas and heavy artillery fire since [24 April](/poczatek-bitwy-pod-st-julien), were suffering enormous losses there.
+On 3 May 1915, in the second week of the fighting for the [Ypres](/miejsca/ypres) salient, Major [John McCrae](https://pl.wikipedia.org/wiki/John_McCrae), the medical officer of the 1st Brigade, Canadian Field Artillery, wrote a short poem, [In Flanders Fields](https://pl.wikipedia.org/wiki/In_Flanders_Fields). He was 42 and had spent almost two weeks treating the wounded in a dugout cut into the canal bank north of Ypres, at a spot later known as Essex Farm. The Canadians, under gas and heavy artillery fire since [24 April](/poczatek-bitwy-pod-st-julien), were suffering enormous losses there.
 
 McCrae was born in 1872 in [Guelph](https://pl.wikipedia.org/wiki/Guelph), Ontario. He was a physician, a veteran of the Boer War, in which he had served as an artillery officer, and the author of poems printed in Canadian magazines. In 1914, aged 41, he volunteered and sailed for Europe with the 1st Canadian Division as a medical officer with the rank of major.
 

@@ -2,7 +2,7 @@
 title: Von der Goltz leaves for Turkey
 summary: On 10 December 1914 Field Marshal Colmar von der Goltz set out for Constantinople. He did not command the Ottoman army but became the Sultan's aide-de-camp.
 source: von-der-goltz-wyjezdza-do-turcji
-sourceHash: c740fe4256beaebc59d8d169f0a54982371fa6c0
+sourceHash: 4bab59bba23e72770c90cc3fabc1c481f7eeada3
 ---
 
 On 10 December 1914, according to the British chronology of the war, the German field marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz) left Germany for [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol). The British wrote that he was going to take charge of the Turkish army. In reality his role was more modest and less clearly defined. Goltz became aide-de-camp general to Sultan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V), that is, his military adviser. According to the memoirs of General Otto Liman von Sanders he arrived in Constantinople on 12 December. Some sources give 11 December as the date he took up his new post.
@@ -21,4 +21,4 @@ Formally the Ottoman army was commanded by the Sultan, who however had no real p
 
 ## Later years
 
-In the spring of 1915 Goltz took command of the Ottoman 1st Army in the Constantinople area, and in the autumn of that year of the 6th Army in Mesopotamia. There he fought the same Indian Expeditionary Force "D" that in November and December 1914 had taken Basra and Qurna. He died in [Baghdad](https://pl.wikipedia.org/wiki/Bagdad) on 19 April 1916, officially of typhus, ten days before the surrender of the British division besieged by the Turks at [Kut](https://pl.wikipedia.org/wiki/Al-Kut).
+In the spring of 1915 Goltz took command of the Ottoman 1st Army in the Constantinople area, and in the autumn of that year of the 6th Army in Mesopotamia. There he fought the same Indian Expeditionary Force "D" that in November and December 1914 had taken Basra and Qurna. He died in [Baghdad](/miejsca/bagdad) on 19 April 1916, officially of typhus, ten days before the surrender of the British division besieged by the Turks at [Kut](https://pl.wikipedia.org/wiki/Al-Kut).

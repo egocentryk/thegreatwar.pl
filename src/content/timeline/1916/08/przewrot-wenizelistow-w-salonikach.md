@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-30 sierpnia 1916 roku, czyli 17 sierpnia według kalendarza juliańskiego, którym posługiwała się Grecja, w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) wybuchł bunt zwolenników [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos). Grupa oficerów i polityków stronnictwa liberalnego powołała komitet, który ogłosił, że grecka Macedonia staje po stronie Ententy, i wypowiedziała posłuszeństwo rządowi w Atenach. Ruch przybrał nazwę Obrony Narodowej (Ethniki Amyna). Na jego czele stanęli oficerowie Konstandinos Mazarakis i Epaminondas Zymwrakakis. Brytyjska historia oficjalna działań w Macedonii nazywa go „Komitetem Ocalenia Publicznego”. Następnej nocy doszło do strzelaniny z garnizonem wiernym królowi, a sprawę rozstrzygnęła postawa generała [Maurice'a Sarraila](/postacie/maurice-sarrail), naczelnego dowódcy wojsk sprzymierzonych w mieście.
+30 sierpnia 1916 roku, czyli 17 sierpnia według kalendarza juliańskiego, którym posługiwała się Grecja, w [Salonikach](/miejsca/saloniki) wybuchł bunt zwolenników [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos). Grupa oficerów i polityków stronnictwa liberalnego powołała komitet, który ogłosił, że grecka Macedonia staje po stronie Ententy, i wypowiedziała posłuszeństwo rządowi w Atenach. Ruch przybrał nazwę Obrony Narodowej (Ethniki Amyna). Na jego czele stanęli oficerowie Konstandinos Mazarakis i Epaminondas Zymwrakakis. Brytyjska historia oficjalna działań w Macedonii nazywa go „Komitetem Ocalenia Publicznego”. Następnej nocy doszło do strzelaniny z garnizonem wiernym królowi, a sprawę rozstrzygnęła postawa generała [Maurice'a Sarraila](/postacie/maurice-sarrail), naczelnego dowódcy wojsk sprzymierzonych w mieście.
 
 ## Bułgarzy w Macedonii
 

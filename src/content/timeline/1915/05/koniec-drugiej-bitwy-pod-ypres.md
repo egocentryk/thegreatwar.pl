@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 maja 1915 roku pod [Ypres](https://pl.wikipedia.org/wiki/Ieper) po raz pierwszy od pięciu tygodni nie było niemieckiego natarcia. Dzień wcześniej Niemcy [uderzyli chlorem](/niemiecki-atak-gazowy-pod-bellewaarde) na brytyjskie pozycje od Hooge po Turco Farm i zdobyli Mouse Trap Farm oraz część grzbietu Bellewaarde, ale nocne brytyjskie kontrataki nie odzyskały utraconych okopów. W nocy z 24 na 25 maja brytyjska 4 Dywizja bez przeszkód oddała zbyt wysunięty klin frontu przy Mouse Trap Farm i obsadziła tylną linię między Wieltje a Turco Farm. Rankiem front był już spokojny, a ostrzał słabszy niż w poprzednich dniach. Tym dniem brytyjska komisja do spraw nazewnictwa bitew zakończyła po wojnie drugą bitwę pod Ypres.
+25 maja 1915 roku pod [Ypres](/miejsca/ypres) po raz pierwszy od pięciu tygodni nie było niemieckiego natarcia. Dzień wcześniej Niemcy [uderzyli chlorem](/niemiecki-atak-gazowy-pod-bellewaarde) na brytyjskie pozycje od Hooge po Turco Farm i zdobyli Mouse Trap Farm oraz część grzbietu Bellewaarde, ale nocne brytyjskie kontrataki nie odzyskały utraconych okopów. W nocy z 24 na 25 maja brytyjska 4 Dywizja bez przeszkód oddała zbyt wysunięty klin frontu przy Mouse Trap Farm i obsadziła tylną linię między Wieltje a Turco Farm. Rankiem front był już spokojny, a ostrzał słabszy niż w poprzednich dniach. Tym dniem brytyjska komisja do spraw nazewnictwa bitew zakończyła po wojnie drugą bitwę pod Ypres.
 
 ## Dlaczego walki ustały
 

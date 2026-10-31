@@ -15,7 +15,7 @@ draft: false
 
 ## Z Egiptu do Francji
 
-Zaraz po wybuchu wojny Londyn poprosił rząd Indii o wysłanie dwóch dywizji piechoty do Egiptu. Miały one zastąpić tamtejszy brytyjski garnizon i strzec [Kanału Suezkiego](https://pl.wikipedia.org/wiki/Kanał_Sueski), kluczowej drogi morskiej imperium. Mobilizację rozpoczęto 8 sierpnia. Do korpusu weszły dywizje Lahore i Meerut oraz dwie brygady kawalerii.
+Zaraz po wybuchu wojny Londyn poprosił rząd Indii o wysłanie dwóch dywizji piechoty do Egiptu. Miały one zastąpić tamtejszy brytyjski garnizon i strzec [Kanału Suezkiego](/miejsca/kanal-sueski), kluczowej drogi morskiej imperium. Mobilizację rozpoczęto 8 sierpnia. Do korpusu weszły dywizje Lahore i Meerut oraz dwie brygady kawalerii.
 
 Wydarzenia we Francji szybko zmieniły plany. Brytyjski Korpus Ekspedycyjny był niewielki, a po pierwszych bitwach potrzebował pilnie posiłków. Wkrótce uznano, że wyszkoleni zawodowi żołnierze z Indii bardziej przydadzą się w Europie. Egipt stał się dla nich tylko etapem podróży.
 

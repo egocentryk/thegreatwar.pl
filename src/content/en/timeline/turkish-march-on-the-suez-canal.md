@@ -2,10 +2,10 @@
 title: Turkish march on the Suez Canal
 summary: At the end of January 1915 Djemal Pasha's Ottoman army crossed the Sinai desert. On 26 January its troops clashed with the British at Kantara.
 source: turecki-marsz-na-kanal-sueski
-sourceHash: 857bc99f4910a5e3ee9b64270b757cb118ceb8b0
+sourceHash: fb09aa51f8d506d8d92d507668e98339ec2892d8
 ---
 
-On 26 January 1915 the British posts covering the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) from the east first came into contact with the Ottoman army approaching across the desert. At [Kantara](https://pl.wikipedia.org/wiki/Al-Kantara), in the northern part of the canal, there was an exchange of fire, and airmen reported Turkish concentrations several thousand strong deep in the [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). The British chronology of the war takes this day as the start of the Turkish expedition against Egypt. In fact the first units had set out in mid-January.
+On 26 January 1915 the British posts covering the [Suez Canal](/miejsca/kanal-sueski) from the east first came into contact with the Ottoman army approaching across the desert. At [Kantara](https://pl.wikipedia.org/wiki/Al-Kantara), in the northern part of the canal, there was an exchange of fire, and airmen reported Turkish concentrations several thousand strong deep in the [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). The British chronology of the war takes this day as the start of the Turkish expedition against Egypt. In fact the first units had set out in mid-January.
 
 ## The objective: Egypt
 

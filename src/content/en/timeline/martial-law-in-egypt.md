@@ -2,12 +2,12 @@
 title: Martial law in Egypt
 summary: At the start of November 1914 General John Maxwell declared martial law in Egypt. The British promised that they would not call on Egyptians to fight.
 source: stan-wojenny-w-egipcie
-sourceHash: d10ec915c81e89ba5e36f0717d48ad85c4f4c160
+sourceHash: 6fb2ad716a6bbb4a7a27d8f70932aecb52979f43
 ---
 
 The British chronology of the war records the introduction of martial law in [Egypt](https://pl.wikipedia.org/wiki/Egipt) under 1 November 1914. Most studies date the proclamation to 2 November. It was announced by General John Maxwell, who since September had [commanded the British forces in Egypt](/general-maxwell-dowodca-w-egipcie). It was a direct consequence of the entry into the war of the [Ottoman Empire](/kraje/imperium-osmanskie), Egypt's formal suzerain. The Entente ambassadors were [just leaving Constantinople](/zerwanie-stosunkow-z-turcja), and the Royal Navy was [opening operations against the Turks](/poczatek-dzialan-brytyjsko-tureckich).
 
-Martial law placed full power in the hands of the army in a country that the British had in practice ruled since 1882. The military authorities could try civilians, and they introduced press censorship and a ban on public meetings. The privileges of foreigners, who thanks to the old capitulations had until then been subject only to their own consuls, were also restricted. The political activity of Egyptian nationalists practically came to a halt. The British had reasons to be anxious: the Khedive [Abbas II Hilmi](https://pl.wikipedia.org/wiki/Abbas_II_Hilmi), hostile to London, was in Constantinople, and troop transports from India and Australia were passing through the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski).
+Martial law placed full power in the hands of the army in a country that the British had in practice ruled since 1882. The military authorities could try civilians, and they introduced press censorship and a ban on public meetings. The privileges of foreigners, who thanks to the old capitulations had until then been subject only to their own consuls, were also restricted. The political activity of Egyptian nationalists practically came to a halt. The British had reasons to be anxious: the Khedive [Abbas II Hilmi](https://pl.wikipedia.org/wiki/Abbas_II_Hilmi), hostile to London, was in Constantinople, and troop transports from India and Australia were passing through the [Suez Canal](/miejsca/kanal-sueski).
 
 A few days later, between 5 and 7 November according to different sources, an important promise was announced on behalf of the British command. Britain was taking upon itself the "sole burden" of the war and did not intend to call on Egyptians to take part in it. Egypt was therefore not to declare war on the Sultan, to whom it was still formally subject, and its inhabitants were not to fight against their fellow believers.
 

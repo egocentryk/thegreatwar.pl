@@ -2,12 +2,12 @@
 title: Arrest warrant for Venizelos
 summary: On 17 December 1916 Athens issued a warrant for the arrest of Venizelos for high treason. To royalists the Salonika government leader was just "the Traitor".
 source: nakaz-aresztowania-wenizelosa
-sourceHash: 20abf5e7f5015afd295fa5ec043f2e7644b4bcd5
+sourceHash: 4c142339e78bb5a6e11cd93135cd5c0ebd5315b9
 ---
 
 On 17 December 1916, or 4 December by the Julian calendar then used in Greece, the authorities in Athens issued a warrant for the arrest of [Eleftherios Venizelos](/postacie/elefterios-wenizelos) on a charge of high treason. This is the date given by the British chronology of the war. The news reached the West a day later: Reuters reported from Athens, and the *New York Times* repeated on 19 December, that the former Prime Minister was accused of high treason and of defaming the Greek General Staff in newspaper articles from several months earlier. The New York monthly *Current History* gave 18 December as the day the warrant was issued.
 
-The warrant was a gesture with no practical significance. Since October Venizelos had been at the head of the government of National Defence in [Salonika](https://pl.wikipedia.org/wiki/Saloniki), which [on 23 November had declared war on Germany and Bulgaria](/rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii), and he was beyond the reach of the royal police. For the supporters of King [Constantine I](/postacie/konstantyn-i), however, he was a rebel, and since the events of early December also the chief culprit for the country's misfortunes. The British publicist George F. Abbott, sympathetic to the king, wrote that after his departure for Salonika he was called in Athens simply "the Traitor", and after the events of 1 December he was formally charged with treason.
+The warrant was a gesture with no practical significance. Since October Venizelos had been at the head of the government of National Defence in [Salonika](/miejsca/saloniki), which [on 23 November had declared war on Germany and Bulgaria](/rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii), and he was beyond the reach of the royal police. For the supporters of King [Constantine I](/postacie/konstantyn-i), however, he was a rebel, and since the events of early December also the chief culprit for the country's misfortunes. The British publicist George F. Abbott, sympathetic to the king, wrote that after his departure for Salonika he was called in Athens simply "the Traitor", and after the events of 1 December he was formally charged with treason.
 
 ## A conspiracy proved by a letter
 

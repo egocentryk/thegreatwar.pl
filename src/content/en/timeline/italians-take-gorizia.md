@@ -2,10 +2,10 @@
 title: Italians take Gorizia
 summary: On 9 August 1916 Italian troops entered Gorizia, abandoned by the Austrians during the night. It was the first large Austro-Hungarian city taken by Italy.
 source: wlosi-zdobywaja-gorycje
-sourceHash: 6ca55ed3d8da0f89a7a4a56a7ef23f6cfa3ba675
+sourceHash: 11895eafcaa24bd9f8bd1dd261019810a22f4e81
 ---
 
-On 9 August 1916 Italian troops entered [Gorizia](https://pl.wikipedia.org/wiki/Gorycja), a city on the [Isonzo](https://pl.wikipedia.org/wiki/Socza) for which they had fought five bloody and fruitless battles since June 1915. The Austro-Hungarian defenders had abandoned it during the night, withdrawing to the hills east of the city. Gorizia was the first large city of Austria-Hungary to be taken by the Italians. In Italy the news of its capture caused a genuine outburst of joy.
+On 9 August 1916 Italian troops entered [Gorizia](https://pl.wikipedia.org/wiki/Gorycja), a city on the [Isonzo](/bitwy/bitwy-nad-isonzo) for which they had fought five bloody and fruitless battles since June 1915. The Austro-Hungarian defenders had abandoned it during the night, withdrawing to the hills east of the city. Gorizia was the first large city of Austria-Hungary to be taken by the Italians. In Italy the news of its capture caused a genuine outburst of joy.
 
 ## Fall of the bridgehead
 

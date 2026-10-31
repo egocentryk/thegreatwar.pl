@@ -2,10 +2,10 @@
 title: Retreat from Ctesiphon
 summary: On the evening of 25 November 1915 Townshend pulled his bled-white division back from Ctesiphon to Lajj. The march on Baghdad was over; the retreat led to Kut.
 source: odwrot-spod-ktezyfonu
-sourceHash: 0110816b6e307d5c888c12538327d135af1e1092
+sourceHash: e822f6e7b0abb4002b1e873a5bb0b15dee52927b
 ---
 
-On the evening of 25 November 1915 General Charles Townshend withdrew his division from the battlefield of [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon). At about 7.30 p.m., under cover of darkness, the troops left the ruins on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and at one in the morning, harassed only by Arabs, reached the camp and the ships at Lajj, some ten to fifteen kilometres downstream. Three days earlier Townshend had [taken the first line of Turkish trenches](/poczatek-bitwy-pod-ktezyfonem), but had lost nearly 4,500 men in doing so. The march on [Baghdad](https://pl.wikipedia.org/wiki/Bagdad) was over.
+On the evening of 25 November 1915 General Charles Townshend withdrew his division from the battlefield of [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon). At about 7.30 p.m., under cover of darkness, the troops left the ruins on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and at one in the morning, harassed only by Arabs, reached the camp and the ships at Lajj, some ten to fifteen kilometres downstream. Three days earlier Townshend had [taken the first line of Turkish trenches](/poczatek-bitwy-pod-ktezyfonem), but had lost nearly 4,500 men in doing so. The march on [Baghdad](/miejsca/bagdad) was over.
 
 ## Two armies in uncertainty
 

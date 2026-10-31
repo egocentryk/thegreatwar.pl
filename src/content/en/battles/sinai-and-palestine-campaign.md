@@ -9,10 +9,10 @@ sides:
     commanders: [Djemal Pasha, Friedrich Kress von Kressenstein, Erich von Falkenhayn, Otto Liman von Sanders, Mustafa Kemal]
 result: British victory. Both Ottoman expeditions against the Suez Canal failed, and the British and Arabs took Palestine and Syria as far as Aleppo. The campaign ended with the Armistice of Mudros.
 source: kampania-synajsko-palestynska
-sourceHash: a8bf684db1bce6581662c0725caaa1fbd54c1860
+sourceHash: a164e95d13433aec43c7c87f6b0156e03d60a73d
 ---
 
-The Sinai and Palestine campaign was Britain's longest campaign against the [Ottoman Empire](/kraje/imperium-osmanskie). It began in January 1915, when an Ottoman army under [Djemal Pasha](/postacie/dzemal-pasza) crossed the desert and tried to get over the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski), and it ended almost four years later near Aleppo, in northern Syria. For the first year and a half the British merely defended the canal. In 1916 they repulsed a second Turkish expedition and, step by step, behind a railway and water pipeline built across the desert, crossed [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). In the spring of 1917 they twice broke against the defences of Gaza, but in the autumn General [Edmund Allenby](/postacie/edmund-allenby) turned the Turkish line at Beersheba and took Jerusalem before Christmas. In September 1918 he destroyed two Ottoman armies at Megiddo, and within less than six weeks his cavalry and his Arab allies had taken Damascus, Beirut and Aleppo.
+The Sinai and Palestine campaign was Britain's longest campaign against the [Ottoman Empire](/kraje/imperium-osmanskie). It began in January 1915, when an Ottoman army under [Djemal Pasha](/postacie/dzemal-pasza) crossed the desert and tried to get over the [Suez Canal](/miejsca/kanal-sueski), and it ended almost four years later near Aleppo, in northern Syria. For the first year and a half the British merely defended the canal. In 1916 they repulsed a second Turkish expedition and, step by step, behind a railway and water pipeline built across the desert, crossed [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). In the spring of 1917 they twice broke against the defences of Gaza, but in the autumn General [Edmund Allenby](/postacie/edmund-allenby) turned the Turkish line at Beersheba and took Jerusalem before Christmas. In September 1918 he destroyed two Ottoman armies at Megiddo, and within less than six weeks his cavalry and his Arab allies had taken Damascus, Beirut and Aleppo.
 
 ## Name and dates
 

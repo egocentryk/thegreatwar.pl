@@ -2,7 +2,7 @@
 title: Sykes–Picot Agreement
 summary: On 26 April 1916 Russia and France exchanged secret notes. Russia accepted the Anglo-French plan to partition Asiatic Turkey and secured Armenia for itself.
 source: porozumienie-sykes-picot
-sourceHash: 1dad8793a22cb520080bd362116fdd256dafbd84
+sourceHash: 793ccc5ca851cd90be7c053128aa1ce0b3bb3901
 brief:
   - "On 26 April 1916 in Petrograd Sergei Sazonov and the French ambassador Maurice Paléologue exchanged secret letters. In them Russia accepted a plan to partition the Asian lands of the Ottoman Empire."
   - "The plan had been agreed earlier by Mark Sykes and François Georges-Picot. The matter became urgent in the autumn of 1915, when the British in Cairo were promising the Sharif of Mecca Arab independence and France feared for Syria."
@@ -34,7 +34,7 @@ France in return enlarged its share. Besides the Syrian coast and the province o
 Russian consent opened the way to the approval of the Anglo-French plan. It divided the Ottoman lands outside the Arabian Peninsula into zones marked on the map with colours and letters:
 
 - **the blue zone**, under direct French rule: the coast of Syria and Lebanon, Cilicia and part of south-eastern Anatolia;
-- **the red zone**, under direct British rule: lower [Mesopotamia](https://pl.wikipedia.org/wiki/Mezopotamia) with [Baghdad](https://pl.wikipedia.org/wiki/Bagdad) and [Basra](https://pl.wikipedia.org/wiki/Basra);
+- **the red zone**, under direct British rule: lower [Mesopotamia](https://pl.wikipedia.org/wiki/Mezopotamia) with [Baghdad](/miejsca/bagdad) and [Basra](https://pl.wikipedia.org/wiki/Basra);
 - **zones A and B**, where an independent Arab state or a confederation of states under the suzerainty of an Arab ruler was to be created. In zone A, covering inland Syria with [Damascus](https://pl.wikipedia.org/wiki/Damaszek), [Homs](https://pl.wikipedia.org/wiki/Hims), [Hama](https://pl.wikipedia.org/wiki/Hama) and [Aleppo](https://pl.wikipedia.org/wiki/Aleppo), as well as [Mosul](https://pl.wikipedia.org/wiki/Mosul), France had priority in investment and the sole right to supply advisers. In zone B, from the Negev and Transjordan to [Kirkuk](https://pl.wikipedia.org/wiki/Kirkuk), Britain had the same rights. The border between them cut across the vilayet of Mosul along the [Little Zab](https://pl.wikipedia.org/wiki/Mały_Zab) river;
 - **the brown zone**, that is [Palestine](https://pl.wikipedia.org/wiki/Palestyna) with Jerusalem, which was to receive an international administration agreed with Russia, the other allies and representatives of the Sharif of Mecca.
 

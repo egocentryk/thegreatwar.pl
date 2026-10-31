@@ -11,7 +11,7 @@ sides:
     commanders: [Erich von Falkenhayn, "Rupprecht, Crown Prince of Bavaria", Max von Fabeck, Berthold von Deimling]
 result: British defensive victory. The Germans took Gheluvelt, Zandvoorde and Hollebeke and drew closer to Ypres, but did not break the front.
 source: bitwa-pod-gheluvelt
-sourceHash: 531093eab9ca22922a029b4ff43b246a25c8b3ec
+sourceHash: 4f79b58bed090721ada21f8a6f7cd6b74797d5dc
 brief:
   - "The Battle of Gheluvelt, fought from 29 to 31 October 1914 east and south-east of Ypres, was the most critical moment of the First Battle of Ypres."
   - "General Falkenhayn concluded that the Fourth Army would not break the front by the sea and formed the Fabeck Group. It was to strike the weakest sector, held by exhausted British divisions and dismounted cavalry."
@@ -20,7 +20,7 @@ brief:
   - "The Germans were closer to victory than at any other time in the battle, but they did not break the front. The British and French gained time to bring up reinforcements, and the fighting at Ypres went on."
 ---
 
-The Battle of Gheluvelt, fought from 29 to 31 October 1914 east and south-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper), was the most critical moment of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). After the attacks of the new reserve corps north of the town had failed, the Germans formed a fresh strike group under General Max von Fabeck and threw it against the weakest sector of the front, held by exhausted British divisions and dismounted cavalry. On 29 October they took an important crossroads in front of the village of Gheluvelt, on 30 October they captured Zandvoorde and Hollebeke, and on 31 October, when Kaiser [Wilhelm II](/postacie/wilhelm-ii) arrived at Sixth Army headquarters, they broke the British line at Gheluvelt itself. A counter-attack by the 2nd Battalion, Worcestershire Regiment closed the gap. The British chronology of the war describes the day briefly: British line broken and restored.
+The Battle of Gheluvelt, fought from 29 to 31 October 1914 east and south-east of [Ypres](/miejsca/ypres), was the most critical moment of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). After the attacks of the new reserve corps north of the town had failed, the Germans formed a fresh strike group under General Max von Fabeck and threw it against the weakest sector of the front, held by exhausted British divisions and dismounted cavalry. On 29 October they took an important crossroads in front of the village of Gheluvelt, on 30 October they captured Zandvoorde and Hollebeke, and on 31 October, when Kaiser [Wilhelm II](/postacie/wilhelm-ii) arrived at Sixth Army headquarters, they broke the British line at Gheluvelt itself. A counter-attack by the 2nd Battalion, Worcestershire Regiment closed the gap. The British chronology of the war describes the day briefly: British line broken and restored.
 
 ## Name and dates
 

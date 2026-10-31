@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 listopada 1914 roku do [Suezu](https://pl.wikipedia.org/wiki/Suez), u południowego wejścia do [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski), dotarł konwój z 29 Brygadą Indyjską generała brygady Vaughana Coxa. Była to pierwsza część Indyjskiego Korpusu Ekspedycyjnego „F”, który na początku listopada [wypłynął z Indii do Egiptu](/indyjski-korpus-ekspedycyjny-f-wyplywa-do-egiptu). Brygadę tworzyły cztery bataliony: 14 Pułk Sikhów, 69 i 89 Pułk Pendżabski oraz 1 Batalion 6 Pułku Strzelców Gurkhów.
+16 listopada 1914 roku do [Suezu](https://pl.wikipedia.org/wiki/Suez), u południowego wejścia do [Kanału Sueskiego](/miejsca/kanal-sueski), dotarł konwój z 29 Brygadą Indyjską generała brygady Vaughana Coxa. Była to pierwsza część Indyjskiego Korpusu Ekspedycyjnego „F”, który na początku listopada [wypłynął z Indii do Egiptu](/indyjski-korpus-ekspedycyjny-f-wyplywa-do-egiptu). Brygadę tworzyły cztery bataliony: 14 Pułk Sikhów, 69 i 89 Pułk Pendżabski oraz 1 Batalion 6 Pułku Strzelców Gurkhów.
 
 Po drodze żołnierze Coxa mieli już za sobą pierwszą walkę. Kilka dni wcześniej konwój zboczył z trasy u wejścia do Morza Czerwonego, a brygada [zniszczyła turecki fort w Szejk Said](/brytyjczycy-zdobywaja-szejk-said) naprzeciw brytyjskiej wyspy Perim. Teraz bataliony schodziły na ląd w Suezie i czekały na przydział do obrony kanału. 14 Pułk Sikhów już po pięciu dniach przewieziono koleją do [Port Saidu](https://pl.wikipedia.org/wiki/Port_Said), a 2 grudnia dotarł pod Kantarę, w północnej części kanału. Ten odcinek obrony przypadł później całej 29 Brygadzie.
 

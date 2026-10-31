@@ -2,10 +2,10 @@
 title: Essad Pasha's government in Salonika
 summary: The British chronology records under 20 September 1916 the move of Essad Pasha's government to Salonika. The French had shipped him there in late August.
 source: rzad-esada-paszy-w-salonikach
-sourceHash: a681b50fcf7990f7303f48c97dca1d089a9fbe45
+sourceHash: acd183c87f7bb3f3f188f2a59646aacc92fa1ac3
 ---
 
-The British chronology of the war records under 20 September 1916 that the Albanian government of [Essad Pasha Toptani](/postacie/esad-pasza-toptani) established its seat in [Salonika](https://pl.wikipedia.org/wiki/Saloniki), where the Entente troops were stationed. Essad was not a new guest in the city at the time. Documents later published by General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied armies on the Salonika front, show that the French had brought him there by warship as early as the end of August. No formal act of 20 September could be found in the sources. What is certain is that by September his court, which called itself the government of Albania, was already operating in Salonika.
+The British chronology of the war records under 20 September 1916 that the Albanian government of [Essad Pasha Toptani](/postacie/esad-pasza-toptani) established its seat in [Salonika](/miejsca/saloniki), where the Entente troops were stationed. Essad was not a new guest in the city at the time. Documents later published by General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied armies on the Salonika front, show that the French had brought him there by warship as early as the end of August. No formal act of 20 September could be found in the sources. What is certain is that by September his court, which called itself the government of Albania, was already operating in Salonika.
 
 ## Half a year of wandering
 

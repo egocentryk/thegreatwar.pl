@@ -2,7 +2,7 @@
 title: Entente ultimatum to Bulgaria
 summary: On 4 October 1915 the Russian minister in Sofia gave Radoslavov 24 hours to break with the Central Powers and send the German officers away from the army.
 source: ultimatum-ententy-dla-bulgarii
-sourceHash: a7436e75bc7dc1587972b4b51316e0ab6a0b5209
+sourceHash: 510b2b98d840b0bf1a2930cde83e53582871737c
 ---
 
 At four in the afternoon on 4 October 1915, or 21 September by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then used in Bulgaria and Russia, the Russian minister in [Sofia](https://pl.wikipedia.org/wiki/Sofia), Aleksandr Savinsky, handed Prime Minister [Vasil Radoslavov](/postacie/wasil-radoslawow) a note from his government. In it Russia accused [Bulgaria](/kraje/bulgaria) of having placed its fate in Germany's hands. The evidence was to be the presence of German and Austrian officers in the War Ministry and on the staffs, the concentration of troops on the border with Serbia, and money accepted from the enemies of the Entente. If within 24 hours the Bulgarian government did not "openly break with the enemies of the Slav cause and of Russia" and remove from the army the officers of the states at war with the Entente, the minister was to leave Bulgaria together with the entire staff of the legation and the consulates.
@@ -17,6 +17,6 @@ According to the communiqué that the Bulgarian government issued after the meet
 
 ## The answer from Sofia
 
-The ultimatum came too late to change anything. For a month Bulgaria had been bound by a [secret alliance with Germany](/traktat-sojuszniczy-w-sofii) and a military convention on a joint attack on Serbia, and its army was completing its concentration on the Serbian border. The day before, the first ships carrying Entente troops had sailed from Mudros for [Salonika](https://pl.wikipedia.org/wiki/Saloniki).
+The ultimatum came too late to change anything. For a month Bulgaria had been bound by a [secret alliance with Germany](/traktat-sojuszniczy-w-sofii) and a military convention on a joint attack on Serbia, and its army was completing its concentration on the Serbian border. The day before, the first ships carrying Entente troops had sailed from Mudros for [Salonika](/miejsca/saloniki).
 
 Radoslavov had no intention of giving way. In the same communiqué the government announced that it would reject the accusations about the presence of German and Austrian officers in the army and declare that it "cannot send away officers who are not there". The government also prepared a long note to all four Entente powers, dated 4 October. In it it assured the Allied powers of its gratitude for their goodwill, asked for "additional explanations" concerning their promises, and declared that it would not abandon the attitude it had adopted at the beginning of the war. Sofia delivered its answer to the Russian ultimatum the next day, before the deadline had expired.

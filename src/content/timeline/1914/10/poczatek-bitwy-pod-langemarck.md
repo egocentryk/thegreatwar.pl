@@ -18,7 +18,7 @@ brief:
   - "Wieczorem French nakazał wszystkim korpusom utrzymać i umocnić pozycje do przybycia posiłków. Plan obejścia niemieckiego skrzydła we Flandrii przestał istnieć, a pod Ypres zaczęła się długa bitwa obronna."
 ---
 
-21 października 1914 roku brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) ruszył do natarcia na północny wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper), w stronę wsi [Langemarck](https://pl.wikipedia.org/wiki/Langemark) i Poelkapelle. Miał przejść przez Flandrię aż do Brugii. Zamiast słabej osłony niemieckiej trafił na kilka dywizji nowych niemieckich korpusów rezerwowych, które same nacierały na Ypres. Po kilku godzinach walki Haig wstrzymał natarcie, a wieczorem cała armia brytyjska pod Ypres przeszła do obrony. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Langemarck, pierwszy etap [I bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres).
+21 października 1914 roku brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) ruszył do natarcia na północny wschód od [Ypres](/miejsca/ypres), w stronę wsi [Langemarck](https://pl.wikipedia.org/wiki/Langemark) i Poelkapelle. Miał przejść przez Flandrię aż do Brugii. Zamiast słabej osłony niemieckiej trafił na kilka dywizji nowych niemieckich korpusów rezerwowych, które same nacierały na Ypres. Po kilku godzinach walki Haig wstrzymał natarcie, a wieczorem cała armia brytyjska pod Ypres przeszła do obrony. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Langemarck, pierwszy etap [I bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres).
 
 ## Rozkaz marszu na Brugię
 

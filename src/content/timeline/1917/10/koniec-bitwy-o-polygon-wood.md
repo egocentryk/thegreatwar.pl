@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-3 października 1917 roku dobiegł końca tydzień walk, który brytyjska komisja do spraw nazewnictwa bitew zaliczyła po wojnie do bitwy o Polygon Wood. O świcie niemiecka piechota jeszcze raz zaatakowała w pobliżu drogi z [Ypres](https://pl.wikipedia.org/wiki/Ieper) do Menin i, jak pisał w raporcie feldmarszałek [Douglas Haig](/postacie/douglas-haig), „załamała się przed naszymi pozycjami”. Teren zdobyty 26 września przez Australijczyków i Brytyjczyków [w drugim skoku generała Plumera](/poczatek-bitwy-o-polygon-wood) pozostał w ich rękach. Tego samego wieczoru cztery dywizje Anzac ruszyły nocą na taśmy wyjściowe przed grzbietem Broodseinde, skąd nazajutrz miało wyjść kolejne natarcie.
+3 października 1917 roku dobiegł końca tydzień walk, który brytyjska komisja do spraw nazewnictwa bitew zaliczyła po wojnie do bitwy o Polygon Wood. O świcie niemiecka piechota jeszcze raz zaatakowała w pobliżu drogi z [Ypres](/miejsca/ypres) do Menin i, jak pisał w raporcie feldmarszałek [Douglas Haig](/postacie/douglas-haig), „załamała się przed naszymi pozycjami”. Teren zdobyty 26 września przez Australijczyków i Brytyjczyków [w drugim skoku generała Plumera](/poczatek-bitwy-o-polygon-wood) pozostał w ich rękach. Tego samego wieczoru cztery dywizje Anzac ruszyły nocą na taśmy wyjściowe przed grzbietem Broodseinde, skąd nazajutrz miało wyjść kolejne natarcie.
 
 ## Tydzień przeciwnatarć
 

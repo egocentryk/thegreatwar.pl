@@ -2,10 +2,10 @@
 title: Anglo-French conference in Paris
 summary: On 17 November 1915 British and French ministers in Paris discussed Greece and Salonika, rejected Kitchener's plan and agreed to a joint war council.
 source: brytyjsko-francuska-konferencja-w-paryzu
-sourceHash: 47b761d48fb15de521ddfd7d34b2b80b4605408d
+sourceHash: d8fd39539cf02eaac77c4e65e0f61a8a2cd1019d
 ---
 
-On 17 November 1915 members of the British War Committee and of the French government met in Paris. From London came Prime Minister [Herbert Henry Asquith](/postacie/herbert-henry-asquith), Foreign Secretary [Edward Grey](/postacie/edward-grey), First Lord of the Admiralty [Arthur Balfour](/postacie/arthur-balfour) and Minister of Munitions [David Lloyd George](/postacie/david-lloyd-george). The host was [Aristide Briand](/postacie/aristide-briand), who [less than three weeks earlier](/aristide-briand-premierem-francji) had become head of the government and at the same time taken over the foreign ministry. The fifth member of the British committee, the Secretary of State for War Lord Kitchener, was at that time in the eastern Mediterranean and on the same day was visiting [Salonika](https://pl.wikipedia.org/wiki/Saloniki). It was only Asquith's second meeting with the French government during the war. The first had taken place in July at [Calais](/pierwsza-konferencja-w-calais).
+On 17 November 1915 members of the British War Committee and of the French government met in Paris. From London came Prime Minister [Herbert Henry Asquith](/postacie/herbert-henry-asquith), Foreign Secretary [Edward Grey](/postacie/edward-grey), First Lord of the Admiralty [Arthur Balfour](/postacie/arthur-balfour) and Minister of Munitions [David Lloyd George](/postacie/david-lloyd-george). The host was [Aristide Briand](/postacie/aristide-briand), who [less than three weeks earlier](/aristide-briand-premierem-francji) had become head of the government and at the same time taken over the foreign ministry. The fifth member of the British committee, the Secretary of State for War Lord Kitchener, was at that time in the eastern Mediterranean and on the same day was visiting [Salonika](/miejsca/saloniki). It was only Asquith's second meeting with the French government during the war. The first had taken place in July at [Calais](/pierwsza-konferencja-w-calais).
 
 ## Why the conference was called
 

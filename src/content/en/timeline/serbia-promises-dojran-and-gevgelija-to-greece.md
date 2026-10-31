@@ -2,14 +2,14 @@
 title: Serbia promises Dojran and Gevgelija to Greece
 summary: Under 25 September 1915 the British chronology records that Serbia promised Greece the Dojran and Gevgelija area. Pašić hoped to win Greek help this way.
 source: serbia-obiecuje-grecji-dojran-i-gewgelije
-sourceHash: fbaf7546dca53163812b7e32de87b377b54f478f
+sourceHash: 50881e700be2ee7603d3a50487ce367fcf914056
 ---
 
 The British chronology of the war records under 25 September 1915 that the Serbian government promised [Greece](/kraje/grecja) [Dojran](https://pl.wikipedia.org/wiki/Dojran_(miasto)) and [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija) and undertook not to press claims to [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)). It was a response to the dramatic situation in the Balkans. Bulgaria, secretly bound to the Central Powers for several weeks, had just [begun mobilisation](/bulgaria-rozpoczyna-mobilizacje), and Austro-Hungarian and German troops were massing on the Danube. Serbia needed Greek help as never before, and Prime Minister [Nikola Pašić](/postacie/nikola-pasic) was ready to pay for it.
 
 ## An old Greek wish
 
-The Dojran and Gevgelija area lay on the Greek–Serbian border fixed after the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) in 1913. Gevgelija was the first station on the Serbian section of the railway running from [Salonika](https://pl.wikipedia.org/wiki/Saloniki) up the [Vardar](https://pl.wikipedia.org/wiki/Wardar), and the small town of Dojran lay on the lake of the same name, through which the border ran. The Greeks had long wanted to move the border north, to give better cover to Salonika and the railway. As early as January 1915 [Eleftherios Venizelos](/postacie/elefterios-wenizelos), weighing up a [British offer](/brytyjska-oferta-dla-grecji), reckoned in a memorandum to the king that acquiring this district of about a thousand square kilometres would make up half of Greece's losses if it had to cede [Kavala](https://pl.wikipedia.org/wiki/Kawala) to the Bulgarians. Pašić, unyielding towards any demands concerning Serbian Macedonia, for a long time would not hear of it.
+The Dojran and Gevgelija area lay on the Greek–Serbian border fixed after the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) in 1913. Gevgelija was the first station on the Serbian section of the railway running from [Salonika](/miejsca/saloniki) up the [Vardar](https://pl.wikipedia.org/wiki/Wardar), and the small town of Dojran lay on the lake of the same name, through which the border ran. The Greeks had long wanted to move the border north, to give better cover to Salonika and the railway. As early as January 1915 [Eleftherios Venizelos](/postacie/elefterios-wenizelos), weighing up a [British offer](/brytyjska-oferta-dla-grecji), reckoned in a memorandum to the king that acquiring this district of about a thousand square kilometres would make up half of Greece's losses if it had to cede [Kavala](https://pl.wikipedia.org/wiki/Kawala) to the Bulgarians. Pašić, unyielding towards any demands concerning Serbian Macedonia, for a long time would not hear of it.
 
 ## The price of an alliance
 

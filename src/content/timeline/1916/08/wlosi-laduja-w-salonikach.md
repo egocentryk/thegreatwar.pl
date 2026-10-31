@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 sierpnia 1916 roku w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) zaczęła się wyładowywać włoska 35 Dywizja Piechoty generała Carla Petittiego di Roreto, pierwszy duży oddział armii włoskiej wysłany na [front salonicki](https://pl.wikipedia.org/wiki/Front_salonicki). Tę datę podaje brytyjska historia oficjalna działań w Macedonii. Według włoskich opracowań pierwszy konwój wypłynął z [Tarentu](https://pl.wikipedia.org/wiki/Tarent) 8 sierpnia, a pierwsze oddziały zeszły na ląd już wieczorem 10 sierpnia. Brytyjska chronologia wojny notuje lądowanie Włochów pod 12 sierpnia. Kolejne transporty przypływały jeszcze przez następne dni.
+11 sierpnia 1916 roku w [Salonikach](/miejsca/saloniki) zaczęła się wyładowywać włoska 35 Dywizja Piechoty generała Carla Petittiego di Roreto, pierwszy duży oddział armii włoskiej wysłany na [front salonicki](https://pl.wikipedia.org/wiki/Front_salonicki). Tę datę podaje brytyjska historia oficjalna działań w Macedonii. Według włoskich opracowań pierwszy konwój wypłynął z [Tarentu](https://pl.wikipedia.org/wiki/Tarent) 8 sierpnia, a pierwsze oddziały zeszły na ląd już wieczorem 10 sierpnia. Brytyjska chronologia wojny notuje lądowanie Włochów pod 12 sierpnia. Kolejne transporty przypływały jeszcze przez następne dni.
 
 ## Długie targi
 

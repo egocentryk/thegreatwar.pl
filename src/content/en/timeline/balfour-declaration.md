@@ -2,7 +2,7 @@
 title: Balfour Declaration
 summary: On 2 November 1917 Arthur Balfour assured Lord Rothschild that Britain supported the establishment in Palestine of a national home for the Jewish people.
 source: deklaracja-balfoura
-sourceHash: 7708db67e11276227cb1aabd61fab5113c064406
+sourceHash: 4e4b7ff71f6d10e255f8818b1b0090c5c5e574d2
 brief:
   - "On 2 November 1917 the British Foreign Secretary Arthur Balfour assured Lord Rothschild in a letter that the government viewed with favour the establishment in Palestine of a national home for the Jewish people."
   - "It was the first public support for Zionism from a great power. Chaim Weizmann and Nahum Sokolow had campaigned for it, and Lloyd George's government was thinking of partitioning the Ottoman lands."
@@ -37,7 +37,7 @@ The government consulted its allies. France had already expressed sympathy for t
 
 The minutes of 31 October leave no doubt that the government counted above all on propaganda benefits. Balfour said that the vast majority of Jews in Russia and America, indeed all over the world, favoured Zionism, and that the declaration would make it possible to carry on "extremely useful propaganda" in both countries. In Russia, where the Provisional Government was struggling to keep the army at the front and many revolutionary activists were Jews, London wanted to win Jewish opinion over to continuing the war. In the United States it wanted the support of the Jewish community there for the war effort. Balfour also warned that Germany was courting the Zionists.
 
-Strategic considerations counted too. A Palestine under British protection would shield the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) from the east, and support for the Zionists provided an argument against the international administration of the country planned in the Sykes–Picot Agreement. The moment at the front was favourable: on 31 October General Allenby's troops [took Beersheba](/szarza-pod-beer-szewa), and on the night of 1/2 November British infantry attacked the defences of Gaza. Historians still argue over which of these motives weighed most and what part was played by the personal convictions of Balfour and Lloyd George, who had been brought up in the biblical tradition.
+Strategic considerations counted too. A Palestine under British protection would shield the [Suez Canal](/miejsca/kanal-sueski) from the east, and support for the Zionists provided an argument against the international administration of the country planned in the Sykes–Picot Agreement. The moment at the front was favourable: on 31 October General Allenby's troops [took Beersheba](/szarza-pod-beer-szewa), and on the night of 1/2 November British infantry attacked the defences of Gaza. Historians still argue over which of these motives weighed most and what part was played by the personal convictions of Balfour and Lloyd George, who had been brought up in the biblical tradition.
 
 ## Conflicting promises
 

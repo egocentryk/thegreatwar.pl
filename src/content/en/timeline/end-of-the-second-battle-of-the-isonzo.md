@@ -2,10 +2,10 @@
 title: End of the Second Battle of the Isonzo
 summary: The Austro-Hungarian official history ends the Second Battle of the Isonzo on 10 August 1915. After Italy's 3 August order, the Karst fighting went on a week.
 source: koniec-drugiej-bitwy-nad-isonzo
-sourceHash: 4464c159f5e6b83eb9bc6d0975e548dc2b6868f3
+sourceHash: 7d4c47e0031f48d174db8245994ce4d43fd66612
 ---
 
-The British chronology of the war and the Austro-Hungarian official history end the [Second Battle of the Isonzo](/bitwy/druga-bitwa-nad-isonzo) on 10 August 1915. The Italians count it as shorter, from 18 July to 3 August, when the supreme command of General [Luigi Cadorna](/postacie/luigi-cadorna) ordered the offensive on the middle and lower [Isonzo](https://pl.wikipedia.org/wiki/Socza) to be halted. The order did not, however, mean immediate quiet. The commander of the Italian Third Army, the Duke of Aosta, ordered a continued advance, only "slowly and methodically". According to the Austrians, fighting on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau therefore smouldered for another week, although it no longer changed the position of either side.
+The British chronology of the war and the Austro-Hungarian official history end the [Second Battle of the Isonzo](/bitwy/druga-bitwa-nad-isonzo) on 10 August 1915. The Italians count it as shorter, from 18 July to 3 August, when the supreme command of General [Luigi Cadorna](/postacie/luigi-cadorna) ordered the offensive on the middle and lower [Isonzo](/bitwy/bitwy-nad-isonzo) to be halted. The order did not, however, mean immediate quiet. The commander of the Italian Third Army, the Duke of Aosta, ordered a continued advance, only "slowly and methodically". According to the Austrians, fighting on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau therefore smouldered for another week, although it no longer changed the position of either side.
 
 ## The last clashes on the Karst
 

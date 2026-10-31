@@ -2,7 +2,7 @@
 title: Bombardment of Smyrna begins
 summary: On 5 March 1915 Vice-Admiral Richard Peirse's British squadron shelled the forts defending Smyrna, to destroy the defences and clear the gulf of mines.
 source: poczatek-bombardowania-smyrny
-sourceHash: e35b26e504d57286632adba059224f6ced396d4b
+sourceHash: 82589f93f1dbd425274553b5804d94a5f319bc1a
 ---
 
 On 5 March 1915 a British squadron under Vice-Admiral Richard Peirse began shelling the forts defending [Smyrna](https://pl.wikipedia.org/wiki/Izmir), the largest port on the Aegean coast of the [Ottoman Empire](/kraje/imperium-osmanskie). Taking part in the action were the [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Euryalus*, the admiral's flagship, the old battleships *Triumph* and *Swiftsure*, the [seaplane carrier](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów) *Anne Rickmers*, converted from a captured German freighter, and a group of minesweepers converted from fishing vessels.
@@ -11,7 +11,7 @@ On 5 March 1915 a British squadron under Vice-Admiral Richard Peirse began shell
 
 British ships had been operating in the [Gulf of Smyrna](https://pl.wikipedia.org/wiki/Zatoka_Izmirska) [from the very start of the war with Turkey](/poczatek-dzialan-brytyjsko-tureckich), and afterwards had tried to cut the port off from supplies. Now there was more at stake. Since 19 February the British and French fleet had been [attacking the Dardanelles](/poczatek-ataku-floty-na-dardanele), and in London there were growing fears that the Germans would send submarines into the Aegean, for example from the [Adriatic](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). The wide gulf with its well-equipped port could become a convenient base for them. The Admiralty decided to prevent this. The ships were to destroy the forts, clear the entrance to the gulf of mines and make a close blockade of the port possible. A landing was forbidden, and there was no question of taking the city.
 
-The task was given to Peirse, commander of the East Indies Station, who since December 1914 had been responsible for the defence of Egypt and in February had directed the ships defending the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski). On 2 March he was ordered to come from Egypt in *Euryalus* and meet the battleships *Triumph* and *Swiftsure*, detached from the Dardanelles, at the entrance to the gulf.
+The task was given to Peirse, commander of the East Indies Station, who since December 1914 had been responsible for the defence of Egypt and in February had directed the ships defending the [Suez Canal](/miejsca/kanal-sueski). On 2 March he was ordered to come from Egypt in *Euryalus* and meet the battleships *Triumph* and *Swiftsure*, detached from the Dardanelles, at the entrance to the gulf.
 
 ## The forts above the narrows
 

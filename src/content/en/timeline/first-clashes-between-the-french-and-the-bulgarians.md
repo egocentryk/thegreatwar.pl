@@ -2,10 +2,10 @@
 title: First clashes between the French and the Bulgarians
 summary: In mid-October 1915 the French moved from Salonika up the Vardar into Serbia. They first fought the Bulgarians on 21 October near Strumica station.
 source: pierwsze-starcia-francuzow-z-bulgarami
-sourceHash: be9e92b575f914eca37a94ab72d37c2862d14953
+sourceHash: 234febd04a6bb7fcaa5f73a4420942da5e575b08
 ---
 
-The British chronology of the war on which our timeline is based records under 13 October 1915 the beginning of hostilities between the French and the Bulgarians in Macedonia. On that day, however, French troops were only beginning to leave [Salonika](https://pl.wikipedia.org/wiki/Saloniki) for the Serbian border, and France and Bulgaria were not yet formally at war. According to the British official history of the Macedonian campaign and the French official history, the first real fight between the French and the Bulgarians took place on 21 October near Strumica railway station on the [Vardar](https://pl.wikipedia.org/wiki/Wardar). A Spanish staff officer who observed the campaign from the Bulgarian side, cited by the British history, and the Austrian official history date it to 22 October.
+The British chronology of the war on which our timeline is based records under 13 October 1915 the beginning of hostilities between the French and the Bulgarians in Macedonia. On that day, however, French troops were only beginning to leave [Salonika](/miejsca/saloniki) for the Serbian border, and France and Bulgaria were not yet formally at war. According to the British official history of the Macedonian campaign and the French official history, the first real fight between the French and the Bulgarians took place on 21 October near Strumica railway station on the [Vardar](https://pl.wikipedia.org/wiki/Wardar). A Spanish staff officer who observed the campaign from the Bulgarian side, cited by the British history, and the Austrian official history date it to 22 October.
 
 ## The French move into Macedonia
 

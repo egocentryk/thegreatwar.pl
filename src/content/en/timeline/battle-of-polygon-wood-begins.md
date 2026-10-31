@@ -2,7 +2,7 @@
 title: Battle of Polygon Wood begins
 summary: On 26 September 1917 the Australians took Polygon Wood and the Butte near Ypres, and the British entered Zonnebeke. Artillery broke the German counter-attacks.
 source: poczatek-bitwy-o-polygon-wood
-sourceHash: bfea25eb208b38a8fa07e0d1f2cc7a86e46126ee
+sourceHash: 5d401f2d420ea1ba6a604a45f45cb9d7f4efe41f
 brief:
   - "At 5.50 a.m. on 26 September 1917 seven divisions, five British and two Australian, advanced near Ypres in General Herbert Plumer's second step, six days after the attack along the Menin Road."
   - "The day before, a German attack on the southern edge of Polygon Wood and shelling of the 15th Australian Brigade's rear nearly wrecked the attack. Plumer and Birdwood nevertheless decided it would go ahead."
@@ -11,7 +11,7 @@ brief:
   - "According to the British official history the seven divisions lost more than 15,000 men in the battle. For the Germans it was a defeat for their new defensive tactics, while Plumer prepared a step onto the Broodseinde ridge."
 ---
 
-On 26 September 1917 at 5.50 a.m., as the plateau east of [Ypres](https://pl.wikipedia.org/wiki/Ieper) was beginning to emerge from the darkness, a mass of British guns opened fire simultaneously, "with one crash", as almost every report recorded. Behind a wall of dust and smoke seven divisions moved off: five British and two Australian. It was General [Herbert Plumer](/postacie/herbert-plumer)'s second step in the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), six days after the [attack along the Menin Road](/poczatek-bitwy-o-grzbiet-menin-road). By midday the Australians had taken the rest of Polygon Wood with the Butte mound and a stretch of the German Flandern I line, and the British had entered [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke). In the afternoon the German counter-attack divisions, coming down from the Broodseinde ridge in full sunlight, were shattered by artillery fire before they could reach the new line.
+On 26 September 1917 at 5.50 a.m., as the plateau east of [Ypres](/miejsca/ypres) was beginning to emerge from the darkness, a mass of British guns opened fire simultaneously, "with one crash", as almost every report recorded. Behind a wall of dust and smoke seven divisions moved off: five British and two Australian. It was General [Herbert Plumer](/postacie/herbert-plumer)'s second step in the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), six days after the [attack along the Menin Road](/poczatek-bitwy-o-grzbiet-menin-road). By midday the Australians had taken the rest of Polygon Wood with the Butte mound and a stretch of the German Flandern I line, and the British had entered [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke). In the afternoon the German counter-attack divisions, coming down from the Broodseinde ridge in full sunlight, were shattered by artillery fire before they could reach the new line.
 
 ## A night after a hard day
 

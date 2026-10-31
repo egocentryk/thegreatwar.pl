@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: German victory. The 4th Army took Messines, Ploegsteert, Ploegsteert Wood and Hill 63 and forced IX Corps to fall back in front of Neuve-Église and Wulverghem, but it did not break through the front or take Wytschaete.
 source: bitwa-pod-messines-1918
-sourceHash: 3c8ea873e9a6e0f19816dfbd8e5bf36919208816
+sourceHash: 11e8c4dc6c65881cce29902c389fa84a20eba56b
 brief:
   - "The Battle of Messines, fought on 10–11 April 1918 north of Armentières, was the second act of the German offensive in Flanders known as the Battle of the Lys."
   - "The day after the 6th Army broke through the Portuguese front, General Sixt von Armin's German 4th Army attacked. The defenders were three divisions of IX Corps, bled white on the Somme in March."
@@ -26,7 +26,7 @@ The name "Battle of Messines 1918" and the dates 10–11 April were given after 
 
 ## Background
 
-The Messines–Wytschaete ridge, a low bank rising south of [Ypres](https://pl.wikipedia.org/wiki/Ieper), had an importance in Flanders out of all proportion to its height. The Germans took it on 1 November 1914, at the end of [the Battle of Messines](/bitwy/bitwa-pod-messines) of 1914, and for two and a half years watched the British rear areas from it. On 7 June 1917 General [Herbert Plumer's](/postacie/herbert-plumer) Second Army took it back in one of the most successful attacks of the war, after nineteen mines were exploded beneath the German trenches ([the Battle of Messines 1917](/bitwy/bitwa-pod-messines-1917)). The front then moved more than three kilometres east of the ridge.
+The Messines–Wytschaete ridge, a low bank rising south of [Ypres](/miejsca/ypres), had an importance in Flanders out of all proportion to its height. The Germans took it on 1 November 1914, at the end of [the Battle of Messines](/bitwy/bitwa-pod-messines) of 1914, and for two and a half years watched the British rear areas from it. On 7 June 1917 General [Herbert Plumer's](/postacie/herbert-plumer) Second Army took it back in one of the most successful attacks of the war, after nineteen mines were exploded beneath the German trenches ([the Battle of Messines 1917](/bitwy/bitwa-pod-messines-1917)). The front then moved more than three kilometres east of the ridge.
 
 In spring 1918 the Germans planned Operation "George" in Flanders: the 6th Army was to break through the front on the plain of the Lys and advance on [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), and the 4th Army was to strike at the Messines ridge and on to the Flanders hills with [Mont Kemmel](https://pl.wikipedia.org/wiki/Kemmelberg), which would force the British to abandon the Ypres salient. Sixt von Armin regarded the attack on the ridge as the most important of his tasks. After [Operation Michael](/bitwy/operacja-michael) on the Somme, however, Ludendorff had too few divisions and too little heavy artillery left, the plan was reduced to "Georgette", and of the 4th Army's several blows only this one remained. It was to start the day after the 6th Army's attack, and the two armies were together to cut off Armentières.
 

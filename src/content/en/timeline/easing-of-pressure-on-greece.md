@@ -2,7 +2,7 @@
 title: Easing of pressure on Greece
 summary: On 13 December 1915 London partly eased its economic pressure on Greece. Greek ships were released, but supplies of goods to Greece were still restricted.
 source: zlagodzenie-presji-na-grecje
-sourceHash: 31e9ecb9f51382285654efd07e6c7f865a6c1df1
+sourceHash: 8e9a129472d402c12374fd797611b029b1dc9f23
 ---
 
 The British chronology of the war records under 13 December 1915, that is 30 November by the Julian calendar, that the British government ordered a partial easing of economic pressure on Greece. This followed from the agreement that the Entente ministers had reached in Athens three days earlier with the prime minister, [Stefanos Skouloudis](/postacie/stefanos-skuludis). Greece had [not, it is true, handed over Salonika](/grecja-odrzuca-zadanie-ententy), but it promised not to hinder the Allies in defending the city, and its V Corps was to move away to the east. In return the ministers promised that the difficulties would vanish as soon as the military put the arrangements into effect.
@@ -15,7 +15,7 @@ The first to act were the Italians, who [at the beginning of December](/brytyjsk
 
 The easing did not, however, mean a return to free trade. The British, as the Italian ambassador in London, Guglielmo Imperiali, reported on 14 December, preferred "to proceed gradually along the path of concessions" on supplies to Greece. The French feared that the Greeks would build up stocks of grain and other goods that could reach the Central Powers. According to information from the French government, many empty Greek ships were sailing to America at that very moment, most probably for grain. Paris therefore proposed a quota system like the one introduced earlier for Switzerland. An international commission in Paris was to fix the monthly quantities of wheat, flour, maize, paraffin, coal and fats "strictly necessary" for Greece, and Allied warships in the Mediterranean and customs offices were to track cargoes bound for Greek ports. Once the limit was reached, further shipments would be stopped.
 
-Sonnino was more cautious. He believed that new and delicate negotiations on quotas would only cause more friction, and that the Allies lacked even reliable data. For the time being it would be enough to watch how much the Greeks imported along the two routes they had to use anyway, through [Gibraltar](https://pl.wikipedia.org/wiki/Gibraltar) and the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski), and to prevent large stocks from being built up. The French prime minister, [Aristide Briand](/postacie/aristide-briand), proposed at the same time that the Allies give Athens an advance of some 8–10 million out of the 40 million that Skouloudis had asked for.
+Sonnino was more cautious. He believed that new and delicate negotiations on quotas would only cause more friction, and that the Allies lacked even reliable data. For the time being it would be enough to watch how much the Greeks imported along the two routes they had to use anyway, through [Gibraltar](https://pl.wikipedia.org/wiki/Gibraltar) and the [Suez Canal](/miejsca/kanal-sueski), and to prevent large stocks from being built up. The French prime minister, [Aristide Briand](/postacie/aristide-briand), proposed at the same time that the Allies give Athens an advance of some 8–10 million out of the 40 million that Skouloudis had asked for.
 
 ## A brief détente
 

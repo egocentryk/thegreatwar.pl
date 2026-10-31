@@ -2,10 +2,10 @@
 title: End of the Seventh Battle of the Isonzo
 summary: On the evening of 17 September 1916 Cadorna halted the attack on the Karst; on 18 September the fighting died down. Italy took only San Grado and some trenches.
 source: koniec-siodmej-bitwy-nad-isonzo
-sourceHash: 31a81a08530a491104236141445a8b0e6c25cb37
+sourceHash: f1fa092856ecb6736d0ac19e023fbb1c1035fc1f
 ---
 
-On 18 September 1916 the Seventh Battle of the [Isonzo](https://pl.wikipedia.org/wiki/Socza) was dying down on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. General [Luigi Cadorna](/postacie/luigi-cadorna) had taken the decision to end it on the evening of 17 September. This is how the Austro-Hungarian official history dates the end of the battle, giving the dates 14–17 September. The British chronology of the war, as well as some German and Italian studies, adopts 18 September, however, the first day without major attacks, when both sides were only trying to improve their positions.
+On 18 September 1916 the Seventh Battle of the [Isonzo](/bitwy/bitwy-nad-isonzo) was dying down on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. General [Luigi Cadorna](/postacie/luigi-cadorna) had taken the decision to end it on the evening of 17 September. This is how the Austro-Hungarian official history dates the end of the battle, giving the dates 14–17 September. The British chronology of the war, as well as some German and Italian studies, adopts 18 September, however, the first day without major attacks, when both sides were only trying to improve their positions.
 
 After four days of assaults, which [had begun on 14 September](/poczatek-siodmej-bitwy-nad-isonzo), the Italian Third Army had gained little. On the northern edge of the plateau it took a projecting salient of trenches on the Nad Logem hill and the hill with the church of San Grado di Merna above the valley of the [Vipava](https://pl.wikipedia.org/wiki/Vipava_(rzeka)); in the south, a few sections of trench near Oppacchiasella and on Hill 208, while the summit of Hill 144 above the sea became no man's land. Even on 17 September Italian brigades broke into the Austrian trenches several times near Lokvica, Oppacchiasella and Nova Vas, but each time they were thrown out. After 4 p.m. the infantry fighting stopped. The hills of Fajti hrib and Trstelj, the main objectives of the attack, remained in Austrian hands.
 

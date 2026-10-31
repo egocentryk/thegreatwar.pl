@@ -2,7 +2,7 @@
 title: Third Battle of Ypres begins
 summary: On 31 July 1917 the British and French attacked from Ypres. They took Pilckem Ridge but stalled on the Gheluvelt plateau, and in the afternoon a downpour began.
 source: poczatek-trzeciej-bitwy-pod-ypres
-sourceHash: 6479c9312684f8f89a13ffcfee47b4c6c2fde941
+sourceHash: 251aee906c1be03f2de12e1b218f9a2ab72819c4
 brief:
   - "At 3.50 a.m. on 31 July 1917 the infantry of the British Fifth and Second Armies and the French First Army attacked from Ypres. So began the Third Battle of Ypres, which Douglas Haig had been preparing for a year and a half."
   - "The offensive was to drive the Germans from the ridges around Ypres and then from the Belgian coast. The German Fourth Army had prepared a defence in depth with counter-attack divisions behind Passchendaele Ridge."
@@ -11,7 +11,7 @@ brief:
   - "Haig judged the first day a success, but nowhere had the German defence been broken. The offensive lasted more than three months and became a byword for fighting in mud."
 ---
 
-At 3.50 a.m. on 31 July 1917, in darkness under low clouds, thousands of guns opened a barrage on the front from the river Lys to the flooded meadows near Steenstraat, and behind it the infantry of the British Fifth and Second Armies and the French First Army went into the attack. So began the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), the great offensive that Field Marshal [Douglas Haig](/postacie/douglas-haig) had been preparing for a year and a half and which was to drive the Germans from the ridges around [Ypres](https://pl.wikipedia.org/wiki/Ieper), and then from the Belgian coast. The first day brought success in the north, where the Allies took Pilckem Ridge, and disappointment on the most important sector, the Gheluvelt plateau. In the afternoon the rain began that was to decide the fate of the whole campaign.
+At 3.50 a.m. on 31 July 1917, in darkness under low clouds, thousands of guns opened a barrage on the front from the river Lys to the flooded meadows near Steenstraat, and behind it the infantry of the British Fifth and Second Armies and the French First Army went into the attack. So began the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), the great offensive that Field Marshal [Douglas Haig](/postacie/douglas-haig) had been preparing for a year and a half and which was to drive the Germans from the ridges around [Ypres](/miejsca/ypres), and then from the Belgian coast. The first day brought success in the north, where the Allies took Pilckem Ridge, and disappointment on the most important sector, the Gheluvelt plateau. In the afternoon the rain began that was to decide the fate of the whole campaign.
 
 ## Seven weeks of waiting
 

@@ -6,14 +6,14 @@ country: United Kingdom
 birthPlace: Corfu (Ionian Islands)
 deathPlace: London
 source: ian-hamilton
-sourceHash: 1f6b612ad88ec210cbf344e0796adb925dd7a9e1
+sourceHash: 2d4385249a0fafa3b639b9db0557d97476e7c7f2
 ---
 
 Sir Ian Hamilton was one of the most experienced and best-read British generals of his age. He fought on several continents, wrote poems and novels, spoke German and French, and watched the Russo-Japanese War at close quarters as an observer with the Japanese army. In March 1915 Lord Kitchener gave him command of the troops that were to help the fleet force its way through the Dardanelles. For seven months Hamilton conducted a campaign on the Gallipoli peninsula that was meant to open the road to Constantinople and ended as one of the Entente's most painful defeats. In October 1915 the government recalled him, and he never again held a command in the field. Historians still argue over how much of the blame for the disaster was his and how much belonged to the politicians, who gave him too few men, too little ammunition and too little time.
 
 ## Before the war
 
-He was born on 16 January 1853 on [Corfu](https://pl.wikipedia.org/wiki/Korfu), which was then a British protectorate. His father was an officer in the Scottish regiment the Gordon Highlanders; his mother, a daughter of the Irish Viscount Gort, died when Ian was three. He was educated at Wellington College, then for a time by a retired Hanoverian general in Germany, and in 1871 he passed out of the military college at Sandhurst. After a short spell in the Suffolk Regiment he transferred to the Gordon Highlanders, with whom he went to India.
+He was born on 16 January 1853 on [Corfu](/miejsca/korfu), which was then a British protectorate. His father was an officer in the Scottish regiment the Gordon Highlanders; his mother, a daughter of the Irish Viscount Gort, died when Ian was three. He was educated at Wellington College, then for a time by a retired Hanoverian general in Germany, and in 1871 he passed out of the military college at Sandhurst. After a short spell in the Suffolk Regiment he transferred to the Gordon Highlanders, with whom he went to India.
 
 He learned his trade in almost every colonial war of the late Victorian era. He fought in the Second Anglo-Afghan War, and in 1881, during the First Boer War, he was badly wounded at the battle [of Majuba Hill](https://pl.wikipedia.org/wiki/Bitwa_na_wzgórzu_Majuba) and briefly taken prisoner. The wound left his left hand almost useless. He then took part in the Nile Expedition to relieve Khartoum, in the war in Burma and in expeditions on India's North-West Frontier, where he commanded a brigade in the Tirah campaign. He belonged to the circle of protégés of Lord Roberts, Commander-in-Chief in India and later of the whole army. In 1887 he married Jean Muir, the daughter of a wealthy Glasgow merchant.
 

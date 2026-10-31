@@ -2,7 +2,7 @@
 title: Battle of Caporetto begins
 summary: On 24 October 1917, after a gas bombardment, Germans and Austrians struck on the upper Isonzo. By evening they had broken the Italian front and taken Caporetto.
 source: poczatek-bitwy-pod-caporetto
-sourceHash: d9256e5abb0ae11a79b00f2ef496aaaad3a84225
+sourceHash: 88bffd3f8d6ad126ae3f485a9285cd9f61eef4a6
 brief:
   - "At two in the morning on 24 October 1917 Germany and Austria-Hungary launched a joint offensive against Italy on the upper Isonzo, called the Twelfth Battle of the Isonzo and known as the Battle of Caporetto."
   - "The Austrians, exhausted by the Eleventh Battle of the Isonzo, had obtained German help. General Luigi Cadorna knew of the plan from deserters but did not believe in a major offensive in such difficult mountains."
@@ -11,7 +11,7 @@ brief:
   - "By evening the Italian 2nd Army's front had been torn open over more than 30 kilometres, and according to Mario Silvestri about 35,000 Italians had been captured. The road to the Friuli plain was opening."
 ---
 
-At two in the morning on 24 October 1917 hundreds of guns opened fire on the front along the upper [Isonzo](https://pl.wikipedia.org/wiki/Socza), from Rombon above [Bovec](https://pl.wikipedia.org/wiki/Bovec) to the Bainsizza plateau. The joint offensive of Germany and Austria-Hungary against Italy had begun, called the Twelfth Battle of the Isonzo and known in Italy and around the world as the Battle of Caporetto. After several hours of bombardment, in rain and fog, the infantry of the new German 14th Army under General [Otto von Below](/postacie/otto-von-below) went over to the assault. By evening the Italian front had been torn open over a length of more than 30 kilometres, and a German division advancing along the floor of the Isonzo valley had taken the small town of Caporetto, today Slovenian [Kobarid](https://pl.wikipedia.org/wiki/Kobarid), and stood on the old Italian-Austrian frontier.
+At two in the morning on 24 October 1917 hundreds of guns opened fire on the front along the upper [Isonzo](/bitwy/bitwy-nad-isonzo), from Rombon above [Bovec](https://pl.wikipedia.org/wiki/Bovec) to the Bainsizza plateau. The joint offensive of Germany and Austria-Hungary against Italy had begun, called the Twelfth Battle of the Isonzo and known in Italy and around the world as the Battle of Caporetto. After several hours of bombardment, in rain and fog, the infantry of the new German 14th Army under General [Otto von Below](/postacie/otto-von-below) went over to the assault. By evening the Italian front had been torn open over a length of more than 30 kilometres, and a German division advancing along the floor of the Isonzo valley had taken the small town of Caporetto, today Slovenian [Kobarid](https://pl.wikipedia.org/wiki/Kobarid), and stood on the old Italian-Austrian frontier.
 
 ## Before the storm
 

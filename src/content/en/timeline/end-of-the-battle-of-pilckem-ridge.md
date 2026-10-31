@@ -2,10 +2,10 @@
 title: End of the Battle of Pilckem Ridge
 summary: On 2 August 1917 downpours halted the first attack at Ypres. Gough postponed further attacks, and British losses exceeded 30,000 men.
 source: koniec-bitwy-o-grzbiet-pilckem
-sourceHash: 984eb96a1e59c88f215c09ca3d313cb135c89b8d
+sourceHash: 0b8cc3b964b8438147f09660f553c5505968bf52
 ---
 
-On 2 August 1917, for the third day running, it rained over the [Ypres](https://pl.wikipedia.org/wiki/Ieper) salient. The first great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), which on 31 July [had given the British and French Pilckem Ridge](/poczatek-trzeciej-bitwy-pod-ypres), had turned into a struggle with mud. Both sides still tried to improve their positions: in the afternoon British artillery broke up two German attacks near Pommern Redoubt, and north of Ypres the British again occupied the ruins of Sint-Juliaan (St. Julien) and pushed posts across the Steenbeek stream. On the same day the commander of the Fifth Army, General [Hubert Gough](/postacie/hubert-gough), postponed the resumption of the offensive. The British Battles Nomenclature Committee later recognised 2 August as the last day of the Battle of Pilckem Ridge.
+On 2 August 1917, for the third day running, it rained over the [Ypres](/miejsca/ypres) salient. The first great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), which on 31 July [had given the British and French Pilckem Ridge](/poczatek-trzeciej-bitwy-pod-ypres), had turned into a struggle with mud. Both sides still tried to improve their positions: in the afternoon British artillery broke up two German attacks near Pommern Redoubt, and north of Ypres the British again occupied the ruins of Sint-Juliaan (St. Julien) and pushed posts across the Steenbeek stream. On the same day the commander of the Fifth Army, General [Hubert Gough](/postacie/hubert-gough), postponed the resumption of the offensive. The British Battles Nomenclature Committee later recognised 2 August as the last day of the Battle of Pilckem Ridge.
 
 ## Rain and mud
 

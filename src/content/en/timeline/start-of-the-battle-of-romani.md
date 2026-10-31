@@ -2,10 +2,10 @@
 title: Start of the Battle of Romani
 summary: On the night of 3–4 August 1916 Kress von Kressenstein struck at Romani in Sinai. The Australians fell back until dawn; Mount Royston was retaken by 6 p.m.
 source: poczatek-bitwy-o-romani
-sourceHash: a7efbd58c98bdf7d5e3bea5fa064fb231dc12359
+sourceHash: 6845a00be95d9e5fd675734362abb08f59cefef2
 ---
 
-On the night of 3–4 August 1916 the Ottoman-German expedition of Colonel Friedrich Kress von Kressenstein, which had been [advancing across Sinai](/osmanska-ofensywa-przez-synaj) for two weeks, struck at the British position at Romani, some 35–40 kilometres east of the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski). Kress, as he later described his plan himself, intended to bombard the British infantry redoubts with heavy guns and attack them only with weak detachments, while throwing his main force from the south, across the dunes, against the right flank and rear of the camp. The British expected exactly that. According to their official history (MacMunn and Falls, *Military Operations: Egypt and Palestine*), General Archibald Murray had even ordered preparations for an attack of his own on the Turks around 13 August, at full moon, should they not attack earlier. British [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) lay off the coast, an armoured train waited at Kantara, and every aircraft in Egypt had been brought up to the canal.
+On the night of 3–4 August 1916 the Ottoman-German expedition of Colonel Friedrich Kress von Kressenstein, which had been [advancing across Sinai](/osmanska-ofensywa-przez-synaj) for two weeks, struck at the British position at Romani, some 35–40 kilometres east of the [Suez Canal](/miejsca/kanal-sueski). Kress, as he later described his plan himself, intended to bombard the British infantry redoubts with heavy guns and attack them only with weak detachments, while throwing his main force from the south, across the dunes, against the right flank and rear of the camp. The British expected exactly that. According to their official history (MacMunn and Falls, *Military Operations: Egypt and Palestine*), General Archibald Murray had even ordered preparations for an attack of his own on the Turks around 13 August, at full moon, should they not attack earlier. British [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) lay off the coast, an armoured train waited at Kantara, and every aircraft in Egypt had been brought up to the canal.
 
 ## Night on the dunes
 

@@ -17,7 +17,7 @@ Z Nixonem przypłynął sztab korpusu armijnego, który przejął pracę wykonyw
 
 ## Rozkazy i podróż
 
-Instrukcje, które Nixon otrzymał w kwaterze głównej armii w Indiach, przewidywały opanowanie całego wilajetu Basry i przygotowanie planu marszu na [Bagdad](https://pl.wikipedia.org/wiki/Bagdad). 30 marca dostał dodatkowe polecenia: miał ocenić, czy potrzebne są nad Tygrysem i Eufratem lekka kolej, samochody pancerne, samoloty i więcej statków rzecznych. Dzień później sztab generalny w Indiach telegrafował mu, że wojska tureckie są rozdzielone na dwa odległe skrzydła i że dzięki flotylli rzecznej będzie je można pobić po kolei. Później, przed komisją badającą przebieg kampanii, Nixon zeznał, że rozumiał te rozkazy jako zapowiedź przejścia do natarcia.
+Instrukcje, które Nixon otrzymał w kwaterze głównej armii w Indiach, przewidywały opanowanie całego wilajetu Basry i przygotowanie planu marszu na [Bagdad](/miejsca/bagdad). 30 marca dostał dodatkowe polecenia: miał ocenić, czy potrzebne są nad Tygrysem i Eufratem lekka kolej, samochody pancerne, samoloty i więcej statków rzecznych. Dzień później sztab generalny w Indiach telegrafował mu, że wojska tureckie są rozdzielone na dwa odległe skrzydła i że dzięki flotylli rzecznej będzie je można pobić po kolei. Później, przed komisją badającą przebieg kampanii, Nixon zeznał, że rozumiał te rozkazy jako zapowiedź przejścia do natarcia.
 
 Po drodze, 5 kwietnia, zatrzymał się w [Buszehrze](https://pl.wikipedia.org/wiki/Buszehr) nad Zatoką Perską. W południowej Persji działali wtedy niemieccy agenci, którzy podburzali miejscowe plemiona przeciw Brytyjczykom. Rząd Indii przypomniał Nixonowi, że w Buszehrze nie wolno mu robić nic ponad to, co konieczne do ochrony życia i mienia poddanych brytyjskich.
 

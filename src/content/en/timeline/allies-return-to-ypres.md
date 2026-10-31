@@ -2,10 +2,10 @@
 title: Allies return to Ypres
 summary: In mid-October 1914 Rawlinson's British IV Corps, falling back from Ghent, reached Ypres. French Territorial divisions took up positions beside it.
 source: alianci-wracaja-do-ypres
-sourceHash: 8595c85309f0394330587f135942a78a65be001d
+sourceHash: d1da63a83ec5c369d497c97acf1825e1dc6040b9
 ---
 
-The British chronicle of the war records under 13 October 1914 the occupation of [Ypres](https://pl.wikipedia.org/wiki/Ieper) by British troops. The old Flemish town had been without any garrison for several days. The German cavalry, which [had entered it on 7 October](/niemiecka-kawaleria-w-ypres), had left westwards the very next morning. Now British divisions were approaching from the north-east and French ones from the west. Accounts of the march suggest, however, that the main British forces entered the town only on 14 October.
+The British chronicle of the war records under 13 October 1914 the occupation of [Ypres](/miejsca/ypres) by British troops. The old Flemish town had been without any garrison for several days. The German cavalry, which [had entered it on 7 October](/niemiecka-kawaleria-w-ypres), had left westwards the very next morning. Now British divisions were approaching from the north-east and French ones from the west. Accounts of the march suggest, however, that the main British forces entered the town only on 14 October.
 
 ## The march from Ghent
 

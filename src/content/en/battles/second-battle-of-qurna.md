@@ -9,7 +9,7 @@ sides:
     commanders: []
 result: British victory. The Turks lost their advanced posts, then abandoned their main position without a fight and fled up the Tigris, pursued by the British flotilla as far as Amara.
 source: druga-bitwa-pod-al-kurna
-sourceHash: 2818bb12a0aba170b8623ec8f55db214805b0ebb
+sourceHash: 469c0c8b845db3d055bcf22b77605a80ed59aadb
 ---
 
 The Second Battle of Qurna opened the British advance up the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) in 1915. On 31 May General Charles Townshend's 6th (Poona) Division attacked Turkish positions north of [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)). The spring flood had turned the area into a shallow lake, from which only the sandy hillocks held by the Turks rose above the water. The infantry therefore went into the attack in hundreds of flat-bottomed Arab boats, supported by artillery and by warships steaming up the Tigris. By noon it had taken all the advanced posts. The next day the Turks abandoned their main position without a fight and fled upriver, and the British flotilla set off in pursuit, which ended on 3 June with the capture of [Amara](https://pl.wikipedia.org/wiki/Al-Amara). The British called this curious operation "Townshend's Regatta".
@@ -64,4 +64,4 @@ According to the British official history, in the whole operation from 31 May to
 
 The operation from Qurna to Amara was one of the most successful British undertakings in Mesopotamia. With negligible losses they routed the entire Turkish force on the Tigris, and the Turkish river flotilla lost vessels it had nothing to replace with. The capture of Amara covered Basra and Qurna from the north and cut the Turks off from Persian Arabistan with its oilfields and pipeline. A Turkish detachment withdrawing from there towards Amara at that very moment ran into the British and scattered in panic.
 
-The easy victory had another side, however. It confirmed Nixon and Townshend in the belief that the Ottoman army in Mesopotamia was weak and that boldness could make up for numbers. In the summer the British took Nasiriyah on the Euphrates, in September [Kut](https://pl.wikipedia.org/wiki/Al-Kut), and in the autumn they advanced on [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). That march ended in defeat at Ctesiphon and the siege of Townshend's division in Kut, which ended in its surrender in April 1916.
+The easy victory had another side, however. It confirmed Nixon and Townshend in the belief that the Ottoman army in Mesopotamia was weak and that boldness could make up for numbers. In the summer the British took Nasiriyah on the Euphrates, in September [Kut](https://pl.wikipedia.org/wiki/Al-Kut), and in the autumn they advanced on [Baghdad](/miejsca/bagdad). That march ended in defeat at Ctesiphon and the siege of Townshend's division in Kut, which ended in its surrender in April 1916.

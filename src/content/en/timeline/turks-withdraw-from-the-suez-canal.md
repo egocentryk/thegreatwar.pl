@@ -2,10 +2,10 @@
 title: Turks withdraw from the Suez Canal
 summary: On the morning of 4 February 1915 the Suez Canal's defenders found the main Turkish force had left in the night. Nearly 300 Turks surrendered at Serapeum.
 source: turcy-wycofuja-sie-znad-kanalu-sueskiego
-sourceHash: 6b94bd4cb5bbc8e0ad856b1a064638174889f4e9
+sourceHash: a257af5ba1a87ea01c79d63c52cd561ed697357b
 ---
 
-On the morning of 4 February 1915 the soldiers defending the central sector of the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) were preparing for a renewed Turkish attack. When day broke, however, it turned out that the enemy's main force had vanished. After the [failed attempt to cross](/poczatek-walk-nad-kanalem-sueskim) the previous day, the Ottoman army had withdrawn in the night into the depths of the Sinai desert. Only isolated detachments and snipers remained by the canal.
+On the morning of 4 February 1915 the soldiers defending the central sector of the [Suez Canal](/miejsca/kanal-sueski) were preparing for a renewed Turkish attack. When day broke, however, it turned out that the enemy's main force had vanished. After the [failed attempt to cross](/poczatek-walk-nad-kanalem-sueskim) the previous day, the Ottoman army had withdrawn in the night into the depths of the Sinai desert. Only isolated detachments and snipers remained by the canal.
 
 ## The decision to retreat
 

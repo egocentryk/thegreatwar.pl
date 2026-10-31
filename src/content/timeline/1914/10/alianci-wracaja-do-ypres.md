@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny podaje pod datą 13 października 1914 roku zajęcie [Ypres](https://pl.wikipedia.org/wiki/Ieper) przez wojska brytyjskie. Stare flandryjskie miasto od kilku dni nie miało żadnego garnizonu. Niemiecka kawaleria, która [weszła do niego 7 października](/niemiecka-kawaleria-w-ypres), już następnego ranka odeszła na zachód. Teraz od północnego wschodu nadciągały dywizje brytyjskie, a od zachodu francuskie. Relacje z przemarszu wskazują jednak, że główne siły Brytyjczyków weszły do miasta dopiero 14 października.
+Brytyjska kronika wojny podaje pod datą 13 października 1914 roku zajęcie [Ypres](/miejsca/ypres) przez wojska brytyjskie. Stare flandryjskie miasto od kilku dni nie miało żadnego garnizonu. Niemiecka kawaleria, która [weszła do niego 7 października](/niemiecka-kawaleria-w-ypres), już następnego ranka odeszła na zachód. Teraz od północnego wschodu nadciągały dywizje brytyjskie, a od zachodu francuskie. Relacje z przemarszu wskazują jednak, że główne siły Brytyjczyków weszły do miasta dopiero 14 października.
 
 ## Marsz spod Gandawy
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Djemal Pasha, Friedrich Kress von Kressenstein]
 result: British victory. The attempt to cross the canal collapsed and the Ottoman army withdrew across Sinai to Beersheba. The British did not pursue.
 source: atak-na-kanal-sueski
-sourceHash: e9b6edb63d9f69c84bcbfcb5acb801df64a996ad
+sourceHash: eb5a514397110a1852045eb6f44f44936365ea5d
 ---
 
-The attack on the Suez Canal was the first Ottoman offensive against Egypt in the First World War. At the turn of January and February 1915 an army commanded by [Ahmed Djemal Pasha](/postacie/dzemal-pasza) crossed the [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)) desert and in the night of 2–3 February tried to cross the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) on pontoons near [Ismailia](https://pl.wikipedia.org/wiki/Ismailia). The crossing collapsed under the fire of Indian troops, Egyptian artillery and British and French warships. After a whole day of fighting the Turks withdrew, and on 4 February the British rounded up several hundred prisoners on the eastern bank. The canal, through which troop transports from India, Australia and New Zealand passed, remained open.
+The attack on the Suez Canal was the first Ottoman offensive against Egypt in the First World War. At the turn of January and February 1915 an army commanded by [Ahmed Djemal Pasha](/postacie/dzemal-pasza) crossed the [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)) desert and in the night of 2–3 February tried to cross the [Suez Canal](/miejsca/kanal-sueski) on pontoons near [Ismailia](https://pl.wikipedia.org/wiki/Ismailia). The crossing collapsed under the fire of Indian troops, Egyptian artillery and British and French warships. After a whole day of fighting the Turks withdrew, and on 4 February the British rounded up several hundred prisoners on the eastern bank. The canal, through which troop transports from India, Australia and New Zealand passed, remained open.
 
 ## Name and dates
 

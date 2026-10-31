@@ -2,10 +2,10 @@
 title: Australians and New Zealanders at Suez
 summary: On 1 December 1914 the first ships of the convoy from Australia and New Zealand anchored at Suez. The troops, bound for England, were to stay in Egypt.
 source: australijczycy-i-nowozelandczycy-w-suezie
-sourceHash: 273e3d2034183366a3367afcc26038d329982841
+sourceHash: 8ac4d50e000bc6ce60675f771c4e490fed0f0f93
 ---
 
-On 1 December 1914 the first ships of the great convoy that had [sailed from Albany](/australijczycy-wyplywaja-na-wojne) in Western Australia on 1 November anchored in the roads of [Suez](https://pl.wikipedia.org/wiki/Suez), at the southern entrance to the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski). It carried some 21,500 soldiers of the Australian Imperial Force and some 8,500 [New Zealanders](/nowozelandczycy-wyplywaja-na-wojne). At about eleven in the morning the transport Orvieto arrived here with the staff of Major-General William Bridges, the commander of the Australian troops. According to some studies the first ships reached Suez as early as 30 November.
+On 1 December 1914 the first ships of the great convoy that had [sailed from Albany](/australijczycy-wyplywaja-na-wojne) in Western Australia on 1 November anchored in the roads of [Suez](https://pl.wikipedia.org/wiki/Suez), at the southern entrance to the [Suez Canal](/miejsca/kanal-sueski). It carried some 21,500 soldiers of the Australian Imperial Force and some 8,500 [New Zealanders](/nowozelandczycy-wyplywaja-na-wojne). At about eleven in the morning the transport Orvieto arrived here with the staff of Major-General William Bridges, the commander of the Australian troops. According to some studies the first ships reached Suez as early as 30 November.
 
 ## Egypt instead of England
 

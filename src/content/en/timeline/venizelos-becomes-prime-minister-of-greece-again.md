@@ -2,7 +2,7 @@
 title: Venizelos becomes Prime Minister of Greece again
 summary: On 22 August 1915, over two months after winning the election, Eleftherios Venizelos was sworn in before King Constantine I and again headed the government.
 source: wenizelos-ponownie-premierem-grecji
-sourceHash: 71f3de6b98e9bd000882f1c57047e442f3c928b2
+sourceHash: b1826674d32f98239549c515fec82b486d1243ea
 ---
 
 On the afternoon of Sunday 22 August 1915 the new government of [Eleftherios Venizelos](/postacie/elefterios-wenizelos) was sworn in before King [Constantine I](/postacie/konstantyn-i). So the Italian minister in Athens reported to Rome. Greek lists give the start of the cabinet's term as 10 August by the Julian calendar, which Greece then used, that is, 23 August by ours. Whatever this one-day discrepancy, it marked the return to power of a politician who less than six months earlier had [resigned](/dymisja-wenizelosa) when the King rejected his plan for Greek participation in the Dardanelles operation.
@@ -23,4 +23,4 @@ The new government was an almost exact reproduction of the cabinet that had left
 
 ## A month and a half
 
-Venizelos's second government lasted less than seven weeks. In September Bulgaria announced mobilisation, and Venizelos, invoking the 1913 alliance with Serbia, brought about the mobilisation of the Greek army and agreed to the landing of Entente troops at [Salonika](https://pl.wikipedia.org/wiki/Saloniki). The King decided that the Prime Minister had gone too far, and at the beginning of October forced him to resign for the second time in a year. The conflict between the two strongest personalities of Greek politics flared up again.
+Venizelos's second government lasted less than seven weeks. In September Bulgaria announced mobilisation, and Venizelos, invoking the 1913 alliance with Serbia, brought about the mobilisation of the Greek army and agreed to the landing of Entente troops at [Salonika](/miejsca/saloniki). The King decided that the Prime Minister had gone too far, and at the beginning of October forced him to resign for the second time in a year. The conflict between the two strongest personalities of Greek politics flared up again.

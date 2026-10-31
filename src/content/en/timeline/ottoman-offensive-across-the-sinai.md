@@ -2,10 +2,10 @@
 title: Ottoman offensive across the Sinai
 summary: On 19 July 1916 a British airman spotted Kress von Kressenstein's columns in Sinai. Turks and Germans were marching on Romani to shell the Suez Canal.
 source: osmanska-ofensywa-przez-synaj
-sourceHash: 38186866ea8a497fb2cda34e9f8d950e2abb9b45
+sourceHash: 2db8aa46e6369009cfd8957fdbddaf07ada3923a
 ---
 
-On 19 July 1916 a British reconnaissance aircraft, carrying as observer Brigadier-General Edward Chaytor, commander of the New Zealand Mounted Rifles Brigade, spotted large Ottoman forces in northern [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). About 2,500 soldiers had occupied the wells of Bir Bayud, a somewhat smaller detachment stood in the oasis of Gamil, and a similar one at Bir el Abd on the old caravan route along the coast, where tents could be seen among the palms. Some 6,000 camels were moving between Bir el Abd and Bir Salmana. By the next morning 3,000 Turks were already digging in at Mageibra, and a small detachment had reached the oasis of Oghratina, about 8 kilometres east of Katia, the forefield of the British positions at Romani. It was clear that for the second time in this war an Ottoman army was marching across the desert on the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski).
+On 19 July 1916 a British reconnaissance aircraft, carrying as observer Brigadier-General Edward Chaytor, commander of the New Zealand Mounted Rifles Brigade, spotted large Ottoman forces in northern [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). About 2,500 soldiers had occupied the wells of Bir Bayud, a somewhat smaller detachment stood in the oasis of Gamil, and a similar one at Bir el Abd on the old caravan route along the coast, where tents could be seen among the palms. Some 6,000 camels were moving between Bir el Abd and Bir Salmana. By the next morning 3,000 Turks were already digging in at Mageibra, and a small detachment had reached the oasis of Oghratina, about 8 kilometres east of Katia, the forefield of the British positions at Romani. It was clear that for the second time in this war an Ottoman army was marching across the desert on the [Suez Canal](/miejsca/kanal-sueski).
 
 ## Did the offensive start from Oghratina?
 

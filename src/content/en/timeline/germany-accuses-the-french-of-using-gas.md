@@ -2,14 +2,14 @@
 title: Germany accuses the French of using gas
 summary: On 14 April 1915 a German communiqué accused the French of using bombs with "asphyxiating" gas near Verdun. There were more such accusations in those days.
 source: niemcy-oskarzaja-francuzow-o-uzycie-gazu
-sourceHash: f8d7431ab78c4f62845041f7db91738e09e87a88
+sourceHash: 71203daa207f064c7de8bf4acd61b4ef346455ed
 ---
 
 On 14 April 1915 the German war communiqué, issued daily by the Supreme Army Command, reported from the Western Front: "North-west of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) the French yesterday used against our lines bombs giving off a thick yellowish smoke and a gas with an asphyxiating effect." The brief mention, squeezed in between news of the fighting at Berry-au-Bac and between the Meuse and the Moselle, passed almost unnoticed in the press. Seen from today, however, it is part of a series that has its significance.
 
 ## A series of communiqués
 
-It was not the first such accusation. As early as 1 March 1915 a German communiqué had stated that the French "again, as a few months ago", had fired shells that gave off foul-smelling gases on bursting, which in any case did no harm. On 13 April, the day before the mention discussed here, it spoke of shells with "stupefying" gas north-east of [Suippes](https://pl.wikipedia.org/wiki/Suippes) in Champagne. After 14 April the accusations grew stronger. On 16 April the communiqué stated that the French were using bombs with asphyxiating gas more and more often, and on 17 April that the British had also used such grenades and bombs east of [Ypres](https://pl.wikipedia.org/wiki/Ieper).
+It was not the first such accusation. As early as 1 March 1915 a German communiqué had stated that the French "again, as a few months ago", had fired shells that gave off foul-smelling gases on bursting, which in any case did no harm. On 13 April, the day before the mention discussed here, it spoke of shells with "stupefying" gas north-east of [Suippes](https://pl.wikipedia.org/wiki/Suippes) in Champagne. After 14 April the accusations grew stronger. On 16 April the communiqué stated that the French were using bombs with asphyxiating gas more and more often, and on 17 April that the British had also used such grenades and bombs east of [Ypres](/miejsca/ypres).
 
 None of these reports can be verified in detail today. It is not known exactly what fell on the German trenches near Verdun on 13 April. They may have been French tear-gas grenades, but they may just as well have been ordinary shells whose smoke the German soldiers took for gas.
 

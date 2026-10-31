@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Maximilian von Laffert]
 result: British victory. In a single day the Second Army took the whole Messines–Wytschaete ridge and the Oosttaverne line, and the Germans withdrew to the Warneton line. The British regained the heights from which the enemy had watched the Ypres salient since the autumn of 1914.
 source: bitwa-pod-messines-1917
-sourceHash: 6b1b2ce5f08ba80b61b9f5d3d2ec53d3cf9c6796
+sourceHash: b1e3a95f2e585144996d2f140fde48407206b122
 brief:
   - "The Battle of Messines, fought on 7–14 June 1917, was one of the most carefully prepared and most successful attacks of the British Army. Its objective was the Messines–Wytschaete ridge south of Ypres."
   - "The Germans had held the ridge since 1914. Sappers spent a year and a half driving deep mine galleries beneath it, and the attack was preceded by a bombardment from about 2,300 guns and howitzers."
@@ -18,7 +18,7 @@ brief:
   - "The plan was carried out almost to schedule, but more than seven weeks passed before the main offensive at Ypres, which the Germans used to strengthen their defences. The battle was the prelude to the Third Battle of Ypres."
 ---
 
-The Battle of Messines was one of the most carefully prepared and most successful attacks made by the British Army in the whole war. At 3.10 a.m. on 7 June 1917, beneath the German positions on the ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](https://pl.wikipedia.org/wiki/Ieper), 19 great mines exploded within a few seconds of one another, dug by sappers over a year and a half of underground work. Immediately afterwards nine divisions of General [Herbert Plumer's](/postacie/herbert-plumer) Second Army, among them Australians, New Zealanders and Irishmen from both the north and the south of the island, went forward to the assault behind the fire of more than two thousand guns. Before noon the whole ridge was in British hands, and by evening so was the Oosttaverne line at its eastern foot. In the following days the Germans tried to counter-attack, and on the night of 10/11 June they withdrew further east. The battle was the prelude to the great offensive at Ypres that the British opened at the end of July.
+The Battle of Messines was one of the most carefully prepared and most successful attacks made by the British Army in the whole war. At 3.10 a.m. on 7 June 1917, beneath the German positions on the ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](/miejsca/ypres), 19 great mines exploded within a few seconds of one another, dug by sappers over a year and a half of underground work. Immediately afterwards nine divisions of General [Herbert Plumer's](/postacie/herbert-plumer) Second Army, among them Australians, New Zealanders and Irishmen from both the north and the south of the island, went forward to the assault behind the fire of more than two thousand guns. Before noon the whole ridge was in British hands, and by evening so was the Oosttaverne line at its eastern foot. In the following days the Germans tried to counter-attack, and on the night of 10/11 June they withdrew further east. The battle was the prelude to the great offensive at Ypres that the British opened at the end of July.
 
 ## Name and dates
 

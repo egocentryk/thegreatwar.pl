@@ -18,7 +18,7 @@ brief:
   - "Wieczorne kontrataki ostatnich odwodów nie odzyskały okopów, ale zamknęły wyrwę. W nocy Brytyjczycy założyli nową linię za grzbietem Verlorenhoek, a straty tego dnia były ogromne."
 ---
 
-8 maja 1915 roku o 5.30 rano niemiecka artyleria otworzyła ogień na brytyjskie okopy na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Był to jeden z najcięższych ostrzałów od początku [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Najmocniej uderzył w 28 Dywizję, której okopy leżały na odsłoniętym przednim stoku niskiego grzbietu Frezenberg. Przed 10 niemiecka piechota wdarła się w zniszczoną linię, a po południu w brytyjskim froncie ziała wyrwa szeroka na ponad 3 kilometry. Do wieczora zamknęły ją ostatnie odwody, wysyłane do kontrataków przez otwarte pole. Tak zaczęła się bitwa o grzbiet Frezenberg, która według brytyjskiej nomenklatury trwała do 13 maja.
+8 maja 1915 roku o 5.30 rano niemiecka artyleria otworzyła ogień na brytyjskie okopy na wschód od [Ypres](/miejsca/ypres). Był to jeden z najcięższych ostrzałów od początku [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Najmocniej uderzył w 28 Dywizję, której okopy leżały na odsłoniętym przednim stoku niskiego grzbietu Frezenberg. Przed 10 niemiecka piechota wdarła się w zniszczoną linię, a po południu w brytyjskim froncie ziała wyrwa szeroka na ponad 3 kilometry. Do wieczora zamknęły ją ostatnie odwody, wysyłane do kontrataków przez otwarte pole. Tak zaczęła się bitwa o grzbiet Frezenberg, która według brytyjskiej nomenklatury trwała do 13 maja.
 
 ## Nowa linia
 

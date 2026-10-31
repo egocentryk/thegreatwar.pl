@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 grudnia 1914 roku na redzie [Suezu](https://pl.wikipedia.org/wiki/Suez), u południowego wejścia do [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski), zakotwiczyły pierwsze statki wielkiego konwoju, który [1 listopada wyruszył z Albany](/australijczycy-wyplywaja-na-wojne) w Australii Zachodniej. Wiózł około 21,5 tysiąca żołnierzy Australijskich Sił Imperialnych i około 8,5 tysiąca [Nowozelandczyków](/nowozelandczycy-wyplywaja-na-wojne). Około jedenastej przed południem stanął tu transportowiec Orvieto ze sztabem generała majora Williama Bridgesa, dowódcy wojsk australijskich. Według części opracowań pierwsze statki dotarły do Suezu już 30 listopada.
+1 grudnia 1914 roku na redzie [Suezu](https://pl.wikipedia.org/wiki/Suez), u południowego wejścia do [Kanału Sueskiego](/miejsca/kanal-sueski), zakotwiczyły pierwsze statki wielkiego konwoju, który [1 listopada wyruszył z Albany](/australijczycy-wyplywaja-na-wojne) w Australii Zachodniej. Wiózł około 21,5 tysiąca żołnierzy Australijskich Sił Imperialnych i około 8,5 tysiąca [Nowozelandczyków](/nowozelandczycy-wyplywaja-na-wojne). Około jedenastej przed południem stanął tu transportowiec Orvieto ze sztabem generała majora Williama Bridgesa, dowódcy wojsk australijskich. Według części opracowań pierwsze statki dotarły do Suezu już 30 listopada.
 
 ## Egipt zamiast Anglii
 

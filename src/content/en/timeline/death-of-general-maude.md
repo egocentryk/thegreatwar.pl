@@ -2,10 +2,10 @@
 title: Death of General Maude
 summary: On 18 November 1917 General Stanley Maude, the conqueror of Baghdad, died of cholera in the city. Command in Mesopotamia passed to General William Marshall.
 source: smierc-generala-maude
-sourceHash: 1fda3ee023f10f4a16e5c66b848237a6b2d490da
+sourceHash: d381a6fdbe02d05b97b93e0a6c2ee991e21d9bbc
 ---
 
-On 18 November 1917 at 6.25 p.m. Lieutenant-General Sir [Frederick Stanley Maude](/postacie/frederick-maude), Commander-in-Chief of the British forces in Mesopotamia, died in [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). He was 53. He was killed by [cholera](https://pl.wikipedia.org/wiki/Cholera) after only two days of illness. Less than two weeks earlier his troops had won another victory [at Tikrit](/bitwy/bitwa-pod-tikritem). The British official history of the campaign writes that his name had become so much a synonym for success that his death was regarded throughout the Empire as a national misfortune.
+On 18 November 1917 at 6.25 p.m. Lieutenant-General Sir [Frederick Stanley Maude](/postacie/frederick-maude), Commander-in-Chief of the British forces in Mesopotamia, died in [Baghdad](/miejsca/bagdad). He was 53. He was killed by [cholera](https://pl.wikipedia.org/wiki/Cholera) after only two days of illness. Less than two weeks earlier his troops had won another victory [at Tikrit](/bitwy/bitwa-pod-tikritem). The British official history of the campaign writes that his name had become so much a synonym for success that his death was regarded throughout the Empire as a national misfortune.
 
 ## Coffee with milk
 

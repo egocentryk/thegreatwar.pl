@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 grudnia 1915 roku, czyli 26 listopada według kalendarza juliańskiego, w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) dowódca francuskiej Armii Wschodu generał [Maurice Sarrail](/postacie/maurice-sarrail) i dowódca wojsk brytyjskich generał Bryan Mahon przyjęli greckiego oficera sztabowego, podpułkownika Pallisa. Przysłano go z Aten, by z wojskowymi sprzymierzonych ustalił, jak w praktyce spełnić żądania Ententy. Sarrail przedstawił mu je bez ogródek. Najważniejsze z nich brzmiało: wojska greckie mają opuścić Saloniki.
+9 grudnia 1915 roku, czyli 26 listopada według kalendarza juliańskiego, w [Salonikach](/miejsca/saloniki) dowódca francuskiej Armii Wschodu generał [Maurice Sarrail](/postacie/maurice-sarrail) i dowódca wojsk brytyjskich generał Bryan Mahon przyjęli greckiego oficera sztabowego, podpułkownika Pallisa. Przysłano go z Aten, by z wojskowymi sprzymierzonych ustalił, jak w praktyce spełnić żądania Ententy. Sarrail przedstawił mu je bez ogródek. Najważniejsze z nich brzmiało: wojska greckie mają opuścić Saloniki.
 
 ## Wojsko w cudzym mieście
 

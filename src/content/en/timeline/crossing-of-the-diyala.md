@@ -2,10 +2,10 @@
 title: Crossing of the Diyala
 summary: On 7 March 1917 the British reached the Diyala near Baghdad. Two night crossings collapsed under Turkish fire, and the river was forced only on 10 March.
 source: forsowanie-dijali
-sourceHash: 28baf4f4901f5cae9bee8ee01a26361c03c3d8ab
+sourceHash: ffbe4b39b90aced23008206ed397618fae334ec0
 ---
 
-On the morning of 7 March 1917 the advance guard of General William Marshall's III Corps approached the village of Diyala, where the [Diyala](https://pl.wikipedia.org/wiki/Nahr_Dijala) river flows into the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), a dozen or so kilometres south-east of [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). General [Frederick Stanley Maude](/postacie/frederick-maude), who two days earlier had resumed the advance from Aziziyah, believed that the Turks had left only a weak rearguard on the river. Airmen reported that both bridges over the Diyala had been dismantled and that few troops could be seen on the far bank. In the afternoon, however, after a personal reconnaissance, General Marshall concluded that the enemy was holding the lower course of the river in strength and had at least seven guns there. The cavalry division, which had moved a dozen or so kilometres up along the Diyala, reported that the Turks had lined almost the whole bank with guns and numerous machine guns. The British chronology of the war records the crossing of the Diyala on 7–10 March.
+On the morning of 7 March 1917 the advance guard of General William Marshall's III Corps approached the village of Diyala, where the [Diyala](https://pl.wikipedia.org/wiki/Nahr_Dijala) river flows into the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), a dozen or so kilometres south-east of [Baghdad](/miejsca/bagdad). General [Frederick Stanley Maude](/postacie/frederick-maude), who two days earlier had resumed the advance from Aziziyah, believed that the Turks had left only a weak rearguard on the river. Airmen reported that both bridges over the Diyala had been dismantled and that few troops could be seen on the far bank. In the afternoon, however, after a personal reconnaissance, General Marshall concluded that the enemy was holding the lower course of the river in strength and had at least seven guns there. The cavalry division, which had moved a dozen or so kilometres up along the Diyala, reported that the Turks had lined almost the whole bank with guns and numerous machine guns. The British chronology of the war records the crossing of the Diyala on 7–10 March.
 
 ## The first two nights
 

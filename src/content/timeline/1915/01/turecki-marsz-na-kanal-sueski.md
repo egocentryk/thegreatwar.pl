@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 stycznia 1915 roku brytyjskie posterunki osłaniające [Kanał Sueski](https://pl.wikipedia.org/wiki/Kanał_Sueski) od wschodu po raz pierwszy zetknęły się z nadciągającą przez pustynię armią osmańską. Pod [Kantarą](https://pl.wikipedia.org/wiki/Al-Kantara), w północnej części kanału, doszło do wymiany ognia, a lotnicy meldowali o kilkutysięcznych zgrupowaniach tureckich w głębi [Synaju](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). Brytyjska chronologia wojny przyjmuje ten dzień za początek tureckiej wyprawy na Egipt. W rzeczywistości pierwsze oddziały wyruszyły w drogę już w połowie stycznia.
+26 stycznia 1915 roku brytyjskie posterunki osłaniające [Kanał Sueski](/miejsca/kanal-sueski) od wschodu po raz pierwszy zetknęły się z nadciągającą przez pustynię armią osmańską. Pod [Kantarą](https://pl.wikipedia.org/wiki/Al-Kantara), w północnej części kanału, doszło do wymiany ognia, a lotnicy meldowali o kilkutysięcznych zgrupowaniach tureckich w głębi [Synaju](https://pl.wikipedia.org/wiki/Synaj_(półwysep)). Brytyjska chronologia wojny przyjmuje ten dzień za początek tureckiej wyprawy na Egipt. W rzeczywistości pierwsze oddziały wyruszyły w drogę już w połowie stycznia.
 
 ## Cel: Egipt
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 października 1915 roku (19 września według kalendarza juliańskiego, którego Grecja wtedy używała) premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) poprosił posłów Francji i Wielkiej Brytanii w [Atenach](https://pl.wikipedia.org/wiki/Ateny), by ich wojska przypłynęły do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) jak najszybciej. Prośba była zaskakująca, bo zaledwie dzień wcześniej ten sam premier zatrzymał całą wyprawę. Po tygodniu sprzecznych sygnałów, w którym Ateny raz [przyjmowały](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), a raz [odrzucały](/grecja-odrzuca-oferte-wojsk-ententy) pomoc Ententy, droga do Salonik znów stanęła otworem.
+2 października 1915 roku (19 września według kalendarza juliańskiego, którego Grecja wtedy używała) premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) poprosił posłów Francji i Wielkiej Brytanii w [Atenach](https://pl.wikipedia.org/wiki/Ateny), by ich wojska przypłynęły do [Salonik](/miejsca/saloniki) jak najszybciej. Prośba była zaskakująca, bo zaledwie dzień wcześniej ten sam premier zatrzymał całą wyprawę. Po tygodniu sprzecznych sygnałów, w którym Ateny raz [przyjmowały](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), a raz [odrzucały](/grecja-odrzuca-oferte-wojsk-ententy) pomoc Ententy, droga do Salonik znów stanęła otworem.
 
 ## Alarm z 1 października
 

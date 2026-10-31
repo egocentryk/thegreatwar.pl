@@ -2,7 +2,7 @@
 title: Start of the Battle of the Menin Road Ridge
 summary: On 20 September 1917 Plumer's armies advanced at Ypres behind a huge barrage. The Australians took Glencorse Wood and Nonne Bosschen and reached Polygon Wood.
 source: poczatek-bitwy-o-grzbiet-menin-road
-sourceHash: a495fbe74a8ae1ab2f4d9d58b58e3efb3203e215
+sourceHash: 759f0a20a6c802dd86299824ca1321005c4907cb
 brief:
   - "At 5.40 a.m. on 20 September 1917 eleven divisions of the British Second and Fifth Armies, two of them Australian, advanced east of Ypres in the third great attack of the Third Battle of Ypres."
   - "For the first time it was directed by General Herbert Plumer, who had spent three weeks massing guns and ammunition and had set the infantry modest, shallow objectives."
@@ -11,7 +11,7 @@ brief:
   - "The British took over 3,000 prisoners, and within a few hours the Germans lost ground they had been defending since 31 July. Plumer at once began preparing the next step."
 ---
 
-At 5.40 a.m. on 20 September 1917, as the eastern sky was only just turning pink, the artillery of the British Second and Fifth Armies opened fire on a front about 13 kilometres long, from the Ypres–Comines canal to the railway to Staden. Eleven divisions, two of them Australian, advanced east of [Ypres](https://pl.wikipedia.org/wiki/Ieper) in the third great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). For the first time it was directed by General [Herbert Plumer](/postacie/herbert-plumer), who had spent three weeks massing guns and ammunition and had set the infantry modest, shallow objectives. By evening it was clear that the method had worked. On the Gheluvelt plateau, by the road from Ypres to [Menin](https://pl.wikipedia.org/wiki/Menen), the Australians took Glencorse Wood and Nonne Bosschen and dug in on the edge of Polygon Wood, and the German reserves that tried to push them out were drowned in artillery fire.
+At 5.40 a.m. on 20 September 1917, as the eastern sky was only just turning pink, the artillery of the British Second and Fifth Armies opened fire on a front about 13 kilometres long, from the Ypres–Comines canal to the railway to Staden. Eleven divisions, two of them Australian, advanced east of [Ypres](/miejsca/ypres) in the third great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). For the first time it was directed by General [Herbert Plumer](/postacie/herbert-plumer), who had spent three weeks massing guns and ammunition and had set the infantry modest, shallow objectives. By evening it was clear that the method had worked. On the Gheluvelt plateau, by the road from Ypres to [Menin](https://pl.wikipedia.org/wiki/Menen), the Australians took Glencorse Wood and Nonne Bosschen and dug in on the edge of Polygon Wood, and the German reserves that tried to push them out were drowned in artillery fire.
 
 ## The night before the attack
 

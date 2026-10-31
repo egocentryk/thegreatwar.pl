@@ -473,6 +473,9 @@ The top 50 by kind:
    topic gets its own article (a guide or a timeline article) instead.
 3. **Step 1 (pages we already have) first:** done 2026-10-31, 660 links
    (26,198 → 25,538; improvements.md §48).
+4. **"Miejsca" pilot:** built 2026-10-31 (Saloniki, Korfu, Ypres, Kanał
+   Sueski, Bagdad; Isonzo → the campaign page instead), 316 links (25,538 →
+   25,227; improvements.md §49). Waiting for the owner's verdict.
 
 ### The plan
 

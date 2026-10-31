@@ -2,7 +2,7 @@
 title: Lake replaces Nixon
 summary: On 19 January 1916 Gen. Percy Lake took over command in Mesopotamia at Basra. The sick Gen. Nixon sailed away; the relief of Kut was stuck in the Tigris mud.
 source: lake-zastepuje-nixona
-sourceHash: 3548779301bc523e8a7a462565f602da8fb292a8
+sourceHash: fe4f49d133b410a8a25c7c558078c58d888acc10
 ---
 
 On 19 January 1916 at [Basra](https://pl.wikipedia.org/wiki/Basra) General Sir John Nixon handed over command of the British and Indian forces in [Mesopotamia](/bitwy/kampania-mezopotamska) to Lieutenant-General Sir Percy Lake and sailed from Basra. This date is given by the British chronology of the war and the official history (Moberly). The 1917 report of the Mesopotamia Commission speaks of 18 January. Lake, until then chief of staff of the army in India, [had been appointed as successor](/percy-lake-mianowany-dowodca-w-mezopotamii) a few days earlier, when Nixon, seriously ill, had himself asked to be relieved.
@@ -11,7 +11,7 @@ Things were bad at the front. General Fenton Aylmer's Tigris Corps, advancing to
 
 ## Nixon's departure
 
-The British official historian takes leave of Nixon with appreciation. He recalls that for his first six months in Mesopotamia, overcoming great difficulties with modest means, Nixon had achieved unbroken success, which no other British commander on any front could then claim. When his leading troops stood on the road to [Baghdad](https://pl.wikipedia.org/wiki/Bagdad), he knew that the government wanted the city taken for political reasons, and judged that he must not let the opportunity slip. He lost. Moberly quotes the Mesopotamia Commission's verdict that the advance on Baghdad was based on political and military miscalculations and was undertaken with tired, insufficient forces, without proper preparation, but adds that some of those on the spot attributed the failure to plain bad luck. The Viceroy of India in 1910–1916, Lord [Charles Hardinge](https://pl.wikipedia.org/wiki/Charles_Hardinge_(baron)), said of Nixon before the commission: "The British Empire has been built up by men of his grit and stamp."
+The British official historian takes leave of Nixon with appreciation. He recalls that for his first six months in Mesopotamia, overcoming great difficulties with modest means, Nixon had achieved unbroken success, which no other British commander on any front could then claim. When his leading troops stood on the road to [Baghdad](/miejsca/bagdad), he knew that the government wanted the city taken for political reasons, and judged that he must not let the opportunity slip. He lost. Moberly quotes the Mesopotamia Commission's verdict that the advance on Baghdad was based on political and military miscalculations and was undertaken with tired, insufficient forces, without proper preparation, but adds that some of those on the spot attributed the failure to plain bad luck. The Viceroy of India in 1910–1916, Lord [Charles Hardinge](https://pl.wikipedia.org/wiki/Charles_Hardinge_(baron)), said of Nixon before the commission: "The British Empire has been built up by men of his grit and stamp."
 
 The commission, whose report was published in 1917, nevertheless judged him severely. It found that he was responsible for recommending successive advances in 1915 without sufficient transport and equipment, and blamed him for the consequences of the shortage of river craft. It considered his responsibility for the sufferings of the wounded separately. Nixon died in December 1921.
 

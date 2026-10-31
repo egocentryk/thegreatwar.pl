@@ -2,10 +2,10 @@
 title: Entente notifies Greece of the transfer of the Serbs to Corfu
 summary: On 10 January 1916 the Entente ministers in Athens told Greece that the remnants of the Serbian army would be shipped from Albania to the Greek island of Corfu.
 source: ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu
-sourceHash: 07d7721ba660c07496f9cc1999812b9fbebec87b
+sourceHash: 42d6fffc420c0cf2286e0fc90c637b93b79cbb45
 ---
 
-The British chronology of the war records under 10 January 1916 that the Entente governments notified Greece of their intention to ship the Serbian army to the island of [Corfu](https://pl.wikipedia.org/wiki/Korfu). The note was delivered in Athens by the ministers of the Allied powers and received by the prime minister and foreign minister, [Stefanos Skouloudis](/postacie/stefanos-skuludis). According to a dispatch of the French Havas agency, the Allies declared that they considered it an obvious duty of humanity to transport part of the Serbian army as quickly as possible to a place close to the Albanian coast, "in order to save these heroic soldiers from starvation and destruction". Corfu was chosen because it offered suitable sanitary conditions and the possibility of supply. The Allies said they did not suppose that Greece would object to receiving the Serbs, her allies, who were to stay on the island only briefly. They added that they had no intention of infringing Greek sovereignty.
+The British chronology of the war records under 10 January 1916 that the Entente governments notified Greece of their intention to ship the Serbian army to the island of [Corfu](/miejsca/korfu). The note was delivered in Athens by the ministers of the Allied powers and received by the prime minister and foreign minister, [Stefanos Skouloudis](/postacie/stefanos-skuludis). According to a dispatch of the French Havas agency, the Allies declared that they considered it an obvious duty of humanity to transport part of the Serbian army as quickly as possible to a place close to the Albanian coast, "in order to save these heroic soldiers from starvation and destruction". Corfu was chosen because it offered suitable sanitary conditions and the possibility of supply. The Allies said they did not suppose that Greece would object to receiving the Serbs, her allies, who were to stay on the island only briefly. They added that they had no intention of infringing Greek sovereignty.
 
 ## An army on the Albanian coast
 

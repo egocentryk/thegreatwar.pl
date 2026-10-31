@@ -9,10 +9,10 @@ sides:
     commanders: [Nureddin Bey, Halil Bey]
 result: Tactically inconclusive, a strategic Ottoman victory. The British took the first line of trenches, but after heavy losses abandoned the march on Baghdad and on the night of 25/26 November began a retreat that ended at Kut.
 source: bitwa-pod-ktezyfonem
-sourceHash: 4cddf5406c44f73ff03293db2ea6fd237a2c040e
+sourceHash: 608f3c37a2589feda73fadaeab64fa2848a8c01e
 ---
 
-The Battle of Ctesiphon halted the British march on [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). General Charles Townshend's 6th (Poona) Division, reinforced by a cavalry brigade and additional battalions, attacked on 22 November 1915 a fortified Ottoman position among the ruins of ancient [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon), on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about 25 kilometres from Baghdad. After a whole day's fighting the British and Indians took the entire first line of Turkish trenches on the left bank of the river, but failed to break through the second. In doing so they lost nearly 40 per cent of their men. On the night of 23/24 November they beat off fierce Turkish counter-attacks, but no longer had the strength for a further advance. On the evening of 25 November Townshend began to withdraw. A tactical success turned into a strategic defeat: a few days later the division fell back all the way to Kut, where it was besieged.
+The Battle of Ctesiphon halted the British march on [Baghdad](/miejsca/bagdad). General Charles Townshend's 6th (Poona) Division, reinforced by a cavalry brigade and additional battalions, attacked on 22 November 1915 a fortified Ottoman position among the ruins of ancient [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon), on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about 25 kilometres from Baghdad. After a whole day's fighting the British and Indians took the entire first line of Turkish trenches on the left bank of the river, but failed to break through the second. In doing so they lost nearly 40 per cent of their men. On the night of 23/24 November they beat off fierce Turkish counter-attacks, but no longer had the strength for a further advance. On the evening of 25 November Townshend began to withdraw. A tactical success turned into a strategic defeat: a few days later the division fell back all the way to Kut, where it was besieged.
 
 ## Name and dates
 

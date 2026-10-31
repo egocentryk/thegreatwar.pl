@@ -2,10 +2,10 @@
 title: End of the Fourth Battle of the Isonzo
 summary: The British chronology ends the Fourth Battle of the Isonzo on 10 December 1915. A day earlier the last major Italian attack on Monte San Michele had collapsed.
 source: koniec-czwartej-bitwy-nad-isonzo
-sourceHash: 1bfa3dc106e8f4cc0ab3b7bbe1c84e6872bb8e75
+sourceHash: f164c75b6ec30a5c6641231d94719244c8a58aeb
 ---
 
-The British chronology of the war records under 10 December 1915 the end of the fourth battle on the [Isonzo](https://pl.wikipedia.org/wiki/Socza). This Italian autumn offensive did not, however, end on a single day; it petered out gradually over two weeks, so works give different dates. The most common is 2 December, and this is the date we adopt on the [battle](/bitwy/czwarta-bitwa-nad-isonzo) page. The Austro-Hungarian official history regards 1 December, when the last great attacks collapsed, as the last day of the battle, but adds that the Italians went on attacking at individual points until 14 December. Some Italian works give 5 December, some German-language ones 15 December. The date in the British chronology most probably falls on the day after the last major attack, fought for Monte San Michele from 7 to 9 December.
+The British chronology of the war records under 10 December 1915 the end of the fourth battle on the [Isonzo](/bitwy/bitwy-nad-isonzo). This Italian autumn offensive did not, however, end on a single day; it petered out gradually over two weeks, so works give different dates. The most common is 2 December, and this is the date we adopt on the [battle](/bitwy/czwarta-bitwa-nad-isonzo) page. The Austro-Hungarian official history regards 1 December, when the last great attacks collapsed, as the last day of the battle, but adds that the Italians went on attacking at individual points until 14 December. Some Italian works give 5 December, some German-language ones 15 December. The date in the British chronology most probably falls on the day after the last major attack, fought for Monte San Michele from 7 to 9 December.
 
 ## The last attacks
 

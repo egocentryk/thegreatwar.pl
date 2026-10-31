@@ -2,10 +2,10 @@
 title: End of the First Battle of Ypres
 summary: On 22 November 1914 the First Battle of Ypres ended. The French took over the salient around the town and the bled-white British army a sector further south.
 source: koniec-pierwszej-bitwy-pod-ypres
-sourceHash: 13c571337f3014e16aba41c08d2ca274570c889b
+sourceHash: 2d35d3d99c154e25c94d23010eb8ce9089cc90c8
 ---
 
-On 22 November 1914, according to the British nomenclature fixed after the war, the First Battle of [Ypres](https://pl.wikipedia.org/wiki/Ieper) came to an end. The date is largely conventional. The Germans had launched their last great attack eleven days earlier, and in the days that followed the fighting gradually died down. On this day the relief of the exhausted British divisions by the French was being completed, and German artillery set fire to the medieval [Cloth Hall](https://pl.wikipedia.org/wiki/Sukiennice_w_Ieper) in the centre of the town. After five weeks of fighting, which [had begun on 19 October](/poczatek-pierwszej-bitwy-pod-ypres), Ypres remained in Allied hands.
+On 22 November 1914, according to the British nomenclature fixed after the war, the First Battle of [Ypres](/miejsca/ypres) came to an end. The date is largely conventional. The Germans had launched their last great attack eleven days earlier, and in the days that followed the fighting gradually died down. On this day the relief of the exhausted British divisions by the French was being completed, and German artillery set fire to the medieval [Cloth Hall](https://pl.wikipedia.org/wiki/Sukiennice_w_Ieper) in the centre of the town. After five weeks of fighting, which [had begun on 19 October](/poczatek-pierwszej-bitwy-pod-ypres), Ypres remained in Allied hands.
 
 ## The last fighting
 

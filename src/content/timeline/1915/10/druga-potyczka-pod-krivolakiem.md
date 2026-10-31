@@ -16,7 +16,7 @@ Brytyjska chronologia wojny notuje pod 30 października 1915 roku drugą potyczk
 
 ## Przyczółek na Kara Hodżali
 
-Na wschód od Krivolaku, po drugiej stronie Wardaru, wznosi się stromy masyw Kara Hodżali. Brytyjski publicysta John Buchan, który opisywał te walki jeszcze w czasie wojny, zwracał uwagę, że wzgórza panowały nad całym tym odcinkiem doliny. Gdyby zajęli je Bułgarzy, kolej z [Salonik](https://pl.wikipedia.org/wiki/Saloniki), jedyna droga zaopatrzenia Francuzów, stałaby się bezużyteczna. Postanowiono więc za wszelką cenę je obsadzić. Wardar wezbrał po deszczach, mostu nie było, pontonów nie zdążono dowieźć. Francuzi przeprawili się starym promem i wspięli na zbocza, z których bez większego trudu zepchnęli bułgarskie straże przednie.
+Na wschód od Krivolaku, po drugiej stronie Wardaru, wznosi się stromy masyw Kara Hodżali. Brytyjski publicysta John Buchan, który opisywał te walki jeszcze w czasie wojny, zwracał uwagę, że wzgórza panowały nad całym tym odcinkiem doliny. Gdyby zajęli je Bułgarzy, kolej z [Salonik](/miejsca/saloniki), jedyna droga zaopatrzenia Francuzów, stałaby się bezużyteczna. Postanowiono więc za wszelką cenę je obsadzić. Wardar wezbrał po deszczach, mostu nie było, pontonów nie zdążono dowieźć. Francuzi przeprawili się starym promem i wspięli na zbocza, z których bez większego trudu zepchnęli bułgarskie straże przednie.
 
 Według Buchana dwa dni później Bułgarzy, rozumiejąc, co stracili, uderzyli większymi siłami. Odparto ich dopiero po walce na granaty, toczonej z bliska na grzbiecie wzgórz. Ponieważ Buchan datuje zajęcie samego Krivolaku na 27 października, ten atak przypadałby właśnie na koniec miesiąca, na dni, w których brytyjska chronologia umieszcza drugą potyczkę.
 

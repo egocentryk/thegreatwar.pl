@@ -2,10 +2,10 @@
 title: Venizelos arrives in Salonika
 summary: On 9 October 1916 Eleftherios Venizelos arrived in Salonika and, with Admiral Kountouriotis and General Danglis, headed the government of National Defence.
 source: wenizelos-w-salonikach
-sourceHash: 8c1aaa933bdef907c5e70c097ab008111bca0014
+sourceHash: b60902689a1db978b79706fc2b9450e36a5f07cd
 ---
 
-On 9 October 1916, or 26 September by the Julian calendar then used in Greece, [Eleftherios Venizelos](/postacie/elefterios-wenizelos) arrived in [Salonika](https://pl.wikipedia.org/wiki/Saloniki). This date is given by two British journalists who were then in the city or close to events: G. Ward Price, the official correspondent of the British press with the army at Salonika, and Crawfurd Price, an ardent supporter of Venizelos, and also by the British chronology of the war. Some modern studies, citing a Greek military encyclopaedia of 1929, give 7 October. Meanwhile a dispatch from Athens, which the London *Times* published only on 9 October, says that Venizelos had sailed from Crete to Samos and was to go on from there to Chios and Lesbos.
+On 9 October 1916, or 26 September by the Julian calendar then used in Greece, [Eleftherios Venizelos](/postacie/elefterios-wenizelos) arrived in [Salonika](/miejsca/saloniki). This date is given by two British journalists who were then in the city or close to events: G. Ward Price, the official correspondent of the British press with the army at Salonika, and Crawfurd Price, an ardent supporter of Venizelos, and also by the British chronology of the war. Some modern studies, citing a Greek military encyclopaedia of 1929, give 7 October. Meanwhile a dispatch from Athens, which the London *Times* published only on 9 October, says that Venizelos had sailed from Crete to Samos and was to go on from there to Chios and Lesbos.
 
 ## Through the islands to Macedonia
 

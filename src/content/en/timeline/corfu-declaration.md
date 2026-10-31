@@ -2,10 +2,10 @@
 title: Corfu Declaration
 summary: On 20 July 1917 on Corfu, Nikola Pašić and Ante Trumbić signed a declaration on a future Kingdom of Serbs, Croats and Slovenes under the Karađorđević dynasty.
 source: deklaracja-z-korfu
-sourceHash: dfdfb6acc7e9b35a3317d85cc44b902f8d34ac43
+sourceHash: 83f6af034d647640a67fe86ad5ec75199669e5af
 ---
 
-On 20 July 1917 (7 July by the Julian calendar, then used in Serbia), on the Greek island of [Corfu](https://pl.wikipedia.org/wiki/Korfu), where the [Serbian government in exile had been based](/rzad-serbski-na-korfu) since the winter of 1916, the Prime Minister and Foreign Minister of Serbia, [Nikola Pašić](/postacie/nikola-pasic), and the president of the [Yugoslav Committee](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański), [Ante Trumbić](/postacie/ante-trumbic), signed a joint declaration. The so-called [Corfu Declaration](https://pl.wikipedia.org/wiki/Deklaracja_z_Korfu) announced that the Serbs, Croats and Slovenes, recognised in it as a single "three-named" nation, would form a common, independent kingdom after the war under the sceptre of the Serbian [Karađorđević](https://pl.wikipedia.org/wiki/Dynastia_Karadziordziewiciów) dynasty. It was the first programme of unification signed both by the government of Serbia and by politicians from the South Slav lands of the Habsburg monarchy.
+On 20 July 1917 (7 July by the Julian calendar, then used in Serbia), on the Greek island of [Corfu](/miejsca/korfu), where the [Serbian government in exile had been based](/rzad-serbski-na-korfu) since the winter of 1916, the Prime Minister and Foreign Minister of Serbia, [Nikola Pašić](/postacie/nikola-pasic), and the president of the [Yugoslav Committee](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański), [Ante Trumbić](/postacie/ante-trumbic), signed a joint declaration. The so-called [Corfu Declaration](https://pl.wikipedia.org/wiki/Deklaracja_z_Korfu) announced that the Serbs, Croats and Slovenes, recognised in it as a single "three-named" nation, would form a common, independent kingdom after the war under the sceptre of the Serbian [Karađorđević](https://pl.wikipedia.org/wiki/Dynastia_Karadziordziewiciów) dynasty. It was the first programme of unification signed both by the government of Serbia and by politicians from the South Slav lands of the Habsburg monarchy.
 
 ## Why the talks took place
 

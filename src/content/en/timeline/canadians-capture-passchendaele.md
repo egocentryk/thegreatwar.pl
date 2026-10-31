@@ -2,10 +2,10 @@
 title: Canadians capture Passchendaele
 summary: On 6 November 1917 two Canadian divisions took the ruins of Passchendaele, goal of the offensive since 31 July, in under 3 hours, and Mosselmarkt and Goudberg.
 source: kanadyjczycy-zdobywaja-passchendaele
-sourceHash: b5d435a4a8e56c5f90db78453a0c700f45418272
+sourceHash: 164680d7072193559ad9c151295853e226b9d30e
 ---
 
-At 6 a.m. on 6 November 1917 the 1st and 2nd Divisions of the Canadian Corps went into the attack on the [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)) ridge east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). Less than three hours later the ruins of the village, which the British Army had been trying to reach since the beginning of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres) on 31 July, were in Canadian hands. To the north-west the Canadians also took the hamlets of Mosselmarkt and Goudberg. It was the third of the four stages of General [Arthur Currie](/postacie/arthur-currie)'s attack, which had begun on [26 October](/poczatek-drugiej-bitwy-pod-passchendaele). That evening Field Marshal [Douglas Haig](/postacie/douglas-haig) wrote in his diary that it was a "very important success". It cost, however, more than 2,200 killed and wounded.
+At 6 a.m. on 6 November 1917 the 1st and 2nd Divisions of the Canadian Corps went into the attack on the [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)) ridge east of [Ypres](/miejsca/ypres). Less than three hours later the ruins of the village, which the British Army had been trying to reach since the beginning of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres) on 31 July, were in Canadian hands. To the north-west the Canadians also took the hamlets of Mosselmarkt and Goudberg. It was the third of the four stages of General [Arthur Currie](/postacie/arthur-currie)'s attack, which had begun on [26 October](/poczatek-drugiej-bitwy-pod-passchendaele). That evening Field Marshal [Douglas Haig](/postacie/douglas-haig) wrote in his diary that it was a "very important success". It cost, however, more than 2,200 killed and wounded.
 
 ## Before the attack
 

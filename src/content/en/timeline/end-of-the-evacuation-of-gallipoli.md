@@ -2,7 +2,7 @@
 title: End of the evacuation of Gallipoli
 summary: On the night of 8–9 January 1916 the last British troops sailed from Helles. After eight months of fighting the Gallipoli campaign ended in Allied defeat.
 source: koniec-ewakuacji-gallipoli
-sourceHash: a853b1dd0db12d632fefbe163a5a61d793408ace
+sourceHash: de63a899207036e5e75600128895ff413b0bb964
 brief:
   - "On the night of 8–9 January 1916 the last British troops sailed from Cape Helles. Not a single Allied soldier remained on the Gallipoli peninsula."
   - "On the morning of 8 January fewer than 17,000 men were still on the cape. Admiral John de Robeck judged the weather fine, but in the evening a storm got up that made embarkation difficult."
@@ -37,4 +37,4 @@ Ottoman losses are much less certain. The Turkish official history, cited by the
 
 For the Ottoman Empire Gallipoli was one of the greatest victories of the whole war. An army that after its defeats in the Balkan Wars had been regarded in Europe as weak had defended the Straits against the fleets and armies of two great powers. In Turkey the campaign is remembered as the victory at Çanakkale (from the Turkish name for the Dardanelles), and its best-known hero was [Mustafa Kemal](/postacie/mustafa-kemal), later the founder of the Republic of Turkey. The British official history does justice to the Turkish soldier, who did not excel in attack but defended himself "with grim courage", and to the command of the Fifth Army.
 
-The victory also had a practical dimension. The divisions from Gallipoli were freed to fight on other fronts. In 1916 veterans of the peninsula went to the Caucasus, where the Russians were just preparing an offensive on Erzurum, to Mesopotamia, and even to Galicia, where the Ottoman XV Corps fought alongside German and Austro-Hungarian troops. For the British, in turn, the end of the campaign meant that their forces would be concentrated in Egypt, where the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) had to be defended, and the Australian and New Zealand divisions, after reorganisation, sailed for France in the spring.
+The victory also had a practical dimension. The divisions from Gallipoli were freed to fight on other fronts. In 1916 veterans of the peninsula went to the Caucasus, where the Russians were just preparing an offensive on Erzurum, to Mesopotamia, and even to Galicia, where the Ottoman XV Corps fought alongside German and Austro-Hungarian troops. For the British, in turn, the end of the campaign meant that their forces would be concentrated in Egypt, where the [Suez Canal](/miejsca/kanal-sueski) had to be defended, and the Australian and New Zealand divisions, after reorganisation, sailed for France in the spring.

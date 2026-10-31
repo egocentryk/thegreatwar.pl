@@ -2,10 +2,10 @@
 title: Fighting begins at Krivolak
 summary: In late October 1915 the French 57th Division reached Krivolak on the Vardar, 30 km from Veles. It met the Bulgarians there but never reached the Serbs.
 source: poczatek-walk-pod-krivolakiem
-sourceHash: c240902ae8627315ede2e3e72ac8e36a187b7930
+sourceHash: 71a88632b2ecbc71b11096df32bf440169e439af
 ---
 
-The British chronology of the war records under 24 October 1915 the first skirmish at Krivolak in Macedonia. Krivolak was a village with a railway station on the [Vardar](https://pl.wikipedia.org/wiki/Wardar), on the line from [Salonika](https://pl.wikipedia.org/wiki/Saloniki) to Serbia, about 13 kilometres east of the mouth of the [Crna Reka](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) and about 30 kilometres south-east of [Veles](https://pl.wikipedia.org/wiki/Wełes). In the last days of October the French 57th Infantry Division arrived here, the most advanced unit of the Entente forces that were to come to Serbia's aid. At Krivolak it met the Bulgarians for the first time. The sources describe the course of these first clashes very sparingly and disagree about the dates.
+The British chronology of the war records under 24 October 1915 the first skirmish at Krivolak in Macedonia. Krivolak was a village with a railway station on the [Vardar](https://pl.wikipedia.org/wiki/Wardar), on the line from [Salonika](/miejsca/saloniki) to Serbia, about 13 kilometres east of the mouth of the [Crna Reka](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) and about 30 kilometres south-east of [Veles](https://pl.wikipedia.org/wiki/Wełes). In the last days of October the French 57th Infantry Division arrived here, the most advanced unit of the Entente forces that were to come to Serbia's aid. At Krivolak it met the Bulgarians for the first time. The sources describe the course of these first clashes very sparingly and disagree about the dates.
 
 ## Race to Veles
 

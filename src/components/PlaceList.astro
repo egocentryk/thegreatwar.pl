@@ -1,0 +1,72 @@
+---
+// The index of place pages (/miejsca, /en/places): every place with its
+// kind, front and lead.
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { frontEn, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { localPlaces } from "@/utils/places"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const en = lang === "en"
+const places = await localPlaces(lang)
+const t = {
+  pl: {
+    title: "Miejsca I wojny światowej",
+    eyebrow: "Miejsca wojny",
+    lead: "Miasta, rzeki i cieśniny, o które toczyła się wojna.",
+    text: "Dlaczego miały znaczenie, co się w nich działo i kiedy. Pod tekstem bitwy stoczone w pobliżu i wszystkie wydarzenia z kroniki, które się z nimi wiążą.",
+    description:
+      "Miejsca I wojny światowej, każde na jednej stronie: dlaczego miało znaczenie, co się w nim działo w latach 1914–1918, bitwy w pobliżu i wydarzenia z kroniki.",
+  },
+  en: {
+    title: "Places of the First World War",
+    eyebrow: "Places of the war",
+    lead: "The cities, rivers and straits the war was fought over.",
+    text: "Why they mattered, what happened there and when. Below the text, the battles fought nearby and every event of the chronicle connected with them.",
+    description:
+      "Places of the First World War, each on one page: why it mattered, what happened there in 1914–1918, the battles nearby and the events of the chronicle.",
+  },
+}[lang]
+const jsonLd = listPageLd(Astro.site!, {
+  lang,
+  path: paths(lang).places,
+  name: t.eyebrow,
+  description: t.description,
+  items: places.map((place) => place.href),
+})
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.description}
+  lang={lang}
+  alternates={en ? { pl: paths("pl").places } : { en: paths("en").places }}
+  jsonLd={jsonLd}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow={t.eyebrow} count={places.length} level={1} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">{t.lead}</p>
+    <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">{t.text}</p>
+    <ul class="border-line mt-10 grid gap-px border-t sm:grid-cols-2 lg:grid-cols-3">
+      {
+        places.map((place) => (
+          <li class="border-line border-b py-5 sm:pr-8">
+            <a href={place.href} class="group block">
+              <span class="text-ink-soft block font-mono text-[10px] tracking-[0.2em] uppercase">
+                {en ? frontEn(place.source.data.front) : place.source.data.front}
+              </span>
+              <span class="font-display text-ink group-hover:text-signal mt-1 block text-2xl transition-colors">{place.name}</span>
+              <span class="text-ink-soft mt-2 block text-sm leading-6">{place.summary}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</BaseLayout>

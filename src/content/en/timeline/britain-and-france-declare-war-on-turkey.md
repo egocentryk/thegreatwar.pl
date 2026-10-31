@@ -2,7 +2,7 @@
 title: Britain and France declare war on Turkey
 summary: On 5 November 1914 Britain and France declared war on Turkey. London abandoned its century-old policy of defending the Ottoman Empire against Russia.
 source: wielka-brytania-i-francja-wypowiadaja-wojne-turcji
-sourceHash: bf93e1f2d07a082e480e539800ab7c78ff1187cb
+sourceHash: 42c417a8c82810c868c0530783bff1e080886320
 brief:
   - "On 5 November 1914 Britain and France declared war on the Ottoman Empire, three days after Russia. At sea the British had already been fighting the Turks for several days."
   - "The Ottoman government had not met the Allied demand to expel the German military and naval missions. On 3 November British and French warships bombarded the forts at the entrance to the Dardanelles."
@@ -29,6 +29,6 @@ France had vast interests of its own in the Ottoman Empire. It was Turkey's larg
 
 ## Consequences
 
-War with Turkey opened several new fronts for Great Britain. On 5 November London announced the annexation of Cyprus. Egypt, where [martial law had already been introduced](/stan-wojenny-w-egipcie), became a British protectorate in December, and its defence, especially of the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski), became one of Britain's main tasks in the Middle East. At the head of the Persian Gulf there was already [Indian Expeditionary Force "D"](/indyjski-korpus-ekspedycyjny-d-w-bahrajnie), which was to protect British oil interests and take Basra. Thus began the [Mesopotamian campaign](https://pl.wikipedia.org/wiki/Kampania_mezopotamska).
+War with Turkey opened several new fronts for Great Britain. On 5 November London announced the annexation of Cyprus. Egypt, where [martial law had already been introduced](/stan-wojenny-w-egipcie), became a British protectorate in December, and its defence, especially of the [Suez Canal](/miejsca/kanal-sueski), became one of Britain's main tasks in the Middle East. At the head of the Persian Gulf there was already [Indian Expeditionary Force "D"](/indyjski-korpus-ekspedycyjny-d-w-bahrajnie), which was to protect British oil interests and take Basra. Thus began the [Mesopotamian campaign](https://pl.wikipedia.org/wiki/Kampania_mezopotamska).
 
 The most important consequence, however, proved to be the Dardanelles. The closure of the Straits cut Russia off from its Western allies, and the idea of forcing them gave no peace to the First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill). In 1915 it led to the naval attack on the Dardanelles and to the [Gallipoli campaign](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli). The war, which for London began with a few salvoes in the Aegean and the Red Sea, ended with the break-up of the Ottoman Empire.

@@ -2,10 +2,10 @@
 title: Order to evacuate Suvla and Anzac
 summary: On 8 December 1915 an order from London reached the Dardanelles. The Cabinet had decided to evacuate Suvla and Anzac and to hold Cape Helles for the time being.
 source: rozkaz-ewakuacji-suvli-i-anzac
-sourceHash: 0e810c94ebae5345eeeecaac9888cd6bf03db717
+sourceHash: 29f8a994523d46806708e740c918fad77a4ad95f
 ---
 
-At 9.30 a.m. on 8 December 1915 General William Birdwood, commander of the Dardanelles Army, received at his headquarters on the island of [Imbros](https://pl.wikipedia.org/wiki/Imroz) a telegram from Lord [Kitchener](/postacie/horatio-kitchener): "The Cabinet has decided to evacuate the positions at Suvla and Anzac at once. Helles will be held for the present." The decision had been taken in London the day before, on 7 December, but the telegram arrived late. It had been sent to the commander-in-chief, General Charles Monro, in a new cipher to which only he had the key, and Monro had just sailed from [Mudros](https://pl.wikipedia.org/wiki/Mudros) for [Salonika](https://pl.wikipedia.org/wiki/Saloniki). The War Office had to repeat the message in the old cipher, and only then was it read on Imbros. After eight months of fighting on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula, sentence had been passed on two of the three British bridgeheads.
+At 9.30 a.m. on 8 December 1915 General William Birdwood, commander of the Dardanelles Army, received at his headquarters on the island of [Imbros](https://pl.wikipedia.org/wiki/Imroz) a telegram from Lord [Kitchener](/postacie/horatio-kitchener): "The Cabinet has decided to evacuate the positions at Suvla and Anzac at once. Helles will be held for the present." The decision had been taken in London the day before, on 7 December, but the telegram arrived late. It had been sent to the commander-in-chief, General Charles Monro, in a new cipher to which only he had the key, and Monro had just sailed from [Mudros](https://pl.wikipedia.org/wiki/Mudros) for [Salonika](/miejsca/saloniki). The War Office had to repeat the message in the old cipher, and only then was it read on Imbros. After eight months of fighting on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula, sentence had been passed on two of the three British bridgeheads.
 
 ## Two weeks of hesitation
 

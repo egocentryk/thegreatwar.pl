@@ -25,7 +25,7 @@ brief:
   - "Z tych walk i z natarcia z 10 listopada zrodził się w Niemczech mit Langemarck o młodzieży idącej na śmierć ze śpiewem. Historycy dawno podważyli tę wersję."
 ---
 
-Bitwa pod Langemarck toczyła się od 21 do 24 października 1914 roku na północ i północny wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper) we Flandrii. Była pierwszym etapem [I bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) ruszył 21 października do natarcia w stronę Brugii, przekonany, że ma przed sobą najwyżej jeden korpus niemiecki. Natrafił na kilka nowych niemieckich korpusów rezerwowych, które same nacierały na Ypres. Brytyjczycy zatrzymali się już pierwszego dnia i przeszli do obrony, a przez kolejne trzy dni odpierali ataki młodych, słabo wyszkolonych żołnierzy niemieckich, zadając im ogromne straty. Z tych walk i z późniejszego natarcia z 10 listopada zrodził się w Niemczech mit Langemarck.
+Bitwa pod Langemarck toczyła się od 21 do 24 października 1914 roku na północ i północny wschód od [Ypres](/miejsca/ypres) we Flandrii. Była pierwszym etapem [I bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) ruszył 21 października do natarcia w stronę Brugii, przekonany, że ma przed sobą najwyżej jeden korpus niemiecki. Natrafił na kilka nowych niemieckich korpusów rezerwowych, które same nacierały na Ypres. Brytyjczycy zatrzymali się już pierwszego dnia i przeszli do obrony, a przez kolejne trzy dni odpierali ataki młodych, słabo wyszkolonych żołnierzy niemieckich, zadając im ogromne straty. Z tych walk i z późniejszego natarcia z 10 listopada zrodził się w Niemczech mit Langemarck.
 
 ## Nazwa i daty
 

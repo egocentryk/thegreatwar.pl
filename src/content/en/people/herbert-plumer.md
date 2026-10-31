@@ -6,10 +6,10 @@ country: United Kingdom
 birthPlace: London
 deathPlace: London
 source: herbert-plumer
-sourceHash: 9a99c62b91329795310293a1fe7aef09880f4331
+sourceHash: 00cff273cc178ff6d5fbc1e2620262c01c80221f
 ---
 
-Sir Herbert Plumer, after the war a field marshal and Viscount Plumer of Messines, looked like a caricature of an old British general: short, plump, with a white moustache and a ruddy face. Behind this appearance, however, was a commander whom many historians regard as the best army commander in the British Expeditionary Force. For nearly three years he held the [Ypres](https://pl.wikipedia.org/wiki/Ieper) salient, the most hated sector of the front, with the Second Army. In June 1917 he took Messines Ridge in one of the best-prepared attacks of the war, and in September and October, in the Third Battle of Ypres, he led a series of limited attacks that for a few weeks gave the initiative back to the British. The soldiers called him "Daddy" or "Plum" and trusted him more than almost any other senior commander.
+Sir Herbert Plumer, after the war a field marshal and Viscount Plumer of Messines, looked like a caricature of an old British general: short, plump, with a white moustache and a ruddy face. Behind this appearance, however, was a commander whom many historians regard as the best army commander in the British Expeditionary Force. For nearly three years he held the [Ypres](/miejsca/ypres) salient, the most hated sector of the front, with the Second Army. In June 1917 he took Messines Ridge in one of the best-prepared attacks of the war, and in September and October, in the Third Battle of Ypres, he led a series of limited attacks that for a few weeks gave the initiative back to the British. The soldiers called him "Daddy" or "Plum" and trusted him more than almost any other senior commander.
 
 ## Before the war
 

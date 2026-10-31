@@ -2,10 +2,10 @@
 title: Start of the eleventh battle of the Isonzo
 summary: On 17 August 1917 Italian batteries on the Isonzo were firing almost as in a barrage. The Eleventh Battle of the Isonzo, Italy's largest offensive, began.
 source: poczatek-jedenastej-bitwy-nad-isonzo
-sourceHash: 2f4dcc56c249f113ae4e7fb5eded56adfa6e545c
+sourceHash: eea3637d472cd06ffa043c38ac5826288fae0814
 ---
 
-On 17 August 1917, on many sectors of the front on the [Isonzo](https://pl.wikipedia.org/wiki/Socza), the Italian batteries were firing ranging fire so dense that, as General [Luigi Cadorna](/postacie/luigi-cadorna) later wrote, it differed little from a barrage. For several days the Austrians had had no doubt about what was coming. The Italian official history counts the Eleventh Battle of the Isonzo from this day; it was the largest offensive the Italian army carried out in this war. The full bombardment from [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic began at dawn on 18 August, and the infantry attacked on the morning of 19 August. Cadorna threw 51 divisions into the battle, three quarters of his infantry, and, according to the Austrian official history, about 5,200 guns and trench mortars. According to the same source, the Austro-Hungarian Isonzo Army had about 1,900 guns and 300 mortars during the battle.
+On 17 August 1917, on many sectors of the front on the [Isonzo](/bitwy/bitwy-nad-isonzo), the Italian batteries were firing ranging fire so dense that, as General [Luigi Cadorna](/postacie/luigi-cadorna) later wrote, it differed little from a barrage. For several days the Austrians had had no doubt about what was coming. The Italian official history counts the Eleventh Battle of the Isonzo from this day; it was the largest offensive the Italian army carried out in this war. The full bombardment from [Tolmin](https://pl.wikipedia.org/wiki/Tolmin) to the Adriatic began at dawn on 18 August, and the infantry attacked on the morning of 19 August. Cadorna threw 51 divisions into the battle, three quarters of his infantry, and, according to the Austrian official history, about 5,200 guns and trench mortars. According to the same source, the Austro-Hungarian Isonzo Army had about 1,900 guns and 300 mortars during the battle.
 
 ## The second attempt this year
 

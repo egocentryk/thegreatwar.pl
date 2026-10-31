@@ -2,10 +2,10 @@
 title: Martial law in Salonika
 summary: On 3 June 1916, King Constantine's name day, Gen. Sarrail declared a state of siege. Entente troops seized the offices, post office and telegraph in Salonika.
 source: stan-wojenny-w-salonikach
-sourceHash: b7354bc3c7e4f3980d61e8463f490fa654b72370
+sourceHash: 49acee57bbe3fa30bd1f33ad8b67944bfe0165d0
 ---
 
-On 3 June 1916, or 21 May by the Julian calendar then used in Greece, General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied forces at [Salonika](https://pl.wikipedia.org/wiki/Saloniki), declared a state of siege. The French *état de siège* meant martial law in practice: the Allied military took over authority in the city and the Greek administration lost its powers. The British chronology of the war records that the commander-in-chief proclaimed martial law "in the town of Salonika", but the letter Sarrail handed that day to the commander of the Greek III Corps, General Konstantinos Moschopoulos, and to the prefect of Salonika spoke of a state of siege "in the whole of Macedonia". It was the first clear consequence of the surrender of [Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) to the Bulgarians and Germans.
+On 3 June 1916, or 21 May by the Julian calendar then used in Greece, General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied forces at [Salonika](/miejsca/saloniki), declared a state of siege. The French *état de siège* meant martial law in practice: the Allied military took over authority in the city and the Greek administration lost its powers. The British chronology of the war records that the commander-in-chief proclaimed martial law "in the town of Salonika", but the letter Sarrail handed that day to the commander of the Greek III Corps, General Konstantinos Moschopoulos, and to the prefect of Salonika spoke of a state of siege "in the whole of Macedonia". It was the first clear consequence of the surrender of [Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) to the Bulgarians and Germans.
 
 ## Approval from Paris
 

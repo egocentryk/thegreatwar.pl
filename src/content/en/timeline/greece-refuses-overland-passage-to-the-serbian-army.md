@@ -2,10 +2,10 @@
 title: Greece refuses overland passage to the Serbian army
 summary: In early April 1916 the Skouloudis government refused to let the Serbian army travel from Corfu to Salonika by rail through Greece. The Serbs went by sea.
 source: grecja-odmawia-przejazdu-armii-serbskiej-ladem
-sourceHash: 8338281420cbb3135271041add25e3daceced110
+sourceHash: 1e4271cccbc1007ae1db113f678167cbcc96cbcb
 ---
 
-The British chronology of the war records under 3 April 1916 that the Greek government refused consent to the transport of the Serbian army from [Corfu](https://pl.wikipedia.org/wiki/Korfu) to [Salonika](https://pl.wikipedia.org/wiki/Saloniki) by land. The British official history of the operations in Macedonia gives the same date: on 3 April France and Britain met with an "indignant refusal" from Athens. In Greece, which used the Julian calendar, it was 21 March. The British writer George F. Abbott, sympathetic to King Constantine, describes the conversation in which the refusal was given under 5 April. All the sources agree that by the first days of April the matter had been settled.
+The British chronology of the war records under 3 April 1916 that the Greek government refused consent to the transport of the Serbian army from [Corfu](/miejsca/korfu) to [Salonika](/miejsca/saloniki) by land. The British official history of the operations in Macedonia gives the same date: on 3 April France and Britain met with an "indignant refusal" from Athens. In Greece, which used the Julian calendar, it was 21 March. The British writer George F. Abbott, sympathetic to King Constantine, describes the conversation in which the refusal was given under 5 April. All the sources agree that by the first days of April the matter had been settled.
 
 ## Rail instead of sea
 

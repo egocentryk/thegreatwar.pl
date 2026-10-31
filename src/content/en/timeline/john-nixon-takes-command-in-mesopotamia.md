@@ -2,7 +2,7 @@
 title: John Nixon takes command in Mesopotamia
 summary: On 18 March 1915 General Sir John Nixon became commander of the British forces in Mesopotamia. Force D was to grow to two divisions.
 source: john-nixon-dowodca-w-mezopotamii
-sourceHash: 5897a68e4a3f47ae81f48ab552bc5631c73aa449
+sourceHash: 3cf6f48feb4f86ffedab94d10e37523f567e9c40
 ---
 
 On 18 March 1915 General Sir John Nixon was appointed commander-in-chief of the British and Indian forces in [Mesopotamia](https://pl.wikipedia.org/wiki/Mezopotamia). He replaced Lieutenant-General Arthur Barrett, who since November 1914 had [commanded Indian Expeditionary Force D](/barrett-obejmuje-dowodztwo-w-mezopotamii). The change was linked to the expansion of the forces on the Persian Gulf. An army corps of two infantry divisions was to be formed from a single division.
@@ -17,7 +17,7 @@ The Government of India, which was responsible for the Mesopotamian expedition, 
 
 John Eccles Nixon was 57 and one of the most experienced generals of the Indian Army. He was born in 1857 in England, passed through the Royal Military College at Sandhurst and had been an officer since 1875, spending most of his service in India. He fought in the Second Anglo-Afghan War and on the North-West Frontier, and during the Boer War he commanded a cavalry brigade. He was later Inspector of Cavalry and a divisional commander, from 1912 commanded the Southern Army in India, and in February 1915 took over the Northern Army.
 
-Before leaving he received instructions from the Commander-in-Chief in India, General Sir Beauchamp Duff. He was to secure full British control of lower Mesopotamia, that is the whole Ottoman vilayet of Basra, and the safety of the oilfields and the pipeline in Persia. Duff also told him to prepare a plan for a possible advance on [Baghdad](https://pl.wikipedia.org/wiki/Bagdad). The strategy of the expedition was shaped in India, largely without consulting London, which was then preoccupied with the Dardanelles.
+Before leaving he received instructions from the Commander-in-Chief in India, General Sir Beauchamp Duff. He was to secure full British control of lower Mesopotamia, that is the whole Ottoman vilayet of Basra, and the safety of the oilfields and the pipeline in Persia. Duff also told him to prepare a plan for a possible advance on [Baghdad](/miejsca/bagdad). The strategy of the expedition was shaped in India, largely without consulting London, which was then preoccupied with the Dardanelles.
 
 ## What came next
 

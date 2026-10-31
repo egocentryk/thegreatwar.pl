@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 października 1915 roku w Londynie ostatni raz zebrał się Komitet Dardanelski, gremium brytyjskiego rządu, które od [pierwszego posiedzenia 7 czerwca](/pierwsze-posiedzenie-komitetu-dardanelskiego) kierowało prowadzeniem wojny. W katalogu brytyjskiego Archiwum Narodowego protokoły komitetu kończą się na tym dniu, a od 3 listopada zbierał się już nowy, mniejszy Komitet Wojenny. Ostatnie posiedzenie poświęcono nie Gallipoli, lecz Serbii i wyprawie do [Salonik](https://pl.wikipedia.org/wiki/Saloniki). Dzień wcześniej, 29 października, w Downing Street odbyła się konferencja z francuskim naczelnym wodzem, generałem [Josephem Joffre’em](/postacie/joseph-joffre), i to jego żądania ministrowie musieli teraz rozstrzygnąć.
+30 października 1915 roku w Londynie ostatni raz zebrał się Komitet Dardanelski, gremium brytyjskiego rządu, które od [pierwszego posiedzenia 7 czerwca](/pierwsze-posiedzenie-komitetu-dardanelskiego) kierowało prowadzeniem wojny. W katalogu brytyjskiego Archiwum Narodowego protokoły komitetu kończą się na tym dniu, a od 3 listopada zbierał się już nowy, mniejszy Komitet Wojenny. Ostatnie posiedzenie poświęcono nie Gallipoli, lecz Serbii i wyprawie do [Salonik](/miejsca/saloniki). Dzień wcześniej, 29 października, w Downing Street odbyła się konferencja z francuskim naczelnym wodzem, generałem [Josephem Joffre’em](/postacie/joseph-joffre), i to jego żądania ministrowie musieli teraz rozstrzygnąć.
 
 ## Rząd, który nie umiał decydować
 

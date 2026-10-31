@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rano 4 lutego 1915 roku żołnierze broniący środkowego odcinka [Kanału Sueskiego](https://pl.wikipedia.org/wiki/Kanał_Sueski) szykowali się na ponowienie tureckiego ataku. Gdy jednak wstał dzień, okazało się, że główne siły przeciwnika zniknęły. Po [nieudanej próbie przeprawy](/poczatek-walk-nad-kanalem-sueskim) z poprzedniego dnia osmańska armia wycofała się w nocy w głąb pustyni Synaj. Nad kanałem zostały tylko pojedyncze oddziały i strzelcy wyborowi.
+Rano 4 lutego 1915 roku żołnierze broniący środkowego odcinka [Kanału Sueskiego](/miejsca/kanal-sueski) szykowali się na ponowienie tureckiego ataku. Gdy jednak wstał dzień, okazało się, że główne siły przeciwnika zniknęły. Po [nieudanej próbie przeprawy](/poczatek-walk-nad-kanalem-sueskim) z poprzedniego dnia osmańska armia wycofała się w nocy w głąb pustyni Synaj. Nad kanałem zostały tylko pojedyncze oddziały i strzelcy wyborowi.
 
 ## Decyzja o odwrocie
 

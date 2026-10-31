@@ -2,10 +2,10 @@
 title: Greece rejects the Entente demand
 summary: On 11 December 1915 Athens replied to the Allies. The Greeks kept Salonika and Fort Kara Burun but promised not to hinder the Allied defence of the city.
 source: grecja-odrzuca-zadanie-ententy
-sourceHash: ef4a31978acbdf8b0c83ea6aeaa7674a30569a9b
+sourceHash: c2ef6d5007626400118a1bd5b51effcf6065406d
 ---
 
-The British chronology of the war records under 11 December 1915, or 28 November by the Julian calendar, that the Greek government rejected the Entente demand to withdraw Greek troops from [Salonika](https://pl.wikipedia.org/wiki/Saloniki). This is true, but only half true. The reply that General [Maurice Sarrail](/postacie/maurice-sarrail) received that day through a Greek envoy, Lieutenant-Colonel Pallis, was a compromise negotiated the previous evening in Athens. Greece did not give up the city, but undertook not to hinder the Allies in its defence.
+The British chronology of the war records under 11 December 1915, or 28 November by the Julian calendar, that the Greek government rejected the Entente demand to withdraw Greek troops from [Salonika](/miejsca/saloniki). This is true, but only half true. The reply that General [Maurice Sarrail](/postacie/maurice-sarrail) received that day through a Greek envoy, Lieutenant-Colonel Pallis, was a compromise negotiated the previous evening in Athens. Greece did not give up the city, but undertook not to hinder the Allies in its defence.
 
 ## The evening of 10 December
 

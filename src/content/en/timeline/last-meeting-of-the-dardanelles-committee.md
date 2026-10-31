@@ -2,10 +2,10 @@
 title: Last meeting of the Dardanelles Committee
 summary: On 30 October 1915 the Dardanelles Committee met for the last time. Under pressure from Joffre it agreed to support the French in Macedonia.
 source: ostatnie-posiedzenie-komitetu-dardanelskiego
-sourceHash: 1c2f337d42f0189913dbd62b7803b84876d0993a
+sourceHash: 41bd6794d5e464e6e8c5d495cf849219dc6bfef4
 ---
 
-On 30 October 1915 the Dardanelles Committee, the body of the British government which since its [first meeting on 7 June](/pierwsze-posiedzenie-komitetu-dardanelskiego) had directed the conduct of the war, met in London for the last time. In the catalogue of the British National Archives the committee's minutes end on that day, and from 3 November a new, smaller War Committee was meeting instead. The last meeting was devoted not to Gallipoli but to Serbia and the expedition to [Salonika](https://pl.wikipedia.org/wiki/Saloniki). The day before, 29 October, a conference had been held in Downing Street with the French commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), and it was his demands that the ministers now had to decide on.
+On 30 October 1915 the Dardanelles Committee, the body of the British government which since its [first meeting on 7 June](/pierwsze-posiedzenie-komitetu-dardanelskiego) had directed the conduct of the war, met in London for the last time. In the catalogue of the British National Archives the committee's minutes end on that day, and from 3 November a new, smaller War Committee was meeting instead. The last meeting was devoted not to Gallipoli but to Serbia and the expedition to [Salonika](/miejsca/saloniki). The day before, 29 October, a conference had been held in Downing Street with the French commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), and it was his demands that the ministers now had to decide on.
 
 ## A government that could not decide
 
